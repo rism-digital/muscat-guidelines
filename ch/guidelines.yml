@@ -173,14 +173,20 @@ doc:
           - title: "599"
             helpfile: "599"  
             index: true  
-  - title: "doc_cataloguing_collections"
-    helpfile: "collections"  
-  - title: "doc_templates"
-    helpfile: "templates"  
-  - title: "doc_functions"
+  - title: "doc_cataloguing"
     sections:
-      - title: "doc_functions"
-        helpfile: "functions"
+      - title: "doc_cat_collections"
+        helpfile: "cat_collections"  
+      - title: "doc_cat_templates"
+        helpfile: "cat_templates"  
+      - title: "doc_cat_authorities"
+        helpfile: "cat_authorities"
+  - title: "doc_editor"
+    sections:
+      - title: "doc_edit_functions"
+        helpfile: "edit_functions"
+      - title: "doc_edit_workflow"
+        helpfile: "edit_workflow"
   - title: "doc_abbreviations"
     sections:
       - title: "doc_abbr_general"
