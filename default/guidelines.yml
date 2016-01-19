@@ -85,8 +85,8 @@ doc:
           - title: "600"
             helpfile: "600" 
             index: true
-          - title: "130"
-            helpfile: "130"
+          - title: "240"
+            helpfile: "240"
             index: true
           - title: "730"
             helpfile: "730"
@@ -97,8 +97,8 @@ doc:
           - title: "505"
             helpfile: "505"
             index: true
-          - title: "594"
-            helpfile: "594"
+          - title: "598"
+            helpfile: "598"
             index: true
           - title: "653"
             helpfile: "653"
