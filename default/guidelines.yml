@@ -3,6 +3,8 @@
 header: "header"
 footer: "footer"
 tag_index: true
+lang: ["en", "de"]
+version: "3.2"
 
 doc:
   chapters:
@@ -67,9 +69,6 @@ doc:
             index: true
           - title: "592"
             helpfile: "592"
-            index: true
-          - title: "563"
-            helpfile: "563"
             index: true
           - title: "525"
             helpfile: "525"
