@@ -12,7 +12,7 @@ doc:
     helpfile: "introduction"
   - title: "doc_masks"
     sections:
-      - title: "library"
+      - title: "doc_library"
         subsections:
           - title: "852"
             helpfile: "852"
@@ -20,7 +20,7 @@ doc:
           - title: "506"
             helpfile: "506"
             index: true
-      - title: "provenance"
+      - title: "doc_provenance"
         subsections:
           - title: "561"
             helpfile: "561"
@@ -28,7 +28,7 @@ doc:
           - title: "541"
             helpfile: "541"
             index: true
-      - title: "linkage"
+      - title: "doc_linkage"
         subsections:
           - title: "772"
             helpfile: "772"
@@ -39,7 +39,7 @@ doc:
           - title: "787"
             helpfile: "787"
             index: true
-      - title: "diplomatic_title"
+      - title: "doc_diplomatic_title"
         subsections:
           - title: "245"
             helpfile: "245"
@@ -47,7 +47,7 @@ doc:
           - title: "246"
             helpfile: "246"
             index: true
-      - title: "physical_description"
+      - title: "doc_physical_description"
         subsections:
           - title: "593"
             helpfile: "593"
@@ -70,16 +70,13 @@ doc:
           - title: "592"
             helpfile: "592"
             index: true
-          - title: "563"
-            helpfile: "563"
-            index: true
           - title: "525"
             helpfile: "525"
             index: true
           - title: "500"
             helpfile: "500" 
             index: true 
-      - title: "content"
+      - title: "doc_content"
         subsections:
           - title: "100"
             helpfile: "100"
@@ -115,12 +112,12 @@ doc:
           - title: "546"
             helpfile: "546"
             index: true          
-      - title: "incipit"
+      - title: "doc_incipit"
         subsections:
           - title: "031"
             helpfile: "031"
             index: true
-      - title: "bibliographical_reference"
+      - title: "doc_bibliographical_reference"
         subsections:
           - title: "690"
             helpfile: "690"
@@ -131,7 +128,7 @@ doc:
           - title: "691"
             helpfile: "691"  
             index: true    
-      - title: "added_entries"
+      - title: "doc_added_entries"
         subsections:
           - title: "700"
             helpfile: "700"
@@ -142,7 +139,7 @@ doc:
           - title: "508"
             helpfile: "508"  
             index: true   
-      - title: "performance"
+      - title: "doc_performance"
         subsections:
           - title: "651"
             helpfile: "651"
@@ -153,7 +150,7 @@ doc:
           - title: "511"
             helpfile: "511"  
             index: true    
-      - title: "date"
+      - title: "doc_date"
         subsections:
           - title: "033"
             helpfile: "033"
@@ -161,7 +158,7 @@ doc:
           - title: "518"
             helpfile: "518"  
             index: true    
-      - title: "administration"
+      - title: "doc_administration"
         subsections:
           - title: "001"
             helpfile: "001"
