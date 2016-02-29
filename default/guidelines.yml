@@ -3,6 +3,8 @@
 header: "header"
 footer: "footer"
 tag_index: true
+lang: ["en", "de"]
+version: "3.2"
 
 doc:
   chapters:
