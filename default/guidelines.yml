@@ -4,7 +4,7 @@ header: "header"
 footer: "footer"
 tag_index: true
 lang: ["en", "de"]
-version: "3.2"
+version: "3.5"
 
 doc:
   chapters:
@@ -108,6 +108,9 @@ doc:
             index: true
           - title: "546"
             helpfile: "546"
+            index: true          
+          - title: "856"
+            helpfile: "856"
             index: true          
       - title: "doc_incipit"
         subsections:
