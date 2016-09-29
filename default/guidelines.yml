@@ -20,11 +20,11 @@ doc:
           - title: "591"
             helpfile: "591"
             index: true
-          - title: "506"
-            helpfile: "506"
-            index: true
           - title: "035"
             helpfile: "035"
+            index: true
+          - title: "506"
+            helpfile: "506"
             index: true
       - title: "doc_provenance"
         subsections:
@@ -36,9 +36,9 @@ doc:
             index: true
       - title: "doc_linkage"
         subsections:
-          - title: "772"
-            helpfile: "772"
-            index: true
+#          - title: "772"
+#            helpfile: "772"
+#            index: true
           - title: "773"
             helpfile: "773"
             index: true
