@@ -45,7 +45,18 @@ doc:
           - title: "787"
             helpfile: "787"
             index: true
-      - title: "doc_diplomatic_title"
+      - title: "doc_people"
+        subsections:
+          - title: "100"
+            helpfile: "100"
+            index: true
+          - title: "700"
+            helpfile: "700"
+            index: true
+          - title: "710"
+            helpfile: "710"
+            index: true
+      - title: "doc_title"
         subsections:
           - title: "245"
             helpfile: "245"
@@ -53,42 +64,14 @@ doc:
           - title: "246"
             helpfile: "246"
             index: true
-      - title: "doc_physical_description"
-        subsections:
-          - title: "593"
-            helpfile: "593"
+          - title: "240"
+            helpfile: "240"
             index: true
-          - title: "300"
-            helpfile: "300"
+          - title: "690"
+            helpfile: "690"
             index: true
-          - title: "340"
-            helpfile: "340"
-            index: true
-          - title: "590"
-            helpfile: "590"
-            index: true
-          - title: "260"
-            helpfile: "260"
-            index: true
-          - title: "028"
-            helpfile: "028"
-            index: true
-          - title: "592"
-            helpfile: "592"
-            index: true
-          - title: "525"
-            helpfile: "525"
-            index: true
-          - title: "500"
-            helpfile: "500" 
-            index: true 
-      - title: "doc_content"
-        subsections:
-          - title: "100"
-            helpfile: "100"
-            index: true
-          - title: "600"
-            helpfile: "600" 
+          - title: "383"
+            helpfile: "383"
             index: true
           - title: "730"
             helpfile: "730"
@@ -96,15 +79,20 @@ doc:
           - title: "650"
             helpfile: "650"
             index: true
+          - title: "520"
+            helpfile: "520"
+            index: true
           - title: "505"
             helpfile: "505"
+            index: true
+          - title: "594"
+            helpfile: "594"
             index: true
           - title: "598"
             helpfile: "598"
             index: true
-          - title: "653"
-            helpfile: "653"
-            index: true
+          - title: "595"
+            helpfile: "595"
             index: true
           - title: "740"
             helpfile: "740"
@@ -114,10 +102,59 @@ doc:
             index: true
           - title: "546"
             helpfile: "546"
-            index: true          
+            index: true
+#      - title: "doc_diplomatic_title"
+#        subsections:
+#          - title: "245"
+#            helpfile: "245"
+#           index: true
+#         - title: "246"
+#           helpfile: "246"
+#           index: true
+      - title: "doc_physical_description"
+        subsections:
+          - title: "593"
+            helpfile: "593"
+            index: true
+          - title: "260"
+            helpfile: "260"
+            index: true
+          - title: "033"
+            helpfile: "033"
+            index: true
+          - title: "300"
+            helpfile: "300"
+            index: true
+          - title: "590"
+            helpfile: "590"
+            index: true
+          - title: "340"
+            helpfile: "340"
+            index: true
+          - title: "028"
+            helpfile: "028"
+            index: true
+          - title: "028"
+            helpfile: "028"
+            index: true
+          - title: "592"
+            helpfile: "592"
+            index: true
+          - title: "700"
+            helpfile: "700"
+            index: true
+          - title: "710"
+            helpfile: "710"
+            index: true
+          - title: "500"
+            helpfile: "500" 
+            index: true 
+          - title: "563"
+            helpfile: "563"
+            index: true
           - title: "856"
             helpfile: "856"
-            index: true          
+            index: true
       - title: "doc_incipit"
         subsections:
           - title: "031"
@@ -125,52 +162,38 @@ doc:
             index: true
       - title: "doc_bibliographical_reference"
         subsections:
-          - title: "690"
-            helpfile: "690"
-            index: true
-          - title: "596"
-            helpfile: "596"
-            index: true
+          - title: "500"
+            helpfile: "500"  
+            index: true    
+          - title: "525"
+            helpfile: "525"  
+            index: true    
+          - title: "691"
           - title: "691"
             helpfile: "691"  
             index: true    
-      - title: "doc_added_entries"
-        subsections:
-          - title: "700"
-            helpfile: "700"
-            index: true
-          - title: "710"
-            helpfile: "710"
-            index: true
-          - title: "508"
-            helpfile: "508"  
-            index: true   
-      - title: "doc_performance"
-        subsections:
-          - title: "651"
-            helpfile: "651"
+          - title: "596"
+            helpfile: "596"
             index: true
           - title: "657"
             helpfile: "657"
             index: true
+          - title: "651"
+            helpfile: "651"
+            index: true
           - title: "511"
             helpfile: "511"  
             index: true    
-      - title: "doc_date"
-        subsections:
-          - title: "033"
-            helpfile: "033"
-            index: true
           - title: "518"
             helpfile: "518"  
             index: true    
+          - title: "856"
+            helpfile: "856"
+            index: true
       - title: "doc_administration"
         subsections:
           - title: "001"
             helpfile: "001"
-            index: true
-          - title: "007"
-            helpfile: "007"
             index: true
           - title: "040"
             helpfile: "040" 
@@ -178,6 +201,17 @@ doc:
           - title: "599"
             helpfile: "599"  
             index: true  
+
+
+#      - title: "doc_content"
+#       subsections:
+#      - title: "doc_added_entries"
+#        subsections:
+#      - title: "doc_performance"
+#       subsections:
+#      - title: "doc_date"
+#       subsections:
+
   - title: "doc_cataloguing"
     sections:
       - title: "doc_cat_collections"
@@ -192,6 +226,28 @@ doc:
         helpfile: "edit_functions"
       - title: "doc_edit_workflow"
         helpfile: "edit_workflow"
+
+  - title: "doc_personal_names"
+    sections:
+      - title: "doc_main_entry_fields"
+        subsections:
+          - title: "100"
+            helpfile: "100"
+            index: true
+#          - title: "042"
+#            helpfile: "042"
+#            index: true
+#          - title: "375"
+#            helpfile: "375"
+#            index: true
+#          - title: "043"
+#            helpfile: "043"
+#            index: true
+#          - title: "024"
+#            helpfile: "024"
+#            index: true
+      - title: "doc_numbers"
+
   - title: "doc_abbreviations"
     sections:
       - title: "doc_abbr_general"
