@@ -36,9 +36,6 @@ doc:
             index: true
       - title: "doc_linkage"
         subsections:
-#          - title: "772"
-#            helpfile: "772"
-#            index: true
           - title: "773"
             helpfile: "773"
             index: true
@@ -103,14 +100,6 @@ doc:
           - title: "546"
             helpfile: "546"
             index: true
-#      - title: "doc_diplomatic_title"
-#        subsections:
-#          - title: "245"
-#            helpfile: "245"
-#           index: true
-#         - title: "246"
-#           helpfile: "246"
-#           index: true
       - title: "doc_physical_description"
         subsections:
           - title: "593"
@@ -203,6 +192,37 @@ doc:
             index: true  
 
 
+
+
+
+  - title: "doc_main_entry_fields"
+ # Die obige Zeile müsste umbenannt werden in "Edit Default Person"
+    sections:
+      - title: "doc_main_entry_fields"
+        subsections:
+          - title: "100"
+            helpfile: "100"
+            index: true
+# Die folgenden Guidelines existieren noch nicht.
+#          - title: "042"
+#            helpfile: "042"
+#            index: true
+#          - title: "375"
+#            helpfile: "375"
+#            index: true
+          - title: "043"
+            helpfile: "043"
+            index: true
+      - title: "doc_numbers"
+        subsections:
+          - title: "852"
+            helpfile: "852"
+            index: true
+
+
+
+
+
 #      - title: "doc_content"
 #       subsections:
 #      - title: "doc_added_entries"
@@ -274,3 +294,10 @@ doc:
         helpfile: "aid_liturgical_feasts"  
       - title: "doc_aid_transposing_instruments"
         helpfile: "aid_transposing_instruments"
+
+
+
+
+#      - title: "doc_diplomatic_title"
+#        subsections:
+#          - title: "245"
