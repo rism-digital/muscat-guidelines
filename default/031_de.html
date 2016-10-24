@@ -64,9 +64,11 @@ eingetragen. <br><br><h4>Tonart, Modus (031 $r)</h4>
 
 <p>Wählen Sie einen Schlüssel aus der Auswahlliste aus. Die erste Stelle bezeichnet die Art des Schlüssels, die Zahl bezieht sich auf die entsprechende Notenlinie. Ein Bindestrich bedeutet moderne Notation, Plus bedeutet Mensuralnotation.<br><br></p><h4>Globalvorzeichen (031 $n)
 
-</h4><p>Die Globalvorzeichen werden durch das vorangestellte <b>$</b>-Zeichen kenntlich gemacht. Kreuztonarten werden mit <b>x</b>, B-Tonarten mit <b>b</b> gekennzeichnet. Anschließend folgen die erhöhten bzw. erniedrigten Töne. Fehlende Globalvorzeichen werden in eckigen Klammern ergänzt. Sind keine Globalvorzeichen vorhanden, bleibt das Feld leer.</p>
+</h4><p>Kreuztonarten werden mit <b>x</b>, B-Tonarten mit <b>b</b> gekennzeichnet. Anschließend folgen die erhöhten bzw. erniedrigten Töne. Fehlende Globalvorzeichen werden in eckigen Klammern ergänzt. Sind keine Globalvorzeichen vorhanden, bleibt das Feld leer.</p>
 
-<p>Beispiele:<br>$xF	= Ton F wird erhöht =&gt; G-Dur bzw. e-Moll<br>$bBE = Töne B und E werden erniedrigt =&gt; B-Dur bzw. g-Moll<br>$xFC[G] = Töne F und C werden erhöht. Das Stück steht jedoch eindeutig in A-Dur. Also ist die letzte Erhöhung zu ergänzen.<br><br></p><ul>
+<p>Beispiele:<br>xF	= Ton F wird erhöht =&gt; G-Dur bzw. e-Moll<br>bBE = Töne B und E werden erniedrigt =&gt; B-Dur bzw. g-Moll<br>xFC[G] = Töne F und C werden erhöht. Das Stück steht jedoch eindeutig in A-Dur. Also ist die letzte Erhöhung zu ergänzen.</p><p><br></p><p><b>Gültigkeit (031 $??)</b></p><b>
+
+Bitte diese Feld nicht verwenden! </b>(Es ist nur für Altdaten notwendig.) <p><br></p><ul>
 </ul><h4>Musikincipit (031 $p)
 
 </h4><p>Das Musikincipit wird in kodierter Form (nach dem Plaine and Easy-Code,  <a target="_blank" href="http://www.iaml.info/plaine-easie-code%29">http://www.iaml.info/plaine-easie-code</a>) eingegeben. Das Incipit sollte mindestens zwei Takte oder sechs Noten lang sein.</p>
@@ -89,10 +91,10 @@ eingetragen. <br><br><h4>Tonart, Modus (031 $r)</h4>
 <p><b>7. Taktstrich:</b><br>/      = Taktstrich<br>//     = Doppelstrich<br>//:    = Doppelstrich mit Wiederholung<br>://    = Doppelstrich mit Wiederholung<br>://:   = Doppelstrich mit Wiederholung</p><ul>
 </ul>
 
-<p><b>8. Weitere Zeichen:</b><br>t 	= Triller (steht unmittelbar hinter Tonbuchstabe)<br>+ 	= Haltebogen (steht unmittelbar hinter Tonbuchstabe nicht mit Legatobogen verwechseln)<br>() 	= Fermate (nur ein einzelner Tonbuchstabe oder eine einzelne Pause kann eingeklammert werden; Vorzeichen, Oktave etc. müssen außerhalb der Klammer stehen. Siehe auch 10. Sonderrhythmen)</p><ul>
+<p><b>8. Weitere Zeichen:</b><br>t 	= Triller (steht unmittelbar hinter Tonbuchstabe)<br>+ 	= Haltebogen (steht unmittelbar hinter Tonbuchstabe nicht mit Legatobogen verwechseln)<br>() 	= Fermate (nur ein einzelner Tonbuchstabe oder eine einzelne Pause kann eingeklammert werden; Vorzeichen, Oktave etc. müssen außerhalb der Klammer stehen. Siehe auch 10. Sonderrhythmen)</p><p>Geben Sie keine Bindebögen ein.<br></p><ul>
 </ul>
 
-<p><b>9. Balkung:</b><br>{      = Balkungsbeginn<br>}      = Balkungsende<br>&amp;  = Konventionelle Balkung&nbsp; </p><ul>
+<p><b>9. Balkung:</b><br>{      = Balkungsbeginn<br>}      = Balkungsende<br>&amp;  = Konventionelle Balkung&nbsp; <br></p><p><i>Beispiel</i>:<br>{qq6'CDEDr}</p><ul>
 </ul>
 
 <p><b>10. Sonderrhythmen:</b><br>(      = Beginn Sonderrhythmus<br>)      = Ende Sonderrhythmus</p><ul>
@@ -108,9 +110,9 @@ eigentlich so kodiert werden: 8(6ABC;3) oder 8({6ABC};3). Stattdessen ist
 folgende Abkürzung erlaubt:<br>(6ABC)<br>({6ABC})</p><ul>
 </ul>
 
-<p>Bitte nicht den rhythmischen Wert innerhalb der Klammer vergessen!!</p>
+<p>Bitte nicht den rhythmischen Wert innerhalb der Klammer vergessen!</p>
 
-<p><b>11. Verkürzte Schreibweisen:</b><br>11.1. Figurwiederholung:<br>!     = Figurbeginn bzw. Figurende<br>f     = Wiederholungsaufruf<br>Die Figur wird so häufig wiederholt, wie <b>f</b> hinter dem zweiten <b>!</b> stehen (nur innerhalb eines Taktes möglich).</p>
+<p><b>11. Verkürzte Schreibweisen:</b><br>11.1. Figurwiederholung:<br>!     = Figurbeginn bzw. Figurende<br>f     = Wiederholungsaufruf<br>Die Figur wird so häufig wiederholt, wie <b>f</b> hinter dem zweiten <b>!</b> stehen. Diese Funktion ist nur innerhalb eines Taktes möglich.</p>
 
 <p><span><i>Beispiel:</i><br> !{'8ABAG}!ff = </span>zweimalige Wiederholung </p>
 
@@ -121,10 +123,7 @@ folgende Abkürzung erlaubt:<br>(6ABC)<br>({6ABC})</p><ul>
 =     zweimalige Wiederholung des Taktes</p><ul>
 </ul>
 
-<p>11.3. Rhythmisches Muster<br>Wenn sich eine rhythmische Abfolge mehrmals wiederholt, kann sie den betroffenen Tonbuchstaben als rhythmisches Muster vorangestellt werden.</p><i>Beispiel</i>:<br>statt   8.A6B8C8.D6E8F  kann stehen 8.68ABCDEF<br>Das rhythmische Muster endet, sobald ein anderer rhythmischer Wert folgt.
-
-
-<p><b>12. Schlüssel-, Vorzeichen-, Taktwechsel:</b></p>
+<p>11.3. Rhythmisches Muster<br>Wenn sich eine rhythmische Abfolge mehrmals wiederholt, kann sie den betroffenen Tonbuchstaben als rhythmisches Muster vorangestellt werden.</p><i>Beispiel</i>:<br>statt   8.A6B8C8.D6E8F  kann stehen 8.68ABCDEF<br>Das rhythmische Muster endet, sobald ein anderer rhythmischer Wert folgt.<br><br><p><b>12. Schlüssel-, Vorzeichen-, Taktwechsel:</b></p>
 
 <p>Verwenden Sie % für Schlüsselwechsel, $ für Vorzeichenwechsel und @ für Taktwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen.</p>
 
@@ -134,10 +133,12 @@ folgende Abkürzung erlaubt:<br>(6ABC)<br>({6ABC})</p><ul>
 %C-1 '2A<br>
 %C-1 $xFC '8B<br>
 @3/2 '1C<br>
-$nBE $xFC</span></p>  
+$nBE $xFC<br><br></span></p>  
 
 
-<p><b>13. Abbreviaturen</b><br>Verkürzte Schreibweisen in den Noten, wie Tremolo auf Halbe D oder Faulenzer, müssen ihrer tatsächlichen Notierung gemäß aufgelöst werden.</p><i>Beispiel:</i><br>Tremolo Halbe auf D = {'8DDDD}<br><br><b>14. Akkorde</b><br>Einfache Akkorde eines gleichen Notenwertes werden von der höchsten zur niedrigsten Note angegeben. <br><br><i>Beispiel:<br></i>4’’C^’G^E^C<br><br><h4>Kommentar zum Musikincipit (031 $q)
+<p><b>13. Abbreviaturen</b><br>Verkürzte Schreibweisen in den Noten, wie Tremolo auf Halbe D oder Faulenzer, müssen ihrer tatsächlichen Notierung gemäß aufgelöst werden.</p><i>Beispiel:</i><br>Tremolo Halbe auf D = {'8DDDD}<br><br><b>14. Akkorde</b><br>Weder in Muscat noch im Online-Katalog können Akkorde dargestellt 
+werden. Geben Sie daher keine Akkorde an, auch wenn es generell im Plaine
+&amp; Easie Code möglich ist.&nbsp;Einfache Akkorde eines gleichen Notenwertes werden von der höchsten zur niedrigsten Note angegeben. <br><br><i>Beispiel:<br></i>4’’C^’G^E^C<br><br><h4>Kommentar zum Musikincipit (031 $q)
 
 </h4><p>Hier können Kommentare angegeben werden, wie zum Beispiel die Stimmung transponierter Instrumente, Fehler im Incipit oder vorgenommene Korrekturen.</p>
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
