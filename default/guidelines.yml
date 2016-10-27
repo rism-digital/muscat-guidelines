@@ -79,8 +79,6 @@ doc:
           - title: "520"
             helpfile: "520"
             index: true
-          - title: "505"
-            helpfile: "505"
             index: true
           - title: "594"
             helpfile: "594"
@@ -153,6 +151,8 @@ doc:
         subsections:
           - title: "500"
             helpfile: "500"  
+          - title: "505"
+            helpfile: "505"  
             index: true    
           - title: "525"
             helpfile: "525"  
