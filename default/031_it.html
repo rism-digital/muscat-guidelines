@@ -76,11 +76,19 @@ Testi di composizioni vocali usati come tema di una variazione o come base di un
 
 <p><u>Regole speciali per testi latini</u></p>
 
-<p>???Inserisci testi latini, sia sacri che profani. Il campo è collegato&nbsp;<span><span> all’indice <b>Titolo/incipit testuale</b>.</span> All’interno dell’indice </span><span><b>Titolo/incipit testuale</b>, un termine preceduto dall’indicazione <b>t </b>significa che puoi ottenere informazioni sul preciso contesto liturgico, versioni alternative e altre questioni. Se l’incipit testuale&nbsp;è usato come titolo uniforme, assicurati che l’ortografia è identica, ma ricordati che i testi latini nei titoli uniformi sono inseriti solo fino alla virgola. Utilizza le parentesi quadre per inserire testi latini non presenti sulla fonte ma ottenuti attraverso una ricerca.</span></p>&nbsp;<p><b>Tonalità (031 $r) </b></p>
+<p>Inserisci testi latini, sia sacri che profani. Il campo è collegato&nbsp;<span><span> all’indice <b>Titolo/incipit testuale</b>.</span> All’interno dell’indice </span><span><b>Titolo/incipit testuale</b>, un termine preceduto dall’indicazione <b>t </b>significa che puoi ottenere informazioni sul preciso contesto liturgico, versioni alternative e altre questioni. Se l’incipit testuale&nbsp;è usato come titolo uniforme, assicurati che l’ortografia è identica, ma ricordati che i testi latini nei titoli uniformi sono inseriti solo fino alla virgola. Utilizza le parentesi quadre per inserire testi latini non presenti sulla fonte ma ottenuti attraverso una ricerca.</span></p>Testi latini standardizzati solitamente corrispondono ai testi nel <i>Liber usualis</i>. In RISM, questi testi contengono una virgola. Ad esempio, cercando il testo "Et in terra pax", compariranno una dozzina di opzioni, ma una sola ha una virgola e questa è utilizzata 4'800 volte nella banca-dati. Dunque è questa che cerchiamo – posto che corrisponda alla nostra fonte. Se il tuo incipit testuale è soltanto "Et in terra pax", ciò significa (1) che la tua fonte contiene solo queste parole oppure (2) che il testo nella fonte prosegue in maniera diversa che nel <i>Liber usualis</i>. Questo ovviamente è possibile, ma nella maggioranza dei casi vorrai usare la versione con la virgola.<br>&nbsp;<p><b>Tonalità (031 $r) </b></p>
 
-<p>Seleziona la tonalità o il modo dalla lista. </p>
+<p>Seleziona la tonalità o il modo dalla lista.</p><p><b>Armatura (031 $n)</b></p>
 
-<h4>&nbsp;</h4>
+
+
+<p><span>Inserisci l’armatura di chiave dell’incipit musicale. Inizia con il carattere di controllo <b>$</b>. In seconda posizione, inserisci <b>x</b> per tonalità diesizzate o <b>b</b>
+ per tonalità bemollizzate. Inserisci poi i nomi delle note che sono 
+influenzate dall’armatura di chiave. Aggiungi diesis o bemolli mancanti 
+tra parentesi quadre. Se manca l’armatura di chiave, lascia il campo 
+vuoto.</span></p>
+
+<p><i>Esempi:</i><br>$xFC (le note F e C sono diesizzate = re maggiore o si minore)<br>$bBEA (le note B, E e A sono bemollizzate = mi bemolle maggiore o do minore)<br>$bBE[A] (come sopra, eccetto che in questo caso il manoscritto riporta solo i primi due bemolli) <br></p><h4>&nbsp;</h4>
 
 <p><b>Misura (031 $o) </b></p>
 
@@ -99,17 +107,9 @@ Testi di composizioni vocali usati come tema di una variazione o come base di un
 
 <p>Seleziona una chiave dalla lista. La lettera indica il tipo di chiave. Il numero si riferisce alla posizione sul rigo. Un trattino significa notazione moderna. Un segno più significa notazione mensurale. </p>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p><p><b>Validità (031 $??)</b></p>
 
-<p><b>Armatura (031 $n)</b></p>
-
-
-
-<p><span>Inserisci l’armatura di chiave dell’incipit musicale. Inizia con il carattere di controllo <b>$</b>. In seconda posizione, inserisci <b>x</b> per tonalità diesizzate o <b>b</b> per tonalità bemollizzate. Inserisci poi i nomi delle note che sono influenzate dall’armatura di chiave. Aggiungi diesis o bemolli mancanti tra parentesi quadre. Se manca l’armatura di chiave, lascia il campo vuoto.</span></p>
-
-<p><i>Esempi:</i><br>$xFC (le note F e C sono diesizzate = re maggiore o si minore)<br>$bBEA (le note B, E e A sono bemollizzate = mi bemolle maggiore o do minore)<br><span>$bBE[A] (come sopra, eccetto che in questo caso il manoscritto riporta solo i primi due bemolli) <br></span><br><b>&nbsp;</b></p>
-
-<p><b>Incipit musicale (031
+Non inserire nulla in questo campo! (È usato solo per dati vecchi.) <br><br><p><b>Incipit musicale (031
 $p) </b></p>
 
 <p>Inserisci l’incipit musicale in forma codificata utilizzando il codice Plaine &amp; Easie (vedi anche <a target="_blank" href="http://www.iaml.info/plaine-easie-code">http://www.iaml.info/plaine-easie-code</a>). L’incipit dovrebbe avere una lunghezza di almeno due battute oppure sei note.</p>
@@ -235,4 +235,12 @@ Invece, inserisci solo la nota più acuta di un accordo. Se sei curioso, in Plai
 
 <p>Aggiungi commenti come l’accordatura degli strumenti traspositori, errori nell’incipit, l’incipit testuale con l’ortografia e/o l’interpunzione originali, e ogni intervento che hai dovuto fare.</p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<p><b><br></b></p><p><b>Organico del movimento (031 $??)</b></p>
+
+<p>In questo campo puoi indicare l’organico specifico del movimento in questione (come un movimento all’interno di una complessa composizione vocale). Elenca l’organico su una linea utilizzando le abbreviazioni RISM per gli strumenti e l’ordine standardizzato (descritto in <span><b>Organico sintetico</b><b> [130/240 $m]</b>). Usa un punto e virgola per separare famiglie di strumenti.</span></p>
+
+<p><i>Esempi:</i><span> <br>
+S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]<br>
+S 2 solo; Coro; ob obl; strings, bc</span></p>
