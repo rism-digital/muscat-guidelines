@@ -283,110 +283,274 @@ doc:
           - title: "in_667"
             helpfile: "institution_667"
             index: true
-
-
-
-
-
-
-  - title: "doc_main_entry_fields"
- # Die obige Zeile müsste umbenannt werden in "Edit Default Person"
-    sections:
-      - title: "doc_main_entry_fields"
-        subsections:
-          - title: "100"
-            helpfile: "100"
-            index: true
-# Die folgenden Guidelines existieren noch nicht.
-#          - title: "042"
-#            helpfile: "042"
-#            index: true
-#          - title: "375"
-#            helpfile: "375"
-#            index: true
-          - title: "043"
-            helpfile: "043"
-            index: true
-      - title: "doc_numbers"
-        subsections:
-          - title: "852"
-            helpfile: "852"
-            index: true
-#      - title: "doc_content"
-#       subsections:
-#      - title: "doc_added_entries"
-#        subsections:
-#      - title: "doc_performance"
-#       subsections:
-#      - title: "doc_date"
-#       subsections:
-
-  - title: "doc_cataloguing"
-    sections:
-      - title: "doc_cat_collections"
-        helpfile: "cat_collections"  
-      - title: "doc_cat_templates"
-        helpfile: "cat_templates"  
-      - title: "doc_cat_authorities"
-        helpfile: "cat_authorities"
-  - title: "doc_editor"
-    sections:
-      - title: "doc_edit_functions"
-        helpfile: "edit_functions"
-      - title: "doc_edit_workflow"
-        helpfile: "edit_workflow"
-
+  - title: "doc_aid_liturgical_feasts"
   - title: "doc_personal_names"
     sections:
-      - title: "doc_main_entry_fields"
+      - title: "pe_main_entry_fields"
         subsections:
-          - title: "100"
-            helpfile: "100"
+          - title: "pe_100"
+            helpfile: "person_100"
             index: true
-#          - title: "042"
-#            helpfile: "042"
-#            index: true
-#          - title: "375"
-#            helpfile: "375"
-#            index: true
-#          - title: "043"
-#            helpfile: "043"
-#            index: true
-#          - title: "024"
-#            helpfile: "024"
-#            index: true
-      - title: "doc_numbers"
+          - title: "pe_042"
+            helpfile: "person_042"
+            index: true
+          - title: "pe_375"
+            helpfile: "person_375"
+            index: true
+          - title: "pe_043"
+            helpfile: "person_043"
+            index: true
+      - title: "pe_numbers"
+        subsections:
+          - title: "pe_024"
+            helpfile: "person_024"
+            index: true
+      - title: "pe_name_variants"
+        subsections:
+          - title: "pe_400"
+            helpfile: "person_400"
+            index: true
+      - title: "pe_relations"
+        subsections:
+          - title: "pe_500"
+            helpfile: "person_500"
+            index: true
+          - title: "pe_510"
+            helpfile: "person_510"
+            index: true
+          - title: "pe_550"
+            helpfile: "person_550"
+            index: true
+          - title: "pe_551"
+            helpfile: "person_551"
+            index: true
+          - title: "pe_667"
+            helpfile: "person_667"
+            index: true
+      - title: "pe_references"
+        subsections:
+          - title: "pe_670"
+            helpfile: "person_670"
+            index: true
+          - title: "pe_678"
+            helpfile: "person_678"
+            index: true
+          - title: "pe_680"
+            helpfile: "person_680"
+            index: true
+          - title: "pe_856"
+            helpfile: "person_856"
+            index: true
+      - title: "pe_control"
+        subsections:
+          - title: "pe_040"
+            helpfile: "person_040"
+            index: true
+          - title: "in_000"
+            helpfile: "person_000"
+            index: true
+          - title: "in_001"
+            helpfile: "person_001"
+            index: true
+          - title: "in_003"
+            helpfile: "person_003"
+            index: true
+          - title: "in_005"
+            helpfile: "person_005"
+            index: true
+  - title: "doc_places"
 
-  - title: "doc_abbreviations"
-    sections:
-      - title: "doc_abbr_general"
-        helpfile: "abbr_general"
-      - title: "doc_abbr_voices_instr"
-        helpfile: "abbr_voices_instr"
-      - title: "doc_abbr_voices_instr2"
-        helpfile: "abbr_voices_instr2"
-      - title: "doc_abbr_lang"
-        helpfile: "abbr_lang"
-      - title: "doc_abbr_dates"
-        helpfile: "abbr_dates"  
-      - title: "doc_abbr_modes"
-        helpfile: "abbr_modes"
-      - title: "doc_abbr_keys"
-        helpfile: "abbr_keys"
-      
-  - title: "doc_aid"
-    sections:
-      - title: "doc_aid_locations"
-        helpfile: "aid_locations"
-      - title: "doc_aid_titles_keywords"
-        helpfile: "aid_titles_keywords"
-      - title: "doc_aid_texts_sacred_works"
-        helpfile: "aid_texts_sacred_works"
-      - title: "doc_aid_liturgical_feasts"
-        helpfile: "aid_liturgical_feasts"  
-      - title: "doc_aid_transposing_instruments"
-        helpfile: "aid_transposing_instruments"
 
-#      - title: "doc_diplomatic_title"
-#        subsections:
-#          - title: "245"
+  - title: "li_lit"
+    sections:
+      - title: "li_main_entry_fields"
+        subsections:
+          - title: "li_100"
+            helpfile: "catalogue_100"
+            index: true
+          - title: "li_700"
+            helpfile: "catalogue_700"
+            index: true
+          - title: "li_240"
+            #helpfile: "catalogue_245"
+            # index: true
+          - title: "li_260"
+            helpfile: "catalogue_260"
+            index: true
+          - title: "li_300"
+            helpfile: "catalogue_300"
+            index: true
+          - title: "li_337"
+            helpfile: "catalogue_337"
+            index: true
+      - title: "li_subject"
+        subsections:
+          - title: "li_020"
+            helpfile: "catalogue_020"
+            index: true
+          - title: "li_022"
+            helpfile: "catalogue_022"
+            index: true
+          - title: "li_024"
+            helpfile: "catalogue_024"
+            index: true
+          - title: "li_041"
+            helpfile: "catalogue_041"
+            index: true
+          - title: "li_044"
+            helpfile: "catalogue_044"
+            index: true
+          - title: "li_710"
+            helpfile: "catalogue_710"
+            index: true
+          - title: "li_760"
+            helpfile: "catalogue_760"
+            index: true
+          - title: "li_650"
+            helpfile: "catalogue_650"
+            index: true
+          - title: "li_651"
+            helpfile: "catalogue_651"
+            index: true
+          - title: "li_780"
+            helpfile: "catalogue_780"
+            index: true
+          - title: "li_785"
+            helpfile: "catalogue_785"
+      - title: "li_note"
+        subsections:
+          - title: "li_500"
+            helpfile: "catalogue_500"
+            index: true
+          - title: "li_599"
+            helpfile: "catalogue_599"
+            index: true
+          - title: "li_856"
+            helpfile: "catalogue_856"
+            index: true
+          - title: "li_520"
+            #helpfile: "catalogue_520"
+            #index: true
+      - title: "li_control"
+        subsections:
+          - title: "li_000"
+            #helpfile: "catalogue_000"
+            #index: true
+          - title: "li_001"
+            #helpfile: "catalogue_001"
+            #index: true
+          - title: "li_003"
+            #helpfile: "catalogue_003"
+            #index: true
+          - title: "li_005"
+            #helpfile: "catalogue_005"
+            #index: true
+ 
+
+  
+
+
+
+
+
+            #  - title: "doc_main_entry_fields"
+            # # Die obige Zeile müsste umbenannt werden in "Edit Default Person"
+            #    sections:
+            #      - title: "doc_main_entry_fields"
+            #        subsections:
+            #          - title: "100"
+            #            helpfile: "100"
+            #            index: true
+            ## Die folgenden Guidelines existieren noch nicht.
+            ##          - title: "042"
+            ##            helpfile: "042"
+            ##            index: true
+            ##          - title: "375"
+            ##            helpfile: "375"
+            ##            index: true
+            #          - title: "043"
+            #            helpfile: "043"
+            #            index: true
+            #      - title: "doc_numbers"
+            #        subsections:
+            #          - title: "852"
+            #            helpfile: "852"
+            #            index: true
+            ##      - title: "doc_content"
+            ##       subsections:
+            ##      - title: "doc_added_entries"
+            ##        subsections:
+            ##      - title: "doc_performance"
+            ##       subsections:
+            ##      - title: "doc_date"
+            ##       subsections:
+            #
+            #  - title: "doc_cataloguing"
+            #    sections:
+            #      - title: "doc_cat_collections"
+            #        helpfile: "cat_collections"  
+            #      - title: "doc_cat_templates"
+            #        helpfile: "cat_templates"  
+            #      - title: "doc_cat_authorities"
+            #        helpfile: "cat_authorities"
+            #  - title: "doc_editor"
+            #    sections:
+            #      - title: "doc_edit_functions"
+            #        helpfile: "edit_functions"
+            #      - title: "doc_edit_workflow"
+            #        helpfile: "edit_workflow"
+            #
+            #  - title: "doc_personal_names"
+            #    sections:
+            #      - title: "doc_main_entry_fields"
+            #        subsections:
+            #          - title: "100"
+            #            helpfile: "100"
+            #            index: true
+            ##          - title: "042"
+            ##            helpfile: "042"
+            ##            index: true
+            ##          - title: "375"
+            ##            helpfile: "375"
+            ##            index: true
+            ##          - title: "043"
+            ##            helpfile: "043"
+            ##            index: true
+            ##          - title: "024"
+            ##            helpfile: "024"
+            ##            index: true
+            #      - title: "doc_numbers"
+            #
+            #  - title: "doc_abbreviations"
+            #    sections:
+            #      - title: "doc_abbr_general"
+            #        helpfile: "abbr_general"
+            #      - title: "doc_abbr_voices_instr"
+            #        helpfile: "abbr_voices_instr"
+            #      - title: "doc_abbr_voices_instr2"
+            #        helpfile: "abbr_voices_instr2"
+            #      - title: "doc_abbr_lang"
+            #        helpfile: "abbr_lang"
+            #      - title: "doc_abbr_dates"
+            #        helpfile: "abbr_dates"  
+            #      - title: "doc_abbr_modes"
+            #        helpfile: "abbr_modes"
+            #      - title: "doc_abbr_keys"
+            #        helpfile: "abbr_keys"
+            #      
+            #  - title: "doc_aid"
+            #    sections:
+            #      - title: "doc_aid_locations"
+            #        helpfile: "aid_locations"
+            #      - title: "doc_aid_titles_keywords"
+            #        helpfile: "aid_titles_keywords"
+            #      - title: "doc_aid_texts_sacred_works"
+            #        helpfile: "aid_texts_sacred_works"
+            #      - title: "doc_aid_liturgical_feasts"
+            #        helpfile: "aid_liturgical_feasts"  
+            #      - title: "doc_aid_transposing_instruments"
+            #        helpfile: "aid_transposing_instruments"
+            #
+            ##      - title: "doc_diplomatic_title"
+            ##        subsections:
+            ##          - title: "245"
