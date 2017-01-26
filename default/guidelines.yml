@@ -3,7 +3,7 @@
 header: "header"
 footer: "footer"
 tag_index: true
-lang: ["en", "de"]
+lang: ["en", "de", "it"]
 version: "3.6.7"
 
 doc:
