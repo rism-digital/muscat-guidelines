@@ -372,8 +372,8 @@ doc:
             helpfile: "catalogue_700"
             index: true
           - title: "li_240"
-            #helpfile: "catalogue_245"
-            # index: true
+            helpfile: "catalogue_245"
+            index: true
           - title: "li_260"
             helpfile: "catalogue_260"
             index: true
@@ -429,128 +429,64 @@ doc:
             helpfile: "catalogue_856"
             index: true
           - title: "li_520"
-            #helpfile: "catalogue_520"
-            #index: true
+            helpfile: "catalogue_520"
+            index: true
       - title: "li_control"
         subsections:
           - title: "li_000"
-            #helpfile: "catalogue_000"
-            #index: true
+            helpfile: "catalogue_000"
+            index: true
           - title: "li_001"
-            #helpfile: "catalogue_001"
-            #index: true
+            helpfile: "catalogue_001"
+            index: true
           - title: "li_003"
-            #helpfile: "catalogue_003"
-            #index: true
+            helpfile: "catalogue_003"
+            index: true
           - title: "li_005"
-            #helpfile: "catalogue_005"
-            #index: true
+            helpfile: "catalogue_005"
+            index: true
  
 
-  
+  - title: "doc_titles_and_text"
+  - title: "doc_abbreviations"
+    sections:
+    - title: "doc_abbr_voices_instr2"
+      helpfile: "abbr_voices_instr2"
+    - title: "aid_terms"
+      helpfile: "aid_locations"
+    - title: "aid_watermarks"
+      helpfile: "watermarks"
+    - title: "aid_general"
+      helpfile: "abbr_general"
+    - title: "aid_dates"
+      helpfile: "abbr_dates"
+    - title: "aid_eccl"
+      helpfile: "abbr_modes"
+    - title: "aid_keys"
+      helpfile: "abbr_keys"
+    - title: "aid_language"
+      helpfile: "abbr_lang"
 
+  - title: "doc_other"
+    sections:
+    - title: "aid_titles"
+      helpfile: "aid_titles_keywords"
+    - title: "aid_texts"
+      helpfile: "aid_texts_sacred_works"
+    - title: "aid_lit"
+      helpfile: "aid_liturgical"
+    - title: "aid_figured"
+      helpfile: "figured_bass"
+    - title: "aid_transpose"
+      helpfile: "aid_transposing_instruments"
+    - title: "aid_opera"
+      helpfile: "opera_houses"
+    - title: "aid_faq"
+      helpfile: "faqs"
+    - title: "aid_tt"
+      helpfile: "tips"
+    - title: "aid_best"
+      helpfile: "best_practises"
+    - title: "aid_error"
+      helpfile: "technical_errors"
 
-
-
-
-            #  - title: "doc_main_entry_fields"
-            # # Die obige Zeile müsste umbenannt werden in "Edit Default Person"
-            #    sections:
-            #      - title: "doc_main_entry_fields"
-            #        subsections:
-            #          - title: "100"
-            #            helpfile: "100"
-            #            index: true
-            ## Die folgenden Guidelines existieren noch nicht.
-            ##          - title: "042"
-            ##            helpfile: "042"
-            ##            index: true
-            ##          - title: "375"
-            ##            helpfile: "375"
-            ##            index: true
-            #          - title: "043"
-            #            helpfile: "043"
-            #            index: true
-            #      - title: "doc_numbers"
-            #        subsections:
-            #          - title: "852"
-            #            helpfile: "852"
-            #            index: true
-            ##      - title: "doc_content"
-            ##       subsections:
-            ##      - title: "doc_added_entries"
-            ##        subsections:
-            ##      - title: "doc_performance"
-            ##       subsections:
-            ##      - title: "doc_date"
-            ##       subsections:
-            #
-            #  - title: "doc_cataloguing"
-            #    sections:
-            #      - title: "doc_cat_collections"
-            #        helpfile: "cat_collections"  
-            #      - title: "doc_cat_templates"
-            #        helpfile: "cat_templates"  
-            #      - title: "doc_cat_authorities"
-            #        helpfile: "cat_authorities"
-            #  - title: "doc_editor"
-            #    sections:
-            #      - title: "doc_edit_functions"
-            #        helpfile: "edit_functions"
-            #      - title: "doc_edit_workflow"
-            #        helpfile: "edit_workflow"
-            #
-            #  - title: "doc_personal_names"
-            #    sections:
-            #      - title: "doc_main_entry_fields"
-            #        subsections:
-            #          - title: "100"
-            #            helpfile: "100"
-            #            index: true
-            ##          - title: "042"
-            ##            helpfile: "042"
-            ##            index: true
-            ##          - title: "375"
-            ##            helpfile: "375"
-            ##            index: true
-            ##          - title: "043"
-            ##            helpfile: "043"
-            ##            index: true
-            ##          - title: "024"
-            ##            helpfile: "024"
-            ##            index: true
-            #      - title: "doc_numbers"
-            #
-            #  - title: "doc_abbreviations"
-            #    sections:
-            #      - title: "doc_abbr_general"
-            #        helpfile: "abbr_general"
-            #      - title: "doc_abbr_voices_instr"
-            #        helpfile: "abbr_voices_instr"
-            #      - title: "doc_abbr_voices_instr2"
-            #        helpfile: "abbr_voices_instr2"
-            #      - title: "doc_abbr_lang"
-            #        helpfile: "abbr_lang"
-            #      - title: "doc_abbr_dates"
-            #        helpfile: "abbr_dates"  
-            #      - title: "doc_abbr_modes"
-            #        helpfile: "abbr_modes"
-            #      - title: "doc_abbr_keys"
-            #        helpfile: "abbr_keys"
-            #      
-            #  - title: "doc_aid"
-            #    sections:
-            #      - title: "doc_aid_locations"
-            #        helpfile: "aid_locations"
-            #      - title: "doc_aid_titles_keywords"
-            #        helpfile: "aid_titles_keywords"
-            #      - title: "doc_aid_texts_sacred_works"
-            #        helpfile: "aid_texts_sacred_works"
-            #      - title: "doc_aid_liturgical_feasts"
-            #        helpfile: "aid_liturgical_feasts"  
-            #      - title: "doc_aid_transposing_instruments"
-            #        helpfile: "aid_transposing_instruments"
-            #
-            ##      - title: "doc_diplomatic_title"
-            ##        subsections:
-            ##          - title: "245"
