@@ -4,7 +4,7 @@ header: "header"
 footer: "footer"
 tag_index: true
 lang: ["en", "de", "it"]
-version: "3.6.8"
+version: "3.6.10"
 
 doc:
   chapters:
