@@ -4,7 +4,7 @@ header: "header"
 footer: "footer"
 tag_index: true
 lang: ["en", "de", "it"]
-version: "3.6.12"
+version: "3.7.0"
 
 doc:
   chapters:
@@ -450,6 +450,8 @@ doc:
   - title: "doc_titles_and_text"
   - title: "doc_abbreviations"
     sections:
+    - title: "doc_abbr_voices_instr"
+      helpfile: "abbr_voices_instr"
     - title: "doc_abbr_voices_instr2"
       helpfile: "abbr_voices_instr2"
     - title: "aid_terms"
