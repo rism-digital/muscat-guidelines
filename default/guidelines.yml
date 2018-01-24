@@ -24,6 +24,12 @@ doc:
         helpfile: "cat_templates"
       - title: "doc_cat_authorities"
         helpfile: "cat_authorities" 
+      - title: "doc_scope_printed_music"
+        helpfile: "scope_printed_music" 
+      - title: "doc_when_new_record"
+        helpfile: "when_new_record" 
+      - title: "doc_standardized_titles_printed_music"
+        helpfile: "standardized_titles_printed_music" 
   - title: "doc_masks"
     sections:
       - title: "doc_library"
@@ -112,6 +118,9 @@ doc:
             index: true
           - title: "546"
             helpfile: "546"
+            index: true
+          - title: "026"
+            helpfile: "026"
             index: true
       - title: "doc_physical_description"
         subsections:
