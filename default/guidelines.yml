@@ -18,6 +18,8 @@ doc:
         helpfile: "searching"
   - title: "doc_cataloguing"
     sections:
+      - title: "doc_cat_language"
+        helpfile: "cat_language"
       - title: "doc_cat_collections"
         helpfile: "cat_collections"
       - title: "doc_cat_templates"
@@ -29,7 +31,9 @@ doc:
       - title: "doc_when_new_record"
         helpfile: "when_new_record" 
       - title: "doc_standardized_titles_printed_music"
-        helpfile: "standardized_titles_printed_music" 
+        helpfile: "standardized_titles_printed_music"
+      - title: "doc_mult_copies"
+        helpfile: "mult_copies"
   - title: "doc_masks"
     sections:
       - title: "doc_library"
