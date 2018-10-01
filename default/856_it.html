@@ -1,4 +1,4 @@
-Utilizza questo campo per collegare una copia digitalizzata della fonte descritta. Di preferenza, crea un collegamento verso un deposito istituzionale di documenti digitali, altrimenti verso depositi esterni come Internet Archive o IMSLP.
+Utilizza questo campo per collegare una risorsa esterna. Di preferenza, crea un collegamento verso un deposito istituzionale di documenti digitali, altrimenti verso depositi esterni come Internet Archive o IMSLP.
 
 <p><b>Risorsa esterna (856 $u)</b></p>
 
@@ -8,10 +8,8 @@ Utilizza questo campo per collegare una copia digitalizzata della fonte descritt
 
 <p><b>Nota destinata al pubblico (856 $z)</b></p>
 
-<p>Inserisci una breve nota, come “Digital copy”, oppure il numero di pagina della fonte descritta.</p>
+<p>Questo campo è obbligatorio se si inserisce un collegamento internet.</p><p>Inserisci una breve nota, come “Digital copy”, oppure il numero di pagina della fonte descritta. La nota è pubblicata nel catalogo e aiuta gli utenti a capire a cosa si riferisce il collegamento. Inserisci utilizzando la tua lingua di catalogazione.</p>
 
 <p><br></p>
 
-<p><b>Tipo di collegamento (856 $x)</b></p>
-
-<p>Se il collegamento è un collegamento IIIF, seleziona questo valore dal menu a tendina.</p>
+<p><b>Tipo di collegamento (856 $x)</b></p><p>Questo campo è obbligatorio se si inserisce un collegamento a una risorsa esterna. Seleziona tra i valori seguenti:</p><ul><li><b>Musica digitalizzata</b>: il collegamento punta a un sito internet esterno che è la digitalizzazione di un esemplare della fonte descritta in questa scheda RISM.<i><br>Example</i>:<a target="_blank" href="https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/"><br>https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/</a></li><li><b>IIIF manifest</b>: l'oggetto collegato è un oggetto JSON elaborato da un visualizzatore di immagini interno come diva.js. Il documento è inserito direttamente nella pagina web. In molti casi, nel collegamento apparre "manifest", "iiif" o simili.<i><br>Esempio</i>:<a target="_blank" href="https://iiif.lib.harvard.edu/manifests/drs:2820650"><br>https://iiif.lib.harvard.edu/manifests/drs:2820650</a></li><li><b>Altri</b>: Collegamento ad altre risorse che non sono la fonte descritta.</li></ul><p>In caso siano disponibili tanto collegamenti a un visualizzatore esterno che un IIIF manifest, ripeti il campo ed elenca separatamente ciascun collegamento.<br><i>Esempio</i>:</p><p></p><ul><li><b>Risorsa esterna</b>:&nbsp;<a target="_blank" href="http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966">http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966</a><b><br>Nota</b>: versione digitalizzata<br><span><b>Tipo di collegamento</b>: musica digitalizzata</span></li><li><b>Risorsa esterna</b>:&nbsp;<a target="_blank" href="https://iiif.lib.harvard.edu/manifests/drs:2820650">https://iiif.lib.harvard.edu/manifests/drs:2820650</a><b><br>Nota</b>: IIIF manifest<b><br></b><b>Tipo di collegamento</b>: IIIF manifest</li></ul>
