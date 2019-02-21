@@ -1,7 +1,9 @@
 <h4>Elektronische Lokalisierung und Zugriff (856)
 
-</h4><p>Verlinkung zu anderen elektronischen Ressourcen der vorliegenden Quelle. Bevorzugt wird immer die digitale Sammlung der besitzenden Institution, dann externe Repertorien (Internet Archive oder IMSLP).<br></p><p><br></p><p><b>Uniform Resource Identifier (856 $u)</b><br>Angabe einer persistenten URL.</p>
-<p><b>Für das Publikum bestimmte Fußnote (856 $z)</b><br>Beschreibung der URL, beispielsweise "Digitalisat".</p><p><b>Link Typ (856 $x)<br></b></p><p>Pflichtfeld, wenn auf eine elektronischen Ressource verlinkt wird. Wählen Sie eine Option aus dem Auswahlmenü:</p><ul><li><b>Notendigitalisat</b>: Der Link führt zu einer externe Webseite mit einer digitalisierten Version der im Titel vorliegenden Quelle.<span><i><br>Beispiel</i>:</span><a target="_blank" href="https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/"><br>https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/</a></li><li><b>IIIF manifest</b>: Das verknüpfte Objekt ist ein
+</h4><p>Verlinkung zu anderen elektronischen Ressourcen der vorliegenden Quelle. Bevorzugt wird immer die digitale Sammlung der besitzenden Institution, dann externe Repertorien (Internet Archive oder IMSLP).<br></p><p><br></p><p><b>Uniform Resource Identifier (856 $u)</b><br>Angabe einer persistenten URL.</p><p><br></p>
+<p><b>Für das Publikum bestimmte Fußnote (856 $z)</b><br>Pflichtfeld, <span>wenn Sie einen Link zu einer externen Ressource eingeben. <br></span><span>Geben Sie eine kurze Beschreibung zur Erläuterung, warum die URL für die beschriebene Quelle relevant ist. Verwenden Sie Ihre Katalogisierungssprache.</span></p><p><br><span><i>Beispiele:</i><br>Digital copy<br>Wasserzeichen auf p. 4<br>Projektwebseite<br>Detail of binding<br>Bibliographic record<br>Link to record in Bach Digital<br>Link zum Werk in Frescobaldi Thematic
+Catalogue Online<br>Entry in the church registry<br>Link to RISM ID no. 806155758, GB-Lbl Add.
+14209 f.23r-27v, a setting by N. Porpora of this text <br>Parallelquelle in GB-Ob</span></p><p><br></p><p><b>Link Typ (856 $x)</b><br>Pflichtfeld, wenn auf eine elektronischen Ressource verlinkt wird. Wählen Sie eine Option aus dem Auswahlmenü:</p><ul><li><b>Notendigitalisat</b>: Der Link führt zu einer externe Webseite mit einer digitalisierten Version der im Titel vorliegenden Quelle.<span><i><br>Beispiel</i>:</span><a target="_blank" href="https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/"><br>https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/</a></li><li><b>IIIF manifest</b>: Das verknüpfte Objekt ist ein
 maschinenlesbares JSON-Objekt, das von einem internen Dokumentbetrachter wie diva.js verarbeitet wird.
 Das Dokument ist dirket in die Webseite eingebettet. In vielen Fällen erscheint "manifest",
 "iiif" oder Ähnliches im Link.<i><br></i><span><i><i>Beispiel</i></i>:</span><a target="_blank" href="https://iiif.lib.harvard.edu/manifests/drs:2820650"><br>https://iiif.lib.harvard.edu/manifests/drs:2820650</a></li><li><b>Sonstiges</b>: Link to other resources that are not the
@@ -10,5 +12,63 @@ resource being described.</li></ul>
 <p><span>Wenn sowohl 
 Links zu einem externen Dokumentbetrachter als auch ein IIIF-Manifest verfügbar 
 sind, wiederholen Sie das Feld und führen Sie beide Links einzeln auf.<br>
-</span><span><i>Beispiel</i>:</span></p><ul><li><b>Externe
-Ressource</b>: <a target="_blank" href="http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966">http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966</a><b><br></b><b>Fußnote</b>: digitized version<b><br>Linktyp</b>: digitized music</li><li><b>Externe Ressource</b>: <a target="_blank" href="https://iiif.lib.harvard.edu/manifests/drs:2820650">https://iiif.lib.harvard.edu/manifests/drs:2820650</a><b><br></b><b>Fußnote</b>: IIIF manifest<b><br>Linktyp</b>: IIIF manifest<br></li></ul><br><br><br><br><br><br><br><br>
+</span><i><br></i></p><p><span><i>Beispiel</i>:</span></p><ul><li><b>Externe
+Ressource</b>: <a target="_blank" href="http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966">http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966</a><b><br></b><b>Fußnote</b>: digitized version<b><br>Linktyp</b>: digitized source</li><li><b>Externe Ressource</b>: <a target="_blank" href="https://iiif.lib.harvard.edu/manifests/drs:2820650">https://iiif.lib.harvard.edu/manifests/drs:2820650</a><b><br></b><b>Fußnote</b>: IIIF manifest<b><br>Linktyp</b>: IIIF manifest<br></li></ul><b>Other</b>: Verknüpfung mit anderen Ressourcen, die nicht die beschriebene Quelle sind.<br><br><h4>Kinds of external resources</h4>
+
+
+
+<p><b>Link
+type 856 $x: Digitized source</b><br>Link only to the source being described in
+the RISM record. Only use permalinks. If permalinks are unavailable, you may
+link to a page where the link to the digitized source can be easily found (such
+as a bibliographic record in a library catalog). You may include portions of
+the digitized source (such as a few pages) if a fully digitized version is not
+available.</p>
+
+
+
+<p>Links entered as digitized music appear in
+the filter "Digitized music" in the public OPAC (opac.rism.info).</p>
+
+
+
+<p><b>Link
+type 856 $x: Other</b></p>
+
+<p><span>Other kinds of external resources can include
+the following. Make sure it is always clear to the user why a link is being
+included, such as in a <b>General note
+(500)</b>.</span></p><ul><li><b>Details of sources</b><br>Details of sources that only present certain
+aspects, such as a watermark, binding, title page, or cover.</li><li><b>Catalog records/Databases</b><br>Includes bibliographic entries in external catalogs
+or entries in external databases. External scholarly databases that provide
+useful information might be included, but consider whether they might be better
+linked as secondary literature.</li><li><b>Electronic catalogs of works, online encyclopedias, digitized
+reference sources</b><span><br>In general, use the fields <b>Secondary literature (691)</b> or <b>Catalog
+of works (690)</b> to refer to online reference works such as catalogs of works
+or encyclopedias. However, as a service to users, it might be helpful to
+additionally include a direct link to a certain place within the resource
+through the 856 field.</span></li><li><b>Archival sources, historical sources</b><span><br>Includes digitized
+municipal registers or documents, digitized correspondence, historical
+newspapers. Ensure that the relevance of the archival source is first clear in
+a <b>General note (500)</b>, then include
+the direct link here. For historical newspapers, you should enter the name of
+the newspaper as secondary literature but you may link to the specific page
+where the article is found here; make sure information about the article, such
+as article title and date, is included in a note.</span></li><li><b>Websites</b><br>Includes project websites, websites of external
+funding agencies, or other relevant websites.</li><li><b>Other RISM records</b><span><br>Only link to another RISM record if the record has
+direct bearing to the source being described. Only use permalinks from the RISM
+OPAC (<a target="_blank" href="https://opac.rism.info/)">https://opac.rism.info/)</a>. It should be clear to the user why the record
+is relevant to the source. At a minimum, name the holding library, shelfmark,
+and RISM ID number in a note. Sometimes a connection to a different source might
+be better explained in a <b>General note
+(500)</b>.</span><span><br>If you refer to other RISM records elsewhere in you record, it is not required
+to link to them in this field.</span><span><br>It is not necessary to link to all concordant sources in RISM here; indeed,
+this is a futile pursuit because the number of sources grows in Muscat daily.</span></li><li><b>References to relevant sources in other libraries but not in RISM</b><br>If you want to link to a source not yet in RISM,
+consider whether it is possible for your working group to first enter the
+digitized libretto, manuscript, or treatise, or add holdings to a particular
+print. The Central Office is happy to help you if you think a source should be
+in RISM. However, it is understandable if you are unable to create a new record
+for a source first.</li><li><b>Other relevant sources</b><br>Includes concordant sources,
+concordant works, concordant arias or parts of works, sources that served as
+the basis for the source being described. Such links can be to the digitized
+objects or links to external catalogs.<br></li></ul><br><br><br><br><br><br><br><br><br><br><br>
