@@ -212,6 +212,10 @@ doc:
           - title: "599"
             helpfile: "599"  
             index: true  
+      - title: "doc_record_actions"
+        subsections:
+          - title: "doc_record_status"
+          - helpfile: "status"
   - title: "doc_aid_titles_keywords"
   - title: "doc_images"
     helpfile: "images_intro" 
