@@ -195,9 +195,6 @@ doc:
           - title: "651"
             helpfile: "651"
             index: true
-          - title: "511"
-            helpfile: "511"
-            index: true
           - title: "518"
             helpfile: "518"
             index: true
@@ -390,6 +387,9 @@ doc:
             index: true
           - title: "li_240"
             helpfile: "catalogue_240"
+            index: true
+          - title: "730"
+            helpfile: "catalogue_730"
             index: true
           - title: "li_260"
             helpfile: "catalogue_260"
