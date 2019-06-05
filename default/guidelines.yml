@@ -505,7 +505,7 @@ doc:
     - title: "aid_tt"
       helpfile: "tips"
     - title: "aid_best"
-      helpfile: "best_practises"
+      helpfile: "best_practices"
     - title: "aid_error"
       helpfile: "technical_errors"
 
