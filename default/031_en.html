@@ -202,35 +202,44 @@ key or mode from the list. <br><br></p>
 
 <h4><b>Key signature (031 $n)</b></h4>
 
+<p><span>Enter <b>x</b>
+for sharp keys or <b>b</b> for flat keys,
+followed by capital letters of the pitches to be raised or lowered. If a piece
+is clearly in a certain key but a sharp or flat is not in the key signature,
+the missing sharps or flats may be added in brackets. If there is no key
+signature, leave the field blank.</span></p>
 
-
-<p><span>Enter the
-key signature of the music incipit. It begins with the control character <b>$</b>. In the second position, enter <b>x</b> for sharp keys or <b>b</b> for flat keys. Next, enter the
-pitches to be raised or lowered according to the key signature. Add missing
-sharps or flats in square brackets. If there is no key signature, leave the
-field blank.</span></p>
-
-<i>Examples:</i><br>$xFC (the
-notes F and C are sharp = D major or B minor)<br>$bBEA (the
-notes B, E and A are flat = E-flat major or C minor)<br>$bBE[A] (as
-above, except that in this case only the first two flat signs occur in the
-manuscript) 
+<p><i>Examples:</i><br>xF = F is sharp = G major or E minor<br>bBE = B and E are flat = B-flat major or G
+minor<br>xFC[G] = F and C are sharp in the source
+but the piece is clearly in A major, so the last sharp is added in brackets</p>
 
 <h4><b><br>Time signature (031 $o) </b></h4>
 
 <p></p><p>
 
-</p><p><span>Enter
-time signatures as fractions. The following are also allowed: <b>3</b>, <b>c</b>
-(for 4/4), <b>c/</b> (for cut time or 2/2),
-<b>o</b> (for 3/1), <b>o/</b> (for 3/2). If the incipit is without a time signature, leave
-this field blank. </span></p>
+</p>
+
+<p>
+
+</p><p>Enter time signatures as fractions. The following are
+also allowed: </p>
+
+<p><b>c </b>= common time or tempus imperfectum cum
+prolatione imperfecta<b><br>c/ </b>= cut time, alla breve<br><b>3 </b>= proportio tripla; also <b>1</b>, <b>2</b>, etc.<br><b>c3 </b>= proportio tripla<br><b>c3/2<br>c. </b>= tempus imperfectum cum prolatione
+perfecta<br><b>o </b>= tempus perfectum cum prolatione
+imperfecta<br><b>o/ </b>= tempus perfectum cum prolatione minore
+diminutum<br><b>o. </b>&nbsp;= perfect
+time, tempus perfectum cum prolatione perfecta</p>
+
+<p>If the meter changes constantly, you can write the
+first time signature followed by the second, separated by a space. If the
+incipit is without a time signature, leave this field blank. </p>
+
+
 
 <p></p>
 
-<p><i>Examples</i>:<br>4/4<br>6/8 </p>
-
-
+<p><i>Examples</i>:<br>4/4<br>6/8<br>3/4 4/4</p>
 
 <p><span>If the time
 signature in the source is obviously wrong, please correct it to match the
@@ -242,9 +251,9 @@ incipit given. Include an explanatory note in the field <b>General note</b>.</sp
 
 <p>Select a clef
 from the list. <span>The
-letter<b> </b>indicates the kind of clef. The number refers to position on the
-staff line. A hyphen means modern notation. A plus sign means mensural
-notation. </span></p>
+letter<b> </b>indicates the kind of clef. </span>A hyphen means modern notation. A plus sign means mensural
+notation. The number refers to position on the
+staff line.&nbsp; </p>
 
 <p><br></p><p></p><p>
 
@@ -281,10 +290,9 @@ note / quaver / fusa<br>
 6 = 16th note / semiquaver / semi fusa <br>
 3 = 32nd note / demisemiquaver<br>
 5 = 64th note / hemidemisemiquaver<br>7 = 128th
-note / semihemidemisemiquaver <br>
-4. = dotted quarter note / dotted crotchet <br>
-8.. = double dotted eighth note / double dotted quaver <br>
-7. = neumatic notation</span></p>
+note / semihemidemisemiquaver <br>7. = neumatic notation<br></span></p><p><span>Periods are used for
+dotted notes. Multiple periods can be added to a note.<br>4. = dotted quarter note / dotted crotchet <br>
+8.. = double dotted eighth note / double dotted quaver <br><br></span></p>
 
 
 
@@ -306,11 +314,19 @@ q = appoggiatura (with rhythmic value, precedes the note name)<br>
 qq...r = several appoggiaturas or ornaments which belong together (with
 rhythmic value)</span> <br></p>
 
-<p><span><b>6. Rests</b><br>
-8- = eighth / quaver rest<br>
-2- = half / minim rest, etc.<br>
-= or =1 = one bar/measure rest<br>
-=35 = 35 bars/measures rest (don’t forget the bar lines!)</span></p>
+<p><b>6. Rests</b></p><p>
+
+</p><p>The '-' (minus sign) is for a single-note
+rest. Use '=' (equal sign) for a measure rest. For multiple measures of rest,
+follow the = with the number of measures. A bar line must be added for it to display. <br></p>
+
+<p><i>Example for an eighth-note rest:</i><span><br>
+8- <br>
+</span><br><i>Examples for one measure of rest:</i><br>=<br>=1 <br></p>
+
+<p><i>Examples for multiple measures of rest:</i><br>=35</p>
+
+<p></p>
 
 
 
@@ -325,7 +341,8 @@ lines</b><br>
 <p><span><b>8. Other
 symbols</b><br>
 t = trill (immediately follows the note)<br>
-+ = tie (immediately follows the note, not to be confused with a slur.) <br>
++ = tie (immediately follows the note; not to be confused
+with a slur) <br>
 () = fermata/hold/pause (only a single note letter name or a single rest can be
 bracketed; accidentals, pitch indications, etc. must be outside the
 parentheses; see also <b>10. Special rhythms</b>,
@@ -395,7 +412,7 @@ of clef, key or time signature:
 
 </b><p>Use <b>%</b> to
 change the clef, <b>$</b> to change the key, and <b>@</b> to change the time signature.
-Follow this with the new general indication (clef, key, or time), followed by a
+Follow this with the new indication (clef, key, or time), followed by a
 space.</p>
 
 <p><span><i>Examples:</i><br>
@@ -409,7 +426,7 @@ $nBE $xFC</span></p>
 <p><span><b>13.
 Abbreviations </b><br>
 Abbreviated forms of notation found within the music, such as tremolos or
-simile signs for repeats, must be written out in full using actual notation.<br><i>Examples:</i></span><br>{'8DDDD} =
+simile signs for repeats, must be written out in full using the actual notation.<br><i>Examples:</i></span><br>{'8DDDD} =
 minim/ half tremolo on D</p>
 
 <p>&nbsp;</p>
@@ -442,4 +459,4 @@ instrument families.</span></p>
 
 <p><i>Examples:</i><span> <br>
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]<br>
-S 2 solo; Coro; ob obl; strings, bc</span><br></p><br><br><br><br><br>
+S 2 solo; Coro; ob obl; strings, bc</span><br></p><br><br><br><br><br><br><br><br><br><br><br><br><br>
