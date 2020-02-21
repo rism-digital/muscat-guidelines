@@ -214,6 +214,7 @@ doc:
           - title: "doc_record_status"
           - helpfile: "status"
   - title: "doc_aid_titles_keywords"
+    helpfile: "subject_headings"
   - title: "doc_images"
     helpfile: "images_intro" 
   - title: "doc_institutions"
