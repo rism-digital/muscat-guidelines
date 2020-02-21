@@ -400,6 +400,9 @@ doc:
           - title: "li_337"
             helpfile: "catalogue_337"
             index: true
+          - title: "li_210"
+            helpfile: "catalogue_210"
+            index: true
       - title: "li_subject"
         subsections:
           - title: "li_020"
@@ -429,6 +432,9 @@ doc:
           - title: "li_651"
             helpfile: "catalogue_651"
             index: true
+          - title: "li_250"
+            helpfile: "catalogue_250"
+            index: true
           - title: "li_780"
             helpfile: "catalogue_780"
             index: true
@@ -438,6 +444,9 @@ doc:
         subsections:
           - title: "li_500"
             helpfile: "catalogue_500"
+            index: true
+          - title: "li_502"
+            helpfile: "catalogue_502"
             index: true
           - title: "li_599"
             helpfile: "catalogue_599"
