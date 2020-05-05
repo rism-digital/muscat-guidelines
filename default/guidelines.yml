@@ -137,9 +137,6 @@ doc:
           - title: "597"
             helpfile: "597"
             index: true
-          - title: "033"
-            helpfile: "033"
-            index: true
           - title: "300"
             helpfile: "300"
             index: true
