@@ -212,7 +212,7 @@ doc:
           - helpfile: "status"
   - title: "doc_aid_titles_keywords"
     helpfile: "subject_headings"
-  - title: "doc_images"
+  - title: "doc_digital_objects"
     helpfile: "images_intro" 
   - title: "doc_institutions"
     helpfile: "institution_introduction"
