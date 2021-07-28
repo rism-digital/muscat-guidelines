@@ -1,80 +1,78 @@
-### Jak korzystać z systemu Muscat  
+### Using Muscat
 
-1. **Gdzie mogę znaleźć tutoriale na temat programu Muscat**  
-Linki do wszystkich tutoriali znajdują się na stronie programu Muscat Centralnego Biura RISM: [http://www.rism.info/en/community/muscat.html  
-  
-](http://www.rism.info/en/community/muscat.html)
-2. **Jak mogę skontaktować się z innymi użytkownikami Muscat?**  
-Wszelkie błędy, pytania, komentarze i sugestie można zgłaszać w dowolnym momencie na adres muscat@rism.info   
-  
-**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, grupa Google, jest oficjalną grupą dyskusyjną Muscat, do której musi dołączyć każdy użytkownik Muscat. Oficjalne komunikaty od Central Office i programistów Muscat rozpowszechnia się wyłącznie za pośrednictwem tej grupy. Ponadto, wszystkich użytkowników Muscat zachęca się do zadawania pytań lub podnoszenia tematów do dyskusji.  
-  
-Nie ma potrzeby posiadania konta Google. Zaproszenie do przyłączenia się do grupy zostanie wysłane po otrzymaniu przez Państwa informacji o koncie Muscat.  
-  
-Istnieje również kanał dyskusyjny na Slack:   
-[https://rismcommunity.slack.com/](https://rismcommunity.slack.com/)  
-  
-3. **Czy cała literatura cytowana w Muscat znajduje się w Biurze Centralnym ?**  
-Nie, w naszym biurze znajduje się tylko literatura oznaczona jako „HB” lub „Handbibliothek” lub „RISM-ZR”. Materiały te mają służyć wszystkim współpracownikom RISM, więc jeśli mamy publikację, która może być pomocna, daj nam znać, a my postaramy się zdobyć to, czego potrzebujesz. Nawet jeśli poszukujesz publikacji, której nie mamy w biurze, jest szansa, że znamy kogoś, kto ją ma.  
-  
-4. **Co robić, gdy zapomnę hasła lub chcę je zmienić ?**  
-Hasłami zarządza Biuro Centralne. Skontaktuj się z nami, jeśli zgubisz hasło. Sam nie możesz zmienić swojego hasła.  
-  
-5. **Czy mogę pokazać system Muscat moim kolegom? Czy mogę zademonstrować system Muskat na konferencjach lub warsztatach?**  
-Tak, jak najbardziej! Dokładnie w tym celu udostępniamy wersję szkoleniową Muscat pod adresem [https://muscat-training.rism.info](https://muscat-training.rism.info/).   
-  
-Wszyscy użytkownicy Muscat mogą się tam zalogować za pomocą swoich danych osobowych. Istnieje również 99 kont szkoleniowych („training01@rism.info” do „training99@rism.info”) dostępnych dla użytkowników indywidualnych. Można korzystać z każdego z tych kont szkoleniowych. Prosimy o kontakt z Centralnym Biurem RISM (Jennifer Ward, jennifer.ward@rism.info) w celu uzyskania aktualnego hasła.  
-  
-W wersji szkoleniowej można wszystko dodawać, edytować lub usuwać. Biuro Centralne synchronizuje ją raz w tygodniu (w niedzielę) z aktualnymi danymi Muscat. Oznacza to, że będą już wtedy dostępne nowe rekordy, ale oznacza to także, że rekordy utworzone w wersji treningowej zostaną usunięte.   
-  
-6. **Co to znaczy, że w historii modyfikacji, „[system]” został wymieniony jako autor?**  
-Możesz zobaczyć przykład edycji systemowej, jeśli jedno z indeksowanych pól związanych z Twoim rekordem uległo zmianie. Zmiana w rekordzie autorytatywnym zarejestruje się również jako zmiana w Twoim rekordzie.  
-  
-7. **Czy mogę tworzyć rekordy na podstawie opisów z drukowanych katalogów?**  
-Tak! Czasami, z różnych powodów, nie jest możliwy dostęp do źródła i dostępny jest tylko opis w drukowanym katalogu lub katalogu utworów. Możesz użyć takich opisów jako podstawy do stworzenia swojego rekordu. W tym celu należy:
+1. **Where can I find tutorials about Muscat?**  
+   All of the tutorials are linked on the RISM Editorial Center's Muscat page: [https://rism.info/community/muscat.html
 
-  1.   załączyć **Uwagę ogólną (500)**, np. „Rekord oparty na opisie w YouV” 
-  2.   linkować do katalogu w polu **Odniesienie bibliograficzne (691)** lub w Zasób zewnętrzny (856) stosowanie do potrzeb
-  3.  w polu **Pochodzenie rekordu (980)** podpolu **Materiał zbadany** , wybrać **Materiał niezbadany**   
+](https://rism.info/community/muscat.html)
+2. **How can I contact other Muscat users?**  
+   To contact the Muscat developers: Report any errors, questions, comments, or suggestions to muscat@rism.info at any time.
 
-> ** 8. Czy mogę wprowadzić źródła, które są zawarte w innych publikacjach RISM z serii B**?
-> 
-> Chociaż stopniowo dodajemy źródła z serii B do Muscatu, jest to projekt długoterminowy. Rekordy z serii B/I są w Muscacie, podczas gdy te z serii B/II są w przygotowaniu. W międzyczasie zapraszamy do wprowadzania źródeł z innych tomów serii B. Należy dołączyć cytat do oryginalnego tomu B w polu **Literatura pomocnicza (691)**.
-> 
-> **9. **** Kiedy rekordy pojawiają się w publicznym katalogu na opac.rism.info?**
-> 
-> Rekordy z Muscatu wysyłane są do publikacji w katalogu publicznym w opac.rism.info raz w miesiącu, około 19stego dnia każdego miesiąca. Rekordy są następnie widoczne kilka dni później.
-> 
-> **10. Co zrobić, jeśli źródło w RISM nie jest już w rękach instytucji przechowującej, wskazanej w rekordzie RISM?**
-> 
-> Używaj siglum XX-NN w sytuacjach, w których obecna lokalizacja źródła jest nieznana, np. gdy źródło było zdeponowane w instytucji, ale zostało odebrane i obecnie znajduje się w rękach prywatnych. Zdarza się to rzadko. Jeśli źródło potrzebuje tego siglum, prosimy o kontakt z Centrum Redakcyjnym.
+**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, a Google Group, is the official Muscat discussion list that each Muscat user must join. Official announcements from the Editorial Center and the Muscat developers will be disseminated solely through this group. In addition, all Muscat users are encouraged to ask questions or raise topics for discussion.
 
-### Wymagania techniczne systemu Muscat  
+A Google account is not required. An invitation to join the group will be sent to you when you receive your Muscat account information.
 
-**1. Jakie są wymagania techniczne systemu Muscat ?**  
+There is also a discussion channel on Slack at:   
+[https://rismcommunity.slack.com/](https://rismcommunity.slack.com/)
 
-- Muscat jest niezależny od platformy i działa zarówno na komputerach Mac, jak i PC.
-- Dostęp odbywa się poprzez adres URL. W związku z tym do korzystania z dostępu niezbędne jest połączenie z Internetem.   
-- Muscat najlepiej sprawdza się na ekranach o wymiarach co najmniej 1366 x 768 pikseli.
-- Muscat jest dostosowany do wyszukiwarki Firefox i Chrome. Nie należy używać Internet Explorera !   
+3. **Is all secondary literature cited in Muscat at the Editorial Center?**  
+   No, only the literature labeled "HB" or "Handbibliothek" or "RISM-ZR" in an internal note (599) is actually in our office. Those materials are for the benefit of all RISM contributors, so if we have a publication that you would like to consult, let us know and we will try to get you what you need. Even if you are interested in a publication we do not have in the office, there's a chance that we know someone who has it.
 
-**2. **  **Jakie są niektóre techniczne aspekty Systemu Muscat ?**
+4. **What do I do if I forget my password or want to change it?**  
+   Passwords are managed by the Editorial Center. Contact us if you lose your password. You cannot change your password.
 
-- Muscat działa na otwartym kodzie źródłowym. Kod źródłowy jest dostępny pod adresem repozytorium [GitHub](https://github.com/rism-ch/muscat).
-- Muscat jest aplikacją Ruby on Rails.
-- Do renderowania incipitów muzycznych za pośrednictwem MEI system używa [Verovio](http://www.verovio.org/pae-examples.xhtml)    
-- Jako wyszukiwarka służy Solr.   
-- Muscat posiada [an SRU service](https://github.com/rism-ch/muscat/wiki/SRU) oraz [SRU downloader](https://github.com/rism-international/sru-downloader) do odzyskiwania rekordów MARCXML.
-- Muscat obsługuje Unicode (UTF-8).
-Więcej informacji na temat programowania systemu Muscat można znaleźć na stronie [RISM Switzerland's website](http://rism-ch.org/infrastructure/muscat.html?locale=en).   
-  
+5. **Can I show Muscat to my colleagues? Can I demonstrate Muscat at conferences or in workshops?**  
+   Yes, please do! A training version of Muscat is available for exactly these purposes at [https://muscat-training.rism.info](https://muscat-training.rism.info/).
 
-**3. Jakie są niektóre techniczne aspekty wyszukiwania incipitów ?**
+All Muscat users can login there with their personal credentials. There are also 99 training accounts ("training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be used. Please contact the RISM Editorial Center (contact@rism.info) for the current password.
 
-- Oparto je na silniku wyszukiwania [Themefinder](http://www.themefinder.org/) opracowanym przez Uniwersytet Stanford.  
-- Lewaruje leżący u podłoża system indeksowania (Soir), używany do wszystkich zapytań w Muscat, który dostosowano tak, aby umożliwić analizę notacji PAE używanej w edytorze. Proces indeksowania jest całkowicie przejrzysty dla użytkowników i katalogerów. Wstawiania zakodowanej notacji wymaga się jedynie w polu 031.  
+Anything on the training version can be added, edited or deleted. It is synchronized once a week (on Sunday) with the current Muscat data. This means that the new records will then be available but also that the ones created on the training version will be erased.
 
-**4. Jakie są niektóre cechy systemu Muscat?**
+6. **In the modification history, what does it mean if "[system]" is listed as the author?**  
+   You might see a system edit if one of the indexed fields linked to your record was changed. The change in the authority record will also register as a change in your record.
 
-- **Wersjonowanie** : Katalogerzy mogą przeglądać zmiany wprowadzone do rekordów.  
-- **VIAF** : Nazwy osobowe można importować poprzez link do [Virtual International Authority File (VIAF)](https://viaf.org/). 
+7. **Can I create records based on descriptions from printed catalogs or online library catalogs?**  
+   Yes! Sometimes, for various reasons, it is not possible to access the source in person and the only description available is in a printed catalog, catalog of works, or online library catalog. You may use such descriptions as the basis for your record.   
+   When doing so:  
+   a. Include a **General note (500)** such as "Record based on description in YouV"   
+   b. Link to the catalog in the field **Bibliographic reference (691)** or **External resource** (856) as appropriate   
+   c. In the field Record origin (980), subfield **Material examined** , select **Material not examined**
+
+8. **Can I enter sources that are included in other RISM publications from the B series?**  
+   Though we are gradually adding sources from the B series to Muscat, this is a long-term project. Records from B/I are in Muscat while B/II is in preparation. In the meantime, please feel free to enter sources from other B volumes. Include a citation to the original B volume in the field **Secondary literature (691)**.
+
+9. **When do records appear in the public catalog at opac.**** rism.info?**  
+   Muscat records are sent for publication in the public catalog at opac.rism.info once a month, at around the 19th of each month. Records are then visible a few days later.
+
+10. **What if a source in RISM is no longer in the hands of the holding institution indicated in the RISM record?**  
+    Use the siglum **XX-NN** for situations in which the current location of a source is unknown, such as if it was on deposit at an institution but the source was taken back and is now in private hands. This happens only rarely. Contact the Editorial Center if a source needs this siglum.
+
+
+
+### Technical aspects of Muscat
+**1. What are the technical requirements for Muscat?**
+
+- Muscat is platform independent and works on both Macs and PCs.
+- Access is through a URL and requires an Internet connection.
+- Muscat works best on screens that are at least 1366 x 768 pixels.
+- Muscat is optimized for Firefox and Chrome. Do not use Internet Explorer!
+
+**2. What are some technical aspects about Muscat?**
+
+- Muscat is open source. The source code is available at the [GitHub](https://github.com/rism-ch/muscat) repository.
+- Muscat is a Ruby on Rails application.
+- [Verovio](http://www.verovio.org/pae-examples.xhtml) is used to render the music incipits through MEI.
+- Solr is used as a search engine.
+- Muscat has [an SRU service](https://github.com/rism-ch/muscat/wiki/SRU) and an [SRU downloader](https://github.com/rism-international/sru-downloader) to retrieve MARCXML records.
+- Muscat supports Unicode (UTF-8).  
+  More information about the development of Muscat can be found on [RISM Switzerland's website](https://rism.digital/tools/muscat.html).
+
+
+**3. What are some technical aspects of the incipit search?**
+
+- It is based on the [Themefinder](http://www.themefinder.org/) engine developed at the University of Stanford.
+- It leverages the underlying indexing system (Solr), used for all the search queries in Muscat, which was customized to permit the analysis of the PAE notation used in the editor. The indexing process is completely transparent to the users and catalogers, and only the normal insertion of the coded notation is required in the 031 field.
+
+**4. What are some of the features of Muscat?**
+
+- **Versioning** : Catalogers can view changes made to records
+- **VIAF** : Personal names can be imported through the [Virtual International Authority File (VIAF)](https://viaf.org/).
