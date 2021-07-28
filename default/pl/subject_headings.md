@@ -1,27 +1,27 @@
-Plik autorytatywny **Hasła przedmiotowe** zawiera wszystkie formy, gatunki i inne ujednolicone terminy stosowane w źródłach Muscat w polu **Hasła przedmiotowe (650)**. Rekord hasła przedmiotowego zazwyczaj zawiera znormalizowany termin RISM w języku angielskim i w liczbie mnogiej, tłumaczenia lub terminy alternatywne oraz definicję. Gatunki i formy spotykane poza Europą Zachodnią lub powszechne w danym regionie, w którym nie ma odpowiednika angielskiego, są podawane w języku lokalnym (oraz w liczbie mnogiej, gdy ma to sens językowy).
+The authority file for **Subject headings** contains all the forms, genres, and other standardized terms used in the Muscat sources in the field **Subject heading (650)**. A record for a subject heading typically includes the standardized RISM term in English and in plural, translations or alternate terms, and a definition. Genres and forms found outside of Western Europe or common in a particular region where there is no English equivalent are given in the local language (and in the plural when it makes linguistic sense).
 
-Istnieje możliwość dodawania haseł przedmiotowych w trakcie katalogowania. W rekordzie wystarczy wpisać nowe hasło przedmiotowe i kliknąć na inne pole. Wówczas pojawi się komunikat z napisem „Potwierdź wprowadzenie nowej wartości”, który należy kliknąć.
+Subject headings can be added while cataloging. In the record, simply enter the new subject heading and click to a different field. You then get a message that says "Confirm the insertion of a new value" which you should then click.
 
-Po zapisaniu rekordu, należy przejść do pliku autorytatywnego haseł przedmiotowych i znaleźć nowy nagłówek. Utworzone hasła przedmiotowe można edytować. Należy wykonać następujące czynności:
+After you save the record, go to the authority file for subject headings and find your new heading. You can edit subject headings you create. Please do the following:
 
-**Termin** : Wpisać termin w języku angielskim i w liczbie mnogiej, ilekroć to możliwe. W przypadku muzyki regionalnej, w szczególności muzyki występującej poza Europą Zachodnią, należy stosować termin wspólny dla danego regionu. W przypadku języków, w których używa się alfabetów innych niż łaciński, należy wpisać tutaj transliterację terminu przy użyciu alfabetu łacińskiego. 
+**Term** : Enter the term in English and in the plural when possible. For regional music, particularly music found outside Western Europe, use the term common in the region. For languages that use non-Latin alphabets, enter the transliterated term here using the Latin alphabet.
 
-**Terminy alternatywne** : Proszę wprowadzić wszystkie alternatywne terminy, każdy w osobnym wierszu (naciskając Enter). W tym miejscu można wprowadzić termin przy użyciu innych alfabetów, jak również synonimy, warianty, inne pisownie itp.
+**Alternate terms** : Please enter all alternate terms, each on a separate line (by pressing Enter). Here you can enter the term using other alphabet systems as well as synonyms, variations, other spellings, etc.
 
-**Uwagi:** Proszę podać krótki opis rodzaju terminu w języku angielskim, niemieckim lub francuskim. Następnie można dodać w Państwa języku ojczystym, dla współpracowników RISM w Państwa regionie, dowolny opis lub wytyczne, które chcieliby Państwo dla tego terminu ustalić, czyli jak go stosować, wszelkie jego powiązania regionalne, odniesienia do literatury drugorzędnej itp.
+**Notes** : Please provide a short description in English, German, or French of what kind of term this is. Then feel free to also write in your native language, for the benefit of RISM contributors in your area, any description or guidelines you wish to set for the term: how to apply the term, any regional connections, references to secondary literature, etc.
 
-Jako przykład, patrz **Gigues**. Podano tam terminy w języku angielskim, francuskim i niemieckim, a także alternatywne pisownie. Pole „Uwagi” wyjaśnia różnorodność istniejących Gigues oraz czas i miejsce ich pojawienia się. 
+As an example, see **Gigues**.Terms in English, French, and German are given, along with alternate spellings. The field "Notes" explains the variety of gigues that exist and when and where they occurred.
 
-Przy pracy z muzyką charakterystyczną dla danego regionu można używać dowolnych określeń, których się w tym regionie powszechnie używa. Można dodać nowy termin, jeśli podobnego gatunku używa się w innym regionie, ale nosi on inną nazwę.
+If you are working with music particular to a certain region, you can use whatever term is common in that region. A new term can be added if a similar genre is used in a different region but it is called something else.
 
-Można również dodać hasło przedmiotowe bezpośrednio do pliku autorytatywnego (wystarczy w tym pliku kliknąć **Utwórz** ) i będzie ono natychmiast dostępne.
+You can also add the subject heading directly to the authority file (simply click **Create** in this authority file) and it will be immediately available for use.
 
-Wskazówki dotyczące katalogowania:
+Cataloging tips:
 
-- 
+-
 
-Rekordy dla źródeł mogą obejmować wiele haseł przedmiotowych, np. konkretny termin (jeśli istnieje), jak również termin bardziej ogólny lub nadrzędny.
+Records for sources can include multiple subject headings, such as if there is a specific term as well as a more general or overarching term.
 
-- 
+-
 
-Aby pomóc użytkownikom w dokonywaniu odkryć, można również włączyć termin lokalny w obcym języku i alfabecie jako **Tytuł alternatywny (730)**.
+To aid users in discovery, you are also free to include the local term in foreign languages and alphabets as an **Alternative title (730)** if you wish.
