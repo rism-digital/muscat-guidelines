@@ -1,9 +1,8 @@
-#### Individualisierung (042 $a)
-Dieses Feld zeigt die Individualisierung eines Personeneintrages an.   
-Individualisierte Einträge beziehen sich auf eine konkrete Person, während nicht individualisierte Einträge nicht eindeutig zugeordnet werden können.  
-  
-Verfügbare Werte sind:  
+#### Authentication code (042 $a)
 
-- individualized   
-- not individualized
-- unknown
+This field identifies whether the entry has been differentiated by the RISM Editorial Center. Differentiated entries refer to a concrete person and undifferentiated entries cannot (yet) be connected to an individual.
+
+Available codes are:
+
+- differentiated
+- undifferentiated
