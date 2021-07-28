@@ -1,18 +1,18 @@
-### Luogo correlato (MARC 370)
-Questo campo si usa per prendere nota di un luogo correlato all'istituzione.  
-  
+### Associated place (MARC 370)
+This field is used to record a place associated with the institution.
 
-#### Paese correlato (370 $c)
-Inserisci il Paese con cui l'istituzione è identificata.   
-  
 
-#### Luogo di residenza/sede principale (370 $e)
-Inserisci la città, provincia, contea, Stato in cui l'istituzione ha la propria sede principale o svolge la propria attività.  
-  
+#### Associated country (370 $c)
+Enter the country with which the institution is identified.
 
-#### Altro luogo correlato (370 $f)
-Inserisci altri o aggiuntivi nomi di città, provincia, contea, Stato correlati con l'istituzione.  
-  
 
-#### Fonte del termine (370 $2)
-Inserisci la fonte dei termini usati.
+#### Place of residence/headquarters (370 $e)
+Enter the town, city, province, state, locale, and/or country in which the institution has its headquarters or carries out its activities.
+
+
+#### Other associated place (370 $f)
+Enter other or additional town, city, province, state, and/or country associated with the institution.
+
+
+#### Source of term (370 $2)
+Enter the source of the terms used.
