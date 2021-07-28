@@ -1,6 +1,6 @@
-**Ora in (MARC 373 $a)**
+**Holdings now in (MARC 373 $a)**
 
-Se degli oggetti appartenenti a un’istituzione sono stati trasferiti in un’altra istituzione, inserisci qui la sigla RISM per l’istituzione attualmente proprietaria.
+If the holdings of an institution have been transferred to another institution, enter the name of the current holding institution here.
 
-_Esempio:_  
+_Example:_  
 D-WÜd
