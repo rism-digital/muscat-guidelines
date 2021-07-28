@@ -1,2 +1,2 @@
-#### **Uwaga ogólna (680 $a) **
-Wprowadzić wszystkie ogólne uwagi na temat danej osoby. Uwagi te zostaną opublikowane. 
+#### **General note (680 $a) **
+Enter any general comments about the person in question. These comments will be published.  
