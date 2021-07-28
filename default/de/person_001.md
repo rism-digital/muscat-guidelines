@@ -1,3 +1,3 @@
-#### RISM Dokumentnummer (001)
+#### RISM ID number (001)
 
-Die RISM Dokumentnummer setzt sich aus 8 Ziffern zusammen. Die Dokumentnummer wird vom System vorgegeben und kann nicht geändert werden.
+This field gives the 8-digit RISM ID number for this record. This number is automatically generated and cannot be changed.
