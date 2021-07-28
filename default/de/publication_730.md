@@ -1,2 +1,3 @@
-#### Zusätzlicher Titel (730)
-Geben Sie hier Übersetzungen des Titels an, wenn diese nicht auf der Titelseite erscheinen.
+**Additional title (730 $a)**
+
+Enter translations of the title here if they do not appear on the title page.
