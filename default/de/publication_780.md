@@ -1,10 +1,8 @@
-#### Früherer Titel (780 $w)  
+#### **Preceding entry (780 $w)**
 
-Dieses Feld und das nächste Feld ( **Folgeeintrag** ) werden verwendet, um alternative Namen anzuzeigen (beispielsweise wechselnde Titel einer Zeitschrift).  
-  
+This field and the next field ( **Succeeding entry** ) are used to name and link alternate titles of items, such as a journal title that has changed names.
 
-Tragen Sie hier den früheren Zeitschriften- / Reihentitel des vorliegenden Werks ein. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft.   
+Enter here the name that the periodical was formerly known as. This field is linked to the **Secondary literature** database.
 
-  
-
-_Beispiel:_ Die Zeitschrift _The Viola da Gamba Society Journal_ begann 2007 und ist eine Fortsetzung _Chelys._ _The Journal of the Viola da Gamba Society_ (veröffentlicht von 1969 bis 2004). Im Eintrag _The Viola da Gamba Society Journal_ erscheint folgender Früherer Titel (780 $w): Chelys. The Journal of the Viola da Gamba Society
+_Example:_ The journal _The Viola da Gamba Society Journal_ began in 2007 and was preceded by _Chelys. The Journal of the Viola da Gamba Society_ (published from 1969 to 2004). In the record for _The Viola da Gamba Society Journal_, enter the following:  
+Preceding entry (780 $w): Chelys. The Journal of the Viola da Gamba Society
