@@ -1,58 +1,133 @@
-1t = 1.Ton (dorisch)   
+**Western church modes:**
 
-1tt = 1.Ton (dorisch), transponiert 
+1t
 
-2t = 2.Ton (hypodorisch) 
-2tt = 2.Ton (hypodorisch), transponiert  
+- EN: 1st tone (Dorian)
 
-3t = 3.Ton (phrygisch)
+1tt
 
-3tt = 3.Ton (phrygisch), transponiert 
+- EN: 1st tone (Dorian), transposed
 
-4t = 4.Ton (hypophrygisch)   
+2t
 
-4tt = 4.Ton (hypophrygisch), transponiert 
+- EN: 2nd tone (Hypodorian)
 
-5t = 5.Ton (lydisch)   
+2tt
 
-5tt = 5.Ton (lydisch), transponiert
+- EN: 2nd tone (Hypodorian), transposed
 
-6t = 6.Ton (hypolydisch)
+3t
 
-6tt = 6.Ton (hypolydisch), transponiert 
+- EN: 3rd tone (Phrygian)
 
-7t = 7.Ton (mixolydisch)
+3tt
 
-7tt = 7.Ton (mixolydisch), transponiert 
+- EN: 3rd tone (Phrygian), transposed
 
-8t = 8.Ton (hypomixolydisch)
+4t
 
-8tt = 8.Ton (hypomixolydisch), transponiert 
+- EN: 4th tone (Hypophrygian)
 
-9t = 9.Ton (aeolisch)
+4tt
 
-9tt = 9.Ton (aeolisch), transponiert 
+- EN: 4th tone (Hypophrygian), transposed
 
-10t = 10.Ton (hypoaeolisch)
+5t
 
-10tt = 10.Ton (hypoaeolisch), transponiert 
+- EN: 5th tone (Lydian)
 
-11t = 11.Ton (ionisch)
+5tt
 
-11tt = 11.Ton (ionisch), transponiert 
+- EN: 5th tone (Lydian), transposed
 
-12t = 12.Ton (hypoionisch)
+6t
 
-12tt = 12.Ton (hypoionisch), transponiert 
+- EN: 6th tone (Hypolydian)
 
-  
+6tt
 
-**Byzantinische Modi:**  
-Ēchos prōtos (First mode of Byzantine music)  
-Ēchos deuteros (Second mode of Byzantine music)  
-Ēchos tritos (Third mode of Byzantine music)  
-Ēchos tetartos (Fourth mode of Byzantine music)  
-Ēchos plagios prōtos (First plagal mode of Byzantine music)  
-Ēchos plagios deuteros (Second plagal mode of Byzantine music)  
-Ēchos barys (Third plagal mode of Byzantine music)  
-Ēchos plagios tetartos (Fourth plagal mode of Byzantine music)
+- EN: 6th tone (Hypolydian), transposed
+
+7t
+
+- EN: 7th tone (Mixolydian)
+
+7tt
+
+- EN: 7th tone (Mixolydian), transposed
+
+8t
+
+- EN: 8th tone (Hypomixolydian)
+
+8tt
+
+- EN: 8th tone (Hypomixolydian), transposed
+
+9t
+
+- EN: 9th tone (Aeolian)
+
+9tt
+
+- EN: 9th tone (Aeolian), transposed
+
+10t
+
+- EN: 10th tone (Hypoaeolian)
+
+10tt
+
+- EN: 10th tone (Hypoaeolian), transposed
+
+11t
+
+- EN: 11th tone (Ionian)
+
+11tt
+
+- EN: 11th tone (Ionian), transposed
+
+12t
+
+- EN: 2th tone (Hypoionian)
+
+12tt
+
+- EN: 12th tone (Hypoionian), transposed
+
+
+
+**Byzantine modes:**
+
+Ēchos prōtos
+
+- EN: First mode of Byzantine music
+
+Ēchos deuteros
+
+- EN: Second mode of Byzantine music
+
+Ēchos tritos
+
+- EN: Third mode of Byzantine music
+
+Ēchos tetartos
+
+- EN: Fourth mode of Byzantine music
+
+Ēchos plagios prōtos
+
+- EN: First plagal mode of Byzantine music
+
+Ēchos plagios deuteros
+
+- EN: Second plagal mode of Byzantine music
+
+Ēchos barys
+
+- EN: Third plagal mode of Byzantine music
+
+Ēchos plagios tetartos
+
+- EN: Fourth plagal mode of Byzantine music
