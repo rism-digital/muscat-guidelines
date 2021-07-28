@@ -1,10 +1,11 @@
-### Bemerkungen zu Inhaltsangaben (505 $a)
+### Contents note (505 $a)
 
-In diesem Feld können zusätzliche Angaben zur Inhaltsangabe gemacht werden, welche in keine vorgegebene Kategorie passen.
+Enter additional information about the contents of the source which does not fit into any other category, such as:
 
-- Angaben zu verschiedenen Werkfassungen
-- Angaben zur Struktur bei Sammlungen
-- Anzahl Strophen bei Strophenliedern
-- Allgemeine strukturelle Angaben zur Quelle
-- Angaben zur Gesamtbesetzung sofern das Material unvollständig ist
-Verwenden Sie eine der Katalogisierungssprachen.
+- Information on different versions of the work
+- Information on the structure of collections
+- The number of verses in strophic songs
+- General structural information about the source
+- Information on the full scoring, if the material is incomplete
+
+Enter using your cataloging language.
