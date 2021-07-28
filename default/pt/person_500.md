@@ -1,20 +1,20 @@
-#### Nome de pessoa relacionada (500 $a)
+#### Related personal name (500 $a)
 
-Este campo descreve relacionamentos de parentesco. Insira o nome da pessoa que tem relação com a pessoa em questão. Este campo é ligado ao registro de autoridades **Nomes de pessoas**.  
+This field describes familial relationships. Enter the personal name that stands in relation to the person in question. This field is linked to the **Personal names** authority file.
 
-####   
-Tipo do relacionamento (500 $i)
+####
+Type of relationship (500 $i)
 
-Indique o tipo de relacionamento da pessoa em questão com a pessoa relacionada. Como exemplo, o registro de autoridade para Clara Schumann terá o seguinte nesta seção: Schumann, Felix – mãe de.  
+Indicate the type of relationship the person in question has to the related person. As an example, the authority record for Clara Schumann will have the following in this section: Schumann, Felix - mother of.
 
-Selecione entre os seguintes:
+Select from the following:
 
-- **irmão de**
-- **filho(a) de**
-- **confundido(a) com**
-- **pai de**   
-- **casado(a) com**
-- **mãe de**
-- **relacionado com:** um relacionamento diferente, tal como tia, tio, primo, prima, etc.
-- **irmã de**   
-- **outro:** selecione se o relacionamento não é de parentesco
+- **brother of**
+- **child of**
+- **confused with**
+- **father of**
+- **married to**
+- **mother of**
+- **related to** : a different relationship, such as an aunt, uncle, cousin, etc.
+- **sister of**
+- **other** : select if the relationship is not familial
