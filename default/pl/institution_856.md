@@ -1,13 +1,13 @@
-#### **Narzędzia wyszukiwawcze, przewodniki i publikacje (MARC 856 $u; ISDIAH 5.3.8)**
+#### **Finding aids, guides and publications (MARC 856 $u; ISDIAH 5.3.8)**
 
-W polu podaje się ogólny przegląd opublikowanych i nieopublikowanych narzędzi wyszukiwawczych i przewodników przygotowanych przez daną instytucję oraz innych istotnych publikacji. 
+This field provides a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
 
-Wprowadzić informacje (w tym adresy URL) o narzędziach wyszukiwawczych, katalogach, inwentarzach itd. posiadanych przez daną instytucję. 
+Enter information (including URLs) about finding aids, catalogs, inventories, etc. for the institution’s collections.
 
-**Narzędzia wyszukiwawcze dostępne online (856 $u)**  
-Wprowadź adres URL.
+**Online finding aids (856 $u)**  
+Enter the URL of the finding aid.
 
- 
 
-**Uwaga (856 $z)**  
-Wpisz krótki opis adresu URL. 
+
+**Note (856 $z)**  
+Enter a short description of the URL.
