@@ -1,68 +1,77 @@
-En Muscat es posible realizar **búsquedas** mediante la **búsqueda por facetas** y los **filtros**.
+**Searching** in Muscat is available through a **faceted search** and through **filters**.
 
-**Búsqueda por facetas**
+#### Faceted search
 
-La **búsqueda por facetas** (menú superior, en el medio) su usa para buscar los datos en un contexto de tipo OPAC. Si Ud. cuenta con derechos de edición sobre una fuente en particular, un botón de edición lo llevará directamente al modo de edición del registro respectivo Muscat.
+####
 
-Una de las posibilidades de la [búsqueda avanzada](http://muscat.rism.info/advanced) es la  **búsqueda por íncipit. ** Un teclado facilita el ingreso de la notación musical. Hay cuatro modos de búsqueda disponibles, con diversos grados de flexibilidad:
+The **Faceted search** (top menu in the middle) is available to search the data in a familiar OPAC setting. If you have editing rights for a particular source, an edit button will take you directly to the Muscat editing mode.
 
-1. Altura exacta: el íncipit concuerda con las alturas exactas.
-2. Intervalo: se ignoran las alturas, pero se buscan los intervalos. Esto permite la inclusión de **transposiciones** de una melodía dada.
-3. Contorno refinado de alturas: se ignoran los intervalos y se buscan sólo los movimientos ascendentes y descendentes de la melodía.
-4. Contorno grueso de alturas: es el más flexible de todos. Se busca el contorno aproximado de la melodía.
+An **incipit search** is available through the faceted search's Advanced search. A keyboard permits the easy insertion of notation. Four search modes are available, with various degrees of fuzziness:
+1. Exact pitch: Incipit matches the exact pitches.
+2. Interval: Exact pitches are ignored, but intervals are searched. This permits the inclusion of **transpositions** of a given melody.
+3. Refined pitch contour: Intervals are ignored but only the upward and downward movements of the melody are searched.
+4. Gross pitch contour: This is the fuzziest of all. The approximate contour of the melody is searched.
 
-Al final de la página, el campo **Íncipit** permite al usuario ingresar un fragmento de código Plaine & Easie (el mismo puede ser copiado y pegado desde una Fuente, por ejemplo). La previsualización del pentagrama se actualiza automáticamente como sucede en el editor de Fuentes.
+At the bottom of the page, the field **Incipit** permits the user to enter raw Plaine & Easie code (it can be copied and pasted from a source record, for example). The musical staff preview is automatically updated as in the Source editor.
 
-Todos los otros campos presentes en la Búsqueda Avanzada pueden ser combinados con la búsqueda por íncipit.
+All the other fields present in the Advanced Search can be combined with the incipit search.
 
-La plataforma OPAC de RISM ofrece una búsqueda simplificada por íncipit en el motor de [Búsqueda Avanzada](https://opac.rism.info/index.php?id=3&L=0). [En este enlace](https://opac.rism.info/index.php?id=8&L=0#c38) encontrará instrucciones detalladas en [video](https://youtu.be/HgXFyiXZq5M).
+The RISM OPAC has a simplified incipit search under the [Advanced search](https://opac.rism.info/index.php?id=3&L=0). See the [help page](https://opac.rism.info/index.php?id=8&L=0#c38) for more information.
 
-¡No olvide siempre buscar el íncipit antes de ingresar una fuente anónima! ¡[Primero busque por íncipit](https://youtu.be/kKc0zzc8cbo)!
+Don't forget to always search for the incipit before entering an anonymous source! [Incipit search first](https://youtu.be/kKc0zzc8cbo)!
 
-#### Filtros de Muscat
+#### Muscat filters
 
-Los **filtros** de Muscat permiten hacer búsquedas simples pero poderosas. 
+The Muscat **filters** offer simple yet powerful searching.
 
-En cada campo puede ingresar:
+You can enter in each field:
 
-- Palabras sueltas
-- Múltiples palabras:  
-tanto sin comillas: **lass noch**    
-como con comillas: **“lass noch”**  
-- Truncamiento con ? o \*  
-**?** : El signo de pregunta reemplaza exactamente una letra. **B?cher** encontrará Bucher y Bacher.   
-**\*** : El asterisco puede usarse para truncar o reemplazar cualquier cantidad de letras. **B\*cher** encontrará Bucher y Bacher pero también Boucher y Bötticher.
-- AND, OR, NOT, (): Aproveche las ventajas de la búsqueda booleana. Use paréntesis para agrupar su búsqueda. _Ejemplos_:
+- Single words
+- Multiple words:   
+  either without quotations mark: **lass noch**   
+  or with quotation marks: **"lass noch"**
+- Truncation with ? or \*  
+  **?** : The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
+  **\*** : The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher.
+- AND, OR, NOT, ( ): Take advantage of Boolean searching. Use parenthesis to group your search. Examples:
 
-  - Compositor contiene: **(Bach AND Johann) NOT Sebastian**  
-Encontrará a Johann Michael Bach y Johann Christian Bach pero no a Johann Sebastian Bach.  
-  - Sigla contiene: **D-B AND (I-\* OR F-P\*)**  
-Encontrará todos los casos de impresos conservados en el repositorio D-B de los cuales también haya copias en Italia o París.  
+  - Composer contains: **(Bach AND Johann) NOT Sebastian**  
+    To find Johann Michael Bach and Johann Christian Bach but not Johann Sebastian Bach
+  - Siglum contains: **D-B AND (I-\* OR F-P\*)**   
+    To find all prints in the library D-B where there are also copies in Italy or Paris
 
-Por favor tenga en cuenta lo siguiente para todas las secciones:
 
-- **Fecha**
 
-  - **Búsqueda por fecha** : Ingrese fechas en el formato AAAA-MM-DD. El día se fija a medianoche por defecto.
-  - **Fecha única (“desde”)**: Si llena sólo el campo de la izquierda (el “desde”), obtendrá todos los registros modificados o creados **desde** esa fecha (inclusive).  
-Ejemplo: Última modificación  
-**2012-02-07 –** [vacío]  
-mostrará todos los registros editados desde el 7 de febrero de 2012 hasta hoy.
-  - **Fecha única (“hasta”)**: Si llena solo el campo de la derecha (el “hasta”), obtendrá todos los registros modificados o creados **hasta** esa fecha (_no_ inclusive).  
-Ejemplo: Última modificación  
-[vacío] – **2012-02-07**  
-recuperará todos los registros editados desde el inicio del tiempo hasta el 7 de febrero de 2012 a medianoche (lo que significa que no se incluirá ningún registro creado durante el día laboral del 7 de febrero).  
-  - **Intervalo de fechas** : Tenga en cuenta que dado que el día está fijado desde la medianoche, para buscar los registros creados el 7 de febrero de 2012, por ejemplo, debe ingresar la fecha inicial 2012-02-7 (entendida como medianoche del 7 de febrero) y la fecha final 2012-02-8 (entendida como medianoche del 8 de febrero). Esto incluirá todas las fuentes creadas durante el día. ¡Una búsqueda de 2012-02-7 a 2012-02-7 no mostrará ningún resultado!  
-Por favor, tenga en cuenta lo siguiente para buscar **Fuentes** :
-- **Sigla contiene** : busque por las letras de una sigla. Este campo registra mayúsculas y minúsculas. Por ejemplo:  
-**D-\*** = todas las fuentes en Alemania  
-**D-B\*** = todas las fuentes en ciudades alemanas que empiezan con B  
-**D-B** = todas las fuentes en la _Staatsbibliothek zu Berlin_  
+Please note the following for all sections:
 
-#### Nombres personales
+- **Date**
 
-Por favor, tenga en cuenta lo siguiente al buscar **Nombres personales** :
+  - **Searching by date:** Enter dates in the format YYYY-MM-DD. The day is set to midnight by default.
+  - **Single date ("from"):** If you fill in only the left-hand field (the "from"), you will get all records modified or created **since** that date (including records created during the day on that date).   
+    Example: Last modification   
+    **2012-02-07** - [empty]  
+    will retrieve all records edited from February 7, 2012 to today.
+  - **Single date ("to")**: If you fill in only the right-hand field (the "to"), you will get all records modified or created **up to** that date at midnight.  
+    Example: Last modification  
+    [empty] -  **2012-02-07**  
+    will retrieve all records edited from the beginning of time up to February 7, 2012 at midnight (meaning no records created during the work day on February 7 will be included).
+  - **Date range** : Note that since the day is set at midnight, to search for all records created on February 7, 2012, for example, you must enter the start date 2012-02-07 (understood as midnight on February 7) and the end date 2012-02-08 (understood as midnight on February 8). This will include all sources created during the day. A search from 2012-02-07 to 2012-02-07 will be empty!
 
-- **Nombre:** busca en los campos **Encabezado – Nombre personal (100 $a)** y **Variante de nombre (400 $a).**
-- **Fechas de vida** : busca en el campo **Años de nacimiento y muerte (100 $d)**, entendiendo por fechas tanto los años como también las siguientes abreviaturas: sc a p c \* + /
-- **Lugares** : busca en el campo **Nombre geográfico (551)**. Incluye lugares de nacimiento, muerte, origen o actividad.
+
+
+Please note the following for searching **Sources** :
+
+- **Siglum contains** : Search by the letters in a siglum. This field is case-sensitive. For example:  
+  **D-\*** = all sources in Germany  
+  **D-B\*** =all sources in German cities that start with B  
+  **D-B** = all sources at the Staatsbibliothek zu Berlin
+
+
+
+#### Personal names
+
+Please note the following for searching **Personal names** :
+
+- **Name** : Searches the fields **Heading - Personal name (100 $a)** and **Name variant (400 $a)**.
+- **Life dates** : Searches the field **Years of birth and death (100 $d)**, meaning years as well as the following abbreviations: sc  a  p  c \*  +  /
+- **Places** : Searches the field **Geographic name (551)**. This includes places of birth, death, origin, or activity.
