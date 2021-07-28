@@ -1,13 +1,15 @@
-#### Opera correlata** (380 $a; n**umero di registro RDA: ** ** [**rdaw:P10027**](http://www.rdaregistry.info/Elements/w/#P10027))
-Questo campo è usato per mostrare una correlazione tra l'opera in questione con un'altra opera.   
-  
+**Related work (930;** **RDA registry [rdaw:P10027](http://www.rdaregistry.info/Elements/w/#P10027))**
 
-**Opera (930 $a)**
+This field is used to show a relationship between the current work and a different work.
 
-Inserisci l'opera correlata con l'opera descritta in questa scheda.
 
- 
 
-**Relazione (930 $i)**
+**Work (930$a)**
 
-Seleziona il tipo di relazione.
+Enter the work related to the work described in this record.
+
+
+
+**Type of relationship (930$i)**
+
+Select the type of relationship.
