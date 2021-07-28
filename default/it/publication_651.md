@@ -1,3 +1,3 @@
-Luogo (651 $a)
+**#### Related place (651 $a)**
 
- Inserisci il nome di luoghi geografici (città, regioni, stati confederati, stati nazionali) legate o in relazione all’oggetto. Questo campo è collegato all’indice  **Luoghi**. Non inserire qui il luogo di pubblicazione. 
+Enter the names of geographic locations (cities, regions, states, countries) that are connected with or related to the item. This field is linked with the **Places** authority file. Do not enter the place of publication here.
