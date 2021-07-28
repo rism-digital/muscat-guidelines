@@ -1,10 +1,12 @@
-A base de dados **Imagens** contém todas as imagens que foram carregadas no Muscat. Pode-se carregar (fazer upload de) um novo arquivo/ficheiro ou navegar pelos arquivos/ficheiros existentes. A base de dados é pensada para armazenar e exibir imagens que sirvam para ilustrar um detalhe de um registro, tal como uma marca d’água, uma encadernação ou uma amostra de grafia. Pode-se vincular imagens tanto a registros/registos de fontes como a registros/registos de autoridade. Versões digitais completas de fontes não devem ser carregadas aqui, mas através de link no campo **Recurso externo (856****)**. Os seguintes formatos são permitidos: JPEG
+The **Digital objects** database contains all images and MEI files that have been uploaded to Muscat. The database is intended to store and display individual images that serve to illustrate a point in a record, such as a watermark, a binding, or a handwriting sample; it is also where MEI incipits are attached. You can link digital objects to source records as well as authority records. Full digital versions of sources should not be uploaded here but rather linked in the field **External resource (856)**.
 
-Pode-se adicionar uma imagem tanto clicando em **Anexar uma nova imagem,** quando estiver editando uma fonte, ou diretamente na base de dados Imagens clicando em **Criar**. Sempre deve-se adicionar uma descrição, tal como a descrição de uma marca d’água, a localização de uma fonte ou a sigla. Isto ajudará a localizá-las mais tarde.
+Add an image (.jpeg or .png) by clicking on **Attach a new image** when you are editing a source. Always add a short description, such as a description of the watermark, the location on the source, or the siglum. This will help you find them later. Images are displayed in the order they are linked to the record.
 
-Ao visualizar uma imagem, aparecem as seguintes opções à direita da tela:
-- **Criar**
-- **Retornar à lista**
-- **Editar** : Permite modificar o nome da imagem ou substituí-la.
-- **Ligar fonte** : Permite criar um link entre a imagem e uma fonte existente, por exemplo, anexando a mesma marca d’água a várias fontes.
-- **Ligar pessoa** : Permite criar um link entre a imagem e o registro/registo de autoridade de uma pessoa, por exemplo, para exibir amostras de grafia manuscrita.
+Please consult the RISM Editorial Center if you wish to add an MEI incipit.
+
+When you are viewing an image, you have the following options on the right.
+- **Return to the list**
+- **Edit** : Allows you to change the name or replace the file
+- **Link source** : Allows you to link the image to an existing source, such as attaching the same watermark to multiple sources
+- **Link person** : Allows you to link the image to the authority file of a person, such as for displaying handwriting samples
+- **Link institution** : Allows you to link the image to the authority file of an institution, such as an image of the building
