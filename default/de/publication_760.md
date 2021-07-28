@@ -1,18 +1,25 @@
-### In (760)
-Hier wird der Titel des übergeordneten Werks (Jahrbuch-, Zeitschriften- oder Buch- bzw. Reihentitel) angegeben. 
+**Item part of (760)**
 
-#### in: (760 $t)
-Geben Sie hier den Titel der Zeitschrift oder Bandes etc. ein. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft. Ist die gewünschte Literatur noch nicht vorhanden, muss erst ein neuer Datensatz dafür angelegt werden. 
-#### Band, Jahrgang, Seite (760 $g)  
+Use this field to link your item to the yearbook, periodical, book, or series that the item is a part of.
 
-Das Feld enthält Bandzählung und/oder Berichtsjahr bzw. Jahreszählung, in welcher das unselbständig erschienene Werk enthalten ist sowie die Angabe des Seitenbereiches, in dem sich das unselbständige Werk (z.B. Aufsatz) im übergeordneten Werk (z.B. Heft der Zeitschrift oder Aufsatzsammlung) befindet. Seitenangabe werden mit „p.“ für „pages“ gekennzeichnet.  
-  
-_Beispiele_:  
-23 (1986), p. 5-10   
+**Title of periodical, book, or series (760 $t)**
+
+Enter the title of the periodical, book, or series. This field is linked to the **Secondary literature** database. Titles not yet in the database can be added.
+
+**Volume, year, page (760 $g)**
+
+Enter as appropriate the volume, issue, year, and/or page numbers for the item. For example, for a periodical enter the volume, year, and page numbers. Enter in a form appropriate to the style of the journal.
+
+_Examples_:
+
+23 (1986), p. 5-10  
 2, 35 (2014), 7-16  
 71 (1997), Heft 5, p.275-292  
 vol. 3/1-2; 11/1-2  
-  
-Bei Aufsätzen in einem Sammelband werden hier die Seitenzahlen genannt:  
-_Beispiel_:  
+56
+
+For a chapter within a collection of essays, enter the page numbers of the chapter:  
+_Example_ :  
 p. 76-109
+
+As a general rule, make sure to include enough information so that someone else would be able to find the item themselves.
