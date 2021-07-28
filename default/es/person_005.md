@@ -1,5 +1,3 @@
-#### Fecha y hora de la última transacción (005)
+#### **Date and time of latest transaction (005)**
 
-  
-
-Este campo consta de dieciséis caracteres que especifican la fecha y la hora de la última transacción del registro y sirven como identificador de la versión del registro. Los datos y la hora se indican de acuerdo con la Representación de Fechas y Horas (ISO 8601) en el patrón yyyymmdd y hhmmss.f.
+This field consists of sixteen characters that specify the date and time of the latest record transaction and serve as a version identifier for the record. The data and time are given according to Representation of Dates and Times (ISO 8601) in the pattern yyyymmdd and hhmmss.f.
