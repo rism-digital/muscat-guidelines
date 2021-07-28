@@ -1,20 +1,19 @@
-# Boas práticas no RISM
+# RISM Best Practices
 
-**1. Campos de texto livre e campos indexados**
+**1. Free text fields and indexed fields**  
+If you name a person or institution in your record (such as in a notes field), make sure to also enter the name in the indexed fields **Additional personal name (700)** or **Additional institution (710)**.
 
-Ao mencionar uma pessoa ou instituição no registro/registo (como em um campo de notas), deve-se também inserir o nome nos campos indexados **Nome de pessoa adicional (700)** ou **Instituição adicional (710)**.
+The same applies for citing secondary literature: if you refer to a publication in a notes field, make sure to also enter it in the field **Bibliographic reference (691)**.
 
-O mesmo se aplica ao citar literatura secundária: ao mencionar uma publicação em um campo de notas, deve-se também inseri-la no campo **Referência bibliográfica (691)**.
+**2. Citing secondary literature**  
+Information that is not found on the source may be included in the RISM record but a Bibliographic reference (691) should be added. For example, if the composer of a manuscript is known through a book, or if the publication year for an imprint is given in a catalog, the source of the information should be made clear through a note (500) and an indexed reference (691).
 
-**2. Citando literatura secundária**  
-Informação que não é encontrada na fonte pode ser incluída no registro/registo RISM, mas uma Referência bibliográfica (691) deve ser adicionada. Por exemplo, se o compositor de um manuscrito é conhecido através de um livro, ou se o ano de publicação para um impresso é dado em um catálogo, a fonte da informação deve ser claramente informada através de uma nota (500) e de uma referência indexada (691).
+**3. URLs and links to external resources**  
+Always use permalinks when linking to digitized music, in particular for the field **External resource (856)**.
 
-**3. URLs e links para recursos externos**  
-Sempre usar permalinks ao criar links para música digitalizada, em particular para o campo **Recurso externo (856))**.  
-  
-Ao criar um link para um sítio diferente, não insira o URL em um campo de notas. Ao invés disso, insira o recurso como uma referência bibliográfica inserindo-o na base de dados **Literatura secundária**. Então, faça um link para ele no campo **Referência bibliográfica (691)** e indique-o pelo seu título curto em um campo de notas. Isto fornece aos usuários acesso à informação bibliográfica completa e, se o URL muda, então basta apenas modificá-lo uma única vez no registro bibliográfico.
+If you want to link to a different website, do not enter the URL in a notes field. Rather, enter the resource as a bibliographic reference by entering it in the **Secondary literature** database. Then, link to it in the field **Bibliographic reference (691)** and refer to it by its short title in a notes field. This provides users with access to complete bibliographic information, and if the URL changes then we only have to change it once in the bibliographic record.
 
-Para livros encontrados no Google Books ou em outros repositórios online, deve-se sempre criar, na base de dados **Literatura secundária** , um registro/registo bibliográfico para o livro, e não para o repositório; i.e. deve-se citar o livro e não o Google Books.
+For books found on Google Books or other online repositories, always create a bibliographic record in the **Secondary literature** database for the book itself and not the repository; i.e. cite the book and not Google Books.
 
-**4. Fazendo identificações**  
-Informações importantes, tais como nomes de compositores ou títulos de obras, não estão sempre mencionadas na fonte. Às vezes é possível fazer identificações com base em literatura secundária, fontes de referência, outros registros RISM, ou mesmo fontes de arquivo a que se tenha acesso. Quando se recorre a esses recursos, deve-se sempre deixar claro no registro/registo o recurso que foi utilizado para fazer a identificação: deve-se nomear o recurso em uma **Nota geral (500)** e adicionar uma **Referência bibliográfica (691)**, quando apropriado. Deve-se certificar de que estará claro para os usuários posteriores do RISM como se chegou às conclusões relativas às informações apresentadas.
+**4. Making identifications**   
+Important information such as names of composers or titles of pieces is not always named on the source itself. It is sometimes possible to make identifications based on the secondary literature, reference sources, other RISM records, or even archival sources you have access to. If you draw upon such resources, always be clear in the record about what you used to make the identification: name the resource in a **General note (500)** and add a **Bibliographic reference (691)** if appropriate. Make sure it is clear for later RISM users how you came to your conclusions.
