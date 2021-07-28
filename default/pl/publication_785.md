@@ -1,8 +1,8 @@
-**Kolejny wpis****  (785 $a)**  
-  
-To pole i pole poprzednie **(Poprzedni wpis)** używa się do wyliczania i linkowania alternatywnych tytułów pozycji, takich jak tytuł czasopisma, które zmieniało nazwy.  
-  
-W tym miejscu należy wpisać kolejną nazwę, pod którą czasopismo było znane. Pole połączono linkiem z bazą danych literatury pomocniczej.   
+#### **Succeeding entry (785 $a)**
 
-_Przykład:_ Czasopismo _Chelys. The Journal of the Viola da Gamba Society_ istniało od 1969 do 2004, gdy zmieniło nazwę na _The Viola da Gamba Society Journal_. W rekordzie dla _Chelys_, należy wprowadzić następujące dane :  
-Kolejny wpis (785 $a): The Viola da Gamba Society Journal
+This field and the previous field ( **Preceding entry** ) are used to list and link alternate titles of items, such as a journal title that has changed names.
+
+Enter here the name that the periodical was successively known as. This field is linked to the **Secondary literature** database.
+
+_Example:_ The journal _Chelys. The Journal of the Viola da Gamba Society_ existed from 1969 to 2004, when it was succeeded by _The Viola da Gamba Society Journal_. In the record for _Chelys_, enter the following:  
+Succeeding entry (785 $a): The Viola da Gamba Society Journal
