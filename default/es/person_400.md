@@ -1,37 +1,31 @@
-### Variantes del nombre (400)
+### **Name variant (400)**
 
-Este campo está destinado a las formas del nombre que difieren de la forma autorizada, como los nombres de nacimiento, los seudónimos, los nombres religiosos, los nombres escritos de forma diferente en diferentes fuentes, las transliteraciones alternativas, etc. 
+This field is for forms of the name that differ from the authorized form, such as birth names, pseudonyms, religious names, names spelled differently on different sources, alternate transliterations, etc.
 
-  
+#### Name variant (400 $a)
 
-#### Variantes del nombre (400 $a)
+Enter the name in the form described in the field **Heading - Personal name (100 $a)**.
 
-Escriba el nombre en el formulario descrito en el **Campo principal - Nombre personal (100 $a).**
+For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
 
-  
+Additions to names such as Jr, III, Sir, Meister,etc. are entered here, for example: **Sinatra, Frank Jr.**
 
-Para los nombres escritos originalmente con alfabetos no latinos, registre la forma con escritura no latina en este campo. Las transliteraciones que utilizan otras tablas de traducción también pueden ingresarse aquí.
+####
+Life dates (400 $d)
 
-Añadidos tales como Jr, III, Sir, Meister,etc. se introducen aquí; por ejemplo: **Sinatra, Frank Jr.**
+Do not enter anything in this field.
 
-  
+####
+Type of name variant (400 $j)
 
-#### Fechas de vida (400 $d)
+The default value is **xx** (unassigned). Select from the list:
 
-No introduzca nada en este campo.
-
-  
-
-#### Tipo de variante de nombre (400 $j)
-
-El valor por defecto es  **xx**  (sin asignar). Seleccione una opción de la lista:
-
-- **Apodo ** [bn]  
-- **Iniciales ** [en]  
-- **Nombre de bautismo**  [tn]  
-- **Nombre de casada**  [ee]  
-- **Nombre de nacimiento**  [gg]  
-- **Nombre religioso**  [do]  
-- **Ortografía alternativa [z]: **destinado a ortografías alternativas, transliteraciones o nombres que utilizan alfabetos no latinos  
-- **Seudónimo ** [da]  
-- **Traducción ** [ub]: por ejemplo, Ackermann, Alexander como variante traducida de Agricola, Alexander
+- **Alternate spelling** [z]:This is for alternate spellings, transliterations, or names using non-Latin alphabets
+- **Baptismal name** [tn]
+- **Birth name** [gg]
+- **Initials** [in]
+- **Married name** [ee]
+- **Nickname** [bn]
+- **Pseudonym** [da]
+- **Religious name** [do]
+- **Translation** [ub] **:** For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_
