@@ -1,8 +1,13 @@
-### Określenie chronologiczne (548; RDA [rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086))
+**Chronological term (548;** **RDA registry [rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086))**
 
-#### Data (548 $a)
-Wprowadź datę skomponowania dzieła.  
-  
 
-#### Typ powiązania (548 $i)
-Z menu rozwijanego wybierz opcję **Data pochodzenia**.
+
+**Date (548 $a)**
+
+Enter the year the work was composed.
+
+
+
+**Type of relationship (548 $i)**
+
+Select **Date of origin** from the drop-down menu.
