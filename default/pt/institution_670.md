@@ -1,12 +1,24 @@
-#### Literatura (MARC 670 $a; ISDIAH 5.6.8)
+### Literature (MARC 670; ISDIAH 5.6.8)
 
-Este campo lista as fontes consultadas para criar a descrição da instituição, mas pode também servir como uma bibliografia geral para o acervo da instituição.
+This field lists the sources consulted in creating the description, including those that support the form of the name in the field **Authorized form of name** (110 $a). It can also serve as a general bibliography for the institution's collections.
 
-**Literatura (670 $a)**  
-Insira o título curto da fonte. Este campo é ligado à base de dados Literatura secundária. Itens que ainda não estejam na base de dados devem ser antes inseridos nela, para que possam depois ser ligados através de um título curto.
 
-É recomendável, mas não obrigatório, inserir e atualizar a bibliografia incluída na segunda edição da Série C do RISM. Se não existe bibliografia, indicar as fontes essenciais é o suficiente.
 
-  
-**Informação encontrada (670 $b)**    
-Insira o número, número de página(s) ou informação encontrada.
+#### Literature (670 $a)
+
+Enter the short title of the source. This field is linked to the **Secondary literature** database. Items not yet in the database must be entered there first before they can be linked through a short title.
+
+Entering and updating the bibliography included in the second edition of RISM Series C is recommended but not required. If no bibliography exists, naming the essential sources is sufficient.
+
+#### Source citation (670 $9)
+Enter a citation for a published work or a description of any source or action that provided information about the heading of the institution.
+
+#### Information found (670 $b)
+
+Enter the number, page number(s), or information found.
+
+
+
+#### URI (670 $u)
+
+Enter the URI consulted.
