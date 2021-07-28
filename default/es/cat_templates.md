@@ -1,11 +1,11 @@
-# Plantillas
+# Templates
 
-Muscat ofrece la posibilidad de seleccionar una plantilla apropiada para el tipo de fuente a catalogar. La plantilla ofrecerá sólo los campos que se requieren para la fuente en cuestión.
+Muscat offers template for different sources. The template offers only those fields that are needed for the source in hand.
 
-### Copia de registros existentes
+**Copying existing records**
 
-Como alternativa a la selección de plantillas se pueden copiar registros existentes. Hay dos maneras de hacer esto.
+In addition to selecting different templates, you can copy an existing record. There are two ways to do this.
 
-Desde la misma pantalla de selección de plantillas: simplemente ingrese el número ID de RISM del registro original en el campo “Crear a partir de un registro existente”. Le aparecerá una copia del registro en modo de edición y desde allí podrá hacer cualquier cambio que sea necesario. El registro copiado recibirá automáticamente un número ID de RISM nuevo después de ser guardado. 
+From the template selection screen: simply enter the RISM number in the field "Create from existing source." You will then see a copy of the record in the editing mode and from there you can make any changes to the record that you need. The copied record will automatically receive a new RISM ID number upon saving.
 
-La segunda opción consiste en copiar un registro desde el modo de visualización, haciendo click en el botón “Duplicar” que figura en la barra lateral de la derecha.
+Alternately, you can copy a record in the viewing mode by clicking on the "Duplicate" button in the sidebar on the right.
