@@ -1,7 +1,7 @@
-#### **Nota de conteúdo  (520 $a)**
+#### **Contents note (520 $a)**
 
-Este campo apresenta a(s) data(s) de início/fim de um item, especialmente para periódicos.
+This field states the beginning/ending date(s) of an item, especially for periodicals.
 
-_Exemplos:_  
+_Examples_:  
 Vol. 1, no. 1 (Apr. 1981)-  
 1969-2004
