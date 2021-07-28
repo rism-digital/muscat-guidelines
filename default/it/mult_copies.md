@@ -1,3 +1,3 @@
-**Esemplari multipli in una istituzione**
+**Multiple copies in one institution**
 
-Se la tua biblioteca contiene più esemplari della stessa edizione a stampa, ogni esemplare è riportato in una nota di possesso separata.  
+If your institutions owns multiple copies (exemplars) of the same printed edition, create a separate holdings record for each copy.
