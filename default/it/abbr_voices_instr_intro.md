@@ -1,57 +1,57 @@
-**Indice:**  
+**Contents:**
 
-- 
+-
 
-Abbreviazioni generiche e concetti
+General abbreviations and concepts
 
-  - 
+  -
 
-Generallità
+General
 
-  - 
+  -
 
-Aggiunte a qualsiasi strumento per indicare l’estensione
+Additions to any instrument to indicate a range
 
-  - 
+  -
 
-Aggiunte a qualsiasi strumento per indicare il tipo
+Additions to any instrument to indicate a type
 
-  - 
+  -
 
-Aggiunte a qualsiasi strumento a fiato per indicare un’accordatura differente da quella standard
+Additions to any wind instrument to indicate a tuning other than standard tuning
 
-  - 
+  -
 
-Tipi o numero di strumenti non specificati o ignoti
+Unspecified or unknown types or numbers of instruments
 
-- 
+-
 
-Termini vocali (voci)
+Vocal (voice) terms
 
-- 
+-
 
-Archi
+Strings
 
-- 
+-
 
-Legni
+Woodwinds
 
-- 
+-
 
-Ottoni
+Brass
 
-- 
+-
 
-Strumenti a corde pizzicate
+Plucked instruments
 
-- 
+-
 
-Percussioni, altri strumenti
+Percussion, other
 
-- 
+-
 
-Strumenti a tastiera
+Keyboard instruments
 
-- 
+-
 
 Basso continuo
