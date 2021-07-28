@@ -1,0 +1,11 @@
+### Contents note (505 $a)
+
+Enter additional information about the contents of the source which does not fit into any other category, such as:
+
+- Information on different versions of the work
+- Information on the structure of collections
+- The number of verses in strophic songs
+- General structural information about the source
+- Information on the full scoring, if the material is incomplete
+
+Enter using your cataloging language.
