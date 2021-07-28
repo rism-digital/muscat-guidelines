@@ -1,8 +1,8 @@
-#### **Entrada precedente (780 $w)** 
+#### **Preceding entry (780 $w)**
 
-Este campo e o campo seguinte (Entrada subsequente) são usados para nomear e relacionar títulos alternativos de itens, como um título de periódico que teve nomes diferentes.
+This field and the next field ( **Succeeding entry** ) are used to name and link alternate titles of items, such as a journal title that has changed names.
 
-Insira aqui o nome pelo qual o periódico era anteriormente conhecido. Este campo é ligado à base de dados **Literatura secundária**.   
-  
-_Exemplo:_ O periódico _The Viola da Gamba Society Journal_ começou em 2007 e foi precedido pelo _Chelys. The Journal of the Viola da Gamba Society_ (publicado entre 1969 e 2004). No registro para _The Viola da Gamba Society Journal_, insira o seguinte:  
-Entrada precedente (780 $w): Chelys. The Journal of the Viola da Gamba Society
+Enter here the name that the periodical was formerly known as. This field is linked to the **Secondary literature** database.
+
+_Example:_ The journal _The Viola da Gamba Society Journal_ began in 2007 and was preceded by _Chelys. The Journal of the Viola da Gamba Society_ (published from 1969 to 2004). In the record for _The Viola da Gamba Society Journal_, enter the following:  
+Preceding entry (780 $w): Chelys. The Journal of the Viola da Gamba Society
