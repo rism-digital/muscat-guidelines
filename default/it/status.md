@@ -1,11 +1,13 @@
-## **Stato della scheda**
+### Record status
 
-Lo **stato della scheda** determina quali schede sono pubblicate nel [catalogo RISM online](https://opac.rism.info/index.php?id=4) e sono dunque visibili pubblicamente. Lo stato può essere cambiato a mano.
+The **Record status** determines which records are published in the [RISM online catalog](https://opac.rism.info/index.php?id=4) and are thus publicly viewable. The status can be changed manually.
 
-**Pubblicata**  
-Le schede Muscat con lo stato **Pubblicata** sono inviate al catalogo RISM per la pubblicazione con scadenza mensile, attorno al 19 del mese (a seconda dei finesettimana o dei giorni di festa). Le schede sono visibili nel catalogo entro la fine del mese. Per ogni nuova scheda il valore predefinito automaticamente è  **pubblicata**.
+**Published**  
+Records from Muscat with the status **Published** are sent for publication in the RISM catalog once a month, around the 19th of the month (depending on weekends and holidays). The records can then be seen in the catalog by the end of the month. All new records are automatically set to **Published**.
 
-**In elaborazione**  
-Le schede con lo stato **in elaborazione ** non vengono pubblicate nel catalogo RISM online. In alcuni progetti si preferisce mantenere questo stato fino al compimento dell'intero progetto, oppure puoi individualmente rinviare la pubblicazione finché una scheda non è completamente catalogata (ad esempio una scheda con molti incipit o schede subordinate).
 
-Si prega di utilizzare questo stato oculatamente. Non è miglior pratica togliere dalla pubblicazione delle schede che prima erano pubblicamente accessibili, e non è ideale mantenere schede in elaborazione per un lungo periodo di tempo.
+
+**Unpublished**  
+Records with the status **Unpublished** are withheld from publication in the RISM online catalog. Some projects wish to keep this status until the project is complete, or individuals might want to wait until an item is fully cataloged before publishing it (such as with extensive records that have lots of incipits or individual entries).
+
+Please use this status judiciously. It is not good practice to unpublish records that were once publicly available, nor is it ideal to keep records unpublished for a very long time.
