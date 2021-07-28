@@ -1,3 +1,3 @@
-#### **Líder (000)**
+#### **Leader (000)**
 
-Não modifique.
+Do not change.
