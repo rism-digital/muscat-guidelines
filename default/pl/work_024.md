@@ -1,19 +1,18 @@
-**Inny standardowy identyfikator (024)**   
-Rejestr RDA [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052)
+**Other standard identifier (024;** **RDA registry [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052))**
 
-Pole wyświetla standardowe identyfikatory pochodzące z zewnętrznych instytucji.
+This field is used to indicate standard identifiers from external agencies.
 
-  
 
-#### **Standardowy numer lub kod (024 $a)**
 
-Wprowadzić alfanumeryczny kod stosowany do identyfikacji dzieła. Kod pobiera się z pliku autorytatywnego instytucji tworzącej rekordy.
+**Standard number or code (024 $a)**
 
- 
+Enter the alphanumeric code used to identify the work. The code is taken from the authority data of the creating agency.
 
-#### **Źródło numeru lub kodu (024 $2)**
 
-Wybrać spośród poniższych:
+
+**Source of number or code (024 $2)**
+
+Select from the following:
 
 - **BNE** : Biblioteca Nacional de España
 - **BNF** : Bibliothèque nationale de France
