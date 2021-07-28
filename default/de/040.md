@@ -1,3 +1,3 @@
-### **Katalogisierungssprache (040 $b)**
+### Language of cataloging (040 $b)
 
-Geben Sie des Sprache des Eintrags an. Gemeint ist die Sprache der Bemerkungen. Wählen Sie zwischen Deutsch, Englisch, Französisch, Italienisch oder Spanisch.
+Indicate your cataloging language. Select from English, French, German, Italian, Portuguese, or Spanish.
