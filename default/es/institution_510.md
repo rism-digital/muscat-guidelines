@@ -1,59 +1,50 @@
-### Forma paralela del nombre (MARC 510; ISDIAH 5.1.3)
+### Parallel form of name (MARC 510; ISDIAH 5.1.3)
 
-Este campo presenta varias formas del nombre de una institución, incluidas las traducciones. También se pueden registrar aquí las relaciones con otras instituciones.
+This field gives various forms of an institution's name, including translations. Relationships to other institutions can also be recorded here.
 
-  
 
-#### Forma paralela del nombre (MARC 510 $a)
 
-Registre las diversas formas en que se presenta la forma autorizada del nombre de una institución, así como las traducciones del nombre a otros idiomas, preferentemente al inglés. Los nombres originales en alfabetos no latinos también pueden ser registrados en este campo. Escriba cada nombre en una línea separada.
+#### Parallel form of name (MARC 510 $a)
 
-  
+Enter various forms in which the authorized form of name of an institution occurs as well as translations of the name in other languages, preferably in English. Original names in non-Latin scripts can also be entered here. Enter each name on a separate line.
 
-_Ejemplos:_
-
-The National Library of Wales [for Llyfrgell Genedlaethol Cymru]
-
-Norwegian State Academy of Music, The Library [for Norges musikkhøgskole, Biblioteket]
-
-ERESBIL - Archivo Vasco de la Música [for ERESBIL - Musikaren Euskal Artxiboa]
-
-ERESBIL - Basque Archives of Music [for ERESBIL - Musikaren Euskal Artxiboa]
-
+_Examples_:  
+The National Library of Wales [for Llyfrgell Genedlaethol Cymru]  
+Norwegian State Academy of Music, The Library [for Norges musikkhøgskole, Biblioteket]  
+ERESBIL - Archivo Vasco de la Música [for ERESBIL - Musikaren Euskal Artxiboa]  
+ERESBIL - Basque Archives of Music [for ERESBIL - Musikaren Euskal Artxiboa]  
 Государственный центральный музей музыкальной культуры им. М. И. Глинки
 
-  
 
-  
 
-#### Subcampo de control (510 $w)
+#### Control subfield (510 $w)
+Select a term from the drop-down menu that describes the kind of name.
 
-Seleccione un término del menú desplegable que describa el tipo de nombre.
 
-Seleccione una de las siguientes opciones:
+Select from the following:
 
-- Encabezado anterior [a]
-- Encabezado posterior [b]
-- Acrónimo [d]
-- Composición musical [f]
-- Término más amplio [g]
-- Término más estrecho [h]  
-- Frase de instrucción de referencia en el subcampo $i [i]
-- No aplicable [n]  
-- Designación de la relación en $i o $4 [r]  
-- Cuerpo padre inmediato [t]
+- Earlier heading [a]
+- Later heading [b]
+- Acronym [d]
+- Musical composition [f]
+- Broader term [g]
+- Narrower term [h]
+- Reference instruction phrase in subfield $i [i]
+- Not applicable [n]
+- Relationship designation in $i or $4 [r]
+- Immediate parent body [t]
 
-  
 
-#### Información de la relación (510 $i)
 
-Introduzca un término para describir la relación del nombre con el encabezado principal. Use el vocabulario determinado por las Propiedades de Agente RDA. Los términos comúnmente usados incluyen:  
+#### Relationship information (510 $i)
 
-- Superior jerárquico
-- Subordinado jerárquico
-- Predecesor de la corporación
-- Sucesor de la corporación
-- Familia fundadora de la corporación
-- Miembro del órgano corporativo de la empresa
-- Miembro de la familia de la empresa
-- Corporación absorvida
+Enter a term to describe the relationship of the name to the main heading. Use the vocabulary as determined by the RDA Agent Properties. Commonly used terms include:
+
+- Hierarchical superior
+- Hierarchical subordinate
+- Predecessor of corporate body
+- Successor of corporate body
+- Founding family of corporate body
+- Corporate body member of corporate body
+- Corporate body member of family
+- Absorbed corporate body
