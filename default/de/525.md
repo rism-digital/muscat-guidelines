@@ -1,3 +1,3 @@
-### Beigelegtes Material, Addenda (525 $a)
+### Supplementary material (525 $a)
 
-Liegen einer Quelle zusätzliche Materialien wie Programmhefte, Rezensionen etc. bei, wird dies hier genannt. Verwenden Sie eine der Katalogisierungssprachen.
+Mention material that accompanies the source, such as program notes, reviews, etc. Enter using your cataloging language.
