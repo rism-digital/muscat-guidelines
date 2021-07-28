@@ -1,7 +1,7 @@
-**Nota de dissertação (502 $a)**
+**Dissertation note (502 $a)**
 
-Se o item é uma dissertação, inclua o tipo de grau, instituição e ano.
+If the item is a doctoral dissertation, include the type of degree, institution, and year.
 
-_Exemplos:_  
+_Examples:_  
 Ph.D. diss., University College, London 1998  
 Diss., Freie Universität, Berlin 2002
