@@ -1,213 +1,221 @@
-**1. Figure** (I termini in corsivo si riferiscono a rimandi.)
+**1. Figures** (Terms in italics refer to cross-references.)
 
 ** **
 
-abbot = abate
+abbot
 
-_Agnus Dei:_ _utilizza_lamb (Paschal)
+_Agnus Dei:_ _use_lamb (Paschal)
 
-anchor = ancora
+anchor
 
-ankh = croce ansata
+ankh
 
-antlers = palco di corna (di cervo)
+antlers
 
-_balances:_ _utilizza_scales
+_balances:_ _use_scales
 
-Basle crosier = pastorale di Basilea
+Basle crosier
 
-bear and tamer = orso e ammaestratore
+bear and tamer
 
-bell (outline / clapper) = campana (sagoma / batacchio) _vedi anche_ spherical bell
+bell (outline / clapper) _see also_ spherical bell
 
-_bicephalous:_ _utilizza_ double-headed
+_bicephalous:_ _use_ double-headed
 
-bishop’s crosier = pastorale di vescovo
+bishop’s crosier
 
-bull’s head = testa di toro
+bull’s head
 
-_bush:_ _utilizza_ shrub
+_bush:_ _use_ shrub
 
-cardinal’s hat = cappello cardinalizio
+cardinal’s hat
 
-_carriage:_ _utilizza_ coach
+_carriage:_ _use_ coach
 
-_chalice:_ _utilizza_ goblet
+_chalice: use_ goblet
 
-chaplet = ghirlanda/rosario
+chaplet
 
-Christ on the cross = Cristo in croce
+Christ on the cross
 
-clover (broad-leafed) = trifoglio (a foglie larghe)
+clover (broad-leafed)
 
-coach = carrozza
+coach
 
-coat of arms = stemma
+coat of arms
 
-compass = compasso
+compass
 
-_compasses:_ _utilizza_compass
+_compasses or pair of compasses:_ _use_compass
 
-crescent = mezzaluna
+crescent
 
-crosier = pastorale _vedi anche_ Basle crosier, bishop’s crosier
+crosier_see also_ Basle crosier, bishop’s crosier
 
-cross of Lorraine = croce di Lorena
+cross of Lorraine
 
-crown (with narrow / wide arch) = corona (con volta stretta / larga)
+crown (with narrow / wide arch)
 
-_crozier (crosier) of Basle (Basel):_ _utilizza_ Basle crosier
+_crozier (crosier) of Basle (Basel): use_ Basle crosier
 
-dagger = pugnale
+dagger
 
-eagle (single-headed / double-headed) = aquila (a una testa / a due teste)
+eagle (single-headed / double-headed)
 
-_Egyptian cross:_ _utilizza_ ankh
+_Egyptian cross:_ _use_ ankh
 
-falcon = falco
+falcon
 
-_fool’s cap:_ _utilizza_ foolscap
+_fool’s cap: use_ foolscap
 
-foolscap = berretto da matto
+foolscap
 
-_four-legged animal: utilizza_ quadruped
+_four-legged animal: use_ quadruped
 
-Freemason symbols = simboli massoni
+Freemason symbols
 
-glove = guanto
+glove
 
-goblet = coppa
+goblet
 
-Gothic letter = lettera gotica
+Gothic letter
 
-Gothic letter P with forked stem (turned outwards / inwards) = lettera gotica con asta biforcuta (verso l’esterno / verso l’interno)
+Gothic letter P with forked stem (turned outwards / inwards)
 
-grapes: grapes / grape leaf / grapevine = uva: grappolo / foglia di vite / vite
+grapes: grapes / grape leaf / grapevine
 
-griffin = grifone
+griffin
 
-_gryphon:_ _utilizza_griffin
+_gryphon:_ _use_griffin
 
-halberd = alabarda
+halberd
 
-hat (three-cornered) = cappello (a tre punte)
+hat (three-cornered)
 
-hedgehog = riccio
+hedgehog
 
-horn (with baldric / additional motif) = corno (con bandoliera / con motivo accessorio)
+horn (with baldric / additional motif)
 
-horseman = cavaliere
+horseman
 
-ibex = stambecco
+ibex
 
-ivy = edera
+ivy
 
-lamb (Paschal) = agnello (pasquale)
+lamb (Paschal)
 
-_Lamb of God:_ _utilizza_ lamb (Paschal)
+_Lamb of God: use_ lamb (Paschal)
 
-_laurel (wreath):_ _utilizza_ wreath
+_laurel (wreath): use_ wreath
 
-lily = giglio
+lily
 
-lime tree = tiglio
+lime tree
 
-_linden:_ _utilizza_ lime tree
+_linden: use_ lime tree
 
-_Lorraine cross:_ _utilizza_ cross of Lorraine
+_Lorraine cross: use_ cross of Lorraine
 
-_mammal:_ _utilizza_ quadruped
+_mammal: use_ quadruped
 
-merchant’s mark = marchio del mercante
+merchant’s mark
 
-mermaid (single / double tail) = sirena (con coda semplice / doppia)
+mermaid (single / double tail)
 
-_miter:_ _utilizza_ mitre
+_miter:_ _use_ mitre
 
-mitre = mitra
+mitre
 
-_mountain goat:_ _utilizza_ ibex
+_mountain goat:_ _use_ ibex
 
-orb = globo imperiale
+orb
 
-_pair of compasses:_ _utilizza_compass
+_pair of compasses:_ _use_compass
 
-quadruped = quadrupede
+quadruped
 
-quill = penna
+quill
 
-ram = ariete
+ram
 
-_rider:_ _utilizza_ horseman
+_rider:_ _use_horseman
 
-_rod of Basel:_ _utilizza_ Basle crosier
+_rod of Basel: use_ Basle crosier
 
-scales (with triangular/round pans) = bilancia (con piatti triangolari/tondi)
+scales (with triangular/round pans)
 
-_scepter:_ _utilizza_sceptre
+_scepter:_ _use_sceptre
 
-sceptre = scettro
+sceptre
 
-scythe = falce
+scythe
 
-_serpent:_ _utilizza_ snake
+_serpent:_ _use_ snake
 
-shape (tall / narrow / unidentified) = figura/segno (alto / stretto / non identificato)
+shape (tall / narrow / unidentified)
 
-_shears:_ _utilizza_scissors
+_shears:_ _use_scissors
 
-shrub (nondescript) = cespuglio (non specificato)
+shrub (nondescript)
 
-sickle = falcetto
+sickle
 
-snake on a shaft = bastone di Esculapio
+snake on a shaft
 
-spherical bell = sonaglio
+spherical bell
 
-square = quadrato
+square
 
-St. Andrew’s cross = croce di Sant’Andrea
+St. Andrew’s cross
 
-stag (head/whole) = cervo (testa/intero)
+stag (head/whole)
 
-star (six points) = stella (a sei punte)
+star (six points)
 
-stork = cicogna
+stork
 
-sun (with face / rays) = sole (con viso / radiante)
+sun (with face / rays)
 
-swastika = svastica
+swastika
 
-_three-cornered hat: vedi_ hat
+_three-cornered hat: see_ hat
 
-_three kings:_ _utilizza_ three magi
+_three kings:_ _use_ three magi
 
-three magi = tre re magi
+three magi
 
-_three wise men:_ _utilizza_ three magi
+_three wise men: use_ three magi
 
-torch = torcia
+torch
 
-tower (single / with extension / with gate) = torre (singola / con estensione / con cancello)
+tower (single / with extension / with gate)
 
-tree (with leaves) = albero (latifoglia)
+tree (with leaves)
 
-tree (with needles) = albero (aghifoglia)
+tree (with needles)
 
-_tricorne:_ _utilizza_ hat (three-cornered)
+_tricorne:_ _use_ hat (three-cornered)
 
-trident = tridente
+trident
 
-unicorn = unicorno
+unicorn
 
-wild man = uomo selvaggio
+wild man
 
-wreath = serto (d’alloro)
+wreath
 
-**2. Descrizioni**
 
-chain line = filone
 
-formed from a single piece of wire = formato da un solo filo di ferro
 
-wire lines (curved/straight) = vergature (incurvate/diritte)
+
+
+
+**2. Descriptions**
+
+chain line
+
+formed from a single piece of wire
+
+wire lines (curved/straight)
+
+ 
