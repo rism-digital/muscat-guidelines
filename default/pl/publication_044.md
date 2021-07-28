@@ -1,3 +1,3 @@
-**#### Kraj wydania (044 $a)**
+**#### Country of publication (044 $a)**
 
-Pole przeznaczone wyłącznie dla monografii. Podać nazwę kraju wydania. Nazwę kraju należy podać w języku angielskim.
+Use this field only for printed monographs. Enter the name of the country in which the item was published. Enter the name in English.
