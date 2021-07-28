@@ -1,41 +1,42 @@
-#### Títulos uniformes para la música impresa
+**Standardized titles for printed music**
 
-### Títulos distintivos
+**Distinctive titles**
 
-La música impresa presenta títulos distintivos con mucha más frecuencia que la música manuscrita. Por favor, observe lo siguiente para el campo **Título** **uniforme (240)** al catalogar música impresa.
+Printed music bears distinctive titles much more frequently than music manuscripts do. Please observe the following for the field **Standardized title (240)**when cataloging printed music.
 
-1. **Ortografía**  
-Ingrese títulos uniformes sólo con ortografía moderna, pero no corrija de más usos arcaicos o dialectos/regionalismos. Entre los cambios frecuentes aparecen _v_ a _u, i_ a _j, y_ a _i__, uu_ a _w_. El Centro Editorial puede asistirle con lenguajes extranjeros que no le resulten familiares. Puede ingresar variantes adicionales en el campo **Título adicional (730).**  
+1. **Spelling**  
+   Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms. Frequent changes include _v_to _u_,_i_to _j_,_y_to _i,_and _uu_to _w_. The Editorial Center can assist with unfamiliar foreign languages. Additional variations can be entered in the field **Additional title (730)**.  
 
-> _Ejemplo:_  
-> RISM A/I: RR 3030c  
-> Título en fuente (diplomático): Musicalische Grab=schrifft.]  
-> Título uniforme: Musikalische Grabschrift
+_Example_  
+:   RISM A/I: RR 3030c  
+    Title on source: Musicalische Grab=schrifft.  
+    Standardized title: Musikalische Grabschrift
 
-1. **Derivación de un título uniforme**  
-Los títulos uniformes deben consistir en el título del impreso hasta que se da una interrupción natural, usualmente una coma, punto o enunciación del autor, de la plantilla/orgánico, del número o impreso. A veces aparece un título distintivo en una página diferente a la portada.  
+2. **Deriving a standardized title**  
+   Standardized titles should consist of the title of the print up to a natural break, frequently a comma, period, or a statement of the author, instrumentation, number, or imprint. Sometimes a distinctive title appears on a page other than the title page.
 
-> _Ejemplos_:  
-> RISM A/I: B 805  
-> Título en fuente (diplomático): Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza  
-> Título uniforme: Vezzo di perle musicali  
->  
+_Examples:_
 
-> RISM A/I: B 3781   
-> Título en fuente: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima  
-> Título uniforme: Novo giardino de concerti
+RISM A/I: B 805  
+Title on source: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza  
+Standardized title: Vezzo di perle musicali
 
-### Títulos genéricos
+RISM A/I: B 3781  
+Title on source: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima  
+Standardized title: Novo giardino de concerti
 
-Incluso los títulos genéricos, especialmente en impresos antiguos, se citan en la bibliografía como si fueran títulos distintivos. Use el campo **Título adicional (730)** para ingresar este tipo de títulos de forma uniforme. Como guía, consulte las obras estándar de referencia como Grove y MGG, y archivos de autoridad de la [Library of Congress](http://id.loc.gov/authorities/names.html) o de [VIAF](http://www.viaf.org/). Si el título indica que el ítem tiene una afiliación con otro ítem, en tanto libro/_book/Buch/livre_ o parte/tomo/_part/Teil/part/tomus_, ingrese el componente en el lenguaje original (con ortografía estandarizada) y los números arábigos después del título.
+**Generic titles**
 
-_Ejemplos_:  
+Even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive titles. Use the field**Additional title (730)** to enter such titles in a standardized form. For guidance, refer to standard reference works such as Grove and MGG, and authority files from the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the component in the original language (but standardized spelling) and the arabic number following the title.
+
+_Examples_:
+
 RISM A/I: P 687  
-Título en fuente: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI  
-Título uniforme: 6 Masses  
-Título adicional: Missarum, liber 12
+Title on source: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI  
+Standardized title: 6 Masses  
+Additional title: Missarum, liber 12
 
-RISM A/I: SS 6593a   
-Título en fuente: Ander Theil | Der Preussischen | Fest-Lieder/ | Von Ostern an biß Advent | Mit 5/ 6/ 7/ 8. Stimmen. | JOHANNIS ECCARDI MULHUSINI THURINGI, | vnd | JOHANNIS STOBAEI GRUDENTINI BORUSSI. | Beyder Chur: vnd Fürstlicher Brandeb. Capell= | meistern in Preussen. | DISCANTVS. | Gedruckt zu Königsberg durch Johann Reusnern An: 1644.  
-Título uniforme: Preussische Festlieder  
-Título adicional: Preussische Festlieder, Teil 2
+RISM A/I: SS 6593a  
+Title on source: Ander Theil | Der Preussischen | Fest-Lieder/ | Von Ostern an biß Advent | Mit 5/ 6/ 7/ 8. Stimmen. | JOHANNIS ECCARDI MULHUSINI THURINGI, | vnd | JOHANNIS STOBAEI GRUDENTINI BORUSSI. | Beyder Chur: vnd Fürstlicher Brandeb. Capell= | meistern in Preussen. | DISCANTVS. | Gedruckt zu Königsberg durch Johann Reusnern An: 1644.  
+Standardized title: Preussische Festlieder  
+Additional title: Preussische Festlieder, Teil 2
