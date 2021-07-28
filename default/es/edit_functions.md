@@ -1,74 +1,83 @@
-### La barra de menú superior
+### The top menu bar
 
-El botón de  **Administración**  dirige a la configuración MARC, donde pueden consultarse todos los campos MARC utilizados en Muscat (tanto fuentes como archivos de autoridad).
+**Administration** links to the MARC configuration, which lets you view all the MARC fields used in Muscat (sources plus authority files)
 
-El botón de  **Idioma**  permite cambiar el lenguaje de Muscat.
+**Language** allows you to switch the language of Muscat.
 
-El **Panel de actividad** muestra los registros que ha editado recientemente en Muscat.
+The **Dashboard** displays your recent records in Muscat.
 
-El botón de  **Comentarios**  permite ver todos los comentarios agregados a los registros de Muscat. Cualquier usuario puede ver los comentarios de todos los demás y comentar en cualquier registro. Nombre a otros usuarios tipeando @ más su nombre para incluirlos en la conversación.
+**Comments** allow you to see all comments attached to Muscat records. You can view comments from all users and comment on any record. Name other users by typing **@** plus their name to include them in the conversation.
 
-Pueden crearse  **Carpetas ** seleccionando registros, dirigiéndose a  **Acción por lotes**  sobre la lista de registros y creando una carpeta nueva, o bien añadiendo ítems a una carpeta existente. Consulte su carpeta haciendo uso de los filtros que aparecen a la derecha (bajo la etiqueta “ **Está en la carpeta** ”). Una vez allí, puede ordenar y buscar como lo hace usualmente. Borre sus carpetas desde la misma sección, accediendo con el botón correspondiente en la barra de menú.
+**Folders** allow you to see all folders created by Muscat users.
 
-La  **Búsqueda por facetas ** le permite buscar las mismas fuentes pero con más criterios de búsqueda: o bien una búsqueda simple con límites, o bien una búsqueda avanzada con muchos campos disponibles. En caso de que Ud. cuente con los permisos para editar un registro que ve en la búsqueda por facetas, aparecerá un enlace al modo de edición de Muscat para ese registro. De no ser así, puede regresar Muscat haciendo click en  **Catalogar. ** El botón  **Sitio principal ** lo lleva al sitio de la Oficina Central de RISM.
+The **Faceted search** allows you to search the same sources but with more search criteria: a simple search with limits and an advanced search with many fields available. If you have the permissions to edit a record you see in the faceted search, there will be a link to take you to the Muscat editing mode. Otherwise, return to Muscat by clicking on **Cataloguing**. **Home** takes you back to the RISM Zentralredaktion website.
 
-La página de  **Fuentes**  es la página principal desde la que se accede a los registros bibliográficos para descripciones de fuentes.
+The **Sources** page is the main page from which you access the bibliographic records for source descriptions.
 
-El botón de  **Autoridades**  lo lleva a todos los archivos de autoridades, vocabulario controlado e índices en Muscat. Véase  **Lineamientos de catalogación: Autoridades**  para mayor información.
+**Authorities** takes you to all authority files, controlled vocabulary, and indexes in Muscat. See **General cataloging guidelines: Authorities** for more information.
 
-El botón de  **Lineamientos**  permite consultar todos los lineamientos en una sola página. Es donde estamos ahora.
+**Guidelines** lets you see all the guidelines on one page. That's where you are now.
 
-### Secciones y acciones en el modo de edición
 
-Esta sección trata sobre las acciones que se pueden realizar cuando se edita el registro de una fuente.
 
-La columna de navegación a la derecha permite saltar a secciones específicas del registro, guardar y ver su trabajo.
 
-Use los  **enlaces**  en la parte superior para saltar a una sección del registro. Si edita una sola sección y luego salta a otra, su trabajo inicial se conserva; lo mismo si hace click en  **Mostrar todas las secciones**  (¡pero recuerde guardar su trabajo antes de dejar el modo de edición!).
+### Sections and actions in the editing mode
 
-El botón  **Mostrar todas las secciones**  permite ver todas las secciones del registro. Resulta útil cuando necesita volver a editar el registro completo después de trabajar en una sección específica.
+This refers to actions you can take when editing a source record.
 
-El botón  **Mostrar vista preliminar ** permite ver el registro sin guardar. Para volver al modo de edición, haga click en  **Esconder vista previa.**
+The navigation column on the right allows you to jump to specific sections of the record and save and view your work.
 
-El botón  **Guardar y continuar editando**  permite guardar su trabajo y seguir en el modo de edición. Guarde frecuentemente para prevenir la pérdida de su trabajo. Luego de que un registro se guarda por primera vez, se le asigna un número RISM automáticamente.
+Use the **links** at the top to jump to a section of the record. When editing a single section, your work will be retained if you jump to a different section or if you click on **Show all sections**. (But remember to save your work before leaving the editing mode!)
 
-El botón  **Guardar y cerrar**  lo lleva de regreso a la pantalla anterior después de guardar su trabajo.
+**Show all sections** lets you view all sections of the record. This is useful for when you want to return to editing the full record after working on a specific section.
 
-El botón  **Cancelar**  lo lleva de nuevo a la pantalla anterior sin guardar.
+**Show preview** lets you view the record without saving. To return to editing mode, click **Hide preview**.
 
-El botón  **Mostrar historial de modificaciones**  permite ver, restaurar y borrar versiones previas del registro. Haga click en  **Mostrar todas las secciones ** nuevamente para volver al modo de edición y a cualquier cambio que no haya guardado.
+**Validate** checks for errors in the record.
 
-El botón  **Añadir una nueva imagen**  permite subir imágenes pequeñas (habitualmente marcas de agua, muestras de escritura, o encuadernados) para agregar a sus registros. Puede acceder a las imágenes cargadas en el menú  **Autoridades ** \>  **Imágenes.**
+**Save and continue editing** allows you to save your work and continue in the editing mode. Save frequently to prevent you from losing your work. After a record is first saved, the RISM number is assigned automatically.
 
-### Botones del modo de edición
+**Save and close** brings you back to the previous screen while saving your work.
 
-**Lupa** : haga click aquí para buscar en el archivo de autoridades vinculado al campo. Se abrirá una ventana aparte. Después de encontrar lo que necesite, haga click en  **Seleccionar**  para hacer la transferencia de la selección a su registro.
+**Cancel** brings you back to the previous screen without saving.
 
-**Signo de pregunta (?)**: Se muestran los lineamientos RISM para este campo.
+**Show modification history** allows you to view, restore, and delete previous versions of the record. Click **Show all sections** again to return to the editing mode and any unsaved changes.
 
-**Signo más (+)**: Los campos que pueden repetirse (aquellos que pueden tener más de un registro) tienen un signo más (+). Haga click en el + para crear un nuevo registro vacío. Los registros de este tipo de campo pueden reordenarse, haciéndoles click y arrastrándolos.
+**Attach a new image** lets you upload small images (usually watermarks, handwriting samples, or bindings) to attach to your records. All images can be found in the **Authorities** menu under **Digital objects**.
 
-**Cesto de basura** : Borre un campo haciendo click en el cesto de basura.
 
-**Flecha** : Haga click en la flecha para expandir o colapsar campos.
 
-**Añada un grupo** : Este botón se encuentra al final de la sección  **Descripción material. ** Si se usan grupos diferenciados, distintas fechas, formatos, marcas de aguas, nombres, instituciones, etc. pueden asociarse a distintas fuentes (o como sea que elija describir su material). Algunos de estos campos, como **Nombre personal adicional (700), Institución adicional (710) **y **Nota general (500)** también se encuentran en otros lugares en la plantilla de Fuentes. Use su mejor juicio para decidir dónde colocar esta información: ¿aplica a toda la fuente, o solo a este grupo de material?
+### Buttons in the editing mode
 
-### Otras funciones en el modo de edición
+**Magnifying glass** : Click here to search the authority file linked to the field. A separate window will open up. After you find what you need, click **Select** to make the transfer to your record.
 
-**Autocompletar:**  si ve un campo que tiene una llave, se trata de un campo vinculado al índice o archivo de autoridad. Empiece a escribir y use el autocompletado para ayudarse.
+**Question mark (?)**: The RISM guidelines for this field are displayed.
 
-**Añadir nuevos nombres, títulos, descriptores, etc.** : si no encuentra lo que necesita en el archivo o índice de autoridad, simplemente ingrese el nombre o título que desee. Una vez que haga click en otro campo, aparecerá un borde anaranjado alrededor del campo de la inserción, junto con una casilla de verificación con la indicación “Confirmar la inserción de un valor nuevo”. Haga click en esta casilla para confirmar. En el caso de los nombres personales, aparecerá un campo llamado  **Fechas de vida**. Por favor, llene este campo en la medida que le resulte posible. De este modo ayuda a la Oficina Central a crear un nuevo registro de autoridad para ese nombre. Al guardar, el nombre o título será añadido automáticamente al archivo de autoridades. Consulte también la sección  **Nombres personales ** de los  **Lineamientos generales de Catalogación.**
+**Plus sign (+)**: Fields that may be repeated have a plus sign (+). Click on the + to create a new, empty field. Fields may be reordered in this section by clicking and dragging them.
 
-**Campos requeridos y validación** : cuando inicie un nuevo registro, los campos más importantes ya estarán abiertos y listos para ser llenados. Los campos en amarillo son campos requeridos. Si guarda sin haber llenado uno de estos campos, aparecerá un borde rojo alrededor de los campos que todavía necesiten atención y las secciones correspondientes a dichos campos aparecerán en rojo en la barra lateral a la derecha. En los casos en los que no pueda agregarse información en un campo requerido, la validación puede ser anulada por medio de la confirmación de una casilla de verificación en la barra lateral.
+**Trash can** : Delete a field by clicking on the trash can.
 
-### Acciones en el modo de visualización
-Esta sección trata acerca de las acciones que pueden realizarse cuando se visualiza el registro completo.  
+**Arrow** : Click on the arrow to expand or collapse fields.
 
-**Crear** : este botón lleva a la página de selección de plantillas desde la cual puede crear un nuevo registro.
+**Add a group** : This button is found at the bottom of the section **Material description**. With different groups, you can associate different dates, formats, watermarks, names, institutions, etc. with different types of sources (or however you choose to describe your material). Some of these fields, such as **Additional personal name (700)**,**Additional institution (710)**, and **General note (500)**are also found elsewhere in the Sources template. Use your best judgment to decide where to place such information: does it apply to the entire source, or just this group of material?
 
-**Regresar a la lista** : este botón lo lleva de regreso a la lista de todas las fuentes musicales.
+### Other functions in the editing mode
 
-**Editar:**  verá este botón en caso de que cuente con los permisos necesarios para editar el registro.
+**Autocomplete** : If you see a field that contains a key, the field is linked to the authority file or index. Begin typing and use the autocomplete to help you.
 
-**Duplicar** : en el modo de visualización, un registro puede ser duplicado al hacer click en este botón. Si es necesario, puede luego llenar el campo **Registro madre (773) **para ligar este registro al registro principal de la colección.
+**Adding new names, titles, subject headings, etc.** : If you do not find what you need in the authority files, simply enter the name or term you need. Once you click to a different field, an orange border appears around the fields and you will see a checkbox that reads "Confirm the insertion of a new value." Click this box to confirm. For personal names, a field called **Life dates** will appear. Please fill this out if you can because it helps the Editorial Center create a new authority record. When you save, the name or title will be automatically added to the authority files. See also **General Cataloging Guidelines** under **Personal names.**
+
+**Required fields and validation** : When you begin a new record, the most important fields will already be open and ready for you to fill in. Fields that are yellow are required fields. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the sidebar on the right. In cases where no information can be filled out in a required field, the validation may be overridden by checking a box in the sidebar.
+
+
+
+### Actions in the viewing mode
+This refers to actions you can take when viewing the full record.
+
+**Create:** This brings you to the template selection page from which you can create a new record.
+
+**Return to the list:** This brings you back to the full list of all musical sources.
+
+**Edit:** If you have permissions to edit the record, you will see this edit button.
+
+**Duplicate** : In the viewing mode, a record may be duplicated by clicking on this button. If necessary you can then fill out the field **Parent record (773)** to link the record to the main collection record.
