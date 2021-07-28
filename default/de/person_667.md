@@ -1,3 +1,3 @@
-#### Interne Bemerkungen (667)
+#### Internal note (667 $a)
 
-Hier werden allgemeine Angaben zur Person gemacht, die nicht zur Veröffentlichung bestimmt sind.
+Here you may enter notes that are not intended for public display.
