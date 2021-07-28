@@ -1,16 +1,19 @@
-#### Normdatenverweise (024)
+#### Other standard identifier (024)
 
-Das Feld enthält einen alphanumerischen Code einer anderen Normdatenagentur.
+This field gives an alphanumeric code that refers to a name created by another agency.
 
-#### Normdatenverweise Nummer (024$a)
-Die Nummer wird aus dem jeweiligen Normdatenbestand übernommen.  
+#### Standard number or code (024 $a)
 
-_Beispiele:_  
+Enter the alphanumeric code used to identify names. The code is taken from the authority data of the creating agency.
+
+_Examples:_  
 100221216  
 n83176163
 
-#### Normdatenagentur (024 $2)
-Es steht eine Auswahlliste zur Verfügung:  
+####
+Source of number or code (024 $2)
+
+Select from the following:
 
 - **BNE** : Biblioteca Nacional de España
 - **BNF** : Bibliothèque nationale de France
@@ -19,15 +22,14 @@ Es steht eine Auswahlliste zur Verfügung:
 - **ISNI** : International Standard Name Identifier
 - **LC** : Library of Congress
 - **NLP** : Biblioteka Narodowa
-- **NKC** : Národní knihovna České republiky 
+- **NKC** : Národní knihovna České republiky
 - **SWNL** : Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF** : Virtual International Authority File
 - **WKP** : Wikidata (Wikipedia)
-  
-  
-_Beispiele_:  
+
+_Examples_:  
 11862119X  
-DNB  
-  
+DNB
+
 71579513  
 VIAF
