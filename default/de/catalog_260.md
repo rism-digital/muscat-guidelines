@@ -1,14 +1,8 @@
-#### Impressum
-  
-  
+Impressum
 
-#### Ort (260 $a) 
-**Pflichtfeld**  
-  
-  
 
-#### Verlag
-  
+Place
 
-#### Jahr (260 $c) 
-**Pflichtfeld**
+Publisher
+
+Year
