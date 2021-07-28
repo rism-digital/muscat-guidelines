@@ -1,9 +1,9 @@
-#### Nota de produção/criação (508 $a) 
+#### Creation/production note (508 $a)
 
-Informação adicional sobre pessoas e instituições mencionadas na fonte pode ser inserida aqui se não estiver diretamente relacionada à fonte e se não se encaixa em qualquer outro campo. Por exemplo, grafias não padronizadas, pseudônimos, etc.
+Additional information on persons and institutions mentioned on the source can be entered here, if they are directly related to the source and do not fit in any other field. For example, non-standard spellings, pseudonyms, etc.
 
-Informação complementar à fonte pode também ser incluída aqui entre colchetes. Nestes casos, a função da pessoa tem que ser informada, em inglês.
+Information complementary to the source can also be included here in square brackets. In these cases, the function of the person has to be stated in English.
 
-_Exemplo:_
+E.g.:
 
 - Text author: [Metastasio, Pietro]
