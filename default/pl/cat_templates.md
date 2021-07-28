@@ -1,7 +1,11 @@
-# Szablony
+# Templates
 
-Muscat oferuje możliwość wyboru szablonu, w zależności od rodzaju katalogowanego źródła. Szablon zawiera tylko te pola, które są potrzebne do skatalogowania danego źródła.
+Muscat offers template for different sources. The template offers only those fields that are needed for the source in hand.
 
-### Kopiowanie istniejących rekordów  
+**Copying existing records**
 
-Oprócz wyboru różnych szablonów, można skopiować istniejący rekord. Można to zrobić na ekranie szablonu: wystarczy wpisać numer RISM w polu „Utwórz z istniejącego źródła”. Wówczas na ekranie ukaże się kopia rekordu w trybie edycji, gdzie można dokonać dowolnych zmian. Przy zapamiętywaniu skopiowany rekord automatycznie otrzyma nowy numer identyfikacyjny RISM. Alternatywnie, można skopiować rekord w trybie przeglądania, klikając przycisk „Duplikuj” na pasku bocznym po prawej stronie.
+In addition to selecting different templates, you can copy an existing record. There are two ways to do this.
+
+From the template selection screen: simply enter the RISM number in the field "Create from existing source." You will then see a copy of the record in the editing mode and from there you can make any changes to the record that you need. The copied record will automatically receive a new RISM ID number upon saving.
+
+Alternately, you can copy a record in the viewing mode by clicking on the "Duplicate" button in the sidebar on the right.
