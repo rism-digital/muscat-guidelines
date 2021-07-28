@@ -1,26 +1,37 @@
-#### Katalogisierungsquelle (040)
+### Cataloging source (040)
 
-**Bitte nicht ändern.**
+**Do not change.**
 
-Voreingestellter Wert ist der ISIL-Code des RISM "DE-633", siehe [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633). 
+This field indicates the organization that created the original record. For new records, this is always RISM, so the ISIL code for RISM is automatically filled out: DE-633.
 
-Die Staatsbibliothek zu Berlin – Preußischer Kulturbesitz ist verantwortlich für die Vergabe der Codes in Deutschland.
+The Staatsbibliothek zu Berlin – Preußischer Kulturbesitz is responsible for maintaining the codes for Germany. See [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633)
 
-#### Originale Katalogisierungsquelle (040 $a)  
-**Bitte nicht ändern.**
+#### Original cataloging agency (040 $a)
 
-Dieses Feld enthält den Code der erfassenden Institution. Der Code für RISM wird automatisch von Muscat vergeben.
+**Do not change.**
 
-#### Übertragende Katalogisierungsquelle (040 $c)  
-**Bitte nicht ändern.**
+This field gives the code for the organization that created the original record. The code for RISM is automatically filled out by Muscat.
 
-Dieses Feld enthält den Code der Institution, die den Datensatz in maschinenlesbare Form brachte. Der Code für RISM wird automatisch von Muscat vergeben.
 
-#### Modifizierende Katalogisierungsquelle (040 $d)  
-**Bitte nicht ändern.**
 
-DiesesFeld enthält den Code der Institution, die dafür verantwortlich ist, den MARC-Eintrag zu modifizieren. Kanadische, britische und deutsche Codes können hier gesucht werden: [https://www.loc.gov/marc/organizations/other\_assignment.php](https://www.loc.gov/marc/organizations/other_assignment.php) Codes für alle anderen Länder können hier gesucht werden: [https://www.loc.gov/marc/organizations/org-search.php](https://www.loc.gov/marc/organizations/org-search.php)
+#### Transcribing agency (040 $c)
 
-#### Katalogisierungssprache (040 $b)  
-**Bitte nicht ändern.**
-Dieses Feld enthält den MARC-Code der Katalogisierungssprache, für die der Datensatz vorgesehen ist. Der Code **ger** wird immer automatisch ausgefüllt.
+**Do not change.**
+
+####
+
+This field gives the code for the organization that transcribed the record into machine-readable form. The code for RISM is automatically filled out by Muscat.
+
+####
+Modifying agency (040 $d)
+
+**Do not change.**
+
+This field gives the code for the organization responsible for modifying the MARC record. Canadian, British, and German codes can be searched here: [https://www.loc.gov/marc/organizations/other\_assignment.php](https://www.loc.gov/marc/organizations/other_assignment.php) Codes for all other countries can be searched here: [https://www.loc.gov/marc/organizations/org-search.php](https://www.loc.gov/marc/organizations/org-search.php)
+
+####
+Language of cataloging (040 $b)
+
+**Do not change.**
+
+This field gives the MARC code for the language of the catalog for which the record is intended. The code **ger** is always automatically filled out.
