@@ -1,3 +1,4 @@
-**Persona (700)**  
-  
-Inserisci il nome di una persona in relazione con l’istituzione. Ad esempio, nel caso di collezioni private puoi indicare il nome del proprietario. 
+#### **Personal names (700)**
+
+####
+Enter the name of the person related to the institution. For example, with private collections you may select the name of the owner.
