@@ -1,25 +1,23 @@
-### Person (700)
-Dieser Teil beschreibt die weiteren Personennamen, die als Autor - im weitesten Sinn - mit der vorliegenden Publikation in Verbindung stehen. 
-#### **Name (700 $a)**
+#### **Additional personal name (700)**
 
-Das Feld ist mit der Normdatei **Personen** verknüpft. Nicht vorhandene Namen müssen ergänzt werden. Klicken Sie dazu die Box „Bestätigen Sie die Neuangabe“ an und geben Sie - sofern bekannt - die Lebensdaten in das **Feld Geburts- und Todesdaten** ein. (Der neue Eintrag wird von der Zentralredaktion überarbeitet.)
+Information is entered here about the editors of the item, additional people involved in the publication, and composers or other people that the publication is about.
 
-Komponisten, Widmungsträger oder andere im werden genannte Personen werden hier unter **Person** eingetragen.
+####
+**Name (700 $a)**
 
-  
+Enter the name. This field is linked to the **Personal names** authority file.
 
 #### **Function (700 $4)**
-Auswahlliste:  
 
-weiterer Autor [aut]  
-behandelte Person (z.B. Gefeierter, Name im Titel, Redakteur, Sammler, Textverfasser) [asn]  
- Herausgeber [edt]  
-Komponist / Mitkomponist [cmp]  
-Sonstige Funktion
+Select from the following. (The three-letter codes refer to the MARC relator code.)
 
-_Beispiel:_  
-Barbara M. Reul: Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst [...] (ReulF 2001)
+- **Associated name [asn]**: such as honoree, name in title, collector, text author, other, etc.
+- **Author [aut]**: Name additional authors here if the publication has more than one author.
+- **Composer [cmp]**
+- **Editor [edt]**
+- **Other function [oth]**
 
-Autor (100): Reul, Barbara M.  
-Person (700): Fasch, Johann Friedrich (Komponist)  
-Person (700): Hedwig Friederike, Fürstin von Anhalt-Zerbst (Name im Titel = behandelte Person)
+_Example:_ For Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst_  (short title: ReulF 2001):  
+Author (100): Reul, Barbara M.  
+Additional personal name (700): Fasch, Johann Friedrich (composer)  
+Additional personal name (700): Hedwig Friederike, Fürstin von Anhalt-Zerbst (associated name)
