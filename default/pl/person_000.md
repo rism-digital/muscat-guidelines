@@ -1,2 +1,2 @@
-#### **Lider (000)**
- **Nie zmieniać.**
+#### **Leader (000)**
+ **Do not change.**
