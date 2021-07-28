@@ -1,13 +1,13 @@
-**Elektronische Lokalisierung und Zugriff (856** **$u)**
+#### **External resource URL (856 $u)**
 
-Verlinkung zu elektronischen Ressourcen. Verwenden Sie möglichst Permalinks.
+Enter the full URL of the external resource. Use permalinks whenever possible.
 
-**Für das Publikum bestimmte Fußnote** **(856 $z)**
+####
+**Note about external resource (856 $z)**
 
-Geben Sie eine kurze Beschreibung der URL.
+Enter a brief note that describes the link.
 
-  
-_Beispiele:_  
+_Examples:_  
 Electronic resource  
 Elektronische Ressource  
 Link to PDF  
