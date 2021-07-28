@@ -1,42 +1,27 @@
-# Problemas técnicos
+# Technical problems
 
-**1. ¡Las cosas no están funcionando!**  
-¡No te desesperes! Si experimentas problemas, primero asegúrate de que tienes la versión más reciente de Firefox o Chrome; puede que tengas que actualizar tu navegador. Luego, intenta vaciar la caché. Hay varias formas de hacerlo, dependiendo de tu ordenador:
+**1. Things aren't working!**  
+Do not despair! If you are having problems, first always make sure you have the most recent version of Firefox or Chrome; you might need to update your browser. Then, try clearing the cache. There are several ways to do this, depending on your computer:
 
-- Mantén pulsada la tecla Shift y haz clic con el botón izquierdo del ratón en el botón Recargar.
-- Presiona "Ctrl + F5" o presiona "Ctrl + Shift + R" (Windows, Linux)
-- Presiona "Comando + Shift + R" (Mac)
+- Hold down the Shift key and left-click the Reload button
+- Press "Ctrl + F5" or press "Ctrl + Shift + R" (Windows, Linux)
+- Press "Command + Shift + R" (Mac)
 
-**2. No puedo guardar mi trabajo.**  
+**2. I can't save my work.**  
+Make sure you are using either Firefox or Chrome. Internet Explorer will not let you save anything!
 
-Asegúrate de que estás usando Firefox o Chrome. I¡nternet Explorer no te permitirá guardar nada!
+**3. The fields stretch all the way across a page and cut into other text.**  
+This might be a screen resolution issue. Muscat works best on screens that are at least 1366 x 768 pixels. Other resolutions might lead to display issues.
 
-  
+**4. I can't scroll down the screen.**  
+This also might be a screen resolution issue. See #3.
 
-**3. Los campos se extienden a lo largo de una página y se cortan en otro texto.**
+**5. My screen is gray and all I see is an hourglass.**  
+This happens when you are searching in the indexes. Check to see if another window is open. From that window, navigate back to the main screen.
 
-Esto puede deberse a un problema de resolución de la pantalla. Muscat funciona mejor en pantallas de al menos 1366 x 768 píxeles. Otras resoluciones pueden provocar problemas de visualización.
+**6. My incipit seems to have stalled.**  
+Try clicking the "refresh" arrows, or save your record and try entering the incipit again.
 
-  
+**7. I get the error message: "Error saving page: this is a stale version"**
 
-**4. No puedo desplazarme por la pantalla.**
-
-Éste también podría ser un problema de resolución de la pantalla. Ver el punto 3.
-
-  
-
-**5. Mi pantalla está gris y todo lo que veo es un reloj de arena.**
-
-Esto sucede cuando estás buscando en los índices. Comprueba si hay otra ventana abierta. Desde esa ventana, vuelve a la pantalla principal.
-
-  
-
-**6. Mi incipit parece haberse estancado.**
-
-Intenta hacer clic en las flechas de "refrescar", o guarda tu registro e intenta entrar en el incipit de nuevo. 
-
-  
-
-**7. Recibo el mensaje de error: "Error al guardar la página: esta es una versión obsoleta"**
-
-Esto significa que mientras estabas editando, alguien más también comenzó a editar el disco y lo guardó antes que tú. Intenta recordar tus cambios, cierra el registro y ábrelo de nuevo.  
+This means that while you were editing, someone else also began editing the record and saved before you did. Try to remember your changes, close the record, and open it again. 
