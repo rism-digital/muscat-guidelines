@@ -1,5 +1,5 @@
-**Kontrollnummerbezeichnung (003)**
+#### **Control number identifier (003)**
 
-**Nicht ändern.**
+**Do not change.**
 
-In diesem Feld wird der Code für die Agentur erfasst, deren Systemkontrollnummer im Feld **RISM ID Nummer (001)** enthalten ist.
+This field indicates the code for the agency whose system control number is contained in the field **RISM ID number (001)**.
