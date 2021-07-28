@@ -1,17 +1,57 @@
-Contenidos:
+**Contents:**
 
-- Abreviaturas y conceptos generales
+-
 
-  - General
-  - Añadidos para indicar el rango de cualquier instrumento   
-  - Añadidos a cualquier instrumento para indicar un tipo
-  - Añadidos a cualquier instrumento de viento para indicar una afinación diferente de la estándar
-  - Tipos o números de instrumentos no especificados o desconocidos
-- Términos vocales (voz)
-- Cuerdas
-- Vientos-Madera
-- Vientos-Metal
-- Instrumentos pulsados
-- Percusión, otros
-- Instrumentos de teclado
-- Bajo continuo
+General abbreviations and concepts
+
+  -
+
+General
+
+  -
+
+Additions to any instrument to indicate a range
+
+  -
+
+Additions to any instrument to indicate a type
+
+  -
+
+Additions to any wind instrument to indicate a tuning other than standard tuning
+
+  -
+
+Unspecified or unknown types or numbers of instruments
+
+-
+
+Vocal (voice) terms
+
+-
+
+Strings
+
+-
+
+Woodwinds
+
+-
+
+Brass
+
+-
+
+Plucked instruments
+
+-
+
+Percussion, other
+
+-
+
+Keyboard instruments
+
+-
+
+Basso continuo
