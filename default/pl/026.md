@@ -1,27 +1,30 @@
-**Identyfikator odcisku palca (026)**  
-  
-Identyfikator linii papilarnych służy do pomocy w identyfikacji książek antykwarycznych poprzez tworzenie grup znaków zaczerpniętych z określonych miejsc na określonych stronach książki.
+### Fingerprint identifier (026)
 
-**Nieprzeanalizowalny odcisk palca (026 $e)**
+A fingerprint identifier is used to assist in the identification of antiquarian books by creating groups of characters taken from specified positions on specified pages of the book.
 
-Wprowadzić pełny identyfikator odcisku palca.
+#### Unparsed fingerprint (026 $e)
 
-Z  wytycznymi ustanowionymi przez Institut de Recherche et d’Histoire des Texte oraz Bibliotekę Szkocji można się zapoznać online klikając w następujące linki: [English, French, and Italian](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm), i [German](http://nbn-resolving.de/urn:nbn:de:hbz:6:1-195591).
+Enter the complete fingerprint identifier.
 
-Inne pole są także dostępne, w zależności od standardu opisu:
+Guidelines established by the Institut de Recherche et d’Histoire des Texte and the National Library of Scotland can be consulted online in [English, French, and Italian](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm), and [German](http://nbn-resolving.de/urn:nbn:de:hbz:6:1-195591).
 
-**Pierwsza/druga grupa (026 $a)**
+_Example_:  
+n?n, n;t, v.at BeDr C 1695R
 
-Wprowadzić znaki należące do pierwszej i drugiej grupy.
+Other fields are also available, depending on the description standard:
 
-**Trzecia/czwarta grupa (026 $b)**
+#### First/second group (026 $a)
 
-Wprowadzić znaki należące do trzeciej i czwartej grupy.
+Enter the characters that belong in the first and second group.
 
-**Data (026 $c)**
+#### Third/fourth group (026 $b)
 
-Wprowadzić datę, gdy wyrażono ją jako składnik identyfikatora odcisku palca.
+Enter the characters that belong in the third and fourth group.
 
-**Numer tomu/części (026 $d)**
+#### Date (026 $c)
 
-Wprowadzić numer tomu lub części (tzn. sekcji), gdy wyrażono ją jako składnik identyfikatora odcisku palca.
+Enter the date when expressed as a component of a fingerprint identifier.
+
+#### Number of volume/part (026 $d)
+
+Enter the number of the volume or part (i.e., section) when expressed as a component of a fingerprint identifier.
