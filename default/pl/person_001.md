@@ -1,3 +1,3 @@
-#### Numer identyfikacyjny RISM (001)
+#### RISM ID number (001)
 
-Pole podaje 8-cyfrowy numer identyfikacyjny RISM dla danego rekordu. System generuje numer automatyczne i nie można go zmienić.
+This field gives the 8-digit RISM ID number for this record. This number is automatically generated and cannot be changed.
