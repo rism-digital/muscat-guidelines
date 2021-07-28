@@ -1,28 +1,27 @@
-# Problemi tecnici
+# Technical problems
 
-**1. **** Qualcosa non funziona?**
+**1. Things aren't working!**  
+Do not despair! If you are having problems, first always make sure you have the most recent version of Firefox or Chrome; you might need to update your browser. Then, try clearing the cache. There are several ways to do this, depending on your computer:
 
-Non disperare! Se hai dei problemi, prima di tutto assicurati di avere la versione più recente di Firefox o Chrome; potresti aver bisogno di aggiornare il tuo browser. Poi, prova a svuotare la cache. Vi sono più maniere di farlo, a seconda del tuo sistema operativo: 
+- Hold down the Shift key and left-click the Reload button
+- Press "Ctrl + F5" or press "Ctrl + Shift + R" (Windows, Linux)
+- Press "Command + Shift + R" (Mac)
 
-- Tieni premuto il tasto maiuscolo e fai clic con il tasto sinistro sul bottone di rilettura (reload)
-- Premi "Ctrl + F5" o "Ctrl + maiuscolo + R" (Windows, Linux)
-- Premi "Comando + maiuscolo + R" (Mac)
+**2. I can't save my work.**  
+Make sure you are using either Firefox or Chrome. Internet Explorer will not let you save anything!
 
-**2. Non posso salvare il mio lavoro**  
-Assicurati di utilizzare Firefox oppure Chrome. Con Internet Explorer non puoi salvare nulla!
+**3. The fields stretch all the way across a page and cut into other text.**  
+This might be a screen resolution issue. Muscat works best on screens that are at least 1366 x 768 pixels. Other resolutions might lead to display issues.
 
-**3. I campi si estendono su tutta la pagina e debordano in testi diversi**  
-Questo può essere un problema di risoluzione dello schermo. Muscat funziona al meglio su schermi con una risoluzione di almeno 1366 x 768 pixel. Altre risoluzioni potrebbero comportare problemi di visualizzazione.
+**4. I can't scroll down the screen.**  
+This also might be a screen resolution issue. See #3.
 
-**4. Non posso far scorrere lo schermo**  
-Anche questo potrebbe essere un problema di risoluzione dello schermo. Vedi N. 2.
+**5. My screen is gray and all I see is an hourglass.**  
+This happens when you are searching in the indexes. Check to see if another window is open. From that window, navigate back to the main screen.
 
-**5. Il mio schermo è grigio e vedo soltanto una clessidra.**  
-Questo avviene mentre stai effettuando una ricerca negli indici. Controlla se hai un’altra finestra aperta. Da quella finestra, naviga di ritorno alla schermata principale.
+**6. My incipit seems to have stalled.**  
+Try clicking the "refresh" arrows, or save your record and try entering the incipit again.
 
-**6. Il mio incipit sembra essere bloccato.**  
-Prova a fare un aggiornamento dello schermo, oppure salva la tua scheda e prova a inserire nuovamente l’incipit.  
-  
-**7. Ricevo il messaggio di errore “Error saving page: this is a stale version”**  
-    
-Questo significa che mentre stavi modificando una scheda qualcun altro ha modificato la stessa scheda e l’ha salvata prima di te. Cerca di ricordare le tue modifiche, chiudi la scheda e aprila di nuovo.  
+**7. I get the error message: "Error saving page: this is a stale version"**
+
+This means that while you were editing, someone else also began editing the record and saved before you did. Try to remember your changes, close the record, and open it again. 
