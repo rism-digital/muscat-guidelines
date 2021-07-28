@@ -1,10 +1,10 @@
-Bei der Erfassung von Sammlungen (Konvolute und Collections) sollte Redundanz möglichst vermieden werden. Daher gelten folgende Regeln:
+In cataloguing collections (a Convolutum or a Collection) redundancy should be avoided as far as possible. To this aim, the following rules apply:
 
-1. Sämtliche Angaben, welche auf die gesamte Sammlung zutreffen, werden im übergeordneten Eintrag (Konvolut oder Collection) eingetragen.
-2. Angaben, die nur für einzelne Teile aus der Sammlung zutreffen, werden in den entsprechenden Einzeleinträgen gemacht.
+1. Any statements which apply to the entire collection will be entered in the superordinate record (Convolutum or Collection).
+2. Any information that is relevant only for some parts of the collection will be entered in the corresponding subordinate record.
 
-Als Konvolute gelten solche Sammlungen, die zumindes eine weitere Sammlung (Collection) enthalten. Daneben können noch weitere Collections und/oder Einzelwerke enthalten sein. Eine Collection dagegen besteht lediglich aus Einzelwerken.
+A collection which contains at least one "Collection" and a single title and/or other "Collections" is called a "Convolutum". A collection on the other hand consists only of individual works.
 
-### Erfassung von Pasticcios und Kompilationen
+### Cataloguing pasticcios and compilations
 
-Pasticcios und Compilations werden wie eine Sammlung (im Normalfall als Collection) erfasst. Jeder Teil wird damit separat als Einzeleintrag einer Sammlung redigiert.
+Pasticcios and compilations are catalogued as a collection (usually as a "Collection"). Each part is entered separately as a subordinate record in a collection.
