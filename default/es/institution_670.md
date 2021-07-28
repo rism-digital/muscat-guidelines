@@ -1,31 +1,24 @@
-### Bibliografía (MARC 670; ISDIAH 5.6.8)
+### Literature (MARC 670; ISDIAH 5.6.8)
 
-En este campo se enumeran las fuentes consultadas para la elaboración de la descripción, incluidas las que respaldan la forma del nombre en el campo **Forma autorizada del nombre (110 $a).** También puede servir como bibliografía general para las colecciones de la institución.
+This field lists the sources consulted in creating the description, including those that support the form of the name in the field **Authorized form of name** (110 $a). It can also serve as a general bibliography for the institution's collections.
 
-  
 
-#### Bibliografía (670 $a)
 
-Introduzca el título breve de la fuente. Este campo está vinculado a la base de datos de **Bibliografía secundaria**. Los ítems que aún no estén en la base de datos deben ser registrados primero en ella antes de que puedan ser vinculados a través de un título breve.
+#### Literature (670 $a)
 
-  
+Enter the short title of the source. This field is linked to the **Secondary literature** database. Items not yet in the database must be entered there first before they can be linked through a short title.
 
-Se recomienda, pero no es obligatorio, introducir y actualizar la bibliografía incluida en la segunda edición de la Serie C de RISM. Si no existe una bibliografía, basta con nombrar las fuentes esenciales.
+Entering and updating the bibliography included in the second edition of RISM Series C is recommended but not required. If no bibliography exists, naming the essential sources is sufficient.
 
-  
+#### Source citation (670 $9)
+Enter a citation for a published work or a description of any source or action that provided information about the heading of the institution.
 
-#### Cita de la fuente (670 $9)
+#### Information found (670 $b)
 
-Registre una cita a una obra publicada o una descripción de toda fuente o acción que haya proporcionado información sobre el Encabezado de la institución.
+Enter the number, page number(s), or information found.
 
-  
 
-#### Información encontrada (670 $b)
-
-Introduzca el número, número(s) de página(s) o la información encontrada.
-
-  
 
 #### URI (670 $u)
 
-Introduzca la URI consultada.
+Enter the URI consulted.
