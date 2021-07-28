@@ -1,5 +1,3 @@
-**Leader** **(000)**  
+#### **Leader** **(000)**
 
-  
-
-Bitte nicht ändern.
+Do not enter or change anything in this field.
