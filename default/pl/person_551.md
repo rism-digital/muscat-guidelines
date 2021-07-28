@@ -1,24 +1,24 @@
-### **Nazwa geograficzna (551)**
+### **Geographic name (551)**
 
-To pole służy do wprowadzania nazw geograficznych związanych ze wprowadzaną osobą.
+This field is for geographical names associated with the person in question.
 
-###   
 
-#### **Nazwa geograficzna (551 $a)**
 
-Wprowadzić nazwę geograficzną (kraj, miejsce, region, miasto itd.) związaną ze wprowadzaną osobą. Nazwy należy wprowadzać we współczesnym, miejscowym języku. Nazwy geograficzne połączono z plikiem autorytatywnym **Miejsca**. 
+#### **Geographic name (551 $a)**
 
- 
+Enter the geographic name (country, place, region, city, etc.) associated with the person in question. Names are entered in the modern local language. Geographic names are connected with the **Places** authority file.
 
-#### Typ (551 $i)
 
-Podać, w jaki sposób nazwa geograficzna odnosi się do danej osoby.
 
-Należy wybrać spośród następujących elementów:
+#### Type (551 $i)
 
-- **Kraj (aktywny**  
-- **Miejsce (aktywne)**: Zazwyczaj, miasto, miejscowość itd.  
-- **Miejsce urodzenia** : Zazwyczaj, miasto, miejscowość itd. 
-- **Miejsce śmierci** : Zazwyczaj, miasto, miejscowość itd.  
-- **Miejsce pochodzenia** : Należy stosować, gdy nie ma dostępnych innych informacji na temat miejsca urodzenia.  
-- **Region (aktywny)**: Przykłady: Niemcy południowe, Hesja, Górny Środkowy Zachód
+Indicate the how the geographical name is related to the person in question.
+
+Select from the following:
+
+- **Country active**
+- **Place active** : Typically a city, town, village, etc.
+- **Place of birth** : Typically a city, town, village, etc.
+- **Place of death** : Typically a city, town, village, etc.
+- **Place of origin** : Use when there is no further information available about the place of birth
+- **Region active** : Examples: Süddeutschland, Hessen, Upper Midwest
