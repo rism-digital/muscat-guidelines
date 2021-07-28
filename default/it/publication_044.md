@@ -1,3 +1,3 @@
-Paese (044 $a)
+**#### Country of publication (044 $a)**
 
- Utilizza questo campo solo per monografie stampate. Inserisci il nome del paese in cui l’oggetto è stato pubblicato. Inserisci il nome in inglese. 
+Use this field only for printed monographs. Enter the name of the country in which the item was published. Enter the name in English.
