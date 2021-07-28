@@ -1,6 +1,6 @@
-**Znajduje się teraz w (MARC 580)**
+**Now in (MARC 580 $x)**
 
-Podać siglum RISM biblioteki przechowującej.
+If the holdings of an institution have been transferred to another institution, enter the name of the current holding institution here.
 
-_Przykład:_  
-D-KA
+_Example:_  
+D-WÜd
