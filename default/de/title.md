@@ -1,13 +1,13 @@
-![](rism_logo.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
+![](rism_logo.jpg)
 
-# RISM Richtlinien für Muscat
+
+
+
+
+
+
+
+
+# RISM Guidelines for Muscat
 
 ## Version 3.6.0
