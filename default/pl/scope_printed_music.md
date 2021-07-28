@@ -1,9 +1,7 @@
-**Zakres nut drukowanych w RISM**
+**Scope of printed music in RISM**
 
-RISM dąży do dokumentowania druków muzycznych od początku historii drukowania nut do około 1900 roku.
+RISM seeks to document printed music from the beginnings of music printing through around 1900.
 
-W XX wieku i do dziś obserwujemy gwałtowny rozwój komercyjnych wydawnictw muzycznych i dystrybucji ich publikacji. Ilość muzyki uważanej za „rzadką” lub nieudokumentowaną, w porównaniu z poprzednimi wiekami, jest teraz znacznie mniejsza. Druki muzyczne wydawane przez współczesnych wydawców, ukazujące się w dużych ilościach, szeroko dostępne i przeznaczone do aktywnego wykorzystania przez użytkowników bibliotek są lepiej udokumentowane w bazach danych, takich jak  [WorldCat](http://www.worldcat.org/). Na podobnej zasadzie, [sheet music](https://www.loc.gov/collections/historic-sheet-music/about-this-collection/) (muzyka popularna publikowana bez okładek i często z kolorowymi okładkami) jest lepiej udokumentowana w specjalistycznych bazach danych.
+In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and distribution. The amount of music considered "rare" or undocumented elsewhereis much less when compared to previous centuries. Music published by modern publishers, printed in large quantities, widely available, and meant for active use by library patrons would be better documented in cooperative databases such as [WorldCat](http://www.worldcat.org/).
 
-Wyjątek stanowiłyby nowoczesne edycje włączone w proces katalogowania zbiorów o wartości historycznej, takie jak prywatna biblioteka osoby fizycznej. Tutaj RISM akceptowałoby rekordy muzyki współczesnej w celu udokumentowania całej kolekcji.
-
-RISM rozważy, oddzielnie rozpatrując każdy przypadek, czy dokumentować druki muzyczne wydane w XX wieku przez nieistniejących już wydawców, lub wydane przez mniejszych, regionalnych wydawców o znaczeniu historycznym.
+RISM will consider, on a case-by-case basis, whether to document music published in the 20th century by defunct publishers or by smaller, regional publishers of historical significance; as well as modern editions included in the course of cataloging a collection with historical value, such as the private library of an individual.
