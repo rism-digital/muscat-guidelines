@@ -1,27 +1,27 @@
-O registro de autoridade para **Cabeçalhos de assunto** contém todas as formas, gêneros e outros termos normalizados usados nas fontes do Muscat no campo **Cabeçalho de assunto (650)**. Um registro para um cabeçalho de assunto tipicamente inclui o termo RISM padronizado, em inglês e no plural, traduções ou termos alternativos e uma definição. Gêneros e formas encontradas fora da Europa Ocidental ou comuns em uma região em particular onde não haja nenhum equivalente em inglês são fornecidos no idioma local (e no plural, quando isso fizer sentido do ponto de vista linguístico).
+The authority file for **Subject headings** contains all the forms, genres, and other standardized terms used in the Muscat sources in the field **Subject heading (650)**. A record for a subject heading typically includes the standardized RISM term in English and in plural, translations or alternate terms, and a definition. Genres and forms found outside of Western Europe or common in a particular region where there is no English equivalent are given in the local language (and in the plural when it makes linguistic sense).
 
-Cabeçalhos de assunto podem ser adicionados durante a catalogação. No registro, simplesmente insira um novo cabeçalho de assunto e clique em um campo diferente. Em seguida surgirá uma mensagem de confirmação, que diz "Confirme a inserção de um novo valor”. Clique-a novamente.
+Subject headings can be added while cataloging. In the record, simply enter the new subject heading and click to a different field. You then get a message that says "Confirm the insertion of a new value" which you should then click.
 
-Depois de salvar o registro, vá para o registro de autoridade para cabeçalhos de assunto e encontre seu novo cabeçalho. Pode-se editar um cabeçalho de assunto que tiver sido criado. Por favor, faça o seguinte:
+After you save the record, go to the authority file for subject headings and find your new heading. You can edit subject headings you create. Please do the following:
 
-**Termo:** insira o termo em inglês e no plural quando possível. Para música regional, particularmente música encontrada fora da Europa Ocidental, use o termo comum na região. Para idiomas que usam alfabetos não-latinos, insira aqui o termo transliterado usando o alfabeto latino.
+**Term** : Enter the term in English and in the plural when possible. For regional music, particularly music found outside Western Europe, use the term common in the region. For languages that use non-Latin alphabets, enter the transliterated term here using the Latin alphabet.
 
-**Termos alternativos:** por favor insira os termos alternativos, cada um em uma linha separada (pressionando Enter). Aqui pode-se inserir qualquer termo usando outros sistemas alfabéticos, assim como sinônimos, variações, outras grafias, etc.
+**Alternate terms** : Please enter all alternate terms, each on a separate line (by pressing Enter). Here you can enter the term using other alphabet systems as well as synonyms, variations, other spellings, etc.
 
-**Notas** : por favor forneça uma descrição curta em inglês, alemão ou francês de que tipo de termo se trata. Então sinta-se livre para escrever em seu idioma nativo, para benefício dos contribuidores do RISM em sua área, qualquer descrição ou diretrizes que queira juntar ao termo: como aplicá-lo, quaisquer conexões regionais, referências a literatura secundária, etc.
+**Notes** : Please provide a short description in English, German, or French of what kind of term this is. Then feel free to also write in your native language, for the benefit of RISM contributors in your area, any description or guidelines you wish to set for the term: how to apply the term, any regional connections, references to secondary literature, etc.
 
-Como um exemplo, ver **Gigas (Gigues)**. Termos em inglês, francês e alemão são fornecidos, juntamente com grafias alternativas. O campo “Notas” explica a variedade de gigas que existem e quando e onde elas ocorreram.
+As an example, see **Gigues**.Terms in English, French, and German are given, along with alternate spellings. The field "Notes" explains the variety of gigues that exist and when and where they occurred.
 
-No caso de trabalhar com música particular de uma certa região, pode-se usar qualquer termo que seja comum naquela região. Um novo termo pode ser acrescido se um gênero similar for usado em uma dada região diferente, mas for denominado de outra maneira.
+If you are working with music particular to a certain region, you can use whatever term is common in that region. A new term can be added if a similar genre is used in a different region but it is called something else.
 
-Pode-se também inserir o cabeçalho de assunto diretamente no registro de autoridade (simplesmente clique em **Criar** neste registro de autoridade) e ele estará imediatamente disponível para o uso.
+You can also add the subject heading directly to the authority file (simply click **Create** in this authority file) and it will be immediately available for use.
 
-Dicas de catalogação:
+Cataloging tips:
 
-- 
+-
 
-Registros para fontes podem incluir múltiplos cabeçalhos de assunto, tal como nos casos em que há tanto um termo específico como um termo mais geral ou abrangente.
+Records for sources can include multiple subject headings, such as if there is a specific term as well as a more general or overarching term.
 
-- 
+-
 
-Para ajudar usuários na descoberta, pode-se também incluir o termo local em idiomas e alfabetos estrangeiros como um **Título alternativo (730)**.
+To aid users in discovery, you are also free to include the local term in foreign languages and alphabets as an **Alternative title (730)** if you wish.
