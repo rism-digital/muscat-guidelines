@@ -1,5 +1,5 @@
-#### Prima notizia (775 $w)
+### Initial entry (775 $w)
 
-Non modificare questo campo.
+Do not edit this field.
 
-Le espressioni "prima notizia" e "notizie seguenti" corrispondono al sottordine adottato nei volumi stampati della serie A/I, dove un contenuto identico è segnalato da una lineetta sotto alla prima edizione a stampa riportata. La maggior parte di queste presenta un titolo completo. Questo sistema non corrispondeva a una gerarchia nel senso di una prima edizione seguita da ristampe. Tuttavia, è necessario un collegamento per riflettere somiglianze nel contenuto dei volumi. Inoltre, poiché spesso nelle notizie seguenti manca un titolo abbreviato o un titolo originale, è necessario un riferimento esplicito al titolo (originale) della prima notizia. 
+This field links to the RISM ID number of the initial entry. The phrases "Initial entry" and "Following entries" correspond to the suborder adopted in the printed volumes of series A/I, in which identical contents were indicated by a dash beneath the first printed edition mentioned. Most of these had a complete title. This system did not correspond to any hierarchy in a sense of first editions and reprints. However, linking is necessary in that similarities in content of the titles have to be reflected. Furthermore, since the subsequent entries often lack short and/or original titles, there needs to be a clear reference to the (original) title of the first entry.
