@@ -1,3 +1,3 @@
-**RISM ID Nummer (001)**
+#### RISM ID number (001)
 
-Dieses Feld enthält die RISM ID Nummer für diesen Datensatz. Die Nummer wird automatisch vergeben und kan nicht geändert werden.
+This field is for the RISM ID number for this record. This number is automatically generated and cannot be changed.
