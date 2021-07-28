@@ -1,7 +1,5 @@
-#### 
+### Initial entry (775 $w)
 
-### Entrada inicial (775 $w)
+Do not edit this field.
 
-No edite este campo.
-
-Este campo establece un vínculo con el número ID de RISM de la entrada inicial. Las frases “Entrada inicial” y “Entradas siguientes” corresponden al suborden adaptado en los volúmenes impresos de las series A/I, en las que los contenidos idénticos se indicaban con un guión bajo la primera edición impresa mencionada. La mayoría de los mismos tenía su título completo. Este sistema no se correspondía con una jerarquía en el sentido de primeras ediciones y reimpresiones. Sin embargo, es necesario establecer vínculos debido a que las similitudes en el contenido de los títulos debe reflejarse. Además, ya que las entradas siguientes a menudo carecen de títulos cortos y/u originales, debe haber una clara referencia al título (original) de la primera entrada.
+This field links to the RISM ID number of the initial entry. The phrases "Initial entry" and "Following entries" correspond to the suborder adopted in the printed volumes of series A/I, in which identical contents were indicated by a dash beneath the first printed edition mentioned. Most of these had a complete title. This system did not correspond to any hierarchy in a sense of first editions and reprints. However, linking is necessary in that similarities in content of the titles have to be reflected. Furthermore, since the subsequent entries often lack short and/or original titles, there needs to be a clear reference to the (original) title of the first entry.
