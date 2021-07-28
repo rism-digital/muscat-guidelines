@@ -1,8 +1,8 @@
-#### **Entrada subsequente (785 $a)**
+#### **Succeeding entry (785 $a)**
 
-Este campo e o campo anterior ( **Entrada precedente** ) são usados para listar e relacionar títulos alternativos de itens, como um título de periódico que teve nomes diferentes.
+This field and the previous field ( **Preceding entry** ) are used to list and link alternate titles of items, such as a journal title that has changed names.
 
-Insira aqui o nome pelo qual o periódico foi subsequentemente conhecido. Este campo é ligado à base de dados **Literatura secundária**.
+Enter here the name that the periodical was successively known as. This field is linked to the **Secondary literature** database.
 
-_Exemplo:_ O periódico _Chelys. The Journal of the Viola da Gamba Society_ existiu entre 1969 e 2004, quando foi sucedido pelo periódico _The Viola da Gamba Society Journal._ No registro para _Chelys_, insira o seguinte:  
-Entrada subsequente (780 $w): The Journal of the Viola da Gamba Society
+_Example:_ The journal _Chelys. The Journal of the Viola da Gamba Society_ existed from 1969 to 2004, when it was succeeded by _The Viola da Gamba Society Journal_. In the record for _Chelys_, enter the following:  
+Succeeding entry (785 $a): The Viola da Gamba Society Journal
