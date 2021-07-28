@@ -1,12 +1,12 @@
-Die **Bild** -Datenbank enthält alle Abbildungen, die in Muscat hochgeladen werden. Sie können neue Dateien hochladen oder bereits existierende auflisten lassen. Die Datenbank ist dazu gedacht, einzelne Bilder zu speichern und anzuzeigen, um einem bestimmten Aspekt des Datensatzes zu veranschaulichen, beispielsweise ein Wasserzeichen, ein Einband oder eine Schriftprobe. Sie können Bilder mit dem Datensatz einer Musikquelle oder einem Normdatensatz verknüpfen. Digitalisierte Musikquellen werden hier nicht hochgeladen, sondern im Feld **Elektronische Lokalisierung und Zugriff (856)** eingetragen.   
-  
-Die folgenden Formate sind erlaubt: JPEG  
+The **Digital objects** database contains all images and MEI files that have been uploaded to Muscat. The database is intended to store and display individual images that serve to illustrate a point in a record, such as a watermark, a binding, or a handwriting sample; it is also where MEI incipits are attached. You can link digital objects to source records as well as authority records. Full digital versions of sources should not be uploaded here but rather linked in the field **External resource (856)**.
 
-Sie können ein neues Bild hinzufügen, in dem Sie bei der Erfassung der Quelle auf **Neues Bild hinzufügen** oder in der Bild-Datenbank auf **Erstellen** klicken. Fügen Sie eine kurze Beschreibung hinzu. Diese hilft später beim Auffinden.
+Add an image (.jpeg or .png) by clicking on **Attach a new image** when you are editing a source. Always add a short description, such as a description of the watermark, the location on the source, or the siglum. This will help you find them later. Images are displayed in the order they are linked to the record.
 
-Wenn Sie sich ein Bild anzeigen lassen, haben Sie auf der rechten Seite folgende Möglichkeiten.
-- **Erstellen**
-- **Zurück zur Liste**
-- **Bearbeiten** : Ermöglicht Ihnen den Namen zu ändern oder die Datei zu ersetzen
-- **Quelle verlinken** : Ermöglicht Ihnen das Bild mit einer vorhandenen Quelle zu verknüpfen  
-- **Person verlinken** : Ermöglicht Ihnen das Bild mit einer vorhandenen Person zu verknüpfen
+Please consult the RISM Editorial Center if you wish to add an MEI incipit.
+
+When you are viewing an image, you have the following options on the right.
+- **Return to the list**
+- **Edit** : Allows you to change the name or replace the file
+- **Link source** : Allows you to link the image to an existing source, such as attaching the same watermark to multiple sources
+- **Link person** : Allows you to link the image to the authority file of a person, such as for displaying handwriting samples
+- **Link institution** : Allows you to link the image to the authority file of an institution, such as an image of the building
