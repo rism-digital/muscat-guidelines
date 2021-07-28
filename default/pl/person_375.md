@@ -1,9 +1,9 @@
-#### 
+####
 
-#### Płeć społeczno-kulturowa (375)
+#### Gender (375)
 
-Podać płeć wprowadzanej osoby:
+Select the gender of the person:
 
-- kobieta
-- mężczyzna
-- płeć nieznana
+- female
+- male
+- unknown
