@@ -1,15 +1,12 @@
-**Użyj języka angielskiego vs. innych języków**  
-  
-W niektórych polach wymaga się terminologii angielskiej lub stałych skrótów angielskich, podczas gdy w innych polach dopuszcza się inne języki.  
-  
-Jeśli wymaga się użycia języka angielskiego, w wytycznych dotyczących danego pola jest to wyraźnie określone.  
-  
-**Język katalogowania**  
-Jeśli angielskiego nie wymaga się, można użyć języka, który wytyczne określają jako język katalogowania. RISM dopuszcza następujące języki katalogowania: angielski, francuski, niemiecki, włoski, portugalski, hiszpański, polski. Alternatywnie, dozwolone są inne języki, o ile streszczenie jest dostarczone w jednym z sześciu języków katalogowych. Wytyczne zawsze określają, kiedy można użyć języka katalogowania.  
-  
-We wskazówkach „język katalogowania” odnosi się do praktyki używania jednego z tych siedmiu języków lub innego języka plus tłumaczenia na jeden z sześciu języków.  
-  
+**Use of English vs. other languages**  
+English terminology or fixed English abbreviations are required in some fields while in other fields, other languages are acceptable.
 
-**Transliteracje**  
+When English is required, it is indicated in the guidelines for the applicable field.
 
-Grupy krajowe są odpowiedzialne za określenie, jakie tabele transliteracji powinny być używane podczas transliteracji ich języka.
+**Cataloging language**  
+When English is not required, you may use what the guidelines refer to as your **cataloging language**. RISM allows the following cataloging languages: English, French, German, Italian, Portuguese, and Spanish. Alternately, other languages are allowed as long as a summary is provided in one of the six cataloging languages. The guidelines always state when the cataloging language may be used.
+
+In the guidelines that follow, "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
+
+**Transliterations**  
+National groups are responsible for determining what transliteration tables should be used when transliterating their language.
