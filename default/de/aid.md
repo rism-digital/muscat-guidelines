@@ -1,1500 +1,179 @@
-## Fundorte auf Quellen
+## Locations on the source
 
-Vor dem Titel werden in eckigen Klammern Angaben zum Fundort auf der Quelle gemacht. Dabei werden die englischen Fachausdrücke verwendet. Die Angabe wird mit Doppelpunkt innerhalb der eckigen Klammern abgeschlossen. Ebenso werden allfällige Kommentare in eckigen Klammern und mit englischen Ausdrücken direkt eingefügt.
+The location on the source is indicated before the title in square brackets. English terms are used. The indication is followed by a colon inside the brackets. Similarly, any inserted comments are placed in square brackets and expressed in English terms.
 
-| [cover title:] | Umschlagtitel |
-| [dust cover title:] | Titel auf Schutzumschlag |
-| [binding title:] | Einbandtitel |
-| [vl 1, cover title:] | Umschlagtitel der vl 1-Stimme |
-| [score 1, cover title:] | Umschlagtitel der 1. Partitur |
-| [parts, cover title:] | Umschlagtitel der Stimmen |
-| [caption title:] | Kopftitel |
-| [caption title on several parts:] | Kopftitel einiger Stimmen |
-| [caption title on instrumental parts:] | Kopftitel der Instrumentalstimmen |
-| [spine title:] | Rückentitel |
-| [heading:] | Überschrift |
-| [title page:] | Titelseite |
-| [title in margin:] | Titel am Blattrand |
-| [title on paste-down:] | Titel auf Vorsatzblatt |
-| [at bottom of each part:] | jeweils Fusstitel |
-| [at bottom left/right/center of title page:] | links/rechts/in der Mitte unten auf dem Titelblatt |
-| [at foot of title page:] | am Fuss des Titelblatts |
-| [at top of title page:] | oben auf dem Titelblatt |
-| [at previous page:] | auf der vorhergehenden Seite |
-| [role book:] | Rollenbuch |
-| [label on cover:] | Umschlagtitel auf Etikett / Umschlagtitel aufgeklebt |
-| [spine title, printed:] | Rückentitel gedruckt |
-| [printed title on…:] | Titelaufdruck auf… |
-| [S, pasted title:] | Aufgeklebter Titel einer S-Stimme |
-| [left before accolade:] | links von der Akkolade |
-| [by later hand:] | von späterer Hand |
-| [by later hand, in pencil / ink:] | späterer Bleivermerk / Vermerk mit Tinte |
-| [by other hand:] | von anderer Hand |
-| [by Santini:] | von Santinis Hand |
-| [incipit:] | Incipit |
-| [unreadable:] | unleserlich |
-| [indication of parts:] | Stimmenbezeichnung(en) |
-| [space:] | Spatium, Zwischenraum |
-| [printed title on…:] | gedruckt |
-| [engraved:] | gestochen |
-| [monogram:] | Monogramm |
-| [erased:] | ausradiert |
-| [cancelled:] | getilgt |
-| [crossed out:] | durchgestrichen |
-| [changed into:] | geändert in |
-| [added:] | hinzugefügt |
-| [corrected:] | korrigiert, verbessert |
-| [red chalk:] | Rötel |
-| [cut:] | beschnitten |
-| [guard sheet:] | Deckblatt |
-| [sic!] | [sic!] |
+| [cover title:] | | [dust cover title:] | | [binding title:] | | [vl 1, cover title:] | | [score 1, cover title:] | | [parts, cover title:] | | [caption title:] | | [caption title on several parts:] | | [caption title on instrumental parts:] | | [spine title:] | | [heading:] | | [title page:] | | [title in margin:] | | [title on paste-down:] | | [at bottom of each part:] | | [at bottom left/right/center of title page:] | | [at foot of title page:] | | [at top of title page:] | | [at previous page:] | | [role book:] | | [label on cover:] |[ | [spine title, printed:] | | [printed title on…:] | | [S, pasted title:] | | [left before accolade:] | | [by later hand:] | | [by later hand, in pencil / ink:] | | [by other hand:] | | [by Santini:] | | [incipit:] | | [unreadable:] | | [indication of parts:] | | [space:] | | [printed title on…:] | | [engraved:] | | [monogram:] | | [erased:] | | [cancelled:] | | [crossed out:] | | [changed into:] | | [added:] | | [corrected:] | | [red chalk:] | | [cut:] | | [guard sheet:] | | [sic!] |
 
-## Einordnungstitel - Schlagworte
+## Standardised titles - Subject headings
 
-Grundsätzlich wird als Einordnungstitel, wenn immer möglich, ein Individualtitel angegeben. Erst wenn kein solcher vorhanden ist und auch keiner ermittelt werden kann, kommen die nächsten Kategorien zum Zug (siehe die Richtlinien dazu). Es gilt die Reihenfolge: Individualtitel, Textincipit, Gattungsbezeichnung/Schlagwort, Tempobezeichnung.
+As a rule, an individual title should be chosen as standardised title whenever possible. Only if no individual title is present or can be reconstructed, the other categories of titles apply (see the corresponding guidelines). The order of preference is: individual title, text incipit, genre designation/subject heading, tempo heading.
 
-Die folgende Liste bietet einen Überblick über die standardisierten Einordnungstitel (sofern kein Individualtitel bzw. Textincipit vorhanden ist) und die dazugehörigen Schlagworte. Sie folgt den allgemeinen Richtlinien der Zentralredaktion. Die Termini erscheinen in der Regel im Plural. Bei gleichen Schlagworten für Vokal- und Instrumentalgattungen werden anschliessend an den Terminus in runden Klammern (voc.) bzw. (instr.) gesetzt.
+The following list provides an overview of the standardised titles (insofar as no individual title or text incipit is present) and the corresponding subject headings. It follows the general guidelines of the RISM Zentralredaktion. Terms generally are in the plural. If the same subject headings apply to vocal and instrumental genres, after the term the words (voc.) or (instr.) are added in brackets.
 
-In runden Klammern werden aus Gründen der Präzisierung auch Erläuterungen wie (dances) oder (stage) nachgestellt.
+Specifications such as (dances) or (stage) are also added in brackets after the main term.
 
-Können bei einer Quelle bzw. einem Werk mehrere Schlagworte vergeben werden, liegt es im Ermessen des Bearbeiters, die Reihenfolge derselben festzulegen. Es gibt Werke, die auf jeden Fall mehrere weitere Schlagworte mit sich ziehen wie z. B. „Contrafacta“ oder „Inserts“.
+If several subject headings can be associated with a source, respectively a work, the cataloguer should choose the appropriate order. Some works require in any case more than one subject heading, e.g. "Contrafacta" or "Inserts".
 
-### Allgemeine Instrumental- und Vokalmusik
+### General instrumental and vocal music
 
-| _Einordnung Schlagwort/Gattung_ | _Entsprechendes Schlagwort_ | |
-| Airs | Airs (dances) | |
-| Airs | Airs (instr.) | |
-| Airs | Airs (voc.) | |
-| Album leaves | Album leaves | |
-| Arias | Arias | |
-| Atti di contrizione | Atti di contrizione | |
-| Ballades | Ballades (forme fixe) | |
-| Ballades | Ballades (instr.) | |
-| Ballads | Ballads (voc.) | |
-| Ballettos | Ballettos (voc.) | |
-| Barcarolles | Barcarolles (instr.) | |
-| Barcarolles | Barcarolles (voc.) | |
-| Battaglias | Keyboard pieces (oder entsprechende Gattung) | |
-| Battle music | Battle music (instr.) | |
-| Battle music | Battle music (voc.) | |
-| Bergerettes | Bergerettes (voc.) | |
-| Brass music | Brass music | |
-| Burlesques | Burlesques | |
-| Canons | Canons (instr.) | |
-| Canons | Canons (voc.) | |
-| Cantatas | Cantatas | |
-| Canzonas | Canzonas (instr.) | |
-| Canzonettas | Canzonettas | |
-| Canzoni | Canzoni (voc.) | |
-| Capriccios | Capriccios (instr.) | |
-| Capriccios | Capriccios (voc.) | |
-| Catches | Catches | |
-| Catches | Catches | |
-| Cavatinas | Cavatinas | |
-| Chaconnes | Chaconnes | |
-| Chansons | Chansons | |
-| Character pieces | Character pieces | |
-| Children's songs | Children's songs | |
-| Chorale arrangements | Chorale arrangements | |
-| Chorea | Chorea | |
-| Choruses | Choruses | |
-| Concerti grossi | Concerti grossi | |
-| Concertos | Concertos | |
-| Consorts | Consorts | |
-| Contrafacta | Contrafacta | |
-| Contrapuntal studies | Contrapuntal studies | |
-| Dances | Dances | |
-| Danze | Danze | |
-| Dialogues | Dialogues | |
-| Divertimentos | Divertimentos | |
-| Divisions | Divisions | |
-| Duets | Duets (instr.) | |
-| Duets | Duets (voc.) | |
-| Elevations | Elevations | |
-| Ensembles | Ensembles | |
-| Etudes | Etudes (instr.) | |
-| Fanfares | Fanfares | |
-| Fantasies | Fantasies | |
-| Film music | Film music | |
-| Folias | Folias | |
-| Folk songs | Folk songs | |
-| Frottolas | Frottolas | |
-| Fugues | Fugues (instr.) | |
-| Fugues | Fugues (voc.) | |
-| Glees | Glees | |
-| Grounds | Grounds | |
-| Humoresken | Humoresken | |
-| Impromptus | Impromptus | |
-| In Nomine | In Nomine (instr.) | |
-| Instrumental pieces | Instrumental pieces | |
-| Interludes | Interludes | |
-| Intermezzos | Intermezzos | |
-| Intonazione | Intonazione (instr.) | |
-| Intradas | Intradas | |
-| Inventions | Inventions | |
-| Janissary music | Janissary music | |
-| Keyboard pieces | Keyboard pieces | |
-| Koledy | Koledy | |
-| Konzertstücke | Konzertstücke | |
-| Lais | Lais | |
-| Lamentos | Lamentos | |
-| Lessons | Lessons | |
-| Lieder | Lieder | |
-| Madrigals | Madrigals | |
-| March songs | March songs | |
-| Marches | Marches | |
-| Mazurkas | Mazurkas | |
-| Minuets | Minuets | |
-| Modinhas | Modinhas | |
-| Motets | Motets | |
-| Movements | Movements | |
-| Murkys | Murkys | |
-| National anthems | National anthems | |
-| Nocturnes | Nocturnes (instr.) | |
-| Nonets | Nonets | |
-| Notturni | Notturni (voc.) | |
-| Octets | Octets | |
-| Odes | Odes | |
-| Overtures | Overtures | |
-| Partitas | Partitas | |
-| Partsongs | Partsongs | |
-| Passacaglias | Passacaglias | |
-| Pastorales | Pastorales (instr.) | |
-| Pastorales | Pastorales (voc.) | |
-| Polonaises | Polonaises | |
-| Postludes | Postludes | |
-| Potpourris | Potpourris | |
-| Preludes | Preludes | |
-| Preludes and Fugues | Preludes + Fugues | |
-| Programme music | Programme music | |
-| Quartets | Quartets (instr.) | |
-| Quartets | Quartets (voc.) | |
-| Quintets | Quintets | |
-| Recitatives | Recitatives | |
-| Rhapsodies | Rhapsodies (instr.) | |
-| Rhapsodies | Rhapsodies (voc.) | |
-| Ricercares | Ricercares (instr.) | |
-| Ricercares | Ricercares (voc.) | |
-| Romances | Romances (instr.) | |
-| Romances | Romances (voc.) | |
-| Rondeaux | Rondeaux (forme fixe) | |
-| Rondos | Rondos | |
-| Rondos | Rondos (voc.) | |
-| Rounds | Rounds (voc.) | |
-| Scenes | Scenes | |
-| Scherzi | Ballettos (voc.) | |
-| Scherzos | Scherzos (instr.) | |
-| Septets | Septets | |
-| Sextets | Sextets | |
-| Sonatas | Sonatas oder Triosonatas | |
-| Songs [einstimmig] | Songs | |
-| Songs [mehrstimmig] | Songs oder Partsongs oder Tenorlieder (Sonderfall!) | |
-| Sprüche | Sprüche | |
-| Ständchen | Ständchen | |
-| Suites | Suites | |
-| Symphonic poems | Symphonic poems | |
-| Symphonies | Symphonies | |
-| Symphonies concertantes | Symphonies concertantes | |
-| Tenorlieder | Tenorlieder | |
-| Tercets | Tercets (voc.) | |
-| Tientos | Tientos | |
-| Toccatas | Toccatas | |
-| Tonos | Tonos | |
-| Toys | Toys | |
-| Trios | Trios | |
-| Variations | Variations | |
-| Vaudevilles | Vaudevilles | |
-| Versets | Versets | |
-| Villancicos | Villancicos | |
-| Villanelle | Ballettos (voc.) | |
-| Virelais | Virelais (forme fixe) | |
-| Vocal pieces | Vocal pieces | |
-| Voluntaries | Voluntaries | |
-| Waltzes | Waltzes | |
-| Wind music | Wind music | |
-| | | |
-| | | |
+| _Standardised title/genre_ | _Corresponding subject heading_ | | | Airs | Airs (dances) | | | Airs | Airs (instr.) | | | Airs | Airs (voc.) | | | Album leaves | Album leaves | | | Arias | Arias | | | Atti di contrizione | Atti di contrizione | | | Ballades | Ballades (forme fixe) | | | Ballades | Ballades (instr.) | | | Ballads | Ballads (voc.) | | | Ballettos | Ballettos (voc.) | | | Barcarolles | Barcarolles (instr.) | | | Barcarolles | Barcarolles (voc.) | | | Battaglias | Keyboard pieces (or corresponding genre) | | | Battle music | Battle music (instr.) | | | Battle music | Battle music (voc.) | | | Bergerettes | Bergerettes (voc.) | | | Brass music | Brass music | | | Burlesques | Burlesques | | | Canons | Canons (instr.) | | | Canons | Canons (voc.) | | | Cantatas | Cantatas | | | Canzonas | Canzonas (instr.) | | | Canzonettas | Canzonettas | | | Canzoni | Canzoni (voc.) | | | Capriccios | Capriccios (instr.) | | | Capriccios | Capriccios (voc.) | | | Catches | Catches | | | Catches | Catches | | | Cavatinas | Cavatinas | | | Chaconnes | Chaconnes | | | Chansons | Chansons | | | Character pieces | Character pieces | | | Children's songs | Children's songs | | | Chorale arrangements | Chorale arrangements | | | Chorea | Chorea | | | Choruses | Choruses | | | Concerti grossi | Concerti grossi | | | Concertos | Concertos | | | Consorts | Consorts | | | Contrafacta | Contrafacta | | | Contrapuntal studies | Contrapuntal studies | | | Dances | Dances | | | Danze | Danze | | | Dialogues | Dialogues | | | Divertimentos | Divertimentos | | | Divisions | Divisions | | | Duets | Duets (instr.) | | | Duets | Duets (voc.) | | | Elevations | Elevations | | | Ensembles | Ensembles | | | Etudes | Etudes (instr.) | | | Fanfares | Fanfares | | | Fantasies | Fantasies | | | Film music | Film music | | | Folias | Folias | | | Folk songs | Folk songs | | | Frottolas | Frottolas | | | Fugues | Fugues (instr.) | | | Fugues | Fugues (voc.) | | | Glees | Glees | | | Grounds | Grounds | | | Humoresken | Humoresken | | | Impromptus | Impromptus | | | In Nomine | In Nomine (instr.) | | | Instrumental pieces | Instrumental pieces | | | Interludes | Interludes | | | Intermezzos | Intermezzos | | | Intonazione | Intonazione (instr.) | | | Intradas | Intradas | | | Inventions | Inventions | | | Janissary music | Janissary music | | | Keyboard pieces | Keyboard pieces | | | Koledy | Koledy | | | KonzertstÃ¼cke | KonzertstÃ¼cke | | | Lais | Lais | | | Lamentos | Lamentos | | | Lessons | Lessons | | | Lieder | Lieder | | | Madrigals | Madrigals | | | March songs | March songs | | | Marches | Marches | | | Mazurkas | Mazurkas | | | Minuets | Minuets | | | Modinhas | Modinhas | | | Motets | Motets | | | Movements | Movements | | | Murkys | Murkys | | | National anthems | National anthems | | | Nocturnes | Nocturnes (instr.) | | | Nonets | Nonets | | | Notturni | Notturni (voc.) | | | Octets | Octets | | | Odes | Odes | | | Overtures | Overtures | | | Partitas | Partitas | | | Partsongs | Partsongs | | | Passacaglias | Passacaglias | | | Pastorales | Pastorales (instr.) | | | Pastorales | Pastorales (voc.) | | | Polonaises | Polonaises | | | Postludes | Postludes | | | Potpourris | Potpourris | | | Preludes | Preludes | | | Preludes and Fugues | Preludes + Fugues | | | Programme music | Programme music | | | Quartets | Quartets (instr.) | | | Quartets | Quartets (voc.) | | | Quintets | Quintets | | | Recitatives | Recitatives | | | Rhapsodies | Rhapsodies (instr.) | | | Rhapsodies | Rhapsodies (voc.) | | | Ricercares | Ricercares (instr.) | | | Ricercares | Ricercares (voc.) | | | Romances | Romances (instr.) | | | Romances | Romances (voc.) | | | Rondeaux | Rondeaux (forme fixe) | | | Rondos | Rondos | | | Rondos | Rondos (voc.) | | | Rounds | Rounds (voc.) | | | Scenes | Scenes | | | Scherzi | Ballettos (voc.) | | | Scherzos | Scherzos (instr.) | | | Septets | Septets | | | Sextets | Sextets | | | Sonatas | Sonatas or Triosonatas | | | Songs [monodic] | Songs | | | Songs [polyphonic] | Songs or Partsongs or Tenorlieder (special case!) | | | SprÃ¼che | SprÃ¼che | | | StÃ¤ndchen | StÃ¤ndchen | | | Suites | Suites | | | Symphonic poems | Symphonic poems | | | Symphonies | Symphonies | | | Symphonies concertantes | Symphonies concertantes | | | Tenorlieder | Tenorlieder | | | Tercets | Tercets (voc.) | | | Tientos | Tientos | | | Toccatas | Toccatas | | | Tonos | Tonos | | | Toys | Toys | | | Trios | Trios | | | Variations | Variations | | | Vaudevilles | Vaudevilles | | | Versets | Versets | | | Villancicos | Villancicos | | | Villanelle | Ballettos (voc.) | | | Virelais | Virelais (forme fixe) | | | Vocal pieces | Vocal pieces | | | Voluntaries | Voluntaries | | | Waltzes | Waltzes | | | Wind music | Wind music | | | | | | | | | |
 
-### Geistliche Vokalmusik
+### Sacred vocal music
 
-| _Einordnung Schlagwort/Gattung_ | _Entsprechendes Schlagwort_ | |
-| Anthems | Anthems | |
-| Antiphonies | Antiphonies | |
-| Calendas | Calendas | |
-| Canticles | Canticles | |
-| Chorales | Chorales | |
-| Communions | Communions | |
-| Completoria | Hours of the Office | |
-| Dialogues | Dialogues | |
-| Dicta | Dicta | |
-| Exsequiae | Exsequiae | |
-| Graduals | Graduals | |
-| Herrnhut chorales | Herrnhut chorales | |
-| Historias | Historias | |
-| Horae minores | Hours of the Office | |
-| Hymns | Hymns | |
-| Improperia | Improperia | |
-| Intonations | Intonations (voc.) | |
-| Introits | Introits | |
-| Invitatoires | Invitatoires | |
-| Lamentations | Lamentations | |
-| Laudes | Hours of the Office | |
-| Lections | Lections | |
-| Litanies | Litanies | |
-| Masses | Masses | |
-| Matutina | Hours of the Office | |
-| Offertories | Offertories | |
-| Oratorios | Oratorios | |
-| Passions | Passions | |
-| Psalmi de Vesperae | Psalmi de Vesperae | |
-| Psalms | Psalms | |
-| Requiems | Requiems | |
-| Responsories | Responsories (voc.) | |
-| Sacred concerts | Sacred concerts | |
-| Sacred songs | Sacred songs | |
-| Sequences | Sequences | |
-| Services | Services | |
-| Tonos | Tonos | |
-| Tracts | Tracts | |
-| Versi | Versi, auch Masses oder Psalms (je nach Text!) | |
-| Vespers | Vespers | |
-| Villancicos | Villancicos | |
-| | | |
-| | | |
+| _Standardised title/genre_ | _Corresponding subject heading_ | | | Anthems | Anthems | | | Antiphonies | Antiphonies | | | Calendas | Calendas | | | Canticles | Canticles | | | Chorales | Chorales | | | Communions | Communions | | | Completoria | Hours of the Office | | | Dialogues | Dialogues | | | Dicta | Dicta | | | Exsequiae | Exsequiae | | | Graduals | Graduals | | | Herrnhut chorales | Herrnhut chorales | | | Historias | Historias | | | Horae minores | Hours of the Office | | | Hymns | Hymns | | | Improperia | Improperia | | | Intonations | Intonations (voc.) | | | Introits | Introits | | | Invitatoires | Invitatoires | | | Lamentations | Lamentations | | | Laudes | Hours of the Office | | | Lections | Lections | | | Litanies | Litanies | | | Masses | Masses | | | Matutina | Hours of the Office | | | Offertories | Offertories | | | Oratorios | Oratorios | | | Passions | Passions | | | Psalmi de Vesperae | Psalmi de Vesperae | | | Psalms | Psalms | | | Requiems | Requiems | | | Responsories | Responsories (voc.) | | | Sacred concerts | Sacred concerts | | | Sacred songs | Sacred songs | | | Sequences | Sequences | | | Services | Services | | | Tonos | Tonos | | | Tracts | Tracts | | | Versi | Versi, also Masses or Psalms (depending on the text!) | | | Vespers | Vespers | | | Villancicos | Villancicos | | | | | | | | | |
 
-### Bühnenmusik
+### Stage music
 
-| _Einordnung Schlagwort/Gattung_ | _Entsprechendes Schlagwort_ | |
-| Afterpieces | Afterpieces | |
-| Ballad operas | Ballad operas | |
-| Ballets | Ballets | |
-| Entr'actes | Entr'actes | |
-| Farse | Farse | |
-| Festive music | Festive music | |
-| Funeral music | Funeral music | |
-| Incidental music | Incidental music | |
-| Intermezzi | Short comic stage music | |
-| Jeux | Jeux | |
-| Liederspiele | Liederspiele | |
-| Masques | Masques | |
-| Meditationes | Meditationes (Jesuit theatre) | |
-| Melodramas | Melodramas | |
-| Opéra-ballets | Opéra-ballets | |
-| Operas | Operas | |
-| Operettas | Operettas | |
-| Pantomimes | Pantomimes | |
-| Pasticcios | Pasticcios | |
-| Pastoral plays | Pastoral plays | |
-| Possen | Possen | |
-| Prologues | Prologues (stage) | |
-| Serenatas | Serenatas | |
-| Singspiele | Singspiele | |
-| Stage music | Stage music | |
-| Table entertainments | Table entertainments | |
-| Tonadillas | Tonadillas | |
-| Tragédies lyriques | Tragédies lyriques | |
-| Vaudevilles | Vaudevilles | |
-| Wedding music | Wedding music | |
-| Zarzuelas | Zarzuelas | |
-| | | |
+| _Standardised title/genre_ | _Corresponding subject heading_ | | | Afterpieces | Afterpieces | | | Ballad operas | Ballad operas | | | Ballets | Ballets | | | Entr'actes | Entr'actes | | | Farse | Farse | | | Festive music | Festive music | | | Funeral music | Funeral music | | | Incidental music | Incidental music | | | Intermezzi | Short comic stage music | | | Jeux | Jeux | | | Liederspiele | Liederspiele | | | Masques | Masques | | | Meditationes | Meditationes (Jesuit theatre) | | | Melodramas | Melodramas | | | OpÃ©ra-ballets | OpÃ©ra-ballets | | | Operas | Operas | | | Operettas | Operettas | | | Pantomimes | Pantomimes | | | Pasticcios | Pasticcios | | | Pastoral plays | Pastoral plays | | | Possen | Possen | | | Prologues | Prologues (stage) | | | Serenatas | Serenatas | | | Singspiele | Singspiele | | | Stage music | Stage music | | | Table entertainments | Table entertainments | | | Tonadillas | Tonadillas | | | TragÃ©dies lyriques | TragÃ©dies lyriques | | | Vaudevilles | Vaudevilles | | | Wedding music | Wedding music | | | Zarzuelas | Zarzuelas | | | | | |
 
-Gattungen einzelner Nummern oder Teile siehe unter Vokal- und Instrumentalmusik!  
-**Achtung!**"Melodrama" (für Musik und Sprechstimme) ist nicht zu verwechseln mit dem italienischen Begriff "Melodramma", der allgemein für Opern verwendet wird. Der Begriff "Opera" wird oft im diplomatischen Titel auch für "Werke" (Opuszahl!) verwendet.  
- Das Schlagwort "Incidental music" steht für Bühnenmusik/Musik im Sprechtheater, nicht für Gelegenheitsmusik (= Festive music)!
+For genres of individual numbers or parts see under vocal and instrumental music!  
+**Caution!**"Melodrama" (for music and speaking voice) should not be confused with the Italian term "Melodramma", which is used as a general term for opera. The term "Opera" is often used in diplomatic titles as a synonym of work (opus number!).  
+The subject heading "Incidental music" indicates stage music for prose theatre, not occasional music (= Festive music)!
 
-### Übungen, Übungsstücke, Schulen
+### Exercises, studies, schools
 
-| _Einordnung Schlagwort/Gattung_ | _Entsprechendes Schlagwort_ | |
-| Arpeggios | Arpeggios (instr.) | |
-| Cadences | Cadences (instr.) | |
-| Cadenzas | Cadenzas (voc.) | |
-| Contrapuntal studies | Contrapuntal studies | |
-| Exercises | Exercises (instr.) | |
-| Exercises | Exercises (voc.) | |
-| Lessons | Lessons | |
-| Partimentos | Partimentos | |
-| Scales | Scales | |
-| Solfeggios | Solfeggios (instr.) | |
-| Solfeggios | Solfeggios (voc.) | |
-| Tutors | Tutors (instr.) | |
-| Tutors | Tutors (voc.) | |
-| | | |
-| | | |
+| _Standardised title/genre_ | _Corresponding subject heading_ | | | Arpeggios | Arpeggios (instr.) | | | Cadences | Cadences (instr.) | | | Cadenzas | Cadenzas (voc.) | | | Contrapuntal studies | Contrapuntal studies | | | Exercises | Exercises (instr.) | | | Exercises | Exercises (voc.) | | | Lessons | Lessons | | | Partimentos | Partimentos | | | Scales | Scales | | | Solfeggios | Solfeggios (instr.) | | | Solfeggios | Solfeggios (voc.) | | | Tutors | Tutors (instr.) | | | Tutors | Tutors (voc.) | | | | | | | | | |
 
-### Tänze
+### Dances
 
-Allgemein wird verwendet: Einordnungstitel "Dances", Schlagwort "Dances"; bei Tanzliedern auch zusätzlich "Danze" - "Danze".
+As a rule, use "Dances" as standardised title, and "Dances" as subject heading; for dance songs also add "Danze" - "Danze".
 
-Spezifischer sind folgende Kombinationen:
+More specific combinations include:
 
-| _Einordnung Schlagwort/Gattung_ | _Entsprechendes Schlagwort_ | |
-| Allemandes | Allemandes | |
-| Anglaises | Anglaises | |
-| Basse danses | Basse danses | |
-| Bergamasche | Bergamasche | |
-| Boleros | Boleros | |
-| Boleros cubanos | Boleros cubanos | |
-| Bourrées | Bourrées | |
-| Branles | Branles | |
-| Canaries | Canaries | |
-| Chiarentane | Chiarentane | |
-| Choreae | Choreae | |
-| Contredanses | Contredanses | |
-| Correnti | Correnti | |
-| Country dances | Country dances | |
-| Courantes | Courantes | |
-| Cotillons | Cotillons | |
-| Csárdás | Csárdás | |
-| Deutsche Tänze | Deutsche Tänze | |
-| Dreher | Dreher | |
-| Écossaises | Écossaises | |
-| Fandangos | Fandangos | |
-| Folias | Folias | |
-| Forlanas | Forlanas | |
-| Foxtrots | Foxtrots | |
-| Françaises | Françaises | |
-| Galliards | Galliards | |
-| Galops | Galops | |
-| Gavottes | Gavottes | |
-| Gigues | Gigues | |
-| Hopser | Hopser | |
-| Hornpipes | Hornpipes | |
-| Krakowiaks | Krakowiaks | |
-| Kujawiaks | Kujawiaks | |
-| Ländler | Ländler | |
-| Langaus | Langaus | |
-| Loures | Loures | |
-| Mazurs | Mazurs | |
-| Mazurkas | Mazurkas | |
-| Minuets | Minuets | |
-| Musettes | Musettes | |
-| Obereks | Obereks | |
-| Paduanas | Paduanas | |
-| Paso dobles | Paso dobles | |
-| Passamezzos | Passamezzos | |
-| Passepieds | Passepieds | |
-| Pavans | Pavans | |
-| Polkas | Polkas | |
-| Polonaises | Polonaises | |
-| Proportze | Proportze | |
-| Quadrilles | Quadrilles | |
-| Redowas | Redowas | |
-| Reels | Reels | |
-| Rheinländer | Rheinländer | |
-| Rigaudons | Rigaudons | |
-| Rounds | Rounds (dances) | |
-| Saltarellos | Saltarellos | |
-| Sarabandes | Sarabandes | |
-| Schleifer | Schleifer | |
-| Schnadahüpfln | Schnadahüpfln | |
-| Schottische | Schottische | |
-| Seguidillas | Seguidillas | |
-| Sicilianas | Sicilianas | |
-| Spagnolette | Spagnolette | |
-| Strathspeys | Strathspeys | |
-| Tambourins | Tambourins | |
-| Tangos | Tangos | |
-| Tarantellas | Tarantellas | |
-| Verbunkos | Verbunkos | |
-| Voltas | Voltas | |
-| Waltzes | Waltzes | |
-| | | |
-| | | |
+| _Standardised title/genre_ | _Corresponding subject heading_ | | | Allemandes | Allemandes | | | Anglaises | Anglaises | | | Basse danses | Basse danses | | | Bergamasche | Bergamasche | | | Boleros | Boleros | | | Boleros cubanos | Boleros cubanos | | | BourrÃ©es | BourrÃ©es | | | Branles | Branles | | | Canaries | Canaries | | | Chiarentane | Chiarentane | | | Choreae | Choreae | | | Contredanses | Contredanses | | | Correnti | Correnti | | | Country dances | Country dances | | | Courantes | Courantes | | | Cotillons | Cotillons | | | CsÃ¡rdÃ¡s | CsÃ¡rdÃ¡s | | | Deutsche TÃ¤nze | Deutsche TÃ¤nze | | | Dreher | Dreher | | | Ãcossaises | Ãcossaises | | | Fandangos | Fandangos | | | Folias | Folias | | | Forlanas | Forlanas | | | Foxtrots | Foxtrots | | | FranÃ§aises | FranÃ§aises | | | Galliards | Galliards | | | Galops | Galops | | | Gavottes | Gavottes | | | Gigues | Gigues | | | Hopser | Hopser | | | Hornpipes | Hornpipes | | | Krakowiaks | Krakowiaks | | | Kujawiaks | Kujawiaks | | | LÃ¤ndler | LÃ¤ndler | | | Langaus | Langaus | | | Loures | Loures | | | Mazurs | Mazurs | | | Mazurkas | Mazurkas | | | Minuets | Minuets | | | Musettes | Musettes | | | Obereks | Obereks | | | Paduanas | Paduanas | | | Paso dobles | Paso dobles | | | Passamezzos | Passamezzos | | | Passepieds | Passepieds | | | Pavans | Pavans | | | Polkas | Polkas | | | Polonaises | Polonaises | | | Proportze | Proportze | | | Quadrilles | Quadrilles | | | Redowas | Redowas | | | Reels | Reels | | | RheinlÃ¤nder | RheinlÃ¤nder | | | Rigaudons | Rigaudons | | | Rounds | Rounds (dances) | | | Saltarellos | Saltarellos | | | Sarabandes | Sarabandes | | | Schleifer | Schleifer | | | SchnadahÃ¼pfln | SchnadahÃ¼pfln | | | Schottische | Schottische | | | Seguidillas | Seguidillas | | | Sicilianas | Sicilianas | | | Spagnolette | Spagnolette | | | Strathspeys | Strathspeys | | | Tambourins | Tambourins | | | Tangos | Tangos | | | Tarantellas | Tarantellas | | | Verbunkos | Verbunkos | | | Voltas | Voltas | | | Waltzes | Waltzes | | | | | | | | | |
 
-### Skizzen etc.
+### Sketches etc.
 
-Für Skizzen zu unbekannten Werken gilt Einordnung "Sketches" und Schlagwort "Sketches".  
- Bei Skizzen zu bekannten Werken steht die Gattung oder der Titel des Werks im Einordnungstitel, "Sketches" wird als zweites Schlagwort angegeben.  
- Im äussersten Notfall, z. B. bei unbekannter Besetzung: Einordnung "Pieces", Schlagwort "Pieces".
+The standardised title "Sketches" and the subject heading "Sketches" are attributed to sketches of unidentified works.  
+The genre or the title of the work is used for sketches for an identified piece, and "Sketches" is entered as second subject heading.  
+Only in complete uncertainty, e.g. unknown scoring, enter "Pieces" as ST and "Pieces" as subject heading.
 
-## Standardtexte Sakralwerke
+## Standard texts of sacred works
 
-Die Standardtexte Sakralwerke bieten einen Überblick über die häufigsten geistlichen lateinischen Texte. Folgende Liste ist nach verschiedenen Gattungen gegliedert. Innerhalb einer Gattung sind alle Textanfänge aller Abschnitte aufgeführt. Die Liste liest sich jeweils von links nach rechts, dann von oben nach unten, wobei pro Zeile drei Textanfänge aufgeführt sind.
+The following list of standard texts of sacred works provide an overview of the Latin texts most frequently used in sacred music. The list is ordered by genre. Within a genre, all incipits of all sections are listed. The list reads from left to right, and from top down, with three text incipits on each line.
 
-### Messe
+### Mass
 
-| KYRIE |
-| Christe eleison |
-| GLORIA |
-| Et in terra pax |
-| Laudamus te |
-| Adoramus te |
-| Gratias agimus |
-| Domine Deus |
-| Domine fili |
-| Qui tollis |
-| Qui tollis peccata mundi suscipe |
-| Suscipe |
-| Qui sedes |
-| Miserere nobis |
-| Quoniam |
-| Tu solus Dominus |
-| Tu solus altissimus |
-| Cum sancto spiritu |
-| In gloria Dei patris |
-| CREDO |
-| In unum Deum |
-| Patrem omnipotentem |
-| Et in unum Dominum |
-| Et ex patre natum |
-| Deum de Deo |
-| Qui propter |
-| Descendit de caelis |
-| Et incarnatus est |
-| Et homo factus est |
-| Crucifixus |
-| Et resurrexit |
-| Et iterum venturus est |
-| Judicare vivos et mortuos |
-| Cujus regni |
-| Et in spiritum |
-| Et unam sanctam |
-| Confiteor unum baptisma |
-| Et expecto |
-| Et vitam venturi saeculi |
-| SANCTUS |
-| Pleni sunt caeli |
-| Hosanna |
-| BENEDICTUS |
-| AGNUS DEI |
-| Miserere nobis |
-| Dona nobis pacem |
+| KYRIE | | Christe eleison | | GLORIA | | Et in terra pax | | Laudamus te | | Adoramus te | | Gratias agimus | | Domine Deus | | Domine fili | | Qui tollis | | Qui tollis peccata mundi suscipe | | Suscipe | | Qui sedes | | Miserere nobis | | Quoniam | | Tu solus Dominus | | Tu solus altissimus | | Cum sancto spirito | | In gloria Dei patris | | CREDO | | In unum Deum | | Patrem omnipotentem | | Et in unum Dominum | | Et ex patre natum | | Deum de Deo | | Qui propter | | Descendit de caelis | | Et incarnatus est | | Et homo factus est | | Crucifixus | | Et resurrexit | | Et iterum venturus est | | Judicare vivos et mortuos | | Cujus regni | | Et in spiritum | | Et unam sanctam | | Confiteor unum baptisma | | Et expecto | | Et vitam venturi saeculi | | SANCTUS | | Pleni sunt caeli | | Hosanna | | BENEDICTUS | | AGNUS DEI | | Miserere nobis | | Dona nobis pacem |
 
 ### Requiem (Missa pro defunctis)
 
-| REQUIEM |
-| Aeternam dona eis |
-| ABSOLVE DOMINE |
-| DIES IRAE |
-| Quantus tremor |
-| Tuba mirum |
-| Mors stupebit |
-| Liber scriptus |
-| Judex ego |
-| Quid sum miser |
-| Rex tremendae |
-| Recordare Jesu pie |
-| Quaerens me |
-| Juste judex |
-| Ingemisco |
-| Qui Mariam |
-| Preces meae |
-| Inter oves |
-| Confutatis |
-| Oro supplex |
-| Lacrimosa |
-| Huic ergo |
-| Pie Jesu |
-| Dona eis requiem |
-| DOMINE JESU |
-| Libera me |
-| SANCTUS |
-| BENEDICTUS |
-| AGNUS DEI (qui tollis pecata mundi dona eis requiem) |
-| LUX AETERNA |
-| Cum sanctis tuis |
+| REQUIEM | | Aeternam dona eis | | ABSOLVE DOMINE | | DIES IRAE | | Quantus tremor | | Tuba mirum | | Mors stupedit | | Liber scriptus | | Judex ego | | Quid sum miser | | Rex tremendae | | Recordare Jesu pie | | Quaerens me | | Juste judex | | Ingemisco | | Qui Mariam | | Preces meae | | Inter oves | | Confutatis | | Oro supplex | | Lacrimosa | | Huic ergo | | Pie Jesu | | Dona eis requiem | | DOMINE JESU | | Libera me | | SANCTUS | | BENEDICTUS | | AGNUS DEI (qui tollis pecata mundi dona eis requiem) | | LUX AETERNA | | Cum sanctis tuis |
 
 ### Litaniae Lauretanae
 
-| Kyrie eleison Christe eleison |
-| Kyrie eleison Christe audi nos |
-| Christe eleison |
-| Pater de caelis Deus |
-| Fili redemptor mundi |
-| Spiritus sancte Deus |
-| Sancta trinitas |
-| Sancta Maria |
-| Sancta Dei genitrix |
-| Sancta virgo virginum |
-| Mater Christi |
-| Mater purissima |
-| Mater inviolata |
-| Mater amabilis |
-| Virgo |
-| Virgo veneranda |
-| Virgo praedicanda |
-| Virgo potens |
-| Virgo fidelis |
-| Speculum justitiae |
-| Causa nostrae laetitiae |
-| Vas spirituale |
-| Rosa mystica |
-| Turris Davidica |
-| Stella matutina |
-| Salus infirmorum |
-| Regina angelorum |
-| Regina sanctorum |
-| Agnus Dei qui tollis peccata mundi parce nobis Domine |
-| Christe audi nos |
-|   |
-| **_Abweichungen bei Litaniae de Nomine Jesu:_** |
-| Kyrie eleison Christe eleison Kyrie eleison Jesu audi nos |
-| Agnus Dei qui tollis peccata mundi parce nobis Jesu |
+| Kyrie eleison Christe eleison | | Kyrie eleison Christe audi nos | | Christe eleison | | Pater de caelis Deus | | Fili redemptor mundi | | Spiritus sancte Deus | | Sancta trinitas | | Sancta Maria | | Sancta Dei genitrix | | Sancta virgo virginum | | Mater Christi | | Mater purissima | | Mater inviolata | | Mater amabilis | | Virgo | | Virgo veneranda | | Virgo praedicanda | | Virgo potens | | Virgo fidelis | | Speculum justitiae | | Causa nostrae laetitiae | | Vas spirituale | | Rosa mystica | | Turris Davidica | | Stella matutina | | Salus infirmorum | | Regina angelorum | | Regina sanctorum | | Agnus Dei qui tollis peccata mundi parce nobis Domine | | Christe audi nos | | | | **_Abweichungen bei Litaniae de Nomine Jesu:_** | | Kyrie eleison Christe eleison Kyrie eleison Jesu audi nos | | Agnus Dei qui tollis peccata mundi parce nobis Jesu |
 
 ### Responsorium
 
-| **_Feria V. in coena Domini:_** |
-| _1. Nocturno:_ |
-| In monte Oliveti |
-| Tristis est anima mea |
-| Ecce vidimus |
-| _2. Nocturno:_ |
-| Amicus meus |
-| Judas mercator |
-| Unus ex discipulis |
-| _3. Nocturno:_ |
-| Eram quasi agnus |
-| Una hora |
-| Seniores populi |
-|   |
-| **_Feria VI. in parasceve:_** |
-| _1. Nocturno:_ |
-| Omnes amici mei |
-| Velum templi |
-| Vinea mea electa |
-| _2. Nocturno:_ |
-| Tamquam ad latronem |
-| Tenebrae factae sunt |
-| Animam meam |
-| _3. Nocturno:_ |
-| Tradiderunt |
-| Jesum tradidit |
-| Caligaverunt |
-|   |
-| **_Sabbato sancto:_** |
-| _1. Nocturno:_ |
-| Sicut ovis |
-| Jerusalem surge |
-| Plange quasi virgo |
-|   |
-| _2. Nocturno:_ |
-| Recessit pastor |
-| O vos omnes |
-| Ecce quomodo moritur |
-|   |
-| _3. Nocturno:_ |
-| Asisterunt reges |
-| Aestimatus sum |
-| Sepulto Domino |
+| **_Feria V. in coena Domini:_** | | _1. Nocturno:_ | | In monte Oliveti | | Tristis est anima mea | | Ecce vidimus | | _2. Nocturno:_ | | Amicus meus | | Judas mercator | | Unus ex discipulis | | _3. Nocturno:_ | | Eram quasi agnus | | Una hora | | Seniores populi | | | | **_Feria VI. in parasceve:_** | | _1. Nocturno:_ | | Omnes amici mei | | Velum templi | | Vinea mea electa | | _2. Nocturno:_ | | Tamquam ad latronem | | Tenebrae factae sunt | | Animam meam | | _3. Nocturno:_ | | Tradiderunt | | Jesum tradidit | | Caligaverunt | | | | **_Sabbato sancto:_** | | _1. Nocturno:_ | | Sicut ovis | | Jerusalem surge | | Plange quasi virgo | | | | _2. Nocturno:_ | | Recessit pastor | | O vos omnes | | Ecce quomodo moritur | | | | _3. Nocturno:_ | | Asisterunt reges | | Aestimatus sum | | Sepulto Domino |
 
 ### Vesperae
 
-| Dixit Dominus |
-| Domine ad adiuvandum |
-| Confitebor |
-| Beatus vir |
-| Laudate pueri |
-| Laudate Dominum |
-| In exitu Israel |
-| Credidi |
-| Laetatus sum |
-| In convertendo |
-| Nisi Dominus |
-| Beati omnes |
-| Memento Domine David |
-| Confitebor ... quoniam |
-| Domine probasti me |
-| Benedictus Dominus Deus meus |
-| Deus canticum |
-| Exaltabo te |
-| Miserator |
-| Fidelis Dominus |
-| Lauda Jerusalem |
-| Magnificat |
+| Dixit Dominus | | Domine ad adiuvandum | | Confitebor | | Beatus vir | | Laudate pueri | | Laudate Dominum | | In exitu Israel | | Credidi | | Laetatus sum | | In convertendo | | Nisi Dominus | | Beati omnes | | Memento Domine David | | Confitebor ... quoniam | | Domine probasti me | | Benedictus Dominus Deus meus | | Deus canticum | | Exaltabo te | | Miserator | | Fidelis Dominus | | Lauda Jerusalem | | Magnificat |
 
 ### Magnificat
 
-| Magnificat |
-| Anima mea Dominum |
-| Et exsultavit |
-| Quia respexit humilitatem |
-| Quia fecit |
-| Et misericordia ejus |
-| Fecit potentiam |
-| Deposuit potentes |
-| Esurientes implevit |
-| Suscepit Israel |
-| Sicut locutus est |
-| Gloria patri |
-| Sicut erat |
+| Magnificat | | Anima mea Dominum | | Et exsultavit | | Quia respexit humilitatem | | Quia fecit | | Et misericordia ejus | | Fecit potentiam | | Deposuit potentes | | Esurientes implevit | | Suscepit Israel | | Sicut locutus est | | Gloria patri | | Sicut erat |
 
 ### Miserere
 
-| Miserere |
-| Secundum magnam misericordiam tuam |
-| Amplius lava me |
-| Quoniam iniquitatem |
-| Tibi soli peccavi |
-| Ecce enim in iniquitatibus |
-| Ecce enim |
-| Asperges me |
-| Auditui meo |
-| Et exsultabunt |
-| Averte faciem tuam |
-| Cor mundum crea in me |
-| Ne projicias me |
-| Redde mihi laetitiam |
-| Docebo iniquos vias tuas |
-| Libera me de sanguinibus |
-| Et exsultabit |
-| Domine labia mea aperies |
-| Quoniam si voluisses sacrificium |
-| Sacrificium Deo |
-| Benigne fac Domine |
-| Tunc acceptabis |
-| Tunc imponent |
+| Miserere | | Secundum magnam misericordiam tuam | | Amplius lava me | | Quoniam iniquitatem | | Tibi soli peccavi | | Ecce enim in iniquitatibus | | Ecce enim | | Asperges me | | Auditui meo | | Et exsultabunt | | Averte faciem tuam | | Cor mundum crea in me | | Ne projicias me | | Redde mihi laetitiam | | Docebo iniquos vias tuas | | Libera me de sanguinibus | | Et exsultabit | | Domine labia mea aperies | | Quoniam si voluisses sacrificium | | Sacrificium Deo | | Benigne fac Domine | | Tunc acceptabis | | Tunc imponent |
 
 ### Stabat Mater
 
-| Stabat Mater |
-| Cujus animam gementem |
-| O quam tristis et afflicta |
-| Quae maerebat et dolebat |
-| Quis est homo qui non fleret |
-| Quis non posset contristari |
-| Pro peccatis suae gentis |
-| Vidit suum dulcem natum |
-| Eia mater fons amoris |
-| Fac ut ardeat cor meum |
-| Sancta mater istud agas |
-| Tui nati vulnerati |
-| Fac me tecum pie flere |
-| Juxta crucem tecum |
-| Virgo virginum praeclara |
-| Fac ut portem Christi mortem |
-| Fac me plagis vulnerari |
-| Flammis ne urar succensus |
-| Christe cum sit hinc exire |
-| Quando corpus morietur |
-| Fac ut animae donetur |
-| Paradisi gloria |
-| Inflammatus et accensus |
-| Amen |
+| Stabat Mater | | Cujus animam gementem | | O quam tristis et afflicta | | Quae maerebat et dolebat | | Quis est homo qui non fleret | | Quis non posset contristari | | Pro peccatis suae gentis | | Vidit suum dulcem natum | | Eia mater fons amoris | | Fac ut ardeat cor meum | | Sancta mater istud agas | | Tui nati vulnerati | | Fac me tecum pie flere | | Juxta crucem tecum | | Virgo virginum praeclara | | Fac ut portem Christi mortem | | Fac me plagis vulnerari | | Flammis ne urar succensus | | Christe cum sit hinc exire | | Quando corpus morietur | | Fac ut animae donetur | | Paradisi gloria | | Inflammatus et accensus | | Amen |
 
 ### Te Deum
 
-| Te Deum |
-| Te Deum laudamus |
-| Te Dominum confitemur |
-| Te aeternum patrem |
-| Tibi Cherubim |
-| Sanctus Dominus Deus Sabaoth |
-| Pleni sunt caeli et terra |
-| Te gloriosus apostolorum chorus |
-| Te martyrum candidatus |
-| Te per orbem |
-| Patrem immensae majestatis |
-| Venerandum |
-| Sanctum quoque |
-| Tu rex gloriae |
-| Tu ad liberandum |
-| Tu devicto |
-| Tu ad dexteram |
-| Judex crederis |
-| Te ergo quaesumus |
-| Aeterna fac |
-| Salvum fac populum tuum |
-| Et rege eos |
-| Per singulos dies |
-| Et laudamus nomen tuum |
-| Dignare Domine |
-| Miserere nostri Domine |
-| Fiat misericordia tua |
-| Quemadmodum speravimus in te |
-| In te Domine speravi |
+| Te Deum | | Te Deum laudamus | | Te Dominum confitemur | | Te aeternum patrem | | Tibi Cherubim | | Sanctus Dominus Deus Sabaoth | | Pleni sunt caeli et terra | | Te gloriosus apostolorum chorus | | Te martyrum candidatus | | Te per orbem | | Patrem immensae majestatis | | Venerandum | | Sanctum quoque | | Tu rex gloriae | | Tu ad liberandum | | Tu devicto | | Tu ad dexteram | | Judex crederis | | Te ergo quaesumus | | Aeterna fac | | Salvum fac populum tuum | | Et rege eos | | Per singulos dies | | Et laudamus nomen tuum | | Dignare Domine | | Miserere nostri Domine | | Fiat misericordia tua | | Quemadmodum speravimus in te | | In te Domine speravi |
 
-## Liturgische Feste
+## Liturgical feasts
 
-Die liturgischen Feste folgen dem vorkonziliären „Calendarium Romanum generale“: Für die Quellen der Schweizer RISM-Datenbank ist diese Festordnung massgebend.
+Liturgical feasts follow the "Calendarium Romanum generale" which was issued before the Second Vatican Council. This is the reference for the sources in the Swiss RISM database.
 
-| **Latein** | **Deutsch** | **Festtag gemäss dem vorkonzilären „Calendarium Romanum generale“** |
-|   |
-| 
+| **Latin** | **English** | **Feast day following the pre-Vatican II "Calendarium Romanum generale"** | | | |
 ### A
- |
-| Abachum Martyris | Abachum, Märtyrer | 19. Januar |
-| Abdon et Sennen Martyrum | Abdon und Sennen, Märtyrer | 30. Juli |
-| Achillei Martyris | Achilleus, Märtyrer | 12. Mai |
-| Adelgotti Episcopi | Adelgott von Chur, Bischof | 3. Oktober |
-| Adventus | Advent | |
-| Adventus, Dominica 1. | 1. Adventssonntag | |
-| Adventus, Dominica 2. | 2. Adventssonntag | |
-| Adventus, Dominica 3. | 3. Adventssonntag | |
-| Adventus, Dominica 4. | 4. Adventssonntag | |
-| Adventus, Dominica(e) | Sonntag(e) im Advent | |
-| Adventus, Feria 5. in Hebdomada prima | Donnerstag in der ersten Adventswoche | |
-| Agapiti Martyris | Agapitus, Märtyrer | 18. August |
-| Agathae Virginis Martyris | Agatha, Jungfrau und Märtyrin | 5. Februar |
-| Agnetis Virginis Martyris | Agnes, Jungfrau und Märtyrin | 21. Januar und 28. Januar |
-| Agricolae et Vitalis Martyum | Agricola und Vitalis, Märtyrer | 4. November |
-| Alberti Magni Episcopi Confessoris Ecclesiae Doctoris | Albert der Grosse, Bischof, Bekenner und Kirchenlehrer | 15. November |
-| Albis, Dominica in | Weisser Sonntag, 2. Sonntag der Osterzeit | |
-| Albis, Sabbato in | Samstag vor dem Weissen Sonntag | |
-| Alexandri Papae Martyris | Alexander, Papst und Märtyrer | 3. Mai |
-| Alexii Confessoris | Alexius, Bekenner | 17. Juli |
-| Aloisii Gonzagae Confessoris | Aloisius von Gonzaga, Bekenner | 21. Juni |
-| Alphonsi Mariae de Ligorio Episcopi Ecclesiae Doctoris | Alphons Maria von Liguori Bischof und Kirchenlehrer | 2. August |
-| Ambrosii Episcopi Ecclesiae Doctoris | Ambrosius, Bischof und Kirchenlehrer | 7. Dezember |
-| Anacleti Papae Martyris | Anakletus, Papst und Märtyrer | 13. Juli |
-| Anastasii et Vincentii Martyrum | Anastasius und Vincenz, Märtyrer | 22. Januar |
-| Andreae Apostoli | Andreas, Apostel | 30. November |
-| Andreae Apostoli, Vigilia | Vigil von Andreas Apostel | 29. November |
-| Andreae Avellini Confessoris | Andrea Avellino, Bekenner | 10. November |
-| Andreae Corsini Episcopi Confessoris | Andrea Corsini, Bischof und Bekenner | 4. Februar |
-| Angelae Mericiae Virginis | Angela Merici, Jungfrau | 31. Mai |
-| Angelorum Custodum | Fest der heiligen Schutzengel | 2. Oktober |
-| Aniceti Papae Martyris | Anicetus, Papst und Märtyrer | 17. April |
-| Annae Mater Mariae (B. V.) | Anna, Mutter der Gottesmutter Maria | 26. Juli |
-| Anselmi Episcopi Ecclesiae Doctoris | Anselm, Bischof und Kirchenlehrer | 21. April |
-| Antonii Abbatis | Antonius, Abt | 17. Januar |
-| Antonii de Padua Confessoris | Antonius von Padua, Bekenner | 13. Juni |
-| Antonii Mariae Zachariae Confessoris | Antonius Maria Zaccaria, Bekenner | 5. Juli |
-| Antonini Episcopi Confessoris | Antoninus, Bischof und Bekenner | 10. Mai |
-| Apollinaris Episcopi Martyris | Apollinaris, Bischof und Märtyrer | 23. Juli |
-| Apolloniae Virginis Martyris | Apollonia, Jungfrau und Märtyrin | 9. Februar |
-| Apuleii Martyris | Apuleius, Märtyrer | 7. Oktober |
-| Ascensio Domini | Christi Himmelfahrt | |
-| Ascensio Domini, Dominica infra octavam | Sonntag in der Oktav von Christi Himmelfahrt | |
-| Athanasii Episcopi Ecclesiae Doctoris | Athanasius, Bischof und Kirchenlehrer | 2. Mai |
-| Audifacis Martyris | Audifax, Märtyrer | 19. Januar |
-| Augustini Cantuarensis Episcopi Confessoris | Augustinus, Bischof von Canterbury, Bekenner | 28. Mai |
-| Augustini Episcopi Ecclesiae Doctoris | Augustinus, Bischof und Kirchenlehrer | 28. Oktober |
-|   |
-| 
+ | | Abachum Martyris | Abachum, martyr | 19 January | | Abdon et Sennen Martyrum | Abdon and Sennen, martyrs | 30 July | | Achillei Martyris | Achilleus, martyr | 12 May | | Adelgotti Episcopi | Adelgott of Chur, bishop | 3 October | | Adventus | Advent | | | Adventus, Dominica 1. | 1st Sunday in Advent | | | Adventus, Dominica 2. | 2nd Sunday in Advent | | | Adventus, Dominica 3. | 3rd Sunday in Advent | | | Adventus, Dominica 4. | 4th Sunday in Advent | | | Adventus, Dominica(e) | Sunday(s) in Advent | | | Adventus, Feria 5. in Hebdomada prima | Thursday of the first week in Advent | | | Agapiti Martyris | Agapitus, martyr | 18 August | | Agathae Virginis Martyris | Agatha, virgin and martyr | 5 February | | Agnetis Virginis Martyris | Agnes, virgin and martyr | 21 January and 28 January | | Agricolae et Vitalis Martyum | Agricola and Vitalis, martyrs | 4 November | | Alberti Magni Episcopi Confessoris Ecclesiae Doctoris | Albert the Great, bishop, confessor and doctor of the church | 15 November | | Albis, Dominica in | Low Sunday, 1st Sunday after Easter, 2nd Sunday in Eastertide | | | Albis, Sabbato in | Saturday before Low Sunday | | | Alexandri Papae Martyris | Alexander, pope and martyr | 3 May | | Alexii Confessoris | Alexius, confessor | 17 July | | Aloisii Gonzagae Confessoris | Aloysius Gonzaga, confessor | 21 June | | Alphonsi Mariae de Ligorio Episcopi Ecclesiae Doctoris | Alphonsus Maria de Liguori, bishop and doctor of the church | 2 August | | Ambrosii Episcopi Ecclesiae Doctoris | Ambrosius, bishop and doctor of the church | 7 December | | Anacleti Papae Martyris | Anakletus, pope and martyr | 13 July | | Anastasii et Vincentii Martyrum | Anastasius and Vincent, martyrs | 22 January | | Andreae Apostoli | Andrew, apostle | 30 November | | Andreae Apostoli, Vigilia | Vigil of Andreas apostle | 29 November | | Andreae Avellini Confessoris | Andrea Avellino, confessor | 10 November | | Andreae Corsini Episcopi Confessoris | Andrea Corsini, bishop and confessor | 4 February | | Angelae Mericiae Virginis | Angela Merici, virgin | 31 May | | Angelorum Custodum | Feast of the guardian angels | 2 October | | Aniceti Papae Martyris | Anicetus, pope and martyr | 17 April | | Annae Mater Mariae (B. V.) | Anne, mother of Mary | 26 July | | Anselmi Episcopi Ecclesiae Doctoris | Anselm, bishop and doctor of the church | 21 April | | Antonii Abbatis | Anthony, abbot | 17 January | | Antonii de Padua Confessoris | Anthony of Padua, confessor | 13 June | | Antonii Mariae Zachariae Confessoris | Anthony Maria Zaccaria, confessor | 5 July | | Antonini Episcopi Confessoris | Antoninus, bishop and confessor | 10 May | | Apollinaris Episcopi Martyris | Apollinaris, bishop and martyr | 23 July | | Apolloniae Virginis Martyris | Apollonia, virgin and martyr | 9 February | | Apuleii Martyris | Apuleius, martyr | 7 October | | Ascensio Domini | Ascension of Jesus | | | Ascensio Domini, Dominica infra octavam | Sunday within the octave of the Ascension of Jesus | | | Athanasii Episcopi Ecclesiae Doctoris | Athanasius, bishop and doctor of the church | 2 May | | Audifacis Martyris | Audifax, martyr | 19 January | | Augustini Cantuarensis Episcopi Confessoris | Augustine, bishop of Canterbury, confessor | 28 May | | Augustini Episcopi Ecclesiae Doctoris | Augustine, bishop and doctor of the church | 28 October | | | |
 ### B
- |
-| Bacchi Martyris | Bacchus, Märtyrer | 7. Oktober |
-| Barbarae Virginis Martyris | Barbara Jungfrau und Märtyrin | 4. Dezember |
-| Barnabae Apostoli | Barnabas, Apostel | 11. Juni |
-| Bartholomaei Apostoli | Bartholomäus, Apostel | 24. August |
-| Bartholomaei Apostoli, Vigilia | Vigil von Apostel Bartholomäus | 23. August |
-| Basilidis, Martyris | Basilides, Märtyrer | 12. Juni |
-| Basilii Episcopi Confessoris Ecclesiae Doctoris | Basilius, Bischof Bekenner und Kirchenlehrer | 14. Juni |
-| Beatricis, Martyris | Beatrix, Märtyrin | 29. Juli |
-| Bedae Venerabilis Confessoris Ecclesiae Doctoris | Beda der Ehrwürdige, Bekenner und Kirchenlehrer | 27. Mai |
-| Benedicti Abbatis | Benedikt, Abt | 21. März |
-| Benedicti Josephi Labre Confessoris | Benedikt Joseph Labre, Bekenner | 16. April |
-| Benedictio Abbatis | Abtweihe | |
-| Benedictio Ecclesiae | Weihe einer Kirche | |
-| Bennonis Episcopi | Benno, Bischof | 16. Juni |
-| Bernardi Abbatis Ecclesiae Doctoris | Bernhard, Abt und Kirchenlehrer | 20. August |
-| Bernardini Senensis Confessoris | Bernhardin von Siena, Bekenner | 20. Mai |
-| Bibianae Virginis Martyris | Bibiana Jungfrau und Märtyrin | 2. Dezember |
-| Birgittae Viduae | Birgitta, Witwe | 8. Oktober |
-| Blasii Episcopi Martyris | Blasius, Bischof und Märtyrer | 3. Februar |
-| Bonaventurae Episcopi Doctoris | Bonaventura, Bischof und Kirchenlehrer | 14. Mai |
-| Bonifatii Episcopi Martyris | Bonifaz, Bischof und Märtyrer | 5. Juni |
-| Bonifatii Martyris | Bonifaz, Märtyrer | 14. Mai |
-| Brunonis Confessoris | Bruno, Bekenner | 6. Oktober |
-|   |
-| 
+ | | Bacchi Martyris | Bacchus, martyr | 7 October | | Barbarae Virginis Martyris | Barbara virgin and martyr | 4 December | | Barnabae Apostoli | Barnabas, apostle | 11 June | | Bartholomaei Apostoli | Bartholomew, apostle | 24 August | | Bartholomaei Apostoli, Vigilia | Vigil of Bartholomew the apostle | 23 August | | Basilidis, Martyris | Basilides, martyr | 12 June | | Basilii Episcopi Confessoris Ecclesiae Doctoris | Basilius, bishop confessor and doctor of the church | 14 June | | Beatricis, Martyris | Beatrice, martyr | 29 July | | Bedae Venerabilis Confessoris Ecclesiae Doctoris | Venerable Bede, confessor and doctor of the church | 27 May | | Benedicti Abbatis | Benedict, abbot | 21 March | | Benedicti Josephi Labre Confessoris | Benedict Joseph Labre, confessor | 16 April | | Benedictio Abbatis | Benediction of the abbot | | | Benedictio Ecclesiae | Consecration of the church | | | Bennonis Episcopi | Benno, bishop | 16 June | | Bernardi Abbatis Ecclesiae Doctoris | Bernard, abbot and doctor of the church | 20 August | | Bernardini Senensis Confessoris | Bernardin of Siena, confessor | 20 May | | Bibianae Virginis Martyris | Bibiana virgin and martyr | 2 December | | Birgittae Viduae | Bridget, widow | 8 October | | Blasii Episcopi Martyris | Blaise, bishop and martyr | 3 February | | Bonaventurae Episcopi Doctoris | Bonaventure, bishop and doctor of the church | 14 May | | Bonifatii Episcopi Martyris | Boniface, bishop and martyr | 5 June | | Bonifatii Martyris | Boniface, martyr | 14 May | | Brunonis Confessoris | Bruno, confessor | 6 October | | | |
 ### C
- |
-| CaeciliaeVirginis Martyris | Cäcilia, Jungfrau und Märtyrin | 22. November |
-| Cajetani Confessoris | Kajetan, Bekenner | 7. August |
-| Caji et Soteris Martyrum | Kajus und Soter, Märtyrer | 22. April |
-| Callisti I. Papae Martyris | Kalistus I., Papst und Märtyrer | 14. Oktober |
-| Camilli de Lellis Confessoris | Kamillus von Lellis, Bekenner | 18. Juli |
-| Cantate, Dominica | Sonntag Cantate, 4. Sonntag nach Ostern, 5. Sonntag der Osterzeit | |
-| Canuti Regis Martyris | Knud, König und Märtyrer | 19. Januar |
-| Caroli Episcopi Confessoris | Karl Borromäus, Bischof und Bekenner | 4. November |
-| Caroli Magni | Karl der Grosse | 28. Januar |
-| Casimiri Confessoris | Casimir, Bekenner | 4. März |
-| Cassiani et Hippolyti Martyrium | Kassian und Hippolytus, Märtyrer | 13. August |
-| Catharinae Alexandriae Virginis Martyris | Katharina von Alexandrien, Jungfrau und Märtyrin | 25. November |
-| Catharinae Fiescae Adornae | Katharina Fieschi von Genua (Ehe mit Giuliano Adorno) | 15. September |
-| Catharinae Senensis Virginis | Katharina von Siena, Jungfrau | 30. April |
-| Celsi Martyris | Celsus, Märtyrer | 28. Juli |
-| Christophori Martyris | Christophorus, Märtyrer | 25. Juli |
-| Chrysanthi et Dariae Martyrum | Chrysanthus und Daria, Märtyrer | 25. Oktober |
-| Chrysogoni Martyris | Chrysogonus, Märtyrer | 24. November |
-| Circumcisio Domini | Beschneidung des Herrn | 1. Januar |
-| Circumcisio Domini, Dominica post | Sonntag nach der Beschneidung des Herrn | |
-| Clarae Virginis | Klara, Jungfrau | 12. August |
-| Clementis I. Papae Martyris | Klemens I., Papst und Märtyrer | 23. November |
-| Cleti et Marcellini Martyrum | Kletus und Marcellinus, Märtyrer | 26. April |
-| Coena Domini, Feria 5. in | Hoher Donnerstag, Gründonnerstag, Abendmahl | |
-| Commemoratio Apostoli | Gedenken an einen Apostel | |
-| Commemoratio Omnium Fidelium Defunctorum | Totengedenkfeier | |
-| Commune Abbatum | Commune der Äbte | |
-| Commune Abbatum tempore paschali | Commune der Äbte in der Osterzeit | |
-| Commune Apostolorum | Commune der Apostel | |
-| Commune Apostolorum et Evangelistarum extra tempus paschale | Commune der Apostel und Evangelisten ausserhalb der Osterzeit | |
-| Commune Apostolorum et Evangelistarum tempore paschali | Commune der Apostel und Evangelisten in der Osterzeit | |
-| Commune Apostolorum extra tempus paschale | Commune der Apostel ausserhalb der Osterzeit | |
-| Commune Apostolorum tempore paschali | Commune der Apostel in der Osterzeit | |
-| Commune Apostolorum, Vigilia | Commune der Apostel, Vigil | |
-| Commune Confessoris | Commune eines Bekenners | |
-| Commune Confessoris non Pontificis | Commune eines Bekenners, der nicht Bischof war | |
-| Commune Confessoris Pontificis | Commune eines Bekenners und Bischofs | |
-| Commune Confessoris Pontificis tempore paschali | Commune eines Bekenners und Bischofs in der Osterzeit | |
-| Commune Confessorum | Commune der Bekenner | |
-| Commune Doctorum | Commune der Kirchenlehrer | |
-| Commune nec Virginis nec Martyris | Commune einer Heiligen die weder Jungfrau noch Märtyrerin war | |
-| Commune nec Virginum nec Martyrium | Commune heiliger Frauen, die weder Jungfrau noch Märtyrerin waren | |
-| Commune non Virginum | Commune heiliger Frauen, die nicht Jungfrauen waren | |
-| Commune plurimorum Martyrum | Commune mehrerer Märtyrer | |
-| Commune plurimorum Martyrum extra tempus paschale | Commune mehrerer Märtyrerer ausserhalb der Osterzeit | |
-| Commune plurimorum Martyrum tempore paschali | Commune mehrerer Märtyrer in der Osterzeit | |
-| Commune plurimum Virginum et Martyrum | Commune der Jungfrauen und Märtyrerinnen | |
-| Commune Pontificis | Commune eines Bischofs | |
-| Commune unius Episcopis et Ecclesiae Doctoris | Commune eines Bischofs und Kirchenlehrers | |
-| Commune unius Martyris | Commune eines Märtyrers | |
-| Commune unius Martyris et Pontificis | Commune eins Märtyrers und Bischofs | |
-| Commune unius Martyris et Pontificis tempore paschali | Commune eines Märtyrers und Bischofs in der Osterzeit | |
-| Commune unius Martyris non Pontificis | Commune eines Märtyrers, der nicht Bischof war | |
-| Commune unius Martyris extra tempus paschale | Commune eines Märtyrers ausserhalb der Osterzeit | |
-| Commune unius Martyris tempore paschali | Commune eines Märtyrers in der Osterzeit | |
-| Commune Virginis et Martyris | Commune einer Jungfrau und Märtyrin | |
-| Commune Virginum | Commune der Jungfrauen | |
-| Commune Virginum et non Virginum | Commune der Jungfrauen und der verheirateten Frauen | |
-| Conradi Episcopi | Konrad, Bischof | 26. November |
-| Constantiae | Constantia | |
-| Cornelii et Cypriani Pontificis Martyrum | Kornelius, Papst und Zyprianus, Bischof, Märtyrer | 16. September |
-| Corpus Christi | Fronleichnam | |
-| Corpus Christi, Dominica infra octavam | Sonntag in der Oktav von Fronleichnam | |
-| Cosmae et Damiani Martyrum | Cosmas und Damian, Märtyrer | 27. September |
-| Crescentiae Martyris | Crescentia, Märtyrin | 15. Juni |
-| Crucis | Kreuz | |
-| Crucis, Adoratio | Verehrung des Kreuzes | Am Karfreitag |
-| Crucis, Exaltatio | Kreuzerhöhung | 14. September |
-| Crucis, Inventio | Auffindung des Kreuzes | 3. Mai |
-| Cypriani et Cornelii Pontficis Martyrum | Cyprian, Papst und Cornelius, Bischof, Märtyrer | 16. September |
-| Cypriani et Justinae Martyrum | Cyprian und Justina, Märtyrer | 26. September |
-| Cyriaci, Largi et Smaragdi Martyrum | Cyriacus, Largus und Smaragd, Märtyrer | 8. August |
-| Cyriacus Martyris | Cyriakus, Märtyrer | 8. August |
-| Cyrilli Episcopi Alexandrini Ecclesiae Doctoris | Cyrill, Bischof von Alexandrien und Kirchenlehrer | 9. Februar |
-| Cyrilli Episcopi Hierosolymitani Ecclesiae Doctoris | Cyrill, Bischof von Jerusalem und Kirchenlehrer | 18. März |
-| Cyrilli et Methodii Pontificis Confessorum | Cyrill und Methodius, Bischöfe und Bekenner | 7. Juli |
-| Cyrini Martyris | Cyrinus, Märtyrer | 12. Juni |
-|   |
-| 
+ | | Caeciliae Virginis Martyris | Cecilia, virgin and martyr | 22 November | | Cajetani Confessoris | Cajetan, confessor | 7 August | | Caji et Soteris Martyrum | Cajus and Soter, martyrs | 22 April | | Callisti I. Papae Martyris | Callixtus I, pope and martyr | 14 October | | Camilli de Lellis Confessoris | Camillus de Lellis, confessor | 18 July | | Cantate, Dominica | Cantate Sunday, 4th Sunday after Easter, 5th Sunday in Eastertide | | | Canuti Regis Martyris | Canute, king and martyr | 19 January | | Caroli Episcopi Confessoris | Charles Borromeo, bishop and confessor | 4 November | | Caroli Magni | Charles the Great | 28 January | | Casimiri Confessoris | Casimir, confessor | 4 March | | Cassiani et Hippolyti Martyrium | Cassian and Hippolytus, martyrs | 13 August | | Catharinae Alexandriae Virginis Martyris | Catherine of Alexandria, virgin and martyr | 25 November | | Catharinae Fiescae Adornae | Catherine Fieschi of Genua (wife of Giuliano Adorno) | 15 September | | Catharinae Senensis Virginis | Catherine of Siena, virgin | 30 April | | Celsi Martyris | Celsus, martyr | 28 July | | Christophori Martyris | Christopher, martyr | 25 July | | Chrysanthi et Dariae Martyrum | Chrysanthus and Daria, martyrs | 25 October | | Chrysogoni Martyris | Chrysogonus, martyr | 24 November | | Circumcisio Domini | Circumcision of Christ | 1 January | | Circumcisio Domini, Dominica post | Sunday after the Circumcision of the Lord | | | Clarae Virginis | Clara, virgin | 12 August | | Clementis I. Papae Martyris | Clement I, pope and martyr | 23 November | | Cleti et Marcellini Martyrum | Cletus and Marcellinus, martyrs | 26 April | | Coena Domini, Feria 5. in | Maundy Thursday, the Lord's Supper | | | Commemoratio Apostoli | Commemoration of an apostle | | | Commemoratio Omnium Fidelium Defunctorum | Commemoration of the faithful departed | | | Commune Abbatum | Common of the abbots | | | Commune Abbatum tempore paschali | Common of the abbots during Eastertide | | | Commune Apostolorum | Common of the apostles | | | Commune Apostolorum et Evangelistarum extra tempus paschale | Common of the apostles and evangelists outside Eastertide | | | Commune Apostolorum et Evangelistarum tempore paschali | Common of the apostles and evangelists during Eastertide | | | Commune Apostolorum extra tempus paschale | Common of the apostles outside Eastertide | | | Commune Apostolorum tempore paschali | Common of the apostles during Eastertide | | | Commune Apostolorum, Vigilia | Common of the apostles, vigil | | | Commune Confessoris | Common of a confessor | | | Commune Confessoris non Pontificis | Common of a confessor who was not a bishop | | | Commune Confessoris Pontificis | Common of a confessor and bishop | | | Commune Confessoris Pontificis tempore paschali | Common of a confessor and bishop in Eastertide | | | Commune Confessorum | Common of confessors | | | Commune Doctorum | Common of doctors of the church | | | Commune nec Virginis nec Martyris | Common of a female saint, neither a virgin nor a martyr | | | Commune nec Virginum nec Martyrium | Common of female saints, neither virgins nor martyrs | | | Commune non Virginum | Common of female saints, who were no virgins | | | Commune plurimorum Martyrum | Common of several martyrs | | | Commune plurimorum Martyrum extra tempus paschale | Common of several martyrs outside Eastertide | | | Commune plurimorum Martyrum tempore paschali | Common of several martyrs during Eastertide | | | Commune plurimum Virginum et Martyrum | Common of female virgins and martyrs | | | Commune Pontificis | Common of a bishop | | | Commune unius Episcopis et Ecclesiae Doctoris | Common of a bishop and doctor of the church | | | Commune unius Martyris | Common of a martyr | | | Commune unius Martyris et Pontificis | Common of a martyr and bishop | | | Commune unius Martyris et Pontificis tempore paschali | Common of a martyr and bishop in the Eastertide | | | Commune unius Martyris non Pontificis | Common of a martyr, who was not a bishop | | | Commune unius Martyris extra tempus paschale | Common of a martyr outside Eastertide | | | Commune unius Martyris tempore paschali | Common of a martyr during Eastertide | | | Commune Virginis et Martyris | Common of a virgin and martyr | | | Commune Virginum | Common of virgins | | | Commune Virginum et non Virginum | Common of virgins and non-virgins | | | Conradi Episcopi | Conrad, bishop | 26 November | | Constantiae | Constance | | | Cornelii et Cypriani Pontificis Martyrum | Cornelius, pope and Cyprian, bishop and martyr | 16 September | | Corpus Christi | Corpus Christi | | | Corpus Christi, Dominica infra octavam | Sunday within the octave of Corpus Christi | | | Cosmae et Damiani Martyrum | Cosmas and Damian, martyrs | 27 September | | Crescentiae Martyris | Crescentia, martyr | 15 June | | Crucis | Cross | | | Crucis, Adoratio | Adoration of the Cross | On Good Friday | | Crucis, Exaltatio | Exaltation of the Cross | 14 September | | Crucis, Inventio | Finding of the Holy Cross | 3 May | | Cypriani et Cornelii Pontficis Martyrum | Cyprian, pope and Cornelius, bishop and martyr | 16 September | | Cypriani et Justinae Martyrum | Cyprian and Justina, martyrs | 26 September | | Cyriaci, Largi et Smaragdi Martyrum | Cyriacus, Largus and Smaragdus, martyrs | 8 August | | Cyriacus Martyris | Cyriacus, martyr | 8 August | | Cyrilli Episcopi Alexandrini Ecclesiae Doctoris | Cyrill, bishop of Alexandria and doctor of the church | 9 Februar | | Cyrilli Episcopi Hierosolymitani Ecclesiae Doctoris | Cyrill, bishop of Jerusalem and doctor of the church | 18 March | | Cyrilli et Methodii Pontificis Confessorum | Cyrill and Methodius, bishops and confessors | 7 July | | Cyrini Martyris | Quirinus, martyr | 12 June | | | |
 ### D
- |
-| Damasi I. Papae Confessoris | Damasus I, Papst und Bekenner | 11. Dezember |
-| De Apostolis | Apostel | |
-| De Apostolis,tempore paschali | Apostel in der Osterzeit | |
-| De Confessore | Bekenner | |
-| De Confessore non Pontifice | Bekenner, der nicht Bischof war | |
-| De Confessore Pontifice | Bekenner und Bischof | |
-| De Ecclesiae Doctore | Kirchenlehrer | |
-| De Dominica | Sonntag | |
-| De Martyre | Märtyrer | |
-| De pluribus Martyribus | Mehrere Märtyrer | |
-| De pluribus Martyribus tempore paschali | Mehrere Märtyrer in der Osterzeit | |
-| De Pontifice | Bischof | |
-| De quovis festo | Jedes Fest | |
-| De quovis Sancto | Jeder Heilige | |
-| De Sancta | Eine Heilige | |
-| De Sanctis | Mehrere Heilige | |
-| De Sancto | Ein Heiliger | |
-| De Spiritu Sancto | Heiliger Geist | |
-| De tempore | Zeit im Jahreskreis | |
-| De una Martyre | Eine Märtyrin | |
-| De una Virgine | Eine Jungfrau | |
-| De uno Martyre | Ein Märtyrer | |
-| De uno Martyre non Pontifice | Ein Märtyrer, der nicht Bischof war | |
-| De uno Martyre tempore paschali | Ein Märtyrer in der Osterzeit | |
-| De Venerabile Sacramento | Heiliges Sakrament | |
-| De Viduis | Witwen | |
-| De Virginibus | Jungfrauen | |
-| Dedicatio Basilicae Sanctissimi Petri et Pauli | Weihe der Basilika der Apostel Peter und Paul | 18. November |
-| Dedicatio Basilicae Sanctissimi Salvatoris | Weihe der Erlöserbasilika | 9. November |
-| Dedicatio Ecclesiae | Kirchweihe | |
-| Didaci Confessoris | Didakus, Bekenner | 13. November |
-| Dionysii Episcopi Martyris et Sociorum | Dionysius, Bischof und Märtyrer und Gefährten | 9. Oktober |
-| Dominica per annum | Sonntag im Jahreskreis | |
-| Dominici Confessoris | Dominikus, Bekenner | 4. August |
-| Domitillae Virginia Martyris | Domitilla, Jungfrau und Märtyrin | 12. Mai |
-| Donati Episcopi Martyris | Donatus, Bischof und Märtyrer | 7. August |
-| Dorotheae Virginis Martyris | Dorothea, Jungfrau und Märtyrin | 6. Februar |
-| Duodecim Fratrum Martyris | Martyrium der zwölf Brüder | 1. September |
-|   |
-| 
+ | | Damasi I. Papae Confessoris | Damasus I, pope and confessor | 11 December | | De Apostolis | Apostles | | | De Apostolis, tempore paschali | Apostles in Eastertide | | | De Confessore | Confessor | | | De Confessore non Pontifice | Confessor, not a bishop | | | De Confessore Pontifice | Confessor and bishop | | | De Ecclesiae Doctore | Doctor of the church | | | De Dominica | Sunday | | | De Martyre | Martyr | | | De pluribus Martyribus | Several martyrs | | | De pluribus Martyribus tempore paschali | Several martyrs in Eastertide | | | De Pontifice | Bishop | | | De quovis festo | Any feast | | | De quovis Sancto | Any saint | | | De Sancta | Female saint | | | De Sanctis | Several saints | | | De Sancto | Male saint | | | De Spiritu Sancto | Holy spirit | | | De tempore | Ordinary time | | | De una Martyre | Female martyr | | | De una Virgine | Virgin | | | De uno Martyre | Male martyr | | | De uno Martyre non Pontifice | Martyr, not a bishop | | | De uno Martyre tempore paschali | Male martyr during eastertide | | | De Venerabile Sacramento | Holy Sacrament | | | De Viduis | Widows | | | De Virginibus | Virgins | | | Dedicatio Basilicae Sanctissimi Petri et Pauli | Dedication of the basilica of Saints Peter and Paul | 18 November | | Dedicatio Basilicae Sanctissimi Salvatoris | Dedication of the basilica of the Redeemer | 9. November | | Dedicatio Ecclesiae | Dedication of the church | | | Didaci Confessoris | Didacus, confessor | 13 November | | Dionysii Episcopi Martyris et Sociorum | Dionysius, bishop and martyr, and companions | 9 October | | Dominica per annum | Sunday in common time | | | Dominici Confessoris | Dominic, confessor | 4 August | | Domitillae Virginia Martyris | Domitilla, virgin and martyr | 12 May | | Donati Episcopi Martyris | Donatus, bishop and martyr | 7 August | | Dorotheae Virginis Martyris | Dorothea, virgin and martyr | 6 February | | Duodecim Fratrum Martyris | Holy Twelve Brothers martyrs | 1 September | | | |
 ### E
- |
-| Edmundi Episcopi | Edmund, Erzbischof von Abingdon | 16. November |
-| Eduardi Regis Confessoris | Eduard, König und Bekenner | 13. Oktober |
-| Eleutherii Martyris | Eleutherius, Märtyrer | 9. Oktober |
-| Eleutherii Papae Martyris | Eleutherius, Papst und Märtyrer | 26. Mai |
-| Elisabeth Reginae Portugallae Viduae | Elisabeth, Königin von Portugal, Witwe | 8. Juli |
-| Elisabeth Viduae | Elisabeth von Thüringen | 19. November |
-| Emerentianae Virginis Martyris | Emerentiana, Jungfrau und Märtyrin | 23. Januar |
-| Ephrem Syri Diaconi | Ephrem der Syrer, Diakon | 18. Juni |
-| Epimachi et Gordiani Martyrum | Epimachus und Gordianus, Märtyrer | 10. Mai |
-| Epiphania Domini | Erscheinung des Herrn, Dreikönigsfest | 6. Januar |
-| Epiphania Domini, Dominica 1. post | 1. Sonntag nach der Erscheinung des Herrn | |
-| Epiphania Domini, Dominica 2. post | 2. Sonntag nach der Erscheinung des Herrn | |
-| Epiphania Domini, Dominica 3. post | 3. Sonntag nach der Erscheinung des Herrn | |
-| Epiphania Domini, Dominica 4. post | 4. Sonntag nach der Erscheinung des Herrn | |
-| Epiphania Domini, Dominica 5. post | 5. Sonntag nach der Erscheinung des Herrn | |
-| Epiphania Domini, Dominica 6. post | 6. Sonntag nach der Erscheinung des Herrn | |
-| Epiphania Domini, Dominica infra octavam | Sonntag in der Oktav von der Erscheinung des Herrn | |
-| Epiphania Domini, Dominicae post | Sonntage nach der Erscheinung des Herrn | |
-| Epiphania Domini, Vigilia | Vigil von Erscheinung des Herrn | 5. Januar |
-| Erasmi Episcopi Martyris | Erasmus, Bischof und Märtyrer | 2. Juni |
-| Eremberti Episcopi | Ehrembert von Toulouse, Bischof | 14. Mai |
-| Esto mihi, Dominica | Sonntag Esto mihi, Sonntag Quinquagesima | |
-| Eucharistiae Sacramentum | Sakrament der Eucharistie | |
-| Euphemiae Virginis Martyris | Euphemia Jungfrau und Märtyrin | 16. September |
-| Eusebii Confessoris | Eusebius, Bekenner | 14. August |
-| Eusebii Episcopi Martyris | Eusebius, Bischof und Märtyrer | 16. Dezember |
-| Eustachii et Sociorum Martyrum | Eustachius und Gefährten Märtyrer | 20. September |
-| Evaristi Papae Martyris | Evaristus, Papst und Märtyrer | 26. Oktober |
-| Eventii Martyris | Eventius, Märtyrer | 3. Mai |
-|   |
-| 
+ | | Edmundi Episcopi | Edmund, archbishop of Abingdon | 16 November | | Eduardi Regis Confessoris | Edward, king and confessor | 13 October | | Eleutherii Martyris | Eleutherius, martyr | 9 October | | Eleutherii Papae Martyris | Eleutherius, pope and martyr | 26 May | | Elisabeth Reginae Portugallae Viduae | Elizabeth, queen of Portugal, widow | 8 July | | Elisabeth Viduae | Elizabeth of Hungary | 19 November | | Emerentianae Virginis Martyris | Emerentiana, virgin and martyr | 23 Januar | | Ephrem Syri Diaconi | Ephrem the Syrian, deacon | 18 June | | Epimachi et Gordiani Martyrum | Epimachus and Gordianus, martyrs | 10 May | | Epiphania Domini | Epiphany of the Lord | 6 January | | Epiphania Domini, Dominica 1. post | 1st Sunday after Epiphany | | | Epiphania Domini, Dominica 2. post | 2nd Sunday after Epiphany | | | Epiphania Domini, Dominica 3. post | 3rd Sunday after Epiphany | | | Epiphania Domini, Dominica 4. post | 4th Sunday after Epiphany | | | Epiphania Domini, Dominica 5. post | 5th Sunday after Epiphany | | | Epiphania Domini, Dominica 6. post | 6th Sunday after Epiphany | | | Epiphania Domini, Dominica infra octavam | Sunday within the octave of Epiphany | | | Epiphania Domini, Dominicae post | Sundays after Ephiphany | | | Epiphania Domini, Vigilia | Vigil of Epiphany | 5 January | | Erasmi Episcopi Martyris | Erasmus, bishop and martyr | 2 June | | Eremberti Episcopi | Erembert of Toulouse, bishop | 14 May | | Esto mihi, Dominica | Estomihi Sunday, Quinquagesima Sunday | | | Eucharistiae Sacramentum | Sacrament of the Eucharist | | | Euphemiae Virginis Martyris | Euphemia virgin and martyr | 16 September | | Eusebii Confessoris | Eusebius, confessor | 14 August | | Eusebii Episcopi Martyris | Eusebius, bishop and martyr | 16 December | | Eustachii et Sociorum Martyrum | Eustachius and companions, martyrs | 20 September | | Evaristi Papae Martyris | Evaristus, pope and martyr | 26 October | | Eventii Martyris | Eventius, martyr | 3 May | | | |
 ### F
- |
-| Fabiani Papae et Sebastiani Martyrum | Fabian, Papst, und Sebastian, Märtyrer | 20. Januar |
-| Familiae Sanctae Jesu, Mariae, Joseph | Fest der heiligen Familie Jesus, Maria und Joseph | Am Sonntag in der Oktav von Epiphanie |
-| Faustini et Jovitae Martyrum | Faustinus und Jovita, Märtyrer | 15. Februar |
-| Faustini Martyris | Faustinus, Märtyrer | 29. Juli |
-| Feliciani et Primi Martyrum | Felicianus und Primus, Märtyrer | 9. Juni |
-| Felicis de Valois Confessoris | Felix von Valois, Bekenner | 20. November |
-| Felicis et Adaucti Martyrum | Felix und Adauctus, Märtyrer | 30. August |
-| Felicis et Naboris Martyrum | Felix und Nabor, Märtyrer | 12. Juli |
-| Felicis et Sociorum Martyrum | Felix II. und Gefährten, Märtyrer | 29. Juli |
-| Felicis I. Papae Martyris | Felix I., Papst und Märtyrer | 30. Mai |
-| Felicis Presbyteri Martyris | Felix, Priester und Märtyrer | 14. Januar |
-| Felicissimi Martyris | Felicissimus, Märtyrer | 6. August |
-| Felicitatis et Perpetuae Martyrum | Felicitas und Perpetua, Märtyrinnen | 6. März |
-| Felicitatis Martyris | Felicitas, Märtyrin | 23. November |
-| Feria quarta cinerum | Aschermittwoch | |
-| Feria sexta post cineres | Freitag nach dem Aschermittwoch | |
-| Fidelis a Sigmaringa Martyris | Fidelis von Sigmaringen | 24. April |
-| Franciscae Viduae Romanae | Franziska von Rom, Witwe | 9. März |
-| Francisci Borgiae Confessoris | Franz Borgia, Bekenner | 10. Oktober |
-| Francisci Caracciolo Confessoris | Franziskus Caracciolo, Bekenner | 4. Juni |
-| Francisci Confessoris | Franz von Assisi, Bekenner | 4. Oktober |
-| Francisci Confessoris, Stigmatum sacrorum | Franz von Assisi, Fest der Wundmale | 17. September |
-| Francisci de Paula Confessoris | Franz von Paola, Bekenner | 2. April |
-| Francisci Salesii Episcopi Confessoris Ecclesiae Doctoris | Franz von Sales, Bischof, Bekenner und Kirchenlehrer | 29. Januar |
-| Francisci Seraphici | Franz von Assisi, Bekenner | |
-| Francisci Xaverii Confessoris | Franz Xaver Bekenner | 3. Dezember |
-|   |
-| 
+ | | Fabiani Papae et Sebastiani Martyrum | Fabian, pope, and Sebastian, martyr | 20 January | | Familiae Sanctae Jesu, Mariae, Joseph | Feast of the Holy Family Jesus, Mary and Joseph | Sunday within the octave of Epiphany | | Faustini et Jovitae Martyrum | Faustinus and Jovita, martyrs | 15 Februar | | Faustini Martyris | Faustinus, martyr | 29 July | | Feliciani et Primi Martyrum | Felician and Primus, martyrs | 9 June | | Felicis de Valois Confessoris | Felix of Valois, confessor | 20 November | | Felicis et Adaucti Martyrum | Felix and Adauctus, martyrs | 30 August | | Felicis et Naboris Martyrum | Felix and Nabor, martyrs | 12 July | | Felicis et Sociorum Martyrum | Felix II and companions, martyrs | 29 Juli | | Felicis I. Papae Martyris | Felix I, pope and martyr | 30 May | | Felicis Presbyteri Martyris | Felix, priest and martyr | 14 January | | Felicissimi Martyris | Felicissimus, martyr | 6 August | | Felicitatis et Perpetuae Martyrum | Felicity and Perpetua, martyrs | 6 March | | Felicitatis Martyris | Felicity, martyr | 23 November | | Feria quarta cinerum | Ash Wednesday | | | Feria sexta post cineres | Friday after Ash Wednesday | | | Fidelis a Sigmaringa Martyris | Fidelis of Sigmaringen | 24 April | | Franciscae Viduae Romanae | Frances of Rome, widow | 9 March | | Francisci Borgiae Confessoris | Francis Borgia, confessor | 10 October | | Francisci Caracciolo Confessoris | Francis Caracciolo, confessor | 4 June | | Francisci Confessoris | Francis of Assisi, confessor | 4 October | | Francisci Confessoris, Stigmatum sacrorum | Francis of Assisi, feast of the stigmata | 17 September | | Francisci de Paula Confessoris | Francis of Paola, confessor | 2 April | | Francisci Salesii Episcopi Confessoris Ecclesiae Doctoris | Francis of Sales, bishop, confessor and doctor of the church | 29 January | | Francisci Seraphici | Francis of Assisi, confessor | 4 October | | Francisci Xaverii Confessoris | Francis Xavier, confessor | 3 December | | | |
 ### G
- |
-| Gabrielis a Virgine Perdolente Confessoris | Gabriel “von der schmerzhaften Mutter” | 27. oder 28. Februar |
-| Gabrielis Archangeli | Gabriel, Erzengel | 24. März |
-| Galli Eremiti | Gallus, Eremit | 16. Oktober |
-| Geminiani Martyris | Germinianus, Märtyrer | 16. September |
-| Georgii Martyris | Georg, Märtyrer | 23. April |
-| Gertrudis Virginis | Gertrud, Jungfrau | 16. November |
-| Gervasii et Protasii Martyrum | Gervasius und Protasius, Märtyrer | 19. Juni |
-| Gordiani et Epimachi Martyrum | Gordianus und Epimachus, Märtyrer | 10. Mai |
-| Gorgonii Martyris | Gorgonius, Märtyrer | 9. September |
-| Gregorii I. Papae Ecclesiae Doctoris | Gregor I., Papst und Kirchenlehrer | 12. März |
-| Gregorii Nazianzeni Episcopi Ecclesiae Doctoris | Gregor von Nazianz, Bischof und Kirchenlehrer | 9. Mai |
-| Gregorii Thaumaturgi Episcopi Confessoris | Gregor der Wundertäter, Bischof und Bekenner | 17. November |
-| Gregorii VII. Papae Confessoris | Gregor VII. Papst und Bekenner | 25. Mai |
-| Gulielmis Abbatis | Wilhelm, Abt | 25. Juni |
-|   |
-| 
+ | | Gabrielis a Virgine Perdolente Confessoris | Gabriel of Our Lady of Sorrows, confessor | 27 or 28 February | | Gabrielis Archangeli | Gabriel, archangel | 24 March | | Galli Eremiti | Gallus, hermit | 16 October | | Geminiani Martyris | Germinianus, martyr | 16 September | | Georgii Martyris | George, martyr | 23 April | | Gertrudis Virginis | Gertrude, virgin | 16 November | | Gervasii et Protasii Martyrum | Gervasius and Protasius, martyr | 19 June | | Gordiani et Epimachi Martyrum | Gordianus and Epimachus, martyrs | 10 May | | Gorgonii Martyris | Gorgonius, martyr | 9 September | | Gregorii I. Papae Ecclesiae Doctoris | Gregory I, pope and doctor of the church | 12 March | | Gregorii Nazianzeni Episcopi Ecclesiae Doctoris | Gregory of Nazianzus, bishop and doctor of the church | 9 May | | Gregorii Thaumatugi Episcopi Confessoris | Gregory of Neocaesarea, bishop and confessor | 17 November | | Gregorii VII. Papae Confessoris | Gregory VII, pope and confessor | 25 Mai | | Gulielmis Abbatis | William, abbot | 25 June | | | |
 ### H
- |
-| Hadriani Martyris | Hadrian, Märtyrer | 8. September |
-| Hebdomada sancta | Karwoche | |
-| Hebdomada sancta, Feria 2. | Montag in der Karwoche | |
-| Hebdomada sancta, Feria 3. | Dienstag in der Karwoche | |
-| Hebdomada sancta, Feria 4. | Mittwoch in der Karwoche | |
-| Hebdomada sancta, Feria 5. | Donnerstag in der Karwoche, Hoher Donnerstag, Gründonnerstag | |
-| Hedwigis Reginae Viduae | Hedwig, Königin und Witwe | 16. Oktober |
-| Henrici Imperatoris Confessoris | Heinrich II., Kaiser und Bekenner | 15. Juli |
-| Hermenegildi Martyris | Hermengild Märtyrin | 13. September |
-| Hermetis Martyris | Hermes, Märtyrer | 28. August |
-| Hieronymi Aemiliani Confessoris | Hieronymus Emiliani, Bekenner | 20. Juli |
-| Hieronymi Presbyteri Ecclesiae Doctoris | Hieronymus, Priester und Kirchenlehrer | 30. September |
-| Hilarii Episcopi Confessoris Ecclesiae Doctoris | Hilarius, Bischof, Bekenner und Kirchenlehrer | 14. Januar |
-| Hilarionis Abbatis | Hilarion, Abt | 21. Oktober |
-| Hippolyti Martyris | Hyppolitus, Märtyrer | 22. August |
-| Huberti Episcopi | Hubert, Bischof | 3. November |
-| Hyacinthi Confessoris | Hyacinthus, Bekenner | 17. August |
-| Hyacinthi et Proti Martyrum | Hyacinthus und Protus, Märtyrer | 11. September |
-| Hygini Papae et Martyris | Hyginus, Papst und Märtyrer | 11. Januar |
-|   |
-| 
+ | | Hadriani Martyris | Hadrian, martyr | 8 September | | Hebdomada sancta | Holy Week | | | Hebdomada sancta, Feria 2. | Monday in the Holy Week | | | Hebdomada sancta, Feria 3. | Tuesday in the Holy Week | | | Hebdomada sancta, Feria 4. | Wednesday in the Holy Week | | | Hebdomada sancta, Feria 5. | Thursday in the Holy Week, Holy Thursday, Maundy Thursday | | | Hedwigis Reginae Viduae | Hedwig, queen and widow | 16 October | | Henrici Imperatoris Confessoris | Henry II, emperor and confessor | 15 July | | Hermenegildi Martyris | Hermengild, martyr | 13 September | | Hermetis Martyris | Hermes, martyr | 28 August | | Hieronymi Aemiliani Confessoris | Gerolamo / Jerome Emiliani, confessor | 20 July | | Hieronymi Presbyteri Ecclesiae Doctoris | Jerome, priest and doctor of the church | 30 September | | Hilarii Episcopi Confessoris Ecclesiae Doctoris | Hilarius, bishop, confessor and doctor of the church | 14 January | | Hilarionis Abbatis | Hilarion, abbot | 21 October | | Hippolyti Martyris | Hyppolitus, martyr | 22 August | | Huberti Episcopi | Hubertus, bishop | 3 November | | Hyacinthi Confessoris | Hyacinth, confessor | 17 August | | Hyacinthi et Proti Martyrum | Hyacinth and Protus, martyrs | 11 September | | Hygini Papae et Martyris | Hyginus, pope and martyr | 11 January | | | |
 ### I
- |
-| Ignatii Confessoris | Ignatius / Ignaz, Bekenner | 21. Juli |
-| Ignatii Episcopi Martyris | Ignaz, Bischof und Märtyrer | 1. Februar |
-| In honorem Sacratissimi Sacramenti | Zu Ehren des allerheiligsten Sakramentes | |
-| Innocentii I. Papae Confessoris | Innozenz I., Papst und Bekenner | 28. Juli |
-| Innocentium | Die heiligen unschuldigen Kinder | 28. Dezember |
-| Innocentium, Octava | Oktav von die heiligen unschuldigen Kinder | 5. Januar |
-| Irenaei Episcopi Martyris | Irenäus, Bischof und Märtyrer | 28. Juni |
-| Isidori Episcopi Ecclesiae Doctoris | Isidor, Bischof und Kirchenlehrer | 4. April |
-|   |
-| 
+ | | Ignatii Confessoris | Ignatius / Ignaz, confessor | 21 July | | Ignatii Episcopi Martyris | Ignatius, bishop and martyr | 1 February | | In honorem Sacratissimi Sacramenti | In honour of the Blessed Sacrament | | | Innocentii I. Papae Confessoris | Innocent I, pope and confessor | 28 July | | Innocentium | Holy Innocents | 28 December | | Innocentium, Octava | Octave of the Holy Innocents | 5 January | | Irenaei Episcopi Martyris | Irenaeus, bishop and martyr | 28 June | | Isidori Episcopi Ecclesiae Doctoris | Isidore, bishop and doctor of the church | 4 April | | | |
 ### J
- |
-| Jacobi, Apostoli | Jakob (der Ältere), Apostel | 25. Juli |
-| Jacobi Apostoli, Vigilia | Vigil von Apostel Jakob | 24. Juli |
-| Jacobi et Philippi Apostolorum | Jakob (der Jüngere) und Philippus, Apostel | 1. Mai |
-| Januarii et Sociorum Martyrum | Januarius und Gefährten, Märtyrer | 19. September |
-| Jesu Christi Regis | Christkönig | |
-| Jesu Christi, Commemorationis Passionis | Gedächtnis des Leidens Jesu Christi | Am Dienstag nach Sonntag Sexagesima |
-| Jesu Christi, Fugae in Aegyptum | Flucht nach Ägypten | 17. Februar |
-| Jesu Christi, Lanceae et Clavorum | Lanzen und Nägel Jesu Christi | Am Freitag nach dem 1. Sonntag in der Fastenzeit |
-| Jesu Christi, Pretiosissimi Sanguinis | Kostbarstes Blut Jesu Christi | 1. Juli |
-| Jesu Christi, Sindonis Sacrati | Heiliges Leichentuch Jesu Christi | Am Freitag nach dem 2. Sonntag in der Fastenzeit |
-| Jesu Christi, Spineae Coronae | Dornenkrone Jesu Christi | Am Freitag nach Aschermittwoch |
-| Jesu Christi, Transfigurationis | Verklärung des Herrn | 6. August |
-| Jesu Christi, Vulnerum Quinque | 5 Wunden Jesu Christi | Am Freitag nach dem 3. Sonntag in der Fastenzeit |
-| Jesu, Sacratissimi Cordis | Fest des heiligsten Herzens Jesu | Am Freitag nach der Oktav von Fronleichnam |
-| Joachim Patris Mariae (B.V.) | Joachim, Vater der Gottesmutter Maria | 16. August |
-| Joannae Franciscae Fremiot de Chantal Viduae | Johanna Franziska von Chantal, Witwe | 21. August |
-| Joannis a Capistrano Confessoris | Johannes von Capistrano, Bekenner | 28. März |
-| Joannis a Cruce Confessoris Ecclesiae Doctoris | Johannes vom Kreuz, Bekenner und Kirchenlehrer | 24. November |
-| Joannis a S. Facundo Confessoris | Johannes von Sahagún, Bekenner | 12. Juni |
-| Joannis ante Portam Latinam | Johannes vor der Lateinischen Pforte (Weihe der Kirche San Giovanni a porta latina in Rom) | 6. Mai |
-| Joannis Apostoli Evangelistae | Johannes Apostel und Evangelist | 27. Dezember |
-| Joannis Apostoli Evangelistae, Octava | Oktav von Johannes, Apostel und Evangelist | 3. Januar |
-| Joannis Baptistae de la Salle Confessoris | Johannes Baptist de la Salle, Bekenner | 15. Mai |
-| Joannis Baptistae, Decollatio | Enthauptung Johannes des Täufers | 28. August |
-| Joannis Baptistae, Nativitas | Geburt Johannes des Täufers | 24. Juni |
-| Joannis Baptistae, Nativitas, Octava | Oktav von Johannes der Täufer | 1. Juli |
-| Joannis Baptistae, Nativitas, Vigilia | Vigil von Johannes der Täufer | 23. Juni |
-| Joannis Bosco Confessoris | Johannes Bosco, Bekenner | 31. Januar |
-| Joannis Cantii Confessoris | Johannes von Kenty, Bekenner | 20. Oktober |
-| Joannis Chrysostomi Episcopi Ecclesiae Doctoris | Johannes Chrysostomus, Bischof und Kirchenlehrer | 27. Januar |
-| Joannis Damasceni Confessoris Ecclesiae Doctoris | Johannes von Damaskus Bekenner und Kirchenlehrer | 27. März |
-| Joannis de Deo Confessoris | Johannes von Gott, Bekenner | 8. März |
-| Joannis de Matha Confessoris | Johannes von Matha, Bekenner | 8. Februar |
-| Joannis et Pauli Martyrum | Johannes und Paulus Märtyrer | 26. Juni |
-| Joannis Eudes Confessoris | Johannes Eudes, Bekenner | 19. August |
-| Joannis Gualberti Abbatis | Johannes Walbert, Abt | 12. Juli |
-| Joannis I Papae Martyris | Johannes I., Papst und Märtyrer | 27. Mai |
-| Joannis Mariae Vianney Confessoris | Johannes Maria Vianney, Bekenner | 9. August |
-| Joannis Nepomuceni Martyris | Johannes Nepomuk, Märtyrer | 16. Mai |
-| Josaphat Episcopi Martyris | Josaphat Bischof und Märtyrer | 16. Mai |
-| Joseph Sponsi Mariae (B. V.) Catholicae Ecclesiae Patroni | Joseph, Bräutigam der seligen Jungfrau Maria | 19. März |
-| Josephi a Cupertino Confessoris | Joseph von Copertino Bekenner | 18. September |
-| Josephi Calasanctii Confessoris | Joseph Calasanz, Bekenner | 27. August |
-| Judae et Simonis Apostolorum | Judas und Simon, Apostel | 28. Oktober |
-| Judae et Simonis Apostolorum, Vigilia | Vigil von Apostel Judas und Simon | 27. Oktober |
-| Julianae de Falconeriis Virginis | Juliana von Falconieri, Jungfrau | 19. Juni |
-| Justini Martyris | Justinus, Märtyrer | 14. April |
-| Juvenalis Episcopi Confessoris | Juvenalis, Bischof und Bekenner | 3. Mai |
-|   |
-| 
+ | | Jacobi, Apostoli | James (the elder), apostle | 25 July | | Jacobi Apostoli, Vigilia | Vigil of apostle James | 24 Juli | | Jacobi et Philippi Apostolorum | James (the younger) and Philip, apostles | 1 May | | Januarii et Sociorum Martyrum | Januarius and companions, martyrs | 19 September | | Jesu Christi Regis | Christ the King | | | Jesu Christi, Commemorationis Passionis | Commemoration of the Passion of Christ | Tuesday after Sexagesima Sunday | | Jesu Christi, Fugae in Aegyptum | Flight into Egypt | 17 February | | Jesu Christi, Lanceae et Clavorum | Holy Lance and Nails | Friday after the first Sunday in Lent | | Jesu Christi, Pretiosissimi Sanguinis | Most Precious Blood | 1 July | | Jesu Christi, Sindonis Sacrati | Holy Shroud | Friday after the second Sunday in Lent | | Jesu Christi, Spineae Coronae | Crown of Thorns | Friday after Ash Wednesday | | Jesu Christi, Transfigurationis | Transfiguration of the Lord | 6 August | | Jesu Christi, Vulnerum Quinque | Five Wounds of Jesus | Friday after the third Sunday in Lent | | Jesu, Sacratissimi Cordis | Sacred Heart | Friday after octave of Corpus Christi | | Joachim Patris Mariae (B.V.) | Joachim, father of Mary | 16 August | | Joannae Franciscae Fremiot de Chantal Viduae | Jane Frances (Jeanne-FranÃ§oise) de Chantal, widow | 21 August | | Joannis a Capistrano Confessoris | John (Giovanni) of Capistrano, confessor | 28 March | | Joannis a Cruce Confessoris Ecclesiae Doctoris | John of the Cross (Juan de la Cruz), confessor and doctor of the church | 24 November | | Joannis a S. Facundo Confessoris | John of SahagÃºn, confessor | 12 June | | Joannis ante Portam Latinam | John before the Latin Gate (Dedication of the church of San Giovanni a porta latina in Rome) | 6 May | | Joannis Apostoli Evangelistae | John, apostle and evangelist | 27 December | | Joannis Apostoli Evangelistae, Octava | Octave of John, apostle and evangelist | 3 January | | Joannis Baptistae de la Salle Confessoris | Jean-Baptiste de La Salle, confessor | 15 May | | Joannis Baptistae, Decollatio | Beheading of St. John the Baptist | 28 August | | Joannis Baptistae, Nativitas | Nativity of St. John the Baptist | 24 June | | Joannis Baptistae, Nativitas, Octava | Octave of the nativity of St. John the Baptist | 1 July | | Joannis Baptistae, Nativitas, Vigilia | Vigil of the nativity of St. John the Baptist | 23 June | | Joannis Bosco Confessoris | John (Giovanni) Bosco, confessor | 31 January | | Joannis Cantii Confessoris | John Cantius (Kenty), confessor | 20 October | | Joannis Chrysostomi Episcopi Ecclesiae Doctoris | John Chrysostom, bishop and doctor of the church | 27 January | | Joannis Damasceni Confessoris Ecclesiae Doctoris | John of Damascus, confessor and doctor of the church | 27 March | | Joannis de Deo Confessoris | John of God, confessor | 8 March | | Joannis de Matha Confessoris | John of Matha, confessor | 8 February | | Joannis et Pauli Martyrum | John and Paul, martyrs | 26 June | | Joannis Eudes Confessoris | John (Jean) Eudes, confessor | 19 August | | Joannis Gualberti Abbatis | John Gualbert, abbot | 12 July | | Joannis I Papae Martyris | John I, pope and martyr | 27 May | | Joannis Mariae Vianney Confessoris | John (Jean-Marie) Vianney, confessor | 9 August | | Joannis Nepomuceni Martyris | John of Nepomuk, martyr | 16 May | | Josaphat Episcopi Martyris | Josaphat, bishop and martyr | 16 May | | Joseph Sponsi Mariae (B. V.) Catholicae Ecclesiae Patroni | Joseph, husband of Mary | 19 March | | Josephi a Cupertino Confessoris | Joseph of Cupertino, confessor | 18 September | | Josephi Calasanctii Confessoris | Joseph Calasanz, confessor | 27 August | | Judae et Simonis Apostolorum | Judas and Simon, apostles | 28 October | | Judae et Simonis Apostolorum, Vigilia | Vigil of apostles Judas and Simon | 27 October | | Julianae de Falconeriis Virginis | Juliana Falconieri, virgin | 19 June | | Justini Martyris | Justin, martyr | 14 April | | Juvenalis Episcopi Confessoris | Juvenal, bishop and confessor | 3 May | | | |
 ### L
- |
-| Largi Martyris | Largus, Märtyrer | 8. August |
-| Laurentii Justiniani Episcopi Confessoris | Laurentius Giustiniani, Bischof und Bekenner | 5. September |
-| Laurentii Martyris | Laurenz / Lorenz Märtyrer | 10. August |
-| Laurentii Martyris, Octava | Oktav von Laurentius Märtyrer | 17. August |
-| Laurentii Martyris, Vigilia | Vigil von Laurentius Märtyrer | 9. August |
-| Leonardi Abbatis | Leonhard, Abt | 6. November |
-| Leonis I. Papae Ecclesiae Doctoris | Leo I., Papst und Kirchenlehrer | 11. April |
-| Leonis II. Papae Confessoris | Leo II., Papst und Bekenner | 3. Juli |
-| Liborii Episcopi Confessoris | Liborius, Bischof und Bekenner | 23. Juli |
-| Lini Papae Martyris | Linus, Papst und Märtyrer | 23. September |
-| Lucae Evangelistae | Lukas, Evangelist | 18. Oktober |
-| Luciae Viduae Martyris | Luzia, Witwe und Märtyrin | 16. September |
-| Luciae Virginis et Martyris | Luzia, Jungfrau und Märtyrin | 13. Dezember |
-| Lucii I. Papae Martyris | Luzius I., Papst und Märtyrer | 4. März |
-| Ludovici Beltrán Confessoris | Ludwig Beltrán, Bekenner | 9. Oktober |
-| Ludovici Regis Confessoris | Ludwig, König und Bekenner | 25. August |
-|   |
-| 
+ | | Largi Martyris | Largus, martyr | 8 August | | Laurentii Justiniani Episcopi Confessoris | Lorenzo Giustiniani, bishop and confessor | 5 September | | Laurentii Martyris | Laurence, martyr | 10 August | | Laurentii Martyris, Octava | Octave of Laurence, martyr | 17 August | | Laurentii Martyris, Vigilia | Vigil of Laurence, martyr | 9 August | | Leonardi Abbatis | Leonard, abbot | 6 November | | Leonis I. Papae Ecclesiae Doctoris | Leo I, pope and doctor of the church | 11 April | | Leonis II. Papae Confessoris | Leo II, pope and confessor | 3 July | | Liborii Episcopi Confessoris | Liborius, bishop and confessor | 23 July | | Lini Papae Martyris | Linus, pope and martyr | 23 September | | Lucae Evangelistae | Luke, evangelist | 18 October | | Luciae Viduae Martyris | Lucy, widow and martyr | 16 September | | Luciae Virginis et Martyris | Lucy, virgin and martyr | 13 December | | Lucii I. Papae Martyris | Lucius I, pope and martyr | 4 March | | Ludovici BeltrÃ¡n Confessoris | Louis Bertrand, confessor | 9 October | | Ludovici Regis Confessoris | Louis, king and confessor | 25 August | | | |
 ### M
- |
-| Machabaeorum Martyrum | Das Martyrium der Makkabäischen Brüder | 1. August |
-| Marcelli I. Papae Martyris | Marzellus I., Papst und Märtyrer | 16. Januar |
-| Marcelli Martyris | Marzellus, Märtyrer | 7. Oktober |
-| Marcellini et Sociorum Martyrum | Marzellinus und Gefährten, Märtyrer | 2. Juni |
-| Marci et Marcelliani Martyrum | Markus und Marzellianus, Märtyrer | 18. Juni |
-| Marci Evangelistae | Markus Evangelist | 25. April |
-| Marci I. Papae Confessoris | Markus I., Papst und Bekenner | 7. Oktober |
-| Margaritae Mariae Alacoque Virginis | Margareta Maria Alacoque, Jungfrau | 17. Oktober |
-| Margaritae Reginae Scotiae Viduae | Margareta, Königin von Schottland, Witwe | 10. Juni |
-| Margaritae Virginis Martyris | Margarita, Jungfrau und Märtyrin | 20. Juli |
-| Mariae (B.V.) | Maria selige Jungfrau | |
-| Mariae (B.V.) Annuntiatio | Verkündigung des Herrn | 25. März |
-| Mariae (B.V.) Assumptio | Maria Aufnahme in den Himmel | 15. August |
-| Mariae (B.V.) Auxiliatrix | Helferin Maria | 24. Mai |
-| Mariae (B.V.) Compassio | Mitleiden Marias | 1. April |
-| Mariae (B.V.) Conceptio Immacolata | Unbefleckte Empfängnis Marias | 8. Dezember |
-| Mariae (B.V.) de Monte Carmelo | Maria vom Berge Karmel | 16. Juli |
-| Mariae (B.V.) Maternitas | Mutterschaft Marias | 11. Oktober |
-| Mariae (B.V.) Nativitas | Geburt Marias | 8. September |
-| Mariae (B.V.) Nomen | Namen Marias | 12. September |
-| Mariae (B.V.) Praesentatio | Darstellung Marias | 21. November |
-| Mariae (B.V.) Purificatio | Mariä Reinigung, Mariä Lichtmess | 2. Februar |
-| Mariae (B.V.) Purissimum cor | Allerreinstes Herz Marias | Am Samstag nach der Oktav von Fronleichnam |
-| Mariae (B.V.) Rosarii solemnitas | Rosenkranzfest | 7. Oktober |
-| Mariae (B.V.) Septem Dolorum | Sieben Schmerzen Marias | 15. September |
-| Mariae (B.V.) Septem Fundatorum | Sieben Stifter des Servitenordens | 12. Februar |
-| Mariae (B.V.) Translatio almae Domus | Übertragung, Heimgang Marias | 10. Dezember |
-| Mariae (B.V.) Visitatio | Mariä Heimsuchung | 2. Juli |
-| Mariae ad Nives Dedicatione | Weihegedächtnis der Kirche Mariä Schnee (Gross Sankt Marien) | 5. August |
-| Mariae Magdalenae de Pazzis Virginis | Maria Magdalena von Pazzis, Jungfrau | 29. Mai |
-| Mariae Magdalenae, Poenitentis | Maria Magdalena, Büsserin | 22. Juli |
-| Mariae Virginis de Mercede | Fest der allerseeligsten Jungfrau Maria vom Loskauf der Gefangenen | 24. September |
-| Marii Martyris | Marius, Märtyrer | 19. Januar |
-| Marthae Martyris | Martha, Märtyrin | 19. Januar |
-| Marthae Virginis | Martha, Jungfrau | 29. Juli |
-| Martinae Virginis Martyris | Martina, Jungfrau und Märtyrin | 30. Januar |
-| Martini Episcopi Confessoris | Martin Bischof und Bekenner | 11. November |
-| Martini I. Papae Martyris | Martin I., Papst und Märtyrer | 12. November |
-| Martiniani et Processi Martyrium | Martianus und Prozessus, Märtyrer | 2. Juli |
-| Matthaei Apostoli Evangelistae | Matthäus, Apostel und Evangelist | 21. September |
-| Matthaei Apostoli Evangelistae, Vigilia | Vigil von Mattäus, Apostel und Evangelist | 20. September |
-| Matthiae Apostoli | Matthias, Apostel | 23. oder 24. Februar |
-| Matthiae Apostol, Vigilia | Vigil von Apostel Matthias | 22. oder 23. Februar |
-| Mauri Abbatis | Maurus, Abt | 15. Januar |
-| Mauritii et Sociorum Martyrum | Mauritius und Gefährten, Märtyrer | 22. September |
-| Maximi Martyris | Maximus, Märtyrer | 14. April |
-| Maximiliani Episcopi | Maximilian, Bischof | 12. Oktober |
-| Meingosi Episcopi | Meingosus, Bischof | 26. September |
-| Meinradi Eremiti | Meinrad, Einsiedler | 21. Januar |
-| Melchiadis Papae Martyris | Melchiades, Papst und Märtyrer | 10. Dezember |
-| Mennae Martyris | Mennas, Märtyrer | 11. November |
-| Michaelis Archangeli, Apparitio | Erscheinung des Erzengels Michael | 8. Mai |
-| Michaelis Arcangeli, Dedicatio | Michael, Erzengel: Weihe der Kirche | 29. September |
-| Modesti Martyris | Modestus, Märtyrer | 15. Juni |
-| Monachorum | Mönche | |
-| Monicae Viduae | Monika, Witwe | 4. Mai |
-|   |
-| 
+ | | Machabaeorum Martyrum | Holy Maccabean Martyrs | 1 August | | Marcelli I. Papae Martyris | Marcellus I, pope and martyr | 16 January | | Marcelli Martyris | Marcellus, martyr | 7 October | | Marcellini et Sociorum Martyrum | Marcellinus and companions, martyrs | 2 June | | Marci et Marcelliani Martyrum | Mark and Marcellianus, martyrs | 18 June | | Marci Evangelistae | Mark, evangelist | 25 April | | Marci I. Papae Confessoris | Mark I, pope and confessor | 7 October | | Margaritae Mariae Alacoque Virginis | Marguerite Marie Alacoque, virgin | 17 October | | Margaritae Reginae Scotiae Viduae | Margaret, queen of Scotland, widow | 10 June | | Margaritae Virginis Martyris | Margaret, virgin and martyr | 20 July | | Mariae (B.V.) | Mary, Blessed Virgin | | | Mariae (B.V.) Annuntiatio | Annunciation of the Blessed Virgin Mary | 25 March | | Mariae (B.V.) Assumptio | Assumption of the Blessed Virgin Mary | 15 August | | Mariae (B.V.) Auxiliatrix | Mary, helper of christians | 24 May | | Mariae (B.V.) Compassio | Compassion of Mary | 1 April | | Mariae (B.V.) Conceptio Immacolata | Immaculate conception of the Blessed Virgin Mary | 8 December | | Mariae (B.V.) de Monte Carmelo | Our lady of Mount Carmel | 16 July | | Mariae (B.V.) Maternitas | Motherhood of Mary | 11 October | | Mariae (B.V.) Nativitas | Nativity of Mary | 8 September | | Mariae (B.V.) Nomen | Name of Mary | 12 September | | Mariae (B.V.) Praesentatio | Presentation of Mary | 21 November | | Mariae (B.V.) Purificatio | Purification of Mary | 2 February | | Mariae (B.V.) Purissimum cor | Immaculate heart of Mary | Saturday after the octave of Corpus Christi | | Mariae (B.V.) Rosarii solemnitas | Rosary | 7 October | | Mariae (B.V.) Septem Dolorum | Seven sorrows of Mary | 15 September | | Mariae (B.V.) Septem Fundatorum | Seven holy founders of the Servite order | 12 February | | Mariae (B.V.) Translatio almae Domus | Translation of the holy house of Loreto | 10 December | | Mariae (B.V.) Visitatio | Visitation of Mary | 2 July | | Mariae ad Nives Dedicatione | Dedication of Our Lady of the Snows | 5 August | | Mariae Magdalenae de Pazzis Virginis | Maria Maddalena deÕ Pazzi, virgin | 29 May | | Mariae Magdalenae, Poenitentis | Mary Magdalene, penitent | 22 July | | Mariae Virginis de Mercede | Our lady of mercy | 24 September | | Marii Martyris | Marius, martyr | 19 January | | Marthae Martyris | Martha, martyr | 19 January | | Marthae Virginis | Martha, virgin | 29 July | | Martinae Virginis Martyris | Martina, virgin and martyr | 30 January | | Martini Episcopi Confessoris | Martin, bishop and confessor | 11 November | | Martini I. Papae Martyris | Martin I, pope and martyr | 12 November | | Martiniani et Processi Martyrium | Martianus and Processus, martyr | 2 July | | Matthaei Apostoli Evangelistae | Matthew, apostle and evangelist | 21 September | | Matthaei Apostoli Evangelistae, Vigilia | Vigil of Matthew, apostle and evangelist | 20 September | | Matthiae Apostoli | Matthias, apostle | 23 or 24 February | | Matthiae Apostol, Vigilia | Vigil of apostle Matthias | 22 or 23 February | | Mauri Abbatis | Maurus, abbot | 15 January | | Mauritii et Sociorum Martyrum | Maurice and companions, martyrs | 22 September | | Maximi Martyris | Maximus, martyr | 14 April | | Maximiliani Episcopi | Maximillian of Lorch, bishop | 12 October | | Meingosi Episcopi | Meingosus, bishop | 26 September | | Meinradi Eremiti | Meinrad, hermit | 21 January | | Melchiadis Papae Martyris | Melchiades, pope and martyr | 10 December | | Mennae Martyris | Menas, martyr | 11 November | | Michaelis Archangeli, Apparitio | Apparition of St. Michael | 8 May | | Michaelis Arcangeli, Dedicatio | Dedication of St. Michael Archangel | 29 September | | Modesti Martyris | Modestus, martyr | 15 June | | Monachorum | Monks | | | Monicae Viduae | Monica, widow | 4 May | | | |
 ### N
- |
-| Naboris Martyris | Nabor, Märtyrer | 12. Juni |
-| Nativitas Domini | Weihnachten, Geburt des Herrn | 25. Dezember |
-| Nativitas Domini, Dominica infra octavam | Sonntag in der Oktav von Weihnachten | |
-| Nativitas Domini, Vigilia | Vigil von Weihnachten | 24. Dezember |
-| Nazarii Martyris | Nazarius, Märtyrer | 28. Juli |
-| Nazarii et Sociorum Martyrum | Nazarius und Gefährten, Märtyrer | 12. Juni |
-| Nerei, Achillei et Domitillae Virginis atque Pancratii Martyrum | Nereus, Achilleus, Jungfrau Domitilla und Pankraz, Märtyrer | 12. Mai |
-| Nicolai a Tolentino Confessoris | Nikolaus von Tolentino, Bekenner | 10. September |
-| Nicolai de Flüe | Niklaus von der Flüe | 22. März |
-| Nicolai Episcopi Confessoris | Nikolaus, Bischof und Bekenner | 6. Dezember |
-| Nicomedis Martyris | Nikomedes, Märtyrer | 15. September |
-| Nominis Jesu | Namen Jesu | 2. Januar |
-| Norberti Episcopi Confessoris | Norbert, Bischof und Bekenner | 6. Juni |
-| Notkeri | Notker der Stammler | 6. April |
-| Nymphae Virginis | Nympha, Jungfrau | 10. November |
-|   |
-| 
+ | | Naboris Martyris | Nabor, martyr | 12 June | | Nativitas Domini | Christmas, Nativity of the Lord | 25 December | | Nativitas Domini, Dominica infra octavam | Sunday in the octave of Christmas | | | Nativitas Domini, Vigilia | Vigil of Christmas | 24 December | | Nazarii Martyris | Nazarius, martyr | 28 July | | Nazarii et Sociorum Martyrum | Nazarius and companions, martyrs | 12 June | | Nerei, Achillei et Domitillae Virginis atque Pancratii Martyrum | Nereus, Achilleus, virgin Domitilla and Pancras, martyrs | 12 May | | Nicolai a Tolentino Confessoris | Nicholas of Tolentino, confessor | 10 September | | Nicolai de FlÃ¼e | Niklaus of FlÃ¼e | 22 March | | Nicolai Episcopi Confessoris | Nicholas, bishop and confessor | 6 December | | Nicomedis Martyris | Nicomedes, martyr | 15 September | | Nominis Jesu | Holy name of Jesus | 2 January | | Norberti Episcopi Confessoris | Norbert, bishop and confessor | 6 June | | Notkeri | Notker the Stammerer | 6 April | | Nymphae Virginis | Nympha, virgin | 10 November | | | |
 ### O
- |
-| Oculi, Dominica | Sonntag Oculi, 3.Fastensonntag | |
-| Omnium Monachorum | Alle heiligen Mönche | |
-| Omnium Sanctorum | Allerheiligen | 1. November |
-| Onuphrii Eremiti | Onuphrius der Grosse, Einsiedler | 12. Juni |
-| Othmari Abbatis | Othmar, Abt | 16. November |
-|   |
-| 
+ | | Oculi, Dominica | Sunday Oculi, 3rd Sunday in Lent | | | Omnium Monachorum | All monks | | | Omnium Sanctorum | All saints | 1 November | | Onuphrii Eremiti | Onuphrius, hermit | 12 June | | Othmari Abbatis | Othmar, abbot | 16 November | | | |
 ### P
- |
-| Palmis, Dominica in | Palmsonntag | |
-| Pancratii Martyris | Pankratius, Märtyrer | 12. Mai |
-| Pantaleonis Martyris | Pantaleon, Märtyrer | 27. Juli |
-| Parasceve, Feria 6. in | Karfreitag | |
-| Pascha | Ostern | |
-| Pascha, Dominica 2. post | 2. Sonntag nach Ostern | |
-| Pascha, Dominica 3. post | 3. Sonntag nach Ostern | |
-| Pascha, Dominica 4. post | 4. Sonntag nach Ostern | |
-| Pascha, Dominica 5. post | 5. Sonntag nach Ostern | |
-| Pascha, Dominicae post | Sonntage nach Ostern | |
-| Pascha, Feria 2. | Montag nach Ostern, Ostermontag | |
-| Pascha, Feria 3. | Dienstag nach Ostern, Osterdienstag | |
-| Pascha, Feria 4. | Mittwoch nach Ostern | |
-| Pascha, Feria 5. | Donnerstag nach Ostern | |
-| Pascha, Feria 6. | Freitag nach Ostern | |
-| Paschalis Baylon Confessoris | Paschalis Bailón, Bekenner | 17. Mai |
-| Passio Domini | Leiden des Herrn | |
-| Passionis Dominica | Passionssonntag, 5. Fastensonntag | |
-| Passionis Domenica, Feria 2. | Montag nach dem Passionssonntag | |
-| Patricii Episcopi Confessoris | Patrick, Bischof und Bekenner | 17. März |
-| Pauli a Cruce Confessoris | Paulus vom Kreuz, Bekenner | 28. April |
-| Pauli Apostoli | Paulus Apostel | 29. Juni |
-| Pauli Apostoli Commemoratio | Gedächtnis des Apostels Paulus | 30. Juni |
-| Pauli Apostoli, Conversio | Bekehrung des Apostels Paulus | 25. Januar |
-| Pauli et Joannis Martyrum | Paulus und Johannes, Märtyrer | 26. Juni |
-| Pauli primi Eremitae | Paulus von Theben, erster Einsiedler | 15. Januar |
-| Paulini Episcopi Confessoris | Paulinus, Bischof und Bekenner | 22. Juni |
-| Pentecostes | Pfingsten | |
-| Pentecostes, Dominica 1. post | 1. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 2. post | 2. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 3. post | 3. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 4. post | 4. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 5. post | 5. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 6. post | 6. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 7. post | 7. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 8. post | 8. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 9. post | 9. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 10. post | 10. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 11. post | 11. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 12. post | 12. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 13. post | 13. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 14. post | 14. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 15. post | 15. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 16. post | 16. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 17. post | 17. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 18. post | 18. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 19. post | 19. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 20. post | 20. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 21. post | 21. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 22. post | 22. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 23. post | 23. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica 24. post | 24. Sonntag nach Pfingsten | |
-| Pentecostes, Dominica infra octavam | Sonntag in der Oktav von Pfingsten (= 1. Sonntag nach Pfingsten) | |
-| Pentecostes, Feria 2. | Montag nach Pfingsten, Pfingstmontag | |
-| Pentecostes, Feria 3. | Dienstag nach Pfingsten | |
-| Pentecostes, Feria 4. | Mittwoch nach Pfingsten | |
-| Pentecostes, Octava | Oktav von Pfingsten | |
-| Pentecostes, Sabbato | Pfingstsamstag | |
-| Pentecostes, Sabbato 2. post | 2. Samstag nach Pfingsten | |
-| Pentecostes, Vigilia | Vigil von Pfingsten | |
-| Pentecostes, Quatuor temporum. Feria 4 | Quatemberwoche zwischen Pfingsten und Dreifaltigkeit, Mittwoch | |
-| Pentecostes, Quatuor temporum. Sabbato | Quatemberwoche zwischen Pfingsten und Dreifaltigkeit, Samstag | |
-| Perpetuae et Felicitatis Martyrum | Perpetua und Felicitas, Märtyrinnen | 6. März |
-| Petri ad Vincula | Petrus, Kettenfeier | 1. August |
-| Petri Alexandriae Episcopi Martyris | Petrus von Alexandrien, Bischof und Märtyrer | 26. November |
-| Petri Canisii Confessoris Ecclesiae Doctoris | Petrus Canisius, Bekenner und Kirchenlehrer | 27. April |
-| Petri Chrysologi Episcopi Ecclesiae Doctoris | Petrus Chrysologus, Bischof und Kirchenlehrer | 4. Dezember |
-| Petri Claveri Confessoris | Petrus Claver, Bekenner | 9. September |
-| Petri Coelestini Papae Confessoris | Petrus Cölestinus, Papst und Bekenner | 19. Mai |
-| Petri Damiani Episcopi Ecclesiae Doctoris | Petrus Damiani, Bischof und Kirchenlehrer | 23. Februar |
-| Petri de Alcantara Confessoris | Petrus von Alcantara, Bekenner | 19. Oktober |
-| Petri et Pauli Apostolorum | Petrus und Paulus, Apostel | 29. Juni |
-| Petri et Pauli Apostolorum, Octava | Oktav von Peter und Paul | 6. Juli |
-| Petri et Pauli Apostolorum, Vigilia | Vigil von Apostel Petrus und Paulus | 28. Juni |
-| Petri Martyris | Petrus der Exorzist, Märtyrer | 2. Juni |
-| Petri Martyris | Petrus, Märtyrer | 29. April |
-| Petri Nolasco Confessoris | Petrus Nolasco, Bekenner | 28. Januar |
-| Petri Apostoli, Cathedrae Antiochiae | Petrus, Thronfeier zu Antiochia | 22. Februar |
-| Petri Apostoli, Cathedrae Romae | Petrus, Thronfeier zu Rom | 18. Januar |
-| Petronillae Virginis | Petronilla, Jungfrau | 31. Mai |
-| Philippi Benitii Confessoris | Philippus Benizzi, Bekenner | 23. August |
-| Philippi et Jacobi Apostolorum | Philippus und Jakobus, Apostel | 1. Mai |
-| Philippi Nerii Confessoris | Philippus Neri, Bekenner | 26. Mai |
-| Pii I. Papae Martyris | Pius I., Papst und Märtyrer | 11. Juli |
-| Pii V. Papae Confessoris | Pius V., Papst und Bekenner | 5. Mai |
-| Placidi et Sigisberti, Abbatum | Plazidus und Sigisbert, Äbte | 11. Juli |
-| Placidi et Sociorum Martyrum | Placidus und Gefährten, Märtyrer | 5. Oktober |
-| Polycarpi Episcopi Martyris | Polykarp, Bischof und Märtyrer | 26. Januar |
-| Pontiani I. Papae Martyris | Pontianus I., Papst und Märtyrer | 19. November |
-| Praxedis Virginis | Praxedis, Jungfrau | 21. Juli |
-| Primi et Feliciani Martyrum | Primus und Felicianus, Märtyrer | 9. Juni |
-| Principum Apostolorum | Apostelfürsten | |
-| Priscae Virginis Martyris | Priska, Jungfrau und Märtyrin | 18. Januar |
-| Pro defunctis | Für die Verstorbenen | |
-| Pro omni festo | Für jedes Fest | |
-| Pro omni tempore | Für jede Zeit | |
-| Processi et Martiniani Martyrum | Processus und Martinianus, Märtyrer | 2. Juli |
-| Proti et Hyacinthi Martyrum | Protus und Hyacinthus, Märtyrer | 11. September |
-| Pudentianae Virginis | Pudentiana, Jungfrau | 19. Mai |
-|   |
-| 
+ | | Palmis, Dominica in | Palm Sunday | | | Pancratii Martyris | Pancras, martyr | 12 May | | Pantaleonis Martyris | Pantaleon, martyr | 27 July | | Parasceve, Feria 6. in | Holy Friday, Good Friday | | | Pascha | Easter | | | Pascha, Dominica 2. post | 2nd Sunday after Easter | | | Pascha, Dominica 3. post | 3rd Sunday after Easter | | | Pascha, Dominica 4. post | 4th Sunday after Easter | | | Pascha, Dominica 5. post | 5th Sunday after Easter | | | Pascha, Dominicae post | Sundays after Easter | | | Pascha, Feria 2. | Monday after Easter, Easter Monday | | | Pascha, Feria 3. | Tuesday after Easter, Easter Tuesday | | | Pascha, Feria 4. | Wednesday after Easter | | | Pascha, Feria 5. | Thursday after Easter | | | Pascha, Feria 6. | Friday after Easter | | | Paschalis Baylon Confessoris | Paschal Baylon, confessor | 17 May | | Passio Domini | Passion of the Lord | | | Passionis Dominica | Passion Sunday, 5th Sunday in Lent | | | Passionis Domenica, Feria 2. | Monday after Passion Sunday | | | Patricii Episcopi Confessoris | Patrick, bishop and confessor | 17 March | | Pauli a Cruce Confessoris | Paul of the Cross, confessor | 28 April | | Pauli Apostoli | Paul, apostle | 29 June | | Pauli Apostoli Commemoratio | Commemoration of the apostle Paul | 30 June | | Pauli Apostoli, Conversio | Conversion of the apostle Paul | 25 January | | Pauli et Joannis Martyrum | Paul and John, martyrs | 26 June | | Pauli primi Eremitae | Paul of Thebes, first hermit | 15 January | | Paulini Episcopi Confessoris | Paulinus, bishop and confessor | 22 June | | Pentecostes | Pentecost, Whitsunday | | | Pentecostes, Dominica 1. post | 1st Sunday after Pentecost | | | Pentecostes, Dominica 2. post | 2nd Sunday after Pentecost | | | Pentecostes, Dominica 3. post | 3rd Sunday after Pentecost | | | Pentecostes, Dominica 4. post | 4th Sunday after Pentecost | | | Pentecostes, Dominica 5. post | 5th Sunday after Pentecost | | | Pentecostes, Dominica 6. post | 6th Sunday after Pentecost | | | Pentecostes, Dominica 7. post | 7th Sunday after Pentecost | | | Pentecostes, Dominica 8. post | 8th Sunday after Pentecost | | | Pentecostes, Dominica 9. post | 9th Sunday after Pentecost | | | Pentecostes, Dominica 10. post | 10th Sunday after Pentecost | | | Pentecostes, Dominica 11. post | 11th Sunday after Pentecost | | | Pentecostes, Dominica 12. post | 12th Sunday after Pentecost | | | Pentecostes, Dominica 13. post | 13th Sunday after Pentecost | | | Pentecostes, Dominica 14. post | 14th Sunday after Pentecost | | | Pentecostes, Dominica 15. post | 15th Sunday after Pentecost | | | Pentecostes, Dominica 16. post | 16th Sunday after Pentecost | | | Pentecostes, Dominica 17. post | 17th Sunday after Pentecost | | | Pentecostes, Dominica 18. post | 18th Sunday after Pentecost | | | Pentecostes, Dominica 19. post | 19th Sunday after Pentecost | | | Pentecostes, Dominica 20. post | 20th Sunday after Pentecost | | | Pentecostes, Dominica 21. post | 21th Sunday after Pentecost | | | Pentecostes, Dominica 22. post | 22. Sunday after Pentecost | | | Pentecostes, Dominica 23. post | 23th Sunday after Pentecost | | | Pentecostes, Dominica 24. post | 24th Sunday after Pentecost | | | Pentecostes, Dominica infra octavam | Sunday in the octave of Pentecost (1st Sunday after Pentecost) | | | Pentecostes, Feria 2. | Pentecost Monday, Whit Monday | | | Pentecostes, Feria 3. | Tuesday after Pentecost | | | Pentecostes, Feria 4. | Wednesday after Pentecost | | | Pentecostes, Octava | Octave of Pentecost | | | Pentecostes, Sabbato | Saturday after Pentecost | | | Pentecostes, Sabbato 2. post | 2nd Saturday after Pentecost | | | Pentecostes, Vigilia | Vigil of Pentecost | | | Pentecostes, Quatuor temporum. Feria 4 | Ember days between Pentecost and Trinity, Wednesday | | | Pentecostes, Quatuor temporum. Sabbato | Ember days between Pentecost and Trinity, Saturday | | | Perpetuae et Felicitatis Martyrum | Perpetua and Felicity, martyrs | 6 March | | Petri ad Vincula | Peter in Chains | 1 August | | Petri Alexandriae Episcopi Martyris | Peter of Alexandria, bishop and martyr | 26 November | | Petri Canisii Confessoris Ecclesiae Doctoris | Peter Canisius, confessor and doctor of the church | 27 April | | Petri Chrysologi Episcopi Ecclesiae Doctoris | Petrus Chrysologus, bishop and doctor of the church | 4 December | | Petri Claveri Confessoris | Peter Claver, confessor | 9 September | | Petri Coelestini Papae Confessoris | Celestine V, pope and confessor | 19 May | | Petri Damiani Episcopi Ecclesiae Doctoris | Petrus Damiani, bishop and doctor of the church | 23 February | | Petri de Alcantara Confessoris | Peter of Alcantara, confessor | 19 October | | Petri et Pauli Apostolorum | Peter and Paul, apostles | 29 June | | Petri et Pauli Apostolorum, Octava | Octave of Peter and Paul | 6 July | | Petri et Pauli Apostolorum, Vigilia | Vigil of apostles Peter and Paul | 28 June | | Petri Martyris | Peter, martyr | 2 June | | Petri Martyris | Peter, martyr | 29 April | | Petri Nolasco Confessoris | Petrus Nolasco, confessor | 28 Januar | | Petri Apostoli, Cathedrae Antiochiae | Chair of St. Peter at Antioch | 22 February | | Petri Apostoli, Cathedrae Romae | Chair of St. Peter at Rome | 18 January | | Petronillae Virginis | Petronilla, virgin | 31 May | | Philippi Benitii Confessoris | Philip Benizi, confessor | 23 August | | Philippi et Jacobi Apostolorum | Philip and James, apostles | 1 May | | Philippi Nerii Confessoris | Philip Neri, confessor | 26 May | | Pii I. Papae Martyris | Pius I, pope and martyr | 11 July | | Pii V. Papae Confessoris | Pius V, pope and confessor | 5 May | | Placidi et Sigisberti, Abbatum | Placid and Sigisbert, abbots | 11 July | | Placidi et Sociorum Martyrum | Placidus and companions, martyr | 5 October | | Polycarpi Episcopi Martyris | Polycarp, bishop and martyr | 26 January | | Pontiani I. Papae Martyris | Pontianus I, pope and martyr | 19 November | | Praxedis Virginis | Praxedes, virgin | 21 July | | Primi et Feliciani Martyrum | Primus and Felician, martyrs | 9 June | | Principum Apostolorum | Peter and Paul, apostles | 29 June | | Priscae Virginis Martyris | Prisca, virgin and martyr | 18 January | | Pro defunctis | For the dead | | | Pro omni festo | For any feast | | | Pro omni tempore | For any time | | | Processi et Martiniani Martyrum | Processus and Martinian, martyrs | 2 July | | Proti et Hyacinthi Martyrum | Protus and Hyacinth, martyrs | 11 September | | Pudentianae Virginis | Pudentiana, virgin | 19 May | | | |
 ### Q
- |
-| Quadragesima | Fastenzeit | |
-| Quadragesima, Dominica 1. | 1. Fastensonntag | |
-| Quadragesima, Dominica 2. | 2. Fastensonntag | |
-| Quadragesima, Dominica 3. | 3. Fastensonntag | |
-| Quadragesima, Dominica 4. | 4. Fastensonntag | |
-| Quadragesima, Dominica 5. | 5. Fastensonntag | |
-| Quadragesima, Dominica 4., Feria 6. | Freitag nach dem 4. Fastensonntag | |
-| Quadragesima, Feria 6. | Freitag in der Fastenzeit | |
-| Quinquagesima | Sonntag Quinquagesima | |
-|   |
-| 
+ | | Quadragesima | Lent | | | Quadragesima, Dominica 1. | 1st Sunday in Lent | | | Quadragesima, Dominica 2. | 2nd Sunday in Lent | | | Quadragesima, Dominica 3. | 3rd Sunday in Lent | | | Quadragesima, Dominica 4. | 4th Sunday in Lent | | | Quadragesima, Dominica 5. | 5th Sunday in Lent | | | Quadragesima, Dominica 4., Feria 6. | Friday after the 4th Sunday in Lent | | | Quadragesima, Feria 6. | Friday in Lent | | | Quinquagesima | Sunday Quinquagesima | | | | |
 ### R
- |
-| Raphaelis Archangeli | Raphael, Erzengel | 24. Oktober |
-| Raymundi de Pennafort Confessoris | Raimund von Pennafort, Bekenner | 23. Januar |
-| Raymundi Nonnati Confessoris | Raimund Nonnatus, Bekenner | 31. August |
-| Remigii Episcopi Confessoris | Remigius, Bischof und Bekenner | 1. Oktober |
-| Respicii Martyris | Respicius, Märtyrer | 10. November |
-| Resurrectio Domini | Auferstehung des Herrn, Ostern | |
-| Resurrectio Domini, Feria 2. | Ostermontag, Montag nach Ostern | |
-| Roberti Bellarmino Episcopi Ecclesiae Doctoris | Robert Bellarmin, Bischof und Kirchenlehrer | 13. Mai |
-| Rogationum | Bitttage | |
-| Romani Martyris | Romanus, Märtyrer | 9. August |
-| Romualdi Abbatis | Romuald, Abt | 7. Februar |
-| Rorate, Dominica | Roratesonntag | |
-| Rosae a S Maria Virginis Limae | Rosa von Lima, Jungfrau | 30. August |
-| Rufinae et Secundae Virginum Martyrum | Rufina und Seconda, Jungfrauen und Märtyrinnen | 10. Juli |
-| Rustici Martyris | Rusticus, Märtyrer | 9. Oktober |
-|   |
-| 
+ | | Raphaelis Archangeli | Raphael, archangel | 24 October | | Raymundi de Pennafort Confessoris | Raimond of Penafort, confessor | 23 January | | Raymundi Nonnati Confessoris | Raymond Nonnatus, confessor | 31 August | | Remigii Episcopi Confessoris | Remigius, bishop and confessor | 1 October | | Respicii Martyris | Respicius, martyr | 10 November | | Resurrectio Domini | Resurrection of the Lord, Easter | | | Resurrectio Domini, Feria 2. | Easter Monday, Monday after Easter | | | Roberti Bellarmino Episcopi Ecclesiae Doctoris | Robert Bellarmine, bishop and doctor of the church | 13 May | | Rogationum | Rogation days | | | Romani Martyris | Romanus, martyr | 9 August | | Romualdi Abbatis | Romuald, abbot | 7 February | | Rorate, Dominica | Sunday Rorate, 4th Sunday in Advent | | | Rosae a S Maria Virginis Limae | Rose of Lima, virgin | 30 August | | Rufinae et Secundae Virginum Martyrum | Rufina and Secunda, virgins and martyrs | 10 July | | Rustici Martyris | Rusticus, martyr | 9 October | | | |
 ### S
- |
-| Sabbae Abbatis | Sabbas Abt | 5. Dezember |
-| Sabbato Sancto | Karsamstag | |
-| Sabinae Martyris | Sabina, Märtyrin | 29. August |
-| Sacrum Triduum Paschale | Die drei österlichen Tage | |
-| Saturnini Martyris | Saturninus Märtyrer | 29. November |
-| Scholasticae Virginis | Scholastika, Jungfrau | 10. Februar |
-| Sebastiani Martyris | Sebastian, Märtyrer | 20. Januar |
-| Septuagesima | Sonntag Septuagesima | |
-| Sergii Martyris | Sergius, Märtyrer | 7. Oktober |
-| Sexagesima | Sonntag Sexagesima | |
-| Sexagesima, Feria 5. post | Donnerstag nach dem Sonntag Sexagesima | |
-| Sigismundi Martyris | Sigismund Märtyrer | 1. Mai |
-| Silvestri I. Papae Confessoris | Silvester I., Papst und Bekenner | 31. Dezember |
-| Simeonis Episcopi Martyris | Simeon, Bischof und Märtyrer | 18. Februar |
-| Simonis et Judae Apostolorum | Simon und Judas Apostel | 28. Oktober |
-| Simperti Episcopi | Simpert von Augsburg, Bischof | 13. Oktober |
-| Simplicii Martyris | Simplicius, Märtyrer | 29. Juli |
-| Smaragdi Martyris | Smaragdus, Märtyrer | 8. August |
-| Stanislai Episcopi Martyris | Stanislaus, Bischof und Bekenner | 7. Mai |
-| Stanislai Kostkae Confessoris | Stanislaus Kostka, Bekenner | 13. November |
-| Stephani Hungariae Regis Confessoris | Stefan, König von Ungarn und Bekenner | 2. September |
-| Stephani Protomartyris | Stephan erster Märtyrer | 26. Dezember |
-| Stephani Protomartyris, Octava | Oktav von Stephan erster Märtyrer | 5. Januar |
-| Stephani I. Papae Martyris | Stephan I., Papst und Märtyrer | 2. August |
-| Susannae et Tiburtii Martyrum | Susanna und Tiburtius, Märtyrer | 11. August |
-| Symphoriani Martyris | Symphorianus, Märtyrer | 22. August |
-|   |
-| 
+ | | Sabbae Abbatis | Sabbas, abbot | 5 December | | Sabbato Sancto | Holy Saturday | | | Sabinae Martyris | Sabina, martyr | 29 August | | Sacrum Triduum Paschale | Easter Triduum | | | Saturnini Martyris | Saturninus, martyr | 29 November | | Scholasticae Virginis | Scholastica, virgin | 10 February | | Sebastiani Martyris | Sebastian, martyr | 20 January | | Septuagesima | Sunday Septuagesima | | | Sergii Martyris | Sergius, martyr | 7 October | | Sexagesima | Sunday Sexagesima | | | Sexagesima, Feria 5. post | Thursday after Sunday Sexagesima | | | Sigismundi Martyris | Sigismund of Burgundy, martyr | 1 May | | Silvestri I. Papae Confessoris | Sylvester I, pope and confessor | 31 December | | Simeonis Episcopi Martyris | Simeon, bishop and martyr | 18 February | | Simonis et Judae Apostolorum | Simon and Jude, apostles | 28 October | | Simperti Episcopi | Simpert of Augsburg, bishop | 13 October | | Simplicii Martyris | Simplicius, martyr | 29 July | | Smaragdi Martyris | Smaragdus, martyr | 8 August | | Stanislai Episcopi Martyris | Stanislaus, bishop and confessor | 7 May | | Stanislai Kostkae Confessoris | Stanislaus Kostka, confessor | 13 November | | Stephani Hungariae Regis Confessoris | Stephen, king of Hungary and confessor | 2 September | | Stephani Protomartyris | Stephen Protomartyr | 26 December | | Stephani Protomartyris, Octava | Octave of Stephen Protomartyr | 5 January | | Stephani I. Papae Martyris | Stephan I, pope and martyr | 2 August | | Susannae et Tiburtii Martyrum | Susanna and Tiburtius, martyrs | 11 August | | Symphoriani Martyris | Symphorianus, martyr | 22 August | | | |
 ### T
- |
-| Tempore Paschali, Dominicae | Sonntage in der Osterzeit | |
-| Tempus Paschale | Osterzeit | |
-| Tempus Passionis | Passionszeit | |
-| Theclae Virginis Martyris | Thekla, Jungfrau und Märtyrin | 23. September |
-| Theodori Martyris | Theodor von Euchaïata, Märtyrer | 9. November |
-| Theoduli Martyris | Theodul, Märtyrer | 3. Mai |
-| Theresiae a Jesu Infante Virginis | Theresia von Jesus, Jungfrau | 3. Oktober |
-| Theresiae Virginis | Theresia Jungfrau | 15. Oktober |
-| Thomae Apostoli | Thomas, Apostel | 21. Dezember |
-| Thomae Apostoli, Vigilia | Vigil von Apostel Thomas | 20. Dezember |
-| Thomae de Aquino Confessoris Ecclesiae Doctoris | Thomas von Aquin, Bekenner und Kirchenlehrer | 7. März |
-| Thomae de Villanova Episcopi Confessoris | Thomas von Villanova, Bischof und Bekenner | 22. September |
-| Thomae Episcopi Martyris | Thomas, Bischof und Märtyrer | 29. Dezember |
-| Tiburtii Martyris | Tiburtius, Märtyrer | 14. April |
-| Timothei Episcopi Martyris | Timotheus, Bischof und Märtyrer | 24. Januar |
-| Timothei Martyris | Timotheus, Märtyrer | 22. August |
-| Titi Episcopi Confessoris | Titus, Bischof und Bekenner | 6. Februar |
-| Trinitas | Dreifaltigkeit | |
-| Trinitas, Dominica 1. post | 1. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 2. post | 2. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 3. post | 3. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 4. post | 4. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 5. post | 5. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 6. post | 6. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 7. post | 7. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 8. post | 8. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 9. post | 9. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 10. post | 10. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 11. post | 11. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 12. post | 12. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 13. post | 13. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 14. post | 14. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 15. post | 15. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 16. post | 16. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 17. post | 17. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 18. post | 18. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 19. post | 19. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 20. post | 20. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 21. post | 21. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 22. post | 22. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 23. post | 23. Sonntag nach Dreifaltigkeit | |
-| Trinitas, Dominica 24. post | 24. Sonntag nach Dreifaltigkeit | |
-| Tryphonis Martyris | Trypho, Märtyrer | 10. November |
-|   |
-| 
+ | | Tempore Paschali, Dominicae | Sundays in Eastertide | | | Tempus Paschale | Eastertide | | | Tempus Passionis | Passiontide | | | Theclae Virginis Martyris | Thecla, virgin and martyr | 23 September | | Theodori Martyris | Theodore, martyr | 9 November | | Theoduli Martyris | Theodulus, martyr | 3 May | | Theresiae a Jesu Infante Virginis | Teresa of Jesus, virgin | 3 October | | Theresiae Virginis | Teresa of Ãvila, virgin | 15 October | | Thomae Apostoli | Thomas, apostle | 21 December | | Thomae Apostoli, Vigilia | Vigil of apostle Thomas | 20 December | | Thomae de Aquino Confessoris Ecclesiae Doctoris | Thomas Aquinas, confessor and doctor of the church | 7 March | | Thomae de Villanova Episcopi Confessoris | Thomas of Villanova, bishop and confessor | 22 September | | Thomae Episcopi Martyris | Thomas, bishop and martyr | 29 December | | Tiburtii Martyris | Tiburtius, martyr | 14 April | | Timothei Episcopi Martyris | Timothy, bishop and martyr | 24 January | | Timothei Martyris | Timothy, martyr | 22 August | | Titi Episcopi Confessoris | Titus, bishop and confessor | 6 February | | Trinitas | Trinity | | | Trinitas, Dominica 1. post | 1st Sunday after Trinity | | | Trinitas, Dominica 2. post | 2nd Sunday after Trinity | | | Trinitas, Dominica 3. post | 3rd Sunday after Trinity | | | Trinitas, Dominica 4. post | 4th Sunday after Trinity | | | Trinitas, Dominica 5. post | 5th Sunday after Trinity | | | Trinitas, Dominica 6. post | 6th Sunday after Trinity | | | Trinitas, Dominica 7. post | 7th Sunday after Trinity | | | Trinitas, Dominica 8. post | 8th Sunday after Trinity | | | Trinitas, Dominica 9. post | 9th Sunday after Trinity | | | Trinitas, Dominica 10. post | 10th Sunday after Trinity | | | Trinitas, Dominica 11. post | 11th Sunday after Trinity | | | Trinitas, Dominica 12. post | 12th Sunday after Trinity | | | Trinitas, Dominica 13. post | 13th Sunday after Trinity | | | Trinitas, Dominica 14. post | 14th Sunday after Trinity | | | Trinitas, Dominica 15. post | 15th Sunday after Trinity | | | Trinitas, Dominica 16. post | 16th Sunday after Trinity | | | Trinitas, Dominica 17. post | 17th Sunday after Trinity | | | Trinitas, Dominica 18. post | 18th Sunday after Trinity | | | Trinitas, Dominica 19. post | 19th Sunday after Trinity | | | Trinitas, Dominica 20. post | 20th Sunday after Trinity | | | Trinitas, Dominica 21. post | 21th Sunday after Trinity | | | Trinitas, Dominica 22. post | 22th Sunday after Trinity | | | Trinitas, Dominica 23. post | 23th Sunday after Trinity | | | Trinitas, Dominica 24. post | 24th Sunday after Trinity | | | Tryphonis Martyris | Tryphon, martyr | 10 November | | | |
 ### U
- |
-| Ubaldi Episcopi Confessoris | Ubald von Gubbio, Bischof und Bekenner | 16. Mai |
-| Uldarici Episcopi | Ulrich, Bischof von Augsburg | 4. Juli |
-| Urbani I. Papae Martyris | Urban I., Papst und Märtyrer | 25. Mai |
-| Ursi, Victoris et Sociorum Martyrum | Urs, Viktor und Gefährten, Märtyrer | 30. September |
-| Ursulae et Sociorum Virginum Martyrum | Ursula und Gefährtinnen, Märtyrinnen | 21. Oktober |
-|   |
-| 
+ | | Ubaldi Episcopi Confessoris | Ubald of Gubbio, bishop and confessor | 16 May | | Uldarici Episcopi | Ulrich of Augsburg, bishop | 4 July | | Urbani I. Papae Martyris | Urban I, pope and martyr | 25 May | | Ursi, Victoris et Sociorum Martyrum | Urs, Victor and companions, martyrs | 30 September | | Ursulae et Sociorum Virginum Martyrum | Ursula and companions, martyrs | 21 October | | | |
 ### V
- |
-| Valentini Presbyteri Martyris | Valentinus, Priester und Märtyrer | 14. Februar |
-| Valeriani Martyris | Valerianus, Märtyrer | 14. April |
-| Venantii Martyris | Venantius, Märtyrer | 18. Mai |
-| Veronicae de Julianis Virginis | Veronika Giuliani, Jungfrau | 9. Juli |
-| Via crucis | Kreuzweg | |
-| Victoris I. Papae Martyris | Viktor I., Papst und Märtyrer | 28. Juli |
-| Vincentii a Paulo Confessoris | Vinzenz von Paul, Bekenner | 19. Juli |
-| Vincentii et Anastasii Martyrum | Vinzenz und Anastasius, Märtyrer | 22. Januar |
-| Vincentii Ferrerii Confessoris | Vinzenz Ferrer, Bekenner | 5. April |
-| Virgilii Episcopi | Virgilius von Salzburg, Bischof | 24. September |
-| Vitalis Martyris | Vitalis, Märtyrer | 4. November |
-| Viti et Sociorum Martyrum | Vitus und Gefährten, Märtyrer | 15. Juni |
-|   |
-| 
+ | | Valentini Presbyteri Martyris | Valentine, priest and martyr | 14 February | | Valeriani Martyris | Valerian, martyr | 14 April | | Venantii Martyris | Venantius, martyr | 18 May | | Veronicae de Julianis Virginis | Veronica Giuliani, virgin | 9 July | | Via crucis | Way of the cross | | | Victoris I. Papae Martyris | Victor I, pope and martyr | 28 July | | Vincentii a Paulo Confessoris | Vincent de Paul, confessor | 19 July | | Vincentii et Anastasii Martyrum | Vincent and Anastasius, martyrs | 22 January | | Vincentii Ferrerii Confessoris | Vincent Ferrer, confessor | 5 April | | Virgilii Episcopi | Vergilius of Salzburg, bishop | 24 September | | Vitalis Martyris | Vitalis, martyr | 4 November | | Viti et Sociorum Martyrum | Vitus and companions, martyrs | 15 June | | | |
 ### W
- |
-| Walburgae Abbatissae | Walburga, Äbtissin | 25. Februar |
-| Wenceslai Ducis Martyris | Wenzel von Böhmen, Märtyrer | 28. September |
-| Wicterpi Episcopi | Wikterp von Augsburg, Bischof | 18. April |
-| Wilibaldi Episcopi | Willibald, Bischof | 7. Juli |
-|   |
-| 
+ | | Walburgae Abbatissae | Walburga, abbess | 25 February | | Wenceslai Ducis Martyris | Wenceslaus, martyr | 28 September | | Wicterpi Episcopi | Wicterp of Augsburg, bishop | 18 April | | Wilibaldi Episcopi | Willibald, bishop | 7 July | | | |
 ### X-Z
- |
-| Xysti II et Sociorum Martyrum | Xystus II., und Gefährten, Märtyrer | 6. August |
-| Zephyrini Papae Martyris | Zephyrinus, Papst und Märtyrer | 26. August |
+ | | Xysti II et Sociorum Martyrum | Xystus II and companions, martyrs | 6 August | | Zephyrini Papae Martyris | Zephyrinus, pope and martyr | 26 August |
 
-## Hilfe zur Transponierung von Instrumenten
+## Help for transposing instruments
 
-| **Stimmung** | **Instrumente** | **Transposition ausgehend  
- a) von Notierung  
- b) vom Klang **|** Ton c'   
-erklingt   
-als **|** Ton c'   
-wird   
-notiert** |
-| | | | | |
-| in C (hoch) | Pikkoloflöte,  
-Glockenspiel, Celesta | a) Klang eine reine Oktave höher  
- b) Notierung eine reine Oktave tiefer | c | c'' |
-| | | | | |
-| in Es (hoch) | Kleine Klarinette | a) Klang eine kleine Terz höher  
- b) Notierung eine kleine Terz tiefer | a | es' |
-| | | | | |
-| in D (hoch) | Kleine Trompete | a) Klang eine grosse Sekunde höher  
- b) Notierung eine grosse Sekunde tiefer | b | d' |
-| | | | | |
-| in C | alle nicht  
-transponierenden  
-Instrumente (z. B.   
-Violine, Klavier,  
-Flöte, Posaune etc. | a) Klang wie Notierung  
- b) Notierung wie Klang | c' | c' |
-| | | | | |
-| in B | Trompete, Flügelhorn,   
-Klarinette,   
-Sopransaxophon | a) Klang eine grosse Sekunde tiefer  
- b) Notierung eine grosse Sekunde höher | d' | b |
-| | | | | |
-| in A | Klarinette | a) Klang eine kleine Terz tiefer  
- b) Notierung eine kleine Terz höher | es' | a |
-| | | | | |
-| in G | Altflöte | a) Klang eine reine Quarte tiefer  
- b) Notierung eine reine Quarte höher | f' | g |
-| | | | | |
-| in F | Horn,   
-Englisch Horn | a) Klang eine reine Quinte tiefer  
- b) Notierung eine reine Quinte höher | g' | f |
-| | | | | |
-| in Es | Altsaxophon,   
-Horn, Althorn,   
-Es-Trompete | a) Klang eine grosse Sexte tiefer  
- b) Notierung eine grosse Sexte höher | a' | es |
-| | | | | |
-| in C (tief) | Gitarre, Laute,   
-Bassgitarre,   
-Kontrabass,   
-Kontrafagott | a) Klang eine reine Oktave tiefer  
- b) Notierung eine reine Oktave höher | c'' | c |
-| | | | | |
-| in B (tief) | Tenorhorn,   
-Tenorsaxophon,   
-Bassklarinette,   
-Basstrompete | a) Klang eine grosse None tiefer  
- b) Notierung eine grosse None höher | d'' | b, |
-| | | | | |
-| in Es (tief) | Baritonsaxophon | a) Klang eine grosse Dezime tiefer  
- b) Notierung eine grosse Dezime höher | a'' | es, |
+| **Tuning** | **Instruments** | **Transposition, with respect to  
+a) notation  
+b) sounding pitch **|** Tone c'   
+sounds   
+as **|** Tone c'   
+is   
+notated** | | | | | | | | in C (high) | piccolo flute,  
+glockenspiel, celesta | a) sound a perfect octave higher  
+b) notation a perfect octave lower | c | c'' | | | | | | | | in E flat (high) | sopranino clarinet | a) sound a minor third higher  
+b) notation a minor third lower | a | e' flat | | | | | | | | in D (high) | trumpet | a) sound a major second higher  
+b) notation a major second lower | b flat | d' | | | | | | | | in C | all non-  
+transposing  
+instruments (e.g.  
+violin, piano,  
+flute, trombone, etc. | a) sound as notation  
+b) notation as sound | c' | c' | | | | | | | | in B flat | trumpet, Trompete, flugelhorn,   
+clarinet,   
+soprano saxophone | a) sound a major second lower  
+b) notation a major second higher | d' | b flat | | | | | | | | in A | clarinet | a) sound a minor third lower  
+b) notation a minor third higher | e' flat | a | | | | | | | | in G | alto flute | a) sound a perfect fourth lower  
+b) notation a perfect fourth higher | f' | g | | | | | | | | in F | French horn,   
+English horn | a) sound a perfect fifth lower  
+b) notation a perfect fifth higher | g' | f | | | | | | | | in E flat | also saxophone,   
+French horn, alto horn,   
+trumpet in E flat | a) sound a major sixth lower  
+b) notation a major sixth higher | a' | e flat | | | | | | | | in C (tief) | guitar, lute,   
+bass guitar,   
+double bass,   
+double bassoon | a) sound a perfect octave lower  
+b) notation a perfect octave higher | c'' | c | | | | | | | | in B flat (low) | tenor horn,   
+tenor saxophone,   
+bass clarinet,   
+bass trumpet | a) sound a major ninth lower  
+b) notation a major ninth higher | d'' | b, flat | | | | | | | | in E flat (low) | baritone saxophone | a) sound a major tenth lower  
+b) notation a major tenth higher | a'' | e, flat |
