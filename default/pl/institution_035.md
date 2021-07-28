@@ -1,3 +1,3 @@
-**Kod GND (MARC 035)**
+**GND code (MARC 035)**
 
-Wprowadzić informację o identyifikatorze zgodnie z GND (Gemeinsame Normdatei, Zintergrowany Plik Autorytatywny). Instytucja może posiadać kilka kodów. Kody należy pobrać ze strony internetowej Deutsche Nationalbibliothek: http//www.dnb.de/
+Enter the identifier information in accordance with GND (Gemeinsame Normdatei, the Integrated Authority File). An institution can have several codes. Take the codes from the website of the Deutsche Nationalbibliothek: http//www.dnb.de/
