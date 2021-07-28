@@ -1,13 +1,13 @@
-#### **Date (548; registro ****RDA [rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086))**
+**Chronological term (548;** **RDA registry [rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086))**
 
-  
 
-**Data (548 $a)**
 
-Inserisci l'anno in cui l'opera è stata composta.
+**Date (548 $a)**
 
-  
+Enter the year the work was composed.
 
-**Relazione (548 $i)**
 
-Seleziona  **Data di origine**  (**Date of origin)** dal menu a tendina.
+
+**Type of relationship (548 $i)**
+
+Select **Date of origin** from the drop-down menu.
