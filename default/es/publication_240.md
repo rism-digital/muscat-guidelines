@@ -1,33 +1,35 @@
-### Título del ítem (240)
+### **Title of item (240)**
 
-**Campo requerido.**
+**Required field.**
 
-#### Título del ítem (240 $a)  
+####
+**Title of item (240 $a)**
 
-Introduzca el título del ítem, incluidos los subtítulos. Las traducciones del título pueden ir en el campo **Título adicional (730).** Las reseñas de libros se pueden indicar con el prefijo [reseña de:] y el nombre del ítem.
+Enter the title of the item, including subtitles. Translations of the title can go in the field **Additional title (730)**. Book reviews can be indicated by the prefix [review of:] and the name of the item.
 
-  
+####
+**Category (240 $g)**
 
-#### Categoría (240 $g)
+Select the category that describes the publication. Choose from:
 
-Seleccione la categoría que corresponda a la publicación. Elija una de las siguientes:
+- **Bibliography**
+- **Catalog** : other catalogs, includes catalogs of collections or library holdings
+- **Catalog of works** : a catalog of a composer that does not include incipits
+- **Collective catalog** : catalogs that include works by more than one composer
+- **Encyclopedia**
+- **Music edition** : a modern edition or a critical edition of a musical work
+- **Other** : includes all other non-catalog, non-encyclopedia publications, such as articles, essays, chapters, biographies, cultural histories, etc.
+- **Thematic catalog** : a catalog of a composer that includes incipits
 
-- **Bibliografía**
-- **Catálogo** : otros catálogos, incluye catálogos de colecciones o fondos de biblioteca
-- **Catálogo de obras** : un catálogo de un compositor que no incluye incipits
-- **Catálogo colectivo** : catálogos que incluyen obras de más de un compositor
-- **Enciclopedia**
-- **Edición musical** : una edición moderna o una edición crítica de una obra musical
-- **Otros** : incluye todas las demás publicaciones por fuera de los catálogos y las enciclopedias, como artículos, ensayos, capítulos, biografías, historias culturales, etc.
-- **Catálogo temático** : un catálogo de un compositor que incluye incipits
 
-#### Tipo de publicación (245 $h)
+####
+**Type of publication (245 $h)**
 
-Seleccione el tipo de publicación de la siguiente lista:
+Select the type of publication from the following list:
 
-- **Artículo/capítulo**
-- **Monografía** : una publicacion individual sobre un solo tema (comprende la mayoría de los libros).
-- **Periódico** : una publicación científica, periódico, revista
-- **Serie** : se utiliza cuando se introducen los nombres de las series
-- **Volumen en una serie**
-- **Anuario**
+- **Article/chapter**
+- **Monograph** : a single publication published on a single topic (includes most books)
+- **Periodical** : a journal, newspaper, magazine
+- **Series** : this is used when you enter names of series
+- **Volume in a series**
+- **Yearbook**
