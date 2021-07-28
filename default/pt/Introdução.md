@@ -1,0 +1,13 @@
+Muscat é o programa oferecido pelo RISM para Grupos de Trabalho e contribuidores, gratuitamente disponível para todos os interessados. Ele permite o acesso direto à base de dados do RISM, administrada pela Biblioteca Estadual de Berlim [Staatsbibliothek zu Berlin, Preußischer Kulturbesitz]. Para acessar a base de dados, você precisa de um nome e uma senha para _login_, disponibilizados pela Redação Central do RISM [RISM Zentralredaktion]. O Muscat auxilia a descrever as fontes de acordo com as Diretrizes do RISM, que estão contidas neste documento.
+
+O Muscat é um sistema baseado em MARC que foi desenvolvido conjuntamente pelo RISM-Suíça e pela Redação Central do RISM.
+
+Consulte os conteúdos no sumário à direita para uma visão geral. A **Seção**  **2 – Catalogando fontes** lista as diretrizes na ordem em que aparecem no Muscat. Ao trabalhar com o Muscat, você também encontrará as diretrizes para cada campo ligadas ao seu respectivo campo por um sinal de interrogação. Exemplos estão sempre incluídos ao longo das Diretrizes. Caso alguma coisa não esteja clara ou você perceba inconsistências, não hesite em entrar em contato com a Redação Central do RISM: contact@rism.info.
+
+As seções intermediárias (3-6) explicam como usar o programa (funções gerais, modelos, como catalogar certos formatos). Elas também oferecem várias listas contendo vocabulário e abreviaturas normalizadas para uso em áreas como o título diplomático, cabeçalhos de assunto e festas litúrgicas. Além disso, você encontrará uma tabela de instrumentos transpositores para auxiliar na inclusão de _incipits_.
+
+Ao final (Seção 7) há um índice de todos os campos MARC utilizados no Muscat, ordenados pelo rótulo MARC21. Estes campos também estão ligados às suas partes correspondentes neste documento.
+
+Visite [RISM's Muscat page](http://www.rism.info/en/community/muscat.html) para mais informações sobre o Muscat.
+
+As diretrizes são mantidas pela Redação Central do RISM em Frankfurt, Alemanha. Jennifer Ward (jennifer.ward@rism.info) mantém a versão em Inglês e Martina Falletta (martina.falletta@rism.info) mantém a versão em Alemão. Gostaríamos de estender nossa gratidão aos nossos tradutores: Claudio Bacciagaluppi (Italiano e Francês), Laurent Pugin (Francês), André Guerra Cotta (Português), John Lazos e Oliver Schöner (Espanhol). Muito obrigado por traduzir e tornar o Muscat mais facilmente acessível para nossos colegas mundialmente.

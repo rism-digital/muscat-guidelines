@@ -1,0 +1,3 @@
+Für manche Felder werden englische Ausdrücke und Begriffe verwendet. Die Felder sind entsprechend gekennzeichnet.   
+
+Für alle anderen Felder können die Katalogisierungssprache deutsch, englisch, französisch, italienisch oder spanisch gewählt werden. Bemerkungen können auch in einer anderen Sprache verfasst werden, sofern eine Übersetzung in eine der offiziellen Sprachen vorhanden ist. Wenn es in den Richtlinien "in einer der Katalogisierungssprachen" heißt, kann eine der fünf Sprachen oder eine andere plus Übersetzung in eine der fünf Sprachen ausgewählt werden.

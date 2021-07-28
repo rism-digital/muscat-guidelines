@@ -1,0 +1,3 @@
+#### Powiązana instytucja (510 $a)
+
+Pole to idzie w parze z polem **Dodatkowe informacje biograficzne (678)**. Jeśli dodatkowe informacje biograficzne na temat danej osoby znajdują się w źródle muzycznym, zwłaszcza jeśli dotyczą one informacji, które nie są łatwo dostępne w innych źródłach referencyjnych, w polu **Dodatkowe informacje biograficzne (678)** wpisuje się cytację z tegoż źródła muzycznego i siglum biblioteki je przechowującej. Pole połączono linkiem z plikiem autorytatywnym **Instytucje**.
