@@ -1,4 +1,4 @@
-#### **Imię i nazwisko (700)**
+#### **Personal names (700)**
 
-#### 
-Podać imię i nazwisko osoby związanej z instytucją. Na przykład, w przypadku zbiorów prywatnych można wybrać nazwę właściciela.
+####
+Enter the name of the person related to the institution. For example, with private collections you may select the name of the owner.
