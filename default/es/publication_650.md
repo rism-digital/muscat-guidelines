@@ -1,11 +1,11 @@
-#### **Descriptores**  (650 $a)
+#### **Subject heading (650 $a)**
 
-Introduzca un descriptor o una palabra clave que ayude a describir los contenidos del ítem. Introduzca los descriptores especialmente si el contenido del ítem no resulta obvio a partir del título. Este campo está vinculado al registro de autoridad de **Descriptores**. 
+####
+Enter a subject heading or keyword that helps to describe the contents of the item. Enter subject headings especially if the contents of the item are not obvious from the title. This field is linked to the **Subject headings** authority file.
 
-Las ubicaciones geográficas se ingresan en el campo **Lugar relacionado (651).**
+Geographic locations are entered in the field **Related place (651)**.
 
-_Ejemplos:_  
-
+_Examples:_  
 Instruments   
 Madrigals   
 Schriftsteller   
