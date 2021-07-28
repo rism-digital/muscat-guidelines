@@ -1,0 +1,127 @@
+#
+# Your Crowdin credentials
+#
+"project_id" : "2"
+"api_token" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJ3UUVxdmhVM3ZMT2EyWGljbVV5VCIsImp0aSI6IjRjNjc1NjJhYTAxNzRmM2Y3YjRmMTYyMmExMTJjMjgxMzNjYjgxYTg2MDVjZjQ0ZGE2ZDBkMjE1NmUwNWJjNGY2MzM0MDVlMjg1MjI0MjNhIiwiaWF0IjoxNjI3NDY0NjMyLCJuYmYiOjE2Mjc0NjQ2MzIsImV4cCI6MTYzMDA1NjYzMiwic3ViIjoiNCIsImRvbWFpbiI6InJpc20iLCJzY29wZXMiOlsicHJvamVjdCJdLCJhc3NvY2lhdGlvbnMiOlsiKiJdLCJzZXNzaW9uIjowfQ.CkjdF5kJX0f_sVLuaVxoz6xDKaz6p5Dhbr6cihFk5yn09C6TGSJv4SqH5YpRW6rzG81t8LnfCLX9P9vLLGajZUppKQS3Xjq57FFbdc0XShrQ8PGgB56cK9_oOPoh9qUVStXCxvyPIZDCZqQM-ZjYrq1i_c9ZptzG0a4uORfLRG3_VFsL3Hsk8ZyxJBGaFB-T1NUsEkpm-a82TqUWBZmKLQwp20wHrmxGOBCgJnainSnL5BcmO-obRrtdGpOpQOYkKNWh1XOc8qgbNFfe-Qj3tIViKow7deWNEOmcyhnlR-ob89rILdhfJW2eXlmq2ocmgyroV87N_tu95B4Ra5yBKrjcQtbbDGGlI2w8dNS8_KPhPdxvhUtaRl5K6h6fPeURZKvHcIAjHbvAH3MLf38REdUyyeB1aIaT4nG1ITSutauohgxRhGMR26gSvYaZ_Y_NarW9IDtryBxLTljUKRF19Y67vHnIlGr_ZO8mHsxW_4v36i_JobLZ6qD7oM02m84Mpz4PLIYxfUvoVLXpImD-WX45lGafGOnSQOUQnxul6VmqvhfbJusuOTqDDn9bNS-1-VHKvs_dE6X7PTnNCqo4e7oWNwS9dM4DwjR40XaaQHgtv2i9-Z0dJM34pm5tJm3Mn7rFoFxZkueAs6uR3wOsc12BfwgnJ4S0RYR5iWdpMDI"
+"base_path" : "."
+"base_url" : "https://rism.crowdin.com"
+
+#
+# Choose file structure in Crowdin
+# e.g. true or false
+#
+"preserve_hierarchy": true
+
+#
+# Files configuration
+#
+files: [
+ {
+  #
+  # Source files filter
+  # e.g. "/resources/en/*.json"
+  #
+  "source" : "",
+
+  #
+  # Where translations will be placed
+  # e.g. "/resources/%two_letters_code%/%original_file_name%"
+  #
+  "translation" : "",
+
+  #
+  # Files or directories for ignore
+  # e.g. ["/**/?.txt", "/**/[0-9].txt", "/**/*\?*.txt"]
+  #
+  #"ignore" : [],
+
+  #
+  # The dest allows you to specify a file name in Crowdin
+  # e.g. "/messages.json"
+  #
+  #"dest" : "",
+
+  #
+  # File type
+  # e.g. "json"
+  #
+  #"type" : "",
+
+  #
+  # The parameter "update_option" is optional. If it is not set, after the files update the translations for changed strings will be removed. Use to fix typos and for minor changes in the source strings
+  # e.g. "update_as_unapproved" or "update_without_changes"
+  #
+  #"update_option" : "",
+
+  #
+  # Start block (for XML only)
+  #
+
+  #
+  # Defines whether to translate tags attributes.
+  # e.g. 0 or 1  (Default is 1)
+  #
+  # "translate_attributes" : 1,
+
+  #
+  # Defines whether to translate texts placed inside the tags.
+  # e.g. 0 or 1 (Default is 1)
+  #
+  # "translate_content" : 1,
+
+  #
+  # This is an array of strings, where each item is the XPaths to DOM element that should be imported
+  # e.g. ["/content/text", "/content/text[@value]"]
+  #
+  # "translatable_elements" : [],
+
+  #
+  # Defines whether to split long texts into smaller text segments
+  # e.g. 0 or 1 (Default is 1)
+  #
+  # "content_segmentation" : 1,
+
+  #
+  # End block (for XML only)
+  #
+
+  #
+  # Start .properties block
+  #
+
+  #
+  # Defines whether single quote should be escaped by another single quote or backslash in exported translations
+  # e.g. 0 or 1 or 2 or 3 (Default is 3)
+  # 0 - do not escape single quote;
+  # 1 - escape single quote by another single quote;
+  # 2 - escape single quote by backslash;
+  # 3 - escape single quote by another single quote only in strings containing variables ( {0} ).
+  #
+  # "escape_quotes" : 3,
+
+  #
+  # Defines whether any special characters (=, :, ! and #) should be escaped by backslash in exported translations.
+  # e.g. 0 or 1 (Default is 0)
+  # 0 - do not escape special characters
+  # 1 - escape special characters by a backslash
+  #
+  # "escape_special_characters": 0
+  #
+
+  #
+  # End .properties block
+  #
+
+  #
+  # Does the first line contain header?
+  # e.g. true or false
+  #
+  #"first_line_contains_header" : true,
+
+  #
+  # for spreadsheets
+  # e.g. "identifier,source_phrase,context,uk,ru,fr"
+  #
+  # "scheme" : "",
+ }
+]
