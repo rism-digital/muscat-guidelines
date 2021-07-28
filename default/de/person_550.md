@@ -1,2 +1,3 @@
-#### Sachbegriff (550)
-Es werden Angaben zu Beruf oder Funktion (Interpret, Widmungsträger etc.) der Person gemacht. Die Angabe erfolgt grundsätzlich auf Englisch.
+#### Profession or function (550 $a)
+
+Enter, in English, the profession or function that the person in question plays in connection to musical sources.
