@@ -1,3 +1,3 @@
-#### Materiał uzupełniający (525 $a) 
+### Supplementary material (525 $a)
 
-Należy wymienić materiały towarzyszące źródłu, takie jak uwagi programowe, recenzje itd. Należy stosować własny język katalgowania.
+Mention material that accompanies the source, such as program notes, reviews, etc. Enter using your cataloging language.
