@@ -1,9 +1,8 @@
-#### Ausgabebezeichnung (250)
-  
-_Beispiele:_  
+#### Edition statement (250 $a)
+Enter the edition statement as given on the title page.
 
-1. Auflage
+_Examples:_
 
-Partitur, zugleich Orgelstimme  
-New ed., rev. and enl.  
-Urtextausgabe
+1. Auflage Partitur, zugleich Orgelstimme  
+   New ed., rev. and enl.  
+   Urtextausgabe
