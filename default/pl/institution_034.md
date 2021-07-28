@@ -1,10 +1,10 @@
-**Lokalizacja (034)**
+**Location (034)**
 
-Wprowadzić współrzędne (szerokość i długość geograficzną) instytucji. Na Mapach Google współrzędne wyświetlają się po kliknięciu prawym przyciskiem myszy na instytucję i wybraniu opcji „Co tu jest”.
+Enter the coordinates (latitude and longitude) of the institution here. On Google Maps, the coordinates are displayed when you right-click on the institution and select "What's here."
 
-_Przykłady_:  
-Długość geograficzna: -87.6735541  
-Szerokość geograficzna: 42.0515515
+_Examples_:  
+Longitude: -87.6735541  
+Latitude: 42.0515515
 
-Długość geograficzna: 8.652714  
-Szerokość geograficzna: 50.120565
+Longitude: 8.652714  
+Latitude: 50.120565
