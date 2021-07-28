@@ -1,12 +1,12 @@
-#### **Hasło przedmiotowe (650 $a)**
+#### **Subject heading (650 $a)**
 
-#### 
-Podać hasło przedmiotowe lub słowo kluczowe, które pomoże opisać zawartość danej pozycji. Wprowadzić hasła przedmiotowe szczególnie gdy zawartość obiektu nie wynika z tytułu. Pole połączono linkiem z plikiem autorytatywnym **Hasła przedmiotowe**. 
+####
+Enter a subject heading or keyword that helps to describe the contents of the item. Enter subject headings especially if the contents of the item are not obvious from the title. This field is linked to the **Subject headings** authority file.
 
-Nazwy geograficzne wprowadza się w polu **Powiązane miejsce (651)**.
+Geographic locations are entered in the field **Related place (651)**.
 
-_Przykłady:_  
-Instruments  
-Madrygały  
+_Examples:_  
+Instruments   
+Madrigals   
 Schriftsteller   
 Benediktiner
