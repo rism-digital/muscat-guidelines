@@ -1,21 +1,13 @@
-# **Abreviaturas y conceptos generales**
-
- 
-
+# General abbreviations and concepts
 iSol
 
-- Ejemplo: iSol: vl
+- Example: iSol: vl
 - EN: continuous solo instrument in a work, typically with a separately written-out part (not used for instruments that have extensive solo passages, such as an oboe in a cantata)
-- DE: Nur für Soloinstrumente in Konzerten. 
-- FR: 
+- DE: Nur für Soloinstrumente in Konzerten.
+- FR:
 - IT:
 - PL:
-- PT:
-- ES: instrumento con función solista continua en una obra, normalmente con una parte escrita por separado (no se utiliza para los instrumentos que tienen pasajes solistas extensos, como el oboe en una cantata).
-
- 
-
-vientos-metal
+- PT: brasses
 
 - EN: brass instruments (cor, clno or tr, trb)
 - DE: Blechblasinstrumente
@@ -23,45 +15,31 @@ vientos-metal
 - IT: ottoni
 - PL:
 - PT:
-- ES: instrumentos de metal (cor, clno o tr, trb)
 
-  
-
-cuerdas
+strings
 
 - EN: strings
 - DE: Streichinstrumente
 - FR: cordes
 - IT: archi
-- PL: 
+- PL:
 - PT:
-- ES: cuerdas
 
-  
-
-vientos
+winds
 
 - EN:  winds (brass and woodwind)
 - DE: Blasinstrumente
 - FR: instruments à vent
 - IT: strumenti a fiato
 - PL:
-- PT:
-- ES: vientos (metal y madera)
-
- 
-
-vientos-madera
+- PT: woodwinds
 
 - EN: woodwinds
 - DE: Holzblasinstrumente
 - FR: bois
-- IT: legni 
+- IT: legni
 - PL:
 - PT:
-- ES: vientos-madera
-
- 
 
 orch
 
@@ -71,231 +49,182 @@ orch
 - IT: orchestra
 - PL:
 - PT:
-- ES: orquesta
-
- 
 
  pf (cemb) etc.
 
-- Ejemplos: 
+- Examples:
 
-  - pf (orch) 
+  - pf (orch)
   - T (S)
 - EN: Add alternative scoring possibilities to the original requirements in brackets.
 - DE:
 - FR:
-- ES: añade posibilidades de plantilla/orgánica alternativas a los requerimientos originales entre paréntesis.
 
- 
 
-**Añadidos a cualquier instrumento para indicar un rango**  
+
+**Additions to any instrument to indicate a range**
 
 - EN: Use the following before any instrument to make it:
 - DE: Kann einem Instrument vorangestellt werden:
-- ES: Use los siguientes prefijos antes de cualquier instrumento para hacerlo:
-
- 
 
 s-
 
-- Ejemplo: s-saxofono
+- Example: s-saxofono
 - EN: soprano
 - DE: Sopran
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: soprano
-
- 
 
 a-
 
-- Ejemplo: a-trb
+- Example: a-trb
 - EN: alto
 - DE: Alt
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: alto
-
- 
 
  contra-
 
-- Ejemplo: contra-fag
-- EN: contra
+- Example: contra-fag
+- EN: contra- or counter-
 - DE: Kontra
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: contra
-
- 
 
 contra-a-
 
-- Ejemplo: contra-a-cl (in E|b)
+- Example: contra-a-cl (in E|b)
 - EN: contralto
 - DE: Kontra-Alt
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: contralto
-
- 
 
 t-
 
-- Ejemplo: t-trb
+- Example: t-trb
 - EN: tenor
 - DE: Tenor
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: tenor
-
- 
 
  bariton-
 
-- Ejemplo: bariton-trb
+- Example: bariton-trb
 - EN: baritone
 - DE: Bariton
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: barítono
-
- 
 
 b-
 
-- Ejemplo: b-trb
+- Example: b-trb
 - EN: bass
 - DE: Bass
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: bajo
 
- 
 
-**Añadidos a cualquier instrumento para indicar un tipo**
+**Additions to any instrument to indicate a type**
 
 - EN: Use the following after an instrument
 - DE: Kann einem Instrument angehängt werden.
-- ES: usar las siguientes abreviaturas de manera pospuesta al instrumento.
-
- 
 
 ad lib
 
-- Ejemplo: ob ad lib
+- Example: ob ad lib
 - EN: ad libitum
 - DE: ad libitum
 - FR: ad libitum
 - IT: ad libitum
 - PL:
 - PT:
-- ES: _ad libitum_
-
- 
 
 conc
 
-- Ejemplo: vl conc
+- Example: vl conc
 - EN: concertino, concertato
-- DE: concertino, concertato 
+- DE: concertino, concertato
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: _concertino, concertato_
-
- 
 
 d'amore
 
-- Ejemplo: ob d'amore
+- Example: ob d'amore
 - EN: d'amore
 - DE: d'amore
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: _d'amore_
-
- 
 
 .picc
 
-- Ejemplo: fl.picc
+- Example: fl.picc
 - EN: piccolo
 - DE: piccolo
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: _piccolo_
-
- 
 
 princ
 
-- Ejemplo: vl princ
+- Example: vl princ
 - EN: principale (i.e. concertante)
 - DE: principale
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: _principale_ (i.e. concertante)
-
- 
 
 rip
 
-- Ejemplo: vl rip
+- Example: vl rip
 - EN: ripieno
 - DE: ripieno
 - FR:
 - IT:
 - PL:
 - PT:
-- ES: _ripieno_
 
- 
-
- 
-
-**Adiciones a cualquier instrumento de viento para indicar una afinación diferente a la afinación estándar**
+**Additions to any wind instrument to indicate a tuning other than standard tuning**  
+**Bezeichnet die Stimmung eines Blasinstrumentes**
 
 in A
 
-- Ejemplo: cl in A
+- Example: cl in A
 
 in E|b
 
-- Ejemplo: cor in E|b
+- Example: cor in E|b
 
 _etc._
 
- 
 
- 
 
-**Tipos o números de instrumentos no especificados o desconocidos**
+
+
+**Unspecified or unknown types or numbers of instruments**
 
 (X)
 
-- Ejemplo:
+- Example:
 
   - vl (X)
   - V (X)
@@ -305,9 +234,6 @@ _etc._
 - IT:
 - PL:
 - PT:
-- ES: un número no especificado
-
- 
 
 dessus
 
@@ -317,9 +243,6 @@ dessus
 - IT: strumentale superiore
 - PL:
 - PT:
-- ES: dessus, soprano (instrumental)
-
- 
 
 hautecontre
 
@@ -329,9 +252,6 @@ hautecontre
 - IT: haute-contre, strumento contralto
 - PL:
 - PT:
-- ES: hautecontre (normalmente un instrumento alto no especificado)
-
-  
 
 i
 
@@ -341,9 +261,6 @@ i
 - IT: parte strumentale
 - PL:
 - PT:
-- ES: instrumento desconocido/no especificado, parte instrumental general
-
- 
 
 taille
 
@@ -353,9 +270,6 @@ taille
 - IT: strumento tenore
 - PL:
 - PT:
-- ES: instrumento/parte del tenor
-
- 
 
 treble
 
@@ -365,9 +279,6 @@ treble
 - IT: parte strumentale più acuta nel movimento
 - PL:
 - PT:
-- ES: voz más aguda (instrumento)
-
-  
 
 no further indication
 
@@ -377,9 +288,6 @@ no further indication
 - IT:
 - PL:
 - PT:
-- ES: no hay más detalles disponibles sobre las designaciones de las partes
-
- 
 
 no indication
 
@@ -389,17 +297,10 @@ no indication
 - IT:
 - PL:
 - PT:
-- ES: no se especifica la instrumentación
 
- 
+# Vocal (voice) terms
 
- 
-
- 
-
-**Términos vocales (voz)**
-
-**Voces solistas**
+## Solo voices
 
 S
 
@@ -409,9 +310,6 @@ S
 - IT: soprano (vocale), cantus, discantus
 - PL:
 - PT:
-- EN: _soprano, cantus,_ discanto, _discantus_, tiple (vocal)
-
- 
 
 Mezzo-S
 
@@ -421,9 +319,6 @@ Mezzo-S
 - IT: mezzosoprano (vocale)
 - PL:
 - PT:
-- ES: mezzosoprano (vocal)
-
- 
 
 A
 
@@ -433,9 +328,6 @@ A
 - IT: contralto (vocale)
 - PL:
 - PT:
-- ES: alto (vocal)
-
- 
 
 Contra-A
 
@@ -445,9 +337,6 @@ Contra-A
 - IT: contralto (vocale)
 - PL:
 - PT:
-- ES: contralto (vocal)
-
- 
 
 T
 
@@ -457,9 +346,6 @@ T
 - IT: tenore (vocale)
 - PL:
 - PT:
-- ES: tenor (vocal)
-
- 
 
 Bariton
 
@@ -469,9 +355,6 @@ Bariton
 - IT: baritono (vocale)
 - PL:
 - PT:
-- ES: baritone (vocal)
-
- 
 
 B
 
@@ -481,9 +364,6 @@ B
 - IT: basso (vocale)
 - PL:
 - PT:
-- ES: bajo (vocal)
-
- 
 
 V
 
@@ -493,9 +373,6 @@ V
 - IT: parte vocale
 - PL:
 - PT:
-- ES: voz (vocal), parte vocal solista
-
- 
 
 Dessus
 
@@ -505,9 +382,6 @@ Dessus
 - IT: vocale superiore
 - PL:
 - PT:
-- ES: _dessus_ (vocal, soprano)
-
- 
 
 Sprechstimme
 
@@ -517,9 +391,6 @@ Sprechstimme
 - IT: voce recitante
 - PL:
 - PT:
-- ES: _Sprechstimme,_ recitante, narrador, voz hablada
-
- 
 
 Treble
 
@@ -529,9 +400,6 @@ Treble
 - IT: parte vocale più acuta nel movimento
 - PL:
 - PT:
-- ES: voz más aguda (vocal)
-
- 
 
 V 5
 
@@ -541,11 +409,8 @@ V 5
 - IT: quinta voce
 - PL:
 - PT:
-- ES: quinta voz
 
- 
-
-V 6 
+V 6
 
 - EN: sexta vox, 6th voice (vocal)
 - DE: Sexta Vox
@@ -553,9 +418,6 @@ V 6
 - IT: sesta voce
 - PL:
 - PT:
-- ES: sexta voz
-
- 
 
 Vag
 
@@ -565,13 +427,8 @@ Vag
 - IT:
 - PL:
 - PT:
-- ES: _vagans_ (parte vocal adicional)
 
- 
-
-**Coro**
-
-** **
+## Chorus/Choir
 
 Coro
 
@@ -581,9 +438,6 @@ Coro
 - IT: coro
 - PL:
 - PT:
-- ES: coro
-
- 
 
 Coro S
 
@@ -593,9 +447,6 @@ Coro S
 - IT:
 - PL:
 - PT:
-- ES: parte de soprano en un coro
-
- 
 
 Coro A
 
@@ -605,9 +456,6 @@ Coro A
 - IT:
 - PL:
 - PT:
-- ES: parte de contralto en un coro
-
- 
 
 Coro T
 
@@ -617,9 +465,6 @@ Coro T
 - IT:
 - PL:
 - PT:
-- ES: parte de tenor en un coro
-
- 
 
 Coro B
 
@@ -629,9 +474,6 @@ Coro B
 - IT:
 - PL:
 - PT:
-- ES: parte de bajo en un coro
-
-  
 
 Coro V
 
@@ -641,14 +483,11 @@ Coro V
 - IT:
 - PL:
 - PT:
-- ES: parte coral sin especificar o desconocida
-
- 
 
 Coro 1:  
- Coro 2: _etc._
+Coro 2: _etc._
 
-- Ejemplos:
+- Examples:
 
   - Coro 1: S
   - Coro 1: A
@@ -660,9 +499,6 @@ Coro 1:
 - IT:
 - PL:
 - PT:
-- ES: úselo para diferenciar entre múltiples coros.
-
- 
 
 Coro di fanciulli
 
@@ -672,9 +508,6 @@ Coro di fanciulli
 - IT: coro di fanciulli
 - PL:
 - PT:
-- ES: coro de niños, coro de voces blancas
-
- 
 
 Coro femminile
 
@@ -684,9 +517,6 @@ Coro femminile
 - IT: coro femminile
 - PL:
 - PT:
-- ES: coro femenino
-
- 
 
 Coro maschile
 
@@ -696,11 +526,9 @@ Coro maschile
 - IT: coro maschile
 - PL:
 - PT:
-- ES: coro masculino
 
- 
 
-**Cuerdas**
+# Strings
 
 vl
 
@@ -711,9 +539,6 @@ vl
 - IT: violino
 - PL:
 - PT:
-- ES: violín (no diferenciar entre primer y segundo violín)
-
- 
 
 vl conc
 
@@ -723,9 +548,6 @@ vl conc
 - IT: violino concertino
 - PL:
 - PT:
-- ES: violín concertino
-
- 
 
 vl princ
 
@@ -735,9 +557,6 @@ vl princ
 - IT: violino principale
 - PL:
 - PT:
-- ES: violín principal
-
- 
 
  vl rip
 
@@ -747,9 +566,6 @@ vl princ
 - IT: violino ripieno
 - PL:
 - PT:
-- ES: violín de ripieno
-
- 
 
 vl solo
 
@@ -759,9 +575,6 @@ vl solo
 - IT: violino solo
 - PL:
 - PT:
-- ES: parte de violín solista (mas no para conciertos)
-
- 
 
 vla
 
@@ -772,9 +585,6 @@ vla
 - IT: viola
 - PL:
 - PT:
-- ES: viola
-
- 
 
 a-vla
 
@@ -784,9 +594,6 @@ a-vla
 - IT: viola alto
 - PL:
 - PT:
-- ES: viola alto
-
- 
 
 vlc
 
@@ -797,9 +604,6 @@ vlc
 - IT: violoncello
 - PL:
 - PT:
-- ES: violonchelo
-
- 
 
 cb
 
@@ -809,9 +613,10 @@ cb
 - IT: contrabasso
 - PL:
 - PT:
-- ES: contrabajo
 
- 
+b
+
+- EN: unspecified basso instrument
 
 baryton
 
@@ -822,9 +627,6 @@ baryton
 - IT: viola di bordone
 - PL:
 - PT:
-- ES: _baryton_ (instrumento de cuerda grave)
-
- 
 
 fiddle
 
@@ -834,9 +636,6 @@ fiddle
 - IT: viella, fidula
 - PL:
 - PT:
-- ES: _fiddle, viella, fidula_
-
- 
 
 violetta
 
@@ -846,9 +645,6 @@ violetta
 - IT: violetta
 - PL:
 - PT:
-- ES: _violetta, violetta piccola_ (una viola aguda, también puede significar violín)
-
- 
 
 violetta marina
 
@@ -858,9 +654,6 @@ violetta marina
 - IT: violetta marina
 - PL:
 - PT:
-- ES: _violetta marina_
-
- 
 
 vla basso
 
@@ -868,11 +661,8 @@ vla basso
 - DE: Bassviola
 - FR: basse de viole
 - IT: viola bassa
-- PL: 
+- PL:
 - PT:
-- ES: viola bajo
-
- 
 
 vla bastarda
 
@@ -880,12 +670,9 @@ vla bastarda
 - EN: viola bastarda
 - DE: Viola bastarda
 - FR: viola bastarda
-- IT: viola bastarda 
+- IT: viola bastarda
 - PL:
 - PT:
-- ES: viola bastarda 
-
- 
 
 vla d'amore
 
@@ -895,9 +682,6 @@ vla d'amore
 - IT: viola d'amore
 - PL:
 - PT:
-- ES: viola _d'amore_
-
- 
 
 vla da braccio
 
@@ -907,9 +691,6 @@ vla da braccio
 - IT: viola da braccio
 - PL:
 - PT:
-- ES: viola _da braccio_
-
- 
 
 vla da gamba
 
@@ -920,9 +701,6 @@ vla da gamba
 - IT: viola da gamba
 - PL:
 - PT:
-- ES: viola _da gamba_
-
- 
 
 s-vla da gamba
 
@@ -932,9 +710,6 @@ s-vla da gamba
 - IT: viola da gamba soprano
 - PL:
 - PT:
-- ES: viola _da gamba_ soprano
-
- 
 
 t-vla da gamba
 
@@ -944,9 +719,6 @@ t-vla da gamba
 - IT: viola da gamba tenore
 - PL:
 - PT:
-- ES: viola _da_ _gamba_ tenor
-
- 
 
 b-vla da gamba
 
@@ -956,9 +728,6 @@ b-vla da gamba
 - IT: basso di viola
 - PL:
 - PT:
-- ES: viola _da gamba_ bajo
-
- 
 
 vla pomposa
 
@@ -968,22 +737,16 @@ vla pomposa
 - IT: viola pomposa
 - PL:
 - PT:
-- ES: viola pomposa
-
-   
 
 vlne
 
-- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Violone)    
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Violone)
 - EN: violone (related to double bass)
 - DE: Violone
 - FR: violone
 - IT: violone
 - PL:
 - PT:
-- ES: _violone_, violón
-
- 
 
 strings
 
@@ -993,13 +756,11 @@ strings
 - IT: archi
 - PL:
 - PT:
-- ES: cuerdas (frotadas)
 
- 
 
-**Vientos de madera**
+# Woodwinds
 
-fl 
+fl
 
 - Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_4994)
 - EN: flute, transverse flute (held horizontally, in C)
@@ -1008,9 +769,6 @@ fl
 - IT: flauto (traverso)
 - PL:
 - PT:
-- ES: flauta, flauta traversa o travesera, traverso
-
- 
 
 .picc
 
@@ -1018,25 +776,19 @@ fl
 - EN: piccolo, ottavino
 - DE: Piccoloflöte
 - FR: piccolo
-- IT: flauto piccolo 
-- PL: 
+- IT: flauto piccolo
+- PL:
 - PT:
-- ES: flauta _piccolo_, _ottavino_
-
- 
 
 fl d'amore
 
 - Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_59)
 - EN: flûte d'amour, flauto d'amore (in A or A|b)
 - DE: Flauto d'amore (in A oder A|b)FR: flûte d'amour
--  
+-
 - IT: flauto d'amore
 - PL:
 - PT:
-- ES: flauta _d'amore_
-
- 
 
 fl dolce
 
@@ -1044,23 +796,17 @@ fl dolce
 - DE: Flauto dolce (italienischer Begriff für Blockflöte, meint im 19. Jh. auch die Querflöte)
 - FR: flûte douce
 - IT: flauto dolce
-- PL: 
+- PL:
 - PT:
-- ES: flauta dulce o de pico
-
- 
 
 fl quarto
 
 - EN: flauto quarto (small flute tuned a fourth above a flute)
 - DE: Quartflöte
-- FR: 
+- FR:
 - IT: flauto quarto
-- PL: 
+- PL:
 - PT:
-- ES: _flauto quarto_ (pequeña flauta afinada una cuarta por encima de una flauta en Do)
-
- 
 
 fl terzino
 
@@ -1071,9 +817,6 @@ fl terzino
 - IT: flauto terzino
 - PL:
 - PT:
-- ES: flauta en Mi|b, flauta soprano, flauta de tercera, _tierce flute_ (flauta afinada una tercera menor por encima de la flauta en Do).
-
- 
 
 flautino
 
@@ -1081,24 +824,18 @@ flautino
 - DE: Flautino, Sopraninoblockflöte
 - FR: flautino
 - IT: flautino
-- PL: 
+- PL:
 - PT:
-- ES: _flautino_ (puede referirse a flauta dulce soprano o a un _piccolo_)
-
- 
 
 ob
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_312/oboe)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Oboe) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_312/oboe)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Oboe)
 - EN: oboe (in C)
 - DE: Oboe
 - FR: hautbois
 - IT: oboe
-- PL: 
+- PL:
 - PT:
-- ES: oboe
-
- 
 
 cor inglese
 
@@ -1109,47 +846,35 @@ cor inglese
 - IT: corno inglese
 - PL:
 - PT:
-- ES: cor anglais, corno inglés (en Fa)
-
- 
 
 ob d'amore
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_122791_NL) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_122791_NL)
 - EN: oboe d'amore (in A, a minor third lower than oboe)
 - DE: Oboe d'amore (in A)
 - FR: hautbois d'amour
 - IT: oboe d'amore
-- PL: 
+- PL:
 - PT:
-- ES: oboe _d'amore_ (en La, una tercera menor por debajo del oboe)
-
- 
 
 ob da caccia
 
-- Link: [Link to MIMO ](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0157981/hautbois-de-chasse)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Oboe_da_caccia) 
+- Link: [Link to MIMO ](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0157981/hautbois-de-chasse)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Oboe_da_caccia)
 - EN: oboe da caccia, oboe di silva (a curved oboe, in F)
 - DE: Oboe da caccia (gekrümmte Oboe, in F)
 - FR: hautbois de chasse
 - IT: oboe da caccia
-- PL: 
+- PL:
 - PT:
-- ES: oboe da caccia, oboe di silva (oboe curvo, en Fa)
-
- 
 
 ob grande
 
 - EN: oboe grande, mezzo-soprano oboe (usually in A or B|b)
 - DE: Oboe grande (in Mezzosopranlage, Stimmung in A oder B|b)
 - FR:
-- IT: 
+- IT:
 - PL:
 - PT:
-- ES: oboe grande, oboe mezzo-soprano (normalmente en A o B|b)
-
- 
 
 t-ob
 
@@ -1159,72 +884,54 @@ t-ob
 - IT: oboe tenore
 - PL:
 - PT:
-- ES: oboe tenor
-
- 
 
 cl
 
-- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Clarinet) 
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Clarinet)
 - EN: clarinet (indicate tuning when known)
 - DE: Klarinette (Bitte die Stimmung angeben, wenn sie bekannt ist.)
 - FR: clarinette
 - IT: clarinetto
 - PL:
 - PT:
-- ES: clarinete (indicar la afinación si se la conoce)
 
- 
+b-cl
 
-b-cl           
-
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_99)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Bass_clarinet) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_99)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Bass_clarinet)
 - EN: bass clarinet (in B|b)
 - DE: Bassklarinette (in B|b)
-- FR: clarinette basse 
+- FR: clarinette basse
 - IT: clarinetto basso
-- PL: 
+- PL:
 - PT:
-- ES: clarinete bajo (en B|b)
-
- 
 
 cl in A
 
 - EN: clarinet in A
 - DE: A-Klarinette
-- FR: 
+- FR:
 - IT:
-- PL: 
+- PL:
 - PT:
-- ES: clarinete in La
-
- 
 
 cl in E|b
 
 - EN: E|b clarinet
 - DE: Es-Klarinette
-- FR: 
+- FR:
 - IT:
-- PL: 
+- PL:
 - PT:
-- ES: Clarinete E|b
-
- 
 
 cor di bassetto
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_121182_NL)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Basset_horn) 
-- EN: basset horn (clarinet family) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_121182_NL)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Basset_horn)
+- EN: basset horn (clarinet family)
 - DE: Bassetthorn (in Tenorlage, zur Klarinettenfamilie gehörig)
 - FR: cor de basset
 - IT: corno di bassetto
-- PL: 
+- PL:
 - PT:
-- ES: corno di bassetto (familia del clarinete)
-
- 
 
 chalumeau
 
@@ -1232,11 +939,8 @@ chalumeau
 - DE: Chalumeau (Einfachrohrblattinstrument, Vorläufer der Klarinette)
 - FR: chalumeau
 - IT: salmoè
-- PL: 
+- PL:
 - PT:
-- ES: _chalumeau_ (instrumento de una sola lengüeta, precursor del clarinete)
-
- 
 
 saxofono
 
@@ -1247,35 +951,26 @@ saxofono
 - IT: saxofono, sassofono
 - PL:
 - PT:
-- ES: saxofón. Use el prefijo s-, a-, etc. que corresponda, si conoce el rango.
-
- 
 
 s-saxofono
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0158921/saxophone-soprano)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Soprano_saxophone) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0158921/saxophone-soprano)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Soprano_saxophone)
 - EN: soprano saxophone (in B|b)
 - DE: Sopransaxophon (in B|b)
 - FR: saxophone soprano
 - IT: saxofono/ sassofono soprano
-- PL: 
+- PL:
 - PT:
-- ES: saxofón soprano (en B|b)
-
- 
 
 a-saxofono
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_119359_NL) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_119359_NL)
 - EN: alto saxophone (in E|b)
 - DE: Altsaxophon (in E|b)
 - FR: saxophone alto
-- IT: 
+- IT:
 - PL:
 - PT:
-- ES: saxofón alto (en E|b)
-
- 
 
 t-saxofono
 
@@ -1285,22 +980,13 @@ t-saxofono
 - FR: saxophone ténor
 - IT: saxofono/ sassofono tenore
 - PL:
-- PT:
-- ES: saxofón tenor (en B|b)
-
- 
-
-bariton-saxofono
-
+- PT: bariton-saxofono
 - EN: baritone saxophone
 - DE: Baritonsaxophon
 - FR: saxophone baryton
 - IT: saxofono/ sassofono baritono
-- PL: 
+- PL:
 - PT:
-- ES: saxofón barítono
-
- 
 
 fag
 
@@ -1311,9 +997,6 @@ fag
 - IT: fagotto
 - PL:
 - PT:
-- ES: fagot
-
- 
 
 contra-fag
 
@@ -1321,11 +1004,8 @@ contra-fag
 - DE: Kontrafagott
 - FR: contrebasson
 - IT: controfagotto
-- PL: 
+- PL:
 - PT:
-- ES: contrafagot
-
- 
 
 t-fag
 
@@ -1334,11 +1014,8 @@ t-fag
 - DE: Tenorfagott (in F)
 - FR: basson quinte
 - IT: fagotto tenore
-- PL: 
+- PL:
 - PT:
-- ES: fagot tenor, _tenoron_ (en F)
-
- 
 
 bagpipe
 
@@ -1346,37 +1023,28 @@ bagpipe
 - DE: Dudelsack
 - FR: cornemuse
 - IT: cornamusa
-- PL: 
+- PL:
 - PT:
-- ES: gaita
-
- 
 
 bombarde
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_122213_NL) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_122213_NL)
 - EN: bombardon, bombarde, pommer; alto, tenor, and bass shawm (low woodwind instrument, typically with a double reed, with one key or keyless)
 - DE: Bombarde, Pommer (Doppelrohrblattinstrument)
 - FR: bombarde
 - IT: bombarda
 - PL:
 - PT:
-- ES: _bombardón, bombarde, pommer;_ chirimía alto, tenor y bajo (instrumento de viento-madera bajo, típicamente con una doble lengüeta, con una llave o sin llaves)
-
- 
 
 chirimía
 
-- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Chirimia) 
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Chirimia)
 - EN: chirimía (a type of Spanish shawm, double-reed instrument)
 - DE: Chirimía (Doppelrohrblattinstrument, spanischer Begriff für eine Art Oboe)
 - FR: chirimía
-- IT: 
+- IT:
 - PL:
 - PT:
-- ES: chirimía (típica chirimía española, instrumento de doble lengüeta)
-
- 
 
 ciaramella
 
@@ -1384,49 +1052,37 @@ ciaramella
 - DE: Ciaramella (eine Schalmei, Doppelrohrblattinstrument)
 - FR: chalemie
 - IT: ciaramella
-- PL: 
+- PL:
 - PT:
-- ES: otros tipos de chirimía (pero véase también _piffero_ y _bombarde_ [para el pommer])
-
- 
 
 fiffaro
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0874400/fifre)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Fife_(instrument)) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0874400/fifre)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Fife_(instrument))
 - EN: fife (similar to a piccolo)
 - DE: Querpfeife (hohe Querflöte), Schwegel (in der Volksmusik)
-- FR: fifre 
+- FR: fifre
 - IT: fiffaro
-- PL: 
+- PL:
 - PT:
-- ES: _fife_ (similar a un flautín)
 
- 
-
-ocarina 
+ocarina
 
 - Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_MDMB_311393)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Ocarina)
 - EN: ocarina (round, hollow flute, typically shaped like an elongated egg)
 - DE: Okarina (eine Gefäßflöte)
 - FR: ocarina
 - IT: ocarina
-- PL: 
+- PL:
 - PT:
-- ES: ocarina
-
- 
 
 piffero
 
-- EN: shawm, especially high ones (but see chalumeau); fife; small flute  
+- EN: shawm, especially high ones (but see chalumeau); fife; small flute
 - DE: Piffero (zur Oboenfamilie gehörig)
 - FR: piffero
 - IT: piffero
-- PL: 
+- PL:
 - PT:
-- ES: otros tipos de chirimía, especialmente agudas  
-
- 
 
 recorder
 
@@ -1434,11 +1090,8 @@ recorder
 - DE: Blockflöte
 - FR: flûte à bec
 - IT: flauto dolce
-- PL: 
+- PL:
 - PT:
-- ES: flauta dulce o de pico
-
- 
 
 sopranino
 
@@ -1447,25 +1100,19 @@ sopranino
 - DE: Sopraninoblockflöte (in F)
 - FR: sopranino
 - IT: sopranino
-- PL: 
+- PL:
 - PT:
-- ES: flauta dulce sopranino
-
- 
 
 woodwinds
 
 - EN: woodwinds
 - DE: Holzblasinstrumente
-- FR: bois 
+- FR: bois
 - IT: legni
-- PL: 
+- PL:
 - PT:
-- ES: vientos madera
 
- 
-
-zufoletto 
+zufoletto
 
 - EN: zufoletto
 - DE: Zufoletto
@@ -1473,126 +1120,449 @@ zufoletto
 - IT: zufoletto
 - PL:
 - PT:
-- ES: zufoletto
 
- 
 
-** **
+#
 
-**Brass**
+# **Brass**
 
-| **Abreviatura** | **Inglés** | **Alemán** | **Francés** | **Italiano** | **Español** | **Link** |
-| banda  | wind band, usually brass, but can also mean brass instruments or brass plus percussion | Blaskapelle (oft um Schlagwerk erweitert) | orchestre d'harmonie | banda musicale | banda de viento, normalmente de metal, pero también puede implicar metales más percusión |   |
-| althorn | althorn (usually in E|b; see also saxhorn and tenor horn) | Althorn (in E|b; vgl. mit Saxhorn und Tenorhorn) | bugle alto | flicorno contralto | fliscorno contralto (normalmente en E|b; ver también saxhorn y corno tenor) | 
+banda
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0003171) |
+- EN: wind band, usually brass, but can also mean brass instruments or brass plus percussion
+- DE: Blaskapelle (oft um Schlagwerk erweitert)
+- FR: orchestre d'harmonie
+- IT: banda musicale
+- PL:
+- PT:
 
- |
-| b | bass (instrumental), also for unspecified bass instrument | Bass (instr.), zumeist ein tiefes Streichinstrument | basse (instrumentale) | basso (strumento) | bajo (instrumental), también para un instrumento de bajo no especificado |   |
-| bariton  | baritone, baritone horn (valved brass instrument in B|b, similar to but not the same as the euphonium) | Baritonhorn (in B|b) | euphonium | eufonio, flicorno baritono | barítono, corno barítono (instrumento de metal con válvulas en B|b, similar pero no igual al eufonio) | [Link to Wikipedia](https://en.wikipedia.org/wiki/Baritone_horn)  |
-| bombardino | flicorno, bombardino (bugle/flugelhorn family) | Bombardino (vgl. mit Euphonium) |   | bombardino | fliscorno, bombardino (familia de la corneta/ flugelhorn) |   |
-| bombardone | bass tuba, bombardon | Bombardone, Basstuba | bombardon | bombardone | tuba baja, bombardón |   |
-| brasses | brass instruments | Blechblasinstrumente | cuivres | ottoni | instrumentos de metal |   |
-| bugle  | bugle (no valves, typically in B|b or C) | Horn (ohne Ventile, in C oder B|b) | bugle | bugle, flicorno | corneta (sin válvulas, típicamente en B|b o C) | 
+althorn
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_4060)  |
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0003171)
+- EN: althorn (usually in E|b; see also saxhorn and tenor horn)
+- DE: Althorn (in E|b; vgl. mit Saxhorn und Tenorhorn)
+- FR: bugle alto
+- IT: flicorno contralto
+- PL:
+- PT:
 
-[Link to Wikipedia](https://en.wikipedia.org/wiki/bugle) |
-| cimbasso | cimbasso (trombone family, pitched in C, F, E|b or B|b) | Cimbasso (tiefe Ventilposaune in C, F, E|b oder B|b) | cimbasso | cimbasso | cimbasso (familia de los trombones, afinado en Do, Fa, Mi o B) | [Link to Wikipedia](https://en.wikipedia.org/wiki/Cimbasso) |
-| clno  | clarino, clairon, clarion (trumpet family) | Klarine (zur Trompetenfamilie gehörig) | clarine | clarino | clarino, clairon, clarion (familia de las trompetas) | 
+b
 
-| [Link to Wikipedia](https://en.wikipedia.org/wiki/Clarion_(instrument)) |
+- EN: bass (instrumental), also for unspecified bass instrument
+- DE: Bass (instr.), zumeist ein tiefes Streichinstrument
+- FR: basse (instrumentale)
+- IT: basso (strumento)
+- PL:
+- PT:
 
- |
-| cnto | cornetto, cornett, zink (Renaissance wind instrument; for the trumpet-like brass instrument, see kornetto) | Zink (Gilt als Blechblasinstrument wegen seines Kesselmundstücks.) | cornet | cornetto | cornetto, cornett, zink (instrumento de viento del Renacimiento; para el instrumento de metal tipo trompeta, ver kornetto) | 
+bariton
 
-| [Link to Wikipedia](https://en.wikipedia.org/wiki/Cornett) |
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Baritone_horn)
+- EN: baritone, baritone horn (valved brass instrument in B|b, similar to but not the same as the euphonium)
+- DE: Baritonhorn (in B|b)
+- FR: euphonium
+- IT: eufonio, flicorno baritono
+- PL:
+- PT:
 
- |
-| cor | horn, French horn, hunting horn (in F) | Horn, Waldhorn (meist in F, auch B|b oder E|b) | cor d'harmonie | corno | trompa, corno francés, trompa de caza (en Fa) |   |
-| cor a chiavi | keyed bugle, key bugle, Kent bugle | Klappenhorn | bugle à clefs | cornetta a chiavi | corneta a válvulas, corneta con llaves, corneta Kent | 
+bombardino
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_120824_NL) |
+- EN: flicorno, bombardino (bugle/flugelhorn family)
+- DE: Bombardino (vgl. mit Euphonium)
+- FR:
+- IT: bombardino
+- PL:
+- PT:
 
- |
-| cor basso | bass horn (semi-spherical mouthpiece like a trumpet, looks like a bassoon) | Basshorn (mit Kesselmundstück, aus der Familie der Grifflochhörner, einem Fagott ähnlich aussehend) | cor grave | corno basso | _Corno basso_ (boquilla semiesférica como una trompeta, parece un fagot) | [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_3378) |
-| cor crom | valve horn, chromatic cor | Chromatisches Horn | cor chromatique | corno cromatico | corno de válvulas, corno cromático |   |
-| cor da caccia | corno da caccia, hunting horn | Corno da caccia, Jagdhorn | corno da caccia | corno da caccia | _corno da caccia_, corno de caza |   |
-| dugetto | dugetto (a low trumpet, in bass clef) | dugetto | dugetto | dugetto | dugetto (una trompeta baja, en clave de fa) |   |
-| euphonium | euphonium | Euphonium (zur Familie der Bügelhörner gehörig) | euphonium | eufonio | eufonio |   |
-| fanfare | fanfare trumpet, herald's trumpet, Aida trumpet (usually in E|b) | Fanfarentrompete, Heroldstrompete | fanfare | fanfara | trompeta de fanfarria, trompeta del heraldo, trompeta de Aída (normalmente en E|b) | 
+bombardone
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_GNM_504498) |
+- EN: bass tuba, bombardon
+- DE: Bombardone, Basstuba
+- FR: bombardon
+- IT: bombardone
+- PL:
+- PT:
 
- |
-| flügelhorn | flugelhorn (in B|b) | Flügelhorn (in B|b, selten in C) | bugle à piston | flicorno (soprano) | flugelhorn (en B|b) | 
+brasses
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_3664) |
+- EN: brass instruments
+- DE: Blechblasinstrumente
+- FR: cuivres
+- IT: ottoni
+- PL:
+- PT:
 
-[Link to Wikipedia](https://en.wikipedia.org/wiki/Flugelhorn) |
-| harmonie-b | basse d'harmonie (ophicleide; but see also ophicleide) | Harmoniebass | basse d'harmonie | strumento più basso di una banda | basse d'harmonie (oficloide; pero véase también _ophicleide_) |   |
-| helikon | helicon (tuba family, tubing goes around head and arm) | Helikon, Helikontuba | hélicon | helicon, elicone | helicon (familia de la tuba, el tubo va alrededor de la cabeza y el brazo) | 
+bugle
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_1158) |
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_4060)
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/bugle)
+- EN: bugle (no valves, typically in B|b or C)
+- DE: Horn (ohne Ventile, in C oder B|b)
+- FR: bugle
+- IT: bugle, flicorno
+- PL:
+- PT:
 
-[Link to Wikipedia](https://en.wikipedia.org/wiki/Helicon_(instrument)) |
-| kornettino | cornettino (brass instrument!) | Kornettino | cornettino (cuivre) | cornettino (ottone) | _cornettino_ (¡instrumento de metal!) |   |
-| kornetto | cornet (brass instrument, similar to trumpet, not cnto!) | Kornetto (nicht cnto) | cornet (pas cnto) | cornetto (non cnto) | corneta (instrumento de metal, similar a la trompeta, ¡no cnto!) | [Link to Wikipedia](https://en.wikipedia.org/wiki/Cornet) |
-| lituus | lituus (instrument with long tube that curves up at the end) | Lituus | lituus | lituus | lituus (instrumento con un tubo largo que se curva hacia arriba al final) | 
+cimbasso
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0130163) |
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Cimbasso)
+- EN: cimbasso (trombone family, pitched in C, F, E|b or B|b)
+- DE: Cimbasso (tiefe Ventilposaune in C, F, E|b oder B|b)
+- FR: cimbasso
+- IT: cimbasso
+- PL:
+- PT:
 
- |
-| ophicleide | ophicleide (keyed brass instrument; see also harmonie-b) | Ophikleide (zur Familie der Klappenhörner gehörig) | ophicléide | oficleide | oficloide (instrumento de metal con válvulas; véase también   
- harmonie-b) | 
+clno
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_31602) |
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Clarion_(instrument))
+- EN: clarino, clairon, clarion (trumpet family)
+- DE: Klarine (zur Trompetenfamilie gehörig)
+- FR: clarine
+- IT: clarino
+- PL:
+- PT:
 
- 
+cnto
 
-| [Link to Wikipedia](https://en.wikipedia.org/wiki/Ophicleide) |
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Cornett)
+- EN: cornetto, cornett, zink (Renaissance wind instrument; for the trumpet-like brass instrument, see kornetto)
+- DE: Zink (Gilt als Blechblasinstrument wegen seines Kesselmundstücks.)
+- FR: cornet
+- IT: cornetto
+- PL:
+- PT:
 
- |
-| piston | piston, rotary valve cornet | Ein (Ventil-)Kornett | cornet à pistons | cornetto a pistoni | pistón, corneta a pistones |   |
-| posthorn | post horn, posthorn | Posthorn | cor postal | corno postale | corno postal, _posthorn_ | [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0001695/posthorn)[Link to Wikipedia](https://en.wikipedia.org/wiki/Post_horn) |
-| principale | principale (refers to trumpets) | Prinzipaltrompete |   |   | _principale_ (se refiere a las trompetas) |   |
-| saxhorn | saxhorn. Some languages call some or all instruments of the family "saxhorn" while other languages use unique names. Always add pitch if known. | Saxhorn | saxhorn | saxhorn | saxhorn | 
 
-| [Link to Wikipedia](https://en.wikipedia.org/wiki/Saxhorn) |
 
- |
-| serpentone | serpent | Serpent (in Basslage, zur Zinkenfamilie gehörig) | serpent | serpentone | serpentón | 
+cor
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_22514) |
+- EN: horn, French horn, hunting horn (in F)
+- DE: Horn, Waldhorn (meist in F, auch B|b oder E|b)
+- FR: cor d'harmonie
+- IT: corno
+- PL:
+- PT:
 
-[Link to Wikipedia](https://en.wikipedia.org/wiki/Serpent_(instrument)) |
-| t-cor | mellophone, mellophonium, tenor cor (in F) | Mellophon (in F, zur Familie der Hörner gehörig) |   |   | melófono, corno tenor (en F) | [Link to Wikipedia](https://en.wikipedia.org/wiki/Mellophone) |
-| tb | tuba | Tuba | tuba | tuba | tuba | 
+cor a chiavi
 
-| [Link to Wikipedia](https://en.wikipedia.org/wiki/Tuba) |
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_120824_NL)
+- EN: keyed bugle, key bugle, Kent bugle
+- DE: Klappenhorn
+- FR: bugle à clefs
+- IT: cornetta a chiavi
+- PL:
+- PT:
 
- |
-| tenor horn | tenor horn, E|b horn (valved brass instrument of alto pitch, usually E|b; see also althorn and saxhorn) | Tenorhorn | bugle ténor | flicorno tenore | trompa tenor, trompa E|b (instrumento de metal con válvula de tono alto, generalmente E|b; ver también althorn y saxhorn) |   |
-| tr | trumpet | Trompete | trompette | tromba | trompeta | [Link to Wikipedia](https://en.wikipedia.org/wiki/Trumpet) |
-|   | tr a chiavi | keyed trumpet | Klappentrompete | trompette à clefs | tromba a chiavi | trompeta con llaves | [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0001835/klappentrompete)[Link to Wikipedia](https://en.wikipedia.org/wiki/Keyed_trumpet) |
-|   | tr crom  | valve trumpet | Chromatische (Ventil-)Trompete | trompette chromatique | tromba cromatica | trompeta de válvulas, trompeta cromática |   |
-| trb | trombone (in B|b) | Posaune | trombone | trombone | trombón (en B|b) | trombone |
-|   | a-trb | alto trombone (in E|b or F, common from 16th-18th centuries) | Altposaune (in E|b oder F, stark verbreitet vom 16.-18. Jh. und darüberhinaus) | trombone alto | trombone alto | trombón alto (en E|b o F, común desde los siglos 16-18) | 
+cor basso
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_41404) |
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_3378)
+- EN: bass horn (semi-spherical mouthpiece like a trumpet, looks like a bassoon)
+- DE: Basshorn (mit Kesselmundstück, aus der Familie der Grifflochhörner, einem Fagott ähnlich aussehend)
+- FR: cor grave
+- IT: corno basso
+- PL:
+- PT:
 
- |
-|   | bariton-trb | baritone trombone | Baritonposaune | trombone baryton | trombone baritono | trombón barítono |   |
-|   | t-trb | tenor trombone (in B|b) | Tenorposaune (in B|b) | trombone ténor | trombone tenore | trombón tenor (en B|b) | 
+cor crom
 
-| [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_2840) |
+- EN: valve horn, chromatic cor
+- DE: Chromatisches Horn
+- FR: cor chromatique
+- IT: corno cromatico
+- PL:
+- PT:
 
- |
-|   | b-trb | bass trombone (in F, G, or B|b) | Bassposaune (in F, G, oder B|b) | trombone basse | trombone basso | trombón bajo (en Fa, Sol o B|b) | [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_2866) |
-|   | trb a pistoni | valve trombone | Ventilposaune | trombone à pistons | trombón de válvula | trombón a pistones |   |
-| trombetta | a small trumpet or tenor trombone | Trombetta (kürzere, höher klingende Variante der Barocktrompete) | petite trompette | trombetta | una pequeña trompeta o trombón tenor |   |
-| trombino | a high trumpet | Piccolotrompete | trompette piccolo | trombino | una trompeta alta |   |
+ cor da caccia
 
- 
+- EN: corno da caccia, hunting horn
+- DE: Corno da caccia, Jagdhorn
+- FR: corno da caccia
+- IT: corno da caccia
+- PL:
+- PT:
 
- 
+dugetto
+
+- EN: dugetto (a low trumpet, in bass clef)
+- DE: dugetto
+- FR: dugetto
+- IT: dugetto
+- PL:
+- PT:
+
+euphonium
+
+- EN: euphonium
+- DE: Euphonium (zur Familie der Bügelhörner gehörig)
+- FR: euphonium
+- IT: eufonio
+- PL:
+- PT:
+
+fanfare
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_GNM_504498)
+- EN: fanfare trumpet, herald's trumpet, Aida trumpet (usually in E|b)
+- DE: Fanfarentrompete, Heroldstrompete
+- FR: fanfare
+- IT: fanfara
+- PL:
+- PT:
+
+flügelhorn
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_3664)
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Flugelhorn)
+- EN: flugelhorn (in B|b)
+- DE: Flügelhorn (in B|b, selten in C)
+- FR: bugle à piston
+- IT: flicorno (soprano)
+- PL:
+- PT:
+
+harmonie-b
+
+- EN: basse d'harmonie (ophicleide; but see also ophicleide)
+- DE: Harmoniebass
+- FR: basse d'harmonie
+- IT: strumento più basso di una banda
+- PL:
+- PT:
+
+helikon
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_1158)
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Helicon_(instrument))
+- EN: helicon (tuba family, tubing goes around head and arm)
+- DE: Helikon, Helikontuba
+- FR: hélicon
+- IT: helicon, elicone
+- PL:
+- PT:
+
+kornettino
+
+- EN: cornettino (brass instrument!)
+- DE: Kornettino
+- FR: cornettino (cuivre)
+- IT: cornettino (ottone)
+- PL:
+- PT:
+
+kornetto
+
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Cornet)
+- EN: cornet (brass instrument, similar to trumpet, not cnto!)
+- DE: Kornetto (nicht cnto)
+- FR: cornet (pas cnto)
+- IT: cornetto (non cnto)
+- PL:
+- PT:
+
+lituus
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0130163)
+- EN: lituus (instrument with long tube that curves up at the end)
+- DE: Lituus
+- FR: lituus
+- IT: lituus
+- PL:
+- PT:
+
+
+
+ophicleide
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_31602)
+- Link. [Link to Wikipedia](https://en.wikipedia.org/wiki/Ophicleide)
+- EN: ophicleide (keyed brass instrument; see also harmonie-b)
+- DE: Ophikleide (zur Familie der Klappenhörner gehörig)
+- FR: ophicléide
+- IT: oficleide
+- PL:
+- PT:
+
+ piston
+
+- EN: piston, rotary valve cornet
+- DE: Ein (Ventil-)Kornett
+- FR: cornet à pistons
+- IT: cornetto a pistoni
+- PL:
+- PT:
+
+ posthorn
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0001695/posthorn)
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Post_horn)
+- EN: post horn, posthorn
+- DE: Posthorn
+- FR: cor postal
+- IT: corno postale
+- PL:
+- PT:
+
+principale
+
+- EN: principale (refers to trumpets)
+- DE: Prinzipaltrompete
+- FR:
+- IT:
+- PL:
+- PT:
+
+saxhorn
+
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Saxhorn)
+- EN: saxhorn. Some languages call some or all instruments of the family "saxhorn" while other languages use unique names. Always add pitch if known.
+- DE: Saxhorn
+- FR: saxhorn
+- IT: saxhorn
+- PL:
+- PT:
+
+serpentone
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_22514)
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Serpent_(instrument))
+- EN: serpent
+- DE: Serpent (in Basslage, zur Zinkenfamilie gehörig)
+- FR: serpent
+- IT: serpentone
+- PL:
+- PT:
+
+t-cor
+
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Mellophone)
+- EN: mellophone, mellophonium, tenor cor (in F)
+- DE: Mellophon (in F, zur Familie der Hörner gehörig)
+- FR:
+- IT:
+- PL:
+- PT:
+
+tb
+
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Tuba)
+- EN: tuba
+- DE: Tuba
+- FR: tuba
+- IT: tuba
+- PL:
+- PT:
+
+tenor horn
+
+- EN: tenor horn, E|b horn (valved brass instrument of alto pitch, usually E|b; see also althorn and saxhorn)
+- DE: Tenorhorn
+- FR: bugle ténor
+- IT: flicorno tenore
+- PL:
+- PT:
+
+tr
+
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Trumpet)
+- EN: trumpet
+- DE: Trompete
+- FR: trompette
+- IT: tromba
+- PL:
+- PT:
+
+tr a chiavi
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0001835/klappentrompete)
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Keyed_trumpet)
+- EN: keyed trumpet
+- DE: Klappentrompete
+- FR: trompette à clefs
+- IT: tromba a chiavi
+- PL:
+- PT:
+
+tr crom
+
+- EN: valve trumpet
+- DE: Chromatische (Ventil-)Trompete
+- FR: trompette chromatique
+- IT: tromba cromatica
+- PL:
+- PT:
+
+trb
+
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Trombone)
+- EN: trombone (in B|b)
+- DE: Posaune
+- FR: trombone
+- IT: trombone
+- PL:
+- PT:
+
+a-trb
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_41404)
+- EN: alto trombone (in E|b or F, common from 16th-18th centuries)
+- DE: Altposaune (in E|b oder F, stark verbreitet vom 16.-18. Jh. und darüberhinaus)
+- FR: trombone alto
+- IT: trombone alto
+- PL:
+- PT
+
+bariton-trb
+
+- EN: baritone trombone
+- DE: Baritonposaune
+- FR: trombone baryton
+- IT: trombone baritono
+- PL:
+- PT:
+
+t-trb
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_2840)
+- EN: tenor trombone (in B|b)
+- DE: Tenorposaune (in B|b)
+- FR: trombone ténor
+- IT: trombone tenore
+- PL:
+- PT:
+
+b-trb
+
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_2866)
+- EN: bass trombone (in F, G, or B|b)
+- DE: Bassposaune (in F, G, oder B|b)
+- FR: trombone basse
+- IT: trombone basso
+- PL:
+- PT:
+
+trb a pistoni
+
+- EN: valve trombone
+- DE: Ventilposaune
+- FR: trombone à pistons
+- IT: trombone a pistoni
+- PL:
+- PT:
+
+ trombetta
+
+- EN: a small trumpet or tenor trombone
+- DE: Trombetta (kürzere, höher klingende Variante der Barocktrompete)
+- FR: petite trompette
+- IT: trombetta
+- PL:
+- PT:
+
+trombino
+
+- EN: a high trumpet
+- DE: Piccolotrompete
+- FR: trompette piccolo
+- IT: trombino
+- PL:
+- PT:
