@@ -1,3 +1,3 @@
-#### **Kod kraju (043)**
+#### **Country code (043)**
 
-Wybrać kraj z listy. Po konsultacji z Biurem Centralnym RISM do listy można dodać dodatkowe kraje.
+Select the country from the list. Additional countries may be added in consultation with the RISM Editorial Center.
