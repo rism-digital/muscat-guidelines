@@ -1,29 +1,29 @@
-### Fonte dei dati (670) 
+### Source data found (670)
 
-Questo campo dà conto della bibliografia consultata per indicare le varie forme del nome e le date, e riporta la forma del nome e le date che vi si contengono.   
-Si inseriscono qui anche i riferimenti bibliografici che sono stati consultati ma non hanno offerto informazioni pertinenti.  
-Le forme del nome che divergono dalla forma riportata in **Nome di persona** **(100 $a)** devono essere inserite nel campo **Varianti del nome (400 $a)**.
+This field keeps track of the secondary literature that was consulted in entering forms of the name and the dates, and gives the form of the name and dates found therein.  
+Secondary literature that was consulted but yielded no information is also entered here.  
+Forms of the name that differ from the form given in **Heading - Personal name (100 $a)** must be entered in the field **Name variant (400 $a)**.
 
-####  
+####
 
-#### Fonte dei dati (670 $a) 
+#### Source data found (670 $a)
 
-Inserisci il titolo abbreviato della risorsa consultata. Questo campo è collegato all'indice **Bibliografia**.
+Enter the short title of the resource consulted. This field is connected to the **Secondary literature** database.
 
- 
 
-#### Riferimento dell'informazione (670 $b)
 
-**Obbligatorio se il campo precedente contiene un .**
+#### Information found (670 $b)
 
-Inserisci la forma del nome e/o le date indicate nella bibliografia. Aggiungi un numero di pagina o simili indicatori (ad esempio, **vide** per le enciclopedie) se necessario. Inserisci uno **0** se la fonte bibliografica non riporta alcuna informazione (ad esempio, hai consultato Grove|7 ma non contiene una voce per la persona in questione).
+**Required if the above field is filled out.**
 
-_Esempi_:  
-**Fonte dei dati (670 $a)**: EitnerQ  
-**Riferimento dell'informazione****  (670 $b)**: Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]  
-  
-**Fonte dei dati** **(670 $a)**: MGG|2/s  
-**Riferimento dell'informazione****  (670 $b)**: vide 6, 834
+Enter the form of the name and/or years indicated in the literature. Add a page number or other locators (such as **vide** for encyclopedias) if appropriate. Enter a **0** if no information is found (for example, you consulted Grove|7 but there was no entry for the person).
 
-**Fonte dei dati (670 $a)**: Grove|7  
-**Riferimento dell'informazione****  (670 $b)**: 0
+_Examples_:  
+**Source data found (670 $a)**: EitnerQ  
+**Information found (670 $b)**: Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]
+
+**Source data found (670 $a)**: MGG|2/s  
+**Information found (670 $b)**: vide 6, 834
+
+**Source data found (670 $a)**: Grove|7  
+**Information found (670 $b)**: 0
