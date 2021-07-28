@@ -1,3 +1,3 @@
-**Fuente de los datos no encontrados (675)** 
+**Source data not found (675)**
 
-Este campo recoge la bibliografía secundaria consultada durante la elaboración de la descripción de la obra en la que no se ha encontrado información.
+This field lists the secondary literature consulted while creating the description of the work in which no information is found.
