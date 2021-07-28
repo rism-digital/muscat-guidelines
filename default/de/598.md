@@ -1,3 +1,3 @@
-### **Kodierte Besetzung (598)**  
+### Coded instrumentation (598)
 
-**Bitte nicht verwenden. Wird nur zur Migration der Daten benötigt.**
+**Do not use. Only used in migrated data.**
