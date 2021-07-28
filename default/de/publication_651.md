@@ -1,5 +1,3 @@
-#### Ort (651 $a)  
+**#### Related place (651 $a)**
 
-Geben Sie hier einen geographischen Namen (Stadt, Region, Land), der im Zusammenhang mit der vorliegenden Publikation steht, ein. Das Feld ist mit der Normdatei **Orte** verknüpft.
-
-Hier wird _nicht_ der Publikationsort eingetragen!
+Enter the names of geographic locations (cities, regions, states, countries) that are connected with or related to the item. This field is linked with the **Places** authority file. Do not enter the place of publication here.
