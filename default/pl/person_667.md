@@ -1,3 +1,3 @@
-#### Uwagi wewnętrzne (667 $a) 
+#### Internal note (667 $a)
 
-Tutaj można wprowadzić uwagi, które nie są przeznaczone do publicznego wyświetlania.
+Here you may enter notes that are not intended for public display.
