@@ -1,13 +1,13 @@
-Die Veröffentlichung der Datensätze wird über die Funktionen des "work flow" gesteuert. Jede Änderung im "work flow" muss mit Eintippen des Worts "yes" bestätigt werden.
+The publication of the data records is controlled by the "work flow" commands. Every change of the "work flow" status must be confirmed by typing the word "yes".
 
 ### Unpublished
 
-Wenn ein Datensatz (eine Katalogmaske oder ein Autoritätssatz) gespeichert wird, ist er noch nicht veröffentlicht. Dies wird durch den Vermerk "unpublished" im "work flow" angegeben.
+If a record (a catalogue record or an authority file) is saved, it is not yet published. This is indicated by the work flow status "unpublished".
 
 ### Published
 
-Der "work flow" der Datensätze muss auf "published" geändert werden, damit sie für das Publikum sichtbar werden.
+The work flow status of records has to be changed to "published", so that the records can be viewed by the public.
 
 ### Deleted
 
-überholte oder falsche Datensätze können für das Publikum unsichtbar gemacht werden. Für eingeloggte Katalogisierer ist ein gelöschter Datensatz jedoch nachwievor sichtbar.
+Outdated or incorrect records can be hidden from the public. Logged-in cataloguers can however still see a deleted record.
