@@ -1,24 +1,24 @@
-### Nome geografico** (551)**
+### **Geographic name (551)**
 
-Questo campo riporta nomi geografici associati alla persona in questione.
+This field is for geographical names associated with the person in question.
 
- 
 
-**Nome geografico****  (551 $a)**
 
-Inserisci il termine geografico (paese, luogo, regione, città ecc.) associato alla persona in questione. I nomi sono inseriti nella moderna lingua locale. I nomi geografici sono collegati all'indice **Luoghi**.
+#### **Geographic name (551 $a)**
 
- 
+Enter the geographic name (country, place, region, city, etc.) associated with the person in question. Names are entered in the modern local language. Geographic names are connected with the **Places** authority file.
 
-#### Tipo (551 $i)
 
-Indica la relazione della persona in questione con il nome geografico.
 
-Seleziona dai valori seguenti:
+#### Type (551 $i)
 
-- **Paese di attività**  
-- **Luogo di attività** : tipicamente una città, un villaggio ecc.
-- **Luogo di nascita** : tipicamente una città, un villaggio ecc. 
-- **Luogo di morte** : tipicamente una città, un villaggio ecc.
-- **Luogo di origine** : da utilizzare se non vi sono informazioni ulteriori sul luogo di nascita
-- **Regione di attività** : esempi: Süddeutschland, Hessen, Upper Midwest
+Indicate the how the geographical name is related to the person in question.
+
+Select from the following:
+
+- **Country active**
+- **Place active** : Typically a city, town, village, etc.
+- **Place of birth** : Typically a city, town, village, etc.
+- **Place of death** : Typically a city, town, village, etc.
+- **Place of origin** : Use when there is no further information available about the place of birth
+- **Region active** : Examples: Süddeutschland, Hessen, Upper Midwest
