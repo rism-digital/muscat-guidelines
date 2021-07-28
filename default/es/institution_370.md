@@ -1,27 +1,18 @@
-### Lugar asociado (MARC 370)
+### Associated place (MARC 370)
+This field is used to record a place associated with the institution.
 
-Este campo se utiliza para registrar un lugar asociado a la institución.
 
-  
+#### Associated country (370 $c)
+Enter the country with which the institution is identified.
 
-#### País asociado (370 $c)
 
-Ingrese al país con el que se identifica la institución.
+#### Place of residence/headquarters (370 $e)
+Enter the town, city, province, state, locale, and/or country in which the institution has its headquarters or carries out its activities.
 
-  
 
-#### Lugar de residencia/sede (370 $e)
+#### Other associated place (370 $f)
+Enter other or additional town, city, province, state, and/or country associated with the institution.
 
-Introduzca el pueblo, la ciudad, la provincia, el estado, la localidad y/o el país en el que la institución tiene su sede o realiza sus actividades.
 
-  
-
-#### Otro lugar asociado (370 $f)
-
-Introduzca otra ciudad, pueblo, provincia, estado y/o país asociado a la institución.
-
-  
-
-#### Fuente del término (370 $2)
-
-Introduzca la fuente de los términos utilizados.
+#### Source of term (370 $2)
+Enter the source of the terms used.
