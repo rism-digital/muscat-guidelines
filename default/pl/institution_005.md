@@ -1,3 +1,3 @@
-#### Data i godzina ostatniej operacji **(MARC 005; ISDIAH 5.6.6)**
+#### **Date and time of last transaction (MARC 005; ISDIAH 5.6.6)**
 
-W polu podaje się datę ostatniej modyfikacji rekordu. Pole generuje się automatycznie.
+This field shows the date that the record was last modified. This field is automatically generated.
