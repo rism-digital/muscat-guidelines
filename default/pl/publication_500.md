@@ -1,15 +1,14 @@
-**#### Uwaga ogólna (500 $a)**Wprowadzać wszystkie uwagi na temat danego obiektu, szczególnie uwagi informujące o jego znaczeniu jako źródła muzycznego (jeśli nie wynika to z tytułu).
+**#### General note (500 $a)**Enter any notes about the item, especially notes that relate to how the item is relevant to musical sources (if not obvious from the title).
 
-Podać sigla, jeżeli dana pozycja dotyczy instytucji, np. katalogi kolekcji.  
+Enter sigla here if the item concerns an institution, such as catalogs of collections.
 
-W przypadku prac magisterskich lub doktorskich, należy podać miejsce i czas ukończenia pracy.
+For university theses or dissertations, enter a note about where and when the dissertation was completed.
 
-_Przykłady_:  
+_Examples_:  
 D-Bsa  
 Tübingen, Universität Diss. 2008  
-Praca doktorska, Instytut Muzykologii, Uniwersytet Wrocławski  
-str. 95-97: „Aneks 4. Dzieła wybrane”
+PhD dissertation, Institute of Musicology at the University of Wrocław  
+p. 95-97: "Appendix 4. Selected works"  
+S. 250-263: Werksverzeichnis (ohne Incipits)
 
-s. 250-263: Werksverzeichnis (ohne Incipits)
-
-Pola używa się również do określenia metody cytacji katalogu tematycznego lub katalogu utworów. To gwarantuje, że wszyscy współpracownicy RISM, korzystający z danego katalogu będą go cytować w ten sam sposób. Ustalając styl cytacji, należy mieć na uwadze styl i całokształt katalogu. Należy starać się podawać przykłady, które odzwierciedlają różnorodność utworów znajdujących się w katalogu. Numery stron należy stosować w ostateczności. (Wytyczne są w przygotowaniu, lecz przykładów można szukać w BWV, AWV, MH i SheH.)
+This field is also used to define the method for citing a thematic catalog or catalog of works. This ensures that all RISM contributors who use the catalog cite the catalog in the same way. When determining the citation style, keep in mind the style and outline of the catalog. Try to give examples that reflect the variety of kinds of works in the catalog. Only use page numbers as a last resort. (Guidelines will follow, but look at BWV, AWV, MH, and SheH for examples.)
