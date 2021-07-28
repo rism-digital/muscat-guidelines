@@ -1,12 +1,12 @@
-**Körperschaftstyp (MARC 368 $a; ISDIAH 5.1.5)**
+**Type of institution (MARC 368 $a; ISDIAH 5.1.5)**
 
-In diesem Feld wird der Körperschaftstyp einer Bibliothek oder Institution näher bezeichnet. Es können durch Feldwiederholung mehrere Angaben gemacht werden. 
+This field identifies the type of institution with archival holdings.
 
-Wählen Sie aus folgenden Bezeichnungen:
+Select from the following types:
 
-- Archiv
-- Bibliothek
-- Forschungseinrichtung
-- Körperschaft
-- Verlag
-- Weitere
+- Archive
+- Library
+- Research institute
+- Corporate name
+- Publisher
+- Other
