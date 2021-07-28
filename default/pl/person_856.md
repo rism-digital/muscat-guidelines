@@ -1,17 +1,17 @@
-#### Źródło zewnętrzne (856)
+#### External resource (856)
 
-Pole służy do wpisywania linków do źródeł zewnętrznych, takich jak próbki pisma ręcznego.
+This field is for links to external resources, such as writing samples.
 
-####   
-URL źródła zewnętrznego (856 $u)
+####
+External resource URL (856 $u)
 
-Wpisać URL źródła zewnętrznego. Zawsze należy stosować permalinki.
+Enter the full URL of the external resource. Always use permalinks.
 
-####   
-Uwaga o źródle zewnętrznym (856 $y)
+####
+Note about external resource (856 $y)
 
-Krótko opisać w odpowiednim języku, co znajduje się pod podanym adresem URL. 
+Briefly describe what the URL points to in a relevant language.
 
-_Przykład_:  
+_Example_:  
 [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000  
 ](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.B 65 / p. 1, 26]
