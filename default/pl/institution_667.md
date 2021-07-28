@@ -1,5 +1,5 @@
-**Uwagi wewnętrzne (MARC 667; ISDIAH 5.6.9)**
+**Internal notes (MARC 667; ISDIAH 5.6.9)**
 
-Pole dokumentuje dodatkowe informacje na temat tworzenia opisu i dokonywania w nim zmian.
+This field documents additional information relating to the creation of and changes to the description.
 
-Wprowadzić uwagi dotyczące tworzenia i utrzymania opisu. Np. można tu wprowadzić nazwy osób odpowiedzialnych za tworzenie i/lub rewizję opisu. 
+Enter notes pertinent to the creation and maintenance of the description. For example, the names of persons responsible for creating and/or revising the description may be entered here.
