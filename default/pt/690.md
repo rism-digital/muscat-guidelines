@@ -1,11 +1,11 @@
-### Catálogo de obras  (690) 
+### Catalog of works (690)
 
-#### Catálogo de obras  (690 $a) 
+#### Catalog of works (690 $a)
 
-Insira o título curto para o catálogo temático ou catálogo de obras (por exemplo, **BWV** ). Este campo está ligado à base de dados **Literatura secundária**. Catálogos ainda não existentes na base de dados podem ser inseridos nela.
+Enter the short title for the thematic catalog or catalog of works (for example, **BWV** ). This field is linked to the **Secondary literature** database. Catalogs not in the database can be entered there.
 
-#### Número/página (690 $n) 
+#### Number/page (690 $n)
 
-**Campo obrigatório se "Catálogo de obras" for preenchido.**
+**Required field if "Catalog of works" is filled out.**
 
-Insira o número de catálogo obtido de um catálogo temático ou de obras, ou o número da página do catálogo em que a obra aparece. A Redação Central do RISM decidirá sobre a maneira apropriada do estilo de citação, de acordo com o estilo do catálogo. O estilo de citação é explicado na entrada correspondente na base de dados **Literatura secundária**. Se a fonte contém somente uma parte ou movimento de uma obra, indique o número do movimento depois de uma barra. Escreva **deest** se uma dada composição não está listada no catálogo de obras do compositor.
+Enter the catalog number from a works or thematic catalog, or the page number of the piece in that catalog. The RISM Editorial Center determines the appropriate citation style, in keeping with the style of the catalog. The citation style is explained in the corresponding entry in the **Secondary literature** database. If the source contains only one movement of a work, indicate the number of the movement after a slash. Write **deest** if a particular composition is not listed in the composer’s catalog of works.
