@@ -1,13 +1,13 @@
-#### Agencia de catalogación (040)
+#### Cataloging agency (040)
 
-Este campo consigna la organización que creó el registro original. Para nuevos registros, siempre se trata de RISM, por lo que el código ISIL de RISM (DE-633) se completa automáticamente.
+This field names the organization that created the original record. For new records, this is always RISM, so the ISIL code for RISM is automatically filled out: DE-633.
 
-La _Staatsbibliothek zu Berlin – Preußischer Kulturbesitz es_ la responsable del mantenimiento de los códigos para Alemania. Véase [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633)
+The Staatsbibliothek zu Berlin – Preußischer Kulturbesitz is responsible for maintaining the codes for Germany. See [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633)
 
-No modifique este campo.
+Do not change this field.
 
- 
 
-#### Agencia de catalogación original (040 $a)
 
-Este campo presenta el código de la organización que creó el registro original. Muscat completa automáticamente el código de RISM.
+#### Original cataloging agency (040 $a)
+
+This field gives the code for the organization that created the original record. The code for RISM is automatically filled out by Muscat.
