@@ -1,15 +1,13 @@
-## **Status rekordu**  
+### Record status
 
-Status rekordu określa, które rekordy publikuje się w internetowym katalogu RISM  [RISM online catalog](https://opac.rism.info/index.php?id=4) i tym samym, które rekordy stają się publicznie dostępne. Status można zmieniać ręcznie.
+The **Record status** determines which records are published in the [RISM online catalog](https://opac.rism.info/index.php?id=4) and are thus publicly viewable. The status can be changed manually.
 
-**Opublikowane**
+**Published**  
+Records from Muscat with the status **Published** are sent for publication in the RISM catalog once a month, around the 19th of the month (depending on weekends and holidays). The records can then be seen in the catalog by the end of the month. All new records are automatically set to **Published**.
 
-Rekordy z Muscat o statusie **Opublikowane** przesyła się do publikacji w katalogu RISM raz w miesiącu, około 19. dnia każdego miesiąca (w zależności od weekendów i świąt). Rekordy te można następnie zobaczyć w katalogu do końca miesiąca. Wszystkie nowe rekordy system automatycznie ustawia na tryb **Publikuj**.
 
- 
 
-**W opracowywaniu**
+**Unpublished**  
+Records with the status **Unpublished** are withheld from publication in the RISM online catalog. Some projects wish to keep this status until the project is complete, or individuals might want to wait until an item is fully cataloged before publishing it (such as with extensive records that have lots of incipits or individual entries).
 
-Rekordów o statusie **W opracowywaniu** nie publikuje się w internetowym katalogu RISM.  W przypadku niektórych projektów może istnieć chęć zachowania tego statusu aż do zakończenia projektu. Może też zdarzyć się, że autor rekordu będzie chciał z publikacją rekordu poczekać do chwili aż dana pozycja zostanie w pełni skatalogowana (np. może to dotyczyć obszernych rekordów, które zawierają wiele incipitów lub pojedynczych wpisów).   
-
-Ze statusu rekordu należy korzystać rozważnie. Nie jest dobrą praktyką wycofywanie publikacji rekordów, które już udostępniono publicznie. Nie jest też idealnym rozwiązaniem bardzo długie przechowywanie rekordów nieopublikowanych.
+Please use this status judiciously. It is not good practice to unpublish records that were once publicly available, nor is it ideal to keep records unpublished for a very long time.
