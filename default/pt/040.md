@@ -1,3 +1,3 @@
-### Idioma de catalogação (040 $b)
+### Language of cataloging (040 $b)
 
-Indique o seu idioma de catalogação. Selecione alemão, espanhol, francês, inglês, italiano ou português.
+Indicate your cataloging language. Select from English, French, German, Italian, Portuguese, or Spanish.
