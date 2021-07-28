@@ -1,55 +1,68 @@
-La sección de **Autoridades** de Muscat reúne todos los archivos de autoridad, vocabulario controlado e índices. Nos gusta verlas como pequeñas bases de datos dentro de Muscat. 
+The **Authorities** section of Muscat collects all authority files, controlled vocabulary, and indexes. We like to think of it as mini databases within Muscat.
 
-### Objetos digitales
 
-La base de datos de objetos digitales reúne todas las imágenes (por lo general, marcas de agua, muestras de caligrafía o de encuadernaciones, así como MEI incipits) que los catalogadores suben a Muscat y adjuntan a sus registros mediante en enlace **Adjuntar una nueva imagen** en el modo de edición de fuentes.
 
-### Instituciones
+### Digital objects
 
-El archivo de autoridad para instituciones (nombres corporativos) registra no-personas que aparecen conectadas a las fuentes.
+The digital objects database collects all the images (usually watermarks, handwriting samples, or bindings as well as MEI incipits) that catalogers upload into Muscat and attach to their records through the **Attach a new image** link in the source editing mode.
 
-### Festividades litúrgicas
 
-El índice de festividades litúrgicas registra festividades religiosas y días festivos. Pueden añadirse nuevas festividades litúrgicas en acuerdo con el Centro Editorial.
 
-### Nombres personales
+### Institutions
 
-Se crean nuevos registros de autoridad para nombres personales tanto cuando ingresa un nuevo nombre al catalogar una fuente, como cuando hace click en **Crear** para iniciar un registro nuevo en el archivo de autoridad de nombres personales.
+The authority file for institutions (corporate names) is for non-persons that appear in connection with a source.
 
-En el modo de edición de nombres personales, puede buscar e importar datos de VIAF a través de un botón en la barra lateral. Siéntase libre de completar toda la información que desee en el registro de autoridad.
 
-Una vez que ha creado un nombre nuevo, puede editarlo durante los dos meses siguientes. Esto es útil si encuentra ortografías alternativas de un nombre, por ejemplo, o si tiene información biográfica adicional que desee añadir. Pasado ese tiempo, el control del registro pasa al Centro Editorial. Una vez que eso sucede, las adiciones siguen siendo bienvenidas y pueden informarse a través de la función de comentarios o enviando un correo electrónico a alexander.marxen@rism.info.
 
-### Lugares
+### Liturgical festivals
 
-El índice de lugares reúne los nombres de lugares, incluidos los nombres geográficos históricos.
+The index of  liturgical festivals collects religious holidays and feast days. New liturgical festivals may be added in consultation with the Editorial Center.
 
-### Bibliografía secundaria
 
-La base de datos de bibliografía contiene información sobre todos los tipos de bibliografía secundaria: catálogos de obras, catálogos temáticos, libros, artículos, enciclopedias, recursos online, ediciones críticas, ediciones modernas para la interpretación, etc. Al hacer click en “Crear” puede añadirse una nueva obra de bibliografía secundaria.
 
-### Descriptores
+### Personal names
 
-Todos los descriptores, formas y géneros están registrados aquí. Algunos registros incluyen explicaciones sobre el alcance del descriptor. Si necesita un descriptor que no está en nuestra lista, por favor háganoslo saber y lo crearemos para usted.
+New authority records for people are created when you enter a new name when cataloging a source, or when you click **Create** to create a new record in the personal names authority file.
 
-### Títulos / Íncipits literarios
+In the editing mode for personal names, you can search and import data from VIAF through a button on the sidebar. You are also free to fill out as much information in the authority record as you wish.
 
-Este archivo de autoridades contiene tanto los títulos ingresados en el campo **Título uniforme (240 $a)** como los íncipits literarios del campo **Íncipit literario (031 $t)**.
+After you enter a new name, you can edit it for the next two months. This is useful if you find alternate spellings of a name, for example, or if you have additional biographical information you wish to add. After that, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to alexander.marxen@rism.info.
 
-### Obras
 
-Un registro de autoridad de Obra registra toda información válida para una obra musical en sí, sin importar en qué formas se presente esa obra, ya sea, por ejemplo, un arreglo, una traducción, una partitura completa o un solo manuscrito. Estos registros de autoridad pueden incluir datos tales como compositor, título, variantes del título, tonalidad, plantilla/orgánico e íncipits, aunque no siempre resulta fácil decidir qué constituye una “obra” independiente.
+### Places
 
-Asociar una fuente musical en Muscat con un registro de autoridad de obra asegura la vinculación de todas las ocurrencias de una pieza musical dentro del inventario. Esto contribuye a la facilidad de búsqueda dentro del catálogo y ayuda a los usuarios a encontrar todas las fuentes relevantes, más allá de, por ejemplo, si un manuscrito llama a la famosa ópera de Mozart “Die Zauberflöte” y otra la designa como “The Magic Flute”, o si una pequeña pieza de música de cámara es llamada “dueto” en un manuscrito y “sonata” en otro. Más allá de Muscat, en entornos de datos vinculados, la información sobre las obras –y los registros RISM asociados– puede integrarse a búsquedas web, enciclopedias online y otras bases de datos externas.
+The index of places collects the names of locations, including historical geographic names.
 
-En cada registro bibliográfico de una fuente musical en Muscat, el vínculo a un registro de autoridad de obra se puede realizar por medio del campo 930. Las obras que no estén en el registro de autoridades deben ser creadas antes de que se las pueda enlazar a las fuentes.
 
-#### Creación de un nuevo registro de autoridad de obra
 
-Por favor, contacte al Centro Editorial de RISM en caso de que desee crear registros de autoridades de obras.
+### Secondary literature
 
-Por favor, consulte, en general, los lineamientos para el campo correspondiente en el módulo de Fuentes.
+This bibliographic database contains information about all forms of secondary literature: catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc.  By clicking on "Create," a new work of secondary literature may be added.
 
-Una vez abierta la plantilla para crear un nuevo registro de autoridad de una obra, use la **búsqueda en VIAF** para ver si la obra ya está cargada allí; si ese fuese el caso, haga click en **seleccionar** para transferir los datos a su registro de autoridad y hacer el enlace a VIAF. Tenga en cuenta que esta búsqueda examina sólo el campo 100 (es decir, nombre de compositor, resumen de plantilla/orgánico, número de opus o de catálogo temático, tonalidad y título), por lo que no es posible la búsqueda de variantes. Recuerde que los distintos colaboradores de VIAF tienen diferentes maneras de registrar obras, por lo cual es esperable que se encuentren variaciones en la formulación de los títulos, los instrumentos e incluso de los índices temáticos. Una buena estrategia consiste en buscar por el nombre de compositor más el número del opus/índice temático.
 
-Tenga en cuenta que una vez importados los datos de VIAF, puede resultar necesario limpiar algunas entradas en el campo **Encabezado** **(100)** para adecuar el registro al estándar de RISM. No borre o edite información importante en el campo **Variantes de nombre (400)**.
+
+### Subject headings
+
+All subject headings, forms, and genres are collected here. Some records include explanations as to the scope of the subject heading. If you need a subject heading that is not in our list, please let us know and we will create one for you.
+
+### Titles / Text incipits
+
+This authority file contains both the titles entered in the field **Standardized title (240 $a)** and the text incipits entered in the field **Text incipit (031 $t)**.
+
+### Works
+
+An authority record for a work is for all information that is true for a work as a whole, no matter what other forms a piece of music exists in, whether it be—for example—an arrangement, a translation, a full score, or a single manuscript. Authority records can include the composer, title, title variants, key, instrumentation, and incipits, though it is not always an easy matter to decide what constitutes a separate "work."
+
+Associating a musical source in Muscat with an authority record for a work ensures that all instances of any given piece of music are linked together. This improves the searchability of the catalog and helps users find all relevant sources, regardless of whether, for example, one manuscript calls the famous Mozart opera "Die Zauberflöte" and another is labeled "The Magic Flute," or a small chamber music piece is called a "duet" on one manuscript but a "sonata" on another. Beyond Muscat, in the linked data environment, information on works—and the associated RISM records—can be integrated into web searches, online encyclopedias, and other external databases.
+
+Links to authority records for works are made in the field 930 in every bibliographic record for a musical source. Works not in the authority file must be created first before a link can be made.
+
+#### Creating a new authority record for a work
+
+Please contact the RISM Editorial Center if you wish to create authority records for works.
+
+Please refer, in general, to the guidelines for the respective field in the Sources module.
+
+When you open a template to create a new authority record for a work, use the **VIAF search** to look in VIAF to see if the work is already there, and click **select** to transfer the data to your authority record and make the link to VIAF. Note that only the field 100 is searched (i.e., composer name, scoring summary, opus/thematic catalog number, key, and title), so searching for variants is not possible. Keep in mind that different VIAF contributors have different ways of expressing works, so expect variations in the formulation of titles, instruments, and even thematic indexes. A good strategy is to search by composer name plus the number of the opus/thematic index.
+
+After you import the data from VIAF, note that it may be necessary to clean up some fields in the field **Heading (100)** to conform to RISM standards. Do not delete or edit imported information in the field **Name variants (400)**.
