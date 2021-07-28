@@ -1,12 +1,12 @@
-**Uso do inglês vs. outros idiomas**  
-Terminologia em inglês ou abreviaturas inglesas estabelecidas são obrigatórias em alguns campos, enquanto que, em outros campos, outros idiomas são aceitáveis.
+**Use of English vs. other languages**  
+English terminology or fixed English abbreviations are required in some fields while in other fields, other languages are acceptable.
 
-Quando o inglês é obrigatório, isto está indicado nas diretrizes para o campo em questão.
+When English is required, it is indicated in the guidelines for the applicable field.
 
-**Idioma de catalogação**  
-Quando o inglês não é obrigatório, pode-se utilizar o que as diretrizes chamam de seu idioma de catalogação. O RISM permite os seguintes idiomas de catalogação: alemão, espanhol, francês, inglês, italiano e português. Alternativamente, outros idiomas são permitidos, desde que se forneça um resumo em um dos seis idiomas de catalogação. As diretrizes sempre indicam quando o idioma de catalogação pode ser utilizado.
+**Cataloging language**  
+When English is not required, you may use what the guidelines refer to as your **cataloging language**. RISM allows the following cataloging languages: English, French, German, Italian, Portuguese, and Spanish. Alternately, other languages are allowed as long as a summary is provided in one of the six cataloging languages. The guidelines always state when the cataloging language may be used.
 
-Nas diretrizes a seguir, “idioma de catalogação” refere-se tanto à prática de utilizar um destes seis idiomas de catalogação, como à de utilizar um idioma diferente, acrescido de uma tradução em um dos seis idiomas de catalogação.
+In the guidelines that follow, "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
 
-**Transliterações**  
-Os grupos de trabalho nacionais são responsáveis por determinar quais tabelas de transliteração devem ser utilizadas ao transliterar seus idiomas.
+**Transliterations**  
+National groups are responsible for determining what transliteration tables should be used when transliterating their language.
