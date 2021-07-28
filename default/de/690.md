@@ -1,8 +1,11 @@
-#### Werkverzeichnis (690 $a)
+### Catalog of works (690)
 
-Hier wird das Kürzel des Werkverzeichnisses (beispielsweise **BWV** ) eingetragen. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft. Neue Werkverzeichnisse werden in Absprache mit der Zentralredaktion eingegeben.
+#### Catalog of works (690 $a)
 
-#### Nummer/Seitenzahl (690 $n)
-**Pflichtfeld, wenn "Werkverzeichnis" ausgefüllt ist.**
+Enter the short title for the thematic catalog or catalog of works (for example, **BWV** ). This field is linked to the **Secondary literature** database. Catalogs not in the database can be entered there.
 
-In diesem Feld wird die Verzeichnisnummer bzw. die Fundstelle im Werkverzeichnis angegeben. Die Zentralredaktion gibt eine Zitierweise vor, die sich am Werkverzeichnis orientiert und im Literatur-Datensatz erklärt ist. Enthält die Quelle nur einen Satz eines Werks, wird die Satznummer nach einem Schrägstrich (/) angegeben. Ist eine Komposition nicht im Werkverzeichnis enthalten, wird dies mit der Bezeichnung **deest** kenntlich gemacht.
+#### Number/page (690 $n)
+
+**Required field if "Catalog of works" is filled out.**
+
+Enter the catalog number from a works or thematic catalog, or the page number of the piece in that catalog. The RISM Editorial Center determines the appropriate citation style, in keeping with the style of the catalog. The citation style is explained in the corresponding entry in the **Secondary literature** database. If the source contains only one movement of a work, indicate the number of the movement after a slash. Write **deest** if a particular composition is not listed in the composer’s catalog of works.
