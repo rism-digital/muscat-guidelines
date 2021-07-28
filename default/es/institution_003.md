@@ -1,5 +1,5 @@
-#### **Identificador de número de control (003)**
+#### **Control number identifier (003)**
 
-**No lo modifique.**
+**Do not change.**
 
-Este campo está destinado al código de la agencia cuyo número de control de sistema está presente en el campo **Número de ID de RISM (001).**
+This field is for the code of the agency whose system control number is contained in the field **RISM ID number (001)**.
