@@ -1,323 +1,335 @@
-Questa sezione descrive come catalogare tipi speciali di fonti: raccolte, volumi compositi, contrafacta, opere compilative, parodie, materiali misti (manoscritti e fonti a stampa riunite insieme), musica in periodici, musica in pubblicazioni non musicali, trattati e riduzioni per pianoforte.
+This section describes how to catalog special types of sources: collections, composite volumes, contrafacta, compilations, insertion arias, parodies, mixed materials (manuscripts and printed items stored together), music in periodicals, music in non-music publications, libretti, treatises, and piano arrangements.
 
-### La catalogazione di raccolte
+### Cataloging collections
 
-In RISM, una _raccolta _è sia un manoscritto volontariamente collettivo o un’antologia di più opere, sia un oggetto che contiene due o più composizioni separate. Ciò significa che se un manoscritto di una sonata per pianoforte, ad esempio, contiene alla fine uno schizzo per una fuga, RISM lo cataloga come una raccolta con una scheda madre per l'oggetto intero e schede figlie per la sonata e per la fuga. 
+In RISM, a _collection_is both an intentional collective manuscript or anthology of multiple works as well as an item that contains two or more separate pieces. The latter means that if a manuscript for a piano sonata, for example, also has a sketch for a fugue at the very end, RISM would catalog it as a collection with a parent record for the item as a whole and individual entries for the sonata and the fugue.
 
-Catalogando delle raccolte, si prega di notare quanto segue:
+When cataloging collections, please note that:
 
-1. La scheda principale (scheda madre) deve contenere informazioni valide per l’intera raccolta.  
-2. Ogni informazione valida solo per alcune parti della raccolta va inserita nella notizia individuale. 
+1. The collection main entry (parent record) should contain information that applies to the entire collection.
+2. Any information that is relevant only for some sections of the collection should be entered in the individual entry.
 
-Se le composizioni nella raccolta hanno compositori, organici ecc. diversi, non inserirli nella scheda principale.
+If the works in the collection have different composers, scoring, source types, etc., then do not enter them in the parent record.
 
-Per le raccolte che comprendono composizioni molto simili, è una buona strategia di creare una prima notizia completa e utilizzare la funzione “Duplica” per copiare la scheda. Così, per le schede seguenti dovrai soltanto cambiare alcuni campi come titolo e numero di pagina.
+For collections in which the works are very similar, it is a good strategy to create a full first entry and use the "Duplicate" function to copy the record. Then for the following records you only have to change fields such as title and page number.
 
-La scheda principale (scheda madre) di una raccolta non può contenere un'altra scheda madre di una raccolta di manoscritti. Scegli piuttosto una gerarchia orizzontale, usando schede individuali e spiegando la struttura, la conformazione o l'organizzazione dell'oggetto in una nota.
+Collection parent records may not contain collection parent records of manuscripts. Instead, use a flatter hierarchy by means of individual records and explain the structure, makeup, or organization of the item in a note.
 
-### La catalogazione di volumi compositi
+###
 
-Un **volume composito**  consiste di oggetti creati separatamente e rilegati insieme più tardi, solitamente da un possessore o un'istituzione. Vi sono altri nomi per questi volumi: "bound-with", "Sammelband", "binder's volume" o "collector's volume". I volumi compositi comprendono sia volumi in cui più singole edizioni a stampa sono rilegate insieme, sia volumi in cui oggetti a stampa e manoscritti sono rilegati insieme.  
-  
-Vi sono due maniere di indicare un volume composito. La prima, e la più semplice, è di indicare la stessa segnatura per i diversi oggetti: una nota "rilegato con" è utile. La seconda è di usare il modello per i volumi compositi.  
-  
-La scheda di un volume composito serve come un mezzo per collegare tutti gli oggetti rilegati insieme a una scheda unica, fornendo all'utente un utile riassunto dell'intero contenuto del volume rilegato. 
+### Cataloging a composite volume
+A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are other names for such volumes: binders' collections, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volumes, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
 
-È opportuno mantenere semplici le schede per un volume composito. Come per le schede principali di una raccolta, l'informazione data nella scheda di un volume composito deve essere valida per ciascuno dei componenti del volume, e ricorda che ogni informazione dettagliata riguardo alla musica contenuta va inserita nelle relative schede bibliografiche. Non creare schede separate per vari volumi compositi che appartengono a un'unità, ad esempio un insieme di libri-parte rilegati per tipologia di voce; questi vanno descritti in una scheda unica. In molti casi, vari campi resteranno vuoti. 
+There are two ways to indicate a composite volume. The first, and simplest, way is to catalog the items separately and give the items the same shelfmark; a bound-with note is also helpful. The second is to use the template for a composite volume record.
 
-Al volume composito si collegano manoscritti oppure edizioni a stampa, e il collegamento è fatto in modo diverso:
+The composite volume record serves as means to link all bound items to a single record, thus providing the user with a convenient overview of the entire contents of a bound item.
 
-1. Crea prima la scheda per il volume composito, salvala e annota il numero RISM.
-2. Per manoscritti: Nella modalità di redazione della scheda del tuo manoscritto, vai al campo **Notizia principale (773)**. Fai clic sul secondo bottone per cercare il volume composito.  
-3. Per edizioni a stampa: Nelle informazioni di possesso dell'edizione a stampa, trova il campo **Rilegato con (973)** e fai clic sulla lente d'ingrandimento. Cerca la scheda del volume composito e selezionala.
+Records for a composite volume should be kept simple. In principle, they simply describe the binding. Do not confuse composite volumes with collections; "collections" in RISM are for manuscripts only. Furthermore, do not confuse composite volumes with printed editions: a printed edition is single bibliographic unit that was issued by the publisher as such. Both collections and printed editions can contain multiple pieces. In contrast to this, composite volumes bring together disparate units: for example, a printed collection of madrigals from 1604, a manuscript of a motet from 1620, and a printed edition of madrigals from 1615.
 
-### La catalogazione di contrafacta
+As with collection parent records, the information given in the composite volume record should be true for all of the components of the volume, and remember that detailed information related to the music belongs in the respective bibliographic records. Do not create separate records for multiple composite volumes that belong together, such as a set of partbooks bound by voice type; these should be described in the same record. In many cases, you will be leaving a lot of fields blank.
 
-Un contrafactum è un brano vocale il cui testo verbale è stato cambiato, senza significativi interventi sul testo musicale, ad esempio sottoponendo un testo di carattere sacro a una composizione profana o vice versa. La derivazione è quasi meccanica; vi è poca creatività da parte dell'arrangiatore, ma vi è un cambiamento significativo nella destinazione della musica (ad esempio, da un contesto teatrale a uno religioso).  
-  
-Nota che RISM considera i contrafacta distinti dalle parodie o dalle messe parodia, che tipicamente imiplicano una trasformazione più significativa del contenuto musicale.  
-  
-Presta attenzione ai campi seguenti nella catalogazione di contrafacta. Useremo come esempio la scheda RISM ID no. 300234487, un contrafactum sacro di un'aria dall'opera Il Bellerofonte di Josef Mysliveček. 
+You will be linking either a manuscript item or a printed item to a record for a composite volume, and they are linked differently.
 
-**Compositore/Autore****  (100)**  
-Inserisci il compositore della musica originale.
+1. First, create the record for the composite volume, save, and note the RISM number.
+2. For manuscripts: In the editing mode of the record for your manuscript, go to the field **Parent record (773)**. Click the second button to search for the composite volume.
+3. For printed music: In the holdings information for the printed edition, find the field **Bound with (973)** and click the magnifying glass. Find the record for the composite volume and select it.
+
+### Cataloging contrafacta
+
+Contrafacta are vocal pieces in which the text is changed without significant change to the music, such as retexting a secular work with sacred text, or the other way around. The derivation is almost mechanical; there is little creativity on the part of the arranger, but there is a significant change in the musical purpose (such as from a theatrical context to a religious one).
+
+Please note that RISM considers contrafacta to be separate from parody and parody masses, which typically involve a more significant transformation of the musical material.
+
+Take note of the following fields when cataloging contrafacta. RISM ID no. 300234487, a sacred contrafactum of an aria from Josef Mysliveček's opera Il Bellerofonte, will be used as an example.
+
+**Composer (100)**    
+Enter the composer of the original music.
 
 - Mysliveček, Josef
 
-**Titolo uniforme (240)**  
-Utilizza il titolo uniforme della composizione originale. Puoi aggiungere  **Estratti**. Non usare  **Arrangiamento**.
+**Standardized title (240)**  
+Use the standardized title of the original piece. **Excerpts** may be added. Do not use **Arr**.
 
 - Il Bellerofonte. Excerpts
 
-**Titolo uniforme alternativo****  (730)**  
-Se vi è un nuovo, diverso titolo uniforme per il brano in esame, puoi inserirlo qui. Non inserire qui un incipit testuale.
+**Alternative title (730)**  
+If there is a new, distinct standardized title for the piece in hand, you can enter it here. Do not enter text incipits here.
 
-**Soggetto (650)**  
-Inserisci almeno tre soggetti (o più se necessario), in quest'ordine:  
+**Subject headings (650)**  
+Add at least 3 subject headings (more if appropriate), in this order:  
 Contrafacta  
-Genere attuale  
-Genere originale
+Current genre  
+Original genre
 
 - Contrafacta
 - Sacred songs
 - Operas
 
-**Descrizione sommaria****  (520)**  
-Aggiungi una breve descrizione in inglese che spiega la situazione a beneficio degli utenti RISM.
+**Description summary (520)**  
+Add a short description in English that explains the situation as a benefit to other RISM users.
 
 - Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte.
 
-**Codice lingua****  (041)**  
-Riempi entrambi i sottocampi:  
-Lingua del testo cantato (041 $a): Il testo attuale della fonte in esame  
-Lingua del testo originale (041 $h): La lingua della composizione originale
+**Language of text (041)**  
+Fill out both of these fields:  
+Language of text (041 $a): The current text of the source in hand  
+Language of original text (041 $h): Language of the original piece
 
-- Lingua del testo cantato: Latino
-- Lingua del testo originale: Italiano
+- Language of text: Latin
+- Language of original text: Italian
 
-**Incipit testuale****  (031 $t)**  
-Inserisci due incipit testuali (usa il segno + per aggiungere una nuova riga).  
-L'incipit testuale del testo attuale  
-L'incipit testuale del testo originale, se non, tra parentesi quadre.
+**Text incipit (031 $t)**  
+You will enter two text incipits (use the + to add a new line).  
+The text incipit of the current text  
+The text incipit of the original text, if known, in brackets.
 
 - Alma redemptoris mater, quae pervia caeli
 - [Giusti dei che ben vedete]
 
-**Altri campi**
+**Other fields**
 
-Ogni altro campo, come feste liturgiche e organico, fa riferimento alla fonte in fase di catalogazione, ossia al contrafactum e non alla composizione originale su cui questo è basato.
+All other fields, such as liturgical feasts and instrumentation, should refer to the source in hand, that is, the contrafactum itself, and not the original work on which it was based.
 
-### La catalogazione di opere compilative
 
-Una compilazione è un'opera nuova, indipendente, creata a partire da estratti di una o più altre composizioni, e può anche includere materiale originale. Spesso l'opera risultante appartiene a un genere diverso dalle parti che la costituiscono, ad esempio quando arie o duetti di un'opera teatrale diventano una cantata, oppure estratti di un'opera diventano una suite strumentale. Anche i pasticci rientrano in questa categoria. Seppure i confini tra compilazione e pasticcio sono fluidi, un pasticcio ha in genere una delle seguenti caratteristiche: (1) arie, duetti o parti più ampie di opere drammatiche adattate a un nuovo libretto; (2) varie composizioni singole combinate per creare un'opera nuova; o (3) composizioni collaborative concepite come tali fin dal principio.
+### Cataloging compilations
 
-Una compilazione può essere catalogata in una singola scheda, oppure come una raccolta.
+Compilations are new, independent works made from parts of one or more other works and can also include new material. Frequently, the resulting work is of a different genre than the component parts, such as when arias or duets from an opera become a cantata, or excerpts from an opera become an instrumental suite. This also includes pasticcios. While the boundary between a compilation and a pasticcio is not always clear, pasticcios can be generally be characterized by one of these features: (1) arias, duets, or larger parts of dramatic works that are adapted to a new libretto; (2) several independent works combined to create a new work; or (3) collaborative compositions conceived as such from the beginning.
 
-Presta attenzione ai campi seguenti per catalogare opere compilative.
+Compilations may be entered on a single record, or they may be entered as collections.
 
-**Compositore/Autore****  (100)**  
-Il compositore è sempre  **Compilations**.
+Take note of the following fields when cataloging compilations.
 
-**Nome aggiuntivo di persona****  (700)**  
-Il nome del compilatore può essere aggiunto con la funzione **Curatore**.  
-  
-Catalogando un'opera compilativa, inserisci il compositore o i compositori del materiale originale e seleziona la funzione  **Rimando ad altro compositore**. Inserisci  il compositore o i compositori di materiale originale aggiunto e seleziona la funzione  **Compositore secondario**.
+**Composer/Author (100)**  
+The composer is always **Compilations**.
 
-Catalogando un pasticcio, non inserire compositori come rimandi ad altri compositori. Inserisci piuttosto tutti i compositori come **Compositori secondari**.
+**Additional personal name (700)**  
+The name of the compiler can be added with the function **Editor**.
 
-**Titolo uniforme (240)**  
-Inserisci il titolo uniforme della fonte in esame. Per i pasticci, inserisci **Estratti**  or  **Arrangiamento**  se necessario.
+If you have a compilation, enter the composer(s) of the original material and select the function **Composer cross-reference**. Enter the composer(s) of the new material and select the function **Co-composer**.
 
-**Codice lingua****  (041)**  
-Nel campo  **Codice lingua** inserisci la lingua della fonte in esame. Se necessario, la lingua dell'opera originale può essere inserita nel sottocampo  **Lingua del testo originale**.
+If you have a pasticcio, do not enter composers as a composer cross-references. Instead, enter all composers as **Co-composer** s.
 
-**Soggetto (650)**  
-Il primo soggetto dev'essere **Compilations**  e/o  **Pasticcios**. Il secondo dev'essere il genere della fonte esaminata. Se vi sono degli estratti, puoi aggiungere il genere dell'estratto.  **Collaborative compositions**  è un'altra possibilità.
+**Standardized title (240)**  
+Enter the standardized title of the source in hand. For pasticcios, add **Excerpts** or **Arrangement** as appropriate.
 
-**Descrizione sommaria****  (520)**  
-Usa questo campo per descrivere in generale la natura della fonte.  
-_Esempio_ :  
-Atto I di Amadei, atto II di Bononcini, ouverture e atto III di Händel
+**Language code (041)**  
+For the field **Language of text** , enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
 
-**Titolo uniforme alternativo****  (730)**  
-Inserisci il titolo uniforme della composizione o delle composizioni originali, aggiungendo  **Estratti**  o  **Arrangiamenti**  se necessario. Puoi anche inserire altri titoli alternativi.
+**Subject heading (650)**  
+The first subject heading should be **Compilations** and/or **Pasticcios**. The second should be the genre of the source in hand. If you have excerpts, the genre of the excerpt can be added. **Collaborative compositions** is also an option.
 
-**Catalogo delle opere****  (690)**  
-Puoi inserire il numero di catalogo tanto della compilazione che delle opere originali.
+**Description summary (520)**  
+Use this field to describe in general the nature of the source.  
+_Example_ :  
+Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
 
-**Incipit testuale (031)**  
-Inserisci il testo della fonte in esame. Se è noto, inserisci tra parentesi quadre il testo originale.
+**Alternate title (730)**  
+Enter the standardized title of the original piece(s), adding **Excerpts** or **Arrangement** as appropriate. You can also enter ossia titles.
 
-**Nota generale (500)**  
-Aggiungi sempre una nota esplicativa, specialmente se sono coinvolte opere di più compositori. Questo permette all'utente di stabilire il collegamento corretto tra i compositori e le varie composizioni utilizzate per creare l'opera compilativa.
+**Catalog of works (690)**  
+You can enter the catalog of works number for both the compilation and the original works.
 
-**Nota sull'esecuzione****  (518)**  
-Aggiungi una nota soltanto di eventuali esecuzioni dell'opera compilativa.
+**Text incipit (031)**  
+Enter the text of the source in hand. If known, enter the original text in brackets.
 
-**Esempi di opere compilative** :
+**General note (500)**  
+Always use a note for clarification, especially if the works of separate composers are involved. This ensures that the composers are matched to the works used in the compilation.
 
-230001408: Una cantata creata a partire da arie d'opera con recitativi di nuova composizione
+**Note on performance (518)**  
+Performances should be noted only as they relate to the compilation itself.
 
-702000623: Una suite realizzata da estratti di un'opera 
+**Examples of compilations** :
 
-700007222: Varie opere di un unico compositore usate per creare una nuova cantata 
+230001408: Cantata made from opera arias with newly composed recitatives
 
-702000642, 702000643: Varie opere di vari compositori usate per creare una nuova suite
+702000623: Suite made from parts of an opera
 
-452505748: Un'opera-pasticcio consistente di tre atti di tre diversi compositori
+700007222: Several works by a single composer used to create a new cantata
+
+702000642, 702000643: Several works by several composers used to create a new suite
+
+452505748: An opera pasticcio consisting of 3 acts by 3 different composers
 
 ** **
 
-### La catalogazione di parodie
+### Cataloging parodies
 
-Una parodia è una composizione basata su materiale preesistente, risultante in una nuova opera. Nel XIX secolo il termine assunse una connotazione satirica. 
+A parody is a composition based on pre-existing material that results in a new work. In the 19th century, the term gains a satirical flavor.
 
-Useremo la scheda 150205470 come esempio.
+The record 150205470 will be used as an example.
 
- 
 
-**Compositore/Autore****  (100)**
 
-Inserisci il compositore della musica per la fonte in esame.
+**Composer (100)**
+
+Enter the composer of the music for the source in hand.
 
 - Weyse, Christoph Ernst Friedrich
 
-**Nome aggiuntivo di persona****  (700)**
+**Additional personal name (700)**
 
-Inserisci il compositore del materiale preesistente e seleziona la funzione  **Rimando ad altro compositore**.
+Enter the composer of the pre-existing material and select the function Composer cross-reference.
 
 - Rossini, Gioachino
 
-**Titolo uniforme (240)**
+**Standardized title (240)**
 
-Inserisci il titolo uniforme della fonte in esame.
+Enter the standardized title of the source in hand.
 
 - Dannemark hellige lyd
 
-**Titolo uniforme alternativo****  (730)**
+**Additional title (730)**
 
-Inserisci il titolo del materiale preesistente. Aggiungi **Estratti** se necessario. Non usare **Arrangiamenti** o **Variazioni**. 
+Enter the title of the pre-existing material. Add Excerpts as appropriate. Do not use Arrangement or Variations.
 
 - Tancredi. Excerpts
 
-**Soggetto (650)**  
-Inserisci Parodies come primo soggetto. Inserisci il genere della fonte in esame in seconda posizione, e come terzo soggetto il genere del materiale preesistente.
+**Subject heading (650)**  
+Enter Parodies as the first subject heading. Enter the genre of the source in hand for the second, and the genre of the pre-existing material as the third.
 
 - Parodies
 - National anthems
 - Operas
 
-**Codice lingua****  (041)**
+**Language code (041)**
 
-Inserisci la lingua della fonte in esame nel sottocampo  **Lingua del testo cantato**. Inserisci la lingua del materiale preesistente nel campo  **Lingua del testo originale**.
+Enter the language for the source in hand in the field Language of text. Enter the language of the pre-existing material in the field Language of original text.
 
 - Danish
 - Italian
 
-**Incipit testuale****  (031)**
+**Text incipits (031)**
 
-Inserisci l'incipit testuale della fonte in esame. Se è noto il testo originale, inseriscilo tra parentesi quadre.
+Enter the text incipit of the source in hand. If the original text is known, enter it in brackets.
 
 - Dannemark hellige lyd
 - [Di tanti palpiti]
 
-**Altri campi**
+**Other fields**
 
-Ogni altro campo, ad esempio note di esecuzione, si riferisce soltanto alla fonte in esame.
+All other fields, such as performance information, should relate only to the source in hand.
 
 ** **
 
-#### La catalogazione di inserti di arie  
+#### Cataloging insertion arias
 
-Opere che comprendono inserti di arie (anche chiamate arie di baule o arie interpolate) vanno catalogate con tre schede: una scheda madre (collezione) per l'opera intera, una scheda per i movimenti originali dell'oepra (che conterrà la maggior parte degli incipit), e una scheda per ciascuno degli inserti. 
+Operas that include insertion arias (also called suitcase arias or interpolated arias) should be cataloged with at least three records: a parent record (collection record) for the opera as a whole, a record for the original movements of the opera (which will contain most of the incipits), and a record for each of the inserts.
 
-Inserti separati da un'opera più vasta vanno catalogati separatamente. Un collegamento alla composizione in cui erano inseriti può essere indicato nel campo **Fonte correlata (787**).
+Inserts that are separated from a larger work should be cataloged separately. A link to the work into which it was inserted can be indicated in the field **Related source (787**).
 
-Le regole consuete vanno applicate creando la scheda madre e la scheda per la composizione principale. Si prega di osservare quanto segue quando si cataloga l'inserto. Nota che tutti i campi (come la data di composizione e l'organico) si riferiscono soltanto all'inserto.
+The usual rules apply when creating the parent record and the record for the main opera. Please observe the following when cataloging the insert. Note that all fields (such as date of composition and scoring) pertain to the insertion only.
 
-**Compositore/autore (100)**: Compositore dell'inserto
+**Composer (100)**: Composer of the insertion
 
-**Nome aggiuntivo di persona****  (700)**: Compositore dell'opera più vasta, ad esempio un'opera teatrale
+**Additional name (700)**: Composer of the larger work, such as an opera
 
-**Titolo uniforme (240)**: Titolo dell'inserto, o nome dell'opera seguito da  **Excerpts**
+**Standardized title (240)**: Title of the insertion, or the name of the opera followed by Excerpts
 
-**Titolo uniforme alternativo****  (730) **: Titolo dell'opera più vasta, seguito dal sottocampo** Inserts**
+**Additional title (730)**: Title of the larger work, plus the subheading **Inserts**
 
-**Soggetto (650)**: Inserisci tre soggetti: **Insertions** , il genere dell'inserto e il genere dell'opera più vasta
+**Subject heading (650)**: Enter three: Insertions, the genre of the insertion, and the genre of the larger work
 
-**Fonte correlata (787)**: Indica l'opera più vasta all'interno della quale questo brano è stato inserito e seleziona il tipo di relazione ** Insert in**. Aggiungi un breve commento nel campo **Note ** per spiegare la natura dell'inserto, ad esempio dove è collocato all'interno dell'opera più vasta.
+**Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
 
-**Nota generale (500)**: Ogni informazione supplementare piò essere aggiunta per chiarificare la relazione dell'inserto con l'opera più vasta (se conosciuta).
+**General note (500)**: Any additional information can be added to make the relationship of the insert within the larger work (if known) clear.
 
-### La catalogazione di materiale misto (manoscritti e fonti a stampa conservate insieme)
+### Cataloging mixed materials (manuscripts and printed items stored together)
 
-Non è insolito trovare materiale manoscritto e a stampa riunito in una stessa cartella o sotto la stessa segnatura: ad esempio, una partitura a stampa con parti staccate manoscritte, oppure un groppo di parti a stampa insieme ad alcune manoscritte. 
+It is not uncommon for manuscript and printed items to be found together in the same folder or with the same shelfmark: for example, a printed score with handwritten parts, or a group of printed parts together with some handwritten ones.
 
-Idealmente, il materiale a stampa dovrebbe essere catalogato in una scheda separata, perché è possibile che altre biblioteche possiedano copie della stessa edizione. Crea una notizia per l'oggetto a stampa, aggiungi le tue informazioni di possesso, e crea un'altra notizia per il materiale manoscritto. Usa il campo **Fonte correlata (787)** per rimandare da una scheda all'altra.
+Always strive to catalog the printed material in a separate record, because it is possible that other libraries have copies of the same edition. Create one record for the printed item, add your holdings, and create another record for the manuscript materials. Use the field **Related source (787)** to point from one record to the other.
 
-Non è sempre possiible creare una notizia adeguata per il materiale a stampa. In questi casi, procedi come segue: Cataloga il materiale usando un modello per manoscritti. Nella sezione per la descrizione fisica, descrivi il materiale manoscritto. Aggiungi un secondo gruppo di materiale e descrivi il materiale a stampa.
+ If it is not feasible to create an adequate record for the printed material, proceed as follows: Catalog your material using a manuscript template. In the material description section, describe the manuscript materials. Add an additional material group, and describe the printed materials.
 
-### La catalogazione di musica all'interno di un periodico 
+### Cataloging music in periodicals
+There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.
 
-Ci sono due modi di catalogare periodici che contengono musica: come una raccolta o come una singola composizione. In ogni caso, il titolo del periodico, col numero dell'annata e l'anno, è inserito nel campo  **Titolo uniforme alternativo****  (730)**.
 
-Una **raccolta**  può essere adeguata se il periodico consiste interamente o in gran parte di musica e l'oggetto è stato acquisito e conservato integralmente. Le informazioni di possesso vanno collegate al livello della raccolta. Per ogni composizione in un numero del periodico va creata una scheda singola.   
-_Esempio_:  
-1001097294: Numero di gennaio (l'anno è sconosciuto) della _Kleine Pianoforte-Bibliothek_, contenente cinque composizioni. Si è creata una scheda per la notizia principale per la raccolta, e cinque notizie individuali per ciascuna composizione.
+**Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.  
+_Example_:  
+1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. There is one record for the collection parent record, and five individual entries for each piece.
 
-Un' **opera singola**  può essere adeguata se la composizione è compresa come un inserto o un'aggiunta a un periodico il cui contenuto prevalente è privo di notazione musicale. Di frequente, simili oggetti si conservano al di fuori del contesto originario della loro pubblicazione.   
-_Esempi_:   
-991018149: "The Pantheon" pubblicato in _The Lady's Magazine_, agosto 1784  
-990042111: "L'amour folâtrant l'autre jour" pubblicato in _Nouveau Mercure galant_, maggio 1679
+**Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context.  
+_Examples_:    
+991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784  
+990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
 
-###   
-La catalogazione di musica all'interno di pubblicazioni non musicali
+###
+Cataloging music in non-music publications
 
-RISM comprende anche musica trovata in pubblicazioni a stampa che non sono principalmente documenti musicali. L'oggetto della catalogazione RISM ciononostante riguarda la musica.  
-  
-_Esempio_:  
-990026614: Tre composizioni vocali di John Isaac Hawkins pubblicate nel _Discourse introductory to a course of lectures on the science of nature _(1800) di Charles Willson Peale.  
-**Compositore/Autore****  (100)**: Il compositore della musica  
-**Nome aggiuntivo di persona****  (700) **: L'autore del libro, con l'indicatore ** Altra funzione**  
-**Titolo diplomatico****  (245)**: Il titolo del libro  
-**Titolo uniforme (240)**: Un titolo uniforme secondo le regole RISM, ad esempio **3 Songs**  
-**Descrizione fisica****  (300) **: Una descrizione della musica, ad esempio ** 1 score: 5 p. **
+RISM includes music found in printed publications that are not primarily music documents. The focus of the RISM record is nevertheless the music.
 
-Vanno poi create notizie individuali per ciascun brano, seguendo le consuete norme RISM.
+_Example_:   
+990026614: 3 songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).  
+**Composer/Author (100)**: The composer of the music  
+**Additional Personal Name (700)**: The author of the book, with the indicator **other**  
+**Title on source (245)**: The title of the book  
+**Standardized title (240)**: A standardized title according to RISM rules, such as **3 Songs**  
+**Physical description (300)**: A description of the music, such as **1 score: 5 p. **
 
-### La catalogazione di libretti  
+Individual entries are then created for each piece, following normal RISM rules.
 
-Si prega di osservare quanto segue nella catalogazione di libretti.
+### Cataloging libretti
 
-**Compositore/Autore****  (100):** Inserisci l'autore del libretto. Non usare questo campo per il compositore della musica. 
+Please observe the following when cataloging libretti.
 
-**Nome aggiuntivo di persona****  (700):** Una funzione utile è "Autore della fonte letteraria", ad esempio l'autore di un'opera di teatro di prosa su cui si basa il libretto. Inserisci un nome di compositore come rimando soltanto se è menzionato nella fonte.
+**Composer/Author (100):** Enter the author of the libretto. Do not use this field for the composer of the music.
 
-**Nome di ente aggiuntivo (710):** Non dimenticare di indicizzare il nome dell'editore (per libretti stampati).
+**Additional personal name (700):** A useful function is "conceptor," such as the author of a play that a libretto was based on. Only enter a composer's name as a cross-reference if named on the source.
 
-**Titolo uniforme (240):** I campi "Arrangiamento" e "Tonalità, modo" non hanno rilevanza in questo caso. Se il libretto comprende notazione musicale, indica la tonalità soltanto nell'incipit musicale (031).
+**Additional institution (710):** Do not forget to index the name of the publisher (for printed libretti).
 
-**Titolo uniforme alternativo (730):** Se il libretto è basato su un libro o su un'opera di teatro di prosa, puoi inserire qui il titolo dell'opera originale.
+**Standardized title (240):** The fields "Arrangement statement" and "Key or mode" are not relevant here. If the libretto includes notated music, indicate the key in the music incipit (031) only.
 
-**Soggetto (650):** Inserisci il nome del genere per cui il libretto è scritto, se conosciuto (ad esempio, “Operas” o “Cantatas”). "Librettos" non è necessario.
+**Additional title (730):** If the libretto was based on a book or play, the title of the original work can be entered here.
 
-**Codice lingua (041):** Usa il campo "Lingua del testo cantato" solo se il libretto contiene notazione musicale con un testo sottoposto.
+**Subject heading (650):** Enter the name of the genre for which the libretto was written, if known (such as “Operas” or “Cantatas”). "Librettos" is not necessary.
 
-**Categoria di fonte (593):** Seleziona "Libretto, handwritten" oppure "Libretto, printed."
+**Language code (041):** Use the field "Language of text" only if the libretto contains notated music with words.
 
-**Descrizione fisica (300):** Usa l'espressione "text document" per descrivere il formato del libretto. Ad esempio: 1 text document: viii, 27. p.
+**Source type (593):** Select either "Libretto, handwritten" or "Libretto, printed."
 
-### La catalogazione di trattati
+**Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p.
 
-Catalogando un trattato, il campo  **Categoria di fonte, estensione**  **(300 $a)** in genere include come formato "text document".
+### Cataloging treatises
 
-Fra i soggetti adeguati per un trattato ricordiamo:
+When cataloging treatises, the field **Format, extent (300 $a)** should generally include "text document" as the format.
 
-- **Treatises** : trattati
-- **Writings** : scritti
+Appropriate subject headings for treatises include the following:
+
+- **Treatises**
+- **Writings**
 - **Music theory**
 - **Theory of harmony**
-- **Tutors (inst.)**: comprende metodi e scuole
-- **Tutors (voc.)**: comprende metodi e scuole
+- **Tutors (inst.)**: Includes methods and schools
+- **Tutors (voc.)**: Includes methods and schools
 - **Contrapuntal studies (inst./voc.)**
 - **Solfeggios (voc.)**
 - **Solfeggios (inst.)**
-- **Scales (inst./voc.)**  
+- **Scales (inst./voc.)**
 
-Si possono aggiungere anche altri soggetti.
+Additional subject headings may be added.
 
-### **La catalogazione di riduzioni per pianoforte**
+### Cataloging piano arrangements
 
-Descrivi riduzioni per pianoforte (spartiti) nel modo seguente.
+Specify piano arrangements as follows.
 
-- 
+-
 
-Nel campo **Titolo uniforme (240):**
+In the field **Standardized title (240):**
 
-  - Seleziona  **Arrangiamento**  nel sottocampo  **Arrangiamento**.
+  -
 
-  - Sotto **Organico sintetico** , inserisci l'organico dell'arrangiamento, ad esempio  **pf**  o  **V, pf**. Non inserire l'organico della composizione originale.
+Select **Arrangement** next to **Arrangement statement**.
 
-- Nel campo **Organico (594)**, inserisci l'organico completo dell'arrangiamento. Non inserire l'organico della composizione originale.
+  -
 
-- Nel campo **Descrizione fisica (300)**, utilizza  **keyboard score**  se la composizione è stata ridotta per pianoforte solo. Utilizza  **vocal **** score** se la composizione è stata ridotta per canto e pianoforte. 
+Under **Scoring summary** , enter the scoring of the arrangement, such as **pf** or **V, pf**. Do not enter the scoring of the original work.
+
+-
+
+In the field **Total scoring (594)**, enter the total scoring of the arrangement. Do not enter the scoring of the original work.
+
+-
+
+In the field **Physical description (300)**, use **keyboard score** if the work has been reduced for piano. Use **vocal** score if the work has been reduced for voice and piano.
