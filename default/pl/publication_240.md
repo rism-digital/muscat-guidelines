@@ -1,35 +1,35 @@
-### **Tytuł pozycji (240)**
+### **Title of item (240)**
 
-**Pole wymagane.**
+**Required field.**
 
-####   
-**Tytuł pozycji (240 $a)**  
+####
+**Title of item (240 $a)**
 
-Podać tytuł pozycji, łącznie z podtytułami. Tłumaczenia tytułu można podać w polu **Tytuł dodatkowy (730)**.
+Enter the title of the item, including subtitles. Translations of the title can go in the field **Additional title (730)**. Book reviews can be indicated by the prefix [review of:] and the name of the item.
 
-####   
-**Kategoria (240 $g)**  
+####
+**Category (240 $g)**
 
-Wybrać kategorię publikacji. Do wyboru są następujące kategorie:
+Select the category that describes the publication. Choose from:
 
-- **Bibliografia**
-- **Katalog** : inne katalogi, w tym katalogi kolekcji lub zbiorów bibliotecznych
-- **Katalog dzieł** : katalog dzieł kompozytora nie zawierający incipitów
-- **Katalog zbiorowy** : katalogi obejmujące utwory więcej niż jednego kompozytora
-- **Encyklopedia**
-- **Edycja nutowa** : edycja współczesna lub edycja krytyczna utworu muzycznego  
-- **Inne** : obejmuje wszystkie inne, niekatalogowe, nieencyklopedyczne publikacje, takie jak artykuły, eseje, rozdziały, biografie, opracowania z zakresu historii kultury itd.  
-- **Katalog tematyczny** : katalog kompozytora łącznie z incipitami  
-  
+- **Bibliography**
+- **Catalog** : other catalogs, includes catalogs of collections or library holdings
+- **Catalog of works** : a catalog of a composer that does not include incipits
+- **Collective catalog** : catalogs that include works by more than one composer
+- **Encyclopedia**
+- **Music edition** : a modern edition or a critical edition of a musical work
+- **Other** : includes all other non-catalog, non-encyclopedia publications, such as articles, essays, chapters, biographies, cultural histories, etc.
+- **Thematic catalog** : a catalog of a composer that includes incipits
 
-####   
-**Typ publikacji (245 $h)**  
 
-Wybrać typ publikacji z następującej listy:
+####
+**Type of publication (245 $h)**
 
-- **Artykuł/rozdział**
-- **Monografia** : pojedyncza publikacja na jeden temat (dotyczy większości książek)
-- **Czasopismo** : czasopismo, gazeta, magazyn  
-- **Seria** : typ publikacji wybierany w przypadku wprowadzania nazw serii  
-- **Tom w serii**  
-- **Rocznik**
+Select the type of publication from the following list:
+
+- **Article/chapter**
+- **Monograph** : a single publication published on a single topic (includes most books)
+- **Periodical** : a journal, newspaper, magazine
+- **Series** : this is used when you enter names of series
+- **Volume in a series**
+- **Yearbook**
