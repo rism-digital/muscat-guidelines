@@ -1,14 +1,14 @@
-#### **Instituição (MARC 110 $a; ISDIAH 5.1.2)**
+#### **Institution (MARC 110 $a; ISDIAH 5.1.2)**
 
-Este campo cria um ponto de acesso autorizado único, que identifica exclusivamente a instituição detentora do acervo.
+This field creates an authorized access point that uniquely identifies the institution with archival holdings.
 
-#### **Forma autorizada do nome (110 $a)**
+#### **Authorized form of name (110 $a)**
 
-Insira o nome atual da instituição no idioma local. Se o idioma local é escrito em um alfabeto não-latino, transcreva de uma forma transliterada. 
+Enter the current name of the institution in the local language. If the original language is in a non-Latin alphabet, write it in transliterated form.
 
-Quando bibliotecas, arquivos ou centros de documentação pertencem a uma instituição maior, insira o nome da instituição maior e acrescente a unidade subordinada separada por uma vírgula.  
+When libraries, archives or documentation centres belong to a larger institution, enter the name of the larger institution first and add the subordinate unit separated by a comma.
 
-_Exemplos_:  
+_Examples_:  
 Privatsammlung Cees Verheijen  
 Private collection Christopher Hogwood  
 Llyfrgell Genedlaethol Cymru  
@@ -16,31 +16,33 @@ Norges musikkhøgskole, Biblioteket
 ERESBIL - Musikaren Euskal Artxiboa  
 Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossi
 
-####   
+#### **Subordinate unit (110 $b)**
 
-#### **Local (110 $c)**
+Enter the name of the subordinate unite of the institution.
 
-Insira a cidade da instituição. Se o idioma local é escrito em um alfabeto não-latino, transcreva em uma forma transliterada. 
+#### **Place (110 $c)**
+
+Enter the city of the institution. If the original language is in a non-Latin alphabet, write it in transliterated form.
 
 ** **
 
-#### **Sigla (110 $g)**
+#### **Siglum (110 $g)**
 
-Este campo destina-se à Sigla de instituição RISM, única e inalterável. **Siglas são atribuídas pela Redação Central do RISM** em consulta com os grupos de trabalho RISM nacionais.
+This field is for the unique, unalterable RISM library siglum. **Sigla are assigned by the RISM Editorial Center** in consultation with the RISM national working groups.
 
-Siglas de instituições são elaboradas com três elementos: uma abreviatura de país, uma abreviatura de cidade e uma abreviatura de instituição. Em alguns casos, a abreviatura de instituição pode ser omitida (exemplo: D-B). As abreviaturas para o país e a cidade são sempre em maiúsculas e a abreviatura para a instituição é sempre em minúsculas. O código de país é separado dos demais detalhes por um hífen. O código para país é quase sempre tomado da lista de códigos internacionais para registro de veículos mantida pelas Nações Unidas. Códigos de cidade e instituição são criados pela Redação Central do RISM.
+Library sigla are made up of three elements: a country abbreviation, a city abbreviation, and an institution abbreviation. In some cases, the institution abbreviation may be omitted (example: D-B). The abbreviations for the country and city are always capitalized and the abbreviation for the institution is always lowercase.  The country code is separated from the other details by a hyphen.  The code for the country is almost always taken from the list of international vehicle registration codes maintained by the United Nations. City and institution codes are created by the RISM Editorial Center.
 
-No caso em que uma instituição tenha modificado seu nome, ainda será mantida para ela a mesma sigla. (Por ex.: CZ-Bu)
+ In case an institution has changed its name, it still keeps the same siglum. (For ex.: CZ-Bu)
 
- 
 
-_Exemplos_:  
+
+_Examples_:  
 GB-Cu = United Kingdom, Cambridge, University Library  
 F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique.
 
-No caso de coleções privadas, o último nome do proprietário é adicionado ao código de cidade em letras minúsculas.
+In the case of private collections, the last name of the owner is added to the city code in lowercase letters.
 
-_Exemplo_:  
+_Example_:  
 I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti.
 
-O RISM usa siglas de instituições desde sua fundação em 1952 em todas as suas publicações e catálogos. Elas são também utilizadas em todas enciclopédias musicais internacionais padrão e em publicações musicológicas.
+RISM has been using library sigla since its foundation in 1952 in all of its publications and catalogs. They are also used in all of the standard international music encyclopedias and in musicological publications.
