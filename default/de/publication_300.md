@@ -1,10 +1,9 @@
-#### Material (300)  
+**### Physical description (300)**
+#### **Extent (300 $a)**
 
-**Umfang (300 $a)**  
-  
-Geben Sie den Umfang in Seitenzahlen oder Bänden an.  
-  
-_Beispiele_:  
+Enter the extent of the item in number of pages or volumes.
+
+_Examples_:  
 270 p.  
 xxi, 528 p.  
 2vol.: XI, 518p.; 480p.
