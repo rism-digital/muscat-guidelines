@@ -1,3 +1,3 @@
-**Codice del paese (043) **  
-  
-Scegli il paese dal menu a tendina. Paesi aggiuntivi possono essere aggiunti dopo esserti consultato con il RISM Editorial Center.
+#### **Country code (043)**
+
+Select the country from the list. Additional countries may be added in consultation with the RISM Editorial Center.
