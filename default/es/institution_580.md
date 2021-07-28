@@ -1,9 +1,6 @@
-#### Ahora en (MARC 580 $x)
+**Now in (MARC 580 $x)**
 
-Si las tenencias de una institución han sido transferidas a otra, ingrese el nombre de la institución que las resguarda actualmente en este campo.  
+If the holdings of an institution have been transferred to another institution, enter the name of the current holding institution here.
 
-  
-
-Ejemplo:
-
+_Example:_  
 D-WÜd
