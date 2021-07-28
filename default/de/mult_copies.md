@@ -1,3 +1,3 @@
-**Mehrere Exemplare in einer Institution** 
+**Multiple copies in one institution**
 
-Besitzt Ihre Institution mehrere Exemplare eines Musikdrucks, wird für jedes Exemplar ein eigener Exemplareintrag erstellt.
+If your institutions owns multiple copies (exemplars) of the same printed edition, create a separate holdings record for each copy.
