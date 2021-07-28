@@ -1,21 +1,13 @@
-#   
-Regole di catalogazione RISM per Muscat
+![](rism_logo.jpg)
 
-## Versione 3.6.0
-  
-  
-  
-  
- ![]()  
-  
-  
-  
-  
-  
-  
-  
-  
 
-# Regole di catalogazione RISM per Muscat
 
-## Versione 3.6.0
+
+
+
+
+
+
+# RISM Guidelines for Muscat
+
+## Version 3.6.0
