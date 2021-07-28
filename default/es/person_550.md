@@ -1,3 +1,3 @@
-#### Profesión o función (550 $a)
+#### Profession or function (550 $a)
 
-Registre, en inglés, la profesión o función que desempeña la persona en cuestión en relación con las fuentes musicales.
+Enter, in English, the profession or function that the person in question plays in connection to musical sources.
