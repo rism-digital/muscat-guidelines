@@ -1,16 +1,16 @@
-#### **URL źródła zewnętrznego (856 $u)**
+#### **External resource URL (856 $u)**
 
-Wprowadzić URL źródła zewnętrznego. Zawsze należy starać się używać permalinków.
+Enter the full URL of the external resource. Use permalinks whenever possible.
 
-####   
-**Uwaga o źródle zewnętrznym (856 $z)**  
+####
+**Note about external resource (856 $z)**
 
-Wprowadzić krótką uwagę opisującą link.
+Enter a brief note that describes the link.
 
-_Przykłady:_  
-Zasób elektroniczny  
+_Examples:_  
+Electronic resource  
 Elektronische Ressource  
-Link do PDF  
+Link to PDF  
 Link zum Inhaltsverzeichnis  
-Niektóre wydania są dostępne w formacie PDF  
-Link do bazy danych
+Some issues are available as a PDF  
+Link to database
