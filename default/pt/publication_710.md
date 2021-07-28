@@ -1,12 +1,10 @@
-**#### Instituição adicional (710 $a)**
+**#### Additional institution (710 $a)**
 
-Insira o nome de uma instituição adicional que esteja associada ao item. Não repita os nomes de editores neste campo. Este campo é relacionado ao registro de autoridades **Instituições**.
+Enter the name of an additional institution that is connected with the item. Do not repeat the names of publishers in this field. This field is linked to the **Institutions** authority file.
 
-Use somente estas duas funções:
+- **Editor** : Use especially if the item has an institution as an author rather than people.
+- **Other function**
 
-- **Editor:** Use especialmente se o item tem uma instituição como autor ao invés de pessoas.
-- **Outra função**
-
-_Exemplos:_  
+_Examples:_  
 Sing-Akademie zu Berlin   
 Historische Sektion der Bayerischen Benediktinerakademie
