@@ -1,7 +1,7 @@
-**Rahmen für Notendrucke in RISM**
+**Scope of printed music in RISM**
 
-RISM möchte Notendrucke von den Anfängen des Musikdrucks bis etwa 1900 dokumentieren.
+RISM seeks to document printed music from the beginnings of music printing through around 1900.
 
-Im Laufe des 20. Jahrhunderts und bis heute ist ein starker Anstieg der kommerziellen Veröffentlichung und Verbreitung von Musiknoten zu verzeichnen. Die Menge, die als "Selten" oder nicht dokumentiert gilt, ist viel geringer als in den Jahrhunderten zuvor. Musik, die von modernen Verlagen veröffentlicht, in großen Mengen hergestellt wird, weit verbreitet und für die aktive Verwendung durch Bibliotheksnutzer gedacht ist, ist in kooperativen Datenbanken wie [WorldCat](http://www.worldcat.org/) besser dokumentiert. 
+In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and distribution. The amount of music considered "rare" or undocumented elsewhereis much less when compared to previous centuries. Music published by modern publishers, printed in large quantities, widely available, and meant for active use by library patrons would be better documented in cooperative databases such as [WorldCat](http://www.worldcat.org/).
 
-RISM wird von Fall zu Fall prüfen, ob Musikdrucke des 20. Jahrhunderts von nicht mehr existierenden Verlagen oder kleineren, regionalen Verlegern von historischer Bedeutung dokumentiert werden. Ebenso moderne Ausgaben, die im Zuge der Katalogisierung einer Sammlung mit historischem Wert (z. B. einer Privatbibliothek) erschlossen werden.
+RISM will consider, on a case-by-case basis, whether to document music published in the 20th century by defunct publishers or by smaller, regional publishers of historical significance; as well as modern editions included in the course of cataloging a collection with historical value, such as the private library of an individual.
