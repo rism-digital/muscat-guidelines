@@ -1,12 +1,13 @@
-#### Instrumentos de busca, guias e publicações  (MARC 856 $u; ISDIAH 5.3.8)
+#### **Finding aids, guides and publications (MARC 856 $u; ISDIAH 5.3.8)**
 
-Este campo fornece uma visão geral de instrumentos de busca publicados ou não publicados, guias preparados pela instituição e quaisquer outras publicações relevantes.
+This field provides a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
 
-Insira informações (inclusive URLs) sobre instrumentos de busca, catálogos, inventários, etc. para os acervos da instituição.  
-  
-**Instrumentos de busca on-line (856 $u)**  
-Insira o URL do instrumento de busca.
+Enter information (including URLs) about finding aids, catalogs, inventories, etc. for the institution’s collections.
 
-  
-**Nota (856 $z)**  
-Insira uma breve descrição do URL.
+**Online finding aids (856 $u)**  
+Enter the URL of the finding aid.
+
+
+
+**Note (856 $z)**  
+Enter a short description of the URL.
