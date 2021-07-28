@@ -1,0 +1,3 @@
+### Interne Fußnoten (599 $a)
+
+Dieses Feld ist nur für die interne Verwendung. Die Notizen werden nicht im OPAC veröffentlicht. Die Anmerkungen können für interne Notizen jeglicher Art (Fragen, Kommentare und noch zu erledigende Recherchen), die sich beim laufenden Katalogisierungsprozess stellen, verwendet werden und sollen knapp formuliert sein. Nach Durchsicht und „Abarbeitung“ müssen die Anmerkungen gelöscht werden. Es wird empfohlen, interne Anmerkung durch die eigenen Initialen zu kennzeichnen.
