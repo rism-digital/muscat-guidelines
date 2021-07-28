@@ -1,3 +1,3 @@
-#### Número de ID del RISM (001)
+#### RISM ID number (001)
 
-Este campo da el número de ID de 8 dígitos de RISM para este registro. Este número se genera automáticamente y no puede ser modificado.
+This field gives the 8-digit RISM ID number for this record. This number is automatically generated and cannot be changed.
