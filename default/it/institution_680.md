@@ -1,19 +1,19 @@
-**Nota generale****  (680 $a) **
+#### **Other notes on description (680 $a)**
 
-Inserisci note aggiuntive che descrivono l’istituzione, come ad esempio:
+Enter additional notes that describe the institution, such as:
 
-- Direttive di gestione delle notizie e della collezione (ISDIAH 5.3.5): inserisci informazioni sulla gestione delle collezioni da parte dell’istituzione. Indica se il deposito intende acquisire materiale per trasferimento, donazione, acquisto e/o prestito.
-- Classificazione della collezione, come “Collection in GB-Lbl”.  
-- Deposito online: URL del deposito digitale dell’istituzione.
-- Collezioni archivistiche e non-archivistiche (ISDIAH 5.3.7): Inserisci i nomi dei fondi e delle collezioni. Inizia ogni nome su una nuova riga. Utilizza il nome come è usato dall’istituzione proprietaria. In caso di fondi personali, è consigliabile aggiungere tra parentesi le date di nascita e di morte della persona in questione. Se ci sono elenchi o URL con informazioni sulle collezioni o sui fondi di una particolare istituzione, fornisci lo URL.  
-_Esempi:_  
- Joachim, Joseph (1831-1907) (Royal College of Music, Library)  
- Andrée-Stenhammararkivet  
- Telemann, Georg Michael  
- Fonds Montpensier  
- Collection Camille Saint-Saëns  
- Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)   
+- Records management and collecting policies (ISDIAH 5.3.5): Enter information about the collecting policies of the institution. Indicate whether the repository seeks to acquire materials by transfer, gift, purchase and/or loan.
+- Classification of the collection, such as "Collection in GB-Lbl"
+- Online repository: URL of the digital repository of the institution
+- Archival and other holdings (ISDIAH 5.3.7): Enter the names of the fonds and collections. Start each name on a new line. Use the name as used by the holding institution. In the case of personal fonds, it is recommended to add in brackets the dates of birth and death of the person in question.  If there are lists or URLs with the information about the collections or fonds of a specific institution, provide the URL.   
+  _Examples:_  
+  Joachim, Joseph (1831-1907) (Royal College of Music, Library)  
+  Andrée-Stenhammararkivet  
+  Telemann, Georg Michael  
+  Fonds Montpensier  
+  Collection Camille Saint-Saëns  
+  Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
 
-- Orari d’apertura (ISDIAH 5.4.1): segnala informazioni sugli orari di apertura e le date di chiusura annuali. Aggiungi queste informazioni se non sono facilmente ottenibili online.  
-- Condizioni e requisiti per l’accesso e l’utilizzo (ISDIAH 5.4.2)
-- Servizi di riproduzione (ISDIAH 5.5.2) 
+- Opening times (ISDIAH 5.4.1): To provide information on opening times and dates of annual closures: Include this information if it is not readily available online.
+- Conditions and requirements for access and use (ISDIAH 5.4.2)
+- Reproduction services (ISDIAH 5.5.2)
