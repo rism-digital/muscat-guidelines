@@ -1,2 +1,3 @@
-### Codice della strumentazione (598)
-**Non utilizzare. Questo campo è usato solo per dati migrati.**
+### Coded instrumentation (598)
+
+**Do not use. Only used in migrated data.**
