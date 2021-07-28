@@ -1,2 +1,3 @@
-#### Numer identyfikacyjny RISM (001)
-Pole służy do wprowadzenia numeru identyfikacyjnego RISM przypisanego do danego rekordu Zawartość pola generuje się automatycznie i nie można jej zmienić.
+#### RISM ID number (001)
+
+This field is for the RISM ID number for this record. This number is automatically generated and cannot be changed.
