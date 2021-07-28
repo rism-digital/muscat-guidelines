@@ -1,4 +1,2 @@
-#### Sprachcode (041 $a)  
-
-#### Pflichtfeld
-Geben Sie die Sprache(n) der vorliegenden Publikation ein. Nutzen Sie die aus drei Buchstaben bestehenden ISO 639-2 Abkürzungen: [http://www.loc.gov/standards/iso639-2/php/code\_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)
+**#### Language code (041 $a)****Required field.**  
+Enter the language(s) of the item. Use the three-letter ISO 639-2 abbreviations found here: [http://www.loc.gov/standards/iso639-2/php/code\_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)
