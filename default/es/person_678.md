@@ -1,15 +1,9 @@
-#### Información biográfica adicional (678 $a)
+#### **Additional biographical information (678 $a)**
 
-Este campo va de la mano con el campo Institución asociada (510 $a). Si se encuentra información biográfica adicional sobre la persona en cuestión en una fuente musical, especialmente en caso de que esta información no se halle fácilmente en otras fuentes de referencia, la cita de la fuente musical se introduce en este campo, y la sigla del respositorio que la conserva, en el campo Institución asociada (510 $a).
+This field goes hand in hand with the field **Associated institution (510 $a)**. If additional biographical information about the person in question is found on a musical source, especially if this concerns information that is not readily found in other reference sources, the citation from the musical source is entered in this field and the siglum of the holding library is entered in the field **Associated institution (510 $a)**.
 
-  
+Information you might want to enter here includes name variations, positions held, indications of when the person was active, or other notable information. Sometimes, the musical source you hold is the only source for such information! When possible, make sure you additionally enter this information in standardized form in the appropriate fields.
 
-Entre los tipos de información que se pueden registrar aquí, aparecen las variantes de nombres, cargos ocupados, indicaciones de cuándo estuvo activa la persona u otra información relevante. ¡A veces, la fuente musical de su repositorio es la única que conserva tal información! De ser posible, asegúrese de introducir adicionalmente esta información en forma estandarizada en los campos apropiados.
-
-  
-
-_Ejemplo: _  
-
-F-Pn
-
-Autógrafo: 1782-1823; "Aubert Prêtre et M.e de musique des enf. de choeur"
+_Example:_   
+F-Pn  
+Autograph: 1782-1823; "Aubert Prêtre et M.e de musique des enf. de choeur"
