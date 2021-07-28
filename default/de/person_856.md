@@ -1,18 +1,17 @@
-#### Elektronische Lokalisierung und Zugriff (856)
+#### External resource (856)
 
-Verlinkung zu Schriftproben oder anderen elektronischen Ressourcen.
+This field is for links to external resources, such as writing samples.
 
-  
+####
+External resource URL (856 $u)
 
-#### Uniform Resource Identifier (856 $u)  
+Enter the full URL of the external resource. Always use permalinks.
 
-Angabe einer persistenten URL.
+####
+Note about external resource (856 $y)
 
-  
+Briefly describe what the URL points to in a relevant language.
 
-#### Bemerkung zur elektronischen Ressource (856 $y)
-Beschreibung der URL.  
-  
-_Beispiel_:  
-[http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)  
-Schriftprobe [D-B Am.B 65 / p. 1, 26]
+_Example_:  
+[http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000  
+](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.B 65 / p. 1, 26]
