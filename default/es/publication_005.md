@@ -1,7 +1,5 @@
-#### Fecha y hora de la última transacción (005)
+#### **Date and time of last transaction (005)**
 
-**No modificar.**
+**Do not change.**
 
-  
-
-Este campo indica la fecha en la que el registro fue modificado por última vez. Este campo se genera automáticamente.
+This field indicates the date that the record was last modified. This field is automatically generated.
