@@ -1,4 +1,4 @@
-**RISM ID Numm**** er (001)**  
-RDA registry [rdaw:P10002](http://www.rdaregistry.info/Elements/w/#P10002)  
+**RISM ID num**** ber (001; **** RDA registry [rdaw:P10002](http://www.rdaregistry.info/Elements/w/#P10002))**
 
-Das Feld enthält die RISM ID Nummer für diesen Datensatz. Die Nummer wird automatisch vergeben und kann nicht geändert werden.
+
+This field gives the RISM ID number for the record. It is automatically filled out by Muscat after saving for the first time.
