@@ -1,17 +1,17 @@
-#### Localizzazione e accesso elettronico (856)
+#### External resource (856)
 
-Questo campo riporta collegamenti a risorse esterne, come esempi di calligrafia.
+This field is for links to external resources, such as writing samples.
 
-####   
-URL per l'accesso elettronico (856 $u)
+####
+External resource URL (856 $u)
 
-Inserisci lo URL della risorsa esterna. Utilizza sempre dei collegamenti permanenti (permalink).
+Enter the full URL of the external resource. Always use permalinks.
 
-####   
-Nota sulla risorsa esterna (856 $y)
+####
+Note about external resource (856 $y)
 
-Descrivi brevemente l'oggetto collegato attraverso lo URL nella lingua più appropriata.
+Briefly describe what the URL points to in a relevant language.
 
-_Esempio_:  
+_Example_:  
 [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000  
-](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.B 65 / p. 1, 26] 
+](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.B 65 / p. 1, 26]
