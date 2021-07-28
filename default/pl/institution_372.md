@@ -1,18 +1,21 @@
-### Obszar działalności (MARC 372)
+### Field of activity (MARC 372)
 
- To pole wykorzystywane jest do podania informacji o obszarze działalności, kompetencji, odpowiedzialności instytucji. Pole można użyć wielokrotnie jeśli instytucja działa na wielu obszarach w różnym okresie czasu.
+This field is used to enter the area in which the institution is engaged, its area of competence, responsibility, etc. The field is repeated if the institution has multiple fields of activity for different time periods.
 
-#### Obszar działania (372 $a)
 
-wprowadź obszar działalności w jaki instytucja jest lub była zaangażowana. 
 
-_Przykład:_
+#### Field of activity (372 $a)
 
-Muzyka--nauczanie i studia
+Enter the field of activity in which the institution is or was engaged.
 
-#### Źródło zastosowanego hasła  (372 $2)
+_Example:_  
+Music--Instruction and study
 
-Wprowadź kod identyfikujący źródło kontrolowanego słownictwa dla hasła użytego jako obszar działalności.
 
-_Przykład:_  
+
+#### Source of term (372 $2)
+
+Enter the code that identifies the source of a controlled vocabulary term for the field of activity.
+
+_Example:_  
 lcsh
