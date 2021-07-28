@@ -1,14 +1,53 @@
-| **Für den Zeitraum** | **Geben Sie diese Daten ein** |
-| Beginn 18. Jahrhundert | 1700-1710 |
-| Mitte 18. Jahrhundert | 1740-1760 |
-| Ende 18. Jahrhundert | 1790-1799 |
-| 18. Jahrhundert, 1. Drittel | 1700-1732 |
-| 18. Jahrhundert, 2. Drittel | 1733-1765 |
-| 18. Jahrhundert, 3. Drittel | 1766-1799 |
-| 18. Jahrhundert, 1. Quartal | 1700-1724 |
-| 18. Jahrhundert, 2. Quartal | 1725-1749 |
-| 18. Jahrhundert, 3. Quartal | 1750-1774 |
-| 18. Jahrhundert, 4. Quartal | 1775-1799 |
-| 18. Jahrhundert, 1. Hälfte | 1700-1749 |
-| 18. Jahrhundert, 2. Hälfte | 1750-1799 |
-| 18. Jahrhundert | 1700-1799 |
+Use the RISM date ranges indicated below for each given period. This is primarily used in the field **Date (260 $c)**.
+
+RISM date range: 1700-1710
+
+- EN: beginning of the 18th century
+
+RISM date range: 1740-1760
+
+- EN: middle of the 18th century
+
+RISM date range: 1790-1799
+
+- EN: end of the 18th century
+
+RISM date range: 1700-1732
+
+- EN: 18th century, 1st third
+
+RISM date range: 1733-1765
+
+- EN: 18th century, 2nd third
+
+RISM date range: 1766-1799
+
+- EN: 18th century, 3rd third
+
+RISM date range: 1700-1724
+
+- EN: 18th century, 1st quarter
+
+RISM date range: 1725-1749
+
+- EN: 18th century, 2nd quarter
+
+RISM date range: 1750-1774
+
+- EN: 18th century, 3rd quarter
+
+RISM date range: 1775-1799
+
+- EN: 18th century, 4th quarter
+
+RISM date range: 1700-1749
+
+- EN: 18th century, 1st half
+
+RISM date range: 1750-1799
+
+- EN: 18th century, 2nd half
+
+RISM date range: 1700-1799
+
+- EN: 18th century
