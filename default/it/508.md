@@ -1,9 +1,9 @@
-#### Nota sulle responsabilità di creazione/produzione (508 $a) 
+#### Creation/production note (508 $a)
 
-Si possono inserire qui informazioni aggiuntive su persone e istituzioni menzionati nella fonte, se sono direttamente in relazione alla fonte e non rientrano in nessun altro campo. Ad esempio, ortografie non-standard, pseudonimi ecc. 
+Additional information on persons and institutions mentioned on the source can be entered here, if they are directly related to the source and do not fit in any other field. For example, non-standard spellings, pseudonyms, etc.
 
-Si possono aggiungere qui anche informazioni complementari alla fonte tra parentesi quadre. In questi casi, la funzione della persona deve essere dichiarata in Inglese.
+Information complementary to the source can also be included here in square brackets. In these cases, the function of the person has to be stated in English.
 
-_Esempio:_
+E.g.:
 
-- Text author: [Metastasio, Pietro] 
+- Text author: [Metastasio, Pietro]
