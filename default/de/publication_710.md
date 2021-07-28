@@ -1,13 +1,10 @@
-#### Körperschaft (710 $a)  
+**#### Additional institution (710 $a)**
 
-Geben Sie hier den Namen der Körperschaft ein, die mit der vorliegenden Publikation in Zusammenhang steht. Das Feld ist mit der Normdatei **Körperschaften** verknüpft. Nicht vorhandene Institutionen müssen ergänzt werden.
+Enter the name of an additional institution that is connected with the item. Do not repeat the names of publishers in this field. This field is linked to the **Institutions** authority file.
 
-Verwenden Sie nur folgende Funktionen:  
+- **Editor** : Use especially if the item has an institution as an author rather than people.
+- **Other function**
 
-- **Associated name** : Im Titel auftretende Namen einer Institution oder bei Bibliothekskatalogen
-
-- **Editor** : Speziell wenn es sich um die Herausgabe durch eine Körperschaft handelt.  
-
-_Beispiele:_  
+_Examples:_  
 Sing-Akademie zu Berlin   
 Historische Sektion der Bayerischen Benediktinerakademie
