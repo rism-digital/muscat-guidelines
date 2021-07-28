@@ -1,3 +1,3 @@
-#### **Lider** **(000)**
+#### **Leader** **(000)**
 
-W tym polu nie należy niczego wpisywać ani zmieniać.
+Do not enter or change anything in this field.
