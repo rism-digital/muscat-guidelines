@@ -1,26 +1,37 @@
-Los siguientes campos deben completarse de la manera indicada en caso de que se cuente con una **particella** de bajo cifrado:
+The following fields must be filled out as follows if you have a figured bass **part** :
 
-| **Instrumento  **  
-  
- | **Resumen de plantilla     
-(130/240 $m) **|** Particelas   
-conservadas (590)    **|** Orgánico  
-(594)** |
-| b | b | b.fig | b |
-| bc | bc | bc.fig | bc |
-| org | org | org.fig | org |
-| Para otros instrumentos de teclado, siga el modelo de  **org**. |
+Instrument: b  
+Scoring summary (240 $m): b  
+Parts held (590): b.fig  
+Scoring (594): b
 
- En el caso de que una **partitura** incluya bajo continuo, hacer lo siguiente:
+Instrument: bc  
+Scoring summary (240 $m): bc  
+Parts held (590): bc.fig  
+Scoring (594): bc
 
-| **Instrumento  **  
-  
- | **Resumen de Plantilla    
-(130/240 $m) **|** Plantilla    
-(594) **|** Nota general  
-(500)** |
-| b | b | b | b = b.fig |
-| bc | bc | bc | bc = bc.fig |
-| org | org | org | org = org.fig |
-| Para otros instrumentos de teclado, siga el modelo de  **org**.  
- |
+Instrument: org  
+Scoring summary (240 $m): org  
+Parts held (590): org.fig  
+Scoring (594): org
+
+For other keyboard instruments, follow the model as for **org**.
+
+For a figured bass in a **score** , do the following:
+
+Instrument: b  
+Scoring summary (240 $m): b  
+Parts held (590): b  
+Scoring (594): b = b.fig
+
+Instrument: bc  
+Scoring summary (240 $m): bc  
+Parts held (590): bc  
+Scoring (594): bc = bc.fig
+
+Instrument: org  
+Scoring summary (240 $m): org  
+Parts held (590): org  
+Scoring (594): org = org.fig
+
+For other keyboard instruments, follow the model as for **org**.
