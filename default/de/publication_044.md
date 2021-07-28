@@ -1,3 +1,3 @@
-#### Publikationsland (044 $a)  
+**#### Country of publication (044 $a)**
 
-Verwenden Sie dieses Feld nur bei gedruckten Monographien. Geben Sie den Namen des Landes (in englisch) an, in dem die Publikation erschienen ist.
+Use this field only for printed monographs. Enter the name of the country in which the item was published. Enter the name in English.
