@@ -1,3 +1,6 @@
-**Aktualne miejsce przechowywania zbiorów (MARC 373 $a)**
+**Holdings now in (MARC 373 $a)**
 
-Jeśli zbiory instytucji przeniesiono do innej instytucji, należy tutaj wprowadzić nazwę obecnej instytucji przechowującej. Na przykład::D-WÜd
+If the holdings of an institution have been transferred to another institution, enter the name of the current holding institution here.
+
+_Example:_  
+D-WÜd
