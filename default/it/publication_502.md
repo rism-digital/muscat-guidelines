@@ -1,7 +1,7 @@
-**Nota alla dissertazione (502 $a)**
+**Dissertation note (502 $a)**
 
-Se l'oggetto è una dissertazione di dottorato, includi il tipo di dottorato, l'istituzione e l'anno. 
+If the item is a doctoral dissertation, include the type of degree, institution, and year.
 
-_Esempi:_  
+_Examples:_  
 Ph.D. diss., University College, London 1998  
-Diss., Freie Universität, Berlin 2002 
+Diss., Freie Universität, Berlin 2002
