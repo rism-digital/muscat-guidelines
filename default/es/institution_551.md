@@ -1,9 +1,6 @@
-#### Lugares (MARC 551)
+#### **Places (MARC 551)**
 
-Registre nombres gráficos en este campo. El mismo está vinculado al índice de **Lugares**.  
+Enter geographical names. This field is linked to the **Places** index.
 
-  
-
-_Ejemplo:_
-
-_Aigen-Schlägl para el registro de la biblioteca con sigla RISM A-SCH_
+_Example_:  
+Aigen-Schlägl _for the RISM library siglum record A-SCH_
