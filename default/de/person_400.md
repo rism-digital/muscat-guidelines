@@ -1,32 +1,31 @@
-#### Namensvarianten (400)
-An dieser Stelle werden Namensvarianten wie Geburtsnamen, Pseudonyme, Ordensnamen etc. angegeben.   
+### **Name variant (400)**
 
-  
+This field is for forms of the name that differ from the authorized form, such as birth names, pseudonyms, religious names, names spelled differently on different sources, alternate transliterations, etc.
 
-#### Namensvarianten (400 $a)
+#### Name variant (400 $a)
 
 Enter the name in the form described in the field **Heading - Personal name (100 $a)**.
 
-Bei Namen, die ursprünglich mit nicht-lateinischen Schriftzeichen geschrieben werden, geben Sie in diesem Feld die Form in der nicht-lateinischen Schrift ein. Transliterationen mit anderen Übersetzungstabellen können hier ebenfalls eingetragen werden.    
+For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
 
-Namenszusätze wie jun., III, Sir, Meister, etc. werden ebendfalls hier eingetragen, zum Beispiel: **Sinatra, Frank Jr.**
+Additions to names such as Jr, III, Sir, Meister,etc. are entered here, for example: **Sinatra, Frank Jr.**
 
-####   
-Geburts- und Todesdaten (400 $d)
+####
+Life dates (400 $d)
 
-Geben Sie nichts in dieses Feld ein.
+Do not enter anything in this field.
 
-  
+####
+Type of name variant (400 $j)
 
-#### Art der Namensvariante (400 $j)
-Es steht eine Auswahlliste zur Verfügung:  
+The default value is **xx** (unassigned). Select from the list:
 
-- **Taufname** [tn]  
-- **Geburtsname** [gg]  
-- **Beiname** [bn]
-- **Initiale** [in]  
-- **Ehename** [ee]  
-- **Ordensname** [do]
-- **Pseudonym** [da]  
-- **Andere Schreibweise** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets
-- **Übersetzung** [ub]: Beispiel: _Ackermann, Alexander_ist eine Übersetzungsvariante von _Agricola, Alexander_
+- **Alternate spelling** [z]:This is for alternate spellings, transliterations, or names using non-Latin alphabets
+- **Baptismal name** [tn]
+- **Birth name** [gg]
+- **Initials** [in]
+- **Married name** [ee]
+- **Nickname** [bn]
+- **Pseudonym** [da]
+- **Religious name** [do]
+- **Translation** [ub] **:** For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_
