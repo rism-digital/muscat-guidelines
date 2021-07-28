@@ -1,19 +1,13 @@
-#### Instrumentos de descripción, guías y publicaciones (MARC 856 $u; ISDIAH 5.3.8)
+#### **Finding aids, guides and publications (MARC 856 $u; ISDIAH 5.3.8)**
 
-En esta sección se ofrece un panorama general de los instrumentos de descripción y las guías, publicadas o no, preparadas por la institución, así como de cualquier otra publicación pertinente.
+This field provides a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
 
-  
+Enter information (including URLs) about finding aids, catalogs, inventories, etc. for the institution’s collections.
 
-Introduzca información (incluidas las URLs) sobre los instrumentos de descripción, catálogos, inventarios, etc. correspondientes a las colecciones de la institución.
+**Online finding aids (856 $u)**  
+Enter the URL of the finding aid.
 
-  
 
-**Ayudas para la búsqueda en línea (856 $u)**
 
-Introduzca la URL de la ayuda de búsqueda.
-
- 
-
-**Nota (856 $z)**
-
-Introduzca una breve descripción de la URL.
+**Note (856 $z)**  
+Enter a short description of the URL.
