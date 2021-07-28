@@ -1,9 +1,11 @@
-#### Impressum (260)  
+### **Imprint (260)**
 
-Dieses Feld wird für alle Publikationen - außer bei Aufsätzen (Articles/chapters) - verwendet.  
-  
+This field is used for all types of publications except for articles/chapters.
 
-#### Ort (260 $a) 
-**Verlag (260 $b)**  
+Enter the following information as given on the item:
 
-#### Jahr (260 $c)
+#### **Place of publication (260 $a)**
+
+#### **Publisher (260 $b)**
+
+#### **Year (260 $c)**
