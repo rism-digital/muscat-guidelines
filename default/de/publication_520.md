@@ -1,7 +1,7 @@
-### **Bestandsangabe (520 $a)**
+#### **Contents note (520 $a)**
 
-In diesem Feld wird der Erscheinungsverlauf insbesondere bei Periodika angegeben.
+This field states the beginning/ending date(s) of an item, especially for periodicals.
 
-_Beispiele_:  
+_Examples_:  
 Vol. 1, no. 1 (Apr. 1981)-  
 1969-2004
