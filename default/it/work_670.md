@@ -1,19 +1,19 @@
-### **Fonte dei dati (670)**
+### Source data found (670)
 
-Questo campo riporta la bibliografia consultata per creare la descrizione dell'opera. Può anche servire come una bibliografia generale per l'opera. 
+This field lists the secondary literature consulted while creating the description of the work. It can also serve as a general bibliography for the work.
 
- 
 
-#### **Fonte dei dati (670 $a)**
 
-Inserisci il titolo abbreviato del riferimento bibliografico. Il campo è collegato all’indice ** Bibliografia / Cataloghi tematici**. Se hai già inserito un riferimento a un catalogo tematico nel campo principale (100) o tra le varianti (400), assicurati di ripeterlo qui. 
+**Source data found (670 $a)**
 
- 
+Enter the short title. This field is linked to the **Secondary literature** database. If you already entered a reference to a catalog of works in either the main entry field (100) or the variants field (400), be sure to enter it here again.
 
-#### Riferimento dell'informazione** (670 $b)**
 
-Inserisci il numero di pagina e il titolo dell'opera come compaiono nella bibliografia di riferimento.
 
-_Esempi:_  
+**Information found (670 $b)**
+
+Enter the page number and the title of the work as given in the reference source.
+
+_Example:_  
 GarveyJacksonW : p. 2-3 (Crazy Jane ("Why fair maid in ev'ry feature") A favorite song...with an accompaniment for the harp or piano forte)  
 RitchieW 2008 : p. 110 (A song with lyrics written by Matthew Lewis, composed by Harriett Abrams, entitled "Crazy Jane" (c.1799))
