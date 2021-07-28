@@ -1,2 +1,3 @@
-### Standaryzowany zapis instrumentacji (598)
-**Nie  używać. Pole stosowane wyłącznie do obsługi danych zmigrowanych.**
+### Coded instrumentation (598)
+
+**Do not use. Only used in migrated data.**
