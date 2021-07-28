@@ -1,3 +1,3 @@
-#### Título adicional (730 $a)
+**Additional title (730 $a)**
 
-Introduzca las traducciones del título en este campo, en caso de que no aparezcan en la portada.
+Enter translations of the title here if they do not appear on the title page.
