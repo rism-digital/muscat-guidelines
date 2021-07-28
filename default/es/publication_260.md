@@ -1,11 +1,11 @@
-### Pie de imprenta (260)
+### **Imprint (260)**
 
-Este campo se utiliza para todo tipo de publicaciones, excepto para artículos/capítulos.
+This field is used for all types of publications except for articles/chapters.
 
-Introduzca la siguiente información tal como aparece en el ítem:
+Enter the following information as given on the item:
 
-**Lugar de publicación (260 $a)**
+#### **Place of publication (260 $a)**
 
-**Editorial (260 $b)**
+#### **Publisher (260 $b)**
 
-**Año (260 $c)**
+#### **Year (260 $c)**
