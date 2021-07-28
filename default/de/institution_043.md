@@ -1,3 +1,3 @@
-**Ländercode (Marc 043)**  
-  
-Wählen Sie den Länder-Code nach ISO-Standard aus der Auswahlliste.
+#### **Country code (043)**
+
+Select the country from the list. Additional countries may be added in consultation with the RISM Editorial Center.
