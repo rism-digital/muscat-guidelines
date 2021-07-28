@@ -1,6 +1,5 @@
-**Początkowy wpis (775)**  
-  
+### Initial entry (775 $w)
 
-Nie edytować tego pola.
+Do not edit this field.
 
-Pole to łączy się z numerem identyfikacyjnym RISM początkowego wpisu. Wyrażenia „Początkowy wpis” i „Kolejne wpisy” odpowiadają porządkowi przyjętemu w drukowanych tomach serii A/I, w których identyczną zawartość oznaczono myślnikiem pod pierwszym wymienionym wydaniem drukowanym. Większość z nich miała pełny tytuł. System ten nie odpowiadał żadnej hierarchii w sensie pierwszych wydań i przedruków. Jednak linkowanie jest konieczne ze względu na konieczność odzwierciedlenia podobieństw w treści tytułów. Ponadto, ponieważ w kolejnych wpisach często brakuje tytułów skróconych i/lub oryginalnych, zachodzi potrzeba wyraźnego odniesienia się do (oryginalnego) tytułu z początkowego wpisu.
+This field links to the RISM ID number of the initial entry. The phrases "Initial entry" and "Following entries" correspond to the suborder adopted in the printed volumes of series A/I, in which identical contents were indicated by a dash beneath the first printed edition mentioned. Most of these had a complete title. This system did not correspond to any hierarchy in a sense of first editions and reprints. However, linking is necessary in that similarities in content of the titles have to be reflected. Furthermore, since the subsequent entries often lack short and/or original titles, there needs to be a clear reference to the (original) title of the first entry.
