@@ -1,37 +1,133 @@
-**Skale kościelne:**
+**Western church modes:**
 
-1t = 1. ton (Dorycki)  
-1tt = 1. ton (Dorycki), transponowany  
-2t = 2. ton (Hypodorycki)  
-2tt = 2. ton (Hypodorycki), transponowany  
-3t = 3. ton (Frygijski)  
-3tt = 3. ton (Frygijski), transponowany  
-4t = 4. ton (Hypofrygijski)  
-4tt = 4. ton (Hypofrygijski), transponowany  
-5t = 5. ton (Lidyjski)   
-5tt = 5. ton (Lidyjski), transponowany  
-6t = 6. ton (Hypolidyjski)   
-6tt = 6. ton (Hypolidyjski), transponowany  
-7t = 7. ton (Miksolidyjski)   
-7tt = 7. ton (Miksolidyjski), transponowany  
-8t = 8. ton (Hypomiksolidyjski)  
-8tt = 8. ton (Hypomiksolidyjski), transponowany  
-9t = 9. ton (Eolski)  
-9tt = 9. ton (Eolski), transponowany  
-10t = 10. ton (Hypoeolski)  
-10tt = 10. ton (Hypoeolski), transponowany  
-11t = 11. ton (Joński)  
-11tt = 11. ton (Joński), transponowany  
-12t = 12. ton (Hypojoński)  
-12tt = 12. ton (Hypojoński), transponowany
+1t
 
-  
-**Modusy bizatyjskie :**  
-Ēchos prōtos (Pierwszy modus muzyki bizantyjskiej)  
-Ēchos deuteros (Drugi modus muzyki bizantyjskiej)  
-Ēchos tritos (Trzeci modus muzyki bizantyjskiej)  
-Ēchos tetartos (Czwarty modus muzyki bizantyjskiej)  
-Ēchos plagios prōtos (Pierwszy plagalny modus muzyki bizantyjskiej)  
-Ēchos plagios deuteros (Drugi plagalny modus muzyki bizantyjskiej)  
-Ēchos barys (Trzeci plagalny modus muzyki bizantyjskiej)  
-Ēchos plagios tetartos (Czwarty plagalny modus muzyki bizantyjskiej)
+- EN: 1st tone (Dorian)
+
+1tt
+
+- EN: 1st tone (Dorian), transposed
+
+2t
+
+- EN: 2nd tone (Hypodorian)
+
+2tt
+
+- EN: 2nd tone (Hypodorian), transposed
+
+3t
+
+- EN: 3rd tone (Phrygian)
+
+3tt
+
+- EN: 3rd tone (Phrygian), transposed
+
+4t
+
+- EN: 4th tone (Hypophrygian)
+
+4tt
+
+- EN: 4th tone (Hypophrygian), transposed
+
+5t
+
+- EN: 5th tone (Lydian)
+
+5tt
+
+- EN: 5th tone (Lydian), transposed
+
+6t
+
+- EN: 6th tone (Hypolydian)
+
+6tt
+
+- EN: 6th tone (Hypolydian), transposed
+
+7t
+
+- EN: 7th tone (Mixolydian)
+
+7tt
+
+- EN: 7th tone (Mixolydian), transposed
+
+8t
+
+- EN: 8th tone (Hypomixolydian)
+
+8tt
+
+- EN: 8th tone (Hypomixolydian), transposed
+
+9t
+
+- EN: 9th tone (Aeolian)
+
+9tt
+
+- EN: 9th tone (Aeolian), transposed
+
+10t
+
+- EN: 10th tone (Hypoaeolian)
+
+10tt
+
+- EN: 10th tone (Hypoaeolian), transposed
+
+11t
+
+- EN: 11th tone (Ionian)
+
+11tt
+
+- EN: 11th tone (Ionian), transposed
+
+12t
+
+- EN: 2th tone (Hypoionian)
+
+12tt
+
+- EN: 12th tone (Hypoionian), transposed
+
+
+
+**Byzantine modes:**
+
+Ēchos prōtos
+
+- EN: First mode of Byzantine music
+
+Ēchos deuteros
+
+- EN: Second mode of Byzantine music
+
+Ēchos tritos
+
+- EN: Third mode of Byzantine music
+
+Ēchos tetartos
+
+- EN: Fourth mode of Byzantine music
+
+Ēchos plagios prōtos
+
+- EN: First plagal mode of Byzantine music
+
+Ēchos plagios deuteros
+
+- EN: Second plagal mode of Byzantine music
+
+Ēchos barys
+
+- EN: Third plagal mode of Byzantine music
+
+Ēchos plagios tetartos
+
+- EN: Fourth plagal mode of Byzantine music
