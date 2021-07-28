@@ -1,14 +1,14 @@
-#### **Instytucja (MARC 110 $a; ISDIAH 5.1.2)**
+#### **Institution (MARC 110 $a; ISDIAH 5.1.2)**
 
-Pole stanowi autoryzowany punkt dostępu, który jednoznacznie identyfikuje instytucję ze zbiorami.
+This field creates an authorized access point that uniquely identifies the institution with archival holdings.
 
-#### **Instytucja (110 $a)**
+#### **Authorized form of name (110 $a)**
 
-Wpisać bieżącą nazwę instytucji w języku lokalnym. Jeśli język oryginalny posiada alfabet inny niż łaciński, należy wpisać jej transliterację.   
-  
-Jeżeli biblioteki, archiwa lub centra dokumentacji należą do większej instytucji, należy najpierw wpisać nazwę większej instytucji i następnie dodać podległą jej jednostkę, oddzieloną przecinkiem.
+Enter the current name of the institution in the local language. If the original language is in a non-Latin alphabet, write it in transliterated form.
 
-_Przykłady_:  
+When libraries, archives or documentation centres belong to a larger institution, enter the name of the larger institution first and add the subordinate unit separated by a comma.
+
+_Examples_:  
 Privatsammlung Cees Verheijen  
 Private collection Christopher Hogwood  
 Llyfrgell Genedlaethol Cymru  
@@ -16,29 +16,33 @@ Norges musikkhøgskole, Biblioteket
 ERESBIL - Musikaren Euskal Artxiboa  
 Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossi
 
-#### **Miejsce (110 $c)**
+#### **Subordinate unit (110 $b)**
 
-Wprowadzić nazwę miasta, w którym znajduje się instytucja. Jeśli język oryginalny posiada alfabet inny niż łaciński, należy wpisać jej transliterację.
+Enter the name of the subordinate unite of the institution.
+
+#### **Place (110 $c)**
+
+Enter the city of the institution. If the original language is in a non-Latin alphabet, write it in transliterated form.
 
 ** **
 
 #### **Siglum (110 $g)**
 
-Pole służy do podawania unikalnego, niezmienialnego siglum biblioteki RISM. **Sigla nadaje Biuro Centralne RISM** w porozumieniu z krajowymi grupami roboczymi RISM.
+This field is for the unique, unalterable RISM library siglum. **Sigla are assigned by the RISM Editorial Center** in consultation with the RISM national working groups.
 
-Sigla bibliotek składają się z trzech elementów: skrótu krajowego, skrótu miasta i skrótu instytucji. W niektórych przypadkach można pominąć skrót nazwy instytucji (przykład: D-B). Skróty kraju i miasta pisze się zawsze wielką literą, a skrót nazwy instytucji zawsze małą. Kod kraju oddziela się od innych danych myślnikiem. Kod kraju pobiera się prawie zawsze z listy międzynarodowych kodów rejestracyjnych pojazdów mechanicznych prowadzonej przez Organizację Narodów Zjednoczonych. Kody miast i instytucji tworzy Centralne Biuro RISM.
+Library sigla are made up of three elements: a country abbreviation, a city abbreviation, and an institution abbreviation. In some cases, the institution abbreviation may be omitted (example: D-B). The abbreviations for the country and city are always capitalized and the abbreviation for the institution is always lowercase.  The country code is separated from the other details by a hyphen.  The code for the country is almost always taken from the list of international vehicle registration codes maintained by the United Nations. City and institution codes are created by the RISM Editorial Center.
 
- W przypadku, gdy instytucja zmieniła nazwę, nadal zachowuje to samo siglum. (Na przykład: CZ-Bu)
+ In case an institution has changed its name, it still keeps the same siglum. (For ex.: CZ-Bu)
 
- 
 
-_Przykłady_:  
+
+_Examples_:  
 GB-Cu = United Kingdom, Cambridge, University Library  
 F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique.
 
-W przypadku kolekcji prywatnych nazwisko właściciela dodaje się do kodu miasta małymi literami.
+In the case of private collections, the last name of the owner is added to the city code in lowercase letters.
 
-_Przykład_:  
+_Example_:  
 I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti.
 
-RISM korzysta z siglów bibliotek we wszystkich swoich publikacjach i katalogach od chwili powstania w 1952 roku. Sigla bibliotek wykorzystuje się również we wszystkich standardowych międzynarodowych encyklopediach muzycznych oraz w publikacjach muzykologicznych.
+RISM has been using library sigla since its foundation in 1952 in all of its publications and catalogs. They are also used in all of the standard international music encyclopedias and in musicological publications.
