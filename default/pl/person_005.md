@@ -1,3 +1,3 @@
-#### Data i godzina ostatniej operacji** (005)**
+#### **Date and time of latest transaction (005)**
 
-Pole składa się z szesnastu znaków, które określają datę i godzinę ostatniej operacji wykonanej na rekordzie i służą jako identyfikator wersji rekordu. Daty i czas podaje się zgodnie ze sposobem zapisu daty i czasu (ISO 8601) wg wzoru rrrrmmdd oraz hhmmss.f.
+This field consists of sixteen characters that specify the date and time of the latest record transaction and serve as a version identifier for the record. The data and time are given according to Representation of Dates and Times (ISO 8601) in the pattern yyyymmdd and hhmmss.f.
