@@ -8,7 +8,7 @@ _Examples_:
 
 A
 
-- EN: A major 
+- EN: A major
 
 B
 

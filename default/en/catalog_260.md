@@ -1,8 +1,0 @@
-Impressum  
-  
-  
-Place   
-  
-Publisher  
-  
-Year

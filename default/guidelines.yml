@@ -25,11 +25,11 @@ doc:
       - title: "doc_cat_templates"
         helpfile: "cat_templates"
       - title: "doc_cat_authorities"
-        helpfile: "cat_authorities" 
+        helpfile: "cat_authorities"
       - title: "doc_scope_printed_music"
-        helpfile: "scope_printed_music" 
+        helpfile: "scope_printed_music"
       - title: "doc_when_new_record"
-        helpfile: "when_new_record" 
+        helpfile: "when_new_record"
       - title: "doc_standardized_titles_printed_music"
         helpfile: "standardized_titles_printed_music"
       - title: "doc_mult_copies"
@@ -156,8 +156,8 @@ doc:
             helpfile: "592"
             index: true
           - title: "500"
-            helpfile: "500" 
-            index: true 
+            helpfile: "500"
+            index: true
           - title: "563"
             helpfile: "563"
             index: true
@@ -172,17 +172,17 @@ doc:
       - title: "edit_references"
         subsections:
           - title: "505"
-            helpfile: "505"  
-            index: true    
+            helpfile: "505"
+            index: true
           - title: "525"
-            helpfile: "525"  
-            index: true    
+            helpfile: "525"
+            index: true
           - title: "691"
-            helpfile: "691"  
-            index: true    
+            helpfile: "691"
+            index: true
           - title: "510"
-            helpfile: "510"  
-            index: true    
+            helpfile: "510"
+            index: true
           - title: "596"
             helpfile: "596"
             index: true
@@ -201,11 +201,11 @@ doc:
             helpfile: "001"
             index: true
           - title: "040"
-            helpfile: "040" 
-            index: true    
+            helpfile: "040"
+            index: true
           - title: "599"
-            helpfile: "599"  
-            index: true  
+            helpfile: "599"
+            index: true
       - title: "doc_record_actions"
         subsections:
           - title: "doc_record_status"
@@ -213,7 +213,7 @@ doc:
   - title: "doc_aid_titles_keywords"
     helpfile: "subject_headings"
   - title: "doc_digital_objects"
-    helpfile: "images_intro" 
+    helpfile: "images_intro"
   - title: "doc_institutions"
     helpfile: "institution_introduction"
     sections:
@@ -241,14 +241,11 @@ doc:
           - title: "in_410"
             helpfile: "institution_410"
             index: true
-          - title: "in_373"
-            #helpfile: "institution_373"
-            index: true
           - title: "in_368"
             helpfile: "institution_368"
             index: true
           - title: "in_580"
-            helpfile: "institution_024"
+            helpfile: "institution_580"
             index: true
       - title: "doc_in_contact"
         subsections:
@@ -469,7 +466,6 @@ doc:
           - title: "li_005"
             helpfile: "catalogue_005"
             index: true
- 
 
   - title: "doc_titles_and_text"
   - title: "doc_abbreviations"
@@ -515,4 +511,3 @@ doc:
       helpfile: "best_practices"
     - title: "aid_error"
       helpfile: "technical_errors"
-

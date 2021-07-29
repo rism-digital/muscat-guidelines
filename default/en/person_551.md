@@ -1,14 +1,10 @@
-### **Geographic name (551)**
+### Geographic name (551)
 
 This field is for geographical names associated with the person in question.
 
- 
-
-#### **Geographic name (551 $a)**
+#### Geographic name (551 $a)
 
 Enter the geographic name (country, place, region, city, etc.) associated with the person in question. Names are entered in the modern local language. Geographic names are connected with the **Places** authority file.
-
- 
 
 #### Type (551 $i)
 

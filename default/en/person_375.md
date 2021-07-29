@@ -1,6 +1,4 @@
-#### 
-
-#### Gender (375)
+### Gender (375)
 
 Select the gender of the person:
 

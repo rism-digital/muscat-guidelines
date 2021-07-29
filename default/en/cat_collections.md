@@ -15,9 +15,8 @@ For collections in which the works are very similar, it is a good strategy to cr
 
 Collection parent records may not contain collection parent records of manuscripts. Instead, use a flatter hierarchy by means of individual records and explain the structure, makeup, or organization of the item in a note.
 
-###   
-
 ### Cataloging a composite volume
+
 A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are other names for such volumes: binders' collections, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volumes, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.   
   
 There are two ways to indicate a composite volume. The first, and simplest, way is to catalog the items separately and give the items the same shelfmark; a bound-with note is also helpful. The second is to use the template for a composite volume record.   
@@ -89,7 +88,6 @@ The text incipit of the original text, if known, in brackets.
 **Other fields**
 
 All other fields, such as liturgical feasts and instrumentation, should refer to the source in hand, that is, the contrafactum itself, and not the original work on which it was based.  
-  
 
 ### Cataloging compilations 
 
@@ -150,15 +148,11 @@ Performances should be noted only as they relate to the compilation itself.
 
 452505748: An opera pasticcio consisting of 3 acts by 3 different composers
 
-** **
-
 ### Cataloging parodies
 
 A parody is a composition based on pre-existing material that results in a new work. In the 19th century, the term gains a satirical flavor.  
 
 The record 150205470 will be used as an example.
-
- 
 
 **Composer (100)**
 
@@ -209,8 +203,6 @@ Enter the text incipit of the source in hand. If the original text is known, ent
 
 All other fields, such as performance information, should relate only to the source in hand.
 
-** **
-
 #### Cataloging insertion arias  
 
 Operas that include insertion arias (also called suitcase arias or interpolated arias) should be cataloged with at least three records: a parent record (collection record) for the opera as a whole, a record for the original movements of the opera (which will contain most of the incipits), and a record for each of the inserts.
@@ -242,8 +234,8 @@ Always strive to catalog the printed material in a separate record, because it i
  If it is not feasible to create an adequate record for the printed material, proceed as follows: Catalog your material using a manuscript template. In the material description section, describe the manuscript materials. Add an additional material group, and describe the printed materials.
 
 ### Cataloging music in periodicals
-There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.  
-  
+
+There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.
 
 **Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.  
 _Example_:  
@@ -254,8 +246,7 @@ _Examples_:
 991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784  
 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
 
-###   
-Cataloging music in non-music publications
+### Cataloging music in non-music publications
 
 RISM includes music found in printed publications that are not primarily music documents. The focus of the RISM record is nevertheless the music.  
   

@@ -2,14 +2,14 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 
 [A](#aid_liturgical_feasts_A) | [B](#aid_liturgical_feasts_B) | [C](#aid_liturgical_feasts_C) | [D](#aid_liturgical_feasts_D) | [E](#aid_liturgical_feasts_E) | [F](#aid_liturgical_feasts_F) | [G](#aid_liturgical_feasts_G) | [H](#aid_liturgical_feasts_H) | [I](#aid_liturgical_feasts_I) | [J](#aid_liturgical_feasts_J) | [L](#aid_liturgical_feasts_L) | [M](#aid_liturgical_feasts_M) | [N](#aid_liturgical_feasts_N) | [O](#aid_liturgical_feasts_O) | [P](#aid_liturgical_feasts_P) | [Q](#aid_liturgical_feasts_Q) | [R](#aid_liturgical_feasts_R) | [S](#aid_liturgical_feasts_S) | [T](#aid_liturgical_feasts_T) | [U](#aid_liturgical_feasts_U) | [V](#aid_liturgical_feasts_V) | [W](#aid_liturgical_feasts_W) | [X-Z](#aid_liturgical_feasts_X)
 
-| **Latin** | **English** | **Feast day following the pre-Vatican II "Calendarium Romanum generale"** |
-| |
-| 
+ | **Latin** | **English** | **Feast day following the pre-Vatican II "Calendarium Romanum generale"** |
+ | |
+ | |
 ### A 
  |
-| Abachum Martyris | Abachum, martyr | 19 January |
-| Abdon et Sennen Martyrum | Abdon and Sennen, martyrs | 30 July |
-| Achillei Martyris | Achilleus, martyr | 12 May |
+ | Abachum Martyris | Abachum, martyr | 19 January |
+ | Abdon et Sennen Martyrum | Abdon and Sennen, martyrs | 30 July |
+ | Achillei Martyris | Achilleus, martyr | 12 May |
 | Adelgotti Episcopi | Adelgott of Chur, bishop | 3 October |
 | Adventus | Advent | |
 | Adventus, Dominica 1. | 1st Sunday in Advent | |

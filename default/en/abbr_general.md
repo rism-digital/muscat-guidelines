@@ -2,17 +2,17 @@
 
 These are some general abbreviations and terms you might come across throughout Muscat. When writing in free-text fields, it is good practice to write out terms in full when possible for the benefit of other users who may not be familiar with these abbreviations.
 
-acc      
+acc
 
 - EN: accompaniment
 
-appx   
+appx
 
-- EN: appendix 
+- EN: appendix
 
-Arr, arr.          
+Arr, arr.
 
-- EN: arrangement 
+- EN: arrangement
 
 Autograph     
 
@@ -28,11 +28,11 @@ b.fig
 
 cfr.
 
-- EN: compare 
+- EN: compare
 
 Chb    
 
-- EN: choirbook (in printed music) 
+- EN: choirbook (in printed music)
 
 Chor-P
 
@@ -40,11 +40,11 @@ Chor-P
 
 clm.    
 
-- EN: column 
+- EN: column
 
 cm      
 
-- EN: centimeter 
+- EN: centimeter
 
 CMP
 
@@ -54,29 +54,29 @@ COL
 
 - EN: collection (type of Muscat source)  
 
-collab.            
+collab.
 
 - EN: collaborator  
 
-collection       
+collection
 
 - EN: manuscript collection, printed collection  
 
 comp.
 
-- EN: composed (date of composition) 
+- EN: composed (date of composition)
 
 deest   
 
-- EN: not in (for catalogs of works) 
+- EN: not in (for catalogs of works)
 
 dir.     
 
-- EN: conductor 
+- EN: conductor
 
 diss.    
 
-- EN: dissertation 
+- EN: dissertation
 
 ed.      
 
@@ -84,7 +84,7 @@ ed.
 
 edn.    
 
-- EN: edition 
+- EN: edition
 
 EDT
 
@@ -100,7 +100,7 @@ et al.
 
 etc.     
 
-- EN: et cetera 
+- EN: et cetera
 
 ex.      
 
@@ -112,11 +112,11 @@ Excerpts
 
 f.         
 
-- EN: folio(s) 
+- EN: folio(s)
 
 facs.   
 
-- EN: facsimile 
+- EN: facsimile
 
 fasc.   
 
@@ -124,11 +124,11 @@ fasc.
 
 fds.     
 
-- EN: fold(s) 
+- EN: fold(s)
 
 ibd., ibid        
 
-- EN: in the same work cited above 
+- EN: in the same work cited above
 
 idem   
 
@@ -140,21 +140,21 @@ i.e.
 
 Incip.  
 
-- EN: incipit 
+- EN: incipit
 
-incpl. or incpl 
+incpl. or incpl
 
-- EN: incomplete 
+- EN: incomplete
 
 Jg.      
 
-- EN: year 
+- EN: year
 
 jun.     
 
-- EN: junior 
+- EN: junior
 
-keyboard (etc.) score 
+keyboard (etc.) score
 
 - EN: typically two staves with music arranged for keyboard instrument; in some cases may also include a vocal part
 
@@ -164,7 +164,7 @@ KLA
 
 kpl.     
 
-- EN: complete (in printed music) 
+- EN: complete (in printed music)
 
 LEC
 
@@ -180,15 +180,15 @@ Lith.
 
 LSR   
 
-- EN: handwritten libretto (type of Muscat source) 
+- EN: handwritten libretto (type of Muscat source)
 
 lvs.     
 
-- EN: leaves 
+- EN: leaves
 
 Ms., MS         
 
-- EN: manuscript 
+- EN: manuscript
 
 MSS   
 
@@ -200,7 +200,7 @@ MSR
 
 no.      
 
-- EN: number 
+- EN: number
 
 No title indicated      
 
@@ -208,7 +208,7 @@ No title indicated
 
 olim    
 
-- EN: former shelf mark 
+- EN: former shelf mark
 
 op.     
 
@@ -224,39 +224,39 @@ P
 
 p.        
 
-- EN: page(s) 
+- EN: page(s)
 
 part     
 
-- EN: part 
+- EN: part
 
 passim            
 
-- EN: over the next few pages 
+- EN: over the next few pages
 
 1.perf.
 
-- EN: date of first performance 
+- EN: date of first performance
 
 perf.   
 
-- EN: date of further performance 
+- EN: date of further performance
 
 phil.    
 
-- EN: philosophical 
+- EN: philosophical
 
 Pl.no   
 
-- EN: plate number 
+- EN: plate number
 
 pr.       
 
-- EN: print, printed 
+- EN: print, printed
 
 Prov.  
 
-- EN: provenance, previous owner (person or institution) 
+- EN: provenance, previous owner (person or institution)
 
 PUB   
 
@@ -264,19 +264,19 @@ PUB
 
 pub.    
 
-- EN: published 
+- EN: published
 
 publ.   
 
-- EN: date of publication 
+- EN: date of publication
 
 repr.   
 
-- EN: reprinted, reprint 
+- EN: reprinted, reprint
 
 rev.     
 
-- EN: revised (edition) 
+- EN: revised (edition)
 
 RISM A/I      
 
@@ -288,23 +288,23 @@ RISM B/
 
 score(s)          
 
-- EN: score(s) 
+- EN: score(s)
 
 s.d. (sine dato)           
 
-- EN: without date 
+- EN: without date
 
 ser.     
 
-- EN: series 
+- EN: series
 
 short score(s)
 
-- EN: piano reduction(s) or condensed score(s) 
+- EN: piano reduction(s) or condensed score(s)
 
 sketches         
 
-- EN: sketch(es) 
+- EN: sketch(es)
 
 s.l. (sine loco)            
 
@@ -324,11 +324,11 @@ SUB
 
 suppl., supp.  
 
-- EN: supplement 
+- EN: supplement
 
 t          
 
-- EN: incipit is transcribed 
+- EN: incipit is transcribed
 
 Tab     
 
@@ -340,7 +340,7 @@ TEC
 
 TED
 
-- EN: printed treatise (type of Muscat source) 
+- EN: printed treatise (type of Muscat source)
 
 theoreticum   
 
@@ -352,7 +352,7 @@ TSR
 
 trans.  
 
-- EN: translation, translated by 
+- EN: translation, translated by
 
 UNP   
 
@@ -360,11 +360,11 @@ UNP
 
 vide    
 
-- EN: see 
+- EN: see
 
 vol.     
 
-- EN: volume(s) 
+- EN: volume(s)
 
 without shelfmark      
 
@@ -372,23 +372,23 @@ without shelfmark
 
 wm., wm:       
 
-- EN: watermark 
+- EN: watermark
 
 WV    
 
-- EN: catalog of works 
+- EN: catalog of works
 
 \*         
 
-- EN: born 
+- EN: born
 
 +        
 
-- EN: died 
+- EN: died
 
 +         
 
-- EN: mistakes within incipit corrected 
+- EN: mistakes within incipit corrected
 
 ?         
 

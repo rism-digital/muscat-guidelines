@@ -2,7 +2,7 @@
 
 1t
 
-- EN: 1st tone (Dorian) 
+- EN: 1st tone (Dorian)
 
 1tt
 
@@ -10,11 +10,11 @@
 
 2t
 
-- EN: 2nd tone (Hypodorian) 
+- EN: 2nd tone (Hypodorian)
 
 2tt
 
-- EN: 2nd tone (Hypodorian), transposed 
+- EN: 2nd tone (Hypodorian), transposed
 
 3t
 
@@ -30,11 +30,11 @@
 
 4tt
 
-- EN: 4th tone (Hypophrygian), transposed 
+- EN: 4th tone (Hypophrygian), transposed
 
 5t
 
-- EN: 5th tone (Lydian) 
+- EN: 5th tone (Lydian)
 
 5tt
 
@@ -42,7 +42,7 @@
 
 6t
 
-- EN: 6th tone (Hypolydian) 
+- EN: 6th tone (Hypolydian)
 
 6tt
 
@@ -50,43 +50,43 @@
 
 7t
 
-- EN: 7th tone (Mixolydian) 
+- EN: 7th tone (Mixolydian)
 
 7tt
 
-- EN: 7th tone (Mixolydian), transposed 
+- EN: 7th tone (Mixolydian), transposed
 
 8t
 
-- EN: 8th tone (Hypomixolydian) 
+- EN: 8th tone (Hypomixolydian)
 
 8tt
 
-- EN: 8th tone (Hypomixolydian), transposed 
+- EN: 8th tone (Hypomixolydian), transposed
 
 9t
 
-- EN: 9th tone (Aeolian) 
+- EN: 9th tone (Aeolian)
 
 9tt
 
-- EN: 9th tone (Aeolian), transposed 
+- EN: 9th tone (Aeolian), transposed
 
 10t
 
-- EN: 10th tone (Hypoaeolian) 
+- EN: 10th tone (Hypoaeolian)
 
 10tt
 
-- EN: 10th tone (Hypoaeolian), transposed 
+- EN: 10th tone (Hypoaeolian), transposed
 
 11t
 
-- EN: 11th tone (Ionian) 
+- EN: 11th tone (Ionian)
 
 11tt
 
-- EN: 11th tone (Ionian), transposed 
+- EN: 11th tone (Ionian), transposed
 
 12t
 
@@ -94,9 +94,7 @@
 
 12tt
 
-- EN: 12th tone (Hypoionian), transposed 
-
- 
+- EN: 12th tone (Hypoionian), transposed
 
 **Byzantine modes:**
 

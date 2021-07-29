@@ -2,6 +2,8 @@
 
 The location on the source is indicated before the title in square brackets. English terms are used. The indication is followed by a colon inside the brackets. Similarly, any inserted comments are placed in square brackets and expressed in English terms.
 
+| |
+| --- |
 | [cover title:] |
 | [dust cover title:] |
 | [binding title:] |
@@ -62,6 +64,7 @@ If several subject headings can be associated with a source, respectively a work
 ### General instrumental and vocal music
 
 | _Standardised title/genre_ | _Corresponding subject heading_ | |
+| --- | --- | --- |
 | Airs | Airs (dances) | |
 | Airs | Airs (instr.) | |
 | Airs | Airs (voc.) | |
@@ -189,8 +192,8 @@ If several subject headings can be associated with a source, respectively a work
 | Sonatas | Sonatas or Triosonatas | |
 | Songs [monodic] | Songs | |
 | Songs [polyphonic] | Songs or Partsongs or Tenorlieder (special case!) | |
-| SprÃ¼che | SprÃ¼che | |
-| StÃ¤ndchen | StÃ¤ndchen | |
+| Spräche | Spräche | |
+| Ständchen | Ständchen | |
 | Suites | Suites | |
 | Symphonic poems | Symphonic poems | |
 | Symphonies | Symphonies | |
@@ -212,12 +215,11 @@ If several subject headings can be associated with a source, respectively a work
 | Voluntaries | Voluntaries | |
 | Waltzes | Waltzes | |
 | Wind music | Wind music | |
-| | | |
-| | | |
 
 ### Sacred vocal music
 
 | _Standardised title/genre_ | _Corresponding subject heading_ | |
+| --- | --- | --- |
 | Anthems | Anthems | |
 | Antiphonies | Antiphonies | |
 | Calendas | Calendas | |
@@ -265,6 +267,7 @@ If several subject headings can be associated with a source, respectively a work
 ### Stage music
 
 | _Standardised title/genre_ | _Corresponding subject heading_ | |
+| --- | --- | --- |
 | Afterpieces | Afterpieces | |
 | Ballad operas | Ballad operas | |
 | Ballets | Ballets | |
@@ -296,7 +299,6 @@ If several subject headings can be associated with a source, respectively a work
 | Vaudevilles | Vaudevilles | |
 | Wedding music | Wedding music | |
 | Zarzuelas | Zarzuelas | |
-| | | |
 
 For genres of individual numbers or parts see under vocal and instrumental music!  
 **Caution!**"Melodrama" (for music and speaking voice) should not be confused with the Italian term "Melodramma", which is used as a general term for opera. The term "Opera" is often used in diplomatic titles as a synonym of work (opus number!).  
@@ -305,6 +307,7 @@ The subject heading "Incidental music" indicates stage music for prose theatre, 
 ### Exercises, studies, schools
 
 | _Standardised title/genre_ | _Corresponding subject heading_ | |
+| --- | --- | --- |
 | Arpeggios | Arpeggios (instr.) | |
 | Cadences | Cadences (instr.) | |
 | Cadenzas | Cadenzas (voc.) | |
@@ -328,6 +331,7 @@ As a rule, use "Dances" as standardised title, and "Dances" as subject heading; 
 More specific combinations include:
 
 | _Standardised title/genre_ | _Corresponding subject heading_ | |
+| --- | --- | --- |
 | Allemandes | Allemandes | |
 | Anglaises | Anglaises | |
 | Basse danses | Basse danses | |
@@ -413,6 +417,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Mass
 
+| |
+| --- |
 | KYRIE |
 | Christe eleison |
 | GLORIA |
@@ -462,6 +468,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Requiem (Missa pro defunctis)
 
+| |
+| --- |
 | REQUIEM |
 | Aeternam dona eis |
 | ABSOLVE DOMINE |
@@ -496,6 +504,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Litaniae Lauretanae
 
+| |
+| --- | 
 | Kyrie eleison Christe eleison |
 | Kyrie eleison Christe audi nos |
 | Christe eleison |
@@ -533,6 +543,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Responsorium
 
+| |
+| --- |
 | **_Feria V. in coena Domini:_** |
 | _1. Nocturno:_ |
 | In monte Oliveti |
@@ -579,6 +591,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Vesperae
 
+| |
+| --- |
 | Dixit Dominus |
 | Domine ad adiuvandum |
 | Confitebor |
@@ -604,6 +618,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Magnificat
 
+| |
+| --- |
 | Magnificat |
 | Anima mea Dominum |
 | Et exsultavit |
@@ -620,6 +636,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Miserere
 
+| |
+| --- |
 | Miserere |
 | Secundum magnam misericordiam tuam |
 | Amplius lava me |
@@ -646,6 +664,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Stabat Mater
 
+| |
+| --- |
 | Stabat Mater |
 | Cujus animam gementem |
 | O quam tristis et afflicta |
@@ -673,6 +693,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Te Deum
 
+| |
+| --- |
 | Te Deum |
 | Te Deum laudamus |
 | Te Dominum confitemur |
@@ -708,10 +730,8 @@ The following list of standard texts of sacred works provide an overview of the 
 Liturgical feasts follow the "Calendarium Romanum generale" which was issued before the Second Vatican Council. This is the reference for the sources in the Swiss RISM database.
 
 | **Latin** | **English** | **Feast day following the pre-Vatican II "Calendarium Romanum generale"** |
-| |
-| 
-### A
- |
+| --- | --- | --- |
+| **A** | | |
 | Abachum Martyris | Abachum, martyr | 19 January |
 | Abdon et Sennen Martyrum | Abdon and Sennen, martyrs | 30 July |
 | Achillei Martyris | Achilleus, martyr | 12 May |
@@ -759,10 +779,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Audifacis Martyris | Audifax, martyr | 19 January |
 | Augustini Cantuarensis Episcopi Confessoris | Augustine, bishop of Canterbury, confessor | 28 May |
 | Augustini Episcopi Ecclesiae Doctoris | Augustine, bishop and doctor of the church | 28 October |
-| |
-| 
-### B
- |
+| **B** | | |
 | Bacchi Martyris | Bacchus, martyr | 7 October |
 | Barbarae Virginis Martyris | Barbara virgin and martyr | 4 December |
 | Barnabae Apostoli | Barnabas, apostle | 11 June |
@@ -786,10 +803,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Bonifatii Episcopi Martyris | Boniface, bishop and martyr | 5 June |
 | Bonifatii Martyris | Boniface, martyr | 14 May |
 | Brunonis Confessoris | Bruno, confessor | 6 October |
-| |
-| 
-### C
- |
+| **C** | | |
 | Caeciliae Virginis Martyris | Cecilia, virgin and martyr | 22 November |
 | Cajetani Confessoris | Cajetan, confessor | 7 August |
 | Caji et Soteris Martyrum | Cajus and Soter, martyrs | 22 April |
@@ -867,10 +881,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Cyrilli Episcopi Hierosolymitani Ecclesiae Doctoris | Cyrill, bishop of Jerusalem and doctor of the church | 18 March |
 | Cyrilli et Methodii Pontificis Confessorum | Cyrill and Methodius, bishops and confessors | 7 July |
 | Cyrini Martyris | Quirinus, martyr | 12 June |
-| |
-| 
-### D
- |
+| **D** | | |
 | Damasi I. Papae Confessoris | Damasus I, pope and confessor | 11 December |
 | De Apostolis | Apostles | |
 | De Apostolis, tempore paschali | Apostles in Eastertide | |
@@ -909,10 +920,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Donati Episcopi Martyris | Donatus, bishop and martyr | 7 August |
 | Dorotheae Virginis Martyris | Dorothea, virgin and martyr | 6 February |
 | Duodecim Fratrum Martyris | Holy Twelve Brothers martyrs | 1 September |
-| |
-| 
-### E
- |
+| **E** | | |
 | Edmundi Episcopi | Edmund, archbishop of Abingdon | 16 November |
 | Eduardi Regis Confessoris | Edward, king and confessor | 13 October |
 | Eleutherii Martyris | Eleutherius, martyr | 9 October |
@@ -942,10 +950,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Eustachii et Sociorum Martyrum | Eustachius and companions, martyrs | 20 September |
 | Evaristi Papae Martyris | Evaristus, pope and martyr | 26 October |
 | Eventii Martyris | Eventius, martyr | 3 May |
-| |
-| 
-### F
- |
+| **F** | | |
 | Fabiani Papae et Sebastiani Martyrum | Fabian, pope, and Sebastian, martyr | 20 January |
 | Familiae Sanctae Jesu, Mariae, Joseph | Feast of the Holy Family Jesus, Mary and Joseph | Sunday within the octave of Epiphany |
 | Faustini et Jovitae Martyrum | Faustinus and Jovita, martyrs | 15 Februar |
@@ -972,10 +977,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Francisci Salesii Episcopi Confessoris Ecclesiae Doctoris | Francis of Sales, bishop, confessor and doctor of the church | 29 January |
 | Francisci Seraphici | Francis of Assisi, confessor | 4 October |
 | Francisci Xaverii Confessoris | Francis Xavier, confessor | 3 December |
-| |
-| 
-### G
- |
+| **G** | | |
 | Gabrielis a Virgine Perdolente Confessoris | Gabriel of Our Lady of Sorrows, confessor | 27 or 28 February |
 | Gabrielis Archangeli | Gabriel, archangel | 24 March |
 | Galli Eremiti | Gallus, hermit | 16 October |
@@ -990,10 +992,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Gregorii Thaumatugi Episcopi Confessoris | Gregory of Neocaesarea, bishop and confessor | 17 November |
 | Gregorii VII. Papae Confessoris | Gregory VII, pope and confessor | 25 Mai |
 | Gulielmis Abbatis | William, abbot | 25 June |
-| |
-| 
-### H
- |
+| **H** | | |
 | Hadriani Martyris | Hadrian, martyr | 8 September |
 | Hebdomada sancta | Holy Week | |
 | Hebdomada sancta, Feria 2. | Monday in the Holy Week | |
@@ -1013,10 +1012,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Hyacinthi Confessoris | Hyacinth, confessor | 17 August |
 | Hyacinthi et Proti Martyrum | Hyacinth and Protus, martyrs | 11 September |
 | Hygini Papae et Martyris | Hyginus, pope and martyr | 11 January |
-| |
-| 
-### I
- |
+| **I** | | |
 | Ignatii Confessoris | Ignatius / Ignaz, confessor | 21 July |
 | Ignatii Episcopi Martyris | Ignatius, bishop and martyr | 1 February |
 | In honorem Sacratissimi Sacramenti | In honour of the Blessed Sacrament | |
@@ -1025,10 +1021,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Innocentium, Octava | Octave of the Holy Innocents | 5 January |
 | Irenaei Episcopi Martyris | Irenaeus, bishop and martyr | 28 June |
 | Isidori Episcopi Ecclesiae Doctoris | Isidore, bishop and doctor of the church | 4 April |
-| |
-| 
-### J
- |
+| **J** | | |
 | Jacobi, Apostoli | James (the elder), apostle | 25 July |
 | Jacobi Apostoli, Vigilia | Vigil of apostle James | 24 Juli |
 | Jacobi et Philippi Apostolorum | James (the younger) and Philip, apostles | 1 May |
@@ -1077,10 +1070,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Julianae de Falconeriis Virginis | Juliana Falconieri, virgin | 19 June |
 | Justini Martyris | Justin, martyr | 14 April |
 | Juvenalis Episcopi Confessoris | Juvenal, bishop and confessor | 3 May |
-| |
-| 
-### L
- |
+| **L** | | |
 | Largi Martyris | Largus, martyr | 8 August |
 | Laurentii Justiniani Episcopi Confessoris | Lorenzo Giustiniani, bishop and confessor | 5 September |
 | Laurentii Martyris | Laurence, martyr | 10 August |
@@ -1097,10 +1087,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Lucii I. Papae Martyris | Lucius I, pope and martyr | 4 March |
 | Ludovici BeltrÃ¡n Confessoris | Louis Bertrand, confessor | 9 October |
 | Ludovici Regis Confessoris | Louis, king and confessor | 25 August |
-| |
-| 
-### M
- |
+| **M** | | |
 | Machabaeorum Martyrum | Holy Maccabean Martyrs | 1 August |
 | Marcelli I. Papae Martyris | Marcellus I, pope and martyr | 16 January |
 | Marcelli Martyris | Marcellus, martyr | 7 October |
@@ -1157,10 +1144,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Modesti Martyris | Modestus, martyr | 15 June |
 | Monachorum | Monks | |
 | Monicae Viduae | Monica, widow | 4 May |
-| |
-| 
-### N
- |
+| **N** | | |
 | Naboris Martyris | Nabor, martyr | 12 June |
 | Nativitas Domini | Christmas, Nativity of the Lord | 25 December |
 | Nativitas Domini, Dominica infra octavam | Sunday in the octave of Christmas | |
@@ -1176,19 +1160,13 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Norberti Episcopi Confessoris | Norbert, bishop and confessor | 6 June |
 | Notkeri | Notker the Stammerer | 6 April |
 | Nymphae Virginis | Nympha, virgin | 10 November |
-| |
-| 
-### O
- |
+| **O** | | |
 | Oculi, Dominica | Sunday Oculi, 3rd Sunday in Lent | |
 | Omnium Monachorum | All monks | |
 | Omnium Sanctorum | All saints | 1 November |
 | Onuphrii Eremiti | Onuphrius, hermit | 12 June |
 | Othmari Abbatis | Othmar, abbot | 16 November |
-| |
-| 
-### P
- |
+| **P** | | |
 | Palmis, Dominica in | Palm Sunday | |
 | Pancratii Martyris | Pancras, martyr | 12 May |
 | Pantaleonis Martyris | Pantaleon, martyr | 27 July |
@@ -1288,10 +1266,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Processi et Martiniani Martyrum | Processus and Martinian, martyrs | 2 July |
 | Proti et Hyacinthi Martyrum | Protus and Hyacinth, martyrs | 11 September |
 | Pudentianae Virginis | Pudentiana, virgin | 19 May |
-| |
-| 
-### Q
- |
+| **Q** | | |
 | Quadragesima | Lent | |
 | Quadragesima, Dominica 1. | 1st Sunday in Lent | |
 | Quadragesima, Dominica 2. | 2nd Sunday in Lent | |
@@ -1301,10 +1276,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Quadragesima, Dominica 4., Feria 6. | Friday after the 4th Sunday in Lent | |
 | Quadragesima, Feria 6. | Friday in Lent | |
 | Quinquagesima | Sunday Quinquagesima | |
-| |
-| 
-### R
- |
+| **R** | | |
 | Raphaelis Archangeli | Raphael, archangel | 24 October |
 | Raymundi de Pennafort Confessoris | Raimond of Penafort, confessor | 23 January |
 | Raymundi Nonnati Confessoris | Raymond Nonnatus, confessor | 31 August |
@@ -1320,10 +1292,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Rosae a S Maria Virginis Limae | Rose of Lima, virgin | 30 August |
 | Rufinae et Secundae Virginum Martyrum | Rufina and Secunda, virgins and martyrs | 10 July |
 | Rustici Martyris | Rusticus, martyr | 9 October |
-| |
-| 
-### S
- |
+| **S** | | |
 | Sabbae Abbatis | Sabbas, abbot | 5 December |
 | Sabbato Sancto | Holy Saturday | |
 | Sabinae Martyris | Sabina, martyr | 29 August |
@@ -1350,10 +1319,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Stephani I. Papae Martyris | Stephan I, pope and martyr | 2 August |
 | Susannae et Tiburtii Martyrum | Susanna and Tiburtius, martyrs | 11 August |
 | Symphoriani Martyris | Symphorianus, martyr | 22 August |
-| |
-| 
-### T
- |
+| **T** | | |
 | Tempore Paschali, Dominicae | Sundays in Eastertide | |
 | Tempus Paschale | Eastertide | |
 | Tempus Passionis | Passiontide | |
@@ -1397,19 +1363,13 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Trinitas, Dominica 23. post | 23th Sunday after Trinity | |
 | Trinitas, Dominica 24. post | 24th Sunday after Trinity | |
 | Tryphonis Martyris | Tryphon, martyr | 10 November |
-| |
-| 
-### U
- |
+| **U** | | |
 | Ubaldi Episcopi Confessoris | Ubald of Gubbio, bishop and confessor | 16 May |
 | Uldarici Episcopi | Ulrich of Augsburg, bishop | 4 July |
 | Urbani I. Papae Martyris | Urban I, pope and martyr | 25 May |
 | Ursi, Victoris et Sociorum Martyrum | Urs, Victor and companions, martyrs | 30 September |
 | Ursulae et Sociorum Virginum Martyrum | Ursula and companions, martyrs | 21 October |
-| |
-| 
-### V
- |
+| **V** | | |
 | Valentini Presbyteri Martyris | Valentine, priest and martyr | 14 February |
 | Valeriani Martyris | Valerian, martyr | 14 April |
 | Venantii Martyris | Venantius, martyr | 18 May |
@@ -1422,79 +1382,28 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Virgilii Episcopi | Vergilius of Salzburg, bishop | 24 September |
 | Vitalis Martyris | Vitalis, martyr | 4 November |
 | Viti et Sociorum Martyrum | Vitus and companions, martyrs | 15 June |
-| |
-| 
-### W
- |
+| **W** | | |
 | Walburgae Abbatissae | Walburga, abbess | 25 February |
 | Wenceslai Ducis Martyris | Wenceslaus, martyr | 28 September |
 | Wicterpi Episcopi | Wicterp of Augsburg, bishop | 18 April |
 | Wilibaldi Episcopi | Willibald, bishop | 7 July |
-| |
-| 
-### X-Z
- |
+| **X-Z** | | |
 | Xysti II et Sociorum Martyrum | Xystus II and companions, martyrs | 6 August |
 | Zephyrini Papae Martyris | Zephyrinus, pope and martyr | 26 August |
 
 ## Help for transposing instruments
 
-| **Tuning** | **Instruments** | **Transposition, with respect to  
- a) notation  
- b) sounding pitch **|** Tone c'   
-sounds   
-as **|** Tone c'   
-is   
-notated** |
-| | | | | |
-| in C (high) | piccolo flute,  
-glockenspiel, celesta | a) sound a perfect octave higher  
- b) notation a perfect octave lower | c | c'' |
-| | | | | |
-| in E flat (high) | sopranino clarinet | a) sound a minor third higher  
- b) notation a minor third lower | a | e' flat |
-| | | | | |
-| in D (high) | trumpet | a) sound a major second higher  
- b) notation a major second lower | b flat | d' |
-| | | | | |
-| in C | all non-  
-transposing  
-instruments (e.g.  
-violin, piano,  
-flute, trombone, etc. | a) sound as notation  
- b) notation as sound | c' | c' |
-| | | | | |
-| in B flat | trumpet, Trompete, flugelhorn,   
-clarinet,   
-soprano saxophone | a) sound a major second lower  
- b) notation a major second higher | d' | b flat |
-| | | | | |
-| in A | clarinet | a) sound a minor third lower  
- b) notation a minor third higher | e' flat | a |
-| | | | | |
-| in G | alto flute | a) sound a perfect fourth lower  
- b) notation a perfect fourth higher | f' | g |
-| | | | | |
-| in F | French horn,   
-English horn | a) sound a perfect fifth lower  
- b) notation a perfect fifth higher | g' | f |
-| | | | | |
-| in E flat | also saxophone,   
-French horn, alto horn,   
-trumpet in E flat | a) sound a major sixth lower  
- b) notation a major sixth higher | a' | e flat |
-| | | | | |
-| in C (tief) | guitar, lute,   
-bass guitar,   
-double bass,   
-double bassoon | a) sound a perfect octave lower  
- b) notation a perfect octave higher | c'' | c |
-| | | | | |
-| in B flat (low) | tenor horn,   
-tenor saxophone,   
-bass clarinet,   
-bass trumpet | a) sound a major ninth lower  
- b) notation a major ninth higher | d'' | b, flat |
-| | | | | |
-| in E flat (low) | baritone saxophone | a) sound a major tenth lower  
- b) notation a major tenth higher | a'' | e, flat |
+| **Tuning** | **Instruments** | **Transposition, with respect to a) notation b) sounding pitch **|** Tone c' sounds as **|** Tone c' is notated** |
+| --- | --- | --- | --- | --- |
+| in C (high) | piccolo flute, glockenspiel, celesta | a) sound a perfect octave higher b) notation a perfect octave lower | c | c'' |
+| in E flat (high) | sopranino clarinet | a) sound a minor third higher b) notation a minor third lower | a | e' flat |
+| in D (high) | trumpet | a) sound a major second higher b) notation a major second lower | b flat | d' |
+| in C | all non-transposing instruments (e.g. violin, piano, flute, trombone, etc. | a) sound as notation b) notation as sound | c' | c' |
+| in B flat | trumpet, Trompete, flugelhorn, clarinet, soprano saxophone | a) sound a major second lower b) notation a major second higher | d' | b flat |
+| in A | clarinet | a) sound a minor third lower b) notation a minor third higher | e' flat | a |
+| in G | alto flute | a) sound a perfect fourth lower b) notation a perfect fourth higher | f' | g |
+| in F | French horn, English horn | a) sound a perfect fifth lower b) notation a perfect fifth higher | g' | f |
+| in E flat | also saxophone, French horn, alto horn, trumpet in E flat | a) sound a major sixth lower b) notation a major sixth higher | a' | e flat |
+| in C (tief) | guitar, lute, bass guitar, double bass, double bassoon | a) sound a perfect octave lower b) notation a perfect octave higher | c'' | c |
+| in B flat (low) | tenor horn, tenor saxophone, bass clarinet, bass trumpet | a) sound a major ninth lower b) notation a major ninth higher | d'' | b, flat |
+| in E flat (low) | baritone saxophone | a) sound a major tenth lower b) notation a major tenth higher | a'' | e, flat |

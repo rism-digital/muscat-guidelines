@@ -1,5 +1,5 @@
 # General abbreviations and concepts
-iSol  
+iSol
 
 - Example: iSol: vl
 - EN: continuous solo instrument in a work, typically with a separately written-out part (not used for instruments that have extensive solo passages, such as an oboe in a cantata)
