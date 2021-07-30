@@ -1,5 +1,3 @@
-[TO TRANSLATE:]
+### Date of creation (MARC 008; ISDIAH 5.6.6)
 
-#### **생성 날짜 (MARC 008; ISDIAH 5.6.6) **
-
-이 영역은 기록이 생성된 시간을 나타낸다. 이 영역은 자동 생성된다.
+This field shows the date that the record was created. This field is automatically generated.
