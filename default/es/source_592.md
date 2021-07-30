@@ -4,15 +4,21 @@ Este campo registra las filigranas presentes en la fuente. Descríbalas de modo 
 
 | _Ejemplos _(en inglés, como   
 corresponde a la norma):         | Traducción al español   
-(a modo de referencia) |
-| C & G HONIG  
- GFA | VB [GFA above VB]  
- IV [countermark:] VI  
- [coat of arms]  
- [3 crescents] | MA  
- [EinederH 1960 260] | C & G HONIG  
- GFA | VB [GFA sobre VB]  
- IV [contramarca:] VI  
- [blasón]  
- [3 cuartos crecientes] | MA  
- [EinederH 1960 260] |
+(a modo de referencia) | | C & G HONIG  
+GFA | VB [GFA above VB]  
+IV [countermark:] VI  
+[coat of arms]  
+[3 crescents] | MA  
+[EinederH 1960 260] | C & G HONIG  
+GFA | VB [GFA sobre VB]  
+IV [contramarca:] VI  
+[blasón]  
+[3 cuartos crecientes] | MA  
+[EinederH 1960 260] |
+
+- C & G HONIG
+- GFA | VB [GFA above VB]
+- IV [countermark:] VI
+- [coat of arms]
+- [3 crescents] | MA
+- [EinederH 1960 260]
