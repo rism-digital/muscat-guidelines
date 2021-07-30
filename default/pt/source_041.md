@@ -1,25 +1,19 @@
-### Código de Idioma (041)
+### Language code (041)
 
-Este campo registra o idioma utilizado na fonte, seja no texto cantado ou em outros elementos, tais como dedicatórias e prefácios em fontes impressas. Notas explanatórias podem ser inseridas no campo **Nota de idioma (546)**. Contate a Redação Central do RISM se for necessário incluir um idioma que não esteja na lista.
+This field is for the language used in the source, whether in sung text or in other elements such as dedications and prefaces in printed sources. Explanatory notes can be given in the field **Language note (546)**. Contact the RISM Editorial Center if you need a language that is not on the list.
 
- 
+#### Language of text (041 $a)
 
-#### Idioma do texto  (041$a) 
+**Required field if Text Incipit (031 $t) is filled out**
 
-**Campo obrigatório se o campo Incipit Literário (031 $t) for preenchido.**
+Select the language(s) of the text in the source. For music, this refers to the language of the sung or spoken text, even if it is printed separately, and not other text such as prefaces or dedications. For treatises, this refers to the language of the text. For libretti, use subfield **$e**.
 
-Selecione o(s) idioma(s) do texto da fonte. Para música, este campo se refere ao idioma do texto cantado ou falado, e não de outros textos, tais como prefácios ou dedicatórias. Para tratados, este campo se refere ao idioma do texto. Para libretos, use o subcampo **$e**.
+#### Language of libretto (041 $e)
 
-####   
+**Required field if libretto template is selected.**
 
-#### Idioma do libreto (041$e) 
+Select the language of the libretto.
 
-**Campo obrigatório se o modelo libreto for selecionado.**
+#### Language of original text (041 $h)
 
-Selecione o idioma do libreto.
-
- 
-
-#### Idioma do texto original (041 $h) 
-
-Se o texto na fonte é uma tradução, selecione o idioma original aqui.
+If the text in the source is a translation, select the original language here.
