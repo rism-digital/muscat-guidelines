@@ -21,7 +21,7 @@ By clicking on "New Institution", new data records can be added. Headings are ba
 An authority file contains the following fields:
 
 - Name - Whenever possible, the heading should be taken over from the mentioned sources, "Breitkopf & Härtel" or "Swiss National Library".
-- Other names - here further spellings or forms of names are given, which can also be researched, for example, "Biblioteca naziunala svizra. 2006a: Swiss National Library.." The input is not standardised.
+- Other names - here further spellings or forms of names are given, which can also be researched, for example, " Biblioteca naziunala svizra. 2006a: Swiss National Library.." The input is not standardised.
 - Comments - here the geographical location is entered, if it is not evident from the name, e.g. "Bern", and further comments are added.
 
 ### Titles / Text incipits
