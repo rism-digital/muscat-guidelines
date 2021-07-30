@@ -1,2 +1,3 @@
-#### Nota interna (599 $a) 
-Inserisci commenti a uso interno, compresi commenti destinati a colleghi del tuo stesso ufficio nazionale. Non saranno pubblicati nel catalogo accessibile al pubblico. I commenti interni possono essere usati per note di ogni tipo: domande, commenti o ricerche da fare. Elimina le note che non sono più attuali. È miglior pratica firmare i commenti usando le tue iniziali e la data.
+### Internal note (599 $a)
+
+Enter local notes for internal use, including within your own working group. Any language may be entered here. The notes are not published in the public online catalog. Local notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.
