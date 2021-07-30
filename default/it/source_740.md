@@ -1,1 +1,3 @@
-#### Utilizzato solo per l’importo di dati. Si prega di non utilizzare questo campo. 
+### Text (740)
+
+**Used only for imported data. Do not use.**
