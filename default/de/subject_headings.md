@@ -18,10 +18,5 @@ You can also add the subject heading directly to the authority file (simply clic
 
 Cataloging tips:
 
--
-
-Records for sources can include multiple subject headings, such as if there is a specific term as well as a more general or overarching term.
-
--
-
-To aid users in discovery, you are also free to include the local term in foreign languages and alphabets as an **Alternative title (730)** if you wish.
+- Records for sources can include multiple subject headings, such as if there is a specific term as well as a more general or overarching term.
+- To aid users in discovery, you are also free to include the local term in foreign languages and alphabets as an ** Alternative title (730)** if you wish.
