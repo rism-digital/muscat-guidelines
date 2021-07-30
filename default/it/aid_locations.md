@@ -300,7 +300,7 @@ key signature
 
 label on cover
 
-- DE: Umschlagtitel auf Etikett / Umschlagtitel  aufgeklebt
+- DE: Umschlagtitel auf Etikett / Umschlagtitel aufgeklebt
 
 left before accolade
 
@@ -436,10 +436,6 @@ vignette
 
 - DE: Vignette
 
-
-
-
-
 Note values - Notenwerte
 
 A slash indicates American English / British English.
@@ -500,11 +496,9 @@ octuplet
 
 - DE: Oktole
 
-
-
 Rest values - Pausenwerte
 
-whole rest  / semibreve rest
+whole rest / semibreve rest
 
 - DE: ganze Pause
 
