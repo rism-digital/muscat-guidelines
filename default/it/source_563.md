@@ -1,3 +1,3 @@
-### Rilegatura (563 $a)
+### Binding note (563 $a)
 
-#### Qui puoi brevemente descrivere una rilegatura originale, antica o altrimenti notevole. Inserisci i dati usando la tua lingua di catalogazione. Puoi anche indicare qui se una fonte è conservata in fascicoli non rilegati.
+Here you can briefly describe bindings which are original, old, and/or especially remarkable. Enter using your cataloging language. If a source exists unbound in fascicles, it can also be mentioned here.
