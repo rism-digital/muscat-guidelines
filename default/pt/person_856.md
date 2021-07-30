@@ -1,17 +1,14 @@
-#### Recurso externo  (856)
+### External resource (856)
 
-Este campo destina-se a links para recursos externos, tais como amostras de grafia.
+This field is for links to external resources, such as writing samples.
 
-####   
-URL para recurso externo (856 $u)
+#### External resource URL (856 $u)
 
-Insira o URL do recurso externo. Use sempre permalinks.
+Enter the full URL of the external resource. Always use permalinks.
 
-####   
-Nota sobre recurso externo (856 $y)
+#### Note about external resource (856 $y)
 
-Descreva brevemente para o que o URL aponta, em uma linguagem relevante.
+Briefly describe what the URL points to in a relevant language.
 
-_Exemplo_:  
-[http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000  
-](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.B 65 / p. 1, 26]
+_Example_:
+- [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.B 65 / p. 1, 26]
