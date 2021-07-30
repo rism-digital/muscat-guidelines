@@ -1,37 +1,31 @@
-### Fonte catalogadora  (040)
+### Cataloging source (040)
 
-**Não modifique.**
+**Do not change.**
 
-Este campo indica a organização que criou o registro original. Para novos registros, a fonte é sempre o RISM, então o código ISIL para o RISM é automaticamente preenchido: DE-633.
+This field indicates the organization that created the original record. For new records, this is always RISM, so the ISIL code for RISM is automatically filled out: DE-633.
 
-A Biblioteca Estadual de Berlim - Patrimônio Cultural da Prússia é responsável pela manutenção dos códigos para a Alemanha. Ver  [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633)
+The Staatsbibliothek zu Berlin – Preußischer Kulturbesitz is responsible for maintaining the codes for Germany. See [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633)
 
-#### Agência catalogadora original (040 $a)
+#### Original cataloging agency (040 $a)
 
-**Não modifique.**
+**Do not change.**
 
-Este campo indica o código para a organização que criou o registro original. O código para o RISM é automaticamente preenchido pelo Muscat.
+This field gives the code for the organization that created the original record. The code for RISM is automatically filled out by Muscat.
 
- 
+#### Transcribing agency (040 $c)
 
-#### Agência transcritora (040 $c)
+**Do not change.**
 
-**Não modifique.**
+This field gives the code for the organization that transcribed the record into machine-readable form. The code for RISM is automatically filled out by Muscat.
 
-#### 
+#### Modifying agency (040 $d)
 
-Este campo indica o código para a organização que transcreveu o registro para uma forma legível por máquina. O código para o RISM é automaticamente preenchido pelo Muscat.
+**Do not change.**
 
-####   
-Agência modificadora (040 $d)
+This field gives the code for the organization responsible for modifying the MARC record. Canadian, British, and German codes can be searched here: [https://www.loc.gov/marc/organizations/other\_assignment.php](https://www.loc.gov/marc/organizations/other_assignment.php) Codes for all other countries can be searched here: [https://www.loc.gov/marc/organizations/org-search.php](https://www.loc.gov/marc/organizations/org-search.php)
 
-**Não modifique.**
+#### Language of cataloging (040 $b)
 
-Este campo indica o código para a organização responsável por modificar o registro MARC. Códigos para Canadá, Inglaterra e Alemanha podem ser buscados aqui: [https://www.loc.gov/marc/organizations/other\_assignment.php](https://www.loc.gov/marc/organizations/other_assignment.php) Códigos para os demais países podem ser ser buscados aqui: [https://www.loc.gov/marc/organizations/org-search.php](https://www.loc.gov/marc/organizations/org-search.php)
+**Do not change.**
 
-####   
-Idioma de catalogação (040 $b)
-
-**Não modifique.**
-
-Este campo indica o código MARC para o idioma do catálogo para o qual o registro projetado. O código **ger** é sempre preenchido automaticamente.
+This field gives the MARC code for the language of the catalog for which the record is intended. The code **ger** is always automatically filled out.
