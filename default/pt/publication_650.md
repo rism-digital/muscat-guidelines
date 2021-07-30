@@ -1,12 +1,12 @@
-#### **Cabeçalho de assunto (650 $a)**
+### Subject heading (650 $a)
 
-#### 
-Insira um cabeçalho de assunto ou palavra-chave que ajude a descrever os conteúdos do item. Insira cabeçalhos de assunto especialmente se os conteúdos do item não são óbvios a partir do título. Este campo é ligado ao registro de autoridade **Cabeçalhos de assunto**. 
+Enter a subject heading or keyword that helps to describe the contents of the item. Enter subject headings especially if the contents of the item are not obvious from the title. This field is linked to the **Subject headings** authority file.
 
-Localidades geográficas são inseridas no campo **Local relacionado (651)**.
+Geographic locations are entered in the field **Related place (651)**.
 
-_Exemplos:_  
-Instruments   
-Madrigals   
-Schriftsteller   
-Benediktiner
+_Examples:_
+
+- Instruments
+- Madrigals
+- Schriftsteller
+- Benediktiner
