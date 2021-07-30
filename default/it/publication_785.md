@@ -1,8 +1,8 @@
-Notizia successiva (785 $a)
+### Succeeding entry (785 $a)
 
-Questo campo e il campo precedente ( **Notizia precedente** ) sono usati per riportare e collegare nomi alternativi di oggetti, come la testata di un periodico che ha cambiato nome.  
+This field and the previous field ( **Preceding entry** ) are used to list and link alternate titles of items, such as a journal title that has changed names.
 
-Inserisci qui il nome con cui il periodico è stato noto successivamente. Questo campo è collegato all’indice **Bibliografia.**
+Enter here the name that the periodical was successively known as. This field is linked to the **Secondary literature** database.
 
-_Esempio:_ Il periodico _Chelys. The Journal of the Viola da Gamba Society_ è esistito dal 1969 al 2004, quando è stato sostituito da _The Viola da Gamba Society Journal_. Nella scheda per _Chelys_, inserisci quanto segue:  
-Notizia successiva (785 $a): The Viola da Gamba Society Journal
+_Example:_ The journal _Chelys. The Journal of the Viola da Gamba Society_ existed from 1969 to 2004, when it was succeeded by _The Viola da Gamba Society Journal_. In the record for _Chelys_, enter the following:  
+Succeeding entry (785 $a): The Viola da Gamba Society Journal
