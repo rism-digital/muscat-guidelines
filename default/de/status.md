@@ -1,12 +1,11 @@
-### **Status des Eintrags**
+### Record status
 
-Der **Status des Eintrags** bestimmt, welche Datensätze im [RISM Online-Katalog](https://opac.rism.info/index.php?id=4) veröffentlicht werden und somit öffentlich einsehbar sind. Der Status kann manuell geändert werden.
+The **Record status** determines which records are published in the [RISM online catalog](https://opac.rism.info/index.php?id=4) and are thus publicly viewable. The status can be changed manually.
 
-**Published / Veröffentlicht**  
-Die Muscat-Datensätze mit dem Status **Published** werden einmal im Monat (um den 19. des Monats, je nach Wochenende und Feiertag) zur Veröffentlichung im RISM-Katalog versendet. Die Datensätze sind dann bis Ende des Monats im Katalog sichtbar. Alle neuen Datensätze werden automatisch auf **Veröffentlicht** gesetzt.
+**Published**  
+Records from Muscat with the status **Published** are sent for publication in the RISM catalog once a month, around the 19th of the month (depending on weekends and holidays). The records can then be seen in the catalog by the end of the month. All new records are automatically set to **Published**.
 
-**In Progress / In Arbeit**  
-Datensätze mit dem Status **In Progress** werden von der Publikation im RISM Online-Katalog ausgeschlossen.   
-Einige Projekte möchten diesen Status beibehalten, bis das Projekt abgeschlossen ist, oder Personen möchten eine  Einheit vollständig katalogisieren, bevor Sie sie veröffentlichen (z. B. umfangreiche Datensätze, die viele Incipits oder Einzeleinträge enthalten).
+**Unpublished**  
+Records with the status **Unpublished** are withheld from publication in the RISM online catalog. Some projects wish to keep this status until the project is complete, or individuals might want to wait until an item is fully cataloged before publishing it (such as with extensive records that have lots of incipits or individual entries).
 
-Bitte verwenden Sie diesen Status mit Bedacht. Es ist weder ratsam, Einträge, die zunächst veröffentlicht waren, wieder auf "In Arbeit" zu setzen, noch Datensätze lange Zeit unveröffentlicht zu lassen.
+Please use this status judiciously. It is not good practice to unpublish records that were once publicly available, nor is it ideal to keep records unpublished for a very long time.
