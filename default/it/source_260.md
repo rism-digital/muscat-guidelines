@@ -1,83 +1,75 @@
-#### Copia o dati editoriali (260)
+### Publishing, printing, and production information (260)
 
-Questa parte riporta informazioni riguardo alla pubblicazione, stampa, distribuzione, impressione, commercializzazione o produzione di tutti i tipi di fonte. In tutti i sottocampi di questa parte, indica aggiunte o complementi in parentesi quadre. Aggiungi un punto interrogativo dopo un’informazione incerta.
+Information is entered here relating to the publication, printing, distribution, issue, release, or production for all types of sources. In all subfields here, indicate additions and completions with square brackets. Place a question mark after an uncertain piece of information.
 
-Per edizioni musicali a stampa: se i dati editoriali originali sono coperti da una etichetta o cancellati o alterati in altro modo, e rimpiazzati da nuove informazioni, inserisci qui le informazioni più recenti. Se riesci a leggere i dati editoriali originali o se i dati editoriali originali sono in altro modo accessibili, puoi inserirli ripetendo il campo. Può essere necessaria una nota esplicativa nel campo **Nota generale (500)**.
+For printed music: If the original publishing information is covered by a label or otherwise crossed out or altered, and new information is provided in its place, enter the new information in this field. If you can read the original publishing information or if the original publishing information is otherwise available, you may also enter it by repeating the field. An explanatory note in the field **General note (500)** may be necessary.
 
-#### Luogo (260 $a)
+#### Place (260 $a)
 
-Per le edizioni a stampa, inserisci il luogo di pubblicazione come è riportato sulla fonte. Si possono inserire più luoghi di pubblicazione facendo clic sul segno (+) a sinistra del campo di immissione. Per i manoscritti, inserisci il luogo di produzione del manoscritto se è indicato nella fonte.
+For printed material, enter the place of publication as given on the source. Multiple places of publication can be entered by clicking on the plus sign (+) to the left of the text field. For manuscripts, enter the place where a manuscript was produced if it is indicated on the source.
 
-Se il luogo non è indicato in un’edizione a stampa, inserisci **[s.l.]**. Per i manoscritti, lascia il campo vuoto.
+If the place is not identified on a print, enter **[s.l.]**. For manuscripts, leave blank.
 
- 
+#### Publisher, copyist (260 $b)
 
-#### Copista, editore, casa editrice (260 $b)
+For printed material, enter the name of the publisher, publishing company, importer, or distributor as given on the source.
 
-Per le edizioni a stampa, inserisci il nome dell’editore, casa editrice, importatore, distributore come riportato sulla fonte. 
+For manuscripts, enter the name of the copyist as it appears on the source.
 
-Per i manoscritti, inserisci il nome del copista come compare sulla fonte. 
+Always enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional institution (710)**. Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as institutions.
 
-Inserisci sempre le forme standardizzate dei nomi nei campi **Nome aggiuntivo di persona** **(700)** o **Nome di ente aggiuntivo** **(710)**. In generale, gli editori che portano il nome di una persona ma svolgono le funzioni di una casa editrice (Pleyel, André ecc.) sono inseriti come istituzioni.
+If the name of the publisher or distributor is not identified on a print, enter **[s.n.]**. (Do not index [s.n.] as an additional institution). For manuscripts, leave blank.
 
-Se il nome dell’editore o stampatore non è indicato in un’edizione a stampa, inserisci **[s.n.]**. (Non inserire [s.n.] nell'indice delle istituzioni.) Per i manoscritti, lascia il campo vuoto.
+#### Date (260 $c)
 
- 
+Enter the date of the source. Use arabic numerals (such as 1624 instead of MDCXXIV). Keep in mind that this field is for the date of the material source itself, not for the work notated in the source. If the source contains an obvious error (such as a typographical error), enter the correct date in this field.
 
-#### Anno (260 $c)
+For manuscripts: Always try to give a date, even if it is approximate. If you have a month, day, and year, write it in this form: YYYY-MM-DD.
 
-Inserisci la datazione della fonte. Utilizza numeri arabi (ad esempio 1624 invece di MDCXXIV). Tieni a mente che questo campo è per la data del materiale stesso, non per la composizione notata sulla fonte. Se la fonte contiene un errore evidente (ad esempio un errore tipografico), inserisci in questo campo la data corretta.
+You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before** , and **after**. Try to indicate the date as exactly as possible. If you are uncertain, use a date range that corresponds to a non-specific period, such as the eighteenth century or the end of the seventeenth century. See the table below.
 
-Per i manoscritti: cerca di indicare sempre una data, anche se approssimativa. Se hai giorno, mese e anno, scrivi la data in questa forma: AAAA-MM-GG.
+For prints: If you have a print but it is undated, either enter an approximate date in brackets or enter **[s.d.]**. Please make an effort to supply a reasonable date range for an undated print, such as by using the life dates of the composer or arranger as a _terminus post quem_, or the active years of a publisher.
 
-Puoi indicare una datazione approssimativa usando le seguenti espressioni: **ca.** per circa, **before** [prima] e **after** [dopo]. Cerca di indicare la data nel modo più preciso possibile. In caso di incertezza, utilizza un ambito di datazione che non corrisponde a un periodo specifico, come il diciottesimo secolo o la fine del diciassettesimo secolo. Vedi la tabella sottostante.
+Note that for manuscripts, dates are given without brackets because manuscripts are rarely dated. Printed materials, by contrast, typically include a date so any editorial guess should be in brackets.
 
-Per le edizioni a stampa: se hai un'edizione a stampa non datata, inserisci una data approssimativa tra parentesi oppure inserisci **[s.d.]**. Prova a sforzarti per indicare un periodo di tempo ragionevole per un'edizione a stampa non datata, ad esempio usando le date della vita del compositore o arrangiatore come un _terminus post quem_, o gli anni di attività di un editore.
+Other dates may be indicated as on the source. Use question marks to indicate uncertain information.
 
-Nota che la datazione di un manoscritto è indicata senza parentesi quadre perché i manoscritti sono raramente datati. Il materiale a stampa, al contrario, tipicamente comprende una data e dunque ogni congettura editoriale va messa tra parentesi quadre.
+_Examples:_
+ - 1875
+ - 1856 Christmas Day
+ - 1757-01-11
+ - 1782-03-27-1784-05-07
+ - ca. 1760
+ - before 1802
+ - after 1653
+ - Easter 1744
+ - Ostern 1626
+ - ?1745?
+ - [1771]
 
-Altre date possono essere indicate come si presentano sulla fonte. Usa un punto interrogativo per indicare l’incertezza delle informazioni.
+For non-specific periods, enter appropriate years based on the following chart:
 
-_Esempi:_  
-1875  
-1856 Christmas Day  
-1757-01-11  
-1782-03-27-1784-05-07  
-ca. 1760  
-before 1802  
-after 1653  
-Easter 1744  
-Pasqua 1626  
-?1745?  
-[1771]
 
-Per periodi non specifici, inserisci gli anni appropriati basandoti sulla tabella seguente:
+| **For the period**            | **Enter this range of dates** |
+| ----------------------------- | ----------------------------- |
+| beginning of the 18th century | 1700-1710                     |
+| middle of the 18th century    | 1740-1760                     |
+| end of the 18th century       | 1790-1799                     |
+| 18th century, 1st third       | 1700-1732                     |
+| 18th century, 2nd third       | 1733-1765                     |
+| 18th century, 3rd third       | 1766-1799                     |
+| 18th century, 1st quarter     | 1700-1724                     |
+| 18th century, 2nd quarter     | 1725-1749                     |
+| 18th century, 3rd quarter     | 1750-1774                     |
+| 18th century, 4th quarter     | 1775-1799                     |
+| 18th century, 1st half        | 1700-1749                     |
+| 18th century, 2nd half        | 1750-1799                     |
+| 18th century                  | 1700-1799                     |
 
- 
+#### Location of printer (260 $e)
 
-| **Per il periodo...**  
- | **...inserisci questo ambito di datazione** |
-| inizio del XVIII sec.  
- | 1700-1710 |
-| metà del XVIII sec. | 1740-1760 |
-| fine del XVIII sec. | 1790-1799 |
-| primo terzo del XVIII sec. | 1700-1732 |
-| secondo terzo del XVIII sec. | 1733-1765 |
-| ultimo terzo del XVIII sec. | 1766-1799 |
-| primo quarto del XVIII sec. | 1700-1724 |
-| secondo quarto del XVIII sec. | 1725-1749 |
-| terzo quarto del XVIII sec. | 1750-1774 |
-| ultimo quarto del XVIII sec. | 1775-1799 |
-| prima metà del XVIII sec. | 1700-1749 |
-| seconda metà del XVIII sec. | 1750-1799 |
-| XVIII secolo | 1700-1799 |
+Enter the location of the institution associated with printing, duplicating, etc. as given on the source.
 
-#### Luogo di stampa (260 $e)
+#### Name of printer (260 $f)
 
-Inserisci il luogo dell’istituzione associata alla stampa, duplicazione ecc. come è indicato nella fonte. 
-
- 
-
-#### Stampatore, stamperia (260 $f)
-
-Inserisci il nome dello stampatore o della stamperia come indicati nella fonte. Inserisci le forme standardizzate dei nomi nei campi **Nome aggiuntivo di persona****  (700) **o** Nome di ente aggiuntivo **** (710)**.
+Enter the name of the printer or press as given on the source. Enter the standardized forms of the names in the fields** Additional personal name (700)** or **Additional institution (710)**.
