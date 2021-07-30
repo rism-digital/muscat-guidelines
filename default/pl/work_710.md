@@ -1,3 +1,3 @@
-**Dodatkowa instytucja (710)**
+### Additional institution (710)
 
-Wprowadź dodatkowe instytucje dla dzieła zgodnie z wytycznymi dla tego pola w Źródłach.
+Enter additional institutions for the work following the guidelines for this field in Sources.
