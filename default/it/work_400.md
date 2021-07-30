@@ -1,22 +1,26 @@
-#### Intestazione (400; registro RDA: [rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086))
+### Name variants: Heading (400; [RDA registry](http://www.rdaregistry.info/Elements/w/#P10086)[rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086))
 
-### Questo campo riporta titoli alternativi con cui l'opera è conosciuta. Non eliminare varianti del nome che sono state aggiunte come risultato di un'importazione dei dati da VIAF.  
+This field gives other titles that the work is known by. Do not delete name variants that are added as a result of importing data from VIAF.
 
- 
+#### Composer (400 $a)
 
-#### **Compositore (400 $a)  
-Data di nascita e di morte (400 $d)  
-Organico sintetico (400 $m) **** Numero d'opera/di catalogo (400 $n)  
-Tonalità o modo (400 $r)**  
+#### Years of birth and death (400 $d)
 
-Riempi i campi come sopra nell'intestazione principale (100).
+#### Scoring summary (400 $m)
 
-#### **Titolo dell'opera (400 $t)**
+#### Opus/Thematic index number (400 $n)
 
-Usa questo campo per riportare varianti del titolo, titoli alternativi, nomi popolari, ortografie aggiuntive, ecc. Ripeti il campo per ciascuna variante.
+#### Key or mode (400 $r)**
 
-_Esempi:_  
-Why fair maid in ev'ry feature  
-Why fair maid in every feature  
-Verrückte Jane  
-Warum, süße Maid, drückst du mit jeder Geste so viel Furcht aus?
+These fields will be identical with the main Heading (100) above.
+
+#### Title of work (400 $t)
+
+Use this field to record title variants, alternatives, nicknames, different spellings, etc. Repeat this field for each variation.
+
+_Examples:_
+
+- Why fair maid in ev'ry feature
+- Why fair maid in every feature
+- Verrückte Jane
+- Warum, süße Maid, drückst du mit jeder Geste so viel Furcht aus?
