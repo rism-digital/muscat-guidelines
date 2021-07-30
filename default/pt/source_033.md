@@ -1,33 +1,29 @@
-### Data codificada  (033)
+### Coded date (033)
 
-### 
+If a date is named in the field **Note on performance (518)**, the formatted date of the performance is entered here.
 
-Se uma data é indicada no campo **Nota sobre performance (518)**, a data formatada da performance é inserida aqui.
+#### Date type (033)
 
-####   
-Tipo de data (033)
+Select the type of date:
 
-Selecione o tipo de data:
+- Single date
+- Multiple single dates
+- Range of dates
 
-- Data única
-- Datas múltiplas
-- Faixa de datas  
-   
+#### Date (033 $a)
 
-#### Data  (033 $a)
+Enter different types of dates using the coded form YYYYMMDD. Single years may be entered as YYYY.
 
-Insira diferentes tipos de datas usando a forma codificada YYYYMMDD (quatro dígitos para ano [Y de year, em inglês]; dois para mês; dois para dia). No caso de informar apenas o ano inserir como YYYY.
+- Single date: YYYYMMDD
+- Multiple single dates: YYYYMMDD, YYYYMMDD, YYYYMMDD, etc.
+- Range of dates: YYYYMMDD-YYYYMMDD
 
-- Data única: YYYYMMDD
-- Datas múltiplas: YYYYMMDD, YYYYMMDD, YYYYMMDD, etc.
-- Faixa de datas: YYYYMMDD-YYYYMMDD
+_Examples_:  
+Single date: 1769  
+Single date: 18190913  
+Multiple single dates: 18791213, 18791216, 18791223
 
-_Exemplos_:  
-Data única: 1769  
-Data única: 18190913  
-Datas múltiplas: 18791213, 18791216, 18791223
+If a portion of the date is unknown or missing, use a hyphen.
 
-Se uma parte da data é desconhecida ou está omitida, use um hífen.
-
-_Exemplo para dezembro de 1791_ :   
+_Example_ _for December 1791_ :   
 179112--
