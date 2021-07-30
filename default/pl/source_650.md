@@ -1,10 +1,11 @@
-#### Hasło przedmiotowe (650 $a)
+### Subject heading (650 $a)
 
-**Pole wymagane.**
+**Required field.**
 
-Wprowadzić przedmiotowe słowo kluczowe lub terminy związane z gatunkiem muzyki. Pole połączono linkiem z indeksem **Tematy**.          
+Enter subject keywords or genre terms here. This field is linked to the index **Subjects**.
 
-Słowo kluczowe powinno odnosić się do całego utworu lub utworu oryginalnego, na którym opiera się utwór, nawet w przypadku aranżacji, fragmentów lub pojedynczych części. W przypadku sekcji większych utworów wokalnych należy podać gatunek danego fragmentu (np. Arie, Marsze), a także gatunek całego utworu.
+The keyword should apply to the entire work or the original work on which a piece is based, even in the case of arrangements, excerpts, or single movements. In the case of sections of larger vocal works, enter the genre of the excerpt in question (such as Arias, Marches) as well as that of the entire work.
 
-Każdemu rekordowi należy nadać hasło przedmiotowe, które odnosi się do tytułu ujednoliconego. Pole to jest szczególnie ważne w przypadku utworów, których gatunek nie jest wymieniony w tytule ujednoliconym. Można wybrać wiele haseł przedmiotowych, a określenie odpowiedniej kolejności należy do katalogera.  
-Należy pamiętać, że w przypadku niektórych rodzajów gatunków stosowanych jako tytuły ujednolicone stosuje się odpowiednie **Hasło przedmiotowe (650)**. Aby znaleźć bliższe wskazówki należy zapoznać się z aneksem **Tytuł ujednolicony - Hasło przedmiotowe** do **Wytycznych**.
+Each record should be given a subject heading that relates to the standardized title. This field is particularly important for works whose genre is not named in the standardized title. Multiple subject headings may be entered; it is up to the cataloger to determine the appropriate order. Some kinds of pieces are best served with more than one subject heading, such as "Contrafacta" or "Inserts."
+
+Note that for certain types of genres used as standardized titles, a corresponding subject heading (650) is used. Please consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
