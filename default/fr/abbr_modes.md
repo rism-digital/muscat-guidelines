@@ -96,8 +96,6 @@
 
 - EN: 12th tone (Hypoionian), transposed
 
-
-
 **Byzantine modes:**
 
 Ēchos prōtos
