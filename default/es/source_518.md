@@ -9,3 +9,6 @@ En el caso de la música impresa, llene este campo únicamente en el caso de imp
 _Ejemplos_:  
 Fecha de la primera interpretación: [6.9.1791 Praga, Teatro nacional]  
 [al pie de la portada:] “Interpretación en Baden Baden el 17 de marzo de 1832”
+
+- First performance date: [6.9.1791 Praha, National theatre]
+- [at foot of title page:] "Performance in Baden Baden on 17 March 1832"
