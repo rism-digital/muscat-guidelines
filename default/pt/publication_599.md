@@ -1,5 +1,5 @@
-#### **Nota interna (599 $a)** 
+### Internal note (599 $a)
 
-Insira notas locais para uso interno. Elas não são publicadas no OPAC. Notas locais podem ser usadas para comentários de todos os tipos, tais como perguntas, comentários ou pesquisas a serem feitas. Apague as notas depois que cumpriram seus propósitos. É uma boa prática assinar a nota utilizando suas iniciais e a data. 
+Enter local notes for internal use. They are not published in the OPAC. Local notes can be used for comments of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.
 
-Se um dado item existe na Redação Central, em Frankfurt, adicione a nota: **RISM-HB** para itens existentes na biblioteca de referência ou **RISM-HB (PDF)** para itens existentes no disco compartilhado. (Igualmente, se encontrar uma nota como esta em um item que precise consultar, por favor esteja à vontade para contatar a Redação Central, será um prazer procurar por alguma informação ou fazer uma cópia do item solicitado.)
+If an item is held by the Editorial Center in Frankfurt, add the note: **RISM-HB** for items in the reference library or **RISM-HB (PDF)** for items on the shared drive. (Likewise, if you see this note in an item you need, please feel free to contact the Editorial Center staff and we are happy to look something up for you or make you a copy.)
