@@ -1,12 +1,13 @@
-L'indice  **Immagini** contiene tutte le immagini che sono state caricate in Muscat. L'indice ha lo scopo di riporre e visualizzare singole immagini che servono a illustrare un aspetto della scheda, come una filigrana, una rilegatura o un esempio della grafia di un copista; qui sono anche collegati gli incipit MEI. Puoi collegare immagini tanto alle schede delle fonti che alle schede delle liste d’autorità. Versioni digitali integrali delle fonti non vanno caricate qui, inserisci piuttosto un collegamento nel campo **Localizzazione e accesso elettronico (856)**.
+The **Digital objects** database contains all images and MEI files that have been uploaded to Muscat. The database is intended to store and display individual images that serve to illustrate a point in a record, such as a watermark, a binding, or a handwriting sample; it is also where MEI incipits are attached. You can link digital objects to source records as well as authority records. Full digital versions of sources should not be uploaded here but rather linked in the field **External resource (856)**.
 
-Puoi aggiungere un’immagine facendo clic su  **Aggiungi una nuova immagine** mentre stai redigendo una scheda, o direttamente nell'indice delle immagini facendo clic su **Crea**. Aggiungi sempre una breve descrizione, come una descrizione della filigrana, della collocazione sulla fonte o la sigla. Questo aiuterà a ritrovarle più tardi. 
+Add an image (.jpeg or .png) by clicking on **Attach a new image** when you are editing a source. Always add a short description, such as a description of the watermark, the location on the source, or the siglum. This will help you find them later. Images are displayed in the order they are linked to the record.
 
-Si prega di consultare il RISM Editorial Center se desideri aggiungere un incipit MEI.
+Please consult the RISM Editorial Center if you wish to add an MEI incipit.
 
-Visualizzando un’immagine, troverai le opzioni seguenti sulla destra:
-- **Ritorna all’indice**  
-- **Modifica** : Ti permette di cambiare il nome o sostituire l’immagine  
-- **Collega fonte** : Ti permette di collegare l’immagine a una fonte esistente, ad esempio per collegare la stessa filigrana a più fonti
-- **Collega persona** : Ti permette di collegare l’immagine alla scheda d’autorità di una persona, ad esempio per dare degli esempi della sua grafia  
-- **Collega istituzione** : Ti permette di collegare l’immagine alla scheda d’autorità di un'istituzione, ad esempio l'immagine di un edificio.
+When you are viewing an image, you have the following options on the right.
+
+- **Return to the list**
+- **Edit** : Allows you to change the name or replace the file
+- **Link source** : Allows you to link the image to an existing source, such as attaching the same watermark to multiple sources
+- **Link person** : Allows you to link the image to the authority file of a person, such as for displaying handwriting samples
+- **Link institution** : Allows you to link the image to the authority file of an institution, such as an image of the building
