@@ -1,0 +1,3 @@
+### Items in this source (774 $w)
+
+In parent records, links to the items contained therein are displayed in this field. Links are added automatically as soon as they are established in the subentries.
