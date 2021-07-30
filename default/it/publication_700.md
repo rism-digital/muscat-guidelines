@@ -1,18 +1,25 @@
-Nome aggiuntivo di persona** (700)**
+### Additional personal name (700)
 
-Questo campo riporta informazioni su curatori, persone coinvolte nella pubblicazione, o compositori ed altre persone oggetto della pubblicazione.
+Information is entered here about the editors of the item, additional people involved in the publication, and composers or other people that the publication is about.
 
-**Persona (700 $a)**  
-Inserisci il nome. Questo campo è collegato all’indice  **Nomi di persona**.
+#### Name (700 $a)
 
-**Funzione (700 $4)**  
-Seleziona dai seguenti (i codici di tre lettere si riferiscono ai codici MARC):
-- **Nome correlato [asn]**: come festeggiato, nome nel titolo, collezionista, autore di testi, altro nome, ecc.  
-- **Autore secondario [aut]**: menziona qui autori aggiuntivi se la pubblicazione ha più di un autore.  
-- **Compositore [cmp]**  
-- **Curatore [edt]**
-- **Altra funzione [oth]**  
-_Esempio:_ per Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst _(titolo abbreviato: ReulF 2001):  
-Autore (100): Reul, Barbara M.  
-Persona (700): Fasch, Johann Friedrich (Compositore)  
-Persona (700): Hedwig Friederike, Fürstin von Anhalt-Zerbst (Nome correlato) 
+Enter the name. This field is linked to the **Personal names** authority file.
+
+#### Function (700 $4)
+
+Select from the following. (The three-letter codes refer to the MARC relator code.)
+
+- **Associated name [asn]**: such as honoree, name in title, collector, text author, other, etc.
+- **Author [aut]**: Name additional authors here if the publication has more than one author.
+- **Composer [cmp]**
+- **Editor [edt]**
+- **Other function [oth]**
+
+_Example:_
+
+- For Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin
+- Hedwig Friederike von Anhalt-Zerbst_  (short title: ReulF 2001):
+- Author (100): Reul, Barbara M.
+- Additional personal name (700): Fasch, Johann Friedrich (composer)
+- Additional personal name (700): Hedwig Friederike, Fürstin von Anhalt-Zerbst (associated name)
