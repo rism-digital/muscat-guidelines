@@ -1,20 +1,19 @@
-###   
+### Associated place (MARC 370)
 
-### Miejsce powiązane (MARC 370)
-Wypełniamy dla deskryptorów osobowych, korporatywnych oraz dzieła.  
-  
+This field is used to record a place associated with the institution.
 
-#### Miejsce związane z aktywnością instytucji (370 $c)
-Wprowadź państwo, z którym instytucja jest identyfikowana.  
-  
+#### Associated country (370 $c)
 
-#### Miejsce siedziby (370 $e)
-wprowadź miasto, prowincję, stan, region i/lub państwo w którym instytucja ma swoją siedzibę lub prowadzi działalność.    
-  
+Enter the country with which the institution is identified.
 
-#### Inne miejsce związane z aktywnością (370 $f)
-wprowadź inne lub dodatkowe miasto, prowincję, stan, region i/lub państwo związane z działalnością instytucji.   
-  
+#### Place of residence/headquarters (370 $e)
 
-#### Źródło dla zastosowanego terminu (370 $2)
-Podaj źródło dla zastosowanych terminów.
+Enter the town, city, province, state, locale, and/or country in which the institution has its headquarters or carries out its activities.
+
+#### Other associated place (370 $f)
+
+Enter other or additional town, city, province, state, and/or country associated with the institution.
+
+#### Source of term (370 $2)
+
+Enter the source of the terms used.
