@@ -1,4 +1,4 @@
-**Notas internas (MARC 667; ISDIAH 5.6.9)**
+### Notas internas (MARC 667; ISDIAH 5.6.9)
 
 En este campo se documenta información adicional relativa a la creación y cambios de la descripción.
 
