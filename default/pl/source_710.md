@@ -1,68 +1,47 @@
-#### Instytucja dodatkowa (710)  
+### Additional institution (710)
 
-Pole pojawia się dla źródeł dwukrotnie: w sekcji **Ludzie i instytucje** , aby wymienić wszystkie dodatkowe instytucje, organizacje i inne ciała korporatywne zaangażowane w dane źródło, oraz w sekcji **Opis materiału** w razie chęci powiązania dodatkowych instytucji z określonymi grupami materiałów, szczególnie przy tworzeniu wielu grup materiałów.
+This field appears twice for sources. It appears in the section **People and institutions** to list all additional institutions, organizations, or other corporate bodies involved with the source. It is also in the section **Material description** if you wish to associate additional institutions with particular materials groups, especially when creating multiple material groups.
 
-Wpisuje się tu wydawców noszących nazwę osobową, lecz pełniących funkcję wydawcy (Pleyel, André itp.). 
+Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered here. In the case of self-published music, enter the name of the person in its natural form, such as Bernhard Christoph Breitkopf.
 
-#### Instytucja (710 $a)
+#### Institution (710 $a)
 
-Wprowadź wszystkie nazwy instytucji, jakie pojawiają się w źródle lub są z nim powiązane. Pole połączono linkiem z bazą haseł wzorcowych  **Instytucje**. Można dodać nazwy, których jeszcze nie ma w bazie haseł wzorcowych.  
+Enter the names of all institutions that appear on or are associated with the source. This field is linked to the ** Institutions** authority file. Names not yet in the authority file may be added.
 
-#### Dział (710 $b) 
+#### Department (710 $b)
 
-Wprowadzić, jeśli zachodzi taka potrzeba, nazwę jednostki organizacyjnej instytucji, takiej jak np. dział. Wprowadzić nazwę w języku lokalnym.
+Enter, if necessary, the name of the unit of an institution, such as a department. Enter in the local language.
 
-#### Atrybucja (710 $j)  
+#### Attribution (710 $j)
 
-Wybierz odpowiednie określenie, aby opisać poziom pewności atrybucji, jeśli któraś z poniższych sytuacji ma zastosowanie. Jeżeli nie, należy pozostawić to pole puste.
+Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
-- **Rzekomy** oznacza nazwę występującą w źródle, lecz jej atrybucja jest podważalna lub wątpliwa.   
-- **Ustalony** oznacza nazwę, która jest częściowo obecna lub całkowicie nieobecna w źródle, lecz jej atrybucja jest (w miarę) pewna i opiera się na porównaniu zgodnych źródeł, literatury drugorzędnej lub innych źródeł naukowych. Ten rodzaj atrybucji zdarza się najczęściej.  
-- **Domyślny** jest domysłem opartym na drugorzędnych dowodach (takich jak literatura drugorzędna).
-- **Wątpliwy** oznacza, ze autorstwo jest niepewne.
-- **Błędnie przypisany** oznacza, że nazwa w źródle jest obecna, lecz jest błędna.
+- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
+- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
+- **Doubtful** means attribution is in question.
+- **Misattributed** means the name is on the source but is incorrect.
 
-####   
-Funkcja (710 $4) 
+#### Function (710 $4)
 
-**Pole wymagane w razie wypełnienia pola ** „ **Instytucja** ” **.**
+**Required field if "Institution" is filled out.**
 
-Każdej instytucji należy przypisać dokładną funkcję. Tę samą instytucję można wprowadzić kilkakrotnie z różnymi funkcjami. W informacji o zasobach materiałów drukowanych znajduje się zredukowana lista funkcji. Trzyliterowe kody odnoszą się do kodu relatora MARC.   
+Assign each institution an exact function. An institution can be entered multiple times with different functions. A reduced list of functions is offered in the holdings information for printed items. The three-letter codes refer to the MARC relator code.
 
-- 
-
-**Kopista [scr]**: Pracownia kopistów lub szkoła skrybów.
-
-- **Adresat dedykacji [dte]**
-
-- **Depozytor [dpt]:** Kolekcja w obrębie biblioteki, do której należy dana pozycja, np. ** ** „James Fuld Music Collection” lub „Nachlass Armin Knab”.
-- 
-
-**Dystrybutor [dst]**
-
-- 
-
-**Redaktor [edit]: **Organizacja wnosząca wkład w źródło poprzez rewizję lub objaśnienie treści, np. dodanie wstępu, uwag lub innego materiału krytycznego. Redaktor może również przygotować materiał do produkcji, wydania lub dystrybucji.
-
-- **Miejsce wydarzenia [evp]:** Nazwa sali koncertowej, opery, teatru itd.  
-
-- **Były właściciel [fmo]**  
-- 
-
-**Inne [oth]**: Wszystkie inne nazwy i funkcje, w tym importerzy, dystrybutorzy i inni współpracownicy.
-
-- **Papermaker [ppm]**: Producent papieru.
-
-- 
-
-**Wykonawca [prf]**: Instytucja lub zespół, który wykonał utwór, np. taki jak orkiestra. 
-
-- 
-
-**Drukarnia [prt]**
-
-- **Wydawca [pbl]**
-
-- **Projektant kroju pisma [tyd]**: Firma, która zaprojektowała krój pisma.
-
-W razie braku pewności, czy dana nazwa dotyczy wydawcy czy drukarni, należy wybrać opcję Wydawca.
+- **Assignee [asg]**: The institution to whom a license for printing or publishing has been transferred.
+- **Bookseller [bsl]**: A person or organization who makes books and other bibliographic materials available for purchase. Do not use "former owner" for this function.
+- **Copyist [scr]**: A copyist workshop or a scribal school.
+- **Copyright holder [cph]**
+- **Dedicatee [dte]**
+- **Depositor [dpt]**: The collection within the library to which the item belongs, such as "James Fuld Music Collection" or "Nachlass Armin Knab."
+- **Distributor [dst]**
+- **Editor [edt]**: The organization contributing to a source by revising or elucidating the content, such as adding an introduction, notes, or other critical matter. An editor may also prepare a resource for production, publication, or distribution.
+- **Event place [evp]**: The name of the concert house, opera house, theater, etc.
+- **Former owner [fmo]**
+- **Licensee [lse]**: An institution that is an original recipient of the right to print or publish.
+- **Other [oth]**: All other functions. Use if the exact function is not on the list or is unknown, unclear, or unspecific.
+- **Papermaker [ppm]**
+- **Performer [prf]**: The institution or ensemble that performed the work, such as an orchestra.
+- **Printer [prt]**
+- **Publisher [pbl]**
+- **Type designer [tyd]**: The organization who designed the typeface. If you are unsure whether the name is a publisher or a printer, select **Publisher**
