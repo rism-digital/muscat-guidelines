@@ -1,30 +1,29 @@
-Dieses Feld enthält die im Feld **Bemerkung zur Aufführung (518)** genannte Daten in Kodierter Form.  
+### Coded date (033)
 
-#### Datierungstypus (033)
+If a date is named in the field **Note on performance (518)**, the formatted date of the performance is entered here.
 
-Wählen Sie eine Art der Datierung. Folgende Typen stehen zur Auswahl:
+#### Date type (033)
 
-- Einzeldatum
-- Mehrere Einzeldaten
-- Datierungsbereich  
-  
+Select the type of date:
 
-#### Datum (codiert) (033 $a)
+- Single date
+- Multiple single dates
+- Range of dates
 
-Die vorgegebenen Eingabeschemata lauten für die einzelnen Datierungstypen wie folgt:
+#### Date (033 $a)
 
-- Einzeldatum: jjjjmmtt
-- Mehrere Einzeldaten: jjjjmmtt, jjjjmmtt, jjjjmmtt etc.
-- Datierungsbereich: jjjjmmtt-jjjjmmtt
+Enter different types of dates using the coded form YYYYMMDD. Single years may be entered as YYYY.
 
-_Beispiele_:  
-Einzeldatum: 1769  
-Einzeldatum: 18190913  
-Mehrere Einzeldaten: 18791213, 18791216, 18791223
+- Single date: YYYYMMDD
+- Multiple single dates: YYYYMMDD, YYYYMMDD, YYYYMMDD, etc.
+- Range of dates: YYYYMMDD-YYYYMMDD
 
-  
+_Examples_:  
+Single date: 1769  
+Single date: 18190913  
+Multiple single dates: 18791213, 18791216, 18791223
 
-Fehlen Teile des Datums, werden die entsprechenden Stellen durch Bindestriche ersetzt.
+If a portion of the date is unknown or missing, use a hyphen.
 
-_Beispiel für_ _Dezember 1791:_  
+_Example_ _for December 1791_ :   
 179112--
