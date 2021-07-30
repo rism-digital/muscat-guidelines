@@ -1,33 +1,32 @@
-**Luogo ed indirizzo (Marc 371; ISDIAH 5.2.1)**
+### Location and address (MARC 371; ISDIAH 5.2.1)
 
-Questo campo riporta gli indirizzi dell’istituzione, tanto fisici che elettronici. 
+This field gives the addresses of the institution, both physical and electronic.
 
-Inserisci le informazioni nei campi seguenti:
+Enter information in the following fields:
 
-- **Via e numero civico** (371 $a): 
+- Street address (371 $a): The street and number
+- Additions to the address: Storeys (for example, 1st floor, room 569), Names of buildings (for example, Palazzo ducale, Rose cottage etc.) [MARC field?]
+- Postal code (371 $e)
+- City (371 $b)
+- State, province, or county (371 $c)
+- Country (371 $d)
+- URL (371 $u): Use the official address of the institution. If this is not possible, give the official address of the larger institution to which it belongs. It is not recommended to give addresses for blogs or social networking sites.
 
-  - Ripeti il campo per supplementi all’indirizzo: piano (ad esempio: primo piano, stanza 569), nomi di edifici (ad esempio: Palazzo ducale, Rose cottage ecc.) 
-- **Codice postale** (371 $e)
-- **Città** (371 $b)
-- **Cantone o provincia** (371 $c)
-- **Paese** (371 $d)
-- **Codice postale** (371 $e)
+Adjust the format of the information appropriate to the country's postal conventions.
 
-Adatta il formato delle informazioni a quello appropriato per le convenzioni postali del paese.
+In addition, you may enter:
 
-In aggiunta, puoi inserire:
+- **E-mail** (MARC 371 $m; ISDIAH 5.2.2): Enter the e-mail address necessary to contact the institution.
+- **URL** (371 $u): Use the official address of the institution. If this is not possible, give the official address of the larger institution to which it belongs. It is not recommended to give addresses for blogs or social networking sites.
+- **Start period** (371 $s): The starting date associated with the address of the institution.
+- **End period** (371 $t): The end date associated with the address of the institution.
+- **Source of information** (371 $v): The source where the information recorded in this field was found if not through a URL.
 
-- **E-Mail** (MARC 371 $m; ISDIAH 5.2.2): Inserisci l’indirizzo e-mail necessario a prendere contatto con l’istituzione.
-- **URL** (371 $u): Utilizza l’indirizzo ufficiale dell’istituzione. Se ciò non è possibile, indica l’indirizzo ufficiale dell’istituzione sovraordinata cui appartiene. Non è consigliabile indicare indirizzi di blog o reti sociali.
-- **Inizio**  (371 $s): La data d'inizio associata all'indirizzo di un'istituzione.
-- **Fine**  (371 $t): La data finale di validità per l'indirizzo di un'istituzione.
-- **Fonte dell'informazione**  (371 $v): La fonte da cui è stata ricavata l'informazione riiportata in questo campo, se non attraverso un URL.
+#### Public note / Other contact information (MARC 371 $z; ISDIAH 5.2.2, 5.2.3)
 
-**Nota pubblica (MARC 371 $z; ISDIAH 5.2.2, 5.2.3)**
+Enter additional contact information, such as:
 
-Inserisci informazioni supplementari sul contatto, come ad esempio:
-
-- Numero di telefono (ISDIAH 5.2.2)
-- Numero di fax (ISDIAH 5.2.2)
-- Persona di contatto (ISDIAH 5.2.3): È utile avere l’indirizzo e-mail di una persona di contatto, specialmente per le istituzioni non specializzate in musica, come archivi amministrativi o religiosi.   
-- Indirizzo E-mail (ISDIAH 5.2.3)
+- Telephone number  ** ** (ISDIAH 5.2.2)
+- Fax number (ISDIAH 5.2.2)
+- Contact person (ISDIAH 5.2.3): It is useful to have the e-mail of a contact person, especially for institutions that do not specialize in music, such as administrative or religious archives.
+- E-mail address  (ISDIAH 5.2.3)
