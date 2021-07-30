@@ -1,104 +1,61 @@
-#### Nota geral  (500 $a) 
+### General note (500 $a)
 
-Qualquer informação sobre uma fonte que não pôde ser informada em outros campos pode ser fornecida aqui. Use seu idioma de catalogação. Ao fazer alguma citação da fonte, use | (a barra vertical) com um espaço simples antes e depois para indicar uma quebra de linha. Acréscimos à citação original devem ser colocados entre colchetes.
+Any information on a source which could not be entered in other fields can be given here. Enter using your cataloging language. When quoting something on the source, use **|** (the vertical pipe) with a single space before and after the sign to show a line break. Additions to the original quotation should always be in square brackets.
 
-Ao catalogar os itens de uma dada biblioteca, tente manter as expressões utilizadas o mais uniformemente possível.
+When cataloging the holdings of a single library, try to keep the expressions used as uniform as possible.
 
-Seguem-se exemplos de tipos de informação que pode ser incluída como uma nota. Esta lista não é exaustiva.
+What follows are examples of types of information that can be included as a note. This list is not exhaustive.
 
-**Instrumentação**  
-  
-No caso de um baixo cifrado em uma partitura, indique-o da seguinte maneira: b = b.fig, bc = bc.fig, org = org.fig, etc. (ver também as tabelas na seção **Baixo cifrado em partituras e/ou partes** para orientação nos campos relacionados).
+**Instrumentation**  
+If you have a figured bass in a score, indicate it here in the following manner: b = b.fig, bc = bc.fig, org = org.fig, etc. (see also the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
-- 
+- Scoring of second Agnus Dei: S, A, T, T, B
+- org = org.fig
 
-Formação do segundo Agnus Dei: S, A, T, T, B
+**Missing parts**
 
-- 
+- Other parts missing
 
-org = org.fig
+**Observations**
 
-**Partes faltantes**
+- Evidence present of another copyist.
+- The material consists of arias with paraphrased text from Jommelli’s opera.
+- Original pagination: 1-12.
+- fl 1 with autograph dynamics
 
-- 
+**Origin of information ascertained from external sources, such as composer or dating**
 
-Outras partes perdidas
+- According to FlotzingerL 1965, composer is Mozart.
 
-**Observações**
+#### Printed items
 
-- 
+**Designation marks**
 
-Há evidência de outro copista.
+- Designation mark: “Allgem. Choralbuch.”
 
-- 
+**Publisher's number**
 
-O material consiste de árias com texto parafraseado de ópera de Jommelli.
+Note that the publisher's number is entered here while the plate number is entered in the field **Plate number (028)**.
 
-- 
+- Publisher's number: 120
 
-Paginação original: 1-12.
+**Signature marks**
 
-- fl 1 com dinâmicas autógrafas
+- Signature mark: “F 2”
 
-**Origem de informação verificada em fontes externas, tal como compositor ou datação**
+**Quotations from the source**
 
-- 
+- Title on the parts: "Cantata | dominica pentec. | [...] per Soprano, Alto | Tenore e Basso | del Sig:|r|e Jommelli"
+- At foot of title page: "Performance in Baden Baden on 17 March 1832"
+- Note on cello part, f. 8: “Wir streiken für neue Bögen”
 
-De acordo com FlotzingerL 1965, o compositor é Mozart.
+**References to other RISM records**
 
-**Itens impressos**
+Include the complete RISM siglum, the shelfmark, and the RISM ID number.
 
-- 
-
-**Marcas de designação**
-
-  - 
-
-Marca de designação: “Allgem. Choralbuch.”
-
-- 
-
-**Número da Casa Editora**  
-Observe que o número da Casa Editora é inserido aqui, enquanto que o número de chapa deve ser inserido em **Número de chapa (028)**.
-
-  - 
-
-Número da Casa Editora: 120
-
-- 
-
-**Marcas de código**
-
-  - 
-
-Marca de código: “F 2”
-
-**Citações da fonte**
-
-- 
-
-Título nas partes: "Cantata | dominica pentec. | [...] per Soprano, Alto | Tenore e Basso | del Sig:|r|e Jommelli"
-
-- 
-
-Ao pé da página título: "Performance in Baden Baden on 17 March 1832"
-
-- 
-
-Nota na parte de violoncelo, f. 8: “Wir streiken für neue Bögen”
-
-**Referências a outros registros RISM**
-
-Inclua a sigla RISM completa, o código e o número de ID RISM.
-
-- 
-
-Mais partes em D-KPk 282 (RISM ID no. 450035504).
-
-- 
-
-Melodia concordante em US-Wc M1.A1A (RISM ID no. 000118313) tem o título "Jove in his chair".
+- Further parts in D-KPk 282 (RISM ID no. 450035504).
+- Concordant tune at US-Wc M1.A1A (RISM ID no. 000118313) has title "Jove in his chair".
 
 **URLs**
 
-Considere se o sítio web deve ser inserido como literatura secundária ou no campo **Recurso Externo (856)**. Caso insira aqui um URL, não inclua nenhuma pontuação diretamente antes ou diretamente depois do URL, do contrário o link não funcionará.
+Consider whether the website should be entered as secondary literature or in the field **External resource (856)**. If you enter a URL here, do not include any punctuation directly before or directly after the URL, otherwise the link will not resolve.
