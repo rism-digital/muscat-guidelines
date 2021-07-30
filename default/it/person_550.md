@@ -1,5 +1,3 @@
-#### Professione o funzione (550 $a)
+### Profession or function (550 $a)
 
-Inserisci, in inglese, la professione o funzione della persona in questione in relazione a fonti musicali.  
-
- 
+Enter, in English, the profession or function that the person in question plays in connection to musical sources.
