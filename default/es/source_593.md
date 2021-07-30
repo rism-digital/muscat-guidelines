@@ -8,20 +8,20 @@ Este campo describe la naturaleza de la fuente. Por favor seleccione una de las 
 
 - **Autograph manuscript** (Manuscrito autógrafo): escrito completa o mayormente por la mano del compositor
 - **Possible autograph manuscript** (Posible manuscrito autógrafo): indica cierto grado de incertidumbre acerca de si se trata de un manuscrito de la mano del compositor
-- **Partial autograph** (Autógrafo parcial). ** ** partes significativas del manuscrito son de la mano del compositor
-- **Manuscript copy** (Copia manuscrita)
+- **Treatise, handwritten** (Tratado, manuscrito)
+- **Manuscript copy**
 - **Manuscript copy with autograph annotations** (Copia manuscrita con anotaciones autógrafas): incluye ** ** correcciones o pequeñas adiciones de la mano del compositor
-- **Print** (Impreso)
+- **Print**
 - **Print with autograph annotations ** (Impreso con anotaciones autógrafas): ** ** incluye anotaciones manuscritas de la mano del compositor. Úselo sólo en registros de ejemplares (información específica de una copia).
 - **Print with non-autograph annotations  ** (Impreso con anotaciones no autógrafas): ** ** incluye ** ** cualquier otro tipo de anotaciones manuscritas que no sean del compositor. Úselo sólo en registros de ejemplares (información específica de una copia).
 
 **Para otros tipos de documentos:**
 
-- **Libretto, handwritten** (Libreto, manuscrito)
-- **Libretto, printed** (Libreto, impreso)
-- **Treatise, handwritten** (Tratado, manuscrito)
-- **Treatise, printed** (Tratado, impreso)
-- **Other** (Otro)
+- **Libretto, handwritten**
+- **Libretto, printed**
+- **Treatise, handwritten**
+- **Treatise, printed**
+- **Other**
 
 En el caso de los manuscritos autógrafos y los posibles manuscritos autógrafos, no registre el nombre del compositor como copista en entrada adicional**(700)**. No obstante, se da una excepción si la identidad del copista es comprobable y, al mismo tiempo, resulta incierto si copista también es el compositor. En tal caso, ingrese el nombre del copista tanto en el campo **Nombres personales adicionales (700)** como en el campo **Nombre del compositor/autor (100 $a),** indicando el tipo de atribución apropiada.
 
