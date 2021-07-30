@@ -1,6 +1,7 @@
-#### Kolophon (597)
+### Colophon (597 $a)
 
-Bei den Drucken wird hier der Kolophon (Schlussformel mit Angaben über Verfasser, Druckort und Druckjahr) wie auf der Quelle wiedergegeben.
+For printed items, enter the colophon as it appears on the source, typically on the last printed page.
 
-_Beispiel_:  
-Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs | eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis
+_Example_:
+
+- Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs | eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis
