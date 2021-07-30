@@ -1,17 +1,13 @@
-**Źródło katalogowania (040)**
+### Cataloging source (040)
 
-Pole podaje informację o tym, która jednostka stworzyła rekord.
+This field gives information about the agency that created the record.
 
- 
+#### Original cataloging agency (040 $a)
+#### Transcribing agency (040 $c)
+#### Modifying agency (040 $d)
 
-#### Jednostka katalogująca pierwotny rekord (040 $a)  
-Jednostka transkrybująca (040 $c)  
-Jednostka modyfikująca (040 $d)
+Do not change or edit these fields.
 
-Nie zmieniać tych pól ani ich nie edytować.
+#### Language of cataloging (040 $b)
 
- 
-
-#### **Język katalogowania (040 $b)**
-
-Podać język katalogowania. Języki do wyboru: angielski, francuski, niemiecki, włoski, hiszpański lub polski.
+Indicate your cataloging language. Select from English, French, German, Italian, Portuguese, or Spanish.
