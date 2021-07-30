@@ -1,19 +1,15 @@
-Muscat jest programem oferowanym przez RISM dla grup roboczych i współpracowników, dostępnym bezpłatnie dla wszystkich zainteresowanych. Umożliwia on bezpośredni dostęp do bazy danych RISM prowadzonej przez Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. W celu uzyskania dostępu do bazy danych potrzebny jest login i hasło, które można uzyskać w RISM Zentralredaktion. Muscat pomaga dokumentować źródła zgodnie z międzynarodowymi wytycznymi RISM, zawartymi w tym dokumencie.  
-  
-Muscat jest systemem funkcjonującym w oparciu o system katalogowania MARC, opracowywanym wspólnie z RISM Szwajcaria i RISM Zentralredaktion (Biuro Centralne). System Muscat  działa w oparciu o program opracowany wspólnie przez RISM Szwajcaria i RISM UK.  
-  
-Aby zapoznać się z treścią systemu, należy korzystać ze spisu treści po prawej stronie. Rozdziały **2 - Korzystanie z programu Muscat** i **3 - Ogólne wytyczne katalogowania** wyjaśniają, jak korzystać z programu (funkcje ogólne, szablony, jak katalogować niektóre formaty).  
-  
-Rozdział **4 - Katalogowanie źródeł muzycznych** zawiera wytyczne katalogowania RISM dla źródeł muzycznych stosowane  w systemie Muscat. Wymieniono je w kolejności, w jakiej pojawiają się w programie. Podczas pracy z Muscat, można znaleźć również wskazówki dla każdego pola połączone z jego odpowiednim polem za pomocą znaku zapytania. Przykłady można znaleźć w całym tekście.  
-  
-Po wytycznych, w rozdziałach środkowych (5-14) znajdują się różne listy zawierające znormalizowane słownictwo i skróty do wykorzystania w takich dziedzinach, jak tytuł dyplomatyczny, hasła przedmiotowe i święta liturgiczne. Dodatkowo, można tutaj znaleźć tabelę instrumentów transponowanych, które ułatwią Państwu wprowadzanie incipitów.  
-  
-Na końcu (sekcja 15) znajduje się indeks wszystkich pól MARC używanych w Muscat, uporządkowwanych według tagu MARC21. Pola te są również połączone z odpowiadającymi im rozdziałami niniejszego dokumentu.
+Muscat is the program offered by RISM to working groups and contributors, available free of charge to anyone who is interested. It enables direct access to the RISM database hosted by the Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. To access the database you need a login name and password, available from the RISM Zentralredaktion. With Muscat, sources are documented according to RISM's international guidelines, which are contained in this document.
 
-  
+Muscat is a MARC21-based system that is developed jointly with the RISM Digital Center and the RISM Zentralredaktion ( Editorial Center) and is based on a program that was jointly developed by RISM Switzerland and RISM UK.
 
-Więcej informacji na temat progamu Muscat można znaleźć na stronie internetowej [RISM's Muscat page](http://www.rism.info/en/community/muscat.html)   
+Refer to the contents on the right for an overview. Sections **2 - Using Muscat** and **3 - General cataloging guidelines** explain how to use the program (general functions, templates, how to catalog certain formats).
 
-  
+The section **4 - Cataloging musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. They are listed in the order they appear in the program. When working with Muscat, you will also find the guidelines for each field linked to their respective field by a question mark. Examples are included throughout.
 
-Za wytyczne odpowiada Centralne Biuro RISM we Frankfurcie nad Menem (Niemcy). Jennifer Ward (jennifer.ward@rism.info) odpowiada za utrzymanie wersji angielskiej, a Martina Falletta (martina.falletta@rism.info) za utrzymanie wersji niemieckiej. W przypadku jakichkolwiek niejasności, prosimy o kontakt. Chcielibyśmy również wyrazić wdzięczność naszym tłumaczom: Claudio Bacciagaluppi (włoski i francuski), Laurent Pugin (francuski), André Guerra Cotta i Silvia Sequeira (portugalski), John Lazos i Oliver Schöner (hiszpański) i Katarzyna Diehl (polski): dziękujemy za tłumaczenie i ułatwienie dostępu do systemu Muscat naszym kolegom na całym świecie.
+After the guidelines, the middle sections (5-14) offer various lists containing standardized vocabulary and abbreviations for use in areas such as the diplomatic title, subject headings, and liturgical festivals. In addition, you will find a table of transposing instruments to help you when entering incipits.
+
+At the end (section 15) is an index of all MARC fields used in Muscat, sorted by MARC21 tag. These fields are also linked to their corresponding sections in this document.
+
+Visit [RISM's Muscat page](http://www.rism.info/en/community/muscat.html)for more information about Muscat.
+
+The guidelines are maintained by the RISM Editorial Center in Frankfurt, Germany. Jennifer Ward ( jennifer.ward@rism.info) maintains the English version and Martina Falletta (martina.falletta@rism.info) maintains the German version. Should anything be unclear, do not hesitate to contact us. We would also like to extend our gratitude to our translators: Claudio Bacciagaluppi and Rodolfo Zitellini (Italian and French), Laurent Pugin (French), Marcelina Chojecka and Katarzyna Diehl (Polish), André Guerra Cotta and Silvia Sequeira (Portuguese), and Rodrigo Balaguer, John Lazos, Lucas Reccitelli, and Oliver Schöner (Spanish): thank you very much for translating and making Muscat more easily accessible to our colleagues worldwide.
