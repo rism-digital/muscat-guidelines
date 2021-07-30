@@ -11,7 +11,8 @@ The following list of standard texts of sacred works provide an overview of the 
 - Te Deum  
 
 ### Mass
-
+| |
+| --- |
 | **Kyrie** , eleison Christe eleison Kyrie eleison |
 | Christe eleison |
 | Kyrie eleison |
@@ -63,6 +64,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Requiem (Missa pro defunctis)
 
+| |
+| --- | 
 | **Requiem** , aeternam dona eis Domine |
 | Aeternam dona eis |
 | **Absolve Domine** , animas omnium fidelium defunctorum |
@@ -97,6 +100,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Litaniae Lauretanae
 
+| |
+| --- |
 | Kyrie eleison Christe eleison Kyrie eleison Christe audi nos |
 | Pater de caelis Deus, miserere nobis |
 | Fili redemptor mundi Deus, miserere nobis |
@@ -132,6 +137,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Responsorium
 
+| |
+| --- |
 | _ **Feria V. in coena Domini:** _  |
 | _1. Nocturno:_ |
 | In monte Oliveti, oravit ad patrem |
@@ -178,6 +185,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Vesperae
 
+| |
+| --- |
 | Dixit Dominus, Domino meo sede a dextris meis |
 | Confitebor, tibi Domine in toto corde meo in consilio justorum et congregatione |
 | Beatus vir, qui timet Dominum |
@@ -201,6 +210,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Magnificat
 
+| |
+| --- |
 | **Magnificat** , anima mea Dominum |
 | Anima mea Dominum |
 | Et exsultavit, spiritus meus in Deo salutari meo |
@@ -217,6 +228,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Miserere
 
+| |
+| --- |
 | **Miserere** , mei Deus secundum magnam misericordiam tuam |
 | Secundum magnam misericordiam tuam |
 | Amplius lava me, ab iniquitate mea |
@@ -243,6 +256,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Stabat Mater
 
+| |
+| --- |
 | **Stabat mater** , dolorosa juxta crucem lacrimosa |
 | Cujus animam gementem |
 | O quam tristis et afflicta |
@@ -270,6 +285,8 @@ The following list of standard texts of sacred works provide an overview of the 
 
 ### Te Deum
 
+| |
+| --- |
 | **Te Deum** , laudamus te Dominum confitemur |
 | Te Deum |
 | Te Deum laudamus |

@@ -1,16 +1,8 @@
 **Contents:**
 
-- 
-
-General abbreviations and concepts
-
-  - 
-
-General
-
-  - 
-
-Additions to any instrument to indicate a range
+- General abbreviations and concepts
+- General
+- Additions to any instrument to indicate a range
 
   - 
 

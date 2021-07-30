@@ -1,12 +1,12 @@
 #### Standard terms
 
-Use these standardized English terms in fields where English is required.  
+Use these standardized English terms in fields where English is required.
 
-accidental      
+accidental
 
 - DE: Akkzidenz, Vorzeichen
 
-added 
+added
 
 - DE: hinzugefügt
 
@@ -300,7 +300,7 @@ key signature
 
 label on cover
 
-- DE: Umschlagtitel auf Etikett / Umschlagtitel  aufgeklebt
+- DE: Umschlagtitel auf Etikett / Umschlagtitel aufgeklebt
 
 left before accolade
 
@@ -432,13 +432,9 @@ upbeat
 
 - DE: Auftakt
 
-vignette  
+vignette
 
 - DE: Vignette
-
- 
-
- 
 
 Note values - Notenwerte
 
@@ -446,9 +442,9 @@ A slash indicates American English / British English.
 
 whole note / semibreve
 
-- DE: ganze Note          
+- DE: ganze Note
 
-half note / minim       
+half note / minim
 
 - DE: halbe Note
 
@@ -456,11 +452,11 @@ quarter note / crotchet
 
 - DE: Viertelnote
 
-eighth note / quaver   
+eighth note / quaver
 
 - DE: Achtelnote
 
-sixteenth note / semiquaver   
+sixteenth note / semiquaver
 
 - DE: Sechzehntelnote
 
@@ -468,63 +464,61 @@ thirty-second note / demisemiquaver
 
 - DE: Zweiunddreißigstelnote
 
-sixty-fourth note / hemidemisemiquaver      
+sixty-fourth note / hemidemisemiquaver
 
 - DE: Vierundsechzigstelnote
 
-duplet 
+duplet
 
 - DE: Duole
 
-triplet 
+triplet
 
 - DE: Triole
 
-quadruplet     
+quadruplet
 
 - DE: Quartole
 
-quintuplet      
+quintuplet
 
 - DE: Quintole
 
-sextuplet        
+sextuplet
 
 - DE: Sextole
 
-septuplet        
+septuplet
 
 - DE: Septole
 
-octuplet          
+octuplet
 
-- DE: Oktole     
-
- 
+- DE: Oktole
 
 Rest values - Pausenwerte
 
-whole rest  / semibreve rest    
+whole rest / semibreve rest
 
 - DE: ganze Pause
 
-half rest / minim rest 
+half rest / minim rest
 
 - DE: halbe Pause
 
-quarter rest / crotchet rest     
+quarter rest / crotchet rest
 
 - DE: Viertelpause
 
-eighth rest / quaver rest         
+eighth rest / quaver rest
 
 - DE: Achtelpause
 
-sixteenth rest / semiquaver rest         
+sixteenth rest / semiquaver rest
 
 - DE: Sechzehntelpause
 
-thirty-second rest / demisemiquaver rest      
+thirty-second rest / demisemiquaver rest
 
 - DE: Zweiunddreißigstelpause
 

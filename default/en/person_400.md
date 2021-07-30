@@ -1,22 +1,22 @@
-### **Name variant (400)**
+### Name variant (400)
 
-This field is for forms of the name that differ from the authorized form, such as birth names, pseudonyms, religious names, names spelled differently on different sources, alternate transliterations, etc.
+This field is for forms of the name that differ from the authorized form, such as birth names, pseudonyms, religious
+names, names spelled differently on different sources, alternate transliterations, etc.
 
 #### Name variant (400 $a)
 
 Enter the name in the form described in the field **Heading - Personal name (100 $a)**.
 
-For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.  
+For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field.
+Transliterations using other translation tables can also be entered here.
 
 Additions to names such as Jr, III, Sir, Meister,etc. are entered here, for example: **Sinatra, Frank Jr.**
 
-####   
-Life dates (400 $d)
+#### Life dates (400 $d)
 
 Do not enter anything in this field.
 
-####   
-Type of name variant (400 $j)
+#### Type of name variant (400 $j)
 
 The default value is **xx** (unassigned). Select from the list:
 

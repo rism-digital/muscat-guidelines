@@ -26,7 +26,7 @@ RISM date range: 1766-1799
 
 RISM date range: 1700-1724
 
-- EN: 18th century, 1st quarter 
+- EN: 18th century, 1st quarter
 
 RISM date range: 1725-1749
 

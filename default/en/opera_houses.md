@@ -1,25 +1,18 @@
-### Opera houses and concert halls 
+### Opera houses and concert halls
 
 Alessandria (Italia/Italy):
 
 - Teatro Civico
-
 - Teatro Comunale
-
 - Teatro Lirico
 
 Amsterdam:
 
 - Blankenburg
-
 - Hoogduitse Schouwburg
-
 - Kleine Komedie
-
 - Schouwburg Keizersgracht
-
 - Stadsschouwburg
-
 - Théâtre Français
 
 Athinai (Athens)
@@ -29,21 +22,13 @@ Athinai (Athens)
 Barcelona
 
 - Circo Barcelonés
-
 - Gran Teatre del Liceu
-
 - Gran Teatro del Liceo
-
 - Liceu de Mont Sion
-
 - Teatre de la Santa Creu
-
 - Teatro de la Santa Cruz
-
 - Teatre dels Camps Elisis
-
-- Teatre Nou 
-
+- Teatre Nou
 - Teatre Principal
 
 Bari
@@ -109,7 +94,7 @@ Braunschweig
 - Rathaus
 - Staatstheater
 
-Breslau _see_ Wrocław 
+Breslau _see_ Wrocław
 
 Bruxelles/Brussels
 
@@ -194,7 +179,7 @@ Ferrara
 
 Firenze (Florence)
 
-- Palla a Corda 
+- Palla a Corda
 - Regio Teatro degl'Intrepidi (detto della Palla a Corda)
 - Teatro in Borgo Ognissanti
 - Teatro di via del Cocomero
@@ -301,13 +286,13 @@ Leipzig
 - Musikalische Komödie
 - Neues Stadttheater
 - Neues Theater
-- Opernhaus auf dem Brühl 
+- Opernhaus auf dem Brühl
 - Stadttheater
 - Theater am Quandts Hof
 - Theater am Rannstädter Tor
 - Theater vor dem Grimma’schen Tor
 
-Lemberg _see_ L’viv    
+Lemberg _see_ L’viv
 
 Lisboa (Lisbon)
 
@@ -456,7 +441,7 @@ Napoli (Naples)
 - Poveri di Gesù Cristo
 - Real Teatro Mercadante
 - Rossini
-- Teatro dei Fiorentini 
+- Teatro dei Fiorentini
 - Teatro S Bartolomeo
 - Teatro S Carlo
 - Teatro S Maria di Loreto
@@ -464,7 +449,7 @@ Napoli (Naples)
 - Teatro S Onofrio a Capuana
 - Teatro Nuovo
 - Teatro della Pace
-- Teatro del Real Fondo di Separazione 
+- Teatro del Real Fondo di Separazione
 - Teatro di Corte
 - Teatro di Foggia
 
@@ -534,7 +519,7 @@ Paris
 - Opéra Bastille
 - Opéra-Comique
 - Palais Garnier
-- Palais Royal 
+- Palais Royal
 - Salle de la Belle Cheminée Fontainebleau
 - Salle de l’Odéon
 - Salle des Machines Palais des Tuileries
@@ -596,11 +581,11 @@ Piacenza
 - Teatro di Piazza
 - Teatro Ducale Piccolo
 
-Pisa    
+Pisa
 
 - Arena Federighi
 - Arena Garibaldi
-- Palazzo dei Consoli del Mare 
+- Palazzo dei Consoli del Mare
 - Regio Teatro Nuovo
 - Stanzone delle Commedie
 - Teatro dei Nobili Fratelli Prini
@@ -665,7 +650,7 @@ Roma (Rome)
 - Teatro Cancelleria
 - Teatro Capranica
 - Teatro Costanzi
-- Teatro delle Dame 
+- Teatro delle Dame
 - Teatro dell’Opera
 - Teatro di Macerata
 - Teatro Drammatico Nazionale
@@ -674,7 +659,7 @@ Roma (Rome)
 - Teatro Manzoni
 - Teatro Ornani
 - Teatro Pace
-- Teatro Pallacorda 
+- Teatro Pallacorda
 - Teatro Pioli
 - Teatro Reale dell’Opera
 - Teatro Sant’Angelo
@@ -867,7 +852,7 @@ Wien (Vienna)
 - Wiener Kammeroper
 - Wiener Volkstheater
 
-Wrocław:       
+Wrocław:
 
 - Opera Dolnośląska
 - Operetka Dolnośląska

@@ -1,5 +1,7 @@
-## General abbreviations and terms
+### General abbreviations and terms
 
+| | |
+| --- | --- |
 | appx | appendix |
 | Arr | arrangement |
 | | |
@@ -10,26 +12,21 @@
 | Collection | manuscript collection, printed collection |
 | comp. | date of composition |
 | convolutum | miscellany, bundle |
-| | |
 | Excerpts | excerpt(s) |
-| | |
 | deest | not existing |
 | dir. | conductor |
 | diss. | dissertation |
-| | |
 | Ed. | publisher |
 | ed. | editor, edited by |
 | edn. | edition |
 | enl. | enlarged (edition) |
 | et al. | and others |
 | etc. | et cetera |
-| | |
 | f. | folio(s) |
 | facs. | facsimile |
 | fasc. | fascicle, gathering |
 | fds. | fold(s) |
 | fragments | fragment(s) |
-| | |
 | ibd. | ibidem |
 | idem | idem |
 | i.e. | id est |
@@ -39,20 +36,14 @@
 | + | mistakes within incipit corrected |
 | incpl. | incomplete |
 | Inserts | insert(s) |
-| | |
 | Jg. | year |
 | jun. | junior |
-| | |
 | libretto | libretto |
 | lvs. | leaves |
-| | |
 | Ms. | manuscript |
-| | |
 | no. | number |
-| | |
 | olim | previous shelf mark |
 | op. | opus |
-| | |
 | p. | page(s) |
 | part(s) | part(s) |
 | passim | passim |
@@ -64,11 +55,9 @@
 | Prov. | previous owner (person or institution) |
 | pub. | published |
 | publ. | date of publication |
-| | |
 | repr. | reprinted, reprint |
 | rev. | revised (edition) |
 | Role | role |
-| | |
 | score(s) | score(s) |
 | s.d. (sine dato) | without date |
 | ser. | series |
@@ -77,27 +66,23 @@
 | s.l. (sine loco) | without place |
 | s.n. (sine nomine) | without name |
 | suppl. | supplement |
-| | |
 | theoreticum | theoreticum |
 | trans. | translation, translated by |
-| | |
 | vide | see |
 | vol. | volume(s) |
-| | |
 | Without title | without title |
 | wm. | watermark |
 | WV | catalogue of works |
-| | |
 | \* | born |
 | + | died |
 
-## Terms for voices and instruments
+### Terms for voices and instruments
 
 As a rule, voices are upper case, while instruments are lower case.
 
-| 
-### A
- |
+| | |
+| --- | --- |
+| **A** | |
 | A | alto (vocal) |
 | a-trb | alto trombone |
 | a-vla | alto viola |
@@ -106,10 +91,7 @@ As a rule, voices are upper case, while instruments are lower case.
 | althorn | althorn /altohorn |
 | arciliuto | archlute |
 | arp | harp |
-|   |   |
-| 
-### B
- |
+| **B** | |
 | B | bass (vocal) |
 | b | bass (instrumental) |
 | b-trb | bass trombone |
@@ -127,10 +109,7 @@ As a rule, voices are upper case, while instruments are lower case.
 | bombardone | bombardon |
 | brasses | brass wind instruments:  cor, clno or tr, trb |
 | bugle  | bugle |
-|   |   |
-| 
-### C
- |
+| **C** | |
 | campana | bell |
 | campane tub | tubular bells |
 | campanella | small bell |
@@ -166,22 +145,13 @@ As a rule, voices are upper case, while instruments are lower case.
 | Coro femminile | women’s choir |
 | Coro maschile | men’s choir |
 | cymb antiques | antique cymbals /crotales |
-|   |   |
-| 
-### D
- |
+| **D** | |
 | (Instrument) d'amore | (instrument) d’amore |
 | Dessus | soprano (vocal) |
 | dessus | soprano (instrumental) |
-|   |   |
-| 
-### E
- |
+| **E** | |
 | euphonium | euphonium |
-|   |   |
-| 
-### F
- |
+| **F** | |
 | fag | bassoon |
 | fanfare | fanfare |
 | fiddle | fiddle, vielle |
@@ -195,64 +165,40 @@ As a rule, voices are upper case, while instruments are lower case.
 | fl terzino | Eb flute   |
 | flautino | flautino |
 | flügelhorn | flugelhorn |
-|   |   |
-| 
-### G
- |
+| **G** | |
 | glass harmonica | glass harmonica |
 | gong | gong |
 | gran cassa | big drum |
 | guit | guitar |
-|   |   |
-| 
-### H
- |
+| **H** | |
 | harmonie-b | bass (tuba) |
 | harmonium | harmonium |
 | hautecontre | alto instrument |
 | helikon | helicon |
-|   |   |
-| 
-### I
- |
+| **I** | |
 | i | unknown instrument |
-|   |   |
-| 
-### K
- |
+| **K** | |
 | keyb | keyboard instruments |
 | kornettino | cornettino (brass) |
 | kornetto | cornet |
 | kuckuck | cuckoo |
-|   |   |
-| 
-### L
- |
+| **L** | |
 | lira | lyre |
 | Lith. | lithography |
 | lituus | lituus |
 | lute | lute |
 | lyra  | lyra, glockenspiel |
-|   |   |
-| 
-### M
- |
+| **M** | |
 | mandoline | mandolin |
 | maracas | maracas |
 | marimba | marimbaphone |
 | Mezzo-S | mezzo-soprano (vocal) |
 | musical clock | musical clock |
 | musical glasses | musical glasses |
-|   |   |
-| 
-### N
- |
+| **N** | |
 | nacchere | rattle |
 | nachtigall | nightingale |
-|   |   |
-| 
-### O
- |
+| **O** | |
 | ob | oboe |
 | ob da caccia | oboe da caccia |
 | ob d'amore | oboe d’amore |
@@ -263,10 +209,7 @@ As a rule, voices are upper case, while instruments are lower case.
 | org | organ |
 | org 4hands | organ  (four-hands) |
 | organetto | barrel organ |
-|   |   |
-| 
-### P
- |
+| **P** | |
 | pf | pianoforte |
 | pf 4hands | pianoforte  (four-hands)  |
 | physharmonica | physharmonica |
@@ -280,17 +223,11 @@ As a rule, voices are upper case, while instruments are lower case.
 | (Instrument) princ | principale (= concertante) |
 | principale | principale (= a kind of trumpet) |
 | prompter | prompter |
-|   |   |
-| 
-### R
- |
+| **R** | |
 | ratsche | ratchet |
 | recorder | recorder |
 | rip | ripieno |
-|   |   |
-| 
-### S
- |
+| **S** | |
 | S | soprano, cantus, discant (vocal) |
 | salterio | psaltery |
 | saxhorn | saxhorn |
@@ -303,10 +240,7 @@ As a rule, voices are upper case, while instruments are lower case.
 | Sprechstimme | speaking voice |
 | stck | percussion |
 | strings | string players: vl 1, vl 2, vla, vlc, b or cb |
-|   |   |
-| 
-### T
- |
+| **T** | |
 | T | tenor |
 | t-cor | tenor cor |
 | t-fag | tenor bassoon |
@@ -337,10 +271,7 @@ As a rule, voices are upper case, while instruments are lower case.
 | triangolo | triangle |
 | trombetta | tenor trombone |
 | trombino | high trombone |
-|   |   |
-| 
-### V
- |
+| **V** | |
 | V  | (vocal) voice |
 | V 5 | Quinta Vox (= 5th voice) (vocal) |
 | V 6  | Sexta Vox (= 6th voice) (vocal) |
@@ -357,24 +288,15 @@ As a rule, voices are upper case, while instruments are lower case.
 | vla pomposa | violoncello piccolo |
 | vlc | violoncello |
 | vlne | violone |
-|   |   |
-| 
-### W
- |
+| **W** | |
 | woodwinds | woodwinds: fl, ob, cl, fag |
-|   |   |
-| 
-### X
- |
+| **X** | |
 | xilofono | xylophone |
-|   |   |
-| 
-### Z
- |
+| **Z** | |
 | zither | zither |
 | zufoletto | fipple flute |
 
-## Language codes
+### Language codes
 
 - ara = Arabic 
 - arm = Armenian 
@@ -413,7 +335,7 @@ As a rule, voices are upper case, while instruments are lower case.
 - tur = Turkish 
 - ukr = Ukrainian 
 
-## Date
+### Date
 
 - 1691 = in 1691
 - 1782a = before 1782
@@ -431,7 +353,7 @@ As a rule, voices are upper case, while instruments are lower case.
 - 1797a+ = died before 1782
 - 1782p+ = died after 1782
 
-## ecclesiastical modes
+### ecclesiastical modes
 
 - 1t = 1st tone (dorian)
 - 2t = 2nd tone (hypodorian)
@@ -446,12 +368,12 @@ As a rule, voices are upper case, while instruments are lower case.
 - 11t = 11th tone (ionian)
 - 12t = 12th tone (hypoionian)
 
-## Keys
+### Keys
 
 - Major (mode): C, G, D, A, E, B, Fx, Cx, F, Bb, Eb, Ab, Db
 - Minor (mode): a, e, b, fx, gx, dx, ax, d, g, c, f, bb
 
-E.g.:
+_E.g._:
 
 - A = A major
 - B = B major

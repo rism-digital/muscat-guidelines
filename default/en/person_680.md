@@ -1,2 +1,3 @@
-#### **General note (680 $a) **
+### General note (680 $a)
+
 Enter any general comments about the person in question. These comments will be published.  

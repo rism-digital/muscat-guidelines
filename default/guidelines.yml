@@ -25,11 +25,11 @@ doc:
       - title: "doc_cat_templates"
         helpfile: "cat_templates"
       - title: "doc_cat_authorities"
-        helpfile: "cat_authorities" 
+        helpfile: "cat_authorities"
       - title: "doc_scope_printed_music"
-        helpfile: "scope_printed_music" 
+        helpfile: "scope_printed_music"
       - title: "doc_when_new_record"
-        helpfile: "when_new_record" 
+        helpfile: "when_new_record"
       - title: "doc_standardized_titles_printed_music"
         helpfile: "standardized_titles_printed_music"
       - title: "doc_mult_copies"
@@ -39,173 +39,173 @@ doc:
       - title: "doc_library"
         subsections:
           - title: "852"
-            helpfile: "852"
+            helpfile: "source_852"
             index: true
           - title: "591"
-            helpfile: "591"
+            helpfile: "source_591"
             index: true
           - title: "035"
-            helpfile: "035"
+            helpfile: "source_035"
             index: true
           - title: "506"
-            helpfile: "506"
+            helpfile: "source_506"
             index: true
           - title: "561"
-            helpfile: "561"
+            helpfile: "source_561"
             index: true
           - title: "541"
-            helpfile: "541"
+            helpfile: "source_541"
             index: true
           - title: "773"
-            helpfile: "773"
+            helpfile: "source_773"
             index: true
           - title: "774"
-            helpfile: "774"
+            helpfile: "source_774"
             index: true
           - title: "787"
-            helpfile: "787"
+            helpfile: "source_787"
             index: true
           - title: "775"
-            helpfile: "775"
+            helpfile: "source_775"
             index: true
       - title: "doc_people"
         subsections:
           - title: "100"
-            helpfile: "100"
+            helpfile: "source_100"
             index: true
           - title: "700"
-            helpfile: "700"
+            helpfile: "source_700"
             index: true
           - title: "710"
-            helpfile: "710"
+            helpfile: "source_710"
             index: true
       - title: "doc_title"
         subsections:
           - title: "245"
-            helpfile: "245"
+            helpfile: "source_245"
             index: true
           - title: "246"
-            helpfile: "246"
+            helpfile: "source_246"
             index: true
           - title: "240"
-            helpfile: "240"
+            helpfile: "source_240"
             index: true
           - title: "690"
-            helpfile: "690"
+            helpfile: "source_690"
             index: true
           - title: "383"
-            helpfile: "383"
+            helpfile: "source_383"
             index: true
           - title: "730"
-            helpfile: "730"
+            helpfile: "source_730"
             index: true
           - title: "650"
-            helpfile: "650"
+            helpfile: "source_650"
             index: true
           - title: "520"
-            helpfile: "520"
+            helpfile: "source_520"
             index: true
           - title: "594"
-            helpfile: "594"
+            helpfile: "source_594"
             index: true
           - title: "598"
-            helpfile: "598"
+            helpfile: "source_598"
             index: true
           - title: "595"
-            helpfile: "595"
+            helpfile: "source_595"
             index: true
           - title: "740"
-            helpfile: "740"
+            helpfile: "source_740"
             index: true
           - title: "041"
-            helpfile: "041"
+            helpfile: "source_041"
             index: true
           - title: "546"
-            helpfile: "546"
+            helpfile: "source_546"
             index: true
           - title: "026"
-            helpfile: "026"
+            helpfile: "source_026"
             index: true
       - title: "doc_physical_description"
         subsections:
           - title: "593"
-            helpfile: "593"
+            helpfile: "source_593"
             index: true
           - title: "260"
-            helpfile: "260"
+            helpfile: "source_260"
             index: true
           - title: "597"
-            helpfile: "597"
+            helpfile: "source_597"
             index: true
           - title: "300"
-            helpfile: "300"
+            helpfile: "source_300"
             index: true
           - title: "590"
-            helpfile: "590"
+            helpfile: "source_590"
             index: true
           - title: "340"
-            helpfile: "340"
+            helpfile: "source_340"
             index: true
           - title: "028"
-            helpfile: "028"
+            helpfile: "source_028"
             index: true
           - title: "028"
-            helpfile: "028"
+            helpfile: "source_028"
             index: true
           - title: "592"
-            helpfile: "592"
+            helpfile: "source_592"
             index: true
           - title: "500"
-            helpfile: "500" 
-            index: true 
+            helpfile: "source_500"
+            index: true
           - title: "563"
-            helpfile: "563"
+            helpfile: "source_563"
             index: true
           - title: "856"
-            helpfile: "856"
+            helpfile: "source_856"
             index: true
       - title: "doc_incipit"
         subsections:
           - title: "031"
-            helpfile: "031"
+            helpfile: "source_031"
             index: true
       - title: "edit_references"
         subsections:
           - title: "505"
-            helpfile: "505"  
-            index: true    
+            helpfile: "source_505"
+            index: true
           - title: "525"
-            helpfile: "525"  
-            index: true    
+            helpfile: "source_525"
+            index: true
           - title: "691"
-            helpfile: "691"  
-            index: true    
+            helpfile: "source_691"
+            index: true
           - title: "510"
-            helpfile: "510"  
-            index: true    
+            helpfile: "source_510"
+            index: true
           - title: "596"
-            helpfile: "596"
+            helpfile: "source_596"
             index: true
           - title: "657"
-            helpfile: "657"
+            helpfile: "source_657"
             index: true
           - title: "651"
-            helpfile: "651"
+            helpfile: "source_651"
             index: true
           - title: "518"
-            helpfile: "518"
+            helpfile: "source_518"
             index: true
       - title: "doc_administration"
         subsections:
           - title: "001"
-            helpfile: "001"
+            helpfile: "source_001"
             index: true
           - title: "040"
-            helpfile: "040" 
-            index: true    
+            helpfile: "source_040"
+            index: true
           - title: "599"
-            helpfile: "599"  
-            index: true  
+            helpfile: "source_599"
+            index: true
       - title: "doc_record_actions"
         subsections:
           - title: "doc_record_status"
@@ -213,7 +213,7 @@ doc:
   - title: "doc_aid_titles_keywords"
     helpfile: "subject_headings"
   - title: "doc_digital_objects"
-    helpfile: "images_intro" 
+    helpfile: "images_intro"
   - title: "doc_institutions"
     helpfile: "institution_introduction"
     sections:
@@ -241,14 +241,11 @@ doc:
           - title: "in_410"
             helpfile: "institution_410"
             index: true
-          - title: "in_373"
-            #helpfile: "institution_373"
-            index: true
           - title: "in_368"
             helpfile: "institution_368"
             index: true
           - title: "in_580"
-            helpfile: "institution_024"
+            helpfile: "institution_580"
             index: true
       - title: "doc_in_contact"
         subsections:
@@ -469,7 +466,6 @@ doc:
           - title: "li_005"
             helpfile: "catalogue_005"
             index: true
- 
 
   - title: "doc_titles_and_text"
   - title: "doc_abbreviations"
@@ -515,4 +511,3 @@ doc:
       helpfile: "best_practices"
     - title: "aid_error"
       helpfile: "technical_errors"
-
