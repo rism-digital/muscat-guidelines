@@ -1,75 +1,89 @@
-#### Tytuł dodatkowy (730 $a)  
+### Additional title (730)
 
-Pole służy do wpisywania alternatywnych tytułów **Tytułu Ujednoliconego (240$a)**, również w formie ujednoliconej. Należy wpisywać wyraźnie odmienne tytuły, a nie tytuły o odmiennej pisowni. Można wprowadzać wiele wariantów poprzez powtarzanie pola.
+This field is for alternatives to the **Standardized title (240 $a)**, also in a standardized form, or for titles of periodicals and series.
 
-Typy alternatywnych tytułów:
+#### Additional title (730 $a)
 
-- Inne tytuły opery (tytuły _ossia_)
-- Tłumaczenia tytułu  
-- Inne gatunki muzyczne, jeżeli występuje niejasność co do klasyfikacji.  
-- Tytuły mszy parodii i tytuły Proprium. Nazwy świętych należy ujednolicać wg _Liber usualis._
-- Popularne nazwy danej kompozycji  (np. „Msza Nelsońska”, „Symfonia Jowiszowa”)
-- Utwory nie posiadające wyraźnego indywidualnego tytułu (Festival Cantata, Fürstenlied)
-- Tytuły, szczególnie te, pod którymi pozycja jest powszechnie znana (szczególnie w odniesieniu do wydań drukowanych).
+Enter markedly different titles rather than titles with alternative spellings. Multiple variants can be entered by repeating the field. In addition, series titles and names of periodicals are entered here.
 
-_Przykłady_:
+Types of possible alternatives are:
 
-Tytuł ujednolicony: Don Giovanni  
-Tytuł dodatkowy: Der steinerne Gast  
-  
-Tytuł ujednolicony: Masses (Msze)  
-Tytuł dodatkowy: Missa S Ursulae  
-  
-Tytuł ujednolicony: Masses (Msze)  
-Tytuł dodatkowy: Deutsche Messe [= tłumaczenie łacińskiego tekstu mszy]  
-  
-Tytuł ujednolicony: Masses (Msze)  
-Tytuł dodatkowy: Deutsches Hochamt [=parafraza nabożeństwa w jęz. niemieckim]
+- Other titles of an opera (_ossia_ titles)
+- Translations of a title
+- Alternate genres if there is uncertainty about the classification
+- Titles of parody masses and titles of the Proper. Standardize names of saints according to the _Liber usualis._
+- Popular names of a composition (such as Nelson Mass, Jupiter Symphony)
+- Works with no clear individual title (Festival Cantata, Fürstenlied)
+- Titles, especially ones under which the item is widely known (particularly for printed editions)
 
-Tytuł ujednolicony: 29 Madrigals   
-Tytuł dodatkowy: Il primo libro de madrigali a tre voci
+_Examples_:
 
-Tytuł ujednolicony: 20 Sacred concerts   
-Tytuł dodatkowy: Symphoniae sacrae
+- Standardized title: Don Giovanni
+- Additional title: Der steinerne Gast
 
-W przypadku kompletów wariacji, wprowadzić w tym polu nazwę tematu i wybrać **Wariacje** w polu **Strefa aranżacji (730 $o)**.
+- Standardized title: Masses
+- Additional title: Missa S Ursulae
 
-W przypadku wstawień, wprowadzić tytuł większej opery lub utworu i wybrać **Wstawienia**  w polu **Podhasło** **(730 $k)**. Należy również zwrócić uwagę na wytyczne znajdujące się w polu **Wstawienia **** (787)**.
+- Standardized title: Masses
+- Additional title: Deutsche Messe [= translation of the Latin text of the mass]
 
-_Przykłady_:
+- Standardized title: Masses
+- Additional title: Deutsches Hochamt [=paraphrased German church service]
 
-Tytuł ujednolicony: Wariacje  
-Tytuł dodatkowy: Ein Mädchen oder Weibchen [plus **Wariacje** w polu **Strefa aranżacji (730 $o)**.]
+- Standardized title: 29 Madrigals
+- Additional title: Il primo libro de madrigali a tre voci
 
-Tytuł ujednolicony: Consola amato bene  
-Tytuł dodatkowy: Una cosa rara [plus **Wstawienia****   **w** Podhaśle (730 $k)**]
+- Standardize title: 20 Sacred concerts
+- Additional title: Symphoniae sacrae
 
-####   
+In the case of variation sets, enter the name of theme in this field and select **Variations** in the field ** Arrangement statement (730 $o)**.
 
-#### Strefa aranżacji (730 $o) 
+In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading ( 730 $k)**. For inserts, also note the guidelines under for the field **Insertions (787)**.
 
-Wybrać **Aranżację** , jeśli utwór jest aranżacją innego utworu. Pole to winno odpowiadać polu **Strefa aranżacji (240 $o)** znajdującemu się powyżej. Jeżeli utwór jest kompletem wariacji, wybrać **Wariacje**.
+_Examples_:
 
-####  
+- Standardized title: Variations
+- Additional title: Ein Mädchen oder Weibchen [plus **Variations** in the field **Arrangement statement (730 $o)**.]
 
-#### Typ reguły (730 $g)  
+- Standardized title: Consola amato bene
+- Additional title: Una cosa rara [plus **Inserts** in **Subheading (730 $k)**]
 
-Wskazać, jakie reguły katalogowania lub normy są stosowane do sformułowania dodatkowego tytułu. Reguły **RISM** są domyślne. Można również wybrać **RDA** (Resource Description and Access), **RAK** (zasady katalogowania stosowane w krajach niemieckojęzycznych) lub **ICCU ** (Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche), czyli zasady katalogowania we Włoszech. 
+This field can also be used for titles of periodicals or series.
 
-#### Podhasło (730 $k) 
+_Examples_:
 
-Pole służy do wprowadzania aspektów form specjalnych, jeśli mają zastosowanie. Wybrać spośród następujących:
+- Oeuvres Complets de Piano
+- Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten
+- Nouveau Mercure galant, mai 1679
+- The Lady's Magazine, Aug., 1784
 
-- Wyjątki
-- Fragmenty
-- Wstawienia
-- Szkice  
-Wybierając **Wyjątki** , **Fragmenty** lub **Szkice** w polu **Podhasło (240 $k)** znajdującym się powyżej, należy również wybrać **Wyjątki** , **Fragmenty** lub **Szkice** w tym polu. Dla wstawień, wybierz **Wstawienia**. Dalsze informacje można wprowadzić w polu **Uwaga o zawartości (505)**. 
+#### Arrangement statement (730 $o)
 
-  
+Select **Arrangement** if the work is an arrangement of another work. Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
 
-#### Tonacja lub modus (730 $r)   
-Numer katalogowy/numer opus (730 $n)   
-Podsumowanie obsady (730 $m) 
+#### Rule type (730 $g)
 
-W przypadku aranżacji lub kompilacji pól tych należy użyć w celu wprowadzenia informacji o oryginalnej kompozycji. Pól tych nie trzeba wypełniać ponownie, jeśli są one identyczne z głównym utworem, o którym mowa.
+Indicate what cataloging rules or standards are used to formulate the additional title.
+
+- **RISM** : (default)
+- **RDA** : Resource Description and Access
+- **RAK** : Regeln für die alphabetische Katalogisierung (cataloging rules used in German-speaking countries)
+- **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche ( cataloging rules used in Italy)
+
+#### Subheading (730 $k)
+
+This field is for special forms aspects as applicable. Select from the following:
+
+- Excerpts
+- Fragments
+- Inserts
+- Sketches
+
+Make sure that if you select **Excerpts** , **Fragments** , or **Sketches** in the field **Subheading (240 $k)** above, you also select **Excerpts** , **Fragments** , or **Sketches** here. For inserts, select **Inserts**. Further information can be entered into the field **Contents note (505)**.
+
+#### Key or mode (730 $r)
+
+Catalog number/Opus number (730 $n)   
+Scoring summary (730 $m)
+
+If you have an arrangement or compilation, use these fields to enter information about the original composition. These fields do not need to be filled out again if they are identical with the main work in question.
