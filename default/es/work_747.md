@@ -1,3 +1,3 @@
-**Fiesta litúrgica ** ( **747$a; ** registro RDA [rdax:P00011](http://www.rdaregistry.info/Elements/x/#P00011))
+### Liturgical festival (747 $a; RDA registry [rdax:P00011](http://www.rdaregistry.info/Elements/x/#P00011))
 
-Introduzca fiestas litúrgicas relacionadas con la obra, siguiendo los lineamientos que para este campo se dan al respecto de las Fuentes.
+Enter liturgical festivals for the work following the guidelines for this field in Sources.
