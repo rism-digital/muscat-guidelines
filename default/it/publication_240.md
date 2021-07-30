@@ -1,31 +1,31 @@
-### **Titolo (240)**
-**Campo obbligatorio.   
-  
-Titolo (240 $a)**   
-  
+### Title of item (240)
 
-Inserisci il titolo dell'oggetto, inclusi i sottotitoli. Inserisci eventuali traduzioni del titolo nel campo **Titolo alternativo (730)**.
+**Required field.**
 
-**Tipo (240 $g)**
+#### Title of item (240 $a)
 
-Seleziona la categoria che descrive la pubblicazione. Scegli tra:
+Enter the title of the item, including subtitles. Translations of the title can go in the field **Additional title ( 730)**. Book reviews can be indicated by the prefix [review of:] and the name of the item.
+
+#### Category (240 $g)
+
+Select the category that describes the publication. Choose from:
 
 - **Bibliography**
-- **Catalog** : altri cataloghi, compresi i cataloghi di collezioni o biblioteche
-- **Catalog of works** : il catalogo di un compositore che non contiene incipit musicali
-- **Collective catalog** : cataloghi che comprendono opere di più compositori
+- **Catalog** : other catalogs, includes catalogs of collections or library holdings
+- **Catalog of works** : a catalog of a composer that does not include incipits
+- **Collective catalog** : catalogs that include works by more than one composer
 - **Encyclopedia**
-- **Music edition** : un’edizione moderna o critica di un’opera musicale
-- **Other** : comprende ogni altra pubblicazione che non sia un catalogo o un'enciclopedia, come articoli, saggi, biografie, storie culturali ecc.
-- **Thematic catalog** : il catalogo di un compositore che contiene incipit
+- **Music edition** : a modern edition or a critical edition of a musical work
+- **Other** : includes all other non-catalog, non-encyclopedia publications, such as articles, essays, chapters, biographies, cultural histories, etc.
+- **Thematic catalog** : a catalog of a composer that includes incipits
 
-**Tipo di pubblicazione (240 $h)**
+#### Type of publication (245 $h)
 
-Seleziona il tipo di pubblicazione dalla lista seguente:
+Select the type of publication from the following list:
 
-- **Article/chapter** : articolo/capitolo di un libro
-- **Monograph** : una pubblicazione indipendente riguardante un singolo argomento (comprente la maggior parte dei libri)   
-- **Periodical** : un periodico o quotidiano  
-- **Series** : questo è usato quando inserisci il nome di una serie
-- **Volume in a series** : se il volume è parte di una serie  
-- **Yearbook** : annuale
+- **Article/chapter**
+- **Monograph** : a single publication published on a single topic (includes most books)
+- **Periodical** : a journal, newspaper, magazine
+- **Series** : this is used when you enter names of series
+- **Volume in a series**
+- **Yearbook**
