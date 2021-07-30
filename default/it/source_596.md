@@ -1,20 +1,23 @@
-### Rimandi a RISM A/I e RISM B** (596)**  
+### RISM series A/I and B reference (596)
 
-Inserisci rimandi alle pubblicazioni a stampa delle serie RISM se la fonte presenta chiaramente la stessa composizione, ad esempio la copia manoscritta di un’edizione a stampa. Puoi aggiungere ulteriori dettagli nel campo **Nota generale (500)**. Vedi anche il campo **Fonte correlata (787)**.
+Enter cross-references to printed editions indexed in printed RISM series if the source clearly presents the same work, such as a manuscript copy of a printed edition. More details can be given in the field **General note (500)**. See also the field **Related source (787)**.
 
-**Rimandi a RISM A/I e RISM B****  (596 $a)**  
-Seleziona il nome di una serie RISM.  ** **
+#### RISM series A/I and B reference (596 $a)
 
-**Numero RISM (596 $b)**  
-Inserisci il numero dell’oggetto nella serie RISM. Si prega di notare che ogni volume utilizza un metodo diverso nel riferirsi alle fonti; alcuni hanno numeri individuali, altri richiedono l’indicazione di un numero di pagina. 
+Select the RISM series.
 
-Usa  **Other** per riferirti a edizioni musicali a stampa che non sono riportate nei volumi stampati delle serie A/I e B.
+#### RISM series number (596 $b)
 
-_Esempio_:  
-Other  
-1001100380
+Enter the reference to the piece in the RISM series. Note that each volume has a different way of referring to sources; some have individual numbers while others require page numbers.
 
-Seguono degli esempi per ciascuna [pubblicazione RISM](http://www.rism.info/en/publications.html) che comprende edizioni musicali a stampa:
+Use **Other** for references to printed editions that were not included in the printed volumes of the A/I and B series.
+
+_Example_:
+
+- Other
+- 1001100380
+
+Below are examples for each [RISM publication](http://www.rism.info/en/publications.html) that includes printed music:
 
 A/I - _Einzeldrucke vor 1800/Individual Prints before 1800_
 
@@ -32,11 +35,11 @@ B/II - _Recueils imprimés, XVIIIe siècle_
 
 B/III - _The theory of music_
 
-- vol. IV, p. 151-152
+- vol. 4, p. 151-152
 
 B/VI - _Écrits imprimés concernant la musique_
 
-- vol. I, p. 406
+- vol. 1, p. 406-407
 
 B/VIII - _Das deutsche Kirchenlied_
 
@@ -56,9 +59,9 @@ B/XIII - _Hymnol__ogica Slavica_
 - HP ca. 1558/09
 
 B/XV - _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630_  
-Cita i numeri A/I, B/I o B/II se presente; altrimenti, cita il numero di pagina.
+Cite the A/I, B/I, or B/II number if given; otherwise, cite the page number(s).
 
 - p. 45-46
 
 B/XVII - _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_  
-Cita il numero di pagina se non viene menzionata nessun’altra serie RISM.
+Cite the page number(s) if no other RISM series is cited.
