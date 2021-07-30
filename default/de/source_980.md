@@ -1,29 +1,26 @@
-Herkunft (980)
+### Record origin (980)
 
-**Herkunft (980 $a)**
+#### Origin (980 $a)
 
-Wählen Sie die Herkunft des Datensatzes aus:
+Select the origin of the record:
 
-- **Fremddateneinspielung** : Der Datensatz wurde aus einer externen Datenbank importiert
-- **Retroeinspielung** : Der Datensatz stammt aus einer gedruckten Publikation und wurde in eine maschinenlesbare Form umgewandelt
-- **RISM** : Der Datensatz wurde in der RISM-Datenbank angelegt (Standard)
+- **Import** : The record was imported from an external database
+- **Retrospective conversion** : The record originated in a hard-copy publication and was converted to a machine-readable form
+- **RISM** : The record was created in the RISM database (default)
 
-** **
+#### Cataloging level (980 $b)
 
-**Erfassungstiefe (980 $b)**
+Select the cataloging level.
 
-Wählen Sie die Erfassungstiefe.   
-_Details werden folgenden._
+_Details will follow._
 
-- **Kurzkatalogisat**
+- **Brief**
+- **Full**
 - **Standard**
-- **Vollkatalogisat**
 
-** **
+#### Material examined (980 $c)
 
-**Autopsie (980 $c)**
+Please indicate whether you directly examined the material as you were cataloging it.
 
-Bitte geben Sie an, ob Sie das Material beim Katalogisieren direkt geprüft haben.
-
-- **Autopsie**
-- **Keine**  **Autopsie** : Dies kann verwendet werden, wenn der Datensatz über eine Katalogbeschreibung angelegt wurde.
+- **Material examined**
+- **Material not examined**: This can be used when the record was created using a description in a catalog.
