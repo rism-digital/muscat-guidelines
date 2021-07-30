@@ -1,4 +1,4 @@
-#### **Control number identifier (003)**
+### Control number identifier (003)
 
 **Do not change.**
 
