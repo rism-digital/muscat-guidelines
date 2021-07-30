@@ -1,40 +1,22 @@
-El archivo de autoridad para los **Descriptores** contiene todas las formas, géneros y otros términos normalizados utilizados en las fuentes de Muscat en el campo **Descriptor (650).** Un registro para un Descriptor incluye típicamente el término estandarizado de RISM en inglés y en plural, traducciones o términos alternativos, y una definición. Los géneros y formas que se encuentran por fuera de Europa occidental o que son comunes en una región particular donde no hay un equivalente en inglés se consignan en el idioma local (y en plural cuando tiene sentido lingüístico).
+The authority file for **Subject headings** contains all the forms, genres, and other standardized terms used in the Muscat sources in the field **Subject heading (650)**. A record for a subject heading typically includes the standardized RISM term in English and in plural, translations or alternate terms, and a definition. Genres and forms found outside of Western Europe or common in a particular region where there is no English equivalent are given in the local language (and in the plural when it makes linguistic sense).
 
-  
+Subject headings can be added while cataloging. In the record, simply enter the new subject heading and click to a different field. You then get a message that says "Confirm the insertion of a new value" which you should then click.
 
-Los descriptores pueden añadirse durante la catalogación. En el registro, simplemente introduzca el nuevo descriptor y haga clic en otro campo. A continuación, le aparecerá el mensaje "Confirme la inserción de un nuevo valor", en el que deberá hacer clic.
+After you save the record, go to the authority file for subject headings and find your new heading. You can edit subject headings you create. Please do the following:
 
-  
+**Term** : Enter the term in English and in the plural when possible. For regional music, particularly music found outside Western Europe, use the term common in the region. For languages that use non-Latin alphabets, enter the transliterated term here using the Latin alphabet.
 
-Una vez que haya guardado el registro, vaya al archivo de autoridad de los descriptores y busque su nuevo descriptor. Puede editar los descriptores creados por Ud. misma/o. Por favor, haga lo siguiente:
+**Alternate terms** : Please enter all alternate terms, each on a separate line (by pressing Enter). Here you can enter the term using other alphabet systems as well as synonyms, variations, other spellings, etc.
 
-  
+**Notes** : Please provide a short description in English, German, or French of what kind of term this is. Then feel free to also write in your native language, for the benefit of RISM contributors in your area, any description or guidelines you wish to set for the term: how to apply the term, any regional connections, references to secondary literature, etc.
 
-**Término:** Introduzca el término en inglés y en plural cuando sea posible. Para la música regional, en particular la que se encuentra fuera de Europa Occidental, utilice el término común en la región. En los idiomas que utilizan alfabetos no latinos, introduzca el término transliterado utilizando el alfabeto latino.
+As an example, see **Gigues**.Terms in English, French, and German are given, along with alternate spellings. The field "Notes" explains the variety of gigues that exist and when and where they occurred.
 
-  
+If you are working with music particular to a certain region, you can use whatever term is common in that region. A new term can be added if a similar genre is used in a different region but it is called something else.
 
-**Términos alternativos:** por favor, introduzca todos los términos alternativos, cada uno en una línea separada (pulsando la tecla "Enter"). En este campo, puede introducir el término utilizando otros sistemas de alfabetos, así como sinónimos, variantes, otras ortografías, etc.
+You can also add the subject heading directly to the authority file (simply click **Create** in this authority file) and it will be immediately available for use.
 
-  
+Cataloging tips:
 
-**Notas:** Por favor, proporcione una breve descripción en inglés, alemán o francés acerca de qué tipo de término se trata. Luego, siéntase libre de escribir también en su lengua materna, para beneficio de los contribuyentes de RISM en su área, cualquier descripción o pautas que desee establecer para el término: cómo aplicar el término, conexiones regionales, referencias a bibliografía secundaria, etc.
-
-  
-
-Como ejemplo, véase el caso de **_Gigues_**. Se dan términos en inglés, francés y alemán, junto con ortografías alternativas. El campo "Notas" explica la variedad de gigas que existen y cuándo y dónde se difundieron.
-
-  
-
-Si está trabajando con música específica de una determinada región, puede utilizar cualquier término que resulte común en esa región. Puede añadirse un nuevo término si se utiliza un género similar en una región diferente, pero se llama de otra manera.
-
-  
-
-También puede agregar el descriptor directamente en el registro de autoridades (simplemente haga clic en **Crear** dicho registro de autoridades); el mismo estará disponible inmediatamente para su uso.
-
-  
-
-Consejos de catalogación:
-
-- Los registros de fuentes pueden incluir múltiples descriptores; por ejemplo, tanto un término específico como otro más general o global.
-- Para ayudar a l@s usuari@s en el descubrimiento, también siéntase libre de incluir el término local en idiomas y alfabetos extranjeros como **Título alternativo (730),** si así lo desea.
+- Records for sources can include multiple subject headings, such as if there is a specific term as well as a more general or overarching term.
+- To aid users in discovery, you are also free to include the local term in foreign languages and alphabets as an ** Alternative title (730)** if you wish.
