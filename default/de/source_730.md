@@ -1,75 +1,89 @@
-#### Alternativer Einordnungstitel (730 $a)
+### Additional title (730)
 
-Diese Kategorie wird für Alternativangaben (normiert) zum **Einordnungstitel (240 $a)** verwendet. Es sollen jedoch keine alternativen Schreibweisen, sondern nur sich vom Einordnungstitel markant unterscheidende Titel angegeben werden. Bei mehreren Varianten kann die Kategorie wiederholt werden.
+This field is for alternatives to the **Standardized title (240 $a)**, also in a standardized form, or for titles of periodicals and series.
 
-Solche Alternativangaben zum Einordnungstitel können sein:
+#### Additional title (730 $a)
 
-- Weitere Titel einer Oper (ossia-Titel)
-- Übersetzungen eines Titels
-- Alternative Gattungen bei Unsicherheit der Einordnung
-- Titel von Parodie- und Propriumsmessen, wobei die Namen der Heiligen nach dem Liber usualis normiert werden
-- Zeitgenössische oder individuelle Namen einer Komposition (z.B. Nelson-Messe, Jupiter-Symphonie etc.)
-- Werke, die im Einordnungstitel mit keinem eindeutigen Individualtitel belegt werden konnten (z.B. Festkantate, Fürstenlied)
+Enter markedly different titles rather than titles with alternative spellings. Multiple variants can be entered by repeating the field. In addition, series titles and names of periodicals are entered here.
 
-_Beispiele_:
+Types of possible alternatives are:
 
-Einordnungstitel: Don Giovanni  
-Alternativer Einordnungstitel: Der steinerne Gast
+- Other titles of an opera (_ossia_ titles)
+- Translations of a title
+- Alternate genres if there is uncertainty about the classification
+- Titles of parody masses and titles of the Proper. Standardize names of saints according to the _Liber usualis._
+- Popular names of a composition (such as Nelson Mass, Jupiter Symphony)
+- Works with no clear individual title (Festival Cantata, Fürstenlied)
+- Titles, especially ones under which the item is widely known (particularly for printed editions)
 
-Einordnungstitel: Masses  
-Alternativer Einordnungstitel: Missa S Ursulae
+_Examples_:
 
-Einordnungstitel: Masses  
-Alternativer Einordnungstitel: Deutsche Messe [= Übersetzung des lateinischen Messtextes]
+- Standardized title: Don Giovanni
+- Additional title: Der steinerne Gast
 
-Einordnungstitel: Masses  
-Alternativer Einordnungstitel: Deutsches Hochamt [= nachgedichteter deutscher Text]
+- Standardized title: Masses
+- Additional title: Missa S Ursulae
 
-Ebenso wird das Thema einer Variation hier angegeben. Dabei muss im Feld **Bearbeitung (730 $o)** der Vermerk **Variationen** gemacht werden.
+- Standardized title: Masses
+- Additional title: Deutsche Messe [= translation of the Latin text of the mass]
 
-Bei einer Einlage wird hier der Titel des Werkes genannt, in die das Stück eingelegt ist. Dieser Angabe muss der Zusatz **Einlage** im Feld **Unterteilung nach der Form (730 $k)** folgen. Zu Einlagen beachte man auch die Richtlinien unter Verlinkung **Einlagen (787)**.
+- Standardized title: Masses
+- Additional title: Deutsches Hochamt [=paraphrased German church service]
 
-_Beispiele_:
+- Standardized title: 29 Madrigals
+- Additional title: Il primo libro de madrigali a tre voci
 
-Einordnungstitel: Variations  
-Alternativer Einordnungstitel: Ein Mädchen oder Weibchen [mit **Variation** im Feld **Bearbeitung (730 $o)**.]
+- Standardize title: 20 Sacred concerts
+- Additional title: Symphoniae sacrae
 
-Einordnungstitel: Consola amato bene  
-Alternativer Einordnungstitel: Una cosa rara [mit **Einlage** in **Unterteilung nach der Form (730 $k)**]
+In the case of variation sets, enter the name of theme in this field and select **Variations** in the field ** Arrangement statement (730 $o)**.
 
-Im Falle von Zeitschriften und Serien werden diese Titel hier eingetragen.  
-_Beispiele_:  
-Oeuvres Complets de Piano  
-Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten  
-Nouveau Mercure galant, mai 1679  
-The Lady's Magazine, Aug., 1784
+In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading ( 730 $k)**. For inserts, also note the guidelines under for the field **Insertions (787)**.
 
-#### Regelwerk  
+_Examples_:
 
-Geben Sie an, nach welchem Regelwerk oder Katalogisierungsstandard der Alternative Einordnungstitel gemacht wurde.
+- Standardized title: Variations
+- Additional title: Ein Mädchen oder Weibchen [plus **Variations** in the field **Arrangement statement (730 $o)**.]
 
-- **RISM** : (Standard)
+- Standardized title: Consola amato bene
+- Additional title: Una cosa rara [plus **Inserts** in **Subheading (730 $k)**]
+
+This field can also be used for titles of periodicals or series.
+
+_Examples_:
+
+- Oeuvres Complets de Piano
+- Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten
+- Nouveau Mercure galant, mai 1679
+- The Lady's Magazine, Aug., 1784
+
+#### Arrangement statement (730 $o)
+
+Select **Arrangement** if the work is an arrangement of another work. Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
+
+#### Rule type (730 $g)
+
+Indicate what cataloging rules or standards are used to formulate the additional title.
+
+- **RISM** : (default)
 - **RDA** : Resource Description and Access
-- **RAK** : Regeln für die alphabetische Katalogisierung (für deutschsprachige Länder)
-- **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (Katalogisierungsregeln in Italien)
+- **RAK** : Regeln für die alphabetische Katalogisierung (cataloging rules used in German-speaking countries)
+- **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche ( cataloging rules used in Italy)
 
-#### Unterteilung nach der Form (730 $k)
+#### Subheading (730 $k)
 
-Hier wird ein Vermerk zu besonderen Ausgabeformen von Werken gemacht. Folgende Angaben sind möglich:
+This field is for special forms aspects as applicable. Select from the following:
 
-- Ausschnitte: Auszüge eines Werkes
-- Fragmente   
-- Einlagen
-- Skizzen
+- Excerpts
+- Fragments
+- Inserts
+- Sketches
 
-In der Regel muss die Angabe hier mit dem Feld **Unterteilung nach der Form (240 $k)** in der Kategorie des Einordnungstitels korrespondieren: Ist der **Einordnungstitel (240 $a)** mit dem Begriff **Ausschnitte** **(240 $k)** verknüpft, muss auch hier **Ausschnitte** stehen. Bei Einlagen wird im alternativen Einordnungstitel der Titel des Werkes genannt, in die das Stück eingelegt ist. Hier muss dann der Zusatz **Einlage** stehen. Weiterführende Angaben können im Feld **Bemerkungen zum Inhalt (505)** gemacht werden.
+Make sure that if you select **Excerpts** , **Fragments** , or **Sketches** in the field **Subheading (240 $k)** above, you also select **Excerpts** , **Fragments** , or **Sketches** here. For inserts, select **Inserts**. Further information can be entered into the field **Contents note (505)**.
 
-#### Bearbeitung (730 $o)
+#### Key or mode (730 $r)
 
-In der Regel muss die Angabe hier mit dem Feld **Bearbeitung (240 $o)** korrespondieren: Ist der **Einordnungstitel (240 $a)** mit dem Begriff **Bearbeitung (240 $o)** verknüpft, muss auch hier **Bearbeitung** stehen. Handelt es sich um eine Variation muss hier **Variationen** verwendet werden.
+Catalog number/Opus number (730 $n)   
+Scoring summary (730 $m)
 
-#### Tonart (730 $r)  
-Werkverzeichnis/WV-Nummer (730 $n)  
-Besetzungshinweis (730 $m)
-
-Diese Felder können bei freien Bearbeitungen und Kompilationen für die entsprechenden Angaben der Originalvorlage verwendet werden.
+If you have an arrangement or compilation, use these fields to enter information about the original composition. These fields do not need to be filled out again if they are identical with the main work in question.
