@@ -1,30 +1,30 @@
-**Fingerprint (026)**
+### Fingerprint identifier (026)
 
-Der Fingerprint dient zur Identifizierung antiquarischer Bücher/Drucke. Der Fingerprint ist eine Folge von Zeichen, die festgelegten Seiten und Zeilen eines gedruckten Buches entnommen werden und die in Verbindung mit dem Erscheinungsdatum dazu bestimmt sind, Drucke unterschiedlicher Ausgaben anhand der Titelaufnahme zu unterscheiden.
+A fingerprint identifier is used to assist in the identification of antiquarian books by creating groups of characters taken from specified positions on specified pages of the book.
 
-**Zusammenhängender Fingerprint (026 $e)**
+#### Unparsed fingerprint (026 $e)
 
-Geben Sie hier den zusammenhängenden Fingerprint an.
+Enter the complete fingerprint identifier.
 
-Die Richtlinien des Institut de Recherche et d’Histoire des Texte und der National Library of Scotland können online eingesehen werden: [Englisch, Französisch und Italienisch](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm) sowie [Deutsch](https://katalogbeta.slub-dresden.de/id/0001617101/#detail).
+Guidelines established by the Institut de Recherche et d’Histoire des Texte and the National Library of Scotland can be consulted online in [English, French, and Italian](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm), and [German](http://nbn-resolving.de/urn:nbn:de:hbz:6:1-195591).
 
-_Beispiel_:  
+_Example_:  
 n?n, n;t, v.at BeDr C 1695R
 
-Weiterhin stehen folgende Felder zur Verfügung.  
+Other fields are also available, depending on the description standard:
 
-**Erste/zweite Gruppe (026 $a)**
+#### First/second group (026 $a)
 
-Geben Sie die Zeichen, die zur ersten und zweiten Gruppe gehören, ein.
+Enter the characters that belong in the first and second group.
 
-**Dritte/vierte Gruppe (026 $b)**
+#### Third/fourth group (026 $b)
 
-Geben Sie die Zeichen, die zur dritten und vierten Gruppe gehören, ein.
+Enter the characters that belong in the third and fourth group.
 
-**Datum (026 $c)**
+#### Date (026 $c)
 
-Geben Sie das Datum ein, wenn es Teil des Fingerprints ist.
+Enter the date when expressed as a component of a fingerprint identifier.
 
-**Bandnummer / Teil (026 $d)**
+#### Number of volume/part (026 $d)
 
-Geben Sie hier den Teil oder die Bandnummer ein, wenn sie Teil des Fingerprints sind.
+Enter the number of the volume or part (i.e., section) when expressed as a component of a fingerprint identifier.
