@@ -1,14 +1,12 @@
-#### Proweniencja (561 $a) 
+### Provenance (561 $a)
 
-W polu tym należy wpisywać uwagi ogólne na temat proweniencji danej pozycji, jak również znaków własności. Należy stosować własny język katalogowania. 
+Use this field for general notes about the provenance of the item as well as ownership marks. Enter using your cataloging language.
 
-Jeżeli w źródle znajdują się znaki własności, należy je wprowadzić dokładnie w takim brzmieniu, jakie podano w źródle, dodając cudzysłów. Należy podać miejsce znalezienia znaków własności. W polach **Dodatkowe osoby (700)** i **Dodatkowe instytucje (710)** należy wpisać ujednolicone formy nazw osobowych. Uwaga: informację o tym, w jaki sposób instytucja przechowująca nabyła daną pozycję należy podać w polu **Źródło nabycia (541).**
+If ownership marks are present on the source, enter these exactly as they appear on the source, in quotation marks. Include the place on the source where the marks are found. Enter the standardized forms of the personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**. Note: Information about how the current holding institution acquired the item goes in the field **Source of acquisition (541)**.
 
-_Przykłady_:  
-Pieczęć na str. 2: „Stadtbibliothek Danzig”
+_Examples_:
 
-Pieczęć okrągła na str. 1: „Kapiteljski | arhiv | ŠAK”
-
-„Bayada Padrone” (nazwa znaleziona na końcu)
-
-Pierwszym właścicielem był Nikolaos Mavropoulos. Po jego śmierci spadkobiercy sprzedali rękopis.
+- Stamp on p. 2: "Stadtbibliothek Danzig"
+- Oval stamp on p. 1: "Kapiteljski | arhiv | ŠAK"
+- "Bayada Padrone" (name found at end)
+- Originally owned and maintained by Nikolaos Mavropoulos, ms was sold by his heirs after his death.
