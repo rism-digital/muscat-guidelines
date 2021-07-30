@@ -1,96 +1,80 @@
-### **Partes existentes e extensão (590)**  
+### Parts held and extent (590)
 
-Informe que partes a instituição possui e a sua paginação/número de folios.
+Enter which parts are held and their foliation/pagination.
 
- 
+#### Parts held (590 $a)
 
-#### **Partes existentes (590 $a)**
+**Required if source contains parts.**
 
-**Campo obrigatório se a fonte contém partes.**
+Enter parts held and number of parts with reference to the RISM instrument abbreviation list.
 
-Insira as partes existentes e o número de partes com referência à lista de abreviaturas de instrumentos do RISM.
+The first letter of instrumental parts is in lowercase and vocal parts uppercase. The order for naming parts is as follows and from the highest to the lowest range:
 
- 
+- Solo vocal parts. Begin the field with **Solo:**
+- Chorus vocal parts. Begin the field with **Coro:**
+- Solo instruments
+- Strings
+- Basso continuo/thoroughbass
+- Woodwinds
+- Brass
+- Other instruments
 
-A primeira letra para as partes instrumentais é sempre minúscula e, para as partes vocais, maiúscula. A ordem de inserção dos nomes das partes deve ser feita como indicado a seguir, da tessitura mais aguda para a mais grave:
+If no further details of the part designations are available, please write the English phrase: **no further indication**
 
-●      Partes vocais solo. Comece o campo com **Solo:**  
-●     Partes vocais de coro. Comece o campo com **Coro:**  
-●      Instrumentos solistas   
-●      Cordas  
-●      Baixo contínuo   
-●      Madeiras  
-●      Metais  
-●      Outros instrumentos
+Special cases:
 
- 
+- Figured bass: If you have a figured bass, enter the instrument followed by **.fig** , such as **b.fig** , **bc.fig** , **org.fig** , etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
+- Instrument not on the RISM instrument abbreviation list: write out the instrument in full.
+- Unusual instruments, designations, or tunings (such as **cor in D|x** ) may be written out in full; however, in the field **Total scoring (594)**, try to standardize the instrument to RISM's instrument abbreviation list if possible ( such as **cor in E|b** ).
+- Keyboard part with text: Enter using English **pf with text** (or **org with text** , **keyb with text** , etc.). The same thing is entered in the incipit field **Voice/instrument (031 $m)**.
 
-Se nenhum detalhe para a designação das partes estiver disponível, por favor, escreva em inglês: **no further indication**
+#### Extent (parts) (590 $b)
 
- 
+Enter the number of folios, pages, leaves, or gatherings. Use only one method of enumeration. Choose among the following abbreviations:
 
-Casos especiais:
+- **f** for folio
+- **p** for page
+- **lvs** for leaves (sheets)
+- **fds** for folds (gatherings)
 
-- Baixo cifrado: Se a fonte é um baixo cifrado, insira o instrumento seguido de **.fig** , tal como **b.fig** , **bc.fig** , **org.fig** , etc. (mas veja as tabelas na seção **Baixos cifrados em partituras e/ou partes** para orientação sobre os campos relacionados)  
-- Instrumento que não esteja na lista de abreviaturas de instrumentos do RISM: escreva o nome do instrumento por extenso.  
-- Instrumentos, designações ou afinações inusuais (como **cor in D|x** ) devem ser escritos por extenso; entretanto, no campo **Formação total (594)**, tente padronizar o instrumento de acordo com a lista de abreviaturas de instrumentos do RISM se possível (como **cor in E|b** ).  
-- Parte de teclado com texto: Insira usando inglês **pf with text** (ou **org with text** , **keyb with text** , etc.). O mesmo deve ser informado no campo incipit **Voz/instrumento (031 $m)**.  
+In this system, **lvs** means two folded **f** , whereas **fds** means at least one **lvs**. Indicate other units (such as the conversion from folios to pages) in the field**General note (500)**.
 
- 
+You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**.
 
-#### Extensão (partes) (590 $b)
+**Examples** : There are two different ways list the parts.
 
-Insira o número de folios, páginas, folhas ou dobras. Use somente um método de enumeração. Escolha entre as seguintes abreviaturas:
+*Example 1*: One instrumental family per line with a comma separating the instruments. The field must be repeated for each family.
 
-- **f** para folio
-- **p** para página
-- **lvs** para folhas (leaves)
-- **fds** para dobras (folds)
+**Parts held (590 $a)**: Solo: S 1, 2 (2x), A, T, B  
+**Extent (parts) (590 $b)**: 3, 2, 2, 3, 3, 4 p.
 
-Neste sistema, **lvs** corresponde a 2 **f** dobradas, enquanto **fds** significa ao menos 1 **lvs**. Indique outras unidades (tais como a conversão de folios para páginas) no campo **Nota geral (500)**.
+**Parts held (590 $a)**: Coro: S, A, T B  
+**Extent (parts) (590 $b)**: 4, 4, 4, 4 p.
 
-Também podem-se indicar páginas ou fólios individuais no interior de uma coletânea manuscrita, como em **p. 5-6** ou **f. 4r-4v.**
+**Parts held (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
+**Extent (parts) (590 $b)**: ** ** 4, 4, 3, 4, 2 p.
 
- 
+**Parts held (590 $a)**: ob 1, 2, cl 1, 2 in B|b  
+**Extent (parts) (590 $b)**: 2, 2, 2, 2 p.
 
-**Exemplos** : Existem duas maneiras diferentes de listar as partes.
+**Parts held (590 $a)**: tr 1 and 2 in B|b   
+**Extent (parts) (590 $b)**: 2 p.
 
-*Exemplo 1*: Uma família instrumental por linha, com uma vírgula separando os instrumentos. O campo deve ser repetido para cada família.
+**Parts held (590 $a)**: org (incpl)  
+**Extent (parts) (590 $b)**: 8 p.
 
-**Partes existentes (590 $a)**: Solo: S 1, 2 (2x), A, T, B  
-**Extensão (partes) (590 $b)**: 3, 2, 2, 3, 3, 4 p.
+*Example 2*: Everything on one line with a comma separating the instruments and a semicolon separating the instrument families (but some users find this confusing)
 
-**Partes existentes  (590 $a)**: Coro: S, A, T B  
-**Extensão (partes) (590 $b)**: 4, 4, 4, 4 p.
+**Parts held (590 $a)**: Solo: S (2x), A, T, Bariton, B; Coro: S; vl 1, 2, vla, vlc, cb (incpl); fl 1, 2, ob; cor 1 and 2  
+**Extent (parts) (590 $b)**: 2, 2, 2, 3, 3, 3; 3; 5, 5, 3, 2, 1; 4, 3, 4; 2 f.
 
-**Partes existentes (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
-**Extensão (partes) (590 $b)**: ** ** 4, 4, 3, 4, 2 p.
+#### Additional information
 
-**Partes existentes (590 $a)**: ob 1, 2, cl 1, 2 in B|b  
-**Extensão (partes) (590 $b)**: 2, 2, 2, 2 p.
+Additional information (brief remarks) about such things as the number or incompleteness of parts can be added in parentheses directly after the part designation. Use the following conventions:
 
-**Partes existentes (590 $a)**: tr 1 and 2 in B|b   
-**Extensão (partes) (590 $b)**: 2 p.
-
-**Partes existentes (590 $a)**: org (incpl)  
-**Extensão (partes) (590 $b)**: 8 p.
-
- 
-
-*Exemplo 2*: Tudo em uma linha, com uma vírgula separando os instrumentos e um ponto e vírgula separando as famílias de instrumentos (mas alguns usuários consideram isso confuso)
-
-**Partes existentes  (590 $a)**: Solo: S (2x), A, T, Bariton, B; Coro: S; vl 1, 2, vla, vlc, cb (incpl); fl 1, 2, ob; cor 1 and 2  
-**Extensão (partes) (590 $b)**: 2, 2, 2, 3, 3, 3; 3; 5, 5, 3, 2, 1; 4, 3, 4; 2 f.
-
-####  
-
-**Informação adicional**
-
-Informações adicionais (breves observações) sobre o número ou a incompletude das partes podem ser acrescentadas entre parênteses logo após a designação da peça. Use as seguintes convenções:
-
-- No caso de múltiplas cópias da mesma parte, escreva o número e então inclua a extensão para cada parte. Exemplo: **S (2x)**
-- **(= bc)**: a parte é uma parte de baixo contínuo
-- **(incpl)**: a parte está incompleta
-- Use uma / (barra inclinada) para juntar dois elementos: **bc (2x/incpl)**
-- Se uma parte contém música para vários instrumentos, use **and**. Exemplo: **tr 1 and 2**
-- Pode-se incluir a afinação: **cl 1, 2 in B|b**
+- If you have multiple copies of the same part, write the number and then include the extent for each part. Example: ** S (2x)**
+- **(= bc)**: part is a basso continuo part
+- **(incpl)**: part is incomplete
+- Use a **/** (slash) to join two elements: **bc (2x/incpl)**
+- If a part contains the music for multiple instruments, use **and**. Example: **tr 1 and 2**
+- You can include the tuning: **cl 1, 2 in B|b**
