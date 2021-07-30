@@ -1,3 +1,3 @@
-**Nota generale****  (680 $a)**
+### General note (680 $a)
 
-Inserisci ogni eventuale commento generico sulla persona in questione. Queste osservazioni vengono pubblicate.
+Enter any general comments about the person in question. These comments will be published.  
