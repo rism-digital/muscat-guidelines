@@ -1,61 +1,59 @@
-### Sigla da instituição (852)
+### Library siglum (852)
 
-Informação sobre a biblioteca ou instituição que possui a fonte deve ser inserida aqui.
+Information about the library or institution that holds the source is entered here.
 
-  
- 
+#### Library siglum (852 $a)
 
-#### Sigla da instituição (852 $a) 
+**Required field.**
 
-**Campo obrigatório.**
+Enter the siglum of the holding library. This field is linked to the **Institutions** authority file.
 
-Insira a sigla da instituição detentora da fonte. Este campo é relacionado ao registro de autoridades **Instituições**.
+#### Department (852 $b)
 
-#### Departamento (852 $b) 
+Enter more specific location information, in particular for large libraries, if not named in the siglum itself. Enter the name of the department in the local language. You may include a translation in brackets in your cataloging language.
 
-Insira informação mais específica de localização, em particular para grandes bibliotecas e instituições, se não estiverem referidas na própria sigla. Insira o nome do departamento no idioma local. Pode-se incluir, entre colchetes, uma tradução no seu idioma de catalogação.
+_Examples:_
+- Music Department
+- Collezioni speciali
+- Zakład Zbiorów Muzycznych [Music department]
 
-   
-_Exemplos:_  
-Music Department  
-Collezioni speciali  
-Zakład Zbiorów Muzycznych [Music department]
+#### Provenance (852 $z)
 
-#### Proveniência (852 $z) 
+This field can be used to indicate the name of a special collection, such as a collection, bequest, gift, papers, archive, _Nachlass_, or similar, that the source belongs to.
 
-Este campo pode ser usado para indicar o nome de uma coleção especial da qual a fonte faz parte, tal como uma coleção, legado, doação, papéis, arquivo, espólio ou similar.
+Enter in the local language. You may include a translation in brackets in your cataloging language.
 
-Utilize o idioma local. Pode-se incluir, entre colchetes, uma tradução no seu idioma de catalogação.
-
-_Exemplo_:  
+_Example_:  
 Sammlung Hanns J. Eller
 
-Nota: Insira marcas de propriedade no campo **Nota de proveniência** **(561)**.
+Note: Enter ownership marks in the field **Provenance note (561)**.
 
-#### **Material existente (852 $q)**
+#### Material held (852 $q)
 
-Este campo está disponível na informação de material para música impressa. Ao catalogar um exemplar que está incompleto, insira somente as partes (usando as abreviaturas RISM) ou volumes existentes nele. Ao catalogar um exemplar que está completo, será útil indicar **complete** neste campo. Utilize a terminologia em inglês. Aqui, completude diz respeito à presença de todas as partes ou volumes esperados; outros graus de incompletude (como no caso de páginas perdidas) podem ser indicados em uma nota.
+This field is available in the holdings information for printed music. If your copy is incomplete, enter the parts (using RISM abbreviations) or volumes you have. If you know your copy is complete, it is helpful if you write **complete** in this field. Use English terminology. Here, completeness refers to the presence of all expected parts or volumes; other degrees of incompleteness (such as missing pages) can be indicated in a note.
 
-_Exemplos:_  
-vl only  
-Coro S, A, B only  
-vol. 1, 3 only  
-complete
+Missing parts should be entered in the field **General note (500)**.
 
-#### Código (852 $c) 
+_Examples:_
+- vl only
+- Coro S, A, B only
+- vol. 1, 3 only
+- complete
 
-**Campo obrigatório.**
+#### Shelfmark (852 $c)
 
-Insira o código, cota ou número (também chamado “número de chamada”) que indica a fonte neste campo. Transcreva o mais precisamente possível, incluindo espaços e pontuação. Insira o código, cota ou número consistentemente no interior de uma dada coleção/acervo. Indique caracteres sobrescritos com | (a barra vertical). Se nenhum código, cota ou número estiver presente, insira **[without shelfmark]**. Insira códigos, cotas ou números adicionais, em uso, no campo **Outros Códigos (591)**.  
+**Required field.**
 
-_Exemplos:_  
-Ms Mus 165/6  
-Mus.ms. 743  
-Th.mus.A 5  
-P 7 G 359  
-Vm|1 805  
-[without shelfmark]
+Enter the shelfmark (also called "call number") in this field. Transcribe as precisely as possible, including spacing and punctuation. Enter shelfmarks consistently within any given library collection. Indicate superscript characters with **|** (the vertical pipe). If no shelfmark is present, enter **[without shelfmark]**.The phrase [no indication] can be used if the presence of a shelfmark is unknown. Enter additional shelfmarks in the field **Other shelfmarks (591)**.
 
-#### Código antigo (olim) (852 $d)
+_Examples:_
+- Ms Mus 165/6
+- Mus.ms. 743
+- Th.mus.A 5
+- P 7 G 359
+- Vm|1 805
+- [without shelfmark]
 
-Insira aqui códigos, cotas ou números antigos (olim), não mais válidos, em desuso. Insira um código, cota ou número por campo.
+#### Former shelfmark (olim) (852 $d)
+
+Enter old, invalid, or disused shelfmarks (olim) here. Enter one old shelfmark per field.
