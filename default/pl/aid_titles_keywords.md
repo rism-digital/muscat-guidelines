@@ -1,665 +1,214 @@
-# Aneks: Tytuły ujednolicone - Hasła przedmiotowe   
+## Appendix: Standardized titles – Subject headings
 
-Ta sekcja odnosi się do sytuacji , w których gatunki są używane jako tytuły znormalizowane (odnieś się do wytycznych dla **Tytułu ujednoliconego (240)**). W wielu przypadkach  **Tytuł ujednolicony ** i **Hasło przedmiotowe (650)** będą identyczne, jak np. w przypadku _Symphonies_. W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające hasło przedmiotowe.
+This section refers to cataloging situations where genres are used as standardized titles (refer to the guidelines for **Standardized title (240)**). In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
 
-Różnice mogą pojawić się w następujących sytuacjach: Jeśli ta samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa (voc.) lub (inst.). Określenia takie jak (dances) lub (stage) mogą być również dodane w nawiasie po głównym terminie.  
-  
-Poniżej podajemy kilka przykładów, a następnie odpowiedniki dla następujących rodzajów tytułów ujednoliconych: 
+Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words ( **voc**.) or ( **inst**.) after the term in parentheses. Specifications such as (dances) or ( stage) may also be added in parentheses after the main term.
 
-- Muzyka instrumentalna i wokalna ogólna  
-- Muzyka wokalna sakralna  
-- Muzyka sceniczna, teatralna itp.  
-- Ćwiczenia, etiudy, szkoły, lekcje
-- Tańce
+Below are some examples, followed by correspondences for the following kinds of standardized titles:
 
-Oto kilka przykładów dla szczególnych sytuacji:
+- General instrumental and vocal music
+- Sacred vocal music
+- Music for the stage, theater, etc.
+- Exercises, studies, schools, lessons
+- Dances
 
-1.     Aranżacja chorałowa, w której przypadku znany jest incipit tekstowy:   
-Ta lista nie jest potrzebna ! Należy używać incipitu tekstowego jako tytułu ujednoliconego i wybrać **Aranżację**. Wprowadzić hasło przedmiotowe **Aranżacje chorałowe**.
+Here are some examples for special situations:
 
-2.      Aranżacja chorałowa, w której przypadku incipit tekstowy jest nieznany.  
-Stosować **Aranżacje chorałowe** jako zarówno tytuł ujednolicony, jak i hasło przedmiotowe.
+1. A chorale arrangement where the text incipit is known:   
+   You don't need this list! Use the text incipit as the standardized title and select **Arrangement**. Enter the subject heading **Chorale arrangements**.
 
-3.      Potpourri, gdy wiadomo, że muzyka pochodzi z jednej opery:  
-Ta lista nie jest potrzebna ! Należy użyć nazwy opery jako tytułu ujednoliconego i wybrać **Wyjątki** i **Aranżację**. Należy wpisać hasła przedmiotowe **Potpourris** i **Operas**  (lub **Operettas**  itp.).  
-  
-4.      Potpourri, gdy wiadomo, że muzyka pochodzi z kilku oper:  
-Należy używać **Potpourris ** jako tytułu ujednoliconego. Wpisać nazwy oper w polu **Tytuł dodatkowy** (730). Jako hasło przedmiotowe należy wpisać **Potpourris** i **Operas**  (lub odpowiednio **Operettas**  itp.).  
-  
-5.      Potpourri, gdy nie wiadomo z jakich oper pochodzi muzyka:  
-Należy użyć **Potpourris ** jako tytuł ujednolicony i hasło przedmiotowe.   
-  
-6.      Aranżacja dęta muzyki z utworu scenicznego, gdy znana jest nazwa utworu scenicznego:  
-Należy użyć nazwy utworu scenicznego jako tytułu ujednoliconego i wybrać **Aranżację**. Wpisać hasło przedmiotowe ** Wind music**.  
-  
-7.      Aranżacja dęta muzyki z utworu scenicznego, gdy nazwa utworu scenicznego nie jest znana:  
-Należy użyć **Wind music** jako tytuł ujednolicony i hasło przedmiotowe.
+2. A chorale arrangement where the text incipit is unknown:   
+   Use **Chorale arrangements** as both the standardized title and subject heading.
 
-8. **Szkice** nieznanych kompozycji.
+3. A potpourri where you know that the music comes from a single opera:  
+   You don't need this list! Use the name of the opera as the standardized title and select **Excerpts** and ** Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas** , etc. as appropriate).
 
-W przypadku szkiców nieznanych kompozycji, należy użyć tytułu wyróżniającego utwór i **Szkice** jako drugiego hasła przedmiotowego. 
+4. A potpourri where you know that the music comes from several operas:  
+   Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas** , etc. as appropriate).
 
-9. W przypadku całkowitej niepewności, np. nieznanej obsady, należy użyć  **Pieces** jako tytułu ujednoliconego i **Pieces** jako hasła przedmiotowego.
+5. A potpourri where you do not know what operas the music is from:  
+   Use **Potpourris** as both the standardized title and subject heading.
 
-Poniższa lista daje wyobrażenie o tym, jakie znormalizowane tytuły mają odpowiadającą im pozycję tematyczną. Proszę zauważyć, że lista ta nie jest wyczerpująca.
+6. A wind arrangement of music from a stage work where the name of the stage work is known:  
+   Use the name of the stage work as the standardized title and select **Arrangement**. Enter the subject heading **Wind music**.
 
-### **Muzyka instrumentalna i wokalna ogólna**  
+7. A wind arrangement of music from a stage work where the name of the stage work is unknown:  
+   Use **Wind music** as both the standardized title and subject heading.
 
-|   
-**Tytuł ujednolicony/gatunek ** | 
-#### Odpowiednie hasło przedmiotowe  
+8. For **sketches** of unknown compositions, use the distinctive title plus the subject heading **Sketches**. For sketches of known compositions, please use the distinctive title of the work and **Sketches** as second subject heading.
 
- |
-| Airs | Airs (tańce) |
-| Airs | Airs (inst.) |
-| Airs | Airs (voc.) |
-| | | |   
- |
-| Arias | Arie  
- |
-| Ballades | Ballady  
- |
-| Ballades | Ballady (Inst.)  
- |
-| Ballads | Ballady (wok.)  
- |
-| Ballettos | Balletta (wok.)  
- |
-| Barcarolles | Barkarole (inst.)  
- |
-| Barcarolles | Barkarole (wok.)  
- |
-| Battle music | Muzyka renesansowa typu Battaglia (inst.)  
- |
-| Battle music | Muzyka renesansowa typu Battaglia (wok.) |
-| Bergerettes | Bergeretta (wok.)  
- |
-| Brass music | Muzyka grana na instrumentach dętych, blaszanych  
- |
-| Burlesques | Burleski  
- |
-| Canons | Kanony (inst.)  
- |
-| Canons | Kanony (wok.)  
- |
-| Cantatas | Kantaty  
- |
-| Canzonas | Canzony (inst.)  
- |
-| Canzonettas | Canzonetty  
- |
-| Canzoni | Canzoni (wok.)  
-  
- |
-| Capriccios | Capriccia (inst.)  
- |
-| Capriccios | Capriccia (inst.)  
- |
-| Catches | Catches   
- |
-| Cavatinas | Cavatines  
- |
-| Chaconnes | Chaconnes |
-| Chansons | Chanson  
- |
-| Character pieces | Utwory charakterystyczne  
- |
-| Children's songs | Piosenki dziecięce  
- |
-| Chorale arrangements\* | Aranżacje chorałowe  
- |
-| Choreae | Choreae |
-| Choruses | Chorusy  
- |
-| Concerti grossi | Concerti grossi |
-| Concertos |  Koncerty  
- |
-| Consorts | Consorts  
- |
-| Contrafacta | Kontrafaktura |
-| Contrapuntal studies | Ćwiczenia kontrapunktyczne  
- |
-| Dancing songs | Piosenki taneczne  
- |
-| Dialogues | Dialogi  
- |
-| Divertimentos | Divertimenta  
- |
-| Divisions | Divisions |
-| Duets | Duety (inst.)  
- |
-| Duets | Duety (wok.)  
- |
-| Ensembles | Ansamble  
- |
-| Etudes | Etiudy (inst.)  
- |
-| Fanfares | Fanfary  
- |
-| Fantasies | Fantazje  
- |
-| Film music | Muzyka filmowa  
- |
-| Folias | Follie  
- |
-| Folk songs | Pieśni ludowe  
- |
-| Frottolas | Frottole  
- |
-| Fugues | Fugi (inst.)  
- |
-| Fugues | Fugi (wok.)  
- |
-| Glees | Glee (Świecka kompozycja wokalna na trzy lub więcej głosów bez akompaniamentu - pierwotnie męskich, utrzymana w prostym, zharmonizowanym, homofonicznym stylu z tekstem w języku angielskim.)  
- |
-| Grounds | Grounds  
- |
-| Humoresken | Humoreski  
- |
-| Impromptus | Impromptus  
- |
-| In Nomine | In Nomine (inst.) |
-| Instrumental pieces | Utwory instrumentalne  
- |
-| Interludes | Interludia  
- |
-| Intermezzos | Intermezza  
- |
-| Intonazione | Intonazione (inst.) |
-| Intradas | Intrady  
- |
-| Inventions | Inwencje  
- |
-| Janissary music | Muzyka janczarska (Turecki zespół instrumentów dętych i perkusyjnych znany w Imperium Osmańskim jako mehter) |
-| Keyboard pieces | Utwory na instrumenty klawiszowe  
- |
-| Konzertstücke | Utwory koncertowe  
- |
-| Lais | Lais (Pieśni)  
- |
-| Lamentos | Lamenty  
- |
-| Lessons | Lessons (Ćwiczenia; termin pierwotnie używany w Anglii na określenie ćwiczeń wykonawczych lub kompozycji, następnie dla muzyka klawiszowej i kameralnej)  |
-| Lieder | Pieśni  
- |
-| Madrigals | Madrygały  
- |
-| March songs | Pieśni marszowe  
- |
-| Marches | Marsze  
- |
-| Mazurkas | Mazurki  
- |
-| Minuets | Menuety  
- |
-| Modinhas | Modinhas (Portugalska i brazylijska sentymentalna pieśń artystyczna uprawiana w XVIII i XIX wieku.) |
-| Motets | Motety  
- |
-| Movements | Sekcje/Części  
- |
-| Murkies | Murki (Styl pisania na instrumentach klawiszowych lub utwór w tym stylu, w którym bas składa się z rozszerzonego wzoru naprzemiennych oktaw.  
- |
-| National anthems | Hymny narodowe  
- |
-| Nocturnes | Nokturny (inst.)  
- |
-| Nonets | Nonety  
- |
-| Notturni | Notturni (wok.)  
- |
-| Octets | Oktety  
- |
-| Odes | Ody  
- |
-| Overtures | Uwertury  
- |
-| Partitas | Partity  
- |
-| Partsongs | Pieśni wielogłosowe  
- |
-| Passacaglias | Passacaglie  
- |
-| Pastorales | Pastorały (inst.)  
- |
-| Pastorales | Pastorały (wok.)  
- |
-| Polonaises | Polonezy  
- |
-| Postludes | Postludia  
- |
-| Potpourris\* | Potpourri  
- |
-| Preludes | Preludia  
- |
-| Preludes and Fugues |   
-Preludia i Fugi  
-  
- |
-| Programme music | Muzyka programowa  
- |
-| Quartets | Kwartety (inst.)  
- |
-| Quartets | Kwartety (wok.)  
- |
-| Quintets | Kwintety  
- |
-| Recitatives | Recytatywy  
- |
-| Rhapsodies | Rapsodie (inst.)  
- |
-| Rhapsodies | Rapsodie (wok.)  
- |
-| Ricercares | Ricercary (inst.)  
- |
-| Ricercares | Ricercary (wok.)  
- |
-| Romances | Romanse (inst.)  
- |
-| Romances | Romanse (wok.)  
- |
-| Rondeaux | Ronda (forma stała)  
- |
-| Rondos | Ronda (inst.)  
- |
-| Rondos | Ronda (wok.)  
- |
-| Rounds | Rundy (wok.)  
- |
-| Scenes | Sceny  
- |
-| Scherzi | Scherza (wok.)  
- |
-| Scherzos | Scherza (inst.)  
- |
-| Septets | Septety  
- |
-| Sextets | Sekstety   
- |
-| Sonatas | [używać] Sonaty [lub] Sonaty triowe  
- |
-| Songs | Pieśni  
- |
-| Sprüche | Sprüche   
- |
-| Ständchen | Ständchen  
- |
-| Suites | Suity  
- |
-| Symphonic poems | Poematy symfoniczne  
- |
-| Symphonies | Symfonie  
- |
-| Symphonies concertantes  | Symfonie koncertujące  
- |
-| Tenorlieder | Pieśni tenorowe  
- |
-| Tercets | Tercety (wok.)  
- |
-| Tientos | Tienta  
- |
-| Toccatas | Toccaty  
- |
-| Tonos | Tonos (Hiszpańska melodia często używana w XVII wieku, w szczególności do określenia krótkiej pieśni świeckiej lub sakralnej, generalnie na głos solowy.)  
- |
-| Toys | Toys (Utwór na lutnię lub wirginał, prosty w formie i o lekkiej fakturze.)   
- |
-| Trios | Tria (inst.)  
- |
-| Variations | Wariacje  
- |
-| Vaudevilles | Wodewile  
- |
-| Versets | Wersety (inst.)   
- |
-| Villancicos | Villancicos   
- |
-| Villanelle | Villanelle |
-| Virelais | Virelais (forma stała)  
- |
-| Vocal pieces | Vocal pieces - Utwory wokalne  
- |
-| Voluntaries | Voluntaries (Utwór swobodnie skomponowany lub zaimprowizowany, zwykle na organy w ramach nabożeństwa)  
- |
-| Waltzes | Walce  
- |
-| Wind music\* | Muzyka na instrumenty dęte drewniane  
- |
+9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
 
-\*Patrz przykłady, powyżej
+The following list gives an idea of what standardized titles have a corresponding subject heading. Please note that this list is not comprehensive.
 
-###   
+**General instrumental and vocal music**
 
-### Muzyka wokalna sakralna  
+Standardized title/genre — Corresponding subject heading
 
-| 
-#### _ **Tytuł ujednolicony ** _
- | 
-#### _ **Hasło przedmiotowe** _
- |
-| Anthems | Hymny (Chóralna oprawa tekstu religijnego lub moralnego w języku angielskim, zwykle przeznaczona do wykonywania podczas liturgii)  
- |
-| Antiphonies | Antyfony  
- |
-| Atti di contrizione | Atti di contrizione |
-| Calendas | Calendas (XVII-wieczne villancico napisane do śpiewania w Wigilię podczas tradycyjnego czytania genealogii Chrystusa) |
-| Canticles | Kantyki |
-| Chorales | Chorały  
- |
-| Communions | Komunie  
- |
-| Completoria | Kompleta |
-| Dialogues | Dialogi  
- |
-| Dicta | Dicta |
-| Elevations | Podniesienia  
- |
-| Exsequiae | Egzekwie  
- |
-| Graduals | Graduały  
- |
-| Herrnhut chorales  | Herrnhut chorales |
-| Historias | Historie  
- |
-| Horae minores | Liturgia godzin  
- |
-| Hymns | Hymny  
- |
-| Improperia | Improperia |
-| Intonations | Intonacje (wok.)  
- |
-| Introits | Introity  
- |
-| Invitatories | Wezwanie |
-| Lamentations | Lamentations - Lamentacje  
- |
-| Laudes | Jutrznie |
-| Lections | Lekcjonarz |
-| Litanies | Litanie  
- |
-| Masses | Msze  
- |
-| Matutina | Matutinum  
- |
-| Offertories | Ofertoria  
- |
-| Oratorios | Oratoria  
- |
-| Passions | Pasje  
- |
-| Psalms | Psalmy  
- |
-| Requiems | Requiem  
- |
-| Responsories | Responsoria  
- |
-| Sacred concerts | Koncerty sakralne  
- |
-| Sacred songs | Pieśni sakralne  
- |
-| Sequences | Sekwencje  
- |
-| Services | Nabożeństwa  
- |
-| Tonos | Tonos  
- |
-| Tracts | Trakty  
- |
-| Versi | Wersy  
- |
-| Vespers | Nieszpory  
- |
-| Villancicos | Villancicos  
- |
+Airs — Airs (dances)
 
-#   
+Airs — Airs (inst.)
 
-### Muzyka sceniczna, teatralna itd.  
+Airs — Airs (voc.)
 
-  
+Arias — Arias (voc.)
 
-Aby ustalić gatunek poszczególnych numerów lub partii, należy korzystać z sekcji na temat muzyki wokalnej i instrumentalnej.
+Ballades — Ballades (forme fixe)
 
-| _ **Tytuł ujednolicony** _  
- | _ **Hasło przedmiotowe** _  
- |
-| Afterpieces | Jednoaktówki komiczne  
- |
-| Ballad operas | Opery balladowe  
- |
-| Ballets | Balety  
- |
-| Entr'actes | Antrakty  
- |
-| Farse | Farsy  
- |
-| Festive music | Muzyka odświętna  
- |
-| Funeral music | Muzyka pogrzebowa  
- |
-| Incidental music\* | Muzyka sceniczna (teatr mówiony) |
-| Intermezzos |  Intermezza (scena)  
- |
-| Jeux | Jeux |
-| Liederspiele | Liederspiele |
-| Masques | Maski ?  
- |
-| Meditationes | Meditationes (teatr jezuicki)  
- |
-| Melodramas\* | Melodramy  
- |
-| Opéra-ballets | Operobalety  
- |
-| Operas\* | Opery  
- |
-| Operettas | Operetki  
- |
-| Pantomimes | Pantomimy  
- |
-| Pasticcios | Pasticcia  
- |
-| Pastoral plays | Pastorałki  
- |
-| Possen | Possen |
-| Prologues | Prologi (scena)  
- |
-| Serenatas | Serenaty  
- |
-| Singspiele | Singspiele  
- |
-| Stage music | Muzyka sceniczna  
- |
-| Table entertainments  | Table entertainments   
- |
-| Tonadillas | Tonadille  
- |
-| Tragédies lyriques | Tragedie liryczne  
- |
-| Vaudevilles | Wodewile  
- |
-| Wedding music | Muzyka weselna  
- |
-| Zarzuelas | Zarzuele  
- |
-|   
- |   |
+Ballades — Ballades (inst.)
 
-\ ***Uwaga !**   **Melodramas** - Melodramy (muzyka i głos mówiony). Nie należy mylić z włoskim terminem _melodramma_, używanym jako ogólny termin oznaczający operę. Terminu _opera_ czasem używa się w tytułach dyplomatycznych jako synonimu „utworu” ( tzn. opus numer). 
+Ballads — Ballads (voc.)
 
-Hasło przedmiotowe „Incidental music” oznacza muzykę sceniczną do teatru mówionego, a nie muzykę na specjalne okazje  (= nie muzykę odświętną).
+Ballettos — Ballettos (voc.)
 
-###   
+Barcarolles — Barcarolles (inst.)
 
-### Ćwiczenia, etiudy, szkoły, lekcje  
+Barcarolles — Barcarolles (voc.)
 
-| 
-#### _ **Tytuł ujednolicony** _
- | 
-#### _ **Hasło przedmiotowe** _
- |
-| Arpeggios | Arpeggia (inst.)  
- |
-| Cadences | Kadencje (inst.)  
- |
-| Cadenzas | Kadencje (wok.)  
- |
-| Contrapuntal studies  | Ćwiczenia kontrapunktycxzna  
- |
-| Exercises | Ćwiczenia (inst.)  
- |
-| Exercises | Ćwiczenia (wok.)  
- |
-| Lessons | Lekcje  
- |
-| Partimentos | Partimenta  
- |
-| Scales | Gamy  
- |
-| Solfeggios | Solfeggia (inst.)  |
-| Solfeggios | Solfeggia (wok.)   
- |
-| Tutors | Podręczniki (inst.)  
- |
-| Tutors | Podręczniki (wok.)  
- |
+Battle music — Battle music (inst.)
 
-### Dances
+Battle music — Battle music (voc.)
 
-| 
-#### _ **Standardized title** _ 
- | 
-#### _ **Subject heading** _ ** **
- |
-| Airs | Airs (tańce) |
-| Allemandes | Allemandes  (Niemieckie)  
- |
-| Anglaises | Anglaises (Angielskie)  
- |
-| Basse danses | Tańce dworskie |
-| Bergamasche | Bergamasca  
- |
-| Boleros | Bolera  
- |
-| Boleros cubanos | Boleros cubanos  
- |
-| Bourrées | Bourrées |
-| Branles | Branle |
-| Canaries | Taniec kanaryjski  
- |
-| Chiarentane | Chiarentany |
-| Choreae | Choreae |
-| Contredanses | Kontredanse  
- |
-| Correnti | Correnti   
- |
-| Country dances | Tańce wiejskie  
- |
-| Courantes | Kuranty  
- |
-| Cotillons | Kotyliony  
- |
-| Csárdás | Czardasze  
- |
-| Dances | Tańce  
- |
-| Deutsche Tänze | Tańce niemieckie  
- |
-| Dreher | Dreher |
-| Écossaises | Écossaises |
-| Fandangos | Fandanga  
- |
-| Folias | Follie  
- |
-| Forlanas | Forlany  
- |
-| Foxtrots | Fokstroty  
- |
-| Françaises | Francuskie  
- |
-| Galliards | Galiardy |
-| Galops | Galopy  
- |
-| Gavottes | Gawoty  
- |
-| Gigues | Gigi  
- |
-| Hopser | Hopser  
- |
-| Hornpipes | Hornpipe'y  
- |
-| Krakowiaks | Krakowiaki  
- |
-| Kujawiaks | Kujawiaki  
- |
-| Ländler | Ländlery  
- |
-| Langaus | Langaus  
- |
-| Loures | Loure  
- |
-| Mazurs | Mazury  
- |
-| Mazurkas | Mazurki  
- |
-| Minuets | Menuety  
- |
-| Musettes | Musetty  
- |
-| Obereks | Oberki  
- |
-| Paduanas | Paduany  
- |
-| Paso dobles | Paso dobles |
-| Passamezzos | Passamezza  
- |
-| Passepieds | Passepied  
- |
-| Pavans | Pawany  
- |
-| Polkas | Polki  
- |
-| Polonaises | Polonezy  
- |
-| Proportze | Proportze  
- |
-| Quadrilles | Kwadryle  
- |
-| Redowas | Redowy  
- |
-| Reels | Reele  
- |
-| Rheinländer | Rheinländer (taniec austriacki)  
- |
-| Rigaudons | Rigaudon  
- |
-| Rounds | Rundy (tańce)  
- |
-| Saltarellos | Saltarelle  
- |
-| Sarabandes | Sarabandy  
- |
-| Schleifer | Schleifer (odmiana walca)  
- |
-| Schnadahüpfln | Schnadahüpfln   
- |
-| Schottische | Szkockie  
- |
-| Seguidillas | Sequidille   
- |
-| Sicilianas | Sycyliany  
- |
-| Spagnolette | Spagnoletty  
- |
-| Strathspeys | Strathspeys  
- |
-| Tambourins | Tamburyny  
- |
-| Tangos | Tangos - Tanga  
- |
-| Tarantellas | Tarantellas -Tarantele  
- |
-| Verbunkos | Verbunki  
- |
-| Voltas | Voltas - Wolty  
- |
-| Waltzes | Waltzes - Walce  
- |
+Bergerettes — Bergerettes (voc.)
+
+Brass music — Brass music
+
+Canons — Canons (inst.)
+
+Canons — Canons (voc.)
+
+Canzonas — Canzonas (inst.)
+
+Canzoni — Canzoni (voc.)
+
+Capriccios — Capriccios (inst.)
+
+Capriccios — Capriccios (voc.)
+
+Duets — Duets (inst.)
+
+Duets — Duets (voc.)
+
+Etudes — Etudes (inst.)
+
+Fugues — Fugues (inst.)
+
+Fugues — Fugues (voc.)
+
+In Nomine — In Nomine (instr)
+
+Instrumental pieces — Instrumental pieces
+
+Interludes — Interludes
+
+Intermezzos — Intermezzos (inst.)
+
+Intonazione — Intonazione (inst.)
+
+Nocturnes — Nocturnes (inst.)
+
+Notturni — Notturni (voc.)
+
+Pastorales — Pastorales (inst.)
+
+Pastorales — Pastorales (voc.)
+
+Preludes and Fugues   [enter two subject headings:] Preludes Fugues
+
+Quartets — Quartets (inst.)
+
+Quartets — Quartets (voc.)
+
+Rhapsodies — Rhapsodies (inst.)
+
+Rhapsodies — Rhapsodies (voc.)
+
+Ricercares — Ricercares (inst.)
+
+Ricercares — Ricercares (voc.)
+
+Romances — Romances (inst.)
+
+Romances — Romances (voc.)
+
+Rondeaux — Rondeaux (forme fixe)
+
+Rondos — Rondos (inst.)
+
+Rondos — Rondos (voc.)
+
+Rounds — Rounds (voc.)
+
+Scherzi — Scherzi (voc.)
+
+Scherzos — Scherzos (inst.)
+
+Sonatas — _use_Sonatas _or_ Triosonatas
+
+Terzets — Terzets (voc.)
+
+Trios — Trios (inst.)
+
+Versets — Versets (inst.)
+
+Virelais — Virelais (forme fixe)
+
+**Sacred vocal music**
+
+Standardized title/genre — Corresponding subject heading
+
+Completoria — Hours of the Office
+
+Horae minores — Hours of the Office
+
+Intonations — Intonations (voc.)
+
+Laudes — Hours of the Office
+
+Matutina — Hours of the Office
+
+**Music for the stage, theater, etc.**
+
+_For genres of individual numbers or parts, consult the section on vocal and instrumental music._
+
+Standardized title/genre — Corresponding subject heading
+
+Intermezzos — Intermezzos (stage)
+
+Meditationes — Meditationes (Jesuit theatre)
+
+Prologues — Prologues (stage)
+
+**Exercises, studies, schools, lessons**
+
+Standardized title/genre — Corresponding subject heading
+
+Standardized title — Subject heading
+
+Arpeggios — Arpeggios (inst.)
+
+Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+
+Cadenzas — Cadenzas (voc.)
+
+Exercises — Exercises (inst.)
+
+Exercises — Exercises (voc.)
+
+Solfeggios — Solfeggios (inst.)
+
+Solfeggios — Solfeggios (voc.)
+
+Tutors — Tutors (inst.)
+
+Tutors — Tutors (voc.)
+
+**Dances**
+
+Standardized title/genre — Corresponding subject heading
+
+Standardized title — Subject heading
+
+Airs — Airs (dances)
+
+Rounds — Rounds (dances)
