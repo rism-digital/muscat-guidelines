@@ -1,10 +1,8 @@
-#### Kod uwierzytelniający (042 $a)
-  
+### Authentication code (042 $a)
 
-Pole to określa, czy wpis został już zróżnicowany przez biuro centralne RISM. Wpisy zróżnicowane odnoszą się do konkretnej osoby, a niezróżnicowane nie mogą być (jeszcze) powiązane z konkretną osobą.  
-  
-Dostępne są kody:    
+This field identifies whether the entry has been differentiated by the RISM Editorial Center. Differentiated entries refer to a concrete person and undifferentiated entries cannot (yet) be connected to an individual.
 
--     zróżnicowane
+Available codes are:
 
--     niezróżnicowany
+- differentiated
+- undifferentiated
