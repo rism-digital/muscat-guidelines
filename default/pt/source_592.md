@@ -1,11 +1,12 @@
-### Descrição de marca d’água (592 $a) 
+### Watermark description (592 $a)
 
-Este campo descreve as marcas d’água presentes na fonte. Descreva as marcas d’água uniformemente e em inglês. Por favor, padronize sua informação com o auxílio de catálogos e bases de dados de marcas d’água, adicionando uma referência no campo **Referência bibliográfica (691)** quando for apropriado. Ver a lista **Marcas d’água Padrão** para os nomes de marcas d’água comuns. Letras maiúsculas pequenas, cifras/iniciais e anos devem ser transcritos com exatidão. Indique quebras de linha com | (barra vertical). Coloque suas descrições adicionais entre colchetes para distingui-las das transcrições.
+This field describes the watermarks on the source. Describe watermarks uniformly and in English. Please standardize your information with the help of watermark catalogs or databases, adding a reference in the field **Bibliographic reference (691)** when appropriate. See the list **Standard Watermarks** for the names of common watermarks. Small capitals, ciphers/initials, and years must be transcribed exactly. Indicate line breaks with **|** (the vertical pipe). Put your added descriptions in square brackets to distinguish them from transcriptions.
 
-_Exemplos_:  
-C & G HONIG  
-GFA | VB [GFA above VB]  
-IV [countermark:] VI  
-[coat of arms]  
-[3 crescents] | MA  
-[EinederH 1960 260]
+_Examples_:
+
+- C & G HONIG
+- GFA | VB [GFA above VB]
+- IV [countermark:] VI
+- [coat of arms]
+- [3 crescents] | MA
+- [EinederH 1960 260]
