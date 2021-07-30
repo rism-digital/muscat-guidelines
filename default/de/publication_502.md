@@ -1,9 +1,8 @@
-### Hochschulschriftenvermerk (502 $a)
+### Dissertation note (502 $a)
 
-Wenn es ich um eine Hochschulschrift handelt, werden hier die Art, Institution und Jahr genannt.  
+If the item is a doctoral dissertation, include the type of degree, institution, and year.
 
-  
+_Examples:_
 
-_Beispiele_:  
-Ph. D., University College, London 1998  
-Diss., Freie Universität, Berlin 2002
+- Ph.D. diss., University College, London 1998
+- Diss., Freie Universität, Berlin 2002
