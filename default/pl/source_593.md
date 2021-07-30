@@ -1,66 +1,37 @@
-#### Typ źródła (593 $a) 
+### Source type (593 $a)
 
-**Pole wymagane.**
+**Required field.**
 
-Pole określa charakter źródła. Należy wybrać odpowiedni typ źródła z następującej listy:
+This field describes the nature the source. Please select from the list as follows:
 
-**W przypadku notacji muzycznej:**
+**For notated music:**
 
-- 
+- **Autograph manuscript** : Written completely or mostly in the composer’s hand.
+- **Possible autograph manuscript** : Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
+- **Partial autograph** : Significant portions of the manuscript are in the composer's hand.
+- **Manuscript copy**
+- **Manuscript copy with autograph annotations** : Corrections or small additions are in the composer’s hand.
+- **Print**
+- **Print with autograph annotations:** Handwritten annotations by the composer. Use for holdings only (copy-specific information).
+- **Print with non-autograph annotations** : Any other kind of handwritten annotations not by the composer. Use for holdings only (copy-specific information).
 
-**Autograf** : sporządzony całkowicie lub w większości ręką kompozytora.
+**For other types of documents:**
 
-- 
+- **Libretto, handwritten**
+- **Libretto, printed**
+- **Treatise, handwritten**
+- **Treatise, printed**
+- **Other**
 
-**Prawdopodobnie autograf** : Istnieje pewien stopień niepewności, czy kompozytor sporządził rękopis własnoręcznie.
+In the case of autograph manuscripts and possible autograph manuscripts, do not create an added entry **(700)**with the composer's name as the copyist. However, an exception is if the identity of the copyist is certain but it is uncertain if the copyist is also the composer. In such a case, enter the copyist's name in the field **Additional personal name ( 700)**but add the same name to the field **Composer/Author name (100 $a)**with the appropriate attribution.
 
-- **Częściowy autograf** : znaczne części rękopisu kompozytor sporządził własnoręcznie.  
+In some cases, such as with a partial autograph, an explanatory note in the field **General note (500)**may be appropriate.
 
-- **Kopia rękopisu**
+If the arranger of a composition was also the copyist, select **Manuscript copy** and not **Autograph manuscript**.
 
-- **Kopia rękopisu z własnoręcznymi adnotacjami autorskimi** : poprawki lub małe uzupełnienia dodane ręką kompozytora.  
+If multiple types of sources are present, repeat the "Material description" group to select and describe each type of source.
 
-- **Druk**
+If your source is a mechanical reproduction (such as a photocopy), follow these steps:
 
-- **Druk z**  **własnoręcznymi adnotacjami autorskimi**
-
-- **Druk z adnotacjami nieautorskimi** : wszystkie adnotacje naniesione ręką inną niż autora. 
-
-**Inne typy dokumentów:**
-
-- 
-
-**Libretto, rękopiśmienne**
-
-- 
-
-**Libretto, drukowane**
-
-- 
-
-**Traktat, rękopiśmienne**
-
-- 
-
-**Traktat, drukowane**
-
-- 
-
-**Czasopismo muzyczne**
-
-- 
-
-**Inne**
-
-W przypadku autografów i rękopisów prawdopodobnie autorskich nie należy tworzyć dodatkowego wpisu **(700)** z nazwą kompozytora jako kopisty. Jednak, wyjątkiem jest sytuacja, gdy tożsamość kopisty jest pewna, ale nie ma pewności, czy kopista jest także kompozytorem. W takim przypadku nazwę kopisty należy wpisać w polu **Dodatkowe osoby (700)**, lecz należy dodać tę samą nazwę w polu **Nazwa kompozytora/autora (100 $a)**z odpowiednią atrybucją.
-
-W niektórych przypadkach, takich jak częściowy autograf, może być stosowne dodanie uwagi wyjaśniającej w polu **Uwaga ogólna (500)**.
-
-Jeżeli aranżer kompozycji był także kopistą, należy wybrać **Kopia rękopisu** , a nie **Rękopis autorski**.
-
-Jeśli występuje wiele typów źródeł, należy powtórzyć grupę „Opis materiału”, aby wybrać i opisać typ źródła. 
-
-Jeżeli źródło jest reprodukcją mechaniczną (np. fotokopią), należy wykonać następujące czynności:
-
-1. Wybrać **Rękopis autorski, Kopia rękopisu** itd. w zależności od typu źródła (tzn. wybrać typ, który dotyczy oryginalnego źródła.)
-2. Wybrać typ reprodukcji w polu **Specjalna technika produkcji (340 $d)**
+1. Select **Autograph manuscript** , **Manuscript copy** , etc. as appropriate (that is, select the type that applies to the original source)
+2. Select the type of reproduction in the field **Special production technique (340 $d)**
