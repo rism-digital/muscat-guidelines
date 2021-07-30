@@ -1,4 +1,4 @@
-#### **Author (100)**
+### Author (100)
 
 Enter the name of the main author of the publication. Editors of facsimile or modern music editions are entered as authors.
 
