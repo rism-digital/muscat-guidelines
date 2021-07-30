@@ -9,5 +9,3 @@ Use este campo para registrar información adicional sobre contenidos de la fuen
 - Información sobre la plantilla/orgánico total, si el material está incompleto.
 
 Complete el campo usando su propio idioma de catalogación.
-
-####
