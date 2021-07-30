@@ -1,15 +1,14 @@
-#### **Outra forma do nome (MARC 410 $a; ISDIAH 5.1.4)**
+### Other form of name (MARC 410 $a; ISDIAH 5.1.4)
 
-Neste campo inserem-se todos os outros nomes da instituição que não estejam informados em outro lugar.
+This field is for any other name(s) for the institution not given elsewhere.
 
-Insira outras formas do nome da instituição, tais como nomes popularizados ou não-oficiais. Isso pode incluir outras formas do mesmo nome, acrônimos, nomes usados em publicações antigas (tais como os volumes impressos do RISM), ou mudanças de nome ao longo do tempo, incluindo, se possível, datas relevantes. Insira cada nome em uma linha separada.  ** **
+Enter other forms of the name of the institution, as well as popular or non-official other names. This could include other forms of the same name, acronyms, names used in older publications (such as RISM volumes), or changes of name over time, including, if possible, relevant dates. Enter each name on a separate line.
 
-** **
+_Examples_:
 
-_Exemplos_:  
-Parry Room Library [para Royal College of Music Library]  
-Wolfson Lending Library [para Royal College of Music Library]  
-Musik-Konservatoriets Bibliotek [para Norges musikkhøgskole, Biblioteket]  
-Gosudarstvennïy Istoricheskïyi Muzei [para Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossii]  
-ERESBIL - Euskal Ereslarien Bilduma [1974-2000] [para ERESBIL - Musikaren Euskal Artxiboa]  
-ERESBIL - Archivo de Compositores Vascos [1974-2000] [para ERESBIL - Musikaren Euskal Artxiboa]
+- Parry Room Library [for Royal College of Music Library]
+- Wolfson Lending Library [for Royal College of Music Library]
+- Musik-Konservatoriets Bibliotek [for Norges musikkhøgskole, Biblioteket]
+- Gosudarstvennïy Istoricheskïyi Muzei [for Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossii]
+- ERESBIL - Euskal Ereslarien Bilduma \[1974-2000\] \[for ERESBIL - Musikaren Euskal Artxiboa\]
+- ERESBIL - Archivo de Compositores Vascos \[1974-2000\] \[for ERESBIL - Musikaren Euskal Artxiboa\]
