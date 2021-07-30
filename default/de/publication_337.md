@@ -1,14 +1,15 @@
-#### Physisches Medium (337 $a)  
+### Media type (337 $a)
 
-#### Pflichtfeld
-Es eine Auswahlliste zur Verfügung:  
+**Required field.**
 
-- **Printed medium:** Druckschrift  
-- **Electronic resource** : Elektronische Ressource wie Datenbank, Website oder Online-Werkverzeichnisse
+Select the type of media from the following list:
+
+- **Printed medium**
+- **Electronic resource** : such as a database, website, or online catalog of works
 - **E-book**
-- **Printed music:** Noten
-- **Manuscript** : handschriftliches Dokument
-- **Media combination:** Medienkombination  
+- **Printed music**
+- **Manuscript** : a handwritten document
+- **Media combination**
 - **CD-ROM**
 - **Microfiche**
 - **Microfilm**
