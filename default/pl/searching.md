@@ -1,72 +1,70 @@
-**Wyszukiwanie** w Muscat jest dostępne poprzez **wyszukiwanie **** wieloaspektowe ** i poprzez** filtry**.
+**Searching** in Muscat is available through a **faceted search** and through **filters**.
 
-#### Wyszukiwanie  **wieloaspektowe**
+#### Faceted search
 
-**Wyszukiwanie wieloaspektowe ** (górne menu w środku) jest dostępne w celu przeszukiwania danych w znanym ustawieniu OPAC. W przypadku posiadania przez użytkownika praw do edycji danego źródła, za pomocą przycisku edycji można przejść bezpośrednio do trybu edycji programu Muscat.   
-Wyszukiwanie incipitu jest dostępne poprzez wyszukiwanie zaawansowane [Advanced search](https://muscat.rism.info/advanced). Klawiatura umożliwia łatwe wstawianie notacji. Dostępne są cztery tryby wyszukiwania, z różnymi stopniami dokładności:
+The **Faceted search** (top menu in the middle) is available to search the data in a familiar OPAC setting. If you have editing rights for a particular source, an edit button will take you directly to the Muscat editing mode.
 
-1. Dokładna wysokość dźwięku: Incipit odpowiada dokładnej wysokości dźwięków.  
-2. Interwał: Dokładne wysokości dźwięku są ignorowane, ale wyszukiwane są interwały. Pozwala to na włączenie **transpozycji** danej melodii.  
-3. Dokładny zapis linii melodycznej: Interwały są ignorowane, a wyszukiwane są tylko ruchy melodii w górę i w dół.  
-4. Zapis linii melodycznej zachowujący tylko interwały: Jest to najbardziej niewyraźny stopień ze wszystkich. Wyszukuje się przybliżony kontur melodii ?.  
-  
-Na dole strony, pole **Incipit** pozwala użytkownikowi na wprowadzenie surowego kodu Plaine & Easie (można go na przykład skopiować i wkleić np. ze Źródła). Podgląd ulega automatycznej aktualizacji jak w Edytorze źródłowym.  
-  
-Wszystkie pozostałe pola wyszukiwania zaawansowanego można połączyć z wyszukiwaniem incipitu.  
-  
-RISM OPAC posiada uproszczone wyszukiwanie incipitu w ramach wyszukiwania zaawansowanego [Advanced search](https://muscat.rism.info/advanced). Pełną instrukcję można znaleźć w filmie video [here](https://opac.rism.info/index.php?id=8&L=0#c38) [video](https://youtu.be/HgXFyiXZq5M).   
-  
-Nie należy zapominać, że zawsze należy wyszukać incipit przed wpisaniem anonimowego źródła! Najpierw wyszukiwanie incipitu !   
-[Incipit search first](https://youtu.be/kKc0zzc8cbo)!
+An **incipit search** is available through the faceted search's Advanced search. A keyboard permits the easy insertion of notation. Four search modes are available, with various degrees of fuzziness:
 
-#### Filtry Muscat  
+1. Exact pitch: Incipit matches the exact pitches.
+2. Interval: Exact pitches are ignored, but intervals are searched. This permits the inclusion of **transpositions** of a given melody.
+3. Refined pitch contour: Intervals are ignored but only the upward and downward movements of the melody are searched.
+4. Gross pitch contour: This is the fuzziest of all. The approximate contour of the melody is searched.
 
-**Filtry** Muscat zapewniają użytkownikowi systemu prostą w obsłudze, a jednocześnie potężną funkcję wyszukiwania. 
+At the bottom of the page, the field **Incipit** permits the user to enter raw Plaine & Easie code (it can be copied and pasted from a source record, for example). The musical staff preview is automatically updated as in the Source editor.
 
-W każdym polu można wprowadzić:
+All the other fields present in the Advanced Search can be combined with the incipit search.
 
-- Pojedyncze słowa  
-- Wiele słów:   
- albo bez znaków cudzysłowia: **lass noch** (98 wyników)  
- albo ze znakami cudzysłowia:  **„lass noch** ” (6 wyników)
-- Obcinanie za pomocą ? lub  \*  
-**?** :  Znak zapytania zastępuje dokładnie jedną literę. Za pomocą **B?cher** można znaleźć Bucher i Bacher.  **\*** : Gwiazdkę można używać do obcinania lub zastępowania dowolnej liczby liter. Za pomocą **B\*cher** można znaleźć Bucher i Bacher, a także Boucher i Bötticher.
-- AND, OR, NOT, ( ): Należy korzystać z wyszukiwania Boole'a. Należy używać nawiasów do grupowania wyszukiwania. Przykłady:  
- Kompozytor zawiera: **(Bach AND Johann) NOT Sebastian**  
- Aby znaleźć nazwę Johann Michael Bach i Johann Christian Bach, lecz nie Johann Sebastian Bach  
- Siglum zawiera: **D-B AND (I-\* OR F-P\*)**   
- Aby znaleźć wszystkie  druki w bibliotece D-B, gdy kopie znajdują się także we Włoszech lub Paryżu.  
+The RISM OPAC has a simplified incipit search under the [Advanced search](https://opac.rism.info/index.php?id=3&L=0). See the [help page](https://opac.rism.info/index.php?id=8&L=0#c38) for more information.
 
- 
+Don't forget to always search for the incipit before entering an anonymous source! [Incipit search first](https://youtu.be/kKc0zzc8cbo)!
 
-We wszystkich sekcjach należy brać pod uwagę następujące elementy:
+#### Muscat filters
 
-- **Data**
+The Muscat **filters** offer simple yet powerful searching.
 
-  - **Wyszukiwanie wg daty:** Wprowadzić daty w formacie YYYYY-MM-DD. Dzień jest domyślnie ustawiony na północ.   
-  - **Pojedyncza data („od”):** Wypełniając tylko pole po lewej stronie („od”), użytkownik otrzymuje wszystkie rekordy zmodyfikowane lub utworzone od tej daty (łącznie z rekordami utworzonymi w tym dniu w ciągu dnia).  
- Przykład: Ostatnia modyfikacja  **2012-02-07** - [puste] wyszuka wszystkie rekordy od 7 lutego, 2012 do dzisiaj. 
-  - **Pojedyncza data („do”)**: W przypadku wypełnienia tylko prawego pola („do”), użytkownik wyszuka wszystkie rekordy zmodyfikowane lub powstałe **aż do** tej daty o północy.  
- Przykład: Ostatnia modyfikacja [puste] -  **2012-02-07 ** pobierze wszystkie rekordy edytowane od początku świata do 7 lutego 2012 r. o północy (co oznacza, że nie uwzględni żadnych rekordów utworzonych podczas dnia pracy 7 lutego).
-  - **Zakres dat** : Należy pamiętać, że ponieważ dzień ustawiony jest o północy, aby wyszukać wszystkie rekordy utworzone na przykład 7 lutego 2012 r., należy wpisać datę rozpoczęcia 2012-02-07 (rozumianą jako północ 7 lutego) oraz datę zakończenia 2012-02-08 (rozumianą jako północ 8 lutego). Dotyczy to wszystkich źródeł utworzonych w ciągu dnia. Wyszukiwanie od 2012-02-07 do 2012-02-07 będzie puste! 
+You can enter in each field:
 
- 
+- Single words
+- Multiple words:   
+  either without quotations mark: **lass noch**   
+  or with quotation marks: **"lass noch"**
+- Truncation with ? or \*  
+  **?** : The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
+  **\*** : The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher.
+- AND, OR, NOT, ( ): Take advantage of Boolean searching. Use parenthesis to group your search. Examples:
 
-Przy przeszukiwaniu **Źródeł** należy brać pod uwagę następujące elementy:  
+    - Composer contains: **(Bach AND Johann) NOT Sebastian**  
+      To find Johann Michael Bach and Johann Christian Bach but not Johann Sebastian Bach
+    - Siglum contains: **D-B AND (I-\* OR F-P\*)**   
+      To find all prints in the library D-B where there are also copies in Italy or Paris
 
-- **Kompozytor zawiera** : Ten zapis wyszukuje jedynie autoryzowane przez RISM formy nazwy: Anonymus zamiast Anonymous, Čajkovskij zamiast Tchaikovsky. Należy stosować plik autorytatywny nazw osobowych, aby znaleźć autoryzowane formy.   
+Please note the following for all sections:
 
-- **Siglum zawiera** : Ten zapis wyszukuje według liter w siglum. W tym polu rozróżnia się wielkość liter. Na przykład:  
-**D-\*** = wszystkie źródła w Niemczech  
-**D-B\*** =wszystkie źródła w miastach niemieckich zaczynających się na literę B  
-**D-B** = wszystkie źródła w Staatsbibliothek zu Berlin
+- **Date**
 
- 
+    - **Searching by date:** Enter dates in the format YYYY-MM-DD. The day is set to midnight by default.
+    - **Single date ("from"):** If you fill in only the left-hand field (the "from"), you will get all records modified or created **since** that date (including records created during the day on that date).   
+      Example: Last modification   
+      **2012-02-07** - [empty]  
+      will retrieve all records edited from February 7, 2012 to today.
+    - **Single date ("to")**: If you fill in only the right-hand field (the "to"), you will get all records modified or created **up to** that date at midnight.  
+      Example: Last modification  
+      [empty] -  **2012-02-07**  
+      will retrieve all records edited from the beginning of time up to February 7, 2012 at midnight (meaning no records created during the work day on February 7 will be included).
+    - **Date range** : Note that since the day is set at midnight, to search for all records created on February 7, 2012, for example, you must enter the start date 2012-02-07 (understood as midnight on February 7) and the end date 2012-02-08 (understood as midnight on February 8). This will include all sources created during the day. A search from 2012-02-07 to 2012-02-07 will be empty!
 
-#### Nazwy osobowe  
+Please note the following for searching **Sources** :
 
-Przy wyszukiwaniu **Nazw Osobowych** należy zwrócić uwagę na następujące elementy:
+- **Siglum contains** : Search by the letters in a siglum. This field is case-sensitive. For example:  
+  **D-\*** = all sources in Germany  
+  **D-B\*** =all sources in German cities that start with B  
+  **D-B** = all sources at the Staatsbibliothek zu Berlin
 
-- **Nazwa** : Przeszukuje pola **Hasło - Nazwa osobowa (100 $a)** i **Wariant nazwy (400 $a)**.
-- **Daty życia** : Przeszukuje pole **Lata urodzin i śmierci (100 $d)**, tzn. lata, jak również następujące skróty: sc  a  p  c \*  +  /
-- **Miejsca** : Przeszukuje pole **Nazwa geograficzna (551)**. Pole obejmuje miejsca urodzenia, śmierci, pochodzenia lub działalności.
+#### Personal names
+
+Please note the following for searching **Personal names** :
+
+- **Name** : Searches the fields **Heading - Personal name (100 $a)** and **Name variant (400 $a)**.
+- **Life dates** : Searches the field **Years of birth and death (100 $d)**, meaning years as well as the following abbreviations: sc a p c \* + /
+- **Places** : Searches the field **Geographic name (551)**. This includes places of birth, death, origin, or activity.
