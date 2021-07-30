@@ -1,11 +1,12 @@
-#### Opis znaku wodnego (592 $a) 
+### Watermark description (592 $a)
 
-Pole opisuje znaki wodne znajdujące się w źródle. Znaki wodne należy opisać w sposób spójny i w języku angielskim. Informacje należy ujednolicać przy pomocy katalogów lub baz danych znaków wodnych (dodając odsyłacz bibliograficzny w polu **Odniesienie Bibliograficzne (691)**, jeśli będzie miał zastosowanie). Porównać z listą **Standardowe Znaki Wodne** , aby znaleźć często spotykane znaki wodne. Należy dokładnie przepisać małe litery, cyfry/inicjały i lata. Wskazać końce linii za pomocą znaku | (pionowa kreska). Dodane opisy umieścić w nawiasach kwadratowych, aby można było je odróżnić od transkrypcji.
+This field describes the watermarks on the source. Describe watermarks uniformly and in English. Please standardize your information with the help of watermark catalogs or databases, adding a reference in the field **Bibliographic reference (691)** when appropriate. See the list **Standard Watermarks** for the names of common watermarks. Small capitals, ciphers/initials, and years must be transcribed exactly. Indicate line breaks with **|** (the vertical pipe). Put your added descriptions in square brackets to distinguish them from transcriptions.
 
-_Przykłady_:  
-C & G HONIG  
-GFA | VB [GFA nad/above VB]  
-IV [kontrznak/countermark:] VI  
-[herb/coat of arms]  
-[3 crescents/3 półksiężyce] | MA  
-[EinederH 1960 260]
+_Examples_:
+
+- C & G HONIG
+- GFA | VB [GFA above VB]
+- IV [countermark:] VI
+- [coat of arms]
+- [3 crescents] | MA
+- [EinederH 1960 260]
