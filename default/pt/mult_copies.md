@@ -1,3 +1,3 @@
-**Múltiplos exemplares em uma instituição**
+**Multiple copies in one institution**
 
-Se sua instituição possui múltiplos exemplares da mesma edição impressa, crie um registro de propriedade para cada exemplar.
+If your institutions owns multiple copies (exemplars) of the same printed edition, create a separate holdings record for each copy.
