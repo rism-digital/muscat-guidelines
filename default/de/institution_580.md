@@ -1,4 +1,7 @@
-**Heute in (580)**  
-  
-Tragen Sie hier das RISM-Bibliothekssigel der besitzenden Institution ein.   
-Beispiel: D-KA (heute mit D-DO)
+### Now in (MARC 580 $x)
+
+If the holdings of an institution have been transferred to another institution, enter the name of the current holding institution here.
+
+_Example:_
+
+- D-WÜd
