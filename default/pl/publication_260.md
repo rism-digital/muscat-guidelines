@@ -1,11 +1,11 @@
-**Stopka wydawnicza****  (260)**
+### Imprint (260)
 
-Pole to służy do wpisywania wszelkiego typu publikacji za wyjątkiem artykułów/rozdziałów.  
-  
-Wprowadzić następujące informacje - zgodnie z tym jak je podano w źródle:
+This field is used for all types of publications except for articles/chapters.
 
-#### **Miejsce wydania (260 $a)**
+Enter the following information as given on the item:
 
-#### **Wydawca (260 $b)**
+#### Place of publication (260 $a)
 
-#### **Rok (260 $c)**
+#### Publisher (260 $b)
+
+#### Year (260 $c)
