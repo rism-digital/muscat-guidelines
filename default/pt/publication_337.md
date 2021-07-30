@@ -1,15 +1,15 @@
-#### **Tipo de mídia (337 $a)**
+### Media type (337 $a)
 
-**Campo obrigatório.**
+**Required field.**
 
-Selecione o tipo de mídia a partir da lista abaixo:
+Select the type of media from the following list:
 
-- **Meio impresso**
-- **Recurso eletrônico:** tal como uma base de dados, um sítio web ou catálogo de obras online
+- **Printed medium**
+- **Electronic resource** : such as a database, website, or online catalog of works
 - **E-book**
-- **Música impressa**
-- **Manuscrito** : um documento escrito à mão
-- **Combinação de mídia**
+- **Printed music**
+- **Manuscript** : a handwritten document
+- **Media combination**
 - **CD-ROM**
-- **Microficha**
-- **Microfilme**
+- **Microfiche**
+- **Microfilm**
