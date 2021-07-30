@@ -1,5 +1,6 @@
-#### Tipo de medios (337 $a)  
-Campo obligatorio.  
+### Tipo de medios (337 $a)
+
+**Campo obligatorio.**
 
 Seleccione el tipo de medio de la siguiente lista:
 
