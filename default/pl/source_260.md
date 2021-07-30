@@ -1,95 +1,75 @@
-#### Informacja o wydaniu, druku i produkcji (260)
+### Publishing, printing, and production information (260)
 
-W tym polu wprowadza się informacje dotyczące wydania, druku, dystrybucji, edycji, publikacji lub produkcji dla wszystkich typów źródeł. We wszystkich podpolach dodatki i uzupełnienia należy ujmować w nawiasy kwadratowe. W przypadku informacji niepewnych należy po nich umieszczać znak zapytania.
+Information is entered here relating to the publication, printing, distribution, issue, release, or production for all types of sources. In all subfields here, indicate additions and completions with square brackets. Place a question mark after an uncertain piece of information.
 
-Dla nut drukowanych: Jeżeli oryginalne informacje na temat wydania zakryto etykietą lub w inny sposób przekreślono lub zmieniono, a w ich miejsce umieszczono nowe informacje, w tym polu należy wprowadzić nowe informacje. Jeśli można przeczytać oryginalne informacje na temat wydania lub jeśli oryginalne informacje na temat wydania są w inny sposób dostępne, można je również wprowadzić, powtarzając pole. Niezbędna może okazać się uwaga wyjaśniająca, którą należy umieścić w polu **Uwaga ogólna (500)**.
+For printed music: If the original publishing information is covered by a label or otherwise crossed out or altered, and new information is provided in its place, enter the new information in this field. If you can read the original publishing information or if the original publishing information is otherwise available, you may also enter it by repeating the field. An explanatory note in the field **General note (500)** may be necessary.
 
-#### Miejsce (260 $a)
+#### Place (260 $a)
 
-Dla druków należy wprowadzić takie miejsce wydania, jakie podano z źródle. Kilka miejsc wydania można wprowadzić klikając na znak plus (+) znajdujący się po lewej stronie pola tekstowego. Dla rękopisów należy wprowadzić miejsce powstania danego rękopisu, jeśli podano je w źródle.
+For printed material, enter the place of publication as given on the source. Multiple places of publication can be entered by clicking on the plus sign (+) to the left of the text field. For manuscripts, enter the place where a manuscript was produced if it is indicated on the source.
 
-Jeżeli miejsca wydania na druku nie można zidentyfikować, należy wprowadzić **[s.****l.]**. W przypadku rękopisów należy pozostawić puste miejsce.
+If the place is not identified on a print, enter **[s.l.]**. For manuscripts, leave blank.
 
- 
+#### Publisher, copyist (260 $b)
 
-#### Wydawca, kopista (260 $b)
+For printed material, enter the name of the publisher, publishing company, importer, or distributor as given on the source.
 
-W przypadku materiałów drukowanych, należy podać nazwę wydawcy, firmy wydawniczej, importera lub dystrybutora, jaką podano w źródle. 
+For manuscripts, enter the name of the copyist as it appears on the source.
 
-W przypadku rękopisów, należy podać nazwę kopisty, jaka widnieje w źródle.
+Always enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional institution (710)**. Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as institutions.
 
-W polach **Dodatkowa osoba (700)** lub **Instytucja dodatkowa (710)** zawsze należy wprowadzać nazwy ujednolicone. Wydawców nazwanych od nazwisk osób, lecz pełniących funkcję wydawcy (np. Pleyel, André, itd.) należy wprowadzać jako instytucje.
+If the name of the publisher or distributor is not identified on a print, enter **[s.n.]**. (Do not index [s.n.] as an additional institution). For manuscripts, leave blank.
 
-Jeżeli nazwy wydawcy lub dystrybutora nie można zidentyfikować na druku, należy wprowadzić **[s.n.]**. (Nie należy indeksować [s.n.] jako dodatkowej instytucji.)  W przypadku rękopisów należy pozostawić puste miejsce.
+#### Date (260 $c)
 
- 
+Enter the date of the source. Use arabic numerals (such as 1624 instead of MDCXXIV). Keep in mind that this field is for the date of the material source itself, not for the work notated in the source. If the source contains an obvious error (such as a typographical error), enter the correct date in this field.
 
-#### Data (260 $c)
+For manuscripts: Always try to give a date, even if it is approximate. If you have a month, day, and year, write it in this form: YYYY-MM-DD.
 
-W tym miejscu należy wprowadzić datę źródła. Należy używać cyfr arabskich (np. 1624 zamiast MDCXXIV).
+You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before** , and **after**. Try to indicate the date as exactly as possible. If you are uncertain, use a date range that corresponds to a non-specific period, such as the eighteenth century or the end of the seventeenth century. See the table below.
 
-Dla rękopisów: Zawsze należy starać się podać datę, nawet jeśli jest przybliżona. Jeżeli znany jest miesiąc, dzień i rok, datę należy podać w formacie: RRRR-MM-DD.
+For prints: If you have a print but it is undated, either enter an approximate date in brackets or enter **[s.d.]**. Please make an effort to supply a reasonable date range for an undated print, such as by using the life dates of the composer or arranger as a _terminus post quem_, or the active years of a publisher.
 
-Można podać przybliżone daty w stosowanym przez Państwa bibliotekę języku katalogowania poprzez użycie następujących określeń:  **ca.** jako skrót circa, **przed** i **po**.  Należy starać się podać możliwie jak najdokładniejszą datę. Jeżeli nie ma pewności co do daty, należy użyć zakresu dat odpowiadającego ogólnie ujętemu okresowi, np. wiek XVIII lub koniec wieku XVII. Patrz tabela poniżej.
+Note that for manuscripts, dates are given without brackets because manuscripts are rarely dated. Printed materials, by contrast, typically include a date so any editorial guess should be in brackets.
 
-Dla druków: W przypadku druku niedatowanego, należy wprowadzić albo przybliżoną datę w nawiasach kwadratowych albo **[s.d.]**.
+Other dates may be indicated as on the source. Use question marks to indicate uncertain information.
 
-Należy zwrócić uwagę na fakt, że w przypadku rękopisów daty podaje się bez nawiasów, ponieważ rękopisy są rzadko datowane. Z kolei, materiały drukowane na ogół zawierają datę, więc wszelkie domysły redakcyjne należy ująć w nawiasy.
+_Examples:_
+ - 1875
+ - 1856 Christmas Day
+ - 1757-01-11
+ - 1782-03-27-1784-05-07
+ - ca. 1760
+ - before 1802
+ - after 1653
+ - Easter 1744
+ - Ostern 1626
+ - ?1745?
+ - [1771]
 
-Inne daty można wprowadzać takie, jakie podano w źródle. Informacje niepewne należy oznaczyć znakami zapytania.
+For non-specific periods, enter appropriate years based on the following chart:
 
-_Przykłady:_  
-1875  
-Boże Narodzenie 1856   
-1757-01-11  
-1782-03-27-1784-05-07  
-ca. 1760  
-przed 1802  
-po 1653  
-Wielkanoc 1744  
-Ostern 1626  
-?1745?  
-[1771]
 
-Dla okresów ogólnych odpowiednie lata należy wprowadzić na podstawie następującego wykresu:
+| **For the period**            | **Enter this range of dates** |
+| ----------------------------- | ----------------------------- |
+| beginning of the 18th century | 1700-1710                     |
+| middle of the 18th century    | 1740-1760                     |
+| end of the 18th century       | 1790-1799                     |
+| 18th century, 1st third       | 1700-1732                     |
+| 18th century, 2nd third       | 1733-1765                     |
+| 18th century, 3rd third       | 1766-1799                     |
+| 18th century, 1st quarter     | 1700-1724                     |
+| 18th century, 2nd quarter     | 1725-1749                     |
+| 18th century, 3rd quarter     | 1750-1774                     |
+| 18th century, 4th quarter     | 1775-1799                     |
+| 18th century, 1st half        | 1700-1749                     |
+| 18th century, 2nd half        | 1750-1799                     |
+| 18th century                  | 1700-1799                     |
 
-| **Dla okresu**  
- | **Należy wprowadzić poniższy zakres dat:** |
-| początek XVIII wieku  
- | 1700-1710 |
-| połowa XVIII wieku  
- | 1740-1760 |
-| koniec XVIII wieku  
- | 1790-1799 |
-| XVIII wiek, 1. tercja  
- | 1700-1732 |
-| XVIII wiek, 2. tercja  
- | 1733-1765 |
-| XVIII wiek, 3. tercja  
- | 1766-1799 |
-| XVIII wiek, 1. kwartał  
- | 1700-1724 |
-| XVIII wiek, 2. kwartał  
- | 1725-1749 |
-| XVIII wiek, 3. kwartał  
- | 1750-1774 |
-| XVIII wiek, 4. kwartał  
- | 1775-1799 |
-| XVIII wiek, 1.połowa  
- | 1700-1749 |
-| XVIII wiek, 2. połowa  
- | 1750-1799 |
-| XVIII wiek  
- | 1700-1799 |
+#### Location of printer (260 $e)
 
- 
+Enter the location of the institution associated with printing, duplicating, etc. as given on the source.
 
-#### Miejsce druku (260 $e)
+#### Name of printer (260 $f)
 
-Należy wprowadzić miejsce instytucji związanej z drukiem, zwielokrotnianiem itd. jakie podano w źródle.
-
- 
-
-#### Nazwa drukarni (260 $f)
-
-Należy wprowadzić nazwę drukarza lub drukarni podaną w źródle. Ujednolicone formy nazw należy wprowadzić w polach**Dodatkowa osoba (700)** lub **Instytucja dodatkowa (710)**.
+Enter the name of the printer or press as given on the source. Enter the standardized forms of the names in the fields** Additional personal name (700)** or **Additional institution (710)**.
