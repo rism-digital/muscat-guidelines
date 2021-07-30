@@ -1,8 +1,8 @@
-#### Código de autenticação (042 $a)
+### Authentication code (042 $a)
 
-Este campo identifica se o registro foi diferenciado pela Redação Central do RISM. Registros diferenciados referem-se a uma pessoa concreta e registros indiferenciados não podem (ainda) ser conectados a um indivíduo.   
-  
-Os códigos disponíveis são:  
+This field identifies whether the entry has been differentiated by the RISM Editorial Center. Differentiated entries refer to a concrete person and undifferentiated entries cannot (yet) be connected to an individual.
 
-- diferenciado
-- indiferenciado
+Available codes are:
+
+- differentiated
+- undifferentiated
