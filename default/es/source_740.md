@@ -1,3 +1,3 @@
-### Texto (740)
+### Text (740)
 
-**Uso exclusivo para datos importados. No utilizar.**
+**Used only for imported data. Do not use.**
