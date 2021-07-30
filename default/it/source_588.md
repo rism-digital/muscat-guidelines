@@ -1,18 +1,20 @@
-### Copia esaminata per la catalogazione (588)
-Questo campo specifica la copia fisica consultata per catalogare un'edizione musicale a stampa, tanto per schede nuove che per schede rivedute.
-#### **Copia esaminata per la catalogazione (588 $a)**
+### Source of description note (588)
 
-Inserisci la sigla della biblioteca e la collocazione dell’edizione a stampa consultata. Puoi anche indicare se hai utilizzato una specifica copia soltanto per una parte della scheda, ad esempio per gli incipit o per le schede individuali.
+This field specifies which physical item was consulted for cataloging a printed edition (for both new and enhanced records).
 
-_Esempi:_
+#### Copy examined for cataloging (588 $a)
+
+Enter the library siglum and shelfmark of the printed edition consulted. You can also indicate if you used a copy for only a portion of the record, such as incipits or individual entries.
+
+_Examples:_
 
 - CZ-Nlob X A a 12
 - (incipits:) US-BETm LCM 242
 
-Se utilizzi un riferimento bibliografico come base per la schedatura, riempi questo campo come al solito ma specifica la fonte secondaria in una **Nota generale****  (500)** e aggiungi un collegamento tra i cataloghi delle opere o i riferimenti bibliografici.
+If you use a secondary source as a basis for the record, fill out this field as usual but specify the secondary source in a **General note (500)** and link to it as a catalog of works or bibliographic reference.
 
-_Esempio:_
+_Example:_
 
-- **Copia esaminata per la catalogazione (588)**: GB-Lbl h.11.a.(1.)
-- **Nota generale (500)**: Record based on YouV using the description of the copy in GB-Lbl, shelfmark h.11.a.(1.).
-- **Catalogo delle opere (690)**: YouV 2
+- **Copy examined**  **for cataloging** **(588)**: GB-Lbl h.11.a.(1.)
+- **General note (500)**: Record based on YouV using the description of the copy in GB-Lbl, shelfmark h.11.a.(1.).
+- **Catalog of works (690)**: YouV 2
