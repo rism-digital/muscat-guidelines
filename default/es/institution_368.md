@@ -6,8 +6,6 @@ En este campo se registran otros atributos de la persona, entidad corporativa o 
 
 Este campo identifica el tipo de institución con fondos de archivo.
 
-  
-
 Seleccione uno de los siguientes tipos:
 
 - Archivo
@@ -15,7 +13,7 @@ Seleccione uno de los siguientes tipos:
 - Centro de documentación
 - Copista
 - Editorial
-- Intérprete  
+- Intérprete
 - Fabricante de papel
 - Instituto de investigación
 - Imprenta
@@ -28,20 +26,15 @@ Seleccione uno de los siguientes tipos:
 
 Introduzca el tipo de jurisdicción asociada a la institución.
 
-_Ejemplos:_
+_Examples_:
 
-Condado
-
-Pueblo
-
-  
+- County
+- Village
 
 #### Otra designación (368 $c)
 
-Utilice este campo para registrar una designación que no se encuentre en los campos anteriores de esta sección.
-
-  
+Condado
 
 #### Fuente (368 $2)
 
-Introduzca la fuente de los términos utilizados.
+Pueblo
