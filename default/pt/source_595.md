@@ -1,31 +1,28 @@
-### Papéis dramáticos identificados (595)
+### Named dramatic role (590)
 
-**Certifique-se de preencher este campo quando inserir um nome no campo Papel (031 $e), na seção incipit.**
+**Make sure to fill out this field if you have entered a name in the incipit field Role (031 $e).**
 
-Não coloque artigos após o nome principal. Sempre que possível, os papéis devem ser listados do mais agudo para o mais grave. Use uma interrogação para indicar informação questionável. Não use vírgulas_._
+Do not place articles after the main name. Where possible, the role should be listed from highest to lowest. Use a question mark to indicate questionable information. Do not use commas.
 
-#### Papéis dramáticos identificados, normalizados (595 $a)  
+#### Dramatic role named, standardized (595 $a)
 
-Os nomes de todos os papéis em uma composição podem ser listados neste campo,  independentemente se estão nomeados na fonte ou se derivam de literatura secundária. Use a grafia normalizada. Indique acréscimos entre colchetes. Pode-se inserir a parte vocal correspondente entre parênteses em seguida ao nome do papel.   
+The names of all the roles in a composition can be listed in this field, regardless of whether they are named on the source or derived from secondary literature. Use standardized spelling. Indicate additions by using square brackets. You may enter the voice part following the name of the role in parentheses.
 
-  
+_Examples_:
 
-_Exemplos_:  
-Donna Flavia (S)  
-Theodor (T)  
-Zerbinetta (Mezzo-S)  
-Ein Polizeikommisar (Bariton)  
-Der Schornsteinfeger (Bariton)  
-Doktor Zwingli (B)  
-?Achiar?  
-Drei Knaben  
-  
+- Donna Flavia (S)
+- Theodor (T)
+- Zerbinetta (Mezzo-S)
+- Ein Polizeikommisar (Bariton)
+- Der Schornsteinfeger (Bariton)
+- Doktor Zwingli (B)
+- ?Achiar?
+- Drei Knaben
 
-**Papéis dramáticos identificados, grafia original (595 $u)**
+#### Dramatic role named, original spelling (595 $u)
 
-  
+Enter the dramatic role that appears on the source if it differs in spelling from the standardized form given above.
 
-Insira os papéis dramáticos que aparecem na fonte se eles se diferenciam, na grafia, da forma normalizada fornecida acima.   
-  
-_Exemplo_ :  
-Pappageno
+_Example_:
+
+- Pappageno
