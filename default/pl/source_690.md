@@ -1,9 +1,11 @@
-#### Katalog utworów (690 $a) 
+### Catalog of works (690)
 
-Wpisać tytuł skrócony katalogu tematycznego lub katalogu utworów (np. **BWV** ). Pole to połączono linkiem z bazą danych **Literatury Pomocniczej**. Tam można wprowadzać katalogi nie znajdujące się w bazie danych.
+#### Catalog of works (690 $a)
 
-#### Numer/strona (690 $n) 
+Enter the short title for the thematic catalog or catalog of works (for example, **BWV** ). This field is linked to the **Secondary literature** database. Catalogs not in the database can be entered there.
 
-**Pole wymagane, jeżeli wypełniono pole ** „ **Katalog utworów** ” **.**
+#### Number/page (690 $n)
 
-Wprowadzić numer katalogu z katalogu utworów lub katalogu tematycznego lub numer strony utworu w tym katalogu. Biuro Centralne RISM zdecyduje o odpowiednim stylu cytacji, zgodnie ze stylem katalogu. Styl cytacji objaśniono w odpowiednim wpisie w bazie danych **Literatury pomocniczej**. Jeśli źródło zawiera tylko jedną część utworu, należy podać numer części po ukośniku. Napisać **deest** , jeśli danej kompozycji nie wymieniono w katalogu utworów kompozytora.
+**Required field if "Catalog of works" is filled out.**
+
+Enter the catalog number from a works or thematic catalog, or the page number of the piece in that catalog. The RISM Editorial Center determines the appropriate citation style, in keeping with the style of the catalog. The citation style is explained in the corresponding entry in the **Secondary literature** database. If the source contains only one movement of a work, indicate the number of the movement after a slash. Write **deest** if a particular composition is not listed in the composer’s catalog of works.
