@@ -4,6 +4,8 @@ Los íncipits ayudan a identificar las obras y facilitan la comparación de las 
 
 En caso de que la notación del fragmento que necesita transcribir no pueda representarse con código _Plaine & Easie_, transcriba la música de la manera más fiel posible e incluya una nota aclaratoria al respecto. Puede adjuntar una imagen del íncipit en la fuente para mayor claridad.
 
+For assistance with transcribing mensural notation, please see "Basic Mensural Notation Reference" by Ted Dumitrescu ([http://cmme.org/misc/refsheet.pdf](http://cmme.org/misc/refsheet.pdf))).
+
 #### Número de obra, número de movimiento, número de íncipit (031 $a, b, c)
 
 **Campos requeridos en caso de que se utilice cualquier otro campo de esta sección.**
@@ -12,11 +14,12 @@ El número de íncipit se compone de tres dígitos que representan obra, movimie
 
 Numere los íncipits correlativamente incluso si faltan movimientos en la fuente. Por ejemplo, si la fuente corresponde a una sinfonía de tres movimientos pero falta el movimiento intermedio, numere los íncipits como 1.1.1 y 1.2.1 (no 1.3.1). (Nota: los puntos entre los dígitos son añadidos automáticamente por Muscat).
 
-_Ejemplos_:  
-1.1.1 = 1ra obra, 1er movimiento, 1er íncipit  
-1.1.2 = 1ra obra, 1er movimiento, 2do íncipit (suena en simultáneo con 1.1.1)  
-1.1.2 = 1ra obra, 1er movimiento, la entrada de la parte vocal  
-1.2.1 = 1ra obra, 2do movimiento, 1er íncipit
+_Ejemplo:_
+
+- Texto de una parte vocal faltante
+- Íncipits literarios en el idioma original de la obra, cuando la fuente presenta una versión traducida
+- Textos de una composición vocal usada como tema de una variación o base de un arreglo instrumental
+- 1.2.1 = 1st work, 2nd movement, 1st incipit
 
 #### Título del movimiento, tempo (031 $d)
 
@@ -24,12 +27,14 @@ Registre el título del movimiento y el tempo –o indicaciones similares–, si
 
 #### Voz/instrumento (031 $m)
 
-Registre la parte vocal o instrumental correspondiente al íncipit siguiendo la lista de **abreviaturas de instrumentos de RISM**. Use **V** para una parte vocal desconocida e **i** para una parte instrumental desconocida. En el caso de los instrumentos transpositores, transcriba el fragmento en altura real. Indique la afinación del instrumento en el campo **Nota general**.
+Registre la parte vocal o instrumental correspondiente al íncipit siguiendo la lista de **abreviaturas de instrumentos de RISM**. Use **V** para una parte vocal desconocida e **i** para una parte instrumental desconocida. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Indique la afinación del instrumento en el campo **Nota general**.
 
-_Ejemplos:_  
-pf  
-T coro  
-org with text
+_Ejemplo:_  
+4’’C^G^E^C
+
+- pf
+- T coro
+- org with text
 
 #### Personaje (031 $e)
 
@@ -49,9 +54,9 @@ En lenguas romances, los apóstrofos van seguidos inmediatamente por el texto, s
 
 En este campo también pueden registrarse textos relacionados que no aparezcan en la fuente, pero igualmente puedan vincularse a ella por verificación o derivación. En este caso, ponga todo el texto entre corchetes. Esta situación puede darse con:
 
-- Texto de una parte vocal faltante
-- Íncipits literarios en el idioma original de la obra, cuando la fuente presenta una versión traducida
-- Textos de una composición vocal usada como tema de una variación o base de un arreglo instrumental
+- Texts if a vocal part is missing
+- Text incipits in the original language of the work when the source contains a translated version
+- Texts of vocal compositions which became the theme of a variation or the basis of an instrumental arrangement
 
 **Escritura no latina** : si su fuente presenta un íncipit literario escrito con letras o caracteres no latinos (alfabeto cirílico/griego/hebreo/coreano, caracteres chinos, etc.) ingrese el **Íncipit literario** en su idioma original. Las traducciones o transliteraciones son opcionales y pueden añadirse en campos de íncipit literario adicionales. Si desea añadir traducciones que no están en la fuente, hágalo entre corchetes. Se puede traducir a cualquiera de los idiomas RISM.
 
@@ -67,10 +72,11 @@ Seleccione la tonalidad o modo entre las opciones de la lista desplegable.
 
 Ingrese **x** para armaduras con sostenidos o **b** para armaduras con bemoles, seguido de las letras mayúsculas correspondientes a las alturas alteradas por la armadura. Si la pieza está claramente en una cierta tonalidad pero falta un sostenido o un bemol en la armadura, puede agregarlo entre corchetes. Si no hay armadura de clave, deje el campo en blanco.
 
-_Ejemplos_:  
-xF = F (Fa) es sostenido = Sol mayor o Mi menor  
-bBE = B (Si) y E (Mi) son bemoles = Si bemol mayor o Sol menor  
-xFC[G] = F (Fa) y C (Do) son sostenidos en la fuente pero la pieza está claramente en La mayor, por lo cual se agrega el último sostenido entre corchetes.
+_Ejemplos de un compás de silencio:_
+
+- xF = F is sharp = G major or E minor
+- bBE = B and E are flat = B-flat major or G minor
+- xFC[G] = F and C are sharp in the source but the piece is clearly in A major, so the last sharp is added in brackets
 
 #### Indicación de compás (031 $o)
 
@@ -88,10 +94,12 @@ Registre la indicación de compás como una fracción. También se permiten las 
 
 Si la métrica cambia constantemente, puede escribir la primera indicación de compás seguida de la segunda, separadas por un espacio. Si el íncipit no lleva indicaicón de compás, deje el campo en blanco.
 
-_Ejemplos_:  
-4/4  
-6/8  
-3/4 4/4
+_Ejemplo de un silencio de corchea:_  
+8-
+
+- 4/4
+- 6/8
+- 3/4 4/4
 
 En caso de que el compás indicado sea obviamente erróneo, por favor corríjalo para que se corresponda con el íncipit dado. Incluya una nota aclaratoria al respecto en el campo **Nota general**.
 
@@ -101,7 +109,7 @@ Seleccione una clave de la lista. La letra indica el tipo de clave. El guión (-
 
 #### Validez (031 $s)
 
-¡No ingrese nada en este campo! (Solo se usa para datos antiguos).
+¡No ingrese nada en este campo! (Solo se usa para datos antiguos). (It is only used for old data.)
 
 #### Íncipit musical (031 $p)
 
@@ -125,12 +133,14 @@ Registre el íncipit musical de forma codificada, haciendo uso del código _Plai
 6 = semicorchea / semifusa  
 3 = fusa  
 5 = semifusa  
-7 = garrapatea  
+7 = garrapatea
+
 7. = notación neumática
 
-Se usan puntos para las notas apuntilladas. Se pueden agregar varios puntos a una nota.  
+Se usan puntos para las notas apuntilladas. Se pueden agregar varios puntos a una nota.
+
 4. = negra con puntillo  
-8.. = corchea con doble puntillo
+   8.. = corchea con doble puntillo
 
 **3. Alteraciones**  
 x = sostenido  
@@ -147,16 +157,22 @@ g = _acciaccatura_ (sin valor rítmico, precede al nombre de la nota)
 q = _appoggiatura_ (con valor rítmico, precede al nombre de la nota)  
 qq…r = varias _appoggiaturas_ u ornamentos agrupados (con valor rítmico)
 
-**6. Silencios**  
-El “-“ (signo menos) se utiliza para silencios individuales (una sola figura). Utilice “=” (signo igual) para indicar un silencio de compás. En caso de múltiples compases de silencio, indique el número de compases tras el signo =. Debe añadir una barra de compás para visualizarlo.
+**6. Rests**
 
-_Ejemplo de un silencio de corchea:_  
-8-  
-_Ejemplos de un compás de silencio:_  
-=  
-=1  
-_Ejemplo de múltiples compases de silencio:_  
-=35
+The '-' (minus sign) is for a single-note rest. Utilice “=” (signo igual) para indicar un silencio de compás. For multiple measures of rest, follow the = with the number of measures. Debe añadir una barra de compás para visualizarlo.
+
+_Example for an eighth-note rest:_
+
+- 8-
+
+_Examples for one measure of rest:_
+
+- =
+- =1
+
+_Examples for multiple measures of rest:_
+
+- =35
 
 **7. Barras de compás**  
 / = barra de compás  
@@ -166,83 +182,103 @@ _Ejemplo de múltiples compases de silencio:_
 ://: = doble barra de compás con doble repetición
 
 **8. Otros símbolos**  
-t = trino (se coloca inmediatamente después de la nota)  
-+ = ligadura de prolongación (se coloca inmediatamente después de la nota; no confundir con ligadura de expresión)  
-() = calderón/fermata/pausa (solo puede usarse con una sola nota o silencio; las alteraciones, etc. deben quedar afuera del paréntesis; consulte también el punto **10. Ritmos especiales** , más abajo).
+t = trino (se coloca inmediatamente después de la nota)
 
-No escriba ligaduras de expresión.
++ = ligadura de prolongación (se coloca inmediatamente después de la nota; no confundir con ligadura de expresión)  
+  () = calderón/fermata/pausa (solo puede usarse con una sola nota o silencio; las alteraciones, etc. deben quedar afuera del paréntesis; consulte también el punto **10. Ritmos especiales** , más abajo).
+
+{qq6’CDEDr}
 
 **9. Barrado en corcheas y figuras menores (i.e. unión de las plicas)**  
 { = comienzo del barrado  
 } = fin del barrado
 
-_Ejemplo:_  
-{qq6’CDEDr}
+Example:
+_Ejemplos_  
+8(3ABCDE;5) = quintillo (5) de fusas (3), en el tiempo de una corchea (8)  
+8({3ABCDE};5) = quintillo de fusas, en el tiempo de una corchea con las plicas unidas.
 
 **10. Figuras irregulares**  
 ( = inicio del grupo de figuras irregulares  
 ) = fin del grupo irregular
 
-La duración total del grupo debe escribirse antes de **(**. El valor rítmico de la primera nota debe escribirse después de **(**, aunque sea idéntico al de la nota inmediatamente antes de la sección con figuras irregulares. El número de notas del grupo debe indicarse antes de **)**, separado de la última nota por **;**.
+La duración total del grupo debe escribirse antes de **(**. El valor rítmico de la primera nota debe escribirse después de **(**, aunque sea idéntico al de la nota inmediatamente antes de la sección con figuras irregulares. El número de notas del grupo debe indicarse antes de **)**, separado de la última nota por **;**. It is separated from the last note by **;**.
 
-_Ejemplos_  
-8(3ABCDE;5) = quintillo (5) de fusas (3), en el tiempo de una corchea (8)  
-8({3ABCDE};5) = quintillo de fusas, en el tiempo de una corchea con las plicas unidas.
+_Examples:_
+
+- 8(3ABCDE;5)   = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note.
+- 8({3ABCDE};5) = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note, beamed
 
 El tresillo constituye un caso especial. En sentido estricto, debería codificarse como:  
 8(6ABC;3) o 8({6ABC};3)
 
-Sin embargo, puede usarse el siguiente atajo:  
-(6ABC) = tresillo de semicorcheas (6)  
-({6ABC}) = tresillo de semicorcheas con barrado
-
 Por favor, ¡no olvide el valor rítmico dentro de los paréntesis!
 
 **11. Métodos abreviados**  
-**Nota** : Actualmente, la búsqueda de OPAC ignora los elementos repetidos descritos en 11.1 y 11.2. Esto significa que si utiliza estos métodos abreviados, sus íncipits no podrán ser buscados por completo en el OPAC. Hasta que esto se solucione, por favor escriba el íncipit en su totalidad. (El método 11.3 puede ser utilizado).
+**Nota** : Actualmente, la búsqueda de OPAC ignora los elementos repetidos descritos en 11.1 y 11.2. Esto significa que si utiliza estos métodos abreviados, sus íncipits no podrán ser buscados por completo en el OPAC. Hasta que esto se solucione, por favor escriba el íncipit en su totalidad.  (El método 11.3 puede ser utilizado).
 
-**11.1. Figuras repetidas**  
+11.1. Repeated figures  
+! Figuras repetidas</strong>  
 ! = inicio y fin de un pasaje  
 f = repetir la indicación  
 El pasaje será repetido cada vez que aparezca  **f**  después del segundo **!**. Esto sólo es posible dentro de un mismo compás.
 
-_Ejemplo:_  
-!{‘8ABAG}!ff = el pasaje se repetirá dos veces
+_Example:_
+
+- !{'8ABAG}!ff = this figure will be repeated twice
+
+11.2. Repeated bars/measures  
+i = repeat last bar/measure  
+'i' always goes between two bar lines.
+
+_Example:_
+
+- _Ejemplo:_  
+  ‘4ABAG /i/i = el compás será repetido dos veces
+
+**11.3. Rhythmic patterns**
+
+_Ejemplos_:
+
+_Example:_
+
+- _Ejemplo:_  
+  **8.A6B8C 8.D6E8F** puede reemplazarse por **8.68ABCDEF**  
+  La secuencia rítmica se termina apenas se presenta un valor rítmico distinto.
+- The rhythmic sequence ends as soon a different rhythmic value occurs.
+
+**12. Change of clef, key or time signature:**
+
+Cambio de clave, armadura o compás</strong>  
+Use **%** para cambiar la clave, **$** para cambiar la armadura y **@** para cambiar la indicación de compás. Tras el carácter respectivo, escriba la nueva indicación (clave, armadura o compás) seguida de un espacio.
+
+_Examples:_
+
+- %C-1 '2A  
+  %C-1 $xFC '8B  
+  @3/2 '1C  
+  $nBE $xFC
+- %C-1 $xFC '8B
+- @3/2 '1C
+- $nBE $xFC
+
+**13. Abbreviations**
+
+Abbreviated forms of notation found within the music, such as tremolos or simile signs for repeats, must be written out in full using the actual notation.
+
+_Examples:_
+
+- {'8DDDD} = minim/ half tremolo on D
+
+**14. Chords**
 
 **11.2 Compases repetidos**  
 i = repetir el último compás.  
 La “i” siempre va entre dos barras de compás
 
-_Ejemplo:_  
-‘4ABAG /i/i = el compás será repetido dos veces
+_Example:_
 
-**11.3 Patrones rítmicos**  
-Cuando cierta secuencia rítmica se repite varias veces, el patrón rítmico puede consignarse antes de los respectivos nombres de nota.
-
-_Ejemplo:_  
-**8.A6B8C 8.D6E8F** puede reemplazarse por **8.68ABCDEF**  
-La secuencia rítmica se termina apenas se presenta un valor rítmico distinto.
-
-**12. Cambio de clave, armadura o compás**  
-Use **%** para cambiar la clave, **$** para cambiar la armadura y **@** para cambiar la indicación de compás. Tras el carácter respectivo, escriba la nueva indicación (clave, armadura o compás) seguida de un espacio.
-
-_Ejemplos_:
-
-%C-1 '2A  
-%C-1 $xFC '8B  
-@3/2 '1C  
-$nBE $xFC
-
-**13. Formas de escritura abreviada**  
-Las formas abreviadas de notación que se encuentran en la música, como trémolos o signos similares de repetición, deben escribirse en su totalidad utilizando el equivalente en notación real.  
-_Ejemplo:_  
-{‘8DDDD} = trémolo de corchea sobre Re
-
-**14. Acordes**  
-Registre acordes desde la nota más aguda a la más grave, separando los componentes con el signo **^**.
-
-_Ejemplo:_  
-4’’C^G^E^C
+- 4’’C^’G^E^C
 
 #### Nota general (031 $q)
 
@@ -252,6 +288,7 @@ Utilice este campo para registrar cualquier otro comentario, como la afinación 
 
 En este campo puede indicar la plantilla/orgánico específica para el movimiento en cuestión (por ejemplo, el caso de un movimiento dentro de una pieza vocal compleja). Consigne la plantilla/orgánico en una línea siguiendo las abreviaturas de instrumentos de RISM y el orden estándar (descriptas en **Resumen de plantilla/orgánico [240 $m]**). Use punto y coma para separar familias de instrumentos.
 
-_Ejemplos_:  
-S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  
-S 2 solo; Coro; ob obl; strings, bc
+_Examples:_
+
+- S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]
+- S 2 solo; Coro; ob obl; strings, bc
