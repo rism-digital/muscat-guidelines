@@ -1,59 +1,57 @@
-### Nombre personal adicional (700)
+### Additional personal name (700)
 
-Este campo aparece dos veces en los registros de fuentes: en la sección **Personas e instituciones** para indicar todas las personas adicionales involucradas con la fuente, y en la sección **Descripción material** por si desea asociar nombres adicionales con grupos particulares de material, especialmente cuando se crean múltiples grupos de material.
+This field appears twice for sources. It appears in the section **People and institutions** to list all additional people involved with the source. It is also in the section **Material description** if you wish to associate additional names with particular material groups, especially when creating multiple material groups.
 
-#### Nombre (700 $a)
+#### Name (700 $a)
 
-Ingrese todos los nombres personales que aparecen en la fuente. Este campo está vinculado al archivo de autoridad de **Nombres personales**. Pueden añadirse nombres que aún no estén registrados en el archivo de autoridad.
+Enter all personal names that appear on the source. This field is linked to the **Personal names** authority file. Names not yet in the authority file may be added.
 
-Los editores que aparecen nombrados en referencia a ciertas personas pero que cumplen la función de editorial (Pleyel, André, etc.) se ingresan como **Institución adicional (710).**
+Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as an ** Additional institution (710)**.
 
-En el caso de registros madre de colecciones o volúmenes compuestos, ingrese un nombre sólo si ese nombre aplica a todas las obras de la colección. Ingrese los nombres asociados a las obras individuales en los registros individuales.
+In the case of parent records for collections or composite volumes, enter a name only if the name applies to all the works in the collection. Enter names associated with individual works in the individual records.
 
-#### Atribución (700 $j)
+#### Attribution (700 $j)
 
-Seleccione un calificador para describir el nivel de certeza de la atribución, en caso de que se dé alguna de las situaciones siguientes. Si no es el caso, deje el campo en blanco.
+Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
-- **Supuesta** significa que el nombre está presente en la fuente, pero la atribución es cuestionable o dudosa.
-- **Certificada** significa que el nombre está parcial o totalmente ausente en la fuente, pero la atribución es (razonablemente) cierta y se basa en la comparación con fuentes concordantes, bibliografía secundaria u otros recursos de investigación. Esto sucede en la mayoría de los casos.
-- **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
-- **Dudosa** significa que se cuestiona la autoría.
-- **Mal atribuida** significa que hay un nombre en la fuente pero es incorrecto.
+- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
+- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
+- **Doubtful** means the authorship is in question.
+- **Misattributed** means the name is on the source but is incorrect.
 
-#### Función (700 $a)
+#### Function (700 $4)
 
-**Campo requerido si se utiliza el subcampo “Nombre”.**
+**Required field if "Name" is filled out.**
 
-Asigne a cada persona una función exacta. Cada persona puede ser registrada varias veces con funciones distintas. Una lista reducida de la funciones se ofrece en la información relativa a registros de ejemplares. Los códigos de tres letras se refieren al código relator MARC.
+Assign each person an exact function. A person can be entered multiple times with different functions. A reduced list of functions is offered in the holdings information for printed items. The three-letter codes refer to the MARC relator code.
 
-  
+Keep in mind that when some people are named on sources, an institution is actually meant, such as with printers, publishers, or papermakers. In such cases, enter them as institutions.
 
-Recuerde que, en algunos de los casos en que una persona es nombrada en la fuente, en realidad corresponde indicar una institución; esto sucede con impresores, editores o fabricantes de papel. En dichos casos, regístrelos como Instituciones.  
-
-- **Arreglador [arr]**
-- **_Assignee_ [asg]:** la persona a la cual se le ha transferido una licencia de impresión o de publicación.
-- **Autor [aut]**: la persona responsable de crear una obra cuyo contenido es fundamentalmente textual-verbal, como un libro.
-- **Autor del concepto [ccp]**: la persona responsable por la idea original sobre la que se basa una obra, como el autor de un libro u obra sobre la que se basó una ópera.
-- **Autor del texto** **[lyr]**: autor(a) de la letra de una obra musical no-dramática (como el texto de una canción); se exceptúa el caso de los oratorios.
+- **Arranger [arr]**
+- **Assignee [asg]:** The person to whom a license for printing or publishing has been transferred.
+- **Associated name [asn]**: A person who has some connection with the source, but the exact function is unclear.
+- **Author [aut]**: The person responsible for creating a work that is primarily textual in content, such as a book.
 - **Censor [cns]**
-- **Co-compositor [ctb]**: utilice este calificador para compositores que también contribuyeron musicalmente a la pieza.
-- **Copista [scr]**: utilice este calificador para copistas o escribas.
-- **Dedicatario [dte]**
-- **Distribuidor [dst]**
-- **Editor [edt]**: _(editor) [_quien elabora la versión del texto que se llevará a imprenta, en ocasiones en colaboración al autor. Generalmente es empleado del editor empresario].
-- **Editor empresario [pbl]**: _(publisher) [_quien realiza la gestión de la publicación y la ofrece al mercado]. Solo ingrese el editor como persona si se refiere específicamente a la persona humana, como en el caso de un manuscrito de Beethoven que menciona a Carl Friedrich Peters por su nombre. (Si Peters funciona como la compañía que edita la música impresa, en cambio, se ingresa como institución)..  
-- **Fabricante de papel [ppm]**
-- **Fundidor [typ]: **la persona que ha diseñado la tipografía.
-- **Grabador [egr]**
-- **Ilustrador [ill]**: la persona que contribuye a una fuente suplementando el contenido primario con dibujos, diagramas, fotografías, etc.
-- **Impresor** **[prt]**
-- **Intérprete [prf]**: cualquier intérprete, sea este/a instrumentista, vocalista, músico/a, director(a), bailarín(a), o incluso si su habilidad principal es desconocida o no está especificada.
-- **Libretista [lbt]**: autor del libreto de una ópera, oratorio, u otra obra escénica.
-- **_Licensee_ [lse]:** la persona que originalmente tiene el derecho a imprimir o publicar.
-- **Litógrafo [ltg]**
-- **Nombre asociado [asn]: **persona que tiene cierta conexión con la fuente, pero cuya función exacta no es clara.
-- **Otro [oth]**: todas las demás funciones.
-- **Propietario anterior [fmo]**
-- **Referencia cruzada de compositor [cmp]**: utilice este calificador para nombrar un compositor que está o estuvo asociado a la pieza de alguna manera.
-- **Titular de los derechos de copia [cph] **_(copyright holder)_
-- **Traductor [trl]**
+- **Co-composer [ctb]**: Use for composers who also contributed musically to the piece.
+- **Composer cross-reference [cmp]**: Use to name a composer who is or was associated with the piece in some way. Examples include a composer to whom the piece is or was incorrectly attributed, or a composer whose melody is used in a set of variations.
+- **Conceptor [ccp]**: The person responsible for the original idea on which a work is based, such as the author of a book or play that an opera was based on.
+- **Copyist [scr]**: Use for copyist or scribe.
+- **Copyright holder [cph]**
+- **Dedicatee [dte]**
+- **Distributor [dst]**
+- **Editor [edt]**
+- **Engraver [egr]**
+- **Former owner [fmo]**
+- **Illustrator [ill]**: The person contributing to a resource by supplementing the primary content with drawings, diagrams, photographs, etc.
+- **Librettist [lbt]**: Author of the libretto to an opera, oratorio, or other stage work.
+- **Licensee [lse]**: A person who is an original recipient of the right to print or publish.
+- **Lithographer [ltg]**
+- **Other [oth]**: All other functions.
+- **Papermaker [ppm]**
+- **Performer [prf]**: Any performer, such as instrumentalist, vocalist, musician, conductor, dancer, or if the principal skill is unknown or unspecified.
+- **Printer [prt]**
+- **Publisher [pbl]**: Only enter the publisher as a person if the actual human is meant, such as a Beethoven manuscript that mentions Carl Friedrich Peters by name. (Peters functioning as the company that issues the printed music, on the other hand, is entered as an institution.)
+- **Text author [lyr]**: An author of the words of a non-dramatic musical work (such as the text of a song), except for oratorios.
+- **Translator [trl]**
+- **Type designer [tyd]**: The person who designed the typeface **.**
