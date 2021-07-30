@@ -1,7 +1,8 @@
-#### Ograniczenia w dostępie (506 $f) 
+### Access restrictions (506 $a)
 
-W tym polu podaje się warunki udostępniania, jakie obowiązują w instytucji przechowującej. Dane należy wprowadzić używając własnego języka katalogowania.
+Terms and conditions of the holding institution can be entered here. Enter using your cataloging language.
 
-_Przykłady :_  
-Udostępnianie na miejscu, w czytelni.  
-Możliwość wykonania reprodukcji na życzenie (mogą obowiązywać opłaty).
+_Examples:_
+
+- Consultation in the reading room.
+- Reproductions upon request (charges may apply).
