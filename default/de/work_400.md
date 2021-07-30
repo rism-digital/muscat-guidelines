@@ -1,13 +1,26 @@
-**Namensvarianten: Ansetzungsform (400)**
+### Name variants: Heading (400; [RDA registry](http://www.rdaregistry.info/Elements/w/#P10086)[rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086))
 
-Dieses Feld verweist auf andere Namen unter denen das Werk bekannt ist. Löschen Sie keine Varianten, die durch den VIAF-Import hinzugefügt wurden.
+This field gives other titles that the work is known by. Do not delete name variants that are added as a result of importing data from VIAF.
 
- 
+#### Composer (400 $a)
 
-**Komponist (400 $a)  
-Geburts- und Todesdaten (400 $d)  
-Besetzungshinweis (400 $m) **** Opus / WV-Nummer (400 $n)  
-Tonart oder Modus (400 $r)  
-Werktitel (400 $t)** RDA[ registry](http://www.rdaregistry.info/Elements/w/#P10086)[rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086)
+#### Years of birth and death (400 $d)
 
-Füllen Sie die Felder wie oben unter Ansetzungsform (100) aus.
+#### Scoring summary (400 $m)
+
+#### Opus/Thematic index number (400 $n)
+
+#### Key or mode (400 $r)**
+
+These fields will be identical with the main Heading (100) above.
+
+#### Title of work (400 $t)
+
+Use this field to record title variants, alternatives, nicknames, different spellings, etc. Repeat this field for each variation.
+
+_Examples:_
+
+- Why fair maid in ev'ry feature
+- Why fair maid in every feature
+- Verrückte Jane
+- Warum, süße Maid, drückst du mit jeder Geste so viel Furcht aus?
