@@ -1,5 +1,7 @@
-#### 
+### Colophon (597 $a)
 
-**Kolofon (597)**
+For printed items, enter the colophon as it appears on the source, typically on the last printed page.
 
-W przypadku pozycji drukowanych należy wprowadzić kolofon w formie, w jakiej widnieje w źródle.
+_Example_:
+
+- Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs | eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis
