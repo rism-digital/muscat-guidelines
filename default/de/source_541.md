@@ -1,27 +1,28 @@
-### Beschaffungsart (541)  
+### Source of acquisition (541)
 
-Dieser Teil beschreibt wie die besitzende Institution die Quelle erwarb.
+Information about how the holding institution acquired the source is entered here.
 
-#### Beschaffungsart (541 $c)
+#### Method of acquisition (541 $c)
 
-Geben Sie Informationen zur Art der Beschaffung (Geschenk, Nachlass, Leihgabe oder Depositum). Verwenden Sie eine der Katalogisierungssprachen.
+Enter information about how the item was acquired, such as gift, bequest, loan, purchase, or deposit. Enter using your cataloging language.
 
-#### Beschaffungsquelle (541 $a)
+#### Source of acquisition note (541 $a)
 
-Geben Sie den Namen der Person oder Institution an, von der die Quelle (Donator, Verkäufer etc.) erworben wurde. Verwenden Sie eine der Katalogisierungssprachen.
+Enter information about the person or institution (donor, seller, etc.) from which the institution acquired the source. Enter using your cataloging language.
 
-Standardisierte Angaben der Personennamen werden im Feld**Nebeneintragung Personen (700)** und für Institutionen in**Nebeneintragung Institution (710)** gemacht. Noch nicht vorhandene Namen werden in der Normdatei ergänzt.
+Enter standardized forms of the personal names in the field **Additional personal name (700)** and institutions in ** Additional institution (710)**.
 
-#### Beschaffungsdatum (541 $d)
+#### Date of acquisition (541 $d)
 
-Daten werden grundsätzlich nach folgendem Schema eingegeben: jjjjmmtt. Fehlen Teile des Datums, werden die entsprechenden Stellen durch Bindestriche ersetzt. Allgemeine Datumsangaben können wie auf der Quelle angegeben werden. Mehrere Datumsangaben werden mit Komma getrennt.
+Enter dates in the form YYYYMMDD. Replace unknown portions of the dates with a hyphen. Single years may be entered as YYYY. General dates may be indicated as on the source. Separate multiple dates with a comma.
 
-_Beispiele_:  
-17980215   
-183209--  
-1815  
-Easter 1744
+_Examples_:
 
-#### Akzessionsnummer (541 $e)  
+- 17980215
+- 183209--
+- 1815
+- Easter 1744
 
-Geben Sie hier die Akzessionsnummer ein. 
+#### Accession number (541 $e)
+
+Enter the accession number here.
