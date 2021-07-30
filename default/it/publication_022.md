@@ -1,8 +1,9 @@
-ISSN (022 $a)
+### ISSN (022 $a)
 
- Inserisci il numero International Standard Serial Number (ISSN). Il numero ISSN è un identificatore univoco per pubblicazioni periodiche.  
+Enter the International Standard Serial Number (ISSN). The ISSN uniquely identifies serial publications.
 
-_Esempi:_  
-0027-4380  
-0003-0139  
-1068-2724 
+_Examples:_
+
+- 0027-4380
+- 0003-0139
+- 1068-2724
