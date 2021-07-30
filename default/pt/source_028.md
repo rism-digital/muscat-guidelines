@@ -1,13 +1,15 @@
-### Número de chapa (028 $a)
+### Plate number (028 $a)
 
-Neste campo inserem-se números de chapa, que tipicamente aparecem em itens impressos, mas podem também ser encontrados em manuscritos que foram copiados de uma edição impressão de música.
+This field is for plate numbers, which typically appear on printed items but can also be found on manuscripts that were copied from a printed music edition.
 
-Insira o número de chapa exatamente como aparece na fonte.
+Enter the plate number exactly as it appears on the source. You may add arabic numerals in brackets if the plate number uses roman numerals.
 
-_Exemplos_:  
-B. & H. 8533  
-S. B. 2. 11  
-424  
-L. M. 2. A. 31
+_Examples_:
 
-A afirmação [without plate number] é permitida. Números de editor devem ser inseridos no campo **Nota geral (5****00)**.
+- B. & H. 8533
+- S. B. 2. 11
+- 424
+- L. M. 2. A. 31
+- XLII [42]
+
+The statement "[without plate number]" is allowed. Publisher's numbers must be entered in the field **General note ( 500)**.
