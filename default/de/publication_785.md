@@ -1,8 +1,8 @@
-#### Späterer Titel (785 $a)  
+### Succeeding entry (785 $a)
 
-Dieses Feld und das vorherige Feld ( **Früherer Eintrag** ) werden verwendet, um alternative Namen anzuzeigen (beispielsweise wechselnde Titel einer Zeitschrift).  
-  
-Tragen Sie hier den späteren Zeitschriften- / Reihentitel des vorliegenden Werks ein. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft.   
-  
-  
-_Beispiel:_ Die Zeitschrift _Chelys. The Journal of the Viola da Gamba Society_ existierte von 1969 bis 2004 und wird durch _The Viola da Gamba Society Journal_  fortgesetzt. Im Eintrag von _Chelys_erscheint folgender Späterer Titel (785 $a): The Viola da Gamba Society Journal
+This field and the previous field ( **Preceding entry** ) are used to list and link alternate titles of items, such as a journal title that has changed names.
+
+Enter here the name that the periodical was successively known as. This field is linked to the **Secondary literature** database.
+
+_Example:_ The journal _Chelys. The Journal of the Viola da Gamba Society_ existed from 1969 to 2004, when it was succeeded by _The Viola da Gamba Society Journal_. In the record for _Chelys_, enter the following:  
+Succeeding entry (785 $a): The Viola da Gamba Society Journal
