@@ -1,66 +1,37 @@
-### Tipo de fonte (593 $a)
+### Source type (593 $a)
 
-**Campo obrigatório.**
+**Required field.**
 
-Este campo descreve a natureza da fonte. Por favor, selecione da lista seguinte:
+This field describes the nature the source. Please select from the list as follows:
 
-**Para música notada:**
+**For notated music:**
 
-- 
+- **Autograph manuscript** : Written completely or mostly in the composer’s hand.
+- **Possible autograph manuscript** : Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
+- **Partial autograph** : Significant portions of the manuscript are in the composer's hand.
+- **Manuscript copy**
+- **Manuscript copy with autograph annotations** : Corrections or small additions are in the composer’s hand.
+- **Print**
+- **Print with autograph annotations:** Handwritten annotations by the composer. Use for holdings only (copy-specific information).
+- **Print with non-autograph annotations** : Any other kind of handwritten annotations not by the composer. Use for holdings only (copy-specific information).
 
-**Manuscrito autógrafo: ** escrito completamente ou em sua maior parte pela mão do compositor.
+**For other types of documents:**
 
-- 
+- **Libretto, handwritten**
+- **Libretto, printed**
+- **Treatise, handwritten**
+- **Treatise, printed**
+- **Other**
 
-**Possível manuscrito autógrafo** : indica que há um grau de incerteza se o manuscrito é da mão do compositor. 
+In the case of autograph manuscripts and possible autograph manuscripts, do not create an added entry **(700)**with the composer's name as the copyist. However, an exception is if the identity of the copyist is certain but it is uncertain if the copyist is also the composer. In such a case, enter the copyist's name in the field **Additional personal name ( 700)**but add the same name to the field **Composer/Author name (100 $a)**with the appropriate attribution.
 
-- **Autógrafo parcial:** partes significativas do manuscrito são da mão do compositor.  
+In some cases, such as with a partial autograph, an explanatory note in the field **General note (500)**may be appropriate.
 
-- **Cópia manuscrita**
+If the arranger of a composition was also the copyist, select **Manuscript copy** and not **Autograph manuscript**.
 
-- **Cópia manuscrita com anotações autógrafas** : correções ou pequenos acréscimos são da mão do compositor.
+If multiple types of sources are present, repeat the "Material description" group to select and describe each type of source.
 
-- **Impresso**
+If your source is a mechanical reproduction (such as a photocopy), follow these steps:
 
-- **Impresso com anotações autógrafas:** anotações manuscritas feitas pelo compositor. Use para materiais à mão somente (informação específica do exemplar).  
-
-- **Impresso com anotações não-autógrafas:** quaisquer outros tipos de anotações manuscritas feitas não pelo compositor, mas por terceiros. Use para materiais à mão somente (informação específica do exemplar). 
-
-**Para outros tipos de documentos:**
-
-- 
-
-**Libreto, manuscrito **
-
-- 
-
-**Libreto, impresso**
-
-- 
-
-**Tratado, manuscrito**
-
-- 
-
-**Tratado, impresso**
-
-- 
-
-**Periódico musical**
-
-- 
-
-**Outro  **
-
-No caso de manuscritos autógrafos e possíveis manuscritos autógrafos, não crie um registro adicional **(700)** com o nome do compositor como copista. Entretanto, uma exceção é feita se a identidade do copista é certa, mas é incerto se o copista é também o compositor. Neste caso, insira o nome do copista no campo **Nomes adicionais de pessoas (700),** mas adicione o mesmo nome ao campo **Nome do compositor/autor (100 $a)** com a atribuição apropriada.
-
-Em alguns casos, como no caso de um autógrafo parcial, uma nota explicativa no campo **Nota geral (500)** pode ser apropriada.
-
-Se o arranjador de uma composição foi também o copista, selecione **Cópia manuscrita** e não **Manuscrito autógrafo**.
-
-Se múltiplos tipos de fontes estão presentes, repita o grupo "Descrição material" para selecionar e descrever cada tipo de fonte.
-
-Se a fonte é uma reprodução mecânica (como uma fotocópia), siga estes passos:
-
-1. Selecione **Manuscrito autógrafo** , **Cópia manuscrita** , etc. como for apropriado (isto é, selecione o tipo que se aplica à fonte original)
-2. Selecione o tipo de reprodução no campo **Técnica especial de produção** **(340 $d)**
+1. Select **Autograph manuscript** , **Manuscript copy** , etc. as appropriate (that is, select the type that applies to the original source)
+2. Select the type of reproduction in the field **Special production technique (340 $d)**
