@@ -1,27 +1,28 @@
-### **Postaci**  
+### Named dramatic role (590)
 
-**Pole to należy wypełnić, jeśli wpisano nazwę w polu incipitu Rola (031 $e).**
+**Make sure to fill out this field if you have entered a name in the incipit field Role (031 $e).**
 
-#### **Postaci, ujednolicone (595 $a)**
+Do not place articles after the main name. Where possible, the role should be listed from highest to lowest. Use a question mark to indicate questionable information. Do not use commas.
 
-W tym polu można wymienić nazwy wszystkich ról w kompozycji, niezależnie od tego, czy wymieniono je w źródle, czy pochodzą z literatury pomocniczej. Należy stosować pisownię znormalizowaną. Wskazać uzupełnienia za pomocą nawiasów kwadratowych. Można wprowadzić partię głosową po podaniu w nawiasach nazwy roli. 
+#### Dramatic role named, standardized (595 $a)
 
-_PrzykładyExamples_:  
-Donna Flavia (S)  
-Theodor (T)  
-Zerbinetta (Mezzo-S)  
-Ein Polizeikommisar (Bariton)  
-Der Schornsteinfeger (Bariton)  
-Doktor Zwingli (B)  
-?Achiar?  
-Drei Knaben  
-  
+The names of all the roles in a composition can be listed in this field, regardless of whether they are named on the source or derived from secondary literature. Use standardized spelling. Indicate additions by using square brackets. You may enter the voice part following the name of the role in parentheses.
 
-#### **Postaci, pisownia oryginalna (595 $u)**
+_Examples_:
 
-Wprowadzić role dramatyczne, które pojawiają się w źródle, jeśli różnią się one pisownią od formy ujednoliconej podanej powyżej.
+- Donna Flavia (S)
+- Theodor (T)
+- Zerbinetta (Mezzo-S)
+- Ein Polizeikommisar (Bariton)
+- Der Schornsteinfeger (Bariton)
+- Doktor Zwingli (B)
+- ?Achiar?
+- Drei Knaben
 
-_Przykład_:  
-Pappageno  
+#### Dramatic role named, original spelling (595 $u)
 
-**Dotyczy obu pól:** Nie umieszczać po głównej nazwie przedimków. Tam, gdzie się da, role należy podać od najwyższej do najniższej. Należy użyć znaku zapytania, aby wskazać, które informacje są niepewne. Nie używać przecinków.
+Enter the dramatic role that appears on the source if it differs in spelling from the standardized form given above.
+
+_Example_:
+
+- Pappageno
