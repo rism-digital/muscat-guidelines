@@ -1,3 +1,3 @@
-**Data e ora dell’ultima transazione (005)**
+### Date and time of latest transaction (005)
 
-Questo campo consiste di sedici caratteri che specificano la dat e flora dell’ultima modifica alla scheda e servono a identificare la versione della scheda. La data e l’ora sono riportate in conformità allo standard di rappresentazione di date e orari ISO 8601 secondo lo schema yyyymmdd e hhmmss.f. 
+This field consists of sixteen characters that specify the date and time of the latest record transaction and serve as a version identifier for the record. The data and time are given according to Representation of Dates and Times (ISO 8601) in the pattern yyyymmdd and hhmmss.f.
