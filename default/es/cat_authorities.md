@@ -1,4 +1,4 @@
-La sección de **Autoridades** de Muscat reúne todos los archivos de autoridad, vocabulario controlado e índices. Nos gusta verlas como pequeñas bases de datos dentro de Muscat. 
+La sección de **Autoridades** de Muscat reúne todos los archivos de autoridad, vocabulario controlado e índices. Nos gusta verlas como pequeñas bases de datos dentro de Muscat.
 
 ### Objetos digitales
 
