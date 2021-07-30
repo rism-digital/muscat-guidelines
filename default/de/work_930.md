@@ -1,5 +1,11 @@
-**Schlagworteinragung (380 $a)**  
+### Related work (930; RDA registry [rdaw:P10027](http://www.rdaregistry.info/Elements/w/#P10027))
 
-RDA registry ** ** [**rdaw:P10027**](http://www.rdaregistry.info/Elements/w/#P10027)
+This field is used to show a relationship between the current work and a different work.
 
-Bezieht sich auf ein anderes Werk
+#### Work (930 $a)
+
+Enter the work related to the work described in this record.
+
+#### Type of relationship (930 $i)
+
+Select the type of relationship.
