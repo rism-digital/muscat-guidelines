@@ -1,3 +1,3 @@
-#### Allgemeine Bemerkungen (680)
-**Externe Bemerkungen**  
-Hier werden allgemeine Angaben zur Person gemacht, die zur Veröffentlichung bestimmt sind.
+### General note (680 $a)
+
+Enter any general comments about the person in question. These comments will be published.  
