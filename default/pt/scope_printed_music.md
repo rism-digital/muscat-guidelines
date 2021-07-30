@@ -1,7 +1,7 @@
-**Âmbito da música impressa no RISM**
+**Scope of printed music in RISM**
 
-O RISM procura documentar a música impressa desde os primórdios da impressão musical até cerca de 1900.
+RISM seeks to document printed music from the beginnings of music printing through around 1900.
 
-Ao longo do século 20 e até o presente, vemos um aumento acentuado na publicação e na distribuição de música comercial. A quantidade de música considerada “rara” ou não-documentada em outros lugares é bastante menor quanto comparada aos séculos anteriores. Música publicada por editores modernos, impressa em grandes quantidades, amplamente disponíveis e destinadas ao uso ativo por usuários de bibliotecas seriam melhor documentadas em bases de dados cooperativas tais como o [WorldCat](http://www.worldcat.org/).
+In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and distribution. The amount of music considered "rare" or undocumented elsewhereis much less when compared to previous centuries. Music published by modern publishers, printed in large quantities, widely available, and meant for active use by library patrons would be better documented in cooperative databases such as [WorldCat](http://www.worldcat.org/).
 
-O RISM considerará, caso a caso, a possibilidade de documentar música publicada no século XX por editoras extintas ou por editores regionais de reconhecida importância histórica; assim como edições modernas incluídas no decorrer da catalogação de uma coleção com valor histórico, como a biblioteca particular de um indivíduo.
+RISM will consider, on a case-by-case basis, whether to document music published in the 20th century by defunct publishers or by smaller, regional publishers of historical significance; as well as modern editions included in the course of cataloging a collection with historical value, such as the private library of an individual.
