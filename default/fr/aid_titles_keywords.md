@@ -1,9 +1,8 @@
 ## Appendix: Standardized titles – Subject headings
 
-
 This section refers to cataloging situations where genres are used as standardized titles (refer to the guidelines for **Standardized title (240)**). In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
 
-Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words ( **voc**.) or ( **inst**.) after the term in parentheses. Specifications such as (dances) or (stage) may also be added in parentheses after the main term.
+Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words ( **voc**.) or ( **inst**.) after the term in parentheses. Specifications such as (dances) or ( stage) may also be added in parentheses after the main term.
 
 Below are some examples, followed by correspondences for the following kinds of standardized titles:
 
@@ -22,7 +21,7 @@ Here are some examples for special situations:
    Use **Chorale arrangements** as both the standardized title and subject heading.
 
 3. A potpourri where you know that the music comes from a single opera:  
-   You don't need this list! Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas** , etc. as appropriate).
+   You don't need this list! Use the name of the opera as the standardized title and select **Excerpts** and ** Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas** , etc. as appropriate).
 
 4. A potpourri where you know that the music comes from several operas:  
    Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas** , etc. as appropriate).
@@ -38,11 +37,9 @@ Here are some examples for special situations:
 
 8. For **sketches** of unknown compositions, use the distinctive title plus the subject heading **Sketches**. For sketches of known compositions, please use the distinctive title of the work and **Sketches** as second subject heading.
 
-9.  In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
+9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
 
 The following list gives an idea of what standardized titles have a corresponding subject heading. Please note that this list is not comprehensive.
-
-
 
 **General instrumental and vocal music**
 
@@ -170,8 +167,6 @@ Laudes — Hours of the Office
 
 Matutina — Hours of the Office
 
-
-
 **Music for the stage, theater, etc.**
 
 _For genres of individual numbers or parts, consult the section on vocal and instrumental music._
@@ -183,8 +178,6 @@ Intermezzos — Intermezzos (stage)
 Meditationes — Meditationes (Jesuit theatre)
 
 Prologues — Prologues (stage)
-
-
 
 **Exercises, studies, schools, lessons**
 
@@ -214,7 +207,7 @@ Tutors — Tutors (voc.)
 
 Standardized title/genre — Corresponding subject heading
 
-Standardized title  — Subject heading
+Standardized title — Subject heading
 
 Airs — Airs (dances)
 
