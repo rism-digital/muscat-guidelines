@@ -18,9 +18,20 @@ Doktor Zwingli (B)
 ?Achiar?  
 Drei Knaben
 
+- Donna Flavia (S)
+- Theodor (T)
+- Zerbinetta (Mezzo-S)
+- Ein Polizeikommisar (Bariton)
+- Der Schornsteinfeger (Bariton)
+- Doktor Zwingli (B)
+- ?Achiar?
+- Drei Knaben
+
 #### Nombres de personajes, ortografía original (595 $u)
 
 Registre los nombres de personajes tal como aparecen en la fuente, en caso de que la ortografía difiera de la forma normalizada registrada anteriormente.
 
 _Ejemplo:_  
 Pappageno
+
+- Pappageno
