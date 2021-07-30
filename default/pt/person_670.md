@@ -1,27 +1,26 @@
-### Fonte dos dados encontrados (670) 
+### Source data found (670)
 
-Este campo registra a literatura secundária que foi consultada ao inserir as formas do nome e das datas, e fornece as formas do nome e datas encontradas.  
-Literatura secundária que foi consultada, mesmo sem ter fornecido nenhuma informação, também é inserida aqui.  
-Formas do nome que diferem da forma dada em **Cabeçalho – Nome de pessoa (100 $a)** devem ser inseridas no campo **Variante de nome (400 $a)**.
+This field keeps track of the secondary literature that was consulted in entering forms of the name and the dates, and gives the form of the name and dates found therein.  
+Secondary literature that was consulted but yielded no information is also entered here.  
+Forms of the name that differ from the form given in **Heading - Personal name (100 $a)** must be entered in the field **Name variant (400 $a)**.
 
-####  
+#### Source data found (670 $a)
 
-#### Fonte dos dados encontrados (670 $a) 
+Enter the short title of the resource consulted. This field is connected to the **Secondary literature** database.
 
-Insira o título curto do recurso consultado. Este campo é conectado à base de dados **Literatura secundária**.
+#### Information found (670 $b)
 
-#### Informação encontrada (670 $b)
+**Required if the above field is filled out.**
 
-**Campo obrigatório se o campo acima for preenchido.**
+Enter the form of the name and/or years indicated in the literature. Add a page number or other locators (such as ** vide** for encyclopedias) if appropriate. Enter a **0** if no information is found (for example, you consulted Grove|7 but there was no entry for the person).
 
-Insira a forma do nome e/ou anos indicados na literatura. Adicione o número de página ou outros localizadores (tal como **vide** para enciclopédias) se apropriado. Insira um 0 se nenhuma informação é encontrada (por exemplo, se o Grove|7 foi consultado, mas não havia nenhum registro para a pessoa).
+_Examples_:
 
-_Exemplos_:  
-**Fonte dos dados encontrados (670 $a)**: EitnerQ  
-**Informação encontrada (670 $b)**: Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]  
-  
-**Fonte dos dados encontrados (670 $a)**: MGG|2/s  
-**Informação encontrada (670 $b)**: vide 6, 834
+- **Source data found (670 $a)**: EitnerQ
+- **Information found (670 $b)**: Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]
 
-**Fonte dos dados encontrados (670 $a)**: Grove|7  
-**Informação encontrada (670 $b)**: 0
+- **Source data found (670 $a)**: MGG|2/s
+- **Information found (670 $b)**: vide 6, 834
+
+- **Source data found (670 $a)**: Grove|7
+- **Information found (670 $b)**: 0
