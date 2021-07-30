@@ -1,16 +1,19 @@
-#### Odniesienie bibliograficzne (691 $a) 
+### Bibliographic reference (691)
 
-Pole podaje odniesienie bibliograficzne do utworu lub źródła. Należy zwrócić uwagę na fakt, że informację z katalogu utworów wprowadza się w polu **Nazwa katalogu (690)**. Należy podać cytacje literatury używanej w trakcie samego procesu katalogowania lub jeśli odnosi się ona do opisywanego źródła. Można również wpisać odniesienia do nowoczesnych edycji związanych ze źródłem i odniesienia do literatury o znakach wodnych.
+This field gives bibliographic references to the work or the source. Note that information from a catalog of works is entered in the field **Catalog of works (690)**. Cite literature when it was used during the cataloging process itself or if it refers directly to the source in question. You can also enter references to modern editions connected with the source and references to watermark literature.
 
-Pole to jest połączone linkiem z bazą danych **Literatury pomocniczej**. Jeżeli źródeł, które mają być cytowane, nie ma jeszcze w bazie danych, należy je najpierw dodać zanim będzie można zamieścić link.
+#### Bibliographic reference (691 $a)
 
-#### Numer/strona (691 $n) 
+Enter the short title of the reference. This field is linked to the **Secondary literature** database. If the reference you wish to cite is not yet in the database, it must be added first before you can link to it.
 
-**Pole wymagane jeśli wypełniono pole Odniesienie bibliograficzne**  **(691 $a).**
+#### Number/page (691 $n)
 
-Wpisać numer strony. Zastosować następujące angielskie skróty: **vol.** (volume - tom ), **fasc.** (fascicle - zeszyt), **suppl.** (supplement - suplement), **pt.** (part - część), **p.** (page - strona), **no.** (number - numer), oraz **clm.** (column - kolumna).
+**Required field if a bibliographic reference (691 $a) is filled in.**
 
-_Przykłady_:  
-vol. 2, pt. 2, p. 430  
-vol. 5, p. 93; vol. 6, p. 12  
-Suppl. 1: 1779-1780, clm. 695
+Enter the page number. Use the following English abbreviations: **vol.** (volume), **fasc.** (fascicle), **suppl.** ( supplement), **pt.** (part), **p.** (page), **no.** (number), and **clm.** (column).
+
+_Examples_:
+
+- vol. 2, pt. 2, p. 430
+- vol. 5, p. 93; vol. 6, p. 12
+- Suppl. 1: 1779-1780, clm. 695
