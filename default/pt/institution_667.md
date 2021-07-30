@@ -1,5 +1,5 @@
-**Notas internas  (MARC 667; ISDIAH 5.6.9)**
+### Internal notes (MARC 667; ISDIAH 5.6.9)
 
-Este campo documenta informação adicional relacionada à criação e a modificações na descrição.
+This field documents additional information relating to the creation of and changes to the description.
 
-Insira notas pertinentes à criação e manutenção da descrição. Por exemplo, podem-se inserir aqui os nomes das pessoas responsáveis pela criação e/ou revisão da descrição.
+Enter notes pertinent to the creation and maintenance of the description. For example, the names of persons responsible for creating and/or revising the description may be entered here.
