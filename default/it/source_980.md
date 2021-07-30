@@ -1,29 +1,26 @@
-Origine della scheda (980)
+### Record origin (980)
 
-**Origine (980 $a)**
+#### Origin (980 $a)
 
-Seleziona l'origine della scheda: 
+Select the origin of the record:
 
-- **Dati importati** : La scheda è stata importata da una banca-dati esterna
-- **Conversione retrospettiva** : La scheda deriva da una pubblicazione su carta ed è stata convertita in un formato leggibile elettronicamente
-- **RISM** : La scheda è stata creata nella banca-dati RISM (valore predefinito)
+- **Import** : The record was imported from an external database
+- **Retrospective conversion** : The record originated in a hard-copy publication and was converted to a machine-readable form
+- **RISM** : The record was created in the RISM database (default)
 
-** **
+#### Cataloging level (980 $b)
 
-**Livello di catalogazione (980 $b)**
+Select the cataloging level.
 
-Seleziona il livello di catalogazione.  
-_Seguiranno altri dettagli._
+_Details will follow._
 
-- **Breve**
-- **Completo**
-- **Standard** 
+- **Brief**
+- **Full**
+- **Standard**
 
-** **
+#### Material examined (980 $c)
 
-**Materiale esaminato (980 $c)**
+Please indicate whether you directly examined the material as you were cataloging it.
 
-Indica per favore se hai direttamente esaminato il materiale (autopsia) durante la catalogazione.
-
-- **Materiale esaminato**
-- **Materiale non **** esaminato**: Questo può essere usato se la scheda è stata creata usando la descrizione in un catalogo.
+- **Material examined**
+- **Material not examined**: This can be used when the record was created using a description in a catalog.
