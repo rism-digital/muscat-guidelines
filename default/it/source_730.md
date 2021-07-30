@@ -1,87 +1,89 @@
-#### Titolo uniforme alternativo (730)  
+### Additional title (730)
 
-Questo campo è riservato per alternative al **Titolo uniforme** **(240 $a)**, anche in forma standardizzata, o per titoli di periodici e pubblicazioni in serie.  
+This field is for alternatives to the **Standardized title (240 $a)**, also in a standardized form, or for titles of periodicals and series.
 
-#### Titolo uniforme alternativo (730 $a)
-Inserisci titoli nettamente differenti piuttosto che titoli con ortografie alternative. Più varianti possono essere inserite ripetendo il campo. Anche titoli di serie e nomi di periodici vanno inseriti qui.
+#### Additional title (730 $a)
 
-Fra i possibili tipi di alternative segnaliamo:
+Enter markedly different titles rather than titles with alternative spellings. Multiple variants can be entered by repeating the field. In addition, series titles and names of periodicals are entered here.
 
-- Titoli alternativi di un’opera (_ossia_)
-- Traduzioni di un titolo
-- Generi alternativi se sussiste incertezza sulla classificazione
-- Titoli di messe-parodia e titoli del Proprium. Uniforma i nomi dei santi secondo il _Liber usualis._
-- Nomi impropri di una composizione (come messa di lord Nelson, sinfonia Jupiter)
-- Composizioni senza un preciso titolo individuale (Festival Cantata, Fürstenlied)
-- Titoli sotto i quali l’oggetto è generalmente noto (soprattutto per edizioni a stampa)  
+Types of possible alternatives are:
 
-_Esempi_:
+- Other titles of an opera (_ossia_ titles)
+- Translations of a title
+- Alternate genres if there is uncertainty about the classification
+- Titles of parody masses and titles of the Proper. Standardize names of saints according to the _Liber usualis._
+- Popular names of a composition (such as Nelson Mass, Jupiter Symphony)
+- Works with no clear individual title (Festival Cantata, Fürstenlied)
+- Titles, especially ones under which the item is widely known (particularly for printed editions)
 
-Titolo uniforme: Don Giovanni  
-Titolo uniforme alternativo: Der steinerne Gast
+_Examples_:
 
-Titolo uniforme: Masses  
-Titolo uniforme alternativo: Missa S Ursulae
+- Standardized title: Don Giovanni
+- Additional title: Der steinerne Gast
 
-Titolo uniforme: Masses  
-Titolo uniforme alternativo: Deutsche Messe [= traduzione tedesca del testo latino]
+- Standardized title: Masses
+- Additional title: Missa S Ursulae
 
-Titolo uniforme: Masses  
-Titolo uniforme alternativo: Deutsches Hochamt [= parafrasi tedesca del rito della messa]
+- Standardized title: Masses
+- Additional title: Deutsche Messe [= translation of the Latin text of the mass]
 
-Titolo uniforme: 29 Madrigals  
-Titolo uniforme alternativo: Il primo libro de madrigali a tre voci
+- Standardized title: Masses
+- Additional title: Deutsches Hochamt [=paraphrased German church service]
 
-Titolo uniforme: 20 Sacred concerts  
-Titolo uniforme alternativo: Symphoniae sacrae
+- Standardized title: 29 Madrigals
+- Additional title: Il primo libro de madrigali a tre voci
 
-In caso di cicli di variazioni, inserisci il nome del tema in questo campo e seleziona  **Variazioni** nel campo **Arrangiamento (730 $o)**.
+- Standardize title: 20 Sacred concerts
+- Additional title: Symphoniae sacrae
 
-In caso di inserimenti, immetti il titolo della composizione in cui la composizione da catalogare è stata inserita e seleziona **Inserimenti** nel campo **Suddivisione formale (730 $k)**. Per gli inserimenti, consulta anche le regole per il campo **Inserimenti (787)**.
+In the case of variation sets, enter the name of theme in this field and select **Variations** in the field ** Arrangement statement (730 $o)**.
 
-_Esempi_:
+In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading ( 730 $k)**. For inserts, also note the guidelines under for the field **Insertions (787)**.
 
-Titolo uniforme: Variations  
-Titolo uniforme alternativo: Ein Mädchen oder Weibchen [e **Variazioni** nel campo **Arrangiamento (730 $o)**.]
+_Examples_:
 
-Titolo uniforme: Consola amato bene  
-Titolo uniforme alternativo: Una cosa rara [e **Inserimenti** in **Suddivisione formale** **(730 $k)**]
+- Standardized title: Variations
+- Additional title: Ein Mädchen oder Weibchen [plus **Variations** in the field **Arrangement statement (730 $o)**.]
 
-Questo campo può anche essere utilizzato per titoli di periodici o serie di pubblicazioni.  
-  
-_Esempi_:  
-Oeuvres Complets de Piano  
-Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten  
-Nouveau Mercure galant, mai 1679  
-The Lady's Magazine, Aug., 1784 
-#### Arrangiamento (730 $o) 
+- Standardized title: Consola amato bene
+- Additional title: Una cosa rara [plus **Inserts** in **Subheading (730 $k)**]
 
-Seleziona **Arrangiamento** se la composizione è un arrangiamento di un’altra composizione. Assicurati che questo campo corrisponda con il campo **Arrangiamento (240 $o)** più sopra. Se la composizione è un ciclo di variazioni, seleziona **Variazioni**.
+This field can also be used for titles of periodicals or series.
 
-#### Regole di catalogazione (730 $g)  
+_Examples_:
 
-Indica che regole di catalogazione o standard sono usati per formulare il titolo uniforme alternativo. 
+- Oeuvres Complets de Piano
+- Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten
+- Nouveau Mercure galant, mai 1679
+- The Lady's Magazine, Aug., 1784
 
-- **RISM** : (valore predefinito)
+#### Arrangement statement (730 $o)
+
+Select **Arrangement** if the work is an arrangement of another work. Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
+
+#### Rule type (730 $g)
+
+Indicate what cataloging rules or standards are used to formulate the additional title.
+
+- **RISM** : (default)
 - **RDA** : Resource Description and Access
-- **RAK** : Regeln für die alphabetische Katalogisierung (regole di catalogazione usate in Paesi di lingua tedesca)
-- **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (regole di catalogazione usate in Italia)
+- **RAK** : Regeln für die alphabetische Katalogisierung (cataloging rules used in German-speaking countries)
+- **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche ( cataloging rules used in Italy)
 
-#### Suddivisione formale (730 $k) 
+#### Subheading (730 $k)
 
-Questo campo registra dei particolari aspetti formali, se sono applicabili. Seleziona dai valori seguenti:
+This field is for special forms aspects as applicable. Select from the following:
 
-- Estratti  
-- Frammenti
-- Inserimenti
-- Schizzi
+- Excerpts
+- Fragments
+- Inserts
+- Sketches
 
-Assicurati di selezionare  **Estratti** ,  **Frammenti**  o  **Schizzi**  qui se hai selezionato  **Estratti** , **Frammenti** o **Schizzi** nel campo **Suddivisione formale (240 $k)** più sopra. Per inserimenti, seleziona **Inserimenti**. Maggiori informazioni possono essere inserite nel campo **Nota di contenuto** **(505)**.
+Make sure that if you select **Excerpts** , **Fragments** , or **Sketches** in the field **Subheading (240 $k)** above, you also select **Excerpts** , **Fragments** , or **Sketches** here. For inserts, select **Inserts**. Further information can be entered into the field **Contents note (505)**.
 
-  
+#### Key or mode (730 $r)
 
-#### Tonalità (730 $r)   
-Catalogo/Numero d'opera (730 $n)   
-Organico sintetico (730 $m) 
+Catalog number/Opus number (730 $n)   
+Scoring summary (730 $m)
 
-Nel caso di un arrangiamento o di una compilazione, utilizza questi campi per inserire informazioni sulla composizione originale. Questi campi non devono essere riempiti nuovamente se i valori sono identici a quelli della composizione principale in questione.
+If you have an arrangement or compilation, use these fields to enter information about the original composition. These fields do not need to be filled out again if they are identical with the main work in question.
