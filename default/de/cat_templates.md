@@ -1,7 +1,11 @@
-# Vorlagen  
+### Templates
 
-Muscat bietet die Möglichkeit, je nach Art der Quelle verschiedene Grundeinstellungen zu übernehmen. Dabei stehen lediglich diejenigen Felder zur Verfügung, die auch tatsächlich gebraucht werden. 
+Muscat offers template for different sources. The template offers only those fields that are needed for the source in hand.
 
-**Bestehenden Titel kopieren**
+**Copying existing records**
 
-Neben der Auswahl von verschiedenen Vorlagen (Templates), können in der Einstiegsmaske auch bereits bestehende Daten importiert werden. Dazu gibt man lediglich die entsprechende RISM-Nummer in das dafür vorgesehene Feld "Erstellen von vorhandener Quelle". Nach der Bestätigung auf den Button "Erstellen" erscheint der gewünschte Titel, der nach dem Speichern automatisch eine neue RISM-Nummer erhält. Alternativ kann im Anzeigemodus der Button "Kopieren" in der rechten Navigationsleiste gewählt werden.
+In addition to selecting different templates, you can copy an existing record. There are two ways to do this.
+
+From the template selection screen: simply enter the RISM number in the field "Create from existing source." You will then see a copy of the record in the editing mode and from there you can make any changes to the record that you need. The copied record will automatically receive a new RISM ID number upon saving.
+
+Alternately, you can copy a record in the viewing mode by clicking on the "Duplicate" button in the sidebar on the right.
