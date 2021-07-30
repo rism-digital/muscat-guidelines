@@ -1,4 +1,4 @@
-#### **Preceding entry (780 $w)**
+### Preceding entry (780 $w)
 
 This field and the next field ( **Succeeding entry** ) are used to name and link alternate titles of items, such as a journal title that has changed names.
 
