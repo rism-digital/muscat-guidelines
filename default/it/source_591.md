@@ -1,5 +1,5 @@
-### **Altra segnatura** **(591 $a)**  
+### Other shelfmark (591 $a)
 
-Inserisci qui altre segnature (o collocazioni). Tutte le segnature attualmente valide devono essere inserite qui. Ad esempio, alcune opere hanno segnature separate per ogni atto, o alcune parti staccate hanno segnature individuali per ciascuna parte staccata. Inserisci le segnature come indicato per il campo **Segnatura** **(852 $p)** più sopra.   
-  
-Segnature non più in uso si possono inserire nel campo **Segnatura antica **** (olim) (852 $d).**
+Enter other shelfmarks (also called "call numbers") here. Any shelfmarks that are currently valid should be entered here. For example, some operas have separate shelfmarks for every act, or some partbooks have individual shelfmarks for each partbook. Enter shelfmarks in the manner indicated for the field **Shelfmark (852 $c)** above.
+
+Shelfmarks that are no longer in use should be entered in the field **Former shelfmark (olim) (852 $d)**.
