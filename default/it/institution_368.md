@@ -1,38 +1,40 @@
-### Tipo di istituzione (MARC 368)
-Questo campo riporta altri attributi della persona o nome collettivo o tipo di istituzione.  
-  
-**Tipo di istituzione (MARC 368 $a; ISDIAH 5.1.5)**  
+### Type of institution (368)
 
-Questo campo identifica il tipo di istituzione con collezioni archivistiche.
+This field records other attributes of person or corporate body or type of institution.
 
-Seleziona dai tipi seguenti:
+#### Type of institution (MARC 368 $a; ISDIAH 5.1.5)
 
-- Archivio  
-- Libraio
-- Copista
-- Nome collettivo
-- Centro di documentazione  
-- Biblioteca
-- Museo
-- Istituto di ricerca  
-- Cartiera
-- Esecutore
-- Stampatore
-- Editore  
-- Altri  
+This field identifies the type of institution with archival holdings.
 
-**  **
+Select from the following types:
 
-#### Tipo di giurisdizione (368 $b)
-Inserisci il tipo di giurisdizione associato all'istituzione.  
-  
-_Esempi_:  
-Contea  
-Villaggio  
-  
+- Archive
+- Bookseller
+- Copyist
+- Corporate name
+- Documentation center
+- Library
+- Museum
+- Research institute
+- Papermaker
+- Performer
+- Printer
+- Publisher
+- Other
 
-#### Altra denominazione (368 $c)
-Inserisci qui una denominazione che non è presente nei campi precedenti di questa sezione.  
+#### Type of jurisdiction (368 $b)
 
-#### Fonte (368 $2)
-Inserisci la fonte per i termini usati.
+Enter the type of jurisdiction associated with the institution.
+
+_Examples_:
+
+- County
+- Village
+
+#### Other designation (368 $c)
+
+Enter a designation here if not found in the previous fields in this section.
+
+#### Source (368 $2)
+
+Enter the source of the terms used.
