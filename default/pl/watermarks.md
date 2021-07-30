@@ -1,107 +1,110 @@
-**1. Rysunki** (Terminy pisane kursywą odnoszą się do odsyłaczy krzyżowych.) 
+**1. Figures** (Terms in italics refer to cross-references.)
 
-opat  
-_Agnus Dei: używać_ baranek (Paschalny)  
-kotwica  
-ankh  
-poroża  
-_wagi: używać wagi_  
-pastorał bazylejski  
-niedźwiedź i poskramiacz  
-dzwonek (obrys / klapa) _patrz również_: dzwonek kulisty  
-_bicephalous: używa_ć dwugłowy  
-pastorał biskupa  
-głowa byka  
-_krzak: używać_ krzew  
-kapelusz kardynalski  
-powóz  
-_kielich: używać_ puchar  
-różaniec  
-Chrystus na krzyżu  
-koniczyna (szerokolistna)  
-herb  
-kompas  
-_kompasy: używać_ kompas  
-półksiężyc  
-pastorał, _patrz także_ pastorał Bazylejski, pastorał biskupi  
-krzyż Loreński (Lotaryngii)  
-korona (z wąskim/szerokim łukiem)  
-_pastorał z Basle (Bazylea): używać_ pastorał Bazylejski  
-sztylet  
-orzeł (jednogłowy / dwugłowy)  
-_Krzyż egipski: używać_ ankh.  
-sokół  
-czapka błazna  
-_zwierzę czworonożne: używać_ czworonóg  
-Symbole masońskie  
-rękawica  
-puchar  
-Litera gotycka  
-Litera gotycka P z rozwidlonym trzonkiem (skierowanym na zewnątrz/do wewnątrz)  
-winogrona: winogrona / liść winogrona / winorośl  
-gryf  
-_gryfon: używać_ gryf  
-halabarda  
-kapelusz (trójkątny)  
-jeż  
-róg (z motywem baldrycznym / dodatkowym)  
-jeździec  
-koziorożec  
-bluszcz  
-baranek (Paschalny)  
-_Baranek Boży: Używać_ Baranek (Paschalny)  
-_wawrzyn (wieniec): używać_ wieniec  
-lilia  
-lipa  
-Krzyż Loreński   
-_ssak: używać_ czworonogi  
-znak towarowy kupca  
-syrena (ogon pojedynczy / podwójny)  
-Mitra: używać mitra  
-mitra, infuła  
-_kozioł skalny: użyj_ koziorożec  
-jabłko (regalia)  
-_para kompasów: używać_ kompas  
-czworonogi  
-pióro  
-baran  
-jeździec  
-_laska z Bazylei: używać_ pastorał Bazylejski  
-wagi (z trójkątnymi/okrągłymi szalami)  
-berło  
-kosa  
-wąż  
-kształt (wysoki / wąski / niezidentyfikowany)  
-_nożyce: używać_ nożyczki  
-krzewy (nieokreślone)  
-sierp  
-Wąż na drzewcu  
-dzwonek kulisty  
-kwadrat  
-Krzyż św. Andrzeja.  
-jeleń (głowa/cały)  
-gwiazda (sześcioramienna)  
-bocian  
-słońce (z twarzą / promieniami)  
-swastyka  
-_kapelusz trójkątny: patrz_ kapelusz  
-_trzech króli: używać_ Trzech Magów  
-trzech magów  
-_trzech mędrców: używać_ trzech Króli  
-pochodnia  
-wieża (pojedyncza / z przedłużeniem / z bramą)  
-drzewo (z liśćmi)  
-drzewo (z igłami)  
-_trójkątny: używać_ kapelusz (trójkątny)  
-trójząb  
-jednorożec  
-dziki mąż  
-wieniec
+- abbot
+- _Agnus Dei:_ _use_lamb (Paschal)
+- anchor
+- ankh
+- antlers
+- _balances:_ _use_scales
+- Basle crosier
+- bear and tamer
+- bell (outline / clapper) _see also_ spherical bell
+- _bicephalous:_ _use_ double-headed
+- bishop’s crosier
+- bull’s head
+- _bush:_ _use_ shrub
+- cardinal’s hat
+- _carriage:_ _use_ coach
+- _chalice: use_ goblet
+- chaplet
+- Christ on the cross
+- clover (broad-leafed)
+- coach
+- coat of arms
+- compass
+- _compasses or pair of compasses:_ _use_compass
+- crescent
+- crosier _see also_ Basle crosier, bishop’s crosier
+- cross of Lorraine
+- crown (with narrow / wide arch)
+- _crozier (crosier) of Basle (Basel): use_ Basle crosier
+- dagger
+- eagle (single-headed / double-headed)
+- _Egyptian cross:_ _use_ ankh
+- falcon
+- _fool’s cap: use_ foolscap
+- foolscap
+- _four-legged animal: use_ quadruped
+- Freemason symbols
+- glove
+- goblet
+- Gothic letter
+- Gothic letter P with forked stem (turned outwards / inwards)
+- grapes: grapes / grape leaf / grapevine
+- griffin
+- _gryphon:_ _use_griffin
+- halberd
+- hat (three-cornered)
+- hedgehog
+- horn (with baldric / additional motif)
+- horseman
+- ibex
+- ivy
+- lamb (Paschal)
+- _Lamb of God: use_ lamb (Paschal)
+- _laurel (wreath): use_ wreath
+- lily
+- lime tree
+- _linden: use_ lime tree
+- _Lorraine cross: use_ cross of Lorraine
+- _mammal: use_ quadruped
+- merchant’s mark
+- mermaid (single / double tail)
+- _miter:_ _use_ mitre
+- mitre
+- _mountain goat:_ _use_ ibex
+- orb
+- _pair of compasses:_ _use_compass
+- quadruped
+- quill
+- ram
+- _rider:_ _use_horseman
+- _rod of Basel: use_ Basle crosier
+- scales (with triangular/round pans)
+- _scepter:_ _use_sceptre
+- sceptre
+- scythe
+- _serpent:_ _use_ snake
+- shape (tall / narrow / unidentified)
+- _shears:_ _use_scissors
+- shrub (nondescript)
+- sickle
+- snake on a shaft
+- spherical bell
+- square
+- St. Andrew’s cross
+- stag (head/whole)
+- star (six points)
+- stork
+- sun (with face / rays)
+- swastika
+- _three-cornered hat: see_ hat
+- _three kings:_ _use_ three magi
+- three magi
+- _three wise men: use_ three magi
+- torch
+- tower (single / with extension / with gate)
+- tree (with leaves)
+- tree (with needles)
+- _tricorne:_ _use_ hat (three-cornered)
+- trident
+- unicorn
+- wild man
+- wreath
 
-**2. Opisy (struktury papieru)**
+**2. Descriptions**
 
-linia łańcuchowa 
+- chain line
+- formed from a single piece of wire
+- wire lines (curved/straight)
 
-uformowana z jednej linii
-
-cienka linia (zakrzywiona / prosta)
