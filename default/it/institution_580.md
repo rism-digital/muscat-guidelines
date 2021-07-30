@@ -1,6 +1,7 @@
-**Ora in (MARC 580 $x)**
+### Now in (MARC 580 $x)
 
-Se il patrimonio di un'istituzione è stato trasferito a un'altra istituzione, inserisci qui la sigla RISM per l’istituzione attualmente proprietaria.
+If the holdings of an institution have been transferred to another institution, enter the name of the current holding institution here.
 
-_Esempio:_  
-D-WÜd
+_Example:_
+
+- D-WÜd
