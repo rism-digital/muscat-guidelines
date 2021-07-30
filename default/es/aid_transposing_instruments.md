@@ -1,57 +1,14 @@
-| **Afinación**  
-(de agudo a grave)   | **Instrumentos** | **Transposición con respecto a  
- a) notación  
- b) altura real **|** Un do' real se escribe como**  
-  | **Un do'  
-de la notación suena como** |
-|   |   |   |   |   |
-| Do (C, agudo) | piccolo,  
- glockenspiel, celesta | a) suena una octava perfecta más agudo  
- b) anotado una octava perfecta más grave | do | do'' |
-|   |   |   |   |   |
-| Mi bemol   
-(E-flat, agudo) | clarinete en Mi bemol (soprano, soprano, piccolo) | a) suena una tercera menor más agudo  
- b) anotado una tercera menor más grave | la | mi bemol' |
-|   |   |   |   |   |
-| Re (D, alto) | trompeta en Re | a) suena una segunda mayor más agudo  
- b) anotado una segunda mayor más grave | si bemol | re' |
-|   |   |   |   |   |
-| Do | todos los instrumentos no transpositores (violín, piano, flauta, trombón, etc.) | a) suena tal como está anotado  
- b) se anota como suena | do' | do' |
-|   |   |   |   |   |
-| Si bemol (B-flat) | trompeta, flugelhorn,  
- clarinete,  
- saxofón soprano | a) suena una segunda mayor más grave  
- b) anotado una segunda mayor más agudo | re' | si bemol |
-|   |   |   |   |   |
-| La (A) | clarinete en La | a) suena una tercera menor más grave  
- b) anotado una tercera menor más agudo | mi bemol' | la |
-|   |   |   |   |   |
-| Sol (G) | flauta alto | a) suena una cuarta perfecta más grave  
- b) anotado una cuarta perfecta más agudo | fa' | sol |
-|   |   |   |   |   |
-| Fa (F) | corno francés (trompa),  
-corno inglés _(cor anglais)_ | a) suena una quinta perfecta más grave  
- b) anotado una quinta perfecta más agudo | sol' | fa |
-|   |   |   |   |   |
-| Mi bemol (E-flat) | saxofón alto,  
- corno francés, corno alto (corno tenor), trompeta en Mi bemol | a) suena una sexta mayor más grave  
- b) anotado una sexta mayor más agudo | la' | mi bemol |
-|   |   |   |   |   |
-| Do   
-(C, grave) | guitarra, laúd,  
- guitarra grave,  
- contrabajo,  
- contrafagot | a) suena una octava perfecta más grave  
- b) anotado una octava perfecta más agudo | do'' | do |
-|   |   |   |   |   |
-| Si bemol  
-(B-flat, grave) | barítono,  
-saxofón tenor,  
-clarinete bajo,  
-trompeta bajo | a) suena una novena mayor más grave  
- b) anotado una novena mayor más agudo | re'' | si bemol, |
-|   |   |   |   |   |
-| Mi bemol  
-(E-flat, grave) | saxofón barítono | a) suena una octava y una sexta mayor más grave  
- b) anotado  una octava y una sexta mayor más agudo | la'' | mi bemol, |
+| Tuning (highest to lowest) | Instruments                                                            | Transposition with respect to a) notation b) sounding pitch                                 | A sounding c' is notated as | A notated c' sounds as |
+| -------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------- | ---------------------- |
+| in C (high)                | piccolo, glockenspiel, celesta                                         | a) sounds a perfect octave higher b) notated a perfect octave lower                         | c                           | c''                    |
+| in E-flat (high)           | E-flat clarinet (soprano, sopranino, piccolo)                          | a) sounds a minor third higher b) notated a minor third lower                               | a                           | e-flat'                |
+| in D (high)                | trumpet in D                                                           | a) sounds a major second higher b) notated a major second lower                             | b-flat                      | d'                     |
+| in C                       | all non-transposing instruments (violin, piano, flute, trombone, etc.) | a) sounds as notated b) notated as sounds                                                   | c'                          | c'                     |
+| in B-flat                  | trumpet, flugelhorn, clarinet, soprano saxophone                       | a) sounds a major second lower b) notated a major second higher                             | d'                          | b-flat                 |
+| in A                       | clarinet in A                                                          | a) sounds a minor third lower b) notated a minor third higher                               | e-flat'                     | a                      |
+| in G                       | alto flute                                                             | a) sounds a perfect fourth lower b) notated a perfect fourth higher                         | f'                          | g                      |
+| in F                       | French horn (horn), English horn (cor anglais)                         | a) sounds a perfect fifth lower b) notated a perfect fifth higher                           | g'                          | f                      |
+| in E-flat                  | alto saxophone, French horn, alto horn (tenor horn), E-flat trumpet    | a) sounds a major sixth lower b) notated a major sixth higher                               | a'                          | e-flat                 |
+| in C (low)                 | guitar, lute, bass guitar, double bass, contrabassoon (double bassoon) | a) sounds a perfect octave lower b) notated a perfect octave higher                         | c''                         | c                      |
+| in B-flat (low)            | baritone, tenor saxophone, bass clarinet, bass trumpet                 | a) sounds a major ninth lower b) notated a major ninth higher                               | d''                         | b-flat,                |
+| in E-flat (low)            | baritone saxophone                                                     | a) sounds one octave and a major sixth lower b) notated one octave and a major sixth higher | a''                         | e-flat,                |
