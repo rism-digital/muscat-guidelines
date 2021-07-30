@@ -1,12 +1,15 @@
-### Plattennummer (028 $a)
+### Plate number (028 $a)
 
-Geben Sie hier die Plattennummer wie sie auf der Quelle (Musikdrucke, Theoretica und Libretti oder anderes musikbezogenes Material) vorhanden ist wieder. Arabische Ziffern können zusätzlich zu römischen Zahlen angeben werden.
+This field is for plate numbers, which typically appear on printed items but can also be found on manuscripts that were copied from a printed music edition.
 
-_Beispiele_:  
-B. & H. 8533  
-S. B. 2. 11  
-424  
-L. M. 2. A. 31  
-XLII [42]
+Enter the plate number exactly as it appears on the source. You may add arabic numerals in brackets if the plate number uses roman numerals.
 
-Verlagsnummern werden im Feld **Bemerkungen (500)** eingetragen.
+_Examples_:
+
+- B. & H. 8533
+- S. B. 2. 11
+- 424
+- L. M. 2. A. 31
+- XLII [42]
+
+The statement "[without plate number]" is allowed. Publisher's numbers must be entered in the field **General note ( 500)**.
