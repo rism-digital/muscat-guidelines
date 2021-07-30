@@ -1,11 +1,11 @@
-#### Uwaga o zawartości (505 $a) 
+### Contents note (505 $a)
 
-Wprowadzić dodatkowe informacje o zawartości źródła, które nie mieszczą się w żadnej innej kategorii, np:
+Enter additional information about the contents of the source which does not fit into any other category, such as:
 
-- Informacja na temat różnych wersji utworu
-- Informacja na temat struktury zbiorów
-- Liczba wersów w pieśniach stroficznych
-- Ogólna, strukturalna informacja o źródle
-- Informacja o pełnej obsadzie, jeśli materiał jest niekompletny.  
-  
-Wprowadzić używając własnego języka katalogowania.
+- Information on different versions of the work
+- Information on the structure of collections
+- The number of verses in strophic songs
+- General structural information about the source
+- Information on the full scoring, if the material is incomplete
+
+Enter using your cataloging language.
