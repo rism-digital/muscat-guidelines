@@ -1,3 +1,3 @@
-**Wiele egzemplarzy w jednej instytucji**
+**Multiple copies in one institution**
 
-Jeżeli Państwa instytucja posiada wiele egzemplarzy tego samego drukowanego wydania, należy stworzyć osobny rekord dla każdego egzemplarza.
+If your institutions owns multiple copies (exemplars) of the same printed edition, create a separate holdings record for each copy.
