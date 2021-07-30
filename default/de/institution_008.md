@@ -1,3 +1,3 @@
-#### Datum der Erstellung (MARC 008; ISDIAH 5.6.6) 
+### Date of creation (MARC 008; ISDIAH 5.6.6)
 
-Dieses Feld zeichnet das Datum der Erstellung auf. Das Feld wird automatisch generiert.
+This field shows the date that the record was created. This field is automatically generated.
