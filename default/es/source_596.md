@@ -1,6 +1,6 @@
 ### Referencias a las series RISM A/I y B (596)
 
-Registre referencias cruzadas a ediciones impresas indexadas en las series RISM si la fuente presenta claramente la misma obra como copia manuscrita de una edición impresa. Pueden darse más detalles al respecto en el campo **Nota general (500).** Véase también el campo **Fuente Relacionada** **(787)**.
+Registre referencias cruzadas a ediciones impresas indexadas en las series RISM si la fuente presenta claramente la misma obra como copia manuscrita de una edición impresa. Pueden darse más detalles al respecto en el campo **Nota general (500).** Véase también el campo **Fuente Relacionada** **(787)**. See also the field **Related source (787)**.
 
 #### Referencias a las series RISM A/I y B (596 $a)
 
@@ -8,7 +8,16 @@ Seleccione la serie RISM
 
 #### Número de serie RISM (596 $b)
 
-Indique la referencia a la pieza dentro de la serie RISM. Tenga en cuenta que cada volumen tiene un modo distinto de referirse a las fuentes: algunos tienen números individuales mientras que otros requieren números de página. A continuación se ofrecen _Ejemplos_ para cada una de las [publicaciones de RISM](http://www.rism.info/en/publications.html) que incluyen música impresa.
+Indique la referencia a la pieza dentro de la serie RISM. Tenga en cuenta que cada volumen tiene un modo distinto de referirse a las fuentes: algunos tienen números individuales mientras que otros requieren números de página.
+
+Use **Other** for references to printed editions that were not included in the printed volumes of the A/I and B series.
+
+B/XIII - _Hymnologica Slavica_
+
+- Other
+- 1001100380
+
+A continuación se ofrecen _Ejemplos_ para cada una de las [publicaciones de RISM](http://www.rism.info/en/publications.html) que incluyen música impresa.
 
 A/I - _Einzeldrucke vor 1800/Individual Prints before 1800_
 
@@ -44,7 +53,7 @@ B/IX/2 - _Hebrew writings concerning music in manuscripts and printed books from
 
 - 330
 
-B/XIII - _Hymnologica Slavica_
+B/XIII - _Hymnol__ogica Slavica_
 
 - HBS 1738/01
 - HP ca. 1558/09
