@@ -1,57 +1,49 @@
-**Spis treści:**
+**Contents:**
 
-- 
+- General abbreviations and concepts
+- General
+- Additions to any instrument to indicate a range
 
- Skróty i pojęcia ogólne
+  -
 
-  - 
+Additions to any instrument to indicate a type
 
-Część ogólna
+  -
 
-  - 
+Additions to any wind instrument to indicate a tuning other than standard tuning
 
-Dodatki do dowolnego instrumentu wskazujące zakres
+  -
 
-  - 
+Unspecified or unknown types or numbers of instruments
 
-Dodatki do dowolnego instrumentu wskazujące typ
+-
 
-  - 
+Vocal (voice) terms
 
-Dodatki do dowolnego instrumentu wskazujące strój odmienny od standardowego
+-
 
-  - 
+Strings
 
-Nieokreślone lub nieznane typy lub liczby instrumentów
+-
 
-- 
+Woodwinds
 
-Terminy wokalne (głos)
+-
 
-- 
+Brass
 
-Smyczki
+-
 
-- 
+Plucked instruments
 
-Dęte drewniane
+-
 
-- 
+Percussion, other
 
-Blaszane
+-
 
-- 
+Keyboard instruments
 
-Szarpane
-
-- 
-
-Perkusja, inne
-
-- 
-
-Klawiszowe
-
-- 
+-
 
 Basso continuo
