@@ -1,11 +1,12 @@
-### Bemerkungen zu den Aufführungen (518 $a)
+### Note on performance (518 $a)
 
-In diesem Feld werden Angaben zu Aufführungen gemacht. Verwenden Sie eine der Katalogisierungssprachen. Für die Bezeichnungen der Opern- und Konzerthäuser dient die Liste **Opernhäuser und Konzertsäle.**
+Enter information about performances here. Enter using your cataloging language. For assistance with the names of performance venues, please refer to the list **Opera houses and concert halls**.
 
-Das Datum in kodierter Form wird im Feld **Datum (033)** eingetragen. Die Angabe des Städtenamens erfolgt in normierter Form im Feld **Aufführungsort (651)**. Der Name der Institution wird in standardisierter Form im Feld **Nebeneintragung Körperschaften (710)** angegeben. 
+Enter the date in encoded form in the field **Coded date (033)**. Enter the city in standardized form in the field ** Location of performance (651)**. Enter the name of the venue in standardized form in the field **Additional institution (710)**.
 
-_Bei Musikdrucken werden hier nur Angaben gemacht, wenn es sich um einen Gelegenheitsdruck handelt. Angaben zu Aufführungen, die sich auf ein bestimmtes Exemplar des Drucks beziehen, werden im Exemplareintrag gemacht._
+For printed music, only fill this out in the case of occasional prints (that is, music written for a specific occasion). Performances specific to a certain copy of a printed edition should be given in the holdings information.
 
-_Beispiele_:  
-Erstaufführung: [6.9.1791 Praha, National theatre]  
-[at foot of title page:] "Performance in Baden Baden on 17 March 1832"
+_Examples_:
+
+- First performance date: [6.9.1791 Praha, National theatre]
+- [at foot of title page:] "Performance in Baden Baden on 17 March 1832"
