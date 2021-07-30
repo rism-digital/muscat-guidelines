@@ -10,16 +10,13 @@ The **Dashboard** displays your recent records in Muscat.
 
 **Folders** allow you to see all folders created by Muscat users.
 
-The **Faceted search** allows you to search the same sources but with more search criteria: a simple search with limits and an advanced search with many fields available. If you have the permissions to edit a record you see in the faceted search, there will be a link to take you to the Muscat editing mode. Otherwise, return to Muscat by clicking on **Cataloguing**. **Home** takes you back to the RISM Zentralredaktion website.
+The **Faceted search** allows you to search the same sources but with more search criteria: a simple search with limits and an advanced search with many fields available. If you have the permissions to edit a record you see in the faceted search, there will be a link to take you to the Muscat editing mode. Otherwise, return to Muscat by clicking on ** Cataloguing**. **Home** takes you back to the RISM Zentralredaktion website.
 
 The **Sources** page is the main page from which you access the bibliographic records for source descriptions.
 
 **Authorities** takes you to all authority files, controlled vocabulary, and indexes in Muscat. See **General cataloging guidelines: Authorities** for more information.
 
 **Guidelines** lets you see all the guidelines on one page. That's where you are now.
-
-
-
 
 ### Sections and actions in the editing mode
 
@@ -45,8 +42,6 @@ Use the **links** at the top to jump to a section of the record. When editing a 
 
 **Attach a new image** lets you upload small images (usually watermarks, handwriting samples, or bindings) to attach to your records. All images can be found in the **Authorities** menu under **Digital objects**.
 
-
-
 ### Buttons in the editing mode
 
 **Magnifying glass** : Click here to search the authority file linked to the field. A separate window will open up. After you find what you need, click **Select** to make the transfer to your record.
@@ -59,19 +54,18 @@ Use the **links** at the top to jump to a section of the record. When editing a 
 
 **Arrow** : Click on the arrow to expand or collapse fields.
 
-**Add a group** : This button is found at the bottom of the section **Material description**. With different groups, you can associate different dates, formats, watermarks, names, institutions, etc. with different types of sources (or however you choose to describe your material). Some of these fields, such as **Additional personal name (700)**,**Additional institution (710)**, and **General note (500)**are also found elsewhere in the Sources template. Use your best judgment to decide where to place such information: does it apply to the entire source, or just this group of material?
+**Add a group** : This button is found at the bottom of the section **Material description**. With different groups, you can associate different dates, formats, watermarks, names, institutions, etc. with different types of sources (or however you choose to describe your material). Some of these fields, such as **Additional personal name (700)**,** Additional institution (710)**, and **General note (500)**are also found elsewhere in the Sources template. Use your best judgment to decide where to place such information: does it apply to the entire source, or just this group of material?
 
 ### Other functions in the editing mode
 
 **Autocomplete** : If you see a field that contains a key, the field is linked to the authority file or index. Begin typing and use the autocomplete to help you.
 
-**Adding new names, titles, subject headings, etc.** : If you do not find what you need in the authority files, simply enter the name or term you need. Once you click to a different field, an orange border appears around the fields and you will see a checkbox that reads "Confirm the insertion of a new value." Click this box to confirm. For personal names, a field called **Life dates** will appear. Please fill this out if you can because it helps the Editorial Center create a new authority record. When you save, the name or title will be automatically added to the authority files. See also **General Cataloging Guidelines** under **Personal names.**
+**Adding new names, titles, subject headings, etc.** : If you do not find what you need in the authority files, simply enter the name or term you need. Once you click to a different field, an orange border appears around the fields and you will see a checkbox that reads "Confirm the insertion of a new value." Click this box to confirm. For personal names, a field called **Life dates** will appear. Please fill this out if you can because it helps the Editorial Center create a new authority record. When you save, the name or title will be automatically added to the authority files. See also ** General Cataloging Guidelines** under **Personal names.**
 
 **Required fields and validation** : When you begin a new record, the most important fields will already be open and ready for you to fill in. Fields that are yellow are required fields. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the sidebar on the right. In cases where no information can be filled out in a required field, the validation may be overridden by checking a box in the sidebar.
 
-
-
 ### Actions in the viewing mode
+
 This refers to actions you can take when viewing the full record.
 
 **Create:** This brings you to the template selection page from which you can create a new record.
