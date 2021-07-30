@@ -1,3 +1,3 @@
-#### Link para itens nesta fonte (772 $w) 
+### Items in this source (774 $w)
 
-No registro principal para coletâneas e volumes compostos, os links para os itens neles contidos são fornecidos neste campo. Os links são adicionados automaticamente assim que são estabelecidos nos registros relacionados.
+In parent records, links to the items contained therein are displayed in this field. Links are added automatically as soon as they are established in the subentries.
