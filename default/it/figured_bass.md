@@ -1,17 +1,37 @@
-Se è presente una **parte staccata** di basso numerato, i campi seguenti devono essere riempiti in questo modo:
+The following fields must be filled out as follows if you have a figured bass **part** :
 
-| **Strumento** | **Organico sintetico (130/240 $m)** | **Parti staccate esistenti (590)** | **Organico (594)** |
-| b | b | b.fig | b |
-| bc | bc | bc.fig | bc |
-| org | org | org.fig | org |
-| Per altri strumenti a tastiera, segui il modello di **org**. |
+Instrument: b  
+Scoring summary (240 $m): b  
+Parts held (590): b.fig  
+Scoring (594): b
 
- 
+Instrument: bc  
+Scoring summary (240 $m): bc  
+Parts held (590): bc.fig  
+Scoring (594): bc
 
-Per un basso numerato in **partitura** , procedi come segue:
+Instrument: org  
+Scoring summary (240 $m): org  
+Parts held (590): org.fig  
+Scoring (594): org
 
-| **Strumento** | **Organico sintetico (130/240 $m)** | **Organico (594)** | **Nota generale (500)** |
-| b | b | b | b = b.fig |
-| bc | bc | bc | bc = bc.fig |
-| org | org | org | org = org.fig |
-| Per altri strumenti a tastiera, segui il modello di **org**. |
+For other keyboard instruments, follow the model as for **org**.
+
+For a figured bass in a **score** , do the following:
+
+Instrument: b  
+Scoring summary (240 $m): b  
+Parts held (590): b  
+Scoring (594): b = b.fig
+
+Instrument: bc  
+Scoring summary (240 $m): bc  
+Parts held (590): bc  
+Scoring (594): bc = bc.fig
+
+Instrument: org  
+Scoring summary (240 $m): org  
+Parts held (590): org  
+Scoring (594): org = org.fig
+
+For other keyboard instruments, follow the model as for **org**.
