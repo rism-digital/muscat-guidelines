@@ -1,25 +1,27 @@
-**Jest częścią…****  (760)**
+### Item part of (760)
 
-W tym polu należy wprowadzić link łączący opisywaną pozycję z rocznikiem, czasopismem, książką lub serią, której jest częścią. 
+Use this field to link your item to the yearbook, periodical, book, or series that the item is a part of.
 
-**Tytuł czasopisma, książki lub serii (760 $t)**
+#### Title of periodical, book, or series (760 $t)
 
-Wprowadzić tytuł czasopisma, książki lub serii. Pole to połączono z bazą danych **Literatury pomocniczej**. Można dodawać tytuły, których w bazie danych jeszcze nie ma.
+Enter the title of the periodical, book, or series. This field is linked to the **Secondary literature** database. Titles not yet in the database can be added.
 
-**Tom, rok, strona (760 $g)**
+#### Volume, year, page (760 $g)
 
-Wprowadzić dla danej pozycji odpowiednio tom, wydanie, rok i/lub numery stron. Na przykład, w przypadku czasopisma wpisać tom, rok i numery stron. Wprowadzić w formie odpowiadającej stylowi czasopisma.
+Enter as appropriate the volume, issue, year, and/or page numbers for the item. For example, for a periodical enter the volume, year, and page numbers. Enter in a form appropriate to the style of the journal.
 
-_Przykłady_:
+_Examples_:
 
-23 (1986), str. 5-10  
-2, 35 (2014), 7-16  
-71 (1997), Heft 5, p. 275-292  
-vol. 3/1-2; 11/1-2  
-56
+- 23 (1986), p. 5-10
+- 2, 35 (2014), 7-16
+- 71 (1997), Heft 5, p.275-292
+- vol. 3/1-2; 11/1-2
+- 56
 
-W przypadku rozdziału będącego częścią zbioru esejów, wprowadzić jego numery stron.   
-_Przykład_ :  
-str. 76-109
+For a chapter within a collection of essays, enter the page numbers of the chapter:
 
-Co do zasady, należy umieścić wystarczającą ilość informacji, aby inni użytkownicy systemu mogli bez problemu znaleźć daną pozycję 
+_Example_ :
+
+- p. 76-109
+
+As a general rule, make sure to include enough information so that someone else would be able to find the item themselves.
