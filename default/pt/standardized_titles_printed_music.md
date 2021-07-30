@@ -1,43 +1,43 @@
-**Títulos uniformes para música impressa **
+### Standardized titles for printed music
 
-**Títulos distintivos **
+**Distinctive titles**
 
-A música impressa apresenta títulos distintivos mais frequentemente do que a música manuscrita. Por favor, ao catalogar música impressa, observe o seguinte para o campo **Título uniforme (240**). 
+Printed music bears distinctive titles much more frequently than music manuscripts do. Please observe the following for the field **Standardized title (240)**when cataloging printed music.
 
-1. 
+1. **Spelling**  
+   Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms. Frequent changes include _v_to _u_,_i_to _j_,_y_to _i,_and _uu_to _w_. The Editorial Center can assist with unfamiliar foreign languages. Additional variations can be entered in the field **Additional title (730)**.
 
-**Ortografia****  **  
-Insira os títulos uniformes usando ortografia moderna, mas não corrija usos arcaicos ou dialetos/regionalismos. Alterações frequentes incluem v para u, i para j, y para i, e uu para w. A Redação Central pode ajudar no caso de línguas estrangeiras pouco conhecidas. Variações adicionais podem ser inseridas no campo **Título adicional (730)**.   
-   
-_Exemplo_:   
-RISM A/I: RR 3030c   
-Título na fonte: Musicalische Grab=schrifft.   
-Título uniforme: Musikalische Grabschrift 
+_Examples:_
 
-2. **Derivar um título uniforme**  ** **  
-Títulos uniformes devem consistir do título do impresso até a uma quebra natural, normalmente uma vírgula,  ponto final ou uma declaração do autor, instrumentação, número ou impressão. Às vezes, um título distintivo aparece em uma outra página que não a página de título.  
+- RISM A/I: RR 3030c
+   - Title on source: Musicalische Grab=schrifft.
+   - Standardized title: Musikalische Grabschrift
 
-> _Exemplos_:   
-> RISM A/I: B 805   
-> Título na fonte: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza   
-> Título uniforme: Vezzo di perle musicali 
+2. **Deriving a standardized title**  
+   Standardized titles should consist of the title of the print up to a natural break, frequently a comma, period, or a statement of the author, instrumentation, number, or imprint. Sometimes a distinctive title appears on a page other than the title page.
 
-> RISM A/I: B 3781  
-> Título na fonte: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima  
-> Título uniforme: Novo giardino de concerti 
+_Examples:_
 
-   
-**Títulos genéricos **
+- RISM A/I: B 805
+   - Title on source: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza
+   - Standardized title: Vezzo di perle musicali
 
-Mesmo os títulos genéricos, especialmente em impressos antigos, são frequentemente citados na literatura como se fossem títulos distintivos. Use o campo **Título adicional (730)** para registrar estes títulos de forma normalizada. Para orientação, consulte obras de referência padrão como o Grove e o MGG, e arquivos de autoridades da [Library of Congress](http://id.loc.gov/authorities/names.html) ou [VIAF](http://www.viaf.org/). Se o título indica que o item tem uma afiliação com outro item, como libro/Buch/livre ou Teil/part/tomus, insira o componente na linguagem original (mas com ortografia normalizada) e o algarismo depois do título.    
-_Exemplos_:
+- RISM A/I: B 3781
+   - Title on source: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima
+   - Standardized title: Novo giardino de concerti
 
-RISM A/I: P 687   
-Título na fonte: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI   
-Título uniforme: 6 Masses   
-Título adicional: Missarum, liber 12 
+**Generic titles**
 
-RISM A/I: SS 6593a   
-Título na fonte: Ander Theil | Der Preussischen | Fest-Lieder/ | Von Ostern an biß Advent | Mit 5/ 6/ 7/ 8. Stimmen. | JOHANNIS ECCARDI MULHUSINI THURINGI, | vnd | JOHANNIS STOBAEI GRUDENTINI BORUSSI. | Beyder Chur: vnd Fürstlicher Brandeb. Capell= | meistern in Preussen. | DISCANTVS. | Gedruckt zu Königsberg durch Johann Reusnern An: 1644.   
-Título uniforme: Preussische Festlieder   
-Título adicional: Preussische Festlieder, Teil 2
+Even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive titles. Use the field**Additional title (730)** to enter such titles in a standardized form. For guidance, refer to standard reference works such as Grove and MGG, and authority files from the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the component in the original language (but standardized spelling) and the arabic number following the title.
+
+_Examples_:
+
+- RISM A/I: P 687
+   - Title on source: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI
+   - Standardized title: 6 Masses
+   - Additional title: Missarum, liber 12
+
+- RISM A/I: SS 6593a
+   - Title on source: Ander Theil | Der Preussischen | Fest-Lieder/ | Von Ostern an biß Advent | Mit 5/ 6/ 7/ 8. Stimmen. | JOHANNIS ECCARDI MULHUSINI THURINGI, | vnd | JOHANNIS STOBAEI GRUDENTINI BORUSSI. | Beyder Chur: vnd Fürstlicher Brandeb. Capell= | meistern in Preussen. | DISCANTVS. | Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
+   - Standardized title: Preussische Festlieder
+   - Additional title: Preussische Festlieder, Teil 2
