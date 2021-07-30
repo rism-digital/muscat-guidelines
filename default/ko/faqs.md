@@ -1,80 +1,75 @@
-[TO TRANSLATE:]
+### Using Muscat
 
-### 뮤스캣 사용하기  
+1. **Where can I find tutorials about Muscat?**  
+   All of the tutorials are linked on the RISM Editorial Center's Muscat page: [https://rism.info/community/muscat.html](https://rism.info/community/muscat.html)
 
-1. **뮤스캣에 대한 사용 설명서는 어디서 찾을 수 있나요? **  
-모든 설명은 RISM Editorial Center의 뮤스캣 홈페이지([https://rism.info/community/muscat.html](https://rism.info/community/muscat.html))에서 찾아볼 수 있습니다.[  
-  
-](https://rism.info/community/muscat.html)
-2. **다른 뮤스캣 사용자들과 어떻게 연락할 수 있나요? **  
-뮤스캣 개발자와 연락하기: 에러에 대한 보고, 질문, 코멘트, 혹은 제안 등은 muscat@rism.info 로 언제든지 연락주시면 됩니다.  
-  
-구글 그룹스의 **[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat) **에서 뮤스캣과 관련된 업무에 대한 논의를 하며, 뮤스캣 이용자만 가능합니다. RISM Editorial Center와 뮤스캣 개발자들의 업무상 공지사항은 이 그룹을 통해서 전달됩니다. 또한 모든 뮤스캣 사용자들 역시 질문을 할 수 있고 논의 주제를 제기할 수 있습니다.   
-  
-구글 계정이 필수적인 것은 아닙니다. 뮤스캣 계정 정보를 받으시면, 이 그룹의 초대장을 받으실 수 있습니다.  
-  
-또한 Slack 채널([https://rismcommunity.slack.com/](https://rismcommunity.slack.com/)) 을 통해서도 논의가 이루어지고 있습니다.   
-  
-3. **뮤스캣에서 인용된 모든 2차 문헌들이 Editorial Center에 있나요? **  
-아닙니다. 내부 주석(599)에 "HB" 혹은 "Handbibliothek" 또는 "RISM-ZR"라고 쓰여있는 문헌들만 실제로 오피스에 있습니다. 이러한 자료들은 모두 RISM contributor를 위한 것이므로, 혹여 찾고 싶으신 자료가 있으실 경우 알려주시면 찾아보도록 하겠습니다. 오피스에 없는 자료에 관심이 있으실 경우에도 소유자에게 연락을 취해볼 수 있으니 알려주시기 바랍니다.   
-  
-4. **패스워드를 잊어버렸거나 바꾸고 싶다면 어떻게 해야하나요? **  
-패스워드는 Editorial Center에서 관리하고 있습니다. 패스워드를 잊어버렸다면 연락주세요. 패스워드는 변경이 불가능합니다.   
-  
-5. **동료들에게 뮤스캣을 보여줄 수 있을까요? 컨퍼런스나 워크샵에서 뮤스캣을 구동해볼 수 있나요? **  
-네, 부탁드립니다. 이러한 용도를 위한 뮤스캣 트레이닝 버전([https://muscat-training.rism.info](https://muscat-training.rism.info/))이 있습니다.   
-  
-이 곳에서 모든 뮤스캣 사용자들은 개별적으로 로그인할 수 있습니다. "training01@rism.info"부터 "training99@rism.info"까지 99개의 트레이닝 계정이 있습니다.  이 중에 어떠한 계정을 사용하셔도 좋습니다. RISM Editorial Center(contact@rism.info)로 연락을 주시면 패스워드를 알려 드립니다.  
-  
-트레이닝 버전에는 무엇이든 추가하고, 편집하고, 지울 수 있습니다. 기록은 일주일에 한 번(일요일) 현재 뮤스캣 데이터와 통합됩니다. 즉, 새로운 등록은 가능하지만 트레이닝 버전에서 만들어진 기록들은 이후 지워집니다.   
-  
-  
-6. **수정 기록에서, [시스템]이 작성자로 쓰여있으면 무슨 뜻인가요? **  
-레코드와 관련된 색인 영역중 하나가 변경될 경우 시스템 편집이 나타납니다. 전거 기록에서 변경된 것이 당신이 작성한 레코드에서 변경된 것으로 나타나는 것입니다.   
-  
-7. **인쇄 목록이나 도서관의 온라인 목록의 설명으로 레코드를 만들 수 있나요? **  
-네! 가끔은 다양한 이유로 인해, 직접적으로 자료를 이용하지 못할 수도 있기 때문에 인쇄 목록, 작품 목록 혹은 도서관 온라인 목록에 있는 설명만으로도 가능합니다. 이러한 설명을 당신 레코드의 근거로 사용하셔도 됩니다.  
-그럴 때 이렇게 하세요.   
-a. "귀하의 설명에 따른 레코드"는 **일반주석(500**)에 포함시켜주세요.    
-b. 목록은 **서지참조(691)** 혹은 **외부 자료(856)** 영역에 적절하게 연결시켜주세요.   
-c. **레코드 출처(980**) 영역에서 하위분야 **자료 검열(Material examined)** 로 가셔서 **자료 미검열(Material not examined)을** 선택해주세요.   
-  
-8. **B 시리즈의 다른 RISM 발행물에 포함되어 있는 자료를 등록할 수 있나요? **  
-점차적으로 B 시리즈의 자료들이 뮤스캣에 많이 등록되고 있지만, 이는 장기적인 프로젝트입니다. B/I 의 레코드는 뮤스캣에서 볼 수 있지만 B/II는 준비중입니다. 그 동안 다른 B 볼륨의 자료들을 등록해주세요. **2차 문헌(691)**에 B 볼륨에 인용을 포함시켜주세요.   
-  
-9. **언제 opal.rism.info에 있는 공개 목록에서 레코드를 볼 수 있나요?  **  
-뮤스캣 레코드는 한 달에 한 번, 매월 19일 경 opac.rism.info으로 보내지고 공개 목록으로 나타납니다. 따라서 레코드는 며칠 지나야 볼 수 있습니다.  
-  
-10. **만약 RISM의 자료가 더이상 RISM 레코드에 나와있는 기관에서 보유하고 있지 않다면? **  
-이러한 경우에는 자료의 현재 위치를 알 수 없다는 siglum N.N 을 사용합니다. 과거에 소장하고 있었지만 반환되어서 현재 개인이 소장하고 있는 경우도 이에 해당됩니다. 이는 매우 드문 사례이기 때문에, siglum이 필요한 자료가 있다면 Editorial Center로 연락 주시기 바랍니다.   
+2. **How can I contact other Muscat users?**  
+   To contact the Muscat developers: Report any errors, questions, comments, or suggestions to muscat@rism.info at any time.
 
- 
+**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, a Google Group, is the official Muscat discussion list that each Muscat user must join. Official announcements from the Editorial Center and the Muscat developers will be disseminated solely through this group. In addition, all Muscat users are encouraged to ask questions or raise topics for discussion.
 
-### 뮤스캣의 기술적인 측면
-**1. 뮤스캣을 위한 기술적인 요건은 무엇입니까? **  
+A Google account is not required. An invitation to join the group will be sent to you when you receive your Muscat account information.
 
-- 뮤스캣은 독자적인 플랫폼으로 MAC과 PC에서 작동합니다.
-- URL을 통해서 접속하므로 인터넷 연결이 필요합니다.
-- 뮤스캣 작업은 최소 1366 x 768 픽셀 스크린에서 최상으로 작동합니다.
-- 뮤스캣은 Firefox 와 크롬에 최적화 되어있습니다. Internet Explorer 는 사용할 수 없습니다! 
+There is also a discussion channel on Slack at:   
+[https://rismcommunity.slack.com/](https://rismcommunity.slack.com/)
 
-**2. 뮤스캣에 대한 몇 가지 기술적인 부분이 있다면? **
+3. **Is all secondary literature cited in Muscat at the Editorial Center?**  
+   No, only the literature labeled "HB" or "Handbibliothek" or "RISM-ZR" in an internal note (599) is actually in our office. Those materials are for the benefit of all RISM contributors, so if we have a publication that you would like to consult, let us know and we will try to get you what you need. Even if you are interested in a publication we do not have in the office, there's a chance that we know someone who has it.
 
-- 뮤스캣은 오픈 소스입니다. 소스 코드는 [GitHub](https://github.com/rism-ch/muscat) 저장소에서 사용가능합니다.
-- 뮤스캣은 Ruby on Rails 어플리케이션을 사용합니다.
-- MEI를 통해 인시핏(incipit)을 렌더링하는데  [Verovio](http://www.verovio.org/pae-examples.xhtml)를 사용합니다.
-- 검색 엔진으로 Solr가 사용됩니다.
-- 뮤스캣은 MARCXML 레코드를 복구하기 위해  [SRU service](https://github.com/rism-ch/muscat/wiki/SRU) 와 [SRU downloader](https://github.com/rism-international/sru-downloader) 를 사용합니다.
-- 뮤스캣은 유니코드(UTF-8)을 지원합니다.
-  
-뮤스캣 개발에 대한 더 자세한 사항은 RISM 스위스(. [RISM Switzerland's website](http://rism-ch.org/infrastructure/muscat.html?locale=en))에서 확인할 수 있습니다.  
+4. **What do I do if I forget my password or want to change it?**  
+   Passwords are managed by the Editorial Center. Contact us if you lose your password. You cannot change your password.
 
-**3. 인시핏 검색에 대한 몇 가지 기술적인 내용은? **
+5. **Can I show Muscat to my colleagues? Can I demonstrate Muscat at conferences or in workshops?**  
+   Yes, please do! A training version of Muscat is available for exactly these purposes at [https://muscat-training.rism.info](https://muscat-training.rism.info/).
 
-- 스탠퍼드 대학에서 개발된 [Themefinder](http://www.themefinder.org/) 엔진을 기반으로 하고 있습니다. 
-- 인시핏 검색은 뮤스캣에서 모든 검색 쿼리에 사용되는 인덱싱 시스템(Solr)을 활용합니다. 이 시스템은 편집기에서 사용되는 PAE 기보를 분석할 수 있게 맞추어져 있습니다. 인덱싱 과정은 사용자와 카탈로그 작성자에게 매우 평이하며, 코드화된 기보를 위한 일반적인 삽입만 031 영역에 요구될 뿐입니다. 
+All Muscat users can login there with their personal credentials. There are also 99 training accounts (" training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be used. Please contact the RISM Editorial Center (contact@rism.info) for the current password.
 
-**4. 뮤스캣의 몇가지 특징들이 있다면? **
+Anything on the training version can be added, edited or deleted. It is synchronized once a week (on Sunday) with the current Muscat data. This means that the new records will then be available but also that the ones created on the training version will be erased.
 
-- **Versioning** : 카탈로그 작성작들은 레코드의 변경사항을 볼 수 있습니다. 
-- **VIAF** : 인명은 가상 국제 전거파일 [Virtual International Authority File (VIAF)](https://viaf.org/) 에서 불러올 수 있습니다.   
+6. **In the modification history, what does it mean if "[system]" is listed as the author?**  
+   You might see a system edit if one of the indexed fields linked to your record was changed. The change in the authority record will also register as a change in your record.
+
+7. **Can I create records based on descriptions from printed catalogs or online library catalogs?**  
+   Yes! Sometimes, for various reasons, it is not possible to access the source in person and the only description available is in a printed catalog, catalog of works, or online library catalog. You may use such descriptions as the basis for your record.   
+   When doing so:  
+   a. Include a **General note (500)** such as "Record based on description in YouV"   
+   b. Link to the catalog in the field **Bibliographic reference (691)** or **External resource** (856) as appropriate   
+   c. In the field Record origin (980), subfield **Material examined** , select **Material not examined**
+
+8. **Can I enter sources that are included in other RISM publications from the B series?**  
+   Though we are gradually adding sources from the B series to Muscat, this is a long-term project. Records from B/I are in Muscat while B/II is in preparation. In the meantime, please feel free to enter sources from other B volumes. Include a citation to the original B volume in the field **Secondary literature (691)**.
+
+9. **When do records appear in the public catalog at opac.**** rism.info?**  
+   Muscat records are sent for publication in the public catalog at opac.rism.info once a month, at around the 19th of each month. Records are then visible a few days later.
+
+10. **What if a source in RISM is no longer in the hands of the holding institution indicated in the RISM record?**  
+    Use the siglum **XX-NN** for situations in which the current location of a source is unknown, such as if it was on deposit at an institution but the source was taken back and is now in private hands. This happens only rarely. Contact the Editorial Center if a source needs this siglum.
+
+### Technical aspects of Muscat
+
+**1. What are the technical requirements for Muscat?**
+
+- Muscat is platform independent and works on both Macs and PCs.
+- Access is through a URL and requires an Internet connection.
+- Muscat works best on screens that are at least 1366 x 768 pixels.
+- Muscat is optimized for Firefox and Chrome. Do not use Internet Explorer!
+
+**2. What are some technical aspects about Muscat?**
+
+- Muscat is open source. The source code is available at the [GitHub](https://github.com/rism-ch/muscat) repository.
+- Muscat is a Ruby on Rails application.
+- [Verovio](http://www.verovio.org/pae-examples.xhtml) is used to render the music incipits through MEI.
+- Solr is used as a search engine.
+- Muscat has [an SRU service](https://github.com/rism-ch/muscat/wiki/SRU) and an [SRU downloader](https://github.com/rism-international/sru-downloader) to retrieve MARCXML records.
+- Muscat supports Unicode (UTF-8).  
+  More information about the development of Muscat can be found on [RISM Switzerland's website](https://rism.digital/tools/muscat.html).
+
+**3. What are some technical aspects of the incipit search?**
+
+- It is based on the [Themefinder](http://www.themefinder.org/) engine developed at the University of Stanford.
+- It leverages the underlying indexing system (Solr), used for all the search queries in Muscat, which was customized to permit the analysis of the PAE notation used in the editor. The indexing process is completely transparent to the users and catalogers, and only the normal insertion of the coded notation is required in the 031 field.
+
+**4. What are some of the features of Muscat?**
+
+- **Versioning** : Catalogers can view changes made to records
+- **VIAF** : Personal names can be imported through the [Virtual International Authority File (VIAF)](https://viaf.org/).
