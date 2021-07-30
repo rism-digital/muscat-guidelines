@@ -1,5 +1,11 @@
-#### Rekord macierzysty (773 $w) 
+### Parent record (773 $w)
 
-Pole łączy rekord z rekordem macierzystym (zwanym również „głównym wpisem”) w przypadkach takich, jak indywidualne rekordy będące częścią kolekcji i pozycje należące do klocka introligatorskiego. Zawsze należy wprowadzać link do następnego w kolejności najwyższego poziomu.
+This field links the record to a parent record or a record for a composite volume.
 
-Link do rekordu macierzystego należy wprowadzić wyszukując i wybierając numer RISM rekordu macierzystego.
+The first button links to a parent record (also called "main entry" or "collection record") in cases where the record is part of a collection.
+
+The second button links to a record for a composite volume in cases where the record was bound together with other items.
+
+Always link to the next highest level.
+
+Click the appropriate button and search for the RISM number of the parent record or composite volume. Then, click ** Select** to create the link.
