@@ -1,6 +1,6 @@
-#### Numero locale (035 $a)
+### Local number (035 $a)
 
-Utilizza questo campo per riportare un numero a uso interno, come i numeri RISM a nove cifre o altri numeri locali come ad esempio i [numeri di controllo OCLC](https://www.oclc.org/support/services/batchload/controlnumber.en.html). Specifica di che tipo di numero si tratta. Questo numero viene pubblicato nel catalogo online.
+Use this field to indicate a number for internal use, such as nine-digit RISM numbers or other local numbers such as [OCLC control numbers](https://help.oclc.org/Metadata_Services/WorldShare_Collection_Manager/Choose_your_Collection_Manager_workflow/Data_sync_collections/Prepare_your_data/30035_field_and_OCLC_control_numbers) . Specify what kind of number it is. This field is published in the online catalog.
 
-_Esempio:_  
+_Example:_  
 (OCoLC)891760516
