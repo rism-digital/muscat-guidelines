@@ -1,11 +1,11 @@
-#### Soggetto (650 $a)
+### Subject heading (650 $a)
 
-**Campo obbligatorio.**
+**Required field.**
 
-Inserisci qui parole chiave dal soggettario o indicazioni sul genere musicale. Questo campo è collegato all’indice **Parola chiave / Soggetti**.
+Enter subject keywords or genre terms here. This field is linked to the index **Subjects**.
 
-La parola chiave deve essere valida per l’intera composizione o la composizione originale su cui si basa un brano, anche in caso di arrangiamenti, estratti o singoli movimenti. In caso di singole sezioni tratte da composizioni vocali più ampie, inserisci il genere dell’estratto in questione (ad esempio Arias, Marches) accanto a quello della composizione nel suo complesso.
+The keyword should apply to the entire work or the original work on which a piece is based, even in the case of arrangements, excerpts, or single movements. In the case of sections of larger vocal works, enter the genre of the excerpt in question (such as Arias, Marches) as well as that of the entire work.
 
-Ogni scheda deve riportare un soggetto in relazione al titolo uniforme. Questo campo è particolarmente importante per composizioni il cui genere non è menzionato nel titolo uniforme. Si possono selezionare più soggetti; è compito del catalogatore scegliere l’ordine più appropriato. Alcuni tipi di composizione vanno descritti con piu di un soggetto, ad esempio "Contrafacta" o "Inserts".
+Each record should be given a subject heading that relates to the standardized title. This field is particularly important for works whose genre is not named in the standardized title. Multiple subject headings may be entered; it is up to the cataloger to determine the appropriate order. Some kinds of pieces are best served with more than one subject heading, such as "Contrafacta" or "Inserts."
 
-Nota che per certi tipi di genere utilizzati come titoli uniforme, viene utilizzato un **Soggetto (650)** corrispondente. Si prega di consultare l’appendice **Titolo uniforme – Parola chiave / Soggetto**  nelle **Regole di catalogazione** per un aiuto.
+Note that for certain types of genres used as standardized titles, a corresponding subject heading (650) is used. Please consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
