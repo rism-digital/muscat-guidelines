@@ -1,21 +1,19 @@
-### Area di attività (MARC 372)
+### Field of activity (MARC 372)
 
-Questo campo si usa per indicare l'area in cui si svolge l'attività dell'istituzione, la sua competenza, responsabilità, ecc. Il campo è ripetuto se l'istituzione ha avuto più di un'area di attività in periodi di tempo diversi.
+This field is used to enter the area in which the institution is engaged, its area of competence, responsibility, etc. The field is repeated if the institution has multiple fields of activity for different time periods.
 
- 
+#### Field of activity (372 $a)
 
-#### Area di attività (372 $a)
+Enter the field of activity in which the institution is or was engaged.
 
-Inserisci l'area in cui l'istituzione è o era attiva.
+_Example:_
 
-_Esempio:_  
-Music--Instruction and study         
+- Music--Instruction and study
 
- 
+#### Source of term (372 $2)
 
-#### Fonte del termine (372 $2)
+Enter the code that identifies the source of a controlled vocabulary term for the field of activity.
 
-Inserisci il codice che identifica la fonte di un vocabolario controllato per quell'area di attività.
+_Example:_
 
-_Esempio:_  
-lcsh
+- lcsh
