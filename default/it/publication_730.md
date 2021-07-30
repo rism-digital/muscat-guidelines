@@ -1,3 +1,3 @@
-**Titolo alternativo****  (730 $a)**
+### Additional title (730 $a)
 
-Inserisci qui traduzioni del titolo se non appaiono sul frontespizio.
+Enter translations of the title here if they do not appear on the title page.
