@@ -1,103 +1,61 @@
-#### Uwaga ogólna (500 $a) 
+### General note (500 $a)
 
-W tym miejscu należy podać wszelkie informacje, których nie można wprowadzić w innym miejscu. Należy je wprowadzić we własnym języku katalogowania. Cytując dane ze źródła, należy użyć znaku **|** (pionowa kreska) z jedną spacją przed i po znaku, aby zaznaczyć koniec linii. Dodatki do oryginalnego cytatu należy zawsze ujmować w nawiasy kwadratowe.
+Any information on a source which could not be entered in other fields can be given here. Enter using your cataloging language. When quoting something on the source, use **|** (the vertical pipe) with a single space before and after the sign to show a line break. Additions to the original quotation should always be in square brackets.
 
-Przy katalogowaniu zbiorów pojedynczej biblioteki, należy w miarę możliwości starać się zachować jednolitość określeń. Należy unikać przechodzenia z języka na język.  Należy używać języka angielskiego, francuskiego, niemieckiego, włoskiego, hiszpańskiego lub polskiego. Uwagi można sporządzić w innym języku, o ile zostanie załączone tłumaczenie lub streszczenie w jednym z powyższych języków.
+When cataloging the holdings of a single library, try to keep the expressions used as uniform as possible.
 
-Poniżej typy informacji, które można włączyć jako uwagę. Lista ta nie jest pełna i nie zawiera wszystkich możliwych wariantów.
+What follows are examples of types of information that can be included as a note. This list is not exhaustive.
 
-**Instrumentacja**  
-Jeżeli w partyturze występuje basso continuo, należy je wpisać w sposób następujący: b = b.fig, bc = bc.fig, org = org.fig, itd. (patrz także tabele w sekcji **Basso continuo w partyturach i/lub partiach** , gdzie można znaleźć wskazówki odnośnie pól pokrewnych).
+**Instrumentation**  
+If you have a figured bass in a score, indicate it here in the following manner: b = b.fig, bc = bc.fig, org = org.fig, etc. (see also the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
-- 
+- Scoring of second Agnus Dei: S, A, T, T, B
+- org = org.fig
 
-Obsada drugiego Agnus Dei: S, A, T, T, B
+**Missing parts**
 
-- 
+- Other parts missing
 
-org = org.fig
+**Observations**
 
-**Części brakujące**
+- Evidence present of another copyist.
+- The material consists of arias with paraphrased text from Jommelli’s opera.
+- Original pagination: 1-12.
+- fl 1 with autograph dynamics
 
-- 
+**Origin of information ascertained from external sources, such as composer or dating**
 
-Inne brakujące części
+- According to FlotzingerL 1965, composer is Mozart.
 
-**Obserwacje**
+#### Printed items
 
-- 
+**Designation marks**
 
-Widoczne dowody istnienia innego kopisty.
+- Designation mark: “Allgem. Choralbuch.”
 
-- 
+**Publisher's number**
 
-Materiał składa się z arii ze sparafrazowanym tekstem z opery Jommelliego.
+Note that the publisher's number is entered here while the plate number is entered in the field **Plate number (028)**.
 
-- 
+- Publisher's number: 120
 
-Oryginalna paginacja: 1-12.
+**Signature marks**
 
-- fl 1 zawiera dynamikę zapisaną przez kompozytora.   
+- Signature mark: “F 2”
 
-**Pochodzenie informacji sprawdzonej w źródłach zewnętrznych, takich jak kompozytor czy datowanie**
+**Quotations from the source**
 
-- 
+- Title on the parts: "Cantata | dominica pentec. | [...] per Soprano, Alto | Tenore e Basso | del Sig:|r|e Jommelli"
+- At foot of title page: "Performance in Baden Baden on 17 March 1832"
+- Note on cello part, f. 8: “Wir streiken für neue Bögen”
 
-Wg FlotzingerL 1965, kompozytorem jest Mozart.
+**References to other RISM records**
 
-**Materiały drukowane**
+Include the complete RISM siglum, the shelfmark, and the RISM ID number.
 
-- 
+- Further parts in D-KPk 282 (RISM ID no. 450035504).
+- Concordant tune at US-Wc M1.A1A (RISM ID no. 000118313) has title "Jove in his chair".
 
-**Znaki desygnacji**
+**URLs**
 
-  - 
-
-Znak desygnacji: „Allgem. Choralbuch.”
-
-- 
-
-**Numer wydawcy**  
-Należy zwrócić uwagę, że numer wydawcy wprowadza się tutaj, podczas gdy numer wydawniczy wprowadza się w polu **Numer wydawniczy (028)**.
-
-  - 
-
-Numer wydawcy: 120
-
-- 
-
-**Znaki sygnatury**
-
-  - 
-
-znak sygnatury: „F 2”
-
-**Cytaty ze źródła**
-
-- 
-
-Tytuł części: „Cantata | dominica pentec. | [...] per Soprano, Alto | Tenore e Basso | del Sig:|r|e Jommelli”
-
-- 
-
-Na dole strony tytułowej: „Wykonanie w Baden Baden w dniu 17 Marca 1832 roku”
-
-- 
-
-Uwaga na temat partiii na wiolonczelę, f. 8: „Wir streiken für neue Bögen”
-
-**Odniesienia do innych rekordów RISM**
-
-Podać pełne siglum RISM, sygnaturę i numer RISM.
-
-- 
-
-Dalsze części w D-KPk 282 (Nr RISM: 450035504).
-
-- 
-
-Konkordancja w US-Wc M1.A1A (Nr RISM: 000118313) posiada tytuł „Jove in his chair”
-
-**Adresy URL**
-
-Należy rozważyć, czy warto wprowadzić stronę internetową jako literaturę drugorzędną. W razie wpisania tutaj adresu URL, nie należy umieszczać żadnych znaków interpunkcyjnych bezpośrednio przed lub bezpośrednio po adresie URL, w przeciwnym razie link nie będzie działał.
+Consider whether the website should be entered as secondary literature or in the field **External resource (856)**. If you enter a URL here, do not include any punctuation directly before or directly after the URL, otherwise the link will not resolve.
