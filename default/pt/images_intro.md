@@ -5,6 +5,7 @@ Add an image (.jpeg or .png) by clicking on **Attach a new image** when you are 
 Please consult the RISM Editorial Center if you wish to add an MEI incipit.
 
 When you are viewing an image, you have the following options on the right.
+
 - **Return to the list**
 - **Edit** : Allows you to change the name or replace the file
 - **Link source** : Allows you to link the image to an existing source, such as attaching the same watermark to multiple sources
