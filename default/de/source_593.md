@@ -1,32 +1,37 @@
-#### Quellentyp (593)
-**Pflichtfeld**
+### Source type (593 $a)
 
-Der Typ gibt die physische Form der Quelle wieder. Die Typen werden in Englisch eingetragen. Wählen Sie unter den folgende Angaben aus:
+**Required field.**
 
-- Autograph manuscript = Autograph
-- Possible autograph manuscript = fragliches Autograph
-- Partial autograph = Teilautograph
-- Manuscript copy = Abschrift
-- Manuscript with autograph annotations = Abschrift mit autographen Eintragungen
-- Print = Druck
-- Print with autograph annotations = Druck mit autographen Eintragungen  
-- Print with non-autograph annotations = Druck mit handschriftlichen Eintragungen  
-- Libretto, handwritten = Libretto, handschriftlich  
-- Libretto, printed = Libretto, gedruckt  
-- Treatise, handwritten = Theoreticum, handschriftlich
-- Treatise, printed = Theoreticum, gedruckt  
-- Music periodical = Musikzeitschrift  
-- Other =  Sonstige  
+This field describes the nature the source. Please select from the list as follows:
 
-Als **Autograph** gilt eine Handschrift nur, wenn der Komponist sie ganz oder zu großen Teilen selbst geschrieben hat. Ein **fragliches Autograph** zeigt einen gewissen Grad an Ungewissheit an. Bei Autographen und fraglichen Autographen wird der Komponistenname nicht als Schreibername **(700)** angegeben. Nur wenn der Schreiber sicher ist, aber fraglich, ob er auch der Komponist ist, steht der Schreiber im Feld **Nebeneintrag Personenname (****700) **und derselbe Name als** Komponist/Autor (100 $a)** mit mutmaßlicher Zuschreibung.
+**For notated music:**
 
-Autographe Korrekturen oder Zusätze geringeren Umfangs werden durch „Manuscript with autograph annotations“ gekennzeichnet. In diesem Fall ist ein erklärender Vermerk im Feld **Bemerkungen (500)** sinnvoll.
+- **Autograph manuscript** : Written completely or mostly in the composer’s hand.
+- **Possible autograph manuscript** : Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
+- **Partial autograph** : Significant portions of the manuscript are in the composer's hand.
+- **Manuscript copy**
+- **Manuscript copy with autograph annotations** : Corrections or small additions are in the composer’s hand.
+- **Print**
+- **Print with autograph annotations:** Handwritten annotations by the composer. Use for holdings only (copy-specific information).
+- **Print with non-autograph annotations** : Any other kind of handwritten annotations not by the composer. Use for holdings only (copy-specific information).
 
-Ist der Bearbeiter einer Komposition gleichzeitig auch deren Schreiber, gilt diese Quelle als **Abschrift** nicht als **Autograph**.
+**For other types of documents:**
 
-Liegen mehrere Quellentypen vor (sog. gemischtes Material) wird die "Materialbeschreibung" wiederholt und der entsprechende Typ ausgewählt.
+- **Libretto, handwritten**
+- **Libretto, printed**
+- **Treatise, handwritten**
+- **Treatise, printed**
+- **Other**
 
-Wenn es sich bei Ihrer Quelle um eine mechanische Reproduktion handelt (z. B. eine Fotokopie), gehen Sie folgendermaßen vor:
+In the case of autograph manuscripts and possible autograph manuscripts, do not create an added entry **(700)**with the composer's name as the copyist. However, an exception is if the identity of the copyist is certain but it is uncertain if the copyist is also the composer. In such a case, enter the copyist's name in the field **Additional personal name ( 700)**but add the same name to the field **Composer/Author name (100 $a)**with the appropriate attribution.
 
-1. Wählen Sie **Autograph** , **Manuscript copy** usw. aus (d.h. wählen Sie den Typ aus, der für die Originalquelle gilt)
-2. Wählen Sie die Art der Reproduktion im Feld **Spezielle Fertigungstechnik (340 $d)**
+In some cases, such as with a partial autograph, an explanatory note in the field **General note (500)**may be appropriate.
+
+If the arranger of a composition was also the copyist, select **Manuscript copy** and not **Autograph manuscript**.
+
+If multiple types of sources are present, repeat the "Material description" group to select and describe each type of source.
+
+If your source is a mechanical reproduction (such as a photocopy), follow these steps:
+
+1. Select **Autograph manuscript** , **Manuscript copy** , etc. as appropriate (that is, select the type that applies to the original source)
+2. Select the type of reproduction in the field **Special production technique (340 $d)**
