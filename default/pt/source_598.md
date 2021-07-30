@@ -1,3 +1,3 @@
-### Instrumentação codificada (598)
+### Coded instrumentation (598)
 
-**Não utilize. Usado somente em dados migrados.**
+**Do not use. Only used in migrated data.**
