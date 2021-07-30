@@ -1,123 +1,123 @@
-### **Descrição física (300)**
+### Physical description (300)
 
-**Campo obrigatório.**  
-Este campo informa o número de itens, o formato e (para todos os formatos, exceto para partes) a extensão.
+**Required field.**  
+This field is for the number of items, the format, and (for all formats except parts) the extent.
 
-Observe que toda a seção **Descrição material** é repetível, assim como o campo **Descrição física (300)** e o subcampo **Formato, extensão (300 $a)**. Isto significa que pode-se criar livremente uma seção **Descrição material** por formato ou pode-se listar cada formato, em uma linha separada, em **Descrição física (300)**.
+Note that the entire section **Material description** is repeatable, as is the field **Physical description (300)** and the subfield **Format, extent (300 $a)**. This means that you are free to create one **Material description** section per format, or you can list each format on a separate line in **Physical description (300)**.
 
-Digamos que o material consiste de 1 partitura e 10 partes. Para catalogadores que entram em muitos detalhes, criar uma seção **Descrição material** para a partitura e uma seção **Descrição material** para as partes permite que se atribuam diferentes datas, copistas, marcas d'água e outras informações específicas, seja para a partitura, seja para as partes (ou pode-se ainda descrever as partes em grupos menores, se necessário). Se a data, copista etc. são as mesmas tanto para a partitura como para as partes, ou se não há necessidade de entrar com muitos detalhes, então é suficiente listar simplesmente uma abaixo da outra, no campo **Formato, extensão (300 $a)**. Diferentes dimensões podem ser inseridas repetindo o campo **Descrição física (300)**.
+Let's say you have 1 score and 10 parts. For catalogers going into a lot of detail, creating one **Material description** section for the score and one **Material description** section for the parts allows you to assign different dates, copyists, watermarks, and other information specific to just that score or just those parts (or you can even describe the parts in smaller groups if necessary). If the date, copyist, etc. are the same for both the score and the parts, or if you are not going into so much detail, then it is enough to simply list one underneath the other in the field **Format, extent (300 $a)**. Different dimensions can be entered if you repeat the field **Physical description ( 300)**.
 
-#### **Formato, extensão (300 $a)**
+#### Format, extent (300 $a)
 
-O campo **Formato, extensão (300 $a)** é formado por três componentes: **Itens, Formato, Extensão**. Observe que a extensão, aqui, não se refere a partes, nem mesmo a partes de tablatura; a extensão de partes deve ser inserida no campo **Partes existentes (590)**. Utilize a terminologia listada em inglês.
+The field **Format, extent (300 $a)** is built up of three components: **Items, Format, Extent.** Note that an extent is not given for parts, including tablature parts; the extent of parts is entered in the field **Parts held (590)**. Use the English terminology listed.
 
-**Itens** : Informe o número de itens existentes. Use X para indicar um número desconhecido de itens.
+**Items** : State the number of items held. Use **X** to indicate an unknown number of items.
 
-**Formato** : Utilize uma das opções seguintes.  
-Geral:
+**Format** : Use one of the following.  
+General:
 
-- **part(s)** [parte(s)]: A notação de uma obra para um instrumento ou voz, independentemente do número de pentagramas por sistema (inclui piano, órgão, piano a quatro mãos)
-- **score(s)** [partitura(s)]: Contém todos os instrumentos e/ou vozes de uma composição, caso mais de um meio de performance esteja envolvido. Isto inclui obras para voz e acompanhamento.
+- **part(s)**: The notation of a work for an instrument or voice regardless of the number of staves per system (includes piano, organ, piano four-hands). Use also for partbooks.
+- **score(s)**: Contains all the instruments and/or voices of a composition, as long as more than one performing force is involved. This includes works for voice and accompaniment.
 
-Tipos de partituras:
+Kinds of scores:
 
-- **vocal score(s)** [partitura(s) vocal(ais)]: Parte(s) vocal(ais) com acompanhamento, arranjadas para um instrumento de teclas.
-- **keyboard score(s)** [partitura(s) de teclado]: Os instrumentos são arranjados para um instrumento de teclas (sem partes vocais). Indique a extensão imediatamente depois, independentemente do número de pentagramas por sistema.
-- **chorus score(s)** [partitura(s) de coro]: Uma partitura que contém apenas as partes vocais. 
-- **particella(s)**: Um esboço ou rascunho de uma composição em um formato de partitura curta.
-- **short score(s)** [partitura(s) curta(s)]: Todos os outros tipos de partituras reduzidas, condensadas ou curtas.
+- **vocal score(s)**: Vocal part(s) with the accompaniment arranged for a keyboard instrument.
+- **keyboard score(s)**: The instruments are arranged for a keyboard instrument (no vocal parts). Indicate the extent immediately following regardless of the number of staves per system.
+- **chorus score(s)**: A score that contains only the music for the voices.
+- **particella(s)**: A sketch or draft of a composition in a short score format.
+- **short score(s)**: All other kinds of reduced, condensed, or short scores.
 
- Formatos especiais:
+Special formats:
 
-- **tablature part(s)** [parte(s) de tablatura]: O tipo de tablatura, se conhecido, deve ser indicado no campo **Nota geral (500).**
-- **tablature score(s)** [partitura(s) de tablatura]  
-- **choirbook(s)** [livro(s) de coro]: Um livro no qual todas as vozes de uma obra são escritas separadamente de modo que o coro possa ler a música a partir de um livro. 
-- **sketch(es)** [esboços]: Use para esboços se o tipo do formato não puder ser mais precisamente determinado.
-- **text document(s)**  [documento(s) textual(ais)]: Use para libretos, tratados e outros tipos de documentos textuais. Uma nota no campo **Nota geral (500)** pode ser necessária.
-- **prompt book(s)** [livro de ponto]: Um documento (pode ser uma partitura ou texto curto) usado por um ponto para um espetáculo de palco.
-- **table book(s)** [livro(s) de mesa]: partes arranjadas em uma página de maneira que todos os intérprete possam lê-la sentados em volta de uma mesa.
-Outros:  
+- **tablature part(s)**: The type of tablature, if known, should be named in the field **General note (500).**
+- **tablature score(s)**
+- **choirbook(s)**: A book in which all voices of a work are written separately so that the choir can read the music from one book.
+- **sketch(es)**: Use for sketches if the type of format cannot be more precisely determined.
+- **text document(s)**: Use for libretti, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
+- **prompt book(s)**: A document (can be a short score or text) used by a prompter for a stage work.
+- **table book(s)**: parts arranged on a page so that all performers can read from it while seated around a table.
 
-- **various** [vários]: Use para os registros principais de coletâneas se a coletânea contém diferentes tipos de formatos (tais como uma partitura completa e uma partitura de teclado). 
-- **other** [outro]: Use se nenhum dos formatos acima se aplica. Em tais casos, explique com uma nota no campo **Nota geral (500)**. O número de itens ou a extensão não são obrigatórios.
+Other:
 
-Para parte(s) de regência, use **part** ou **parts** aqui e insira **conductor part** [parte de regência] no campo **Partes existentes (590)**.
+- **various** : Use for collection parent records if the collection contains different kinds of formats (such as a full score and a keyboard score).
+- **other** : Use if none of the above apply. In such cases, explain with a note in the field **General note (500)**. The number of items or the extent is not required.
 
-**Extensão:** Insira o número de páginas, folhas ou dobras [gatherings]. Escolha entre as seguintes abreviaturas: **f** para folio [folio], **p** para página [page], **lvs** para folhas [leaves (sheets)], e **fds** para dobras [folds (gatherings)]. Neste sistema, 1 **lvs** corresponde a 2 **f** , enquanto 1 **fds** significa ao menos 1 **lvs**.
+For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590).**
 
-Pode-se também indicar páginas ou fólios individuais no interior de uma coletânea manuscrita. Use somente um método de enumeração. Indique outras unidades (tais como a conversão de fólios para páginas) no campo **Nota geral (500)**. Para indicar recto e verso, use **r** e **v**.
+**Extent** : Enter the number of pages, leaves, or gatherings. Choose among the following abbreviations: **f** for folio, **p** for page, **lvs** for leaves (sheets), and **fds** for folds (gatherings). In this system, one **lvs** corresponds to two **f** , whereas one **fds** means at least one **lvs**.
 
-Não indique a extensão de partes aqui. Essa informação é inserida no campo **Partes existentes (590)**.
+You may also indicate single pages or folios within a manuscript collection. Use only one method of enumeration. Indicate other units (such as the conversion from folios to pages) in the field**General note (500)**. When indicating recto and verso, use both **r** and **v**.
 
-_Exemplos_:  
-1 score: 35 p.  
-1 short score: 8 f.  
-1 tablature score: p. 5-8  
-1 keyboard score: f. 2r-4v  
-various: 101 p.  
-5 parts  
-1 part  
-other: 10 p.  
+Do not indicate the extent for parts here. Extent is entered in the field **Parts held (590)**.
 
-other
+_Examples_:
 
-  
+- 1 score: 35 p.
+- 1 score (2x): 2, 2 f.
+- 1 short score: 8 f.
+- 1 tablature score: p. 5-8
+- 1 keyboard score: f. 2r-4v
+- various: 101 p.
+- 5 parts
+- 1 part
+- other: 10 p.
+- other
 
-Exemplos de outras foliações:  
-Prefácio é numerado I-VIII, seguido de 25 páginas de música
+Examples of other foliations:  
+Foreword is numbered I-VIII, followed by 25 pages of music
 
 - VIII, 25 p.
 
-1 folio está numerado, o prefácio é numerado I-VIII, seguido de 25 páginas de música
+1 folio is numbered, foreword is numbered I-VIII, followed by 25 pages of music
 
 - 1 f., VIII, 25 p.
 
-1 folio está sem numeração, o prefácio é numerado I-VIII, seguido de 25 páginas de música
+1 folio is unnumbered, foreword is numbered I-VIII, followed by 25 pages of music
 
 - [1] f., VIII, 25 p.
 
-A numeração das páginas muda de números romanos para arábicos
+Pages change from roman to arabic numerals
 
 - XII p., p. 13-36
 
- 
-
-Páginas em branco ou irregularidades na foliação podem ser mencionadas no campo **Nota geral (500)**.
+Blank pages or foliation irregularities can be mentioned in the field**General note (500)**.
 
 - f. [1] blank
 - f. [2] blank
-- p. 272 occurs twice  
+- p. 272 occurs twice
 
-#### **Outros detalhes físicos (300 $b)** 
+#### Other physical details (300 $b)
 
-A presença de ilustrações e outros elementos suplementares podem ser mencionados aqui. Use o seu idioma de catalogação.
+The presence of illustrations and other supplemental elements can be mentioned here. Enter using your cataloging language.
 
-Exemplos incluem:
+Examples include:
 
-- anúncios  
-- página de título gravada  
-- frontispício  
-- ilustrações  
-- lista de assinantes  
-- lista de assinantes através de “praenumeration” (comum na Alemanha)  
-- retratos  
-- dispositivo do impressor  
-- marca do impressor  
-- vinheta  
+- advertisements
+- engraved title page
+- frontispiece
+- illustrations
+- list of subscribers
+- list of subscribers through praenumeration (common in Germany)
+- portraits
+- printer's device
+- printer's mark
+- vignette
 
-#### **Dimensões (300 $c)**
+#### Dimensions (300 $c)
 
-Insira as dimensões da fonte: altura x largura em cm. Frações de centímetros podem ser indicadas por vírgula ou ponto. Um segundo conjunto de dimensões pode ser dado entre parênteses. Se há mais de dois conjuntos de dimensões diferentes, insira a frase em inglês “ **Different sizes** ” (tamanhos diferentes). Maior detalhamento pode ser feito no campo **Nota geral (500)**. Formatos como **octavo** , **quarto** , etc. devem ser indicados no campo **Formato de livro (340)**.
+Enter the dimensions of the source: height x width in cm. Fractions of centimeters may be indicated by either a comma or period. A second set of dimensions can be given in parentheses. If there are more than two different sets of dimensions, enter the English phrase **Different sizes** ; further elaboration can be made in the field **General note (500)**. Formats such as **octavo** , **quarto** , etc. should be indicated in the field **Book format (340 $m)**.
 
-_Exemplos_:  
-25.5 x 30.5 cm   
-36 x 25.5 cm  
-25.5 (21.5) x 32 (28.5) cm  
-Different sizes
+_Examples_:
 
-Para itens impressos, pode-se inserir as dimensões da área impressa. Use indicações como “printed area” (área impressa) or “plate mark” (marca de chapa). Separe esta medida da medida da fonte com um ponto e vírgula. Se as dimensões variam, meça a página de título e a primeira página de música (incluindo, quando aplicável, uma indicação do que foi medido).
+- 25.5 x 30.5 cm
+- 36 x 25.5 cm
+- 25.5 (21.5) x 32 (28.5) cm
+- Different sizes
 
-_Exemplos_:  
-20 x 16 cm; plate mark 18 x 15,5 cm  
-Plate mark, title page: 20.2 x 27.7 cm; plate mark, music: 20.4 x 28.2 cm  
-Printed area, title page: 20.2 x 27.7 cm; printed area, music: 20.4 x 28.2 cm
+For printed items, if desired you may enter the dimensions of the printed area. Use indications such as "printed area" or "plate mark." Separate this measurement from the measurement of the source with a semicolon. If dimensions vary, measure the title page and the first page of music (including, when applicable, an indication of what was measured).
+
+_Examples_:
+
+- 20 x 16 cm; plate mark 18 x 15,5 cm
+- Plate mark, title page: 20.2 x 27.7 cm; plate mark, music: 20.4 x 28.2 cm
+- Printed area, title page: 20.2 x 27.7 cm; printed area, music: 20.4 x 28.2 cm
