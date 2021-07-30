@@ -1,9 +1,7 @@
-[TO TRANSLATE:]
+**Scope of printed music in RISM**
 
-**RISM에서 음악 출판물 범위 **
+RISM seeks to document printed music from the beginnings of music printing through around 1900.
 
-RISM은 초기부터 1900년까지의 음악출판물을 목록화합니다. 
+In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and distribution. The amount of music considered "rare" or undocumented elsewhereis much less when compared to previous centuries. Music published by modern publishers, printed in large quantities, widely available, and meant for active use by library patrons would be better documented in cooperative databases such as [WorldCat](http://www.worldcat.org/).
 
-20세기를 지나 오늘날에 이르면 상업적인 음악 출판과 배포는 급격히 증가합니다. "희박"하거나 혹은 그 밖의 "목록화"되지 않은 음악은 이전 시기에 비해 훨씬 적습니다. 현대에는 널리 이용할 수 있게끔 대량으로 음악을 출판하는데, 이는 마치 도서관 이용자들의 활발한 사용이 [WorldCat](http://www.worldcat.org/) 같은 협력을 요구하는 데이터베이스의 자료 축적에 도움이 되는 것과 같습니다. 
-
-RISM은 사례별로 다루고 있는데, 현존하지 않는 출판사 혹은 역사적으로 중요한 소규모의 특정 지역의 출판사에 의해 20세기에 출판된 음악 뿐만 아니라 개인 소장 자료에 이르기까지 역사적으로 가치 있는 현대 에디션까지 고려하여 자료를 목록화 하고 있습니다. 
+RISM will consider, on a case-by-case basis, whether to document music published in the 20th century by defunct publishers or by smaller, regional publishers of historical significance; as well as modern editions included in the course of cataloging a collection with historical value, such as the private library of an individual.
