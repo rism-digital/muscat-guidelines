@@ -1,79 +1,74 @@
-#### Besetzung (594 $b)
+### Total scoring (594)
 
-**Pflichtfeld**  
+#### Voice/instrument (594 $b)
 
-  
+**Required field.**
 
-In diesem Feld wird die vollständige Besetzung des Werks eingegeben, die im **Besetzungshinweis** zusammengefasst wurde. Aus diesem Grund muss der Besetzungshinweis immer mit den Angaben in **Besetzung** korrelieren.
+The scoring (also known as performing force, medium of performance, or instrumentation, which here includes vocal parts) of a work, which was given in brief in the **Scoring summary** , is given here in full. The **Scoring summary** must therefore always correlate with the details you enter in this full description of the scoring.
 
-Wenn keine Gesamtbesetzung angegeben ist, sollte sie aus dem Titel oder dem Material ermittelt werden. Bei einer unbekannten Gesamtbesetzung erfolgt hier die Globalangabe **no indication**. Zweifelsfälle können im Feld **Bemerkungen (500)** näher aus geführt werden.
+If the full scoring requirements are not given, these should be ascertained from the title or the material itself. If the scoring is not known, write **no indication**. Any uncertainty can be mentioned in more detail in the field ** General note (500)**.
 
-Bei der Eingabe können Sie das Autocomplete zu Hilfe ziehen. Eine alphabetische Liste der Instrumentenbezeichnungen finden Sie in der RISM Abkürzungsliste. Bezeichnungen, die nicht in der Liste enthalten sind, werden auf Englisch und ausgeschrieben angegeben. Dabei erhalten Instrumentalstimmen einen kleinen Anfangsbuchstaben und Vokalstimmen einen großen Anfangsbuchstaben. Soloinstrumente werden mit **iSol:** eingeleitet.   
-  
+Use the autocomplete in this field to help you. An alphabetical list of abbreviations can be found in the RISM instrument abbreviations list. General instrumental designations (such as strings) are always in English and individual instruments are in Italian whenever possible. Other specific, regional instruments should be written in the original language.
 
-Für die Nennung der Besetzung gilt folgende Reihenfolge:
+Use upper case for vocal parts and lower case for other instrumental parts. Solo instruments begin with **iSol:**.
 
-- 
+If you have a figured bass, enter the instrument as usual, such as **b** , **bc** , **org** , etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
-Solo-Vokalstimmen
+For non-C instruments, standard tunings are listed in the abbreviation list. If the tuning in your source deviates from the standard tuning, please list the tuning in the source (see: **in A** ). For instruments that are normally in C, "in C" does not need to be listed. If in doubt, list the tuning. Instrument tunings should be given in English. See ** Appendix: Keys**.
 
-- 
+When trying to decide between similar terms, it is usually best to go with what is on the source. If the name of the instrument in your source deviates from the RISM abbreviation, you may write the term as on the source in the field ** General note (500)**.
 
-Chor-Vokalstimmen
+List the scoring in the following order:
 
-- 
+- Solo voices
+- Chorus
+- Solo instruments
+- Strings
+- Woodwinds
+- Brass
+- Plucked instruments
+- Percussion
+- Keyboard instruments
+- Basso continuo
 
-Soloinstrumente
+List parts from the highest to the lowest range. Enter one instrument per line. Add alternative scoring possibilities to the original requirements in brackets.
 
-- 
+_Examples:_
 
-Streicherstimmen
+- S
+- A
+- T
+- B
+- Coro 1: T
+- Coro 1: A
+- Coro 2: S
+- iSol: pf
+- vl
+- vla
+- vlc
+- b
+- ob (fl)
+- cl in A
+- tr
+- org
 
-- 
+#### Number (594 $c)
 
-Holzbläserstimmen
+Indicate the total number of parts here. If a piece includes two parts for the same instrument, enter the single instrument in the field **Scoring** and **2** in the field **Number**.
 
-- Blechbläserstimmen 
+_Examples:_
 
-- Zupfinstrumente
+- For a piece with violin 1 and violin 2:  
+  vl  
+  2
+- Only 1 viola part:  
+  vla  
+  1
+- Oboe 1 and oboe 2:  
+  ob  
+  2
+- Only 1 clarinet part:  
+  cl  
+  1
 
-- Schlagwerk
-
-- Tasteninstrumente  
-- 
-
-Generalbass
-
- 
-
-Genannt werden die Stimmen jeweils von der höchsten zur tiefsten Stimmlage, möglichst jeweils eine Stimmbezeichnung pro Zeile. Alternativbesetzungen werden in Klammern der originalen Besetzung angehängt.
-
-_Beispiele:_  
-S  
-A  
-T  
-B  
-Coro 1: T  
-Coro 1: A  
-Coro 2: S  
-iSol: pf  
-vl  
-vla  
-vlc  
-b  
-ob (fl)  
-cl in A  
-tr  
-org
-
- 
-
-#### Anzahl (594 $c)
-
-Hier wird die Anzahl der jeweiligen Stimmen angegeben. Sind zwei Stimmen des gleichen Instruments beteiligt, erfolgt die Bezeichnung im Feld **Besetzung** und hier im Feld **Anzahl** die Angabe  **2**.
-
-_Beispiele:_  
-vl         2 [für ein Werk mit Violine 1 und Violine 2]  
-vla        1 [nur 1 Violastimme]  
-ob        2 [Oboe 1 und Oboe 2]  
-cl         1 [nur 1 Klarinettenstimme]
+_MARC note: This field in the OPAC is_ _594 $a._ _The value for $a is generated during the export to the OPAC._
