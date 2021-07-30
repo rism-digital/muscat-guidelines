@@ -1,9 +1,8 @@
 ### Using Muscat
 
 1. **Where can I find tutorials about Muscat?**  
-   All of the tutorials are linked on the RISM Editorial Center's Muscat page: [https://rism.info/community/muscat.html
+   All of the tutorials are linked on the RISM Editorial Center's Muscat page: [https://rism.info/community/muscat.html](https://rism.info/community/muscat.html)
 
-](https://rism.info/community/muscat.html)
 2. **How can I contact other Muscat users?**  
    To contact the Muscat developers: Report any errors, questions, comments, or suggestions to muscat@rism.info at any time.
 
@@ -23,7 +22,7 @@ There is also a discussion channel on Slack at:
 5. **Can I show Muscat to my colleagues? Can I demonstrate Muscat at conferences or in workshops?**  
    Yes, please do! A training version of Muscat is available for exactly these purposes at [https://muscat-training.rism.info](https://muscat-training.rism.info/).
 
-All Muscat users can login there with their personal credentials. There are also 99 training accounts ("training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be used. Please contact the RISM Editorial Center (contact@rism.info) for the current password.
+All Muscat users can login there with their personal credentials. There are also 99 training accounts (" training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be used. Please contact the RISM Editorial Center (contact@rism.info) for the current password.
 
 Anything on the training version can be added, edited or deleted. It is synchronized once a week (on Sunday) with the current Muscat data. This means that the new records will then be available but also that the ones created on the training version will be erased.
 
@@ -46,9 +45,8 @@ Anything on the training version can be added, edited or deleted. It is synchron
 10. **What if a source in RISM is no longer in the hands of the holding institution indicated in the RISM record?**  
     Use the siglum **XX-NN** for situations in which the current location of a source is unknown, such as if it was on deposit at an institution but the source was taken back and is now in private hands. This happens only rarely. Contact the Editorial Center if a source needs this siglum.
 
-
-
 ### Technical aspects of Muscat
+
 **1. What are the technical requirements for Muscat?**
 
 - Muscat is platform independent and works on both Macs and PCs.
@@ -65,7 +63,6 @@ Anything on the training version can be added, edited or deleted. It is synchron
 - Muscat has [an SRU service](https://github.com/rism-ch/muscat/wiki/SRU) and an [SRU downloader](https://github.com/rism-international/sru-downloader) to retrieve MARCXML records.
 - Muscat supports Unicode (UTF-8).  
   More information about the development of Muscat can be found on [RISM Switzerland's website](https://rism.digital/tools/muscat.html).
-
 
 **3. What are some technical aspects of the incipit search?**
 
