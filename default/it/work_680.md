@@ -1,3 +1,3 @@
-#### Nota generale (680 $a; numero di registro RDA: [rdau:P60470](http://www.rdaregistry.info/Elements/u/#P60470))
+### General note (680 $a; RDA registry [rdau:P60470](http://www.rdaregistry.info/Elements/u/#P60470))
 
-Si può riportare qui qualsiasi informazione riguardo a un'opera che non abbia potuto essere inserita in altri campi. Inserisci i dati usando la tua lingua di catalogazione.
+Any information on a work which could not be entered in other fields can be given here. Enter using your cataloging language.
