@@ -1,48 +1,47 @@
-### Institución adicional (710)
+### Additional institution (710)
 
-Este campo aparece dos veces en los registros de fuentes: en la sección **Personas e instituciones** para indicar todas las instituciones, organizaciones y otras entidades adicionales involucradas con la fuente; y en la sección **Descripción material** por si desea asociar instituciones adicionales con grupos particulares de material, especialmente cuando se crean múltiples grupos de material.
+This field appears twice for sources. It appears in the section **People and institutions** to list all additional institutions, organizations, or other corporate bodies involved with the source. It is also in the section **Material description** if you wish to associate additional institutions with particular materials groups, especially when creating multiple material groups.
 
-Las editoriales que aparecen nombradas en referencia a ciertas personas pero que cumplen la función de empresa editorial (Pleyel, André, etc.) se ingresan aquí. En el caso de música publicada por el autor, registre el nombre de la persona en su forma natural, por ejemplo, Bernhard Christoph Breitkopf.
+Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered here. In the case of self-published music, enter the name of the person in its natural form, such as Bernhard Christoph Breitkopf.
 
-#### Institución (710 $a)
+#### Institution (710 $a)
 
-Ingrese todos los nombres de las instituciones que aparecen la fuente o están asociadas a ella. Este campo está vinculado al archivo de autoridad de **Instituciones**. Pueden añadirse nombres que aún no estén registrados en el archivo de autoridad.
+Enter the names of all institutions that appear on or are associated with the source. This field is linked to the ** Institutions** authority file. Names not yet in the authority file may be added.
 
-#### Departamento (710 $b)
+#### Department (710 $b)
 
-Ingrese, si es necesario, el nombre de una unidad dentro de una institución, como puede ser un departamento. Regístrelo en el idioma local.
+Enter, if necessary, the name of the unit of an institution, such as a department. Enter in the local language.
 
-#### Atribución (710 $j)
+#### Attribution (710 $j)
 
-Seleccione un calificador para describir el nivel de certeza de la atribución, en caso de que se dé alguna de las siguientes situaciones. Si no es el caso, deje el campo en blanco.
+Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
-- **Supuesta** significa que el nombre está presente en la fuente, pero la atribución es cuestionable o dudosa.
-- **Certificada** significa que el nombre está parcial o totalmente ausente en la fuente, pero la atribución es (razonablemente) cierta y se basa en la comparación con fuentes concordantes, bibliografía secundaria u otros recursos de investigación. Esto sucede en la mayoría de los casos.
-- **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
-- **Dudosa** significa que se cuestiona la autoría.
-- **Mal atribuida:** significa que el nombre está en la fuente pero es incorrecto.
+- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
+- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
+- **Doubtful** means attribution is in question.
+- **Misattributed** means the name is on the source but is incorrect.
 
-#### Función (710 $4)
+#### Function (710 $4)
 
-**Campo requerido si se llena el campo “Institución”**
+**Required field if "Institution" is filled out.**
 
-Asigne a cada institución una función exacta. Cada institución puede ser registrada varias veces con funciones distintas. Una lista reducida de la funciones se ofrece en la información relativa a registros de ejemplares. Los códigos de tres letras se refieren al código relator MARC.
+Assign each institution an exact function. An institution can be entered multiple times with different functions. A reduced list of functions is offered in the holdings information for printed items. The three-letter codes refer to the MARC relator code.
 
-- **Asignee [asg]**: la institución a la cual se ha transferido una licencia de impresión o de publicación.
-- **Copista [scr]**: un taller de copistas o una escuela de escribas.
-- **Dedicatario [dte]**
-- **Depositario [dpt]:** la colección, dentro de la biblioteca a la cual pertenece el ítem, por ejemplo, la “James Fuld Music Collection” o el “Nachlass Armin Knab”.
-- **Distribuidor [dst]**
-- **Editorial (contenido) [edt]**: organización que contribuye a la fuente revisando o elucidando el contenido y añadiendo introducción, notas, u otros materiales críticos. El editor también puede preparar un material para su producción, publicación o distribución.
-- **Editorial** **(empresa) [pbl]** _(p__ublisher)_
-- **Fabricante de papel [ppm]**
-- **Fundidor [typ]: **la organización que ha diseñado la tipografía.
-- **Impresor [prt]**
-- **Intérprete** **[prf]**: la institución o ensamble que interpretó la obra, como puede ser una orquesta.
-- **Librero [bsl]**: una persona u organización que tiene libros y otros materiales bibliográficos disponibles para su compra. No use “propietario anterior” para esta función.
-- **Licensee** **[lse]**: la institución que originalmente exhibe el derecho a imprimir o publicar.
-- **Otro [oth]**: todas las demásfunciones. Utilice este calificador si la función exacta no está en la lista o se desconoce, es poco clara o no está especificada.
-- **Lugar de evento [evp]**: nombre de la sala de conciertos, casa de ópera, teatro, etc.
-- **Propietario anterior [fmo]**
-
-Si no está seguro acerca de si el nombre corresponde a una editorial o a una imprenta, seleccione **Editorial (empresa)**.
+- **Assignee [asg]**: The institution to whom a license for printing or publishing has been transferred.
+- **Bookseller [bsl]**: A person or organization who makes books and other bibliographic materials available for purchase. Do not use "former owner" for this function.
+- **Copyist [scr]**: A copyist workshop or a scribal school.
+- **Copyright holder [cph]**
+- **Dedicatee [dte]**
+- **Depositor [dpt]**: The collection within the library to which the item belongs, such as "James Fuld Music Collection" or "Nachlass Armin Knab."
+- **Distributor [dst]**
+- **Editor [edt]**: The organization contributing to a source by revising or elucidating the content, such as adding an introduction, notes, or other critical matter. An editor may also prepare a resource for production, publication, or distribution.
+- **Event place [evp]**: The name of the concert house, opera house, theater, etc.
+- **Former owner [fmo]**
+- **Licensee [lse]**: An institution that is an original recipient of the right to print or publish.
+- **Other [oth]**: All other functions. Use if the exact function is not on the list or is unknown, unclear, or unspecific.
+- **Papermaker [ppm]**
+- **Performer [prf]**: The institution or ensemble that performed the work, such as an orchestra.
+- **Printer [prt]**
+- **Publisher [pbl]**
+- **Type designer [tyd]**: The organization who designed the typeface. If you are unsure whether the name is a publisher or a printer, select **Publisher**
