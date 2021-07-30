@@ -1,39 +1,39 @@
-### **Specjalna technika produkcji (340)**
-Pole służy do fizycznego opisu katalogowanej pozycji, do której produkcji niezbędne było wyposażenie techniczne, oraz do opisu formatu strony. 
-#### **Technika drukarska (340** **$d)** 
+### Special production technique (340)
 
-Można tu podać technikę (techniki) zastosowaną (-e) do produkcji opisywanego źródła. Jeśli potrzebny jest termin, którego nie ma na liście, należy skontaktować się z Biurem Centralnym.
+This field is for the physical description information for an item that required technical equipment for its production, and for the description of the page format.
 
-- **Autografia** : druk transferowy (nie mylić z rękopisami autografami)  
-- **Wydruk komputerowy**  
-- **Sztych**   
-- **Faksymile** : reprodukcja wykonana z zamiarem możliwie najdokładniejszej symulacji wyglądu fizycznego oryginalnego utworu
-- **Litografia**
-- **Druk offsetowy**
-- **Proces optyczny (światłokopia)**: obejmuje Cyanotyp, diazo print, blueprint
-- **Reprodukcja** : wiele typów reprodukcji mechanicznych, takich jak fotokopia, kserokopia, heliografia
-- **Przezrocze**  
-- **Maszynopis**   
-- **Typografia** : obejmuje nuty drukowane przy użyciu ruchomej czcionki  
-- **Drzeworyt**  
+#### Printing technique (340 $d)
 
- Wszelkie uzupełnienia lub komentarze dotyczące techniki druku można zawrzeć w polu **Uwaga ogólna (500 $a)**.
+You may indicate the technique(s) used in the production of the source here. If you need any term not on the list, please contact the Editorial Center.
 
-Jeśli w źródle zastosowano wiele technik druku, można powtórzyć pole, aby podać każdą z nich z osobna. W polu **Uwaga ogólna (500 $a)** należy zawrzeć wyjaśnienie. 
+- **Autography** : Transfer printing (not to be confused with autograph manuscripts).
+- **Computer printout**
+- **Engraving**
+- **Facsimile** : A reproduction made with the intention to simulate as closely as possible the physical appearance of a previous work. (This does not refer to commercial facsimile music editions, which should be entered as Secondary literature.)
+- **Lithography**
+- **Offset printing**
+- **Photoreproductive process** : Includes Cyanotype, diazo print, blueprint.
+- **Reproduction** : Many types of mechanical reproductions are included here, such as photocopy, xerocopy, heliography.
+- **Transparency**
+- **Typescript**
+- **Typography** : Includes music printed using movable type.
+- **Woodcut**
 
-_Przykład_:  
-Sztychowane nuty z litografowaną stroną tytułową:  
-Specjalna technika produkcji (340 $d): Sztych  
-Specjalna technika produkcji (340 $d): Litografia  
-Uwaga ogólna (500 $a): Nuty sztychowane. Strona tytułowa litografowana.
+Any additions or comments about the printing technique may be explained in the field **General note (500 $a)**.
 
-  
+If a source includes multiple printing techniques, you may repeat the field to indicate each technique. Include a note in the field **General note (500 $a)** to explain.
 
-#### **Format książki (340 $m)**
+_Example_:
 
-Wybrać format książki wynikający ze złożenia arkusza, aby utworzyć składkę kart (na przykład, arkusz złożony raz, aby utworzyć folio, dwa razy, aby utworzyć kwarto, trzy razy, aby utworzyć oktavo).
+Engraved music that has a lithographed title page:
 
-Wybrać jedną z poniższych opcji:
+- **Special production technique (340 $d)**: Engraving
+- **Special production technique (340 $d)**: Lithography
+- **General note (500 $a)**: Music engraved. Title page lithographed.
+
+#### Book format (340 $m)
+
+Select the format of the book resulting from folding a sheet to form a gathering of leaves (for example, a sheet folded once to form a folio, twice to form a quarto, three times to form an octavo). Select from the following:
 
 - **2°** : folio, fo
 - **4°** : quarto, 4to
@@ -43,6 +43,6 @@ Wybrać jedną z poniższych opcji:
 - **18°** : octodecimo, eighteenmo, 18mo
 - **20°** : vigesimo, twentymo, 20mo
 - **24°** : vigesimo-quarto, twenty-fourmo, 24mo
-- **obl. **** 2°**: podłużne folio
-- **obl. **** 4°**: podłużne quarto  
-- **obl. **** 8°**: podłużne octavo
+- **obl.**  **2°** : oblong folio
+- **obl.**  **4°** : oblong quarto
+- **obl.**  **8°** : oblong octavo
