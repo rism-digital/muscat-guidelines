@@ -1,21 +1,19 @@
-### Sprachcode (041)  
+### Language code (041)
 
-Dieses Feld wird nur ausgefüllt, wenn das Werk Texte enthält, die in der Kategorie **Text (740)** angegeben sind. Wenden Sie sich an die Zentralredaktion, sofern eine Sprache nicht vorhanden ist.
+This field is for the language used in the source, whether in sung text or in other elements such as dedications and prefaces in printed sources. Explanatory notes can be given in the field **Language note (546)**. Contact the RISM Editorial Center if you need a language that is not on the list.
 
-#### Sprachcode (041 $a)
-**Pflichtfeld, wenn Textincipit (031 $t) ausgefüllt ist.**  
+#### Language of text (041 $a)
 
-Wählen Sie den Code der in der Quelle vorhandenen Textsprache(n) aus. Verwenden Sie dieses Feld für Texte aus Handschriften, Drucken und Theoretika. Der Sprachcode von Libretti wird im nächsten Feld **(041 $e)** eingetragen.
+**Required field if Text Incipit (031 $t) is filled out**
 
-#### Sprachcode von Libretti (041 $e)
-**Pflichtfeld, wenn das Template Libretto gewählt wurde.**
+Select the language(s) of the text in the source. For music, this refers to the language of the sung or spoken text, even if it is printed separately, and not other text such as prefaces or dedications. For treatises, this refers to the language of the text. For libretti, use subfield **$e**.
 
-Wählen Sie die Sprache für das Libretto aus.
+#### Language of libretto (041 $e)
 
-**Sprache von begleitendem Material (041 $g)**
+**Required field if libretto template is selected.**
 
-Wählen Sie die Sprache für das begleitende Material außer Libretti. Begleitendes Material ist speziell in gedruckten Quellen zu finden, beispielsweise Vorworte, Widmungen, Preislisten, etc.
+Select the language of the libretto.
 
-#### Sprachcode des Originaltextes (041 $h)
+#### Language of original text (041 $h)
 
-Handelt es sich beim vorhandenen Text um eine Übersetzung, wählen Sie hier die Originalsprache aus.
+If the text in the source is a translation, select the original language here.
