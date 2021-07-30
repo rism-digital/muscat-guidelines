@@ -1,8 +1,7 @@
-### RISM Serien (510)
-Dieses Feld wird automatisch bei der Datenübernahme aus gedruckten Publikationen (der Serie A/I, B/I und B/II) ausgefüllt.  
+### RISM series (510)
 
-  
+This field is automatically filled out when entries from the print publications (including A/I, B/I, and B/II) are imported.
 
-#### Series (510 $a)
+#### RISM series (510 $a)
 
 #### Number/page (510 $c)
