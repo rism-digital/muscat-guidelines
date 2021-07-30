@@ -1,49 +1,47 @@
-### Nebeneintragung Institutionen (710)  
+### Additional institution (710)
 
-Dieser Teil beschreibt weitere Institutionen, Organisationen oder korporative Körperschaften, die mit dem Werk und/oder Material in Verbindung verstehen. Wenn Sie im Bereich **Materialbeschreibung** mehrere Gruppen haben, können Sie die weiteren Institutionen in der jeweiligen Gruppe erfassen, an der sie beteiligt waren..
+This field appears twice for sources. It appears in the section **People and institutions** to list all additional institutions, organizations, or other corporate bodies involved with the source. It is also in the section **Material description** if you wish to associate additional institutions with particular materials groups, especially when creating multiple material groups.
 
-#### Institutionsname (710 $a)
+Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered here. In the case of self-published music, enter the name of the person in its natural form, such as Bernhard Christoph Breitkopf.
 
-Geben Sie alle auf der Quelle genannten Institutionennamen an. Das Feld ist mit der Normdatei **Körperschaften** verknüpft. Nicht vorhandene Institutionen müssen ergänzt werden.
+#### Institution (710 $a)
 
-#### Untergeordnete Institution (710 $b)
+Enter the names of all institutions that appear on or are associated with the source. This field is linked to the ** Institutions** authority file. Names not yet in the authority file may be added.
 
-Falls nötig können hier untergeordnete Abteilungen einer oben eingetragenen Institution in der Landessprache angegeben werden.
+#### Department (710 $b)
 
-#### Zuschreibung (710 $j) 
+Enter, if necessary, the name of the unit of an institution, such as a department. Enter in the local language.
 
-Wählen Sie einen Indikator, um die Gewissheit der Zuschreibung anzuzeigen:
+#### Attribution (710 $j)
 
-- **Ermittelt** - Der Name ist teilweise oder gar nicht auf der Quelle genannt, aber die Zuschreibung ist (angemessen) sicher und basiert auf Vergleichen mit konkordanten Quellen, Sekundärliteratur oder anderen wissenschaftlichen Ressourcen.
+Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
-- **Mutmaßlich** - Die Zuschreibung basiert auf Sekundärliteratur, ist aber fraglich.
+- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
+- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
+- **Doubtful** means attribution is in question.
+- **Misattributed** means the name is on the source but is incorrect.
 
-- 
+#### Function (710 $4)
 
-**Angeblich -** Der Name erscheint auf der Quelle, aber die Zuschreibung ist fraglich oder zweifelhaft.
+**Required field if "Institution" is filled out.**
 
-- 
+Assign each institution an exact function. An institution can be entered multiple times with different functions. A reduced list of functions is offered in the holdings information for printed items. The three-letter codes refer to the MARC relator code.
 
-**Fälschlich** - Hierbei handelt es sich um eine Fehlzuschreibung.
-
-#### Funktionsbezeichnung (710 $4)
-**Pflichtfeld, wenn Institutionsname ausgefüllt ist.**
-
-Teilen Sie jeder Institution eine Funktion zu. Eine Institution kann mehrfach mit verschiedenen Funktionen genannt werden.
-
-- **Aufführungsort [evp]:** Name des Konzerthauses, Opernhaus, Theater etc.
-- **Depositor [dpt]:** Gegenwärtiger Besitzer einer Sammlung, der seine Quellen in die Aufsicht anderer gibt, beispielsweise "James Fuld Music Collection" oder "Nachlass Armin Knab".
-- **Distributor [dst]**  
-- **Drucker [prt]**  
-- **Interpret [prf]**: Eine Institution oder Ensemble, das das Werk aufführte (beispielsweise ein Orchester).
-- **Herausgeber [edt]**: Organisation, die zur Überarbeitung der Quelle beiträgt (z. B. Inhaltserläuterung, Einführung, Notizen). Ein Herausgeber kann auch die Produktion, Veröffentlichung und Verbreitung der Quelle vorbereiten.
-- **Lizenzinhaber [lse]**  
-- **Lizenznehmer [asg]**  
-- **Musikalienhändler [bsl] **
-- **Papierhersteller [ppm]**  
-- **Rechteinhaber [cph]**  
-- **Schreiber [scr]:** Kopistenwerkstatt oder Schreiberschule  
-- **Verleger [pbl]**  
-- **Vorbesitzer [fmo]**  
-- **Weitere** **[oth]**: Alle anderen Institutionen, deren Funktion nicht aufgelistet ist.
-- **Widmungsträger [dte]**
+- **Assignee [asg]**: The institution to whom a license for printing or publishing has been transferred.
+- **Bookseller [bsl]**: A person or organization who makes books and other bibliographic materials available for purchase. Do not use "former owner" for this function.
+- **Copyist [scr]**: A copyist workshop or a scribal school.
+- **Copyright holder [cph]**
+- **Dedicatee [dte]**
+- **Depositor [dpt]**: The collection within the library to which the item belongs, such as "James Fuld Music Collection" or "Nachlass Armin Knab."
+- **Distributor [dst]**
+- **Editor [edt]**: The organization contributing to a source by revising or elucidating the content, such as adding an introduction, notes, or other critical matter. An editor may also prepare a resource for production, publication, or distribution.
+- **Event place [evp]**: The name of the concert house, opera house, theater, etc.
+- **Former owner [fmo]**
+- **Licensee [lse]**: An institution that is an original recipient of the right to print or publish.
+- **Other [oth]**: All other functions. Use if the exact function is not on the list or is unknown, unclear, or unspecific.
+- **Papermaker [ppm]**
+- **Performer [prf]**: The institution or ensemble that performed the work, such as an orchestra.
+- **Printer [prt]**
+- **Publisher [pbl]**
+- **Type designer [tyd]**: The organization who designed the typeface. If you are unsure whether the name is a publisher or a printer, select **Publisher**
