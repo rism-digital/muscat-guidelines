@@ -1,5 +1,5 @@
-#### **Uwaga wewnętrzna (599 $a)**
+### Internal note (599 $a)
 
-W tym polu można wprowadzać miejscowe uwagi do użytku wewnętrznego. Nie będą one publikowane w katalogu publicznym online. Pole uwag miejscowych można wykorzystywać do zamieszczania wszelkiego rodzaju komentarzy, takich jak pytania, komentarze lub kwestie do ustalenia. Zaleca się podpisywanie uwag inicjałami i ich datowanie.
+Enter local notes for internal use. They are not published in the OPAC. Local notes can be used for comments of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.
 
-Jeżeli dana pozycja jest przechowywana w Biurze Centralnym we Frankfurcie, należy dopisać uwagę:  **RISM-HB ** dla pozycji z księgozbioru podręcznego lub **RISM-HB (PDF)** dla pozycji znajdujących się na udostępnianym dysku. (Na podobnej zasadzie, w razie zauważenia tej uwagi w pozycji, która jest Państwu potrzebna, zachęcamy do skontaktowania się z pracownikami Biura Centralnego, którzy z przyjemnością sprawdzą dane lub zrobią Państwu kopię.)
+If an item is held by the Editorial Center in Frankfurt, add the note: **RISM-HB** for items in the reference library or **RISM-HB (PDF)** for items on the shared drive. (Likewise, if you see this note in an item you need, please feel free to contact the Editorial Center staff and we are happy to look something up for you or make you a copy.)
