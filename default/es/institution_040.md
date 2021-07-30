@@ -1,4 +1,4 @@
-#### Agencia de catalogación (040)
+### Agencia de catalogación original (040 $a)
 
 Este campo consigna la organización que creó el registro original. Para nuevos registros, siempre se trata de RISM, por lo que el código ISIL de RISM (DE-633) se completa automáticamente.
 
@@ -6,8 +6,6 @@ La _Staatsbibliothek zu Berlin – Preußischer Kulturbesitz es_ la responsable 
 
 No modifique este campo.
 
- 
-
-#### Agencia de catalogación original (040 $a)
+#### Agencia de catalogación (040)
 
 Este campo presenta el código de la organización que creó el registro original. Muscat completa automáticamente el código de RISM.
