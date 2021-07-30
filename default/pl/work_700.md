@@ -1,3 +1,3 @@
-#### Dodatkowa osoba **(700)**
+### Additional personal name (700)
 
-Wprowadź dodatkowe nazwy osobowe dla dzieła zgodnie z wytycznymi dla tego pola w Źródłach.
+Enter additional personal names for the work following the guidelines for this field in Sources.
