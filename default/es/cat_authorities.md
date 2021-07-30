@@ -1,24 +1,16 @@
 The **Authorities** section of Muscat collects all authority files, controlled vocabulary, and indexes. We like to think of it as mini databases within Muscat.
 
-
-
 ### Digital objects
 
 The digital objects database collects all the images (usually watermarks, handwriting samples, or bindings as well as MEI incipits) that catalogers upload into Muscat and attach to their records through the **Attach a new image** link in the source editing mode.
-
-
 
 ### Institutions
 
 The authority file for institutions (corporate names) is for non-persons that appear in connection with a source.
 
-
-
 ### Liturgical festivals
 
 The index of  liturgical festivals collects religious holidays and feast days. New liturgical festivals may be added in consultation with the Editorial Center.
-
-
 
 ### Personal names
 
@@ -28,18 +20,13 @@ In the editing mode for personal names, you can search and import data from VIAF
 
 After you enter a new name, you can edit it for the next two months. This is useful if you find alternate spellings of a name, for example, or if you have additional biographical information you wish to add. After that, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to alexander.marxen@rism.info.
 
-
 ### Places
 
 The index of places collects the names of locations, including historical geographic names.
 
-
-
 ### Secondary literature
 
 This bibliographic database contains information about all forms of secondary literature: catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc.  By clicking on "Create," a new work of secondary literature may be added.
-
-
 
 ### Subject headings
 
