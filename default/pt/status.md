@@ -1,11 +1,11 @@
-## **Estado do registro**
+### Record status
 
-O **Estado do registro** determina quais registros estão publicados no [catálogo RISM online](https://opac.rism.info/index.php?id=4) e são, portanto, publicamente visíveis. O estado pode ser modificado manualmente.
+The **Record status** determines which records are published in the [RISM online catalog](https://opac.rism.info/index.php?id=4) and are thus publicly viewable. The status can be changed manually.
 
-**Publicado**  
-Registros do Muscat com o estado **Publicado** são mandados para publicação no catálogo RISM uma vez por mês, por volta do dia 19 (dependendo de fins de semana e feriados). Os registros podem ser vistos no catálogo no final do mês. Todos os registros são automaticamente definidos para **Publicado**.
+**Published**  
+Records from Muscat with the status **Published** are sent for publication in the RISM catalog once a month, around the 19th of the month (depending on weekends and holidays). The records can then be seen in the catalog by the end of the month. All new records are automatically set to **Published**.
 
-**Não publicado**  
-Registros com o estado **Não publicado** são retidos para publicação no [catálogo RISM online](https://opac.rism.info/index.php?id=4). Alguns projetos preferem manter este status até que o projeto esteja concluído, ou indivíduos podem querer esperar até que um item esteja plenamente catalogado antes de publicá-lo (como no caso de  registros extensos que têm muitos incipits ou entradas individuais).
+**Unpublished**  
+Records with the status **Unpublished** are withheld from publication in the RISM online catalog. Some projects wish to keep this status until the project is complete, or individuals might want to wait until an item is fully cataloged before publishing it (such as with extensive records that have lots of incipits or individual entries).
 
-Por favor utilize esse estado prudentemente. Não é boa prática redefinir como Não publicado (ou seja, retirar do estado Publicado) um registro que estava publicamente disponível, nem é ideal manter registros neste estado (Não publicado) por um longo tempo.
+Please use this status judiciously. It is not good practice to unpublish records that were once publicly available, nor is it ideal to keep records unpublished for a very long time.
