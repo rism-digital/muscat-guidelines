@@ -13,6 +13,8 @@ Registre el título breve de la referencia. Este campo está vinculado la base d
 Registre el número de página. Siga las siguientes abreviaturas en inglés: **vol.** (volumen), **fasc**. (fascículo), **suppl.** (suplemento), **pt.** (parte), **p.** (página), **no.** (número) y **clm.** (columna).
 
 _Ejemplos_:  
-vol. 2, pt. 2, p. 430  
-vol. 5, p. 93; vol. 6, p. 12  
-Suppl. 1: 1779-1780, clm. 695
+vol.
+
+- vol. 2, pt. 2, p.
+- vol. 5, p. 93; vol. 6, p.
+- Suppl. 1: 1779-1780, clm. 695
