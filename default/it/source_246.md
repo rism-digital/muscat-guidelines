@@ -1,3 +1,3 @@
-#### Varianti del titolo diplomatico (246 $a) 
+### Variant title on source (246 $a)
 
-Se sulla fonte sono presenti più titoli che si completano e/o differiscono nella quantità d’informazione contenuta, puoi inserire qui tutte le varianti del titolo. Intestazioni, titoli correnti e titoli sulle parti staccate sono esempi di luoghi dove trovare varianti del titolo. Segui le regole come nel campo **Titolo diplomatico** (245 $a).
+If the source bears several titles which supplement each other and/or differ in the amount of information they contain, all the varying forms of the title can be entered here. Headings, caption titles, and titles on parts are examples of places that may have variant titles. Follow the guidelines as for the field **Title on source** (245 $a).
