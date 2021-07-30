@@ -1,32 +1,31 @@
-### Titel (240)
+### Title of item (240)
 
-#### **Pflichtfeld**
-**Titel (240 $a)**  
-  
-Geben Sie hier den Titel (und Untertitel) des Aufsatzes, des Buchs, der Reihe, der Zeitschrift etc. ein. Übersetzungen des werden im Feld **Zusätzlicher Titel (730)** eingetragen.  
+**Required field.**
 
-  
+#### Title of item (240 $a)
 
-#### Art/Inhalt (240 $g)
-Es steht folgende Auswahlliste zur Verfügung:  
+Enter the title of the item, including subtitles. Translations of the title can go in the field **Additional title ( 730)**. Book reviews can be indicated by the prefix [review of:] and the name of the item.
+
+#### Category (240 $g)
+
+Select the category that describes the publication. Choose from:
 
 - **Bibliography**
-- **Catalog** : Katalog (z. B. Bibiliothekskatalgoe) 
-- **Collective catalog** : Sammelverzeichnis
-- **Encyclopedia:** Lexikon
-- **Music edition** : moderne oder kritische Ausgabe   
-- **Other** : Sonstige Literatur (wie Aufsätze, Biographien, Studien etc.)
-- **Thematic catalog** : Werkverzeichnis mit Incipits   
-**Work catalog (catalog of works)**: Werkverzeichnis ohne Incipits  
-  
-  
-**Ausgabeform (245 $h)**  
-  
-Es steht folgende Auswahlliste zur Verfügung:  
+- **Catalog** : other catalogs, includes catalogs of collections or library holdings
+- **Catalog of works** : a catalog of a composer that does not include incipits
+- **Collective catalog** : catalogs that include works by more than one composer
+- **Encyclopedia**
+- **Music edition** : a modern edition or a critical edition of a musical work
+- **Other** : includes all other non-catalog, non-encyclopedia publications, such as articles, essays, chapters, biographies, cultural histories, etc.
+- **Thematic catalog** : a catalog of a composer that includes incipits
 
-- **Article/chapter:** Aufsatz / Beitrag  
-- **Monograph** : Einzelveröffentlichung (auch mehrbändig)  
-- **Periodical** : Zeitschrift, Journal, Zeitung  
-- **Series** : Serie / Reihe
-- **Volume in a series:** Stücktitel / Band innerhalb einer Reihe  
-- **Yearbook:** Jahrbuch
+#### Type of publication (245 $h)
+
+Select the type of publication from the following list:
+
+- **Article/chapter**
+- **Monograph** : a single publication published on a single topic (includes most books)
+- **Periodical** : a journal, newspaper, magazine
+- **Series** : this is used when you enter names of series
+- **Volume in a series**
+- **Yearbook**
