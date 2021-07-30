@@ -1,5 +1,6 @@
-#### **Media type (337 $a)
-Required field.**
+### Media type (337 $a)
+
+**Required field.**
 
 Select the type of media from the following list:
 
