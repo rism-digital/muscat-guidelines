@@ -1,38 +1,38 @@
-Die Erfassungssoftware bietet die Möglichkeit, je nach Art der Quelle verschiedene Grundeinstellungen zu übernehmen. Dabei stehen lediglich diejenigen Felder zur Verfügung, die auch tatschächlich gebraucht werden. So erscheint beispielsweise das Feld „Verlinkung zu den Einzeleinträgen (772 $w)“ lediglich in den Templates, welche für Sammlungen bestimmt sind, da sie für Einzeleinträge nicht gebraucht werden.
+The cataloguing software offers the possibility of selecting some preset templates, depending on the kind of source catalogued. The preselection leaves in the input mask only those fields that are actually used. For example, the field "Link to items in this source (772 $w)" appears only in the templates for collections, as it is not used for single records.
 
-Eine weitere arbeitserleichternde Unterscheidung wird bei handschriftlichen bzw. gedruckten sowie bei zugeschriebenen und anonymen Quellen gemacht. Bei anonymen Werken erscheint somit gar kein Feld mit dem Komponistennamen.
+Another work-saving distinction is made between manuscript or printed sources, attributed and anonymous sources. In anonymous works, no field with the composer's name appears.
 
-Bei der Erstellung eines neuen Eintrags kann unter folgenden Templates ausgewählt werden:
+When creating a new record, the following templates can be selected:
 
 - Blank (control tags only)
 - Convolutum
-- Sammelhandschrift
-- Sammeldruck
-- _Handschriftliche Musikwerke_
+- Manuscript Collection
+- Printed Collection
+- _Music manuscripts_
 
-  - Anonymes Werk
-  - Anonymes Werk in Sammlung
-  - Zugeschriebenes Werk
-  - Zugeschriebenes Werk in Sammlung
-- _Gedruckte Musikwerke_
+  - Anonymous work
+  - Anonymous work in collection
+  - Attributed work
+  - Attributed work in collection
+- _Printed works_
 
-  - Anonymes Werk
-  - Anonymes Werk in Sammlung
-  - Zugeschriebenes Werk
-  - Zugeschriebenes Werk in Sammlung
+  - Anonymous work
+  - Anonymous work in collection
+  - Attributed work
+  - Attributed work in collection
 - _Libretti_
 
-  - Libretto anonym, handschriftlich
-  - Libretto anonym, gedruckt
-  - Libretto zugeschrieben, handschriftlich
-  - Libretto zugeschrieben, gedruckt
+  - Libretto anonymous, manuscript
+  - Libretto anonymous, printed
+  - Libretto attributed, manuscript
+  - Libretto attributed, printed
 - _Theoretica_
 
-  - Theoretica anonym
-  - Theoretica zugeschrieben
+  - Theoretica anonymous
+  - Theoretica attributed
 
-Das Template „Blank (controll tags only) enthält alle Felder aller Templates und soll nur dann verwendet werden, wenn in einem bestimmten Template ein notwendiges Feld fehlt.
+The template "Blank (control tags only)" contains all fields of all templates and is used only if in a certain template a required field is missing.
 
-### Bestehenden Titel kopieren
+### Copying existing records
 
-Neben der Auswahl von verschiedenen Templates, können in der Einstiegsmaske auch bereits bestehende Daten importiert werden. Dazu gibt man lediglich die entsprechende RISM-Nummer in das dafür vorgesehene Feld „Existing title“. Nach der Bestätigung auf den Button „create“ erscheint der gewünschte Titel, der nach dem Speichern automatisch eine neue RISM-Nummer erhält.
+In addition to the selection of different templates, an existing record can be imported into the entrance screen. To this end, it is sufficient to enter the corresponding RISM ID number in the provided entry field "Existing title". After confirming with a click on the button "Create", a new record of the desireded title will appear, that will automatically receive a new RISM ID number on saving.
