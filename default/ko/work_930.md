@@ -1,6 +1,11 @@
-[TO TRANSLATE:]
+### Related work (930; RDA registry [rdaw:P10027](http://www.rdaregistry.info/Elements/w/#P10027))
 
-**주제명 (380 $a)**  
-RDA 레지스트리 ** ** [**rdaw:P10027**](http://www.rdaregistry.info/Elements/w/#P10027)
+This field is used to show a relationship between the current work and a different work.
 
-다른 작업과 연관되어 있습니다. 
+#### Work (930 $a)
+
+Enter the work related to the work described in this record.
+
+#### Type of relationship (930 $i)
+
+Select the type of relationship.
