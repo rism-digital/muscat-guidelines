@@ -10,7 +10,7 @@ Ingrese información acerca de cómo se adquirió el ítem: regalo, legado, pré
 
 Ingrese información sobre la persona o institución (donante, vendedor, etc.) por vía de la cual la institución adquirió la fuente. Regístrelo usando su idioma de catalogación.
 
-Ingrese formas normalizadas de nombres personales en el campo **Nombres personales adicionales (700)** y de instituciones en **Instituciones adicionales** **(710)**. 
+Ingrese formas normalizadas de nombres personales en el campo **Nombres personales adicionales (700)** y de instituciones en **Instituciones adicionales** **(710)**.
 
 #### Fecha de adquisición (541 $d)
 
@@ -21,6 +21,11 @@ _Ejemplos_:
 183209--   
 1815   
 Pascua 1744
+
+- 17980215
+- 183209--
+- 1815
+- Easter 1744
 
 #### Número de accesión (541 $e)
 
