@@ -1,9 +1,9 @@
-#### Bemerkung zur Person / Institution (508 $a)
+#### Creation/production note (508 $a)
 
-Hier können zusätzliche Angaben zu den in der Quelle erwähnten Personen sowie Institutionen und deren Funktionen gemacht werden, welche in direktem Zusammenhang zur Quelle stehen und in kein anderes Feld passen. So z. B. von der Norm abweichende Schreibarten, Künstlernamen etc.
+Additional information on persons and institutions mentioned on the source can be entered here, if they are directly related to the source and do not fit in any other field. For example, non-standard spellings, pseudonyms, etc.
 
-Auch Ergänzungen gegenüber der Quelle können hier in eckigen Klammern angegeben werden. In diesen Fällen ist jeweils in Englischer Sprache die Funktion der Person anzugeben.
+Information complementary to the source can also be included here in square brackets. In these cases, the function of the person has to be stated in English.
 
-z. B.:
+E.g.:
 
 - Text author: [Metastasio, Pietro]
