@@ -4,8 +4,6 @@ Small images such as watermarks, handwriting samples, or bindings can be attache
 
 Images such as digitized resources should only be added as links that link to the holding repository. These are added in the field **External resource (856)**.
 
-
-
 **2. How can I change the order of {items in a collection, incipits, names, instruments, notes...}?**
 
 It's quite simple: just click and drag! (Make sure you are clicking outside the white text field). Any repeatable field (designated by a **+** sign) can be organized this way.
@@ -14,7 +12,7 @@ It's quite simple: just click and drag! (Make sure you are clicking outside the 
 
 Muscat supports Unicode, so make sure than any special characters are Unicode compliant. See, for example, [unicode-table.com](https://unicode-table.com/) for Unicode characters.
 
-**4.**  **How can I use the folders?**
+**4. How can I use the folders?**
 
 A folder can be created by selecting records on the main Sources page, then going to **Batch actions** above the list of records (on the upper left) and clicking on **Create folder with items**.You can also use  **Batch actions ** to add the selected records to an existing folder. View the items in your folder by selecting it on the right under **Is in folder**. From there, you can sort and search as usual. After any search in Sources, buttons under **Actions** appear: **Add all to new folder** and **Add all to an existing folder**. This refers to all of the records in the current list of search results.
 
@@ -35,8 +33,6 @@ If you create a music incipit in a different format (such as a full score in Sib
 **8. How can I delete a record?**
 
 Please notify the RISM Editorial Center if you need to delete a record.
-
-
 
 **9. What if my record is in the wrong template?**
 
