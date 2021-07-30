@@ -1,21 +1,37 @@
-Folgende Felder müssen bei einer bezifferten Bass- **Stimme** ausgefüllt sein:
+The following fields must be filled out as follows if you have a figured bass **part** :
 
- 
+Instrument: b  
+Scoring summary (240 $m): b  
+Parts held (590): b.fig  
+Scoring (594): b
 
-| **Instrument** | **Besetzungshinweis (240 $m)** | **Stimmenmaterial (590)** | **Besetzung (594)** |
-| b | b | b.fig | b |
-| bc | bc | bc.fig | bc |
-| org | org | org.fig | org |
-| For other keyboard instruments, follow the model as for **org**. |
+Instrument: bc  
+Scoring summary (240 $m): bc  
+Parts held (590): bc.fig  
+Scoring (594): bc
 
- 
+Instrument: org  
+Scoring summary (240 $m): org  
+Parts held (590): org.fig  
+Scoring (594): org
 
-Für einen bezifferten Bass in einer **Partitur** :
+For other keyboard instruments, follow the model as for **org**.
 
-| **Instrument** | **Besetzungshinweis (240 $m)** | **Besetzung (594)** | **Bemerkungen (500)** |
-| b | b | b | b = b.fig |
-| bc | bc | bc | bc = bc.fig |
-| org | org | org | org = org.fig |
-| For other keyboard instruments, follow the model as for **org**. |
+For a figured bass in a **score** , do the following:
 
- 
+Instrument: b  
+Scoring summary (240 $m): b  
+Parts held (590): b  
+Scoring (594): b = b.fig
+
+Instrument: bc  
+Scoring summary (240 $m): bc  
+Parts held (590): bc  
+Scoring (594): bc = bc.fig
+
+Instrument: org  
+Scoring summary (240 $m): org  
+Parts held (590): org  
+Scoring (594): org = org.fig
+
+For other keyboard instruments, follow the model as for **org**.
