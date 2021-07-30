@@ -1,22 +1,21 @@
-#### Compositore/Autore (100) 
+### Composer/Author (100)
 
-Questa parte riporta la responsabilità della principale persona coinvolta come autore della fonte in senso lato.   
+Information is entered here concerning the identification of the main person involved as the author, in its broadest sense, of the source.
 
-**Campo obbligatorio.**
+#### Name (100 $a)
 
-Inserisci il nome della persona responsabile per la composizione. Questo può includere il compositore (per manoscritti ed edizioni musicali), il librettista (per libretti) o l’autore di un’opera di teoria musicale (per i trattati). Questo campo è collegato alla lista di voci d’autorità **Persone**. Se un nome non è ancora presente nella lista di voci d’autorità, può essere aggiunto. In tal caso, seleziona la casella "Conferma l’aggiunta di una nuova voce" ed aggiungi gli estremi cronologici della persona, se noti, nel campo **Data di nascita e di morte**. Il nuovo nome, compresi gli estremi cronologici, sarà confermato e rivisto dall'Editorial Center.  
+**Required field.**
 
- 
+Enter the name of the person responsible for the work. This may be the composer (for music manuscripts and printed music), librettist (for librettos), or author of a work of music theory (for treatises). This field is linked to the ** Personal names** authority file. Names not yet in the authority file may be added. In such cases, check the box "Confirm the insertion of a new value" and add the person's life dates, if known, in the field **Life dates**. The new name, including life dates, will be confirmed and edited by the Editorial Center.
 
-#### Qualificazione d'attribuzione (100 $j) 
+#### Attribution (100 $j)
 
-Seleziona un indicatore per descrivere il livello di certezza nell’attribuzione se una di queste situazioni è applicabile. Altrimenti, lascia il campo vuoto.
+Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
-- **Presunto ** significa che il nome è presente sulla fonte, ma l’attribuzione è discutibile o dubbia.
-- **Accertato** significa che il nome è presente solo in parte o del tutto assente dalla fonte, ma l’attribuzione è (ragionevolmente) certa e basata sul confronto con fonti concordanti, bibliografia di riferimento o altre risorse scientifiche. Questo vale nella maggior parte dei casi.
-- **Congetturale** è un’ipotesi basata su indizi secondari (come letteratura secondaria). 
-- **Dubbio** significa che la responsabilità è discutibile. 
-- **Attribuito erroneamente** significa che il nome è presente sulla fonte ma non è corretto.  
-Se la fonte è anonima, lascia il campo vuoto.  
-  
-L’attribuzione **verificata** compare in schede vecchie ma non è più utilizzata. Veniva usata quando il nome del compositore appariva sulla fonte nella stessa forma come nella lista d’autorità RISM. 
+- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
+- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
+- **Doubtful** means authorship is in question.
+- **Misattributed** means the name is on the source but is incorrect. If the source is anonymous, leave this field blank.
+
+The attribution **verified** appears on older records but is no longer in use. It was used if the composer's name appears on the source in the same form as the RISM name heading.
