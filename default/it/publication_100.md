@@ -1,9 +1,9 @@
-**Autore (100)**
+### Author (100)
 
-Inserisci il nome dell'autore principale della pubblicazione. Curatori di edizioni in facsimile o edizioni musicali moderne sono inseriti come autori.  
-  
-I nomi di curatori di raccolte di saggi o i compositori di edizioni moderne sono inseriti nel campo  **Nome aggiuntivo di persona****  (700)**.
+Enter the name of the main author of the publication. Editors of facsimile or modern music editions are entered as authors.
 
-Per pubblicazioni che hanno più di un autore, seleziona un nome da inserire in questo campo. Gli altri nomi possono essere inseriti nel campo  **Nome aggiuntivo di persona****  (700)**.
+Editors of volumes of essays or composers of modern editions are entered in the field **Additional personal name (700)**.
 
-Questo campo è correlato all’indice **Persone**. Se vi mancano dei nomi, devono prima essere inseriti nella lista di voci di autorità. 
+For publications that have more than one author, select one to enter in this field. The other name(s) can be added in the field **Additional personal name (700)**.
+
+This field is linked to the **Personal Names** authority file. Names not yet in the authority file may be added.
