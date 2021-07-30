@@ -1,31 +1,29 @@
-### Data (033)  
+### Coded date (033)
 
-Questo campo riporta, in un formato standard, la data dell’esecuzione menzionata nel campo **Nota sull'esecuzione (518)**. 
+If a date is named in the field **Note on performance (518)**, the formatted date of the performance is entered here.
 
-#### Tipo di datazione (033)
+#### Date type (033)
 
-Seleziona il tipo di datazione:
+Select the type of date:
 
-- Data singola  
-- Date singole multiple  
-- Ambito di datazione  
+- Single date
+- Multiple single dates
+- Range of dates
 
- 
+#### Date (033 $a)
 
-#### Data (033 $a)
+Enter different types of dates using the coded form YYYYMMDD. Single years may be entered as YYYY.
 
-Inserisci diversi tipi di date utilizzando la forma codificata AAAAMMGG. Singoli anni possono essere indicati AAAA.
+- Single date: YYYYMMDD
+- Multiple single dates: YYYYMMDD, YYYYMMDD, YYYYMMDD, etc.
+- Range of dates: YYYYMMDD-YYYYMMDD
 
-- Data singola: AAAAMMGG
-- Date singole multiple: AAAAMMGG, AAAAMMGG, AAAAMMGG, etc.
-- Ambito di datazione: AAAAMMGG-AAAAMMGG
+_Examples_:  
+Single date: 1769  
+Single date: 18190913  
+Multiple single dates: 18791213, 18791216, 18791223
 
-_Esempi:_  
-Data singola: 1769  
-Data singola: 18190913  
-Date singole multiple: 18791213, 18791216, 18791223 
+If a portion of the date is unknown or missing, use a hyphen.
 
-Usa un trattino se alcune parti della data sono sconosciute o mancanti.
-
-_Esempio per dicembre_ _1791:_   
-179112-- 
+_Example_ _for December 1791_ :   
+179112--
