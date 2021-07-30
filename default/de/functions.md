@@ -1,26 +1,34 @@
-### Blöcke und Aktionen
+### Sections and actions
 
-Speichern (Save): Ein Klick auf diesen Funktionsbutton speichert die laufende Titelaufnahme. Beim ersten Speichervorgang eines Titels wird die RISM-Nummer automatisch vergeben. Es empfiehlt sich häufiges Speichern, damit ein Datenverlust möglichst ausgeschlossen wird.
+???reorder?  
+The navigation column on the right allows you to jump to specific sections of the record and save and view your work.
 
-Vorschau: Die Vorschau-Funktion ermöglicht die Ansicht der Daten in der Anzeigemaske während des Erfassungsprozesses. Dabei wird automatisch ein neues Fenster geöffnet, welches u. a. auch verschoben werden kann.
+Use the **links** at the top to jump to a section of the record. Click on **Show all sections** to view all sections.
 
-###   
+**Show preview** lets you view the record ???without saving. To return to editing mode, click **Save and continue editing**.
 
-### Allgemeine Funktionsbuttons
+**Save and continue editing** allows you to save your work and continue in the editing mode. Save frequently to prevent you from losing your work. After a record is first saved, the RISM number is assigned automatically.
 
-**Lupe: **
+**Show modification history** allows you to view, restore, and delete previous versions of the record.
 
-**Schloss: **
+**Cancel** brings you back to the previous screen without saving.
 
-**Fragezeichen (?):** Bei Klick auf das Fragezeichen erscheinen die für diese Kategorie geltenden Richtlinien.
+**Save and end** brings you back to the previous screen while saving your work.
 
-**Pluszeichen (+):** Diejenigen Felder, welche eine Kategoriewiederholung zulassen, enthalten ein „+“-Zeichen. Durch Klick auf diesen Button können ganze Kategorieenblöcke wiederholt werden. Teilweise ist auch die Wiederholung einzelner Unterfelder möglich (z. B. bei Besetzungsangaben). Dazu dient ein kleineres, grün markiertes „+“-Zeichen.
+### Buttons in the editing mode
 
-**Abfallkorb** : Mit Klick auf das Abfall-Icon kann ein ganzer Erfassungsblock, der nicht verwendet wird, gelöscht werden. Dies dient einer leichteren Übersicht bei der Erfassung. Bei Nichtverwendung müssen die Blöcke jedoch nicht zwingend gelöscht werden, da leere Felder in der für die Benutzer zugänglichen Ansicht nicht angezeigt werden.
+**Magnifying glass** : Click here to search the authority file linked to the field. A separate window will open up. After you find what you need, click **Select** to make the transfer to your record.
 
-**Pfeil:** Aus Gründen der Übersichtlichkeit ist es manchmal sinnvoll, gewisse Unterfelder in ihrer Darstellung zu reduzieren. Dazu dient dieser Button.
+??? **Lock/unlock** : If you do not find what you need in the authority file, click the ???unlock button to enter a new name. Enter the name and other information as indicated (if known). When you save, the name will be automatically added to the authority files.
 
-  
+**Question mark (?)**: The RISM guidelines for this field are displayed.
 
-### Spezifische Funktionsbuttons in den einzelnen Kategorien/Feldern
-Autocomplete:
+**Plus sign (+)**: Fields that may be repeated have a plus sign (+). Click on the + to create a new, empty field. Fields may be reordered in this section by clicking and dragging them.
+
+**Trash can** : Delete a field by clicking on the trash can.
+
+**Arrow** : Click on the arrow to expand or collapse fields.
+
+### Other functions in the editing mode
+
+**Autocomplete** : If you see a field that contains a key, the field is linked to the authority file. Begin typing and use the autocomplete to help you.
