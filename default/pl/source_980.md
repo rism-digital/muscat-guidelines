@@ -1,29 +1,26 @@
-### Pochodzenie rekordu (980)
+### Record origin (980)
 
-**Pochodzenie (980 $a)**
+#### Origin (980 $a)
 
-Wybierz pochodzenie rekordu: 
+Select the origin of the record:
 
-- **Import** : Rekord został zaimportowany z zewnętrznej bazy danych
-- **Konwersja retrospektywna** : Rekord pochodzi z publikacji papierowej i został przekształcony w formę do odczytu maszynowego
-- **RISM** :  Rekord został stworzony w RISM (domyślnie) 
+- **Import** : The record was imported from an external database
+- **Retrospective conversion** : The record originated in a hard-copy publication and was converted to a machine-readable form
+- **RISM** : The record was created in the RISM database (default)
 
-** **
+#### Cataloging level (980 $b)
 
-**Poziom katalogowania****  (980 $b)**
+Select the cataloging level.
 
-Wybierz poziom katalogowania.  
-_Szczegóły zakładają:_
+_Details will follow._
 
-- **Streszczenie**
-- **Pełny**
-- **Standardowy**
+- **Brief**
+- **Full**
+- **Standard**
 
-** **
+#### Material examined (980 $c)
 
-**Zbadany materiał **** (980 $c)**
+Please indicate whether you directly examined the material as you were cataloging it.
 
-Należy podać, czy podczas katalogowania korzystało się bezpośrednio z obiektu. 
-
-- **Materiał zbadany**
-- **Materiał nie zbadany** : Można podać, kiedy rekord powstał na podstawie opisu katalogowego.
+- **Material examined**
+- **Material not examined**: This can be used when the record was created using a description in a catalog.
