@@ -1,29 +1,21 @@
-### Kompozytor / Autor (100)
+### Composer/Author (100)
 
-W tym polu wprowadza się informacje dotyczące identyfikacji głównej osoby będącej, w najszerszym rozumieniu tego słowa, autorem źródła.
+Information is entered here concerning the identification of the main person involved as the author, in its broadest sense, of the source.
 
-#### Imię i nazwisko (100 $a) 
+#### Name (100 $a)
 
-**Pole wymagane.**
+**Required field.**
 
-  
+Enter the name of the person responsible for the work. This may be the composer (for music manuscripts and printed music), librettist (for librettos), or author of a work of music theory (for treatises). This field is linked to the ** Personal names** authority file. Names not yet in the authority file may be added. In such cases, check the box "Confirm the insertion of a new value" and add the person's life dates, if known, in the field **Life dates**. The new name, including life dates, will be confirmed and edited by the Editorial Center.
 
- Wpisać nazwę osoby odpowiedzialnej za utwór. Może to być kompozytor (w przypadku rękopisów muzycznych i muzyki drukowanej), librecista (w przypadku librett) lub autor dzieła z zakresu teorii muzyki (w przypadku opracowań). Pole to jest powiązane z plikiem Plik autorytatywny **Nazw osobowych**. Można dodać nazwy, które nie znajdują się jeszcze w plikach autorytatywnych. W takich przypadkach należy zaznaczyć pole „Potwierdź dodanie nowego wpisu” i dodać daty życia osoby, jeśli są znane, w polu **Daty życia**. (Nową nazwę, w tym daty życia, potwierdzi i zredaguje Biuro Centralne).
+#### Attribution (100 $j)
 
- 
+Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
-#### Atrybucja (100 $j) 
+- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
+- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
+- **Doubtful** means authorship is in question.
+- **Misattributed** means the name is on the source but is incorrect. If the source is anonymous, leave this field blank.
 
-Wybierz odpowiednie określenie , aby opisać poziom pewności atrybucji, jeśli któraś z poniższych sytuacji ma zastosowanie. Jeżeli nie, należy pozostawić to pole puste.
-
-- **Rzekomy** oznacza nazwę występującą w źródle, lecz jej atrybucja jest podważalna lub wątpliwa.   
-- **Ustalony** oznacza nazwę, która jest częściowo obecna lub całkowicie nieobecna w źródle, lecz jej atrybucja jest (w miarę) pewna i opiera się na konkordancjach, literaturze pomocniczej lub innych źródeł naukowych. Jest to przypadek najczęstszy.    
-- **Domyślny** jest domysłem opartym na drugorzędnych dowodach (takich jak literatura drugorzędna).
-- **Wątpliwy** oznacza, ze autorstwo jest niepewne.
-- **Błędnie przypisany** oznacza, że nazwa w źródle jest obecna, lecz jest nieprawidłowa.  
-
-  
-
- Jeśli źródło jest anonimowe, należy pozostawić to pole puste.  
-  
-W starszych rekordach pojawia się atrybut **Zweryfikowany** , ale już się go nie stosuje. Stosowano go, gdy nazwisko kompozytora pojawiało się w źródle w takiej samej formie jak hasło osobowe RISM.
+The attribution **verified** appears on older records but is no longer in use. It was used if the composer's name appears on the source in the same form as the RISM name heading.
