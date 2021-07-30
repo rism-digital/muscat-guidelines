@@ -1,5 +1,5 @@
-# General abbreviations and concepts
-iSol
+# Generelle Abkürzungen
+|
 
 - Example: iSol: vl
 - EN: continuous solo instrument in a work, typically with a separately written-out part (not used for instruments that have extensive solo passages, such as an oboe in a cantata)
@@ -16,7 +16,7 @@ iSol
 - PL:
 - PT:
 
-strings
+|
 
 - EN: strings
 - DE: Streichinstrumente
@@ -25,7 +25,7 @@ strings
 - PL:
 - PT:
 
-winds
+|
 
 - EN:  winds (brass and woodwind)
 - DE: Blasinstrumente
@@ -41,7 +41,7 @@ winds
 - PL:
 - PT:
 
-orch
+|
 
 - EN: orchestra
 - DE: Orchester
@@ -67,7 +67,7 @@ orch
 - EN: Use the following before any instrument to make it:
 - DE: Kann einem Instrument vorangestellt werden:
 
-s-
+|
 
 - Example: s-saxofono
 - EN: soprano
@@ -97,7 +97,12 @@ a-
 - PL:
 - PT:
 
-contra-a-
+|   
+|   
+|   
+|   
+|   
+|
 
 - Example: contra-a-cl (in E|b)
 - EN: contralto
@@ -127,7 +132,7 @@ t-
 - PL:
 - PT:
 
-b-
+| Use the following *before* any instrument to make it: Kann einem Instrument vorangestellt werden: | |
 
 - Example: b-trb
 - EN: bass
@@ -143,7 +148,7 @@ b-
 - EN: Use the following after an instrument
 - DE: Kann einem Instrument angehängt werden.
 
-ad lib
+|
 
 - Example: ob ad lib
 - EN: ad libitum
@@ -153,7 +158,7 @@ ad lib
 - PL:
 - PT:
 
-conc
+|
 
 - Example: vl conc
 - EN: concertino, concertato
@@ -163,7 +168,7 @@ conc
 - PL:
 - PT:
 
-d'amore
+|
 
 - Example: ob d'amore
 - EN: d'amore
@@ -173,7 +178,7 @@ d'amore
 - PL:
 - PT:
 
-.picc
+|
 
 - Example: fl.picc
 - EN: piccolo
@@ -183,7 +188,9 @@ d'amore
 - PL:
 - PT:
 
-princ
+| | s- a- contra- contra-a- t- bariton-b- | soprano alto contra contralto tenorbaritone bass | Sopran Alt Kontra Kontra-Alt TenorBariton Bass |   
+|   
+| s-saxofono a-trb contra-fag contra-a-cl (in E|b) t-trbbariton-trb b-trb |
 
 - Example: vl princ
 - EN: principale (i.e. concertante)
@@ -203,14 +210,13 @@ rip
 - PL:
 - PT:
 
-**Additions to any wind instrument to indicate a tuning other than standard tuning**  
-**Bezeichnet die Stimmung eines Blasinstrumentes**
+|
 
-in A
+|
 
 - Example: cl in A
 
-in E|b
+|
 
 - Example: cor in E|b
 
@@ -222,7 +228,23 @@ _etc._
 
 **Unspecified or unknown types or numbers of instruments**
 
-(X)
+| | ad lib | ad libitum | ad libitum | ad libitum | ad libitum | ob ad lib | | conc | concertino, concertato | concertino, concertato |   
+|   
+| S conc  
+vl conc  
+ob conc | | d'amore | d'amore | d'amore |   
+|   
+| ob d'amore | | .picc | piccolo | piccolo |   
+|   
+| cl.picc,  
+fl.picc | | princ | principale (i.e. concertante) | principale |   
+|   
+| vl princ  
+vlc princ clno princ | | rip | ripieno | ripieno |   
+|   
+| S rip  
+vl rip  
+b rip |
 
 - Example:
 
@@ -235,7 +257,7 @@ _etc._
 - PL:
 - PT:
 
-dessus
+| **Additions to any wind instrument to indicate a tuning other than standard tuning**** Bezeichnet die Stimmung eines Blasinstrumentes** | |
 
 - EN: dessus, soprano (instrumental)
 - DE: dessus (instr., Sopranlage)
@@ -244,7 +266,7 @@ dessus
 - PL:
 - PT:
 
-hautecontre
+|
 
 - EN: hautecontre (usually an unspecified alto instrument)
 - DE: Hautecontre (instr., in Altlage)
@@ -253,7 +275,8 @@ hautecontre
 - PL:
 - PT:
 
-i
+| | in A in E|b _etc._ | cl in A  
+cor in E|b |
 
 - EN: unknown/unspecified instrument, general instrumental part
 - DE: Unbekannte(s) Instrument/ Instrumentalstimme
@@ -262,7 +285,8 @@ i
 - PL:
 - PT:
 
-taille
+|   
+**Unspecified or unknown types or numbers of instruments** | |
 
 - EN: tenor instrument/part
 - DE: Taille (instr.)
@@ -271,7 +295,7 @@ taille
 - PL:
 - PT:
 
-treble
+|
 
 - EN: highest voice (instrument)
 - DE: Treble (instr., höchste Stimmlage)
@@ -280,7 +304,7 @@ treble
 - PL:
 - PT:
 
-no further indication
+|
 
 - EN: no further details of the part designations are available
 - DE: Keine weitere Angabe
@@ -289,7 +313,7 @@ no further indication
 - PL:
 - PT:
 
-no indication
+|
 
 - EN: instrumentation is not specified
 - DE: Keine Angabe
@@ -302,7 +326,7 @@ no indication
 
 ## Solo voices
 
-S
+|
 
 - EN: soprano, cantus, discant, discantus, tiple (vocal)
 - DE: Sopran (vokal), Cantus, Diskant
@@ -311,7 +335,7 @@ S
 - PL:
 - PT:
 
-Mezzo-S
+|
 
 - EN: mezzo-soprano (vocal)
 - DE: Mezzosopran (vokal)
@@ -338,7 +362,7 @@ Contra-A
 - PL:
 - PT:
 
-T
+|
 
 - EN: tenor (vocal)
 - DE: Tenor (vokal)
@@ -347,7 +371,7 @@ T
 - PL:
 - PT:
 
-Bariton
+|
 
 - EN: baritone (vocal)
 - DE: Bariton (vokal)
@@ -356,7 +380,7 @@ Bariton
 - PL:
 - PT:
 
-B
+|
 
 - EN: bass (vocal)
 - DE: Bass (vokal)
@@ -365,7 +389,7 @@ B
 - PL:
 - PT:
 
-V
+|
 
 - EN: voice (vocal), solo vocal part
 - DE: Solovokalstimme
@@ -374,7 +398,7 @@ V
 - PL:
 - PT:
 
-Dessus
+|
 
 - EN: dessus, soprano (vocal)
 - DE: Dessus (vokal, Sopranlage)
@@ -383,7 +407,15 @@ Dessus
 - PL:
 - PT:
 
-Sprechstimme
+| | S | soprano, cantus, discant, discantus, tiple (vocal) | Sopran (vokal), Cantus, Diskant | soprano (vocale), cantus, discantus | soprano (vocale), cantus, discantus | | Mezzo-S | mezzo-soprano (vocal) | Mezzosopran (vokal) | mezzo-soprano (vocale) | mezzosoprano (vocale) | | A | alto (vocal) | Alt (vokal) | alto (vocale) | contralto (vocale) | | Contra-A | contralto (vocal) | Kontra-Alt | contralto (vocale) | contralto (vocale) | | T | tenor (vocal) | Tenor (vokal) | ténor (vocale) | tenore (vocale) | | Bariton | baritone (vocal) | Bariton (vokal) | bariton (vocale) | baritono (vocale) | | B | bass (vocal) | Bass (vokal) | basse (vocale) | basso (vocale) | | V  | voice (vocal), solo vocal part | Solovokalstimme | partie vocale | parte vocale | |   
+|   
+|   
+|   
+|   
+| | Dessus | dessus, soprano (vocal) | Dessus (vokal, Sopranlage) | dessus (vocale, soprano) | vocale superiore | | Sprechstimme | spoken voice, spoken roles, narrator, Sprechstimme | Sprechstimme | partie parlée | voce recitante | | Treble | highest voice (vocal) | Treble (vokal, höchste Stimmlage) | partie vocale la plus aiguë dans le mouvement  
+| parte vocale più acuta nel movimento | | V 5 | quinta vox, 5th voice (vocal) | Quinta Vox | cinquième voix | quinta voce | | V 6  | sexta vox, 6th voice (vocal) | Sexta Vox | sixième voix | sesta voce | | Vag | vagans (additional vocal voice) | Vagans |   
+|   
+|
 
 - EN: spoken voice, spoken roles, narrator, Sprechstimme
 - DE: Sprechstimme
@@ -401,7 +433,7 @@ Treble
 - PL:
 - PT:
 
-V 5
+|
 
 - EN: quinta vox, 5th voice (vocal)
 - DE: Quinta Vox
@@ -410,7 +442,7 @@ V 5
 - PL:
 - PT:
 
-V 6
+|
 
 - EN: sexta vox, 6th voice (vocal)
 - DE: Sexta Vox
@@ -419,7 +451,7 @@ V 6
 - PL:
 - PT:
 
-Vag
+|
 
 - EN: vagans (additional vocal voice)
 - DE: Vagans
@@ -430,7 +462,7 @@ Vag
 
 ## Chorus/Choir
 
-Coro
+|
 
 - EN: choir, chorus
 - DE: Chor
@@ -439,7 +471,7 @@ Coro
 - PL:
 - PT:
 
-Coro S
+|
 
 - EN: the soprano part in a chorus
 - DE: Sopranstimme im Chor
@@ -448,7 +480,23 @@ Coro S
 - PL:
 - PT:
 
-Coro A
+| | Coro | choir, chorus | Chor | chœur | coro | | Coro S | the soprano part in a chorus | Sopranstimme im Chor |   
+|   
+| | Coro A | the alto part in a chorus | Altstimme im Chor |   
+|   
+| | Coro T | the tenor part in a chorus | Tenorstimme im Chor |   
+|   
+| | Coro B | the bass part in a chorus | Bassstimme im Chor |   
+|   
+| | Coro V | an unspecified or unknown chorus part | Unbekannte Stimme im Chor |   
+|   
+| | Coro 1: Coro 2: _etc._ | use to differentiate between multiple choirs.   
+Examples: Coro 1: S Coro 1: A Coro 2: S Coro 2: A   
+|   
+|   
+|   
+| | Coro di fanciulli | children's choir, boys' choir, girls' choir | Kinderchor | chœur d'enfants  
+| coro di fanciulli | | Coro femminile | womens' choir | Frauenchor | chœur de femmes | coro femminile | | Coro maschile | mens' choir | Männerchor | chœur d'hommes | coro maschile |
 
 - EN: the alto part in a chorus
 - DE: Altstimme im Chor
@@ -457,7 +505,7 @@ Coro A
 - PL:
 - PT:
 
-Coro T
+|
 
 - EN: the tenor part in a chorus
 - DE: Tenorstimme im Chor
@@ -466,7 +514,7 @@ Coro T
 - PL:
 - PT:
 
-Coro B
+|
 
 - EN: the bass part in a chorus
 - DE: Bassstimme im Chor
@@ -475,7 +523,7 @@ Coro B
 - PL:
 - PT:
 
-Coro V
+|
 
 - EN: an unspecified or unknown chorus part
 - DE: Unbekannte Stimme im Chor
@@ -484,8 +532,7 @@ Coro V
 - PL:
 - PT:
 
-Coro 1:  
-Coro 2: _etc._
+|
 
 - Examples:
 
@@ -500,7 +547,7 @@ Coro 2: _etc._
 - PL:
 - PT:
 
-Coro di fanciulli
+|
 
 - EN: children's choir, boys' choir, girls' choir
 - DE: Kinderchor
@@ -509,7 +556,7 @@ Coro di fanciulli
 - PL:
 - PT:
 
-Coro femminile
+|
 
 - EN: womens' choir
 - DE: Frauenchor
@@ -518,7 +565,38 @@ Coro femminile
 - PL:
 - PT:
 
-Coro maschile
+| | vl | violin (do not differentiate between 1st and 2nd violins) | Violine | violon | violino | [https://en.wikipedia.org/wiki/Violin](https://en.wikipedia.org/wiki/Violin) | |   
+| vl conc | violin concertino | Violino concertino | violino concertino | violino concertino |   
+| |   
+| vl princ | violin principale | Violino principale | violino principale | violino principale |   
+| |   
+| vl rip | violin ripieno | Violino ripieno | violino ripieno | violino ripieno |   
+| |   
+| vl solo | solo violin part (but not for concertos) | Solovioline | violon seul | violino solo |   
+| | vla | viola | Viola | viole | viola | [https://en.wikipedia.org/wiki/Viola](https://en.wikipedia.org/wiki/Viola) | |   
+| a-vla | alto viola | Altviola | viole alto | viola alto |   
+| | vlc | violoncello, cello | Violoncello | violoncelle | violoncello | [https://en.wikipedia.org/wiki/Cello](https://en.wikipedia.org/wiki/Cello) | | cb | contrabass, double bass | Kontrabass | contrebasse | contrabasso |   
+| |   
+|   
+|   
+|   
+|   
+|   
+| | baryton | baryton (bass string instrument) | Baryton (Streichinstrument mit Resonanzsaiten) | baryton | viola di bordone | [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0161704/baryton)[https://en.wikipedia.org/wiki/Baryton](https://en.wikipedia.org/wiki/Baryton) | | fiddle | fiddle | Fidel | vièle, vielle | viella, fidula |   
+| | violetta | violetta, violetta piccola (a descant viol, can also mean violin) | Violetta (eine Viole) | violetta | violetta |   
+| | violetta marina | violetta marina | Violetta marina | violetta marina | violetta marina |   
+| | vla basso | viola basso | Bassviola | basse de viole | viola bassa |   
+| | vla bastarda | viola bastarda | Viola bastarda | viola bastarda | viola bastarda | [https://en.wikipedia.org/wiki/Viola\_bastarda](https://en.wikipedia.org/wiki/Viola_bastarda) | | vla d'amore | viola d'amore | Viola d'amore | viole d'amour | viola d'amore |   
+| | vla da braccio | viola da braccio | Viola da braccio | viola da braccio | viola da braccio |   
+| | vla da gamba | viola da gamba, viol, gamba | Viola da gamba | viole de gambe | viola da gamba | [https://en.wikipedia.org/wiki/Viol](https://en.wikipedia.org/wiki/Viol) | |   
+| s-vla da gamba | treble viola da gamba | Sopran-Viola da gamba | dessus de viole | viola da gamba soprano |   
+| |   
+| t-vla da gamba | tenor viola da gamba | Tenor-Viola da gamba | viole de gambe ténor | viola da gamba tenore |   
+| |   
+| b-vla da gamba | bass viola da gamba | Bass-Viola da gamba | basse de viole | basso di viola |   
+| | vla pomposa | viola pomposa | Viola pomposa | viola pomposa | viola pomposa |   
+| | vlne | violone (related to double bass) | Violone | violone | violone | [https://en.wikipedia.org/wiki/Violone](https://en.wikipedia.org/wiki/Violone) | | strings | strings | Streichinstrumente | cordes | archi |   
+|
 
 - EN: mens' choir
 - DE: Männerchor
@@ -530,7 +608,7 @@ Coro maschile
 
 # Strings
 
-vl
+|
 
 - Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Violin)
 - EN: violin (do not differentiate between 1st and 2nd violins)
@@ -540,7 +618,7 @@ vl
 - PL:
 - PT:
 
-vl conc
+|
 
 - EN: violin concertino
 - DE: Violino concertino
@@ -549,7 +627,7 @@ vl conc
 - PL:
 - PT:
 
-vl princ
+|
 
 - EN: violin principale
 - DE: Violino principale
@@ -567,7 +645,7 @@ vl princ
 - PL:
 - PT:
 
-vl solo
+|
 
 - EN: solo violin part (but not for concertos)
 - DE: Solovioline
@@ -576,7 +654,7 @@ vl solo
 - PL:
 - PT:
 
-vla
+|
 
 - Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Viola)
 - EN: viola
@@ -586,7 +664,7 @@ vla
 - PL:
 - PT:
 
-a-vla
+|
 
 - EN: alto viola
 - DE: Altviola
@@ -605,7 +683,21 @@ vlc
 - PL:
 - PT:
 
-cb
+| [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_IMAGE\_PROJECTS\_LIB\_ED\_AC\_UK\_10683\_15922/alto-saxo...](http://www.mimo-international.com/MIMO/doc/IFD/OAI_IMAGE_PROJECTS_LIB_ED_AC_UK_10683_15922/alto-saxophone-nominal-pitch-e) | |   
+| t-saxofono | tenor saxophone (in B|b) | Tenorsaxophon (in B|b) | saxophone ténor | saxofono/ sassofono tenore | [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_CIMU\_ALOES\_0923228/saxophone-tenor](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0923228/saxophone-tenor)[https://en.wikipedia.org/wiki/Tenor\_saxophone](https://en.wikipedia.org/wiki/Tenor_saxophone) | |   
+| bariton-saxofono | baritone saxophone | Baritonsaxophon | saxophone baryton | saxofono/ sassofono baritono |   
+| | fag | bassoon | Fagott | basson | fagotto | [https://en.wikipedia.org/wiki/Bassoon](https://en.wikipedia.org/wiki/Bassoon) | |   
+| contra-fag | contrabassoon, double bassoon | Kontrafagott | contrebasson | controfagotto |   
+| |   
+| t-fag | tenor bassoon, tenoron (in F) | Tenorfagott (in F) | basson quinte | fagotto tenore | [http://www.mimo-international.com/MIMO/doc/IFD/RCM0442/tenoroon](http://www.mimo-international.com/MIMO/doc/IFD/RCM0442/tenoroon)[https://en.wikipedia.org/wiki/Tenoroon](https://en.wikipedia.org/wiki/Tenoroon) | | bombarde | bombardon, bombarde, pommer; alto, tenor, and bass shawm (low woodwind instrument, typically with a double reed, with one key or keyless) | Bombarde, Pommer (Doppelrohrblattinstrument) | bombarde | bombarda | [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_KMKG\_MRAH\_RMAH\_122213\_NL/pommer](http://www.mimo-international.com/MIMO/doc/IFD/OAI_KMKG_MRAH_RMAH_122213_NL/pommer) | | chirimía | chirimía (a type of Spanish shawm, double-reed instrument) | Chirimía (Doppelrohrblattinstrument, spanischer Begriff für eine Art Oboe) | chirimía |   
+| [https://en.wikipedia.org/wiki/Chirimia](https://en.wikipedia.org/wiki/Chirimia) | | ciaramella | shawm (but see also piffero and bombarde [for the pommer]) | Ciaramella (eine Schalmei, Doppelrohrblattinstrument) | chalemie | ciaramella |   
+| | fiffaro | fife (similar to a piccolo) | Querpfeife (hohe Querflöte), Schwegel (in der Volksmusik) | fifre | fiffaro | [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_CIMU\_ALOES\_0874400/fifre](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0874400/fifre)[https://en.wikipedia.org/wiki/Fife\_(instrument)](https://en.wikipedia.org/wiki/Fife_%28instrument%29) | | ocarina  | ocarina (round, hollow flute, typically shaped like an elongated egg) | Okarina (eine Gefäßflöte) | ocarina | ocarina | [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_KMKG\_MRAH\_RMAH\_118235\_NL/ocarina](http://www.mimo-international.com/MIMO/doc/IFD/OAI_KMKG_MRAH_RMAH_118235_NL/ocarina)[https://en.wikipedia.org/wiki/Ocarina](https://en.wikipedia.org/wiki/Ocarina) | | piffero | shawm, especially high ones (but see chalumeau); fife; small flute   | Piffero (zur Oboenfamilie gehörig) | piffero | piffero |   
+| | recorder | Blockflöte | flûte à bec | flauto dolce |   
+|   
+| |   
+| sopranino | sopranino recorder (in F) | Sopraninoblockflöte (in F) | sopranino | sopranino | [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_IMAGE\_PROJECTS\_LIB\_ED\_AC\_UK\_10683\_15095/sopranino...](http://www.mimo-international.com/MIMO/doc/IFD/OAI_IMAGE_PROJECTS_LIB_ED_AC_UK_10683_15095/sopranino-recorder-nominal-pitch-f) | | woodwinds | woodwinds | Holzblasinstrumente | bois | legni |   
+| | zufoletto | zufoletto | Zufoletto | zufoletto | zufoletto |   
+|
 
 - EN: contrabass, double bass
 - DE: Kontrabass
@@ -614,11 +706,11 @@ cb
 - PL:
 - PT:
 
-b
+|
 
 - EN: unspecified basso instrument
 
-baryton
+|
 
 - Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0161704/baryton)   [Link to Wikipedia](https://en.wikipedia.org/wiki/Baryton)
 - EN: baryton (bass string instrument)
@@ -628,7 +720,7 @@ baryton
 - PL:
 - PT:
 
-fiddle
+|
 
 - EN: fiddle
 - DE: Fidel
@@ -637,7 +729,7 @@ fiddle
 - PL:
 - PT:
 
-violetta
+|
 
 - EN: violetta, violetta piccola (a descant viol, can also mean violin)
 - DE: Violetta (eine Viole)
@@ -646,7 +738,7 @@ violetta
 - PL:
 - PT:
 
-violetta marina
+|
 
 - EN: violetta marina
 - DE: Violetta marina
@@ -655,7 +747,7 @@ violetta marina
 - PL:
 - PT:
 
-vla basso
+|
 
 - EN: viola basso
 - DE: Bassviola
