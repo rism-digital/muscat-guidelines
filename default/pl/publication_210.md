@@ -1,4 +1,4 @@
-**Short title (210 $a)**
+### Short title (210 $a)
 
 **Required field.**
 
@@ -6,7 +6,8 @@ Each item of secondary literature receives a unique short title to enable easy r
 
 The following will describe how to create short titles for **general secondary literature** , **catalogs of works** , and **special cases**.
 
-**General secondary literature**    
+#### General secondary literature
+
 Short titles for **general secondary literature** are made up as follows:
 
 - **Last name** of the author or editor  
@@ -56,7 +57,6 @@ _Example:_
 > → VerzeichnisThibaut 1842
 
 
-
 For multivolume works that were published over the course of several years, only the first year is used.  
 _Example:_
 
@@ -78,8 +78,6 @@ _Example:_
 > → FahrbachK 1850
 
 For the short titles of well-known encyclopedias or sets, use the well-established abbreviations or terms (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
-
-
 
 **Catalogs of works**
 
@@ -110,13 +108,9 @@ _Example:_
 > → QV  
 > Klaus-Peter Koch, Samuel-Scheidt-Werke-Verzeichnis (SSWV) (Wiesbaden: Breitkopf & Härtel, 2000).  
 > → SSWV  
-> Armin Brinzing,  Systematisches Verzeichnis der Werke von Johann Melchior Molters (MWV) (Wiesbaden: Harrassowitz Verlag, 2010).  
+> Armin Brinzing, Systematisches Verzeichnis der Werke von Johann Melchior Molters (MWV) (Wiesbaden: Harrassowitz Verlag, 2010).  
 > → BrinzingMWV  
 > _Note: MWV was already in use for the Mendelssohn Werkverzeichnis._
-
-
-
-
 
 **Special cases**
 
@@ -134,7 +128,5 @@ _Examples:_
 > → DidionF 1990  
 > Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
 > → MurányiW 1997
-
-
 
 Do not assign a short title to books, yearbooks, conference reports, etc. that consist of a collection of essays. Any essays in such books are entered individually as literature references, not the entire book itself. The essay is entered as a literature record with its own short title.
