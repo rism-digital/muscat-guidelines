@@ -1,17 +1,17 @@
-Nota generale (500 $a)
+### General note (500 $a)
 
-Inserisci qualsiasi nota riguardo all’oggetto, specialmente note che riportano in che modo l’oggetto è rilevante per lo studio delle fonti musicali (se non risulta immediatamente dal titolo).  
-  
-Inserisci qui la sigla se l’oggetto riguarda un’istituzione, ad esempio cataloghi di collezioni.  
-  
-Per tesi o dissertazioni universitarie, inserisci una nota su luogo e data di completamento della dissertazione.  
-  
+Enter any notes about the item, especially notes that relate to how the item is relevant to musical sources (if not obvious from the title).
 
-_Esempi_:  
-D-Bsa  
-Tübingen, Universität Diss. 2008  
-PhD dissertation, Institute of Musicology at the University of Wrocław  
-p. 95-97: "Appendix 4. Selected works"  
-S. 250-263: Werksverzeichnis (ohne Incipits)
+Enter sigla here if the item concerns an institution, such as catalogs of collections.
 
-Questo campo è anche usato per definire il metodo per citare un catalogo tematico o catalogo di opere. Questo assicura che tutti i collaboratori RISM che utilizzano il catalogo possano citarlo nello stesso modo. Scegliendo lo stile di citazione, tieni presente lo stile e la struttura del catalogo. Prova a dare degli esempi che riflettono la varietà delle opere elencate nel catalogo. Utilizza numeri di pagina solo come estrema risorsa. (Seguiranno direttive più precise, ma consulta BWV, AWV, MH e SheH come esempi.)
+For university theses or dissertations, enter a note about where and when the dissertation was completed.
+
+_Examples_:
+
+- D-Bsa
+- Tübingen, Universität Diss. 2008
+- PhD dissertation, Institute of Musicology at the University of Wrocław
+- p. 95-97: "Appendix 4. Selected works"
+- S. 250-263: Werksverzeichnis (ohne Incipits)
+
+This field is also used to define the method for citing a thematic catalog or catalog of works. This ensures that all RISM contributors who use the catalog cite the catalog in the same way. When determining the citation style, keep in mind the style and outline of the catalog. Try to give examples that reflect the variety of kinds of works in the catalog. Only use page numbers as a last resort. (Guidelines will follow, but look at BWV, AWV, MH, and SheH for examples.)
