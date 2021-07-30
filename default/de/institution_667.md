@@ -1,3 +1,5 @@
-**Interne Bemerkungen (MARC 667; ISDIAH 5.6.9)**
+### Internal notes (MARC 667; ISDIAH 5.6.9)
 
-Hier können Bemerkungen zum vorliegenden Datensatz oder Katalogisat gemacht werden sowie zu personellen und organisatorischen Arbeitsabläufen in der Katalogisierung. Die Angaben werden nicht publiziert.
+This field documents additional information relating to the creation of and changes to the description.
+
+Enter notes pertinent to the creation and maintenance of the description. For example, the names of persons responsible for creating and/or revising the description may be entered here.
