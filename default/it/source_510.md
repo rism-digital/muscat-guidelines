@@ -1,7 +1,7 @@
-#### Serie RISM (510)
+### RISM series (510)
 
-Questo campo è riempito automaticamente quando si importano schede dalle pubblicazioni a stampa (che comprendono A/I, B/I e B/II). 
+This field is automatically filled out when entries from the print publications (including A/I, B/I, and B/II) are imported.
 
-#### Serie (510 $a)
+#### RISM series (510 $a)
 
-#### Numero/pagina (510 $c)
+#### Number/page (510 $c)
