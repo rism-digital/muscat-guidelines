@@ -1,6 +1,5 @@
-**Data e ora dell'ultima transazione (005)  
-  
-Si prega di non modificare.**  
-  
+### Date and time of last transaction (005)
 
-Questo campo riporta la data dell’ultima modifica della scheda. Questo campo è generato automaticamente. 
+**Do not change.**
+
+This field indicates the date that the record was last modified. This field is automatically generated.
