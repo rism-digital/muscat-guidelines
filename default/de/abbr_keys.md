@@ -1,27 +1,27 @@
-Major (mode): A, B, C, D, E, F, G, C|x, D|x, F|x, G|x, A|b, B|b, C|b, D|b, E|b, G|b
+Dur: C, G, D, A, E, B, F|x, D|x, G|x, C|x, F, B|b, E|b, A|b, D|b, G|b Moll: a, e, b, f|x, g|x, d|x, a|x, d, g, c, f, a|b, b|b, c|b, d|b, e|b, g|b
 
-Minor (mode): a, b, c, d, e, f, g, a|x, d|x, f|x, g|x, a|b, b|b, c|b, d|b, e|b, g|b
+_Beispiele_:
 
 
 
 _Examples_:
 
-A
+B = B major
 
-- EN: A major
+- A = A-Dur
 
-B
+B = H-Dur
 
-- EN: B major
+- B|b = B-flat major
 
-b
+B|b = B-Dur
 
 - EN: B minor
 
-f|x
+f|x = fis-Moll
 
 - EN: F-sharp minor
 
-B|b
+b = h-Moll
 
 - EN: B-flat major
