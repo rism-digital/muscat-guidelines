@@ -3,23 +3,16 @@
 Alessandria (Italia/Italy):
 
 - Teatro Civico
-
 - Teatro Comunale
-
 - Teatro Lirico
 
 Amsterdam:
 
 - Blankenburg
-
 - Hoogduitse Schouwburg
-
 - Kleine Komedie
-
 - Schouwburg Keizersgracht
-
 - Stadsschouwburg
-
 - Théâtre Français
 
 Athinai (Athens)
@@ -29,21 +22,13 @@ Athinai (Athens)
 Barcelona
 
 - Circo Barcelonés
-
 - Gran Teatre del Liceu
-
 - Gran Teatro del Liceo
-
 - Liceu de Mont Sion
-
 - Teatre de la Santa Creu
-
 - Teatro de la Santa Cruz
-
 - Teatre dels Camps Elisis
-
 - Teatre Nou
-
 - Teatre Principal
 
 Bari
