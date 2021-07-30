@@ -1,7 +1,7 @@
-**#### ISBN (020 $a)**
+### ISBN (020 $a)
 
-Wprowadzić numer ISBN. Numer ISBN jest numerem składającym się z 10-13 cyfr.
+Enter the International Standard Book Number (ISBN). The ISBN is a number consisting of 10 or 13 digits.
 
-_Przykłady:_  
-3-486-21584-1  
-978-3-486-21584-1
+_Examples:_
+- 3-486-21584-1
+- 978-3-486-21584-1
