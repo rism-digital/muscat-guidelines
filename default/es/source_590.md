@@ -8,7 +8,7 @@ Registre las particellas conservadas en el repositorio y su foliación/paginaci�
 
 Registre las particellas conservadas siguiendo la lista de abreviaturas de instrumentos de RISM y su cantidad.
 
-La primera letra de las abreviaturas de partes instrumentales se coloca en minúscula y la de las partes vocales, en mayúsculas. El orden en que deben nombrarse las particellas se consigna a continuación. Las particellas deben enumerarse desde el registro más agudo al más grave.
+La primera letra de las abreviaturas de partes instrumentales se coloca en minúscula y la de las partes vocales, en mayúsculas. El orden en que deben nombrarse las particellas se consigna a continuación.
 
 - Partes vocales solistas. Inicie el campo con **Solo:**
 - Partes vocales corales. Inicie el campo con **Coro:**
@@ -23,9 +23,9 @@ Si la designación de las particellas no está disponible, por favor escriba la 
 
 Casos especiales:
 
-- Bajo cifrado: si tiene una particella de bajo cifrado, ingrese el instrumento correspondiente seguido de **.fig** , como en **b.fig** , **bc.fig** , **org.fig** , etc. (No obstante, vea las tablas del apartado **Bajo cifrado en partituras y/o particellas** para mayores orientaciones sobre los campos relacionados).
-- Instrumento que no aparece en la lista de abreviaturas de RISM: escriba el instrumento en su totalidad.
 - Instrumentos, designaciones o afinaciones inusuales (como **cor in D|x** ): se los puede escribir en su totalidad; sin embargo, en el campo **Plantilla/orgánico total (594)**, trate de estandarizar el instrumento según la lista de abreviaturas de RISM en caso de que sea posible (por ejemplo, en el caso anterior, **cor in E|b** ).
+- Instrumento que no aparece en la lista de abreviaturas de RISM: escriba el instrumento en su totalidad.
+- Unusual instruments, designations, or tunings (such as **cor in D|x** ) may be written out in full; however, in the field **Total scoring (594)**, try to standardize the instrument to RISM's instrument abbreviation list if possible ( such as **cor in E|b** ).
 - Parte de teclado con texto: registre en inglés **_pf with text_** (u **_org with text_, _keyb with text_** , etc.). Lo mismo se registra en el campo de **Voz/instrumento** **(031 $m)** correspondiente al íncipit.
 
 #### Extensión (partes) (590 $b)
@@ -45,8 +45,7 @@ También se pueden indicar páginas o folios particulares de una pieza dentro de
 
 *Ejemplo 1*: Una familia instrumental por línea e instrumentos separados por coma. Se repite el campo para cada familia.
 
-**Particellas conservadas (590 $a)**: Solo: S 1, 2 (2x), A, T, B  
-**Extensión (particellas) (590 $b)**: 3, 2, 2, 3, 3, 4 p.
+**(= bc)**: la particella es de bajo continuo
 
 **Particellas conservadas (590 $a)**: Coro: S, A, T B  
 **Extensión (particellas) (590 $b)**: 4, 4, 4, 4 p.
@@ -73,7 +72,7 @@ También se pueden indicar páginas o folios particulares de una pieza dentro de
 Se puede añadir información adicional (breves comentarios) sobre aspectos tales como el número o lo incompleto de las partes entre paréntesis, inmediatamente después de la designación de parte. Siga las siguientes convenciones:
 
 - Si tiene múltiples copias de la misma parte, indique la cantidad de copias con un número seguido de una x en el subcampo **Particellas conservadas**. Ejemplo: **S (2x)**
-- **(= bc)**: la particella es de bajo continuo
+- **Particellas conservadas (590 $a)**: Solo:
 - **(incpl)**: la particella está incompleta
 - Use una barra inclinada (/) para unir dos elementos: **bc (2x/incpl)**
 - Si una particella contiene la música de varios instrumentos, use el conector **and** (y). Ejemplo: **tr 1 and 2**
