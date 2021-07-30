@@ -1,15 +1,23 @@
-### Odniesienia do serii RISM A/I i B** (596)**  
+### RISM series A/I and B reference (596)
 
-Podać odsyłacze do edycji drukowanych, indeksowanych w drukowanych seriach RISM, jeśli źródło wyraźnie stanowi to samo dzieło co rękopiśmienny egzemplarz edycji drukowanej. Więcej szczegółów można podać w polu Uwaga ogólna (500). Patrz także pole Powiązane źródło (787).
+Enter cross-references to printed editions indexed in printed RISM series if the source clearly presents the same work, such as a manuscript copy of a printed edition. More details can be given in the field **General note (500)**. See also the field **Related source (787)**.
 
-#### **Odniesienia do serii A/I i B (596 $a)**
+#### RISM series A/I and B reference (596 $a)
 
-Wybrać serię RISM.
+Select the RISM series.
 
-####   
-**Numer serii RISM (596 $b)**  
+#### RISM series number (596 $b)
 
-Wprowadzić odsyłacz do utworu w serii RISM. Trzeba wziąć pod uwagę, że każdy tom ma inny sposób odsyłania do źródeł; niektóre mają indywidualne numery, podczas gdy w przypadku innych trzeba podać numery stron. Poniżej przykłady każdej publikacji RISM  [RISM publication](http://www.rism.info/en/publications.html) zawierającej nuty drukowane:
+Enter the reference to the piece in the RISM series. Note that each volume has a different way of referring to sources; some have individual numbers while others require page numbers.
+
+Use **Other** for references to printed editions that were not included in the printed volumes of the A/I and B series.
+
+_Example_:
+
+- Other
+- 1001100380
+
+Below are examples for each [RISM publication](http://www.rism.info/en/publications.html) that includes printed music:
 
 A/I - _Einzeldrucke vor 1800/Individual Prints before 1800_
 
@@ -51,9 +59,9 @@ B/XIII - _Hymnol__ogica Slavica_
 - HP ca. 1558/09
 
 B/XV - _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630_  
-Zacytować numer A/I, B/I lub B/II, jeśli go podano; w przeciwnym razie zacytować numer (numery) stron.
+Cite the A/I, B/I, or B/II number if given; otherwise, cite the page number(s).
 
 - p. 45-46
 
 B/XVII - _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_  
-Zacytować numer (numery) stron, jeśli nie podano innej serii RISM.
+Cite the page number(s) if no other RISM series is cited.
