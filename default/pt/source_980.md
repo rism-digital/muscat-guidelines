@@ -1,29 +1,26 @@
-Origem do registro (980)
+### Record origin (980)
 
-**Origem (980 $a)**
+#### Origin (980 $a)
 
-Selecione a origem do registro:
+Select the origin of the record:
 
-- **Importado** : O registro foi importado de uma base de dados externa.
-- **Conversão retrospectiva** : TO registro se originou de uma cópia impressa de publicação e foi convertido para uma forma legível-por-máquina.
-- **RISM** : O registro for criado na base de dados RISM (padrão).
+- **Import** : The record was imported from an external database
+- **Retrospective conversion** : The record originated in a hard-copy publication and was converted to a machine-readable form
+- **RISM** : The record was created in the RISM database (default)
 
-** **
+#### Cataloging level (980 $b)
 
-**Nível de catalogação (980 $b)**
+Select the cataloging level.
 
-Selecione o nível de catalogação.   
-_Detalhes virão adiante._
+_Details will follow._
 
-- **Breve**
-- **Completo**   
-- **Padrão**   
+- **Brief**
+- **Full**
+- **Standard**
 
-** **
+#### Material examined (980 $c)
 
-**Material examinado (980 $c)**
+Please indicate whether you directly examined the material as you were cataloging it.
 
-Por favor, indique se o material foi diretamente examinado durante a catalogação.
-
-- **Material**  **examinado** 
-- **Material não examinado** : Esta opção pode ser usada quando o registro foi criado a partir da descrição do material em um catálogo.
+- **Material examined**
+- **Material not examined**: This can be used when the record was created using a description in a catalog.
