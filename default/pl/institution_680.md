@@ -1,19 +1,20 @@
-#### **Inne uwagi na temat opisu (680 $a)**
+### Other notes on description (680 $a)
 
-Wprowadzić dodatkowe uwagi opisujące daną instytucję, takie jak:
+Enter additional notes that describe the institution, such as:
 
-- Polityka zarządzania rekordami i polityka gromadzenia (ISDIAH 5.3.5): Wprowadzić informacje o polityce gromadzenia prowadzonej przez daną instytucję. Należy podać informację o tym, czy repozytorium korzysta z takich metod gromadzenia materiałów jak transfer (przekazanie), dary, zakupy i/lub wypożyczenia.
-- Klasyfikacja kolekcji, np. „Kolekcja w GB-Lbl”
-- Repozytorium online: URL repozytorium cyfrowego instytucji.  
-- Zbiory archiwalne i inne (ISDIAH 5.3.7): Wprowadzić nazwy zespołów archiwalnych i  kolekcji. Każdą nazwę należy rozpoczynać od nowego wiersza. Użyć nazwy używanej przez instytucję przechowującą. W przypadku zespołów osobowych, zaleca się dodanie w nawiasie dat urodzenia i śmierci danej osoby.  Jeśli istnieją listy lub adresy URL z informacjami o zbiorach lub zespołach archiwalnych danej instytucji, należy podać adres URL.   
-_Przykłady:_  
-  Joachim, Joseph (1831-1907) (Royal College of Music, Library)  
-  Andrée-Stenhammararkivet  
-  Telemann, Georg Michael  
-  Fonds Montpensier  
-  Collection Camille Saint-Saëns  
- Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975) 
+- Records management and collecting policies (ISDIAH 5.3.5): Enter information about the collecting policies of the institution. Indicate whether the repository seeks to acquire materials by transfer, gift, purchase and/or loan.
+- Classification of the collection, such as "Collection in GB-Lbl"
+- Online repository: URL of the digital repository of the institution
+- Archival and other holdings (ISDIAH 5.3.7): Enter the names of the fonds and collections. Start each name on a new line. Use the name as used by the holding institution. In the case of personal fonds, it is recommended to add in brackets the dates of birth and death of the person in question. If there are lists or URLs with the information about the collections or fonds of a specific institution, provide the URL.
 
-- Godziny otwarcia (ISDIAH 5.4.1): Należy podać informacje o godzinach otwarcia oraz dniach, kiedy instytucja jest nieczynna. Informacje te należy podać, gdy nie są łatwo dostępne w Internecie.  
-- Warunki i wymagania w zakresie dostępu i korzystania (ISDIAH 5.4.2)
-- Usługi reprodukcyjne (ISDIAH 5.5.2)
+_Examples:_
+ - Joachim, Joseph (1831-1907) (Royal College of Music, Library)
+ - Andrée-Stenhammararkivet
+ - Telemann, Georg Michael
+ - Fonds Montpensier
+ - Collection Camille Saint-Saëns
+ - Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
+
+- Opening times (ISDIAH 5.4.1): To provide information on opening times and dates of annual closures: Include this information if it is not readily available online.
+- Conditions and requirements for access and use (ISDIAH 5.4.2)
+- Reproduction services (ISDIAH 5.5.2)
