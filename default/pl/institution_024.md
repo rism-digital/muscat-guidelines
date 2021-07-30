@@ -1,36 +1,38 @@
-#### Inny identyfikator znormalizowany (024)
-Wypełniamy dla identyfikatorów VIAF ID, numerów ISNI, kodów GeoNames itd.  
+### Authority reference (MARC 024)
 
-#### Numer lub kod (024 $a)
+This field is used to record the standard number or code or URI associated with the institution.
 
-Wprowadzić alfanumeryczny kod stosowany do identyfikacji nazw. Kod ma być kodem autorytatywnym pobranym od uprawnionej agencji.
+#### Authority reference (024 $a)
 
-**Warunki dostępności (024 $c)**
+Enter the alphanumeric code used to identify names. The code is taken from the authority data of the creating agency.
 
-Wprowadź warunki dostępności i/lub informacje kwalifikujące dostępność.
+#### Terms of availability (024 $c)
 
-**Dodatkowe kody następujące po znormalizowanym numerze lub kodzie (024 $d)**
+Enter the terms of availability and/or qualifying information about availability.
 
-Wprowadź opcjonalnie cyfry znajdujące się po prawej stronie numeru lub kodu.
+#### Additional codes following the standard number or code (024 $d)
 
-**Informacje kwalifikacyjne (024 $q)**
+Enter any optional digits carried to the right of the number or code.
 
-Wprowadzić krótką informację kwalifikacyjną dotyczącą pozycji związanej z liczbą zapisywaną w podpolu $ a lub $ z.
+#### Qualifying information (024 $q)
 
-**Unieważniony numer lub kod (024 $z)**  
-Wprowadzić unieważniony lub nieprawidłowy znormalizowany identyfikator. 
+Enter a brief statement of qualifying information concerning the item associated with a number being recorded in subfield $a or $z.
 
-**Numer kontrolny hasła wzorcowego lub znormalizowany numer (024 $0)**
+#### Canceled/invalid standard number or code (024 $z)
 
-Wprowadzić działający i analizowalny identyfikator URI, który określa nazwę lub etykietę instytucji.
+Enter a canceled or invalid standard number or code.
 
-**Identyfikator URI dla obiektów świata rzeczywistego (024 $1)**
+#### Authority record control number or standard number (024 $0)
 
-Wprowadzić identyfikator URI, który identyfikuje Instytucję.
+Enter a machine actionable and parseable URI that identifies a name or label for the institution.
 
-#### Źródło kodu lub numeru podanego w podpolu (024 $2)
+#### Real World Object URI (024 $1)
 
-Wybrać spośród następujących:
+Enter the URI that identifies the institution.
+
+#### Authority agency (024 $2)
+
+Select from the following:
 
 - **ISIL:** International Standard Identifier for Libraries and Related Organisations
 - **BNE** : Biblioteca Nacional de España
@@ -39,8 +41,17 @@ Wybrać spośród następujących:
 - **ICCU** : Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI** : International Standard Name Identifier
 - **LC** : Library of Congress
+- **MOC** : MARC Organization Code
 - **NLP** : Biblioteka Narodowa
-- **NKC** : Národní knihovna České republiky 
+- **NKC** : Národní knihovna České republiky
 - **SWNL** : Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF** : Virtual International Authority File
 - **WKP** : Wikidata (Wikipedia)
+
+#### Linkage (024 $6)
+
+Enter data that links fields that are different script representations of each other.
+
+#### Field link and sequence number (024 $8)
+
+Enter data that identifies linked fields.
