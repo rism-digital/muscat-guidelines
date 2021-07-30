@@ -1,213 +1,110 @@
-**1. Figure** (I termini in corsivo si riferiscono a rimandi.)
+**1. Figures** (Terms in italics refer to cross-references.)
+
+- abbot
+- _Agnus Dei:_ _use_lamb (Paschal)
+- anchor
+- ankh
+- antlers
+- _balances:_ _use_scales
+- Basle crosier
+- bear and tamer
+- bell (outline / clapper) _see also_ spherical bell
+- _bicephalous:_ _use_ double-headed
+- bishop’s crosier
+- bull’s head
+- _bush:_ _use_ shrub
+- cardinal’s hat
+- _carriage:_ _use_ coach
+- _chalice: use_ goblet
+- chaplet
+- Christ on the cross
+- clover (broad-leafed)
+- coach
+- coat of arms
+- compass
+- _compasses or pair of compasses:_ _use_compass
+- crescent
+- crosier _see also_ Basle crosier, bishop’s crosier
+- cross of Lorraine
+- crown (with narrow / wide arch)
+- _crozier (crosier) of Basle (Basel): use_ Basle crosier
+- dagger
+- eagle (single-headed / double-headed)
+- _Egyptian cross:_ _use_ ankh
+- falcon
+- _fool’s cap: use_ foolscap
+- foolscap
+- _four-legged animal: use_ quadruped
+- Freemason symbols
+- glove
+- goblet
+- Gothic letter
+- Gothic letter P with forked stem (turned outwards / inwards)
+- grapes: grapes / grape leaf / grapevine
+- griffin
+- _gryphon:_ _use_griffin
+- halberd
+- hat (three-cornered)
+- hedgehog
+- horn (with baldric / additional motif)
+- horseman
+- ibex
+- ivy
+- lamb (Paschal)
+- _Lamb of God: use_ lamb (Paschal)
+- _laurel (wreath): use_ wreath
+- lily
+- lime tree
+- _linden: use_ lime tree
+- _Lorraine cross: use_ cross of Lorraine
+- _mammal: use_ quadruped
+- merchant’s mark
+- mermaid (single / double tail)
+- _miter:_ _use_ mitre
+- mitre
+- _mountain goat:_ _use_ ibex
+- orb
+- _pair of compasses:_ _use_compass
+- quadruped
+- quill
+- ram
+- _rider:_ _use_horseman
+- _rod of Basel: use_ Basle crosier
+- scales (with triangular/round pans)
+- _scepter:_ _use_sceptre
+- sceptre
+- scythe
+- _serpent:_ _use_ snake
+- shape (tall / narrow / unidentified)
+- _shears:_ _use_scissors
+- shrub (nondescript)
+- sickle
+- snake on a shaft
+- spherical bell
+- square
+- St. Andrew’s cross
+- stag (head/whole)
+- star (six points)
+- stork
+- sun (with face / rays)
+- swastika
+- _three-cornered hat: see_ hat
+- _three kings:_ _use_ three magi
+- three magi
+- _three wise men: use_ three magi
+- torch
+- tower (single / with extension / with gate)
+- tree (with leaves)
+- tree (with needles)
+- _tricorne:_ _use_ hat (three-cornered)
+- trident
+- unicorn
+- wild man
+- wreath
 
-** **
+**2. Descriptions**
 
-abbot = abate
+- chain line
+- formed from a single piece of wire
+- wire lines (curved/straight)
 
-_Agnus Dei:_ _utilizza_lamb (Paschal)
-
-anchor = ancora
-
-ankh = croce ansata
-
-antlers = palco di corna (di cervo)
-
-_balances:_ _utilizza_scales
-
-Basle crosier = pastorale di Basilea
-
-bear and tamer = orso e ammaestratore
-
-bell (outline / clapper) = campana (sagoma / batacchio) _vedi anche_ spherical bell
-
-_bicephalous:_ _utilizza_ double-headed
-
-bishop’s crosier = pastorale di vescovo
-
-bull’s head = testa di toro
-
-_bush:_ _utilizza_ shrub
-
-cardinal’s hat = cappello cardinalizio
-
-_carriage:_ _utilizza_ coach
-
-_chalice:_ _utilizza_ goblet
-
-chaplet = ghirlanda/rosario
-
-Christ on the cross = Cristo in croce
-
-clover (broad-leafed) = trifoglio (a foglie larghe)
-
-coach = carrozza
-
-coat of arms = stemma
-
-compass = compasso
-
-_compasses:_ _utilizza_compass
-
-crescent = mezzaluna
-
-crosier = pastorale _vedi anche_ Basle crosier, bishop’s crosier
-
-cross of Lorraine = croce di Lorena
-
-crown (with narrow / wide arch) = corona (con volta stretta / larga)
-
-_crozier (crosier) of Basle (Basel):_ _utilizza_ Basle crosier
-
-dagger = pugnale
-
-eagle (single-headed / double-headed) = aquila (a una testa / a due teste)
-
-_Egyptian cross:_ _utilizza_ ankh
-
-falcon = falco
-
-_fool’s cap:_ _utilizza_ foolscap
-
-foolscap = berretto da matto
-
-_four-legged animal: utilizza_ quadruped
-
-Freemason symbols = simboli massoni
-
-glove = guanto
-
-goblet = coppa
-
-Gothic letter = lettera gotica
-
-Gothic letter P with forked stem (turned outwards / inwards) = lettera gotica con asta biforcuta (verso l’esterno / verso l’interno)
-
-grapes: grapes / grape leaf / grapevine = uva: grappolo / foglia di vite / vite
-
-griffin = grifone
-
-_gryphon:_ _utilizza_griffin
-
-halberd = alabarda
-
-hat (three-cornered) = cappello (a tre punte)
-
-hedgehog = riccio
-
-horn (with baldric / additional motif) = corno (con bandoliera / con motivo accessorio)
-
-horseman = cavaliere
-
-ibex = stambecco
-
-ivy = edera
-
-lamb (Paschal) = agnello (pasquale)
-
-_Lamb of God:_ _utilizza_ lamb (Paschal)
-
-_laurel (wreath):_ _utilizza_ wreath
-
-lily = giglio
-
-lime tree = tiglio
-
-_linden:_ _utilizza_ lime tree
-
-_Lorraine cross:_ _utilizza_ cross of Lorraine
-
-_mammal:_ _utilizza_ quadruped
-
-merchant’s mark = marchio del mercante
-
-mermaid (single / double tail) = sirena (con coda semplice / doppia)
-
-_miter:_ _utilizza_ mitre
-
-mitre = mitra
-
-_mountain goat:_ _utilizza_ ibex
-
-orb = globo imperiale
-
-_pair of compasses:_ _utilizza_compass
-
-quadruped = quadrupede
-
-quill = penna
-
-ram = ariete
-
-_rider:_ _utilizza_ horseman
-
-_rod of Basel:_ _utilizza_ Basle crosier
-
-scales (with triangular/round pans) = bilancia (con piatti triangolari/tondi)
-
-_scepter:_ _utilizza_sceptre
-
-sceptre = scettro
-
-scythe = falce
-
-_serpent:_ _utilizza_ snake
-
-shape (tall / narrow / unidentified) = figura/segno (alto / stretto / non identificato)
-
-_shears:_ _utilizza_scissors
-
-shrub (nondescript) = cespuglio (non specificato)
-
-sickle = falcetto
-
-snake on a shaft = bastone di Esculapio
-
-spherical bell = sonaglio
-
-square = quadrato
-
-St. Andrew’s cross = croce di Sant’Andrea
-
-stag (head/whole) = cervo (testa/intero)
-
-star (six points) = stella (a sei punte)
-
-stork = cicogna
-
-sun (with face / rays) = sole (con viso / radiante)
-
-swastika = svastica
-
-_three-cornered hat: vedi_ hat
-
-_three kings:_ _utilizza_ three magi
-
-three magi = tre re magi
-
-_three wise men:_ _utilizza_ three magi
-
-torch = torcia
-
-tower (single / with extension / with gate) = torre (singola / con estensione / con cancello)
-
-tree (with leaves) = albero (latifoglia)
-
-tree (with needles) = albero (aghifoglia)
-
-_tricorne:_ _utilizza_ hat (three-cornered)
-
-trident = tridente
-
-unicorn = unicorno
-
-wild man = uomo selvaggio
-
-wreath = serto (d’alloro)
-
-**2. Descrizioni**
-
-chain line = filone
-
-formed from a single piece of wire = formato da un solo filo di ferro
-
-wire lines (curved/straight) = vergature (incurvate/diritte)
