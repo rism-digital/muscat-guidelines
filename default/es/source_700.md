@@ -1,10 +1,10 @@
-### Additional personal name (700)
+### Nombre personal adicional (700)
 
 This field appears twice for sources. It appears in the section **People and institutions** to list all additional people involved with the source. It is also in the section **Material description** if you wish to associate additional names with particular material groups, especially when creating multiple material groups.
 
-#### Name (700 $a)
+#### Nombre personal adicional (700)
 
-Enter all personal names that appear on the source. This field is linked to the **Personal names** authority file. Names not yet in the authority file may be added.
+Enter all personal names that appear on the source. Este campo está vinculado al registro de autoridad de Nombres personales. Names not yet in the authority file may be added.
 
 Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as an ** Additional institution (710)**.
 
@@ -12,15 +12,15 @@ In the case of parent records for collections or composite volumes, enter a name
 
 #### Attribution (700 $j)
 
-Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
+Seleccione un calificador para describir el nivel de certeza de la atribución, en caso de que se dé alguna de las situaciones siguientes. Si no es el caso, deje el campo en blanco.
 
-- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
-- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
-- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
+- **Supuesta** significa que el nombre está presente en la fuente, pero la atribución es cuestionable o dudosa.
+- **Certificada** significa que el nombre está parcial o totalmente ausente en la fuente, pero la atribución es (razonablemente) cierta y se basa en la comparación con fuentes concordantes, bibliografía secundaria u otros recursos de investigación. Esto sucede en la mayoría de los casos.
+- **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
 - **Doubtful** means the authorship is in question.
-- **Misattributed** means the name is on the source but is incorrect.
+- **Mal atribuida** significa que hay un nombre en la fuente pero es incorrecto.
 
-#### Function (700 $4)
+#### Nombre (700 $a)
 
 **Required field if "Name" is filled out.**
 
