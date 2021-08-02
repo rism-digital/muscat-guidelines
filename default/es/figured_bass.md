@@ -32,4 +32,4 @@ Scoring summary (240 $m): org
 Parts held (590): org  
 Scoring (594): org = org.fig
 
-For other keyboard instruments, follow the model as for **org**.
+| **Instrumento  **
