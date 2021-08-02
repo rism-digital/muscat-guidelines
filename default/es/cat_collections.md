@@ -282,7 +282,9 @@ Entre los descriptores apropiados para tratados aparecen los siguientes casos:
 
 Pueden agregarse descriptores adicionales.
 
-**Descripción física:** **Formato, extensión (300):** Utilice la frase "text document" [documento de texto] para describir el formato del libreto. Un ejemplo sería: 1 text document: viii, 27. p.
+**Descripción física:** **Formato, extensión (300):** Utilice la frase "text document" [documento de texto] para describir el formato del libreto. Un ejemplo sería: 1 text document: viii, 27. Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
+_Ejemplo:_  
+p.
 
 ### Catalogación de libretos
 
