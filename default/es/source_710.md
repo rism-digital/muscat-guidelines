@@ -6,7 +6,7 @@ Publishers named after people but acting out the function of publisher (Pleyel, 
 
 #### Institution (710 $a)
 
-Enter the names of all institutions that appear on or are associated with the source. This field is linked to the ** Institutions** authority file. Names not yet in the authority file may be added.
+Enter the names of all institutions that appear on or are associated with the source. This field is linked to the ** Institutions** authority file. Pueden añadirse nombres que aún no estén registrados en el archivo de autoridad.
 
 #### Department (710 $b)
 
@@ -14,13 +14,13 @@ Enter, if necessary, the name of the unit of an institution, such as a departmen
 
 #### Attribution (710 $j)
 
-Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
+Seleccione un calificador para describir el nivel de certeza de la atribución, en caso de que se dé alguna de las situaciones siguientes. Si no es el caso, deje el campo en blanco.
 
-- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
-- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
-- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
+- **Supuesta** significa que el nombre está presente en la fuente, pero la atribución es cuestionable o dudosa.
+- **Certificada** significa que el nombre está parcial o totalmente ausente en la fuente, pero la atribución es (razonablemente) cierta y se basa en la comparación con fuentes concordantes, bibliografía secundaria u otros recursos de investigación. Esto sucede en la mayoría de los casos.
+- **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
 - **Doubtful** means attribution is in question.
-- **Misattributed** means the name is on the source but is incorrect.
+- **Mal atribuida** significa que hay un nombre en la fuente pero es incorrecto.
 
 #### Function (710 $4)
 
