@@ -2,7 +2,7 @@
 
 Si el ítem es una tesis doctoral, incluya el tipo de grado académico, la institución y el año.
 
-_Examples:_
+_Ejemplos:_
 
 - Ph.D. diss., University College, London 1998
 - D. diss., University College, London 1998  
