@@ -1,18 +1,18 @@
-### External resource (856)
+### Recurso externo (856)
 
 Use this field to link to an external resource that bears a direct connection to the source being described.
 
-#### External resource URL (856 $u)
+#### URL del recurso externo (856 $u)
 
-Enter the full URL of the external resource. Always use permalinks.
+Introduzca la URL completa del recurso externo. Utilice siempre enlaces permanentes (permalinks).
 
-#### Note about external resource (856 $z)
+#### Nota sobre el recurso externo (856 $z)
 
 This field is required when entering a link to an external resource.
 
-Enter a brief description that explains why the URL is relevant to the source being described. Enter using your cataloging language.
+Enter a brief description that explains why the URL is relevant to the source being described. Regístrelo usando su idioma de catalogación.
 
-_Examples:_
+_Ejemplos:_
 
 - Digital copy
 - Watermark on p. 4
@@ -27,7 +27,7 @@ _Examples:_
 
 #### Link type (856 $x)
 
-This field is required when entering a link to an external resource. Select from the following:
+This field is required when entering a link to an external resource. Ingrese la URI que identifica la institución.
 
 - **Digitized source** : The link is to an external website which is a digitized copy of the resource being described. The preference is to link to institutional repositories but if one is not available then links to external repositories such as the Internet Archive or IMSLP are allowed. For collections, it is not necessary to duplicate the same link in the collection main entry and the individual entries.  
   _Example_ :[  
@@ -37,7 +37,10 @@ This field is required when entering a link to an external resource. Select from
 
 In cases where both links to an external viewer and an IIIF manifest are available, repeat the field and list both links separately.
 
-_Examples_:
+_Ejemplos_:  
+[title page:] Vesperae | chorales unà cum | organo cantandae | pro | Choro Ingolstadiensi,  
+[without title]  
+[caption title, f.
 
 - External resource: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
   Note: digitized version  
