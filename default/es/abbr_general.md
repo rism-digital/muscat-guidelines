@@ -106,7 +106,7 @@ ex.
 
 - EN: copies (for printed music)
 
-Excerpts
+_Extractos
 
 - EN: excerpt(s)
 
@@ -222,6 +222,8 @@ P
 
 - EN: full score (in printed music)
 
+Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
+_Ejemplo:_  
 p.
 
 - EN: page(s)
