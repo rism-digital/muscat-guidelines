@@ -18,7 +18,7 @@ En el caso de los manuscritos, ingrese el nombre del copista tal como aparece en
 
 Registre siempre los nombres con su forma estandarizada en los campos **Nombre personal adicional (700)** o **Institución adicional**  **(710)**. Los editores que aparecen nombrados en referencia a ciertas personas pero que cumplen la función de editorial (Pleyel, André, etc.) se ingresan como Instituciones.
 
-Si el lugar no aparece identificado en un impreso, ingrese **[s.l.].** Para los manuscritos, deje el campo en blanco. (Do not index [s.n.] as an additional institution). For manuscripts, leave blank.
+Si el lugar no aparece identificado en un impreso, ingrese **[s.l.].** Para los manuscritos, deje el campo en blanco. (Do not index [s.n.] as an additional institution). Para los manuscritos, deje el campo en blanco.
 
 #### Editor, copista (260 $b)
 
@@ -34,7 +34,7 @@ Note que, en el caso de los manuscritos, las fechas se presentan sin corchetes, 
 
 Se pueden indicar otras fechas que aparecen en la fuente. Utilice signos de interrogación para señalar información que resulte incierta.
 
-_Examples:_
+_Ejemplos:_
  - 1875
  - 1856 Christmas Day
  - 1757-01-11
