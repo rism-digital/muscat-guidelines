@@ -356,7 +356,7 @@
 
 #### tam-tam
 
-- Link: [https://en.wikipedia.org/wiki/Gong](https://en.wikipedia.org/wiki/Gong)
+- | [Link to Wikipedia](https://en.wikipedia.org/wiki/Gong) |
 - EN: tam-tam (a kind of gong)
 - DE: Tamtam
 - FR: tam-tam
@@ -574,7 +574,7 @@
 - FR: espinette, épinette
 - IT: spinetta
 
-## Basso continuo
+## Bajo continuo
 
 #### b.fig
 
