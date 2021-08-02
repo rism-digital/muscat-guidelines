@@ -439,7 +439,7 @@ upbeat
 
 - DE: Auftakt
 
-vignette
+viñeta
 
 - DE: Vignette
 
