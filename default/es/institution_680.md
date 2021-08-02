@@ -14,7 +14,7 @@ Introduzca notas adicionales que describan la institución, como por ejemplo:
   Collection Camille Saint-Saëns  
   Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
 
-_Examples:_
+_Ejemplos:_
  - Joachim, Joseph (1831-1907) (Royal College of Music, Library)
  - Andrée-Stenhammararkivet
  - Telemann, Georg Michael
