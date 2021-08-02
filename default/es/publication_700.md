@@ -1,4 +1,4 @@
-### Additional personal name (700)
+### Nombre personal adicional (700)
 
 Aquí se introduce información sobre los editores del ítem, otras personas involucradas en la publicación y los compositores u otras personas de las que trata la publicación.
 
@@ -16,7 +16,7 @@ Seleccione una de las siguientes opciones. (Los códigos de tres letras correspo
 - **Editor [edt]**
 - **Otra función [oth]**
 
-_Example:_
+_Ejemplo:_
 
 - Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst_  (título breve:
 - Hedwig Friederike von Anhalt-Zerbst_  (short title: ReulF 2001):
