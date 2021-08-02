@@ -26,7 +26,7 @@ The following offers guidelines as to which variants justify a new record and wh
 
 These guidelines mean that a single record will be used to represent multiple impressions, states, and binding variants relating to a single edition or issue. In your holdings information, you can enter details about variants and information specific to your copy.
 
-#### Examples:
+#### Ejemplos:
 
 1. You are looking at RISM number 1001031016: Beethoven, "Adelaide," op. 46, no date, Bonn, N. Simrock, text in German and French.Spelling error on title page: "à une vois [!] Seule".
 
