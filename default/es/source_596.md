@@ -14,7 +14,7 @@ Use **Other** for references to printed editions that were not included in the p
 
 B/XIII - _Hymnologica Slavica_
 
-- Other
+- Otros
 - 1001100380
 
 A continuación se ofrecen _Ejemplos_ para cada una de las [publicaciones de RISM](http://www.rism.info/en/publications.html) que incluyen música impresa.
@@ -31,7 +31,9 @@ B/I - _Recueils imprimés, XVIe-XVIIe siècles_
 
 B/II - _Recueils imprimés, XVIIIe siècle_
 
-- p. 87
+- Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
+  _Ejemplo:_  
+  p. 87
 
 B/III - _The theory of music_
 
@@ -61,7 +63,9 @@ B/XIII - _Hymnol__ogica Slavica_
 B/XV - _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630_  
 Cite el número A/I, B/I o B/II en caso de que la fuente lo consigne; de no ser así, cite los números de página(s).
 
-- p. 45-46
+- Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
+  _Ejemplo:_  
+  p. 45-46
 
 B/XVII - _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_  
 Cite los números de página(s) si no se cita otra serie RISM.
