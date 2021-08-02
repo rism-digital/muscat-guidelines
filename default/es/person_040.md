@@ -21,7 +21,7 @@ This field gives the code for the organization that transcribed the record into 
 
 #### Agencia de la modificación (040 $d)
 
-**Do not change.**
+**No lo cambie.**
 
 Este campo presenta el código de la organización responsable de modificar el registro MARC. Los códigos canadienses, británicos y alemanes pueden buscarse en [https://www.loc.gov/marc/organizations/other\_assignment.php](https://www.loc.gov/marc/organizations/other_assignment.php)
 
