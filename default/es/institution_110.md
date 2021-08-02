@@ -8,7 +8,15 @@ Introduzca el nombre actual de la institución en el idioma local. Si el idioma 
 
 En los casos en que las bibliotecas, los archivos o los centros de documentación pertenezcan a una institución más grande, escriba primero el nombre de la institución más grande y añada la unidad subordinada separada por una coma.
 
-_Examples_:
+_Ejemplos_:  
+Donna Flavia (S)  
+Theodor (T)  
+Zerbinetta (Mezzo-S)  
+Ein Polizeikommisar (Bariton)  
+Der Schornsteinfeger (Bariton)  
+Doktor Zwingli (B)  
+?Achiar?  
+Drei Knaben
 
 - Privatsammlung Cees Verheijen
 - Private collection Christopher Hogwood
@@ -33,14 +41,17 @@ Las siglas del repositorio se componen de tres elementos: una abreviatura del pa
 
 En caso de que una institución haya cambiado de nombre, sigue manteniendo la misma Sigla. (Por ejemplo: CZ-Bu)
 
-_Examples_:
+_Ejemplo:_  
+4’’C^G^E^C
 
 - GB-Cu = Reino Unido, Cambridge, University Library
 - F-Pn = Francia, París, Bibliothèque nationale de France, Département de la Musique.
 
 Ingrese el nombre de la unidad subordinada de la institución.
 
-_Example_:
+_Ejemplo_:  
+[http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000  
+](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.
 
 - I-PEbattisti = Italia, Perugia, Biblioteca privata Renzo Battisti.
 
