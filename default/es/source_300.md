@@ -84,7 +84,9 @@ _Ejemplos_ de los detalles que pueden consignarse:
 
 - f. [1]  en blanco
 - f. [2] en blanco
-- p. 272 se presenta dos veces
+- Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
+  _Ejemplo:_  
+  p. 272 se presenta dos veces
 
 #### Otros detalles físicos (300 $b)
 
