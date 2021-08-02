@@ -14,7 +14,7 @@ An authority file contains the following fields:
 - Alternate names - variant spellings or pseudonyms can be entered here. These are also searchable. The input is not standardised.
 - Alternate dates - alternate life dates can be enteres here. See the rules under "Dates" for a correct input.
 
-### Institutions
+### Instituciones
 
 By clicking on "New Institution", new data records can be added. Headings are based on a) New Grove, b) VIAF, c) other reference works.
 
@@ -24,7 +24,7 @@ An authority file contains the following fields:
 - Other names - here further spellings or forms of names are given, which can also be researched, for example, " Biblioteca naziunala svizra. 2006a: Swiss National Library.." The input is not standardised.
 - Comments - here the geographical location is entered, if it is not evident from the name, e.g. "Bern", and further comments are added.
 
-### Titles / Text incipits
+### Títulos / Íncipits literarios
 
 The authority file contains both the titles entered in the "Standardised title (130/240 $a)" and the text incipits entered in the "Text (740 $a)" fields. To select the appropriate heading for standardised titles, see "Standardised title (130/249 $a)". By clicking on "New standard title" a new data record may be added.
 
