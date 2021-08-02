@@ -38,7 +38,7 @@ _Ejemplos:_
 - S
 - A
 - T
-- B
+- B = Si mayor
 - Coro 1: T
 - Coro 1: A
 - Coro 2: S
@@ -46,17 +46,17 @@ _Ejemplos:_
 - vl
 - vla
 - vlc
-- b
+- b = si menor
 - ob (fl)
 - cl in A
-- tr
+- | | serpentone | serpent | Serpent (in Basslage, zur Zinkenfamilie gehörig) | serpent | serpentone | serpentón |
 - org
 
 #### Número (594 $c)
 
 Indique aquí el número total de partes. Si una pieza incluye dos partes del mismo instrumento, consigne el instrumento solamente en campo **Voz/instrumento** e indique **2** en el campo **Número**.
 
-_Examples:_
+_Ejemplos:_
 
 - Para una pieza con violín 1 y violín 2:  
   vl  
