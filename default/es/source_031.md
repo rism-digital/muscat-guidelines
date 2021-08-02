@@ -27,12 +27,12 @@ Registre el título del movimiento y el tempo –o indicaciones similares–, si
 
 #### Voz/instrumento (031 $m)
 
-Registre la parte vocal o instrumental correspondiente al íncipit siguiendo la lista de **abreviaturas de instrumentos de RISM**. Use **V** para una parte vocal desconocida e **i** para una parte instrumental desconocida. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Indique la afinación del instrumento en el campo **Nota general**.
+Registre la parte vocal o instrumental correspondiente al íncipit siguiendo la lista de **abreviaturas de instrumentos de RISM**. Use **V** para una parte vocal desconocida e **i** para una parte instrumental desconocida. Enter **i** for an unknown instrumental part. En el caso de los instrumentos transpositores, transcriba los fragmentos en altura real. Indique la afinación del instrumento en el campo **Nota general**.
 
 _Ejemplo:_  
 4’’C^G^E^C
 
-- pf
+- |
 - T coro
 - org with text
 
@@ -193,7 +193,7 @@ t = trino (se coloca inmediatamente después de la nota)
 { = comienzo del barrado  
 } = fin del barrado
 
-Example:
+Ejemplo:
 _Ejemplos_  
 8(3ABCDE;5) = quintillo (5) de fusas (3), en el tiempo de una corchea (8)  
 8({3ABCDE};5) = quintillo de fusas, en el tiempo de una corchea con las plicas unidas.
@@ -204,7 +204,7 @@ _Ejemplos_
 
 La duración total del grupo debe escribirse antes de **(**. El valor rítmico de la primera nota debe escribirse después de **(**, aunque sea idéntico al de la nota inmediatamente antes de la sección con figuras irregulares. El número de notas del grupo debe indicarse antes de **)**, separado de la última nota por **;**. It is separated from the last note by **;**.
 
-_Examples:_
+_Ejemplos:_
 
 - 8(3ABCDE;5)   = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note.
 - 8({3ABCDE};5) = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note, beamed
@@ -223,7 +223,7 @@ Por favor, ¡no olvide el valor rítmico dentro de los paréntesis!
 f = repetir la indicación  
 El pasaje será repetido cada vez que aparezca  **f**  después del segundo **!**. Esto sólo es posible dentro de un mismo compás.
 
-_Example:_
+_Ejemplo:_
 
 - !{'8ABAG}!ff = this figure will be repeated twice
 
@@ -231,7 +231,7 @@ _Example:_
 i = repeat last bar/measure  
 'i' always goes between two bar lines.
 
-_Example:_
+_Ejemplo:_
 
 - _Ejemplo:_  
   ‘4ABAG /i/i = el compás será repetido dos veces
@@ -240,7 +240,7 @@ _Example:_
 
 _Ejemplos_:
 
-_Example:_
+_Ejemplo:_
 
 - _Ejemplo:_  
   **8.A6B8C 8.D6E8F** puede reemplazarse por **8.68ABCDEF**  
@@ -252,7 +252,7 @@ _Example:_
 Cambio de clave, armadura o compás</strong>  
 Use **%** para cambiar la clave, **$** para cambiar la armadura y **@** para cambiar la indicación de compás. Tras el carácter respectivo, escriba la nueva indicación (clave, armadura o compás) seguida de un espacio.
 
-_Examples:_
+_Ejemplos:_
 
 - %C-1 '2A  
   %C-1 $xFC '8B  
@@ -266,7 +266,7 @@ _Examples:_
 
 Abbreviated forms of notation found within the music, such as tremolos or simile signs for repeats, must be written out in full using the actual notation.
 
-_Examples:_
+_Ejemplos:_
 
 - {'8DDDD} = minim/ half tremolo on D
 
@@ -276,7 +276,7 @@ _Examples:_
 i = repetir el último compás.  
 La “i” siempre va entre dos barras de compás
 
-_Example:_
+_Ejemplo:_
 
 - 4’’C^’G^E^C
 
@@ -288,7 +288,7 @@ Utilice este campo para registrar cualquier otro comentario, como la afinación 
 
 En este campo puede indicar la plantilla/orgánico específica para el movimiento en cuestión (por ejemplo, el caso de un movimiento dentro de una pieza vocal compleja). Consigne la plantilla/orgánico en una línea siguiendo las abreviaturas de instrumentos de RISM y el orden estándar (descriptas en **Resumen de plantilla/orgánico [240 $m]**). Use punto y coma para separar familias de instrumentos.
 
-_Examples:_
+_Ejemplos:_
 
 - S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]
 - S 2 solo; Coro; ob obl; strings, bc
