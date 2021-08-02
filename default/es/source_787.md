@@ -19,7 +19,7 @@ Select the term that describes the relationship between the source in hand and a
 
 Briefly describe the nature of the relationship. Additional details may also be given in the field **General note ( 500**).
 
-_Examples_:
+_Ejemplo:_
 
 - Additional parts
 - Concordant source in US-Wc
