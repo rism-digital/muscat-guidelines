@@ -1,13 +1,13 @@
 ### Standardized titles for printed music
 
-**Distinctive titles**
+**Títulos distintivos**
 
 Printed music bears distinctive titles much more frequently than music manuscripts do. Please observe the following for the field **Standardized title (240)**when cataloging printed music.
 
 1. **Spelling**  
    Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms. Frequent changes include _v_to _u_,_i_to _j_,_y_to _i,_and _uu_to _w_. The Editorial Center can assist with unfamiliar foreign languages. Additional variations can be entered in the field **Additional title (730)**.
 
-_Examples:_
+_Ejemplos:_
 
 - RISM A/I: RR 3030c
    - Title on source: Musicalische Grab=schrifft.
@@ -16,7 +16,7 @@ _Examples:_
 2. **Deriving a standardized title**  
    Standardized titles should consist of the title of the print up to a natural break, frequently a comma, period, or a statement of the author, instrumentation, number, or imprint. Sometimes a distinctive title appears on a page other than the title page.
 
-_Examples:_
+__Ejemplos: __
 
 - RISM A/I: B 805
    - Title on source: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza
@@ -30,7 +30,7 @@ _Examples:_
 
 Even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive titles. Use the field**Additional title (730)** to enter such titles in a standardized form. For guidance, refer to standard reference works such as Grove and MGG, and authority files from the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the component in the original language (but standardized spelling) and the arabic number following the title.
 
-_Examples_:
+_Ejemplo:_
 
 - RISM A/I: P 687
    - Title on source: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI
