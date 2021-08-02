@@ -26,7 +26,8 @@ Seleccione uno de los siguientes tipos:
 
 Introduzca el tipo de jurisdicción asociada a la institución.
 
-_Examples_:
+_Ejemplos_:  
+vol.
 
 - County
 - Village
