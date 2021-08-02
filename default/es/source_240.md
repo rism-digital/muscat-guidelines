@@ -22,7 +22,7 @@ Registre el título distintivo con una ortografía estándar, tal como aparece e
 
 Los nombres o apodos por los cuales se conoce popularmente una obra (tales como “Eroica” o “Misa Nelson”) no cuentan como títulos uniformes. Tales nombres deben ser registrados en el campo **Títulos adicionales** **(730 $a)**.
 
-_Examples:_
+_Ejemplos:_
  - _Songs_ (para piezas vocales)
  - _Pieces_ (para piezas genéricas)
  - _Movements_(un único movimiento de una pieza instrumental sin indicación de tempo ni de carácter)
@@ -40,21 +40,21 @@ Al registrar los íncipits literarios, siga las normas de ortografía del idioma
 
 Asegúrese de que el íncipit literario que registra en este campo sea idéntico al ingresado en el campo **Íncipit literario (031 $t)**. En el caso de los textos en latín, utilice el texto que precede a la coma (en la lista de incipits literarios que figura en el apéndice) como título uniforme pero registre el íncipit literario completo en el campo **Íncipit literario.**
 
-_Examples:_
+_Ejemplos:_
  - Der Mond ist aufgegangen
  - Gloria, in excelsis Deo et in terra pax]
 
 3. **Género**  
    Utilice el género de la pieza como título uniforme si no cuenta con un título distintivo o un íncipit literario. En la mayoría de los casos, ingrese el género en inglés y en plural (como en **_Operas_** o **_Masses_** ). Tenga en cuenta que, para algunos géneros, debe utilizarse un determinado **Descriptor (650)** como Título uniforme (y también como Descriptor). Por favor, remítase al apéndice **Título uniforme – Descriptor** de los _Lineamientos_para mayor información.
 
-_Examples:_
+_Ejemplos:_
  - **Extractos** : en casos en los que sólo se cuente con una o varias partes de la obra completa.
  - **Fragmentos** : en casos en los que sólo se cuente con fragmentos de la obra completa.
 
 4. **Indicaciones de tempo**  
    Ingrese la indicación de tempo en caso de que no pueda determinarse el género. Si ninguna de las opciones resulta factible, utilice uno de los siguientes términos:
 
-_Examples:_
+_Ejemplos:_
  - Voces solistas
  - Coro
 
@@ -117,12 +117,12 @@ Ingrese los grupos de instrumentos en el siguiente orden:
  - Instrumentos solistas
  - Cuerdas
  - Instrumentos de teclado
- - Strings
- - Woodwinds
- - Brass
- - Plucked instruments
- - Percussion
- - Keyboard instruments
+ - ES: cuerdas
+ - Vientos de madera
+ - Vientos-metal
+ - Instrumentos pulsados
+ - Percusión
+ - Instrumentos de teclado
  - Bajo continuo
 
 Para indicar más de un elemento en la misma voz o instrumento, coloque el número entre paréntesis luego de la designación de la parte, como en **B (2)**. Utilice **V** para indicar una parte vocal desconocida e **i** para remitirse a un instrumento desconocido. También use **V** para agrupar varias partes vocales distintas, como en **V (8)**. Indique un número desconocido de partes con **(X)**.
