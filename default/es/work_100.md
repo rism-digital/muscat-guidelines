@@ -4,9 +4,9 @@ This field identifies the work through the composer, title, and other musical in
 
 #### Composer (100 $a; RDA registry [rdaw:P10053](http://www.rdaregistry.info/Elements/w/datatype/#P10053))
 
-#### Years of birth and death (100 $d)
+#### Orden religiosa (100 $c)
 
-Enter the name of the composer. This field is linked to the **Personal names** authority file. New names can be added; in such a case, include the life dates when known.
+Enter the name of the composer. Este campo está vinculado al registro de autoridad de Nombres personales. New names can be added; in such a case, include the life dates when known.
 
 #### Scoring summary (100 $m; RDA registry [rdae:P20215](http://www.rdaregistry.info/Elements/e/#P20215))
 
