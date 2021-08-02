@@ -2,7 +2,7 @@
 
 Aquí pueden registrarse los términos y condiciones de la institución que alberga la fuente. Complételo usando su idioma de catalogación.
 
-_Examples:_
+_Ejemplos:_
 
 - Consultation in the reading room.
 - Reproductions upon request (charges may apply).
