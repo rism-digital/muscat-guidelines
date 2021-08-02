@@ -22,15 +22,15 @@ Términos vocales (voz)
 
 -
 
-Strings
+ES: cuerdas
 
 -
 
-Woodwinds
+Vientos de madera
 
 -
 
-Brass
+Vientos-metal
 
 -
 
