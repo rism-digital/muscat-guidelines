@@ -56,7 +56,7 @@ Por favor tenga en cuenta lo siguiente para todas las secciones:
   **D-B\*** = todas las fuentes en ciudades alemanas que empiezan con B  
   **D-B** = todas las fuentes en la _Staatsbibliothek zu Berlin_
 
-#### Personal names
+#### Nombres personales
 
 Por favor, tenga en cuenta lo siguiente al buscar **Nombres personales** :
 
