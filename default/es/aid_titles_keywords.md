@@ -170,9 +170,14 @@ Versets — Versets (inst.)
 
 Virelais — Virelais (forme fixe)
 
-**Sacred vocal music**
+**Música sacra vocal**
 
-Standardized title/genre — Corresponding subject heading
+| _Género en español  
+(sólo referencia)    _ | _Usar como  
+título uniforme_ | _Descriptor   
+correspondiente_ | | Airs  | Airs | Airs (dances) | | Airs | Airs | Airs (inst.) | | Airs | Airs | Airs (voc.) | | Arias | Arias | Arias (voc.) | | _Ballades _(forma fija) | Ballades | Ballades (forme fixe) | | Baladas | Ballades | Ballades (inst.) | | Baladas | Ballads | Ballads (voc.) | | Balleti  | Ballettos | Ballettos (voc.) | | Barcarolas | Barcarolles | Barcarolles (inst.) | | Barcarolas | Barcarolles | Barcarolles (voc.) | | Batallas | Battle music | Battle music (inst.) | | Batallas | Battle music | Battle music (voc.) | | Bergerettes | Bergerettes | Bergerettes (voc.) | | Música para bronces | Brass music | Brass music | | Cánones | Canons | Canons (inst.) | | Cánones | Canons | Canons (voc.) | | Canzone | Canzonas | Canzonas (inst.) | | Canzoni | Canzoni | Canzoni (voc.) | | Caprichos | Capriccios | Capriccios (inst.) | | Caprichos | Capriccios | Capriccios (voc.) | | Dúos | Duets | Duets (inst.) | | Dúos | Duets | Duets (voc.) | | Estudios | Etudes | Etudes (inst.) | | Fugas | Fugues | Fugues (inst.) | | Fugas | Fugues | Fugues (voc.) | | In Nomine | In Nomine | In Nomine (inst.) | | Piezas instrumentales | Instrumental pieces | Instrumental pieces | | Interludios | Interludes | Interludes | | Intermedios | Intermezzos | Intermezzos (inst.) | | Entonación | Intonazione | Intonazione (inst.) | | Nocturnos | Nocturnes | Nocturnes (inst.) | | Notturni | Notturni | Notturni (voc.) | | Pastorales | Pastorales | Pastorales (inst.) | | Pastorales | Pastorales | Pastorales (voc.) | | Preludios y fugas | Preludes and Fugues | [ingrese dos descriptores:]   
+Preludes   
+Fugues | | Cuartetos | Quartets | Quartets (inst.) | | Cuartetos | Quartets | Quartets (voc.) | | Rapsodias | Rhapsodies | Rhapsodies (inst.) | | Rapsodias | Rhapsodies | Rhapsodies (voc.) | | Ricercari | Ricercares | Ricercares (inst.) | | Ricercari | Ricercares | Ricercares (voc.) | | Romances | Romances | Romances (inst.) | | Romances | Romances | Romances (voc.) | | _Rondeaux _(forma fija) | Rondeaux | Rondeaux (forme fixe) | | Rondós | Rondos | Rondos (inst.) | | Rondós | Rondos | Rondos (voc.) | | Rondas | Rounds | Rounds (voc.) | | Scherzi (voc.) | Scherzi | Scherzi (voc.) | | _Scherzi _(inst.) | Scherzos | Scherzos (inst.) | | Sonatas | Sonatas | [use] Sonatas [or] Triosonatas | | Terzetti | Terzets | Terzets (voc.) | | Trios | Trios | Trios (inst.) | | Vercetos / Versos | Versets | Versets (inst.) | | Virelais | Virelais | Virelais (forme fixe) |
 
 Completoria — Hours of the Office
 
@@ -184,11 +189,16 @@ Laudes — Hours of the Office
 
 Matutina — Hours of the Office
 
-**Music for the stage, theater, etc.**
+**Música para el escenario, el teatro, etc.**
 
 _Para géneros de las partes o números individuales, consulte la sección sobre música vocal e instrumental._
 
-Standardized title/genre — Corresponding subject heading
+| _Género en español  
+(sólo referencia)    _ | _Usar como  
+título uniforme_ | _Descriptor   
+correspondiente_ | | Airs  | Airs | Airs (dances) | | Airs | Airs | Airs (inst.) | | Airs | Airs | Airs (voc.) | | Arias | Arias | Arias (voc.) | | _Ballades _(forma fija) | Ballades | Ballades (forme fixe) | | Baladas | Ballades | Ballades (inst.) | | Baladas | Ballads | Ballads (voc.) | | Balleti  | Ballettos | Ballettos (voc.) | | Barcarolas | Barcarolles | Barcarolles (inst.) | | Barcarolas | Barcarolles | Barcarolles (voc.) | | Batallas | Battle music | Battle music (inst.) | | Batallas | Battle music | Battle music (voc.) | | Bergerettes | Bergerettes | Bergerettes (voc.) | | Música para bronces | Brass music | Brass music | | Cánones | Canons | Canons (inst.) | | Cánones | Canons | Canons (voc.) | | Canzone | Canzonas | Canzonas (inst.) | | Canzoni | Canzoni | Canzoni (voc.) | | Caprichos | Capriccios | Capriccios (inst.) | | Caprichos | Capriccios | Capriccios (voc.) | | Dúos | Duets | Duets (inst.) | | Dúos | Duets | Duets (voc.) | | Estudios | Etudes | Etudes (inst.) | | Fugas | Fugues | Fugues (inst.) | | Fugas | Fugues | Fugues (voc.) | | In Nomine | In Nomine | In Nomine (inst.) | | Piezas instrumentales | Instrumental pieces | Instrumental pieces | | Interludios | Interludes | Interludes | | Intermedios | Intermezzos | Intermezzos (inst.) | | Entonación | Intonazione | Intonazione (inst.) | | Nocturnos | Nocturnes | Nocturnes (inst.) | | Notturni | Notturni | Notturni (voc.) | | Pastorales | Pastorales | Pastorales (inst.) | | Pastorales | Pastorales | Pastorales (voc.) | | Preludios y fugas | Preludes and Fugues | [ingrese dos descriptores:]   
+Preludes   
+Fugues | | Cuartetos | Quartets | Quartets (inst.) | | Cuartetos | Quartets | Quartets (voc.) | | Rapsodias | Rhapsodies | Rhapsodies (inst.) | | Rapsodias | Rhapsodies | Rhapsodies (voc.) | | Ricercari | Ricercares | Ricercares (inst.) | | Ricercari | Ricercares | Ricercares (voc.) | | Romances | Romances | Romances (inst.) | | Romances | Romances | Romances (voc.) | | _Rondeaux _(forma fija) | Rondeaux | Rondeaux (forme fixe) | | Rondós | Rondos | Rondos (inst.) | | Rondós | Rondos | Rondos (voc.) | | Rondas | Rounds | Rounds (voc.) | | Scherzi (voc.) | Scherzi | Scherzi (voc.) | | _Scherzi _(inst.) | Scherzos | Scherzos (inst.) | | Sonatas | Sonatas | [use] Sonatas [or] Triosonatas | | Terzetti | Terzets | Terzets (voc.) | | Trios | Trios | Trios (inst.) | | Vercetos / Versos | Versets | Versets (inst.) | | Virelais | Virelais | Virelais (forme fixe) |
 
 Intermezzos — Intermezzos (stage)
 
@@ -198,7 +208,12 @@ Prologues — Prologues (stage)
 
 **Ejercicios, estudios, escuelas, lecciones**
 
-Standardized title/genre — Corresponding subject heading
+| _Género en español  
+(sólo referencia)    _ | _Usar como  
+título uniforme_ | _Descriptor   
+correspondiente_ | | Airs  | Airs | Airs (dances) | | Airs | Airs | Airs (inst.) | | Airs | Airs | Airs (voc.) | | Arias | Arias | Arias (voc.) | | _Ballades _(forma fija) | Ballades | Ballades (forme fixe) | | Baladas | Ballades | Ballades (inst.) | | Baladas | Ballads | Ballads (voc.) | | Balleti  | Ballettos | Ballettos (voc.) | | Barcarolas | Barcarolles | Barcarolles (inst.) | | Barcarolas | Barcarolles | Barcarolles (voc.) | | Batallas | Battle music | Battle music (inst.) | | Batallas | Battle music | Battle music (voc.) | | Bergerettes | Bergerettes | Bergerettes (voc.) | | Música para bronces | Brass music | Brass music | | Cánones | Canons | Canons (inst.) | | Cánones | Canons | Canons (voc.) | | Canzone | Canzonas | Canzonas (inst.) | | Canzoni | Canzoni | Canzoni (voc.) | | Caprichos | Capriccios | Capriccios (inst.) | | Caprichos | Capriccios | Capriccios (voc.) | | Dúos | Duets | Duets (inst.) | | Dúos | Duets | Duets (voc.) | | Estudios | Etudes | Etudes (inst.) | | Fugas | Fugues | Fugues (inst.) | | Fugas | Fugues | Fugues (voc.) | | In Nomine | In Nomine | In Nomine (inst.) | | Piezas instrumentales | Instrumental pieces | Instrumental pieces | | Interludios | Interludes | Interludes | | Intermedios | Intermezzos | Intermezzos (inst.) | | Entonación | Intonazione | Intonazione (inst.) | | Nocturnos | Nocturnes | Nocturnes (inst.) | | Notturni | Notturni | Notturni (voc.) | | Pastorales | Pastorales | Pastorales (inst.) | | Pastorales | Pastorales | Pastorales (voc.) | | Preludios y fugas | Preludes and Fugues | [ingrese dos descriptores:]   
+Preludes   
+Fugues | | Cuartetos | Quartets | Quartets (inst.) | | Cuartetos | Quartets | Quartets (voc.) | | Rapsodias | Rhapsodies | Rhapsodies (inst.) | | Rapsodias | Rhapsodies | Rhapsodies (voc.) | | Ricercari | Ricercares | Ricercares (inst.) | | Ricercari | Ricercares | Ricercares (voc.) | | Romances | Romances | Romances (inst.) | | Romances | Romances | Romances (voc.) | | _Rondeaux _(forma fija) | Rondeaux | Rondeaux (forme fixe) | | Rondós | Rondos | Rondos (inst.) | | Rondós | Rondos | Rondos (voc.) | | Rondas | Rounds | Rounds (voc.) | | Scherzi (voc.) | Scherzi | Scherzi (voc.) | | _Scherzi _(inst.) | Scherzos | Scherzos (inst.) | | Sonatas | Sonatas | [use] Sonatas [or] Triosonatas | | Terzetti | Terzets | Terzets (voc.) | | Trios | Trios | Trios (inst.) | | Vercetos / Versos | Versets | Versets (inst.) | | Virelais | Virelais | Virelais (forme fixe) |
 
 Standardized title — Subject heading
 
@@ -222,10 +237,15 @@ Tutors — Tutors (voc.)
 
 **Danzas**
 
-Standardized title/genre — Corresponding subject heading
+| _Género en español  
+(sólo referencia)    _ | _Usar como  
+título uniforme_ | _Descriptor   
+correspondiente_ | | Airs  | Airs | Airs (dances) | | Airs | Airs | Airs (inst.) | | Airs | Airs | Airs (voc.) | | Arias | Arias | Arias (voc.) | | _Ballades _(forma fija) | Ballades | Ballades (forme fixe) | | Baladas | Ballades | Ballades (inst.) | | Baladas | Ballads | Ballads (voc.) | | Balleti  | Ballettos | Ballettos (voc.) | | Barcarolas | Barcarolles | Barcarolles (inst.) | | Barcarolas | Barcarolles | Barcarolles (voc.) | | Batallas | Battle music | Battle music (inst.) | | Batallas | Battle music | Battle music (voc.) | | Bergerettes | Bergerettes | Bergerettes (voc.) | | Música para bronces | Brass music | Brass music | | Cánones | Canons | Canons (inst.) | | Cánones | Canons | Canons (voc.) | | Canzone | Canzonas | Canzonas (inst.) | | Canzoni | Canzoni | Canzoni (voc.) | | Caprichos | Capriccios | Capriccios (inst.) | | Caprichos | Capriccios | Capriccios (voc.) | | Dúos | Duets | Duets (inst.) | | Dúos | Duets | Duets (voc.) | | Estudios | Etudes | Etudes (inst.) | | Fugas | Fugues | Fugues (inst.) | | Fugas | Fugues | Fugues (voc.) | | In Nomine | In Nomine | In Nomine (inst.) | | Piezas instrumentales | Instrumental pieces | Instrumental pieces | | Interludios | Interludes | Interludes | | Intermedios | Intermezzos | Intermezzos (inst.) | | Entonación | Intonazione | Intonazione (inst.) | | Nocturnos | Nocturnes | Nocturnes (inst.) | | Notturni | Notturni | Notturni (voc.) | | Pastorales | Pastorales | Pastorales (inst.) | | Pastorales | Pastorales | Pastorales (voc.) | | Preludios y fugas | Preludes and Fugues | [ingrese dos descriptores:]   
+Preludes   
+Fugues | | Cuartetos | Quartets | Quartets (inst.) | | Cuartetos | Quartets | Quartets (voc.) | | Rapsodias | Rhapsodies | Rhapsodies (inst.) | | Rapsodias | Rhapsodies | Rhapsodies (voc.) | | Ricercari | Ricercares | Ricercares (inst.) | | Ricercari | Ricercares | Ricercares (voc.) | | Romances | Romances | Romances (inst.) | | Romances | Romances | Romances (voc.) | | _Rondeaux _(forma fija) | Rondeaux | Rondeaux (forme fixe) | | Rondós | Rondos | Rondos (inst.) | | Rondós | Rondos | Rondos (voc.) | | Rondas | Rounds | Rounds (voc.) | | Scherzi (voc.) | Scherzi | Scherzi (voc.) | | _Scherzi _(inst.) | Scherzos | Scherzos (inst.) | | Sonatas | Sonatas | [use] Sonatas [or] Triosonatas | | Terzetti | Terzets | Terzets (voc.) | | Trios | Trios | Trios (inst.) | | Vercetos / Versos | Versets | Versets (inst.) | | Virelais | Virelais | Virelais (forme fixe) |
 
 Standardized title — Subject heading
 
-Airs — Airs (dances)
+Música vocal sacra
 
 Rounds — Rounds (dances)
