@@ -11,7 +11,7 @@ Do not despair! If you are having problems, first always make sure you have the 
 Make sure you are using either Firefox or Chrome. Internet Explorer will not let you save anything!
 
 **3. The fields stretch all the way across a page and cut into other text.**  
-This might be a screen resolution issue. Muscat works best on screens that are at least 1366 x 768 pixels. Other resolutions might lead to display issues.
+This might be a screen resolution issue. Muscat funciona mejor en pantallas de al menos 1366 x 768 píxeles. Other resolutions might lead to display issues.
 
 **4. I can't scroll down the screen.**  
 This also might be a screen resolution issue. See #3.
