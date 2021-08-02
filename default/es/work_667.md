@@ -1,3 +1,3 @@
-### Internal note (667 $a)
+### Nota interna (667 $a)
 
-Enter local notes for internal use, including within your own working group. Any language may be entered here. The notes are not published in the public online catalog. Local notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.
+Use este campo para registrar notas locales para uso interno, tanto personal como en el marco de su grupo de trabajo. Any language may be entered here. The notes are not published in the public online catalog. Puede usarlas para realizar observaciones de todo tipo, tales como preguntas, comentarios o indagaciones a realizar. Elimine las notas después de que hayan cumplido su propósito. Es una buena práctica firmar cada nota con sus iniciales y la fecha.
