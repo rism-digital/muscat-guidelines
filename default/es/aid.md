@@ -61,162 +61,162 @@ Specifications such as (dances) or (stage) are also added in brackets after the 
 
 If several subject headings can be associated with a source, respectively a work, the cataloguer should choose the appropriate order. Some works require in any case more than one subject heading, e.g. "Contrafacta" or "Inserts".
 
-### General instrumental and vocal music
+### Música instrumental y vocal en general
 
-| _Standardised title/genre_ | _Corresponding subject heading_                   |  |
-| -------------------------- | ------------------------------------------------- |  |
-| Airs                       | Airs (dances)                                     |  |
-| Airs                       | Airs (instr.)                                     |  |
-| Airs                       | Airs (voc.)                                       |  |
-| Album leaves               | Album leaves                                      |  |
-| Arias                      | Arias                                             |  |
-| Atti di contrizione        | Atti di contrizione                               |  |
-| Ballades                   | Ballades (forme fixe)                             |  |
-| Ballades                   | Ballades (instr.)                                 |  |
-| Ballads                    | Ballads (voc.)                                    |  |
-| Ballettos                  | Ballettos (voc.)                                  |  |
-| Barcarolles                | Barcarolles (instr.)                              |  |
-| Barcarolles                | Barcarolles (voc.)                                |  |
-| Battaglias                 | Keyboard pieces (or corresponding genre)          |  |
-| Battle music               | Battle music (instr.)                             |  |
-| Battle music               | Battle music (voc.)                               |  |
-| Bergerettes                | Bergerettes (voc.)                                |  |
-| Brass music                | Brass music                                       |  |
-| Burlesques                 | Burlesques                                        |  |
-| Canons                     | Canons (instr.)                                   |  |
-| Canons                     | Canons (voc.)                                     |  |
-| Cantatas                   | Cantatas                                          |  |
-| Canzonas                   | Canzonas (instr.)                                 |  |
-| Canzonettas                | Canzonettas                                       |  |
-| Canzoni                    | Canzoni (voc.)                                    |  |
-| Capriccios                 | Capriccios (instr.)                               |  |
-| Capriccios                 | Capriccios (voc.)                                 |  |
-| Catches                    | Catches                                           |  |
-| Catches                    | Catches                                           |  |
-| Cavatinas                  | Cavatinas                                         |  |
-| Chaconnes                  | Chaconnes                                         |  |
-| Chansons                   | Chansons                                          |  |
-| Character pieces           | Character pieces                                  |  |
-| Children's songs           | Children's songs                                  |  |
-| Chorale arrangements       | Chorale arrangements                              |  |
-| Chorea                     | Chorea                                            |  |
-| Choruses                   | Choruses                                          |  |
-| Concerti grossi            | Concerti grossi                                   |  |
-| Concertos                  | Concertos                                         |  |
-| Consorts                   | Consorts                                          |  |
-| Contrafacta                | Contrafacta                                       |  |
-| Contrapuntal studies       | Contrapuntal studies                              |  |
-| Dances                     | Dances                                            |  |
-| Danze                      | Danze                                             |  |
-| Dialogues                  | Dialogues                                         |  |
-| Divertimentos              | Divertimentos                                     |  |
-| Divisions                  | Divisions                                         |  |
-| Duets                      | Duets (instr.)                                    |  |
-| Duets                      | Duets (voc.)                                      |  |
-| Elevations                 | Elevations                                        |  |
-| Ensembles                  | Ensembles                                         |  |
-| Etudes                     | Etudes (instr.)                                   |  |
-| Fanfares                   | Fanfares                                          |  |
-| Fantasies                  | Fantasies                                         |  |
-| Film music                 | Film music                                        |  |
-| Folias                     | Folias                                            |  |
-| Folk songs                 | Folk songs                                        |  |
-| Frottolas                  | Frottolas                                         |  |
-| Fugues                     | Fugues (instr.)                                   |  |
-| Fugues                     | Fugues (voc.)                                     |  |
-| Glees                      | Glees                                             |  |
-| Grounds                    | Grounds                                           |  |
-| Humoresken                 | Humoresken                                        |  |
-| Impromptus                 | Impromptus                                        |  |
-| In Nomine                  | In Nomine (instr.)                                |  |
-| Instrumental pieces        | Instrumental pieces                               |  |
-| Interludes                 | Interludes                                        |  |
-| Intermezzos                | Intermezzos                                       |  |
-| Intonazione                | Intonazione (instr.)                              |  |
-| Intradas                   | Intradas                                          |  |
-| Inventions                 | Inventions                                        |  |
-| Janissary music            | Janissary music                                   |  |
-| Keyboard pieces            | Keyboard pieces                                   |  |
-| Koledy                     | Koledy                                            |  |
-| KonzertstÃ¼cke             | KonzertstÃ¼cke                                    |  |
-| Lais                       | Lais                                              |  |
-| Lamentos                   | Lamentos                                          |  |
-| Lessons                    | Lessons                                           |  |
-| Lieder                     | Lieder                                            |  |
-| Madrigals                  | Madrigals                                         |  |
-| March songs                | March songs                                       |  |
-| Marches                    | Marches                                           |  |
-| Mazurkas                   | Mazurkas                                          |  |
-| Minuets                    | Minuets                                           |  |
-| Modinhas                   | Modinhas                                          |  |
-| Motets                     | Motets                                            |  |
-| Movements                  | Movements                                         |  |
-| Murkys                     | Murkys                                            |  |
-| National anthems           | National anthems                                  |  |
-| Nocturnes                  | Nocturnes (instr.)                                |  |
-| Nonets                     | Nonets                                            |  |
-| Notturni                   | Notturni (voc.)                                   |  |
-| Octets                     | Octets                                            |  |
-| Odes                       | Odes                                              |  |
-| Overtures                  | Overtures                                         |  |
-| Partitas                   | Partitas                                          |  |
-| Partsongs                  | Partsongs                                         |  |
-| Passacaglias               | Passacaglias                                      |  |
-| Pastorales                 | Pastorales (instr.)                               |  |
-| Pastorales                 | Pastorales (voc.)                                 |  |
-| Polonaises                 | Polonaises                                        |  |
-| Postludes                  | Postludes                                         |  |
-| Potpourris                 | Potpourris                                        |  |
-| Preludes                   | Preludes                                          |  |
-| Preludes and Fugues        | Preludes + Fugues                                 |  |
-| Programme music            | Programme music                                   |  |
-| Quartets                   | Quartets (instr.)                                 |  |
-| Quartets                   | Quartets (voc.)                                   |  |
-| Quintets                   | Quintets                                          |  |
-| Recitatives                | Recitatives                                       |  |
-| Rhapsodies                 | Rhapsodies (instr.)                               |  |
-| Rhapsodies                 | Rhapsodies (voc.)                                 |  |
-| Ricercares                 | Ricercares (instr.)                               |  |
-| Ricercares                 | Ricercares (voc.)                                 |  |
-| Romances                   | Romances (instr.)                                 |  |
-| Romances                   | Romances (voc.)                                   |  |
-| Rondeaux                   | Rondeaux (forme fixe)                             |  |
-| Rondos                     | Rondos                                            |  |
-| Rondos                     | Rondos (voc.)                                     |  |
-| Rounds                     | Rounds (voc.)                                     |  |
-| Scenes                     | Scenes                                            |  |
-| Scherzi                    | Ballettos (voc.)                                  |  |
-| Scherzos                   | Scherzos (instr.)                                 |  |
-| Septets                    | Septets                                           |  |
-| Sextets                    | Sextets                                           |  |
-| Sonatas                    | Sonatas or Triosonatas                            |  |
-| Songs [monodic]            | Songs                                             |  |
-| Songs [polyphonic]         | Songs or Partsongs or Tenorlieder (special case!) |  |
-| Spräche                    | Spräche                                           |  |
-| Ständchen                  | Ständchen                                         |  |
-| Suites                     | Suites                                            |  |
-| Symphonic poems            | Symphonic poems                                   |  |
-| Symphonies                 | Symphonies                                        |  |
-| Symphonies concertantes    | Symphonies concertantes                           |  |
-| Tenorlieder                | Tenorlieder                                       |  |
-| Tercets                    | Tercets (voc.)                                    |  |
-| Tientos                    | Tientos                                           |  |
-| Toccatas                   | Toccatas                                          |  |
-| Tonos                      | Tonos                                             |  |
-| Toys                       | Toys                                              |  |
-| Trios                      | Trios                                             |  |
-| Variations                 | Variations                                        |  |
-| Vaudevilles                | Vaudevilles                                       |  |
-| Versets                    | Versets                                           |  |
-| Villancicos                | Villancicos                                       |  |
-| Villanelle                 | Ballettos (voc.)                                  |  |
-| Virelais                   | Virelais (forme fixe)                             |  |
-| Vocal pieces               | Vocal pieces                                      |  |
-| Voluntaries                | Voluntaries                                       |  |
-| Waltzes                    | Waltzes                                           |  |
-| Wind music                 | Wind music                                        |  |
+| _Standardised title/genre_                                                                      | _Corresponding subject heading_                                                                 |  |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |  |
+| Airs                                                                                            | Airs (dances)                                                                                   |  |
+| Airs                                                                                            | Airs (instr.)                                                                                   |  |
+| Airs                                                                                            | Airs (voc.)                                                                                     |  |
+| Album leaves                                                                                    | Album leaves                                                                                    |  |
+| Arias                                                                                           | Arias                                                                                           |  |
+| Atti di contrizione                                                                             | Atti di contrizione                                                                             |  |
+| Ballades                                                                                        | Ballades (forme fixe)                                                                           |  |
+| Ballades                                                                                        | Ballades (instr.)                                                                               |  |
+| Ballads                                                                                         | Ballads (voc.)                                                                                  |  |
+| Ballettos                                                                                       | Ballettos (voc.)                                                                                |  |
+| Barcarolles                                                                                     | Barcarolles (instr.)                                                                            |  |
+| Barcarolles                                                                                     | Barcarolles (voc.)                                                                              |  |
+| Battaglias                                                                                      | Keyboard pieces (or corresponding genre)                                                        |  |
+| Battle music                                                                                    | Battle music (instr.)                                                                           |  |
+| Battle music                                                                                    | Battle music (voc.)                                                                             |  |
+| Bergerettes                                                                                     | Bergerettes (voc.)                                                                              |  |
+| Brass music                                                                                     | Brass music                                                                                     |  |
+| Burlesques                                                                                      | Burlesques                                                                                      |  |
+| Canons                                                                                          | Canons (instr.)                                                                                 |  |
+| Canons                                                                                          | Canons (voc.)                                                                                   |  |
+| Cantatas                                                                                        | Cantatas                                                                                        |  |
+| Canzonas                                                                                        | Canzonas (instr.)                                                                               |  |
+| Canzonettas                                                                                     | Canzonettas                                                                                     |  |
+| Canzoni                                                                                         | Canzoni (voc.)                                                                                  |  |
+| Capriccios                                                                                      | Capriccios (instr.)                                                                             |  |
+| Capriccios                                                                                      | Capriccios (voc.)                                                                               |  |
+| Catches                                                                                         | Catches                                                                                         |  |
+| Catches                                                                                         | Catches                                                                                         |  |
+| Cavatinas                                                                                       | Cavatinas                                                                                       |  |
+| Chaconnes                                                                                       | Chaconnes                                                                                       |  |
+| Chansons                                                                                        | Chansons                                                                                        |  |
+| Character pieces                                                                                | Character pieces                                                                                |  |
+| Children's songs                                                                                | Children's songs                                                                                |  |
+| Chorale arrangements                                                                            | Chorale arrangements                                                                            |  |
+| Chorea                                                                                          | Chorea                                                                                          |  |
+| Choruses                                                                                        | Choruses                                                                                        |  |
+| Concerti grossi                                                                                 | Concerti grossi                                                                                 |  |
+| Concertos                                                                                       | Concertos                                                                                       |  |
+| Consorts                                                                                        | Consorts                                                                                        |  |
+| Contrafacta                                                                                     | Contrafacta                                                                                     |  |
+| Contrapuntal studies                                                                            | Contrapuntal studies                                                                            |  |
+| Danzas                                                                                          | Danzas                                                                                          |  |
+| Danze                                                                                           | Danze                                                                                           |  |
+| Dialogues                                                                                       | Dialogues                                                                                       |  |
+| Divertimentos                                                                                   | Divertimentos                                                                                   |  |
+| Divisions                                                                                       | Divisions                                                                                       |  |
+| Duets                                                                                           | Duets (instr.)                                                                                  |  |
+| Duets                                                                                           | Duets (voc.)                                                                                    |  |
+| Elevations                                                                                      | Elevations                                                                                      |  |
+| Ensembles                                                                                       | Ensembles                                                                                       |  |
+| Etudes                                                                                          | Etudes (instr.)                                                                                 |  |
+| Fanfares                                                                                        | Fanfares                                                                                        |  |
+| Fantasies                                                                                       | Fantasies                                                                                       |  |
+| Film music                                                                                      | Film music                                                                                      |  |
+| Folias                                                                                          | Folias                                                                                          |  |
+| Folk songs                                                                                      | Folk songs                                                                                      |  |
+| Frottolas                                                                                       | Frottolas                                                                                       |  |
+| Fugues                                                                                          | Fugues (instr.)                                                                                 |  |
+| Fugues                                                                                          | Fugues (voc.)                                                                                   |  |
+| Glees                                                                                           | Glees                                                                                           |  |
+| Grounds                                                                                         | Grounds                                                                                         |  |
+| Humoresken                                                                                      | Humoresken                                                                                      |  |
+| Impromptus                                                                                      | Impromptus                                                                                      |  |
+| In Nomine                                                                                       | In Nomine (instr.)                                                                              |  |
+| Instrumental pieces                                                                             | Instrumental pieces                                                                             |  |
+| Interludes                                                                                      | Interludes                                                                                      |  |
+| Intermezzos                                                                                     | Intermezzos                                                                                     |  |
+| Intonazione                                                                                     | Intonazione (instr.)                                                                            |  |
+| Intradas                                                                                        | Intradas                                                                                        |  |
+| Inventions                                                                                      | Inventions                                                                                      |  |
+| Janissary music                                                                                 | Janissary music                                                                                 |  |
+| Keyboard pieces                                                                                 | Keyboard pieces                                                                                 |  |
+| Koledy                                                                                          | Koledy                                                                                          |  |
+| KonzertstÃ¼cke                                                                                  | KonzertstÃ¼cke                                                                                  |  |
+| Lais                                                                                            | Lais                                                                                            |  |
+| Lamentos                                                                                        | Lamentos                                                                                        |  |
+| Lessons                                                                                         | Lessons                                                                                         |  |
+| Lieder                                                                                          | Lieder                                                                                          |  |
+| Madrigals                                                                                       | Madrigals                                                                                       |  |
+| March songs                                                                                     | March songs                                                                                     |  |
+| Marches                                                                                         | Marches                                                                                         |  |
+| Mazurkas                                                                                        | Mazurkas                                                                                        |  |
+| Minuets                                                                                         | Minuets                                                                                         |  |
+| Modinhas                                                                                        | Modinhas                                                                                        |  |
+| Motets                                                                                          | Motets                                                                                          |  |
+| Movements                                                                                       | Movements                                                                                       |  |
+| Murkys                                                                                          | Murkys                                                                                          |  |
+| Himnos nacionales                                                                               | Himnos nacionales                                                                               |  |
+| Nocturnes                                                                                       | Nocturnes (instr.)                                                                              |  |
+| Nonets                                                                                          | Nonets                                                                                          |  |
+| Notturni                                                                                        | Notturni (voc.)                                                                                 |  |
+| Octets                                                                                          | Octets                                                                                          |  |
+| Odes                                                                                            | Odes                                                                                            |  |
+| Overtures                                                                                       | Overtures                                                                                       |  |
+| Partitas                                                                                        | Partitas                                                                                        |  |
+| Partsongs                                                                                       | Partsongs                                                                                       |  |
+| Passacaglias                                                                                    | Passacaglias                                                                                    |  |
+| Pastorales                                                                                      | Pastorales (instr.)                                                                             |  |
+| Pastorales                                                                                      | Pastorales (voc.)                                                                               |  |
+| Polonaises                                                                                      | Polonaises                                                                                      |  |
+| Postludes                                                                                       | Postludes                                                                                       |  |
+| Potpourris                                                                                      | Potpourris                                                                                      |  |
+| Preludes                                                                                        | Preludes                                                                                        |  |
+| Preludes and Fugues                                                                             | Preludes + Fugues                                                                               |  |
+| Programme music                                                                                 | Programme music                                                                                 |  |
+| Quartets                                                                                        | Quartets (instr.)                                                                               |  |
+| Quartets                                                                                        | Quartets (voc.)                                                                                 |  |
+| Quintets                                                                                        | Quintets                                                                                        |  |
+| Recitatives                                                                                     | Recitatives                                                                                     |  |
+| Rhapsodies                                                                                      | Rhapsodies (instr.)                                                                             |  |
+| Rhapsodies                                                                                      | Rhapsodies (voc.)                                                                               |  |
+| Ricercares                                                                                      | Ricercares (instr.)                                                                             |  |
+| Ricercares                                                                                      | Ricercares (voc.)                                                                               |  |
+| Romances                                                                                        | Romances (instr.)                                                                               |  |
+| Romances                                                                                        | Romances (voc.)                                                                                 |  |
+| Rondeaux                                                                                        | Rondeaux (forme fixe)                                                                           |  |
+| Rondos                                                                                          | Rondos                                                                                          |  |
+| Rondos                                                                                          | Rondos (voc.)                                                                                   |  |
+| Rounds                                                                                          | Rounds (voc.)                                                                                   |  |
+| Scenes                                                                                          | Scenes                                                                                          |  |
+| Scherzi                                                                                         | Ballettos (voc.)                                                                                |  |
+| Scherzos                                                                                        | Scherzos (instr.)                                                                               |  |
+| Septets                                                                                         | Septets                                                                                         |  |
+| Sextets                                                                                         | Sextets                                                                                         |  |
+| Sonatas                                                                                         | Sonatas or Triosonatas                                                                          |  |
+| Songs [monodic]                                                                                 | Songs                                                                                           |  |
+| Songs [polyphonic]                                                                              | Songs or Partsongs or Tenorlieder (special case!)                                               |  |
+| Spräche                                                                                         | Spräche                                                                                         |  |
+| Ständchen                                                                                       | Ständchen                                                                                       |  |
+| Suites                                                                                          | Suites                                                                                          |  |
+| Symphonic poems                                                                                 | Symphonic poems                                                                                 |  |
+| **Extractos** : en casos en los que sólo se cuente con una o varias partes de la obra completa. | **Extractos** : en casos en los que sólo se cuente con una o varias partes de la obra completa. |  |
+| Symphonies concertantes                                                                         | Symphonies concertantes                                                                         |  |
+| Tenorlieder                                                                                     | Tenorlieder                                                                                     |  |
+| Tercets                                                                                         | Tercets (voc.)                                                                                  |  |
+| Tientos                                                                                         | Tientos                                                                                         |  |
+| Toccatas                                                                                        | Toccatas                                                                                        |  |
+| Tonos                                                                                           | Tonos                                                                                           |  |
+| Toys                                                                                            | Toys                                                                                            |  |
+| Trios                                                                                           | Trios                                                                                           |  |
+| Variations                                                                                      | Variations                                                                                      |  |
+| Vaudevilles                                                                                     | Vaudevilles                                                                                     |  |
+| Versets                                                                                         | Versets                                                                                         |  |
+| Villancicos                                                                                     | Villancicos                                                                                     |  |
+| Villanelle                                                                                      | Ballettos (voc.)                                                                                |  |
+| Virelais                                                                                        | Virelais (forme fixe)                                                                           |  |
+| Vocal pieces                                                                                    | Vocal pieces                                                                                    |  |
+| Voluntaries                                                                                     | Voluntaries                                                                                     |  |
+| Waltzes                                                                                         | Waltzes                                                                                         |  |
+| Wind music                                                                                      | Wind music                                                                                      |  |
 
-### Sacred vocal music
+### Música sacra vocal
 
 | _Standardised title/genre_ | _Corresponding subject heading_                       |  |
 | -------------------------- | ----------------------------------------------------- |  |
@@ -306,104 +306,104 @@ The subject heading "Incidental music" indicates stage music for prose theatre, 
 
 ### Exercises, studies, schools
 
-| _Standardised title/genre_ | _Corresponding subject heading_ |  |
-| -------------------------- | ------------------------------- |  |
-| Arpeggios                  | Arpeggios (instr.)              |  |
-| Cadences                   | Cadences (instr.)               |  |
-| Cadenzas                   | Cadenzas (voc.)                 |  |
-| Contrapuntal studies       | Contrapuntal studies            |  |
-| Exercises                  | Exercises (instr.)              |  |
-| Exercises                  | Exercises (voc.)                |  |
-| Lessons                    | Lessons                         |  |
-| Partimentos                | Partimentos                     |  |
-| Scales                     | Scales                          |  |
-| Solfeggios                 | Solfeggios (instr.)             |  |
-| Solfeggios                 | Solfeggios (voc.)               |  |
-| Tutors                     | Tutors (instr.)                 |  |
-| Tutors                     | Tutors (voc.)                   |  |
-|                            |                                 |  |
-|                            |                                 |  |
+| _Standardised title/genre_ | _Corresponding subject heading_               |  |
+| -------------------------- | --------------------------------------------- |  |
+| Arpeggios                  | Arpeggios (instr.)                            |  |
+| Cadences                   | Cadences (instr.)                             |  |
+| Cadenzas                   | Cadenzas (voc.)                               |  |
+| Contrapuntal studies       | Contrapuntal studies                          |  |
+| Exercises                  | Exercises (instr.)                            |  |
+| Exercises                  | Exercises (voc.)                              |  |
+| Lessons                    | Lessons                                       |  |
+| Partimentos                | Partimentos                                   |  |
+| Scales                     | Scales                                        |  |
+| Solfeggios                 | Solfeggios (instr.)                           |  |
+| Solfeggios                 | **Solfeggios (voc.) **[Solfeos (vocales)] |  |
+| Tutors                     | Tutors (instr.)                               |  |
+| Tutors                     | Tutors (voc.)                                 |  |
+|                            |                                               |  |
+|                            |                                               |  |
 
-### Dances
+### Danzas
 
 As a rule, use "Dances" as standardised title, and "Dances" as subject heading; for dance songs also add "Danze" - "Danze".
 
 More specific combinations include:
 
-| _Standardised title/genre_ | _Corresponding subject heading_ |  |
-| -------------------------- | ------------------------------- |  |
-| Allemandes                 | Allemandes                      |  |
-| Anglaises                  | Anglaises                       |  |
-| Basse danses               | Basse danses                    |  |
-| Bergamasche                | Bergamasche                     |  |
-| Boleros                    | Boleros                         |  |
-| Boleros cubanos            | Boleros cubanos                 |  |
-| BourrÃ©es                  | BourrÃ©es                       |  |
-| Branles                    | Branles                         |  |
-| Canaries                   | Canaries                        |  |
-| Chiarentane                | Chiarentane                     |  |
-| Choreae                    | Choreae                         |  |
-| Contredanses               | Contredanses                    |  |
-| Correnti                   | Correnti                        |  |
-| Country dances             | Country dances                  |  |
-| Courantes                  | Courantes                       |  |
-| Cotillons                  | Cotillons                       |  |
-| CsÃ¡rdÃ¡s                  | CsÃ¡rdÃ¡s                       |  |
-| Deutsche TÃ¤nze            | Deutsche TÃ¤nze                 |  |
-| Dreher                     | Dreher                          |  |
-| Ãcossaises                | Ãcossaises                     |  |
-| Fandangos                  | Fandangos                       |  |
-| Folias                     | Folias                          |  |
-| Forlanas                   | Forlanas                        |  |
-| Foxtrots                   | Foxtrots                        |  |
-| FranÃ§aises                | FranÃ§aises                     |  |
-| Galliards                  | Galliards                       |  |
-| Galops                     | Galops                          |  |
-| Gavottes                   | Gavottes                        |  |
-| Gigues                     | Gigues                          |  |
-| Hopser                     | Hopser                          |  |
-| Hornpipes                  | Hornpipes                       |  |
-| Krakowiaks                 | Krakowiaks                      |  |
-| Kujawiaks                  | Kujawiaks                       |  |
-| LÃ¤ndler                   | LÃ¤ndler                        |  |
-| Langaus                    | Langaus                         |  |
-| Loures                     | Loures                          |  |
-| Mazurs                     | Mazurs                          |  |
-| Mazurkas                   | Mazurkas                        |  |
-| Minuets                    | Minuets                         |  |
-| Musettes                   | Musettes                        |  |
-| Obereks                    | Obereks                         |  |
-| Paduanas                   | Paduanas                        |  |
-| Paso dobles                | Paso dobles                     |  |
-| Passamezzos                | Passamezzos                     |  |
-| Passepieds                 | Passepieds                      |  |
-| Pavans                     | Pavans                          |  |
-| Polkas                     | Polkas                          |  |
-| Polonaises                 | Polonaises                      |  |
-| Proportze                  | Proportze                       |  |
-| Quadrilles                 | Quadrilles                      |  |
-| Redowas                    | Redowas                         |  |
-| Reels                      | Reels                           |  |
-| RheinlÃ¤nder               | RheinlÃ¤nder                    |  |
-| Rigaudons                  | Rigaudons                       |  |
-| Rounds                     | Rounds (dances)                 |  |
-| Saltarellos                | Saltarellos                     |  |
-| Sarabandes                 | Sarabandes                      |  |
-| Schleifer                  | Schleifer                       |  |
-| SchnadahÃ¼pfln             | SchnadahÃ¼pfln                  |  |
-| Schottische                | Schottische                     |  |
-| Seguidillas                | Seguidillas                     |  |
-| Sicilianas                 | Sicilianas                      |  |
-| Spagnolette                | Spagnolette                     |  |
-| Strathspeys                | Strathspeys                     |  |
-| Tambourins                 | Tambourins                      |  |
-| Tangos                     | Tangos                          |  |
-| Tarantellas                | Tarantellas                     |  |
-| Verbunkos                  | Verbunkos                       |  |
-| Voltas                     | Voltas                          |  |
-| Waltzes                    | Waltzes                         |  |
-|                            |                                 |  |
-|                            |                                 |  |
+| _Standardised title/genre_                                                              | _Corresponding subject heading_                                                         |  |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |  |
+| **Fragmentos** : en casos en los que sólo se cuente con fragmentos de la obra completa. | **Fragmentos** : en casos en los que sólo se cuente con fragmentos de la obra completa. |  |
+| Anglaises                                                                               | Anglaises                                                                               |  |
+| Basse danses                                                                            | Basse danses                                                                            |  |
+| Bergamasche                                                                             | Bergamasche                                                                             |  |
+| Boleros                                                                                 | Boleros                                                                                 |  |
+| Boleros cubanos                                                                         | Boleros cubanos                                                                         |  |
+| BourrÃ©es                                                                               | BourrÃ©es                                                                               |  |
+| Branles                                                                                 | Branles                                                                                 |  |
+| Canaries                                                                                | Canaries                                                                                |  |
+| Chiarentane                                                                             | Chiarentane                                                                             |  |
+| Choreae                                                                                 | Choreae                                                                                 |  |
+| Contredanses                                                                            | Contredanses                                                                            |  |
+| Correnti                                                                                | Correnti                                                                                |  |
+| Country dances                                                                          | Country dances                                                                          |  |
+| Courantes                                                                               | Courantes                                                                               |  |
+| Cotillons                                                                               | Cotillons                                                                               |  |
+| CsÃ¡rdÃ¡s                                                                               | CsÃ¡rdÃ¡s                                                                               |  |
+| Deutsche TÃ¤nze                                                                         | Deutsche TÃ¤nze                                                                         |  |
+| Dreher                                                                                  | Dreher                                                                                  |  |
+| Ãcossaises                                                                             | Ãcossaises                                                                             |  |
+| Fandangos                                                                               | Fandangos                                                                               |  |
+| Folias                                                                                  | Folias                                                                                  |  |
+| Forlanas                                                                                | Forlanas                                                                                |  |
+| Foxtrots                                                                                | Foxtrots                                                                                |  |
+| FranÃ§aises                                                                             | FranÃ§aises                                                                             |  |
+| Galliards                                                                               | Galliards                                                                               |  |
+| Galops                                                                                  | Galops                                                                                  |  |
+| Gavottes                                                                                | Gavottes                                                                                |  |
+| Gigues                                                                                  | Gigues                                                                                  |  |
+| Hopser                                                                                  | Hopser                                                                                  |  |
+| Hornpipes                                                                               | Hornpipes                                                                               |  |
+| Krakowiaks                                                                              | Krakowiaks                                                                              |  |
+| Kujawiaks                                                                               | Kujawiaks                                                                               |  |
+| LÃ¤ndler                                                                                | LÃ¤ndler                                                                                |  |
+| Langaus                                                                                 | Langaus                                                                                 |  |
+| Loures                                                                                  | Loures                                                                                  |  |
+| Mazurs                                                                                  | Mazurs                                                                                  |  |
+| Mazurkas                                                                                | Mazurkas                                                                                |  |
+| Minuets                                                                                 | Minuets                                                                                 |  |
+| Musettes                                                                                | Musettes                                                                                |  |
+| Obereks                                                                                 | Obereks                                                                                 |  |
+| Paduanas                                                                                | Paduanas                                                                                |  |
+| Paso dobles                                                                             | Paso dobles                                                                             |  |
+| Passamezzos                                                                             | Passamezzos                                                                             |  |
+| Passepieds                                                                              | Passepieds                                                                              |  |
+| Pavans                                                                                  | Pavans                                                                                  |  |
+| Polkas                                                                                  | Polkas                                                                                  |  |
+| Polonaises                                                                              | Polonaises                                                                              |  |
+| Proportze                                                                               | Proportze                                                                               |  |
+| Quadrilles                                                                              | Quadrilles                                                                              |  |
+| Redowas                                                                                 | Redowas                                                                                 |  |
+| Reels                                                                                   | Reels                                                                                   |  |
+| RheinlÃ¤nder                                                                            | RheinlÃ¤nder                                                                            |  |
+| Rigaudons                                                                               | Rigaudons                                                                               |  |
+| Rounds                                                                                  | Rounds (dances)                                                                         |  |
+| Saltarellos                                                                             | Saltarellos                                                                             |  |
+| Sarabandes                                                                              | Sarabandes                                                                              |  |
+| Schleifer                                                                               | Schleifer                                                                               |  |
+| SchnadahÃ¼pfln                                                                          | SchnadahÃ¼pfln                                                                          |  |
+| Schottische                                                                             | Schottische                                                                             |  |
+| Seguidillas                                                                             | Seguidillas                                                                             |  |
+| Sicilianas                                                                              | Sicilianas                                                                              |  |
+| Spagnolette                                                                             | Spagnolette                                                                             |  |
+| Strathspeys                                                                             | Strathspeys                                                                             |  |
+| Tambourins                                                                              | Tambourins                                                                              |  |
+| Tangos                                                                                  | Tangos                                                                                  |  |
+| Tarantellas                                                                             | Tarantellas                                                                             |  |
+| Verbunkos                                                                               | Verbunkos                                                                               |  |
+| Voltas                                                                                  | Voltas                                                                                  |  |
+| Waltzes                                                                                 | Waltzes                                                                                 |  |
+|                                                                                         |                                                                                         |  |
+|                                                                                         |                                                                                         |  |
 
 ### Sketches etc.
 
@@ -413,9 +413,9 @@ Only in complete uncertainty, e.g. unknown scoring, enter "Pieces" as ST and "Pi
 
 ## Standard texts of sacred works
 
-The following list of standard texts of sacred works provide an overview of the Latin texts most frequently used in sacred music. The list is ordered by genre. Within a genre, all incipits of all sections are listed. The list reads from left to right, and from top down, with three text incipits on each line.
+La siguiente lista de textos estándar de obras sacras proporciona un panorama general de los textos latinos más utilizados en la música sacra. La lista está ordenada por género. Dentro de un género, se enumeran todos los incipits de todas las secciones. The list reads from left to right, and from top down, with three text incipits on each line.
 
-### Mass
+### Misa
 
 |                                  |
 | -------------------------------- |
@@ -779,7 +779,7 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Audifacis Martyris                                              | Audifax, martyr                                                                              | 19 January                                                                |
 | Augustini Cantuarensis Episcopi Confessoris                     | Augustine, bishop of Canterbury, confessor                                                   | 28 May                                                                    |
 | Augustini Episcopi Ecclesiae Doctoris                           | Augustine, bishop and doctor of the church                                                   | 28 October                                                                |
-| **B**                                                           |                                                                                              |                                                                           |
+| **B = Si mayor**                                                |                                                                                              |                                                                           |
 | Bacchi Martyris                                                 | Bacchus, martyr                                                                              | 7 October                                                                 |
 | Barbarae Virginis Martyris                                      | Barbara virgin and martyr                                                                    | 4 December                                                                |
 | Barnabae Apostoli                                               | Barnabas, apostle                                                                            | 11 June                                                                   |
