@@ -2,13 +2,13 @@
 
 This field is used to indicate standard identifiers from external agencies.
 
-**Standard number or code (024 $a)**
+**Otro identificador estándar (024)**
 
-Enter the alphanumeric code used to identify the work. The code is taken from the authority data of the creating agency.
+Enter the alphanumeric code used to identify the work. El código se toma de los datos de autoridad de la agencia creadora.
 
-**Source of number or code (024 $2)**
+**Número o código estándar (024 $a)**
 
-Select from the following:
+Seleccione una de las siguientes opciones:
 
 - **BNE** : Biblioteca Nacional de España
 - **BNF** : Bibliothèque nationale de France
