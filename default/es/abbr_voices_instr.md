@@ -355,7 +355,7 @@ Bariton
 - PL:
 - PT:
 
-B
+B = Si mayor
 
 - EN: bass (vocal)
 - DE: Bass (vokal)
@@ -613,7 +613,7 @@ cb
 - PL:
 - PT:
 
-b
+b = si menor
 
 - ES: no se especifica la instrumentación
 
@@ -1123,7 +1123,7 @@ zufoletto
 
 #
 
-# **Brass**
+# **Vientos-metal**
 
 banda
 
@@ -1144,7 +1144,7 @@ althorn
 - PL:
 - PT:
 
-b
+b = si menor
 
 - ES: instrumento desconocido/no especificado, parte instrumental general
 - ES: dessus, soprano (instrumental)
