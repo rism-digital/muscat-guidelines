@@ -18,7 +18,7 @@ These fields will be identical with the main Heading (100) above.
 
 Use this field to record title variants, alternatives, nicknames, different spellings, etc. Repeat this field for each variation.
 
-_Examples:_
+__Ejemplos: __
 
 - Why fair maid in ev'ry feature
 - Why fair maid in every feature
