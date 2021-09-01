@@ -60,7 +60,7 @@ _Ejemplos:_
 
 **Special rules:**
 
-- **Colecciones**. En este caso, el título se formula con un número más el género (en inglés y en plural, a la manera de los descriptores). Ingrese un número arábigo indicando cuántas obras pertenecen a la colección, seguido de un género que sea lo más abarcativo posible.  
+- **Collections**. En este caso, el título se formula con un número más el género (en inglés y en plural, a la manera de los descriptores). Ingrese un número arábigo indicando cuántas obras pertenecen a la colección, seguido de un género que sea lo más abarcativo posible.  
   _Ejemplo:  
   25 Arias_ 3 Instrumental pieces
 - **Volúmenes compuestos**. En este caso, ingrese el número que corresponde a la cantidad de ítems involcurados seguido de la palabra _"Items"_.   
