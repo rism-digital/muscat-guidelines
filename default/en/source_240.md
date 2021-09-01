@@ -81,7 +81,7 @@ _Examples:_
 
 **Special rules:**
 
-- **C**** ollections**. In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many
+- **Collections**. In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many
   works belong to the collection, followed by a genre that is as comprehensive as possible.  
   _Examples:_    
   25 Arias  
