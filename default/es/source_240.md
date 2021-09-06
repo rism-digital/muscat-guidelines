@@ -1,4 +1,4 @@
-# Título uniforme (240)
+#### Título uniforme (240)
 
 En esta sección se registra el título con un formato estandarizado, lo cual permite reunir bajo el mismo título composiciones que, pese a que aparecen con diferentes nombres, son la misma composición o similar. También se lo conoce como título estandarizado.
 
