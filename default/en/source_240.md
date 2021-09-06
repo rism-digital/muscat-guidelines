@@ -1,4 +1,4 @@
-### Standardized title (240)
+# Standardized title (240)
 
 The title is entered here in a standardized form, which brings together under the same title compositions which, despite
 having a variety of names, are the same or similar. Also called the "filing title" or "uniform title."
@@ -7,7 +7,7 @@ having a variety of names, are the same or similar. Also called the "filing titl
 
 **Required field.**
 
-Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?** ). Do not use
+Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use
 brackets or parentheses. Put alternative versions of the title in the field **Additional title (730)**.
 
 A standardized title can be generated from the following, in order of preference:
@@ -89,7 +89,7 @@ _Examples:_
 - **Composite volumes**. Enter a number corresponding to the number of items involved plus the word "Items."  
   _Example:_  
   11 Items
-- **Variations.** Enter **Variations** as the standardized title here. In the field**Additional title (730)**, enter the
+- **Variations.** Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the
   piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
 - **Insertions.** Enter the text incipit of the inserted piece as the standardized title here. In the field **Additional
   title (730)**, enter the name of the opera or larger work and select **Inserts** next to **Subheading.**
