@@ -2,9 +2,9 @@ Muscat es un programa ofrecido por RISM a sus grupos de trabajo y colaboradores,
 
 Se trata de un sistema basado en MARC que fue desarrollado de manera conjunta por el _RISM Digital Center_ (Centro Digital) y la _Zentralredaktion_ (Centro Editorial) de RISM. La plataforma se basa en un programa desarrollado en conjunto por RISM Suiza y RISM Reino Unido.
 
-Si desea tener un panorama general, puede consultar los contenidos que aparecen a la derecha. Las secciones **2 – Uso de Muscat** y **3 – Lineamientos generales de catalogación** explican cómo usar el programa (funciones generales, plantillas, cómo catalogar ciertos formatos).
+Si desea tener un panorama general, puede consultar los contenidos que aparecen a la derecha. Sections **2-Using Muscat** and **3-General cataloging guidelines** explain how to use the program (general functions, templates, how to catalog certain formats).
 
-La sección **4 – Catalogación de fuentes musicales** contiene los lineamientos de catalogación de fuentes musicales de RISM que se aplican en Muscat. Los mismos están listados en el orden en que aparecen en el programa. Mientras trabaje con Muscat, podrá consultar los lineamientos correspondientes a cada campo mediante el signo de pregunta que aparece en dicho campo. Se incluyen _Ejemplos_ a lo largo de la explicación.
+The section **4-Cataloging musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. Los mismos están listados en el orden en que aparecen en el programa. Mientras trabaje con Muscat, podrá consultar los lineamientos correspondientes a cada campo mediante el signo de pregunta que aparece en dicho campo. Se incluyen _Ejemplos_ a lo largo de la explicación.
 
 A continuación de los lineamientos, las secciones intermedias (5-14) ofrecen varias listas que contienen el vocabulario y las abreviaturas estándares que se utilizan en áreas tales como el título diplomático, los descriptores y las festividades litúrgicas. Además, encontrará una tabla de instrumentos transpositores que resulta de ayuda para la carga de los íncipits.
 
