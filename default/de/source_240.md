@@ -1,4 +1,4 @@
-# Einordnungstitel (240)
+#### Einordnungstitel (240)
 
 Dieser Teil beschreibt den Titel in normierter Form, damit unterschiedlich benannte, aber gleiche oder ähnliche Kompositionen unter einem einheitlichen Titel zusammen gefasst werden. Auch Einordnungstitel oder Einheitssachtitel genannt.
 
