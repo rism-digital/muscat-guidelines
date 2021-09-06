@@ -2,9 +2,9 @@ Muscat is the program offered by RISM to working groups and contributors, availa
 
 Muscat is a MARC21-based system that is developed jointly with the RISM Digital Center and the RISM Zentralredaktion ( Editorial Center) and is based on a program that was jointly developed by RISM Switzerland and RISM UK.
 
-Refer to the contents on the right for an overview. Sections **2 - Using Muscat** and **3 - General cataloging guidelines** explain how to use the program (general functions, templates, how to catalog certain formats).
+Refer to the contents on the right for an overview. Sections **2-Using Muscat** and **3-General cataloging guidelines** explain how to use the program (general functions, templates, how to catalog certain formats).
 
-The section **4 - Cataloging musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. They are listed in the order they appear in the program. When working with Muscat, you will also find the guidelines for each field linked to their respective field by a question mark. Examples are included throughout.
+The section **4-Cataloging musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. They are listed in the order they appear in the program. When working with Muscat, you will also find the guidelines for each field linked to their respective field by a question mark. Examples are included throughout.
 
 After the guidelines, the middle sections (5-14) offer various lists containing standardized vocabulary and abbreviations for use in areas such as the diplomatic title, subject headings, and liturgical festivals. In addition, you will find a table of transposing instruments to help you when entering incipits.
 
