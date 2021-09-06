@@ -1,4 +1,4 @@
-### Título uniforme (240)
+# Título uniforme (240)
 
 En esta sección se registra el título con un formato estandarizado, lo cual permite reunir bajo el mismo título composiciones que, pese a que aparecen con diferentes nombres, son la misma composición o similar. También se lo conoce como título estandarizado.
 
@@ -6,7 +6,7 @@ En esta sección se registra el título con un formato estandarizado, lo cual pe
 
 **Campo requerido.**
 
-Indique información dudosa con un signo de interrogación al final (por ejemplo, **Die Zauberflöte?** ). No utilice corchetes o paréntesis. Registre versiones alternativas en el campo **Título adicional (730)**.
+Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). No utilice corchetes o paréntesis. Registre versiones alternativas en el campo **Título adicional (730)**.
 
 Un título uniforme puede generarse a partir de:
 
@@ -66,7 +66,7 @@ _Ejemplos:_
 - **Volúmenes compuestos**. En este caso, ingrese el número que corresponde a la cantidad de ítems involcurados seguido de la palabra _"Items"_.   
   _Ejemplo:_  
   11 ítems
-- **Variations.** Enter **Variations** as the standardized title here. En el campo **Título adicional (730)**, registre la pieza sobre la que se basa la obra, en caso de identificarla, y seleccione el calificador **Variaciones** en la lista desplegable del subcampo **Declaración de arreglo (730 $o)**.
+- **Variations.** Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
 - **Inserciones**. En el caso de las inserciones, ingrese el íncipit literario de la pieza insertada como título uniforme. En el campo **Título adicional (730)**, registre el nombre de la ópera u obra mayor en la cual se inserta la pieza y seleccione el calificador **Inserciones** en la lista desplegable del subcampo **Tipo especial de fuente (730 $k).**
 - **Caracteres no latinos**. Si el título de su fuente presenta letras o caracteres no latinos (alfabeto cirílico/griego/hebreo/coreano/etc., caracteres chinos, etc.) registre el **Título uniforme** con su escritura original. Las traducciones o transliteraciones son opcionales y pueden añadirse en el campo **Título adicional (730)**.
 
