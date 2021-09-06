@@ -1,4 +1,4 @@
-### Standardized title (240)
+# Standardized title (240)
 
 The title is entered here in a standardized form, which brings together under the same title compositions which, despite
 having a variety of names, are the same or similar. Also called the "filing title" or "uniform title."
