@@ -1,4 +1,4 @@
-#### Einordnungstitel (240)
+### Einordnungstitel (240)
 
 Dieser Teil beschreibt den Titel in normierter Form, damit unterschiedlich benannte, aber gleiche oder ähnliche Kompositionen unter einem einheitlichen Titel zusammen gefasst werden. Auch Einordnungstitel oder Einheitssachtitel genannt.
 
@@ -49,7 +49,7 @@ _Examples:_
  - **Fragmente** : Fragmente
 
 3. **3. Gattungsbezeichnungen**  
-   Kommen weder Individualtitel noch Textincipit als Einordnungstitel in Frage, wird hier die entsprechende Gattung eingetragen. Der Gattungsbegriff als Einordnungstitel wird in der Regel englischsprachig und im Plural angesetzt (Beispiel: **Operas** ). Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem **Schlagwort (650)**. Bitte benutzen Sie die Arbeitshilfe **Einordnungstitel - Schlagworte** im Anhang der **Richtlinien**.
+   Kommen weder Individualtitel noch Textincipit als Einordnungstitel in Frage, wird hier die entsprechende Gattung eingetragen. In most cases, enter the genre in English and in the plural (such as **Operas**). Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem **Schlagwort (650)**. Bitte benutzen Sie die Arbeitshilfe **Einordnungstitel - Schlagworte** im Anhang der **Richtlinien**.
 
 _Examples:_
  - Vokalsolisten
@@ -91,8 +91,8 @@ Arrangements should also be distinguished from independent works (free elaborati
 
 Hier wird ein Vermerk zu besonderen Ausgabeformen gemacht. Folgende Angaben sind möglich:
 
-- **Excerpts** : if only one or several sections of the complete work are present
-- **Fragments** : if only fragments of the work are present
+- **Excerpts**: if only one or several sections of the complete work are present
+- **Fragments**: if only fragments of the work are present
 - **Sketches:** if only sketches of the work are present
 
 #### Unterteilung nach der Form (240 $k)
@@ -137,11 +137,11 @@ Bei mehreren gleichen Gesangsstimmen oder Instrumenten wird die Anzahl in runden
 
 Als iSol werden nur Soloinstrumente bezeichnet, die gegenüber einem Orchester eine durchgehende Solofunktion haben (vor allem im Solokonzert). Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 
-Bei einer Bearbeitung wird die Besetzung der vorliegende Quelle angegeben. Ist die Besetzung des Originalwerks bekannt, wird diese im Feld **Bemerkungen** **(500)** angegeben. Bei einer **Collection** wird die Besetzung nur angegeben, wenn sie auf alle in der Sammlung enthaltenen Werke zutrifft.
+Bei einer Bearbeitung wird die Besetzung der vorliegende Quelle angegeben. Ist die Besetzung des Originalwerks bekannt, wird diese im Feld **Bemerkungen** **(500)** angegeben. In the case of a **Collection**, only use the field if the particular scoring is applicable to all the works contained in the collection.
 
 Das Feld kann wiederholt werden, um Alternativbesetzungen anzugeben, z. B. ein Lied sowohl für Sopran als auch für Tenor. In such cases, enter each possible instrumentation in a separate field: for example, **S, pf** on one line and **T, pf** on the next.
 
-If you have a figured bass, enter the instrument as usual, such as **b** , **bc** , **org** , etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
+If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
 Omit the scoring summary if the performing forces are unknown or uncertain.
 
