@@ -375,96 +375,96 @@ doc:
       - title: "li_main_entry_fields"
         subsections:
           - title: "li_100"
-            helpfile: "catalogue_100"
+            helpfile: "publication_100"
             index: true
           - title: "li_700"
-            helpfile: "catalogue_700"
+            helpfile: "publication_700"
             index: true
           - title: "li_240"
-            helpfile: "catalogue_240"
+            helpfile: "publication_240"
             index: true
           - title: "730"
-            helpfile: "catalogue_730"
+            helpfile: "publication_730"
             index: true
           - title: "li_260"
-            helpfile: "catalogue_260"
+            helpfile: "publication_260"
             index: true
           - title: "li_300"
-            helpfile: "catalogue_300"
+            helpfile: "publication_300"
             index: true
           - title: "li_337"
-            helpfile: "catalogue_337"
+            helpfile: "publication_337"
             index: true
           - title: "li_210"
-            helpfile: "catalogue_210"
+            helpfile: "publication_210"
             index: true
       - title: "li_subject"
         subsections:
           - title: "li_020"
-            helpfile: "catalogue_020"
+            helpfile: "publication_020"
             index: true
           - title: "li_022"
-            helpfile: "catalogue_022"
+            helpfile: "publication_022"
             index: true
           - title: "li_024"
-            helpfile: "catalogue_024"
+            helpfile: "publication_024"
             index: true
           - title: "li_041"
             helpfile: "catalogue_041"
             index: true
           - title: "li_044"
-            helpfile: "catalogue_044"
+            helpfile: "publication_044"
             index: true
           - title: "li_710"
-            helpfile: "catalogue_710"
+            helpfile: "publication_710"
             index: true
           - title: "li_760"
-            helpfile: "catalogue_760"
+            helpfile: "publication_760"
             index: true
           - title: "li_650"
-            helpfile: "catalogue_650"
+            helpfile: "publication_650"
             index: true
           - title: "li_651"
-            helpfile: "catalogue_651"
+            helpfile: "publication_651"
             index: true
           - title: "li_250"
-            helpfile: "catalogue_250"
+            helpfile: "publication_250"
             index: true
           - title: "li_780"
-            helpfile: "catalogue_780"
+            helpfile: "publication_780"
             index: true
           - title: "li_785"
-            helpfile: "catalogue_785"
+            helpfile: "publication_785"
       - title: "li_note"
         subsections:
           - title: "li_500"
-            helpfile: "catalogue_500"
+            helpfile: "publication_500"
             index: true
           - title: "li_502"
-            helpfile: "catalogue_502"
+            helpfile: "publication_502"
             index: true
           - title: "li_599"
-            helpfile: "catalogue_599"
+            helpfile: "publication_599"
             index: true
           - title: "li_856"
-            helpfile: "catalogue_856"
+            helpfile: "publication_856"
             index: true
           - title: "li_520"
-            helpfile: "catalogue_520"
+            helpfile: "publication_520"
             index: true
       - title: "li_control"
         subsections:
           - title: "li_000"
-            helpfile: "catalogue_000"
+            helpfile: "publication_000"
             index: true
           - title: "li_001"
-            helpfile: "catalogue_001"
+            helpfile: "publication_001"
             index: true
           - title: "li_003"
-            helpfile: "catalogue_003"
+            helpfile: "publication_003"
             index: true
           - title: "li_005"
-            helpfile: "catalogue_005"
+            helpfile: "publication_005"
             index: true
 
   - title: "doc_titles_and_text"
