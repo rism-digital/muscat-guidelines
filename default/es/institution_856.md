@@ -1,4 +1,4 @@
-### Ayudas para la búsqueda en línea (856 $u)
+### Finding aids, guides and publications (MARC 856; ISDIAH 5.3.8)
 
 En esta sección se ofrece un panorama general de los instrumentos de descripción y las guías, publicadas o no, preparadas por la institución, así como de cualquier otra publicación pertinente.
 
