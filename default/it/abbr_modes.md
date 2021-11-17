@@ -1,3 +1,4 @@
+## Ecclesiastical modes
 **Western church modes:**
 
 1t
