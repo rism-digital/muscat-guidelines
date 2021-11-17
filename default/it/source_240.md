@@ -1,4 +1,4 @@
-#### Standardized title (240)
+### Standardized title (240)
 
 The title is entered here in a standardized form, which brings together under the same title compositions which, despite having a variety of names, are the same or similar. Also called the "filing title" or "uniform title."
 
@@ -45,7 +45,7 @@ _Examples:_
  - Gloria [with text incipit: Gloria, in excelsis Deo et in terra pax]
 
 3. **Genre**  
-   Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas** ). Note that for some genres, a corresponding **Subject heading (650)** is used. Please consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
+   Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Please consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
 
 _Examples:_
  - Symphonies
@@ -86,8 +86,8 @@ Arrangements should also be distinguished from independent works (free elaborati
 
 This field is for special form aspects as applicable. Select from the following:
 
-- **Excerpts** : if only one or several sections of the complete work are present
-- **Fragments** : if only fragments of the work are present
+- **Excerpts**: if only one or several sections of the complete work are present
+- **Fragments**: if only fragments of the work are present
 - **Sketches:** if only sketches of the work are present
 
 #### Key or mode (240 $r)
@@ -132,11 +132,11 @@ When more than one of the same voice or instrument is indicated, place the numbe
 
 Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 
-In the case of arrangements, the scoring summary refers to the personnel required in the present source, not in the work on which an arrangement is based. If the instrumentation of the original work is known, specify it in the field ** General note (500)**. In the case of a **Collection** , only use the field if the particular scoring is applicable to all the works contained in the collection.
+In the case of arrangements, the scoring summary refers to the personnel required in the present source, not in the work on which an arrangement is based. If the instrumentation of the original work is known, specify it in the field ** General note (500)**. In the case of a **Collection**, only use the field if the particular scoring is applicable to all the works contained in the collection.
 
 This field may be repeated in cases where alternative instrumentation is suggested, such as a song that is for either soprano or tenor. In such cases, enter each possible instrumentation in a separate field: for example, **S, pf** on one line and **T, pf** on the next.
 
-If you have a figured bass, enter the instrument as usual, such as **b** , **bc** , **org** , etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
+If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
 Omit the scoring summary if the performing forces are unknown or uncertain.
 
