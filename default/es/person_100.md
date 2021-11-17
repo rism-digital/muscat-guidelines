@@ -1,5 +1,6 @@
-### Heading - Personal name (100 $a)
+### Heading - Personal name (100)
 
+#### Heading - Personal name (100 $a)
 Este campo está destinado al nombre de la persona en su forma autorizada.
 
 Los nombres se introducen en la forma Apellido Nombre, con una coma separando los elementos de los nombres en orden invertido. Si sólo cuenta con las iniciales, introdúzcalas en orden directo.
@@ -24,20 +25,20 @@ Joo Su-won.
 
 Si se desconocen los años exactos de nacimiento y/o muerte de la persona, utilice las siguientes abreviaturas para indicar que los años no son exactos.
 
-- **.sc:** siglo  
-  **18.sc** = Siglo XVIII
-- **a:** antes  
-  **1811a** = antes de 1811
-- **p:** después  
-  **1811p** = después de 1811
-- **c:** circa, alrededor, aproximadamente  
-  **1816c** = alrededor de 1816
-- **\*:** nacido  
-  **1816\*** = nacido en 1816, año de muerte desconocido
-- **+** **+:** murió  
+- **.sc**: century  
+  **18.sc** = Eighteenth century
+- **a**: before  
+  **1811a** = before 1811
+- **p**: after  
+  **1811p** = after 1811
+- **c**: circa, around, approximately  
+  **1816c** = around 1816
+- **\***: born  
+  **1816\*** = born in 1816, but year of death unknown
+- **+****+:** murió  
   **1756+** = murió en 1756, año de nacimiento desconocido
-- **/ :** o  
-  **17/18** = vivió en los siglos XVII y XVIII
+- **/**: or  
+  **17/18** = lived in the seventeenth and eighteenth centuries
 
 No utilice las siguientes abreviaturas para los rangos de fechas: in, me, ex, q , d, t
 
