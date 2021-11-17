@@ -1,5 +1,6 @@
-### Note on performance (518 $a)
+### Note on performance (518)
 
+#### Note on performance (518 $a)
 Enter information about performances here. Enter using your cataloging language. For assistance with the names of performance venues, please refer to the list **Opera houses and concert halls**.
 
 Enter the date in encoded form in the field **Coded date (033)**. Enter the city in standardized form in the field ** Location of performance (651)**. Enter the name of the venue in standardized form in the field **Additional institution (710)**.
