@@ -1,5 +1,7 @@
 ### Lugares (MARC 551)
 
+#### Lugares (MARC 551)
+
 Registre nombres gráficos en este campo. El mismo está vinculado al índice de **Lugares**.
 
 _Ejemplo_:  
