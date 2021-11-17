@@ -1,4 +1,4 @@
-# Technical problems
+## Technical problems
 
 **1. Things aren't working!**  
 Do not despair! If you are having problems, first always make sure you have the most recent version of Firefox or Chrome; you might need to update your browser. Then, try clearing the cache. There are several ways to do this, depending on your computer:
@@ -22,6 +22,5 @@ This happens when you are searching in the indexes. Check to see if another wind
 **6. My incipit seems to have stalled.**  
 Try clicking the "refresh" arrows, or save your record and try entering the incipit again.
 
-**7. I get the error message: "Error saving page: this is a stale version"**
-
-This means that while you were editing, someone else also began editing the record and saved before you did. Try to remember your changes, close the record, and open it again. 
+**7. I get the error message: "Error saving page: this is a stale version"**  
+This means that while you were editing, someone else also began editing the record and saved before you did. Try to remember your changes, close the record, and open it again.
