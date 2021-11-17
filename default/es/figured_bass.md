@@ -1,4 +1,5 @@
-Los siguientes campos deben completarse de la manera indicada en caso de que se cuente con una **particella** de bajo cifrado:
+## Figured bass in scores and/or other parts
+The following fields must be filled out as follows if you have a figured bass **part**:
 
 | **Instrumento  **
 
@@ -11,11 +12,7 @@ En el caso de que una **partitura** incluya bajo continuo, hacer lo siguiente:
 
 | **Instrumento  **
 
-| **Resumen de Plantilla    
-(130/240 $m) **|** Plantilla    
-(594) **|** Nota general  
-(500)** | | b | b | b | b = b.fig | | bc | bc | bc | bc = bc.fig | | org | org | org | org = org.fig | | Para otros instrumentos de teclado, siga el modelo de  **org**.  
-|
+For a figured bass in a **score**, do the following:
 
 Instrument: b  
 Scoring summary (240 $m): b  
