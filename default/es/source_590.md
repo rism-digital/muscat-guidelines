@@ -23,10 +23,10 @@ Si la designación de las particellas no está disponible, por favor escriba la 
 
 Casos especiales:
 
-- Instrumentos, designaciones o afinaciones inusuales (como **cor in D|x** ): se los puede escribir en su totalidad; sin embargo, en el campo **Plantilla/orgánico total (594)**, trate de estandarizar el instrumento según la lista de abreviaturas de RISM en caso de que sea posible (por ejemplo, en el caso anterior, **cor in E|b** ).
+- Figured bass: If you have a figured bass, enter the instrument followed by **.fig**, such as **b.fig**, **bc.fig** , **org.fig**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 - Instrumento que no aparece en la lista de abreviaturas de RISM: escriba el instrumento en su totalidad.
-- Unusual instruments, designations, or tunings (such as **cor in D|x** ) may be written out in full; however, in the field **Total scoring (594)**, try to standardize the instrument to RISM's instrument abbreviation list if possible ( such as **cor in E|b** ).
-- Parte de teclado con texto: registre en inglés **_pf with text_** (u **_org with text_, _keyb with text_** , etc.). Lo mismo se registra en el campo de **Voz/instrumento** **(031 $m)** correspondiente al íncipit.
+- Unusual instruments, designations, or tunings (such as **cor in D|x**) may be written out in full; however, in the field **Total scoring (594)**, try to standardize the instrument to RISM's instrument abbreviation list if possible ( such as **cor in E|b**).
+- Keyboard part with text: Enter using English **pf with text** (or **org with text**, **keyb with text**, etc.). Lo mismo se registra en el campo de **Voz/instrumento** **(031 $m)** correspondiente al íncipit.
 
 #### Extensión (partes) (590 $b)
 
@@ -37,11 +37,11 @@ Registre el número de folios, páginas, hojas o pliegues de cada particella. Ut
 - **lvs** para hojas
 - **fds** para pliegos
 
-En este sistema, una **lvs** corresponde a dos **f** plegados, mientras que para que haya un **fds** debe haber por lo menos una **lvs**. Indique otras unidades (por ejemplo, conversión de folios a páginas) en el campo **Nota general (500)**.
+In this system, **lvs** means two folded **f**, whereas **fds** means at least one **lvs**. Indique otras unidades (por ejemplo, conversión de folios a páginas) en el campo **Nota general (500)**.
 
 También se pueden indicar páginas o folios particulares de una pieza dentro de una colección manuscrita, por ejemplo, **p. 5-6** o **f. 4r-4v**.
 
-**Eje**** mp ****l**** os ****_:_** Hay dos maneras distintas de consignar las particellas.
+**Examples**: There are two different ways list the parts.
 
 *Ejemplo 1*: Una familia instrumental por línea e instrumentos separados por coma. Se repite el campo para cada familia.
 
