@@ -1,4 +1,6 @@
-### Nota de disertación (502 $a)
+### Dissertation note (502)
+
+#### Nota de disertación (502 $a)
 
 Si el ítem es una tesis doctoral, incluya el tipo de grado académico, la institución y el año.
 
