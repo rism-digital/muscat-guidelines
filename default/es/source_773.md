@@ -1,5 +1,6 @@
-### Parent record (773 $w)
+### Parent record (773)
 
+#### Parent record (773 $w)
 This field links the record to a parent record or a record for a composite volume.
 
 The first button links to a parent record (also called "main entry" or "collection record") in cases where the record is part of a collection.
