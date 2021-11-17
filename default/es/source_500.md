@@ -1,5 +1,6 @@
-### Nota general (500 $a)
+### General note (500)
 
+#### Nota general (500 $a)
 Cualquier información de la fuente que no pueda incluirse en otros campos puede registrarse aquí. Hágalo usando su propio idioma de catalogación. Al citar algún fragmento de la fuente, señale los saltos de línea con | (barra vertical) y espacios simples antes y después del signo. Sus propios agregados a la transcripción siempre deben estar entre corchetes.
 
 Al catalogar las existencias de un mismo repositorio, trate de uniformar las expresiones utilizadas en la mayor medida posible.
