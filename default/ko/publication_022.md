@@ -1,4 +1,6 @@
-### ISSN (022 $a)
+### ISSN (022)
+
+#### ISSN (022 $a)
 
 Enter the International Standard Serial Number (ISSN). The ISSN uniquely identifies serial publications.
 
