@@ -1,4 +1,6 @@
-### Otra forma del nombre (MARC 410 $a; ISDIAH 5.1.4)
+### Other form of name (MARC 410; ISDIAH 5.1.4)
+
+#### Otra forma del nombre (MARC 410 $a; ISDIAH 5.1.4)
 
 Este campo está destinado a cualquier otro nombre de la institución que no corresponda indicar en otro punto.
 
