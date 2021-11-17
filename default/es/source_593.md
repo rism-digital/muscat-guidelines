@@ -1,19 +1,20 @@
-### Tipo de fuente (593 $a)
+### Source type (593)
 
+#### Tipo de fuente (593 $a)
 **Campo requerido.**
 
 Este campo describe la naturaleza de la fuente. Por favor seleccione una de las opciones de la siguiente lista:
 
 **Para la música manuscrita:**
 
-- **Autograph manuscript** (Manuscrito autógrafo): escrito completa o mayormente por la mano del compositor
-- **Possible autograph manuscript** (Posible manuscrito autógrafo): indica cierto grado de incertidumbre acerca de si se trata de un manuscrito de la mano del compositor
-- **Treatise, handwritten** (Tratado, manuscrito)
+- **Autograph manuscript**: Written completely or mostly in the composer’s hand.
+- **Possible autograph manuscript**: Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
+- **Partial autograph**: Significant portions of the manuscript are in the composer's hand.
 - **Manuscript copy**
-- **Manuscript copy with autograph annotations** (Copia manuscrita con anotaciones autógrafas): incluye ** ** correcciones o pequeñas adiciones de la mano del compositor
+- **Manuscript copy with autograph annotations**: Corrections or small additions are in the composer’s hand.
 - **Print**
 - **Print with autograph annotations ** (Impreso con anotaciones autógrafas): ** ** incluye anotaciones manuscritas de la mano del compositor. Úselo sólo en registros de ejemplares (información específica de una copia).
-- **Print with non-autograph annotations  ** (Impreso con anotaciones no autógrafas): ** ** incluye ** ** cualquier otro tipo de anotaciones manuscritas que no sean del compositor. Úselo sólo en registros de ejemplares (información específica de una copia).
+- **Print with non-autograph annotations**: Any other kind of handwritten annotations not by the composer. Úselo sólo en registros de ejemplares (información específica de una copia).
 
 **Para otros tipos de documentos:**
 
@@ -33,5 +34,5 @@ En caso de que se presenten múltiples tipos de fuentes, repita el grupo “Desc
 
 Si su fuente es una reproducción mecánica (por ejemplo, una fotocopia), siga estos pasos:
 
-1. Seleccione **Manuscrito autógrafo, Copia manuscrita,** etc. según corresponda (es decir, seleccione el tipo de documento que aplique a la fuente original).
+1. Select **Autograph manuscript**, **Manuscript copy**, etc. as appropriate (that is, select the type that applies to the original source)
 2. Seleccione el tipo de reproducción en el campo **Técnica de producción**  **específica** **(340 $d)**
