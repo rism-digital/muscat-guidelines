@@ -25,7 +25,8 @@ vol. 3/1-2; 11/1-2
 
 For a chapter within a collection of essays, enter the page numbers of the chapter:
 
-Como regla general, asegúrese de incluir suficiente información para que otra persona pueda encontrar el artículo por sí misma
+_Ejemplo:_  
+Pappageno
 
 - Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
   _Ejemplo:_  
