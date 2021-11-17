@@ -1,6 +1,7 @@
-### Registro subsiguiente (785 $a)
+### Succeeding entry (785)
 
-Este campo y el anterior ( **Entrada precedente** ) se utilizan para listar y vincular títulos alternativos de fuentes, como el título de una revista que ha cambiado de nombre.
+#### Registro subsiguiente (785 $a)
+This field and the previous field (**Preceding entry**) are used to list and link alternate titles of items, such as a journal title that has changed names.
 
 Introduzca aquí el nombre con el que se ha conocido posteriormente a la revista. Este campo está vinculado a la base de datos de **Bibliografía secundaria**.
 
