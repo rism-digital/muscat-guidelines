@@ -1,3 +1,3 @@
-![](rism_logo.jpg)
+outdated123 ![](rism_logo.jpg)
 
 # RISM Guidelines for Muscat
