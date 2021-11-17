@@ -1,5 +1,6 @@
-### Description summary (520 $a)
+### Description summary (520)
 
+#### Description summary (520 $a)
 Here you may enter brief, general information about the work or sections of it. Enter in English.
 
 More detailed information about the contents of the item can be given in the field **Contents note (505)**.
