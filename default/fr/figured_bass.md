@@ -1,4 +1,5 @@
-The following fields must be filled out as follows if you have a figured bass **part** :
+## Figured bass in scores and/or other parts
+The following fields must be filled out as follows if you have a figured bass **part**:
 
 Instrument: b  
 Scoring summary (240 $m): b  
@@ -17,7 +18,7 @@ Scoring (594): org
 
 For other keyboard instruments, follow the model as for **org**.
 
-For a figured bass in a **score** , do the following:
+For a figured bass in a **score**, do the following:
 
 Instrument: b  
 Scoring summary (240 $m): b  
