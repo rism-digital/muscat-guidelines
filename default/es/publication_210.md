@@ -4,7 +4,7 @@
 
 Cada ítem de la Bibliografía secundaria recibe un título breve único que permite referenciarlo fácilmente en los registros RISM. Asegúrese siempre de comprobar primero que el título breve no esté en uso.
 
-Los títulos breves para los **catálogos de obras** se componen de:
+The following will describe how to create short titles for **general secondary literature**, **catalogs of works**, and **special cases**.
 
 #### Título breve (210 $a)
 
@@ -18,7 +18,6 @@ Los títulos breves de **bibliografía secundaria general** se componen de la si
 - Si sólo se conoce un año aproximado de publicación, indique **ca.** (circa) al introducir el editor y el año de publicación en el registro, pero omítalo en el título breve.
 
 _Ejemplos:_
-
 > Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
 > → DirksenS 2007  
 > Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
@@ -29,7 +28,8 @@ _Ejemplos:_
 > → Aguirre RincónV 2009
 
 
-En el caso de los autores o editores que publiquen varios artículos sobre el mismo compositor o varias obras del mismo compositor, se añade una letra ( **a, b, c,** etc.) al final del año.
+For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a letter (**a**, **b**, **c**, etc.) is added to the end of the year.  
+_Examples:_
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
 > → KircherA 2005  
@@ -46,8 +46,6 @@ _Example:_
 
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C. J. Clay, 1893).  
 > → Fuller-MaitlandF 1893
-
-
 
 En el caso de dos o más autores o editores, sólo se utiliza el primero en el título breve.
 
