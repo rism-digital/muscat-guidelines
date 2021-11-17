@@ -1,5 +1,6 @@
-### ISMN (024 $a)
+### ISMN (024)
 
+#### ISMN (024 $a)
 Enter the International Standard Music Number (ISMN). The ISMN is a unique identifier for printed music.
 
 _Examples:_
