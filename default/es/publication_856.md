@@ -1,3 +1,5 @@
+### External resource URL (856)
+
 #### URL del recurso externo (856 $u)
 
 Introduzca la URL completa del recurso externo. Utilice enlaces permanentes siempre que resulte posible.
