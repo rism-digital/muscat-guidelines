@@ -1,5 +1,6 @@
-### Título en fuente (diplomático) (245 $a)
+### Title on source (245)
 
+#### Título en fuente (diplomático) (245 $a)
 **Campo requerido**
 
 Registre el título exactamente como aparece en la fuente (título diplomático). En la práctica, el Título en fuente puede incluir toda la información de la portada, como el nombre del compositor u otras indicaciones. En el caso de la música impresa, registre todo el contenido de la portada, incluida la información editorial.
