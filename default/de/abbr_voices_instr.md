@@ -1,4 +1,4 @@
-# General abbreviations and concepts
+## General abbreviations and concepts
 iSol
 
 - Example: iSol: vl
@@ -7,7 +7,9 @@ iSol
 - FR:
 - IT:
 - PL:
-- PT: brasses
+- PT:
+
+brasses
 
 - EN: brass instruments (cor, clno or tr, trb)
 - DE: Blechblasinstrumente
@@ -32,7 +34,9 @@ winds
 - FR: instruments à vent
 - IT: strumenti a fiato
 - PL:
-- PT: woodwinds
+- PT:
+
+woodwinds
 
 - EN: woodwinds
 - DE: Holzblasinstrumente
@@ -53,7 +57,6 @@ orch
  pf (cemb) etc.
 
 - Examples:
-
   - pf (orch)
   - T (S)
 - EN: Add alternative scoring possibilities to the original requirements in brackets.
@@ -217,9 +220,6 @@ in E|b
 _etc._
 
 
-
-
-
 **Unspecified or unknown types or numbers of instruments**
 
 (X)
@@ -300,7 +300,7 @@ no indication
 
 # Vocal (voice) terms
 
-## Solo voices
+## Soloinstrumente
 
 S
 
@@ -758,7 +758,7 @@ strings
 - PT:
 
 
-# Woodwinds
+# Holzbläser
 
 fl
 
@@ -1124,7 +1124,7 @@ zufoletto
 
 #
 
-# **Brass**
+# **Blechbläser**
 
 banda
 
