@@ -1,5 +1,6 @@
-### Descripción sumaria (520 $a)
+### Description summary (520)
 
+#### Descripción sumaria (520 $a)
 En este campo se puede registrar, de manera breve, información general sobre la obra o sobre sus secciones. Ingrese la información en inglés.
 
 En caso de que desee aportar información más detallada sobre los contenidos de la fuente, puede hacerlo en el campo **Nota sobre el contenido (505)**.
