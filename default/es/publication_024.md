@@ -1,5 +1,6 @@
-### #### ISMN (024 $a)
+### ISMN (024)
 
+#### #### ISMN (024 $a)
 Registre el Número Estándar Intenacional de Música. El ISMN es un identificador único para la música impresa.
 
 _Ejemplos:_
