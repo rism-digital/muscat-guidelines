@@ -32,8 +32,8 @@ Os **filtros** do Muscat oferecem buscas simples, mas poderosas.
 tanto sem aspas: **lass noch**  
  como entre aspas: **"lass noch"**  
 - Truncamento com  ? ou \*  
-**?** : A interrogação substitui exatamente uma letra. **B?cher** encontrará Bucher e Bacher.   
-**\*** : O asterisco pode ser usado para truncar ou substituir qualquer número de letras. **B\*cher** encontrará Bucher e Bacher, mas também Boucher e Bötticher.
+**?**: A interrogação substitui exatamente uma letra. **B?cher** encontrará Bucher e Bacher.   
+**\***: O asterisco pode ser usado para truncar ou substituir qualquer número de letras. **B\*cher** encontrará Bucher e Bacher, mas também Boucher e Bötticher.
 - AND, OR, NOT, ( ): Tire proveito da busca booleana. Use parênteses para agrupar sua busca. Exemplos:  
 
   - Compositor contém: **(Bach AND Johann) NOT Sebastian**  
@@ -56,13 +56,13 @@ recuperará todos os registros editados a partir de 07 de Fevereiro de 2012 até
 Exemplo: Última modificação   
  [vazio] -  **2012-02-07**  
 recuperará todos os registros editados a partir do começo até a meia-noite de 07 de Fevereiro de 2012 (significando que registros criados durante o dia 07 de fevereiro não serão incluídos).
-  - **Faixa de datas** : Observe que uma vez que a hora do dia é definida para a meia-noite, para buscar por todos os registros criados em 07 de Fevereiro de 2012, por exemplo, deve-se inserir a data inicial 2012-02-07 (entendida como meia-noite de 07 de Fevereiro de 2012) e a data final de 2012-02-08 (entendida como meia-noite de 08 de Fevereiro de 2012). Isto incluirá todas as fontes criadas durante o dia. Uma busca de 2012-02-07 até 2012-02-07 resultará vazia! 
+  - **Faixa de datas**: Observe que uma vez que a hora do dia é definida para a meia-noite, para buscar por todos os registros criados em 07 de Fevereiro de 2012, por exemplo, deve-se inserir a data inicial 2012-02-07 (entendida como meia-noite de 07 de Fevereiro de 2012) e a data final de 2012-02-08 (entendida como meia-noite de 08 de Fevereiro de 2012). Isto incluirá todas as fontes criadas durante o dia. Uma busca de 2012-02-07 até 2012-02-07 resultará vazia! 
 
  
 
-Por favor, observe o seguinte para buscar **Fontes** :  
+Por favor, observe o seguinte para buscar **Fontes**:  
 
-- **Sigla contém** : Busca pelas letras de uma sigla. Este campo diferencia maiúsculas e minúsculas. Por exemplo:  
+- **Sigla contém**: Busca pelas letras de uma sigla. Este campo diferencia maiúsculas e minúsculas. Por exemplo:  
 **D-\*** = todas as fontes na Alemanha  
 **D-B\*** = todas as fontes em cidades da Alemanha que começam com B  
 **D-B** = todas as fontes na Staatsbibliothek zu Berlin
@@ -71,10 +71,10 @@ Por favor, observe o seguinte para buscar **Fontes** :
 
 #### Nomes de pessoas  
 
-Por favor, observe o seguinte para buscar **Nomes de pessoas** :
+Por favor, observe o seguinte para buscar **Nomes de pessoas**:
 
 - **Nome:** Busca nos campos **Título**** – Nome de pessoa (100 $a) **e** Variante de nome (400 $a)**.
 - **Datas:** Busca no campo **Anos de nascimento e morte (100 $d)**, tanto ao digitar um ano como ao usar as seguintes abreviaturas: sc  a  p  c \*  +  /
-- **Profissão** : Busca o campo **Profissão ou função (550 $a)**, que são inseridas em inglês.
-- **Código de país** : Busca a nacionalidade usando a norma ISO 3166 [http://www.iso.org/iso/home/standards/country\_codes.htm](http://www.iso.org/iso/home/standards/country_codes.htm)
-- **Locais** : Busca o campo **Nome geográfico (551)**. Isto inclui locais de nascimento, morte, origem ou de atividade.
+- **Profissão**: Busca o campo **Profissão ou função (550 $a)**, que são inseridas em inglês.
+- **Código de país**: Busca a nacionalidade usando a norma ISO 3166 [http://www.iso.org/iso/home/standards/country\_codes.htm](http://www.iso.org/iso/home/standards/country_codes.htm)
+- **Locais**: Busca o campo **Nome geográfico (551)**. Isto inclui locais de nascimento, morte, origem ou de atividade.

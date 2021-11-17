@@ -15,6 +15,6 @@ Seleziona tra i valori seguenti:
 - **Padre di**  
 - **Sposato/sposata con**  
 - **Madre di**  
-- **Parente di** : un grado diverso di parentela, come zia, zio, cugino ecc.
+- **Parente di**: un grado diverso di parentela, come zia, zio, cugino ecc.
 - **Sorella di**  
-- **Altro** : da selezionare se la relazione non è familiare
+- **Altro**: da selezionare se la relazione non è familiare

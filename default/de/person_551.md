@@ -16,4 +16,4 @@ Zur Auswahl stehen:
 - **Wirkungsland** 
 - **Wirkungsort**
 - **Wirkungsregion**
-- **postalischer Ort** : Bitte nicht verwenden
+- **postalischer Ort**: Bitte nicht verwenden

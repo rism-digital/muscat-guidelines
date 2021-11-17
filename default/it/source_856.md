@@ -31,24 +31,24 @@ Fonte concordante in GB-Ob
 
 Questo campo è obbligatorio se si inserisce un collegamento a una risorsa esterna. Seleziona tra i valori seguenti:
 
-- **Musica digitalizzata** : il collegamento punta a un sito internet esterno che è la digitalizzazione di un esemplare della fonte descritta. Di preferenza, scegli un deposito istituzionale, ma se non ve ne è alcuno disponibile, sono accettabili collegamenti a depositi esterni come Internet Archive o IMSLP. Per raccolte, non è necessario replicare negli spogli un collegamento inserito nella notizia principale.  
-_Esempio_ :[  
+- **Musica digitalizzata**: il collegamento punta a un sito internet esterno che è la digitalizzazione di un esemplare della fonte descritta. Di preferenza, scegli un deposito istituzionale, ma se non ve ne è alcuno disponibile, sono accettabili collegamenti a depositi esterni come Internet Archive o IMSLP. Per raccolte, non è necessario replicare negli spogli un collegamento inserito nella notizia principale.  
+_Esempio_:[  
 https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)
-- **IIIF manifest** : l'oggetto collegato è un oggetto JSON elaborato da un visualizzatore di immagini interno come diva.js. Il documento è inserito direttamente nella pagina web. In molti casi, nel collegamento apparre "manifest", "iiif" o simili.  
-_Esempio_ :[  
+- **IIIF manifest**: l'oggetto collegato è un oggetto JSON elaborato da un visualizzatore di immagini interno come diva.js. Il documento è inserito direttamente nella pagina web. In molti casi, nel collegamento apparre "manifest", "iiif" o simili.  
+_Esempio_:[  
 https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)
 
 > In caso siano disponibili tanto collegamenti a un visualizzatore esterno che un IIIF manifest, ripeti il campo ed elenca separatamente ciascun collegamento.
 
 > _Esempio_:
 
-  - **URL per l'accesso elettronico** : [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
-**Nota sulla risorsa esterna** : versione digitalizzata  
-**Tipo di collegamento** : musica digitalizzata
-  - **URL per l'accesso elettronico** : [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
-**Nota **  **sulla risorsa esterna** : IIIF manifest  
-**Tipo di collegamento** : IIIF manifest
-- **Altri** : Collegamento ad altre risorse che non sono la fonte descritta.
+  - **URL per l'accesso elettronico**: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
+**Nota sulla risorsa esterna**: versione digitalizzata  
+**Tipo di collegamento**: musica digitalizzata
+  - **URL per l'accesso elettronico**: [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
+**Nota **  **sulla risorsa esterna**: IIIF manifest  
+**Tipo di collegamento**: IIIF manifest
+- **Altri**: Collegamento ad altre risorse che non sono la fonte descritta.
 
 #### Tipi di risorse esterne
 

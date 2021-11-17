@@ -27,10 +27,10 @@ W razie braku dalszych szczegółów na temat desygnacji głosu, należy wpisać
 
 Przypadki specjalne:
 
-- Basso continuo: W przypadku obecności basso continuo, należy wpisać instrument, a następnie oznaczenie **.fig** , czyli np. **b.fig** , **bc.fig** , **org.fig** , itd. (ale należy sprawdzić w tabelach w sekcji **Basso continuo w partyturach i/lub partiach,** jakie są wskazówki odnośnie pokrewnych pól).
+- Basso continuo: W przypadku obecności basso continuo, należy wpisać instrument, a następnie oznaczenie **.fig**, czyli np. **b.fig**, **bc.fig**, **org.fig**, itd. (ale należy sprawdzić w tabelach w sekcji **Basso continuo w partyturach i/lub partiach,** jakie są wskazówki odnośnie pokrewnych pól).
 - Instrument, którego brak na liście skrótów instrumentów RISM: nazwę instrumentu należy wpisać w całości.   
-- Instrumenty, desygnacje lub stroje nietypowe (takie, jak **cor in D|x** ) można wpisywać w całości; z tym, że w polu** Szczegółowy opis obsady (594)** należy w miarę możliwości ujednolicić instrument, zgodnie z listą skrótów instrumentów RISM (np. **cor in E|b** ).
-- Partia klawiaturowa z tekstem: Wprowadzić stosując zapis **pf with text** (lub **org with text** , **keyb with text** , itd.). To samo należy wprowadzić w polu incipitu **Głos/instrument (031 $m)**.
+- Instrumenty, desygnacje lub stroje nietypowe (takie, jak **cor in D|x**) można wpisywać w całości; z tym, że w polu** Szczegółowy opis obsady (594)** należy w miarę możliwości ujednolicić instrument, zgodnie z listą skrótów instrumentów RISM (np. **cor in E|b**).
+- Partia klawiaturowa z tekstem: Wprowadzić stosując zapis **pf with text** (lub **org with text**, **keyb with text**, itd.). To samo należy wprowadzić w polu incipitu **Głos/instrument (031 $m)**.
 
  
 
@@ -43,7 +43,7 @@ Wpisać liczbę folii (folia - mianownik, l. mn.), stron, kart lub składek. Wyb
 - **lvs** - karta (arkusz)  
 - **fds** - arkusz złożony/składka 
 
-W tym systemie,  **lvs** oznacza dwa złożone **f** , podczas gdy **fds** oznacza jedno **lvs**. Inne jednostki (takie jak konwersja z folii na strony) podać w polu **Uwagi ogólne (500)**.
+W tym systemie,  **lvs** oznacza dwa złożone **f**, podczas gdy **fds** oznacza jedno **lvs**. Inne jednostki (takie jak konwersja z folii na strony) podać w polu **Uwagi ogólne (500)**.
 
 Można także wskazać pojedyncze strony lub folia w obrębie kolekcji rękopisów, np.  **p. 5-6** lub **f. 4r-4v**.
 

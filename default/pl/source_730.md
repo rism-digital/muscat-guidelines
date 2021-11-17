@@ -48,7 +48,7 @@ Tytuł dodatkowy: Una cosa rara [plus **Wstawienia****   **w** Podhaśle (730 $k
 
 #### Strefa aranżacji (730 $o) 
 
-Wybrać **Aranżację** , jeśli utwór jest aranżacją innego utworu. Pole to winno odpowiadać polu **Strefa aranżacji (240 $o)** znajdującemu się powyżej. Jeżeli utwór jest kompletem wariacji, wybrać **Wariacje**.
+Wybrać **Aranżację**, jeśli utwór jest aranżacją innego utworu. Pole to winno odpowiadać polu **Strefa aranżacji (240 $o)** znajdującemu się powyżej. Jeżeli utwór jest kompletem wariacji, wybrać **Wariacje**.
 
 ####  
 
@@ -64,7 +64,7 @@ Pole służy do wprowadzania aspektów form specjalnych, jeśli mają zastosowan
 - Fragmenty
 - Wstawienia
 - Szkice  
-Wybierając **Wyjątki** , **Fragmenty** lub **Szkice** w polu **Podhasło (240 $k)** znajdującym się powyżej, należy również wybrać **Wyjątki** , **Fragmenty** lub **Szkice** w tym polu. Dla wstawień, wybierz **Wstawienia**. Dalsze informacje można wprowadzić w polu **Uwaga o zawartości (505)**. 
+Wybierając **Wyjątki**, **Fragmenty** lub **Szkice** w polu **Podhasło (240 $k)** znajdującym się powyżej, należy również wybrać **Wyjątki**, **Fragmenty** lub **Szkice** w tym polu. Dla wstawień, wybierz **Wstawienia**. Dalsze informacje można wprowadzić w polu **Uwaga o zawartości (505)**. 
 
   
 

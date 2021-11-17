@@ -2,7 +2,7 @@
 
 #### Catálogo de obras  (690 $a) 
 
-Insira o título curto para o catálogo temático ou catálogo de obras (por exemplo, **BWV** ). Este campo está ligado à base de dados **Literatura secundária**. Catálogos ainda não existentes na base de dados podem ser inseridos nela.
+Insira o título curto para o catálogo temático ou catálogo de obras (por exemplo, **BWV**). Este campo está ligado à base de dados **Literatura secundária**. Catálogos ainda não existentes na base de dados podem ser inseridos nela.
 
 #### Número/página (690 $n) 
 

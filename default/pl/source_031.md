@@ -89,7 +89,7 @@ Wpisywać znaki metrum jako ułamki. Dozwolone są następujące oznaczenia:
 
 **c** = tempus imperfectum cum prolatione imperfecta  
 **c/** = alla breve  
-**3** = proportio tripla; także **1** , **2** , itd.  
+**3** = proportio tripla; także **1**, **2**, itd.  
 **c3** = proportio tripla  
 **c3/2  
 c.** = tempus imperfectum cum prolatione perfecta  
@@ -186,7 +186,7 @@ _Przykłady dla wielu taktów pustych:_
 **8. Inne symbole**  
 t = tryl (znajduje się natychmiast po nucie)  
 + = łącznik (znajduje się natychmiast po nucie; nie mylić z legato)   
-() = fermata/trzymanie/pauza (w nawiasy można ująć jedynie nazwę literową jednej nuty lub jedną pauzę; znaki chromatyczne, oznaczenia wysokości dźwięku itd. muszą być po za nawiasami; patrz także **10. Rytmy specjalne** , poniżej)
+() = fermata/trzymanie/pauza (w nawiasy można ująć jedynie nazwę literową jednej nuty lub jedną pauzę; znaki chromatyczne, oznaczenia wysokości dźwięku itd. muszą być po za nawiasami; patrz także **10. Rytmy specjalne**, poniżej)
 
 Nie wpisywać legato.
 

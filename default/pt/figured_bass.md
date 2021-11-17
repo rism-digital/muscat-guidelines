@@ -11,7 +11,7 @@ Os campos seguintes devem ser preenchidos como indicado no caso de uma **parte**
 
  
 
-Para um baixo cifrado em uma **partitura** , faça o seguinte:
+Para um baixo cifrado em uma **partitura**, faça o seguinte:
 
 | **Instrumento   **   
  | **Síntese da formação  (130/240 $m)** | **Formação (594)** | **Nota geral (500)** |

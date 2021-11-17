@@ -30,7 +30,7 @@ W każdym polu można wprowadzić:
  albo bez znaków cudzysłowia: **lass noch** (98 wyników)  
  albo ze znakami cudzysłowia:  **„lass noch** ” (6 wyników)
 - Obcinanie za pomocą ? lub  \*  
-**?** :  Znak zapytania zastępuje dokładnie jedną literę. Za pomocą **B?cher** można znaleźć Bucher i Bacher.  **\*** : Gwiazdkę można używać do obcinania lub zastępowania dowolnej liczby liter. Za pomocą **B\*cher** można znaleźć Bucher i Bacher, a także Boucher i Bötticher.
+**?**:  Znak zapytania zastępuje dokładnie jedną literę. Za pomocą **B?cher** można znaleźć Bucher i Bacher.  **\***: Gwiazdkę można używać do obcinania lub zastępowania dowolnej liczby liter. Za pomocą **B\*cher** można znaleźć Bucher i Bacher, a także Boucher i Bötticher.
 - AND, OR, NOT, ( ): Należy korzystać z wyszukiwania Boole'a. Należy używać nawiasów do grupowania wyszukiwania. Przykłady:  
  Kompozytor zawiera: **(Bach AND Johann) NOT Sebastian**  
  Aby znaleźć nazwę Johann Michael Bach i Johann Christian Bach, lecz nie Johann Sebastian Bach  
@@ -48,15 +48,15 @@ We wszystkich sekcjach należy brać pod uwagę następujące elementy:
  Przykład: Ostatnia modyfikacja  **2012-02-07** - [puste] wyszuka wszystkie rekordy od 7 lutego, 2012 do dzisiaj. 
   - **Pojedyncza data („do”)**: W przypadku wypełnienia tylko prawego pola („do”), użytkownik wyszuka wszystkie rekordy zmodyfikowane lub powstałe **aż do** tej daty o północy.  
  Przykład: Ostatnia modyfikacja [puste] -  **2012-02-07 ** pobierze wszystkie rekordy edytowane od początku świata do 7 lutego 2012 r. o północy (co oznacza, że nie uwzględni żadnych rekordów utworzonych podczas dnia pracy 7 lutego).
-  - **Zakres dat** : Należy pamiętać, że ponieważ dzień ustawiony jest o północy, aby wyszukać wszystkie rekordy utworzone na przykład 7 lutego 2012 r., należy wpisać datę rozpoczęcia 2012-02-07 (rozumianą jako północ 7 lutego) oraz datę zakończenia 2012-02-08 (rozumianą jako północ 8 lutego). Dotyczy to wszystkich źródeł utworzonych w ciągu dnia. Wyszukiwanie od 2012-02-07 do 2012-02-07 będzie puste! 
+  - **Zakres dat**: Należy pamiętać, że ponieważ dzień ustawiony jest o północy, aby wyszukać wszystkie rekordy utworzone na przykład 7 lutego 2012 r., należy wpisać datę rozpoczęcia 2012-02-07 (rozumianą jako północ 7 lutego) oraz datę zakończenia 2012-02-08 (rozumianą jako północ 8 lutego). Dotyczy to wszystkich źródeł utworzonych w ciągu dnia. Wyszukiwanie od 2012-02-07 do 2012-02-07 będzie puste! 
 
  
 
 Przy przeszukiwaniu **Źródeł** należy brać pod uwagę następujące elementy:  
 
-- **Kompozytor zawiera** : Ten zapis wyszukuje jedynie autoryzowane przez RISM formy nazwy: Anonymus zamiast Anonymous, Čajkovskij zamiast Tchaikovsky. Należy stosować plik autorytatywny nazw osobowych, aby znaleźć autoryzowane formy.   
+- **Kompozytor zawiera**: Ten zapis wyszukuje jedynie autoryzowane przez RISM formy nazwy: Anonymus zamiast Anonymous, Čajkovskij zamiast Tchaikovsky. Należy stosować plik autorytatywny nazw osobowych, aby znaleźć autoryzowane formy.   
 
-- **Siglum zawiera** : Ten zapis wyszukuje według liter w siglum. W tym polu rozróżnia się wielkość liter. Na przykład:  
+- **Siglum zawiera**: Ten zapis wyszukuje według liter w siglum. W tym polu rozróżnia się wielkość liter. Na przykład:  
 **D-\*** = wszystkie źródła w Niemczech  
 **D-B\*** =wszystkie źródła w miastach niemieckich zaczynających się na literę B  
 **D-B** = wszystkie źródła w Staatsbibliothek zu Berlin
@@ -67,6 +67,6 @@ Przy przeszukiwaniu **Źródeł** należy brać pod uwagę następujące element
 
 Przy wyszukiwaniu **Nazw Osobowych** należy zwrócić uwagę na następujące elementy:
 
-- **Nazwa** : Przeszukuje pola **Hasło - Nazwa osobowa (100 $a)** i **Wariant nazwy (400 $a)**.
-- **Daty życia** : Przeszukuje pole **Lata urodzin i śmierci (100 $d)**, tzn. lata, jak również następujące skróty: sc  a  p  c \*  +  /
-- **Miejsca** : Przeszukuje pole **Nazwa geograficzna (551)**. Pole obejmuje miejsca urodzenia, śmierci, pochodzenia lub działalności.
+- **Nazwa**: Przeszukuje pola **Hasło - Nazwa osobowa (100 $a)** i **Wariant nazwy (400 $a)**.
+- **Daty życia**: Przeszukuje pole **Lata urodzin i śmierci (100 $d)**, tzn. lata, jak również następujące skróty: sc  a  p  c \*  +  /
+- **Miejsca**: Przeszukuje pole **Nazwa geograficzna (551)**. Pole obejmuje miejsca urodzenia, śmierci, pochodzenia lub działalności.

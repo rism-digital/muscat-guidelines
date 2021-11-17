@@ -28,19 +28,19 @@ Inserisci le date di nascita e di morte della persona o inserisci un ambito dive
 
 Se non è nota la data precisa di nascita e/o di morte della persona, utilizza le seguenti abbreviazioni per segnalare che gli anni non sono precisi.
 
-- **.sc** : secolo  
+- **.sc**: secolo  
 **18.sc** = XVIII secolo  
-- **a** : prima  
+- **a**: prima  
 **1811a** = prima del 1811
-- **p** : dopo  
+- **p**: dopo  
 **1811p** = dopo il 1811
-- **c** : circa, approssimativamente  
+- **c**: circa, approssimativamente  
 **1816c** = circa 1816
-- **\*** : nato  
+- **\***: nato  
 **1816\*** = nato nel 1816, anno di morte sconosciuto
-- **+** : morto  
+- **+**: morto  
 **1756+** = morto nel 1756, anno di nascita sconosciuto  
-- **/** : oppure  
+- **/**: oppure  
 **17/18** = vissuto nei secoli diciassettesimo o diciottesimo
 
 Non utilizzare le abbreviazioni seguenti per ambiti di date: in, me, ex, q , d, t

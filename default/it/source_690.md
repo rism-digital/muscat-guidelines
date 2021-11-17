@@ -1,6 +1,6 @@
 #### Catalogo delle opere (690 $a) 
 
-Inserisci il titolo abbreviato per il catalogo tematico o catalogo delle opere (ad esempio, **BWV** ). Questo campo è collegato alla banca-dati **Bibliografia** / **Cataloghi tematici**. Si possono aggiungere qui dei cataloghi non ancora presenti nella banca-dati.
+Inserisci il titolo abbreviato per il catalogo tematico o catalogo delle opere (ad esempio, **BWV**). Questo campo è collegato alla banca-dati **Bibliografia** / **Cataloghi tematici**. Si possono aggiungere qui dei cataloghi non ancora presenti nella banca-dati.
 
 #### Numero/pagina (690 $n) 
 

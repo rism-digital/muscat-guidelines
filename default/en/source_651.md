@@ -1,5 +1,6 @@
-### Location of performance (651 $a)
+### Location of performance (651)
 
+#### Location of performance (651 $a)
 Enter the location of performance(s) in this field in a standardized form if the source can be associated with a
 specific performance. When entering new geographical names that are not yet in the authority file, please enter them in
 the local language.

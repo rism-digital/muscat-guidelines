@@ -25,16 +25,16 @@ Não é necessário usar essa lista! Use o incipit literário como título unifo
 Use **Chorale arrangements** (arranjos de corais) tanto para título uniforme como para cabeçalho de assunto.
 
 3.      Um potpourri cuja música se sabe que vem de uma única ópera:  
-Não é necessário usar essa lista!  Use o nome da ópera como título uniforme e selecione **Excerpts** e **Arrangement**. Insira os cabeçalhos de assunto **Potpourris** e **Operas** (ou **Operettas** , etc., conforme apropriado).
+Não é necessário usar essa lista!  Use o nome da ópera como título uniforme e selecione **Excerpts** e **Arrangement**. Insira os cabeçalhos de assunto **Potpourris** e **Operas** (ou **Operettas**, etc., conforme apropriado).
 
 4.      Um potpourri cuja música vem de várias óperas:  
-Use **Potpourri** como como título uniforme, Insira os nomes das óperas no campo **Título adicional (730)**. Para o cabeçalho de assunto, insira **Potpourris** e **Operas** (ou **Operettas** , etc., conforme apropriado)
+Use **Potpourri** como como título uniforme, Insira os nomes das óperas no campo **Título adicional (730)**. Para o cabeçalho de assunto, insira **Potpourris** e **Operas** (ou **Operettas**, etc., conforme apropriado)
 
 5.      Um potpourri cuja música não se sabe de quais óperas se originou:  
 Use **Potpourris** tanto para título uniforme como para cabeçalho de assunto.
 
 6.     Um arranjo para madeiras a partir de uma obra cênica cujo nome é conhecido:  
-Use o nome da obra cênica para o título uniforme e selecione **Arrangement (**Arranjo). Insira o cabeçalho de assunto **Wind music** (Música para madeiras) e **Operas** (ou **Operettas** , etc., conforme apropriado).
+Use o nome da obra cênica para o título uniforme e selecione **Arrangement (**Arranjo). Insira o cabeçalho de assunto **Wind music** (Música para madeiras) e **Operas** (ou **Operettas**, etc., conforme apropriado).
 
 7.      Um arranjo para madeiras a partir de uma obra cênica cujo nome é desconhecido:  
 Use **Wind music** (Música para madeiras) tanto para título uniforme como para cabeçalho de assunto.

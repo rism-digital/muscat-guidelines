@@ -82,12 +82,12 @@ Nie zawsze jest możliwe utworzenie dwóch rekordów: być może posiady przez c
 
 Istnieją dwa sposoby katalogowania czasopism zawierających źródło muzyczne: jako kolekcję lub jako pojedynczy rekord. W każdym przypadku tytuł czasopisma wraz z numerem wydania i rokiem wpisuje się w polu Tytuł dodatkowy (730).  
   
-**Kolekcje** : kiedy periodyk składa się w całości lub w większości ze źródeł muzycznych i zachowany został jako całość.   
+**Kolekcje**: kiedy periodyk składa się w całości lub w większości ze źródeł muzycznych i zachowany został jako całość.   
 Egzemplarze zostają dodane na poziomie kolekcji, natomiast dla poszczególnych źródeł tworzy się indywidualne wpisy pozycji w kolekcji.  
 _Przykład:_  
 _1001097294:_ Styczniowy numer (dokładny rok nie jest określony) _Kleine Pianoforte-Bibliothek_ składa się z 5 źródeł muzycznych. Należy stworzyć jeden rekord kolekcji i pięć indywidualnych wpisów pozycji w kolekcji.   
   
-**Pojedyncze dzieła** : kiedy źródło muzyczne stanowi wkładkę lub dodatek do periodyku.   
+**Pojedyncze dzieła**: kiedy źródło muzyczne stanowi wkładkę lub dodatek do periodyku.   
 Często takie źródła zachowane są w oderwaniu od oryginalnego kontekstu publikacji.      
 _Przykłady:_  
 991018149: „The Pantheon” opublikowane w The Lady's Magazine, sierpień 1784
@@ -135,7 +135,7 @@ W polu **Tytuł ujednolicony (240)**:
 
   - 
 
-W polu **Podsumowanie obsady** , należy wpisać obsadę aranżacji, np.  pf lub V, pf. Nie należy wprowadzać obsady oryginalnego utworu.
+W polu **Podsumowanie obsady**, należy wpisać obsadę aranżacji, np.  pf lub V, pf. Nie należy wprowadzać obsady oryginalnego utworu.
 
 - 
 
@@ -143,4 +143,4 @@ W polu** Szczegółowy opis obsady (594)** należy wprowadzić  łączną obsad�
 
 - 
 
-W polu **Opis fizyczny (300)**, należy użyć **partytury klawiaturowej** , jeśli utwór zredukowano do aranżacji fortepianowej. Należy stosować partyturę wokalną, jeśli utwór zredukowano do partii wokalnej i fortepianu.
+W polu **Opis fizyczny (300)**, należy użyć **partytury klawiaturowej**, jeśli utwór zredukowano do aranżacji fortepianowej. Należy stosować partyturę wokalną, jeśli utwór zredukowano do partii wokalnej i fortepianu.

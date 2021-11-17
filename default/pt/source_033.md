@@ -29,5 +29,5 @@ Datas múltiplas: 18791213, 18791216, 18791223
 
 Se uma parte da data é desconhecida ou está omitida, use um hífen.
 
-_Exemplo para dezembro de 1791_ :   
+_Exemplo para dezembro de 1791_:   
 179112--

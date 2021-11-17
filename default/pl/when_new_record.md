@@ -4,18 +4,18 @@ RISM traktuje każdy rękopis jako pozycję unikalną i dlatego też każdy ręk
 
 Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uzasadniają tworzenie nowego rekordu. (W tej części korzystano obszernie z dokumentu [Katalogowanie opisowe zbiorów specjalnych (zbiory muzyczne) [Descriptive Cataloging of Rare Materials (Music)]  ](http://http://rbms.info/dcrm/)).
 
-**Nowy rekord jest konieczny** , jeżeli opisywana pozycja wykazuje jedną lub więcej z następujących różnic w stosunku do rekordu  RISM:
+**Nowy rekord jest konieczny**, jeżeli opisywana pozycja wykazuje jedną lub więcej z następujących różnic w stosunku do rekordu  RISM:
 
-- **Inna treść** : Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje poprawki, zmiany, rozszerzenia, skróty, lub włączenie materiałów uzupełniających
+- **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje poprawki, zmiany, rozszerzenia, skróty, lub włączenie materiałów uzupełniających
 
 - **Inny wydawca.**
 - 
 
-**Inny układ druku** : Zmiany w strefie objętości. Zmiana w formacie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
+**Inny układ druku**: Zmiany w strefie objętości. Zmiana w formacie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
 
 - 
 
-**Inny status wydania** : Usunięto lub wymieniono oryginalną stronę tytułową. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się nowa etykieta. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej. Strona tytułowa serii jest nowa.
+**Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się nowa etykieta. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej. Strona tytułowa serii jest nowa.
 
 - 
 
@@ -90,4 +90,4 @@ Egzemplarz 1: Ten sam tytuł, lecz na informację o wydaniu naklejono etykietę:
 3.Druk o numerze RISM 990024126 (RISM A/I: G 5286). Rekord RISM reprezentuje komplet  kilku symfonii. Każda symfonia jest dostępna jako osobne wydanie z osobnymi numerami wydawniczymi - jako _livres_ 1, 2, oraz 3.
 
 1. Opcja 1, rozwiązanie szybkie: Jeżeli Państwa biblioteka posiada jedynie jedną z pozycji z kompletu, **należy dodać swoje zbiory** a w polu „przechowywane materiały” należy wpisać, którą symfonię (livre) biblioteka posiada.   
-2. Opcja 2, rozwiązanie lepsze, lecz bardziej czasochłonne. **Powiadomić** o tym rekordzie **  Biuro Centralne** , a my podzielimy rekord na trzy rekordy, po jednym dla każdej symfonii. Następnie należy dodać swoje zbiory do rekordu symfonii, którą biblioteka posiada.
+2. Opcja 2, rozwiązanie lepsze, lecz bardziej czasochłonne. **Powiadomić** o tym rekordzie **  Biuro Centralne**, a my podzielimy rekord na trzy rekordy, po jednym dla każdej symfonii. Następnie należy dodać swoje zbiory do rekordu symfonii, którą biblioteka posiada.

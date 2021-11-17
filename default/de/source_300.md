@@ -114,7 +114,7 @@ Druckermarke
 
 #### Format (300 $c)
 
-Die Formatangabe richtet sich nach der Formel Höhe x Breite und ist in cm anzugeben. Ein weiteres Format kann zusätzlich in runden Klammern angegeben werden. Bei mehr als zwei Formaten erfolgt die Angabe **Different sizes**. Weitere Ausführungen sind dann im Feld **Bemerkungen (500)** möglich. Formate wie **Oktav** , **Quart** oder **Quart klein** werden im Feld **Buchformat (340)** eingetragen.
+Die Formatangabe richtet sich nach der Formel Höhe x Breite und ist in cm anzugeben. Ein weiteres Format kann zusätzlich in runden Klammern angegeben werden. Bei mehr als zwei Formaten erfolgt die Angabe **Different sizes**. Weitere Ausführungen sind dann im Feld **Bemerkungen (500)** möglich. Formate wie **Oktav**, **Quart** oder **Quart klein** werden im Feld **Buchformat (340)** eingetragen.
 
 _Beispiele_:  
 25,5 x 30,5 cm  

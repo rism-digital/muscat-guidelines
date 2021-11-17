@@ -13,10 +13,10 @@ Please consult the RISM Editorial Center if you wish to add an MEI incipit.
 When you are viewing an image, you have the following options on the right.
 
 - **Return to the list**
-- **Edit** : Allows you to change the name or replace the file
-- **Link source** : Allows you to link the image to an existing source, such as attaching the same watermark to multiple
+- **Edit**: Allows you to change the name or replace the file
+- **Link source**: Allows you to link the image to an existing source, such as attaching the same watermark to multiple
   sources
-- **Link person** : Allows you to link the image to the authority file of a person, such as for displaying handwriting
+- **Link person**: Allows you to link the image to the authority file of a person, such as for displaying handwriting
   samples
-- **Link institution** : Allows you to link the image to the authority file of an institution, such as an image of the
+- **Link institution**: Allows you to link the image to the authority file of an institution, such as an image of the
   building

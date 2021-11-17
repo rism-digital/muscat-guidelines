@@ -1,5 +1,6 @@
-### General note (500 $a)
+### General note (500)
 
+#### General note (500 $a)
 Any information on a source which could not be entered in other fields can be given here. Enter using your cataloging
 language. When quoting something on the source, use **|** (the vertical pipe) with a single space before and after the
 sign to show a line break. Additions to the original quotation should always be in square brackets.

@@ -4,7 +4,7 @@
 
 Ogni titolo della bibliografia di riferimento riceve un titolo abbreviato univoco per permettere dei rinvii semplici in tutte le schede RISM. Controlla sempre per assicurarti che un titolo abbreviato non sia già in uso.   
   
-Qui di seguito si descrive come creare abbreviazioni per **bibliografia generale di riferimento** , **cataloghi delle opere** e **casi speciali**.
+Qui di seguito si descrive come creare abbreviazioni per **bibliografia generale di riferimento**, **cataloghi delle opere** e **casi speciali**.
 
 **Bibliografia generale di riferimento**  
 Titoli abbreviati per la **b**** ibliografia generale di riferimento** si creano come segue:
@@ -28,7 +28,7 @@ _Esempi:_
 >             → Aguirre RincónV 2009
 
   
-Per autori o curatori che pubblicano più articoli sullo stesso compositore o più opere dello stesso compositore, si aggiunge una lettera ( **a** , **b** , **c** ecc.) dopo l'anno.  
+Per autori o curatori che pubblicano più articoli sullo stesso compositore o più opere dello stesso compositore, si aggiunge una lettera (**a**, **b**, **c** ecc.) dopo l'anno.  
   
 _Esempi:_  
   

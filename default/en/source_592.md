@@ -1,4 +1,6 @@
-### Watermark description (592 $a)
+### Watermark description (592)
+
+#### Watermark description (592 $a)
 
 This field describes the watermarks on the source. Describe watermarks uniformly and in English. Please standardize your
 information with the help of watermark catalogs or databases, adding a reference in the field **Bibliographic

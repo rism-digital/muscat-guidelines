@@ -1,4 +1,6 @@
-### Other form of name (MARC 410 $a; ISDIAH 5.1.4)
+### Other form of name (MARC 410; ISDIAH 5.1.4)
+
+#### Other form of name (MARC 410 $a; ISDIAH 5.1.4)
 
 This field is for any other name(s) for the institution not given elsewhere.
 

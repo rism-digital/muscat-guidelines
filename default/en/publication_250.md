@@ -1,9 +1,10 @@
-### Edition statement (250 $a)
+### Edition statement (250)
 
+#### Edition statement (250 $a)
 Enter the edition statement as given on the title page.
 
 _Examples:_
 
-- Auflage Partitur, zugleich Orgelstimme 
+- Auflage Partitur, zugleich Orgelstimme
 - New ed., rev. and enl.  
 - Urtextausgabe

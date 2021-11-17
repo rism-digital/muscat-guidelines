@@ -171,7 +171,7 @@ Selecione **Arranjo** ao lado de **Definição de arranjo.**.
 
   - 
 
-Em **Síntese da formação** , insira a formação do arranjo, tal como **pf** ou **V** , **pf**. Não insira a formação original da obra.
+Em **Síntese da formação**, insira a formação do arranjo, tal como **pf** ou **V**, **pf**. Não insira a formação original da obra.
 
 - 
 

@@ -16,7 +16,7 @@ Vorschau: Die Vorschau-Funktion ermöglicht die Ansicht der Daten in der Anzeige
 
 **Pluszeichen (+):** Diejenigen Felder, welche eine Kategoriewiederholung zulassen, enthalten ein „+“-Zeichen. Durch Klick auf diesen Button können ganze Kategorieenblöcke wiederholt werden. Teilweise ist auch die Wiederholung einzelner Unterfelder möglich (z. B. bei Besetzungsangaben). Dazu dient ein kleineres, grün markiertes „+“-Zeichen.
 
-**Abfallkorb** : Mit Klick auf das Abfall-Icon kann ein ganzer Erfassungsblock, der nicht verwendet wird, gelöscht werden. Dies dient einer leichteren Übersicht bei der Erfassung. Bei Nichtverwendung müssen die Blöcke jedoch nicht zwingend gelöscht werden, da leere Felder in der für die Benutzer zugänglichen Ansicht nicht angezeigt werden.
+**Abfallkorb**: Mit Klick auf das Abfall-Icon kann ein ganzer Erfassungsblock, der nicht verwendet wird, gelöscht werden. Dies dient einer leichteren Übersicht bei der Erfassung. Bei Nichtverwendung müssen die Blöcke jedoch nicht zwingend gelöscht werden, da leere Felder in der für die Benutzer zugänglichen Ansicht nicht angezeigt werden.
 
 **Pfeil:** Aus Gründen der Übersichtlichkeit ist es manchmal sinnvoll, gewisse Unterfelder in ihrer Darstellung zu reduzieren. Dazu dient dieser Button.
 

@@ -31,10 +31,10 @@ Se nenhum detalhe para a designação das partes estiver disponível, por favor,
 
 Casos especiais:
 
-- Baixo cifrado: Se a fonte é um baixo cifrado, insira o instrumento seguido de **.fig** , tal como **b.fig** , **bc.fig** , **org.fig** , etc. (mas veja as tabelas na seção **Baixos cifrados em partituras e/ou partes** para orientação sobre os campos relacionados)  
+- Baixo cifrado: Se a fonte é um baixo cifrado, insira o instrumento seguido de **.fig**, tal como **b.fig**, **bc.fig**, **org.fig**, etc. (mas veja as tabelas na seção **Baixos cifrados em partituras e/ou partes** para orientação sobre os campos relacionados)  
 - Instrumento que não esteja na lista de abreviaturas de instrumentos do RISM: escreva o nome do instrumento por extenso.  
-- Instrumentos, designações ou afinações inusuais (como **cor in D|x** ) devem ser escritos por extenso; entretanto, no campo **Formação total (594)**, tente padronizar o instrumento de acordo com a lista de abreviaturas de instrumentos do RISM se possível (como **cor in E|b** ).  
-- Parte de teclado com texto: Insira usando inglês **pf with text** (ou **org with text** , **keyb with text** , etc.). O mesmo deve ser informado no campo incipit **Voz/instrumento (031 $m)**.  
+- Instrumentos, designações ou afinações inusuais (como **cor in D|x**) devem ser escritos por extenso; entretanto, no campo **Formação total (594)**, tente padronizar o instrumento de acordo com a lista de abreviaturas de instrumentos do RISM se possível (como **cor in E|b**).  
+- Parte de teclado com texto: Insira usando inglês **pf with text** (ou **org with text**, **keyb with text**, etc.). O mesmo deve ser informado no campo incipit **Voz/instrumento (031 $m)**.  
 
  
 
@@ -53,7 +53,7 @@ Também podem-se indicar páginas ou fólios individuais no interior de uma cole
 
  
 
-**Exemplos** : Existem duas maneiras diferentes de listar as partes.
+**Exemplos**: Existem duas maneiras diferentes de listar as partes.
 
 *Exemplo 1*: Uma família instrumental por linha, com uma vírgula separando os instrumentos. O campo deve ser repetido para cada família.
 

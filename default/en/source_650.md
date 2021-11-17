@@ -1,5 +1,6 @@
-### Subject heading (650 $a)
+### Subject heading (650)
 
+#### Subject heading (650 $a)
 **Required field.**
 
 Enter subject keywords or genre terms here. This field is linked to the index **Subjects**.

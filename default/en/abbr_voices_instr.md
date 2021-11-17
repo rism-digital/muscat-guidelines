@@ -1,13 +1,14 @@
-# General abbreviations and concepts
+## General abbreviations and concepts
 iSol
 
 - Example: iSol: vl
 - EN: continuous solo instrument in a work, typically with a separately written-out part (not used for instruments that have extensive solo passages, such as an oboe in a cantata)
-- DE: Nur für Soloinstrumente in Konzerten. 
-- FR: 
+- DE: Nur für Soloinstrumente in Konzerten.
+- FR:
 - IT:
 - PL:
-- PT:
+- PT:  
+
 brasses  
 
 - EN: brass instruments (cor, clno or tr, trb)
@@ -15,7 +16,7 @@ brasses
 - FR: cuivres
 - IT: ottoni
 - PL:
-- PT: 
+- PT:
 
 strings
 
@@ -23,8 +24,8 @@ strings
 - DE: Streichinstrumente
 - FR: cordes
 - IT: archi
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 winds
 
@@ -33,15 +34,16 @@ winds
 - FR: instruments à vent
 - IT: strumenti a fiato
 - PL:
-- PT:
+- PT:  
+
 woodwinds  
 
 - EN: woodwinds
 - DE: Holzblasinstrumente
 - FR: bois
-- IT: legni 
+- IT: legni
 - PL:
-- PT:
+- PT:  
 
 orch
 
@@ -54,15 +56,14 @@ orch
 
  pf (cemb) etc.
 
-- Examples: 
-
-  - pf (orch) 
+- Examples:
+  - pf (orch)
   - T (S)  
 - EN: Add alternative scoring possibilities to the original requirements in brackets.
 - DE:
 - FR:
 
- 
+
 
 **Additions to any instrument to indicate a range**  
 
@@ -138,7 +139,7 @@ b-
 - IT:
 - PL:
 - PT:
-  
+
 
 **Additions to any instrument to indicate a type**
 
@@ -159,7 +160,7 @@ conc
 
 - Example: vl conc
 - EN: concertino, concertato
-- DE: concertino, concertato 
+- DE: concertino, concertato
 - FR:
 - IT:
 - PL:
@@ -218,9 +219,6 @@ in E|b
 
 _etc._
 
- 
-
- 
 
 **Unspecified or unknown types or numbers of instruments**
 
@@ -253,7 +251,7 @@ hautecontre
 - FR: haute-contre (instrumentale)
 - IT: haute-contre, strumento contralto
 - PL:
-- PT: 
+- PT:
 
 i
 
@@ -280,7 +278,7 @@ treble
 - FR: partie instrumentale la plus aiguë dans le mouvement
 - IT: parte strumentale più acuta nel movimento
 - PL:
-- PT: 
+- PT:
 
 no further indication
 
@@ -412,7 +410,7 @@ V 5
 - PL:
 - PT:
 
-V 6 
+V 6
 
 - EN: sexta vox, 6th voice (vocal)
 - DE: Sexta Vox
@@ -475,7 +473,7 @@ Coro B
 - FR:
 - IT:
 - PL:
-- PT: 
+- PT:
 
 Coro V
 
@@ -528,7 +526,7 @@ Coro maschile
 - IT: coro maschile
 - PL:
 - PT:
-  
+
 
 # Strings
 
@@ -663,7 +661,7 @@ vla basso
 - DE: Bassviola
 - FR: basse de viole
 - IT: viola bassa
-- PL: 
+- PL:
 - PT:
 
 vla bastarda
@@ -672,7 +670,7 @@ vla bastarda
 - EN: viola bastarda
 - DE: Viola bastarda
 - FR: viola bastarda
-- IT: viola bastarda 
+- IT: viola bastarda
 - PL:
 - PT:
 
@@ -758,7 +756,7 @@ strings
 - IT: archi
 - PL:
 - PT:
-  
+
 
 # Woodwinds   
 
@@ -770,7 +768,7 @@ fl
 - FR: flûte (traversière)
 - IT: flauto (traverso)
 - PL:
-- PT: 
+- PT:
 
 .picc
 
@@ -778,9 +776,9 @@ fl
 - EN: piccolo, ottavino
 - DE: Piccoloflöte
 - FR: piccolo
-- IT: flauto piccolo 
-- PL: 
-- PT: 
+- IT: flauto piccolo
+- PL:
+- PT:
 
 fl d'amore
 
@@ -790,7 +788,7 @@ fl d'amore
 -   
 - IT: flauto d'amore
 - PL:
-- PT: 
+- PT:
 
 fl dolce
 
@@ -798,17 +796,17 @@ fl dolce
 - DE: Flauto dolce (italienischer Begriff für Blockflöte, meint im 19. Jh. auch die Querflöte)
 - FR: flûte douce
 - IT: flauto dolce
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 fl quarto
 
 - EN: flauto quarto (small flute tuned a fourth above a flute)
 - DE: Quartflöte
-- FR: 
+- FR:
 - IT: flauto quarto
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 fl terzino
 
@@ -818,7 +816,7 @@ fl terzino
 - FR: flûte tierce
 - IT: flauto terzino
 - PL:
-- PT: 
+- PT:
 
 flautino
 
@@ -826,18 +824,18 @@ flautino
 - DE: Flautino, Sopraninoblockflöte
 - FR: flautino
 - IT: flautino
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 ob
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_312/oboe)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Oboe) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_312/oboe)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Oboe)
 - EN: oboe (in C)
 - DE: Oboe
 - FR: hautbois
 - IT: oboe
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 cor inglese
 
@@ -847,36 +845,36 @@ cor inglese
 - FR: cor anglais
 - IT: corno inglese
 - PL:
-- PT: 
+- PT:
 
 ob d'amore
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_122791_NL) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_122791_NL)
 - EN: oboe d'amore (in A, a minor third lower than oboe)
 - DE: Oboe d'amore (in A)
 - FR: hautbois d'amour
 - IT: oboe d'amore
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 ob da caccia
 
-- Link: [Link to MIMO ](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0157981/hautbois-de-chasse)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Oboe_da_caccia) 
+- Link: [Link to MIMO ](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0157981/hautbois-de-chasse)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Oboe_da_caccia)
 - EN: oboe da caccia, oboe di silva (a curved oboe, in F)
 - DE: Oboe da caccia (gekrümmte Oboe, in F)
 - FR: hautbois de chasse
 - IT: oboe da caccia
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 ob grande
 
 - EN: oboe grande, mezzo-soprano oboe (usually in A or B|b)
 - DE: Oboe grande (in Mezzosopranlage, Stimmung in A oder B|b)
 - FR:
-- IT: 
+- IT:
 - PL:
-- PT: 
+- PT:
 
 t-ob
 
@@ -885,55 +883,55 @@ t-ob
 - FR:
 - IT: oboe tenore
 - PL:
-- PT: 
+- PT:
 
 cl
 
-- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Clarinet) 
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Clarinet)
 - EN: clarinet (indicate tuning when known)
 - DE: Klarinette (Bitte die Stimmung angeben, wenn sie bekannt ist.)
 - FR: clarinette
 - IT: clarinetto
 - PL:
-- PT: 
+- PT:
 
 b-cl           
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_99)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Bass_clarinet) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_99)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Bass_clarinet)
 - EN: bass clarinet (in B|b)
 - DE: Bassklarinette (in B|b)
-- FR: clarinette basse 
+- FR: clarinette basse
 - IT: clarinetto basso
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 cl in A
 
 - EN: clarinet in A
 - DE: A-Klarinette
-- FR: 
+- FR:
 - IT:
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 cl in E|b
 
 - EN: E|b clarinet
 - DE: Es-Klarinette
-- FR: 
+- FR:
 - IT:
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 cor di bassetto
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_121182_NL)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Basset_horn) 
-- EN: basset horn (clarinet family) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_121182_NL)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Basset_horn)
+- EN: basset horn (clarinet family)
 - DE: Bassetthorn (in Tenorlage, zur Klarinettenfamilie gehörig)
 - FR: cor de basset
 - IT: corno di bassetto
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 chalumeau
 
@@ -941,8 +939,8 @@ chalumeau
 - DE: Chalumeau (Einfachrohrblattinstrument, Vorläufer der Klarinette)
 - FR: chalumeau
 - IT: salmoè
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 saxofono
 
@@ -952,27 +950,27 @@ saxofono
 - FR: saxophone
 - IT: saxofono, sassofono
 - PL:
-- PT: 
+- PT:
 
 s-saxofono
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0158921/saxophone-soprano)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Soprano_saxophone) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0158921/saxophone-soprano)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Soprano_saxophone)
 - EN: soprano saxophone (in B|b)
 - DE: Sopransaxophon (in B|b)
 - FR: saxophone soprano
 - IT: saxofono/ sassofono soprano
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 a-saxofono
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_119359_NL) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_119359_NL)
 - EN: alto saxophone (in E|b)
 - DE: Altsaxophon (in E|b)
 - FR: saxophone alto
-- IT: 
+- IT:
 - PL:
-- PT: 
+- PT:
 
 t-saxofono
 
@@ -982,14 +980,14 @@ t-saxofono
 - FR: saxophone ténor
 - IT: saxofono/ sassofono tenore
 - PL:
-- PT: 
+- PT:
 bariton-saxofono
 - EN: baritone saxophone
 - DE: Baritonsaxophon
 - FR: saxophone baryton
 - IT: saxofono/ sassofono baritono
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 fag
 
@@ -999,7 +997,7 @@ fag
 - FR: basson
 - IT: fagotto
 - PL:
-- PT: 
+- PT:
 
 contra-fag
 
@@ -1007,8 +1005,8 @@ contra-fag
 - DE: Kontrafagott
 - FR: contrebasson
 - IT: controfagotto
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 t-fag
 
@@ -1017,8 +1015,8 @@ t-fag
 - DE: Tenorfagott (in F)
 - FR: basson quinte
 - IT: fagotto tenore
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 bagpipe
 
@@ -1026,28 +1024,28 @@ bagpipe
 - DE: Dudelsack
 - FR: cornemuse
 - IT: cornamusa
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 bombarde
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_122213_NL) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_122213_NL)
 - EN: bombardon, bombarde, pommer; alto, tenor, and bass shawm (low woodwind instrument, typically with a double reed, with one key or keyless)
 - DE: Bombarde, Pommer (Doppelrohrblattinstrument)
 - FR: bombarde
 - IT: bombarda
 - PL:
-- PT: 
+- PT:
 
 chirimía
 
-- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Chirimia) 
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Chirimia)
 - EN: chirimía (a type of Spanish shawm, double-reed instrument)
 - DE: Chirimía (Doppelrohrblattinstrument, spanischer Begriff für eine Art Oboe)
 - FR: chirimía
-- IT: 
+- IT:
 - PL:
-- PT: 
+- PT:
 
 ciaramella
 
@@ -1055,28 +1053,28 @@ ciaramella
 - DE: Ciaramella (eine Schalmei, Doppelrohrblattinstrument)
 - FR: chalemie
 - IT: ciaramella
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 fiffaro
 
 - Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0874400/fifre)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Fife_(instrument))   
 - EN: fife (similar to a piccolo)
 - DE: Querpfeife (hohe Querflöte), Schwegel (in der Volksmusik)
-- FR: fifre 
+- FR: fifre
 - IT: fiffaro
-- PL: 
-- PT: 
+- PL:
+- PT:
 
-ocarina 
+ocarina
 
 - Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_MDMB_311393)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Ocarina)
 - EN: ocarina (round, hollow flute, typically shaped like an elongated egg)
 - DE: Okarina (eine Gefäßflöte)
 - FR: ocarina
 - IT: ocarina
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 piffero
 
@@ -1084,8 +1082,8 @@ piffero
 - DE: Piffero (zur Oboenfamilie gehörig)
 - FR: piffero
 - IT: piffero
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 recorder
 
@@ -1093,8 +1091,8 @@ recorder
 - DE: Blockflöte
 - FR: flûte à bec
 - IT: flauto dolce
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 sopranino
 
@@ -1103,31 +1101,31 @@ sopranino
 - DE: Sopraninoblockflöte (in F)
 - FR: sopranino
 - IT: sopranino
-- PL: 
-- PT: 
+- PL:
+- PT:
 
 woodwinds
 
 - EN: woodwinds
 - DE: Holzblasinstrumente
-- FR: bois 
+- FR: bois
 - IT: legni
-- PL: 
-- PT: 
+- PL:
+- PT:
 
-zufoletto 
+zufoletto
 
 - EN: zufoletto
 - DE: Zufoletto
 - FR: zufoletto
 - IT: zufoletto
 - PL:
-- PT: 
-  
+- PT:
+
 
 #   
 
-# **Brass** 
+# **Brass**
 
 banda
 
@@ -1146,7 +1144,7 @@ althorn
 - FR: bugle alto
 - IT: flicorno contralto
 - PL:
-- PT: 
+- PT:
 
 b
 
@@ -1159,7 +1157,7 @@ b
 
 bariton
 
-- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Baritone_horn) 
+- Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/Baritone_horn)
 - EN: baritone, baritone horn (valved brass instrument in B|b, similar to but not the same as the euphonium)
 - DE: Baritonhorn (in B|b)
 - FR: euphonium
@@ -1196,7 +1194,7 @@ brasses
 
 bugle
 
-- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_4060) 
+- Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_4060)
 - Link: [Link to Wikipedia](https://en.wikipedia.org/wiki/bugle)
 - EN: bugle (no valves, typically in B|b or C)
 - DE: Horn (ohne Ventile, in C oder B|b)
@@ -1235,7 +1233,7 @@ cnto
 - PL:
 - PT:
 
- 
+
 
 cor
 
@@ -1372,7 +1370,7 @@ lituus
 - PL:
 - PT:
 
- 
+
 
 ophicleide
 
@@ -1485,7 +1483,7 @@ tr a chiavi
 - PL:
 - PT:
 
-tr crom 
+tr crom
 
 - EN: valve trumpet
 - DE: Chromatische (Ventil-)Trompete

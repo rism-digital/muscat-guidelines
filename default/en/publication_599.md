@@ -1,5 +1,6 @@
-### Internal note (599 $a)
+### Internal note (599)
 
+#### Internal note (599 $a)
 Enter local notes for internal use. They are not published in the OPAC. Local notes can be used for comments of all
 kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is
 best practice to sign your note using your initials and the date.

@@ -4,9 +4,9 @@ Origine della scheda (980)
 
 Seleziona l'origine della scheda: 
 
-- **Dati importati** : La scheda è stata importata da una banca-dati esterna
-- **Conversione retrospettiva** : La scheda deriva da una pubblicazione su carta ed è stata convertita in un formato leggibile elettronicamente
-- **RISM** : La scheda è stata creata nella banca-dati RISM (valore predefinito)
+- **Dati importati**: La scheda è stata importata da una banca-dati esterna
+- **Conversione retrospettiva**: La scheda deriva da una pubblicazione su carta ed è stata convertita in un formato leggibile elettronicamente
+- **RISM**: La scheda è stata creata nella banca-dati RISM (valore predefinito)
 
 ** **
 

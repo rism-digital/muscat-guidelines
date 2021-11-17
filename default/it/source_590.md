@@ -23,7 +23,7 @@ Se non sono disponibili dettagli sul nome di una parte, si prega di inserire l'e
 
 Casi particolari:
 
-- Basso continuo: se è presente un basso cifrato, inserisci lo strumento seguito da **.fig** , ad es. **b.fig** , **bc.fig** , **org.fig** , ecc. (ma vedi le tabelle nella sezione **Basso numerato in partitura e/o nelle parti** con istruzioni per campi correlati). 
+- Basso continuo: se è presente un basso cifrato, inserisci lo strumento seguito da **.fig**, ad es. **b.fig**, **bc.fig**, **org.fig**, ecc. (ma vedi le tabelle nella sezione **Basso numerato in partitura e/o nelle parti** con istruzioni per campi correlati). 
 - Strumento non presente nella lista delle abbreviazioni RISM: scrivi per esteso il nome dello strumento.
 - Si possono scrivere per esteso strumenti, denominazioni o accordature inusuali (ad esempio, cor in D|x); nel campo **Organico (594)**, però, prova se possibile a standardizzare lo strumento secondo la lista di abbreviazioni RISM per gli strumenti (ad esempio, cor in E|b).
 - Parte per uno strumento a tastiera con un testo sottoposto: inserisci **pf with text** (oppure **org with text, keyb with text** ecc.). La stessa cosa va inserita nel campo **Organico (031 $m)**.
@@ -38,11 +38,11 @@ Inserisci il numero di pagine, carte o fascicoli. Utilizza un solo metodo di num
 - **fds** (folds) per fascicolo. 
   
 
-Con questo sistema, un **lvs** corrisponde a due **f** , mentre un **fds** significa almeno un **lvs**. Indica altre unità (come la conversione tra carte e pagine) nel campo **Nota generale (500)**.
+Con questo sistema, un **lvs** corrisponde a due **f**, mentre un **fds** significa almeno un **lvs**. Indica altre unità (come la conversione tra carte e pagine) nel campo **Nota generale (500)**.
 
 Puoi anche indicare pagine o carte singole all’interno di una raccolta manoscritta, ad esempio **p. 5-6** o **f. 4r-4v**.
 
-**Esempi** : Esistono due modi diversi per elencare le parti.
+**Esempi**: Esistono due modi diversi per elencare le parti.
 
 *Esempio 1*: Una famiglia di strumenti su ciascuna riga con una virgola che separa i singoli strumenti. Il campo va ripetuto per ciascuna famiglia di strumenti.
 
@@ -80,6 +80,6 @@ Informazioni supplementari (brevi osservazioni) riguardo ad esempio il numero o 
 - Se hai più copie della stessa parte, scrivi il numero e poi inserisci l’estensione di ciascuna parte. Esempio: **(2x)**
 - **(= bc)**: la parte è una parte di basso continuo
 - **(incpl)**: la parte è incompleta  
-- Utilizza una sbarra ( **/** ) per unire due elementi: **bc (2x/incpl)**
+- Utilizza una sbarra (**/**) per unire due elementi: **bc (2x/incpl)**
 - Se una parte contiene musica per più strumenti, utilizza **and**. Esempio: **tr 1 and 2**
 - Puoi includere l’accordatura: **cl 1, 2 in B|b **

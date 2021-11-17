@@ -1,6 +1,6 @@
 ### Nome de pessoa adicional  (700)  
 
-Este campo aparece duas vezes para fontes. Ele aparece na seção **Pessoas e instituições** para listar todas as pessoas envolvidas com a fonte. Ele também se encontra na seção **Descrição material** , para os casos em que seja desejável associar nomes de pessoas adicionais a grupos de materiais particulares, especialmente ao criar múltiplos grupos de materiais.
+Este campo aparece duas vezes para fontes. Ele aparece na seção **Pessoas e instituições** para listar todas as pessoas envolvidas com a fonte. Ele também se encontra na seção **Descrição material**, para os casos em que seja desejável associar nomes de pessoas adicionais a grupos de materiais particulares, especialmente ao criar múltiplos grupos de materiais.
 
 #### Nome (700 $a) 
 

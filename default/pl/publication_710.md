@@ -4,7 +4,7 @@ Podać nazwę instytucji dodatkowej związanej z daną pozycją. Nie powtarzać 
 
 Korzystać tylko z dwóch funkcji:
 
-- **Edytor** : Stosować szczególnie, gdy jako autora pozycji podano raczej instytucję niż osoby.
+- **Edytor**: Stosować szczególnie, gdy jako autora pozycji podano raczej instytucję niż osoby.
 - **Inna funkcja**  
 
 _Przykłady:_  

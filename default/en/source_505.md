@@ -1,5 +1,6 @@
-### Contents note (505 $a)
+### Contents note (505)
 
+#### Contents note (505 $a)
 Enter additional information about the contents of the source which does not fit into any other category, such as:
 
 - Information on different versions of the work

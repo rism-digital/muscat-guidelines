@@ -1,6 +1,6 @@
 #### Früherer Titel (780 $w)  
 
-Dieses Feld und das nächste Feld ( **Folgeeintrag** ) werden verwendet, um alternative Namen anzuzeigen (beispielsweise wechselnde Titel einer Zeitschrift).  
+Dieses Feld und das nächste Feld (**Folgeeintrag**) werden verwendet, um alternative Namen anzuzeigen (beispielsweise wechselnde Titel einer Zeitschrift).  
   
 
 Tragen Sie hier den früheren Zeitschriften- / Reihentitel des vorliegenden Werks ein. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft.   

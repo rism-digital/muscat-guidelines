@@ -12,13 +12,13 @@ Este campo descreve a natureza da fonte. Por favor, selecione da lista seguinte:
 
 - 
 
-**Possível manuscrito autógrafo** : indica que há um grau de incerteza se o manuscrito é da mão do compositor. 
+**Possível manuscrito autógrafo**: indica que há um grau de incerteza se o manuscrito é da mão do compositor. 
 
 - **Autógrafo parcial:** partes significativas do manuscrito são da mão do compositor.  
 
 - **Cópia manuscrita**
 
-- **Cópia manuscrita com anotações autógrafas** : correções ou pequenos acréscimos são da mão do compositor.
+- **Cópia manuscrita com anotações autógrafas**: correções ou pequenos acréscimos são da mão do compositor.
 
 - **Impresso**
 
@@ -62,5 +62,5 @@ Se múltiplos tipos de fontes estão presentes, repita o grupo "Descrição mate
 
 Se a fonte é uma reprodução mecânica (como uma fotocópia), siga estes passos:
 
-1. Selecione **Manuscrito autógrafo** , **Cópia manuscrita** , etc. como for apropriado (isto é, selecione o tipo que se aplica à fonte original)
+1. Selecione **Manuscrito autógrafo**, **Cópia manuscrita**, etc. como for apropriado (isto é, selecione o tipo que se aplica à fonte original)
 2. Selecione o tipo de reprodução no campo **Técnica especial de produção** **(340 $d)**

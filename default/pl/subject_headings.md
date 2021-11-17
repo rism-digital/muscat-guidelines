@@ -4,9 +4,9 @@ Istnieje możliwość dodawania haseł przedmiotowych w trakcie katalogowania. W
 
 Po zapisaniu rekordu, należy przejść do pliku autorytatywnego haseł przedmiotowych i znaleźć nowy nagłówek. Utworzone hasła przedmiotowe można edytować. Należy wykonać następujące czynności:
 
-**Termin** : Wpisać termin w języku angielskim i w liczbie mnogiej, ilekroć to możliwe. W przypadku muzyki regionalnej, w szczególności muzyki występującej poza Europą Zachodnią, należy stosować termin wspólny dla danego regionu. W przypadku języków, w których używa się alfabetów innych niż łaciński, należy wpisać tutaj transliterację terminu przy użyciu alfabetu łacińskiego. 
+**Termin**: Wpisać termin w języku angielskim i w liczbie mnogiej, ilekroć to możliwe. W przypadku muzyki regionalnej, w szczególności muzyki występującej poza Europą Zachodnią, należy stosować termin wspólny dla danego regionu. W przypadku języków, w których używa się alfabetów innych niż łaciński, należy wpisać tutaj transliterację terminu przy użyciu alfabetu łacińskiego. 
 
-**Terminy alternatywne** : Proszę wprowadzić wszystkie alternatywne terminy, każdy w osobnym wierszu (naciskając Enter). W tym miejscu można wprowadzić termin przy użyciu innych alfabetów, jak również synonimy, warianty, inne pisownie itp.
+**Terminy alternatywne**: Proszę wprowadzić wszystkie alternatywne terminy, każdy w osobnym wierszu (naciskając Enter). W tym miejscu można wprowadzić termin przy użyciu innych alfabetów, jak również synonimy, warianty, inne pisownie itp.
 
 **Uwagi:** Proszę podać krótki opis rodzaju terminu w języku angielskim, niemieckim lub francuskim. Następnie można dodać w Państwa języku ojczystym, dla współpracowników RISM w Państwa regionie, dowolny opis lub wytyczne, które chcieliby Państwo dla tego terminu ustalić, czyli jak go stosować, wszelkie jego powiązania regionalne, odniesienia do literatury drugorzędnej itp.
 
@@ -14,7 +14,7 @@ Jako przykład, patrz **Gigues**. Podano tam terminy w języku angielskim, franc
 
 Przy pracy z muzyką charakterystyczną dla danego regionu można używać dowolnych określeń, których się w tym regionie powszechnie używa. Można dodać nowy termin, jeśli podobnego gatunku używa się w innym regionie, ale nosi on inną nazwę.
 
-Można również dodać hasło przedmiotowe bezpośrednio do pliku autorytatywnego (wystarczy w tym pliku kliknąć **Utwórz** ) i będzie ono natychmiast dostępne.
+Można również dodać hasło przedmiotowe bezpośrednio do pliku autorytatywnego (wystarczy w tym pliku kliknąć **Utwórz**) i będzie ono natychmiast dostępne.
 
 Wskazówki dotyczące katalogowania:
 

@@ -1,6 +1,6 @@
 #### **Registro precedente (780 $w) **  
 
-Este campo y el siguiente ( **Registro subsiguiente** ) se utilizan para consignar y vincular los títulos alternativos de ciertos ítems, por ejemplo el título de una revista que ha cambiado de nombre. 
+Este campo y el siguiente (**Registro subsiguiente**) se utilizan para consignar y vincular los títulos alternativos de ciertos ítems, por ejemplo el título de una revista que ha cambiado de nombre. 
 
   
 

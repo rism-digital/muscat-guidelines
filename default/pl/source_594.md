@@ -11,7 +11,7 @@ W tym polu warto korzystać z funkcji autouzupełniania. Alfabetyczna lista skr�
 
 Partie głosowe należy wpisywać w indeksie górnym, a instrumentalne w indeksie dolnym. Instrumenty solowe należy poprzedzić oznaczeniem **iSol:**.
 
-Jeśli w utworze występuje basso continuo, instrument należy wprowadzić tak jak zwykle, np. **b** , **bc** , **org** , itd. (ale należy poszukać wskazówek odnośnie wypełniania pokrewnych pól w tabelach w sekcji **Basso continuo w obsadach i/lub partiach** ).
+Jeśli w utworze występuje basso continuo, instrument należy wprowadzić tak jak zwykle, np. **b**, **bc**, **org**, itd. (ale należy poszukać wskazówek odnośnie wypełniania pokrewnych pól w tabelach w sekcji **Basso continuo w obsadach i/lub partiach**).
 
 Dla instrumentów strojonych w innej tonacji niż C, standardowe strój podano w liście skrótów. Jeśli strój występujący w źródle różni się od stroju standardowego, należy go podać (patrz: **w A). W przypadku instrumentów, które są standardowo strojone w C, nie trzeba podawać informacji „w C”. W razie wątpliwości strój należy podać. Stroje instrumentów należy podawać w języku angielskim.** Patrz Aneks: Tonacje.
 

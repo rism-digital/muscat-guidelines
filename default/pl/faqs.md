@@ -35,7 +35,7 @@ Tak! Czasami, z różnych powodów, nie jest możliwy dostęp do źródła i dos
 
   1.   załączyć **Uwagę ogólną (500)**, np. „Rekord oparty na opisie w YouV” 
   2.   linkować do katalogu w polu **Odniesienie bibliograficzne (691)** lub w Zasób zewnętrzny (856) stosowanie do potrzeb
-  3.  w polu **Pochodzenie rekordu (980)** podpolu **Materiał zbadany** , wybrać **Materiał niezbadany**   
+  3.  w polu **Pochodzenie rekordu (980)** podpolu **Materiał zbadany**, wybrać **Materiał niezbadany**   
 
 > ** 8. Czy mogę wprowadzić źródła, które są zawarte w innych publikacjach RISM z serii B**?
 > 
@@ -76,5 +76,5 @@ Więcej informacji na temat programowania systemu Muscat można znaleźć na str
 
 **4. Jakie są niektóre cechy systemu Muscat?**
 
-- **Wersjonowanie** : Katalogerzy mogą przeglądać zmiany wprowadzone do rekordów.  
-- **VIAF** : Nazwy osobowe można importować poprzez link do [Virtual International Authority File (VIAF)](https://viaf.org/). 
+- **Wersjonowanie**: Katalogerzy mogą przeglądać zmiany wprowadzone do rekordów.  
+- **VIAF**: Nazwy osobowe można importować poprzez link do [Virtual International Authority File (VIAF)](https://viaf.org/). 

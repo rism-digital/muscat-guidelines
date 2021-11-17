@@ -8,19 +8,19 @@ Im Folgenden finden Sie Hinweise, welche Varianten einen neuen Datensatz rechtfe
 
 - 
 
-**Unterschiedlicher Inhalt** : Unterschiede im Titel oder der Zuschreibung. Angaben, die auf Korrekturen, Überarbeitungen, Erweiterungen, Kürzungen oder die Einbeziehung von Zusatzmaterialien schließen lassen.
+**Unterschiedlicher Inhalt**: Unterschiede im Titel oder der Zuschreibung. Angaben, die auf Korrekturen, Überarbeitungen, Erweiterungen, Kürzungen oder die Einbeziehung von Zusatzmaterialien schließen lassen.
 
 - 
 
-**Unterschiedliches Druckbild** : Änderungen des Umfangs. Änderungen im bibliographischen oder musikalischen Format. Unterschiede bei der Seitenaufteilung (Kustoden) und der Notensysteme (im Vergleich zu anderen Exemplaren).
+**Unterschiedliches Druckbild**: Änderungen des Umfangs. Änderungen im bibliographischen oder musikalischen Format. Unterschiede bei der Seitenaufteilung (Kustoden) und der Notensysteme (im Vergleich zu anderen Exemplaren).
 
 - 
 
-**Unterschiedlicher Publikationsstatus** : Eine Titelseite wurde ersetzt. Ein Etikett verdeckt die originalen Angaben zu Verleger, Distribution, etc. Die ursprünglichen Platten (Notenseiten) wurden von einem anderen Herausgeber mit neuem Titelblatt und aktuelleren Informationen veröffentlicht. Die Titelseite der Reihe ist neu.
+**Unterschiedlicher Publikationsstatus**: Eine Titelseite wurde ersetzt. Ein Etikett verdeckt die originalen Angaben zu Verleger, Distribution, etc. Die ursprünglichen Platten (Notenseiten) wurden von einem anderen Herausgeber mit neuem Titelblatt und aktuelleren Informationen veröffentlicht. Die Titelseite der Reihe ist neu.
 
 - 
 
-**Unterschiedliche Platten- oder Verlagsnummer** : Unterschiedliche Platten (außer Ersatzplatten). Änderungen in der Angabe des Umfangs. Änderung des bibliographischen oder musikalischen Materias. Unterschiede in Notenzeilenendungen und Schlagwörtern (entdeckt durch den Vergleich mehrerer Kopien).
+**Unterschiedliche Platten- oder Verlagsnummer**: Unterschiedliche Platten (außer Ersatzplatten). Änderungen in der Angabe des Umfangs. Änderung des bibliographischen oder musikalischen Materias. Unterschiede in Notenzeilenendungen und Schlagwörtern (entdeckt durch den Vergleich mehrerer Kopien).
 
 **Legen Sie keinen neuen Datensatz an, wenn** der Druck einen dieser Unterschiede aufweist.
 

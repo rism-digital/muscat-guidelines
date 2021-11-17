@@ -48,10 +48,10 @@ The Lady's Magazine, Aug., 1784
 
 Geben Sie an, nach welchem Regelwerk oder Katalogisierungsstandard der Alternative Einordnungstitel gemacht wurde.
 
-- **RISM** : (Standard)
-- **RDA** : Resource Description and Access
-- **RAK** : Regeln für die alphabetische Katalogisierung (für deutschsprachige Länder)
-- **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (Katalogisierungsregeln in Italien)
+- **RISM**: (Standard)
+- **RDA**: Resource Description and Access
+- **RAK**: Regeln für die alphabetische Katalogisierung (für deutschsprachige Länder)
+- **ICCU**: Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (Katalogisierungsregeln in Italien)
 
 #### Unterteilung nach der Form (730 $k)
 

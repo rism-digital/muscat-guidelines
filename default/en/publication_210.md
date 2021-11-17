@@ -5,7 +5,7 @@
 Each item of secondary literature receives a unique short title to enable easy reference throughout RISM records. Always
 check first to make sure a short title is not already in use.
 
-The following will describe how to create short titles for **general secondary literature** , **catalogs of works** ,
+The following will describe how to create short titles for **general secondary literature**, **catalogs of works**,
 and **special cases**.
 
 #### General secondary literature
@@ -20,7 +20,6 @@ Short titles for **general secondary literature** are made up as follows:
 - **Year** of publication
 
 _Examples:_
-
 > Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
 > → DirksenS 2007  
 > Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
@@ -32,7 +31,7 @@ _Examples:_
 
 
 For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a
-letter ( **a** , **b** , **c** , etc.) is added to the end of the year.  
+letter (**a**, **b**, **c**, etc.) is added to the end of the year.  
 _Examples:_
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
@@ -50,8 +49,6 @@ _Example:_
 
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 > → Fuller-MaitlandF 1893
-
-
 
 If no author is named, use 1-2 keywords from the title in its place.  
 _Example:_

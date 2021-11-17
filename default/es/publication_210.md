@@ -32,7 +32,7 @@ _Ejemplos:_
 > Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
 >             → Aguirre RincónV 2009
 
-En el caso de los autores o editores que publiquen varios artículos sobre el mismo compositor o varias obras del mismo compositor, se añade una letra ( **a, b, c,** etc.) al final del año.
+En el caso de los autores o editores que publiquen varios artículos sobre el mismo compositor o varias obras del mismo compositor, se añade una letra (**a, b, c,** etc.) al final del año.
 
 _Ejemplos:_
 

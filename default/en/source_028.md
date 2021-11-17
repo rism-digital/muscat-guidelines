@@ -1,5 +1,6 @@
-### Plate number (028 $a)
+### Plate number (028)
 
+#### Plate number (028 $a)
 This field is for plate numbers, which typically appear on printed items but can also be found on manuscripts that were
 copied from a printed music edition.
 

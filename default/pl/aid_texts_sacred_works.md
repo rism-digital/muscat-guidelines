@@ -11,10 +11,10 @@ Poniższa lista standardowych tekstów utworów sakralnych stanowi przegląd tek
 
 ### Msza
 
-| **Kyrie** , eleison Christe eleison Kyrie eleison |
+| **Kyrie**, eleison Christe eleison Kyrie eleison |
 | Christe eleison |
 | Kyrie eleison |
-| **Gloria** , in excelsis Deo et in terra pax |
+| **Gloria**, in excelsis Deo et in terra pax |
 | Et in terra pax, hominibus bonae voluntatis |
 | Laudamus te, benedicimus te |
 | Adoramus te, glorificamus te |
@@ -31,7 +31,7 @@ Poniższa lista standardowych tekstów utworów sakralnych stanowi przegląd tek
 | Tu solus altissimus, Jesu Christe |
 | Cum sancto spiritu, in gloria Dei patris |
 | In gloria Dei patris |
-| **Credo** , in unum Deum patrem omnipotentem |
+| **Credo**, in unum Deum patrem omnipotentem |
 | In unum Deum, patrem omnipotentem |
 | Patrem omnipotentem, factorem caeli et terrae |
 | Et in unum Dominum |
@@ -51,21 +51,21 @@ Poniższa lista standardowych tekstów utworów sakralnych stanowi przegląd tek
 | Confiteor unum baptisma, in remissionem peccatorum |
 | Et expecto resurrectionem mortuorum |
 | Et vitam venturi saeculi, amen |
-| **Sanctus** , Dominus Deus Sabaoth |
+| **Sanctus**, Dominus Deus Sabaoth |
 | Pleni sunt caeli, et terra gloria tua |
 | Hosanna in excelsis |
-| **Benedictus** , qui venit in nomine Domini hosanna in excelsis |
+| **Benedictus**, qui venit in nomine Domini hosanna in excelsis |
 | Hosanna in excelsis |
-| **Agnus Dei** , qui tollis peccata mundi miserere nobis |
+| **Agnus Dei**, qui tollis peccata mundi miserere nobis |
 | Miserere nobis |
 | Dona nobis pacem |
 
 ### Requiem (Missa pro defunctis)
 
-| **Requiem** , aeternam dona eis Domine |
+| **Requiem**, aeternam dona eis Domine |
 | Aeternam dona eis |
-| **Absolve Domine** , animas omnium fidelium defunctorum |
-| **Dies irae** , dies illa solvet saeclum in favilla |
+| **Absolve Domine**, animas omnium fidelium defunctorum |
+| **Dies irae**, dies illa solvet saeclum in favilla |
 | Quantus tremor est futurus |
 | Tuba mirum, spargens sonum per sepulcra |
 | Mors stupebit et natura, cum resurget creatura |
@@ -86,12 +86,12 @@ Poniższa lista standardowych tekstów utworów sakralnych stanowi przegląd tek
 | Huic ergo parce Deus |
 | Pie Jesu Domine, dona eis requiem |
 | Dona eis requiem |
-| **Domine Jesu Christe** , rex gloriae |
-| **Libera me** , Domine de morte aeterna |
-| **Sanctus** , Dominus Deus Sabaoth |
-| **Benedictus** , qui venit in nomine Domini hosanna in excelsis |
+| **Domine Jesu Christe**, rex gloriae |
+| **Libera me**, Domine de morte aeterna |
+| **Sanctus**, Dominus Deus Sabaoth |
+| **Benedictus**, qui venit in nomine Domini hosanna in excelsis |
 | **Agnus Dei qui tollis peccata mundi dona eis requiem** |
-| **Lux aeterna** , luceat eis |
+| **Lux aeterna**, luceat eis |
 | Cum sanctis tuis, in aeternum |
 
 ### Litaniae Lauretanae
@@ -205,7 +205,7 @@ Poniższa lista standardowych tekstów utworów sakralnych stanowi przegląd tek
 
 ### Magnificat
 
-| **Magnificat** , anima mea Dominum |
+| **Magnificat**, anima mea Dominum |
 | Anima mea Dominum |
 | Et exsultavit, spiritus meus in Deo salutari meo |
 | Quia respexit humilitatem, ancillae suae |
@@ -221,7 +221,7 @@ Poniższa lista standardowych tekstów utworów sakralnych stanowi przegląd tek
 
 ### Miserere
 
-| **Miserere** , mei Deus secundum magnam misericordiam tuam |
+| **Miserere**, mei Deus secundum magnam misericordiam tuam |
 | Secundum magnam misericordiam tuam |
 | Amplius lava me, ab iniquitate mea |
 | Quoniam iniquitatem meam, ego cognosco |
@@ -247,7 +247,7 @@ Poniższa lista standardowych tekstów utworów sakralnych stanowi przegląd tek
 
 ### Stabat Mater
 
-| **Stabat mater** , dolorosa juxta crucem lacrimosa |
+| **Stabat mater**, dolorosa juxta crucem lacrimosa |
 | Cujus animam gementem |
 | O quam tristis et afflicta |
 | Quae maerebat et dolebat |
@@ -274,7 +274,7 @@ Poniższa lista standardowych tekstów utworów sakralnych stanowi przegląd tek
 
 ### Te Deum
 
-| **Te Deum** , laudamus te Dominum confitemur |
+| **Te Deum**, laudamus te Dominum confitemur |
 | Te Deum |
 | Te Deum laudamus |
 | Te Dominum confitemur |

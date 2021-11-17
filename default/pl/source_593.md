@@ -8,23 +8,23 @@ Pole określa charakter źródła. Należy wybrać odpowiedni typ źródła z na
 
 - 
 
-**Autograf** : sporządzony całkowicie lub w większości ręką kompozytora.
+**Autograf**: sporządzony całkowicie lub w większości ręką kompozytora.
 
 - 
 
-**Prawdopodobnie autograf** : Istnieje pewien stopień niepewności, czy kompozytor sporządził rękopis własnoręcznie.
+**Prawdopodobnie autograf**: Istnieje pewien stopień niepewności, czy kompozytor sporządził rękopis własnoręcznie.
 
-- **Częściowy autograf** : znaczne części rękopisu kompozytor sporządził własnoręcznie.  
+- **Częściowy autograf**: znaczne części rękopisu kompozytor sporządził własnoręcznie.  
 
 - **Kopia rękopisu**
 
-- **Kopia rękopisu z własnoręcznymi adnotacjami autorskimi** : poprawki lub małe uzupełnienia dodane ręką kompozytora.  
+- **Kopia rękopisu z własnoręcznymi adnotacjami autorskimi**: poprawki lub małe uzupełnienia dodane ręką kompozytora.  
 
 - **Druk**
 
 - **Druk z**  **własnoręcznymi adnotacjami autorskimi**
 
-- **Druk z adnotacjami nieautorskimi** : wszystkie adnotacje naniesione ręką inną niż autora. 
+- **Druk z adnotacjami nieautorskimi**: wszystkie adnotacje naniesione ręką inną niż autora. 
 
 **Inne typy dokumentów:**
 
@@ -56,7 +56,7 @@ W przypadku autografów i rękopisów prawdopodobnie autorskich nie należy twor
 
 W niektórych przypadkach, takich jak częściowy autograf, może być stosowne dodanie uwagi wyjaśniającej w polu **Uwaga ogólna (500)**.
 
-Jeżeli aranżer kompozycji był także kopistą, należy wybrać **Kopia rękopisu** , a nie **Rękopis autorski**.
+Jeżeli aranżer kompozycji był także kopistą, należy wybrać **Kopia rękopisu**, a nie **Rękopis autorski**.
 
 Jeśli występuje wiele typów źródeł, należy powtórzyć grupę „Opis materiału”, aby wybrać i opisać typ źródła. 
 

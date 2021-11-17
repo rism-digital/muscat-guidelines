@@ -1,9 +1,10 @@
-### Additional institution (710 $a)
+### Additional institution (710)
 
+#### Additional institution (710 $a)
 Enter the name of an additional institution that is connected with the item. Do not repeat the names of publishers in
 this field. This field is linked to the **Institutions** authority file.
 
-- **Editor** : Use especially if the item has an institution as an author rather than people.
+- **Editor**: Use especially if the item has an institution as an author rather than people.
 - **Other function**
 
 _Examples:_

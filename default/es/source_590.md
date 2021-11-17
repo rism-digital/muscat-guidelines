@@ -23,10 +23,10 @@ Si la designación de las particellas no está disponible, por favor escriba la 
 
 Casos especiales:
 
-- Bajo cifrado: si tiene una particella de bajo cifrado, ingrese el instrumento correspondiente seguido de **.fig** , como en **b.fig** , **bc.fig** , **org.fig** , etc. (No obstante, vea las tablas del apartado **Bajo cifrado en partituras y/o particellas** para mayores orientaciones sobre los campos relacionados).
+- Bajo cifrado: si tiene una particella de bajo cifrado, ingrese el instrumento correspondiente seguido de **.fig**, como en **b.fig**, **bc.fig**, **org.fig**, etc. (No obstante, vea las tablas del apartado **Bajo cifrado en partituras y/o particellas** para mayores orientaciones sobre los campos relacionados).
 - Instrumento que no aparece en la lista de abreviaturas de RISM: escriba el instrumento en su totalidad.
-- Instrumentos, designaciones o afinaciones inusuales (como **cor in D|x** ): se los puede escribir en su totalidad; sin embargo, en el campo **Plantilla/orgánico total (594)**, trate de estandarizar el instrumento según la lista de abreviaturas de RISM en caso de que sea posible (por ejemplo, en el caso anterior, **cor in E|b** ).
-- Parte de teclado con texto: registre en inglés **_pf with text_** (u **_org with text_, _keyb with text_** , etc.). Lo mismo se registra en el campo de **Voz/instrumento** **(031 $m)** correspondiente al íncipit.
+- Instrumentos, designaciones o afinaciones inusuales (como **cor in D|x**): se los puede escribir en su totalidad; sin embargo, en el campo **Plantilla/orgánico total (594)**, trate de estandarizar el instrumento según la lista de abreviaturas de RISM en caso de que sea posible (por ejemplo, en el caso anterior, **cor in E|b**).
+- Parte de teclado con texto: registre en inglés **_pf with text_** (u **_org with text_, _keyb with text_**, etc.). Lo mismo se registra en el campo de **Voz/instrumento** **(031 $m)** correspondiente al íncipit.
 
 #### Extensión (partes) (590 $b)
 

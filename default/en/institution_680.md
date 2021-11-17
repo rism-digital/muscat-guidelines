@@ -1,5 +1,6 @@
-### Other notes on description (680 $a)
+### Other notes on description (680)
 
+#### Other notes on description (680 $a)
 Enter additional notes that describe the institution, such as:
 
 - Records management and collecting policies (ISDIAH 5.3.5): Enter information about the collecting policies of the

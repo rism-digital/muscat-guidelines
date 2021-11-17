@@ -8,16 +8,16 @@ Qui di seguito si offre una guida per decidere quali varianti giustificano una n
 
 - 
 
-**Contenuto diverso** : Differenze nel titolo o negli autori/contributori. Dati editoriali che indicano correzioni, revisioni, ampliamenti, abbreviazioni o l'inclusione di materiale supplementare.
+**Contenuto diverso**: Differenze nel titolo o negli autori/contributori. Dati editoriali che indicano correzioni, revisioni, ampliamenti, abbreviazioni o l'inclusione di materiale supplementare.
 
 - **Editore diverso**.
 - 
 
-**Diversa presentazione tipografica** : Cambiamenti nell'estensione. Modifica del formato bibliografico o musicale. Differenze nel cambio di righe e nel richiamo (nel paragone tra copie diverse). 
+**Diversa presentazione tipografica**: Cambiamenti nell'estensione. Modifica del formato bibliografico o musicale. Differenze nel cambio di righe e nel richiamo (nel paragone tra copie diverse). 
 
 - 
 
-**Statuto editoriale diverso** : Un frontespizio originale è stato cancellato e rimpiazzato. Una nuova etichetta copre i dati di pubblicazione, distribuzione, produzione ecc. Le pagine originali sono state pubblicate in una nuova coperta che reca informazioni più recenti di quelle riportate sul frontespizio. È stato aggiunto un frontespizio di una serie.
+**Statuto editoriale diverso**: Un frontespizio originale è stato cancellato e rimpiazzato. Una nuova etichetta copre i dati di pubblicazione, distribuzione, produzione ecc. Le pagine originali sono state pubblicate in una nuova coperta che reca informazioni più recenti di quelle riportate sul frontespizio. È stato aggiunto un frontespizio di una serie.
 
 - 
 

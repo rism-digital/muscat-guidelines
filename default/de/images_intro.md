@@ -7,6 +7,6 @@ Sie können ein neues Bild hinzufügen, in dem Sie bei der Erfassung der Quelle 
 Wenn Sie sich ein Bild anzeigen lassen, haben Sie auf der rechten Seite folgende Möglichkeiten.
 - **Erstellen**
 - **Zurück zur Liste**
-- **Bearbeiten** : Ermöglicht Ihnen den Namen zu ändern oder die Datei zu ersetzen
-- **Quelle verlinken** : Ermöglicht Ihnen das Bild mit einer vorhandenen Quelle zu verknüpfen  
-- **Person verlinken** : Ermöglicht Ihnen das Bild mit einer vorhandenen Person zu verknüpfen
+- **Bearbeiten**: Ermöglicht Ihnen den Namen zu ändern oder die Datei zu ersetzen
+- **Quelle verlinken**: Ermöglicht Ihnen das Bild mit einer vorhandenen Quelle zu verknüpfen  
+- **Person verlinken**: Ermöglicht Ihnen das Bild mit einer vorhandenen Person zu verknüpfen

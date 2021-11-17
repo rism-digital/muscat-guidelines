@@ -7,7 +7,7 @@ Wybrać z poniższej listy typ nośnika:
 - **Zasób elektroniczny:** np. baza danych, strona internetowa lub internetowy katalog utworów  
 - **E-książka/E-book**
 - **Druk muzyczny**  
-- **Rękopis** : dokument rękopiśmienny  
+- **Rękopis**: dokument rękopiśmienny  
 - **Kombinacja nośników**  
 - **CD-ROM**
 - **Mikrofisza**

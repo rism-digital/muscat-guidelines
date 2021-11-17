@@ -90,7 +90,7 @@ script. Translations or transliterations are optional and may be added in additi
 translations not on the source in brackets. You may translate into any of the RISM languages.
 
 **Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file **
-Title/text incipits**. Within the file **Title/text incipits** , a term preceded by the indicator **t** means that you
+Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you
 can get information about the exact liturgical context, variant versions, and other matters. If the text incipit is used
 as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles
 is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have
@@ -125,7 +125,7 @@ Enter time signatures as fractions. The following are also allowed:
 
 **c** = common time or tempus imperfectum cum prolatione imperfecta  
 **c/** = cut time, alla breve  
-**3** = proportio tripla; also **1** , **2** , etc.  
+**3** = proportio tripla; also **1**, **2**, etc.  
 **c3** = proportio tripla  
 **c3/2  
 c.** = tempus imperfectum cum prolatione perfecta  
@@ -232,7 +232,7 @@ t = trill (immediately follows the note)
 
 + = tie (immediately follows the note; not to be confused with a slur)   
   () = fermata/hold/pause (only a single note letter name or a single rest can be bracketed; accidentals, pitch
-  indications, etc. must be outside the parentheses; see also **10. Special rhythms** , below)
+  indications, etc. must be outside the parentheses; see also **10. Special rhythms**, below)
 
 Do not enter slurs.
 

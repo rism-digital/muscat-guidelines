@@ -30,8 +30,8 @@ En cada campo puede ingresar:
 tanto sin comillas: **lass noch**    
 como con comillas: **“lass noch”**  
 - Truncamiento con ? o \*  
-**?** : El signo de pregunta reemplaza exactamente una letra. **B?cher** encontrará Bucher y Bacher.   
-**\*** : El asterisco puede usarse para truncar o reemplazar cualquier cantidad de letras. **B\*cher** encontrará Bucher y Bacher pero también Boucher y Bötticher.
+**?**: El signo de pregunta reemplaza exactamente una letra. **B?cher** encontrará Bucher y Bacher.   
+**\***: El asterisco puede usarse para truncar o reemplazar cualquier cantidad de letras. **B\*cher** encontrará Bucher y Bacher pero también Boucher y Bötticher.
 - AND, OR, NOT, (): Aproveche las ventajas de la búsqueda booleana. Use paréntesis para agrupar su búsqueda. _Ejemplos_:
 
   - Compositor contiene: **(Bach AND Johann) NOT Sebastian**  
@@ -43,7 +43,7 @@ Por favor tenga en cuenta lo siguiente para todas las secciones:
 
 - **Fecha**
 
-  - **Búsqueda por fecha** : Ingrese fechas en el formato AAAA-MM-DD. El día se fija a medianoche por defecto.
+  - **Búsqueda por fecha**: Ingrese fechas en el formato AAAA-MM-DD. El día se fija a medianoche por defecto.
   - **Fecha única (“desde”)**: Si llena sólo el campo de la izquierda (el “desde”), obtendrá todos los registros modificados o creados **desde** esa fecha (inclusive).  
 Ejemplo: Última modificación  
 **2012-02-07 –** [vacío]  
@@ -52,17 +52,17 @@ mostrará todos los registros editados desde el 7 de febrero de 2012 hasta hoy.
 Ejemplo: Última modificación  
 [vacío] – **2012-02-07**  
 recuperará todos los registros editados desde el inicio del tiempo hasta el 7 de febrero de 2012 a medianoche (lo que significa que no se incluirá ningún registro creado durante el día laboral del 7 de febrero).  
-  - **Intervalo de fechas** : Tenga en cuenta que dado que el día está fijado desde la medianoche, para buscar los registros creados el 7 de febrero de 2012, por ejemplo, debe ingresar la fecha inicial 2012-02-7 (entendida como medianoche del 7 de febrero) y la fecha final 2012-02-8 (entendida como medianoche del 8 de febrero). Esto incluirá todas las fuentes creadas durante el día. ¡Una búsqueda de 2012-02-7 a 2012-02-7 no mostrará ningún resultado!  
-Por favor, tenga en cuenta lo siguiente para buscar **Fuentes** :
-- **Sigla contiene** : busque por las letras de una sigla. Este campo registra mayúsculas y minúsculas. Por ejemplo:  
+  - **Intervalo de fechas**: Tenga en cuenta que dado que el día está fijado desde la medianoche, para buscar los registros creados el 7 de febrero de 2012, por ejemplo, debe ingresar la fecha inicial 2012-02-7 (entendida como medianoche del 7 de febrero) y la fecha final 2012-02-8 (entendida como medianoche del 8 de febrero). Esto incluirá todas las fuentes creadas durante el día. ¡Una búsqueda de 2012-02-7 a 2012-02-7 no mostrará ningún resultado!  
+Por favor, tenga en cuenta lo siguiente para buscar **Fuentes**:
+- **Sigla contiene**: busque por las letras de una sigla. Este campo registra mayúsculas y minúsculas. Por ejemplo:  
 **D-\*** = todas las fuentes en Alemania  
 **D-B\*** = todas las fuentes en ciudades alemanas que empiezan con B  
 **D-B** = todas las fuentes en la _Staatsbibliothek zu Berlin_  
 
 #### Nombres personales
 
-Por favor, tenga en cuenta lo siguiente al buscar **Nombres personales** :
+Por favor, tenga en cuenta lo siguiente al buscar **Nombres personales**:
 
 - **Nombre:** busca en los campos **Encabezado – Nombre personal (100 $a)** y **Variante de nombre (400 $a).**
-- **Fechas de vida** : busca en el campo **Años de nacimiento y muerte (100 $d)**, entendiendo por fechas tanto los años como también las siguientes abreviaturas: sc a p c \* + /
-- **Lugares** : busca en el campo **Nombre geográfico (551)**. Incluye lugares de nacimiento, muerte, origen o actividad.
+- **Fechas de vida**: busca en el campo **Años de nacimiento y muerte (100 $d)**, entendiendo por fechas tanto los años como también las siguientes abreviaturas: sc a p c \* + /
+- **Lugares**: busca en el campo **Nombre geográfico (551)**. Incluye lugares de nacimiento, muerte, origen o actividad.

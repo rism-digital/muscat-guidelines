@@ -1,4 +1,4 @@
-**Scope of printed music in RISM**
+# Scope of printed music in RISM
 
 RISM seeks to document printed music from the beginnings of music printing through around 1900.
 

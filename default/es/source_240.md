@@ -5,7 +5,7 @@ En esta sección se registra el título con un formato estandarizado, lo cual pe
 #### Título uniforme (240 $a)
 **Campo requerido.**  
 
-Indique información dudosa con un signo de interrogación al final (por ejemplo, **Die Zauberflöte?** ). No utilice corchetes o paréntesis. Registre versiones alternativas en el campo **Título adicional (730)**.
+Indique información dudosa con un signo de interrogación al final (por ejemplo, **Die Zauberflöte?**). No utilice corchetes o paréntesis. Registre versiones alternativas en el campo **Título adicional (730)**.
 
 Un título uniforme puede generarse a partir de:
 
@@ -43,9 +43,9 @@ _Ejemplos_ _Der Mond ist aufgegangen_
 Gloria [para el íncipit literario: Gloria, in excelsis Deo et in terra pax]  
   
 3. **Género**  
-Utilice el género de la pieza como título uniforme si no cuenta con un título distintivo o un íncipit literario. En la mayoría de los casos, ingrese el género en inglés y en plural (como en **_Operas_** o **_Masses_** ). Tenga en cuenta que, para algunos géneros, debe utilizarse un determinado **Descriptor (650)** como Título uniforme (y también como Descriptor). Por favor, remítase al apéndice **Título uniforme – Descriptor** de los _Lineamientos_para mayor información.  
+Utilice el género de la pieza como título uniforme si no cuenta con un título distintivo o un íncipit literario. En la mayoría de los casos, ingrese el género en inglés y en plural (como en **_Operas_** o **_Masses_**). Tenga en cuenta que, para algunos géneros, debe utilizarse un determinado **Descriptor (650)** como Título uniforme (y también como Descriptor). Por favor, remítase al apéndice **Título uniforme – Descriptor** de los _Lineamientos_para mayor información.  
   
-_Ejemplos_ :  
+_Ejemplos_:  
 _Symphonies_  
 _Allemandes_  
   
@@ -83,9 +83,9 @@ También es necesario distinguir los arreglos respecto de las obras independient
 
 Este campo registra aspectos formales especiales del documento que resulten relevantes. Se puede seleccionar entre los siguientes calificadores:
 
-- **Extractos** : en casos en los que sólo se cuente con una o varias partes de la obra completa.
-- **Fragmentos** : en casos en los que sólo se cuente con fragmentos de la obra completa.
-- **Bosquejos** : en casos en los que sólo se cuente con borradores de la obra.
+- **Extractos**: en casos en los que sólo se cuente con una o varias partes de la obra completa.
+- **Fragmentos**: en casos en los que sólo se cuente con fragmentos de la obra completa.
+- **Bosquejos**: en casos en los que sólo se cuente con borradores de la obra.
 
 #### Tonalidad o modo (240 $r)
 
@@ -131,11 +131,11 @@ Para indicar más de un elemento en la misma voz o instrumento, coloque el núme
 
 Especifique instrumentos solistas sólo si cumplen una función solista continua en relación con una orquesta, especialmente en el caso de un concierto solista. No registre una parte como solista si solo tiene pasajes solistas ocasionales, como puede ser un solo de oboe en una sección de una cantata.
 
-En el caso de los arreglos, el resumen de plantilla/orgánico refiere a los medios requeridos por la fuente del arreglo, no de la obra en la que éste se basa. Si conoce la plantilla/orgánico de la obra original, especifiquela en el campo **Nota general (500)**. En el caso de una **colección** , use el campo sólo si la plantilla/orgánico particular aplica a todas las obras que componen la colección.
+En el caso de los arreglos, el resumen de plantilla/orgánico refiere a los medios requeridos por la fuente del arreglo, no de la obra en la que éste se basa. Si conoce la plantilla/orgánico de la obra original, especifiquela en el campo **Nota general (500)**. En el caso de una **colección**, use el campo sólo si la plantilla/orgánico particular aplica a todas las obras que componen la colección.
 
 El campo puede repetirse en casos donde se sugiera una plantilla/orgánico alternativa –por ejemplo, una canción que esté concebida tanto para tenor como para soprano–. En tales casos, ingrese cada plantilla/orgánico posible en un campo separado: por ejemplo, **S, pf** en una línea y **T, pf** en la siguiente.
 
-Si la plantilla/orgánico incluye un bajo cifrado, regístrelo de manera convencional –esto es, **b, bc, org** , etc.–. (No obstante, vea las tablas del apartado **Bajo cifrado en partituras y/o particellas** para mayores orientaciones sobre los campos relacionados).
+Si la plantilla/orgánico incluye un bajo cifrado, regístrelo de manera convencional –esto es, **b, bc, org**, etc.–. (No obstante, vea las tablas del apartado **Bajo cifrado en partituras y/o particellas** para mayores orientaciones sobre los campos relacionados).
 
 Omita el resumen de plantilla/orgánico si los medios interpretativos se desconocen o resultan inciertos.
 

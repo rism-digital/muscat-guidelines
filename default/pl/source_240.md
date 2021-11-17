@@ -8,7 +8,7 @@ W tym polu należy wpisać tytuł ujednolicony, który łączy razem pod tym sam
 
 **Pole wymagane.**
 
-Zaznaczyć wątpliwe informacje znakiem zapytania na końcu (np. **Die Zauberflöte?** ). Nie używać nawiasów kwadratowych ani okrągłych. Alternatywne wersje zawrzeć w polu **Tytuł dodatkowy (730)**.
+Zaznaczyć wątpliwe informacje znakiem zapytania na końcu (np. **Die Zauberflöte?**). Nie używać nawiasów kwadratowych ani okrągłych. Alternatywne wersje zawrzeć w polu **Tytuł dodatkowy (730)**.
 
 Tytuł ujednolicony można wygenerować z:
 
@@ -50,7 +50,7 @@ Der Mond ist aufgegangen
  Gloria [z incipitem tekstowym: Gloria, in excelsis Deo et in terra pax]  
   
 3. **Gatunek**  
-Użyć gatunku utworu jako tytułu ujednoliconego, w razie braku odrębnego tytułu lub incipitu tekstowego. W większości przypadków należy wpisać gatunek w języku angielskim i w liczbie mnogiej (np. **Operas** ). Należy przy tym pamiętać, że w przypadku niektórych gatunków używa się określonego **hasła przedmiotowego (650)**. Aby znaleźć wskazówki, należy zapoznać się z aneksem **Tytuł ujednolicony - Hasło przedmiotowe** w **Wytycznych**.  
+Użyć gatunku utworu jako tytułu ujednoliconego, w razie braku odrębnego tytułu lub incipitu tekstowego. W większości przypadków należy wpisać gatunek w języku angielskim i w liczbie mnogiej (np. **Operas**). Należy przy tym pamiętać, że w przypadku niektórych gatunków używa się określonego **hasła przedmiotowego (650)**. Aby znaleźć wskazówki, należy zapoznać się z aneksem **Tytuł ujednolicony - Hasło przedmiotowe** w **Wytycznych**.  
   
 _Przykłady:_  
 Symphonies  
@@ -87,7 +87,7 @@ _Przykład: _
 
 #### Strefa aranżacji (240 $o) 
 
-Wybrać **Aranżację** , jeśli utwór jest aranżacją innego utworu.  
+Wybrać **Aranżację**, jeśli utwór jest aranżacją innego utworu.  
    
 Należy pamiętać, że przetekstowań i transpozycji nie traktuje się jako aranżacji. W takich przypadkach należy w polu **Dodatkowe dane osobowe (700)** wpisać imię i nazwisko osoby odpowiedzialnej (jeśli jest znane). Chociaż utworów nie są uważa się za aranżacje, osobę tę określa się tam mianem „Aranżera”.
 
@@ -99,8 +99,8 @@ Należy również odróżnić aranżacje od utworów niezależnych (swobodnych o
 
 Pole służy do wprowadzania aspektów form specjalnych. Wybrać spośród poniższych:
 
-- **Wyjątki** : dostępna jest tylko jedna lub kilka sekcji pełnego utworu   
-- **Fragmenty** : dostępne są tylko fragmenty utworu
+- **Wyjątki**: dostępna jest tylko jedna lub kilka sekcji pełnego utworu   
+- **Fragmenty**: dostępne są tylko fragmenty utworu
 - **Szkice:** dostępne są tylko szkice utworu  
   
 
@@ -175,7 +175,7 @@ Klawiszowe
 
 Basso continuo
 
-W przypadku podania więcej niż jednego tego samego głosu lub instrumentu należy umieścić ich liczbę w nawiasach po desygnacji partii, np.  **B(2)**. Użyć **V** , aby oznaczyć nieznaną partię głosową i **i** , aby oznaczyć nieznany instrument. Użyć V także do zgrupowania kilku różnych partii wokalnych, takich jak V (8). Podać nieznaną liczbę za pomocą **(X)**.  
+W przypadku podania więcej niż jednego tego samego głosu lub instrumentu należy umieścić ich liczbę w nawiasach po desygnacji partii, np.  **B(2)**. Użyć **V**, aby oznaczyć nieznaną partię głosową i **i**, aby oznaczyć nieznany instrument. Użyć V także do zgrupowania kilku różnych partii wokalnych, takich jak V (8). Podać nieznaną liczbę za pomocą **(X)**.  
   
 Instrumenty solowe należy podawać tylko wtedy, gdy pełnią one ciągłą funkcję solową w stosunku do orkiestry, zwłaszcza w koncercie solowym. Nie wymieniać tutaj partii, jeśli ma ona jedynie okazjonalne pasaże solowe, takie jak obój solo w sekcji kantaty.  
   
@@ -183,7 +183,7 @@ W przypadku aranżacji, streszczenie obsady odnosi się do personelu wykonawczeg
   
 Pole to można powtórzyć w przypadkach, gdy sugeruje się alternatywną instrumentację, np. pieśń na sopran lub dla tenora. W takich przypadkach należy wpisać każdą możliwą instrumentację w osobne pole: na przykład: **S, pf** w jednej linii i **T, pf** w następnej.  
   
-W przypadku basso continuo, wpisać instrument jak zwykle, np. **bc, bc, org** , itp. (ale zobacz tabele w sekcji **Basso continuo w partyturach i/lub partiach** w celu uzyskania wskazówek dotyczących powiązanych pól).
+W przypadku basso continuo, wpisać instrument jak zwykle, np. **bc, bc, org**, itp. (ale zobacz tabele w sekcji **Basso continuo w partyturach i/lub partiach** w celu uzyskania wskazówek dotyczących powiązanych pól).
 
 Ominąć streszczenie obsady, jeżeli siły wykonawcze nie są znane lub wiedza na ich temat jest niepewna. 
 

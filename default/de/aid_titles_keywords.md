@@ -23,15 +23,15 @@ In diesem Fall ist diese Liste nicht notwendig! Das Textincipit des Chorals wird
 Sowohl Einordnungstitel als auch Schlagwort lauten **Chorale arrangements**.
 
 3.      Potpourri mit Musik aus einer bekannten Vorlage  
-In diesem Fall ist diese Liste nicht notwendig! Zum Einordnungstitel wird der individuelle Titel des Bühnenwerks mit den Zusätzen **Excerpts** und **Arran**** gemen ****t**. Als Schlagwörter dienen **Potpourris**  und  **Operas**  (oder ** Operettas** , etc.)
+In diesem Fall ist diese Liste nicht notwendig! Zum Einordnungstitel wird der individuelle Titel des Bühnenwerks mit den Zusätzen **Excerpts** und **Arran**** gemen ****t**. Als Schlagwörter dienen **Potpourris**  und  **Operas**  (oder ** Operettas**, etc.)
 
 4.      Potpourri mit Musik aus mehreren bekannten Vorlagen  
-Einordnungstitel ist hier **Potpourris**. Die individuellen Titel der Bühnenwerke werden im verdoppelbaren Feld **Alternativer Einordnungstitel (730)** eingetragen mit den Zusätzen **Excerpts** und **Arrangement**. Die Schlagwörter sind **Potpourris**  und **Operas**   (oder  **Operettas** , etc.)
+Einordnungstitel ist hier **Potpourris**. Die individuellen Titel der Bühnenwerke werden im verdoppelbaren Feld **Alternativer Einordnungstitel (730)** eingetragen mit den Zusätzen **Excerpts** und **Arrangement**. Die Schlagwörter sind **Potpourris**  und **Operas**   (oder  **Operettas**, etc.)
 
 5.      Bei **Potpourris** mit unbekannten Vorlagen wird sowohl der Einordnungstitel als auch das Schlagwort **Potpourris**.
 
 6.      Bearbeitung einer bekannten Oper für Harmoniemusik  
-Zum Einordnungstitel wird der individuelle Titel des Bühnenwerks mit dem Zusatz **Arrangement.** Die Schlagwörter lauten **Wind music**  und  **Operas**  (oder  **Operettas** , etc.)
+Zum Einordnungstitel wird der individuelle Titel des Bühnenwerks mit dem Zusatz **Arrangement.** Die Schlagwörter lauten **Wind music**  und  **Operas**  (oder  **Operettas**, etc.)
 
 7.      Bei Harmoniemusiken mit unbekannten Vorlagen lauten sowohl der Einordnungstitel als auch das Schlagwort **Wind music**.
 

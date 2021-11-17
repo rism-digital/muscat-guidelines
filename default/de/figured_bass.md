@@ -10,7 +10,7 @@ Folgende Felder müssen bei einer bezifferten Bass- **Stimme** ausgefüllt sein:
 
  
 
-Für einen bezifferten Bass in einer **Partitur** :
+Für einen bezifferten Bass in einer **Partitur**:
 
 | **Instrument** | **Besetzungshinweis (240 $m)** | **Besetzung (594)** | **Bemerkungen (500)** |
 | b | b | b | b = b.fig |

@@ -1,4 +1,6 @@
-### Associated institution (510 $a)
+### Associated institution (510)
+
+#### Associated institution (510 $a)
 
 This field goes hand in hand with the field **Additional biographical information (678)**. If additional biographical
 information about the person in question is found on a musical source, especially if this concerns information that is

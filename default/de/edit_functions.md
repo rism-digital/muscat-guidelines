@@ -2,7 +2,7 @@
 
 **Administration** führt zur MARC-Konfiguration, mit der Sie alle in Muscat verwendeten MARC-Felder anzeigen können (Quellen und Normdateien)
 
-**Sprache** : damit können Sie die Sprache von Muscat wechseln  
+**Sprache**: damit können Sie die Sprache von Muscat wechseln  
   
 **Kommentare** ermöglichen es Ihnen, alle Kommentare zu sehen, die an Muscat-Datensätze angehängt sind. Sie können Kommentare von allen Benutzern sehen und jeden Datensatz kommentieren. Benennen Sie andere Benutzer, indem Sie @ plus den Namen eingeben, um sie in die Konversation einzubeziehen.
 
@@ -14,7 +14,7 @@ Die Seite **Quellen** ist die Hauptseite, über die Sie auf die Datensätze für
 
 **Normdaten** führt Sie zu allen Nordateien, kontrolliertem Vokabular und Indizes in Muscat. Weitere Informationen finden Sie unter Allgemeine Katalogisierungsrichtlinien: Normdaten.
 
-**Richtlinien** : Hier werden Ihnen alle Richtlinien auf einer Seite angezeigt.
+**Richtlinien**: Hier werden Ihnen alle Richtlinien auf einer Seite angezeigt.
 
   
 

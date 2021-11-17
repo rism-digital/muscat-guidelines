@@ -6,13 +6,13 @@ Enumeram-se a seguir diretrizes sobre as variantes que justificam, ou não, a cr
 
 **Um novo registro é necessário** se o item mostra uma ou mais das seguintes diferenças, quando comparado com o registro já existente no RISM:  
 
-- **Conteúdo diferente** : Diferenças no título ou autores / colaboradores. Menção de edição que indica correções, revisões, expansões, abreviações ou a inclusão de materiais suplementares 
+- **Conteúdo diferente**: Diferenças no título ou autores / colaboradores. Menção de edição que indica correções, revisões, expansões, abreviações ou a inclusão de materiais suplementares 
 
 - **Editor diferente**. 
 
-- **Configuração diferente do tipo de impressão** : alterações na menção de extensão. Mudança no formato bibliográfico ou musical. Diferenças nos finais de linha musical e palavras de ordem (reveladas pela comparação de várias cópias). 
+- **Configuração diferente do tipo de impressão**: alterações na menção de extensão. Mudança no formato bibliográfico ou musical. Diferenças nos finais de linha musical e palavras de ordem (reveladas pela comparação de várias cópias). 
 
-- **Estado de publicação diferente** : Uma página de título original foi cancelada e substituída. Uma nova etiqueta está a cobrir a informação original sobre a publicação, distribuição, produção, etc. Partes originais foram publicadas com a capa de um novo editor com informações mais recentes do que as fornecidas na página de título. A página de título da série é nova. 
+- **Estado de publicação diferente**: Uma página de título original foi cancelada e substituída. Uma nova etiqueta está a cobrir a informação original sobre a publicação, distribuição, produção, etc. Partes originais foram publicadas com a capa de um novo editor com informações mais recentes do que as fornecidas na página de título. A página de título da série é nova. 
 
 - **Números de chapa e/ou editor diferentes. **
 

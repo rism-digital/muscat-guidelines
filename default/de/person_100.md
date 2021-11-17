@@ -22,19 +22,19 @@ Siehe [https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misc
 
 Jahreszahlen (von-bis) oder Angabe eines Zeitraums. Sind keine exakten Gurts- oder Sterbedaten bekannt, können folgende Abkürzungen verwendet werden.  
 
-- **.sc** : Jahrhundert  
+- **.sc**: Jahrhundert  
 **18.sc** = 18. Jahrhundert
-- **a** : vor  
+- **a**: vor  
 **1811a** = vor 1811
-- **p** : nach  
+- **p**: nach  
 **1811p** = nach 1811
-- **c** : circa, um, ungefähr  
+- **c**: circa, um, ungefähr  
 **1816c** = um 1816
-- **\*** : geboren  
+- **\***: geboren  
 **1816\*** = geboren in 1816, Sterbejahr unbekannt
-- **+** : gebstorben  
+- **+**: gebstorben  
 **1756+** = gestorben in 1756, Geburtsjahr unbekannt
-- **/** : oder  
+- **/**: oder  
 **17/18** = lebte im 17. und 18. Jahrhundert
 
 Zulässig sind nicht: in, me, ex, q, d, t
@@ -58,7 +58,7 @@ Internes Verwaltungsfeld
   
 
 #### Andere Lebensdaten
-Angabe von konkreten Daten oder nachgewiesene Wirkungszeiten (mit vorangestelltem **fl.** )  
+Angabe von konkreten Daten oder nachgewiesene Wirkungszeiten (mit vorangestelltem **fl.**)  
   
 _Beispiele_:   
 22.11.1879-31.12.1967  

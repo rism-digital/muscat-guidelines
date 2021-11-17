@@ -4,9 +4,9 @@
 
 Wybierz pochodzenie rekordu: 
 
-- **Import** : Rekord został zaimportowany z zewnętrznej bazy danych
-- **Konwersja retrospektywna** : Rekord pochodzi z publikacji papierowej i został przekształcony w formę do odczytu maszynowego
-- **RISM** :  Rekord został stworzony w RISM (domyślnie) 
+- **Import**: Rekord został zaimportowany z zewnętrznej bazy danych
+- **Konwersja retrospektywna**: Rekord pochodzi z publikacji papierowej i został przekształcony w formę do odczytu maszynowego
+- **RISM**:  Rekord został stworzony w RISM (domyślnie) 
 
 ** **
 
@@ -26,4 +26,4 @@ _Szczegóły zakładają:_
 Należy podać, czy podczas katalogowania korzystało się bezpośrednio z obiektu. 
 
 - **Materiał zbadany**
-- **Materiał nie zbadany** : Można podać, kiedy rekord powstał na podstawie opisu katalogowego.
+- **Materiał nie zbadany**: Można podać, kiedy rekord powstał na podstawie opisu katalogowego.

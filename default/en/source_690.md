@@ -2,7 +2,7 @@
 
 #### Catalog of works (690 $a)
 
-Enter the short title for the thematic catalog or catalog of works (for example, **BWV** ). This field is linked to
+Enter the short title for the thematic catalog or catalog of works (for example, **BWV**). This field is linked to
 the **Secondary literature** database. Catalogs not in the database can be entered there.
 
 #### Number/page (690 $n)

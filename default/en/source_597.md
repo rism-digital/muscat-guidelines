@@ -1,5 +1,6 @@
-### Colophon (597 $a)
+### Colophon (597)
 
+#### Colophon (597 $a)
 For printed items, enter the colophon as it appears on the source, typically on the last printed page.
 
 _Example_:

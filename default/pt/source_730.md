@@ -71,10 +71,10 @@ Selecione **Arranjo** se a peça é um arranjo de outra obra. Certifique-se de q
 
 Indique quais regras ou normas de catalogação foram utilizadas para formular o título adicional.
 
-- **RISM** : (padrão)
-- **RDA** : Resource Description and Access
-- **RAK** : Regeln für die alphabetische Katalogisierung (norma de catalogação utilizada nos países de língua alemã)
-- **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (norma de catalogação utilizada na Itália)
+- **RISM**: (padrão)
+- **RDA**: Resource Description and Access
+- **RAK**: Regeln für die alphabetische Katalogisierung (norma de catalogação utilizada nos países de língua alemã)
+- **ICCU**: Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (norma de catalogação utilizada na Itália)
   
 
 #### Subtítulo (730 $k) 
@@ -85,7 +85,7 @@ Este campo destina-se a aspectos de formas especiais, se aplicável. Selecione e
 - Fragmentos
 - Inserções
 - Esboços  
-Certifique-se de que, ao selecionar **Excertos** , **Fragmentos** ou **Esboços** no campo **Subtítulo (240 $k)** acima, também se selecione **Excertos** , **Fragmentos** ou **Esboços** aqui. Para inserções, selecione **Inserções**. Mais informações podem ser inseridas no campo **Notas de conteúdo** **(505)**. 
+Certifique-se de que, ao selecionar **Excertos**, **Fragmentos** ou **Esboços** no campo **Subtítulo (240 $k)** acima, também se selecione **Excertos**, **Fragmentos** ou **Esboços** aqui. Para inserções, selecione **Inserções**. Mais informações podem ser inseridas no campo **Notas de conteúdo** **(505)**. 
 
   
 

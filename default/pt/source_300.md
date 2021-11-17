@@ -11,9 +11,9 @@ Digamos que o material consiste de 1 partitura e 10 partes. Para catalogadores q
 
 O campo **Formato, extensão (300 $a)** é formado por três componentes: **Itens, Formato, Extensão**. Observe que a extensão, aqui, não se refere a partes, nem mesmo a partes de tablatura; a extensão de partes deve ser inserida no campo **Partes existentes (590)**. Utilize a terminologia listada em inglês.
 
-**Itens** : Informe o número de itens existentes. Use X para indicar um número desconhecido de itens.
+**Itens**: Informe o número de itens existentes. Use X para indicar um número desconhecido de itens.
 
-**Formato** : Utilize uma das opções seguintes.  
+**Formato**: Utilize uma das opções seguintes.  
 Geral:
 
 - **part(s)** [parte(s)]: A notação de uma obra para um instrumento ou voz, independentemente do número de pentagramas por sistema (inclui piano, órgão, piano a quatro mãos)
@@ -43,7 +43,7 @@ Outros:
 
 Para parte(s) de regência, use **part** ou **parts** aqui e insira **conductor part** [parte de regência] no campo **Partes existentes (590)**.
 
-**Extensão:** Insira o número de páginas, folhas ou dobras [gatherings]. Escolha entre as seguintes abreviaturas: **f** para folio [folio], **p** para página [page], **lvs** para folhas [leaves (sheets)], e **fds** para dobras [folds (gatherings)]. Neste sistema, 1 **lvs** corresponde a 2 **f** , enquanto 1 **fds** significa ao menos 1 **lvs**.
+**Extensão:** Insira o número de páginas, folhas ou dobras [gatherings]. Escolha entre as seguintes abreviaturas: **f** para folio [folio], **p** para página [page], **lvs** para folhas [leaves (sheets)], e **fds** para dobras [folds (gatherings)]. Neste sistema, 1 **lvs** corresponde a 2 **f**, enquanto 1 **fds** significa ao menos 1 **lvs**.
 
 Pode-se também indicar páginas ou fólios individuais no interior de uma coletânea manuscrita. Use somente um método de enumeração. Indique outras unidades (tais como a conversão de fólios para páginas) no campo **Nota geral (500)**. Para indicar recto e verso, use **r** e **v**.
 
@@ -107,7 +107,7 @@ Exemplos incluem:
 
 #### **Dimensões (300 $c)**
 
-Insira as dimensões da fonte: altura x largura em cm. Frações de centímetros podem ser indicadas por vírgula ou ponto. Um segundo conjunto de dimensões pode ser dado entre parênteses. Se há mais de dois conjuntos de dimensões diferentes, insira a frase em inglês “ **Different sizes** ” (tamanhos diferentes). Maior detalhamento pode ser feito no campo **Nota geral (500)**. Formatos como **octavo** , **quarto** , etc. devem ser indicados no campo **Formato de livro (340)**.
+Insira as dimensões da fonte: altura x largura em cm. Frações de centímetros podem ser indicadas por vírgula ou ponto. Um segundo conjunto de dimensões pode ser dado entre parênteses. Se há mais de dois conjuntos de dimensões diferentes, insira a frase em inglês “ **Different sizes** ” (tamanhos diferentes). Maior detalhamento pode ser feito no campo **Nota geral (500)**. Formatos como **octavo**, **quarto**, etc. devem ser indicados no campo **Formato de livro (340)**.
 
 _Exemplos_:  
 25.5 x 30.5 cm   

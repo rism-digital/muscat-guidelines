@@ -1,6 +1,6 @@
 #### Nome aggiuntivo di persona (700)
 
-Questa parte appare due volte per ogni fonte. Nella sezione  **Persone e istituzioni** , riporta tutte le persone aggiuntive coinvolte. È anche presente nella sezione  **Descrizione del materiale**  per associare nomi aggiuntivi a un gruppo specifico, specialmente se vuoi creare più di un gruppo. 
+Questa parte appare due volte per ogni fonte. Nella sezione  **Persone e istituzioni**, riporta tutte le persone aggiuntive coinvolte. È anche presente nella sezione  **Descrizione del materiale**  per associare nomi aggiuntivi a un gruppo specifico, specialmente se vuoi creare più di un gruppo. 
 
 #### Nome (700 $a) 
 

@@ -6,7 +6,7 @@
 
 Każda pozycja literatury uzupełniającej otrzymuje unikalny tytuł skrócony, aby umożliwić jej łatwe wyszukiwanie w rekordach RISM. Zawsze należy sprawdzić, czy wybrany tytuł skrócony nie jest już zajęty  
   
-Poniżej opisano, w jaki sposób należy tworzyć tytuły skrócone dla **literatury pomocniczej ogólnej** , **katalogów utworów** oraz **przypadków specjalnych.**
+Poniżej opisano, w jaki sposób należy tworzyć tytuły skrócone dla **literatury pomocniczej ogólnej**, **katalogów utworów** oraz **przypadków specjalnych.**
 
 **Literatura pomocnicza ogólna**    
 Tytuły skrócone dla **literatury pomocniczej ogólnej** zawierają następujące elementy:
@@ -29,7 +29,7 @@ _Przykłady:_
 
   
 
-W przypadku autorów lub redaktorów, którzy opublikowali wiele artykułów na temat tego samego kompozytora lub wielu utworów tego samego kompozytora, po roku należy dodać literę ( **a** , **b** , **c** , itd.)   
+W przypadku autorów lub redaktorów, którzy opublikowali wiele artykułów na temat tego samego kompozytora lub wielu utworów tego samego kompozytora, po roku należy dodać literę (**a**, **b**, **c**, itd.)   
 
   
 

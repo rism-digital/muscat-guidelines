@@ -4,9 +4,9 @@ Origem do registro (980)
 
 Selecione a origem do registro:
 
-- **Importado** : O registro foi importado de uma base de dados externa.
-- **Conversão retrospectiva** : TO registro se originou de uma cópia impressa de publicação e foi convertido para uma forma legível-por-máquina.
-- **RISM** : O registro for criado na base de dados RISM (padrão).
+- **Importado**: O registro foi importado de uma base de dados externa.
+- **Conversão retrospectiva**: TO registro se originou de uma cópia impressa de publicação e foi convertido para uma forma legível-por-máquina.
+- **RISM**: O registro for criado na base de dados RISM (padrão).
 
 ** **
 
@@ -26,4 +26,4 @@ _Detalhes virão adiante._
 Por favor, indique se o material foi diretamente examinado durante a catalogação.
 
 - **Material**  **examinado** 
-- **Material não examinado** : Esta opção pode ser usada quando o registro foi criado a partir da descrição do material em um catálogo.
+- **Material não examinado**: Esta opção pode ser usada quando o registro foi criado a partir da descrição do material em um catálogo.

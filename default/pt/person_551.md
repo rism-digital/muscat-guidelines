@@ -17,8 +17,8 @@ Insira como o nome geográfico de local se relaciona com a pessoa em questão.
 Selecione a partir do seguinte:
 
 - **País de atividade** 
-- **Local de atividade** : Tipicamente uma cidade, vila, aldeia, etc.
-- **Local de nascimento** : Tipicamente uma cidade, vila, aldeia, etc. 
+- **Local de atividade**: Tipicamente uma cidade, vila, aldeia, etc.
+- **Local de nascimento**: Tipicamente uma cidade, vila, aldeia, etc. 
 - **Local**  **de morte:** Tipicamente uma cidade, vila, aldeia, etc.
 - **Local de origem:** Use quando não há informação disponível sobre o local de nascimento.
-- **Região de atividade** : Exemplos: Süddeutschland, Hessen, Upper Midwest.
+- **Região de atividade**: Exemplos: Süddeutschland, Hessen, Upper Midwest.

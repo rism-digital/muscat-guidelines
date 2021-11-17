@@ -1,6 +1,6 @@
 #### Instytucja dodatkowa (710)  
 
-Pole pojawia się dla źródeł dwukrotnie: w sekcji **Ludzie i instytucje** , aby wymienić wszystkie dodatkowe instytucje, organizacje i inne ciała korporatywne zaangażowane w dane źródło, oraz w sekcji **Opis materiału** w razie chęci powiązania dodatkowych instytucji z określonymi grupami materiałów, szczególnie przy tworzeniu wielu grup materiałów.
+Pole pojawia się dla źródeł dwukrotnie: w sekcji **Ludzie i instytucje**, aby wymienić wszystkie dodatkowe instytucje, organizacje i inne ciała korporatywne zaangażowane w dane źródło, oraz w sekcji **Opis materiału** w razie chęci powiązania dodatkowych instytucji z określonymi grupami materiałów, szczególnie przy tworzeniu wielu grup materiałów.
 
 Wpisuje się tu wydawców noszących nazwę osobową, lecz pełniących funkcję wydawcy (Pleyel, André itp.). 
 

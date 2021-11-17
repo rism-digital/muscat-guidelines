@@ -28,5 +28,5 @@ Liegen mehrere Quellentypen vor (sog. gemischtes Material) wird die "Materialbes
 
 Wenn es sich bei Ihrer Quelle um eine mechanische Reproduktion handelt (z. B. eine Fotokopie), gehen Sie folgendermaßen vor:
 
-1. Wählen Sie **Autograph** , **Manuscript copy** usw. aus (d.h. wählen Sie den Typ aus, der für die Originalquelle gilt)
+1. Wählen Sie **Autograph**, **Manuscript copy** usw. aus (d.h. wählen Sie den Typ aus, der für die Originalquelle gilt)
 2. Wählen Sie die Art der Reproduktion im Feld **Spezielle Fertigungstechnik (340 $d)**

@@ -5,6 +5,6 @@ Pode-se adicionar uma imagem tanto clicando em **Anexar uma nova imagem,** quand
 Ao visualizar uma imagem, aparecem as seguintes opções à direita da tela:
 - **Criar**
 - **Retornar à lista**
-- **Editar** : Permite modificar o nome da imagem ou substituí-la.
-- **Ligar fonte** : Permite criar um link entre a imagem e uma fonte existente, por exemplo, anexando a mesma marca d’água a várias fontes.
-- **Ligar pessoa** : Permite criar um link entre a imagem e o registro/registo de autoridade de uma pessoa, por exemplo, para exibir amostras de grafia manuscrita.
+- **Editar**: Permite modificar o nome da imagem ou substituí-la.
+- **Ligar fonte**: Permite criar um link entre a imagem e uma fonte existente, por exemplo, anexando a mesma marca d’água a várias fontes.
+- **Ligar pessoa**: Permite criar um link entre a imagem e o registro/registo de autoridade de uma pessoa, por exemplo, para exibir amostras de grafia manuscrita.

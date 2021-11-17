@@ -2,7 +2,7 @@
 
 #### Catálogo de obras (690 $a)
 
-Ingrese el título corto correspondiente al catálogo temático o de obras del compositor (por ejemplo, **BWV** ). Este campo está vinculado a la base de datos de **Bibliografía secundaria**. Los catálogos que no estén en la base de datos pueden registrarse igualmente en este campo.
+Ingrese el título corto correspondiente al catálogo temático o de obras del compositor (por ejemplo, **BWV**). Este campo está vinculado a la base de datos de **Bibliografía secundaria**. Los catálogos que no estén en la base de datos pueden registrarse igualmente en este campo.
 
 #### Número/página (690 $n)
 

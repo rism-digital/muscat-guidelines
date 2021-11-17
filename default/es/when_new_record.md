@@ -6,10 +6,10 @@ En lo sucesivo, se ofrecen orientaciones acerca de qué tipo de variantes justif
 
 **Se requerirá un nuevo registro** sólo en caso de que su ítem muestre una o más de las siguientes diferencias al compararlo con el registro RISM:
 
-- **Diferente contenido** : diferencias en el título o los autores/colaboradores; declaración de la edición que indique correcciones, revisiones, expansiones, reducciones o inclusión de materiales suplementarios.
+- **Diferente contenido**: diferencias en el título o los autores/colaboradores; declaración de la edición que indique correcciones, revisiones, expansiones, reducciones o inclusión de materiales suplementarios.
 - **Diferente editor**
-- **Diferente**  **configuración del tipo de impresión** : diferentes planchas (con excepción de las planchas de reemplazo). Cambios en el campo de extensión; modificación del formato musical o bibliográfico; diferencias en los finales de las líneas musicales y en los [reclamos](https://es.wikipedia.org/wiki/Reclamo_(libro))(revelados por la comparación de múltiples fuentes).
-- **Diferente estado de publicación** : la portada original ha sido cancelada y remplazada; una nueva etiqueta cubre la infomación de publicación, distribución, producción, etc. original; las partituras originales han sido publicadas con la cubierta de un nuevo editor, con información más reciente que aquella provista en la portada; la portada de la serie es nueva.
+- **Diferente**  **configuración del tipo de impresión**: diferentes planchas (con excepción de las planchas de reemplazo). Cambios en el campo de extensión; modificación del formato musical o bibliográfico; diferencias en los finales de las líneas musicales y en los [reclamos](https://es.wikipedia.org/wiki/Reclamo_(libro))(revelados por la comparación de múltiples fuentes).
+- **Diferente estado de publicación**: la portada original ha sido cancelada y remplazada; una nueva etiqueta cubre la infomación de publicación, distribución, producción, etc. original; las partituras originales han sido publicadas con la cubierta de un nuevo editor, con información más reciente que aquella provista en la portada; la portada de la serie es nueva.
 - **Diferentes números de placas y/o editor**.
 
 **No cree un registro nuevo** si su ítem presenta una de estas diferencias. (En caso de que su ítem evidencie _más de una_ de estas diferencias debe decidir si es necesario crear un nuevo registro o no).

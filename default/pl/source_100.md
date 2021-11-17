@@ -26,4 +26,4 @@ Wybierz odpowiednie określenie , aby opisać poziom pewności atrybucji, jeśli
 
  Jeśli źródło jest anonimowe, należy pozostawić to pole puste.  
   
-W starszych rekordach pojawia się atrybut **Zweryfikowany** , ale już się go nie stosuje. Stosowano go, gdy nazwisko kompozytora pojawiało się w źródle w takiej samej formie jak hasło osobowe RISM.
+W starszych rekordach pojawia się atrybut **Zweryfikowany**, ale już się go nie stosuje. Stosowano go, gdy nazwisko kompozytora pojawiało się w źródle w takiej samej formie jak hasło osobowe RISM.

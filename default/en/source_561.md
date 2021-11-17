@@ -1,5 +1,6 @@
-### Provenance (561 $a)
+### Provenance (561)
 
+#### Provenance (561 $a)
 Use this field for general notes about the provenance of the item as well as ownership marks. Enter using your
 cataloging language.
 

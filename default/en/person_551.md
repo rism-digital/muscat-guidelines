@@ -12,9 +12,9 @@ Indicate the how the geographical name is related to the person in question.
 
 Select from the following:
 
-- **Country active** 
-- **Place active** : Typically a city, town, village, etc.
-- **Place of birth** : Typically a city, town, village, etc. 
-- **Place of death** : Typically a city, town, village, etc.
-- **Place of origin** : Use when there is no further information available about the place of birth
-- **Region active** : Examples: Süddeutschland, Hessen, Upper Midwest
+- **Country active**
+- **Place active**: Typically a city, town, village, etc.
+- **Place of birth**: Typically a city, town, village, etc.
+- **Place of death**: Typically a city, town, village, etc.
+- **Place of origin**: Use when there is no further information available about the place of birth
+- **Region active**: Examples: Süddeutschland, Hessen, Upper Midwest

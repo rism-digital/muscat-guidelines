@@ -1,4 +1,4 @@
-### Plucked instruments
+## Plucked instruments
 
 #### arciliuto
 
@@ -54,7 +54,7 @@
 - EN: lute
 - DE: Laute
 - FR: luth
-- IT: liuto 
+- IT: liuto
 
 #### mandoline
 
@@ -62,14 +62,14 @@
 - EN: mandolin
 - DE: Mandoline
 - FR: mandoline
-- IT: mandolino 
+- IT: mandolino
 
 #### plck
 
 - EN: plucked instrument(s)
 - DE: Zupfinstrument(e)
 - FR: instrument(s) à cordes pincées
-- IT: strumento/i a pizzico 
+- IT: strumento/i a pizzico
 
 #### requinto
 
@@ -85,7 +85,7 @@
 - EN: psaltery (zither family)
 - DE: Psalterium, Psalter (zur Familie der Zithern gehörig)
 - FR: psaltérion
-- IT: salterio 
+- IT: salterio
 
 #### theorbe
 
@@ -94,7 +94,7 @@
 - EN: theorbo (lute family)
 - DE: Theorbe (zur Lautenfamilie gehörig)
 - FR: théorbe
-- IT: tiorba 
+- IT: tiorba
 
 #### zither
 
@@ -111,7 +111,7 @@
 - EN: drums, drum set, drum kit (battery)
 - DE: Schlagzeug
 - FR: batterie
-- IT: batteria 
+- IT: batteria
 
 #### birds singing
 
@@ -134,15 +134,15 @@
 - EN: chimes, tubular bells
 - DE: Röhrenglocken
 - FR: cloche tubulaire
-- IT: campane tubolari 
-  
+- IT: campane tubolari
+
 #### campanella
 
 - EN: small bell (see also campana)
 - DE: Glöckchen
 - FR: clochettes
-- IT: campanella 
-  
+- IT: campanella
+
 #### campanelli
 
 - Link: [https://en.wikipedia.org/wiki/Glockenspiel](https://en.wikipedia.org/wiki/Glockenspiel)
@@ -156,8 +156,8 @@
 - EN: carillon
 - DE: Carillon, Glockenspiel
 - FR: carillon
-- IT: carillon cassa 
-  
+- IT: carillon cassa
+
 #### rullante
 
 - Link: [https://en.wikipedia.org/wiki/Tenor\_drum](https://en.wikipedia.org/wiki/Tenor_drum)
@@ -170,8 +170,8 @@
 - EN: castanets (held in one hand or attached by a handle)
 - DE: Kastagnetten
 - FR: castagnettes
-- IT: castagnette 
-  
+- IT: castagnette
+
 #### cimb
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/MINIM\_UK\_UEDIN\_2065](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_2065)
@@ -186,32 +186,32 @@
 - EN: dulcimer, cimbalom
 - DE: Zymbal, Hackbrett
 - FR: cymbalum
-- IT: cimbalom 
-  
+- IT: cimbalom
+
 #### claves
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_CIMU\_ALOES\_0158649/claves-paire](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0158649/claves-paire)
 - EN: claves (two cylindrical hardwood sticks)
 - DE: Klanghölzer
 - FR: claves
-- IT: claves, legnetti 
-  
+- IT: claves, legnetti
+
 #### conga
 
 - Link: [https://en.wikipedia.org/wiki/Conga](https://en.wikipedia.org/wiki/Conga)
 - EN: congas, conga drums
 - DE: Konga
 - FR: conga
-- IT: conga 
-  
+- IT: conga
+
 #### cymb antiques
 
 - Link: [https://en.wikipedia.org/wiki/Crotales](https://en.wikipedia.org/wiki/Crotales)
 - EN: antique cymbals, crotales (small tuned metal disks, played with a mallet)
 - DE: Antike Zimbeln, Crotales
 - FR: crotales
-- IT: crotales 
-  
+- IT: crotales
+
 #### glass harmonica
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_ULEI\_M0000349/glasharmonika](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0000349/glasharmonika)
@@ -219,16 +219,16 @@
   rubbed with fingertips; for glasses instead of bowls, see musical glasses)
 - DE: Glasharmonika
 - FR: harmonica de verre
-- IT: armonica a bicchieri, glassarmonica 
-  
+- IT: armonica a bicchieri, glassarmonica
+
 #### gong
 
 - Link: [https://en.wikipedia.org/wiki/Gong](https://en.wikipedia.org/wiki/Gong)
 - EN: gong
 - DE: Gong
 - FR: gong
-- IT: gong 
-  
+- IT: gong
+
 #### grancassa
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/MINIM\_UK\_UEDIN\_4558](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_4558)
@@ -236,15 +236,15 @@
 - EN: bass drum
 - DE: Große Trommel
 - FR: grosse caisse
-- IT: grancassa 
-  
+- IT: grancassa
+
 #### kuckuck
 
 - EN: cuckoo
 - DE: Kuckuck
 - FR: coucou
-- IT: cuculo 
-  
+- IT: cuculo
+
 #### lyra
 
 - Link: [https://en.wikipedia.org/wiki/Glockenspiel#/media/File:SF\_Chinese\_new\_year\_p1060738.jpg](https://en.wikipedia.org/wiki/Glockenspiel#/media/File:SF_Chinese_new_year_p1060738.jpg)
@@ -252,51 +252,51 @@
 - DE: Lyra, Militär-Lyra (ein Metallophon)
 - FR:
 - IT:
-  
+
 #### maracas
 
 - Link: [https://en.wikipedia.org/wiki/Maraca](https://en.wikipedia.org/wiki/Maraca)
 - EN: maracas
 - DE: Maracas
 - FR: maracas
-- IT: maracas 
-  
+- IT: maracas
+
 #### marimba
 
 - Link: [https://en.wikipedia.org/wiki/Marimba](https://en.wikipedia.org/wiki/Marimba)
 - EN: marimba (typically with long metal tubes, played standing)
 - DE: Marimba, Marimbaphon
 - FR: marimba
-- IT: marimba 
-  
+- IT: marimba
+
 #### musical clock
 
 - EN: musical clock (a clock combined with a mechanical instrument that plays music)
 - DE: Flötenuhr
 - FR:
-- IT: orologio meccanico 
-  
+- IT: orologio meccanico
+
 #### musical glasses
 
 - EN: musical glasses (glasses played by striking or rubbing; for bowls, see glass harmonica)
 - DE: Glasharfe
 - FR: verrillon, vérillon
-- IT: glasspiel, bicchieri musicali 
-  
+- IT: glasspiel, bicchieri musicali
+
 #### nacchere
 
 - EN: rattle
 - DE: Rassel
 - FR: hochet
-- IT: nacchere 
-  
+- IT: nacchere
+
 #### nachtigall
 
 - EN: nightingale
 - DE: Nachtigall
 - FR: rossignol
-- IT: usignolo 
-  
+- IT: usignolo
+
 #### piatti
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_SMS\_MM\_POST\_611/cymbaler](http://www.mimo-international.com/MIMO/doc/IFD/OAI_SMS_MM_POST_611/cymbaler)
@@ -304,8 +304,8 @@
 - EN: cymbal(s) (pair)
 - DE: Becken
 - FR: cymbales
-- IT: piatti piatti 
-  
+- IT: piatti piatti
+
 #### cinesi
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_CIMU\_ALOES\_0920367/cymbale-chinoise](http://www.mimo-international.com/MIMO/doc/IFD/OAI_CIMU_ALOES_0920367/cymbale-chinoise)
@@ -313,8 +313,8 @@
 - EN: Chinese cymbal(s) (cymbal with upturned edges and raised cup)
 - DE: Chinesische Zimbeln
 - FR: cymbales chinoises
-- IT: piatti cinesi piatti 
-  
+- IT: piatti cinesi piatti
+
 #### sospesi
 
 - Link: [https://en.wikipedia.org/wiki/Suspended\_cymbal](https://en.wikipedia.org/wiki/Suspended_cymbal)
@@ -326,46 +326,46 @@
 - EN: ratchet
 - DE: Ratsche
 - FR: crécelle
-- IT: raganella 
-  
+- IT: raganella
+
 #### sonagli
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/MINIM\_UK\_UEDIN\_1744](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_1744)
 - EN: sleigh bells
 - DE: Glockenstab, Schlittengeläut
 - FR: grelots
-- IT: sonagli 
-  
+- IT: sonagli
+
 #### spoons
 
 - Link: [https://en.wikipedia.org/wiki/Spoon\_(musical\_instrument)](https://en.wikipedia.org/wiki/Spoon_(musical_instrument))
 - EN: spoons
 - DE: Löffel
 - FR: cuillers, cuillères
-- IT: cucchiai 
-  
+- IT: cucchiai
+
 #### stck
 
 - EN: percussion (general, as a group)
 - DE: Schlagzeug, Schlagwerk
 - FR: batterie
-- IT: percussioni, batteria 
-  
+- IT: percussioni, batteria
+
 #### tam-tam
 
 - Link: [https://en.wikipedia.org/wiki/Gong](https://en.wikipedia.org/wiki/Gong)
 - EN: tam-tam (a kind of gong)
 - DE: Tamtam
 - FR: tam-tam
-- IT: tam-tam 
-  
+- IT: tam-tam
+
 #### tamb
 
 - EN: drum (also if the kind of drum is not specified)
 - DE: Trommel
 - FR: tambour
-- IT: tamburo 
-  
+- IT: tamburo
+
 #### tamb a corda
 
 - EN: string drum, lion roar, lion's roar (a drum with a string that is rubbed)
@@ -375,22 +375,22 @@
 - EN: tabor, field drum, long drum
 - DE: Tambourin de Provence
 - FR: tambourin de Provence
-- IT: tamburo di Provenza 
-  
+- IT: tamburo di Provenza
+
 #### tamb senza corda
 
 - EN: drum with snares off
 - DE: Tambour sans cordes, Trommel ohne Schnarrsaiten
 - FR: tambour sans cordes
-- IT: tamburo senza corde 
-  
+- IT: tamburo senza corde
+
 #### tamb turco
 
 - EN: Turkish drum
 - DE: Große Trommel, Türkische Trommel
 - FR: tambour turc
-- IT: tamburo turco 
-  
+- IT: tamburo turco
+
 #### tamburello
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_ULEI\_M0006078/schellentrommel](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0006078/schellentrommel)
@@ -398,8 +398,8 @@
 - EN: tambourine, hand drum
 - DE: Tamburello (eine Rahmentrommel)
 - FR: tambour de basque
-- IT: tamburello 
-  
+- IT: tamburello
+
 #### tamburino
 
 - Link: [http://collectionsdumusee.philharmoniedeparis.fr/doc/MUSEE/0156894](http://collectionsdumusee.philharmoniedeparis.fr/doc/MUSEE/0156894)
@@ -407,16 +407,16 @@
 - EN: snare drum, military drum, side drum, concert drum
 - DE: Kleine Trommel
 - FR: caisse claire
-- IT: tamburino 
-  
+- IT: tamburino
+
 #### timbales
 
 - Link: [https://en.wikipedia.org/wiki/Timbales](https://en.wikipedia.org/wiki/Timbales)
 - EN: timbales (drum, shallower than tom-tom)
 - DE: Timbales (ein Trommelpaar)
 - FR: timbales
-- IT: timbales, timpanetti 
-  
+- IT: timbales, timpanetti
+
 #### timp
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_AF\_IT\_DSMFI\_STR0001\_0000093](http://www.mimo-international.com/MIMO/doc/IFD/OAI_AF_IT_DSMFI_STR0001_0000093)
@@ -424,32 +424,32 @@
 - EN: timpani (one or more), kettle drum(s)
 - DE: Pauke(n)
 - FR: timbales
-- IT: timpani 
-  
+- IT: timpani
+
 #### tom-tom
 
 - Link: [https://en.wikipedia.org/wiki/Tom-tom\_drum](https://en.wikipedia.org/wiki/Tom-tom_drum)
 - EN: tom-tom (drum, has no snare)
 - DE: Tomtom (eine Trommel)
 - FR: tom-tom
-- IT: tom-tom 
-  
+- IT: tom-tom
+
 #### triangolo
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_ULEI\_M0001995/3-triangeln](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0001995/3-triangeln)
 - EN: triangle
 - DE: Triangel
 - FR: triangle
-- IT: triangolo 
-  
+- IT: triangolo
+
 #### vibrafono
 
 - Link: [https://en.wikipedia.org/wiki/Vibraphone](https://en.wikipedia.org/wiki/Vibraphone)
 - EN: vibraphone, vibraharp, vibes
 - DE: Vibraphon (ein Metallophon)
 - FR: vibraphone
-- IT: vibrafono 
-  
+- IT: vibrafono
+
 #### xilofono
 
 - Link: [https://en.wikipedia.org/wiki/Xylophone](https://en.wikipedia.org/wiki/Xylophone)
@@ -468,101 +468,101 @@ celesta
 - EN: celesta (keyboard instrument)
 - DE: Celesta
 - FR: celesta
-- IT: celesta 
-  
+- IT: celesta
+
 #### cemb
 
 - EN: cembalo, clavicembalo, spinet, virginal
 - DE: Cembalo, Clavicembalo
 - FR: clavecin
-- IT: clavicembalo, cembalo 
-  
+- IT: clavicembalo, cembalo
+
 #### cemb 4hands
 
 - EN: cembalo, etc. four-hands
 - DE: Cembalo vierhändig
 - FR: clavecin à quatre mains
-- IT: cembalo a quattro mani 
-  
+- IT: cembalo a quattro mani
+
 #### clav
 
 - EN: clavecin
 - DE: Clavecin
 - FR: clavecin
-- IT: clavicembalo 
-  
+- IT: clavicembalo
+
 #### clavicordo
 
 - EN: clavichord
 - DE: Klavichord
 - FR: clavicorde
-- IT: clavicordo 
-  
+- IT: clavicordo
+
 #### harmonium
 
 - EN: harmonium (a small reed organ)
 - DE: Harmonium
 - FR: harmonium
-- IT: armonium, armonio 
-  
+- IT: armonium, armonio
+
 #### hpcd
 
 - EN: harpsichord
 - DE: Harpsichord
 - FR: harpsichord
-- IT: harpsichord 
-  
+- IT: harpsichord
+
 #### keyb
 
 - EN: (unspecified) keyboard instrument
 - DE: Tasteninstrument
 - FR: instrument à clavier
-- IT: strumento a tastiera 
-  
+- IT: strumento a tastiera
+
 #### org
 
 - EN: organ
 - DE: Orgel
 - FR: orgue
-- IT: organo 
-  
+- IT: organo
+
 #### org 4hands
 
 - EN: organ four-hands
 - DE: Orgel vierhändig
 - FR: orgue à quattre mains
-- IT: organo a quattro mani 
-  
+- IT: organo a quattro mani
+
 #### organetto
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_RMAH\_107156\_NL](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_107156_NL)
 - EN: barrel organ, organo a rullo (not the accordion-like Italian folk instrument)
 - DE: Drehorgel, Leierkasten
 - FR: orgue de Barbarie
-- IT: organetto di Barberia 
-  
+- IT: organetto di Barberia
+
 #### pf
 
 - EN: piano
 - DE: Pianoforte
 - FR: piano
-- IT: pianoforte 
-  
+- IT: pianoforte
+
 #### pf 4hands
 
 - EN: piano four-hands
 - DE: Pianoforte vierhändig
 - FR: piano à quattre mains
-- IT: pianoforte a quattro mani 
-  
+- IT: pianoforte a quattro mani
+
 #### physharmonica
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_ULEI\_M0003941/physharmonika](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0003941/physharmonika)
 - EN: physharmonica (keyboard instrument, resembles harmonium)
 - DE: Physharmonika
 - FR: physharmonica
-- IT: 
-  
+- IT:
+
 #### spinetta
 
 - Link: [https://en.wikipedia.org/wiki/Spinet](https://en.wikipedia.org/wiki/Spinet)
@@ -578,8 +578,8 @@ celesta
 - EN: bass, figured
 - DE: Bass, beziffert
 - FR: basse, chiffrée
-- IT: basso, cifrato 
-  
+- IT: basso, cifrato
+
 #### bc
 
 - EN: thoroughbass, basso continuo continuo

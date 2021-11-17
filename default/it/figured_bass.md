@@ -8,7 +8,7 @@ Se è presente una **parte staccata** di basso numerato, i campi seguenti devono
 
  
 
-Per un basso numerato in **partitura** , procedi come segue:
+Per un basso numerato in **partitura**, procedi come segue:
 
 | **Strumento** | **Organico sintetico (130/240 $m)** | **Organico (594)** | **Nota generale (500)** |
 | b | b | b | b = b.fig |

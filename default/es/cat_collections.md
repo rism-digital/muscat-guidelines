@@ -105,7 +105,7 @@ El compositor es, en todos los casos, **Compilations** (Compilaciones).
 **Nombre personal adicinal (700)**  
 El nombre del compilador puede ser añadido con la función **Editor**.
 
-En el caso de las compilaciones, registre a cada compositor/a del material original con función **Referencia cruzada de compositor** , y a cada compositor/a del nuevo material con la función **Co-compositor**. 
+En el caso de las compilaciones, registre a cada compositor/a del material original con función **Referencia cruzada de compositor**, y a cada compositor/a del nuevo material con la función **Co-compositor**. 
 
 En el caso de los pasticcios, no registre compositoras/es como Referencias cruzadas de compositor. En su lugar, cargue a cada compositor/a como **Co-compositor**.
 
@@ -113,7 +113,7 @@ En el caso de los pasticcios, no registre compositoras/es como Referencias cruza
 Introduzca el título estandarizado de la fuente en cuestión. Para los pasticcios, añada seleccione **Extractos** o **Arreglo** según corresponda. 
 
 **Código de idioma (041)**  
-Para el campo **Idioma del texto** , introduzca el idioma de la fuente en cuestión. Si corresponde, se puede introducir el idioma de la obra original en **Idioma del texto original**.
+Para el campo **Idioma del texto**, introduzca el idioma de la fuente en cuestión. Si corresponde, se puede introducir el idioma de la obra original en **Idioma del texto original**.
 
 **Descriptor (650)**  
 El primer descriptor debe ser **Compilations** (Compilaciones) y/o **Pasticcios**. El segundo corresponde al género de la fuente en cuestión. En el caso de los extractos, se puede añadir el género del extracto. Otra opción es **Collaborative compositions** (Composiciones colaborativas).
@@ -316,6 +316,6 @@ Especifique los arreglos para piano del siguiente modo:
 
 - En el campo **Título** **uniforme (240)**:
   - Seleccione **Arreglo** en el subcampo **Mención de arreglo.**
-  - En **Resumen de plantilla/orgánico** , ingrese la plantilla/orgánico del arreglo, por ej. **pf** o **V, pf**. No ingrese la plantilla/orgánico de la obra original.
+  - En **Resumen de plantilla/orgánico**, ingrese la plantilla/orgánico del arreglo, por ej. **pf** o **V, pf**. No ingrese la plantilla/orgánico de la obra original.
 - En el campo **Plantilla/orgánico total (594),** ingrese la plantilla/orgánico total correspondiente al arreglo. No ingrese los datos correspondientes a la obra original.
 - En el campo **Descripción física (300)** registre el formato como **_keyboard score_** (partitura de teclado) si se trata de una reducción para piano, o **_vocal score_** (partitura vocal) si la reducción es para voz y piano.

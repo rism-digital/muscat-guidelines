@@ -121,14 +121,14 @@ If you have a pasticcio, do not enter composers as a composer cross-references. 
 Enter the standardized title of the source in hand. For pasticcios, add **Excerpts** or **Arrangement** as appropriate.
 
 **Language code (041)**  
-For the field **Language of text** , enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
+For the field **Language of text**, enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
 
 **Subject heading (650)**  
 The first subject heading should be **Compilations** and/or **Pasticcios**. The second should be the genre of the source in hand. If you have excerpts, the genre of the excerpt can be added. **Collaborative compositions** is also an option.
 
 **Description summary (520)**  
 Use this field to describe in general the nature of the source.  
-_Example_ :  
+_Example_:  
 Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
 
 **Alternate title (730)**  
@@ -146,7 +146,7 @@ Always use a note for clarification, especially if the works of separate compose
 **Note on performance (518)**  
 Performances should be noted only as they relate to the compilation itself.
 
-**Examples of compilations** :
+**Examples of compilations**:
 
 230001408: Cantata made from opera arias with newly composed recitatives
 

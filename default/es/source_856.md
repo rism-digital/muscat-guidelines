@@ -26,11 +26,11 @@ Fuente concordante en GB-Ob
 
 **Campo requerido cuando se registra un vínculo a un recurso externo. ** Seleccione entre las siguientes opciones:
 
-- **Fuente digitalizada** : el enlace pertenece a un sitio web externo que alberga una copia digitalizada del recurso descripto. Se privilegian los enlaces a repositorios institucionales; no obstante, si no hay repositorios institucionales disponibles, se aceptan enlaces a repositorios externos tales como_Internet_ _Archive_ o IMSLP. En el caso de las colecciones, no es necesario duplicar el mismo enlace en la entrada principal de la colección y las entradas individuales.  
+- **Fuente digitalizada**: el enlace pertenece a un sitio web externo que alberga una copia digitalizada del recurso descripto. Se privilegian los enlaces a repositorios institucionales; no obstante, si no hay repositorios institucionales disponibles, se aceptan enlaces a repositorios externos tales como_Internet_ _Archive_ o IMSLP. En el caso de las colecciones, no es necesario duplicar el mismo enlace en la entrada principal de la colección y las entradas individuales.  
 _Ejemplo:  
 [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)_  
 
-- **Manifiesto IIIF** : el objeto vinculado es un objeto JSON legible por máquina, procesado con un visor de documentos interno como diva.js. El documento aparece incrustado directamente en la página web. En muchos casos, el link mismo incluye partículas como "manifest," "iiif" u otras similares.  
+- **Manifiesto IIIF**: el objeto vinculado es un objeto JSON legible por máquina, procesado con un visor de documentos interno como diva.js. El documento aparece incrustado directamente en la página web. En muchos casos, el link mismo incluye partículas como "manifest," "iiif" u otras similares.  
 _Ejemplo_:   
 *[https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)*  
   
@@ -43,7 +43,7 @@ Tipo de enlace: recurso digitalizado
   - Fuente externa: [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
 Nota: manifiesto IIIF  
 Tipo de enlace: manifiesto IIIF
-- **Otro** : vínculo a un recurso diferente de la fuente descripta.
+- **Otro**: vínculo a un recurso diferente de la fuente descripta.
 
 ####   
 

@@ -6,7 +6,7 @@ O título é inserido aqui de uma forma padronizada, que traz conjuntamente sob 
 
 **Campo obrigatório.**
 
-Indique informação questionável com uma interrogação ao final (por exemplo, **Die Zauberflöte?** ). Não use colchetes ou parênteses. Coloque versões alternativas do título no campo **Título adicional (730)**.
+Indique informação questionável com uma interrogação ao final (por exemplo, **Die Zauberflöte?**). Não use colchetes ou parênteses. Coloque versões alternativas do título no campo **Título adicional (730)**.
 
 Um título uniforme pode ser gerado a partir do seguinte, na ordem de preferência:
 
@@ -47,7 +47,7 @@ Der Mond ist aufgegangen
  Gloria [com incipit literário: Gloria, in excelsis Deo et in terra pax]  
   
 3. **Gênero**  
-Use o gênero da obra como o título uniforme se não houver nem um título distintivo, nem um incipit literário. Na maioria dos casos, insere-se o gênero em inglês e no plural (como em **Operas** ). Observe que, para alguns gêneros, um determinado **Cabeçalho de Assunto (650)** é utilizado. Por favor, consulte o apêndice **Título uniforme – Cabeçalho de Assunto** nas Diretrizes para ajuda.   
+Use o gênero da obra como o título uniforme se não houver nem um título distintivo, nem um incipit literário. Na maioria dos casos, insere-se o gênero em inglês e no plural (como em **Operas**). Observe que, para alguns gêneros, um determinado **Cabeçalho de Assunto (650)** é utilizado. Por favor, consulte o apêndice **Título uniforme – Cabeçalho de Assunto** nas Diretrizes para ajuda.   
   
 _Exemplos:_  
 Symphonies  
@@ -90,8 +90,8 @@ Arranjos podem ser também diferenciados de obras independentes (elaborações l
 
 Este campo destina-se a aspectos especiais da forma, se aplicáveis. Selecione entre as seguintes opções:
 
-- **Excertos** : se somente uma ou algumas seções da obra completa estão presentes.
-- **Fragmentos** : se somente fragmentos da obra estão presentes. 
+- **Excertos**: se somente uma ou algumas seções da obra completa estão presentes.
+- **Fragmentos**: se somente fragmentos da obra estão presentes. 
 - **Esboços:** se somente esboços da obra estão presentes.   
   
 
@@ -169,9 +169,9 @@ Quando mais de uma parte da mesma voz ou instrumento é indicada, coloque o núm
 
 Especifique instrumentos solistas somente se eles têm uma função contínua de solistas em relação a uma orquestra, especialmente em um concerto solo. Não liste aqui uma parte se ela tem apenas passagens solistas ocasionais, como um solo de oboé em uma seção de cantata.
 
-No caso de arranjos, a síntese da formação indica a formação exigida na fonte presente, não na obra original em que o arranjo se baseou. Se a instrumentação da obra original é conhecida, especifique-a no campo **Nota geral (500)**. No caso de uma **Coletânea** , somente utilize este campo se a formação instrumental particular é aplicável a todas as obras contidas na coletânea.
+No caso de arranjos, a síntese da formação indica a formação exigida na fonte presente, não na obra original em que o arranjo se baseou. Se a instrumentação da obra original é conhecida, especifique-a no campo **Nota geral (500)**. No caso de uma **Coletânea**, somente utilize este campo se a formação instrumental particular é aplicável a todas as obras contidas na coletânea.
 
-Este campo pode ser repetido nos casos em que uma instrumentação alternativa é sugerida, tal como em uma canção escrita tanto para soprano como para tenor. Nestes casos, insira cada instrumentação possível em um campo separado: por exemplo, **S** , **pf** em uma linha e **T** , **pf** na próxima.
+Este campo pode ser repetido nos casos em que uma instrumentação alternativa é sugerida, tal como em uma canção escrita tanto para soprano como para tenor. Nestes casos, insira cada instrumentação possível em um campo separado: por exemplo, **S**, **pf** em uma linha e **T**, **pf** na próxima.
 
 Caso trate-se de um baixo contínuo, insira o instrumento da forma usual, tal como b, bc, org, etc. (mas veja as tabelas na seção **Baixo contínuo em partituras e/ou partes** para orientação sobre os campos relacionados).
 

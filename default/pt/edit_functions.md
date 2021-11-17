@@ -8,7 +8,7 @@ O **Painel de Controle** exige seus registros recentes no Muscat.
 
 **Comentários** permite ver todos os comentários anexados aos registros do Muscat. Podem-se ver os comentários de todos os usuários e fazer comentários em qualquer registro. Chame outros usuários colocando **@** e em seguida seus nomes para incluí-los na conversa.
 
-**Pastas** podem ser criadas através da seleção de registros na página **Fontes** , depois basta clicar no botão **Ações em lote** , acima da lista de registros, e criar uma nova pasta ou adicioná-los a uma pasta existente. Veja sua pasta buscando-a através dos filtros à direita em **Está na Pasta**. A partir daí, é possível ordenar e buscar da maneira usual. Apague suas pastas a partir deste menu **Pastas** na barra de menu.
+**Pastas** podem ser criadas através da seleção de registros na página **Fontes**, depois basta clicar no botão **Ações em lote**, acima da lista de registros, e criar uma nova pasta ou adicioná-los a uma pasta existente. Veja sua pasta buscando-a através dos filtros à direita em **Está na Pasta**. A partir daí, é possível ordenar e buscar da maneira usual. Apague suas pastas a partir deste menu **Pastas** na barra de menu.
 
 A **Busca facetada** permite que se busquem as mesmas fontes, mas com mais critérios de busca: uma busca simples com limites e uma busca avançada com muitos campos disponíveis. Caso tenha permissões para editar um registro que encontra na busca facetada, aparecerá um link para levar ao modo de edição do Muscat. Caso contrário, pode-se retornar ao Muscat clicando em **Catalogar**. **Início** leva de volta à pagina web da Redação Central do RISM.
 
@@ -47,7 +47,7 @@ Use os **links** na parte superior para ir direto para uma seção do registro. 
 
 ### Botões no modo de edição
 
-**Lente de aumento** : Clique aqui para fazer uma busca no registro de autoridade ligado ao campo. Uma janela separada se abrirá. Depois que encontrar o que precisa, clique em **Selecionar** para transferir o conteúdo para o seu registro.
+**Lente de aumento**: Clique aqui para fazer uma busca no registro de autoridade ligado ao campo. Uma janela separada se abrirá. Depois que encontrar o que precisa, clique em **Selecionar** para transferir o conteúdo para o seu registro.
 
 **Interrogação (?)**: As diretrizes RISM para este campo são exibidas.
 
@@ -55,17 +55,17 @@ Use os **links** na parte superior para ir direto para uma seção do registro. 
 
 **Lixeira:** Apague um campo clicando na lixeira.
 
-**Seta** : Clique sobre a seta para expandir ou retrair campos.
+**Seta**: Clique sobre a seta para expandir ou retrair campos.
 
-**Adicionar um grupo** : Este botão se encontra na parte inferior da seção **Descrição material**. Com diferentes grupos, podem-se associar diferentes datas, formatos, marcas d’água, nomes, instituições, etc. com diferentes tipos de fontes (ou da maneira escolhida para descrever seu material). Alguns destes campos, tais como **Nome adicional de pessoa (700)**, **Instituição adicional (710)** e **Nota geral (500)** são também encontrados em outros lugares do modelo Fontes. Use seu bom senso para decidir onde colocar tal informação: ela se aplica a toda a fonte, ou somente a este grupo de material?
+**Adicionar um grupo**: Este botão se encontra na parte inferior da seção **Descrição material**. Com diferentes grupos, podem-se associar diferentes datas, formatos, marcas d’água, nomes, instituições, etc. com diferentes tipos de fontes (ou da maneira escolhida para descrever seu material). Alguns destes campos, tais como **Nome adicional de pessoa (700)**, **Instituição adicional (710)** e **Nota geral (500)** são também encontrados em outros lugares do modelo Fontes. Use seu bom senso para decidir onde colocar tal informação: ela se aplica a toda a fonte, ou somente a este grupo de material?
 
 ### Outras funções no modo de edição
 
-**Autocompletar** : os campos que contêm uma chave são ligados a um registro ou índice de autoridade. Comece a digitar a informação e use o recurso autocompletar para auxiliar seu trabalho.
+**Autocompletar**: os campos que contêm uma chave são ligados a um registro ou índice de autoridade. Comece a digitar a informação e use o recurso autocompletar para auxiliar seu trabalho.
 
-**Adicionando novos nomes, títulos, cabeçalhos de assunto, etc.** : Caso não encontre o que precisa nos registros de autoridade, simplesmente insira o nome ou termo de que precisa. Ao clicar em um campo diferente, uma borda laranja aparece em torno do campo e pode-se ver uma caixa de confirmação onde se lê "Confirmar a inserção de um novo valor." Clique esta caixa para confirmar. Para nomes de pessoas, um campo chamado **Datas** aparecerá. Por favor, preencha-o se puder, porque isso ajuda a Redação Central a criar um novo registro de autoridade. Quando salvar, o nome ou título será automaticamente adicionado aos registros de autoridade. Ver também **Nomes de pessoas** em **Di**** retrizes gerais de catalogação**.
+**Adicionando novos nomes, títulos, cabeçalhos de assunto, etc.**: Caso não encontre o que precisa nos registros de autoridade, simplesmente insira o nome ou termo de que precisa. Ao clicar em um campo diferente, uma borda laranja aparece em torno do campo e pode-se ver uma caixa de confirmação onde se lê "Confirmar a inserção de um novo valor." Clique esta caixa para confirmar. Para nomes de pessoas, um campo chamado **Datas** aparecerá. Por favor, preencha-o se puder, porque isso ajuda a Redação Central a criar um novo registro de autoridade. Quando salvar, o nome ou título será automaticamente adicionado aos registros de autoridade. Ver também **Nomes de pessoas** em **Di**** retrizes gerais de catalogação**.
 
-**Campos obrigatórios e validação** : Quando se começa um novo registro, os campos mais importantes já estarão abertos e prontos para que sejam preenchidos. Campos em amarelo são campos obrigatórios. Ao salvar seu trabalho sem preencher um destes campos, uma borda vermelha aparecerá em torno do(s) campo(s) que ainda precisa(m) de atenção e as seções nas quais os campos ocorrem estarão vermelhas na barra lateral à direita. Em casos em que nenhuma informação possa ser inserida em um campo obrigatório, a validação pode ser anulada clicando em uma caixa na barra lateral.
+**Campos obrigatórios e validação**: Quando se começa um novo registro, os campos mais importantes já estarão abertos e prontos para que sejam preenchidos. Campos em amarelo são campos obrigatórios. Ao salvar seu trabalho sem preencher um destes campos, uma borda vermelha aparecerá em torno do(s) campo(s) que ainda precisa(m) de atenção e as seções nas quais os campos ocorrem estarão vermelhas na barra lateral à direita. Em casos em que nenhuma informação possa ser inserida em um campo obrigatório, a validação pode ser anulada clicando em uma caixa na barra lateral.
 
  
 
@@ -73,10 +73,10 @@ Use os **links** na parte superior para ir direto para uma seção do registro. 
 
 Este tópico se refere a ações possíveis quando se visualiza um registro completo.
 
-**Criar** : Leva à página de seleção de modelos, a partir dos quais se pode criar um novo registro.
+**Criar**: Leva à página de seleção de modelos, a partir dos quais se pode criar um novo registro.
 
-**Retornar à lista** : Leva de volta à lista completa de todas as fontes musicais.
+**Retornar à lista**: Leva de volta à lista completa de todas as fontes musicais.
 
-**Editar** : Se o usuário tem permissões para editar o registro, ele verá este botão editar.
+**Editar**: Se o usuário tem permissões para editar o registro, ele verá este botão editar.
 
-**Duplicar** : No modo de visualização, um registro pode ser duplicado ao clicar neste botão. Se for o caso, pode-se então preencher o campo **Registro principal (773)** para ligar este novo registro ao registro principal de uma coletânea.
+**Duplicar**: No modo de visualização, um registro pode ser duplicado ao clicar neste botão. Se for o caso, pode-se então preencher o campo **Registro principal (773)** para ligar este novo registro ao registro principal de uma coletânea.

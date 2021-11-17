@@ -1,6 +1,6 @@
 ### Instituição adicional (710)
 
-Este campo aparece duas vezes para as fontes. Na seção **Pessoas e instituições** para listar todas as instituições, organizações ou outras entidades corporativas adicionais envolvidas com a fonte. E está também na seção **Descrição material** , para, caso seja desejável, associar instituições adicionais com grupos materiais particulares, especialmente ao criar múltiplos grupos materiais.
+Este campo aparece duas vezes para as fontes. Na seção **Pessoas e instituições** para listar todas as instituições, organizações ou outras entidades corporativas adicionais envolvidas com a fonte. E está também na seção **Descrição material**, para, caso seja desejável, associar instituições adicionais com grupos materiais particulares, especialmente ao criar múltiplos grupos materiais.
 
 Casas editoras nomeadas como pessoas, mas que atuam na função de casas editoras (Pleyel, André, etc.), são inseridas aqui. No caso de publicação independente de música, pelo próprio autor, insira o nome da pessoa em sua forma natural, tal como Bernhard Christoph Breitkopf.
 

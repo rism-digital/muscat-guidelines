@@ -64,8 +64,8 @@ Mais informação sobre o desenvolvimento do Muscat pode ser encontrada no [webs
 
 **4. Algumas características do Muscat**
 
-- **Versões** : Catalogadores podem ver as modificações feitas nos registros.
-- **VIAF** : Nomes de pessoas podem ser importados através do [Virtual International Authority File (VIAF)](https://viaf.org/). 
+- **Versões**: Catalogadores podem ver as modificações feitas nos registros.
+- **VIAF**: Nomes de pessoas podem ser importados através do [Virtual International Authority File (VIAF)](https://viaf.org/). 
 
 **5. Quais são os planos para futuros aprimoramentos do Muscat?**
 

@@ -76,5 +76,5 @@ c. **레코드 출처(980**) 영역에서 하위분야 **자료 검열(Material 
 
 **4. 뮤스캣의 몇가지 특징들이 있다면? **
 
-- **Versioning** : 카탈로그 작성작들은 레코드의 변경사항을 볼 수 있습니다. 
-- **VIAF** : 인명은 가상 국제 전거파일 [Virtual International Authority File (VIAF)](https://viaf.org/) 에서 불러올 수 있습니다.   
+- **Versioning**: 카탈로그 작성작들은 레코드의 변경사항을 볼 수 있습니다. 
+- **VIAF**: 인명은 가상 국제 전거파일 [Virtual International Authority File (VIAF)](https://viaf.org/) 에서 불러올 수 있습니다.   

@@ -1,6 +1,7 @@
-### Succeeding entry (785 $a)
+### Succeeding entry (785)
 
-This field and the previous field ( **Preceding entry** ) are used to list and link alternate titles of items, such as a
+#### Succeeding entry (785 $a)
+This field and the previous field (**Preceding entry**) are used to list and link alternate titles of items, such as a
 journal title that has changed names.
 
 Enter here the name that the periodical was successively known as. This field is linked to the **Secondary literature**

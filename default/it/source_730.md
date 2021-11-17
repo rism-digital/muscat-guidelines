@@ -62,10 +62,10 @@ Seleziona **Arrangiamento** se la composizione è un arrangiamento di un’altra
 
 Indica che regole di catalogazione o standard sono usati per formulare il titolo uniforme alternativo. 
 
-- **RISM** : (valore predefinito)
-- **RDA** : Resource Description and Access
-- **RAK** : Regeln für die alphabetische Katalogisierung (regole di catalogazione usate in Paesi di lingua tedesca)
-- **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (regole di catalogazione usate in Italia)
+- **RISM**: (valore predefinito)
+- **RDA**: Resource Description and Access
+- **RAK**: Regeln für die alphabetische Katalogisierung (regole di catalogazione usate in Paesi di lingua tedesca)
+- **ICCU**: Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (regole di catalogazione usate in Italia)
 
 #### Suddivisione formale (730 $k) 
 
@@ -76,7 +76,7 @@ Questo campo registra dei particolari aspetti formali, se sono applicabili. Sele
 - Inserimenti
 - Schizzi
 
-Assicurati di selezionare  **Estratti** ,  **Frammenti**  o  **Schizzi**  qui se hai selezionato  **Estratti** , **Frammenti** o **Schizzi** nel campo **Suddivisione formale (240 $k)** più sopra. Per inserimenti, seleziona **Inserimenti**. Maggiori informazioni possono essere inserite nel campo **Nota di contenuto** **(505)**.
+Assicurati di selezionare  **Estratti**,  **Frammenti**  o  **Schizzi**  qui se hai selezionato  **Estratti**, **Frammenti** o **Schizzi** nel campo **Suddivisione formale (240 $k)** più sopra. Per inserimenti, seleziona **Inserimenti**. Maggiori informazioni possono essere inserite nel campo **Nota di contenuto** **(505)**.
 
   
 

@@ -4,17 +4,17 @@ Pole służy do fizycznego opisu katalogowanej pozycji, do której produkcji nie
 
 Można tu podać technikę (techniki) zastosowaną (-e) do produkcji opisywanego źródła. Jeśli potrzebny jest termin, którego nie ma na liście, należy skontaktować się z Biurem Centralnym.
 
-- **Autografia** : druk transferowy (nie mylić z rękopisami autografami)  
+- **Autografia**: druk transferowy (nie mylić z rękopisami autografami)  
 - **Wydruk komputerowy**  
 - **Sztych**   
-- **Faksymile** : reprodukcja wykonana z zamiarem możliwie najdokładniejszej symulacji wyglądu fizycznego oryginalnego utworu
+- **Faksymile**: reprodukcja wykonana z zamiarem możliwie najdokładniejszej symulacji wyglądu fizycznego oryginalnego utworu
 - **Litografia**
 - **Druk offsetowy**
 - **Proces optyczny (światłokopia)**: obejmuje Cyanotyp, diazo print, blueprint
-- **Reprodukcja** : wiele typów reprodukcji mechanicznych, takich jak fotokopia, kserokopia, heliografia
+- **Reprodukcja**: wiele typów reprodukcji mechanicznych, takich jak fotokopia, kserokopia, heliografia
 - **Przezrocze**  
 - **Maszynopis**   
-- **Typografia** : obejmuje nuty drukowane przy użyciu ruchomej czcionki  
+- **Typografia**: obejmuje nuty drukowane przy użyciu ruchomej czcionki  
 - **Drzeworyt**  
 
  Wszelkie uzupełnienia lub komentarze dotyczące techniki druku można zawrzeć w polu **Uwaga ogólna (500 $a)**.
@@ -35,14 +35,14 @@ Wybrać format książki wynikający ze złożenia arkusza, aby utworzyć skład
 
 Wybrać jedną z poniższych opcji:
 
-- **2°** : folio, fo
-- **4°** : quarto, 4to
-- **8°** : octavo, 8vo
-- **12°** : duodecimo, twelvemo, 12mo
-- **16°** : sextodecimo, sixteenmo, 16mo
-- **18°** : octodecimo, eighteenmo, 18mo
-- **20°** : vigesimo, twentymo, 20mo
-- **24°** : vigesimo-quarto, twenty-fourmo, 24mo
+- **2°**: folio, fo
+- **4°**: quarto, 4to
+- **8°**: octavo, 8vo
+- **12°**: duodecimo, twelvemo, 12mo
+- **16°**: sextodecimo, sixteenmo, 16mo
+- **18°**: octodecimo, eighteenmo, 18mo
+- **20°**: vigesimo, twentymo, 20mo
+- **24°**: vigesimo-quarto, twenty-fourmo, 24mo
 - **obl. **** 2°**: podłużne folio
 - **obl. **** 4°**: podłużne quarto  
 - **obl. **** 8°**: podłużne octavo

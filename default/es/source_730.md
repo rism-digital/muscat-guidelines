@@ -62,10 +62,10 @@ Seleccione el calificador _Arreglo_ si la pieza es un arreglo de otra obra. Aseg
 
 Indique qué reglas o estándares de catalogación se utilizan en la formulación del título.
 
-> - **RISM** : (por default)
-> - **RDA** : _Resource Description and Access_ (estándar de catalogación en los países anglosajones)
-> - **RAK** : Regeln für die alphabetische Katalogisierung (reglas de catalogación usadas en países germanoparlantes)
-> - **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (reglas de catalogación usadas en Italia)
+> - **RISM**: (por default)
+> - **RDA**: _Resource Description and Access_ (estándar de catalogación en los países anglosajones)
+> - **RAK**: Regeln für die alphabetische Katalogisierung (reglas de catalogación usadas en países germanoparlantes)
+> - **ICCU**: Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (reglas de catalogación usadas en Italia)
 
 #### Tipo especial de fuente (730 $k)
 

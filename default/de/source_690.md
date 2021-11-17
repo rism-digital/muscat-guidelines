@@ -1,6 +1,6 @@
 #### Werkverzeichnis (690 $a)
 
-Hier wird das Kürzel des Werkverzeichnisses (beispielsweise **BWV** ) eingetragen. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft. Neue Werkverzeichnisse werden in Absprache mit der Zentralredaktion eingegeben.
+Hier wird das Kürzel des Werkverzeichnisses (beispielsweise **BWV**) eingetragen. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft. Neue Werkverzeichnisse werden in Absprache mit der Zentralredaktion eingegeben.
 
 #### Nummer/Seitenzahl (690 $n)
 **Pflichtfeld, wenn "Werkverzeichnis" ausgefüllt ist.**

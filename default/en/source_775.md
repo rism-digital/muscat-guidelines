@@ -1,5 +1,6 @@
-### Initial entry (775 $w)
+### Initial entry (775)
 
+#### Initial entry (775 $w)
 Do not edit this field.
 
 This field links to the RISM ID number of the initial entry. The phrases "Initial entry" and "Following entries"

@@ -19,7 +19,7 @@ vol. 3/1-2; 11/1-2
 56
 
 W przypadku rozdziału będącego częścią zbioru esejów, wprowadzić jego numery stron.   
-_Przykład_ :  
+_Przykład_:  
 str. 76-109
 
 Co do zasady, należy umieścić wystarczającą ilość informacji, aby inni użytkownicy systemu mogli bez problemu znaleźć daną pozycję 

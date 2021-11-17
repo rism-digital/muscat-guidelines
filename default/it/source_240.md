@@ -4,7 +4,7 @@ Questo campo riporta il titolo in una forma standardizzata, che raggruppa compos
 
 **Campo obbligatorio.**
 
-Indica un’informazione dubbia aggiungendo un punto interrogativo alla fine (ad esempio, **Die Zauberflöte?** ). Non usare parentesi quadre o tonde. Inserisci titoli aggiuntivi nel campo **Titolo uniforme alternativo (730)**.
+Indica un’informazione dubbia aggiungendo un punto interrogativo alla fine (ad esempio, **Die Zauberflöte?**). Non usare parentesi quadre o tonde. Inserisci titoli aggiuntivi nel campo **Titolo uniforme alternativo (730)**.
 
 Un titolo uniforme può essere creato a partire da:
 
@@ -43,7 +43,7 @@ Der Mond ist aufgegangen
  Gloria [con l’incipit testuale: Gloria, in excelsis Deo et in terra pax]  
   
 3. **Generi musicali**  
-Utilizza il genere del brano come titolo uniforme se non vi è né un titolo proprio né un incipit testuale. Nella maggior parte dei casi, inserisci il genere in inglese e al plurale (ad esempio **Operas** ). Nota che con alcuni generi si utilizza un particolare **Soggetto (650)**. Si consulti l’appendice **Titoli uniformi – Soggetti** nelle **Regole di catalogazione** per ulteriori istruzioni.   
+Utilizza il genere del brano come titolo uniforme se non vi è né un titolo proprio né un incipit testuale. Nella maggior parte dei casi, inserisci il genere in inglese e al plurale (ad esempio **Operas**). Nota che con alcuni generi si utilizza un particolare **Soggetto (650)**. Si consulti l’appendice **Titoli uniformi – Soggetti** nelle **Regole di catalogazione** per ulteriori istruzioni.   
   
 _Esempi:_  
 Symphonies  
@@ -74,7 +74,7 @@ _Esempio:_
 
 - **Inserimenti**. Inserisci qui l'incipit testuale del brano inserito come titolo standardizzato. Nel campo **Titolo uniforme alternativo (730)** inserisci il nome dell'opera o della composizione più vasta e seleziona  **Inserimenti ** nel sottocampo  **Suddivisione formale**.
 
-- **Alfabeti non latini** : Se la fonte ha un incipit testuale che utilizza caratteri o lettere non latine (alfabeto cirillico/greco/ebraico/coreano ecc., ideogrammi cinesi ecc.) inserisci l’ **Incipit testuale** utilizzando l’alfabeto originale. Traduzioni e traslitterazioni non sono obbligatorie e possono essere aggiunte nel campo **Titolo uniforme alternativo (730)**.
+- **Alfabeti non latini**: Se la fonte ha un incipit testuale che utilizza caratteri o lettere non latine (alfabeto cirillico/greco/ebraico/coreano ecc., ideogrammi cinesi ecc.) inserisci l’ **Incipit testuale** utilizzando l’alfabeto originale. Traduzioni e traslitterazioni non sono obbligatorie e possono essere aggiunte nel campo **Titolo uniforme alternativo (730)**.
 
  
 
@@ -91,8 +91,8 @@ Gli arrangiamenti devono anche essere distinti da composizioni indipendenti (ela
 
 Questo campo registra, se opportuno, degli aspetti particolari della fonte dal punto di vista formale. Seleziona dai seguenti:
 
-- **Estratti** : se sono presenti solo una o alcune parti della composizione completa
-- **Frammenti** : se sono presenti solo dei frammenti della composizione 
+- **Estratti**: se sono presenti solo una o alcune parti della composizione completa
+- **Frammenti**: se sono presenti solo dei frammenti della composizione 
 - **Schizzi:** se sono presenti solo degli schizzi della composizione 
 
 #### Tonalità, modo (240 $r)
@@ -113,7 +113,7 @@ Vedi “Modi ecclesiastici” per i modi ecclesiastici occidentali e bizantini, 
 
 #### Organico sintetico (240 $m)
 
-**Campo obbligatorio tranne per**** : opere e oratori con l’organico standard V (X), Coro, orch  
+**Campo obbligatorio tranne per****: opere e oratori con l’organico standard V (X), Coro, orch  
 Se sono presenti schizzi o raccolte, inserisci un organico sintetico se ha senso farlo. **
 
 Inserisci qui un breve sommario dell’organico (strumentazione) per l’insieme dei mezzi di esecuzione della composizione. Separa ogni elemento dell’organico sintetico con una virgola. Inserisci fino a un massimo di quattro elementi. Una descrizioine dettagliata della strumentazione si inserisce nel campo **Organico (594)**. L’intero organico sintetico va inserito su una riga; ripeti il campo soltanto per indicare degli organici alternativi (vedi sotto).
@@ -141,11 +141,11 @@ Se è indicata più di una voce o strumento dello stesso tipo, riporta il numero
 
 Specifica strumenti solisti soltanto se ricoprono la funzione di solista rispetto a un’orchestra, specialmente in un concerto. Non elencare qui una parte che ha soltanto dei passaggi solisti occasionali, come un oboe solista in una cantata.
 
-In caso di arrangiamenti, l’organico sintetico si riferisce agli esecutori richiesti nella fonte, non nella composizione sulla quale si basa l’arrangiamento. Se è noto l’organico della composizione originale, precisala nel campo **Note generali (500)**. In caso di una **Raccolta** , utilizza il campo soltanto se questo particolare organico è valido per tutte le composizioni nella raccolta.
+In caso di arrangiamenti, l’organico sintetico si riferisce agli esecutori richiesti nella fonte, non nella composizione sulla quale si basa l’arrangiamento. Se è noto l’organico della composizione originale, precisala nel campo **Note generali (500)**. In caso di una **Raccolta**, utilizza il campo soltanto se questo particolare organico è valido per tutte le composizioni nella raccolta.
 
 Questo campo può essere ripetuto in caso venga suggerito un organico alternativo, come in un lied per soprano oppure tenore. In questi casi, inserisci ogni possibile organico in un campo a sé: ad esempio, **S, pf** su una riga e **T, pf** sulla riga successiva.
 
-In presenza di un basso cifrato, inserisci lo strumento come di consueto, ad esempio **b** , **bc** , **org** ecc. (ma vedi le tabelle nella sezione **Basso numerato in partitura e/o nelle parti** con istruzioni per campi correlati).
+In presenza di un basso cifrato, inserisci lo strumento come di consueto, ad esempio **b**, **bc**, **org** ecc. (ma vedi le tabelle nella sezione **Basso numerato in partitura e/o nelle parti** con istruzioni per campi correlati).
 
 Ometti l’organico sintetico se l'organico è sconosciuto o incerto.   
 

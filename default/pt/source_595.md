@@ -27,5 +27,5 @@ Drei Knaben
 
 Insira os papéis dramáticos que aparecem na fonte se eles se diferenciam, na grafia, da forma normalizada fornecida acima.   
   
-_Exemplo_ :  
+_Exemplo_:  
 Pappageno

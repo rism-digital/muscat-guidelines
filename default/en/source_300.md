@@ -21,9 +21,9 @@ The field **Format, extent (300 $a)** is built up of three components: **Items, 
 not given for parts, including tablature parts; the extent of parts is entered in the field **Parts held (590)**. Use
 the English terminology listed.
 
-**Items** : State the number of items held. Use **X** to indicate an unknown number of items.
+**Items**: State the number of items held. Use **X** to indicate an unknown number of items.
 
-**Format** : Use one of the following.  
+**Format**: Use one of the following.  
 General:
 
 - **part(s)**: The notation of a work for an instrument or voice regardless of the number of staves per system (includes
@@ -54,16 +54,16 @@ Special formats:
 
 Other:
 
-- **various** : Use for collection parent records if the collection contains different kinds of formats (such as a full
+- **various**: Use for collection parent records if the collection contains different kinds of formats (such as a full
   score and a keyboard score).
-- **other** : Use if none of the above apply. In such cases, explain with a note in the field **General note (500)**.
+- **other**: Use if none of the above apply. In such cases, explain with a note in the field **General note (500)**.
   The number of items or the extent is not required.
 
 For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590).**
 
-**Extent** : Enter the number of pages, leaves, or gatherings. Choose among the following abbreviations: **f** for
+**Extent**: Enter the number of pages, leaves, or gatherings. Choose among the following abbreviations: **f** for
 folio, **p** for page, **lvs** for leaves (sheets), and **fds** for folds (gatherings). In this system, one **lvs**
-corresponds to two **f** , whereas one **fds** means at least one **lvs**.
+corresponds to two **f**, whereas one **fds** means at least one **lvs**.
 
 You may also indicate single pages or folios within a manuscript collection. Use only one method of enumeration.
 Indicate other units (such as the conversion from folios to pages) in the field**General note (500)**. When indicating
@@ -130,7 +130,7 @@ Examples include:
 Enter the dimensions of the source: height x width in cm. Fractions of centimeters may be indicated by either a comma or
 period. A second set of dimensions can be given in parentheses. If there are more than two different sets of dimensions,
 enter the English phrase **Different sizes** ; further elaboration can be made in the field **General note (500)**.
-Formats such as **octavo** , **quarto** , etc. should be indicated in the field **Book format (340 $m)**.
+Formats such as **octavo**, **quarto**, etc. should be indicated in the field **Book format (340 $m)**.
 
 _Examples_:
 

@@ -4,11 +4,11 @@ Si possono aggiungere nuove parole chiave durante la catalogazione. Nella scheda
 
 Dopo aver salvato la scheda, vai alla lista di voci di autorità per le parole chiave e trova la tua nuova scheda. Puoi modificare le parole chiave create da te. Si prega di fare quanto segue:
 
-**Termine** : Inserisci il termine in inglese e al plurale, se possibile. Per musica di diffusione regionale, particolarmente musica trovata fuori dell'Europa occidentale, utilizza il termine comune locale. Per lingue che usano alfabeti non latini, inserisci qui la forma traslitterata in alfabeto latino.
+**Termine**: Inserisci il termine in inglese e al plurale, se possibile. Per musica di diffusione regionale, particolarmente musica trovata fuori dell'Europa occidentale, utilizza il termine comune locale. Per lingue che usano alfabeti non latini, inserisci qui la forma traslitterata in alfabeto latino.
 
-**Termini alternativi** : Si prega di inserire ogni termine alternativo, ciascuno su una nuova linea (usare Enter). Qui puoi inserire un termine usando un altro sistema alfabetico, oppure sinonimi, varianti, ortografie divergenti ecc.
+**Termini alternativi**: Si prega di inserire ogni termine alternativo, ciascuno su una nuova linea (usare Enter). Qui puoi inserire un termine usando un altro sistema alfabetico, oppure sinonimi, varianti, ortografie divergenti ecc.
 
-**Note** : Si prega di fornire una breve descrizione del termine in inglese, francese o tedesco. Puoi anche scrivere nella tua madrelingua, in funzione dei collaboratori RISM nella tua regione, ogni descrizione o guida che vuoi definire per il termine: come utilizzarlo, le relazioni locali, riferimenti alla bibliografia ecc.
+**Note**: Si prega di fornire una breve descrizione del termine in inglese, francese o tedesco. Puoi anche scrivere nella tua madrelingua, in funzione dei collaboratori RISM nella tua regione, ogni descrizione o guida che vuoi definire per il termine: come utilizzarlo, le relazioni locali, riferimenti alla bibliografia ecc.
 
 Come esempio, vedi  **Gigues**. ** ** Si trova il termine in inglese, francese e tedesco, insieme a ortografie alternative. Nel campo "Note" si spiega che esiste un gran numero di gighe e quando e dove il termine ricorre.
 

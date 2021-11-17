@@ -12,7 +12,7 @@
   
 Strona **Źródła** jest stroną główną, z której można uzyskać dostęp do rekordów bibliograficznych dla opisów źródłowych.  
   
-**Hasła wzorcowe**  przenoszą użytkownika do wszystkich haseł wzorcowych, kontrolowanego słownictwa i indeksów w Muscat. Zobacz **Ogólne wytyczne dotyczące katalogowania** : **Hasła wzorcowe** , aby uzyskać więcej informacji.  
+**Hasła wzorcowe**  przenoszą użytkownika do wszystkich haseł wzorcowych, kontrolowanego słownictwa i indeksów w Muscat. Zobacz **Ogólne wytyczne dotyczące katalogowania**: **Hasła wzorcowe**, aby uzyskać więcej informacji.  
   
 **Wskazówki ** pozwalają zobaczyć wszystkie wytyczne na jednej stronie. Właśnie tutaj się teraz Państwo znajdują.  
   
@@ -36,43 +36,43 @@ Należy użyć **linków** u góry, aby przejść do sekcji rekordu. Podczas edy
 
   
 
-**Pokaż historię modyfikacji** umożliwia przeglądanie, przywracanie i usuwanie poprzednich wersji rekordu. Należy kliknąć **Pokaż** ponownie **wszystkie sekcje** , aby powrócić do trybu edycji i wszelkich niezapisanych zmian.  
+**Pokaż historię modyfikacji** umożliwia przeglądanie, przywracanie i usuwanie poprzednich wersji rekordu. Należy kliknąć **Pokaż** ponownie **wszystkie sekcje**, aby powrócić do trybu edycji i wszelkich niezapisanych zmian.  
   
 **Dołącz nowy obraz** umożliwia przesyłanie małych obrazów (zazwyczaj znaków wodnych, próbek pisma odręcznego lub opraw) w celu dołączenia ich do rekordów. Wszystkie obrazy można znaleźć w menu **Hasła wzorcowe ** w zakładce **Obrazy**.  
    
   
 **Przyciski w trybie edycji**  
   
-**Szkło powiększające** : Tu można przeszukać pliki haseł wzorcowych połączonych z polem. Otworzy się osobne okno. Po znalezieniu potrzebnych informacji, należy kliknąć przycisk **Wybierz** , aby dokonać transferu do rekordu.  
+**Szkło powiększające**: Tu można przeszukać pliki haseł wzorcowych połączonych z polem. Otworzy się osobne okno. Po znalezieniu potrzebnych informacji, należy kliknąć przycisk **Wybierz**, aby dokonać transferu do rekordu.  
   
 **Znak zapytania (?)**: Wyświetlą się wskazówki RISM dla tego pola.  
   
 **Znak plus (+)**: Pola, które można powtórzyć, mają znak plus (+). Należy kliknąć na +, aby utworzyć nowe, puste pole. Pola można uporządkować ponownie w tej sekcji, klikając je i przeciągając.   
   
-**Kosz na śmieci** : Można usunąć pole, klikając na pojemnik na śmieci.  
+**Kosz na śmieci**: Można usunąć pole, klikając na pojemnik na śmieci.  
   
-**Strzałka** : Należy kliknąć na strzałkę, aby rozszerzyć lub zwinąć pola.  
-**Dodaj grupę** : Ten przycisk znajduje się na dole sekcji **Opis materiału**. W przypadku różnych grup można przyporządkować różne daty, formaty, znaki wodne, nazwy, instytucje itp. do różnych typów źródeł (lub jakkolwiek inaczej opiszą Państwo dany materiał).  Niektóre z tych pól, takie jak **Dodatkowa osoba (700)**, **Dodatkowa instytucja (710)** i **Uwaga ogólna (500)**, znajdują się również w innym miejscu szablonu Źródła. Należy zdecydować, gdzie umieścić takie informacje: czy dotyczą one całego źródła, czy tylko tej grupy materiałów ?  
+**Strzałka**: Należy kliknąć na strzałkę, aby rozszerzyć lub zwinąć pola.  
+**Dodaj grupę**: Ten przycisk znajduje się na dole sekcji **Opis materiału**. W przypadku różnych grup można przyporządkować różne daty, formaty, znaki wodne, nazwy, instytucje itp. do różnych typów źródeł (lub jakkolwiek inaczej opiszą Państwo dany materiał).  Niektóre z tych pól, takie jak **Dodatkowa osoba (700)**, **Dodatkowa instytucja (710)** i **Uwaga ogólna (500)**, znajdują się również w innym miejscu szablonu Źródła. Należy zdecydować, gdzie umieścić takie informacje: czy dotyczą one całego źródła, czy tylko tej grupy materiałów ?  
   
   
 **Inne funkcje w trybie edycji**  
   
-**Auto wypełnianie** : Jeśli widać pole zawierające tonację (key), pole to jest powiązane z plikiem autorytatywnym lub indeksem. Należy rozpocząć wpisywanie i użyć funkcji auto wypełniania, która pomoże w wypełnieniu pola.  
+**Auto wypełnianie**: Jeśli widać pole zawierające tonację (key), pole to jest powiązane z plikiem autorytatywnym lub indeksem. Należy rozpocząć wpisywanie i użyć funkcji auto wypełniania, która pomoże w wypełnieniu pola.  
   
-**Dodawanie nowych nazw, tytułów, haseł przedmiotowych itp.** : Jeśli nie można znaleźć potrzebnych danych w bazie haseł wzorcowych, po prostu należy wpisać potrzebną nazwę lub termin. Po kliknięciu na inne pole, wokół pól pojawi się pomarańczowa ramka i pojawi się pole wyboru z napisem „Potwierdź wstawienie nowej wartości”. Aby potwierdzić wybór należy w to pole kliknąć. W przypadku nazw osobowych pojawi się pole o nazwie **Daty życia**. Prosimy o w miarę możliwości wypełnienie tego pola, ponieważ ułatwia to Biuru Centralnemu Urzędowi utworzenie nowego rekordu hasła wzorcowego. Po zapisaniu, nazwa lub tytuł zostanie automatycznie dodany do bazy haseł wzorcowych. Patrz także: **Ogólne wytyczne na temat katalogowania** pod **Nazwami osobowymi**.  
-  
-
+**Dodawanie nowych nazw, tytułów, haseł przedmiotowych itp.**: Jeśli nie można znaleźć potrzebnych danych w bazie haseł wzorcowych, po prostu należy wpisać potrzebną nazwę lub termin. Po kliknięciu na inne pole, wokół pól pojawi się pomarańczowa ramka i pojawi się pole wyboru z napisem „Potwierdź wstawienie nowej wartości”. Aby potwierdzić wybór należy w to pole kliknąć. W przypadku nazw osobowych pojawi się pole o nazwie **Daty życia**. Prosimy o w miarę możliwości wypełnienie tego pola, ponieważ ułatwia to Biuru Centralnemu Urzędowi utworzenie nowego rekordu hasła wzorcowego. Po zapisaniu, nazwa lub tytuł zostanie automatycznie dodany do bazy haseł wzorcowych. Patrz także: **Ogólne wytyczne na temat katalogowania** pod **Nazwami osobowymi**.  
   
 
-**Pola wymagane i walidacja** : Po rozpoczęciu nowego rekordu, najważniejsze pola będą już otwarte i gotowe do wypełnienia. Pola żółte należy wypełnić. Jeśli zapiszesz bez wypełnienia jednego z tych pól, wokół pól, które nadal wymagają uwagi, pojawi się czerwona ramka, a sekcje, w których te pola występują, będą czerwone na pasku bocznym po prawej stronie. W przypadku, gdy w wymaganym polu nie można wypełnić żadnych informacji, walidacja może zostać zastąpiona przez zaznaczenie pola na pasku bocznym.  
+  
+
+**Pola wymagane i walidacja**: Po rozpoczęciu nowego rekordu, najważniejsze pola będą już otwarte i gotowe do wypełnienia. Pola żółte należy wypełnić. Jeśli zapiszesz bez wypełnienia jednego z tych pól, wokół pól, które nadal wymagają uwagi, pojawi się czerwona ramka, a sekcje, w których te pola występują, będą czerwone na pasku bocznym po prawej stronie. W przypadku, gdy w wymaganym polu nie można wypełnić żadnych informacji, walidacja może zostać zastąpiona przez zaznaczenie pola na pasku bocznym.  
   
    
 **Działania w trybie podglądu/przeglądania**  
   
-**Stwórz** : Spowoduje przejście do strony wyboru szablonu, z której można utworzyć nowy rekord.  
+**Stwórz**: Spowoduje przejście do strony wyboru szablonu, z której można utworzyć nowy rekord.  
   
-**Wróć do listy** : Spowoduje powrót do pełnej listy wszystkich źródeł muzycznych.  
+**Wróć do listy**: Spowoduje powrót do pełnej listy wszystkich źródeł muzycznych.  
   
 **Edytuj:** Jeśli posiadają Państwo uprawnienia do edycji, wyświetli się ten przycisk edycji.  
   
-**Duplikuj** : W trybie podglądu rekord można zduplikować klikając na ten przycisk. W razie potrzeby można wypełnić pole **Rekord macierzysty (773)**, aby połączyć rekord z głównym rekordem kolekcji.
+**Duplikuj**: W trybie podglądu rekord można zduplikować klikając na ten przycisk. W razie potrzeby można wypełnić pole **Rekord macierzysty (773)**, aby połączyć rekord z głównym rekordem kolekcji.

@@ -35,7 +35,7 @@ Yes! Sometimes, for various reasons, it is not possible to access the source in 
 When doing so:  
 a. Include a **General note (500)** such as "Record based on description in YouV"   
 b. Link to the catalog in the field **Bibliographic reference (691)** or **External resource** (856) as appropriate   
-c. In the field Record origin (980), subfield **Material examined** , select **Material not examined**   
+c. In the field Record origin (980), subfield **Material examined**, select **Material not examined**   
   
 8. **Can I enter sources that are included in other RISM publications from the B series?**  
 Though we are gradually adding sources from the B series to Muscat, this is a long-term project. Records from B/I are in Muscat while B/II is in preparation. In the meantime, please feel free to enter sources from other B volumes. Include a citation to the original B volume in the field **Secondary literature (691)**.  
@@ -74,5 +74,5 @@ More information about the development of Muscat can be found on [RISM Switzerla
 
 **4. What are some of the features of Muscat?**
 
-- **Versioning** : Catalogers can view changes made to records
-- **VIAF** : Personal names can be imported through the [Virtual International Authority File (VIAF)](https://viaf.org/).
+- **Versioning**: Catalogers can view changes made to records
+- **VIAF**: Personal names can be imported through the [Virtual International Authority File (VIAF)](https://viaf.org/).

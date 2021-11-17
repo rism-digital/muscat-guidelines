@@ -1,4 +1,4 @@
-###  General abbreviations and terms
+##  General abbreviations and terms
 
 These are some general abbreviations and terms you might come across throughout Muscat. When writing in free-text fields, it is good practice to write out terms in full when possible for the benefit of other users who may not be familiar with these abbreviations.
 

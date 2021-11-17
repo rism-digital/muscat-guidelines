@@ -56,9 +56,9 @@ Textos confirmados ou derivados que não aparecem na fontes podem ser informados
 ·        Texto dos incipits literários na língua original de uma obra quando a fonte contém uma versão traduzida  
 ·        Textos de composições vocais que se tornaram o tema de uma variação ou a base de um arranjo instrumental
 
-**Caracteres não-latinos** : Se a sua fonte tem um incipit literário que usa letras ou caracteres não-latinos (alfabeto cirílico/grego/hebraico/coreano etc., caracteres chineses, etc.) insira o **Incipit literário** utilizando a letra original. Traduções ou transliterações são opcionais e podem ser acrescidas em campos adicionais de incipit literário. Adicione tradução que não esteja na fonte entre parênteses. Pode-se traduzir para qualquer um dos idiomas RISM.
+**Caracteres não-latinos**: Se a sua fonte tem um incipit literário que usa letras ou caracteres não-latinos (alfabeto cirílico/grego/hebraico/coreano etc., caracteres chineses, etc.) insira o **Incipit literário** utilizando a letra original. Traduções ou transliterações são opcionais e podem ser acrescidas em campos adicionais de incipit literário. Adicione tradução que não esteja na fonte entre parênteses. Pode-se traduzir para qualquer um dos idiomas RISM.
 
-**Regras Especiais para textos em Latim** : Insira texto em latim, tanto sacros como seculares. O campo é ligado ao arquivo **Título/Incipits literários**. Dentro do arquivo **Título/Incipits literários** , um termo precedido pelo indicador **t** significa que pode-se obter informação sobre o exato contexto litúrgico, versões variantes e outros assuntos. Se o incipit literário é usado como título uniforme, certifique-se de que a grafia é idêntica, mas lembre-se de que o texto latino em títulos uniformes só é inserido até a vírgula. Use colchetes para inserir textos latinos que não estão nomeados na fonte, mas foram determinados através de pesquisa.
+**Regras Especiais para textos em Latim**: Insira texto em latim, tanto sacros como seculares. O campo é ligado ao arquivo **Título/Incipits literários**. Dentro do arquivo **Título/Incipits literários**, um termo precedido pelo indicador **t** significa que pode-se obter informação sobre o exato contexto litúrgico, versões variantes e outros assuntos. Se o incipit literário é usado como título uniforme, certifique-se de que a grafia é idêntica, mas lembre-se de que o texto latino em títulos uniformes só é inserido até a vírgula. Use colchetes para inserir textos latinos que não estão nomeados na fonte, mas foram determinados através de pesquisa.
 
 Textos em latim padronizados geralmente correspondem aos textos do _Liber usualis_. No RISM, estes textos usualmente contém uma vírgula. Por exemplo, quando se procura pelo texto “Et in terra pax”, encontram-se cerca de uma dúzia de opções, mas apenas uma tem uma vírgula e esta fonte é utilizada 4.800 vezes na base de dados. Portanto é esta que queremos – presumindo que ela esteja de acordo com a sua fonte. Se o seu incipit literário é somente “Et in terra pax” então isto significa que sua fonte (1) contém somente estas palavras ou (2) continua de uma maneira diferente do _Liber usualis_. É claro que isso é possível, mas na maioria dos casos precisa-se da versão com a vírgula.
 
@@ -84,7 +84,7 @@ Insira os compassos como frações. As seguintes expressões também são permit
 
 **c** = tempo comum ou  tempus imperfectum cum prolatione imperfecta  
 **c/** = alla breve  
-**3** = proportio tripla; também **1** , **2** , etc.  
+**3** = proportio tripla; também **1**, **2**, etc.  
 **c3** = proportio tripla  
 **c3/2  
 c.** = tempus imperfectum cum prolatione perfecta  
@@ -180,7 +180,7 @@ _Exemplos para pausa de múltiplos compassos:_
 **8. Outros símbolos**  
 t = trinado (imediatamente em seguida à nota)  
 + = ligadura de prolongamento (imediatamente em seguida à nota; não se deve confundir com uma ligadura de expressão)   
-() = fermata/suspensão/pausa (somente uma nota ou pausa individual pode ser colocada entre parênteses; acidentes, indicações de altura, etc. devem estar fora dos parênteses; ver também **10. Ritmos especiais** , abaixo)
+() = fermata/suspensão/pausa (somente uma nota ou pausa individual pode ser colocada entre parênteses; acidentes, indicações de altura, etc. devem estar fora dos parênteses; ver também **10. Ritmos especiais**, abaixo)
 
 Não insira ligaduras de expressão.
 

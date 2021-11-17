@@ -13,9 +13,9 @@ Poniamo il caso di 1 partitura e 10 parti. Per catalogare in profondità, creare
 
 Il campo **Categoria di fonte, estensione (300 $a)** si compone di tre elementi: **oggetti, formato, estensione**. Nota che l’estensione non viene indicata per parti staccate, incluse parti intavolate; l’estensione delle parti staccate è riportata nel campo **Parti staccate (590)**. Utilizza la terminologia inglese riportata nell'elenco.
 
-**Oggetti** : Specifica il numero di oggetti posseduti. Utilizza **X** per indicare un numero ignoto di oggetti.
+**Oggetti**: Specifica il numero di oggetti posseduti. Utilizza **X** per indicare un numero ignoto di oggetti.
 
-**Formato** : Utilizza uno dei seguenti:  
+**Formato**: Utilizza uno dei seguenti:  
 Generici:
 
 - **part(s):** La notazione di una composizione per uno strumento o una voce indipendentemente dal numero di righi per sistema (pianoforte, organo, pianoforte a quattro mani)
@@ -34,16 +34,16 @@ Categorie speciali:
 - **choirbook(s)**: Un libro in cui tutte le voci di una composizione sono scritte separatamente in modo che il coro possa leggere la musica da un unico libro.
 - **sketch(es)**: Da utilizzare per schizzi se la categoria della fonte non può essere determinata in modo più preciso.  
 - **text document(s)**: Utilizza per libretti, trattati e ogni altro tipo di documento testuale. Una nota nelle **Osservazioni (500)** può essere necessaria.  
-- **prompt book** : Un documento (una partitura condensata o un documento testuale) utilizzato dal suggeritore per una composizione teatrale.  
+- **prompt book**: Un documento (una partitura condensata o un documento testuale) utilizzato dal suggeritore per una composizione teatrale.  
 - **table book(s)**: parti disposte sulla pagina in modo che tutti gli esecutori possono leggere dal libro seduti attorno a un tavolo.
 Altre categorie:  
 
-- **various** : Utilizza per notizie principali (schede madri) di raccolte se la raccolta comprende diverse categorie di fonti (come una partitura e una riduzione per tastiera).
-- **other** : Utilizza se non è valida nessuna delle categorie sopra elencate. In questi casi, aggiungi una nota esplicativa nel campo **Nota generale (500)**. Il numero di oggetti e l’estensione non sono obbligatori.  
+- **various**: Utilizza per notizie principali (schede madri) di raccolte se la raccolta comprende diverse categorie di fonti (come una partitura e una riduzione per tastiera).
+- **other**: Utilizza se non è valida nessuna delle categorie sopra elencate. In questi casi, aggiungi una nota esplicativa nel campo **Nota generale (500)**. Il numero di oggetti e l’estensione non sono obbligatori.  
 
 Se hai una parte-guida per il direttore, utilizza qui  **part**  o  **parts**  e inserisci  **conductor part**  nel campo  **Parti staccate****  (590).**
 
-**Estensione** : Inserisci il numero di pagine, carte o fascicoli. Scegli tra le seguenti abbreviature: **f** per carta, **p** per pagina, **lvs** (leaves) per foglio, e **fds** (folds) per fascicolo. Con questo sistema, un **lvs** corrisponde a due **f** , mentre un **fds** significa almeno un **lvs**.
+**Estensione**: Inserisci il numero di pagine, carte o fascicoli. Scegli tra le seguenti abbreviature: **f** per carta, **p** per pagina, **lvs** (leaves) per foglio, e **fds** (folds) per fascicolo. Con questo sistema, un **lvs** corrisponde a due **f**, mentre un **fds** significa almeno un **lvs**.
 
 Puoi anche indicare singole pagine o carte all’interno di una raccolta manoscritta. Utilizza un solo sistema di numerazione. Indica altre unità (ad esempio la conversione tra carte e pagine) nel campo **Osservazioni (500)**. Se indichi recto e verso, utilizza sia **r** che **v**. 
 
@@ -113,7 +113,7 @@ Ecco alcuni esempi:
 - vignetta
 **Dimensioni (300 $c)**
 
-Inserisci le dimensioni della fonte (altezza x larghezza in cm). Frazioni di centimetri possono essere indicate dopo un punto o dopo una virgola. Una seconda serie di misure può essere indicata tra parentesi. Se vi sono più di due dimensioni diverse, inserisci l'espressione inglese  **Different sizes**. Ulteriori specificazioni possono essere aggiunte nel campo **Nota generale (500)**. Indica le dimensioni di formato come **octavo** , **quarto** ecc. nel campo **Formato librario (340 $m)**. 
+Inserisci le dimensioni della fonte (altezza x larghezza in cm). Frazioni di centimetri possono essere indicate dopo un punto o dopo una virgola. Una seconda serie di misure può essere indicata tra parentesi. Se vi sono più di due dimensioni diverse, inserisci l'espressione inglese  **Different sizes**. Ulteriori specificazioni possono essere aggiunte nel campo **Nota generale (500)**. Indica le dimensioni di formato come **octavo**, **quarto** ecc. nel campo **Formato librario (340 $m)**. 
 
 _Esempi_:
 

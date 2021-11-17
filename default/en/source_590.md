@@ -24,14 +24,14 @@ If no further details of the part designations are available, please write the E
 
 Special cases:
 
-- Figured bass: If you have a figured bass, enter the instrument followed by **.fig** , such as **b.fig** , **bc.fig**
-  , **org.fig** , etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with
+- Figured bass: If you have a figured bass, enter the instrument followed by **.fig**, such as **b.fig**, **bc.fig**
+  , **org.fig**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with
   related fields).
 - Instrument not on the RISM instrument abbreviation list: write out the instrument in full.
-- Unusual instruments, designations, or tunings (such as **cor in D|x** ) may be written out in full; however, in the
+- Unusual instruments, designations, or tunings (such as **cor in D|x**) may be written out in full; however, in the
   field **Total scoring (594)**, try to standardize the instrument to RISM's instrument abbreviation list if possible (
-  such as **cor in E|b** ).
-- Keyboard part with text: Enter using English **pf with text** (or **org with text** , **keyb with text** , etc.). The
+  such as **cor in E|b**).
+- Keyboard part with text: Enter using English **pf with text** (or **org with text**, **keyb with text**, etc.). The
   same thing is entered in the incipit field **Voice/instrument (031 $m)**.
 
 #### Extent (parts) (590 $b)
@@ -44,12 +44,12 @@ abbreviations:
 - **lvs** for leaves (sheets)
 - **fds** for folds (gatherings)
 
-In this system, **lvs** means two folded **f** , whereas **fds** means at least one **lvs**. Indicate other units (such
+In this system, **lvs** means two folded **f**, whereas **fds** means at least one **lvs**. Indicate other units (such
 as the conversion from folios to pages) in the field**General note (500)**.
 
 You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**.
 
-**Examples** : There are two different ways list the parts.
+**Examples**: There are two different ways list the parts.
 
 *Example 1*: One instrumental family per line with a comma separating the instruments. The field must be repeated for
 each family.

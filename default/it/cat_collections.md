@@ -116,7 +116,7 @@ Il primo soggetto dev'essere **Compilations**  e/o  **Pasticcios**. Il secondo d
 
 **Descrizione sommaria****  (520)**  
 Usa questo campo per descrivere in generale la natura della fonte.  
-_Esempio_ :  
+_Esempio_:  
 Atto I di Amadei, atto II di Bononcini, ouverture e atto III di Händel
 
 **Titolo uniforme alternativo****  (730)**  
@@ -134,7 +134,7 @@ Aggiungi sempre una nota esplicativa, specialmente se sono coinvolte opere di pi
 **Nota sull'esecuzione****  (518)**  
 Aggiungi una nota soltanto di eventuali esecuzioni dell'opera compilativa.
 
-**Esempi di opere compilative** :
+**Esempi di opere compilative**:
 
 230001408: Una cantata creata a partire da arie d'opera con recitativi di nuova composizione
 
@@ -223,7 +223,7 @@ Le regole consuete vanno applicate creando la scheda madre e la scheda per la co
 
 **Titolo uniforme alternativo****  (730) **: Titolo dell'opera più vasta, seguito dal sottocampo** Inserts**
 
-**Soggetto (650)**: Inserisci tre soggetti: **Insertions** , il genere dell'inserto e il genere dell'opera più vasta
+**Soggetto (650)**: Inserisci tre soggetti: **Insertions**, il genere dell'inserto e il genere dell'opera più vasta
 
 **Fonte correlata (787)**: Indica l'opera più vasta all'interno della quale questo brano è stato inserito e seleziona il tipo di relazione ** Insert in**. Aggiungi un breve commento nel campo **Note ** per spiegare la natura dell'inserto, ad esempio dove è collocato all'interno dell'opera più vasta.
 
@@ -293,8 +293,8 @@ Catalogando un trattato, il campo  **Categoria di fonte, estensione**  **(300 $a
 
 Fra i soggetti adeguati per un trattato ricordiamo:
 
-- **Treatises** : trattati
-- **Writings** : scritti
+- **Treatises**: trattati
+- **Writings**: scritti
 - **Music theory**
 - **Theory of harmony**
 - **Tutors (inst.)**: comprende metodi e scuole
@@ -316,7 +316,7 @@ Nel campo **Titolo uniforme (240):**
 
   - Seleziona  **Arrangiamento**  nel sottocampo  **Arrangiamento**.
 
-  - Sotto **Organico sintetico** , inserisci l'organico dell'arrangiamento, ad esempio  **pf**  o  **V, pf**. Non inserire l'organico della composizione originale.
+  - Sotto **Organico sintetico**, inserisci l'organico dell'arrangiamento, ad esempio  **pf**  o  **V, pf**. Non inserire l'organico della composizione originale.
 
 - Nel campo **Organico (594)**, inserisci l'organico completo dell'arrangiamento. Non inserire l'organico della composizione originale.
 

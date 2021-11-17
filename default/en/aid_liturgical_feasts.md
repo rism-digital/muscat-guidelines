@@ -1,11 +1,13 @@
-Liturgical feasts follow the "Calendarium Romanum generale" which was issued before the Second Vatican Council. This is the reference for the sources in the Swiss RISM database.
+
+ outdated123
+ Liturgical feasts follow the "Calendarium Romanum generale" which was issued before the Second Vatican Council. This is the reference for the sources in the Swiss RISM database.
 
 [A](#aid_liturgical_feasts_A) | [B](#aid_liturgical_feasts_B) | [C](#aid_liturgical_feasts_C) | [D](#aid_liturgical_feasts_D) | [E](#aid_liturgical_feasts_E) | [F](#aid_liturgical_feasts_F) | [G](#aid_liturgical_feasts_G) | [H](#aid_liturgical_feasts_H) | [I](#aid_liturgical_feasts_I) | [J](#aid_liturgical_feasts_J) | [L](#aid_liturgical_feasts_L) | [M](#aid_liturgical_feasts_M) | [N](#aid_liturgical_feasts_N) | [O](#aid_liturgical_feasts_O) | [P](#aid_liturgical_feasts_P) | [Q](#aid_liturgical_feasts_Q) | [R](#aid_liturgical_feasts_R) | [S](#aid_liturgical_feasts_S) | [T](#aid_liturgical_feasts_T) | [U](#aid_liturgical_feasts_U) | [V](#aid_liturgical_feasts_V) | [W](#aid_liturgical_feasts_W) | [X-Z](#aid_liturgical_feasts_X)
 
  | **Latin** | **English** | **Feast day following the pre-Vatican II "Calendarium Romanum generale"** |
  | |
  | |
-### A 
+### A
  |
  | Abachum Martyris | Abachum, martyr | 19 January |
  | Abdon et Sennen Martyrum | Abdon and Sennen, martyrs | 30 July |
@@ -55,8 +57,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Augustini Cantuarensis Episcopi Confessoris | Augustine, bishop of Canterbury, confessor | 28 May |
 | Augustini Episcopi Ecclesiae Doctoris | Augustine, bishop and doctor of the church | 28 October |
 | |
-| 
-### B 
+|
+### B
  |
 | Bacchi Martyris | Bacchus, martyr | 7 October |
 | Barbarae Virginis Martyris | Barbara virgin and martyr | 4 December |
@@ -82,8 +84,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Bonifatii Martyris | Boniface, martyr | 14 May |
 | Brunonis Confessoris | Bruno, confessor | 6 October |
 | |
-| 
-### C 
+|
+### C
  |
 | Caeciliae Virginis Martyris | Cecilia, virgin and martyr | 22 November |
 | Cajetani Confessoris | Cajetan, confessor | 7 August |
@@ -163,8 +165,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Cyrilli et Methodii Pontificis Confessorum | Cyrill and Methodius, bishops and confessors | 7 July |
 | Cyrini Martyris | Quirinus, martyr | 12 June |
 | |
-| 
-### D 
+|
+### D
  |
 | Damasi I. Papae Confessoris | Damasus I, pope and confessor | 11 December |
 | De Apostolis | Apostles | |
@@ -205,8 +207,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Dorotheae Virginis Martyris | Dorothea, virgin and martyr | 6 February |
 | Duodecim Fratrum Martyris | Holy Twelve Brothers martyrs | 1 September |
 | |
-| 
-### E 
+|
+### E
  |
 | Edmundi Episcopi | Edmund, archbishop of Abingdon | 16 November |
 | Eduardi Regis Confessoris | Edward, king and confessor | 13 October |
@@ -238,8 +240,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Evaristi Papae Martyris | Evaristus, pope and martyr | 26 October |
 | Eventii Martyris | Eventius, martyr | 3 May |
 | |
-| 
-### F 
+|
+### F
  |
 | Fabiani Papae et Sebastiani Martyrum | Fabian, pope, and Sebastian, martyr | 20 January |
 | Familiae Sanctae Jesu, Mariae, Joseph | Feast of the Holy Family Jesus, Mary and Joseph | Sunday within the octave of Epiphany |
@@ -268,8 +270,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Francisci Seraphici | Francis of Assisi, confessor | 4 October |
 | Francisci Xaverii Confessoris | Francis Xavier, confessor | 3 December |
 | |
-| 
-### G 
+|
+### G
  |
 | Gabrielis a Virgine Perdolente Confessoris | Gabriel of Our Lady of Sorrows, confessor | 27 or 28 February |
 | Gabrielis Archangeli | Gabriel, archangel | 24 March |
@@ -286,8 +288,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Gregorii VII. Papae Confessoris | Gregory VII, pope and confessor | 25 Mai |
 | Gulielmis Abbatis | William, abbot | 25 June |
 | |
-| 
-### H 
+|
+### H
  |
 | Hadriani Martyris | Hadrian, martyr | 8 September |
 | Hebdomada sancta | Holy Week | |
@@ -309,8 +311,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Hyacinthi et Proti Martyrum | Hyacinth and Protus, martyrs | 11 September |
 | Hygini Papae et Martyris | Hyginus, pope and martyr | 11 January |
 | |
-| 
-### I 
+|
+### I
  |
 | Ignatii Confessoris | Ignatius / Ignaz, confessor | 21 July |
 | Ignatii Episcopi Martyris | Ignatius, bishop and martyr | 1 February |
@@ -321,8 +323,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Irenaei Episcopi Martyris | Irenaeus, bishop and martyr | 28 June |
 | Isidori Episcopi Ecclesiae Doctoris | Isidore, bishop and doctor of the church | 4 April |
 | |
-| 
-### J 
+|
+### J
  |
 | Jacobi, Apostoli | James (the elder), apostle | 25 July |
 | Jacobi Apostoli, Vigilia | Vigil of apostle James | 24 Juli |
@@ -373,8 +375,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Justini Martyris | Justin, martyr | 14 April |
 | Juvenalis Episcopi Confessoris | Juvenal, bishop and confessor | 3 May |
 | |
-| 
-### L 
+|
+### L
  |
 | Largi Martyris | Largus, martyr | 8 August |
 | Laurentii Justiniani Episcopi Confessoris | Lorenzo Giustiniani, bishop and confessor | 5 September |
@@ -393,8 +395,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Ludovici Beltrán Confessoris | Louis Bertrand, confessor | 9 October |
 | Ludovici Regis Confessoris | Louis, king and confessor | 25 August |
 | |
-| 
-### M 
+|
+### M
  |
 | Machabaeorum Martyrum | Holy Maccabean Martyrs | 1 August |
 | Marcelli I. Papae Martyris | Marcellus I, pope and martyr | 16 January |
@@ -453,8 +455,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Monachorum | Monks | |
 | Monicae Viduae | Monica, widow | 4 May |
 | |
-| 
-### N 
+|
+### N
  |
 | Naboris Martyris | Nabor, martyr | 12 June |
 | Nativitas Domini | Christmas, Nativity of the Lord | 25 December |
@@ -472,8 +474,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Notkeri | Notker the Stammerer | 6 April |
 | Nymphae Virginis | Nympha, virgin | 10 November |
 | |
-| 
-### O 
+|
+### O
  |
 | Oculi, Dominica | Sunday Oculi, 3rd Sunday in Lent | |
 | Omnium Monachorum | All monks | |
@@ -481,8 +483,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Onuphrii Eremiti | Onuphrius, hermit | 12 June |
 | Othmari Abbatis | Othmar, abbot | 16 November |
 | |
-| 
-### P 
+|
+### P
  |
 | Palmis, Dominica in | Palm Sunday | |
 | Pancratii Martyris | Pancras, martyr | 12 May |
@@ -584,8 +586,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Proti et Hyacinthi Martyrum | Protus and Hyacinth, martyrs | 11 September |
 | Pudentianae Virginis | Pudentiana, virgin | 19 May |
 | |
-| 
-### Q 
+|
+### Q
  |
 | Quadragesima | Lent | |
 | Quadragesima, Dominica 1. | 1st Sunday in Lent | |
@@ -597,8 +599,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Quadragesima, Feria 6. | Friday in Lent | |
 | Quinquagesima | Sunday Quinquagesima | |
 | |
-| 
-### R 
+|
+### R
  |
 | Raphaelis Archangeli | Raphael, archangel | 24 October |
 | Raymundi de Pennafort Confessoris | Raimond of Penafort, confessor | 23 January |
@@ -616,8 +618,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Rufinae et Secundae Virginum Martyrum | Rufina and Secunda, virgins and martyrs | 10 July |
 | Rustici Martyris | Rusticus, martyr | 9 October |
 | |
-| 
-### S 
+|
+### S
  |
 | Sabbae Abbatis | Sabbas, abbot | 5 December |
 | Sabbato Sancto | Holy Saturday | |
@@ -646,8 +648,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Susannae et Tiburtii Martyrum | Susanna and Tiburtius, martyrs | 11 August |
 | Symphoriani Martyris | Symphorianus, martyr | 22 August |
 | |
-| 
-### T 
+|
+### T
  |
 | Tempore Paschali, Dominicae | Sundays in Eastertide | |
 | Tempus Paschale | Eastertide | |
@@ -693,8 +695,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Trinitas, Dominica 24. post | 24th Sunday after Trinity | |
 | Tryphonis Martyris | Tryphon, martyr | 10 November |
 | |
-| 
-### U 
+|
+### U
  |
 | Ubaldi Episcopi Confessoris | Ubald of Gubbio, bishop and confessor | 16 May |
 | Uldarici Episcopi | Ulrich of Augsburg, bishop | 4 July |
@@ -702,8 +704,8 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Ursi, Victoris et Sociorum Martyrum | Urs, Victor and companions, martyrs | 30 September |
 | Ursulae et Sociorum Virginum Martyrum | Ursula and companions, martyrs | 21 October |
 | |
-| 
-### V 
+|
+### V
  |
 | Valentini Presbyteri Martyris | Valentine, priest and martyr | 14 February |
 | Valeriani Martyris | Valerian, martyr | 14 April |
@@ -718,16 +720,16 @@ Liturgical feasts follow the "Calendarium Romanum generale" which was issued bef
 | Vitalis Martyris | Vitalis, martyr | 4 November |
 | Viti et Sociorum Martyrum | Vitus and companions, martyrs | 15 June |
 | |
-| 
-### W 
+|
+### W
  |
 | Walburgae Abbatissae | Walburga, abbess | 25 February |
 | Wenceslai Ducis Martyris | Wenceslaus, martyr | 28 September |
 | Wicterpi Episcopi | Wicterp of Augsburg, bishop | 18 April |
 | Wilibaldi Episcopi | Willibald, bishop | 7 July |
 | |
-| 
-### X-Z 
+|
+### X-Z
  |
 | Xysti II et Sociorum Martyrum | Xystus II and companions, martyrs | 6 August |
 | Zephyrini Papae Martyris | Zephyrinus, pope and martyr | 26 August |

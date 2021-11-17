@@ -33,7 +33,7 @@ Puoi osservare una modifica di sistema se viene modificato uno dei campi indiciz
 Sì! A volte, per vari motivi, non è possibile avere accesso a una fonte ed è disponibile soltanto la sua descrizione in un catalogo stampato, in un catalogo tematico o in un catalogo di biblioteca online. Puoi usare una simile descrizione come base per la tua notizia. Se decidi di farlo:  
 a. aggiungi una **Nota generale (500)** come "Scheda basata sulla descrizione in YouV"   
 b. istituisci il relativo collegamento nel campo **Riferimenti bibliografici (691)** oppure **Localizzazione e accesso elettronico (856)**, a seconda dei casi  
-c. nel campo **Origine della scheda (980)**, sottocampo **Materiale esaminato** , seleziona "Materiale non esaminato".  
+c. nel campo **Origine della scheda (980)**, sottocampo **Materiale esaminato**, seleziona "Materiale non esaminato".  
   
 8. **Posso inserire fonti che sono incluse in altre pubblicazioni RISM della serie B? **  
 Anche se stiamo gradualmente aggiungendo le fonti della serie B a Muscat, questo è un progetto a lungo termine. I documenti di B/I sono in Muscat mentre B/II è in preparazione. Nel frattempo, sentiti libero di inserire fonti da altri volumi B. Includi una citazione del volume B originale nel campo **Riferimenti bibiografici (691)**.  
@@ -71,5 +71,5 @@ Puoi trovare ulteriori informazioni sullo sviluppo di Musicat sul sito del [RISM
 
 **4. Cosa caratterizza Muscat, ad esempio?**
 
-- **Versionamento** : Chi cataloga può vedere i cambiamenti fatti alle schede.
-- **VIAF** : I nomi di persona possono essere importati attraverso il [Virtual International Authority File (VIAF)](https://viaf.org/). 
+- **Versionamento**: Chi cataloga può vedere i cambiamenti fatti alle schede.
+- **VIAF**: I nomi di persona possono essere importati attraverso il [Virtual International Authority File (VIAF)](https://viaf.org/). 

@@ -8,7 +8,7 @@ Dieser Teil beschreibt den Titel in normierter Form, damit unterschiedlich benan
 
 **Pflichtfeld**
 
-Fragliche Titelansetzungen werden am Ende mit einem Fragezeichen gekennzeichnet (beispielsweise **Die Zauberflöte?** ). Eckige und runde Klammern sind nicht zulässig. Alternative Titel werden bei **Alternativer Einordnungstitel (730)** eingetragen.
+Fragliche Titelansetzungen werden am Ende mit einem Fragezeichen gekennzeichnet (beispielsweise **Die Zauberflöte?**). Eckige und runde Klammern sind nicht zulässig. Alternative Titel werden bei **Alternativer Einordnungstitel (730)** eingetragen.
 
 Als Einordnungstitel kommen in Frage:
 
@@ -47,7 +47,7 @@ Der Mond ist aufgegangen
  Gloria [mit dem Textincipit: Gloria, in excelsis Deo et in terra pax]
 
 **3. Gattungsbezeichnungen**  
-Kommen weder Individualtitel noch Textincipit als Einordnungstitel in Frage, wird hier die entsprechende Gattung eingetragen. Der Gattungsbegriff als Einordnungstitel wird in der Regel englischsprachig und im Plural angesetzt (Beispiel: **Operas** ). Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem **Schlagwort (650)**. Bitte benutzen Sie die Arbeitshilfe **Einordnungstitel - Schlagworte** im Anhang der **Richtlinien**.
+Kommen weder Individualtitel noch Textincipit als Einordnungstitel in Frage, wird hier die entsprechende Gattung eingetragen. Der Gattungsbegriff als Einordnungstitel wird in der Regel englischsprachig und im Plural angesetzt (Beispiel: **Operas**). Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem **Schlagwort (650)**. Bitte benutzen Sie die Arbeitshilfe **Einordnungstitel - Schlagworte** im Anhang der **Richtlinien**.
 
 _Beispiele:_  
 Symphonies  
@@ -67,20 +67,20 @@ Lento
 
 **Besondere Regelungen:**
 
-- **Collections** : für den Einordnungstitel gelten für Sammlungen (Collections), Konvolute und Variationen. In diesen Fällen wird dem Gattungsbegriff eine arabische Zahl vorangestellt, die die Anzahl der zugehörigen Werke bezeichnet.  
+- **Collections**: für den Einordnungstitel gelten für Sammlungen (Collections), Konvolute und Variationen. In diesen Fällen wird dem Gattungsbegriff eine arabische Zahl vorangestellt, die die Anzahl der zugehörigen Werke bezeichnet.  
 _Beispiele:_  
 25 Arias  
 3 Instrumental pieces
 
-- **Konvolute** : Geben Sie eine Zahl entsprechend der Nummer der Einheiten mit dem Begriff "Items" an.  
+- **Konvolute**: Geben Sie eine Zahl entsprechend der Nummer der Einheiten mit dem Begriff "Items" an.  
 _Beispiel:_  
 11 Items
 
-- **Variationen** : Geben Sie hier **Variations** als Einordnungstitel ein. Geben Sie im Feld **Alternativer Titel (730)** das Werk ein, auf dem die Variation basiert, und wählen Sie **Variationen** unter **Bearbeitung** aus.
+- **Variationen**: Geben Sie hier **Variations** als Einordnungstitel ein. Geben Sie im Feld **Alternativer Titel (730)** das Werk ein, auf dem die Variation basiert, und wählen Sie **Variationen** unter **Bearbeitung** aus.
 
-- **Insertions** : Tragen Sie hier das Textincipit des eingefügten Stückes als Einordnungstitel ein. Geben Sie im Feld **Alternativer Titel (730)** den Namen der Oper oder eines größeren Werks ein und wählen Sie **Insertions** als zusätzliches **Schlagwort**.
+- **Insertions**: Tragen Sie hier das Textincipit des eingefügten Stückes als Einordnungstitel ein. Geben Sie im Feld **Alternativer Titel (730)** den Namen der Oper oder eines größeren Werks ein und wählen Sie **Insertions** als zusätzliches **Schlagwort**.
 
-- **Nicht-lateinische Schriften** : Wenn Ihre Quelle einen Titel in nicht-lateinischen Buchstaben oder Zeichen aufweist (griechisches / hebräisches / koreanische / kyrillisches etc. Alphabet, chinesische Zeichen etc.) wird dieser in der ursprünglichen Schrift im **Einordnungstitel** eingetragen. Übersetzungen oder Transliterierungen sind fakultativ und werden im Feld **Alternativer Titel (730)** gemacht.   
+- **Nicht-lateinische Schriften**: Wenn Ihre Quelle einen Titel in nicht-lateinischen Buchstaben oder Zeichen aufweist (griechisches / hebräisches / koreanische / kyrillisches etc. Alphabet, chinesische Zeichen etc.) wird dieser in der ursprünglichen Schrift im **Einordnungstitel** eingetragen. Übersetzungen oder Transliterierungen sind fakultativ und werden im Feld **Alternativer Titel (730)** gemacht.   
   
 
 #### Bearbeitung (240 $o)
@@ -94,9 +94,9 @@ Bearbeitungen sind ebenfalls zu unterscheiden von eigenständigen Werken (freie 
 
 Hier wird ein Vermerk zu besonderen Ausgabeformen gemacht. Folgende Angaben sind möglich:
 
-- **Ausschnitte** : Auszüge eines Werkes
-- **Fragmente** : Fragmente
-- **Skizzen** : Skizzen zu einem Werk
+- **Ausschnitte**: Auszüge eines Werkes
+- **Fragmente**: Fragmente
+- **Skizzen**: Skizzen zu einem Werk
 
 #### Tonart (240 $r)
 **Pflichtfeld, wenn die Tonart eindeutig bestimmt werden kann.**  

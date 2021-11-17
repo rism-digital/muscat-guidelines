@@ -48,7 +48,7 @@ Zusätzlich ermittelte Texte, die nicht in der Quelle stehen, können hier in ec
 
 - Texte von Vokalkompositionen, die Thema einer Variation oder Vorlage einer instrumentalen Bearbeitung wurden
   
-**Gesonderte Regeln für lateinische Texte** : Geben Sie sowohl geistliche als auch weltliche lateinische Texte ein. Das Feld ist mit der Normdatei **Titel/Textincipit** verknüpft. Innerhalb des Indexes (Indikator 't') können Sie sich über den genauen liturgischen Kontext, Varianten und anderes in formieren. Wird für den 'Einordnungstitel' das Textincipit benutzt, so wird muss auf genaue Übereinstimmung der Schreibweise geachtet werden. Der lateinische Text wird im Einordnungstitel allerdings nur bis zu dem Trennungszeichen, einem Komma, angegeben. Lateinische Texte, die nicht in der Quelle genannt sind, sondern recherchiert wurden, werden in eckigen Klammern eingetragen.   
+**Gesonderte Regeln für lateinische Texte**: Geben Sie sowohl geistliche als auch weltliche lateinische Texte ein. Das Feld ist mit der Normdatei **Titel/Textincipit** verknüpft. Innerhalb des Indexes (Indikator 't') können Sie sich über den genauen liturgischen Kontext, Varianten und anderes in formieren. Wird für den 'Einordnungstitel' das Textincipit benutzt, so wird muss auf genaue Übereinstimmung der Schreibweise geachtet werden. Der lateinische Text wird im Einordnungstitel allerdings nur bis zu dem Trennungszeichen, einem Komma, angegeben. Lateinische Texte, die nicht in der Quelle genannt sind, sondern recherchiert wurden, werden in eckigen Klammern eingetragen.   
   
 
 #### Tonart, Modus (031 $r)
@@ -62,7 +62,7 @@ Hier wird das zum Incipit gehörende Taktmaß angegeben. Hat das Incipit kein Me
 Erlaubt sind auch:  
 **c** = tempus imperfectum cum prolatione imperfecta  
 **c/** = alla breve  
-**3 =** proportio tripla; auch **1, 2** , etc.  
+**3 =** proportio tripla; auch **1, 2**, etc.  
 **c3 =** proportio tripla  
 **c3/2  
 c. =** tempus imperfectum cum prolatione perfecta  
@@ -82,7 +82,7 @@ Wählen Sie einen Schlüssel aus der Auswahlliste aus. Die erste Stelle bezeichn
 
 #### Globalvorzeichen (031 $n)
 
-Kreuztonarten werden mit **x** , B-Tonarten mit **b** gekennzeichnet. Anschließend folgen die erhöhten bzw. erniedrigten Töne. Fehlende Globalvorzeichen werden in eckigen Klammern ergänzt. Sind keine Globalvorzeichen vorhanden, bleibt das Feld leer.
+Kreuztonarten werden mit **x**, B-Tonarten mit **b** gekennzeichnet. Anschließend folgen die erhöhten bzw. erniedrigten Töne. Fehlende Globalvorzeichen werden in eckigen Klammern ergänzt. Sind keine Globalvorzeichen vorhanden, bleibt das Feld leer.
 
 Beispiele:  
 xF = Ton F wird erhöht =\> G-Dur bzw. e-Moll  

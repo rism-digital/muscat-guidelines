@@ -1,4 +1,6 @@
-### Related personal name (500 $a)
+### Related personal name (500)
+
+#### Related personal name (500 $a)
 
 This field describes familial relationships. Enter the personal name that stands in relation to the person in question.
 This field is linked to the **Personal names** authority file.
@@ -16,6 +18,6 @@ Select from the following:
 - **father of**
 - **married to**
 - **mother of**
-- **related to** : a different relationship, such as an aunt, uncle, cousin, etc.
+- **related to**: a different relationship, such as an aunt, uncle, cousin, etc.
 - **sister of**
-- **other** : select if the relationship is not familial
+- **other**: select if the relationship is not familial

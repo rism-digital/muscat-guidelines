@@ -1,6 +1,6 @@
 #### Dodatkowa osoba (700)  
 
-Pole pojawia się dla źródeł dwukrotnie: w sekcji **Ludzie i instytucje** , w celu podania wszystkich dodatkowych osób zaangażowanych w dane źródło, oraz w sekcji **Opis materiału** w razie chęci powiązania dodatkowych nazw z określonymi grupami materiałów, szczególnie przy tworzeniu wielu grup materiałów.
+Pole pojawia się dla źródeł dwukrotnie: w sekcji **Ludzie i instytucje**, w celu podania wszystkich dodatkowych osób zaangażowanych w dane źródło, oraz w sekcji **Opis materiału** w razie chęci powiązania dodatkowych nazw z określonymi grupami materiałów, szczególnie przy tworzeniu wielu grup materiałów.
 
 #### Imię i nazwisko (700 $a) 
 

@@ -40,7 +40,7 @@ error (such as a typographical error), enter the correct date in this field.
 For manuscripts: Always try to give a date, even if it is approximate. If you have a month, day, and year, write it in
 this form: YYYY-MM-DD.
 
-You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before** ,
+You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before**,
 and **after**. Try to indicate the date as exactly as possible. If you are uncertain, use a date range that corresponds
 to a non-specific period, such as the eighteenth century or the end of the seventeenth century. See the table below.
 
@@ -69,20 +69,20 @@ _Examples:_
 For non-specific periods, enter appropriate years based on the following chart:
 
 
-| **For the period** | **Enter this range of dates** | 
-| --- | --- | 
-| beginning of the 18th century | 1700-1710 | 
-| middle of the 18th century | 1740-1760 | 
-| end of the 18th century | 1790-1799 | 
-| 18th century, 1st third | 1700-1732 | 
-| 18th century, 2nd third | 1733-1765 | 
-| 18th century, 3rd third | 1766-1799 | 
-| 18th century, 1st quarter | 1700-1724 | 
-| 18th century, 2nd quarter | 1725-1749 | 
-| 18th century, 3rd quarter | 1750-1774 | 
-| 18th century, 4th quarter | 1775-1799 | 
-| 18th century, 1st half | 1700-1749 | 
-| 18th century, 2nd half | 1750-1799 | 
+| **For the period** | **Enter this range of dates** |
+| --- | --- |
+| beginning of the 18th century | 1700-1710 |
+| middle of the 18th century | 1740-1760 |
+| end of the 18th century | 1790-1799 |
+| 18th century, 1st third | 1700-1732 |
+| 18th century, 2nd third | 1733-1765 |
+| 18th century, 3rd third | 1766-1799 |
+| 18th century, 1st quarter | 1700-1724 |
+| 18th century, 2nd quarter | 1725-1749 |
+| 18th century, 3rd quarter | 1750-1774 |
+| 18th century, 4th quarter | 1775-1799 |
+| 18th century, 1st half | 1700-1749 |
+| 18th century, 2nd half | 1750-1799 |
 | 18th century | 1700-1799 |
 
 #### Location of printer (260 $e)

@@ -33,7 +33,7 @@ Puede que vea una edición por parte del sistema en los casos en que uno de los 
 Si lo hace:  
 a. Incluya una **Nota general (500)** del tipo "Registro basado en la descripción en YouV [=nombre del catálogo]".   
 b. Haga un enlace al catálogo correspondiente en el campo **Referencia bibliográfica (691)** o **Recurso externo (856),** según proceda.  
-c. En el campo Origen del registro (980), subcampo **Material examinado** , seleccione **Material no examinado **  
+c. En el campo Origen del registro (980), subcampo **Material examinado**, seleccione **Material no examinado **  
   
 8. **¿Puedo registrar fuentes incluidas en otras publicaciones de la serie B de RISM?**  
 Aunque estamos añadiendo gradualmente las fuentes de la serie B a Muscat, se trata de un proyecto a largo plazo. Los registros de B/I están en Muscat mientras B/II está en preparación. Mientras tanto, por favor siéntase libre de introducir fuentes de los otros volúmenes B. Incluya una cita del volumen B original en el campo **Bibliografía secundaria (691).**  

@@ -34,32 +34,32 @@ Wählen Sie das entsprechende Buchformat aus:
 
 - 
 
-**2°** : Folio, fo
+**2°**: Folio, fo
 
 - 
 
-**4°** : Quart, 4to
+**4°**: Quart, 4to
 
 - 
 
-**8°** : Oktav, 8vo
+**8°**: Oktav, 8vo
 
 - 
 
-**12°** : Duodez, 12mo
+**12°**: Duodez, 12mo
 
 - 
 
-**16°** : Sedez, 16mo
+**16°**: Sedez, 16mo
 
 - 
 
-**18°** : Oktodez, 18mo
+**18°**: Oktodez, 18mo
 
 - 
 
-**20°** : Vigesimo, 20mo
+**20°**: Vigesimo, 20mo
 
 - 
 
-**24°** : Vigesimoquart, 24mo
+**24°**: Vigesimoquart, 24mo

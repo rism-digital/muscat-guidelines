@@ -31,7 +31,7 @@ _Przykład_
 https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/  
   
 ](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)*
-- ** Manifest IIIF** : Podlinkowany obiekt jest czytelny dla formatu JSON i obsługiwany przez viewer np. diva.js. Dokument jest osadzony bezpośrednio na stronie internetowej. W wielu przypadkach w linku pojawia się określenie „manifest”, „iiif” lub podobne.  
+- ** Manifest IIIF**: Podlinkowany obiekt jest czytelny dla formatu JSON i obsługiwany przez viewer np. diva.js. Dokument jest osadzony bezpośrednio na stronie internetowej. W wielu przypadkach w linku pojawia się określenie „manifest”, „iiif” lub podobne.  
   
 _Przykład_  
   :*[  

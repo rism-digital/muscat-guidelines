@@ -18,7 +18,7 @@ Należy wybrać spośród następujących elementów:
 
 - **Kraj (aktywny**  
 - **Miejsce (aktywne)**: Zazwyczaj, miasto, miejscowość itd.  
-- **Miejsce urodzenia** : Zazwyczaj, miasto, miejscowość itd. 
-- **Miejsce śmierci** : Zazwyczaj, miasto, miejscowość itd.  
-- **Miejsce pochodzenia** : Należy stosować, gdy nie ma dostępnych innych informacji na temat miejsca urodzenia.  
+- **Miejsce urodzenia**: Zazwyczaj, miasto, miejscowość itd. 
+- **Miejsce śmierci**: Zazwyczaj, miasto, miejscowość itd.  
+- **Miejsce pochodzenia**: Należy stosować, gdy nie ma dostępnych innych informacji na temat miejsca urodzenia.  
 - **Region (aktywny)**: Przykłady: Niemcy południowe, Hesja, Górny Środkowy Zachód

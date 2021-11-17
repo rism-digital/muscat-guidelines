@@ -7,7 +7,7 @@ Podczas oglądania obrazu,  po prawej stronie można znaleźć następujące opc
 
 - **Utwórz**
 - **Powróć do listy**  
-- **Edytuj** : Pozwala na zmianę nazwy lub zamianę pliku.
-- **Podaj link źródła** : Pozwala na podanie linku do obrazu istniejącego źródła, np. dołączenie tego samego znaku wodnego do kilku źródeł.
-- **Podaj link osoby** : Pozwala na podanie linku do hasła wzorcowego osoby, np. wyświetlenie próbek pisma ręcznego.   
+- **Edytuj**: Pozwala na zmianę nazwy lub zamianę pliku.
+- **Podaj link źródła**: Pozwala na podanie linku do obrazu istniejącego źródła, np. dołączenie tego samego znaku wodnego do kilku źródeł.
+- **Podaj link osoby**: Pozwala na podanie linku do hasła wzorcowego osoby, np. wyświetlenie próbek pisma ręcznego.   
 - **Podaj link instytucji:** Pozwala na podaniu linku do hasła wzorcowego instytucji, np. zdjęcie budynku. 

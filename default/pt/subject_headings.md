@@ -8,7 +8,7 @@ Depois de salvar o registro, vá para o registro de autoridade para cabeçalhos 
 
 **Termos alternativos:** por favor insira os termos alternativos, cada um em uma linha separada (pressionando Enter). Aqui pode-se inserir qualquer termo usando outros sistemas alfabéticos, assim como sinônimos, variações, outras grafias, etc.
 
-**Notas** : por favor forneça uma descrição curta em inglês, alemão ou francês de que tipo de termo se trata. Então sinta-se livre para escrever em seu idioma nativo, para benefício dos contribuidores do RISM em sua área, qualquer descrição ou diretrizes que queira juntar ao termo: como aplicá-lo, quaisquer conexões regionais, referências a literatura secundária, etc.
+**Notas**: por favor forneça uma descrição curta em inglês, alemão ou francês de que tipo de termo se trata. Então sinta-se livre para escrever em seu idioma nativo, para benefício dos contribuidores do RISM em sua área, qualquer descrição ou diretrizes que queira juntar ao termo: como aplicá-lo, quaisquer conexões regionais, referências a literatura secundária, etc.
 
 Como um exemplo, ver **Gigas (Gigues)**. Termos em inglês, francês e alemão são fornecidos, juntamente com grafias alternativas. O campo “Notas” explica a variedade de gigas que existem e quando e onde elas ocorreram.
 

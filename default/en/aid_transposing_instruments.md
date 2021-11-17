@@ -1,3 +1,4 @@
+##	Help for transposing instruments  
 | Tuning (highest to lowest) | Instruments | Transposition with respect to a) notation b) sounding pitch | A sounding c' is notated as | A notated c' sounds as |
 | --- | --- | --- | --- | --- |
 | in C (high) | piccolo, glockenspiel, celesta | a) sounds a perfect octave higher b) notated a perfect octave lower | c | c'' |

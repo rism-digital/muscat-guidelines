@@ -7,7 +7,7 @@ Przy katalogowaniu zbiorów pojedynczej biblioteki, należy w miarę możliwośc
 Poniżej typy informacji, które można włączyć jako uwagę. Lista ta nie jest pełna i nie zawiera wszystkich możliwych wariantów.
 
 **Instrumentacja**  
-Jeżeli w partyturze występuje basso continuo, należy je wpisać w sposób następujący: b = b.fig, bc = bc.fig, org = org.fig, itd. (patrz także tabele w sekcji **Basso continuo w partyturach i/lub partiach** , gdzie można znaleźć wskazówki odnośnie pól pokrewnych).
+Jeżeli w partyturze występuje basso continuo, należy je wpisać w sposób następujący: b = b.fig, bc = bc.fig, org = org.fig, itd. (patrz także tabele w sekcji **Basso continuo w partyturach i/lub partiach**, gdzie można znaleźć wskazówki odnośnie pól pokrewnych).
 
 - 
 

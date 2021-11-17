@@ -8,19 +8,19 @@ and for the description of the page format.
 You may indicate the technique(s) used in the production of the source here. If you need any term not on the list,
 please contact the Editorial Center.
 
-- **Autography** : Transfer printing (not to be confused with autograph manuscripts).
+- **Autography**: Transfer printing (not to be confused with autograph manuscripts).
 - **Computer printout**
 - **Engraving**
-- **Facsimile** : A reproduction made with the intention to simulate as closely as possible the physical appearance of a
+- **Facsimile**: A reproduction made with the intention to simulate as closely as possible the physical appearance of a
   previous work. (This does not refer to commercial facsimile music editions, which should be entered as Secondary
   literature.)
 - **Lithography**
 - **Offset printing**
-- **Photoreproductive process** : Includes Cyanotype, diazo print, blueprint.
-- **Reproduction** : Many types of mechanical reproductions are included here, such as photocopy, xerocopy, heliography.
+- **Photoreproductive process**: Includes Cyanotype, diazo print, blueprint.
+- **Reproduction**: Many types of mechanical reproductions are included here, such as photocopy, xerocopy, heliography.
 - **Transparency**
 - **Typescript**
-- **Typography** : Includes music printed using movable type.
+- **Typography**: Includes music printed using movable type.
 - **Woodcut**
 
 Any additions or comments about the printing technique may be explained in the field **General note (500 $a)**.
@@ -41,14 +41,14 @@ Engraved music that has a lithographed title page:
 Select the format of the book resulting from folding a sheet to form a gathering of leaves (for example, a sheet folded
 once to form a folio, twice to form a quarto, three times to form an octavo). Select from the following:
 
-- **2°** : folio, fo
-- **4°** : quarto, 4to
-- **8°** : octavo, 8vo
-- **12°** : duodecimo, twelvemo, 12mo
-- **16°** : sextodecimo, sixteenmo, 16mo
-- **18°** : octodecimo, eighteenmo, 18mo
-- **20°** : vigesimo, twentymo, 20mo
-- **24°** : vigesimo-quarto, twenty-fourmo, 24mo
-- **obl.**  **2°** : oblong folio
-- **obl.**  **4°** : oblong quarto
-- **obl.**  **8°** : oblong octavo
+- **2°**: folio, fo
+- **4°**: quarto, 4to
+- **8°**: octavo, 8vo
+- **12°**: duodecimo, twelvemo, 12mo
+- **16°**: sextodecimo, sixteenmo, 16mo
+- **18°**: octodecimo, eighteenmo, 18mo
+- **20°**: vigesimo, twentymo, 20mo
+- **24°**: vigesimo-quarto, twenty-fourmo, 24mo
+- **obl.**  **2°**: oblong folio
+- **obl.**  **4°**: oblong quarto
+- **obl.**  **8°**: oblong octavo

@@ -1,5 +1,6 @@
-### Opus number (383 $b)
+### Opus number (383)
 
+#### Opus number (383 $b)
 Enter the opus number here if it appears on the source, preceded by **op.**. Separate individual movements with a slash.
 
 If you determine the opus number from the secondary literature, enter it in square brackets. Make sure the literature is

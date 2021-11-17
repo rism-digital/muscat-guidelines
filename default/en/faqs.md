@@ -1,3 +1,5 @@
+## Frequently asked questions
+
 ### Using Muscat
 
 1. **Where can I find tutorials about Muscat?**  
@@ -5,16 +7,12 @@
 
 2. **How can I contact other Muscat users?**  
    To contact the Muscat developers: Report any errors, questions, comments, or suggestions to muscat@rism.info at any
-   time.
-
-**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, a Google Group, is the official Muscat
-discussion list that each Muscat user must join. Official announcements from the Editorial Center and the Muscat
+   time.  
+   **[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, a Google Group, is the official Muscat discussion list that each Muscat user must join. Official announcements from the Editorial Center and the Muscat
 developers will be disseminated solely through this group. In addition, all Muscat users are encouraged to ask questions
-or raise topics for discussion.
-
+or raise topics for discussion.  
 A Google account is not required. An invitation to join the group will be sent to you when you receive your Muscat
-account information.
-
+account information.  
 There is also a discussion channel on Slack at:   
 [https://rismcommunity.slack.com/](https://rismcommunity.slack.com/)
 
@@ -29,12 +27,8 @@ There is also a discussion channel on Slack at:
 
 5. **Can I show Muscat to my colleagues? Can I demonstrate Muscat at conferences or in workshops?**  
    Yes, please do! A training version of Muscat is available for exactly these purposes
-   at [https://muscat-training.rism.info](https://muscat-training.rism.info/).
-
-All Muscat users can login there with their personal credentials. There are also 99 training accounts ("
-training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be
-used. Please contact the RISM Editorial Center (contact@rism.info) for the current password.
-
+   at [https://muscat-training.rism.info](https://muscat-training.rism.info/).  All Muscat users can login there with their personal credentials. There are also 99 training accounts ("training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be
+used. Please contact the RISM Editorial Center (contact@rism.info) for the current password.  
 Anything on the training version can be added, edited or deleted. It is synchronized once a week (on Sunday) with the
 current Muscat data. This means that the new records will then be available but also that the ones created on the
 training version will be erased.
@@ -51,14 +45,14 @@ training version will be erased.
    a. Include a **General note (500)** such as "Record based on description in YouV"   
    b. Link to the catalog in the field **Bibliographic reference (691)** or **External resource** (856) as
    appropriate   
-   c. In the field Record origin (980), subfield **Material examined** , select **Material not examined**
+   c. In the field Record origin (980), subfield **Material examined**, select **Material not examined**
 
 8. **Can I enter sources that are included in other RISM publications from the B series?**  
    Though we are gradually adding sources from the B series to Muscat, this is a long-term project. Records from B/I are
    in Muscat while B/II is in preparation. In the meantime, please feel free to enter sources from other B volumes.
    Include a citation to the original B volume in the field **Secondary literature (691)**.
 
-9. **When do records appear in the public catalog at opac.**** rism.info?**  
+9. **When do records appear in the public catalog at opac.rism.info?**  
    Muscat records are sent for publication in the public catalog at opac.rism.info once a month, at around the 19th of
    each month. Records are then visible a few days later.
 
@@ -86,16 +80,16 @@ training version will be erased.
   an [SRU downloader](https://github.com/rism-international/sru-downloader) to retrieve MARCXML records.
 - Muscat supports Unicode (UTF-8).  
   More information about the development of Muscat can be found
-  on [RISM Switzerland's website](https://rism.digital/tools/muscat.html).
+  on [RISM Digital Center's website](https://rism.digital/tools/muscat.html).
 
 **3. What are some technical aspects of the incipit search?**
 
 - It is based on the [Themefinder](http://www.themefinder.org/) engine developed at the University of Stanford.
 - It leverages the underlying indexing system (Solr), used for all the search queries in Muscat, which was customized to
-  permit the analysis of the PAE notation used in the editor. The indexing process is completely transparent to the
+  permit the analysis of the Plaine & Easie notation used in the editor. The indexing process is completely transparent to the
   users and catalogers, and only the normal insertion of the coded notation is required in the 031 field.
 
 **4. What are some of the features of Muscat?**
 
-- **Versioning** : Catalogers can view changes made to records
-- **VIAF** : Personal names can be imported through the [Virtual International Authority File (VIAF)](https://viaf.org/).
+- **Versioning**: Catalogers can view changes made to records
+- **VIAF**: Personal names can be imported through the [Virtual International Authority File (VIAF)](https://viaf.org/).

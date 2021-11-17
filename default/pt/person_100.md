@@ -26,19 +26,19 @@ Insira os anos de nascimento e morte da pessoa ou insira um período diferente d
 
 Se os anos exatos de nascimento e morte da pessoa são desconhecidos, utilize as seguintes abreviaturas para sinalizar os anos que não são exatos.
 
-- **.sc** : século  
+- **.sc**: século  
 **18.sc** = Século dezoito
-- **a** : antes de  
+- **a**: antes de  
 **1811a** = antes de 1811
-- **p** : pós, depois de  
+- **p**: pós, depois de  
 **1811p** = depois de 1811
-- **c** : cerca de, por volta de, aproximadamente  
+- **c**: cerca de, por volta de, aproximadamente  
 **1816c** = cerca de 1816
-- **\*** : nascido em  
+- **\***: nascido em  
 **1816\*** = nascido em 1816, mas ano de morte desconhecido
-- **+** : morto em  
+- **+**: morto em  
 **1756+** = morto em 1756, mas ano de nascimento desconhecido
-- **/** : ou  
+- **/**: ou  
 **17/18** = viveu nos séculos dezessete e dezoito
 
 Não utilize as seguintes abreviaturas para faixas de datas: in, me, ex, q , d, t

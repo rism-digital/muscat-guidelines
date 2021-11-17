@@ -4,9 +4,9 @@ Herkunft (980)
 
 Wählen Sie die Herkunft des Datensatzes aus:
 
-- **Fremddateneinspielung** : Der Datensatz wurde aus einer externen Datenbank importiert
-- **Retroeinspielung** : Der Datensatz stammt aus einer gedruckten Publikation und wurde in eine maschinenlesbare Form umgewandelt
-- **RISM** : Der Datensatz wurde in der RISM-Datenbank angelegt (Standard)
+- **Fremddateneinspielung**: Der Datensatz wurde aus einer externen Datenbank importiert
+- **Retroeinspielung**: Der Datensatz stammt aus einer gedruckten Publikation und wurde in eine maschinenlesbare Form umgewandelt
+- **RISM**: Der Datensatz wurde in der RISM-Datenbank angelegt (Standard)
 
 ** **
 
@@ -26,4 +26,4 @@ _Details werden folgenden._
 Bitte geben Sie an, ob Sie das Material beim Katalogisieren direkt geprüft haben.
 
 - **Autopsie**
-- **Keine**  **Autopsie** : Dies kann verwendet werden, wenn der Datensatz über eine Katalogbeschreibung angelegt wurde.
+- **Keine**  **Autopsie**: Dies kann verwendet werden, wenn der Datensatz über eine Katalogbeschreibung angelegt wurde.

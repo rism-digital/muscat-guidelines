@@ -26,8 +26,8 @@ You can enter in each field:
 either without quotations mark: **lass noch** (98 results)  
 or with quotation marks: **"lass noch"** (6 results)
 - Truncation with ? or \*  
-**?** : The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
-**\*** : The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher.
+**?**: The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
+**\***: The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher.
 - AND, OR, NOT, ( ): Take advantage of Boolean searching. Use parenthesis to group your search. Examples:  
  Composer contains: **(Bach AND Johann) NOT Sebastian**  
  To find Johann Michael Bach and Johann Christian Bach but not Johann Sebastian Bach  
@@ -38,9 +38,9 @@ or with quotation marks: **"lass noch"** (6 results)
 
 Please note the following for these particular fields:
 
-**Composer contains** : This searches only RISM's authorized form of the name: Anonymus instead of Anonymous, Čajkovskij instead of Tchaikovsky. Use the Personal Names authority file to find the authorized forms.
+**Composer contains**: This searches only RISM's authorized form of the name: Anonymus instead of Anonymous, Čajkovskij instead of Tchaikovsky. Use the Personal Names authority file to find the authorized forms.
 
-**Siglum contains** : Search by the letters in a siglum. This field is case-sensitive. For example:  
+**Siglum contains**: Search by the letters in a siglum. This field is case-sensitive. For example:  
 **D-\*** = all sources in Germany  
 **D-B\*** = all sources in German cities that start with B  
 **D-B** = all sources at the Staatsbibliothek zu Berlin
@@ -56,4 +56,4 @@ Example: Last modification
 [empty] -   **2012-02-07**  
 will retrieve all records edited from the beginning of time up to February 7, 2012 at midnight (meaning no records created during the work day on February 7 will be included).
 
-**Date range** : Note that since the day is set at midnight, to search for all sources created on February 7, 2012, for example, you must enter the start date 2012-02-07 (understood as midnight on February 7) and the end date 2012-02-08 (understood as midnight on February 8). This will include all sources created during the day. A search from 2012-02-07 to 2012-02-07 will be empty!
+**Date range**: Note that since the day is set at midnight, to search for all sources created on February 7, 2012, for example, you must enter the start date 2012-02-07 (understood as midnight on February 7) and the end date 2012-02-08 (understood as midnight on February 8). This will include all sources created during the day. A search from 2012-02-07 to 2012-02-07 will be empty!

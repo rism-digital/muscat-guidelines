@@ -63,9 +63,9 @@ Testi accertati o desunti che non appaiono nella fonte possono essere riportati 
 
 ·        Testi di composizioni vocali usati come tema di una variazione o come base di un arrangiamento strumentale
 
-**Alfabeti non latini** : Se la fonte ha un incipit testuale che utilizza caratteri o lettere non latine (alfabeto cirillico/greco/ebraico/coreano ecc., ideogrammi cinesi ecc.) inserisci l’ **Incipit testuale** utilizzando l’alfabeto originale. Traduzioni e traslitterazioni non sono obbligatorie e possono essere aggiunte nel campo note. Traduzioni aggiunte (non presenti nella fonte) vanno messe tra parentesi quadre. Puoi tradurre in una qualsiasi delle lingue RISM.
+**Alfabeti non latini**: Se la fonte ha un incipit testuale che utilizza caratteri o lettere non latine (alfabeto cirillico/greco/ebraico/coreano ecc., ideogrammi cinesi ecc.) inserisci l’ **Incipit testuale** utilizzando l’alfabeto originale. Traduzioni e traslitterazioni non sono obbligatorie e possono essere aggiunte nel campo note. Traduzioni aggiunte (non presenti nella fonte) vanno messe tra parentesi quadre. Puoi tradurre in una qualsiasi delle lingue RISM.
 
-**Regole speciali per testi latini** : Inserisci testi latini, sia sacri che profani. Il campo è collegato all’indice **Titolo/incipit testuale**. All’interno dell’indice **Titolo/incipit testuale** , un termine preceduto dall’indicazione **t** significa che puoi ottenere informazioni sul preciso contesto liturgico, versioni alternative e altre questioni. Se l’incipit testuale è usato come titolo uniforme, assicurati che l’ortografia è identica, ma ricordati che i testi latini nei titoli uniformi sono inseriti solo fino alla virgola. Utilizza le parentesi quadre per inserire testi latini non presenti sulla fonte ma ottenuti attraverso una ricerca.
+**Regole speciali per testi latini**: Inserisci testi latini, sia sacri che profani. Il campo è collegato all’indice **Titolo/incipit testuale**. All’interno dell’indice **Titolo/incipit testuale**, un termine preceduto dall’indicazione **t** significa che puoi ottenere informazioni sul preciso contesto liturgico, versioni alternative e altre questioni. Se l’incipit testuale è usato come titolo uniforme, assicurati che l’ortografia è identica, ma ricordati che i testi latini nei titoli uniformi sono inseriti solo fino alla virgola. Utilizza le parentesi quadre per inserire testi latini non presenti sulla fonte ma ottenuti attraverso una ricerca.
 
 Testi latini standardizzati solitamente corrispondono ai testi nel _Liber usualis_. In RISM, questi testi contengono una virgola. Ad esempio, cercando il testo "Et in terra pax", compariranno una dozzina di opzioni, ma una sola ha una virgola e questa è utilizzata 4'800 volte nella banca-dati. Dunque è questa che cerchiamo – posto che corrisponda alla nostra fonte. Se il tuo incipit testuale è soltanto "Et in terra pax", ciò significa (1) che la tua fonte contiene solo queste parole oppure (2) che il testo nella fonte prosegue in maniera diversa che nel _Liber usualis_. Questo ovviamente è possibile, ma nella maggioranza dei casi vorrai usare la versione con la virgola.  
 
@@ -88,7 +88,7 @@ Inserisci la misura dell’incipit musicale come frazione. Sono consentite anche
 
 **c ** = tempo comune or tempus imperfectum cum prolatione imperfecta  
 **c/ ** = tempo tagliato, alla breve  
-**3 ** = proportio tripla; anche  **1** ,  **2**  ecc.  
+**3 ** = proportio tripla; anche  **1**,  **2**  ecc.  
 **c3 ** = proportio tripla  
 **c3/2  
 c. ** = tempus imperfectum cum prolatione perfecta  
@@ -177,7 +177,7 @@ qq...r = più appoggiature o notine d’abbellimento unite (con valore ritmico)
 **8. Altri simboli**  
 t = trillo (segue immediatamente la nota)  
 + = legatura di valore (segue immediatamente la nota, da non confondersi con la legatura di fraseggio.)   
-() = fermata (si può mettere tra parentesi solo una singola nota o una singola pausa; alterazioni ecc. devono essere fuori dalla parentesi; vedi anche oltre **10. Ritmi speciali** )
+() = fermata (si può mettere tra parentesi solo una singola nota o una singola pausa; alterazioni ecc. devono essere fuori dalla parentesi; vedi anche oltre **10. Ritmi speciali**)
 
 Non inserire legature di fraseggio.
 

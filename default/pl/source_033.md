@@ -27,5 +27,5 @@ Wiele pojedynczych dat: 18791213, 18791216, 18791223
 
 Jeśli jakaś część daty jest nieznana lub jej brak, należy użyć myślnika.
 
-_Przykład dla grudnia_ _1791 roku_ :   
+_Przykład dla grudnia_ _1791 roku_:   
 179112--

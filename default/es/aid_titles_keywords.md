@@ -21,10 +21,10 @@ Aquí hay algunos ejemplos para situaciones especiales:
 Use **Chorale arrangements** tanto como Título uniforme y como Descriptor.
 
 3. Un popurrí cuya música proviene de una sola ópera:  
-¡No necesita esta lista! Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**. Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas** , etc. según corresponda).
+¡No necesita esta lista! Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**. Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas**, etc. según corresponda).
 
 4. Un popurrí cuya música proviene de varias óperas:  
-Use  **_Potpourri _** como título uniforme. Introduzca los nombres de las óperas en el campo **Título adicional (730). **Como descriptores, introduzca  **Potpourris ** y  **Operas ** (u  **Operettas** , etc. según corresponda).
+Use  **_Potpourri _** como título uniforme. Introduzca los nombres de las óperas en el campo **Título adicional (730). **Como descriptores, introduzca  **Potpourris ** y  **Operas ** (u  **Operettas**, etc. según corresponda).
 
 5. Un popurrí respecto del cual se desconoce la procedencia de la música:  
 Use  **Potpourris ** como título y como descriptor.

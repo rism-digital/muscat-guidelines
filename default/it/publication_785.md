@@ -1,6 +1,6 @@
 Notizia successiva (785 $a)
 
-Questo campo e il campo precedente ( **Notizia precedente** ) sono usati per riportare e collegare nomi alternativi di oggetti, come la testata di un periodico che ha cambiato nome.  
+Questo campo e il campo precedente (**Notizia precedente**) sono usati per riportare e collegare nomi alternativi di oggetti, come la testata di un periodico che ha cambiato nome.  
 
 Inserisci qui il nome con cui il periodico è stato noto successivamente. Questo campo è collegato all’indice **Bibliografia.**
 

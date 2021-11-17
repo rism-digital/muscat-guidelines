@@ -42,33 +42,33 @@ El botón  **Añadir una nueva imagen**  permite subir imágenes pequeñas (habi
 
 ### Botones del modo de edición
 
-**Lupa** : haga click aquí para buscar en el archivo de autoridades vinculado al campo. Se abrirá una ventana aparte. Después de encontrar lo que necesite, haga click en  **Seleccionar**  para hacer la transferencia de la selección a su registro.
+**Lupa**: haga click aquí para buscar en el archivo de autoridades vinculado al campo. Se abrirá una ventana aparte. Después de encontrar lo que necesite, haga click en  **Seleccionar**  para hacer la transferencia de la selección a su registro.
 
 **Signo de pregunta (?)**: Se muestran los lineamientos RISM para este campo.
 
 **Signo más (+)**: Los campos que pueden repetirse (aquellos que pueden tener más de un registro) tienen un signo más (+). Haga click en el + para crear un nuevo registro vacío. Los registros de este tipo de campo pueden reordenarse, haciéndoles click y arrastrándolos.
 
-**Cesto de basura** : Borre un campo haciendo click en el cesto de basura.
+**Cesto de basura**: Borre un campo haciendo click en el cesto de basura.
 
-**Flecha** : Haga click en la flecha para expandir o colapsar campos.
+**Flecha**: Haga click en la flecha para expandir o colapsar campos.
 
-**Añada un grupo** : Este botón se encuentra al final de la sección  **Descripción material. ** Si se usan grupos diferenciados, distintas fechas, formatos, marcas de aguas, nombres, instituciones, etc. pueden asociarse a distintas fuentes (o como sea que elija describir su material). Algunos de estos campos, como **Nombre personal adicional (700), Institución adicional (710) **y **Nota general (500)** también se encuentran en otros lugares en la plantilla de Fuentes. Use su mejor juicio para decidir dónde colocar esta información: ¿aplica a toda la fuente, o solo a este grupo de material?
+**Añada un grupo**: Este botón se encuentra al final de la sección  **Descripción material. ** Si se usan grupos diferenciados, distintas fechas, formatos, marcas de aguas, nombres, instituciones, etc. pueden asociarse a distintas fuentes (o como sea que elija describir su material). Algunos de estos campos, como **Nombre personal adicional (700), Institución adicional (710) **y **Nota general (500)** también se encuentran en otros lugares en la plantilla de Fuentes. Use su mejor juicio para decidir dónde colocar esta información: ¿aplica a toda la fuente, o solo a este grupo de material?
 
 ### Otras funciones en el modo de edición
 
 **Autocompletar:**  si ve un campo que tiene una llave, se trata de un campo vinculado al índice o archivo de autoridad. Empiece a escribir y use el autocompletado para ayudarse.
 
-**Añadir nuevos nombres, títulos, descriptores, etc.** : si no encuentra lo que necesita en el archivo o índice de autoridad, simplemente ingrese el nombre o título que desee. Una vez que haga click en otro campo, aparecerá un borde anaranjado alrededor del campo de la inserción, junto con una casilla de verificación con la indicación “Confirmar la inserción de un valor nuevo”. Haga click en esta casilla para confirmar. En el caso de los nombres personales, aparecerá un campo llamado  **Fechas de vida**. Por favor, llene este campo en la medida que le resulte posible. De este modo ayuda a la Oficina Central a crear un nuevo registro de autoridad para ese nombre. Al guardar, el nombre o título será añadido automáticamente al archivo de autoridades. Consulte también la sección  **Nombres personales ** de los  **Lineamientos generales de Catalogación.**
+**Añadir nuevos nombres, títulos, descriptores, etc.**: si no encuentra lo que necesita en el archivo o índice de autoridad, simplemente ingrese el nombre o título que desee. Una vez que haga click en otro campo, aparecerá un borde anaranjado alrededor del campo de la inserción, junto con una casilla de verificación con la indicación “Confirmar la inserción de un valor nuevo”. Haga click en esta casilla para confirmar. En el caso de los nombres personales, aparecerá un campo llamado  **Fechas de vida**. Por favor, llene este campo en la medida que le resulte posible. De este modo ayuda a la Oficina Central a crear un nuevo registro de autoridad para ese nombre. Al guardar, el nombre o título será añadido automáticamente al archivo de autoridades. Consulte también la sección  **Nombres personales ** de los  **Lineamientos generales de Catalogación.**
 
-**Campos requeridos y validación** : cuando inicie un nuevo registro, los campos más importantes ya estarán abiertos y listos para ser llenados. Los campos en amarillo son campos requeridos. Si guarda sin haber llenado uno de estos campos, aparecerá un borde rojo alrededor de los campos que todavía necesiten atención y las secciones correspondientes a dichos campos aparecerán en rojo en la barra lateral a la derecha. En los casos en los que no pueda agregarse información en un campo requerido, la validación puede ser anulada por medio de la confirmación de una casilla de verificación en la barra lateral.
+**Campos requeridos y validación**: cuando inicie un nuevo registro, los campos más importantes ya estarán abiertos y listos para ser llenados. Los campos en amarillo son campos requeridos. Si guarda sin haber llenado uno de estos campos, aparecerá un borde rojo alrededor de los campos que todavía necesiten atención y las secciones correspondientes a dichos campos aparecerán en rojo en la barra lateral a la derecha. En los casos en los que no pueda agregarse información en un campo requerido, la validación puede ser anulada por medio de la confirmación de una casilla de verificación en la barra lateral.
 
 ### Acciones en el modo de visualización
 Esta sección trata acerca de las acciones que pueden realizarse cuando se visualiza el registro completo.  
 
-**Crear** : este botón lleva a la página de selección de plantillas desde la cual puede crear un nuevo registro.
+**Crear**: este botón lleva a la página de selección de plantillas desde la cual puede crear un nuevo registro.
 
-**Regresar a la lista** : este botón lo lleva de regreso a la lista de todas las fuentes musicales.
+**Regresar a la lista**: este botón lo lleva de regreso a la lista de todas las fuentes musicales.
 
 **Editar:**  verá este botón en caso de que cuente con los permisos necesarios para editar el registro.
 
-**Duplicar** : en el modo de visualización, un registro puede ser duplicado al hacer click en este botón. Si es necesario, puede luego llenar el campo **Registro madre (773) **para ligar este registro al registro principal de la colección.
+**Duplicar**: en el modo de visualización, un registro puede ser duplicado al hacer click en este botón. Si es necesario, puede luego llenar el campo **Registro madre (773) **para ligar este registro al registro principal de la colección.

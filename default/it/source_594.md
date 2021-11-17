@@ -3,7 +3,7 @@
 **Voce/strumento****  (594 $b)  
  Campo obbligatorio. **
 
-L’organico (o esecutori o strumentazione, che qui comprende anche le parti vocali) di una composizione, già indicato brevemente nell’ **Organico sintetico** , è qui indicato per esteso. L’ **Organico sintetico** deve perciò sempre corrispondere con i dettagli immessi in questa descrizione completa dell’organico.
+L’organico (o esecutori o strumentazione, che qui comprende anche le parti vocali) di una composizione, già indicato brevemente nell’ **Organico sintetico**, è qui indicato per esteso. L’ **Organico sintetico** deve perciò sempre corrispondere con i dettagli immessi in questa descrizione completa dell’organico.
 
 Se l’organico completo previsto non è indicato, questo deve essere ricavato dal titolo o dal materiale stesso. Se l’organico non è conosciuto, scrivi **no indication**. Ogni incertezza può essere riferita in dettaglio nel campo **Nota generale (500)**.  
 
@@ -11,9 +11,9 @@ Utilizza come aiuto la funzione di autocompletamento in questo campo. Un elenco 
 
 L’iniziale è minuscola per le parti strumentali, maiuscola per le parti vocali. L’elenco degli strumenti solisti inizia con **iSol:**.
 
-Se è presente un basso numerato, inserisci lo strumento come di consueto, ad es. **b** , **bc** , **org** ecc. (ma vedi le tabelle nella sezione **Basso numerato in partitura e/o nelle parti** con istruzioni per campi correlati).
+Se è presente un basso numerato, inserisci lo strumento come di consueto, ad es. **b**, **bc**, **org** ecc. (ma vedi le tabelle nella sezione **Basso numerato in partitura e/o nelle parti** con istruzioni per campi correlati).
 
-Le accordature comuni di strumenti non in Do sono elencate nella lista delle abbreviazioni. Se l’accordatura nella tua fonte differisce dall’accordatura comune, elenca per favore l’accordatura secondo la fonte (vedi **in A** ). Per strumenti solitamente accordati in Do non è necessario specificare “in C”. In caso di dubbio, specifica l’accordatura. L’accordatura degli strumenti deve essere indicata in inglese. Vedi l’Appendice **Tonalità**.
+Le accordature comuni di strumenti non in Do sono elencate nella lista delle abbreviazioni. Se l’accordatura nella tua fonte differisce dall’accordatura comune, elenca per favore l’accordatura secondo la fonte (vedi **in A**). Per strumenti solitamente accordati in Do non è necessario specificare “in C”. In caso di dubbio, specifica l’accordatura. L’accordatura degli strumenti deve essere indicata in inglese. Vedi l’Appendice **Tonalità**.
 
 Per decidere tra diversi termini simili, solitamente la cosa migliore è seguire la fonte. Se il nome dello strumento nella fonte differisce dall’abbreviazione RISM, puoi scrivere il termine come sta nella fonte nel campo **Nota generale (500)**.
 

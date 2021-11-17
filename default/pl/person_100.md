@@ -26,19 +26,19 @@ Wprowadzić rok urodzin i śmierci danej osoby lub wprowadzić inny istotny zakr
 
 Jeżeli dokładny rok urodzenia i/lub zgonu danej osoby nie jest znany, należy użyć następujących skrótów, aby zasygnalizować, że wprowadzone dane nie są precyzyjne.
 
-- **.sc** : wiek  
+- **.sc**: wiek  
 **18.sc** = XVIII wiek  
-- **a** : przed   
+- **a**: przed   
 **1811a** = przed 1811
-- **p** :  po  
+- **p**:  po  
 **1811p** = po 1811
-- **c** : circa, ok.  
+- **c**: circa, ok.  
 **1816c** = ok.1816
-- **\*** : ur.  
+- **\***: ur.  
 **1816\*** = ur. 1816, lecz rok śmierci nieznany  
-- **+** : zm.  
+- **+**: zm.  
 **1756+** = zm. 1756, lecz rok urodzin nieznany  
-- **/** : lub  
+- **/**: lub  
 **17/18** = żył w wieku XVII i XVIII  
 
 Dla zakresów dat nie stosować następujacych skrótów: in, me, ex, q , d, t
@@ -68,5 +68,5 @@ fl. 1732-1735
 
   
 
-- **/** : lub  
+- **/**: lub  
 **17/18** = żył w wieku XVII i XVIII ??

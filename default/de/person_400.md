@@ -1,7 +1,7 @@
 #### Namensvarianten (400)
 An dieser Stelle werden Namensvarianten wie Geburtsnamen, Pseudonyme, Ordensnamen etc. angegeben.   
 
-  
+
 
 #### Namensvarianten (400 $a)
 
@@ -16,7 +16,7 @@ Geburts- und Todesdaten (400 $d)
 
 Geben Sie nichts in dieses Feld ein.
 
-  
+
 
 #### Art der Namensvariante (400 $j)
 Es steht eine Auswahlliste zur Verfügung:  
@@ -29,4 +29,4 @@ Es steht eine Auswahlliste zur Verfügung:
 - **Ordensname** [do]
 - **Pseudonym** [da]  
 - **Andere Schreibweise** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets
-- **Übersetzung** [ub]: Beispiel: _Ackermann, Alexander_ist eine Übersetzungsvariante von _Agricola, Alexander_
+- **Übersetzung** [ub]: Beispiel: _Ackermann, Alexander_ ist eine Übersetzungsvariante von _Agricola, Alexander_

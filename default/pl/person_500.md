@@ -14,6 +14,6 @@ Można wybierać spośród następujących elementów :
 - **ojciec (czyj)**  
 - **żonaty z/zamężna z**  
 - **matka (czyja)**  
-- **spokrewniony z** : inni członkowie rodziny, np. ciotka, wuj, kuzyn itd.  
+- **spokrewniony z**: inni członkowie rodziny, np. ciotka, wuj, kuzyn itd.  
 - **siostra (czyja)**  
-- **inne** : wybrać, jeśli relacja nie wynika z pokrewieństwa.
+- **inne**: wybrać, jeśli relacja nie wynika z pokrewieństwa.

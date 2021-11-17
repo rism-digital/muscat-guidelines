@@ -5,7 +5,7 @@
 Cada item de literatura secundária recebe um título abreviado único para facilitar a referência através dos registros RISM. Sempre verifique se um título abreviado já não está em uso antes de criá-lo.
 
    
-Descreve-se, a seguir, como criar títulos abreviados para **literatura secundária geral** , **catálogos de obras** e **casos especiais**.  
+Descreve-se, a seguir, como criar títulos abreviados para **literatura secundária geral**, **catálogos de obras** e **casos especiais**.  
 
    
 **Literatura secundária geral****  **  
@@ -31,7 +31,7 @@ _Exemplos:_
 
   
 
-Para autores ou editores que publicam múltiplos artigos sobre o mesmo compositor ou obras múltiplas do mesmo compositor, adiciona-se uma letra ( **a** , **b** , **c** , etc.) logo após o ano.  
+Para autores ou editores que publicam múltiplos artigos sobre o mesmo compositor ou obras múltiplas do mesmo compositor, adiciona-se uma letra (**a**, **b**, **c**, etc.) logo após o ano.  
 _Exemplos:_  
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  

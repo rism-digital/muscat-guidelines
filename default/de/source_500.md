@@ -8,7 +8,7 @@ Bitte achten Sie bei der Bearbeitung eines Bibliotheksbestands auf möglichst ei
 
 Bei Verweisen auf andere Quellen ist es sinnvoll, nicht nur die RISM-Nummer zu nennen, sondern auch das Länder- und Bibliothekssigel sowie die vollständige Signatur. Dabei wird zwischen das Länder- und Bibliothekssigel stets ein Bindestrich gesetzt.   
   
-Erläuterungen zum bezifferten Bass in einer Partitur werden wie folgt gemacht: **b = b.fig** , **bc = bc.fig** , **org = org.fig** , etc.  
+Erläuterungen zum bezifferten Bass in einer Partitur werden wie folgt gemacht: **b = b.fig**, **bc = bc.fig**, **org = org.fig**, etc.  
   
 Bei der Nennung einer URL darf davor oder danach kein Satzzeichen folgen, sonst kann der Link nicht umgesetzt werden.  
   

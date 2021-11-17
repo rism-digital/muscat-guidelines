@@ -1,13 +1,13 @@
-### Standardized titles for printed music
+# Standardized titles for printed music
 
 **Distinctive titles**
 
 Printed music bears distinctive titles much more frequently than music manuscripts do. Please observe the following for
-the field **Standardized title (240)**when cataloging printed music.
+the field **Standardized title (240)** when cataloging printed music.
 
 1. **Spelling**  
    Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms.
-   Frequent changes include _v_to _u_,_i_to _j_,_y_to _i,_and _uu_to _w_. The Editorial Center can assist with
+   Frequent changes include _v_ to _u_, _i_ to _j_ , _y_ to _i_, and _uu_ to _w_. The Editorial Center can assist with
    unfamiliar foreign languages. Additional variations can be entered in the field **Additional title (730)**.
 
 _Examples:_
@@ -38,7 +38,7 @@ undecima
 **Generic titles**
 
 Even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive
-titles. Use the field**Additional title (730)** to enter such titles in a standardized form. For guidance, refer to
+titles. Use the field **Additional title (730)** to enter such titles in a standardized form. For guidance, refer to
 standard reference works such as Grove and MGG, and authority files from
 the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title
 indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the

@@ -1,6 +1,6 @@
 #### **Poprzedzający wpis (780 $w)**   
 
-To pole i pole następne ( **Kolejny wpis** ) służy do podania alternatywnych tytułów (i połączenia linkiem z nimi), np. tytułu czasopisma, które zmieniło nazwę. 
+To pole i pole następne (**Kolejny wpis**) służy do podania alternatywnych tytułów (i połączenia linkiem z nimi), np. tytułu czasopisma, które zmieniło nazwę. 
 
 Należy podać nazwę, pod którą czasopismo było uprzednio znane. Pole połączono linkiem z bazą danych **Literatury pomocniczej.**  
   

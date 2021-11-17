@@ -30,7 +30,7 @@ In ciascun campo puoi inserire:
  senza virgolette: **lass noch**  
 oppure tra virgolette: **"lass noch"**
 - Troncamento con ? oppure \*  
-**?** : Il punto interrogativo sostituisce esattamente una lettera. **B?cher** trova Bucher e Bacher. **\*** : L’asterisco può essere usato per troncare o sostituire un numero indefinito di caratteri. **B\*cher** trova Bucher e Bacher ma anche Boucher e Bötticher.
+**?**: Il punto interrogativo sostituisce esattamente una lettera. **B?cher** trova Bucher e Bacher. **\***: L’asterisco può essere usato per troncare o sostituire un numero indefinito di caratteri. **B\*cher** trova Bucher e Bacher ma anche Boucher e Bötticher.
 - AND, OR, NOT, ( ): Approfitta della ricerca booleana. Utilizza le parentesi per raggruppare le tue ricerche. Esempi:  
  Compositore contiene: **(Bach AND Johann) NOT Sebastian**  
 per trovare Johann Michael Bach e Johann Christian Bach ma non Johann Sebastian Bach  
@@ -50,19 +50,19 @@ troverà tutte le schede modificate dal 7 febbraio 2012 fino a oggi.
  Esempio: Ultima modifica  
  [vuoto] -  **2012-02-07**  
 troverà tutte le schede modificate dal tempo dei tempi fino al 7 febbraio 2012 a mezzanotte (ossia, senza comprendere nessuna scheda creata durante la giornata del 7 febbraio).
-  - **Ambito di date** : Si prega di notare che, essendo il giorno stabilito a mezzanotte, per cercare tutte le schede create il 7 febbraio 2012, ad esempio, bisogna inserire come data d’inizio 2012-02-07 (ossia la mezzanotte del 7 febbraio) e come data di fine 2012-02-08 (ossia la mezzanotte dell’8 febbraio). Questo includerà tutte le schede create durante il giorno. Una ricerca da 2012-02-07 a 2012-02-07 non darà alcun risultato! 
+  - **Ambito di date**: Si prega di notare che, essendo il giorno stabilito a mezzanotte, per cercare tutte le schede create il 7 febbraio 2012, ad esempio, bisogna inserire come data d’inizio 2012-02-07 (ossia la mezzanotte del 7 febbraio) e come data di fine 2012-02-08 (ossia la mezzanotte dell’8 febbraio). Questo includerà tutte le schede create durante il giorno. Una ricerca da 2012-02-07 a 2012-02-07 non darà alcun risultato! 
 
- Si prega di notare quanto segue per cercare nell’indice **Fonti** :  
+ Si prega di notare quanto segue per cercare nell’indice **Fonti**:  
 
-- **La sigla contiene** : Ricerca i caratteri in una sigla. Questo campo è sensibile alle maiuscole (case-sensitive). Ad esempio:   
+- **La sigla contiene**: Ricerca i caratteri in una sigla. Questo campo è sensibile alle maiuscole (case-sensitive). Ad esempio:   
 **D-\*** = tutte le fonti in Germania  
 **D-B\*** = tutte le fonti in città tedesche che iniziano con la B  
 **D-B** = tutte le fonti nella Staatsbibliothek zu Berlin
 
 **Nomi di persone**
 
-Si prega di notare quanto segue per ** ** effettuare ricerche nell’indice **Persone** :
+Si prega di notare quanto segue per ** ** effettuare ricerche nell’indice **Persone**:
 
-- **Nome** : Ricerca nei campi **Nome di persona** **(100 $a)** e **Varianti del nome** **(400 $a)**.
-- **Date** : Ricerca nel campo **Data di nascita e di morte** **(100 $d)**, e comprende tanto gli anni che le abbreviazioni seguenti: sc  a  p  c  \*  +  /
-- **Luoghi** : Ricerca nel campo **Nome geografico (551)**. Questo comprende luoghi di nascita, origine e attività. 
+- **Nome**: Ricerca nei campi **Nome di persona** **(100 $a)** e **Varianti del nome** **(400 $a)**.
+- **Date**: Ricerca nel campo **Data di nascita e di morte** **(100 $d)**, e comprende tanto gli anni che le abbreviazioni seguenti: sc  a  p  c  \*  +  /
+- **Luoghi**: Ricerca nel campo **Nome geografico (551)**. Questo comprende luoghi di nascita, origine e attività. 

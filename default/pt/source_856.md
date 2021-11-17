@@ -32,14 +32,14 @@ Este campo é obrigatório quando se insere um link para um recurso externo. Sel
 
 - 
 
-**Fonte digitalizada** : O link é dirigido para um website externo que é uma cópia digitalizada do recurso a ser descrito. Links para repositórios institucionais são preferenciais, mas, caso nenhum esteja disponível, então links para repositórios externos, como o Internet Archive ou o IMSLP, são permitidos. 
+**Fonte digitalizada**: O link é dirigido para um website externo que é uma cópia digitalizada do recurso a ser descrito. Links para repositórios institucionais são preferenciais, mas, caso nenhum esteja disponível, então links para repositórios externos, como o Internet Archive ou o IMSLP, são permitidos. 
 
 _Exemplo_:   
 [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/) 
 
 - 
 
-**Manifesto IIIF** : O objeto ligado é um objeto JSON legível por máquina, processado por um visualizador de documentos interno como o diva.js. O documento está embutido diretamente na página web. Muitas das vezes, “manifest”, “iiif” ou algo semelhante aparece no link. 
+**Manifesto IIIF**: O objeto ligado é um objeto JSON legível por máquina, processado por um visualizador de documentos interno como o diva.js. O documento está embutido diretamente na página web. Muitas das vezes, “manifest”, “iiif” ou algo semelhante aparece no link. 
 
 _Example_:*[  
 https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)*
@@ -56,7 +56,7 @@ Tipo de link: fonte digitalizada
 Nota: manifesto IIIF    
 Tipo de link: manifesto IIIF 
 
-- **Outro** : Link para outros recursos que não correspondem ao recurso que está a ser descrito. 
+- **Outro**: Link para outros recursos que não correspondem ao recurso que está a ser descrito. 
 
  
 
