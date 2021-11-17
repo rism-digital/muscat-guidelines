@@ -1,13 +1,11 @@
-### Apéndice: Teatros de ópera y salas de concierto
+## Apéndice: Teatros de ópera y salas de concierto
 
-Alessandria (Italia/Italy):
-
+Alessandria (Italia/Italy)
 - Teatro Civico
 - Teatro Comunale
 - Teatro Lirico
 
-Amsterdam:
-
+Amsterdam
 - Blankenburg
 - Hoogduitse Schouwburg
 - Kleine Komedie
@@ -88,11 +86,9 @@ Opera Dolnośląska
 Operetka Dolnośląska  
 Städtisches Theater  
 Zwinger | | Zagreb: | Hrvatsko Narodno Kazalište |
-
 - Dhimotikon Theatron Athinon
 
 Barcelona
-
 - Circo Barcelonés
 - Gran Teatre del Liceu
 - Gran Teatro del Liceo
@@ -104,7 +100,6 @@ Barcelona
 - Teatre Principal
 
 Bari
-
 - Politeama Barese
 - Politeama Petruzzelli
 - Teatro Comunale Piccini
@@ -113,13 +108,11 @@ Bari
 - Teatro Petruzzelli
 
 Bayreuth
-
 - Festspielhaus
 - Markgräfliches Opernhaus
 - Stadthalle
 
 Berlin
-
 - Comödiensaal auf dem Schloße
 - Deutsche Oper
 - Deutsche Staatsoper
@@ -144,7 +137,6 @@ Berlin
 - Wallner-Theater
 
 Bologna
-
 - Teatro Comunale
 - Teatro del Corso
 - Teatro Contavalli
@@ -153,14 +145,12 @@ Bologna
 - Teatro del Pubblico (also Teatro della Sala)
 
 Bratislava
-
 - Grüner Stüble
 - Nová Scéna
 - Slovenské Narodné Divadlo
 - Városi Színház
 
 Braunschweig
-
 - Hoftheater
 - Landestheater
 - Rathaus
@@ -169,7 +159,6 @@ Braunschweig
 Breslau _see_ Wrocław
 
 Bruxelles/Brussels
-
 - Koniklijke Muntschouwburg
 - Opéra du Quai aux Foins
 - Théâtre des Fantaisies-Parisiennes
@@ -180,7 +169,6 @@ Bruxelles/Brussels
 - Théâtre du Vaudeville
 
 Bucureşti (Bucharest)
-
 - Opera Română
 - Teatrul Bossel
 - Teatrul Cişmeaua Roşie
@@ -189,7 +177,6 @@ Bucureşti (Bucharest)
 - Theatrum Vlahicum Bucharestini
 
 Budapest
-
 - Erkel Színház
 - Fővárosi Operettszínház
 - Nemzeti Színház (Pest)
@@ -206,7 +193,6 @@ Budapest
 - Teatro S Leucio
 
 Dresden
-
 - Comödienhaus
 - Kleines Hoftheater (also Morettisches Theater)
 - Kleines Kurfürstliches Theater
@@ -221,7 +207,6 @@ Dresden
 - Theater auf dem Linckeschen Bade
 
 Dublin
-
 - Crow Street Theatre
 - Fishamble Street Theatre
 - Gaiety Theatre
@@ -231,7 +216,6 @@ Dublin
 - Theatre Royal in Hawkins Street
 
 Edinburgh
-
 - Canongate Theatre
 - Corri’s Concert Rooms
 - Empire Theatre
@@ -241,7 +225,6 @@ Edinburgh
 - Theatre Royal
 
 Ferrara
-
 - Teatro Bonacossi (also Teatro S Stefano)
 - Teatro Comunale
 - Teatro degli Intrepidi (also Teatri di S Lorenzo)
@@ -250,7 +233,6 @@ Ferrara
 - Teatro Scroffa
 
 Firenze (Florence)
-
 - Palla a Corda
 - Regio Teatro degl'Intrepidi (detto della Palla a Corda)
 - Teatro in Borgo Ognissanti
@@ -261,7 +243,6 @@ Firenze (Florence)
 - Teatro in via S Maria
 
 Frankfurt am Main
-
 - Alte Oper
 - Komödienhaus
 - Nationaltheater
@@ -270,13 +251,11 @@ Frankfurt am Main
 - Stadttheater
 
 Genova
-
 - Teatro Carlo Felice
 - Teatro del Falcone (also Teatro Adorno)
 - Teatro S Agostino
 
 Glasgow
-
 - Caledonian Theatre
 - City Theatre
 - Coliseum
@@ -286,13 +265,11 @@ Glasgow
 - Theatre Royal
 
 Göteborg
-
 - Nya Teatern
 - Sillgatan Teatern
 - Stora Teatern
 
 Hamburg
-
 - Ackermannsches Komödienhaus
 - Deutsches Theater
 - Hamburgische Staatsoper
@@ -306,7 +283,6 @@ Hamburg
 - Theater am Gänsemarkt
 
 Hannover (Hanover)
-
 - Gartentheater (Herrenhausen)
 - Großes Schloßtheater (Leineschloß)
 - Kleines Schloßtheater (Leineschloß)
@@ -315,13 +291,11 @@ Hannover (Hanover)
 - Städtisches Opernhaus
 
 Helsinki
-
 - Aleksanterinteatteri
 - Suomalainen Ooppera
 - Suomen Kansallisoopera
 
 Innsbruck
-
 - Ballhaus
 - Kaiserliches und Königliches Hoftheater
 - Komödienhaus
@@ -329,7 +303,6 @@ Innsbruck
 - Stadttheater
 
 Kassel
-
 - Fürstliches Hoftheater
 - Hoftheater
 - Königliches Schauspiel Kassel
@@ -338,19 +311,16 @@ Kassel
 - Théâtre Royal
 
 Kyjiv (Kiev)
-
 - Kyjevs’kyj Deržavnyj Akademičnyj Teatr Opery ta Baletu imeni T. H. Ševcenka
 - Teatr Russkoj Opery
 
 København (Copenhagen)
-
 - Danske Skueplads (Kongens Nytorv)
 - Hofteater
 - Kongelige Teater
 - Nye Teater
 
 Leipzig
-
 - Altes Theater
 - Carola-Theater
 - Gewandhaus
@@ -367,7 +337,6 @@ Leipzig
 Lemberg _see_ L’viv
 
 Lisboa (Lisbon)
-
 - Casa de Opera
 - Opera do Tejo
 - Real Coliseu de Lisboa
@@ -378,13 +347,11 @@ Lisboa (Lisbon)
 - Teatro de S Joao
 
 Ljubljana
-
 - Landestheater
 - Slovensko Deželno Gledališže
 - Ständisches Theater
 
 London
-
 - Adelphi Theatre
 - Alhambra Theatre
 - Cambridge Theatre
@@ -422,7 +389,6 @@ London
 - Stoll Theatre
 
 L’viv
-
 - Bol’šoj Teatr
 - L’vivs’kyj Deržavnyj Teatr Opery ta Baletu
 - L’vivs’kyj Opernyj Teatr
@@ -431,7 +397,6 @@ L’viv
 - Velykyj Teatr Opery ta Baletu
 
 Madrid
-
 - Alcázar Palacio
 - Coliseo del Buen Retiro
 - Palacio Real Sitio de Aranjuez
@@ -443,19 +408,16 @@ Madrid
 - Teatro Real
 
 Malta/Valletta
-
 - Manoel Theatre
 - Royal Opera House
 - Teatro Pubblico
 - Teatro Real
 
 Mannheim
-
 - Hoftheater
 - Nationaltheater
 
 Milano (Milan)
-
 - Politeama Ciniselli
 - Regio Ducale
 - Salone Margherita
@@ -474,7 +436,6 @@ Milano (Milan)
 - Teatro Regio Ducale
 
 Moskva (Moscow)
-
 - Bol’šoj Teatr
 - Kamernyj Opernyj Teatr
 - Kreml’
@@ -489,7 +450,6 @@ Moskva (Moscow)
 - Teatr Solodovnikov
 
 München (Munich)
-
 - Bayerische Hofoper
 - Bayerische Staatsoper
 - Cuvilliestheater
@@ -501,7 +461,6 @@ München (Munich)
 - Staatstheater am Gärtnerplatz
 
 Napoli (Naples)
-
 - Nobile Accademia di Dame e Cavalieri
 - Casino del viceré a Posillipo
 - Convento S Chiara
@@ -526,7 +485,6 @@ Napoli (Naples)
 - Teatro di Foggia
 
 New York
-
 - Academy of Music
 - Astor Place Opera House
 - Castle Garden Theatre
@@ -541,20 +499,17 @@ New York
 - Park Theatre
 
 Nürnberg (Nuremberg)
-
 - Fechthaus
 - Komödienhaus
 - Opernhaus
 - Stadttheater am Ring
 
 Oslo
-
 - Christiana Teater
 - Dramatiske Selskab
 - Opéra Comique
 
 Padova
-
 - Teatrino del Prato della Valle
 - Teatro degli Obizzi
 - Teatro dello Stallone
@@ -562,7 +517,6 @@ Padova
 - Teatro Verdi
 
 Palermo
-
 - Anfiteatro Mangano
 - Politeama Garibaldi
 - Teatro Bellini
@@ -577,7 +531,6 @@ Palermo
 - Teatro Valguarnera
 
 Paris
-
 - Académie d’Opéra
 - Académie Royale de Musique (also Opéra)
 - Comédie-Italienne
@@ -618,7 +571,6 @@ Paris
 - Varietés
 
 Parma
-
 - Gran Teatro dei Farnese
 - Nuovo Teatro Ducale
 - Teatro del Collegio dei Nobili
@@ -633,7 +585,6 @@ Parma
 - Villa Douglas-Scotti
 
 Philadelphia
-
 - American Academy of Music
 - Chestnut Street Theatre
 - Grand Opera House
@@ -644,7 +595,6 @@ Philadelphia
 - Southwark Theatre
 
 Piacenza
-
 - Nuovo Teatro Ducale
 - Palazza Gotico
 - Palazzo Comunale
@@ -654,7 +604,6 @@ Piacenza
 - Teatro Ducale Piccolo
 
 Pisa
-
 - Arena Federighi
 - Arena Garibaldi
 - Palazzo dei Consoli del Mare
@@ -666,7 +615,6 @@ Pisa
 - Teatro Pubblico
 
 Praha (Prague)
-
 - Clam-Gallas Palast
 - Comoedia-Haus
 - Eggenberg-Schwarzenberg Palast
@@ -692,7 +640,6 @@ Praha (Prague)
 - Wallenstein Palast
 
 Reggio Emilia
-
 - Ariosto
 - Politeama
 - Teatro Comunitativo
@@ -704,7 +651,6 @@ Reggio Emilia
 - Teatro Pubblico
 
 Roma (Rome)
-
 - Augusteo
 - Clementino
 - Palazzo Barberini
@@ -741,7 +687,6 @@ Roma (Rome)
 - Teatro Valle
 
 Salzburg
-
 - Benediktiner Gymnasium
 - Festspielhaus
 - Fürstbischöfliches Hoftheater
@@ -753,8 +698,7 @@ Salzburg
 - Stadttheater
 - Steintheater Hellbrunn
 
-St. Peterburg
-
+St. Peterburg (St. Petersburg)
 - Aleksandrinskij Teatr
 - Bol’šoj Kamennyj Teatr (also Bol’šoj Teatr)
 - Derevjannyj Teatr
@@ -773,28 +717,24 @@ St. Peterburg
 - Vol’nyj Teatr
 
 Sevilla (Seville)
-
 - Anfiteatro
 - Teatro Cómico
 - Teatro de S Eloy
 - Teatro de S Fernando
 
 Spoleto
-
 - Teatro Cajo Melisso
 - Teatro Lirico Sperimentale
 - Teatro Nobile
 - Teatro Nuovo
 
 Stockholm
-
 - Bollhuset
 - Mindre Teatern
 - Nya Svenska Teatern
 - Oscarsteatern
 
 Stuttgart
-
 - Hoftheater
 - Großes Haus
 - Kleines Haus
@@ -805,7 +745,6 @@ Stuttgart
 - Württembergisches Staatstheater
 
 Torino (Turin)
-
 - Palazzo di S Giovanni - Salone delle Feste
 - Politeama Chiarella
 - Teatro Carignano
@@ -817,13 +756,10 @@ Torino (Turin)
 - Teatro Vittorio Emanuele
 
 Treviso
-
 - Teatro Nuovo
 
 Trieste
-
-Politeama Rossetti
-
+- Politeama Rossetti
 - Teatro Comunale
 - Teatro Comunale Giuseppe Verdi
 - Teatro Grande
@@ -832,7 +768,6 @@ Politeama Rossetti
 - Teatro di S Pietro
 
 Valencia
-
 - Botiga de la Balda
 - Casa de la Cofradía de Zapateros
 - Teatro Cómico
@@ -840,10 +775,9 @@ Valencia
 - Teatro Principal
 - Teatro Público
 
-Valletta _see_Malta
+Valletta _see_ Malta
 
 Venezia (Venice)
-
 - La Fenice
 - Palazzo del Doge
 - Palazzo Mocenigo
@@ -870,7 +804,6 @@ Venezia (Venice)
 - Teatro Vendramin
 
 Vicenza
-
 - Politeama Comunale
 - Teatro Castelli
 - Teatro Diurno in Campo Marzio
@@ -883,7 +816,6 @@ Vicenza
 - Teatro Verdi
 
 Warszawa (Warsaw)
-
 - Komedia Muzyczna
 - Państwowa Operetka
 - Teatr Królewski
@@ -896,7 +828,6 @@ Warszawa (Warsaw)
 - Warszawska Opera Kameralna
 
 Wien (Vienna)
-
 - Burgtheater
 - Carltheater
 - Favorita
@@ -924,13 +855,11 @@ Wien (Vienna)
 - Wiener Kammeroper
 - Wiener Volkstheater
 
-Wrocław:
-
+Wrocław
 - Opera Dolnośląska
 - Operetka Dolnośląska
 - Städtisches Theater
 - Zwinger
 
 Zagreb
-
 - Hrvatsko Narodno Kazalište
