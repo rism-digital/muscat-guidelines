@@ -1,5 +1,6 @@
-### General note (500 $a)
+### General note (500)
 
+#### General note (500 $a)
 Enter any notes about the item, especially notes that relate to how the item is relevant to musical sources (if not obvious from the title).
 
 Enter sigla here if the item concerns an institution, such as catalogs of collections.
