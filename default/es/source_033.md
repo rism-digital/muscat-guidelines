@@ -1,3 +1,4 @@
+outdated123
 ### Fecha codificada (033)
 
 Este campo se utiliza para registrar una fecha formateada correspondiente a una ocasión de interpretación, en caso de que también se consigne una fecha en el campo **Nota sobre ocasión de interpretación (518)**.
@@ -25,5 +26,5 @@ Múltiples fechas únicas: 18791213, 18791216, 18791223
 
 Si un fragmento de la fecha se desconoce o está ausente, reemplácelo con guiones.
 
-_Ejemplo para Diciembre 1791:_  
+_Example_ _for December 1791_:   
 179112--
