@@ -1,3 +1,5 @@
+outdated123
+
 In cataloguing collections (a Convolutum or a Collection) redundancy should be avoided as far as possible. To this aim, the following rules apply:
 
 1. Any statements which apply to the entire collection will be entered in the superordinate record (Convolutum or Collection).
