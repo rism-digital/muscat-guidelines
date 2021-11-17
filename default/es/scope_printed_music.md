@@ -1,4 +1,4 @@
-**Cobertura de la música impresa en RISM**
+# Cobertura de la música impresa en RISM
 
 RISM se orienta a documentar música impresa que data desde los inicios de la impresión musical hasta alrededor del año 1900.
 
