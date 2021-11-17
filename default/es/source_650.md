@@ -1,5 +1,6 @@
-### Descriptor (650 $a)
+### Subject heading (650)
 
+#### Descriptor (650 $a)
 **Campo requerido.**
 
 Ingrese palabras clave o términos relativos al género de la pieza en este punto. Este campo está vinculado al índice de autoridades de **Descriptores**.
