@@ -26,7 +26,7 @@ Ingrese la fecha de la fuente. Utilice números arábigos (por ejemplo, 1624 en 
 
 En el caso de los manuscritos, trate siempre de consignar una fecha, aunque sea aproximada. Si cuenta con una fecha con día, mes y año, escríbala con el formato AAAA-MM-DD.
 
-Puede indicar fechas aproximadas en su idioma de catalogación, haciendo uso de las expresiones **ca.** –para _circa–_, **antes de** y **después de**. Trate de indicar la fecha del modo más exacto posible. Si no cuenta con datos certeros, utilice un rango de fechas que se corresponda con un período no específico, como el s. XVIII o el fin del s. Véase la tabla que aparece más abajo.
+You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before**, and **after**. Trate de indicar la fecha del modo más exacto posible. Si no cuenta con datos certeros, utilice un rango de fechas que se corresponda con un período no específico, como el s. XVIII o el fin del s. Véase la tabla que aparece más abajo.
 
 | **Para el período** | **Ingrese este rango de fechas** | | comienzos del s. En el caso de los impresos, si tiene un impreso que no tiene fecha, registre una fecha aproximada entre corchetes, o bien indique **[s.d.]**.Por favor, trate de proveer un rango de fechas razonables en el caso de que el impreso no esté datado, por ejemplo, valiéndose de las fechas de vida del compositor o arreglador como _terminus post quem_, o bien recurriendo a los años de actividad del editor.
 
