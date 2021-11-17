@@ -59,7 +59,7 @@ Ascertained or derived texts that do not appear on the source can be given here.
 
 **Non-Latin scripts:** If your source has a text incipit that uses non-Latin letters or characters ( Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Text incipit** using the original script. Translations or transliterations are optional and may be added in additional text incipit fields. Add translations not on the source in brackets. You may translate into any of the RISM languages.
 
-**Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file ** Title/text incipits**. Within the file **Title/text incipits** , a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. If the text incipit is used as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have been determined by research.
+**Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file ** Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. If the text incipit is used as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have been determined by research.
 
 Standard Latin texts usually match the texts in the _Liber usualis_. In RISM, these texts usually contain a comma. For example, when you search for the text "Et in terra pax", you will see about a dozen options, but only 1 has a comma and this source is used 4,800 times in the database. Therefore it is the one we want – presuming this matches your source. If your text incipit is only "Et in terra pax" then this means your source (1) contains only these words or (2) continues in a way that is different form the _Liber usualis_. This is of course possible, but in most cases you want the version with the comma.
 
@@ -83,7 +83,7 @@ Enter time signatures as fractions. The following are also allowed:
 
 **c** = common time or tempus imperfectum cum prolatione imperfecta  
 **c/** = cut time, alla breve  
-**3** = proportio tripla; also **1** , **2** , etc.  
+**3** = proportio tripla; also **1**, **2**, etc.  
 **c3** = proportio tripla  
 **c3/2  
 c.** = tempus imperfectum cum prolatione perfecta  
@@ -183,7 +183,7 @@ _Examples for multiple measures of rest:_
 t = trill (immediately follows the note)
 
 + = tie (immediately follows the note; not to be confused with a slur)   
-  () = fermata/hold/pause (only a single note letter name or a single rest can be bracketed; accidentals, pitch indications, etc. must be outside the parentheses; see also **10. Special rhythms** , below)
+  () = fermata/hold/pause (only a single note letter name or a single rest can be bracketed; accidentals, pitch indications, etc. must be outside the parentheses; see also **10. Special rhythms**, below)
 
 Do not enter slurs.
 
