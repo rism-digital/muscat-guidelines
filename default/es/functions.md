@@ -17,18 +17,18 @@ El botón  **Guardar y cerrar**  lo lleva de regreso a la pantalla anterior desp
 
 ### Botones del modo de edición
 
-**Lupa** : haga click aquí para buscar en el archivo de autoridades vinculado al campo. Se abrirá una ventana aparte. Después de encontrar lo que necesite, haga click en  **Seleccionar**  para hacer la transferencia de la selección a su registro.
+**Magnifying glass**: Click here to search the authority file linked to the field. Se abrirá una ventana aparte. Después de encontrar lo que necesite, haga click en  **Seleccionar**  para hacer la transferencia de la selección a su registro.
 
-??? **Lock/unlock** : If you do not find what you need in the authority file, click the ???unlock button to enter a new name. Enter the name and other information as indicated (if known). When you save, the name will be automatically added to the authority files.
+??? **Lock/unlock**: If you do not find what you need in the authority file, click the ???unlock button to enter a new name. Enter the name and other information as indicated (if known). When you save, the name will be automatically added to the authority files.
 
 **Signo de pregunta (?)**: Se muestran los lineamientos RISM para este campo.
 
 **Signo más (+)**: Los campos que pueden repetirse (aquellos que pueden tener más de un registro) tienen un signo más (+). Haga click en el + para crear un nuevo registro vacío. Los registros de este tipo de campo pueden reordenarse, haciéndoles click y arrastrándolos.
 
-**Flecha** : Haga click en la flecha para expandir o colapsar campos.
+**Trash can**: Delete a field by clicking on the trash can.
 
-**Arrow** : Click on the arrow to expand or collapse fields.
+**Arrow**: Click on the arrow to expand or collapse fields.
 
 ### Otras funciones en el modo de edición
 
-**Autocomplete** : If you see a field that contains a key, the field is linked to the authority file. Begin typing and use the autocomplete to help you.
+**Autocomplete**: If you see a field that contains a key, the field is linked to the authority file. Begin typing and use the autocomplete to help you.
