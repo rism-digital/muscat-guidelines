@@ -1,3 +1,4 @@
-### Supplementary material (525 $a)
+### Supplementary material (525)
 
+#### Supplementary material (525 $a)
 Mention material that accompanies the source, such as program notes, reviews, etc. Enter using your cataloging language.
