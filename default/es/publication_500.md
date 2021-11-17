@@ -1,5 +1,6 @@
-### Nota general (500 $a)
+### General note (500)
 
+#### Nota general (500 $a)
 Introduzca notas de todo tipo sobre el ítem, especialmente aquellas notas que señalen por qué el ítem es relevante para las fuentes musicales (si no resulta obvio a partir del título).
 
 Introduzca aquí las siglas correspondientes en caso de que el ítem refiera a una institución, como sucede con los catálogos de colecciones.
