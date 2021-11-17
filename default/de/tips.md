@@ -1,3 +1,5 @@
+## How do I ...? Tips & tricks
+
 **1. How can I add images?**
 
 Small images such as watermarks, handwriting samples, or bindings can be attached to the record directly from the editing mode: click on **Attach a new image** on the menu on the right.
@@ -10,11 +12,11 @@ It's quite simple: just click and drag! (Make sure you are clicking outside the 
 
 **3. How can I add special characters?**
 
-Muscat supports Unicode, so make sure than any special characters are Unicode compliant. See, for example, [unicode-table.com](https://unicode-table.com/) for Unicode characters.
+Muscat supports Unicode (UTF-8), so make sure than any special characters are Unicode compliant. See, for example, [unicode-table.com](https://unicode-table.com/) for Unicode characters.
 
 **4. How can I use the folders?**
 
-A folder can be created by selecting records on the main Sources page, then going to **Batch actions** above the list of records (on the upper left) and clicking on **Create folder with items**.You can also use  **Batch actions ** to add the selected records to an existing folder. View the items in your folder by selecting it on the right under **Is in folder**. From there, you can sort and search as usual. After any search in Sources, buttons under **Actions** appear: **Add all to new folder** and **Add all to an existing folder**. This refers to all of the records in the current list of search results.
+A folder can be created by selecting records on the main Sources page, then going to **Batch actions** above the list of records (on the upper left) and clicking on **Create folder with items**. You can also use **Batch actions** to add the selected records to an existing folder. View the items in your folder by selecting it on the right under **Is in folder**. From there, you can sort and search as usual. After any search in Sources, buttons under **Actions** appear: **Add all to new folder** and **Add all to an existing folder**. This refers to all of the records in the current list of search results.
 
 On the **Folders** page linked from the top menu, you can find your folder by typing its name in the filter **Any field contains**. You can also delete your own folders.
 
