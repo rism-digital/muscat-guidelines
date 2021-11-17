@@ -1,5 +1,6 @@
-### ISBN (020 $a)
+### ISBN (020)
 
+#### ISBN (020 $a)
 Enter the International Standard Book Number (ISBN). The ISBN is a number consisting of 10 or 13 digits.
 
 _Examples:_
