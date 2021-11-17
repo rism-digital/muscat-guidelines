@@ -1,5 +1,6 @@
-### Otras notas sobre la descripción (680 $a)
+### Other notes on description (680)
 
+#### Otras notas sobre la descripción (680 $a)
 Introduzca notas adicionales que describan la institución, como por ejemplo:
 
 - Políticas de gestión y recopilación de registros (ISDIAH 5.3.5): Introduzca información sobre las políticas de recopilación de la institución. Indique si el repositorio busca adquirir materiales mediante transferencia, donación, compra y/o préstamo.
