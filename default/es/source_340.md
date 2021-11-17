@@ -6,17 +6,17 @@ Este campo se utiliza para registrar información correspondiente a la descripci
 
 En este subcampo puede indicar la(s) técnica(s) utilizadas en la producción de la fuente. Si necesita usar algún término que no está en la lista, por favor contáctese con la Oficina Central.
 
-- **Autografía** : impresión por transferencia (no confundir con manuscritos autógrafos)
+- **Autography**: Transfer printing (not to be confused with autograph manuscripts).
 - **Escrito mecanografiado**
 - **Impreso de computadora**
-- **Reproducción** : aquí se incluyen muchos tipos de reproducción mecánica, como la fotocopia, la xerocopia, la heliografía. (Esto no refiere a ediciones musicales facsimilares de carácter comercial, que deben registrarse como Bibliografía Secundaria).
+- **Facsimile**: A reproduction made with the intention to simulate as closely as possible the physical appearance of a previous work. (Esto no refiere a ediciones musicales facsimilares de carácter comercial, que deben registrarse como Bibliografía Secundaria).
 - **Litografía**
 - **Grabado**
-- **12°** : duodécimo, 12mo
-- **Proceso fotoreproductivo** : incluye cianotipia, diazotipia
+- **Photoreproductive process**: Includes Cyanotype, diazo print, blueprint.
+- **Reproduction**: Many types of mechanical reproductions are included here, such as photocopy, xerocopy, heliography.
 - **Transparency**
 - **Transparencia**
-- **Tipografía** : incluye música impresa usando tipos móviles
+- **Typography**: Includes music printed using movable type.
 - **Xilografía**
 
 Cualquier agregado o comentario sobre la técnica de impresión puede explicarse en el campo **Nota general (500 $a)**.
@@ -35,14 +35,14 @@ Engraved music that has a lithographed title page:
 
 Seleccione el formato del libro que resulta al doblar una hoja para formar un pliego de hojas (por ejemplo, una hoja doblada una vez para formar un folio, dos veces para formar un cuarto, tres veces para formar un octavo). Seleccione una opción entre las siguientes:
 
-- **2°** : folio, fo
-- **16°** : sextodécimo, 16mo
-- **8°** : octavo, 8vo
-- **18°** : octodécimo, 18mo
-- **20°** : vigésimo, 20mo
-- **18°** : octodecimo, eighteenmo, 18mo
-- **20°** : vigesimo, twentymo, 20mo
-- **obl. 4°:** cuarto oblongo
-- **obl. 2°:** folio oblongo
-- **Facsímil** : reproducción hecha con la intención de simular tanto como sea posible la apariencia física de una obra previa
-- **obl. 8°:** octavo oblongo
+- **2°**: folio, fo
+- **4°**: quarto, 4to
+- **8°**: octavo, 8vo
+- **12°**: duodecimo, twelvemo, 12mo
+- **16°**: sextodecimo, sixteenmo, 16mo
+- **18°**: octodecimo, eighteenmo, 18mo
+- **20°**: vigesimo, twentymo, 20mo
+- **24°**: vigesimo-quarto, twenty-fourmo, 24mo
+- **obl.**  **2°**: oblong folio
+- **obl.**  **4°**: oblong quarto
+- **obl.**  **8°**: oblong octavo
