@@ -20,7 +20,7 @@ _Examples_:
 
 For a chapter within a collection of essays, enter the page numbers of the chapter:
 
-_Example_ :
+_Example_:
 
 - p. 76-109
 
