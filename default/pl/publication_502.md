@@ -1,4 +1,6 @@
-### Dissertation note (502 $a)
+### Dissertation note (502)
+
+#### Dissertation note (502 $a)
 
 If the item is a doctoral dissertation, include the type of degree, institution, and year.
 
