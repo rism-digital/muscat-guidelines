@@ -4,9 +4,9 @@
 
 Select the origin of the record:
 
-- **Import** : The record was imported from an external database
-- **Retrospective conversion** : The record originated in a hard-copy publication and was converted to a machine-readable form
-- **RISM** : The record was created in the RISM database (default)
+- **Import**: The record was imported from an external database
+- **Retrospective conversion**: The record originated in a hard-copy publication and was converted to a machine-readable form
+- **RISM**: The record was created in the RISM database (default)
 
 #### Cataloging level (980 $b)
 
