@@ -1,5 +1,6 @@
-### Edition statement (250 $a)
+### Edition statement (250)
 
+#### Edition statement (250 $a)
 Enter the edition statement as given on the title page.
 
 _Ejemplos:_
