@@ -4,7 +4,7 @@
 
 **Required field.**
 
-The scoring (also known as performing force, medium of performance, or instrumentation, which here includes vocal parts) of a work, which was given in brief in the **Scoring summary** , is given here in full. The **Scoring summary** must therefore always correlate with the details you enter in this full description of the scoring.
+The scoring (also known as performing force, medium of performance, or instrumentation, which here includes vocal parts) of a work, which was given in brief in the **Scoring summary**, is given here in full. The **Scoring summary** must therefore always correlate with the details you enter in this full description of the scoring.
 
 If the full scoring requirements are not given, these should be ascertained from the title or the material itself. If the scoring is not known, write **no indication**. Any uncertainty can be mentioned in more detail in the field ** General note (500)**.
 
@@ -12,9 +12,9 @@ Use the autocomplete in this field to help you. An alphabetical list of abbrevia
 
 Use upper case for vocal parts and lower case for other instrumental parts. Solo instruments begin with **iSol:**.
 
-If you have a figured bass, enter the instrument as usual, such as **b** , **bc** , **org** , etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
+If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
-For non-C instruments, standard tunings are listed in the abbreviation list. If the tuning in your source deviates from the standard tuning, please list the tuning in the source (see: **in A** ). For instruments that are normally in C, "in C" does not need to be listed. If in doubt, list the tuning. Instrument tunings should be given in English. See ** Appendix: Keys**.
+For non-C instruments, standard tunings are listed in the abbreviation list. If the tuning in your source deviates from the standard tuning, please list the tuning in the source (see: **in A**). For instruments that are normally in C, "in C" does not need to be listed. If in doubt, list the tuning. Instrument tunings should be given in English. See ** Appendix: Keys**.
 
 When trying to decide between similar terms, it is usually best to go with what is on the source. If the name of the instrument in your source deviates from the RISM abbreviation, you may write the term as on the source in the field ** General note (500)**.
 
