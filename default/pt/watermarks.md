@@ -1,11 +1,13 @@
+## Watermarks
+
 **1. Figures** (Terms in italics refer to cross-references.)
 
 - abbot
-- _Agnus Dei:_ _use_lamb (Paschal)
+- _Agnus Dei:_ _use_ lamb (Paschal)
 - anchor
 - ankh
 - antlers
-- _balances:_ _use_scales
+- _balances:_ _use_ scales
 - Basle crosier
 - bear and tamer
 - bell (outline / clapper) _see also_ spherical bell
@@ -22,7 +24,7 @@
 - coach
 - coat of arms
 - compass
-- _compasses or pair of compasses:_ _use_compass
+- _compasses or pair of compasses:_ _use_ compass
 - crescent
 - crosier _see also_ Basle crosier, bishop’s crosier
 - cross of Lorraine
@@ -42,7 +44,7 @@
 - Gothic letter P with forked stem (turned outwards / inwards)
 - grapes: grapes / grape leaf / grapevine
 - griffin
-- _gryphon:_ _use_griffin
+- _gryphon:_ _use_ griffin
 - halberd
 - hat (three-cornered)
 - hedgehog
@@ -64,19 +66,19 @@
 - mitre
 - _mountain goat:_ _use_ ibex
 - orb
-- _pair of compasses:_ _use_compass
+- _pair of compasses:_ _use_ compass
 - quadruped
 - quill
 - ram
-- _rider:_ _use_horseman
+- _rider:_ _use_ horseman
 - _rod of Basel: use_ Basle crosier
 - scales (with triangular/round pans)
-- _scepter:_ _use_sceptre
+- _scepter:_ _use_ sceptre
 - sceptre
 - scythe
 - _serpent:_ _use_ snake
 - shape (tall / narrow / unidentified)
-- _shears:_ _use_scissors
+- _shears:_ _use_ scissors
 - shrub (nondescript)
 - sickle
 - snake on a shaft
@@ -107,4 +109,3 @@
 - chain line
 - formed from a single piece of wire
 - wire lines (curved/straight)
-
