@@ -11,10 +11,10 @@ Supongamos que estamos frente a 1 partitura y 10 particellas. Los/as catalogador
 
 El campo **Formato, extensión (300 $a)** se compone de tres partes: **Cantidad de ítems, Formato, Extensión**. Nótese que, en el caso de las particellas –incluidas las que tienen formato de tablatura–, la extensión se indica en el campo **Particellas conservadas y extensión de las mismas (530)**. Complete este campo haciendo uso de la terminología en inglés consignada.
 
-**Items** : declare el número de ítems conservados. Use **X** para indicar un número desconocido de ítems.
+**Items**: State the number of items held. Use **X** para indicar un número desconocido de ítems.
 
-**Formato** : utilice una de las siguientes opciones:  
-Generales:
+**Format**: Use one of the following.  
+General:
 
 - **_part(s)_**_:_ particella(s), esto es, la notación de una obra correspondiente a uno solo de los instrumentos o voces, sin importar el número de pentagramas por sistema (incluye piano, órgano, piano a cuatro manos). Úselo también para libros de partes.
 - **_score(s)_**_:_ partitura(s), esto es, el documento que contiene la notación para todos los instrumentos y/o voces de una composición, siempre que la misma requiera de más de un medio interpretativo. Este formato incluye a las obras para voz y acompañamiento.
@@ -39,12 +39,12 @@ Formatos especiales:
 
 En el caso de las particellas de director, consigne **part(s)**como formato e ingrese **_conductor part_** (particella de director) en **Particellas conservadas (590)**.
 
-- **_various_** _:_ úselo en registros madre de colecciones en casos en los que la colección contenga distintos tipos de formato (por ejemplo, una partitura y una particella de teclado).
-- **_other_** _:_ úselo si no aplica ninguno de los anteriores. En tales casos, explique las particularidades con una nota en el campo **Nota general (500)**. No se requiere ni la cantidad de ítems ni extensión.
+- **various**: Use for collection parent records if the collection contains different kinds of formats (such as a full score and a keyboard score).
+- **other**: Use if none of the above apply. En tales casos, explique las particularidades con una nota en el campo **Nota general (500)**. No se requiere ni la cantidad de ítems ni extensión.
 
 For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590).**
 
-**Extensión** : indique el número de páginas, folios o pliegos. Elija entre las siguientes abreviaturas: **f** para folio, **p** para página, **lvs** para hojas y **fds** para pliegos. En este sistema, una **lvs** corresponde a dos **f** , mientras que para que haya un **fds** debe haber por lo menos una **lvs**.
+**Extent**: Enter the number of pages, leaves, or gatherings. Elija entre las siguientes abreviaturas: **f** para folio, **p** para página, **lvs** para hojas y **fds** para pliegos. In this system, one **lvs** corresponds to two **f**, whereas one **fds** means at least one **lvs**.
 
 También se pueden indicar páginas o folios particulares de una pieza dentro de una colección manuscrita. Utilice sólo un método de enumeración. Indique otras unidades (por ejemplo, la conversión de folios a páginas) en el campo **Nota general (500)**. Use **r** y **v** para indicar recto y verso.
 
@@ -111,7 +111,7 @@ _Different sizes_
 
 #### Dimensiones (300 $c)
 
-Registre las dimensiones de la fuente siguiendo el formato alto x ancho en cm. Pueden indicarse fracciones de centímetros con una coma o un punto. Puede consignarse un segundo conjunto de dimensiones entre paréntesis. Si hay más de dos conjuntos de dimensiones diferentes, ingrese la frase en inglés **_Different sizes_** (Diferentes tamaños); en tal caso, puede dar mayores precisiones en el campo **Nota general (500)**. Formatos tales como **octavo, quarto** , etc. deben ser registrados en el campo **Formato de libro (340 $m)**.
+Registre las dimensiones de la fuente siguiendo el formato alto x ancho en cm. Pueden indicarse fracciones de centímetros con una coma o un punto. Puede consignarse un segundo conjunto de dimensiones entre paréntesis. Si hay más de dos conjuntos de dimensiones diferentes, ingrese la frase en inglés **_Different sizes_** (Diferentes tamaños); en tal caso, puede dar mayores precisiones en el campo **Nota general (500)**. Formats such as **octavo**, **quarto**, etc. should be indicated in the field **Book format (340 $m)**.
 
 _Ejemplos_:  
 20 x 16 cm; _plate mark_ 18 x 15,5 cm  
