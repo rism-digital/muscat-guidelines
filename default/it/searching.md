@@ -1,6 +1,6 @@
 **Searching** in Muscat is available through a **faceted search** and through **filters**.
 
-#### Faceted search
+### Faceted search
 
 The **Faceted search** (top menu in the middle) is available to search the data in a familiar OPAC setting. If you have editing rights for a particular source, an edit button will take you directly to the Muscat editing mode.
 
@@ -19,7 +19,7 @@ The RISM OPAC has a simplified incipit search under the [Advanced search](https:
 
 Don't forget to always search for the incipit before entering an anonymous source! [Incipit search first](https://youtu.be/kKc0zzc8cbo)!
 
-#### Muscat filters
+### Muscat filters
 
 The Muscat **filters** offer simple yet powerful searching.
 
@@ -30,8 +30,8 @@ You can enter in each field:
   either without quotations mark: **lass noch**   
   or with quotation marks: **"lass noch"**
 - Truncation with ? or \*  
-  **?** : The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
-  **\*** : The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher.
+  **?**: The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
+  **\***: The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher.
 - AND, OR, NOT, ( ): Take advantage of Boolean searching. Use parenthesis to group your search. Examples:
 
     - Composer contains: **(Bach AND Johann) NOT Sebastian**  
@@ -52,19 +52,19 @@ Please note the following for all sections:
       Example: Last modification  
       [empty] -  **2012-02-07**  
       will retrieve all records edited from the beginning of time up to February 7, 2012 at midnight (meaning no records created during the work day on February 7 will be included).
-    - **Date range** : Note that since the day is set at midnight, to search for all records created on February 7, 2012, for example, you must enter the start date 2012-02-07 (understood as midnight on February 7) and the end date 2012-02-08 (understood as midnight on February 8). This will include all sources created during the day. A search from 2012-02-07 to 2012-02-07 will be empty!
+    - **Date range**: Note that since the day is set at midnight, to search for all records created on February 7, 2012, for example, you must enter the start date 2012-02-07 (understood as midnight on February 7) and the end date 2012-02-08 (understood as midnight on February 8). This will include all sources created during the day. A search from 2012-02-07 to 2012-02-07 will be empty!
 
-Please note the following for searching **Sources** :
+Please note the following for searching **Sources**:
 
-- **Siglum contains** : Search by the letters in a siglum. This field is case-sensitive. For example:  
+- **Siglum contains**: Search by the letters in a siglum. This field is case-sensitive. For example:  
   **D-\*** = all sources in Germany  
   **D-B\*** =all sources in German cities that start with B  
   **D-B** = all sources at the Staatsbibliothek zu Berlin
 
-#### Personal names
+### Personal names
 
-Please note the following for searching **Personal names** :
+Please note the following for searching **Personal names**:
 
-- **Name** : Searches the fields **Heading - Personal name (100 $a)** and **Name variant (400 $a)**.
-- **Life dates** : Searches the field **Years of birth and death (100 $d)**, meaning years as well as the following abbreviations: sc a p c \* + /
-- **Places** : Searches the field **Geographic name (551)**. This includes places of birth, death, origin, or activity.
+- **Name**: Searches the fields **Heading - Personal name (100 $a)** and **Name variant (400 $a)**.
+- **Life dates**: Searches the field **Years of birth and death (100 $d)**, meaning years as well as the following abbreviations: sc a p c \* + /
+- **Places**: Searches the field **Geographic name (551)**. This includes places of birth, death, origin, or activity.
