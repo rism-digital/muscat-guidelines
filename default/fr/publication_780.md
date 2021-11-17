@@ -1,6 +1,7 @@
-### Preceding entry (780 $w)
+### Preceding entry (780)
 
-This field and the next field ( **Succeeding entry** ) are used to name and link alternate titles of items, such as a journal title that has changed names.
+#### Preceding entry (780 $w)
+This field and the next field (**Succeeding entry**) are used to name and link alternate titles of items, such as a journal title that has changed names.
 
 Enter here the name that the periodical was formerly known as. This field is linked to the **Secondary literature** database.
 
