@@ -7,7 +7,7 @@ Por favor, consulte el Centro Editorial de RISM si desea añadir un incipit MEI.
 Al abrir una imagen, le aparecerán las siguientes opciones a la derecha:
 
 - **Volver a la lista**
-- **Editar** : permite cambiar el nombre o reemplazar el archivo
-- **Vincular fuente** : permite vincular la imagen a una fuente existente, por ejemplo, adjuntar la misma marca de agua a múltiples fuentes.
-- **Vincular persona** : permite vincular la imagen con el registro de autoridad de una persona; sirve, por ejemplo, para mostrar muestras caligráficas.
-- **Vincular institución** : permite vincular la imagen con el archivo de la autoridad de una institución; sirve, por ejemplo, para adjuntar la imagen de un edificio.
+- **Edit**: Allows you to change the name or replace the file
+- **Link source**: Allows you to link the image to an existing source, such as attaching the same watermark to multiple sources
+- **Link person**: Allows you to link the image to the authority file of a person, such as for displaying handwriting samples
+- **Link institution**: Allows you to link the image to the authority file of an institution, such as an image of the building
