@@ -1,5 +1,6 @@
-### Número de plancha (028 $a)
+### Plate number (028)
 
+#### Número de plancha (028 $a)
 En este campo se registran los números de plancha, que aparecen por lo general en ítems impresos pero pueden encontrarse también en manuscritos que fueron copiados a partir de una edición musical impresa.
 
 Registre el número de plancha exactamente como aparece en la fuente. Pueden añadirse números arábigos aclaratorios entre corchetes si el número de plancha está escrito con números romanos.
