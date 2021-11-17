@@ -60,7 +60,7 @@ En este campo también pueden registrarse textos relacionados que no aparezcan e
 
 **Escritura no latina** : si su fuente presenta un íncipit literario escrito con letras o caracteres no latinos (alfabeto cirílico/griego/hebreo/coreano, caracteres chinos, etc.) ingrese el **Íncipit literario** en su idioma original. Las traducciones o transliteraciones son opcionales y pueden añadirse en campos de íncipit literario adicionales. Si desea añadir traducciones que no están en la fuente, hágalo entre corchetes. Se puede traducir a cualquiera de los idiomas RISM.
 
-**Reglas especiales para textos en latín** : ingrese los textos en latín, tanto sacros como seculares. Este campo está vinculado al archivo de autoridades de **Títulos/íncipits literarios**. Dentro del archivo de autoridades de **Títulos/íncipits literarios** , los términos precedidos por el indicador **t**  presentan información sobre el contexto litúrgico exacto, versiones variantes y otros aspectos vinculados al íncipit literario. Si el íncipit literario se usa además como Título Uniforme, asegúrese de que la ortografía sea idéntica; no obstante, recuerde que en los títulos uniformes el texto en latín se ingresa sólo hasta la coma. Use corchetes para registrar textos en latín que no aparecen en la fuente pero han sido determinados por vía de la investigación.
+**Reglas especiales para textos en latín** : ingrese los textos en latín, tanto sacros como seculares. Este campo está vinculado al archivo de autoridades de **Títulos/íncipits literarios**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. Si el íncipit literario se usa además como Título Uniforme, asegúrese de que la ortografía sea idéntica; no obstante, recuerde que en los títulos uniformes el texto en latín se ingresa sólo hasta la coma. Use corchetes para registrar textos en latín que no aparecen en la fuente pero han sido determinados por vía de la investigación.
 
 Los textos normalizados en latín suelen corresponderse con las versiones del _Liber usualis_. En RISM, estos textos incluyen generalmente una coma. Por ejemplo, si busca el texto “Et in terra pax”, encontrará alrededor de una docena de resultados, pero sólo uno incluye una coma, y verá que esta fuente ha sido usada 4800 veces en la base de datos. Se trata del registro que deseamos usar como íncipit –asumiendo que el mismo se corresponda con su fuente–. Si su íncipit literario es sólo “Et in terra pax” se da a entender que, o bien (1) sólo contiene esas palabras, o bien (2) continúa de un modo diferente al del _Liber usualis_. Por supuesto, cabe la posibilidad de que esto suceda. Sin embargo, en la mayoría de los casos se optará por la versión con la coma.
 
@@ -82,15 +82,15 @@ _Ejemplos de un compás de silencio:_
 
 Registre la indicación de compás como una fracción. También se permiten las siguientes opciones:
 
-**c** = compasillo, _common time_ o _tempus imperfectum cum prolatione imperfecta_  
-**c/** = compás mayor, _alla breve_  
-**3** = _proportio tripla_; también **1** , **2** , etc.  
-**c3** = _proportio tripla_  
-**c3/2** [añadido a la traducción: _proportio sesquialtera,_ «proporción menor»_]_  
-**c.** = _tempus imperfectum cum prolatione perfecta_  
-**o** = _tempus perfectum cum prolatione imperfecta_  
-**o/** = _tempus perfectum cum prolatione minore, diminutum_  
-**o.** = _tempus perfectum cum prolatione perfecta_
+**c** = common time or tempus imperfectum cum prolatione imperfecta  
+**c/** = cut time, alla breve  
+**3** = proportio tripla; also **1**, **2**, etc.  
+**c3** = proportio tripla  
+**c3/2  
+c.** = tempus imperfectum cum prolatione perfecta  
+**o** = tempus perfectum cum prolatione imperfecta  
+**o/** = tempus perfectum cum prolatione minore diminutum  
+**o.**  = perfect time, tempus perfectum cum prolatione perfecta
 
 Si la métrica cambia constantemente, puede escribir la primera indicación de compás seguida de la segunda, separadas por un espacio. Si el íncipit no lleva indicaicón de compás, deje el campo en blanco.
 
@@ -185,7 +185,7 @@ _Examples for multiple measures of rest:_
 t = trino (se coloca inmediatamente después de la nota)
 
 + = ligadura de prolongación (se coloca inmediatamente después de la nota; no confundir con ligadura de expresión)  
-  () = calderón/fermata/pausa (solo puede usarse con una sola nota o silencio; las alteraciones, etc. deben quedar afuera del paréntesis; consulte también el punto **10. Ritmos especiales** , más abajo).
+  () = calderón/fermata/pausa (solo puede usarse con una sola nota o silencio; las alteraciones, etc. deben quedar afuera del paréntesis; consulte también el punto **10. Special rhythms**, below)
 
 {qq6’CDEDr}
 
