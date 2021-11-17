@@ -1,4 +1,4 @@
-### Templates
+# Templates
 
 Muscat offers template for different sources. The template offers only those fields that are needed for the source in hand.
 
