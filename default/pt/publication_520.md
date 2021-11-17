@@ -1,5 +1,6 @@
-### Contents note (520 $a)
+### Contents note (520)
 
+#### Contents note (520 $a)
 This field states the beginning/ending date(s) of an item, especially for periodicals.
 
 _Examples_:
