@@ -1,4 +1,4 @@
-# Abreviaturas y conceptos generales
+## Abreviaturas y conceptos generales
 iSol
 
 - Ejemplo: iSol: vl
@@ -7,7 +7,9 @@ iSol
 - FR:
 - IT:
 - PL:
-- PT: brasses
+- PT:
+
+brasses
 
 - EN: brass instruments (cor, clno or tr, trb)
 - DE: Blechblasinstrumente
@@ -32,7 +34,9 @@ cuerdas
 - FR: instruments à vent
 - IT: strumenti a fiato
 - PL:
-- ES: vientos madera
+- PT:
+
+woodwinds
 
 - EN: woodwinds
 - DE: Holzblasinstrumente
@@ -53,7 +57,6 @@ orch
  pf (cemb) etc.
 
 - Ejemplos:
-
   - pf (orch)
   - T (S)
 - EN: Add alternative scoring possibilities to the original requirements in brackets.
@@ -214,9 +217,6 @@ in E|b
 - Ejemplo: vl rip
 
 _etc._
-
-
-
 
 
 **Tipos o números de instrumentos no especificados o desconocidos**
@@ -979,7 +979,7 @@ t-saxofono
 - FR: saxophone ténor
 - IT: saxofono/ sassofono tenore
 - PL:
-- bariton-saxofono
+- PT: bariton-saxofono
 - EN: baritone saxophone
 - DE: Baritonsaxophon
 - FR: saxophone baryton
@@ -1293,7 +1293,7 @@ cnto
 
 - ES: tenor
 - DE: Euphonium (zur Familie der Bügelhörner gehörig)
-- ES: contrafagot
+- ES: zufoletto
 - ES: soprano
 - PL:
 - PT:
