@@ -1,18 +1,20 @@
+# Authorities
+
 The **Authorities** section of Muscat collects all authority files, controlled vocabulary, and indexes. We like to think of it as mini databases within Muscat.
 
-### Digital objects
+## Digital objects
 
 The digital objects database collects all the images (usually watermarks, handwriting samples, or bindings as well as MEI incipits) that catalogers upload into Muscat and attach to their records through the **Attach a new image** link in the source editing mode.
 
-### Institutions
+## Institutions
 
 The authority file for institutions (corporate names) is for non-persons that appear in connection with a source.
 
-### Liturgical festivals
+## Liturgical festivals
 
 The index of  liturgical festivals collects religious holidays and feast days. New liturgical festivals may be added in consultation with the Editorial Center.
 
-### Personal names
+## Personal names
 
 New authority records for people are created when you enter a new name when cataloging a source, or when you click **Create** to create a new record in the personal names authority file.
 
@@ -20,23 +22,23 @@ In the editing mode for personal names, you can search and import data from VIAF
 
 After you enter a new name, you can edit it for the next two months. This is useful if you find alternate spellings of a name, for example, or if you have additional biographical information you wish to add. After that, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to alexander.marxen@rism.info.
 
-### Places
+## Places
 
 The index of places collects the names of locations, including historical geographic names.
 
-### Secondary literature
+## Secondary literature
 
 This bibliographic database contains information about all forms of secondary literature: catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc.  By clicking on "Create," a new work of secondary literature may be added.
 
-### Subject headings
+## Subject headings
 
 All subject headings, forms, and genres are collected here. Some records include explanations as to the scope of the subject heading. If you need a subject heading that is not in our list, please let us know and we will create one for you.
 
-### Titles / Text incipits
+## Titles/Text incipits
 
 This authority file contains both the titles entered in the field **Standardized title (240 $a)** and the text incipits entered in the field **Text incipit (031 $t)**.
 
-### Works
+## Works
 
 An authority record for a work is for all information that is true for a work as a whole, no matter what other forms a piece of music exists in, whether it be—for example—an arrangement, a translation, a full score, or a single manuscript. Authority records can include the composer, title, title variants, key, instrumentation, and incipits, though it is not always an easy matter to decide what constitutes a separate "work."
 
@@ -44,7 +46,7 @@ Associating a musical source in Muscat with an authority record for a work ensur
 
 Links to authority records for works are made in the field 930 in every bibliographic record for a musical source. Works not in the authority file must be created first before a link can be made.
 
-#### Creating a new authority record for a work
+**Creating a new authority record for a work**
 
 Please contact the RISM Editorial Center if you wish to create authority records for works.
 
