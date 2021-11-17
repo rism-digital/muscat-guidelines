@@ -1,19 +1,20 @@
-### Source type (593 $a)
+### Source type (593)
 
+#### Source type (593 $a)
 **Required field.**
 
 This field describes the nature the source. Please select from the list as follows:
 
 **For notated music:**
 
-- **Autograph manuscript** : Written completely or mostly in the composer’s hand.
-- **Possible autograph manuscript** : Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
-- **Partial autograph** : Significant portions of the manuscript are in the composer's hand.
+- **Autograph manuscript**: Written completely or mostly in the composer’s hand.
+- **Possible autograph manuscript**: Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
+- **Partial autograph**: Significant portions of the manuscript are in the composer's hand.
 - **Manuscript copy**
-- **Manuscript copy with autograph annotations** : Corrections or small additions are in the composer’s hand.
+- **Manuscript copy with autograph annotations**: Corrections or small additions are in the composer’s hand.
 - **Print**
 - **Print with autograph annotations:** Handwritten annotations by the composer. Use for holdings only (copy-specific information).
-- **Print with non-autograph annotations** : Any other kind of handwritten annotations not by the composer. Use for holdings only (copy-specific information).
+- **Print with non-autograph annotations**: Any other kind of handwritten annotations not by the composer. Use for holdings only (copy-specific information).
 
 **For other types of documents:**
 
@@ -33,5 +34,5 @@ If multiple types of sources are present, repeat the "Material description" grou
 
 If your source is a mechanical reproduction (such as a photocopy), follow these steps:
 
-1. Select **Autograph manuscript** , **Manuscript copy** , etc. as appropriate (that is, select the type that applies to the original source)
+1. Select **Autograph manuscript**, **Manuscript copy**, etc. as appropriate (that is, select the type that applies to the original source)
 2. Select the type of reproduction in the field **Special production technique (340 $d)**
