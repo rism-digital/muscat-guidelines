@@ -11,6 +11,5 @@ Enter the short title. This field is linked to the **Secondary literature** data
 Enter the page number and the title of the work as given in the reference source.
 
 _Example:_
-
 - GarveyJacksonW : p. 2-3 (Crazy Jane ("Why fair maid in ev'ry feature") A favorite song...with an accompaniment for the harp or piano forte)
 - RitchieW 2008 : p. 110 (A song with lyrics written by Matthew Lewis, composed by Harriett Abrams, entitled "Crazy Jane" (c.1799))
