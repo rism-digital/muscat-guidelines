@@ -1,5 +1,6 @@
-### Heading - Personal name (100 $a)
+### Heading - Personal name (100)
 
+#### Heading - Personal name (100 $a)
 This field is for the name of the person in its authorized form.
 
 Names are entered in the form Surname Forename, with a comma separating the elements for names in inverted order. If you only have initials, enter in direct order.
@@ -25,19 +26,19 @@ Enter the person’s years of birth and death or enter a different relevant rang
 
 If the person's exact years of birth and/or death are unknown, use the following abbreviations to signal that the years are not exact.
 
-- **.sc** : century  
+- **.sc**: century  
   **18.sc** = Eighteenth century
-- **a** : before  
+- **a**: before  
   **1811a** = before 1811
-- **p** : after  
+- **p**: after  
   **1811p** = after 1811
-- **c** : circa, around, approximately  
+- **c**: circa, around, approximately  
   **1816c** = around 1816
-- **\*** : born  
+- **\***: born  
   **1816\*** = born in 1816, but year of death unknown
-- **+** : died  
+- **+**: died  
   **1756+** = died in 1756, but year of birth unknown
-- **/** : or  
+- **/**: or  
   **17/18** = lived in the seventeenth and eighteenth centuries
 
 Do not use the following abbreviations for date ranges: in, me, ex, q , d, t
