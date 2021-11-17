@@ -1,4 +1,4 @@
-### Copia de registros existentes
+# Copia de registros existentes
 
 Muscat ofrece la posibilidad de seleccionar una plantilla apropiada para el tipo de fuente a catalogar. La plantilla ofrecerá sólo los campos que se requieren para la fuente en cuestión.
 
