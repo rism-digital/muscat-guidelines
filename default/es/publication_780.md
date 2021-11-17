@@ -1,6 +1,7 @@
-### **Registro precedente (780 $w) **
+### Preceding entry (780)
 
-Este campo y el siguiente ( **Registro subsiguiente** ) se utilizan para consignar y vincular los títulos alternativos de ciertos ítems, por ejemplo el título de una revista que ha cambiado de nombre.
+#### **Registro precedente (780 $w) **
+This field and the next field (**Succeeding entry**) are used to name and link alternate titles of items, such as a journal title that has changed names.
 
 Escriba aquí el nombre con el que se conocía anteriormente al periódico. Este campo está vinculado a la base de datos de **Bibliografía secundaria.
 
