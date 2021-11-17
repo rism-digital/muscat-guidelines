@@ -1,8 +1,10 @@
+## Cataloging special types of sources
+
 Esta sección describe cómo catalogar tipos especiales de fuentes: colecciones, volúmenes compuestos, _contrafacta_, compilaciones, arias insertadas, parodias, materiales mixtos (ítems manuscritos e impresos que se almacenan juntos), música en periódicos, música en publicaciones no musicales, libretos, tratados y arreglos para piano.
 
-### Catalogación de colecciones
+### Collections
 
-En RISM, se entiende como _colección_ tanto a un manuscrito que ha sido concebido intencionalmente como conjunto o antología de obras múltiples, como también a un ítem sencillo que contiene dos o más piezas separadas. Esto último implica que, en caso de que un manuscrito de una sonata para piano, por ejemplo, incluya un borrador de una fuga justo al final, RISM lo catalogará como una colección con un registro madre para el documento en general y entradas individuales para la sonata y la fuga.
+In RISM, a _collection_ is both an intentional collective manuscript or anthology of multiple works as well as an item that contains two or more separate pieces. Esto último implica que, en caso de que un manuscrito de una sonata para piano, por ejemplo, incluya un borrador de una fuga justo al final, RISM lo catalogará como una colección con un registro madre para el documento en general y entradas individuales para la sonata y la fuga.
 
 Al catalogar colecciones, tenga en cuenta que:
 
@@ -15,7 +17,7 @@ En el caso de colecciones compuestas por obras muy similares entre sí, es una b
 
 Los registros madre de colección no pueden albergar registros madre de colección de manuscritos. En su lugar, trabaje con una estructura menos jerarquizada, con registros individuales y explique la conformación u organización del ítem en una nota.
 
-### Catalogación de volúmenes compuestos
+### Composite volumes
 
 Un **Volumen compuesto** es un volumen integrado por documentos que fueron creados por separado y encuadernados juntos posteriormente, usualmente por un propietario o una institución. Hay otros nombres para este tipo de volúmenes: _bound-with, Sammelband, _volumen de encuadernador, volumen de colector. En este conjunto se incluyen tanto los volúmenes en los que una suma de ítems impresos fue encuadernada en conjunto, como también aquellos en los que piezas impresas aparecen encuadernadas junto a manuscritos.
 
@@ -33,7 +35,7 @@ Con este tipo de documentos, deberá vincular tanto ítems manuscritos como impr
 2. Para los manuscritos: en el modo de edición del registro de su manuscrito, vaya al campo **Registro madre (773)**. Haga click en el segundo botón (lupa de la derecha) para buscar el volúmen compuesto.
 3. Para la música impresa: en el registro de ejemplar correspondiente a la copia de su repositorio, busque el campo **Encuadernado con (973)** y haga click en la lupa. Encuentre el registro del volúmen compuesto y selecciónelo.
 
-### Catalogación de _contrafacta_
+### Contrafacta
 
 _Contrafactum</em>)_ _son piezas vocales en las cuales se reemplaza el texto sin realizar cambios significativos a la música, como en el caso de las obras seculares cuyo texto es reemplazado por uno sacro, o viceversa. La derivación es casi mecánica; hay poca creatividad en juego de parte del arreglador, aunque se plantea un cambio significativo en el propósito musical de la pieza (por ejemplo, el desplazamientpo de un contexto teatral a otro religioso).
 
@@ -90,7 +92,7 @@ Se registrarán los dos íncipits literarios (use el + para añadir una nueva l�
 
 Todos los otros campos, tales como la festividad litúrgica y la plantilla/orgánico, deben referir a la fuente que se cataloga, esto es, al _contrafactum _mismo, y no a la obra original en el cual se basa.
 
-### Catalogación de compilaciones
+### Compilations
 
 Las compilaciones constituyen obras nuevas e independientes hechas a partir de partes de una o más obras que también pueden incluir material nuevo. Con frecuencia, la obra resultante es de un género diferente al de las partes que la componen, como cuando las arias o dúos de una ópera se convierten en una cantata, o los extractos de una ópera se convierten en una suite instrumental. Esto también incluye los pasticcios. Si bien la frontera entre una compilación y un pasticcio no siempre es clara, los pasticcios pueden ser caracterizados generalmente por uno de estos rasgos: 1) arias, duetos o partes más grandes de obras dramáticas que se adaptan a un nuevo libreto; 2) varias obras independientes que se combinan para crear una nueva obra; o 3) composiciones colaborativas concebidas como tales desde el principio.
 
@@ -111,17 +113,16 @@ En el caso de los pasticcios, no registre compositoras/es como Referencias cruza
 **Título estandarizado (240)**  
 Introduzca el título estandarizado de la fuente en cuestión. Para los pasticcios, añada seleccione **Extractos** o **Arreglo** según corresponda.
 
-**Código de idioma (041)**  
-Para el campo **Idioma del texto** , introduzca el idioma de la fuente en cuestión. Si corresponde, se puede introducir el idioma de la obra original en **Idioma del texto original**.
+**Language code (041)**  
+For the field **Language of text**, enter the language of the source in hand. Si corresponde, se puede introducir el idioma de la obra original en **Idioma del texto original**.
 
 **Descriptor (650)**  
 El primer descriptor debe ser **Compilations** (Compilaciones) y/o **Pasticcios**. El segundo corresponde al género de la fuente en cuestión. En el caso de los extractos, se puede añadir el género del extracto. Otra opción es **Collaborative compositions** (Composiciones colaborativas).
 
-**Descripción sumaria (520)**  
-Utilice este campo para describir la naturaleza de la fuente en general.  
-[N. del T.: recuerde que este campo debe estar en inglés]  
-_Ejemplo_:  
-Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel [= Acto 1 de Amadei, acto 2 de Bononcini, obertura y acto 3 de Händel]
+**Description summary (520)**  
+Use this field to describe in general the nature of the source.  
+_Example_:  
+Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
 
 **Título alternativo (730)**  
 Escriba el título uniforme de la(s) pieza(s) original(es), seleccionando **Extractos** o **Arreglo** según corresponda. También puede introducir títulos _ossia_.
@@ -138,7 +139,7 @@ Utilice siempre una nota para aclaraciones, especialmente si se trata de obras d
 **Nota sobre ocasión de interpetación (518)**  
 Las interpretaciones deben ser señaladas sólo en la medida en que se relacionen con la compilación misma.
 
-**Treatises** [Tratados]
+**Examples of compilations**:
 
 230001408: Cantata hecha de arias de ópera con recitativos de nueva composición
 
@@ -150,7 +151,7 @@ Las interpretaciones deben ser señaladas sólo en la medida en que se relacione
 
 452505748: Un ópera pasticcio que consiste en 3 actos de 3 compositores diferentes
 
-### Catalogación de Parodias
+### Parodias
 
 Una parodia es una composición basada en material preexistente que da lugar a una nueva obra. En el siglo XIX, el término adquiere un sesgo satírico.
 
@@ -204,7 +205,7 @@ Introduzca el incipit literario de la fuente en cuestión. También puede introd
 
 **Título adicional (730):** Título de la obra mayor, más el subencabezado **Inserciones.**
 
-#### Compositor (100)
+### Insertion arias
 
 **Descriptor (650):** Introduzca tres: _Insertions_, el género de la inserción y el género de la obra mayor.
 
@@ -226,7 +227,7 @@ En caso de que no sea factible c un registro adecuado para el material impreso, 
 
 **Compositor (100):** Compositor de la inserción.
 
-### Catalogación de arias de inserción
+### Mixed materials (manuscripts and printed items stored together)
 
 _Ejemplos_:    
 991018149: "The Pantheon" publicado en _The Lady's Magazine_, Agosto de 1784  
@@ -236,7 +237,7 @@ Procure siempre catalogar el material impreso en un registro separado, dado que 
 
  If it is not feasible to create an adequate record for the printed material, proceed as follows: Catalog your material using a manuscript template. In the material description section, describe the manuscript materials. Add an additional material group, and describe the printed materials.
 
-### Catalogación de música publicada en periódicos
+### Music in periodicals
 
 Existen dos maneras de catalogar periódicos que contienen música: como colección o como obra individual. En cada caso, el título del periódico, con el número de edición y el año, se registran en el campo **Título adicional (730).**
 
@@ -248,21 +249,21 @@ _Examples_:
 991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784  
 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
 
-### Catalogación de música presente en publicaciones no-musicales
+### Music in non-music publications
 
 RISM también incluye música presente en publicaciones impresas que fueron concebidas como documentos fundamentalmente no musicales. El foco de RISM, no obstante, se ubica sobre la música
 
-_Ejemplo_:   
-990026614: 3 canciones de John Isaac Hawkins que fueron incluidas en _Discourse introductory to a course of lectures on the science of nature _(1800), de Charles Willson Peale.  
-**Compositor/Autor (100)**: el compositor de la música.  
-**Nombre personal adicional (700)**: el autor del libro, con la indicación  **other**  
-**Título en fuente (diplomático) (245)**: título del libro  
-**Título uniforme (240)**: un título uniforme que siga las reglas de RISM, en este caso  **_3 Songs _** (tres canciones)  
-**Decripción física (300)**: una descripción correspondiente a la música, por ejemplo,  **1 score: 5 p. **
+_Example_:  
+990026614: 3 songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).  
+**Composer/Author (100)**: The composer of the music  
+**Additional Personal Name (700)**: The author of the book, with the indicator **other**  
+**Title on source (245)**: The title of the book  
+**Standardized title (240)**: A standardized title according to RISM rules, such as **3 Songs**  
+**Physical description (300)**: A description of the music, such as **1 score: 5 p.**
 
 **Institución adicional (710):** No olvide indexar el nombre del editor (en el caso de los libretos impresos).
 
-### Catalogación de arreglos para piano
+### Libretti
 
 Por favor, tenga en cuenta lo siguiente al catalogar libretos.
 
@@ -286,7 +287,7 @@ Pueden agregarse descriptores adicionales.
 _Ejemplo:_  
 p.
 
-### Catalogación de libretos
+### Treatises
 
 Cuanto se catalogan tratados, el campo **Formato, extensión (300 $a)** debe incluir, por lo general, **_text document_** (documento de texto) como formato.
 
@@ -305,27 +306,17 @@ Appropriate subject headings for treatises include the following:
 
 Additional subject headings may be added.
 
-### Catalogación de tratados
+### Piano arrangements
 
 Especifique los arreglos para piano del siguiente modo:
 
--
+- Seleccione **Arreglo** en el subcampo **Mención de arreglo.**
 
-Seleccione **Arreglo** en el subcampo **Mención de arreglo.**
+  - **Tipo de fuente (593):** Seleccione "Libreto, manuscrito" o "Libreto, impreso".
 
-  -
+  - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. No ingrese los datos correspondientes a la obra original.
 
-**Tipo de fuente (593):** Seleccione "Libreto, manuscrito" o "Libreto, impreso".
+- In the field **Total scoring (594)**, enter the total scoring of the arrangement. No ingrese los datos correspondientes a la obra original.
 
-  -
-
-En el campo **Plantilla/orgánico total (594),** ingrese la plantilla/orgánico total correspondiente al arreglo. No ingrese los datos correspondientes a la obra original.
-
--
-
-In the field **Total scoring (594)**, enter the total scoring of the arrangement. No ingrese la plantilla/orgánico de la obra original.
-
--
-
-**Título uniforme (240)**  
-Utilice el título uniforme de la pieza original. Puede seleccionar el calificador  **Extractos.**  No use el calificador  **Arreglo**.
+- **Título uniforme (240)**  
+  Utilice el título uniforme de la pieza original. Puede seleccionar el calificador  **Extractos.**  No use el calificador  **Arreglo**.
