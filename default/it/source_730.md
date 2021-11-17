@@ -65,10 +65,10 @@ Select **Arrangement** if the work is an arrangement of another work. Make sure 
 
 Indicate what cataloging rules or standards are used to formulate the additional title.
 
-- **RISM** : (default)
-- **RDA** : Resource Description and Access
-- **RAK** : Regeln für die alphabetische Katalogisierung (cataloging rules used in German-speaking countries)
-- **ICCU** : Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche ( cataloging rules used in Italy)
+- **RISM**: (default)
+- **RDA**: Resource Description and Access
+- **RAK**: Regeln für die alphabetische Katalogisierung (cataloging rules used in German-speaking countries)
+- **ICCU**: Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche ( cataloging rules used in Italy)
 
 #### Subheading (730 $k)
 
@@ -79,7 +79,7 @@ This field is for special forms aspects as applicable. Select from the following
 - Inserts
 - Sketches
 
-Make sure that if you select **Excerpts** , **Fragments** , or **Sketches** in the field **Subheading (240 $k)** above, you also select **Excerpts** , **Fragments** , or **Sketches** here. For inserts, select **Inserts**. Further information can be entered into the field **Contents note (505)**.
+Make sure that if you select **Excerpts**, **Fragments**, or **Sketches** in the field **Subheading (240 $k)** above, you also select **Excerpts**, **Fragments**, or **Sketches** here. For inserts, select **Inserts**. Further information can be entered into the field **Contents note (505)**.
 
 #### Key or mode (730 $r)
 
