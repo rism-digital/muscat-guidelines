@@ -1,4 +1,4 @@
-### Abreviatura
+## Instrumentos pulsados
 
 #### Abreviatura
 
@@ -107,7 +107,7 @@
 - FR: cithare
 - IT: zither
 
-### Inglés
+### Percusión, otros
 
 #### batt
 
