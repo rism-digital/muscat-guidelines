@@ -1,4 +1,4 @@
-The publication of the data records is controlled by the "work flow" commands. Every change of the "work flow" status must be confirmed by typing the word "yes".
+outdated123 The publication of the data records is controlled by the "work flow" commands. Every change of the "work flow" status must be confirmed by typing the word "yes".
 
 #### Unpublished
 
