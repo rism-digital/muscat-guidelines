@@ -6,7 +6,7 @@ identical, such as with _Symphonies_. In other cases, however, a corresponding, 
 is used.
 
 Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres,
-you will see the words (**voc**.) or (**inst**.) after the term in parentheses. Specifications such as (dances) or (
+you will see the words (**voc.**) or (**inst.**) after the term in parentheses. Specifications such as (dances) or (
 stage) may also be added in parentheses after the main term.
 
 Below are some examples, followed by correspondences for the following kinds of standardized titles:
