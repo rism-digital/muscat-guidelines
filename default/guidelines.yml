@@ -292,7 +292,6 @@ doc:
           - title: "in_667"
             helpfile: "institution_667"
             index: true
-  - title: "doc_aid_liturgical_feasts"
   - title: "doc_personal_names"
     sections:
       - title: "pe_main_entry_fields"
@@ -367,7 +366,6 @@ doc:
           - title: "in_005"
             helpfile: "person_005"
             index: true
-  - title: "doc_places"
 
 
   - title: "li_lit"
@@ -467,7 +465,6 @@ doc:
             helpfile: "publication_005"
             index: true
 
-  - title: "doc_titles_and_text"
   - title: "doc_abbreviations"
     sections:
     - title: "doc_abbr_voices_instr"
