@@ -1,5 +1,7 @@
 
  outdated123
+ <!-- Handed over to Guido who will evaluate  it for use in Muscat. 25 November 2021-->
+
  Liturgical feasts follow the "Calendarium Romanum generale" which was issued before the Second Vatican Council. This is the reference for the sources in the Swiss RISM database.
 
 [A](#aid_liturgical_feasts_A) | [B](#aid_liturgical_feasts_B) | [C](#aid_liturgical_feasts_C) | [D](#aid_liturgical_feasts_D) | [E](#aid_liturgical_feasts_E) | [F](#aid_liturgical_feasts_F) | [G](#aid_liturgical_feasts_G) | [H](#aid_liturgical_feasts_H) | [I](#aid_liturgical_feasts_I) | [J](#aid_liturgical_feasts_J) | [L](#aid_liturgical_feasts_L) | [M](#aid_liturgical_feasts_M) | [N](#aid_liturgical_feasts_N) | [O](#aid_liturgical_feasts_O) | [P](#aid_liturgical_feasts_P) | [Q](#aid_liturgical_feasts_Q) | [R](#aid_liturgical_feasts_R) | [S](#aid_liturgical_feasts_S) | [T](#aid_liturgical_feasts_T) | [U](#aid_liturgical_feasts_U) | [V](#aid_liturgical_feasts_V) | [W](#aid_liturgical_feasts_W) | [X-Z](#aid_liturgical_feasts_X)
