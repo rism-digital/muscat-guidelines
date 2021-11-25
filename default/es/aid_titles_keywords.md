@@ -2,7 +2,7 @@
 
 Esta sección refiere a situaciones de catalogación en las que los géneros se usan como títulos normalizados (véanse los lineamientos para **Título normalizado (240)**). En muchos casos, el Título normalizado y el Descriptor (650) resultarán idénticos, como sucede en el caso de _Symphonies_ [Sinfonías]\*_._ Sin embargo, en otros casos se usa un descriptor correspondiente pero no idéntico. In other cases, however, a corresponding, rather than identical, subject heading is used.
 
-Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words (**voc**.) or (**inst**.) after the term in parentheses. También pueden aparecer especificaciones tales como (dances) [danzas] o (stage) [escenario/escénico] tras el término principal y entre paréntesis.
+Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words (**voc.**) or (**inst.**) after the term in parentheses. También pueden aparecer especificaciones tales como (dances) [danzas] o (stage) [escenario/escénico] tras el término principal y entre paréntesis.
 
 En lo sucesivo se presentan algunos ejemplos y sus correspondencias, para los siguientes tipos de títulos normalizados:
 
