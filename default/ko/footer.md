@@ -1,1 +1,1 @@
-outdated123 Guidelines footer
+Guidelines footer
