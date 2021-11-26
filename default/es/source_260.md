@@ -28,9 +28,9 @@ En el caso de los manuscritos, trate siempre de consignar una fecha, aunque sea 
 
 You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before**, and **after**. Trate de indicar la fecha del modo más exacto posible. Si no cuenta con datos certeros, utilice un rango de fechas que se corresponda con un período no específico, como el s. XVIII o el fin del s. Véase la tabla que aparece más abajo.
 
-| **Para el período** | **Ingrese este rango de fechas** | | comienzos del s. En el caso de los impresos, si tiene un impreso que no tiene fecha, registre una fecha aproximada entre corchetes, o bien indique **[s.d.]**.Por favor, trate de proveer un rango de fechas razonables en el caso de que el impreso no esté datado, por ejemplo, valiéndose de las fechas de vida del compositor o arreglador como _terminus post quem_, o bien recurriendo a los años de actividad del editor.
+For prints: If you have a print but it is undated, either enter an approximate date in square brackets or enter **[s.d.]**. En el caso de los impresos, si tiene un impreso que no tiene fecha, registre una fecha aproximada entre corchetes, o bien indique **[s.d.]**.Por favor, trate de proveer un rango de fechas razonables en el caso de que el impreso no esté datado, por ejemplo, valiéndose de las fechas de vida del compositor o arreglador como _terminus post quem_, o bien recurriendo a los años de actividad del editor.
 
-Note que, en el caso de los manuscritos, las fechas se presentan sin corchetes, dado que los manuscritos rara vez tienen fechas. Los materiales impresos, en contraste, incluyen típicamente una fecha; así, cualquier suposición editorial deberá realizarse entre corchetes.
+Note that for manuscripts, dates are given without square brackets because manuscripts are rarely dated. Printed materials, by contrast, are more likely to include a date so any editorial guess should be in square brackets.
 
 Se pueden indicar otras fechas que aparecen en la fuente. Utilice signos de interrogación para señalar información que resulte incierta.
 
