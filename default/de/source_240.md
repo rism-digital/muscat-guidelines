@@ -6,7 +6,7 @@ Dieser Teil beschreibt den Titel in normierter Form, damit unterschiedlich benan
 
 **Pflichtfeld**
 
-Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Eckige und runde Klammern sind nicht zulässig. Alternative Titel werden bei **Alternativer Einordnungstitel (730)** eingetragen.
+Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Alternative Titel werden bei **Alternativer Einordnungstitel (730)** eingetragen.
 
 A standardized title can be generated from the following, in order of preference:
 
