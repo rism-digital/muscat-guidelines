@@ -6,7 +6,7 @@ En esta sección se registra el título con un formato estandarizado, lo cual pe
 
 **Campo requerido.**
 
-Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). No utilice corchetes o paréntesis. Registre versiones alternativas en el campo **Título adicional (730)**.
+Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Registre versiones alternativas en el campo **Título adicional (730)**.
 
 Un título uniforme puede generarse a partir de:
 
