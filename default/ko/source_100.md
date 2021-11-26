@@ -15,7 +15,6 @@ Select an indicator to describe the level of certainty of the attribution if any
 - **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
 - **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
 - **Conjectural** is a guess based on secondary evidence, such as secondary literature.
-- **Doubtful** means authorship is in question.
 - **Misattributed** means the name is on the source but is incorrect. If the source is anonymous, leave this field blank.
 
 The attribution **verified** appears on older records but is no longer in use. It was used if the composer's name appears on the source in the same form as the RISM name heading.
