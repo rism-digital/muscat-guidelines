@@ -48,8 +48,7 @@ For prints: If you have a print but it is undated, either enter an approximate d
 Please make an effort to supply a reasonable date range for an undated print, such as by using the life dates of the
 composer or arranger as a _terminus post quem_, or the active years of a publisher.
 
-Note that for manuscripts, dates are given without square brackets because manuscripts are rarely dated. Printed materials, by
-contrast, typically include a date so any editorial guess should be in square brackets.
+Note that for manuscripts, dates are given without square brackets because manuscripts are rarely dated. Printed materials, by contrast, are more likely to include a date so any editorial guess should be in square brackets.  
 
 Other dates may be indicated as on the source. Use question marks to indicate uncertain information.
 
