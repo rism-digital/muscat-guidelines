@@ -15,7 +15,6 @@ Seleccione un calificador para describir el nivel de certeza de la atribución, 
 - **Supuesta** significa que el nombre está presente en la fuente, pero la atribución es cuestionable o dudosa.
 - **Certificada** significa que el nombre está parcial o totalmente ausente en la fuente, pero la atribución es (razonablemente) cierta y se basa en la comparación con fuentes concordantes, bibliografía secundaria u otros recursos de investigación. Esto sucede en la mayoría de los casos.
 - **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
-- **Dudosa** significa que se cuestiona la autoría.
 - **Mal atribuida** significa que hay un nombre en la fuente pero es incorrecto. Si la fuente es anónima, deje este campo en blanco.
 
 La atribución **Verificada** aparece en registros anteriores, pero ya no está en uso. Se la utilizaba en caso de que el nombre del compositor apareciera en la fuente de la misma forma que en el nombre normalizado de RISM.
