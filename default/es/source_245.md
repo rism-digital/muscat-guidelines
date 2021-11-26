@@ -7,12 +7,12 @@ Registre el título exactamente como aparece en la fuente (título diplomático)
 
 Transcriba el título completo. No abrevie. Indique saltos de renglón con | (barra vertical) con un espacio antes y después. Indique superíndices con | sin espacios antes del carácter correspondiente. Cada carácter que se escriba como superíndice debe estar precedido por su propia barra |, como en: 1|m|o. Las letras repetidas indicadas con un macrón diacrítico deben escribirse desarrolladas: m[m].
 
-Incluya información acerca de la ubicación del título, entre corchetes y al principio del campo. Utilice siempre terminología en inglés, seguida de dos puntos. Provea datos suplementarios entre corchetes. Utilice un signo de exclamación entre corchetes **[!]**o **[sic]** para indicar casos de ortografía inusual o incorrecta.
+Incluya información acerca de la ubicación del título, entre corchetes y al principio del campo. Utilice siempre terminología en inglés, seguida de dos puntos. Provea datos suplementarios entre corchetes. Use an exclamation point in square brackets **[!]** or **[sic]** to indicate an unusual or incorrect spelling.
 
-En el caso de la música impresa, puede indicar elementos decorativos entre corchetes, tales como:  
-_[in red ink:]_ (en tinta roja)  
-_[printer’s mark:]_ (marca del impresor)  
-_[vignette]_ (viñeta)
+For printed music, you can indicate decorative elements in square brackets, such as:  
+[in red ink:]  
+[printer's mark]  
+[vignette]
 
 Si no hay un título disponible, ingrese, en inglés: _**[without title]**_ (sin título)
 
