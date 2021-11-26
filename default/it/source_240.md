@@ -6,7 +6,7 @@ The title is entered here in a standardized form, which brings together under th
 
 **Required field.**
 
-Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use brackets or parentheses. Put alternative versions of the title in the field **Additional title (730)**.
+Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Put alternative versions of the title in the field **Additional title (730)**.
 
 A standardized title can be generated from the following, in order of preference:
 
