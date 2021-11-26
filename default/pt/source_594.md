@@ -31,7 +31,7 @@ List the scoring in the following order:
 - Keyboard instruments
 - Basso continuo
 
-List parts from the highest to the lowest range. Enter one instrument per line. Add alternative scoring possibilities to the original requirements in brackets.
+List parts from the highest to the lowest range. Enter one instrument per line. Add alternative scoring possibilities to the original requirements in square brackets.
 
 _Examples:_
 
