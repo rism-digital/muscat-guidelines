@@ -19,7 +19,6 @@ Select an indicator to describe the level of certainty of the attribution if any
 - **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
 - **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
 - **Conjectural** is a guess based on secondary evidence, such as secondary literature.
-- **Doubtful** means attribution is in question.
 - **Misattributed** means the name is on the source but is incorrect.
 
 #### Function (710 $4)
