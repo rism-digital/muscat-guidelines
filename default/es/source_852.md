@@ -10,7 +10,7 @@ Enter the siglum of the holding library. Este campo está vinculado al registro 
 
 #### Department (852 $b)
 
-Enter more specific location information, in particular for large libraries, if not named in the siglum itself. Enter the name of the department in the local language. You may include a translation in brackets in your cataloging language.
+Enter more specific location information, in particular for large libraries, if not named in the siglum itself. Enter the name of the department in the local language. You may include a translation in square brackets in your cataloging language.
 
 _Ejemplos:_
 - Music Department
@@ -21,7 +21,7 @@ _Ejemplos:_
 
 This field can be used to indicate the name of a special collection, such as a collection, bequest, gift, papers, archive, _Nachlass_, or similar, that the source belongs to.
 
-Enter in the local language. You may include a translation in brackets in your cataloging language.
+Enter in the local language. You may include a translation in square brackets in your cataloging language.
 
 _Example_:  
 Sammlung Hanns J. Eller
