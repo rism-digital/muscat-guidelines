@@ -80,10 +80,10 @@ Idioma del texto original (041 $h): correspondiente a la pieza original.
 - Idioma del texto: Latín
 - Idioma del texto original: Italiano
 
-**Íncipit literario (031 $t)**  
-Se registrarán los dos íncipits literarios (use el + para añadir una nueva línea).  
-Íncipit literario del texto actual (_contrafactum_)  
-Íncipit literario del texto original, si se lo conoce, entre corchetes.
+**Text incipit (031 $t)**  
+You will enter two text incipits (use the + to add a new line).  
+The text incipit of the current text  
+The text incipit of the original text, if known, in square brackets.
 
 - Alma redemptoris mater, quae pervia caeli
 - [Giusti dei che ben vedete]
@@ -131,7 +131,7 @@ Escriba el título uniforme de la(s) pieza(s) original(es), seleccionando **Extr
 Puede introducir el número de catálogo de obras tanto para la compilación como para las obras originales.
 
 **Incipit literario (031)**  
-Introduzca el texto de la fuente en cuestión. También puede introducir el texto original entre corchetes, si lo conoce.
+Introduzca el texto de la fuente en cuestión. If known, enter the original text in square brackets.
 
 **Nota general (500)**  
 Utilice siempre una nota para aclaraciones, especialmente si se trata de obras de compositores distintos. Esto asegura que los compositores se correspondan con las obras utilizadas en la compilación.
@@ -196,7 +196,7 @@ Introduzca el idioma de la fuente en cuestión en el campo Idioma del texto. Int
 
 **Incipits literarios (031)**
 
-Introduzca el incipit literario de la fuente en cuestión. También puede introducir el texto original entre corchetes, si lo conoce.
+Introduzca el incipit literario de la fuente en cuestión. If the original text is known, enter it in square brackets.
 
 - Dannemark hellige lyd
 - [Di tanti palpiti]
