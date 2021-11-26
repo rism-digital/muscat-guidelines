@@ -45,7 +45,7 @@ A text incipit consists of the first few words of the piece or section and can b
 
 Text incipits are given in standardized form. Enter the text incipit using modern spelling. Refer to the index ** Title/text incipits** to help standardize your entry. Enter new incipits if they are not in the index.
 
-Do not put portions of the text in brackets or supply missing words. Omit punctuation marks and repetitions in the text. Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at the beginnings of texts as words. Upper and lower case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. If the text incipit is used as the standardized title (240), make sure that the length and spelling agree exactly.
+Do not put portions of the text in square brackets or supply missing words. Omit punctuation marks and repetitions in the text. Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at the beginnings of texts as words. Upper and lower case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. If the text incipit is used as the standardized title (240), make sure that the length and spelling agree exactly.
 
 Omit the text entirely if you cannot read it and add a note saying "Text illegible" or similar.
 
@@ -57,7 +57,7 @@ Ascertained or derived texts that do not appear on the source can be given here.
 - Text incipits in the original language of the work when the source contains a translated version
 - Texts of vocal compositions which became the theme of a variation or the basis of an instrumental arrangement
 
-**Non-Latin scripts:** If your source has a text incipit that uses non-Latin letters or characters ( Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Text incipit** using the original script. Translations or transliterations are optional and may be added in additional text incipit fields. Add translations not on the source in brackets. You may translate into any of the RISM languages.
+**Non-Latin scripts:** If your source has a text incipit that uses non-Latin letters or characters ( Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Text incipit** using the original script. Translations or transliterations are optional and may be added in additional text incipit fields. Add translations not on the source in square brackets. You may translate into any of the RISM languages.
 
 **Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file ** Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. If the text incipit is used as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have been determined by research.
 
@@ -69,13 +69,13 @@ Select the key or mode from the list.
 
 #### Key signature (031 $n)
 
-Enter **x** for sharp keys or **b** for flat keys, followed by capital letters of the pitches to be raised or lowered. If a piece is clearly in a certain key but a sharp or flat is not in the key signature, the missing sharps or flats may be added in brackets. If there is no key signature, leave the field blank.
+Enter **x** for sharp keys or **b** for flat keys, followed by capital letters of the pitches to be raised or lowered. If a piece is clearly in a certain key but a sharp or flat is not in the key signature, the missing sharps or flats may be added in square brackets. If there is no key signature, leave the field blank.
 
 _Examples:_
 
 - xF = F is sharp = G major or E minor
 - bBE = B and E are flat = B-flat major or G minor
-- xFC[G] = F and C are sharp in the source but the piece is clearly in A major, so the last sharp is added in brackets
+- xFC[G] = F and C are sharp in the source but the piece is clearly in A major, so the last sharp is added in square brackets
 
 #### Time signature (031 $o)
 
