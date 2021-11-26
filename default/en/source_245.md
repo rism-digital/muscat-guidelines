@@ -14,9 +14,9 @@ diacritic may be written out: m[m]
 
 Include information about where the title appears in square brackets at the beginning of the field. Always use
 terminology in English, followed by a colon. Enclose supplementary data in square brackets. Use an exclamation point in
-brackets **[!]** or **[sic]** to indicate an unusual or incorrect spelling.
+square brackets **[!]** or **[sic]** to indicate an unusual or incorrect spelling.
 
-For printed music, you can indicate decorative elements in brackets, such as:  
+For printed music, you can indicate decorative elements in square brackets, such as:  
 [in red ink:]  
 [printer's mark]  
 [vignette]

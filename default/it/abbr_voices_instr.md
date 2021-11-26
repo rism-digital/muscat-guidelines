@@ -1,12 +1,12 @@
 # Abbreviazioni generiche e concetti
 
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Inglese
- | 
+ |
 ### Italiano
- | 
+ |
 ### Esempi
  |
 | iSol | continuous solo instrument in a work, typically with a separately written-out part (not used for instruments that have extensive solo passages, such as an oboe in a cantata) | Solo per strumenti solisti in una composizione, tipicamente con una parte separata (non per strumenti con passaggi obbligati, come un’oboe in una cantata)  
@@ -22,11 +22,11 @@
 | orch | orchestra | orchestra |   
  |
 | pf (cemb)  
-etc. | Add alternative scoring possibilities to the original requirements in brackets. | Aggiungi possibilità di strumentazione alternative all’originale   
+etc. | Add alternative scoring possibilities to the original requirements in square brackets. | Aggiungi possibilità di strumentazione alternative all’originale   
  | pf (orch) T (S) |
-| 
-### 
-  
+|
+###
+
  |   
  |   
  |   
@@ -35,29 +35,29 @@ etc. | Add alternative scoring possibilities to the original requirements in bra
 **Aggiunte a qualsiasi strumento per indicare l’estensione**
 
 | Utilizza le seguenti aggiunte *prima* di qualsiasi strumento per specificare: |
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Inglese
- | 
+ |
 ### Italiano
- | 
+ |
 ### Esempi  
 
  |
 | s- a- contra- contra-a- t- bariton-b- | soprano alto contra contralto tenorbaritone bass | sopranoalto (contralto)contro-contraltotenorebaritono basso  
  | s-saxofono a-trb contra-fag contra-a-cl (in E|b) t-trbbariton-trb b-trb |
 
-  
+
 
 | **Aggiunte a qualsiasi strumento per indicare il tipo** Utilizza le seguenti aggiunte *dopo* qualsiasi strumento per specificare: |
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Inglese
- | 
+ |
 ### Italiano
- | 
+ |
 ### Esempi
  |
 | ad lib | ad libitum | ad libitum | ob ad lib |
@@ -74,9 +74,9 @@ vlc princ clno princ |
 b rip |
 
 | **Aggiunte a qualsiasi strumento a fiato per indicare un’accordatura differente da quella standard** |
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Esempi
  |
 | in A in E|b _etc._ | cl in A  
@@ -84,13 +84,13 @@ cor in E|b |
 
 |   
 **Tipi o numero di strumenti non specificati o ignoti** |
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Inglese
- | 
+ |
 ### Italiano
- | 
+ |
 ### Esempi
  |
 | (X) | an unspecified number | un numero non specificato  
@@ -117,11 +117,11 @@ cor in E|b |
 
 **Voci solistiche**
 
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Inglese
- | 
+ |
 ### Italiano
  |
 | S | soprano, cantus, discant, discantus, tiple (vocal) | soprano (vocale), cantus, discantus |
@@ -147,11 +147,11 @@ cor in E|b |
 
 **Coro**
 
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Inglese
- | 
+ |
 ### Italiano
  |
 | Coro | choir, chorus | coro |
@@ -174,13 +174,13 @@ Examples: Coro 1: S Coro 1: A Coro 2: S Coro 2: A
 
 # Archi
 
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Inglese
- | 
+ |
 ### Italiano
- | 
+ |
 ### Immagine o link
  |
 | vl | violin (do not differentiate between 1st and 2nd violins) | violino (non differenziare tra primi e secondi)  
@@ -242,13 +242,13 @@ Examples: Coro 1: S Coro 1: A Coro 2: S Coro 2: A
 
 # Legni
 
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Inglese
- | 
+ |
 ### Italiano
- | 
+ |
 ### Immagine o link
  |
 | fl | flute, transverse flute (held horizontally, in C) | flauto (traverso) | [link a MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_IMAGE_PROJECTS_LIB_ED_AC_UK_10683_16097/flute-nominal-pitch-c)  
@@ -349,13 +349,13 @@ Examples: Coro 1: S Coro 1: A Coro 2: S Coro 2: A
 
 # **Ottoni**
 
-| 
+|
 ### Abbreviazione
- | 
+ |
 ### Inglese
- | 
+ |
 ### Italiano
- | 
+ |
 ### Immagine o link
  |
 | banda  | wind band, usually brass, but can also mean brass instruments or brass plus percussion | banda musicale |   

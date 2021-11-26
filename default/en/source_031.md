@@ -66,7 +66,7 @@ incipit is entered. Please note that separate rules apply to texts in Latin (see
 Text incipits are given in standardized form. Enter the text incipit using modern spelling. Refer to the index **
 Title/text incipits** to help standardize your entry. Enter new incipits if they are not in the index.
 
-Do not put portions of the text in brackets or supply missing words. Omit punctuation marks and repetitions in the text.
+Do not put portions of the text in square brackets or supply missing words. Omit punctuation marks and repetitions in the text.
 Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at
 the beginnings of texts as words. Upper and lower case letters follow the rules of the respective language, except that
 designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. If the text incipit is
@@ -87,7 +87,7 @@ square brackets. Among these are:
 **Non-Latin scripts:** If your source has a text incipit that uses non-Latin letters or characters (
 Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Text incipit** using the original
 script. Translations or transliterations are optional and may be added in additional text incipit fields. Add
-translations not on the source in brackets. You may translate into any of the RISM languages.
+translations not on the source in square brackets. You may translate into any of the RISM languages.
 
 **Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file **
 Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you
@@ -111,13 +111,13 @@ Select the key or mode from the list.
 
 Enter **x** for sharp keys or **b** for flat keys, followed by capital letters of the pitches to be raised or lowered.
 If a piece is clearly in a certain key but a sharp or flat is not in the key signature, the missing sharps or flats may
-be added in brackets. If there is no key signature, leave the field blank.
+be added in square brackets. If there is no key signature, leave the field blank.
 
 _Examples:_
 
 - xF = F is sharp = G major or E minor
 - bBE = B and E are flat = B-flat major or G minor
-- xFC[G] = F and C are sharp in the source but the piece is clearly in A major, so the last sharp is added in brackets
+- xFC[G] = F and C are sharp in the source but the piece is clearly in A major, so the last sharp is added in square brackets
 
 #### Time signature (031 $o)
 
