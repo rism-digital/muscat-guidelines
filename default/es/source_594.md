@@ -31,7 +31,7 @@ Consigne la plantilla/orgánico en el siguiente orden:
 - Instrumentos de teclado
 - Bajo continuo
 
-Ordene las partes desde el registro más agudo al más grave. Ingrese un instrumento por línea. Añada posibilidades de plantilla/orgánico alternativas a los requerimientos originales entre paréntesis.
+Ordene las partes desde el registro más agudo al más grave. Ingrese un instrumento por línea. Add alternative scoring possibilities to the original requirements in square brackets.
 
 _Ejemplos:_
 
