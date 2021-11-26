@@ -59,7 +59,7 @@ orch
 - Ejemplos:
   - pf (orch)
   - T (S)
-- EN: Add alternative scoring possibilities to the original requirements in brackets.
+- EN: Add alternative scoring possibilities to the original requirements in square brackets.
 - DE:
 - FR:
 
