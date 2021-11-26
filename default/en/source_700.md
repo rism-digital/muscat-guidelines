@@ -25,7 +25,6 @@ leave blank.
   reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly
   resources. This happens in most cases.
 - **Conjectural** is a guess based on secondary evidence, such as secondary literature.
-- **Doubtful** means the authorship is in question.
 - **Misattributed** means the name is on the source but is incorrect.
 
 #### Function (700 $4)
