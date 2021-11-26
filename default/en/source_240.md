@@ -8,7 +8,7 @@ having a variety of names, are the same or similar. Also called the "filing titl
 **Required field.**
 
 Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use
-brackets or parentheses. Put alternative versions of the title in the field **Additional title (730)**.
+square brackets or parentheses. Put alternative versions of the title in the field **Additional title (730)**.
 
 A standardized title can be generated from the following, in order of preference:
 

@@ -45,7 +45,7 @@ List the scoring in the following order:
 - Basso continuo
 
 List parts from the highest to the lowest range. Enter one instrument per line. Add alternative scoring possibilities to
-the original requirements in brackets.
+the original requirements in square brackets.
 
 _Examples:_
 

@@ -1,16 +1,16 @@
 # Generelle Abkürzungen
 
-| 
+|
 ### Abbreviation
- | 
+ |
 ### English
- | 
+ |
 ### German
- | 
+ |
 ### French
- | 
+ |
 ### Italian
- | 
+ |
 ### Examples
  |
 | iSol | continuous solo instrument in a work, typically with a separately written-out part (not used for instruments that have extensive solo passages, such as an oboe in a cantata) | Nur für Soloinstrumente in Konzerten. |   
@@ -27,13 +27,13 @@
 | orch | orchestra | Orchester | orchestre | orchestra |   
  |
 | pf (cemb)  
-etc. | Add alternative scoring possibilities to the original requirements in brackets. |   
+etc. | Add alternative scoring possibilities to the original requirements in square brackets. |   
  |   
  |   
  | pf (orch) T (S) |
-| 
-### 
-  
+|
+###
+
  |   
  |   
  |   
@@ -44,37 +44,37 @@ etc. | Add alternative scoring possibilities to the original requirements in bra
 **Additions to any instrument to indicate a range**
 
 | Use the following *before* any instrument to make it: Kann einem Instrument vorangestellt werden: |
-| 
+|
 ### Abbreviation
- | 
+ |
 ### English
- | 
+ |
 ### German
- | 
+ |
 ### French
- | 
+ |
 ### Italian
- | 
+ |
 ### Examples
  |
 | s- a- contra- contra-a- t- bariton-b- | soprano alto contra contralto tenorbaritone bass | Sopran Alt Kontra Kontra-Alt TenorBariton Bass |   
  |   
  | s-saxofono a-trb contra-fag contra-a-cl (in E|b) t-trbbariton-trb b-trb |
 
-  
+
 
 | **Additions to any instrument to indicate a type** Use the following *after* an instrument Kann einem Instrument angehängt werden. |
-| 
+|
 ### Abbreviation
- | 
+ |
 ### English
- | 
+ |
 ### German
- | 
+ |
 ### French
- | 
+ |
 ### Italian
- | 
+ |
 ### Examples
  |
 | ad lib | ad libitum | ad libitum | ad libitum | ad libitum | ob ad lib |
@@ -101,9 +101,9 @@ vlc princ clno princ |
 b rip |
 
 | **Additions to any wind instrument to indicate a tuning other than standard tuning**** Bezeichnet die Stimmung eines Blasinstrumentes** |
-| 
+|
 ### Abbreviation
- | 
+ |
 ### Examples
  |
 | in A in E|b _etc._ | cl in A  
@@ -111,17 +111,17 @@ cor in E|b |
 
 |   
 **Unspecified or unknown types or numbers of instruments** |
-| 
+|
 ### Abbreviation
- | 
+ |
 ### English
- | 
+ |
 ### German
- | 
+ |
 ### French
- | 
+ |
 ### Italian
- | 
+ |
 ### Examples
  |
 | (X) | an unspecified number | Eine unbekannte Anzahl einer Stimme. |   
@@ -149,15 +149,15 @@ cor in E|b |
 
 **Solo voices**
 
-| 
+|
 ### Abbreviation
- | 
+ |
 ### English
- | 
+ |
 ### German
- | 
+ |
 ### French
- | 
+ |
 ### Italian
  |
 | S | soprano, cantus, discant, discantus, tiple (vocal) | Sopran (vokal), Cantus, Diskant | soprano (vocale), cantus, discantus | soprano (vocale), cantus, discantus |
@@ -186,15 +186,15 @@ cor in E|b |
 
 **Chorus/Choir**
 
-| 
+|
 ### Abbreviation
- | 
+ |
 ### English
- | 
+ |
 ### German
- | 
+ |
 ### French
- | 
+ |
 ### Italian
  |
 | Coro | choir, chorus | Chor | chœur | coro |
@@ -226,17 +226,17 @@ Examples: Coro 1: S Coro 1: A Coro 2: S Coro 2: A
 
 # Strings
 
-| 
+|
 ### Abbreviation
- | 
+ |
 ### English
- | 
+ |
 ### German
- | 
+ |
 ### French
- | 
+ |
 ### Italian
- | 
+ |
 ### Image or website link
  |
 | vl | violin (do not differentiate between 1st and 2nd violins) | Violine | violon | violino | [https://en.wikipedia.org/wiki/Violin](https://en.wikipedia.org/wiki/Violin) |
@@ -296,19 +296,19 @@ Examples: Coro 1: S Coro 1: A Coro 2: S Coro 2: A
 | strings | strings | Streichinstrumente | cordes | archi |   
  |
 
-# Woodwinds 
+# Woodwinds
 
-| 
+|
 ### Abbreviation
- | 
+ |
 ### English
- | 
+ |
 ### German
- | 
+ |
 ### French
- | 
+ |
 ### Italian
- | 
+ |
 ### Image or website link
  |
 | fl | flute, transverse flute (held horizontally, in C) | Flöte, Querflöte | flûte (traversière) | flauto (traverso) | [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_IMAGE\_PROJECTS\_LIB\_ED\_AC\_UK\_10683\_16097/flute-nom...](http://www.mimo-international.com/MIMO/doc/IFD/OAI_IMAGE_PROJECTS_LIB_ED_AC_UK_10683_16097/flute-nominal-pitch-c)  
@@ -367,7 +367,7 @@ Examples: Coro 1: S Coro 1: A Coro 2: S Coro 2: A
  |
 |   
  | a-saxofono | alto saxophone (in E|b) | Altsaxophon (in E|b) | saxophone alto  
- | 
+ |
 #   
 
  | [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_IMAGE\_PROJECTS\_LIB\_ED\_AC\_UK\_10683\_15922/alto-saxo...](http://www.mimo-international.com/MIMO/doc/IFD/OAI_IMAGE_PROJECTS_LIB_ED_AC_UK_10683_15922/alto-saxophone-nominal-pitch-e) |
@@ -401,19 +401,19 @@ Examples: Coro 1: S Coro 1: A Coro 2: S Coro 2: A
 | zufoletto | zufoletto | Zufoletto | zufoletto | zufoletto |   
  |
 
-# **Brass** 
+# **Brass**
 
-| 
+|
 ### Abbreviation
- | 
+ |
 ### English
- | 
+ |
 ### German
- | 
+ |
 ### French
- | 
+ |
 ### Italian
- | 
+ |
 ### Image or website link
  |
 | banda  | wind band, usually brass, but can also mean brass instruments or brass plus percussion | Blaskapelle (oft um Schlagwerk erweitert) | orchestre d'harmonie | banda musicale |   

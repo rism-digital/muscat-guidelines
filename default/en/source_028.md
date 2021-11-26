@@ -4,7 +4,7 @@
 This field is for plate numbers, which typically appear on printed items but can also be found on manuscripts that were
 copied from a printed music edition.
 
-Enter the plate number exactly as it appears on the source. You may add arabic numerals in brackets if the plate number
+Enter the plate number exactly as it appears on the source. You may add arabic numerals in square brackets if the plate number
 uses roman numerals.
 
 _Examples_:

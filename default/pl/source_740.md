@@ -1,1 +1,0 @@
-**Tylko importowane dane. Nie używać.**

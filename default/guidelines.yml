@@ -149,9 +149,6 @@ doc:
           - title: "028"
             helpfile: "source_028"
             index: true
-          - title: "028"
-            helpfile: "source_028"
-            index: true
           - title: "592"
             helpfile: "source_592"
             index: true
