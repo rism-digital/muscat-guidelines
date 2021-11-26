@@ -82,7 +82,7 @@ Language of original text (041 $h): Language of the original piece
 **Text incipit (031 $t)**  
 You will enter two text incipits (use the + to add a new line).  
 The text incipit of the current text  
-The text incipit of the original text, if known, in brackets.
+The text incipit of the original text, if known, in square brackets.
 
 - Alma redemptoris mater, quae pervia caeli
 - [Giusti dei che ben vedete]
@@ -130,7 +130,7 @@ Enter the standardized title of the original piece(s), adding **Excerpts** or **
 You can enter the catalog of works number for both the compilation and the original works.
 
 **Text incipit (031)**  
-Enter the text of the source in hand. If known, enter the original text in brackets.
+Enter the text of the source in hand. If known, enter the original text in square brackets.
 
 **General note (500)**  
 Always use a note for clarification, especially if the works of separate composers are involved. This ensures that the composers are matched to the works used in the compilation.
@@ -196,7 +196,7 @@ Enter the language for the source in hand in the field Language of text. Enter t
 
 **Text incipits (031)**
 
-Enter the text incipit of the source in hand. If the original text is known, enter it in brackets.
+Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
 
 - Dannemark hellige lyd
 - [Di tanti palpiti]
