@@ -1,7 +1,7 @@
 outdated123
 ## Locations on the source
 
-The location on the source is indicated before the title in square brackets. English terms are used. The indication is followed by a colon inside the brackets. Similarly, any inserted comments are placed in square brackets and expressed in English terms.
+The location on the source is indicated before the title in square brackets. English terms are used. The indication is followed by a colon inside the square brackets. Similarly, any inserted comments are placed in square brackets and expressed in English terms.
 
 |                                              |
 | -------------------------------------------- |
@@ -56,9 +56,9 @@ The location on the source is indicated before the title in square brackets. Eng
 
 As a rule, an individual title should be chosen as standardised title whenever possible. Only if no individual title is present or can be reconstructed, the other categories of titles apply (see the corresponding guidelines). The order of preference is: individual title, text incipit, genre designation/subject heading, tempo heading.
 
-The following list provides an overview of the standardised titles (insofar as no individual title or text incipit is present) and the corresponding subject headings. It follows the general guidelines of the RISM Zentralredaktion. Terms generally are in the plural. If the same subject headings apply to vocal and instrumental genres, after the term the words (voc.) or (instr.) are added in brackets.
+The following list provides an overview of the standardised titles (insofar as no individual title or text incipit is present) and the corresponding subject headings. It follows the general guidelines of the RISM Zentralredaktion. Terms generally are in the plural. If the same subject headings apply to vocal and instrumental genres, after the term the words (voc.) or (instr.) are added in square brackets.
 
-Specifications such as (dances) or (stage) are also added in brackets after the main term.
+Specifications such as (dances) or (stage) are also added in square brackets after the main term.
 
 If several subject headings can be associated with a source, respectively a work, the cataloguer should choose the appropriate order. Some works require in any case more than one subject heading, e.g. "Contrafacta" or "Inserts".
 
