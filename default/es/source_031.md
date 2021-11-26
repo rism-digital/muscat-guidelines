@@ -46,7 +46,7 @@ El íncipit literario consiste en las primeras palabras de una pieza o sección 
 
 Los íncipits literarios se presentan de forma estandarizada. Registre el íncipit literario con ortografía moderna. Guíese por el índice de autoridades de **Títulos/íncipits literarios** para estandarizar su entrada. Registre íncipits nuevos en caso de el índice no los incluya.
 
-No agregue fragmentos de texto entre corchetes ni reponga palabras faltantes. Omita los signos de puntuación y las repeticiones del texto. Las tildes deben usarse sólo si aparecen en el diccionario o si son gramaticalmente correctas. Escriba los números de principio del texto como palabras. El uso de mayúsculas y minúsculas debe seguir las reglas del idioma respectivo, salvo en el caso de las designaciones de Dios (Herr, Dio, Dieu, Signore, Lord, etc.) que se colocan siempre con mayúscula inicial. Si el íncipit literario se usa como Título Uniforme (240), asegúrese de que el largo y la ortografía se correspondan de modo exacto.
+Do not put portions of the text in square brackets or supply missing words. Omita los signos de puntuación y las repeticiones del texto. Las tildes deben usarse sólo si aparecen en el diccionario o si son gramaticalmente correctas. Escriba los números de principio del texto como palabras. El uso de mayúsculas y minúsculas debe seguir las reglas del idioma respectivo, salvo en el caso de las designaciones de Dios (Herr, Dio, Dieu, Signore, Lord, etc.) que se colocan siempre con mayúscula inicial. Si el íncipit literario se usa como Título Uniforme (240), asegúrese de que el largo y la ortografía se correspondan de modo exacto.
 
 Omita el texto por completo si no puede leerlo y añada una nota que diga “Texto ilegible” o algo similar.
 
@@ -58,7 +58,7 @@ En este campo también pueden registrarse textos relacionados que no aparezcan e
 - Text incipits in the original language of the work when the source contains a translated version
 - Texts of vocal compositions which became the theme of a variation or the basis of an instrumental arrangement
 
-**Escritura no latina** : si su fuente presenta un íncipit literario escrito con letras o caracteres no latinos (alfabeto cirílico/griego/hebreo/coreano, caracteres chinos, etc.) ingrese el **Íncipit literario** en su idioma original. Las traducciones o transliteraciones son opcionales y pueden añadirse en campos de íncipit literario adicionales. Si desea añadir traducciones que no están en la fuente, hágalo entre corchetes. Se puede traducir a cualquiera de los idiomas RISM.
+**Escritura no latina** : si su fuente presenta un íncipit literario escrito con letras o caracteres no latinos (alfabeto cirílico/griego/hebreo/coreano, caracteres chinos, etc.) ingrese el **Íncipit literario** en su idioma original. Las traducciones o transliteraciones son opcionales y pueden añadirse en campos de íncipit literario adicionales. Add translations not on the source in square brackets. Se puede traducir a cualquiera de los idiomas RISM.
 
 **Reglas especiales para textos en latín** : ingrese los textos en latín, tanto sacros como seculares. Este campo está vinculado al archivo de autoridades de **Títulos/íncipits literarios**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. Si el íncipit literario se usa además como Título Uniforme, asegúrese de que la ortografía sea idéntica; no obstante, recuerde que en los títulos uniformes el texto en latín se ingresa sólo hasta la coma. Use corchetes para registrar textos en latín que no aparecen en la fuente pero han sido determinados por vía de la investigación.
 
@@ -70,13 +70,13 @@ Seleccione la tonalidad o modo entre las opciones de la lista desplegable.
 
 #### Armadura de clave (031 $n)
 
-Ingrese **x** para armaduras con sostenidos o **b** para armaduras con bemoles, seguido de las letras mayúsculas correspondientes a las alturas alteradas por la armadura. Si la pieza está claramente en una cierta tonalidad pero falta un sostenido o un bemol en la armadura, puede agregarlo entre corchetes. Si no hay armadura de clave, deje el campo en blanco.
+Ingrese **x** para armaduras con sostenidos o **b** para armaduras con bemoles, seguido de las letras mayúsculas correspondientes a las alturas alteradas por la armadura. If a piece is clearly in a certain key but a sharp or flat is not in the key signature, the missing sharps or flats may be added in square brackets. Si no hay armadura de clave, deje el campo en blanco.
 
 _Ejemplos de un compás de silencio:_
 
 - xF = F is sharp = G major or E minor
 - bBE = B and E are flat = B-flat major or G minor
-- xFC[G] = F and C are sharp in the source but the piece is clearly in A major, so the last sharp is added in brackets
+- xFC[G] = F and C are sharp in the source but the piece is clearly in A major, so the last sharp is added in square brackets
 
 #### Indicación de compás (031 $o)
 
