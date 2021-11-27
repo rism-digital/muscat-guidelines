@@ -1,4 +1,4 @@
-outdated123 The cataloguing software offers the possibility of selecting some preset templates, depending on the kind of source catalogued. The preselection leaves in the input mask only those fields that are actually used. For example, the field "Link to items in this source (772 $w)" appears only in the templates for collections, as it is not used for single records.
+tobeevaluated The cataloguing software offers the possibility of selecting some preset templates, depending on the kind of source catalogued. The preselection leaves in the input mask only those fields that are actually used. For example, the field "Link to items in this source (772 $w)" appears only in the templates for collections, as it is not used for single records.
 
 Another work-saving distinction is made between manuscript or printed sources, attributed and anonymous sources. In anonymous works, no field with the composer's name appears.
 
