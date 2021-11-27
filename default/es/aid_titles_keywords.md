@@ -53,95 +53,107 @@ En casos de completa falta de certeza, como sucede con un orgánico desconocido,
 
 La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Por favor, tenga en cuenta que la lista no es abarcativa.
 
-**General instrumental and vocal music**  
-Standardized title/genre — Corresponding subject heading
+### Música instrumental y vocal en general
+Standardized title — Corresponding subject heading
 
-Airs — Airs (dances)  
-Airs — Airs (inst.)  
-Airs — Airs (voc.)  
-Arias — Arias (voc.)  
-Ballades — Ballades (forme fixe)  
-Ballades — Ballades (inst.)  
-Ballads — Ballads (voc.)  
-Ballettos — Ballettos (voc.)  
-Barcarolles — Barcarolles (inst.)  
-Barcarolles — Barcarolles (voc.)  
-Battle music — Battle music (inst.)  
-Battle music — Battle music (voc.)  
-Bergerettes — Bergerettes (voc.)  
-Brass music — Brass music  
-Canons — Canons (inst.)  
-Canons — Canons (voc.)  
-Canzonas — Canzonas (inst.)  
-Canzoni — Canzoni (voc.)  
-Capriccios — Capriccios (inst.)  
-Capriccios — Capriccios (voc.)  
-Duets — Duets (inst.)  
-Duets — Duets (voc.)  
-Etudes — Etudes (inst.)  
-Fugues — Fugues (inst.)  
-Fugues — Fugues (voc.)  
-In Nomine — In Nomine (inst.)  
-Instrumental pieces — Instrumental pieces  
-Interludes — Interludes  
-Intermezzos — Intermezzos (inst.)  
-Intonazione — Intonazione (inst.)  
-Nocturnes — Nocturnes (inst.)  
-Notturni — Notturni (voc.)  
-Pastorales — Pastorales (inst.)  
-Pastorales — Pastorales (voc.)  
-Preludes and Fugues   [enter two subject headings:] Preludes Fugues  
-Quartets — Quartets (inst.)  
-Quartets — Quartets (voc.)  
-Rhapsodies — Rhapsodies (inst.)  
-Rhapsodies — Rhapsodies (voc.)  
-Ricercares — Ricercares (inst.)  
-Ricercares — Ricercares (voc.)  
-Romances — Romances (inst.)  
-Romances — Romances (voc.)  
-Rondeaux — Rondeaux (forme fixe)  
-Rondos — Rondos (inst.)  
-Rondos — Rondos (voc.)  
-Rounds — Rounds (voc.)  
-Scherzi — Scherzi (voc.)  
-Scherzos — Scherzos (inst.)  
-Sonatas — _use_ Sonatas _or_ Triosonatas  
-Terzets — Terzets (voc.)  
-Trios — Trios (inst.)  
-Versets — Versets (inst.)  
-Virelais — Virelais (forme fixe)
+- Música vocal sacra
+- | _Género en español  
+  (sólo referencia)    _ | _Usar como  
+  título uniforme_ | _Descriptor   
+  correspondiente_ | | Completoria | Completoria | Hours of the Office | | Horae minores | Horae minores | Hours of the Office | | Entonaciones | Intonations | Intonations (voc.) | | Laudes | Laudes | Hours of the Office | | Matutina, Maitines | Matutina | Hours of the Office |
+- Música para la escena, el teatro, etc.
+- Arias — Arias (voc.)
+- | _Género en español  
+  (sólo referencia)    _ | _Usar como  
+  título uniforme_ | _Descriptor   
+  correspondiente_ | | Intermezzi | Intermezzos | Intermezzos (stage) | | Meditaciones | Meditationes | Meditationes (Jesuit theatre)  | | Prólogos | Prologues | Prologues (stage) | |   |   |   |
+- | _Género en español  
+  (sólo referencia)    _ | _Usar como  
+  título uniforme_ | _Descriptor   
+  correspondiente_ | | Arpegios | Arpeggios | Arpeggios (inst.) | | Cadencias | Cadences | Cadences (inst.) | | Cadenze | Cadenzas | Cadenzas (voc.) | | Ejercicios | Exercises | Exercises (inst.) | | Ejercicios | Exercises | Exercises (voc.) | | Solfeggi | Solfeggios | Solfeggios (inst.) | | Solfeggi | Solfeggios | Solfeggios (voc.) | | Tutores | Tutors | Tutors (inst.) | | Tutores | Tutors | Tutors (voc.) |
+- | _Género en español  
+  (sólo referencia)    _ | _Usar como  
+  título uniforme_ | _Descriptor   
+  correspondiente_ | | Airs | Airs | Airs (dances) | | Rondas | Rounds | Rounds (dances)  |
+- Ballettos — Ballettos (voc.)
+- Barcarolles — Barcarolles (inst.)
+- Barcarolles — Barcarolles (voc.)
+- Battle music — Battle music (inst.)
+- Battle music — Battle music (voc.)
+- Bergerettes — Bergerettes (voc.)
+- Brass music — Brass music
+- Canons — Canons (inst.)
+- Canons — Canons (voc.)
+- Canzonas — Canzonas (inst.)
+- Canzoni — Canzoni (voc.)
+- Capriccios — Capriccios (inst.)
+- Capriccios — Capriccios (voc.)
+- Duets — Duets (inst.)
+- Duets — Duets (voc.)
+- Etudes — Etudes (inst.)
+- Fugues — Fugues (inst.)
+- Fugues — Fugues (voc.)
+- In Nomine — In Nomine (inst.)
+- Instrumental pieces — Instrumental pieces
+- Interludes — Interludes
+- Intermezzos — Intermezzos (inst.)
+- Intonazione — Intonazione (inst.)
+- Nocturnes — Nocturnes (inst.)
+- Notturni — Notturni (voc.)
+- Pastorales — Pastorales (inst.)
+- Pastorales — Pastorales (voc.)
+- Preludes and Fugues — _enter two subject headings:_ Preludes Fugues
+- Quartets — Quartets (inst.)
+- Quartets — Quartets (voc.)
+- Rhapsodies — Rhapsodies (inst.)
+- Rhapsodies — Rhapsodies (voc.)
+- Ricercares — Ricercares (inst.)
+- Ricercares — Ricercares (voc.)
+- Romances — Romances (inst.)
+- Romances — Romances (voc.)
+- Rondeaux — Rondeaux (forme fixe)
+- Rondos — Rondos (inst.)
+- Rondos — Rondos (voc.)
+- Rounds — Rounds (voc.)
+- Scherzi — Scherzi (voc.)
+- Scherzos — Scherzos (inst.)
+- Sonatas — _use_ Sonatas _or_ Triosonatas
+- Trios — Trios (inst.)
+- Versets — Versets (inst.)
+- Virelais — Virelais (forme fixe)
+- Terzets — Terzets (voc.)
 
-**Sacred vocal music**  
-Standardized title/genre — Corresponding subject heading
+### Música sacra vocal
+Standardized title — Corresponding subject heading
 
-Completoria — Hours of the Office  
-Horae minores — Hours of the Office  
-Intonations — Intonations (voc.)  
-Laudes — Hours of the Office  
-Matutina — Hours of the Office
+- Completoria — Hours of the Office
+- Horae minores — Hours of the Office
+- Intonations — Intonations (voc.)
+- Laudes — Hours of the Office
+- Matutina — Hours of the Office
 
-**Music for the stage, theater, etc.**  
+### Música para el escenario, el teatro, etc.
 _For genres of individual numbers or parts, consult the section on vocal and instrumental music._  
-Standardized title/genre — Corresponding subject heading
+Standardized title — Corresponding subject heading
 
-Intermezzos — Intermezzos (stage)  
-Meditationes — Meditationes (Jesuit theatre)  
-Prologues — Prologues (stage)
+- Intermezzos — Intermezzos (stage)
+- Meditationes — Meditationes (Jesuit theatre)
+- Prologues — Prologues (stage)
 
-**Exercises, studies, schools, lessons**  
-Standardized title/genre — Corresponding subject heading
+### Ejercicios, estudios, escuelas, lecciones
+Standardized title — Corresponding subject heading
 
-Arpeggios — Arpeggios (inst.)  
-Cadences — Cadences (inst.) _or_ Cadenzas (inst.)  
-Cadenzas — Cadenzas (voc.)  
-Exercises — Exercises (inst.)  
-Exercises — Exercises (voc.)  
-Solfeggios — Solfeggios (inst.)  
-Solfeggios — Solfeggios (voc.)  
-Tutors — Tutors (inst.)  
-Tutors — Tutors (voc.)
+- Arpeggios — Arpeggios (inst.)
+- Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadenzas — Cadenzas (voc.)
+- Exercises — Exercises (inst.)
+- Exercises — Exercises (voc.)
+- Solfeggios — Solfeggios (inst.)
+- Solfeggios — Solfeggios (voc.)
+- Tutors — Tutors (inst.)
+- Tutors — Tutors (voc.)
 
-**Dances**  
-Standardized title — Subject heading  
-Airs — Airs (dances)  
-Rounds — Rounds (dances)
+### Danzas
+Standardized title — Subject heading
+- Música vocal sacra
+- Rounds — Rounds (dances)
