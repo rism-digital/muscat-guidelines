@@ -1,6 +1,5 @@
 
- outdated123
- <!-- Handed over to Guido who will evaluate  it for use in Muscat. 25 November 2021-->
+ tobeevaluated:  Handed over to Guido who will evaluate  it for use in Muscat. 25 November 2021 
 
  Liturgical feasts follow the "Calendarium Romanum generale" which was issued before the Second Vatican Council. This is the reference for the sources in the Swiss RISM database.
 
