@@ -41,95 +41,95 @@ Here are some examples for special situations:
 
 The following list gives an idea of what standardized titles have a corresponding subject heading. Please note that this list is not comprehensive.
 
-**General instrumental and vocal music**  
-Standardized title/genre — Corresponding subject heading
+### General instrumental and vocal music
+Standardized title — Corresponding subject heading
 
-Airs — Airs (dances)  
-Airs — Airs (inst.)  
-Airs — Airs (voc.)  
-Arias — Arias (voc.)  
-Ballades — Ballades (forme fixe)  
-Ballades — Ballades (inst.)  
-Ballads — Ballads (voc.)  
-Ballettos — Ballettos (voc.)  
-Barcarolles — Barcarolles (inst.)  
-Barcarolles — Barcarolles (voc.)  
-Battle music — Battle music (inst.)  
-Battle music — Battle music (voc.)  
-Bergerettes — Bergerettes (voc.)  
-Brass music — Brass music  
-Canons — Canons (inst.)  
-Canons — Canons (voc.)  
-Canzonas — Canzonas (inst.)  
-Canzoni — Canzoni (voc.)  
-Capriccios — Capriccios (inst.)  
-Capriccios — Capriccios (voc.)  
-Duets — Duets (inst.)  
-Duets — Duets (voc.)  
-Etudes — Etudes (inst.)  
-Fugues — Fugues (inst.)  
-Fugues — Fugues (voc.)  
-In Nomine — In Nomine (inst.)  
-Instrumental pieces — Instrumental pieces  
-Interludes — Interludes  
-Intermezzos — Intermezzos (inst.)  
-Intonazione — Intonazione (inst.)  
-Nocturnes — Nocturnes (inst.)  
-Notturni — Notturni (voc.)  
-Pastorales — Pastorales (inst.)  
-Pastorales — Pastorales (voc.)  
-Preludes and Fugues   [enter two subject headings:] Preludes Fugues  
-Quartets — Quartets (inst.)  
-Quartets — Quartets (voc.)  
-Rhapsodies — Rhapsodies (inst.)  
-Rhapsodies — Rhapsodies (voc.)  
-Ricercares — Ricercares (inst.)  
-Ricercares — Ricercares (voc.)  
-Romances — Romances (inst.)  
-Romances — Romances (voc.)  
-Rondeaux — Rondeaux (forme fixe)  
-Rondos — Rondos (inst.)  
-Rondos — Rondos (voc.)  
-Rounds — Rounds (voc.)  
-Scherzi — Scherzi (voc.)  
-Scherzos — Scherzos (inst.)  
-Sonatas — _use_ Sonatas _or_ Triosonatas  
-Terzets — Terzets (voc.)  
-Trios — Trios (inst.)  
-Versets — Versets (inst.)  
-Virelais — Virelais (forme fixe)
+- Airs — Airs (dances)
+- Airs — Airs (inst.)
+- Airs — Airs (voc.)
+- Arias — Arias (voc.)
+- Ballades — Ballades (forme fixe)
+- Ballades — Ballades (inst.)
+- Ballads — Ballads (voc.)
+- Ballettos — Ballettos (voc.)
+- Barcarolles — Barcarolles (inst.)
+- Barcarolles — Barcarolles (voc.)
+- Battle music — Battle music (inst.)
+- Battle music — Battle music (voc.)
+- Bergerettes — Bergerettes (voc.)
+- Brass music — Brass music
+- Canons — Canons (inst.)
+- Canons — Canons (voc.)
+- Canzonas — Canzonas (inst.)
+- Canzoni — Canzoni (voc.)
+- Capriccios — Capriccios (inst.)
+- Capriccios — Capriccios (voc.)
+- Duets — Duets (inst.)
+- Duets — Duets (voc.)
+- Etudes — Etudes (inst.)
+- Fugues — Fugues (inst.)
+- Fugues — Fugues (voc.)
+- In Nomine — In Nomine (inst.)
+- Instrumental pieces — Instrumental pieces
+- Interludes — Interludes
+- Intermezzos — Intermezzos (inst.)
+- Intonazione — Intonazione (inst.)
+- Nocturnes — Nocturnes (inst.)
+- Notturni — Notturni (voc.)
+- Pastorales — Pastorales (inst.)
+- Pastorales — Pastorales (voc.)
+- Preludes and Fugues — _enter two subject headings:_ Preludes Fugues
+- Quartets — Quartets (inst.)
+- Quartets — Quartets (voc.)
+- Rhapsodies — Rhapsodies (inst.)
+- Rhapsodies — Rhapsodies (voc.)
+- Ricercares — Ricercares (inst.)
+- Ricercares — Ricercares (voc.)
+- Romances — Romances (inst.)
+- Romances — Romances (voc.)
+- Rondeaux — Rondeaux (forme fixe)
+- Rondos — Rondos (inst.)
+- Rondos — Rondos (voc.)
+- Rounds — Rounds (voc.)
+- Scherzi — Scherzi (voc.)
+- Scherzos — Scherzos (inst.)
+- Sonatas — _use_ Sonatas _or_ Triosonatas
+- Trios — Trios (inst.)
+- Versets — Versets (inst.)
+- Virelais — Virelais (forme fixe)
+- Terzets — Terzets (voc.)
 
-**Sacred vocal music**  
-Standardized title/genre — Corresponding subject heading
+### Sacred vocal music
+Standardized title — Corresponding subject heading
 
-Completoria — Hours of the Office  
-Horae minores — Hours of the Office  
-Intonations — Intonations (voc.)  
-Laudes — Hours of the Office  
-Matutina — Hours of the Office
+- Completoria — Hours of the Office
+- Horae minores — Hours of the Office
+- Intonations — Intonations (voc.)
+- Laudes — Hours of the Office
+- Matutina — Hours of the Office
 
-**Music for the stage, theater, etc.**  
+### Music for the stage, theater, etc.
 _For genres of individual numbers or parts, consult the section on vocal and instrumental music._  
-Standardized title/genre — Corresponding subject heading
+Standardized title — Corresponding subject heading
 
-Intermezzos — Intermezzos (stage)  
-Meditationes — Meditationes (Jesuit theatre)  
-Prologues — Prologues (stage)
+- Intermezzos — Intermezzos (stage)
+- Meditationes — Meditationes (Jesuit theatre)
+- Prologues — Prologues (stage)
 
-**Exercises, studies, schools, lessons**  
-Standardized title/genre — Corresponding subject heading
+### Exercises, studies, schools, lessons
+Standardized title — Corresponding subject heading
 
-Arpeggios — Arpeggios (inst.)  
-Cadences — Cadences (inst.) _or_ Cadenzas (inst.)  
-Cadenzas — Cadenzas (voc.)  
-Exercises — Exercises (inst.)  
-Exercises — Exercises (voc.)  
-Solfeggios — Solfeggios (inst.)  
-Solfeggios — Solfeggios (voc.)  
-Tutors — Tutors (inst.)  
-Tutors — Tutors (voc.)
+- Arpeggios — Arpeggios (inst.)
+- Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadenzas — Cadenzas (voc.)
+- Exercises — Exercises (inst.)
+- Exercises — Exercises (voc.)
+- Solfeggios — Solfeggios (inst.)
+- Solfeggios — Solfeggios (voc.)
+- Tutors — Tutors (inst.)
+- Tutors — Tutors (voc.)
 
-**Dances**  
-Standardized title — Subject heading  
-Airs — Airs (dances)  
-Rounds — Rounds (dances)
+### Dances
+Standardized title — Subject heading
+- Airs — Airs (dances)
+- Rounds — Rounds (dances)
