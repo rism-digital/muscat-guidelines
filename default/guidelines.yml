@@ -480,8 +480,6 @@ doc:
       helpfile: "abbr_modes"
     - title: "aid_keys"
       helpfile: "abbr_keys"
-    - title: "aid_language"
-      helpfile: "abbr_lang"
 
   - title: "doc_other"
     sections:
