@@ -1,3 +1,4 @@
+<jointfile>
 ## RISM instrument abbreviations
 **Contents:**
 
