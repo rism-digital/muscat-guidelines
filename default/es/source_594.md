@@ -33,7 +33,7 @@ Consigne la plantilla/orgánico en el siguiente orden:
 
 Ordene las partes desde el registro más agudo al más grave. Ingrese un instrumento por línea. Add alternative scoring possibilities to the original requirements in square brackets.
 
-_Ejemplos:_
+##### Examples
 
 - S
 - A
@@ -56,7 +56,7 @@ _Ejemplos:_
 
 Indique aquí el número total de partes. Si una pieza incluye dos partes del mismo instrumento, consigne el instrumento solamente en campo **Voz/instrumento** e indique **2** en el campo **Número**.
 
-_Ejemplos:_
+##### Examples
 
 - Para una pieza con violín 1 y violín 2:  
   vl  
