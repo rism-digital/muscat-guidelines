@@ -6,7 +6,7 @@ Enter a subject heading or keyword that helps to describe the contents of the it
 
 Geographic locations are entered in the field **Related place (651)**.
 
-_Examples:_
+##### Examples
 
 - Instruments
 - Madrigals
