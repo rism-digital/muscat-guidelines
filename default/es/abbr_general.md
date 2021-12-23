@@ -1,3 +1,4 @@
+<jointfile>
 ## Abreviaturas y términos generales
 
 Estas son algunas abreviaturas y términos generales que se pueden encontrar en Muscat. Cuando se escribe en campos de texto libre, es una buena práctica escribir los términos en su totalidad cuando sea posible, en beneficio de otros usuarios que pueden no estar familiarizados con estas abreviaturas.
