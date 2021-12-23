@@ -72,7 +72,7 @@ Seleccione la tonalidad o modo entre las opciones de la lista desplegable.
 
 Ingrese **x** para armaduras con sostenidos o **b** para armaduras con bemoles, seguido de las letras mayúsculas correspondientes a las alturas alteradas por la armadura. If a piece is clearly in a certain key but a sharp or flat is not in the key signature, the missing sharps or flats may be added in square brackets. Si no hay armadura de clave, deje el campo en blanco.
 
-_Ejemplos de un compás de silencio:_
+##### Examples
 
 - xF = F is sharp = G major or E minor
 - bBE = B and E are flat = B-flat major or G minor
@@ -94,8 +94,9 @@ c.** = tempus imperfectum cum prolatione perfecta
 
 Si la métrica cambia constantemente, puede escribir la primera indicación de compás seguida de la segunda, separadas por un espacio. Si el íncipit no lleva indicaicón de compás, deje el campo en blanco.
 
-_Ejemplo de un silencio de corchea:_  
-8-
+_Ejemplos_:  
+Praha  
+Milano
 
 - 4/4
 - 6/8
@@ -204,7 +205,7 @@ _Ejemplos_
 
 La duración total del grupo debe escribirse antes de **(**. El valor rítmico de la primera nota debe escribirse después de **(**, aunque sea idéntico al de la nota inmediatamente antes de la sección con figuras irregulares. El número de notas del grupo debe indicarse antes de **)**, separado de la última nota por **;**. It is separated from the last note by **;**.
 
-_Ejemplos:_
+##### Examples
 
 - 8(3ABCDE;5)   = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note.
 - 8({3ABCDE};5) = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note, beamed
@@ -252,7 +253,7 @@ _Ejemplo:_
 Cambio de clave, armadura o compás</strong>  
 Use **%** para cambiar la clave, **$** para cambiar la armadura y **@** para cambiar la indicación de compás. Tras el carácter respectivo, escriba la nueva indicación (clave, armadura o compás) seguida de un espacio.
 
-_Ejemplos:_
+##### Examples
 
 - %C-1 '2A  
   %C-1 $xFC '8B  
@@ -266,7 +267,7 @@ _Ejemplos:_
 
 Abbreviated forms of notation found within the music, such as tremolos or simile signs for repeats, must be written out in full using the actual notation.
 
-_Ejemplos:_
+##### Examples
 
 - {'8DDDD} = minim/ half tremolo on D
 
@@ -288,7 +289,7 @@ Utilice este campo para registrar cualquier otro comentario, como la afinación 
 
 En este campo puede indicar la plantilla/orgánico específica para el movimiento en cuestión (por ejemplo, el caso de un movimiento dentro de una pieza vocal compleja). Consigne la plantilla/orgánico en una línea siguiendo las abreviaturas de instrumentos de RISM y el orden estándar (descriptas en **Resumen de plantilla/orgánico [240 $m]**). Use punto y coma para separar familias de instrumentos.
 
-_Ejemplos:_
+##### Examples
 
 - S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]
 - S 2 solo; Coro; ob obl; strings, bc
