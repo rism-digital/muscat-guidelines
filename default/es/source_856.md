@@ -12,7 +12,7 @@ This field is required when entering a link to an external resource.
 
 Enter a brief description that explains why the URL is relevant to the source being described. Regístrelo usando su idioma de catalogación.
 
-_Ejemplos:_
+##### Examples
 
 - Digital copy
 - Watermark on p. 4
@@ -29,18 +29,17 @@ _Ejemplos:_
 
 This field is required when entering a link to an external resource. Ingrese la URI que identifica la institución.
 
-- **Digitized source**: The link is to an external website which is a digitized copy of the resource being described. The preference is to link to institutional repositories but if one is not available then links to external repositories such as the Internet Archive or IMSLP are allowed. For collections, it is not necessary to duplicate the same link in the collection main entry and the individual entries.  
-  _Example_:[  
+- **Digitized source**: The link is to an external website which is a digitized copy of the resource being described. The preference is to link to institutional repositories but if one is not available then links to external repositories such as the Internet Archive or IMSLP are allowed. For collections, it is not necessary to duplicate the same link in the collection main entry and the individual entries.
+
+  ##### Example:[
   https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)
-- **IIIF manifest**: The linked object is a machine-readable JSON object processed by an internal document viewer such as diva.js. The document is embedded in the web page directly. In many cases, "manifest," "iiif," or similar appears in the link.  
-  _Example_:[https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)
+- **IIIF manifest**: The linked object is a machine-readable JSON object processed by an internal document viewer such as diva.js. The document is embedded in the web page directly. In many cases, "manifest," "iiif," or similar appears in the link.
+
+  ##### Example:[https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)
 
 In cases where both links to an external viewer and an IIIF manifest are available, repeat the field and list both links separately.
 
-_Ejemplos_:  
-[title page:] Vesperae | chorales unà cum | organo cantandae | pro | Choro Ingolstadiensi,  
-[without title]  
-[caption title, f.
+_Ejemplo:_
 
 - External resource: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
   Note: digitized version  
