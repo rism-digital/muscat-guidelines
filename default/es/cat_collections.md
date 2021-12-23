@@ -121,7 +121,7 @@ El primer descriptor debe ser **Compilations** (Compilaciones) y/o **Pasticcios*
 **Descripción sumaria (520)**  
 Utilice este campo para describir la naturaleza de la fuente en general.  
 [N. del T.: recuerde que este campo debe estar en inglés]  
-_Ejemplo_:  
+##### Ejemplo:  
 Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel [= Acto 1 de Amadei, acto 2 de Bononcini, obertura y acto 3 de Händel]
 
 **Título alternativo (730)**  
@@ -245,7 +245,7 @@ Existen dos maneras de catalogar periódicos que contienen música: como colecci
 
 Las  **Colecciones ** resultan apropiadas en los casos en los que el periódico consiste en su mayor parte de música y el ítem fue reunido y preservado en su totalidad. Los registros de ejemplar se añaden al nivel de la colección. Se crean entradas individuales para cada pieza de la edición.
 
-_Ejemplo_:  
+##### Ejemplo:  
 1001097294: Edición de enero (año preciso incierto) de la _Kleine Pianoforte-Bibliothek_, que contiene 5 piezas. Hay un registro madre para la colección y cinco entradas individuales, una para cada pieza. 
 
 Las  **Piezas individuales ** pueden resultar apropiadas en los casos en los que las obras fueron incluidas como inserciones o agregados en periódicos sin foco en lo musical. Frecuentemente, este tipo de ítem se conserva por fuera de su contexto de publicación.
@@ -259,7 +259,7 @@ _Ejemplos_:
 
 RISM también incluye música presente en publicaciones impresas que fueron concebidas como documentos fundamentalmente no musicales. El foco de RISM, no obstante, se ubica sobre la música
 
-_Ejemplo_:   
+##### Ejemplo:   
 990026614: 3 canciones de John Isaac Hawkins que fueron incluidas en _Discourse introductory to a course of lectures on the science of nature _(1800), de Charles Willson Peale.  
 **Compositor/Autor (100)**: el compositor de la música.  
 **Nombre personal adicional (700)**: el autor del libro, con la indicación  **other**  

@@ -11,7 +11,7 @@ Angabe einer persistenten URL.
 Pflichtfeld, wenn Sie einen Link zu einer externen Ressource eingeben.   
 Geben Sie eine kurze Beschreibung zur Erläuterung, warum die URL für die beschriebene Quelle relevant ist. Verwenden Sie Ihre Katalogisierungssprache.
 
-_Beispiele:_  
+##### Beispiele  
 Digital copy  
 Wasserzeichen auf p. 4  
 Projektwebseite  
@@ -28,15 +28,15 @@ Pflichtfeld, wenn auf eine elektronischen Ressource verlinkt wird. Wählen Sie e
 
 - **Notendigitalisat**: Der Link führt zu einer externe Webseite mit einer digitalisierten Version der im Titel vorliegenden Quelle.   
 Bevorzugt wird immer die digitale Sammlung der besitzenden Institution, dann externe Repertorien (Internet Archive oder IMSLP). Bei Sammlungen ist es nicht notwendig, den Lihk in den Teileinträgen zu wiederholen.  
-_Beispiel_:  
+##### Beispiel:  
 [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)  
 
 - **IIIF manifest**: Das verknüpfte Objekt ist ein maschinenlesbares JSON-Objekt, das von einem internen Dokumentbetrachter wie diva.js verarbeitet wird. Das Dokument ist dirket in die Webseite eingebettet. In vielen Fällen erscheint "manifest", "iiif" oder Ähnliches im Link.  
-_Beispiel_:  
+##### Beispiel:  
 [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)
 
 Wenn sowohl Links zu einem externen Dokumentbetrachter als auch ein IIIF-Manifest verfügbar sind, wiederholen Sie das Feld und führen Sie beide Links einzeln auf.  
-_Beispiel_:
+##### Beispiel:
 
 - **Externe Ressource**: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
 **Fußnote**: digitized version  

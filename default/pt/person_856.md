@@ -12,6 +12,6 @@ Nota sobre recurso externo (856 $y)
 
 Descreva brevemente para o que o URL aponta, em uma linguagem relevante.
 
-_Exemplo_:  
+##### Exemplo:  
 [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000  
 ](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.B 65 / p. 1, 26]

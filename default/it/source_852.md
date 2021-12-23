@@ -35,7 +35,7 @@ Questo campo è disponibile nelle informazioni di possesso per edizioni musicali
 
 Parti mancanti vanno indicate nel campo  **Nota generale** **(500)**.
 
-_Esempi:_  
+##### Esempi  
 vl only  
 Coro S, A, B only  
 vol. 1, 3 only  
@@ -47,7 +47,7 @@ complete
 
 Inserisci la segnatura (o collocazione) in questo campo. Trascrivi quanto più precisamente possibile, comprese spaziatura e punteggiatura. Inserisci le segnature coerentemente all’interno di uno stesso fondo bibliotecario. Indica caratteri in apice con **|** (la barretta verticale). Se non è presente alcuna segnatura, inserisci **[without shelfmark]**. Inserisci segnature aggiuntive nel campo **Altra segnatura (591)**.
 
-_Esempi:_  
+##### Esempi  
 Ms Mus 165/6  
 Mus.ms. 743  
 Th.mus.A 5  

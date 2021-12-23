@@ -38,7 +38,7 @@ Nota che la datazione di un manoscritto è indicata senza parentesi quadre perch
 
 Altre date possono essere indicate come si presentano sulla fonte. Usa un punto interrogativo per indicare l’incertezza delle informazioni.
 
-_Esempi:_  
+##### Esempi  
 1875  
 1856 Christmas Day  
 1757-01-11  

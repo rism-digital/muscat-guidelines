@@ -92,7 +92,7 @@ PLATTNER à ROTTERDAM." **New record required** (different publication status). 
       Frequent changes include _v_ to _u_, _i_ to _j_ , _y_ to _i_, and _uu_ to _w_. The Editorial Center can assist with
       unfamiliar foreign languages. Additional variations can be entered in the field **Additional title (730)**.
 
-   _Examples:_
+   ##### Examples
 
    - RISM A/I: RR 3030c
       - Title on source: Musicalische Grab=schrifft.
@@ -103,7 +103,7 @@ PLATTNER à ROTTERDAM." **New record required** (different publication status). 
       statement of the author, instrumentation, number, or imprint. Sometimes a distinctive title appears on a page other
       than the title page.
 
-   _Examples:_
+   ##### Examples
 
    - RISM A/I: B 805
       - Title on source: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera

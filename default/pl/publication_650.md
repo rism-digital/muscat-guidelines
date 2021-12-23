@@ -5,7 +5,7 @@ Podać hasło przedmiotowe lub słowo kluczowe, które pomoże opisać zawartoś
 
 Nazwy geograficzne wprowadza się w polu **Powiązane miejsce (651)**.
 
-_Przykłady:_  
+##### Przykłady  
 Instruments  
 Madrygały  
 Schriftsteller   

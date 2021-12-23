@@ -18,7 +18,7 @@ _Normalmente o nome do compositor ou do local, caso contrário selecione outra p
 - **Espaço**   
 - **Ano** de publicação
 
-_Exemplos:_
+##### Exemplos
 
 > Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
 >             → DirksenS 2007  
@@ -32,7 +32,7 @@ _Exemplos:_
   
 
 Para autores ou editores que publicam múltiplos artigos sobre o mesmo compositor ou obras múltiplas do mesmo compositor, adiciona-se uma letra (**a**, **b**, **c**, etc.) logo após o ano.  
-_Exemplos:_  
+##### Exemplos  
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
 >             → KircherA 2005  
@@ -54,7 +54,7 @@ _Exemplo:_
 
 Se nenhum autor é indicado, use 1-2 palavras chave retiradas do título em seu lugar.  
 
-_Exemplo__:_
+##### Exemplo_:_
 
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 >             → VerzeichnisThibaut 1842
@@ -62,20 +62,20 @@ _Exemplo__:_
   
 
 Para obras em vários volumes, que foram publicados ao longo de vários anos, apenas o primeiro ano é usado.  
-_Exemplo__:_
+##### Exemplo_:_
 
 > Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
 >             → SchröderW 1943
 
 Se o ano de edição não for dado ou certo, escreva  s.d. (para no date) em vez de um ano.  
-_Exemplo__:_
+##### Exemplo_:_
 
 > Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, no date).  
 >             → ZanglO s.d.
 
   
 Se apenas uma data aproximada de publicação for conhecida, adicione um **ca.** (para circa) quando inserir o editor e ano de publicação no registro, mas omita o “ca.” no título abreviado.   
-_Exemplo__:_  
+##### Exemplo_:_  
 
 > Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
 >             → FahrbachK 1850
@@ -94,7 +94,7 @@ Não é necessário indicar o ano.
 
 Um catálogo que foi publicado como parte de um item maior, como um apêndice num livro, pode ser inserido como um catálogo de obras. Tais itens podem também ser citados como uma **Referência bibliográfica (691)**.  
 
-_Exemplos:_
+##### Exemplos
 
 > A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
 >             → BelH  
@@ -107,7 +107,7 @@ _Exemplos:_
 
 Use as abreviaturas já estabelecidas para catálogos de obras, se elas existem (BWV, KV, Hob., etc.). Pode-se também usar a abreviatura usada no próprio catálogo, desde que isso não leve a confusão.     
 
-_Exemplos:_  
+##### Exemplos  
 
 > Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
 >            → QV  

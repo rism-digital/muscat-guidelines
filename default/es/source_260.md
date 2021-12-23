@@ -34,7 +34,7 @@ Note que, en el caso de los manuscritos, las fechas se presentan sin corchetes, 
 
 Se pueden indicar otras fechas que aparecen en la fuente. Utilice signos de interrogación para señalar información que resulte incierta.
 
-_Ejemplos:_  
+##### Ejemplos  
 1875  
  1875 Día de Navidad  
  1757-01-11  

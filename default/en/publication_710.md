@@ -7,7 +7,7 @@ this field. This field is linked to the **Institutions** authority file.
 - **Editor**: Use especially if the item has an institution as an author rather than people.
 - **Other function**
 
-_Examples:_
+##### Examples
 
 - Sing-Akademie zu Berlin
 - Historische Sektion der Bayerischen Benediktinerakademie

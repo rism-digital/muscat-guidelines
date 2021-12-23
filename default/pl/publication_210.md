@@ -18,7 +18,7 @@ _Zazwyczaj imię kompozytora lub nazwa miejsca, w przeciwnym razie należy wybra
 - **Spację**
 - **Rok** wydania
 
-_Przykłady:_
+##### Przykłady
 
 > Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
 >             → DirksenS 2007  
@@ -33,7 +33,7 @@ W przypadku autorów lub redaktorów, którzy opublikowali wiele artykułów na 
 
   
 
-_Przykłady:_
+##### Przykłady
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
 >             → KircherA 2005  
@@ -99,7 +99,7 @@ Nie ma potrzeby podawania roku wydania.
   
 Jako katalog utworów można również wprowadzić  katalog wydany jako część większej pozycji, np. jako aneks do książki, Pozycje takie można również cytować jako  **Odniesienie bibliograficzne****  (691)**.]
 
-_Przykłady:_
+##### Przykłady
 
 > A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
 >             → BelH  
@@ -130,7 +130,7 @@ _Przykład:_
 
 Publikacje zawierające w swych tytułach termin _katalog tematyczny_ mogą niekiedy dotyczyć też innej tematyki lub mieć niezbyt rozległy zakres. Zawsze należy to ustalić. W pierwszym przypadku należy nadać tytuł skrócony jak w przypadku katalogu dzieł. W drugim, należy nadać tytuł skrócony nadawany w przypadku literatury normalnej. W skrócie mówiąc: Wszystkiemu, co nie jest katalogiem dzieł, przypisuje się tytuł skrócony stosowany w przypadku literatury.
 
-_Przykłady:_
+##### Przykłady
 
 > Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
 >             → PasJ  

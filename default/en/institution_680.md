@@ -12,7 +12,7 @@ Enter additional notes that describe the institution, such as:
   square brackets the dates of birth and death of the person in question. If there are lists or URLs with the information about
   the collections or fonds of a specific institution, provide the URL.
 
-_Examples:_  
+##### Examples  
  - Joachim, Joseph (1831-1907) (Royal College of Music, Library)  
  - Andrée-Stenhammararkivet  
  - Telemann, Georg Michael  

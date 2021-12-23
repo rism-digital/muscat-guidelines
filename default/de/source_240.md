@@ -24,7 +24,7 @@ Geben Sie den Titel entsprechend der Schreibweise in 1) New Grove, 2) MGG, 3) We
 
 Titel von Drucken und populäre Namen (wie „Eroica“ oder „Nelson-Messe“ etc.) gelten nicht als Einordnungstitel. Solche Namen werden in **Alternativer Einordnungstitel (730 $a)** eingegeben.
 
-_Beispiele:_  
+##### Beispiele  
 Die Forelle  
  Die Zauberflöte  
  The beggar's opera
@@ -42,14 +42,14 @@ Die Groß- und Kleinschreibung richten sich nach den Regeln der jeweiligen Sprac
 
 Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. Lateinische Textincipits werden hier allerdings nur bis zu dem Trennungszeichen (Komma) als Einordnungstitel verwendet (siehe auch Liste im Anhang). 
 
-_Beispiele:_  
+##### Beispiele  
 Der Mond ist aufgegangen  
  Gloria [mit dem Textincipit: Gloria, in excelsis Deo et in terra pax]
 
 **3. Gattungsbezeichnungen**  
 Kommen weder Individualtitel noch Textincipit als Einordnungstitel in Frage, wird hier die entsprechende Gattung eingetragen. Der Gattungsbegriff als Einordnungstitel wird in der Regel englischsprachig und im Plural angesetzt (Beispiel: **Operas**). Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem **Schlagwort (650)**. Bitte benutzen Sie die Arbeitshilfe **Einordnungstitel - Schlagworte** im Anhang der **Richtlinien**.
 
-_Beispiele:_  
+##### Beispiele  
 Symphonies  
  Allemandes
 
@@ -60,7 +60,7 @@ Lässt sich keine Gattung ermitteln, so kann auch eine Tempobezeichnung als Eino
 -Movements (Einzelsatz eines unbestimmten Instrumentalstücks ohne Tempobezeichnung)
 
   
-_Beispiele:_    
+##### Beispiele    
 Presto  
 Lento  
   
@@ -68,7 +68,7 @@ Lento
 **Besondere Regelungen:**
 
 - **Collections**: für den Einordnungstitel gelten für Sammlungen (Collections), Konvolute und Variationen. In diesen Fällen wird dem Gattungsbegriff eine arabische Zahl vorangestellt, die die Anzahl der zugehörigen Werke bezeichnet.  
-_Beispiele:_  
+##### Beispiele  
 25 Arias  
 3 Instrumental pieces
 

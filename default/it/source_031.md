@@ -77,7 +77,7 @@ Seleziona la tonalità o il modo dalla lista.
 
 Inserisci **x** per tonalità diesizzate o **b** per tonalità bemollizzate. Inserisci poi i nomi delle note che sono influenzate dall’armatura di chiave. Aggiungi diesis o bemolli palesemente mancanti tra parentesi quadre. Se manca l’armatura di chiave, lascia il campo vuoto.
 
-_Esempi:_  
+##### Esempi  
 xF = il fa è diesizzato = sol maggiore o re minore  
 bBE = il si e il mi sono bemollizzati = si bemolle maggiore o sol minore  
 xFC[G] = il fa e il do sono diesizzati ma il brano è palesemente in la maggiore, dunque l'ultimo diesis è aggiunto tra parentesi quadre
@@ -194,7 +194,7 @@ Esempio:
    
 La durata totale del gruppo deve essere scritta prima della **(**. Il valore ritmico della prima nota deve essere indicata dopo la **(**, anche se è identica alla nota immediatamente precedente la sezione nel ritmo speciale. Il numero di note nel gruppo deve essere indicato prima di **)**. È separato dall’ultima nota da **;**.
 
-_Esempi:_  
+##### Esempi  
 8(3ABCDE;5) = quintina, cinque trentaduesimi/biscrome nello spazio di un ottavo/una croma.  
 8({3ABCDE};5) = quintina, cinque trentaduesimi/biscrome nello spazio di un ottavo/una croma, con travatura  
 
@@ -239,7 +239,7 @@ La sequenza ritmica si interrompe non appena compare un nuovo valore ritmico.
 
 Utilizza % per cambiare la chiave, $ per cambiare la tonalità e @ per cambiare la misura. Fai seguire questi segni con la nuova indicazione generale (chiave, tonalità o misura) seguita da uno spazio.
 
-_Esempi:_  
+##### Esempi  
 %C-1 '2A  
 %C-1 $xFC '8B  
 @3/2 '1C  
@@ -272,6 +272,6 @@ Aggiungi commenti come l’accordatura degli strumenti traspositori, errori nell
 
 In questo campo puoi indicare l’organico specifico del movimento in questione (come un movimento all’interno di una complessa composizione vocale). Elenca l’organico su una linea utilizzando le abbreviazioni RISM per gli strumenti e l’ordine standardizzato (descritto in **Organico sintetico** **[240 $m]**). Usa un punto e virgola per separare famiglie di strumenti. 
 
-_Esempi:_   
+##### Esempi   
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  
 S 2 solo; Coro; ob obl; strings, bc

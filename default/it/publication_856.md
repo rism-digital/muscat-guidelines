@@ -8,7 +8,7 @@ Inserisci lo URL della risorsa esterna. Utilizza ovunque possibile dei collegame
 
 Inserisci una breve nota che descrive il collegamento.  
   
-_Esempi:_  
+##### Esempi  
 Electronic resource  
 Elektronische Ressource  
 Link to PDF  

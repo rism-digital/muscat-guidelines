@@ -24,7 +24,7 @@ Um título uniforme pode ser gerado a partir do seguinte, na ordem de preferênc
   
  Nomes populares ou apelidos (tais com "Eroica" ou "Nelson Mass") não contam como títulos uniformes. Tais nomes são inseridos no campo **Títulos adicionais** **(730 $a)**.   
   
-_Exemplos:_  
+##### Exemplos  
 Die Forelle  
  Die Zauberflöte  
  The beggar's opera  
@@ -42,14 +42,14 @@ Insira o incipit literário como o título uniforme para peças vocais se não e
   
 Certifique-se de que o incipit literário neste campo é idêntico ao incipit literário no campo **Incipit literário (031 $t)**. Para textos latinos, use o texto que precede o ponto e vírgula como título uniforme, mas utilize o incipit literário inteiro para o incipit literário.   
   
-_Exemplos:_  
+##### Exemplos  
 Der Mond ist aufgegangen  
  Gloria [com incipit literário: Gloria, in excelsis Deo et in terra pax]  
   
 3. **Gênero**  
 Use o gênero da obra como o título uniforme se não houver nem um título distintivo, nem um incipit literário. Na maioria dos casos, insere-se o gênero em inglês e no plural (como em **Operas**). Observe que, para alguns gêneros, um determinado **Cabeçalho de Assunto (650)** é utilizado. Por favor, consulte o apêndice **Título uniforme – Cabeçalho de Assunto** nas Diretrizes para ajuda.   
   
-_Exemplos:_  
+##### Exemplos  
 Symphonies  
  Allemandes  
   
@@ -66,11 +66,11 @@ Presto
 **Regras especiais:**
 
 - **Coletâneas e**. Coletâneas. Nestes casos, um número mais o gênero é inserido. Insira um número arábico indicando quantas obras pertencem à coletânea, seguido de um gênero que seja o mais abrangente possível.  
-_Exemplos:_    
+##### Exemplos    
 25 Arias  
 3 Instrumental pieces
 - **Volumes compostos**. Insira um número correspondente ao número de itens envolvidos mais a palavra “Itens”.  
-_Exemplos:_  
+##### Exemplos  
 11 Itens   
 - **Variações.** Insira **Variations** como o título uniforme aqui. No campo **Título adicional (730)**, insira a obra sobre a qual a peça se baseia, quando conhecida, e selecione **Variations** em **Definição de arranjo**.
 - **Inserções.** Insira o incipit literário da peça inserida como título uniforme aqui. No campo **Título adicional (730)**, insira o nome da ópera ou da obra maior no campo.

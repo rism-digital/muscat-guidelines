@@ -21,7 +21,7 @@ _Por lo general es el nombre del compositor o el lugar; en otros casos, seleccio
 - **Espacio**
 - **Año de publicación**
 
-_Ejemplos:_
+##### Ejemplos
 
 > Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
 >             → DirksenS 2007  
@@ -34,7 +34,7 @@ _Ejemplos:_
 
 En el caso de los autores o editores que publiquen varios artículos sobre el mismo compositor o varias obras del mismo compositor, se añade una letra (**a, b, c,** etc.) al final del año.
 
-_Ejemplos:_
+##### Ejemplos
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
 >             → KircherA 2005  
@@ -103,7 +103,7 @@ Un catálogo publicado como parte de un ítem mayor, como puede ser el apéndice
 
   
 
-_Ejemplos:_
+##### Ejemplos
 
 > A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
 >             → BelH  
@@ -131,7 +131,7 @@ _Ejemplo:_
 
 Las publicaciones que contienen el término _catálogo temático_ en sus títulos suelen ser catálogos de obras, pero también pueden tocar ocasionalmente otros temas o no ser amplias en su alcance. Compruébelo siempre dos veces. Si es el primer caso, asígnele un título breve como si se tratara de un catálogo de obras. Si es el segundo caso, póngale un título breve del mismo modo que para la bibliografía normal. En resumen, a todo lo que no sea un catálogo de obras se le asigna un título breve de bibliografía.
 
-_Ejemplos:_
+##### Ejemplos
 
 > Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
 >             → PasJ  

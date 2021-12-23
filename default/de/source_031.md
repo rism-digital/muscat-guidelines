@@ -9,7 +9,7 @@ Die Incipitnummer besteht aus drei durch Punkte getrennte Zahlen, welche für da
 
 Die Nummerierung ist immer fortlaufend, auch wenn einzelne Sätze fehlen.
 
-_Beispiele:_  
+##### Beispiele  
 1.1.1 = 1. Werk, 1. Satz, 1. Incipit  
 1.1.2 = 2. Incipit zum 1. Satz im 1. Werk (erklingt gleichzeitig mit 1.1.1)  
 1.2.1 – 1. Werk, 2. Satz, 1. Incipit
@@ -159,7 +159,7 @@ Geben Sie keine Bindebögen ein.
 { = Balkungsbeginn  
 } = Balkungsende
 
-_Beispiel_:  
+##### Beispiel:  
 {qq6'CDEDr}
 
 **10. Sonderrhythmen:**  
@@ -197,7 +197,7 @@ _Beispiel:_
 11.3. Rhythmisches Muster  
 Wenn sich eine rhythmische Abfolge mehrmals wiederholt, kann sie den betroffenen Tonbuchstaben als rhythmisches Muster vorangestellt werden.
 
-_Beispiel_:  
+##### Beispiel:  
 statt 8.A6B8C8.D6E8F kann stehen 8.68ABCDEF  
 Das rhythmische Muster endet, sobald ein anderer rhythmischer Wert folgt.  
   
@@ -206,7 +206,7 @@ Das rhythmische Muster endet, sobald ein anderer rhythmischer Wert folgt.
 
 Verwenden Sie % für Schlüsselwechsel, $ für Vorzeichenwechsel und @ für Taktwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen.
 
-_Beispiele:_  
+##### Beispiele  
 %C-1 '2A  
 %C-1 $xFC '8B  
 @3/2 '1C  
@@ -271,6 +271,6 @@ weitere Instrumente.
 
 Genannt werden die Stimmen jeweils von der höchsten zur tiefsten Stimmlage, durch Komma getrennt. Die jeweiligen Stimmgruppen werden durch Semikolon getrennt. Ergänzungen können durch eckige Klammern angezeigt werden.
 
-_Beispiele:_   
+##### Beispiele   
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  
 S 2 solo; Coro; ob obl; strings, bc

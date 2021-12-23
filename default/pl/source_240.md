@@ -26,7 +26,7 @@ Wpisać uznany tytuł stosując standardową pisownię wg (1) New Grove, (2) MGG
   
 Popularne nazwy lub pseudonimy (takie jak „Eroica” czy „Msza Nelsońska”) nie liczą się jako tytuły ujednolicone. Takie nazwy wpisuje się w pole **Dodatkowe tytuły (730 $a)**.  
   
-_Przykłady:_  
+##### Przykłady  
 Die Forelle  
  Die Zauberflöte  
  The beggar's opera  
@@ -45,14 +45,14 @@ Przy wprowadzaniu incipitów tekstowych, należy stosować zasady ortografii ka�
   
 Należy się upewnić, czy incipit tekstowy w tym polu jest tożsamy z polem tekstowym w polu Incipit tekstowy (031 $t). W przypadku tekstów łacińskich należy stosować tekst poprzedzający przecinek (z listy w aneksie) jako tytuł ujednolicony w całej swojej postaci.  
   
-_Przykłady:_  
+##### Przykłady  
 Der Mond ist aufgegangen  
  Gloria [z incipitem tekstowym: Gloria, in excelsis Deo et in terra pax]  
   
 3. **Gatunek**  
 Użyć gatunku utworu jako tytułu ujednoliconego, w razie braku odrębnego tytułu lub incipitu tekstowego. W większości przypadków należy wpisać gatunek w języku angielskim i w liczbie mnogiej (np. **Operas**). Należy przy tym pamiętać, że w przypadku niektórych gatunków używa się określonego **hasła przedmiotowego (650)**. Aby znaleźć wskazówki, należy zapoznać się z aneksem **Tytuł ujednolicony - Hasło przedmiotowe** w **Wytycznych**.  
   
-_Przykłady:_  
+##### Przykłady  
 Symphonies  
  Allemandes  
   
@@ -62,7 +62,7 @@ Wprowadzić oznaczenie tempa jeżeli nie można ustalić gatunku. Jeżeli żadna
  - Utwory (utwór generyczny)  
  - Części (pojedyncza część utworu instrumentalnego bez oznaczenia tempa i o nieustalonym charakterze)  
   
-_Przykłady:_  
+##### Przykłady  
 Presto  
  Lento
 
@@ -70,7 +70,7 @@ Presto
 
 **Kolekcje**. W takich przypadkach wprowadza się liczbę plus wprowadzony gatunek. Podać cyfrę arabską oznaczającą ile utworów przynależy do danej kolekcji, a następnie podać możliwie najszerszy gatunek.  
   
-_Przykłady:_  
+##### Przykłady  
 25 arii  
 3 utwory instrumentalne  
   

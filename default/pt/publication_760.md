@@ -20,7 +20,7 @@ vol. 3/1-2; 11/1-2
 
 Para um capítulo de uma coleção de ensaios, insira os números da página inicial e da página final do capítulo_._
 
-_Exemplo_:  
+##### Exemplo:  
 p. 76-109
 
 Como regra geral, certifique-se de incluir informação suficiente para que quaisquer pessoas sejam capazes de encontrar o item por si mesmas.

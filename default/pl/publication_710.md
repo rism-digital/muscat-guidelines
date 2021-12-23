@@ -7,6 +7,6 @@ Korzystać tylko z dwóch funkcji:
 - **Edytor**: Stosować szczególnie, gdy jako autora pozycji podano raczej instytucję niż osoby.
 - **Inna funkcja**  
 
-_Przykłady:_  
+##### Przykłady  
 Sing-Akademie zu Berlin   
 Historische Sektion der Bayerischen Benediktinerakademie

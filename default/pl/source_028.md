@@ -4,7 +4,7 @@ Pole służy do wprowadzania numerów wydawniczych, które na ogół znajdują s
 
 Wprowadzić numer wydawniczy dokładnie w takiej formie, w jakiej występuje on w źródle.
 
-_Przykłady:_
+##### Przykłady
 
 XLII [42]  
 B. & H. 8533  

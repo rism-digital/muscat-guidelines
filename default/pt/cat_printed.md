@@ -84,7 +84,7 @@ A música impressa apresenta títulos distintivos mais frequentemente do que a m
 **Ortografia****  **  
 Insira os títulos uniformes usando ortografia moderna, mas não corrija usos arcaicos ou dialetos/regionalismos. Alterações frequentes incluem v para u, i para j, y para i, e uu para w. A Redação Central pode ajudar no caso de línguas estrangeiras pouco conhecidas. Variações adicionais podem ser inseridas no campo **Título adicional (730)**.   
 
-_Exemplo_:   
+##### Exemplo:   
 RISM A/I: RR 3030c   
 Título na fonte: Musicalische Grab=schrifft.   
 Título uniforme: Musikalische Grabschrift

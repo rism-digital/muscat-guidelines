@@ -13,7 +13,7 @@ Pola te będą identyczne jak w przypadku głównego Nagłówka (100) powyżej.
 #### Tytuł utworu (400 $t)
 Użyj tego pola, aby zapisać warianty tytułu, alternatywy, pseudonimy, różne pisownie itp. Powtórz to pole dla każdej odmiany.
 
-_Przykłady:_  
+##### Przykłady  
 Why fair maid in ev'ry feature  
 Why fair maid in every feature  
 Verrückte Jane  

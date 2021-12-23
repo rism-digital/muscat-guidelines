@@ -10,7 +10,7 @@ Escriba el título del periódico, libro o serie. Este campo está vinculado a l
 
 Introduzca, según corresponda, los números de volumen, número, año y/o página del artículo. Por ejemplo, para una publicación periódica, introduzca el volumen, el año y los números de página. Regístrelo de un modo que resulte apropiado al estilo de la revista.
 
-_Ejemplos:_  
+##### Ejemplos  
 23 (1986), p. 5-10  
 2, 35 (2014), 7-16  
 71 (1997), Heft 5, p.275-292  

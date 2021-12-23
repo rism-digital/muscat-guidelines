@@ -14,7 +14,7 @@ Die Termini erscheinen in der Regel im Plural. Bei gleichen Schlagworten für Vo
 Können bei einem Werk mehrere Schlagworte vergeben werden, liegt es im Ermessen des Bearbeiters, die Reihenfolge derselben festzulegen. Es gibt Werke, die auf jeden Fall mehrere weitere Schlagworte mit sich ziehen wie beispielsweise "Contrafacta" oder "Inserts".  
 
 
-_Beispiele:_
+##### Beispiele
 
 1.      Choralarrangement mit bekanntem Textincipit  
 In diesem Fall ist diese Liste nicht notwendig! Das Textincipit des Chorals wird zum Einordnungstitel mit dem Zusatz **Arrangement**. Als Schlagwort dient **Chorale**  **arrangements**.

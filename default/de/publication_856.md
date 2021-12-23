@@ -7,7 +7,7 @@ Verlinkung zu elektronischen Ressourcen. Verwenden Sie möglichst Permalinks.
 Geben Sie eine kurze Beschreibung der URL.
 
   
-_Beispiele:_  
+##### Beispiele  
 Electronic resource  
 Elektronische Ressource  
 Link to PDF  

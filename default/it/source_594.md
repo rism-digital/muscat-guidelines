@@ -32,7 +32,7 @@ Elenca l’organico nell’ordine seguente:
 
 Elenca le parti dall’ambito più acuto all’ambito più grave. Inserisci uno strumento per riga. Aggiungi tra parentesi delle possibilità di organico alternative.
 
-_Esempi:_
+##### Esempi
 
 S 1  
 S 2  
@@ -58,7 +58,7 @@ org
 
 Indica qui il numero totale di parti. Se un brano include due parti per lo stesso strumento, indica lo strumento individuale nel campo **Organico** e **2** nel campo **Numero**.
 
-_Esempi:_  
+##### Esempi  
 vl         2 [per un brano con violino 1 e violino 2]  
 vla       1 [solo 1 parte di viola]  
 ob        2 [oboe 1 e oboe 2]  

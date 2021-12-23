@@ -22,7 +22,7 @@ Quaisquer acréscimos ou comentários sobre a técnica de impressão pode ser in
 
 Se uma fonte inclui múltiplas técnicas de impressão, pode-se repetir o campo para indicar cada uma das técnicas. Inclua uma nota no campo **Nota geral (500 $a)** para explicar.
 
-_Exemplo_:  
+##### Exemplo:  
 Música gravada que tem uma página de título litografada  
 **Técnica especial de produção (340 $d)**: Gravação  
 **Técnica especial de produção (340 $d)**: Litografia  

@@ -8,7 +8,7 @@ file.
 
 Geographic locations are entered in the field **Related place (651)**.
 
-_Examples:_
+##### Examples
 
 - Instruments
 - Madrigals

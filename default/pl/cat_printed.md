@@ -120,7 +120,7 @@ Tytuł ujednolicony: Musikalische Grabschrift
 2. **Uzyskiwanie tytułu ujednoliconego z tytuły charakterystycznego**  
 Tytuły ujednolicone winny składać się tytułu druku aż do miejsca naturalnej przerwy, często przecinka, kropki lub oznaczenia autora, instrumentacji, numeru lub stopki wydawniczej. Czasami charakterystyczny tytuł znajduje się na innej stronie niż strona tytułowa.  
 
-_Przykłady:_  
+##### Przykłady  
 
 RISM A/I: B 805  
 Tytuł widniejący na źródle: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza  

@@ -9,7 +9,7 @@ Wprowadzić adres URL zasobu zewnętrznego. Zawsze stosować permalinki.
 Pole wymagane przy wprowadzaniu linku do zasobu zewnętrznego.   
 Wprowadzić krótki opis, który wyjaśnia, dlaczego dany adres URL jest istotny w odniesieniu do opisywanego źródła. Należy stosować własny język katalogowania. 
 
-_Przykłady:_  
+##### Przykłady  
 Egzemplarz zdigitalizowany  
 Znak wodny na str. 4  
 Strona główna projektu  

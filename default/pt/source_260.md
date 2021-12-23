@@ -38,7 +38,7 @@ Note que para manuscritos, as datas são inseridas sem colchetes, porque manuscr
 
 Outras datas podem ser indicadas como na fonte. Use um ponto de interrogação para indicar informação incerta.
 
-_Exemplos:_  
+##### Exemplos  
 1875  
 Dia de Natal 1856  
 1757-01-11  

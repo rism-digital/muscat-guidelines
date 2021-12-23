@@ -7,7 +7,7 @@ Insira o URL do recurso externo. Use permalinks sempre que possível.
 
 Insira uma breve nota que descreva o link.
 
-_Exemplos:_  
+##### Exemplos  
 Electronic resource  
 Elektronische Ressource  
 Recurso eletrônico  

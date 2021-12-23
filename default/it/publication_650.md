@@ -4,7 +4,7 @@ Inserisci un soggetto o una parola chiave che aiuti a descrivere il contenuto de
   
 Luoghi geografici sono inseriti nel campo **Luogo****  correlato (651)**.  
   
-_Esempi:_  
+##### Esempi  
 Instruments   
 Madrigals   
 Schriftsteller   

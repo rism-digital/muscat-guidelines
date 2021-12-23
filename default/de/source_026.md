@@ -8,7 +8,7 @@ Geben Sie hier den zusammenhängenden Fingerprint an.
 
 Die Richtlinien des Institut de Recherche et d’Histoire des Texte und der National Library of Scotland können online eingesehen werden: [Englisch, Französisch und Italienisch](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm) sowie [Deutsch](https://katalogbeta.slub-dresden.de/id/0001617101/#detail).
 
-_Beispiel_:  
+##### Beispiel:  
 n?n, n;t, v.at BeDr C 1695R
 
 Weiterhin stehen folgende Felder zur Verfügung.  

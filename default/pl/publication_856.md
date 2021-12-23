@@ -7,7 +7,7 @@ Wprowadzić URL źródła zewnętrznego. Zawsze należy starać się używać pe
 
 Wprowadzić krótką uwagę opisującą link.
 
-_Przykłady:_  
+##### Przykłady  
 Zasób elektroniczny  
 Elektronische Ressource  
 Link do PDF  

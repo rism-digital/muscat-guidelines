@@ -8,7 +8,7 @@ Ingrese el identificador tipográfico completo.
 
 Pueden consultarse de manera online los lineamientos establecidos por el _Institut de Rechercher e d’Histoire des Texte_ y la Biblioteca Nacional de Escocia, tanto en [inglés, francés e italiano](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm), como en [alemán](http://nbn-resolving.de/urn:nbn:de:hbz:6:1-195591).
 
-_Example_:  
+##### Example:  
 n?n, n;t, v.at BeDr C 1695R
 
 Dependiendo del estándar de la descripción pueden utilizarse otros campos disponibles:

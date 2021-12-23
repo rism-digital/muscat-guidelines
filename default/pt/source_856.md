@@ -34,19 +34,19 @@ Este campo é obrigatório quando se insere um link para um recurso externo. Sel
 
 **Fonte digitalizada**: O link é dirigido para um website externo que é uma cópia digitalizada do recurso a ser descrito. Links para repositórios institucionais são preferenciais, mas, caso nenhum esteja disponível, então links para repositórios externos, como o Internet Archive ou o IMSLP, são permitidos. 
 
-_Exemplo_:   
+##### Exemplo:   
 [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/) 
 
 - 
 
 **Manifesto IIIF**: O objeto ligado é um objeto JSON legível por máquina, processado por um visualizador de documentos interno como o diva.js. O documento está embutido diretamente na página web. Muitas das vezes, “manifest”, “iiif” ou algo semelhante aparece no link. 
 
-_Example_:*[  
+##### Example:*[  
 https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)*
 
 Nos casos em que ambos os links para um visualizador externo e um manifesto IIIF estejam disponíveis, repita o campo e liste ambos os links separadamente.
 
-_Exemplo_: 
+##### Exemplo: 
 
   - Recurso externo: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)   
 Nota: versão digitalizada   

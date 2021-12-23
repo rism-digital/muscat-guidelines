@@ -14,7 +14,7 @@ En los casos en que las bibliotecas, los archivos o los centros de documentació
 
   
 
-_Ejemplos:_
+##### Ejemplos
 
 Privatsammlung Cees Verheijen
 
@@ -58,7 +58,7 @@ En caso de que una institución haya cambiado de nombre, sigue manteniendo la mi
 
  
 
-_Ejemplos:_
+##### Ejemplos
 
 GB-Cu = Reino Unido, Cambridge, University Library
 
