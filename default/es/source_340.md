@@ -23,7 +23,7 @@ Cualquier agregado o comentario sobre la técnica de impresión puede explicarse
 
 Si una fuente incluye muchas técnicas de impresión, puede repetir el campo para consignar cada técnica. Explíquelo mediante una nota en el campo **Nota general (500 $a)**.
 
-Impresión _offset_
+##### Ejemplo:
 
 Engraved music that has a lithographed title page:
 
@@ -33,7 +33,7 @@ Engraved music that has a lithographed title page:
 
 #### Formato de libro (340 $m)
 
-Seleccione el formato del libro que resulta al doblar una hoja para formar un pliego de hojas (por ejemplo, una hoja doblada una vez para formar un folio, dos veces para formar un cuarto, tres veces para formar un octavo). Seleccione una opción entre las siguientes:
+Seleccione el formato del libro que resulta al doblar una hoja para formar un pliego de hojas (por ejemplo, una hoja doblada una vez para formar un folio, dos veces para formar un cuarto, tres veces para formar un octavo). Ingrese la URI que identifica la institución.
 
 - **2°**: folio, fo
 - **4°**: quarto, 4to
