@@ -40,7 +40,7 @@ _Examples_:
 
 In the case of private collections, the last name of the owner is added to the city code in lowercase letters.
 
-_Example_:
+##### Example:
 
 - I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti.
 
