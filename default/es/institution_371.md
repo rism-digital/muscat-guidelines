@@ -26,7 +26,7 @@ Además, puede consignar:
 
 Ingrese información de contacto adicional, como por ejemplo:
 
-- Número de teléfono (ISDIAH 5.2.2)
+- Telephone number (ISDIAH 5.2.2)
 - Número de fax (ISDIAH 5.2.2)
 - Persona de contacto (ISDIAH 5.2.3): Es útil disponer del correo electrónico de una persona de contacto, especialmente en el caso de las instituciones que no se especializan en música, como los archivos administrativos o religiosos.
 - Dirección de correo electrónico (ISDIAH 5.2.3)
