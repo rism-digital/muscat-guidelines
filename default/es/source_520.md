@@ -1,4 +1,4 @@
-### **Descripción sumaria (520 $a)**
+### Descripción sumaria (520 $a)
 
 En este campo se puede registrar, de manera breve, información general sobre la obra o sobre sus secciones. Ingrese la información en inglés.
 

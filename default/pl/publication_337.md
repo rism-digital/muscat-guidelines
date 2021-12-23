@@ -1,5 +1,5 @@
-#### **Rodzaj nośnika (337 $a)  
-Pole wymagane.**  
+#### Rodzaj nośnika (337 $a)  
+**Pole wymagane.**  
 
 Wybrać z poniższej listy typ nośnika:
 

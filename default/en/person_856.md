@@ -11,4 +11,4 @@ Enter the full URL of the external resource. Always use permalinks.
 Briefly describe what the URL points to in a relevant language.
 
 _Example_:  
-- [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.B 65 / p. 1, 26]
+- [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000) Schriftprobe [D-B Am.B 65 / p. 1, 26]

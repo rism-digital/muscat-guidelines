@@ -21,7 +21,7 @@ Un **Volumen compuesto** es un volumen integrado por documentos que fueron cread
 
 Hay dos maneras de señalar la presencia de volúmenes compuestos. La primera y más simple consiste en dar a los ítems la misma signatura; también resulta útil una nota de encuadernación. La segunda forma consiste en utilziar la plantilla para volúmenes compuestos.
 
-El registro de volúmen compuesto sirve como medio para vincular los ítems en un único registro, proveyendo, de esa manera, al usuario un panorama conveniente de todos los contenidos de un volumen encuadernado. 
+El registro de volúmen compuesto sirve como medio para vincular los ítems en un único registro, proveyendo, de esa manera, al usuario un panorama conveniente de todos los contenidos de un volumen encuadernado.
 
 Es conveniente que los registros de volúmenes compuestos sean simples. En principio, los mismos simplemente describen la encuadernación. No hay que confundir los volúmenes compuestos con las colecciones; las "colecciones" en el RISM son sólo para manuscritos. Además, no hay que confundir los volúmenes compuestos con las ediciones impresas: una edición impresa es una unidad bibliográfica única que fue publicada por el editor como tal. Tanto las colecciones como las ediciones impresas pueden contener varias piezas. En cambio, los volúmenes compuestos reúnen unidades dispares: por ejemplo, una colección impresa de madrigales de 1604, un manuscrito de un motete de 1620 y una edición impresa de madrigales de 1615.
 
@@ -36,9 +36,9 @@ Con este tipo de documentos, deberá vincular tanto ítems manuscritos como impr
 ### Catalogación de _contrafacta_
 
 Los _Contrafacta _(sing. _Contrafactum_)_ _son piezas vocales en las cuales se reemplaza el texto sin realizar cambios significativos a la música, como en el caso de las obras seculares cuyo texto es reemplazado por uno sacro, o viceversa. La derivación es casi mecánica; hay poca creatividad en juego de parte del arreglador, aunque se plantea un cambio significativo en el propósito musical de la pieza (por ejemplo, el desplazamientpo de un contexto teatral a otro religioso).  
-  
+
 Por favor, nótese que RISM diferencia a los _contrafacta _de la parodia y las misas de parodia, las cuales, por lo general, involucran una transformación más significativa del material musical.  
-  
+
 Preste atención a los siguientes campos al catalogar _contrafacta._ A continuación se usará como ejemplo el ID de RISM n.° 300234487, un _contrafactum_  
 sacro de un aria de la ópera _Il Bellerofonte_, de Josef Mysliveček.
 
@@ -93,24 +93,24 @@ Todos los otros campos, tales como la festividad litúrgica y la plantilla/orgá
 
 ### Catalogación de compilaciones
 
-Las compilaciones constituyen obras nuevas e independientes hechas a partir de partes de una o más obras que también pueden incluir material nuevo. Con frecuencia, la obra resultante es de un género diferente al de las partes que la componen, como cuando las arias o dúos de una ópera se convierten en una cantata, o los extractos de una ópera se convierten en una suite instrumental. Esto también incluye los pasticcios. Si bien la frontera entre una compilación y un pasticcio no siempre es clara, los pasticcios pueden ser caracterizados generalmente por uno de estos rasgos: 1) arias, duetos o partes más grandes de obras dramáticas que se adaptan a un nuevo libreto; 2) varias obras independientes que se combinan para crear una nueva obra; o 3) composiciones colaborativas concebidas como tales desde el principio. 
+Las compilaciones constituyen obras nuevas e independientes hechas a partir de partes de una o más obras que también pueden incluir material nuevo. Con frecuencia, la obra resultante es de un género diferente al de las partes que la componen, como cuando las arias o dúos de una ópera se convierten en una cantata, o los extractos de una ópera se convierten en una suite instrumental. Esto también incluye los pasticcios. Si bien la frontera entre una compilación y un pasticcio no siempre es clara, los pasticcios pueden ser caracterizados generalmente por uno de estos rasgos: 1) arias, duetos o partes más grandes de obras dramáticas que se adaptan a un nuevo libreto; 2) varias obras independientes que se combinan para crear una nueva obra; o 3) composiciones colaborativas concebidas como tales desde el principio.
 
-Las compilaciones se pueden cargar en un solo registro, o bien como colecciones. 
+Las compilaciones se pueden cargar en un solo registro, o bien como colecciones.
 
 Al catalogar compilaciones, tenga en cuenta los siguientes campos:
 
 **Compositor/Autor (100)**  
-El compositor es, en todos los casos, **Compilations** (Compilaciones). 
+El compositor es, en todos los casos, **Compilations** (Compilaciones).
 
 **Nombre personal adicinal (700)**  
 El nombre del compilador puede ser añadido con la función **Editor**.
 
-En el caso de las compilaciones, registre a cada compositor/a del material original con función **Referencia cruzada de compositor**, y a cada compositor/a del nuevo material con la función **Co-compositor**. 
+En el caso de las compilaciones, registre a cada compositor/a del material original con función **Referencia cruzada de compositor**, y a cada compositor/a del nuevo material con la función **Co-compositor**.
 
 En el caso de los pasticcios, no registre compositoras/es como Referencias cruzadas de compositor. En su lugar, cargue a cada compositor/a como **Co-compositor**.
 
 **Título estandarizado (240)**  
-Introduzca el título estandarizado de la fuente en cuestión. Para los pasticcios, añada seleccione **Extractos** o **Arreglo** según corresponda. 
+Introduzca el título estandarizado de la fuente en cuestión. Para los pasticcios, añada seleccione **Extractos** o **Arreglo** según corresponda.
 
 **Código de idioma (041)**  
 Para el campo **Idioma del texto**, introduzca el idioma de la fuente en cuestión. Si corresponde, se puede introducir el idioma de la obra original en **Idioma del texto original**.
@@ -128,13 +128,13 @@ Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel [= Acto 1 de 
 Escriba el título uniforme de la(s) pieza(s) original(es), seleccionando **Extractos** o **Arreglo** según corresponda. También puede introducir títulos _ossia_.
 
 **Catálogo de obras (690)**  
-Puede introducir el número de catálogo de obras tanto para la compilación como para las obras originales. 
+Puede introducir el número de catálogo de obras tanto para la compilación como para las obras originales.
 
 **Incipit literario (031)**  
-Introduzca el texto de la fuente en cuestión. También puede introducir el texto original entre corchetes, si lo conoce. 
+Introduzca el texto de la fuente en cuestión. También puede introducir el texto original entre corchetes, si lo conoce.
 
 **Nota general (500)**  
-Utilice siempre una nota para aclaraciones, especialmente si se trata de obras de compositores distintos. Esto asegura que los compositores se correspondan con las obras utilizadas en la compilación. 
+Utilice siempre una nota para aclaraciones, especialmente si se trata de obras de compositores distintos. Esto asegura que los compositores se correspondan con las obras utilizadas en la compilación.
 
 **Nota sobre ocasión de interpetación (518)**  
 Las interpretaciones deben ser señaladas sólo en la medida en que se relacionen con la compilación misma.
@@ -157,7 +157,7 @@ Una parodia es una composición basada en material preexistente que da lugar a u
 
 El registro 150205470 será usado como ejemplo.
 
- 
+
 
 #### Compositor (100)
 
@@ -200,7 +200,7 @@ Introduzca el idioma de la fuente en cuestión en el campo Idioma del texto. Int
 
 #### Incipits literarios (031)  
 
-Introduzca el incipit literario de la fuente en cuestión. También puede introducir el texto original entre corchetes, si lo conoce. 
+Introduzca el incipit literario de la fuente en cuestión. También puede introducir el texto original entre corchetes, si lo conoce.
 
 - Dannemark hellige lyd
 - [Di tanti palpiti]
@@ -231,7 +231,7 @@ A la hora de crear el registro madre y el registro de la ópera principal, se si
 
 **Nota general (500):** Se puede añadir cualquier información adicional que se conozca y aclare la relación de la inserción dentro de la obra mayor.
 
-### **Catalogación de materiales mixtos (manuscritos e ítems impresos que se conservan juntos)**
+### Catalogación de materiales mixtos (manuscritos e ítems impresos que se conservan juntos)
 
 No resulta extraño encontrar manuscritos e ítems impresos reunidos en la misma carpeta o bajo la misma signatura: por ejemplo, una partitura impresa con particellas manuscritas, o un grupo de particellas impresas junto con otras manuscritas.
 
@@ -239,16 +239,16 @@ Procure siempre catalogar el material impreso en un registro separado, dado que 
 
 En caso de que no sea factible c un registro adecuado para el material impreso, proceda de la siguiente manera: catalogue su material utilizando una plantilla de manuscrito; en la sección de descripción del material, describa los materiales del manuscrito; añada un grupo de materiales adicional y describa los materiales impresos.
 
-### **Catalogación de música publicada en periódicos**
+### Catalogación de música publicada en periódicos
 
-Existen dos maneras de catalogar periódicos que contienen música: como colección o como obra individual. En cada caso, el título del periódico, con el número de edición y el año, se registran en el campo **Título adicional (730).** 
+Existen dos maneras de catalogar periódicos que contienen música: como colección o como obra individual. En cada caso, el título del periódico, con el número de edición y el año, se registran en el campo **Título adicional (730).**
 
-Las  **Colecciones ** resultan apropiadas en los casos en los que el periódico consiste en su mayor parte de música y el ítem fue reunido y preservado en su totalidad. Los registros de ejemplar se añaden al nivel de la colección. Se crean entradas individuales para cada pieza de la edición.
+Las  **Colecciones** resultan apropiadas en los casos en los que el periódico consiste en su mayor parte de música y el ítem fue reunido y preservado en su totalidad. Los registros de ejemplar se añaden al nivel de la colección. Se crean entradas individuales para cada pieza de la edición.
 
 _Ejemplo_:  
-1001097294: Edición de enero (año preciso incierto) de la _Kleine Pianoforte-Bibliothek_, que contiene 5 piezas. Hay un registro madre para la colección y cinco entradas individuales, una para cada pieza. 
+1001097294: Edición de enero (año preciso incierto) de la _Kleine Pianoforte-Bibliothek_, que contiene 5 piezas. Hay un registro madre para la colección y cinco entradas individuales, una para cada pieza.
 
-Las  **Piezas individuales ** pueden resultar apropiadas en los casos en los que las obras fueron incluidas como inserciones o agregados en periódicos sin foco en lo musical. Frecuentemente, este tipo de ítem se conserva por fuera de su contexto de publicación.
+Las  **Piezas individuales** pueden resultar apropiadas en los casos en los que las obras fueron incluidas como inserciones o agregados en periódicos sin foco en lo musical. Frecuentemente, este tipo de ítem se conserva por fuera de su contexto de publicación.
 
 _Ejemplos_:    
 991018149: "The Pantheon" publicado en _The Lady's Magazine_, Agosto de 1784  
@@ -265,8 +265,8 @@ _Ejemplo_:
 **Nombre personal adicional (700)**: el autor del libro, con la indicación  **other**  
 **Título en fuente (diplomático) (245)**: título del libro  
 **Título uniforme (240)**: un título uniforme que siga las reglas de RISM, en este caso  **_3 Songs _** (tres canciones)  
-**Decripción física (300)**: una descripción correspondiente a la música, por ejemplo,  **1 score: 5 p.  **  
-  
+**Decripción física (300)**: una descripción correspondiente a la música, por ejemplo,  **1 score: 5 p.**  
+
 Luego se pueden crear las entradas individuales para cada pieza, siguiendo las reglas normales de RISM.
 
 ### Catalogación de libretos  
@@ -298,13 +298,13 @@ Cuanto se catalogan tratados, el campo **Formato, extensión (300 $a)** debe inc
 Entre los descriptores apropiados para tratados aparecen los siguientes casos:
 
 - **Treatises** [Tratados]
-- **Writings ** [Escritos]
-- **Music theory ** [Teoría musical]
-- **Theory of harmony ** [Teoría de la armonía]
+- **Writings** [Escritos]
+- **Music theory** [Teoría musical]
+- **Theory of harmony** [Teoría de la armonía]
 - **Tutors (inst.).** [Tutores instrumentales]. Incluye métodos y escuelas.
 - **Tutors (voc.).** [Tutores vocales]. Incluye métodos y escuelas.
-- **Contrapuntal studies (inst./voc.). **[Estudios de contrapunto (instrumentales/vocales)]. 
-- **Solfeggios (voc.) **[Solfeos (vocales)] 
+- **Contrapuntal studies (inst./voc.).** [Estudios de contrapunto (instrumentales/vocales)].
+- **Solfeggios (voc.) **[Solfeos (vocales)]
 - **Solfeggios (inst.) **[Solfeos (instrumentales)]
 - **Scales (inst./voc.) **[Escalas (instrumentales/vocales)]
 

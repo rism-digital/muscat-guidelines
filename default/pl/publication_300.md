@@ -1,8 +1,8 @@
-**### Opis fizyczny (300)**
-#### **Objętość (300 $a)**
+### Opis fizyczny (300)
+#### Objętość (300 $a)
 
 Wprowadzić objętość danego obiektu, podając liczbę stron lub tomów.  
-  
+
 _Przykłady:_  
 270 str.  
 xxi, 528 str.  

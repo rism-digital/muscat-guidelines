@@ -1,14 +1,14 @@
-#### Título breve (210 $a) 
+#### Título breve (210 $a)
 
 #### Campo obligatorio.
 
 Cada ítem de la Bibliografía secundaria recibe un título breve único que permite referenciarlo fácilmente en los registros RISM. Asegúrese siempre de comprobar primero que el título breve no esté en uso.  
 
-  
 
-A continuación se describe cómo crear títulos breves para la **bibliografía secundaria general, los catálogos de obras** y **ciertos casos especiales. **
 
-  
+A continuación se describe cómo crear títulos breves para la **bibliografía secundaria general, los catálogos de obras** y **ciertos casos especiales.**
+
+
 
 **Bibliografía secundaria general**  
 
@@ -45,7 +45,7 @@ _Ejemplos:_
 > Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ ed. Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
 >             → KircherE 2005c
 
-  
+
 
 En el caso de dos o más autores o editores, sólo se utiliza el primero en el título breve.
 
@@ -54,8 +54,8 @@ _Ejemplo:_
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 >             → Fuller-MaitlandF 1893
 
-  
-  
+
+
 
 Si no se nombra ningún autor, use una a dos palabras clave del título en su lugar.
 
@@ -64,7 +64,7 @@ _Ejemplo:_
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 >             → VerzeichnisThibaut 1842
 
-  
+
 
 Para obras de varios volúmenes publicadas a lo largo de varios años, sólo se utiliza el primer año.  
 _Ejemplo:_
@@ -78,7 +78,7 @@ _Ejemplo:_
 > Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, no date).  
 >             → ZanglO s.d.
 
-  
+
 
 Si sólo se conoce un año aproximado de publicación, indique **ca.** (circa) al introducir el editor y el año de publicación en el registro, pero omítalo en el título breve.
 
@@ -88,7 +88,7 @@ _Ejemplo:_
 >             → FahrbachK 1850
 
 Para los títulos breves de enciclopedias o conjuntos bibliográficos conocidos, utilice las abreviaturas o términos más establecidos (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).  
-  
+
 
 #### Catálogos de obras
 
@@ -99,9 +99,9 @@ Los títulos breves para los **catálogos de obras** se componen de:
 
 No se necesita un año.
 
-Un catálogo publicado como parte de un ítem mayor, como puede ser el apéndice en un libro, puede ser registrado como catálogo de obras. Esos ítems también pueden citarse como **Referencia bibliográfica (691). **  
+Un catálogo publicado como parte de un ítem mayor, como puede ser el apéndice en un libro, puede ser registrado como catálogo de obras. Esos ítems también pueden citarse como **Referencia bibliográfica (691).**  
 
-  
+
 
 _Ejemplos:_
 
@@ -125,7 +125,7 @@ _Ejemplo:_
 >            → BrinzingMWV  
 >                _Note: MWV was already in use for the Mendelssohn Werkverzeichnis._
 
- 
+
 
 **Casos especiales**
 
@@ -142,6 +142,6 @@ _Ejemplos:_
 > Robert Didion and Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_(Frankfurt: Vittorio Klostermann, 1990).  
 >             → DidionF 1990  
 > Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
->             → MurányiW 1997 
+>             → MurányiW 1997
 
-No asigne un título breve a los libros, anuarios, informes de conferencias, etc. que consisten en una colección de ensayos. Los ensayos de tales libros se introducen individualmente como referencias literarias, pero no todo el libro en sí. El ensayo se ingresa como un registro bibliográfico con su propio título breve. 
+No asigne un título breve a los libros, anuarios, informes de conferencias, etc. que consisten en una colección de ensayos. Los ensayos de tales libros se introducen individualmente como referencias literarias, pero no todo el libro en sí. El ensayo se ingresa como un registro bibliográfico con su propio título breve.

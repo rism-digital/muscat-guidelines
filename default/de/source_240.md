@@ -2,8 +2,6 @@
 
 Dieser Teil beschreibt den Titel in normierter Form, damit unterschiedlich benannte, aber gleiche oder ähnliche Kompositionen unter einem einheitlichen Titel zusammen gefasst werden. Auch Einordnungstitel oder Einheitssachtitel genannt.
 
-####   
-
 #### Einordnungstitel (240 $a)
 
 **Pflichtfeld**
@@ -29,18 +27,18 @@ Die Forelle
  Die Zauberflöte  
  The beggar's opera
 
-**2. T**** extincipit**  
+**2. Textincipit**  
 Hat ein Vokalwerk keinen Individualtitel, tritt das Textincipit an seine Stelle.
 
 Besteht eine Handschrift aus Rezitativ und Arie oder Scena und Aria wird grundsätzlich das Textincipit der Arie zum Einordnungstitel. Entsprechendes gilt für Rezitativ und Cavatine, Scena und Rondo oder ähnliche Kombinationen. Wenn eine einzeln überlieferte Arie vorliegt, deren Operntitel unbekannt ist, geben Sie das Textincipit der Arie ein.
 
-Bei Kantaten dagegen wird der Text des ersten Vokalstücks zum Einordnungstitel, gleichgültig ob es ein Rezitativ, eine Arie oder ein Chor ist. 
+Bei Kantaten dagegen wird der Text des ersten Vokalstücks zum Einordnungstitel, gleichgültig ob es ein Rezitativ, eine Arie oder ein Chor ist.
 
 Messen, Requiems, Exsequien, Litaneien und Offiziumskompositionen werden hingegen immer mit der Gattungsbezeichnung eingeordnet. Dasselbe gilt für vollständige Opern und Oratorien mit unbekanntem Individualtitel.
 
 Die Groß- und Kleinschreibung richten sich nach den Regeln der jeweiligen Sprache, jedoch werden Bezeichnungen für „Gott“ (Herr, Dieu, Dio, Deus, Lord etc.) stets groß geschrieben. Interpunktionszeichen und Wiederholungen entfallen beim Einordnungstitel. Bei eindeutigen Übersetzungen wird nach Möglichkeit das Textincipit in der Originalsprache eingetragen.
 
-Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. Lateinische Textincipits werden hier allerdings nur bis zu dem Trennungszeichen (Komma) als Einordnungstitel verwendet (siehe auch Liste im Anhang). 
+Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. Lateinische Textincipits werden hier allerdings nur bis zu dem Trennungszeichen (Komma) als Einordnungstitel verwendet (siehe auch Liste im Anhang).
 
 _Beispiele:_  
 Der Mond ist aufgegangen  
@@ -59,11 +57,11 @@ Lässt sich keine Gattung ermitteln, so kann auch eine Tempobezeichnung als Eino
 -Pieces (nicht näher definierbares musikalisches Stück)  
 -Movements (Einzelsatz eines unbestimmten Instrumentalstücks ohne Tempobezeichnung)
 
-  
+
 _Beispiele:_    
 Presto  
 Lento  
-  
+
 
 **Besondere Regelungen:**
 
@@ -81,7 +79,7 @@ _Beispiel:_
 - **Insertions**: Tragen Sie hier das Textincipit des eingefügten Stückes als Einordnungstitel ein. Geben Sie im Feld **Alternativer Titel (730)** den Namen der Oper oder eines größeren Werks ein und wählen Sie **Insertions** als zusätzliches **Schlagwort**.
 
 - **Nicht-lateinische Schriften**: Wenn Ihre Quelle einen Titel in nicht-lateinischen Buchstaben oder Zeichen aufweist (griechisches / hebräisches / koreanische / kyrillisches etc. Alphabet, chinesische Zeichen etc.) wird dieser in der ursprünglichen Schrift im **Einordnungstitel** eingetragen. Übersetzungen oder Transliterierungen sind fakultativ und werden im Feld **Alternativer Titel (730)** gemacht.   
-  
+
 
 #### Bearbeitung (240 $o)
 Handelt es sich bei vorliegendem Werk um eine Bearbeitung eines anderen Werks, wird das in diesem Feld mit **Arr** gekennzeichnet.   
@@ -112,7 +110,7 @@ Die Angabe entfällt bei: Opern, Oratorien und Kantaten; Recitativen ohne anschl
 Modale Tonarten werden nicht in moderne Tonartenbezeichnungen übertragen.
 
 #### Besetzungshinweis (240 $m)
-**Pflichtfeld, außer bei Opern, Oratorien oder wenn keine Angaben gemacht werden können. Bei Skizzen oder Sammlungen werden nur Angaben fällig, sofern sie sinnvoll erscheinen. **
+**Pflichtfeld, außer bei Opern, Oratorien oder wenn keine Angaben gemacht werden können. Bei Skizzen oder Sammlungen werden nur Angaben fällig, sofern sie sinnvoll erscheinen.**
 
 Der Besetzungshinweis dient als kurze Zusammenfassung der Gesamtbesetzung in einer Zeile: Es dürfen höchstens vier Angaben, jeweils durch Komma getrennt, gemacht werden. Die ausführliche Auflistung der Besetzung erfolgt im Feld **Vollständige Besetzung (594)**.
 

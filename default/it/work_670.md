@@ -1,14 +1,14 @@
 ### **Fonte dei dati (670)**
 
-Questo campo riporta la bibliografia consultata per creare la descrizione dell'opera. Può anche servire come una bibliografia generale per l'opera. 
+Questo campo riporta la bibliografia consultata per creare la descrizione dell'opera. Può anche servire come una bibliografia generale per l'opera.
 
- 
+
 
 #### **Fonte dei dati (670 $a)**
 
-Inserisci il titolo abbreviato del riferimento bibliografico. Il campo è collegato all’indice ** Bibliografia / Cataloghi tematici**. Se hai già inserito un riferimento a un catalogo tematico nel campo principale (100) o tra le varianti (400), assicurati di ripeterlo qui. 
+Inserisci il titolo abbreviato del riferimento bibliografico. Il campo è collegato all’indice **Bibliografia / Cataloghi tematici**. Se hai già inserito un riferimento a un catalogo tematico nel campo principale (100) o tra le varianti (400), assicurati di ripeterlo qui. 
 
- 
+
 
 #### Riferimento dell'informazione** (670 $b)**
 

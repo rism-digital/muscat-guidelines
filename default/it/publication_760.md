@@ -1,4 +1,4 @@
-### **Fa parte di (760)**
+### Fa parte di (760)
 
 Utilizza questo campo per collegare il tuo oggetto all’annuale, periodico o libro di cui l’oggetto fa parte.
 

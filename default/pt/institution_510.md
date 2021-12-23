@@ -1,4 +1,4 @@
-#### **Forma paralela do nome (MARC 510 $a; ISDIAH 5.1.3)**
+#### Forma paralela do nome (MARC 510 $a; ISDIAH 5.1.3)
 
 Este campo fornece as várias formas pelas quais a forma autorizada do nome de uma instituição ocorre, assim como as traduções do nome em outros idiomas, preferencialmente em inglês. Nomes originais em letras não-latinas podem também ser inseridos aqui. Insira cada nome em uma linha em separado.
 

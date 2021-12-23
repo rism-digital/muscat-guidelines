@@ -28,38 +28,38 @@ Special production technique (340 $d): Engraving
 Special production technique (340 $d): Lithography  
 General note (500 $a): Music engraved. Title page lithographed.
 
-#### **Buchformat (240 $m)**
+#### Buchformat (240 $m)
 
 Wählen Sie das entsprechende Buchformat aus:
 
-- 
+-
 
 **2°**: Folio, fo
 
-- 
+-
 
 **4°**: Quart, 4to
 
-- 
+-
 
 **8°**: Oktav, 8vo
 
-- 
+-
 
 **12°**: Duodez, 12mo
 
-- 
+-
 
 **16°**: Sedez, 16mo
 
-- 
+-
 
 **18°**: Oktodez, 18mo
 
-- 
+-
 
 **20°**: Vigesimo, 20mo
 
-- 
+-
 
 **24°**: Vigesimoquart, 24mo

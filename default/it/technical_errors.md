@@ -1,8 +1,8 @@
 # Problemi tecnici
 
-**1. **** Qualcosa non funziona?**
+**1. Qualcosa non funziona?**
 
-Non disperare! Se hai dei problemi, prima di tutto assicurati di avere la versione più recente di Firefox o Chrome; potresti aver bisogno di aggiornare il tuo browser. Poi, prova a svuotare la cache. Vi sono più maniere di farlo, a seconda del tuo sistema operativo: 
+Non disperare! Se hai dei problemi, prima di tutto assicurati di avere la versione più recente di Firefox o Chrome; potresti aver bisogno di aggiornare il tuo browser. Poi, prova a svuotare la cache. Vi sono più maniere di farlo, a seconda del tuo sistema operativo:
 
 - Tieni premuto il tasto maiuscolo e fai clic con il tasto sinistro sul bottone di rilettura (reload)
 - Premi "Ctrl + F5" o "Ctrl + maiuscolo + R" (Windows, Linux)
@@ -22,7 +22,7 @@ Questo avviene mentre stai effettuando una ricerca negli indici. Controlla se ha
 
 **6. Il mio incipit sembra essere bloccato.**  
 Prova a fare un aggiornamento dello schermo, oppure salva la tua scheda e prova a inserire nuovamente l’incipit.  
-  
+
 **7. Ricevo il messaggio di errore “Error saving page: this is a stale version”**  
-    
+
 Questo significa che mentre stavi modificando una scheda qualcun altro ha modificato la stessa scheda e l’ha salvata prima di te. Cerca di ricordare le tue modifiche, chiudi la scheda e aprila di nuovo.  

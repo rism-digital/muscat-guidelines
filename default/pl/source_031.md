@@ -1,7 +1,7 @@
-### **Incipit (031)**
+### Incipit (031)
 
 Incipity pomagają zidentyfikować utwory i ułatwiają porównywanie źródeł. Najlepszą praktyką dla muzyki instrumentalnej jest włączanie incipitów z partii wysokiej i niskiej, takich jak vl 1 i bas. W przypadku muzyki wokalnej należy uwzględnić incipity z najwyższego głosu i pierwszych skrzypiec lub najwyższej partii instrumentalnej. Incipity instrumentów transponowanych należy zapisać tak jak brzmią.  
-  
+
 Jeśli potrzebna notacja nie jest dostępna przy użyciu kodu Plaine & Easie, należy możliwie jak najlepiej przetranskrybować muzykę i dołączyć notatkę objaśniającą. W celu dalszego wyjaśnienia można załączyć obraz incipitu ze źródła.
 
 #### Numer utworu, numer części, numer incipitu (031 $a, b, c)
@@ -9,7 +9,7 @@ Jeśli potrzebna notacja nie jest dostępna przy użyciu kodu Plaine & Easie, na
 **Pole wymagane w przypadku korzystania z dowolnego pola w tej części**
 
 Numer incipitu składa się z trzech cyfr, które oznaczają utwór, część i incipit. Pierwszą cyfrą jest zawsze 1. Części odnoszą się do istotnych części utworu, niezależnie od tego, czy są to części w sensie technicznym (np. symfonii), czy też różne sekcje utworu (np. aria). Aby wskazać, że incipity brzmią jednocześnie (np. a vl 1 i bas), pierwszy i drugi numer incipitu musi być taki sam.  
-  
+
 Incipity należy numerować kolejno, nawet jeśli w źródle brakuje części. Na przykład, jeżeli źródłem jest symfonia trzyczęściowa, ale brakuje części środkowej, incipity będą ponumerowane 1.1.1 i 1.2.1 (nie 1.3.1). (Uwaga: System Muscat automatycznie dodaje kropki między numerami.)
 
 _Przykłady_:  
@@ -18,14 +18,14 @@ _Przykłady_:
 1.1.2 = 1. utwór, 1. część, wejście części wokalnej  
 1.2.1 = 1. utwór, 2. część, 1. incipit
 
- 
-#### **Tytuł części, tempo (031 $d)**
+
+#### Tytuł części, tempo (031 $d)
 
 Należy wpisać tytuł części i tempo lub podobne wskaźniki, jeśli takowe zostały określone, w sposób, w jaki pojawiają się one w źródle. Należy użyć | (pionowa kreska) z pojedynczą spacją przed i po znaku, aby pokazać koniec linii. Należy użyć nawiasów kwadratowych, aby wskazać dodatki do oryginału; pisownia wszelkich takich dodatków powinna być spójna. Wiele tytułów lub dodatkowe wskaźniki/oznaczenia tempa można dodać w osobnych polach. Przy wpisywaniu wielu incipitów, dla których tytuł lub oznaczenie tempa jest takie samo, należy je wpisać tylko dla pierwszego incipitu muzycznego.
 
- 
 
-#### **Głos/instrument (031 $m)**
+
+#### Głos/instrument (031 $m)
 
 Partię wokalną lub instrumentalną należy wpisać korzystając z listy **skrótów instrumentów RISM**. W przypadku nieznanej części wokalnej należy wpisać **V**. W przypadku nieznanej części instrumentalnej należy wpisać **i**. Incipity instrumentów transponowanych należy zapisać tak jak brzmią.
 
@@ -36,24 +36,24 @@ org with text
 
 #### Rola (031 $e)
 
-Tutaj należy wprowadzić ujednoliconą nazwę roli dramatycznej. Przy wypełnianiu tego pola należy również pamiętać o wypełnieniu pola **Nazwane role dramatyczne (595)**. Wszelkie uzupełnienia redakcyjne należy ująć w nawiasy kwadratowe. Wszelkie niepewne informacje należy oznaczyć znakiem zapytania. 
+Tutaj należy wprowadzić ujednoliconą nazwę roli dramatycznej. Przy wypełnianiu tego pola należy również pamiętać o wypełnieniu pola **Nazwane role dramatyczne (595)**. Wszelkie uzupełnienia redakcyjne należy ująć w nawiasy kwadratowe. Wszelkie niepewne informacje należy oznaczyć znakiem zapytania.
 
- 
+
 
 #### Incipit tekstowy (031 $t)
 
-  
+
 
 Incipit tekstowy składa się z kilku pierwszych słów utworu lub części i może być pierwszą linijką, pierwszą frazą lub inną grupą słów, które mają sens językowy. Incipity tekstowe służą do identyfikacji użytego tekstu i niekoniecznie muszą pasować do długości muzyki podanej w incipicie muzycznym. Incipit tekstowy można uwzględnić niezależnie od tego, czy wpisano incipit muzyczny. Należy pamiętać, że do tekstów sporządzonych w języku łacińskim mają zastosowanie odrębne zasady (patrz poniżej).  
-  
+
 Incipity tekstowe podaje się w formie ujednoliconej. Incipity tekstowe należy wprowadzać przy użyciu nowoczesnej pisowni. W celu znormalizowania wpisu należy odwołać się do indeksu **Tytuły/incipity tekstowe**. Jeśli nie ma ich w indeksie, należy wpisać nowe incipity.  
-  
+
 Nie należy umieszczać fragmentów tekstu w nawiasach lub podawać brakujących słów. W tekście nie należy umieszczać znaków interpunkcyjnych i powtórzeń.  Akcentów należy używać tylko w takiej formie, w jakiej pojawiają się w słowniku lub jeśli są poprawne gramatycznie. Numery należy wypisać na początku tekstu jako słowa. Wielkie i małe litery mają być zgodne z zasadami obowiązującymi w danym języku, z tym, że oznaczenia dla Boga (Herr, Dio, Dieu, Signore, Lord, etc.) należy zawsze pisać wielką literą. W przypadku stosowania incipitu tekstowego jako tytułu ujednoliconego (240), należy upewnić się, że długość i pisownia dokładnie się zgadzają.  
-  
+
 Należy całkowicie pominąć tekst, jeśli nie można go przeczytać i należy dodać adnotację „Tekst nieczytelny” lub podobną.
 
 W językach romańskich, kontynuuj wpisywanie tekstu bezpośrednio po apostrofie i bez spacji. Wyjątkiem od tej reguły jest sytuacja, gdy pierwszą literę słowa zastępuje apostrof (na przykład: Fra l'amante e 'l genitor).  
-  
+
 Można tu podać sprawdzone lub pochodne teksty, które nie pojawiają się w źródle. W takich przypadkach należy umieścić cały tekst w nawiasach kwadratowych. Są to między innymi:
 
 - Teksty, jeśli brakuje części wokalnej
@@ -69,11 +69,11 @@ Standardowe teksty łacińskie zazwyczaj pasują do tekstów z _Liber usualis_. 
 
 **W przypadku danych importowanych obowiązuje następująca zasada:** W przypadku korzystania  z informacji z pola **Tekst (740 $a)**, należy ją tu powtórzyć.
 
-#### **Tonacja lub modus (031 $r)** 
+#### Tonacja lub modus (031 $r)
 
 Należy wybrać tonację lub modus z listy.
 
-#### **Tonacja/Znaki przykluczowe (031 $n)**
+#### Tonacja/Znaki przykluczowe (031 $n)
 
 Wprowadzić **x** dla tonacji durowych lub **b** dla tonacji molowych, podając następnie wielkie litery dźwięków, które mają być podniesione lub obniżone. Jeżeli dany utwór jest wyraźnie napisany w danej tonacji, lecz w znakach przykluczowych nie podano krzyżyka lub bemolu, brakujące krzyżyki i bemole można dodać w nawiasach. W przypadku braku znaków przykluczowych, należy pozostawić puste miejsce.
 
@@ -82,8 +82,7 @@ xF = F jest dur = G dur lub E moll
 bBE = B i E są moll = B-dur/B-flat major lub G moll  
 xFC[G] = F and C są w źródle dur, ale utwór jest wyraźnie napisany w tonacji A dur, więc ostatni krzyżyk dodano w nawiasach.
 
-####   
-**Metrum/Znak metrum (031 $o)**  
+#### Metrum/Znak metrum (031 $o)  
 
 Wpisywać znaki metrum jako ułamki. Dozwolone są następujące oznaczenia:
 
@@ -106,18 +105,18 @@ _Przykłady_:
 
 Jeżeli znak metrum podany w źródle jest ewidentnie nieprawidłowy, należy go poprawić tak, aby odpowiadał podanemu incipitowi. W polu **Uwagi ogólne** należy dodać objaśnienie.
 
- 
 
-#### **Klucz (031 $g)**
+
+#### Klucz (031 $g)
 
 Należy wybrać klucz z listy. Litera wskazuje rodzaj klucza. Myślnik oznacza notację współczesną. Znak plus oznacza notację menzuralną. Cyfra odnosi się do pozycji na linii pięciolinii.
 
-#### **Ważność (031 $s)**
+#### Ważność (031 $s)
 W tym polu nie należy niczego wpisywać. (Stosuje się je tylko dla starych danych.)   
 
-  
 
-#### **Incipit muzyczny (031 $p)** 
+
+#### Incipit muzyczny (031 $p)
 
 Incipit muzyczny należy wpisywać w formie zakodowanej korzystając z kodów Plaine & Easie  (patrz także [https://www.iaml.info/plaine-easie-code](https://www.iaml.info/plaine-easie-code)). Incipit powinien być długości co najmniej dwóch taktów (miar) lub sześciu nut.
 
@@ -155,7 +154,7 @@ bb = podwójny bemol
 n = kasownik
 
 **4. Nazwy nut**  
-C, D, E, F, G, A, B 
+C, D, E, F, G, A, B
 
 **5. Ozdobniki**  
 g = acciaccatura (bez wartości rytmicznej, poprzedza nazwę nuty)  
@@ -164,11 +163,11 @@ qq...r = kilka appoggiatur lub ozdobników, które stanowią jedną całość (p
 
 **6. Pauzy**
 
-'-' czyli (znak minus) oznacza pauzę jednonutową. Dla oznaczenia taktu pustego należy stosować „=” (znak równości). Dla wielu pustych taktów, po znaku równości, należy podać ilość. Aby się to wyświetliło, należy dodać kreskę taktową. 
+'-' czyli (znak minus) oznacza pauzę jednonutową. Dla oznaczenia taktu pustego należy stosować „=” (znak równości). Dla wielu pustych taktów, po znaku równości, należy podać ilość. Aby się to wyświetliło, należy dodać kreskę taktową.
 
 _Przykład dla pauzy jednoósemkowej :_  
 8-   
-  
+
 _Przykłady dla jednego taktu pustego:_  
 =  
 =1
@@ -193,14 +192,14 @@ Nie wpisywać legato.
 **9. Belkowanie**  
 { = początek belkowania  
 } = koniec belkowania  
-  
+
 Przykład:  
 {qq6'CDEDr}
 
 **10. Rytmy specjalne :**  
 ( = początek rytmu specjalnego  
 ) = koniec rytmu specjalnego  
-   
+
 Ogólną wartość trwania grupy należy podać przed **(**. Wartość rytmiczna pierwszej nuty należy podać po **(**, nawet jeśli jest identyczna jak wartość nuty znajdującej tuż przed sekcją specjalnego rytmu. Liczbę nut w grupie należy wskazać przed ). Należy ją oddzielić od ostatniej nuty za pomocą ;.
 
 _Przykłady:_  
@@ -208,7 +207,7 @@ _Przykłady:_
 
 8({3ABCDE};5) = grupa pięciu trzydziestodwójek w miejsce jednej ósemki, belkowana.
 
-  
+
 
 Triola stanowi przypadek szczególny. Zasadniczo, należy ją kodować w sposób następujący:  
 8(6ABC;3) lub 8({6ABC};3).  
@@ -216,11 +215,11 @@ Zamiast tego, dozwolony jest następujący skrót:
 (6ABC)  
 ({6ABC})
 
-Nie należy zapominać o wartości rytmicznej w obrębie nawiasu kwadratowego. 
+Nie należy zapominać o wartości rytmicznej w obrębie nawiasu kwadratowego.
 
 **11. Skróty**  
 **Uwaga:** Obecnie wyszukiwanie w OPAC-u pomija powtarzalne elementy opisane w 11.1 i 11.2. Oznacza to, że przy korzystaniu z tych skrótów, Państwa incipity nie będą w pełni wyszukiwalne przez OPAC. Dopóki to nie zostanie zmienione, należy wpisywać incipit w całości.  (Skrót 11.3 można stosować zgodnie z opisem.)  
-  
+
 11.1. Figury powtarzane  
 ! = początek i koniec pasażu  
 f = oznaczenie powtórzenia  
@@ -236,7 +235,7 @@ i = powtórzenie ostatniego taktu
 _Przykład:_  
 '4ABAG/i/i/ = takt zostanie powtórzony dwukrotnie.
 
-  
+
 
 11.3. **Wzory rytmiczne**
 
@@ -246,7 +245,7 @@ _Przykład:_
 Zamiast zapisu  **8.A6B8C8.D6E8F** korzystając z kodowani można zapisać   **8.68ABCDEF**  
 Sekwencja rytmiczna kończy się w momencie, gdy pojawia się inna wartość rytmiczna.
 
-   
+
 **12. Zmiana klucza, tonacji lub metrum:**
 
 Należy stosować znak **%** by zmienić klucz, **$** by zmienić tonację, oraz **@** by zmienić znaki metrum. Następnie należy wpisać nowe oznaczenie (klucz, tonacja lub metrum), a następnie spację.
@@ -257,7 +256,7 @@ _Przykłady:_
 @3/2 '1C  
 $nBE $xFC
 
- 
+
 
 **13. Skróty**
 
@@ -266,28 +265,28 @@ Skrócone formy notacji występujące w nutach, takie jak tremola lub znaki simi
 _Przykłady:_  
 {'8DDDD} = półnuta/minima/półtremolo na D
 
- 
+
 
 **14. Akordy**
 
 Wprowadzić akordy od najwyższej do najniższej nuty, oddzielone znakiem **^**.    
-   
+
 _Przykład:_  
 4’’C^’G^E^C
 
 ####  
 
-#### **Uwagi ogólne (031 $q)** 
+#### Uwagi ogólne (031 $q)
 
 Tu należy wprowadzić wszelkie inne uwagi, takie jak wysokość dźwięku transponowanych instrumentów, błędy w incipicie, incipit tekstowy w oryginalnej pisowni i/lub z oryginalną interpunkcją, lub wszelkie inne dokonane adiustacje. Wprowadzać stosując używany przez Państwa język katalogowy.
 
- 
 
-#### **Obsada w części **
 
-#### **(031 $z)**
+#### Obsada w części
 
-W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie skomplikowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w Podsumowaniu ** obsady** **[240 $m]**). Do oddzielenia rodzin instrumentów należy należy stosować znak średnika.
+#### (031 $z)
+
+W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie skomplikowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w Podsumowaniu **obsady** **[240 $m]**). Do oddzielenia rodzin instrumentów należy należy stosować znak średnika.
 
 _Przykłady:_   
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  

@@ -1,4 +1,4 @@
-| **Afinação** (do agudo p/ o grave) | **Instrumentos** | **Transposição com respeito a:  **   
+| **Afinação** (do agudo p/ o grave) | **Instrumentos** | **Transposição com respeito a:   
 **a) Notação     b) som real** | **O Dó (C') soa:**  
  | **O Dó (C') é grafado:**  
  |

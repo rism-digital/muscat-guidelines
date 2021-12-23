@@ -1,13 +1,12 @@
-### Odniesienia do serii RISM A/I i B** (596)**  
+### Odniesienia do serii RISM A/I i B (596)  
 
 Podać odsyłacze do edycji drukowanych, indeksowanych w drukowanych seriach RISM, jeśli źródło wyraźnie stanowi to samo dzieło co rękopiśmienny egzemplarz edycji drukowanej. Więcej szczegółów można podać w polu Uwaga ogólna (500). Patrz także pole Powiązane źródło (787).
 
-#### **Odniesienia do serii A/I i B (596 $a)**
+#### Odniesienia do serii A/I i B (596 $a)
 
 Wybrać serię RISM.
 
-####   
-**Numer serii RISM (596 $b)**  
+#### Numer serii RISM (596 $b  
 
 Wprowadzić odsyłacz do utworu w serii RISM. Trzeba wziąć pod uwagę, że każdy tom ma inny sposób odsyłania do źródeł; niektóre mają indywidualne numery, podczas gdy w przypadku innych trzeba podać numery stron. Poniżej przykłady każdej publikacji RISM  [RISM publication](http://www.rism.info/en/publications.html) zawierającej nuty drukowane:
 

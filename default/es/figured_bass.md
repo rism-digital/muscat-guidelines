@@ -1,7 +1,7 @@
 Los siguientes campos deben completarse de la manera indicada en caso de que se cuente con una **particella** de bajo cifrado:
 
-| **Instrumento  **  
-  
+| **Instrumento**  
+
  | **Resumen de plantilla     
 (130/240 $m) **|** Particelas   
 conservadas (590)    **|** Orgánico  
@@ -13,8 +13,8 @@ conservadas (590)    **|** Orgánico
 
  En el caso de que una **partitura** incluya bajo continuo, hacer lo siguiente:
 
-| **Instrumento  **  
-  
+| **Instrumento**  
+
  | **Resumen de Plantilla    
 (130/240 $m) **|** Plantilla    
 (594) **|** Nota general  

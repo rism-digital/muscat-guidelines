@@ -1,10 +1,10 @@
 # Aneks: Tytuły ujednolicone - Hasła przedmiotowe   
 
-Ta sekcja odnosi się do sytuacji , w których gatunki są używane jako tytuły znormalizowane (odnieś się do wytycznych dla **Tytułu ujednoliconego (240)**). W wielu przypadkach  **Tytuł ujednolicony ** i **Hasło przedmiotowe (650)** będą identyczne, jak np. w przypadku _Symphonies_. W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające hasło przedmiotowe.
+Ta sekcja odnosi się do sytuacji , w których gatunki są używane jako tytuły znormalizowane (odnieś się do wytycznych dla **Tytułu ujednoliconego (240)**). W wielu przypadkach  **Tytuł ujednolicony** i **Hasło przedmiotowe (650)** będą identyczne, jak np. w przypadku _Symphonies_. W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające hasło przedmiotowe.
 
 Różnice mogą pojawić się w następujących sytuacjach: Jeśli ta samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa (voc.) lub (inst.). Określenia takie jak (dances) lub (stage) mogą być również dodane w nawiasie po głównym terminie.  
-  
-Poniżej podajemy kilka przykładów, a następnie odpowiedniki dla następujących rodzajów tytułów ujednoliconych: 
+
+Poniżej podajemy kilka przykładów, a następnie odpowiedniki dla następujących rodzajów tytułów ujednoliconych:
 
 - Muzyka instrumentalna i wokalna ogólna  
 - Muzyka wokalna sakralna  
@@ -22,31 +22,31 @@ Stosować **Aranżacje chorałowe** jako zarówno tytuł ujednolicony, jak i has
 
 3.      Potpourri, gdy wiadomo, że muzyka pochodzi z jednej opery:  
 Ta lista nie jest potrzebna ! Należy użyć nazwy opery jako tytułu ujednoliconego i wybrać **Wyjątki** i **Aranżację**. Należy wpisać hasła przedmiotowe **Potpourris** i **Operas**  (lub **Operettas**  itp.).  
-  
+
 4.      Potpourri, gdy wiadomo, że muzyka pochodzi z kilku oper:  
-Należy używać **Potpourris ** jako tytułu ujednoliconego. Wpisać nazwy oper w polu **Tytuł dodatkowy** (730). Jako hasło przedmiotowe należy wpisać **Potpourris** i **Operas**  (lub odpowiednio **Operettas**  itp.).  
-  
+Należy używać **Potpourris** jako tytułu ujednoliconego. Wpisać nazwy oper w polu **Tytuł dodatkowy** (730). Jako hasło przedmiotowe należy wpisać **Potpourris** i **Operas**  (lub odpowiednio **Operettas** itp.).  
+
 5.      Potpourri, gdy nie wiadomo z jakich oper pochodzi muzyka:  
-Należy użyć **Potpourris ** jako tytuł ujednolicony i hasło przedmiotowe.   
-  
+Należy użyć **Potpourris** jako tytuł ujednolicony i hasło przedmiotowe.   
+
 6.      Aranżacja dęta muzyki z utworu scenicznego, gdy znana jest nazwa utworu scenicznego:  
-Należy użyć nazwy utworu scenicznego jako tytułu ujednoliconego i wybrać **Aranżację**. Wpisać hasło przedmiotowe ** Wind music**.  
-  
+Należy użyć nazwy utworu scenicznego jako tytułu ujednoliconego i wybrać **Aranżację**. Wpisać hasło przedmiotowe **Wind music**.  
+
 7.      Aranżacja dęta muzyki z utworu scenicznego, gdy nazwa utworu scenicznego nie jest znana:  
 Należy użyć **Wind music** jako tytuł ujednolicony i hasło przedmiotowe.
 
 8. **Szkice** nieznanych kompozycji.
 
-W przypadku szkiców nieznanych kompozycji, należy użyć tytułu wyróżniającego utwór i **Szkice** jako drugiego hasła przedmiotowego. 
+W przypadku szkiców nieznanych kompozycji, należy użyć tytułu wyróżniającego utwór i **Szkice** jako drugiego hasła przedmiotowego.
 
 9. W przypadku całkowitej niepewności, np. nieznanej obsady, należy użyć  **Pieces** jako tytułu ujednoliconego i **Pieces** jako hasła przedmiotowego.
 
 Poniższa lista daje wyobrażenie o tym, jakie znormalizowane tytuły mają odpowiadającą im pozycję tematyczną. Proszę zauważyć, że lista ta nie jest wyczerpująca.
 
-### **Muzyka instrumentalna i wokalna ogólna**  
+### Muzyka instrumentalna i wokalna ogólna
 
 |   
-**Tytuł ujednolicony/gatunek ** | 
+**Tytuł ujednolicony/gatunek** |
 #### Odpowiednie hasło przedmiotowe  
 
  |
@@ -89,7 +89,7 @@ Poniższa lista daje wyobrażenie o tym, jakie znormalizowane tytuły mają odpo
 | Canzonettas | Canzonetty  
  |
 | Canzoni | Canzoni (wok.)  
-  
+
  |
 | Capriccios | Capriccia (inst.)  
  |
@@ -233,7 +233,7 @@ Poniższa lista daje wyobrażenie o tym, jakie znormalizowane tytuły mają odpo
  |
 | Preludes and Fugues |   
 Preludia i Fugi  
-  
+
  |
 | Programme music | Muzyka programowa  
  |
@@ -331,9 +331,9 @@ Preludia i Fugi
 
 ### Muzyka wokalna sakralna  
 
-| 
-#### _ **Tytuł ujednolicony ** _
- | 
+|
+#### _ **Tytuł ujednolicony** _
+ |
 #### _ **Hasło przedmiotowe** _
  |
 | Anthems | Hymny (Chóralna oprawa tekstu religijnego lub moralnego w języku angielskim, zwykle przeznaczona do wykonywania podczas liturgii)  
@@ -415,7 +415,7 @@ Preludia i Fugi
 
 ### Muzyka sceniczna, teatralna itd.  
 
-  
+
 
 Aby ustalić gatunek poszczególnych numerów lub partii, należy korzystać z sekcji na temat muzyki wokalnej i instrumentalnej.
 
@@ -483,7 +483,7 @@ Aby ustalić gatunek poszczególnych numerów lub partii, należy korzystać z s
 |   
  |   |
 
-\ ***Uwaga !**   **Melodramas** - Melodramy (muzyka i głos mówiony). Nie należy mylić z włoskim terminem _melodramma_, używanym jako ogólny termin oznaczający operę. Terminu _opera_ czasem używa się w tytułach dyplomatycznych jako synonimu „utworu” ( tzn. opus numer). 
+\ ***Uwaga !**   **Melodramas** - Melodramy (muzyka i głos mówiony). Nie należy mylić z włoskim terminem _melodramma_, używanym jako ogólny termin oznaczający operę. Terminu _opera_ czasem używa się w tytułach dyplomatycznych jako synonimu „utworu” ( tzn. opus numer).
 
 Hasło przedmiotowe „Incidental music” oznacza muzykę sceniczną do teatru mówionego, a nie muzykę na specjalne okazje  (= nie muzykę odświętną).
 
@@ -491,9 +491,9 @@ Hasło przedmiotowe „Incidental music” oznacza muzykę sceniczną do teatru 
 
 ### Ćwiczenia, etiudy, szkoły, lekcje  
 
-| 
+|
 #### _ **Tytuł ujednolicony** _
- | 
+ |
 #### _ **Hasło przedmiotowe** _
  |
 | Arpeggios | Arpeggia (inst.)  
@@ -524,10 +524,10 @@ Hasło przedmiotowe „Incidental music” oznacza muzykę sceniczną do teatru 
 
 ### Dances
 
-| 
-#### _ **Standardized title** _ 
- | 
-#### _ **Subject heading** _ ** **
+|
+#### _ **Standardized title** _
+ |
+#### _ **Subject heading** _
  |
 | Airs | Airs (tańce) |
 | Allemandes | Allemandes  (Niemieckie)  

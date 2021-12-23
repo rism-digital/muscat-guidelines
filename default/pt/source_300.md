@@ -1,14 +1,13 @@
-### **Descrição física (300)**
-
+### Descrição física (300)
 **Campo obrigatório.**  
+
 Este campo informa o número de itens, o formato e (para todos os formatos, exceto para partes) a extensão.
 
 Observe que toda a seção **Descrição material** é repetível, assim como o campo **Descrição física (300)** e o subcampo **Formato, extensão (300 $a)**. Isto significa que pode-se criar livremente uma seção **Descrição material** por formato ou pode-se listar cada formato, em uma linha separada, em **Descrição física (300)**.
 
 Digamos que o material consiste de 1 partitura e 10 partes. Para catalogadores que entram em muitos detalhes, criar uma seção **Descrição material** para a partitura e uma seção **Descrição material** para as partes permite que se atribuam diferentes datas, copistas, marcas d'água e outras informações específicas, seja para a partitura, seja para as partes (ou pode-se ainda descrever as partes em grupos menores, se necessário). Se a data, copista etc. são as mesmas tanto para a partitura como para as partes, ou se não há necessidade de entrar com muitos detalhes, então é suficiente listar simplesmente uma abaixo da outra, no campo **Formato, extensão (300 $a)**. Diferentes dimensões podem ser inseridas repetindo o campo **Descrição física (300)**.
 
-#### **Formato, extensão (300 $a)**
-
+#### Formato, extensão (300 $a)
 O campo **Formato, extensão (300 $a)** é formado por três componentes: **Itens, Formato, Extensão**. Observe que a extensão, aqui, não se refere a partes, nem mesmo a partes de tablatura; a extensão de partes deve ser inserida no campo **Partes existentes (590)**. Utilize a terminologia listada em inglês.
 
 **Itens**: Informe o número de itens existentes. Use X para indicar um número desconhecido de itens.
@@ -23,7 +22,7 @@ Tipos de partituras:
 
 - **vocal score(s)** [partitura(s) vocal(ais)]: Parte(s) vocal(ais) com acompanhamento, arranjadas para um instrumento de teclas.
 - **keyboard score(s)** [partitura(s) de teclado]: Os instrumentos são arranjados para um instrumento de teclas (sem partes vocais). Indique a extensão imediatamente depois, independentemente do número de pentagramas por sistema.
-- **chorus score(s)** [partitura(s) de coro]: Uma partitura que contém apenas as partes vocais. 
+- **chorus score(s)** [partitura(s) de coro]: Uma partitura que contém apenas as partes vocais.
 - **particella(s)**: Um esboço ou rascunho de uma composição em um formato de partitura curta.
 - **short score(s)** [partitura(s) curta(s)]: Todos os outros tipos de partituras reduzidas, condensadas ou curtas.
 
@@ -31,14 +30,14 @@ Tipos de partituras:
 
 - **tablature part(s)** [parte(s) de tablatura]: O tipo de tablatura, se conhecido, deve ser indicado no campo **Nota geral (500).**
 - **tablature score(s)** [partitura(s) de tablatura]  
-- **choirbook(s)** [livro(s) de coro]: Um livro no qual todas as vozes de uma obra são escritas separadamente de modo que o coro possa ler a música a partir de um livro. 
+- **choirbook(s)** [livro(s) de coro]: Um livro no qual todas as vozes de uma obra são escritas separadamente de modo que o coro possa ler a música a partir de um livro.
 - **sketch(es)** [esboços]: Use para esboços se o tipo do formato não puder ser mais precisamente determinado.
 - **text document(s)**  [documento(s) textual(ais)]: Use para libretos, tratados e outros tipos de documentos textuais. Uma nota no campo **Nota geral (500)** pode ser necessária.
 - **prompt book(s)** [livro de ponto]: Um documento (pode ser uma partitura ou texto curto) usado por um ponto para um espetáculo de palco.
 - **table book(s)** [livro(s) de mesa]: partes arranjadas em uma página de maneira que todos os intérprete possam lê-la sentados em volta de uma mesa.
 Outros:  
 
-- **various** [vários]: Use para os registros principais de coletâneas se a coletânea contém diferentes tipos de formatos (tais como uma partitura completa e uma partitura de teclado). 
+- **various** [vários]: Use para os registros principais de coletâneas se a coletânea contém diferentes tipos de formatos (tais como uma partitura completa e uma partitura de teclado).
 - **other** [outro]: Use se nenhum dos formatos acima se aplica. Em tais casos, explique com uma nota no campo **Nota geral (500)**. O número de itens ou a extensão não são obrigatórios.
 
 Para parte(s) de regência, use **part** ou **parts** aqui e insira **conductor part** [parte de regência] no campo **Partes existentes (590)**.
@@ -61,7 +60,7 @@ other: 10 p.
 
 other
 
-  
+
 
 Exemplos de outras foliações:  
 Prefácio é numerado I-VIII, seguido de 25 páginas de música
@@ -80,7 +79,7 @@ A numeração das páginas muda de números romanos para arábicos
 
 - XII p., p. 13-36
 
- 
+
 
 Páginas em branco ou irregularidades na foliação podem ser mencionadas no campo **Nota geral (500)**.
 
@@ -88,8 +87,7 @@ Páginas em branco ou irregularidades na foliação podem ser mencionadas no cam
 - f. [2] blank
 - p. 272 occurs twice  
 
-#### **Outros detalhes físicos (300 $b)** 
-
+#### Outros detalhes físicos (300 $b)
 A presença de ilustrações e outros elementos suplementares podem ser mencionados aqui. Use o seu idioma de catalogação.
 
 Exemplos incluem:
@@ -105,7 +103,7 @@ Exemplos incluem:
 - marca do impressor  
 - vinheta  
 
-#### **Dimensões (300 $c)**
+#### Dimensões (300 $c)
 
 Insira as dimensões da fonte: altura x largura em cm. Frações de centímetros podem ser indicadas por vírgula ou ponto. Um segundo conjunto de dimensões pode ser dado entre parênteses. Se há mais de dois conjuntos de dimensões diferentes, insira a frase em inglês “ **Different sizes** ” (tamanhos diferentes). Maior detalhamento pode ser feito no campo **Nota geral (500)**. Formatos como **octavo**, **quarto**, etc. devem ser indicados no campo **Formato de livro (340)**.
 

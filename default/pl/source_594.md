@@ -1,7 +1,7 @@
 ### Szczegółowy opis obsady (594)
 
-#### **Głos/instrument (594 $b)  
- Pole wymagane.**  
+#### Głos/instrument (594 $b)  
+**Pole wymagane.**  
 
 W tym polu podaje się w całości obsadę (znaną także jako medium wykonawcze, instrumentacja, która obejmuje także partie wokalne) utworu, którą podano w skrócie w **Podsumowanie obsady**. Dlatego **Podsumowanie obsady** musi być zawsze skorelowane ze szczegółami wprowadzanymi w niniejszym pełnym opisie obsady.
 
@@ -19,47 +19,47 @@ Starając się wybierać między podobnymi terminami, najlepiej jest zazwyczaj w
 
 Obsadę należy podać w następującej kolejności:
 
-- 
+-
 
 Głosy solowe
 
-- 
+-
 
 Chór
 
-- 
+-
 
 Instrumenty solowe
 
-- 
+-
 
 Smyczki
 
-- 
+-
 
 Dęte drewnianie
 
-- 
+-
 
 Dęte blaszane
 
-- 
+-
 
 Instrumenty szarpane
 
-- 
+-
 
 Perkusja
 
-- 
+-
 
 Instrumenty klawiszowe
 
-- 
+-
 
 Basso continuo
 
-Partie podawać w kolejności od najwyższego do najniższego zakresu. W jednej linii należy podawać tylko jeden instrument. Alternatywne możliwości obsadowe w stosunku do wymagań oryginalnych należy podawać w nawiasach. 
+Partie podawać w kolejności od najwyższego do najniższego zakresu. W jednej linii należy podawać tylko jeden instrument. Alternatywne możliwości obsadowe w stosunku do wymagań oryginalnych należy podawać w nawiasach.
 
 _Przykłady:_
 
@@ -80,7 +80,7 @@ cl in A
 tr  
 org
 
- 
+
 
 #### Liczba (594 $c)
 

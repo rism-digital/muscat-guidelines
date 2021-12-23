@@ -1,13 +1,13 @@
-**Titolo breve****  (210)**
+**Titolo breve  (210)**
 
 **Campo obbligatorio.**
 
 Ogni titolo della bibliografia di riferimento riceve un titolo abbreviato univoco per permettere dei rinvii semplici in tutte le schede RISM. Controlla sempre per assicurarti che un titolo abbreviato non sia già in uso.   
-  
+
 Qui di seguito si descrive come creare abbreviazioni per **bibliografia generale di riferimento**, **cataloghi delle opere** e **casi speciali**.
 
 **Bibliografia generale di riferimento**  
-Titoli abbreviati per la **b**** ibliografia generale di riferimento** si creano come segue:
+Titoli abbreviati per la **bibliografia generale di riferimento** si creano come segue:
 
 - **Cognome** dell_'_autore o curatore  
 _Cognomi col trattino o composti sono scritti per esteso._  
@@ -27,11 +27,11 @@ _Esempi:_
 > Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
 >             → Aguirre RincónV 2009
 
-  
+
 Per autori o curatori che pubblicano più articoli sullo stesso compositore o più opere dello stesso compositore, si aggiunge una lettera (**a**, **b**, **c** ecc.) dopo l'anno.  
-  
+
 _Esempi:_  
-  
+
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
 >             → KircherA 2005  
@@ -42,23 +42,23 @@ _Esempi:_
 > Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ ed. Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
 >             → KircherE 2005c
 
-  
+
 Per due o più autori o curatori, si usa solo il primo nell'abbreviazione.  
-  
+
 _Esempio:_  
 
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 >             → Fuller-MaitlandF 1893
 
-  
+
 Se non è indicato nessun autore, usa 1-2 parole-chiave dal titolo al suo posto.  
-  
+
 _Esempio:_
 
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 >             → VerzeichnisThibaut 1842
 
-  
+
 
 Per opere in più volumi pubblicate nel corso di vari anni, si usa solo il primo anno.
 
@@ -74,7 +74,7 @@ _Esempio:_
 > Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, n.d.).  
 >             → ZanglO n.d.
 
-  
+
 If only an approximate year of publication is known, add a **ca.** (for circa) when you enter the publisher and publication year in the record, but omit the “ca.” in the short title.  
 _Example:_  
 
@@ -83,7 +83,7 @@ _Example:_
 
 Per abbreviazioni di enciclopedie o serie ben note, utilizza le abbreviazioni correnti (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
- 
+
 
 **Cataloghi di opere**
 
@@ -94,7 +94,7 @@ Abbreviazioni per **cataloghi di opere** sono composte da:
 
 Non è necessario indicare l'anno.
 
-Un catalogo pubblicato come parte di un'opera di più ampio respiro, come un'appendice in un libro, può essere inserito come un catalogo di opere. Simili oggetti possono anche essere citati fra i  **Riferimenti bibliografici**  **(691****)**. 
+Un catalogo pubblicato come parte di un'opera di più ampio respiro, come un'appendice in un libro, può essere inserito come un catalogo di opere. Simili oggetti possono anche essere citati fra i  **Riferimenti bibliografici (691)**. 
 
 _Esempi:_
 
@@ -108,7 +108,7 @@ _Esempi:_
 >          → SchL
 
 Utilizza le abbreviazioni correnti, se esistono (BWV, KV, Hob. ecc.). Puoi anche usare l'abbreviazione usata nel catalogo stesso se non porta a confusione.    
-  
+
 _Esempi:_  
 
 > Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
@@ -119,13 +119,13 @@ _Esempi:_
 >            → BrinzingMWV  
 >                _Nota: MWV è già in uso per il Mendelssohn Werkverzeichnis._
 
- 
 
-  
+
+
 
 **Casi speciali**
 
-Pubblicazioni che contengono il termine _catalogo tematico_ nel titolo spesso sono cataloghi di opere, ma a volte riguardano anche altri argomenti o non sono esaustive. Controlla ogni volta. Se si tratta del primo caso, assegna un'abbreviazione di catalogo di opere. Nel secondo caso, assegna un'abbreviazione come per la normale bibliografia. Insomma, qualsiasi cosa che non sia un catalogo di opere riceve un'abbreviazione come la bibliografia di riferimento. 
+Pubblicazioni che contengono il termine _catalogo tematico_ nel titolo spesso sono cataloghi di opere, ma a volte riguardano anche altri argomenti o non sono esaustive. Controlla ogni volta. Se si tratta del primo caso, assegna un'abbreviazione di catalogo di opere. Nel secondo caso, assegna un'abbreviazione come per la normale bibliografia. Insomma, qualsiasi cosa che non sia un catalogo di opere riceve un'abbreviazione come la bibliografia di riferimento.
 
 _Esempi:_
 
@@ -138,6 +138,6 @@ _Esempi:_
 > Robert Didion and Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_(Frankfurt: Vittorio Klostermann, 1990).  
 >             → DidionF 1990  
 > Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
->             → MurányiW 1997 
+>             → MurányiW 1997
 
-Non assegnare abbreviazioni a libri, annuali, atti di convegno ecc. che consistono in una collezione di saggi. I saggi in questi libri sono inseriti individualmente come bibliografia di riferimento, non il libro intero in sé. Il saggio è inserito come una scheda di bibliografia con il suo proprio titolo abbreviato. 
+Non assegnare abbreviazioni a libri, annuali, atti di convegno ecc. che consistono in una collezione di saggi. I saggi in questi libri sono inseriti individualmente come bibliografia di riferimento, non il libro intero in sé. Il saggio è inserito come una scheda di bibliografia con il suo proprio titolo abbreviato.

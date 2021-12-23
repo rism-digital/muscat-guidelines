@@ -2,11 +2,11 @@
 
 Inserisci rimandi alle pubblicazioni a stampa delle serie RISM se la fonte presenta chiaramente la stessa composizione, ad esempio la copia manoscritta di un’edizione a stampa. Puoi aggiungere ulteriori dettagli nel campo **Nota generale (500)**. Vedi anche il campo **Fonte correlata (787)**.
 
-**Rimandi a RISM A/I e RISM B****  (596 $a)**  
-Seleziona il nome di una serie RISM.  ** **
+**Rimandi a RISM A/I e RISM B (596 $a)**  
+Seleziona il nome di una serie RISM.
 
 **Numero RISM (596 $b)**  
-Inserisci il numero dell’oggetto nella serie RISM. Si prega di notare che ogni volume utilizza un metodo diverso nel riferirsi alle fonti; alcuni hanno numeri individuali, altri richiedono l’indicazione di un numero di pagina. 
+Inserisci il numero dell’oggetto nella serie RISM. Si prega di notare che ogni volume utilizza un metodo diverso nel riferirsi alle fonti; alcuni hanno numeri individuali, altri richiedono l’indicazione di un numero di pagina.
 
 Usa  **Other** per riferirti a edizioni musicali a stampa che non sono riportate nei volumi stampati delle serie A/I e B.
 

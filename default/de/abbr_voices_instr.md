@@ -100,7 +100,7 @@ vlc princ clno princ |
  vl rip  
 b rip |
 
-| **Additions to any wind instrument to indicate a tuning other than standard tuning**** Bezeichnet die Stimmung eines Blasinstrumentes** |
+| **Additions to any wind instrument to indicate a tuning other than standard tuning** Bezeichnet die Stimmung eines Blasinstrumentes** |
 |
 ### Abbreviation
  |

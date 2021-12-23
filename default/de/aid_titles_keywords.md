@@ -10,9 +10,9 @@ Grundsätzlich wird als **Einordnungstitel (240)** möglichst ein Individualtite
 - Skizzen
 - Unbekannt  
 Die Termini erscheinen in der Regel im Plural. Bei gleichen Schlagworten für Vokal- und Instrumentalgattungen werden anschliessend an den Terminus in runden Klammern (voc.) bzw. (instr.) gesetzt. Präzisierung und Erläuterungen wie (dances) oder (stage) werden in runden Klammern nachgestellt.  
-  
+
 Können bei einem Werk mehrere Schlagworte vergeben werden, liegt es im Ermessen des Bearbeiters, die Reihenfolge derselben festzulegen. Es gibt Werke, die auf jeden Fall mehrere weitere Schlagworte mit sich ziehen wie beispielsweise "Contrafacta" oder "Inserts".  
-  
+
 
 _Beispiele:_
 
@@ -23,7 +23,7 @@ In diesem Fall ist diese Liste nicht notwendig! Das Textincipit des Chorals wird
 Sowohl Einordnungstitel als auch Schlagwort lauten **Chorale arrangements**.
 
 3.      Potpourri mit Musik aus einer bekannten Vorlage  
-In diesem Fall ist diese Liste nicht notwendig! Zum Einordnungstitel wird der individuelle Titel des Bühnenwerks mit den Zusätzen **Excerpts** und **Arran**** gemen ****t**. Als Schlagwörter dienen **Potpourris**  und  **Operas**  (oder ** Operettas**, etc.)
+In diesem Fall ist diese Liste nicht notwendig! Zum Einordnungstitel wird der individuelle Titel des Bühnenwerks mit den Zusätzen **Excerpts** und **Arragement**. Als Schlagwörter dienen **Potpourris**  und  **Operas**  (oder **Operettas**, etc.)
 
 4.      Potpourri mit Musik aus mehreren bekannten Vorlagen  
 Einordnungstitel ist hier **Potpourris**. Die individuellen Titel der Bühnenwerke werden im verdoppelbaren Feld **Alternativer Einordnungstitel (730)** eingetragen mit den Zusätzen **Excerpts** und **Arrangement**. Die Schlagwörter sind **Potpourris**  und **Operas**   (oder  **Operettas**, etc.)
@@ -193,7 +193,7 @@ Fugues |
 
 # Geistliche Vokalmusik
 
-| _ **Einordnungstitel            ** _   
+| _ **Einordnungstitel** _   
  | _ **Schlagwort** _ |
 | Anthems | Anthems |
 | Antiphonies | Antiphonies |
@@ -241,8 +241,8 @@ Fugues |
 # Bühnenmusik
 Gattungen einzelner Nummern oder Teile siehe unter Vokal- und Instrumentalmusik!
 
-| _ **Einordnungstitel              ** _   
- | _ **Schlagwort ** _ |
+| _ **Einordnungstitel** _   
+ | _ **Schlagwort**_ |
 | Afterpieces | Afterpieces |
 | Ballad operas | Ballad operas |
 | Ballets | Ballets |
@@ -301,7 +301,7 @@ Das Schlagwort "Incidental music" steht für Bühnenmusik/Musik im Sprechtheater
 
 # Tänze
 
-| _ **Einordnungstitel      ** _    
+| _ **Einordnungstitel** _    
  | _ **Schlagwort** __ _  |
 | Airs | Airs (dances) |
 | Allemandes | Allemandes |

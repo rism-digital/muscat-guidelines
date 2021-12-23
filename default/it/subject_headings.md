@@ -10,7 +10,7 @@ Dopo aver salvato la scheda, vai alla lista di voci di autorità per le parole c
 
 **Note**: Si prega di fornire una breve descrizione del termine in inglese, francese o tedesco. Puoi anche scrivere nella tua madrelingua, in funzione dei collaboratori RISM nella tua regione, ogni descrizione o guida che vuoi definire per il termine: come utilizzarlo, le relazioni locali, riferimenti alla bibliografia ecc.
 
-Come esempio, vedi  **Gigues**. ** ** Si trova il termine in inglese, francese e tedesco, insieme a ortografie alternative. Nel campo "Note" si spiega che esiste un gran numero di gighe e quando e dove il termine ricorre.
+Come esempio, vedi  **Gigues**. Si trova il termine in inglese, francese e tedesco, insieme a ortografie alternative. Nel campo "Note" si spiega che esiste un gran numero di gighe e quando e dove il termine ricorre.
 
 Se stai lavorando con musica specifica di una certa regione, puoi usare il termine di uso comune localmente. Si può aggiungere un nuovo termine se un genere simile è usato in un'altra regione ma è chiamato diversamente.
 
@@ -18,10 +18,10 @@ Puoi anche aggiungere la parola chiave direttamente nella lista di voci d'autori
 
 Suggerimenti per la catalogazione:
 
-- 
+-
 
 Le schede delle fonti possono comprendere più parole chiave, ad esempio se c'è un termine specifico e un termine più generico o sovraordinato.
 
-- 
+-
 
-Per aiutare gli utilizzatori nelle loro ricerche, se lo desideri sei libero di aggiungere un termine di uso locale in lingue o alfabeti stranieri come **Titolo uniforme alternativo (730)**. 
+Per aiutare gli utilizzatori nelle loro ricerche, se lo desideri sei libero di aggiungere un termine di uso locale in lingue o alfabeti stranieri come **Titolo uniforme alternativo (730)**.

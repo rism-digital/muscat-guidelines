@@ -1,4 +1,4 @@
-#### **Opus numer (383)**
+#### Opus numer (383)
 
 Podać numer opus, jeśli znajduje się w źródle, poprzedzając go skrótem **op.** Oddzielić poszczególne części ukośnikiem.
 

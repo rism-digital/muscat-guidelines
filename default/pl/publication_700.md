@@ -1,13 +1,12 @@
-#### **Dodatkowa osoba (700)**
+#### Dodatkowa osoba (700)
 
 Należy tu wprowadzić informację na temat redaktorów danej pozycji, dodatkowych osób zaangażowanych w publikację, kompozytorów i innych osób, których publikacja dotyczy.
 
-####   
-**Imię i nazwisko (700 $a)**  
+#### Imię i nazwisko (700 $a)  
 
 Należy wpisać nazwę. Pole połączono linkiem z plikiem autorytatywnym **Nazwy osobowe**.
 
-#### **Funkcja (700 $4)**
+#### Funkcja (700 $4)
 
 Należy dokonać wyboru spośród poniższych elementów. (Trzyliterowe kody odnoszą się do kodu relatora MARC)
 

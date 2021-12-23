@@ -40,4 +40,4 @@ De estas orientaciones se sigue que se utilizará un solo registro para represen
 3. Ud. está viendo el número ID de RISM 990024126 (RISM A/I: G 5286). El registro RISM refiere a toda una serie de varias sinfonías. Cada sinfonía está disponible como publciación separada con su propio número de plancha; impresas como _livres_ 1, 2 y 3.
 
 1. Opción 1, la solución rápida. Si su biblioteca sólo tiene uno de los ítems de la serie, **añada**  **sus registros de ejemplares** y señale, por favor, cuál sinfonía (_livre_) alberga su repositorio en el campo “Material conservado”.
-2. Opción 2, una mejor solución, pero que lleva más tiempo: **Notifique al Centro Editorial ** sobre el registro de la serie completa y lo dividiremos en 3, con un registro por cada sinfonía. Luego, añada su registro de ejemplar al registro de ítem impreso de la sinfonía que corresponda.
+2. Opción 2, una mejor solución, pero que lleva más tiempo: **Notifique al Centro Editorial** sobre el registro de la serie completa y lo dividiremos en 3, con un registro por cada sinfonía. Luego, añada su registro de ejemplar al registro de ítem impreso de la sinfonía que corresponda.

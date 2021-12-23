@@ -1,9 +1,8 @@
-#### **URL de recurso externo (856 $u)**
+#### URL de recurso externo (856 $u)
 
-Insira o URL do recurso externo. Use permalinks sempre que possível. 
+Insira o URL do recurso externo. Use permalinks sempre que possível.
 
-####   
-**Nota sobre recurso externo (856 $z)**  
+#### Nota sobre recurso externo (856 $z)
 
 Insira uma breve nota que descreva o link.
 

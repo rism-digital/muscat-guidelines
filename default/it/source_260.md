@@ -10,19 +10,19 @@ Per le edizioni a stampa, inserisci il luogo di pubblicazione come è riportato 
 
 Se il luogo non è indicato in un’edizione a stampa, inserisci **[s.l.]**. Per i manoscritti, lascia il campo vuoto.
 
- 
+
 
 #### Copista, editore, casa editrice (260 $b)
 
-Per le edizioni a stampa, inserisci il nome dell’editore, casa editrice, importatore, distributore come riportato sulla fonte. 
+Per le edizioni a stampa, inserisci il nome dell’editore, casa editrice, importatore, distributore come riportato sulla fonte.
 
-Per i manoscritti, inserisci il nome del copista come compare sulla fonte. 
+Per i manoscritti, inserisci il nome del copista come compare sulla fonte.
 
 Inserisci sempre le forme standardizzate dei nomi nei campi **Nome aggiuntivo di persona** **(700)** o **Nome di ente aggiuntivo** **(710)**. In generale, gli editori che portano il nome di una persona ma svolgono le funzioni di una casa editrice (Pleyel, André ecc.) sono inseriti come istituzioni.
 
 Se il nome dell’editore o stampatore non è indicato in un’edizione a stampa, inserisci **[s.n.]**. (Non inserire [s.n.] nell'indice delle istituzioni.) Per i manoscritti, lascia il campo vuoto.
 
- 
+
 
 #### Anno (260 $c)
 
@@ -53,7 +53,7 @@ Pasqua 1626
 
 Per periodi non specifici, inserisci gli anni appropriati basandoti sulla tabella seguente:
 
- 
+
 
 | **Per il periodo...**  
  | **...inserisci questo ambito di datazione** |
@@ -74,10 +74,10 @@ Per periodi non specifici, inserisci gli anni appropriati basandoti sulla tabell
 
 #### Luogo di stampa (260 $e)
 
-Inserisci il luogo dell’istituzione associata alla stampa, duplicazione ecc. come è indicato nella fonte. 
+Inserisci il luogo dell’istituzione associata alla stampa, duplicazione ecc. come è indicato nella fonte.
 
- 
+
 
 #### Stampatore, stamperia (260 $f)
 
-Inserisci il nome dello stampatore o della stamperia come indicati nella fonte. Inserisci le forme standardizzate dei nomi nei campi **Nome aggiuntivo di persona****  (700) **o** Nome di ente aggiuntivo **** (710)**.
+Inserisci il nome dello stampatore o della stamperia come indicati nella fonte. Inserisci le forme standardizzate dei nomi nei campi **Nome aggiuntivo di persona (700) **o** Nome di ente aggiuntivo (710)**.

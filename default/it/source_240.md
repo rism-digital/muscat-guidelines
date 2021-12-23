@@ -1,6 +1,6 @@
 ### Titolo uniforme (240)
-Questo campo riporta il titolo in una forma standardizzata, che raggruppa composizioni che, nonostante portino nomi differenti, sono identiche o simili. Si chiama anche titolo standard. 
-#### Titolo uniforme (240 $a) 
+Questo campo riporta il titolo in una forma standardizzata, che raggruppa composizioni che, nonostante portino nomi differenti, sono identiche o simili. Si chiama anche titolo standard.
+#### Titolo uniforme (240 $a)
 
 **Campo obbligatorio.**
 
@@ -15,46 +15,46 @@ Un titolo uniforme può essere creato a partire da:
 
 1. **Titoli propri**  
 Tra le composizioni solitamente elencate con il loro titolo proprio si trovano tutti i tipi di musica teatrale, oratori, cantate e lieder, e anche alcuni tipi di musica strumentale (ad esempio, pezzi caratteristici del XVIII secolo con un titolo proprio).  
-  
+
 Inserisci il titolo proprio con un’ortografia standardizzata secondo (1) New Grove, (2) MGG, (3) cataloghi tematici e/o (4) altra letteratura di riferimento. Non omettere gli articoli all’inizio (the, a, an, der, die, le, l' ecc.).  
-  
+
 Nomi popolari o nomignoli (come “Eroica” o “messa di Nelson”) non sono considerati titoli propri. Tali nomi si inserscono nel campo **Titolo uniforme alternativo (730 $a)**.   
-  
+
 _Esempi:_  
 Die Forelle  
  Die Zauberflöte  
  The beggar's opera  
-  
+
 2. **Incipit testuali**  
 Inserisci come titolo uniforme l’incipit testuale per brani vocali se non vi è un titolo proprio.    
-  
+
  Se la fonte contiene un recitativo e aria o una scena e aria, si usa come titolo uniforme sempre l’incipit testuale dell’aria. Applica lo stesso principio a recitativo e cavatina, scena e rondò o altre combinazioni simili. Nel caso di un’aria singola tratta da un’opera di cui non conosci il titolo, inserisci l’incipit testuale dell’aria.   
-  
+
 In una cantata, invece, il testo del primo brano vocale funge da titolo uniforme, indipendentemente dal fatto che si tratti di un recitativo, aria o coro.  
-  
+
 Usa però il genere per messe, requiem, litanie e composizioni per l’ufficio. Lo stesso vale per opere complete e oratori dal titolo sconosciuto.  
-  
+
 Inserendo un incipit testuale, utilizza le regole ortografiche della lingua rispettiva per quanto riguarda l’uso delle lettere maiuscole o minuscole. I nomi della divinità vanno in maiuscolo (God, Herr, Dio, Dieu, Signore, Lord ecc.). Ometti l’interpunzione e ripetizioni all’interno dell’incipit. Per preservare l'ordine alfabetico in caso di traduzioni, inserisci l'incipit nella lingua originale. Se l’oggetto è chiaramente una traduzione, inserisci il titolo uniforme nella lingua originale.   
-  
+
 Assicurati che l’incipit testuale in questo campo sia identico con l’incipit testuale nel campo **Incipit testuale (031 $t)**. In caso di testi latini, utilizza il testo che precede la virgola (nella lista in appendice) come titolo uniforme ma utilizza l’intero incipit testuale come incipit testuale.   
-  
+
 _Esempi:_  
 Der Mond ist aufgegangen  
  Gloria [con l’incipit testuale: Gloria, in excelsis Deo et in terra pax]  
-  
+
 3. **Generi musicali**  
 Utilizza il genere del brano come titolo uniforme se non vi è né un titolo proprio né un incipit testuale. Nella maggior parte dei casi, inserisci il genere in inglese e al plurale (ad esempio **Operas**). Nota che con alcuni generi si utilizza un particolare **Soggetto (650)**. Si consulti l’appendice **Titoli uniformi – Soggetti** nelle **Regole di catalogazione** per ulteriori istruzioni.   
-  
+
 _Esempi:_  
 Symphonies  
  Allemandes  
-  
+
 4. **Indicazioni di tempo**  
 Inserisci l’indicazione di tempo se non è possibile determinare il genere. Se non è disponibile alcuna di queste opzioni, utilizza i termini seguenti:  
  -Songs (brani vocali)  
  -Pieces (un brano generico)  
  -Movements (un singolo movimento di un pezzo strumentale senza indicazione di tempo e di carattere indeterminato)  
-  
+
 _Esempi:_  
 Presto  
  Lento
@@ -72,28 +72,28 @@ _Esempio:_
 11 Items  
 - **Variazioni**. Inserisci qui  **Variations** come titolo standardizzato. Nel campo **Titolo uniforme alternativo (730)** inserisci il brano su cui è basata la composizione, se questo è noto, e seleziona  **Variazioni**  nel sottocampo  **Arrangiamento**.
 
-- **Inserimenti**. Inserisci qui l'incipit testuale del brano inserito come titolo standardizzato. Nel campo **Titolo uniforme alternativo (730)** inserisci il nome dell'opera o della composizione più vasta e seleziona  **Inserimenti ** nel sottocampo  **Suddivisione formale**.
+- **Inserimenti**. Inserisci qui l'incipit testuale del brano inserito come titolo standardizzato. Nel campo **Titolo uniforme alternativo (730)** inserisci il nome dell'opera o della composizione più vasta e seleziona  **Inserimenti** nel sottocampo  **Suddivisione formale**.
 
 - **Alfabeti non latini**: Se la fonte ha un incipit testuale che utilizza caratteri o lettere non latine (alfabeto cirillico/greco/ebraico/coreano ecc., ideogrammi cinesi ecc.) inserisci l’ **Incipit testuale** utilizzando l’alfabeto originale. Traduzioni e traslitterazioni non sono obbligatorie e possono essere aggiunte nel campo **Titolo uniforme alternativo (730)**.
 
- 
+
 
 #### Arrangiamento (240 $o)
 
 Seleziona **Arrangiamento** se la composizione è l’arrangiamento di un’altra composizione.   
-   
+
 Nota che la sostituzione del testo o una trasposizione non sono considerati arrangiamenti. In questi casi, inserisci il name della persona responsabile, se noto, nei **Nomi di persone aggiuntivi** **(700)**. Sebbene le composizioni non siano considerate arrangiamenti, la persona qui è riportata come “Arrangiatore”.
 
 Gli arrangiamenti devono anche essere distinti da composizioni indipendenti (elaborazioni libere) come variazioni, parafrasi, parodie e fantasie su temi dalla composizione originale.  
-  
+
 
 #### Suddivisione formale (240 $k)
 
 Questo campo registra, se opportuno, degli aspetti particolari della fonte dal punto di vista formale. Seleziona dai seguenti:
 
 - **Estratti**: se sono presenti solo una o alcune parti della composizione completa
-- **Frammenti**: se sono presenti solo dei frammenti della composizione 
-- **Schizzi:** se sono presenti solo degli schizzi della composizione 
+- **Frammenti**: se sono presenti solo dei frammenti della composizione
+- **Schizzi:** se sono presenti solo degli schizzi della composizione
 
 #### Tonalità, modo (240 $r)
 
@@ -101,20 +101,20 @@ Questo campo registra, se opportuno, degli aspetti particolari della fonte dal p
 
 Seleziona la tonalità dell’intera composizione (anche per degli estratti).
 
-In caso di arrangiamenti, inserisci la tonalità della composizione originale. Se la tonalità originale non può essere determinata, inserisci la tonalità della fonte; in questo caso, però, inserisci una nota corrispondente nel campo **Nota generale (500)**. 
+In caso di arrangiamenti, inserisci la tonalità della composizione originale. Se la tonalità originale non può essere determinata, inserisci la tonalità della fonte; in questo caso, però, inserisci una nota corrispondente nel campo **Nota generale (500)**.
 
-Se non è indicata alcuna tonalità sulla fonte, seleziona una tonalità solo se può essere determinata con sicurezza. 
+Se non è indicata alcuna tonalità sulla fonte, seleziona una tonalità solo se può essere determinata con sicurezza.
 
 Non inserire una tonalità per: opere, oratori e cantate; recitativi senza un’aria a seguire; e composizioni per cui non può essere chiaramente identificata una tonalità.
 
-Non tradurre i modi con denominazioni moderne di tonalità. 
+Non tradurre i modi con denominazioni moderne di tonalità.
 
 Vedi “Modi ecclesiastici” per i modi ecclesiastici occidentali e bizantini, e “Tonalità” per la lista delle tonalità nella sezione **Abbreviazioni e terminologia**.
 
 #### Organico sintetico (240 $m)
 
-**Campo obbligatorio tranne per****: opere e oratori con l’organico standard V (X), Coro, orch  
-Se sono presenti schizzi o raccolte, inserisci un organico sintetico se ha senso farlo. **
+**Campo obbligatorio tranne per: opere e oratori con l’organico standard V (X), Coro, orch  
+Se sono presenti schizzi o raccolte, inserisci un organico sintetico se ha senso farlo.**
 
 Inserisci qui un breve sommario dell’organico (strumentazione) per l’insieme dei mezzi di esecuzione della composizione. Separa ogni elemento dell’organico sintetico con una virgola. Inserisci fino a un massimo di quattro elementi. Una descrizioine dettagliata della strumentazione si inserisce nel campo **Organico (594)**. L’intero organico sintetico va inserito su una riga; ripeti il campo soltanto per indicare degli organici alternativi (vedi sotto).
 
@@ -123,17 +123,17 @@ Utilizza la terminologia dall’elenco delle **Abbreviazioni**. Scrivi per estes
 Inserisci i gruppi di strumenti nell'ordine seguente:
 
 - Voci soliste
-  
+
 - Coro
 - Strumenti solisti
-  
+
 - Archi
 - Legni
 - Ottoni
 - Strumenti a pizzico
-  
+
 - Strumenti a percussione
-  
+
 - Strumenti da tasto
 - Basso continuo
 

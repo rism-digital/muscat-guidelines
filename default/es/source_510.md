@@ -1,4 +1,4 @@
-### **Serie RISM (510)**
+### Serie RISM (510)
 
 Este campo se llena automáticamente cuando se importan entradas correspondientes a publicaciones impresas (incluye A/I, B/I y B/II).
 

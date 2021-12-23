@@ -1,11 +1,11 @@
-   
 
-**Tytuł skrócony (210 $a)** 
+
+**Tytuł skrócony (210 $a)**
 
 **Pole wymagane.**
 
 Każda pozycja literatury uzupełniającej otrzymuje unikalny tytuł skrócony, aby umożliwić jej łatwe wyszukiwanie w rekordach RISM. Zawsze należy sprawdzić, czy wybrany tytuł skrócony nie jest już zajęty  
-  
+
 Poniżej opisano, w jaki sposób należy tworzyć tytuły skrócone dla **literatury pomocniczej ogólnej**, **katalogów utworów** oraz **przypadków specjalnych.**
 
 **Literatura pomocnicza ogólna**    
@@ -27,11 +27,11 @@ _Przykłady:_
 > Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
 >             → Fischer-WildhagenG 1999
 
-  
+
 
 W przypadku autorów lub redaktorów, którzy opublikowali wiele artykułów na temat tego samego kompozytora lub wielu utworów tego samego kompozytora, po roku należy dodać literę (**a**, **b**, **c**, itd.)   
 
-  
+
 
 _Przykłady:_
 
@@ -46,21 +46,21 @@ _Przykłady:_
 
 W przypadku gdy autorów lub redaktorów jest dwóch lub więcej, w tytule skróconym podaje się wyłącznie pierwszego z nich.
 
-  
+
 
 _Przykład:_  
 
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 >             → Fuller-MaitlandF 1893
 
-  
+
 W przypadku gdy nie podano autora, należy użyć jedno lub dwa słowa kluczowe.  
 _Przykład:_
 
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 >             → VerzeichnisThibaut 1842
 
-  
+
 
 Dla dzieł wielotomowych wydawanych na przestrzeni wielu lat, należy podać tylko pierwszy rok.   
 _Przykład:_
@@ -75,7 +75,7 @@ _Przykład:_
 > Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, no date).  
 >             → ZanglO s.d.
 
-  
+
 Jeżeli rok wydania znany jest jedynie w przybliżeniu, należy dodać **ca.** (tzn. circa) przy wprowadzaniu do rekordu wydawcy i roku wydania, lecz należy pominąć „ca.” w tytule skróconym.  
 _Przykład:_  
 
@@ -86,7 +86,7 @@ W przypadku znanych encyklopedii lub zbiorów
 
  zamiast tytułów skróconych należy stosować ich powszechnie używane skróty lub nazwy (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
- 
+
 
 **Katalogi utworów**
 
@@ -96,8 +96,8 @@ Tytuły skrócone **katalogów utworów** składają się z:
 - **Pierwszej litery** nazwiska kompozytora, pisanej wielką literą.
 
 Nie ma potrzeby podawania roku wydania.  
-  
-Jako katalog utworów można również wprowadzić  katalog wydany jako część większej pozycji, np. jako aneks do książki, Pozycje takie można również cytować jako  **Odniesienie bibliograficzne****  (691)**.]
+
+Jako katalog utworów można również wprowadzić  katalog wydany jako część większej pozycji, np. jako aneks do książki, Pozycje takie można również cytować jako  **Odniesienie bibliograficzne (691)**.]
 
 _Przykłady:_
 
@@ -112,7 +112,7 @@ _Przykłady:_
 
 Przy tworzeniu rekordów katalogów utworów należy stosować powszechnie używane skróty (BWV, KV, Hob., itd.). Można również używać skrótu stosowanego w obrębie katalogu, pod warunkiem, że nie spowoduje to niejasności.
 
-  
+
 
 _Przykład:_  
 
@@ -124,7 +124,7 @@ _Przykład:_
 >            → BrinzingMWV  
 >                _Note: MWV was already in use for the Mendelssohn Werkverzeichnis._
 
- 
+
 
 **Przypadki specjalne**
 
@@ -141,8 +141,8 @@ _Przykłady:_
 > Robert Didion and Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_(Frankfurt: Vittorio Klostermann, 1990).  
 >             → DidionF 1990  
 > Róbert Árpád Murányi, „Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
->             → MurányiW 1997 
+>             → MurányiW 1997
 
- 
+
 
 Nie można przypisywać tytułu skróconego książkom, rocznikom, sprawozdaniom z konferencji  itd. zawierającym zbiór esejów. Eseje zawarte w tych publikacjach należy wprowadzać do rekordu osobno jako odwołania do literatury, a nie jako całą książkę. Esej należy wprowadzić jako rekord literatury z własnym tytułem skróconym.

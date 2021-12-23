@@ -10,7 +10,7 @@ Wpisać URL źródła zewnętrznego. Zawsze należy stosować permalinki.
 ####   
 Uwaga o źródle zewnętrznym (856 $y)
 
-Krótko opisać w odpowiednim języku, co znajduje się pod podanym adresem URL. 
+Krótko opisać w odpowiednim języku, co znajduje się pod podanym adresem URL.
 
 _Przykład_:  
 [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000  

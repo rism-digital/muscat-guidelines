@@ -1,12 +1,12 @@
-### **Incipit (031)**
+### Incipit (031)
 
 Gli incipit aiutano l’identificazione delle composizioni e facilitano la comparazione delle fonti. Miglior pratica per la musica strumentale è di includere incipit per una parte acuta e una parte grave, ad esempio vl 1 e basso. Per la musica vocale, includi incipit per una parte vocale e una parte strumentale. Scrivi gli strumenti traspositori alle altezze d’effetto.
 
-Se la notazione di cui hai bisogno non è disponibile nel codice Plain & Easie, trascrivi la musica nel miglior modo possibile e aggiungi una nota esplicativa. Puoi allegare un’immagine dell’incipit dalla fonte come ulteriore chiarificazione. 
+Se la notazione di cui hai bisogno non è disponibile nel codice Plain & Easie, trascrivi la musica nel miglior modo possibile e aggiungi una nota esplicativa. Puoi allegare un’immagine dell’incipit dalla fonte come ulteriore chiarificazione.
 
 Per un aiuto nella trascrizione di notazione mensurale, For assistance with transcribing mensural notation, please see "Basic Mensural Notation Reference" by Ted Dumitrescu ([http://cmme.org/misc/refsheet.pdf](http://cmme.org/misc/refsheet.pdf))).
 
-#### Numero dell'opera, N.o del movimento, N.o dell'incipit (031 $a, b, c) 
+#### Numero dell'opera, N.o del movimento, N.o dell'incipit (031 $a, b, c)
 
 **Campi obbligatori se un sottocampo qualsiasi di questa parte è utilizzato.**
 
@@ -20,15 +20,15 @@ _Esempi_:
 1.1.2 = 1a composizione, 1o movimento, entrata della parte vocale  
 1.2.1 = 1a composizione, 2o movimento,1o incipit
 
- 
+
 
 **Intestazione, tempo (031 $d)**
 
 Inserisci l’intitolazione e il tempo del movimento o simili indicazioni, se specificate, come appaiono nella fonte. Utilizza **|** (la barra verticale) con uno spazio singolo prima e dopo il segno per mostrare un a capo. Utilizza parentesi quadre per indicare delle aggiunte all’originale; tali aggiunte devono essere formulate in maniera coerente. Più intestazioni o indicazioni di tempo aggiuntive possono essere indicate in campi separati. Se stai inserendo più incipit per i quali vale la stessa intestazione o indicazione di tempo, inseriscila solo per il primo incipit musicale.
 
- 
 
-**Voce/strumento****  (031 $m)**
+
+**Voce/strumento (031 $m)**
 
 Inserisci la parte vocale o lo strumento usando la lista di **abbreviazioni RISM per gli strumenti**. Inserisci **V** per una parte vocale sconosciuta. Inserisci **i** per una parte strumentale sconosciuta. Utilizza la notazione d’effetto per gli strumenti traspositori. Indica l’accordatura dello strumento nel campo  **Commento all'incipit musicale**.
 
@@ -39,13 +39,13 @@ org with text
 
 #### Personaggio (031 $e)
 
-Inserisci qui il ruolo teatrale. Se riempi questo campo, assicurati di riempire anche il campo ** **** Personaggi menzionati**** (595)**. Utilizza parentesi quadre per indicare delle aggiunte editoriali. Indica ogni informazione dubbia con un punto interrogativo.
+Inserisci qui il ruolo teatrale. Se riempi questo campo, assicurati di riempire anche il campo **Personaggi menzionati (595)**. Utilizza parentesi quadre per indicare delle aggiunte editoriali. Indica ogni informazione dubbia con un punto interrogativo.
 
- 
+
 
 #### Incipit testuale (031 $t)
 
-Un incipit testuale consiste delle prime parole di una composizione o di una sezione e possono essere il primo verso, la prima frase, o un altro gruppo di parole che abbia senso linguisticamente. Gli incipit testuali servono ad identificare il testo utilizzato e non corrispondono necessariamente alla lunghezza della musica riportata nell’incipit musicale. Nota che per i testi in latino vi sono regole particolari (vedi sotto). 
+Un incipit testuale consiste delle prime parole di una composizione o di una sezione e possono essere il primo verso, la prima frase, o un altro gruppo di parole che abbia senso linguisticamente. Gli incipit testuali servono ad identificare il testo utilizzato e non corrispondono necessariamente alla lunghezza della musica riportata nell’incipit musicale. Nota che per i testi in latino vi sono regole particolari (vedi sotto).
 
 Gli incipit testuali sono indicati in forma standardizzata. Inserisci l’incipit testuale modernizzando l’ortografia. Fai riferimento all’indice **Titolo/incipit testuale** per aiutarti a standardizzare la tua immissione. Inserisci nuovi incipit se non sono presenti nell’indice.
 
@@ -69,11 +69,11 @@ Testi accertati o desunti che non appaiono nella fonte possono essere riportati 
 
 Testi latini standardizzati solitamente corrispondono ai testi nel _Liber usualis_. In RISM, questi testi contengono una virgola. Ad esempio, cercando il testo "Et in terra pax", compariranno una dozzina di opzioni, ma una sola ha una virgola e questa è utilizzata 4'800 volte nella banca-dati. Dunque è questa che cerchiamo – posto che corrisponda alla nostra fonte. Se il tuo incipit testuale è soltanto "Et in terra pax", ciò significa (1) che la tua fonte contiene solo queste parole oppure (2) che il testo nella fonte prosegue in maniera diversa che nel _Liber usualis_. Questo ovviamente è possibile, ma nella maggioranza dei casi vorrai usare la versione con la virgola.  
 
-**Tonalità, modo****  (031 $r)**
+**Tonalità, modo (031 $r)**
 
 Seleziona la tonalità o il modo dalla lista.
 
-**Armatura di chiave****  (031 $n)**
+**Armatura di chiave (031 $n)**
 
 Inserisci **x** per tonalità diesizzate o **b** per tonalità bemollizzate. Inserisci poi i nomi delle note che sono influenzate dall’armatura di chiave. Aggiungi diesis o bemolli palesemente mancanti tra parentesi quadre. Se manca l’armatura di chiave, lascia il campo vuoto.
 
@@ -84,17 +84,17 @@ xFC[G] = il fa e il do sono diesizzati ma il brano è palesemente in la maggiore
 
 **Misura (031 $o)**
 
-Inserisci la misura dell’incipit musicale come frazione. Sono consentite anche le seguenti misure: 
+Inserisci la misura dell’incipit musicale come frazione. Sono consentite anche le seguenti misure:
 
-**c ** = tempo comune or tempus imperfectum cum prolatione imperfecta  
-**c/ ** = tempo tagliato, alla breve  
-**3 ** = proportio tripla; anche  **1**,  **2**  ecc.  
-**c3 ** = proportio tripla  
-**c3/2  
-c. ** = tempus imperfectum cum prolatione perfecta  
-**o ** = tempus perfectum cum prolatione imperfecta  
-**o/ ** = tempus perfectum cum prolatione minore diminutum  
-**o. **  = tempus perfectum cum prolatione perfecta
+**c** = tempo comune or tempus imperfectum cum prolatione imperfecta  
+**c/** = tempo tagliato, alla breve  
+**3** = proportio tripla; anche  **1**,  **2**  ecc.  
+**c3** = proportio tripla  
+**c3/2**
+**c.** = tempus imperfectum cum prolatione perfecta  
+**o** = tempus perfectum cum prolatione imperfecta  
+**o/** = tempus perfectum cum prolatione minore diminutum  
+**o.**  = tempus perfectum cum prolatione perfecta
 
 Se la misura è alternata regolarmente, puoi inserire la prima misura seguita dalla seconda, separate da uno spazio. Se l’incipit è privo di misura, lascia vuoto questo campo.
 
@@ -106,18 +106,18 @@ _Esempi_:
 
 Se la misura nella fonte è chiaramente sbagliata, correggila per farla corrispondere con l’incipit indicato. Aggiungi una nota esplicativa nel campo  **Commento all'incipit musicale**.
 
- 
+
 
 **Chiave (031 $g)**
 
 Seleziona una chiave dalla lista. La lettera indica il tipo di chiave. Il numero si riferisce alla posizione sul rigo. Un trattino significa notazione moderna. Un segno più significa notazione mensurale.
 
- 
+
 
 **Validità (031 $s)**
 
 Non inserire nulla in questo campo! (È usato solo per dati vecchi.)   
-  
+
 
 **Incipit musicale (031 $p)**
 
@@ -154,7 +154,7 @@ bb = doppio bemolle
 n = bequadro
 
 **4. Nomi delle note**  
-C, D, E, F, G, A, B 
+C, D, E, F, G, A, B
 
 **5. Notine e abbellimenti**  
 g = acciaccatura (senza valore ritmico, precede il nome della nota)  
@@ -191,7 +191,7 @@ Esempio:
 **10. Ritmi speciali**  
 ( = inizio del ritmo speciale  
 ) = fine del ritmo speciale  
-   
+
 La durata totale del gruppo deve essere scritta prima della **(**. Il valore ritmico della prima nota deve essere indicata dopo la **(**, anche se è identica alla nota immediatamente precedente la sezione nel ritmo speciale. Il numero di note nel gruppo deve essere indicato prima di **)**. È separato dall’ultima nota da **;**.
 
 _Esempi:_  
@@ -224,7 +224,7 @@ i = ripete l’ultima battuta
 _Esempio:_  
 '4ABAG/i/i/ = la battuta sarà ripetuta due volte
 
-  
+
 
 11.3. Moduli ritmici
 
@@ -234,7 +234,7 @@ _Esempio:_
 Invece di **8.A6B8C8.D6E8F** si può usare il codice **8.68ABCDEF**  
 La sequenza ritmica si interrompe non appena compare un nuovo valore ritmico.
 
-   
+
 **12. Cambio di chiave, tonalità o misura**
 
 Utilizza % per cambiare la chiave, $ per cambiare la tonalità e @ per cambiare la misura. Fai seguire questi segni con la nuova indicazione generale (chiave, tonalità o misura) seguita da uno spazio.
@@ -245,7 +245,7 @@ _Esempi:_
 @3/2 '1C  
 $nBE $xFC
 
- 
+
 
 **13. Abbreviazioni**   
 Forme di notazione abbreviata che si trovano nella musica, come tremoli o segni analoghi di ripetizione, devono essere scritti per esteso usando l’effettiva notazione.
@@ -253,7 +253,7 @@ Forme di notazione abbreviata che si trovano nella musica, come tremoli o segni 
 _Esempio:_  
 {'8DDDD} = una minima di tremolo sul re
 
- 
+
 
 **14. Accordi**
 
@@ -264,13 +264,13 @@ _Esempio:_
 
 ####  
 
-**Commento all'incipit mus.****  (031 $q)**
+**Commento all'incipit mus. (031 $q)**
 
 Aggiungi commenti come l’accordatura degli strumenti traspositori, errori nell’incipit, l’incipit testuale con l’ortografia e/o l’interpunzione originali, e ogni intervento che hai dovuto fare. Inserisci i dati usando la tua lingua di catalogazione.
 
 **Organico del movimento (031 $z)**
 
-In questo campo puoi indicare l’organico specifico del movimento in questione (come un movimento all’interno di una complessa composizione vocale). Elenca l’organico su una linea utilizzando le abbreviazioni RISM per gli strumenti e l’ordine standardizzato (descritto in **Organico sintetico** **[240 $m]**). Usa un punto e virgola per separare famiglie di strumenti. 
+In questo campo puoi indicare l’organico specifico del movimento in questione (come un movimento all’interno di una complessa composizione vocale). Elenca l’organico su una linea utilizzando le abbreviazioni RISM per gli strumenti e l’ordine standardizzato (descritto in **Organico sintetico** **[240 $m]**). Usa un punto e virgola per separare famiglie di strumenti.
 
 _Esempi:_   
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  

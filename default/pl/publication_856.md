@@ -1,9 +1,8 @@
-#### **URL źródła zewnętrznego (856 $u)**
+#### URL źródła zewnętrznego (856 $u)
 
 Wprowadzić URL źródła zewnętrznego. Zawsze należy starać się używać permalinków.
 
-####   
-**Uwaga o źródle zewnętrznym (856 $z)**  
+#### Uwaga o źródle zewnętrznym (856 $z)  
 
 Wprowadzić krótką uwagę opisującą link.
 

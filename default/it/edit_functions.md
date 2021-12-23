@@ -1,4 +1,4 @@
-### **La barra di menu superiore**
+### La barra di menu superiore
 
 **Amministrazione** collega alla configurazione MARC, che ti permette di visualizzare tutti i campi MARC utilizzati in Muscat (per le fonti e per le liste di voci d’autorità).
 
@@ -8,7 +8,7 @@ Il  **Dashboard**  visualizza le tue schede Muscat più recenti.
 
 **Commenti** ti permette di vedere tutti i commenti allegati alle schede Muscat. Puoi visualizzare commenti di tutti gli utenti e commentare qualsiasi scheda. Menziona un altro utente digitando @ seguito dal nome, per farlo partecipare alla conversazione.
 
-**Cartelle**  ti permette di visualizzare tutte le cartelle create da utenti Muscat. 
+**Cartelle**  ti permette di visualizzare tutte le cartelle create da utenti Muscat.
 
 La **Ricerca per categorie** ti permette di effettuare ricerche sulle medesime fonti ma con più criteri di ricerca: una ricerca semplice con dei limiti e una ricerca avanzata con molti campi a disposizione. Se sei abilitato a modificare una scheda che vedi nella ricerca per categorie, comparirà un collegamento che ti porta alla modalità di redazione Muscat. Altrimenti, ritorna a Muscat facendo clic su  **Catalogazione**. **Home** ti riporta alla pagina web dell'Editorial Center RISM.
 
@@ -18,7 +18,7 @@ La pagina  **Fonti** è la pagina principale dalla quale puoi accedere alle sche
 
 **Documentazione** ti permette di visualizzare tutte le regole di catalogazione su una pagina. È qui che ti trovi in questo momento.
 
-  
+
 
 ### Gruppi e impostazioni in modalità di redazione
 
@@ -28,7 +28,7 @@ La colonna di navigazione a destra permette di navigare a specifiche sezioni del
 
 Utilizza **i collegamenti** in cima per navigare a una sezione della scheda. Redigendo una singola sezione, il tuo lavoro verrà conservato se passi a una sezione diversa o se fai clic su **Mostra tutti i gruppi**. (Ma ricorda di salvare il tuo lavoro prima di lasciare la modalità di redazione!)
 
-**Mostra tutti i gruppi** ti permette di visualizzare tutte le sezioni della scheda. Questo è utile quando desideri tornare a redigere l’intera scheda dopo aver lavorato su un gruppo specifico. 
+**Mostra tutti i gruppi** ti permette di visualizzare tutte le sezioni della scheda. Questo è utile quando desideri tornare a redigere l’intera scheda dopo aver lavorato su un gruppo specifico.
 
 **Mostra anteprima** ti permette di visualizzare la scheda senza salvarla. Per tornare alla modalità di redazione, fai clic su **Nascondi anteprima**.
 
@@ -48,17 +48,17 @@ Utilizza **i collegamenti** in cima per navigare a una sezione della scheda. Red
 
 ### Bottoni nella modalità di redazione
 
-**Lente d’ingrandimento**: Fai clic qui per effettuare una ricerca nella lista di voci d’autorità collegata a questo campo. Si aprirà una nuova finestra. Dopo che hai trovato quello che cerchi, fai clicc su  **Select ** (seleziona) per trasferire i dati alla tua scheda.
+**Lente d’ingrandimento**: Fai clic qui per effettuare una ricerca nella lista di voci d’autorità collegata a questo campo. Si aprirà una nuova finestra. Dopo che hai trovato quello che cerchi, fai clicc su  **Select** (seleziona) per trasferire i dati alla tua scheda.
 
 **Punto interrogativo (?)**: Vengono visualizzate le regole di catalogazione RISM per questo campo.
 
-**Segno più (+)**: I campi ripetibili hanno un segno più (+). Fai clic sul + per creare un nuovo campo vuoto. All’interno di un gruppo i campi possono essere ordinati manualmente facendo clic e trascinandoli. 
+**Segno più (+)**: I campi ripetibili hanno un segno più (+). Fai clic sul + per creare un nuovo campo vuoto. All’interno di un gruppo i campi possono essere ordinati manualmente facendo clic e trascinandoli.
 
 **Cestino**: Cancella un campo facendo clic sul cestino.
 
 **Freccia**: Fai clic sulla freccia per espandere o nascondere un campo.
 
-**Aggiungi un gruppo**: Questo bottone si trova alla fine della sezione  **Descrizione del materiale**. Con più gruppi puoi associare diverse date, formati, filigrane, nomi, istituzioni ecc. a diversi tipi di fonti (o qualsiasi altro modo da te scelto per descrivere il tuo materiale). Alcuni di questi campi, come  **Nome aggiuntivo di persona****  (700),  ****Nome di ente aggiuntivo****  (710) **, e ** Nota generale**** (500)** si trovano anche altrove nei modelli per le fonti. Usa il buon senso per decidere dove collocare queste informazioni: si riferiscono all'intera fonte, oppure soltanto a questo gruppo di materiale?
+**Aggiungi un gruppo**: Questo bottone si trova alla fine della sezione  **Descrizione del materiale**. Con più gruppi puoi associare diverse date, formati, filigrane, nomi, istituzioni ecc. a diversi tipi di fonti (o qualsiasi altro modo da te scelto per descrivere il tuo materiale). Alcuni di questi campi, come  **Nome aggiuntivo di persona (700),  **Nome di ente aggiuntivo (710)**, e **Nota generale (500)** si trovano anche altrove nei modelli per le fonti. Usa il buon senso per decidere dove collocare queste informazioni: si riferiscono all'intera fonte, oppure soltanto a questo gruppo di materiale?
 
 ### Altre funzioni nella modalità di redazione
 
@@ -68,7 +68,7 @@ Utilizza **i collegamenti** in cima per navigare a una sezione della scheda. Red
 
 **Campi obbligatori e validazione**: Quando inizi una nuova scheda, i campi più importanti sono già aperti e pronti ad accogliere la tua immissione. I campi a sfondo giallo sono obbligatori. Se salvi senza riempire uno di questi campi, apparirà un bordo rosso attorno ai campi che richiedono la tua attenzione, e le sezioni che contengono questi campi compariranno in rosso sulla colonna di navigazione a destra. In caso non vi sia alcuna informazione per riempire un campo obbligatorio, si può ignorare la validazione spuntando una casella nella colonna di navigazione.
 
- 
+
 
 ### Azioni nella modalità di visualizzazione   
 

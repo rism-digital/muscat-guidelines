@@ -1,3 +1,3 @@
-#### **Lider (000)**
+#### Lider (000)
 
 Nie zmieniać.

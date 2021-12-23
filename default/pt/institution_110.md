@@ -1,10 +1,8 @@
-#### **Instituição (MARC 110 $a; ISDIAH 5.1.2)**
-
+#### Instituição (MARC 110 $a; ISDIAH 5.1.2)
 Este campo cria um ponto de acesso autorizado único, que identifica exclusivamente a instituição detentora do acervo.
 
-#### **Forma autorizada do nome (110 $a)**
-
-Insira o nome atual da instituição no idioma local. Se o idioma local é escrito em um alfabeto não-latino, transcreva de uma forma transliterada. 
+####Forma autorizada do nome (110 $a)
+Insira o nome atual da instituição no idioma local. Se o idioma local é escrito em um alfabeto não-latino, transcreva de uma forma transliterada.
 
 Quando bibliotecas, arquivos ou centros de documentação pertencem a uma instituição maior, insira o nome da instituição maior e acrescente a unidade subordinada separada por uma vírgula.  
 
@@ -16,23 +14,16 @@ Norges musikkhøgskole, Biblioteket
 ERESBIL - Musikaren Euskal Artxiboa  
 Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossi
 
-####   
+#### Local (110 $c)
+Insira a cidade da instituição. Se o idioma local é escrito em um alfabeto não-latino, transcreva em uma forma transliterada.
 
-#### **Local (110 $c)**
-
-Insira a cidade da instituição. Se o idioma local é escrito em um alfabeto não-latino, transcreva em uma forma transliterada. 
-
-** **
-
-#### **Sigla (110 $g)**
-
+#### Sigla (110 $g)
 Este campo destina-se à Sigla de instituição RISM, única e inalterável. **Siglas são atribuídas pela Redação Central do RISM** em consulta com os grupos de trabalho RISM nacionais.
 
 Siglas de instituições são elaboradas com três elementos: uma abreviatura de país, uma abreviatura de cidade e uma abreviatura de instituição. Em alguns casos, a abreviatura de instituição pode ser omitida (exemplo: D-B). As abreviaturas para o país e a cidade são sempre em maiúsculas e a abreviatura para a instituição é sempre em minúsculas. O código de país é separado dos demais detalhes por um hífen. O código para país é quase sempre tomado da lista de códigos internacionais para registro de veículos mantida pelas Nações Unidas. Códigos de cidade e instituição são criados pela Redação Central do RISM.
 
 No caso em que uma instituição tenha modificado seu nome, ainda será mantida para ela a mesma sigla. (Por ex.: CZ-Bu)
 
- 
 
 _Exemplos_:  
 GB-Cu = United Kingdom, Cambridge, University Library  

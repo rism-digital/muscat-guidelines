@@ -1,8 +1,8 @@
 ### Vorlageexemplar (588)
 
-In diesem Feld wird angegeben, nach welchem Exemplar die bibliographische Beschreibung gemacht wurde (sowohl für neue als auch überarbeitete Einträge). 
+In diesem Feld wird angegeben, nach welchem Exemplar die bibliographische Beschreibung gemacht wurde (sowohl für neue als auch überarbeitete Einträge).
 
-#### **Vorlageexemplar (588 $a)**
+#### Vorlageexemplar (588 $a)
 
 Geben Sie das Bibliothekssigel und die Signatur des verwendeten Drucks an. Sie können auch angeben, ob Sie das Exemplar nur für einen Teil der Beschreibung verwendet haben.
 

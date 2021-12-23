@@ -4,10 +4,10 @@ Questo campo riporta le fonti consultate per creare la descrizione dell’istitu
 
 **Bibliografia (MARC 670 $a)**
 
-Inserisci il titolo abbreviato della fonte. Il campo è collegato all’indice ** Bibliografia/Cataloghi tematici**. Titoli non ancora compresi nell’indice devono essere inseriti prima di poter essere collegati con un titolo abbreviato.
+Inserisci il titolo abbreviato della fonte. Il campo è collegato all’indice **Bibliografia/Cataloghi tematici**. Titoli non ancora compresi nell’indice devono essere inseriti prima di poter essere collegati con un titolo abbreviato.
 
 È consigliabile, ma non obbligatorio, inserire e aggiornare la bibliografia compresa nella seconda edizione della serie C del RISM. Se non esiste alcuna bibliografia, è sufficiente menzionare le fonti essenziali.  
-  
+
 
 #### Citazione (670 $9)
 Inserisci una citazione da un'opera pubblicata o la descrizione di una fonte o circostanza che ha portato all'informazione sull'intestazione per l'istituzione in oggetto.
@@ -16,7 +16,7 @@ Inserisci una citazione da un'opera pubblicata o la descrizione di una fonte o c
 
 Inserisci il numero, il numero di pagina, l'informazione rinvenuta.
 
-  
+
 
 #### URI (670 $u)  
 

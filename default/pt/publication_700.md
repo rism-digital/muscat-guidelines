@@ -1,13 +1,12 @@
-#### **Nome de pessoa adicional (700)**
+#### Nome de pessoa adicional (700)
 
 Aqui insere-se informação sobre os editores do item, pessoas adicionais envolvidas na publicação e compositores ou outras pessoas de que a publicação trata.
 
-####   
-**Nome (700 $a)**  
+#### Nome (700 $a)
 
 Insira o nome. Este campo é ligado ao registro de autoridade **Nomes de pessoas**.
 
-#### **Função (700 $4)**
+#### Função (700 $4)
 
 Selecione entre as seguintes opções (os códigos de três letras referem-se ao código MARC para relator):
 

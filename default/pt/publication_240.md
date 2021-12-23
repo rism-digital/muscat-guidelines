@@ -1,14 +1,11 @@
-### **Título do item (240)**
-
+### Título do item (240)
 **Campo obrigatório.**
 
-####   
-**Título do item (240 $a)**  
+#### Título do item (240 $a)
 
 Insira o título do item, incluindo subtítulos. Traduções do título podem ser inseridas no campo **Título adicional (730)**. Resenhas de livros podem ser indicadas pelo prefixo [review of] seguido do nome do item.
 
-####   
-**Categoria (240 $g)**  
+#### Categoria (240 $g)
 
 Selecione a categoria que descreve a publicação. Escolhe entre:
 
@@ -21,8 +18,7 @@ Selecione a categoria que descreve a publicação. Escolhe entre:
 - **Outro**: inclui todas as demais publicações que não sejam catálogos ou enciclopédias, tais como artigos, ensaios, capítulos, biografias, histórias culturais, etc.
 - **Catálogo temático**: um catálogo de um compositor que inclui incipits
 
-####   
-**Tipo de publicação (245 $h)**  
+#### Tipo de publicação (245 $h)  
 
 Selecione o tipo de publicação a partir da seguinte lista:
 

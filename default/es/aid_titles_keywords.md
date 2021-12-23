@@ -7,7 +7,7 @@ Pueden plantearse diferencias en las siguientes situaciones: si el mismo descrip
 En lo sucesivo se presentan algunos ejemplos y sus correspondencias, para los siguientes tipos de títulos normalizados:
 
 - Música instrumental y vocal en general
-- Música sacra vocal 
+- Música sacra vocal
 - Música para el escenario, el teatro, etc.
 - Ejercicios, estudios, escuelas, lecciones
 - Danzas
@@ -21,13 +21,13 @@ Aquí hay algunos ejemplos para situaciones especiales:
 Use **Chorale arrangements** tanto como Título uniforme y como Descriptor.
 
 3. Un popurrí cuya música proviene de una sola ópera:  
-¡No necesita esta lista! Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**. Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas**, etc. según corresponda).
+¡No necesita esta lista! Use el nombre de la ópera como título uniforme y seleccione  **Extractos** y  **Arreglos**. Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas**, etc. según corresponda).
 
 4. Un popurrí cuya música proviene de varias óperas:  
-Use  **_Potpourri _** como título uniforme. Introduzca los nombres de las óperas en el campo **Título adicional (730). **Como descriptores, introduzca  **Potpourris ** y  **Operas ** (u  **Operettas**, etc. según corresponda).
+Use  **_Potpourri _** como título uniforme. Introduzca los nombres de las óperas en el campo **Título adicional (730).** Como descriptores, introduzca  **Potpourris** y  **Operas** (u  **Operettas**, etc. según corresponda).
 
 5. Un popurrí respecto del cual se desconoce la procedencia de la música:  
-Use  **Potpourris ** como título y como descriptor.
+Use  **Potpourris** como título y como descriptor.
 
 6. Un arreglo de música para vientos de una obra teatral cuyo nombre se conoce:  
 Usa el nombre de la obra escénica como título uniforme y seleccione  **Arreglo**. Introduzca como descriptor  **Wind music**.
@@ -39,11 +39,11 @@ Utilice  **Wind music** tanto como título uniforme y como descriptor.
 
 9. En casos de completa falta de certeza, como sucede con un orgánico desconocido, ingrese **Pieces** como título uniforme y **Pieces** como descriptor.
 
- 
+
 
 La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Por favor, tenga en cuenta que la lista no es abarcativa.
 
-\*[**Nota del traductor: ** importa advertir que gran parte de los géneros que se usan como Título uniforme y Descriptor se colocan en inglés y en plural. En las siguientes tablas de ejemplos, la columna izquierda presenta, con fines puramente informativos, traducciones al español de los términos normalizados; sin embargo, para los registros deben seguirse, según corresponda, las columnas central y derecha].
+\*[**Nota del traductor:** importa advertir que gran parte de los géneros que se usan como Título uniforme y Descriptor se colocan en inglés y en plural. En las siguientes tablas de ejemplos, la columna izquierda presenta, con fines puramente informativos, traducciones al español de los términos normalizados; sin embargo, para los registros deben seguirse, según corresponda, las columnas central y derecha].
 
 #### Música instrumental y vocal en general  
 
@@ -108,8 +108,8 @@ Fugues |
 | Vercetos / Versos | Versets | Versets (inst.) |
 | Virelais | Virelais | Virelais (forme fixe) |
 
-####   
-Música vocal sacra
+
+#### Música vocal sacra
 
 | _Género en español  
 (sólo referencia)    _ | _Usar como  
@@ -121,9 +121,8 @@ correspondiente_ |
 | Laudes | Laudes | Hours of the Office |
 | Matutina, Maitines | Matutina | Hours of the Office |
 
- 
-####   
-Música para la escena, el teatro, etc.
+
+#### Música para la escena, el teatro, etc.
 
 _Para géneros de las partes o números individuales, consulte la sección sobre música vocal e instrumental._
 
@@ -152,7 +151,7 @@ correspondiente_ |
 | Tutores | Tutors | Tutors (inst.) |
 | Tutores | Tutors | Tutors (voc.) |
 
- 
+
 
 #### Danzas
 
@@ -162,5 +161,3 @@ título uniforme_ | _Descriptor
 correspondiente_ |
 | Airs | Airs | Airs (dances) |
 | Rondas | Rounds | Rounds (dances)  |
-
- 

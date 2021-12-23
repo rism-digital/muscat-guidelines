@@ -1,4 +1,4 @@
-### **Bestandsangabe (520 $a)**
+### Bestandsangabe (520 $a)
 
 In diesem Feld wird der Erscheinungsverlauf insbesondere bei Periodika angegeben.
 

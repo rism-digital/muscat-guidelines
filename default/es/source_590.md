@@ -41,7 +41,7 @@ En este sistema, una **lvs** corresponde a dos **f** plegados, mientras que para
 
 También se pueden indicar páginas o folios particulares de una pieza dentro de una colección manuscrita, por ejemplo, **p. 5-6** o **f. 4r-4v**.
 
-**Eje**** mp ****l**** os ****_:_** Hay dos maneras distintas de consignar las particellas.
+**Ejemplos:_** Hay dos maneras distintas de consignar las particellas.
 
 *Ejemplo 1*: Una familia instrumental por línea e instrumentos separados por coma. Se repite el campo para cada familia.
 
@@ -52,7 +52,7 @@ También se pueden indicar páginas o folios particulares de una pieza dentro de
 **Extensión (particellas) (590 $b)**: 4, 4, 4, 4 p.
 
 **Particellas conservadas (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
-**Extensión (particellas) (590 $b)**: **  ** 4, 4, 3, 4, 2 p.
+**Extensión (particellas) (590 $b)**: 4, 4, 3, 4, 2 p.
 
 **Particellas conservadas (590 $a)**: ob 1, 2, cl 1, 2 in B|b  
 **Extensión (particellas) (590 $b)**: 2, 2, 2, 2 p.

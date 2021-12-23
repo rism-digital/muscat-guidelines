@@ -1,4 +1,5 @@
-**#### ISSN (022 $a)**Wprowadzić numer ISSN. Numer ISSN stanowi unikalny identyfikator wydawnictw ciągłych.
+#### ISSN (022 $a)
+Wprowadzić numer ISSN. Numer ISSN stanowi unikalny identyfikator wydawnictw ciągłych.
 
 _Przykłady:_  
 0027-4380  

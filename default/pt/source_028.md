@@ -10,4 +10,4 @@ S. B. 2. 11
 424  
 L. M. 2. A. 31
 
-A afirmação [without plate number] é permitida. Números de editor devem ser inseridos no campo **Nota geral (5****00)**.
+A afirmação [without plate number] é permitida. Números de editor devem ser inseridos no campo **Nota geral (500)**.

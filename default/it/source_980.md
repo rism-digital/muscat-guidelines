@@ -2,7 +2,7 @@ Origine della scheda (980)
 
 **Origine (980 $a)**
 
-Seleziona l'origine della scheda: 
+Seleziona l'origine della scheda:
 
 - **Dati importati**: La scheda è stata importata da una banca-dati esterna
 - **Conversione retrospettiva**: La scheda deriva da una pubblicazione su carta ed è stata convertita in un formato leggibile elettronicamente
@@ -17,7 +17,7 @@ _Seguiranno altri dettagli._
 
 - **Breve**
 - **Completo**
-- **Standard** 
+- **Standard**
 
 ** **
 
@@ -26,4 +26,4 @@ _Seguiranno altri dettagli._
 Indica per favore se hai direttamente esaminato il materiale (autopsia) durante la catalogazione.
 
 - **Materiale esaminato**
-- **Materiale non **** esaminato**: Questo può essere usato se la scheda è stata creata usando la descrizione in un catalogo.
+- **Materiale non esaminato**: Questo può essere usato se la scheda è stata creata usando la descrizione in un catalogo.

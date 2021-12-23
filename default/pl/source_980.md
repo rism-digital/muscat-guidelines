@@ -2,15 +2,15 @@
 
 **Pochodzenie (980 $a)**
 
-Wybierz pochodzenie rekordu: 
+Wybierz pochodzenie rekordu:
 
 - **Import**: Rekord został zaimportowany z zewnętrznej bazy danych
 - **Konwersja retrospektywna**: Rekord pochodzi z publikacji papierowej i został przekształcony w formę do odczytu maszynowego
-- **RISM**:  Rekord został stworzony w RISM (domyślnie) 
+- **RISM**:  Rekord został stworzony w RISM (domyślnie)
 
 ** **
 
-**Poziom katalogowania****  (980 $b)**
+**Poziom katalogowania (980 $b)**
 
 Wybierz poziom katalogowania.  
 _Szczegóły zakładają:_
@@ -21,9 +21,9 @@ _Szczegóły zakładają:_
 
 ** **
 
-**Zbadany materiał **** (980 $c)**
+**Zbadany materiał (980 $c)**
 
-Należy podać, czy podczas katalogowania korzystało się bezpośrednio z obiektu. 
+Należy podać, czy podczas katalogowania korzystało się bezpośrednio z obiektu.
 
 - **Materiał zbadany**
 - **Materiał nie zbadany**: Można podać, kiedy rekord powstał na podstawie opisu katalogowego.

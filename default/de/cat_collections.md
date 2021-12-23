@@ -251,7 +251,7 @@ _Beispiel_:
 **Nebeneintragung Person (700)**: Autor des Buchs mit Indikator **Sonstige Funktion**  
 **Diplomatischer Titel (245)**: Titel des Buchs  
 **Einordnungstitel (240)**: Entsprechend den RISM-Richtlinien, beispielsweise **3 Songs**  
-**Material (300)**: Beschreibung des Notenmaterials, beispielsweise **1 score: 5 p. **   
+**Material (300)**: Beschreibung des Notenmaterials, beispielsweise **1 score: 5 p.**   
 
 Teileinträge für jedes Werk können entsprechend den RISM-Richtlinien erstellt werden.  
 

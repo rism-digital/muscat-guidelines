@@ -140,7 +140,7 @@ abbreviations and terms**.
 
 **Required field** **except for the following: operas and oratorios with the standard instrumentation V (X), Coro,
 orch  
-If you have sketches or collections, enter a scoring summary if it makes sense to do so. **
+If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
 Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each
 element of the scoring summary with commas. Enter a maximum of four elements. A detailed description of the

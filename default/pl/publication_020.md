@@ -1,5 +1,4 @@
-**#### ISBN (020 $a)**
-
+#### ISBN (020 $a)
 Wprowadzić numer ISBN. Numer ISBN jest numerem składającym się z 10-13 cyfr.
 
 _Przykłady:_  

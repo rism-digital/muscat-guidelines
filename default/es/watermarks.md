@@ -1,6 +1,6 @@
- 
 
-1. **Figuras ** (Los términos en _itálica_ indican referencias cruzadas.)
+
+1. **Figuras** (Los términos en _itálica_ indican referencias cruzadas.)
 
 **Nota del Traductor:** dado que la descripción de las filigranas debe hacerse de manera uniforme y en inglés, la columna derecha sólo plantea, a modo informativo, equivalencias para las expresiones estandarizadas.
 
@@ -108,9 +108,9 @@
 | wild man | hombre salvaje |
 | wreath | corona de flores |
 
- 
 
- 
+
+
 
 1. **Descripciones**
 
@@ -119,11 +119,3 @@
 | chain line | línea de cadena |
 | formed from a single piece of wire | formado por una sola pieza de alambre |
 | wire lines (curved/straight) | líneas de alambre (curvas/rectas) |
-
- 
-
- 
-
- 
-
- 

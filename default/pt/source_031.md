@@ -17,13 +17,13 @@ _Exemplos:_
 1.1.2 = 1ª obra, 1º movimento, entrada da parte vocal  
 1.2.1 = 1ª obra, 2º movimento, 1º incipit
 
- 
-#### **Título do movimento, tempo (031 $d)**
+
+#### Título do movimento, tempo (031 $d)
 
 Insira o título do movimento e o tempo ou indicações similares, se especificadas, tal como aparecem na fonte. Use | (a barra vertical) com um espaço simples antes e depois para indicar quebras de linha. Use colchetes para indicar suplementos ao original; todos estes acréscimos devem ser grafados consistentemente. Múltiplos títulos ou indicações adicionais de tempo podem ser adicionados em campos separados. No caso de inserir múltiplos incipits para os quais o título ou a indicação de tempo é o(a) mesmo(a), insira o título ou indicação de tempo somente no primeiro incipit musical.
 
- 
-#### **Voz/instrumento (031 $m)**
+
+#### Voz/instrumento (031 $m)
 
 Insira a parte vocal ou instrumental usando a lista de **abreviaturas de instrumentos do RISM**. Insira **V** para uma parte vocal não especificada. Insira **i** para uma parte instrumental não especificada. Escreva os instrumentos transpositores na altura real. Indique a afinação de um instrumento no campo **Nota geral**.
 
@@ -36,7 +36,7 @@ org with text
 
 Insira aqui o nome normalizado do papel dramático. Se preencher este campo, certifique-se de preencher também o campo **Papéis dramáticos identificados (595)**. Indique quaisquer acréscimos editoriais entre colchetes. Indique toda informação questionável com uma interrogação.
 
- 
+
 
 #### Incipit literário (031 $t)
 
@@ -64,11 +64,11 @@ Textos em latim padronizados geralmente correspondem aos textos do _Liber usuali
 
 **O seguinte se aplica a dados importados:** Informação do campo **Texto (740 $a)**, se usado, deve ser repetida aqui.
 
-#### **Tonalidade ou modo (031 $r)** 
+#### Tonalidade ou modo (031 $r)
 
 Selecione a tonalidade ou modo na lista.
 
-#### **Armadura de clave (031 $n)**
+#### Armadura de clave (031 $n)
 
 Insira **x** para tonalidades em sustenido ou **b** para tonalidades em bemóis, seguidas de letras maiúsculas das notas a serem alteradas para cima ou para baixo. Se uma peça está claramente em uma certa tonalidade mas um sustenido ou bemol não está na armadura de clave, os sustenidos ou bemóis omitidos podem ser adicionados entre colchetes. Se não há armadura de clave, deixe o campo em branco.
 
@@ -77,8 +77,7 @@ xF = Fá sustenido = Sol maior ou Mi menor
 bBE = Si e Mi bemóis = Si bemol maior ou Sol menor  
 xFC[G] = Fá e Dó são sustenidos na fonte, mas a peça é claramente em Lá maior, então o último sustenido é adicionado entre colchetes
 
-####   
-**Compasso (031 $o)**  
+#### Compasso (031 $o)  
 
 Insira os compassos como frações. As seguintes expressões também são permitidas:
 
@@ -101,18 +100,18 @@ _Exemplos:_
 
 Se a indicação de compasso na fonte é obviamente errada, por favor corrija-a para que corresponda ao incipit fornecido. Inclua uma nota explicativa no campo **Nota geral**.
 
- 
 
-#### **Clave (031 $g)**
 
-Selecione uma clave na lista. A letra indica o tipo de clave. Um hífen significa notação moderna. Um sinal de mais significa notação mensural. O número se refere à posição no pentagrama. 
+#### Clave (031 $g)
 
-#### **Validade (031 $s)**
+Selecione uma clave na lista. A letra indica o tipo de clave. Um hífen significa notação moderna. Um sinal de mais significa notação mensural. O número se refere à posição no pentagrama.
+
+#### Validade (031 $s)
 Não insira nada neste campo! (Ele é usado somente para dados antigos)    
 
-  
 
-#### **Incipit musical  (031 $p)** 
+
+#### Incipit musical  (031 $p)
 
 Insira o incipit musical em forma codificada usando o _Plaine & Easie code_ (ver também [https://www.iaml.info/plaine-easie-code](https://www.iaml.info/plaine-easie-code)). O incipit deve ter pelo menos dois compassos ou seis notas de comprimento.
 
@@ -162,7 +161,7 @@ O '-' (sinal de menos) é para uma pausa equivalente a uma única nota. Use '=' 
 
 _Exemplo para uma pausa de colcheia:_  
 8-   
-  
+
 _Exemplos para uma pausa de um compasso:_  
 =  
 =1
@@ -187,14 +186,14 @@ Não insira ligaduras de expressão.
 **9. União de bandeirolas**  
 { = início da união de bandeirolas  
 } = fim da união de bandeirolas  
-  
+
 _Exemplo:_  
 {qq6'CDEDr}
 
 **10. Ritmos especiais:**  
 ( = início do ritmo especial  
 ) = fim do ritmo especial  
-   
+
 O valor da duração total do grupo deve ser escrito antes do parêntese de abertura **(**. O valor rítmico da primeira nota deve ser colocado depois do parêntese de abertura **(**, mesmo se é idêntico ao da nota imediatamente anterior à seção do ritmo especial. O número de notas no interior do grupo deve ser indicado antes do parêntese de fechamento **)**. Ele é separado da última nota por um ponto e vírgula **;**.
 
 _Exemplos:_  
@@ -211,7 +210,7 @@ Por favor, não se esqueça do valor rítmico no interior dos parênteses!
 
 **11. Atalhos**  
 **Nota:** Atualmente, a busca pelo OPAC ignora os elementos repetidos descritos em 11.1 e 11.2. Isto significa que quando se utilizam estes atalhos os incipits não serão totalmente recuperáveis pelo OPAC. Até que isto seja corrigido, por favor escreva o incipit integralmente (o atalho 11.3 pode ser utilizado tal como descrito abaixo)  
-  
+
 11.1. Figuras repetidas  
 ! = Início e final de uma passagem a ser repetida  
 f = indicação de repetição  
@@ -227,7 +226,7 @@ i = repetir o último compasso
 _Exemplo:_  
 '4ABAG/i/i/ = o compasso será repetido duas vezes
 
-  
+
 
 11.3. Padrões rítmicos
 
@@ -237,8 +236,8 @@ _Exemplo:_
 Ao invés de **8.A6B8C8.D6E8F** a codificação pode ser **8.68ABCDEF**  
 A sequência rítmica termina assim que um valor rítmico diferente apareça.
 
-   
-**12. Mudança de clave, tonalidade ou compasso:** 
+
+**12. Mudança de clave, tonalidade ou compasso:**
 
 Use **%** para mudar de clave, **$** para mudar a tonalidade ou modo, e **@** para mudar a indicação de compasso. Estes sinais devem ser seguidos da nova indicação (tempo, tonalidade ou clave), seguida por um espaço.
 
@@ -248,31 +247,28 @@ _Exemplos:_
 @3/2 '1C  
 $nBE $xFC
 
- 
+
 
 **13. Abreviaturas**   
 Formas abreviadas de notação encontradas no interior da música, tais como tremolos ou signos similares para repetições, devem ser escritas integralmente usando a notação moderna.   
 _Exemplo:_  
 {'8DDDD} = mínima, tremolo em Ré
 
- 
 
 **14. Acordes**
 
 Insira os acordes da nota mais aguda para a mais grave, separadas por um acento circunflexo ^.  
-   
+
 _Exemplo:_  
 4’’C^’G^E^C
 
-####  
-
-#### **Nota geral (031 $q)** 
+#### Nota geral (031 $q)
 
 Adicione quaisquer comentários, tais como a afinação de instrumentos transpositores, erros no incipit, o texto literário com a grafia e/ou pontuação original, ou quaisquer ajustes que tenha a fazer. Insira utilizando seu idioma de catalogação.
 
- 
 
-#### **Formação instrumental no movimento (031 $z)**
+
+#### Formação instrumental no movimento (031 $z)
 
 Neste campo, pode-se indicar a formação instrumental específica para o movimento particular em questão (tal como um movimento dentro de uma peça vocal complexa). Liste a formação instrumental em uma linha usando as abreviaturas de instrumentos do RISM e na ordem padronizada (descrita em **Síntese da formação instrumental [240 $m]**). Use um ponto e vírgula para separar famílias de instrumentos..
 
