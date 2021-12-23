@@ -52,7 +52,7 @@ You may also indicate single pages or folios within a manuscript collection, suc
 **Extent (parts) (590 $b)**: 4, 4, 4, 4 p.
 
 **Parts held (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
-**Extent (parts) (590 $b)**: ** ** 4, 4, 3, 4, 2 p.
+**Extent (parts) (590 $b)**: 4, 4, 3, 4, 2 p.
 
 **Parts held (590 $a)**: ob 1, 2, cl 1, 2 in B|b  
 **Extent (parts) (590 $b)**: 2, 2, 2, 2 p.
