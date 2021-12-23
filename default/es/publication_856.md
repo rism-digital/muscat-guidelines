@@ -8,7 +8,7 @@ Introduzca la URL completa del recurso externo. Utilice enlaces permanentes siem
 
 Introduzca una breve nota que describa el enlace.
 
-_Ejemplos:_
+##### Examples
 
 - Recurso electrónico
 - Elektronische Ressource
