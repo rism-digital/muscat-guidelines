@@ -1,13 +1,12 @@
-### Other standard identifier (024; RDA registry [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052))
+### Fuente del número o código (024 $2)
+RDA registry [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052)
 
 This field is used to indicate standard identifiers from external agencies.
 
 #### Otro identificador estándar (024)
-
 Enter the alphanumeric code used to identify the work. El código se toma de los datos de autoridad de la agencia creadora.
 
 #### Número o código estándar (024 $a)
-
 Seleccione una de las siguientes opciones:
 
 - **BNE**: Biblioteca Nacional de España
