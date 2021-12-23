@@ -1,14 +1,12 @@
-**Outro idenficador normalizado (024)**   
+### Outro idenficador normalizado (024)   
 Registro RDA [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052)
 
 Este campo é usado para indicar identificadores normalizados obtidos de agências externas.
 
-#### **Número ou código normalizado (024 $a)**
-
+#### Número ou código normalizado (024 $a)
 Insira o código alfanumérico utilizado para identificar a obra. O código é tomado dos dados de autoridade da agência catalogadora que cria o registro.
 
-#### **Fonte do número ou código (024 $2)**
-
+#### Fonte do número ou código (024 $2)
 Selecione entre as seguintes opções:
 
 - **BNE**: Biblioteca Nacional de España

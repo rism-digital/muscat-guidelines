@@ -1,3 +1,4 @@
-#### Nota interna (667 $a) 
+### Nota interna (667) 
 
-Qui puoi inserire note che non sono destinate ad essere mostrate al pubblico. 
+#### Nota interna (667 $a)
+Qui puoi inserire note che non sono destinate ad essere mostrate al pubblico.

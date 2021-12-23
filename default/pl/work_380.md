@@ -1,2 +1,4 @@
-#### **Hasło przedmiotowe (380 $a;** **Rejestr RDA [rdaw:P10](http://www.rdaregistry.info/Elements/w/#P10004)[004](http://www.rdaregistry.info/Elements/w/#P10004)****)**
+### Hasło przedmiotowe (380 $a)
+Rejestr RDA [rdaw:P10004](http://www.rdaregistry.info/Elements/w/#P10004)  
+
 W tym polu należy wprowadzić przedmiotowe słowa kluczowe lub terminy dotyczące gatunków muzycznych. Pole połączono linkiem z indeksem **Tematy.**
