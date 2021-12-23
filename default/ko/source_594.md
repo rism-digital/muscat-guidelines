@@ -33,7 +33,7 @@ List the scoring in the following order:
 
 List parts from the highest to the lowest range. Enter one instrument per line. Add alternative scoring possibilities to the original requirements in square brackets.
 
-_Examples:_
+##### Examples
 
 - S
 - A
@@ -56,7 +56,7 @@ _Examples:_
 
 Indicate the total number of parts here. If a piece includes two parts for the same instrument, enter the single instrument in the field **Scoring** and **2** in the field **Number**.
 
-_Examples:_
+##### Examples
 
 - For a piece with violin 1 and violin 2:  
   vl  
