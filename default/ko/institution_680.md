@@ -8,7 +8,7 @@ Enter additional notes that describe the institution, such as:
 - Online repository: URL of the digital repository of the institution
 - Archival and other holdings (ISDIAH 5.3.7): Enter the names of the fonds and collections. Start each name on a new line. Use the name as used by the holding institution. In the case of personal fonds, it is recommended to add in square brackets the dates of birth and death of the person in question. If there are lists or URLs with the information about the collections or fonds of a specific institution, provide the URL.
 
-_Examples:_
+##### Examples
  - Joachim, Joseph (1831-1907) (Royal College of Music, Library)
  - Andrée-Stenhammararkivet
  - Telemann, Georg Michael
