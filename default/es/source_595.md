@@ -31,7 +31,6 @@ Drei Knaben
 
 Registre los nombres de personajes tal como aparecen en la fuente, en caso de que la ortografía difiera de la forma normalizada registrada anteriormente.
 
-_Ejemplo:_  
-Pappageno
+##### Ejemplo:
 
 - Pappageno
