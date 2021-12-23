@@ -12,7 +12,7 @@ Indique la referencia a la pieza dentro de la serie RISM. Tenga en cuenta que ca
 
 Use **Other** for references to printed editions that were not included in the printed volumes of the A/I and B series.
 
-B/XIII - _Hymnologica Slavica_
+##### Ejemplo:
 
 - Otros
 - 1001100380
