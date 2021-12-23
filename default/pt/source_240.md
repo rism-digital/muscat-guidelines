@@ -22,7 +22,7 @@ Enter the distinctive title in standard spelling as in (1) New Grove, (2) MGG, (
 
 Popular names or nicknames (such as "Eroica" or "Nelson Mass") do not count as standardized titles. Such names are entered in the field **Additional titles (730 $a)**.
 
-_Examples:_
+##### Examples
  - Die Forelle
  - Die Zauberflöte
  - The beggar's opera
@@ -40,14 +40,14 @@ When entering text incipits, use the orthographic rules of each respective langu
 
 Make sure that the text incipit in this field is identical with the text incipit in the field **Text incipit (031 $t)**. With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use the text incipit in its entirety for the text incipit.
 
-_Examples:_
+##### Examples
  - Der Mond ist aufgegangen
  - Gloria [with text incipit: Gloria, in excelsis Deo et in terra pax]
 
 3. **Genre**  
    Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Please consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
 
-_Examples:_
+##### Examples
  - Symphonies
  - Allemandes
 
@@ -57,14 +57,15 @@ _Examples:_
    -Pieces (a generic piece)  
    -Movements (a single movement of an instrumental piece without a tempo indication and of indeterminate character)
 
-_Examples:_
+##### Examples
  - Presto
  - Lento
 
 **Special rules:**
 
-- **Collections**. In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.  
-  _Examples:_    
+- **Collections**. In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.
+
+  ##### Examples
   25 Arias  
   3 Instrumental pieces
 - **Composite volumes**. Enter a number corresponding to the number of items involved plus the word "Items."  
@@ -109,7 +110,7 @@ See “Ecclesiastical modes” for the Western and Byzantine church modes and �
 #### Scoring summary (240 $m)
 
 **Required field** **except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch  
-If you have sketches or collections, enter a scoring summary if it makes sense to do so. **
+If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
 Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each element of the scoring summary with commas. Enter a maximum of four elements. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
 
