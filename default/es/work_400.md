@@ -13,7 +13,7 @@ These fields will be identical with the main Heading (100) above.
 #### Title of work (400 $t)
 Use this field to record title variants, alternatives, nicknames, different spellings, etc. Repeat this field for each variation.
 
-_Ejemplos:_
+##### Examples
 - Why fair maid in ev'ry feature
 - Why fair maid in every feature
 - Verrückte Jane
