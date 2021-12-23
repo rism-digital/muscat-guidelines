@@ -49,9 +49,7 @@ _Ejemplo:_
 
 Ingrese el nombre de la unidad subordinada de la institución.
 
-_Ejemplo_:  
-[http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000  
-](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)Schriftprobe [D-B Am.
+##### Ejemplo:
 
 - I-PEbattisti = Italia, Perugia, Biblioteca privata Renzo Battisti.
 
