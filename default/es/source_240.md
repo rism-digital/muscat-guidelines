@@ -22,7 +22,7 @@ Registre el título distintivo con una ortografía estándar, tal como aparece e
 
 Los nombres o apodos por los cuales se conoce popularmente una obra (tales como “Eroica” o “Misa Nelson”) no cuentan como títulos uniformes. Tales nombres deben ser registrados en el campo **Títulos adicionales** **(730 $a)**.
 
-_Ejemplos:_
+##### Examples
  - _Songs_ (para piezas vocales)
  - _Pieces_ (para piezas genéricas)
  - _Movements_(un único movimiento de una pieza instrumental sin indicación de tempo ni de carácter)
@@ -40,29 +40,31 @@ Al registrar los íncipits literarios, siga las normas de ortografía del idioma
 
 Asegúrese de que el íncipit literario que registra en este campo sea idéntico al ingresado en el campo **Íncipit literario (031 $t)**. En el caso de los textos en latín, utilice el texto que precede a la coma (en la lista de incipits literarios que figura en el apéndice) como título uniforme pero registre el íncipit literario completo en el campo **Íncipit literario.**
 
-_Ejemplos:_
+##### Examples
  - Der Mond ist aufgegangen
  - Gloria, in excelsis Deo et in terra pax]
 
 3. **Género**  
    Utilice el género de la pieza como título uniforme si no cuenta con un título distintivo o un íncipit literario. In most cases, enter the genre in English and in the plural (such as **Operas**). Tenga en cuenta que, para algunos géneros, debe utilizarse un determinado **Descriptor (650)** como Título uniforme (y también como Descriptor). Por favor, remítase al apéndice **Título uniforme – Descriptor** de los _Lineamientos_para mayor información.
 
-_Ejemplos:_
+##### Examples
  - **Extractos** : en casos en los que sólo se cuente con una o varias partes de la obra completa.
  - **Fragmentos** : en casos en los que sólo se cuente con fragmentos de la obra completa.
 
 4. **Indicaciones de tempo**  
    Ingrese la indicación de tempo en caso de que no pueda determinarse el género. Si ninguna de las opciones resulta factible, utilice uno de los siguientes términos:
 
-_Ejemplos:_
+##### Examples
  - Voces solistas
  - Coro
 
 **Special rules:**
 
-- **Collections**. En este caso, el título se formula con un número más el género (en inglés y en plural, a la manera de los descriptores). Ingrese un número arábigo indicando cuántas obras pertenecen a la colección, seguido de un género que sea lo más abarcativo posible.  
-  _Ejemplo:  
-  25 Arias_ 3 Instrumental pieces
+- **Collections**. En este caso, el título se formula con un número más el género (en inglés y en plural, a la manera de los descriptores). Enter an arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.
+
+  ##### Examples
+  25 Arias  
+  3 Instrumental pieces
 - **Volúmenes compuestos**. En este caso, ingrese el número que corresponde a la cantidad de ítems involcurados seguido de la palabra _"Items"_.   
   _Ejemplo:_  
   11 ítems
@@ -80,7 +82,7 @@ También es necesario distinguir los arreglos respecto de las obras independient
 
 #### Declaración de arreglo (240 $o)
 
-Este campo registra aspectos formales especiales del documento que resulten relevantes. Se puede seleccionar entre los siguientes calificadores:
+Este campo registra aspectos formales especiales del documento que resulten relevantes. Ingrese la URI que identifica la institución.
 
 - **Excerpts**: if only one or several sections of the complete work are present
 - **Fragments**: if only fragments of the work are present
@@ -106,7 +108,7 @@ Consulte los apartados “Modos eclesiásticos” –para los modos griegos occi
 #### Tonalidad o modo (240 $r)
 
 **Required field** **except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch  
-If you have sketches or collections, enter a scoring summary if it makes sense to do so. **
+If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
 Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separe cada elemento del resumen con comas. Ingrese un máximo de cuatro elementos. La descripción detallada de la plantilla/orgánico deberá ser registrada en el campo **Plantilla/orgánico total (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
 
@@ -138,11 +140,8 @@ If you have a figured bass, enter the instrument as usual, such as **b**, **bc**
 Omita el resumen de plantilla/orgánico si los medios interpretativos se desconocen o resultan inciertos.
 
 _Ejemplos_:  
-_A, Coro, orch  
-Bariton, pf   
-V (3), strings, bc   
-V (4), Coro, orch, org_  (para una misa)  
-_cl, orch_  (para un concierto de clarinete)
+Praha  
+Milano
  - A, Coro, orch
  - Bariton, pf
  - V (3), strings, bc
