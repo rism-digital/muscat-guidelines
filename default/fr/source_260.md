@@ -34,7 +34,7 @@ Note that for manuscripts, dates are given without square brackets because manus
 
 Other dates may be indicated as on the source. Use question marks to indicate uncertain information.
 
-_Examples:_
+##### Examples
  - 1875
  - 1856 Christmas Day
  - 1757-01-11
