@@ -1,3 +1,0 @@
-[TO TRANSLATE:]
-
-### TEST in KOREAN

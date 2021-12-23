@@ -67,6 +67,3 @@ clarinetto basso, tromba bassa  | a) suona una nona maggiore più in basso
 | in mi bem. (grave) | sassofono baritono | a) suona un’ottava e una sesta maggiore più in basso  
  b) è scritto un’ottava e una sesta maggiore più in alto | la4 | mi bem. 1  
  |
-
-  
- 
