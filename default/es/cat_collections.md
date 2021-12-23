@@ -120,8 +120,8 @@ For the field **Language of text**, enter the language of the source in hand. Si
 El primer descriptor debe ser **Compilations** (Compilaciones) y/o **Pasticcios**. El segundo corresponde al género de la fuente en cuestión. En el caso de los extractos, se puede añadir el género del extracto. Otra opción es **Collaborative compositions** (Composiciones colaborativas).
 
 **Description summary (520)**  
-Use this field to describe in general the nature of the source.  
-_Example_:  
+Use this field to describe in general the nature of the source.
+##### Ejemplo:
 Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
 
 **Título alternativo (730)**  
@@ -241,8 +241,9 @@ Procure siempre catalogar el material impreso en un registro separado, dado que 
 
 Existen dos maneras de catalogar periódicos que contienen música: como colección o como obra individual. En cada caso, el título del periódico, con el número de edición y el año, se registran en el campo **Título adicional (730).**
 
-**Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Los registros de ejemplar se añaden al nivel de la colección. _Ejemplo_:  
-1001097294: Edición de enero (año preciso incierto) de la _Kleine Pianoforte-Bibliothek_, que contiene 5 piezas. Hay un registro madre para la colección y cinco entradas individuales, una para cada pieza.
+**Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Los registros de ejemplar se añaden al nivel de la colección. Individual entries are created for each piece in the issue.
+##### Ejemplo:
+1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. Hay un registro madre para la colección y cinco entradas individuales, una para cada pieza.
 
 **Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context.  
 _Examples_:    
@@ -253,7 +254,7 @@ _Examples_:
 
 RISM también incluye música presente en publicaciones impresas que fueron concebidas como documentos fundamentalmente no musicales. El foco de RISM, no obstante, se ubica sobre la música
 
-_Example_:  
+##### Ejemplo:
 990026614: 3 songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).  
 **Composer/Author (100)**: The composer of the music  
 **Additional Personal Name (700)**: The author of the book, with the indicator **other**  
