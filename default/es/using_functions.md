@@ -10,7 +10,7 @@ El botón de  **Comentarios**  permite ver todos los comentarios agregados a los
 
 **Folders** allow you to see all folders created by Muscat users.
 
-La  **Búsqueda por facetas ** le permite buscar las mismas fuentes pero con más criterios de búsqueda: o bien una búsqueda simple con límites, o bien una búsqueda avanzada con muchos campos disponibles. En caso de que Ud. cuente con los permisos para editar un registro que ve en la búsqueda por facetas, aparecerá un enlace al modo de edición de Muscat para ese registro. De no ser así, puede regresar Muscat haciendo click en  **Catalogar. ** El botón  **Sitio principal ** lo lleva al sitio de la Oficina Central de RISM.
+La  **Búsqueda por facetas ** le permite buscar las mismas fuentes pero con más criterios de búsqueda: o bien una búsqueda simple con límites, o bien una búsqueda avanzada con muchos campos disponibles. En caso de que Ud. cuente con los permisos para editar un registro que ve en la búsqueda por facetas, aparecerá un enlace al modo de edición de Muscat para ese registro. Otherwise, return to Muscat by clicking on **Cataloguing**. ** El botón  **Sitio principal ** lo lleva al sitio de la Oficina Central de RISM.
 
 La página de  **Fuentes**  es la página principal desde la que se accede a los registros bibliográficos para descripciones de fuentes.
 
