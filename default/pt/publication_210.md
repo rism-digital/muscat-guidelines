@@ -17,7 +17,7 @@ Short titles for **general secondary literature** are made up as follows:
 - **Space**
 - **Year** of publication
 
-_Examples:_
+##### Examples
 > Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
 > → DirksenS 2007  
 > Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
@@ -28,8 +28,8 @@ _Examples:_
 > → Aguirre RincónV 2009
 
 
-For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a letter (**a**, **b**, **c**, etc.) is added to the end of the year.  
-_Examples:_
+For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a letter (**a**, **b**, **c**, etc.) is added to the end of the year.
+##### Examples
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
 > → KircherA 2005  
@@ -87,7 +87,7 @@ No year is needed.
 
 A catalog that is published as a part of a larger item, such as an appendix in a book, may be entered as a catalog of works. Such items can also be cited as a **Bibliographic reference (691)**.
 
-_Examples:_
+##### Examples
 
 > A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
 > → BelH  
@@ -113,7 +113,7 @@ _Example:_
 
 Publications that contain the term _thematic catalog_ in their titles are often catalogs of works but may occasionally touch on other topics or not be extensive in their scope. Always double-check. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title like you do for normal literature. In short, anything that isn’t a catalog of works is assigned a literature short title.
 
-_Examples:_
+##### Examples
 
 > Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
 > → PasJ  
