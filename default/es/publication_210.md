@@ -17,7 +17,7 @@ Los títulos breves de **bibliografía secundaria general** se componen de la si
 - **Espacio**
 - Si sólo se conoce un año aproximado de publicación, indique **ca.** (circa) al introducir el editor y el año de publicación en el registro, pero omítalo en el título breve.
 
-_Ejemplos:_
+##### Examples
 > Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
 > → DirksenS 2007  
 > Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
@@ -28,8 +28,8 @@ _Ejemplos:_
 > → Aguirre RincónV 2009
 
 
-For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a letter (**a**, **b**, **c**, etc.) is added to the end of the year.  
-_Examples:_
+For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a letter (**a**, **b**, **c**, etc.) is added to the end of the year.
+##### Examples
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
 > → KircherA 2005  
@@ -87,7 +87,7 @@ Para los títulos breves de enciclopedias o conjuntos bibliográficos conocidos,
 
 Un catálogo publicado como parte de un ítem mayor, como puede ser el apéndice en un libro, puede ser registrado como catálogo de obras. Esos ítems también pueden citarse como **Referencia bibliográfica (691).
 
-_Ejemplos:_
+##### Examples
 
 > A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
 > → BelH  
@@ -113,7 +113,7 @@ _Ejemplo:_
 
 Las publicaciones que contienen el término _catálogo temático_ en sus títulos suelen ser catálogos de obras, pero también pueden tocar ocasionalmente otros temas o no ser amplias en su alcance. Compruébelo siempre dos veces. Si es el primer caso, asígnele un título breve como si se tratara de un catálogo de obras. Si es el segundo caso, póngale un título breve del mismo modo que para la bibliografía normal. En resumen, a todo lo que no sea un catálogo de obras se le asigna un título breve de bibliografía.
 
-_Ejemplos:_
+##### Examples
 
 > Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
 > → PasJ  
