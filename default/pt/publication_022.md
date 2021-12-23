@@ -4,7 +4,7 @@
 
 Enter the International Standard Serial Number (ISSN). The ISSN uniquely identifies serial publications.
 
-_Examples:_
+##### Examples
 
 - 0027-4380
 - 0003-0139
