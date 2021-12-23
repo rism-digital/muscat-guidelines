@@ -25,8 +25,7 @@ vol. 3/1-2; 11/1-2
 
 For a chapter within a collection of essays, enter the page numbers of the chapter:
 
-_Ejemplo:_  
-Pappageno
+##### Ejemplo:
 
 - Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
   _Ejemplo:_  
