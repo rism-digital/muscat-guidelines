@@ -6,7 +6,7 @@ En este campo se especifica qué ítem físico se consultó para la catalogació
 
 Introduzca la sigla del repostorio y la signatura topográfica de la edición impresa consultada. También puede indicar si ha utilizado un ejemplar para sólo una parte del registro, como los incipits o las entradas individuales.
 
-_Ejemplos:_
+##### Examples
 
 - CZ-Nlob X A a 12
 - (incipits:) US-BETm LCM 242
