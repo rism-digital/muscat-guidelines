@@ -1,13 +1,12 @@
+### Powiązana osoba (500)
+
 #### Powiązana osoba (500 $a)
+Pole opisuje związki rodzinne. Należy wpisać nazwę osobową powiązaną z daną osobą. Pole połączono z plikiem autorytatywnym **Nazw osobowych**.
 
-Pole opisuje związki rodzinne. Należy wpisać nazwę osobową powiązaną z daną osobą. Pole połączono z plikiem autorytatywnym **Nazw osobowych**. 
-
-####   
-Typ związku (500 $i)
+#### Typ związku (500 $i)
 Podać rodzaj związku, jaki łączy daną osobę z tą drugą osobą. Na przykład, rekord autorytatywny Clara Schumann będzie zawierał w tej sekcji następujące informacje: Schumann, Felix - matka.  
 
 Można wybierać spośród następujących elementów :
-
 - **brat (czyj)**  
 - **dziecko (czyje)**  
 - **mylony z**  

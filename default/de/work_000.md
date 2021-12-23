@@ -1,5 +1,2 @@
-**Leader** **(000)**  
-
-  
-
+### Leader (000)
 Bitte nicht ändern.

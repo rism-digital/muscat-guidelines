@@ -1,3 +1,5 @@
-#### Instituição associada  (510 $a)
+### Instituição associada  (510)
+Este campo está ligado ao campo **Informação biográfica adicional (678)**.  
 
-Este campo está ligado ao campo **Informação biográfica adicional (678)**.  Se informação biográfica adicional sobre a pessoa em questão é encontrada em uma fonte musical, especialmente em se tratando de informação que não seja facilmente encontrada em outras fontes de referência, a citação da fonte musical é inserida no campo **Informação biográfica adicional (678)** e a sigla da instituição que a possui é inserida aqui. Este campo está ligado ao registro de autoridade **Instituições**.
+#### Instituição associada  (510 $a)
+Se informação biográfica adicional sobre a pessoa em questão é encontrada em uma fonte musical, especialmente em se tratando de informação que não seja facilmente encontrada em outras fontes de referência, a citação da fonte musical é inserida no campo **Informação biográfica adicional (678)** e a sigla da instituição que a possui é inserida aqui. Este campo está ligado ao registro de autoridade **Instituições**.

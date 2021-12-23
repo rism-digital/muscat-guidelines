@@ -1,13 +1,12 @@
-#### **Otro identificador estándar (024; **Registro RDA [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052))
+### Otro identificador estándar (024)
+Registro RDA [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052)
 
 Este campo se utiliza para indicar identificadores estándar de agencias externas.
 
 #### Número o código estándar (024 $a)
-
 Introduzca el código alfanumérico utilizado para identificar la obra. El código se toma de los datos de autoridad de la agencia creadora.
 
-#### **Fuente del número o código (024 $2)**
-
+#### Fuente del número o código (024 $2)
 Seleccione en la siguiente lista la opción que corresponda:
 
 - **BNE**: Biblioteca Nacional de España

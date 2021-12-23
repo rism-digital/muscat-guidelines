@@ -1,15 +1,12 @@
-**Riferimento autorità (024; numero di registro RDA: **[**rdau:P60052**](http://www.rdaregistry.info/Elements/u/#P60052)**)**
+### Riferimento autorità (024)
+Numero di registro RDA: [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052)
 
 Questo campo riporta numeri identificativi creati da agenzie esterne.
 
-  
-
 #### Riferimento autorità (024 $a)
-
 Inserisci il codice alfanumerico usato per identificare l'opera. Il codice è ricavato dalla lista di voci d’autorità dell’agenzia creatrice.
 
 #### Agenzia autorità (024 $2)
-
 Seleziona dai seguenti codici:
 
 - **BNE**: Biblioteca Nacional de España  
@@ -22,4 +19,4 @@ Seleziona dai seguenti codici:
 - **NKC**: Národní knihovna České republiky
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
-- **WKP**: Wikidata (Wikipedia) 
+- **WKP**: Wikidata (Wikipedia)

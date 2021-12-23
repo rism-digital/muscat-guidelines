@@ -1,5 +1,3 @@
-Schlagworteintragung
+### Schlagworteintragung
 
-  
-
-Sachschlagwort (380 $a)
+#### Sachschlagwort (380 $a)

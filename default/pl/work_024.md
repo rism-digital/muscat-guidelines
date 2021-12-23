@@ -1,18 +1,12 @@
-**Inny standardowy identyfikator (024)**   
+### Inny standardowy identyfikator (024)   
 Rejestr RDA [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052)
 
 Pole wyświetla standardowe identyfikatory pochodzące z zewnętrznych instytucji.
 
-  
-
-#### **Standardowy numer lub kod (024 $a)**
-
+#### Standardowy numer lub kod (024 $a)
 Wprowadzić alfanumeryczny kod stosowany do identyfikacji dzieła. Kod pobiera się z pliku autorytatywnego instytucji tworzącej rekordy.
 
- 
-
-#### **Źródło numeru lub kodu (024 $2)**
-
+#### Źródło numeru lub kodu (024 $2)
 Wybrać spośród poniższych:
 
 - **BNE**: Biblioteca Nacional de España

@@ -1,8 +1,7 @@
-#### Katalogisierungsquelle (040)
-
+### Katalogisierungsquelle (040)
 **Bitte nicht ändern.**
 
-Voreingestellter Wert ist der ISIL-Code des RISM "DE-633", siehe [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633). 
+Voreingestellter Wert ist der ISIL-Code des RISM "DE-633", siehe [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633).
 
 Die Staatsbibliothek zu Berlin – Preußischer Kulturbesitz ist verantwortlich für die Vergabe der Codes in Deutschland.
 

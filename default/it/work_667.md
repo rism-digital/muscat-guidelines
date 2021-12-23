@@ -1,3 +1,2 @@
-**Nota interna (667 $a)**
-
-#### Inserisci commenti a uso interno, compresi commenti destinati a colleghi del tuo stesso ufficio nazionale. Puoi usare qualsiasi lingua. Non saranno pubblicati nell’OPAC. I commenti interni possono essere usati per note di ogni tipo: domande, commenti o ricerche da fare. Elimina le note che non sono più attuali. È miglior pratica firmare i commenti usando le tue iniziali e la data.
+### Nota interna (667 $a)
+Inserisci commenti a uso interno, compresi commenti destinati a colleghi del tuo stesso ufficio nazionale. Puoi usare qualsiasi lingua. Non saranno pubblicati nell’OPAC. I commenti interni possono essere usati per note di ogni tipo: domande, commenti o ricerche da fare. Elimina le note che non sono più attuali. È miglior pratica firmare i commenti usando le tue iniziali e la data.

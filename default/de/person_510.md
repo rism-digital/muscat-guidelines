@@ -1,3 +1,4 @@
-#### Zugehörige Sigel (510 $a)
+### Zugehörige Sigel (510)
 
+#### Zugehörige Sigel (510 $a)
 Das Feld ist mit der Normdatei **Institutionen** verknüpft. Nicht vorhandene Institutionen müssen ergänzt werden.
