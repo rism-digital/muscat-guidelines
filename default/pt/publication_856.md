@@ -8,7 +8,7 @@ Enter the full URL of the external resource. Use permalinks whenever possible.
 
 Enter a brief note that describes the link.
 
-_Examples:_
+##### Examples
 
 - Electronic resource
 - Elektronische Ressource
