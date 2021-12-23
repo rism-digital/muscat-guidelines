@@ -34,7 +34,7 @@ Note that for manuscripts, dates are given without square brackets because manus
 
 Se pueden indicar otras fechas que aparecen en la fuente. Utilice signos de interrogación para señalar información que resulte incierta.
 
-_Ejemplos:_
+##### Examples
  - 1875
  - 1856 Christmas Day
  - 1757-01-11
