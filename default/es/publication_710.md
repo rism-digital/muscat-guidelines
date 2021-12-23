@@ -6,7 +6,7 @@ Introduzca el nombre de una institución adicional que esté relacionada con el 
 - **Editor**: Use especially if the item has an institution as an author rather than people.
 - **Otra función**
 
-_Ejemplos:_
+##### Examples
 
 - Sing-Akademie zu Berlin
 - Historische Sektion der Bayerischen Benediktinerakademie
