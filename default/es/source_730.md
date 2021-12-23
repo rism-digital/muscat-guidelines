@@ -48,7 +48,7 @@ Título uniforme_: Consola amato bene_
 Título uniforme: _Una cosa rara_ [más  **Inserciones** en el campo**Tipo especial de fuente (730 $k)**]
 
 Este campo también puede utilizarse para títulos de periódicos o series.  
-_Ejemplos:_  
+##### Ejemplos  
 _Oeuvres Complets de Piano_  
 _Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten_  
 _Nouveau Mercure galant, mai 1679_  

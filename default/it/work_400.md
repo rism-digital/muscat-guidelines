@@ -13,7 +13,7 @@ Riempi i campi come sopra nell'intestazione principale (100).
 #### Titolo dell'opera (400 $t)
 Usa questo campo per riportare varianti del titolo, titoli alternativi, nomi popolari, ortografie aggiuntive, ecc. Ripeti il campo per ciascuna variante.
 
-_Esempi:_  
+##### Esempi  
 Why fair maid in ev'ry feature  
 Why fair maid in every feature  
 Verrückte Jane  

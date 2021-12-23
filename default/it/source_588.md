@@ -4,7 +4,7 @@ Questo campo specifica la copia fisica consultata per catalogare un'edizione mus
 
 Inserisci la sigla della biblioteca e la collocazione dell’edizione a stampa consultata. Puoi anche indicare se hai utilizzato una specifica copia soltanto per una parte della scheda, ad esempio per gli incipit o per le schede individuali.
 
-_Esempi:_
+##### Esempi
 
 - CZ-Nlob X A a 12
 - (incipits:) US-BETm LCM 242

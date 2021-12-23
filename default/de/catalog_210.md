@@ -26,7 +26,7 @@ Bekannte Lexika oder Reihen werden mit den allgemein gebräuchlichen Abkürzunge
 
  
   
-_Beispiele:_  
+##### Beispiele  
 
 Pieter Dirksen: Heinrich Scheidemann's Keyboard Music.Transmission, Style and Chronology, Aldershot 2007
 
@@ -58,7 +58,7 @@ Abkürzungen, die in Werkverzeichnissen benutzt werden und nicht zu Verwechlsung
 
   
   
-_Beispiele:_  
+##### Beispiele  
 
 Walter Knape: Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787), Cuxhaven 1971 
 

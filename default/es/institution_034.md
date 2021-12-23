@@ -4,7 +4,7 @@ Introduzca las coordenadas (latitud y longitud) de la institución en este campo
 
   
 
-_Ejemplos:_
+##### Ejemplos
 
 Longitud: -87.6735541
 

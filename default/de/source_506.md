@@ -2,6 +2,6 @@
 
 Hier werden Benutzungsbestimmungen der entsprechenden Institution in einer der Katalogisierungssprachen eingetragen.
 
-_Beispiele:_  
+##### Beispiele  
 Konsultation nur im Lesesaal.  
 Reproduktionen nur auf Anfrage (ggfl. gegen Gebühr).

@@ -8,7 +8,7 @@ records).
 Enter the library siglum and shelfmark of the printed edition consulted. You can also indicate if you used a copy for
 only a portion of the record, such as incipits or individual entries.
 
-_Examples:_
+##### Examples
 
 - CZ-Nlob X A a 12
 - (incipits:) US-BETm LCM 242

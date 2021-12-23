@@ -11,7 +11,7 @@ O número de incipit consiste de três dígitos, os quais representam obra, movi
 
 Numere os incipits consecutivamente, mesmo se movimentos estiverem faltando na fonte. Por exemplo, se a fonte é uma sinfonia de três movimentos, mas o movimento intermediário está faltando, os incipits deverão ser numerados 1.1.1 e 1.2.1 (e não 1.3.1). (Nota: Os pontos entre os números são automaticamente adicionados pelo Muscat.)
 
-_Exemplos:_  
+##### Exemplos  
 1.1.1 = 1ª obra, 1º movimento, 1º incipit  
 1.1.2 = 1ª obra, 1º movimento, 2º incipit (soa ao mesmo tempo que 1.1.1)  
 1.1.2 = 1ª obra, 1º movimento, entrada da parte vocal  
@@ -72,7 +72,7 @@ Selecione a tonalidade ou modo na lista.
 
 Insira **x** para tonalidades em sustenido ou **b** para tonalidades em bemóis, seguidas de letras maiúsculas das notas a serem alteradas para cima ou para baixo. Se uma peça está claramente em uma certa tonalidade mas um sustenido ou bemol não está na armadura de clave, os sustenidos ou bemóis omitidos podem ser adicionados entre colchetes. Se não há armadura de clave, deixe o campo em branco.
 
-_Exemplos:_  
+##### Exemplos  
 xF = Fá sustenido = Sol maior ou Mi menor  
 bBE = Si e Mi bemóis = Si bemol maior ou Sol menor  
 xFC[G] = Fá e Dó são sustenidos na fonte, mas a peça é claramente em Lá maior, então o último sustenido é adicionado entre colchetes
@@ -94,7 +94,7 @@ c.** = tempus imperfectum cum prolatione perfecta
 
 Se o metro muda constantemente, pode-se escrever a primeira fórmula de compasso seguida pela segunda, separada por um espaço. Se o incipit está sem indicação de compasso, deixe este campo em branco.
 
-_Exemplos:_  
+##### Exemplos  
 4/4  
 6/8  
 3/4 4/4
@@ -197,7 +197,7 @@ _Exemplo:_
    
 O valor da duração total do grupo deve ser escrito antes do parêntese de abertura **(**. O valor rítmico da primeira nota deve ser colocado depois do parêntese de abertura **(**, mesmo se é idêntico ao da nota imediatamente anterior à seção do ritmo especial. O número de notas no interior do grupo deve ser indicado antes do parêntese de fechamento **)**. Ele é separado da última nota por um ponto e vírgula **;**.
 
-_Exemplos:_  
+##### Exemplos  
 8(3ABCDE;5)   = quiáltera de cinco, com cinco fusas, no espaço de uma colcheia  
 8({3ABCDE};5) = quiáltera de cinco, com cinco fusas, no espaço de uma colcheia, bandeirolas unidas  
 
@@ -242,7 +242,7 @@ A sequência rítmica termina assim que um valor rítmico diferente apareça.
 
 Use **%** para mudar de clave, **$** para mudar a tonalidade ou modo, e **@** para mudar a indicação de compasso. Estes sinais devem ser seguidos da nova indicação (tempo, tonalidade ou clave), seguida por um espaço.
 
-_Exemplos:_  
+##### Exemplos  
 %C-1 '2A  
 %C-1 $xFC '8B  
 @3/2 '1C  
@@ -276,6 +276,6 @@ Adicione quaisquer comentários, tais como a afinação de instrumentos transpos
 
 Neste campo, pode-se indicar a formação instrumental específica para o movimento particular em questão (tal como um movimento dentro de uma peça vocal complexa). Liste a formação instrumental em uma linha usando as abreviaturas de instrumentos do RISM e na ordem padronizada (descrita em **Síntese da formação instrumental [240 $m]**). Use um ponto e vírgula para separar famílias de instrumentos..
 
-_Exemplos:_   
+##### Exemplos   
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  
 S 2 solo; Coro; ob obl; strings, bc

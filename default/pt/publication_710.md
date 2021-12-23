@@ -7,6 +7,6 @@ Use somente estas duas funções:
 - **Editor:** Use especialmente se o item tem uma instituição como autor ao invés de pessoas.
 - **Outra função**
 
-_Exemplos:_  
+##### Exemplos  
 Sing-Akademie zu Berlin   
 Historische Sektion der Bayerischen Benediktinerakademie

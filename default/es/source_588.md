@@ -8,7 +8,7 @@ Introduzca la sigla del repostorio y la signatura topográfica de la edición im
 
   
 
-_Ejemplos:_
+##### Ejemplos
 
 - CZ-Nlob X A a 12
 - (incipits:) US-BETm LCM 242

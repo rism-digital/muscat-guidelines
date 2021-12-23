@@ -14,5 +14,5 @@ _Beispiele_:
 vol. 3/1-2; 11/1-2  
   
 Bei Aufsätzen in einem Sammelband werden hier die Seitenzahlen genannt:  
-_Beispiel_:  
+##### Beispiel:  
 p. 76-109

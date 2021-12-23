@@ -2,6 +2,6 @@
 
 Puoi inserire qui le condizioni dell’istituzione proprietaria della fonte. Inserisci i dati usando la tua lingua di catalogazione. 
 
-_Esempi:_  
+##### Esempi  
 Consultazione nella sala di lettura.  
 Riproduzioni su richiesta (secondo i casi a pagamento).

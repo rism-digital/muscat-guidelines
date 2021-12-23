@@ -14,7 +14,7 @@ Estos campos serán idénticos al Encabezado (100) principal que se encuentra ar
 #### Título de la obra (400 $t)
 Utilice este campo para registrar variantes del título, alternativas, sobrenombres, diferentes ortografías, etc. Repita este campo para cada variación.
 
-_Ejemplos:_  
+##### Ejemplos  
 Why fair maid in ev'ry feature  
 Why fair maid in every feature  
 Verrückte Jane  

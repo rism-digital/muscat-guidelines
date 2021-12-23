@@ -15,7 +15,7 @@ Questo campo è obbligatorio se si inserisce un collegamento internet.
 
 Inserisci una breve nota spiegando perché il collegamento è rilevante per la fonte descritta. Inserisci utilizzando la tua lingua di catalogazione.
 
-_Esempi:_  
+##### Esempi  
 Copia digitale  
 Filigrana a p. 4  
 Homepage del progetto  

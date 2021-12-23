@@ -48,7 +48,7 @@ Generalbass
 
 Genannt werden die Stimmen jeweils von der höchsten zur tiefsten Stimmlage, möglichst jeweils eine Stimmbezeichnung pro Zeile. Alternativbesetzungen werden in Klammern der originalen Besetzung angehängt.
 
-_Beispiele:_  
+##### Beispiele  
 S  
 A  
 T  
@@ -72,7 +72,7 @@ org
 
 Hier wird die Anzahl der jeweiligen Stimmen angegeben. Sind zwei Stimmen des gleichen Instruments beteiligt, erfolgt die Bezeichnung im Feld **Besetzung** und hier im Feld **Anzahl** die Angabe  **2**.
 
-_Beispiele:_  
+##### Beispiele  
 vl         2 [für ein Werk mit Violine 1 und Violine 2]  
 vla        1 [nur 1 Violastimme]  
 ob        2 [Oboe 1 und Oboe 2]  

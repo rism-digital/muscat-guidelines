@@ -38,7 +38,7 @@ Dirigierstimmen werden als **conductor part** im Feld **Vorhandenes Stimmenmater
   
 **Umfang:** Durch Doppelpunkt getrennt folgen die Paginierungsabkürzungen: „f.“ für folio (Folio), „p.“ für pagina (Seite), „lvs.“ für leaves (Papierbogen) und „fds.“ für folds (Lagen). Bei Einzeleinträgen von Collections/Konvoluten wird die genaue Seitenzahl, auf welchen sich das entsprechende Werk befindet, angegeben, wobei der Indikator „p.“ bzw. „f.“ bzw. „lvs.“ bzw. „fds.“ vorangestellt wird.
 
-_Beispiele:_  
+##### Beispiele  
 1 score: 35 p.  
 1 short score: 8 f.  
 1 tablature score: p. 5-8  

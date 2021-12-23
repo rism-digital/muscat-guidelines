@@ -12,7 +12,7 @@ Geben Sie das Bibliothekssigel der besitzenden Institution an. Dieses Feld ist m
 
 Genaue Standortangabe bei großen Bibliotheken. Geben Sie die Bezeichnung in der Landessprache ein. In Klammern kann eine Übersetzung in einer der Katalogisierungssprachen gegeben werden. 
 
-_Beispiele:_  
+##### Beispiele  
 Musikabteilung  
  Music Department   
 Collezioni speciali  
@@ -22,7 +22,7 @@ Zakład Zbiorów Muzycznych [Music department]
 
 Vorgesehen für Nachlässe, geschlossene Provenienzen und Sammlungen o.ä.. Geben Sie die Bezeichnung in der Landessprache ein. In Klammern kann eine Übersetzung in einer der Katalogisierungssprachen gegeben werden.
 
-_Beispiel_:  
+##### Beispiel:  
 Sammlung Hanns J. Eller
 
 Achtung: Geben Sie Provenienzvermerke im Feld **Herkunft der Quelle (561)** ein.
@@ -31,7 +31,7 @@ Achtung: Geben Sie Provenienzvermerke im Feld **Herkunft der Quelle (561)** ein.
 
 Dieses Feld steht nur im Exemplareintrag für Musikdrucke zur Verfügung. Ist Ihr Exemplar unvollständig, geben Sie hier die vorhandenen Stimmen (mit RISM-Abbkürzungen) oder Bände an. Ist Ihr Exemplar unvollständig, können Sie hier **komplett** schreiben. Vollständigkeit bezieht sich hier auf das Vorhandensein aller erwarteten Stimmen oder Bände. Wenn beispielsweise einzelne Seiten fehlen, geben Sie dies in einer Bemerkung an.
 
-_Beispiele:_  
+##### Beispiele  
 vl only  
 Coro S, A, B only  
 vol. 1, 3 only  
@@ -42,7 +42,7 @@ complete
 
 In dieses Feld wird die Signatur eingetragen. Die Signatur ist möglichst genau wiederzugeben (betrifft Leer- und Interpunktionszeichen). Hochstellungen werden mit **|** (Vertikalstrich) direkt vor dem entsprechenden Zeichen angegeben. Innerhalb eines Bestandes sollen die Signaturen formal einheitlich geschrieben werden. Wenn keine Signatur angegeben ist, erfolgt die Eingabe **[without shelfmark]**. Weitere Signaturen werden im Feld **Weitere Signatur (591)** eingetragen.
 
-_Beispiele:_  
+##### Beispiele  
 Ms Mus 165/6  
 Mus.ms. 743  
 Th.mus.A 5  

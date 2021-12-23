@@ -5,7 +5,7 @@ Enter references to the liturgical use of the composition in this field. This in
 celebrations, seasons, days, and other religious holidays. The field is linked to the index **Liturgical festivals**. If
 you need a liturgical festival that isn't yet in the file, please contact the RISM Editorial Center.
 
-_Examples:_
+##### Examples
 
 - Nativitas Domini
 - Mariae (B.V.) Visitatio

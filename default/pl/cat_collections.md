@@ -89,7 +89,7 @@ _1001097294:_ Styczniowy numer (dokładny rok nie jest określony) _Kleine Piano
   
 **Pojedyncze dzieła**: kiedy źródło muzyczne stanowi wkładkę lub dodatek do periodyku.   
 Często takie źródła zachowane są w oderwaniu od oryginalnego kontekstu publikacji.      
-_Przykłady:_  
+##### Przykłady  
 991018149: „The Pantheon” opublikowane w The Lady's Magazine, sierpień 1784
 
 990042111: „L'amour folâtrant l'autre jour” opublikowane w Nouveau Mercure galant, maj 1679  

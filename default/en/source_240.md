@@ -27,7 +27,7 @@ reference books. Do not omit initial articles (the, a, an, der, die, le, l', etc
 Popular names or nicknames (such as "Eroica" or "Nelson Mass") do not count as standardized titles. Such names are
 entered in the field **Additional titles (730 $a)**.
 
-_Examples:_  
+##### Examples  
  - Die Forelle  
  - Die Zauberflöte  
  - The beggar's opera
@@ -54,7 +54,7 @@ Make sure that the text incipit in this field is identical with the text incipit
 With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use
 the text incipit in its entirety for the text incipit.
 
-_Examples:_  
+##### Examples  
  - Der Mond ist aufgegangen  
  - Gloria [with text incipit: Gloria, in excelsis Deo et in terra pax]
 
@@ -64,7 +64,7 @@ _Examples:_
    corresponding **Subject heading (650)** is used. Please consult the appendix **Standardized title – Subject heading**
    in the **Guidelines** for assistance.
 
-_Examples:_  
+##### Examples  
  - Symphonies  
  - Allemandes
 
@@ -75,7 +75,7 @@ _Examples:_
    -Pieces (a generic piece)  
    -Movements (a single movement of an instrumental piece without a tempo indication and of indeterminate character)
 
-_Examples:_  
+##### Examples  
  - Presto  
  - Lento
 
@@ -83,7 +83,7 @@ _Examples:_
 
 - **Collections**. In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many
   works belong to the collection, followed by a genre that is as comprehensive as possible.  
-  _Examples:_    
+  ##### Examples    
   25 Arias  
   3 Instrumental pieces
 - **Composite volumes**. Enter a number corresponding to the number of items involved plus the word "Items."  

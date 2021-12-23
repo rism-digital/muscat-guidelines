@@ -113,7 +113,7 @@ Enter **x** for sharp keys or **b** for flat keys, followed by capital letters o
 If a piece is clearly in a certain key but a sharp or flat is not in the key signature, the missing sharps or flats may
 be added in square brackets. If there is no key signature, leave the field blank.
 
-_Examples:_
+##### Examples
 
 - xF = F is sharp = G major or E minor
 - bBE = B and E are flat = B-flat major or G minor
@@ -251,7 +251,7 @@ The total duration value of the group must be written before the **(**. The rhyt
 given after **(**, even if it is identical with that of the note immediately before the section of special rhythm. The
 number of notes in the group must be indicated before **)**. It is separated from the last note by **;**.
 
-_Examples:_
+##### Examples
 
 - 8(3ABCDE;5)   = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note.
 - 8({3ABCDE};5) = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note, beamed
@@ -302,7 +302,7 @@ _Example:_
 Use **%** to change the clef, **$** to change the key, and **@** to change the time signature. Follow this with the new
 indication (clef, key, or time), followed by a space.
 
-_Examples:_
+##### Examples
 
 - %C-1 '2A
 - %C-1 $xFC '8B
@@ -314,7 +314,7 @@ _Examples:_
 Abbreviated forms of notation found within the music, such as tremolos or simile signs for repeats, must be written out
 in full using the actual notation.
 
-_Examples:_
+##### Examples
 
 - {'8DDDD} = minim/ half tremolo on D
 
@@ -337,7 +337,7 @@ In this field, you can indicate the specific scoring for the particular movement
 a complex vocal piece). List the scoring on one line using RISM instrument abbreviations and in the standard order (
 described in **Scoring summary [240 $m]**). Use a semicolon to separate instrument families.
 
-_Examples:_
+##### Examples
 
 - S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]
 - S 2 solo; Coro; ob obl; strings, bc

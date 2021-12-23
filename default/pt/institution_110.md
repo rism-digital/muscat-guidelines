@@ -40,7 +40,7 @@ F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musi
 
 No caso de coleções privadas, o último nome do proprietário é adicionado ao código de cidade em letras minúsculas.
 
-_Exemplo_:  
+##### Exemplo:  
 I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti.
 
 O RISM usa siglas de instituições desde sua fundação em 1952 em todas as suas publicações e catálogos. Elas são também utilizadas em todas enciclopédias musicais internacionais padrão e em publicações musicológicas.

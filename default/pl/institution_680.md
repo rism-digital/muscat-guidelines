@@ -6,7 +6,7 @@ Wprowadzić dodatkowe uwagi opisujące daną instytucję, takie jak:
 - Klasyfikacja kolekcji, np. „Kolekcja w GB-Lbl”
 - Repozytorium online: URL repozytorium cyfrowego instytucji.  
 - Zbiory archiwalne i inne (ISDIAH 5.3.7): Wprowadzić nazwy zespołów archiwalnych i  kolekcji. Każdą nazwę należy rozpoczynać od nowego wiersza. Użyć nazwy używanej przez instytucję przechowującą. W przypadku zespołów osobowych, zaleca się dodanie w nawiasie dat urodzenia i śmierci danej osoby.  Jeśli istnieją listy lub adresy URL z informacjami o zbiorach lub zespołach archiwalnych danej instytucji, należy podać adres URL.   
-_Przykłady:_  
+##### Przykłady  
   Joachim, Joseph (1831-1907) (Royal College of Music, Library)  
   Andrée-Stenhammararkivet  
   Telemann, Georg Michael  

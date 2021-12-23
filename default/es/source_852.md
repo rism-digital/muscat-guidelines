@@ -23,7 +23,7 @@ Este campo puede usarse para registrar el nombre de una colección especial, com
 
 Complete el campo con el idioma local. Puede incluir una traducción a su idioma de catalogación entre corchetes.
 
-_Ejemplo_:  
+##### Ejemplo:  
 Sammlung Hanns J. Eller
 
 Nota: señale las marcas del propietario en el campo **Nota de procedencia (561)**.
@@ -46,7 +46,7 @@ complete
 
 Ingrese la signatura topográfica (llamada también “número de clasificación”) en este campo. Transcríbala tan precisamente como sea posible, incluyendo los espacios y la puntuación. Ingrese las signaturas de un modo consistente dentro de una misma colección de un repositorio dado. Indique caracteres en superíndice con | (barra vertical). Si no cuenta con una signatura presente, ingrese **[without shelfmark]** (sin signatura, en inglés). Registre signaturas adicionales en el campo **Otras signaturas (591).**
 
-_Ejemplos:_  
+##### Ejemplos  
 Ms Mus 165/6  
 Mus.ms. 743  
 Th.mus.A 5  

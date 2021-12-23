@@ -28,7 +28,7 @@ Seleccione uno de los siguientes tipos:
 
 Introduzca el tipo de jurisdicción asociada a la institución.
 
-_Ejemplos:_
+##### Ejemplos
 
 Condado
 

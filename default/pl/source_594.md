@@ -61,7 +61,7 @@ Basso continuo
 
 Partie podawać w kolejności od najwyższego do najniższego zakresu. W jednej linii należy podawać tylko jeden instrument. Alternatywne możliwości obsadowe w stosunku do wymagań oryginalnych należy podawać w nawiasach. 
 
-_Przykłady:_
+##### Przykłady
 
 S  
 A  
@@ -86,7 +86,7 @@ org
 
 Tutaj należy podać łączną liczbę głosów. Jeżeli utwór zawiera dwa głosy na ten sam instrument, należy w polu **Obsada** wpisać jeden instrument i liczbę 2 w polu **Liczba**.
 
- _Przykłady:_  
+ ##### Przykłady  
 vl         2 [dla utworu na skrzypce 1 i skrzypce 2]  
 vla        1 [tylko 1 partia na altówkę]  
 ob        2 [obój 1 i obój 2]  

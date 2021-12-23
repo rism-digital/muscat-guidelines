@@ -15,7 +15,7 @@ some have individual numbers while others require page numbers.
 
 Use **Other** for references to printed editions that were not included in the printed volumes of the A/I and B series.
 
-_Example_:
+##### Example:
 
 - Other
 - 1001100380

@@ -31,7 +31,7 @@ _Ejemplo:
 [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)_  
 
 - **Manifiesto IIIF**: el objeto vinculado es un objeto JSON legible por máquina, procesado con un visor de documentos interno como diva.js. El documento aparece incrustado directamente en la página web. En muchos casos, el link mismo incluye partículas como "manifest," "iiif" u otras similares.  
-_Ejemplo_:   
+##### Ejemplo:   
 *[https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)*  
   
 En casos en los que haya enlaces disponibles tanto a un visor externo como a un manifiesto IIIF, repita el campo y consigne ambos enlaces por separado.  

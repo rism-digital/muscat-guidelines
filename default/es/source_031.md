@@ -26,7 +26,7 @@ Registre el título del movimiento y el tempo –o indicaciones similares–, si
 
 Registre la parte vocal o instrumental correspondiente al íncipit siguiendo la lista de **abreviaturas de instrumentos de RISM**. Use **V** para una parte vocal desconocida e **i** para una parte instrumental desconocida. En el caso de los instrumentos transpositores, transcriba el fragmento en altura real. Indique la afinación del instrumento en el campo **Nota general**.
 
-_Ejemplos:_  
+##### Ejemplos  
 pf  
 T coro  
 org with text

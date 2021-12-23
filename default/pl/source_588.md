@@ -6,7 +6,7 @@ W tym polu podaje się, z którego konkretnie egzemplarza korzystano, aby skatal
 
 Podać siglum biblioteki i sygnaturę użytej edycji drukowanej. Można podać, czy skorzystano z danego egzemplarza jedynie po to, aby stworzyć lub uzupełnić fragment rekordu.
 
-_Przykłady:_
+##### Przykłady
 
 - CZ-Nlob X A a 12
 - (incipity:) US-BETm LCM 242

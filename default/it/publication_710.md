@@ -5,6 +5,6 @@ Inserisci il nome di un’istituzione aggiuntiva correlata all’oggetto. Non ri
 
 - **Editor**: curatore: utilizza in particolare se l’oggetto ha come autore un’istituzione piuttosto che una persona.
 - **Other function**: altra funzione
-_Esempi:_  
+##### Esempi  
 Sing-Akademie zu Berlin   
 Historische Sektion der Bayerischen Benediktinerakademie

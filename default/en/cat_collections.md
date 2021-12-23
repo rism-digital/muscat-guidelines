@@ -120,7 +120,7 @@ The first subject heading should be **Compilations** and/or **Pasticcios**. The 
 
 **Description summary (520)**  
 Use this field to describe in general the nature of the source.  
-_Example_:  
+##### Example:  
 Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
 
 **Alternate title (730)**  
@@ -240,7 +240,7 @@ Always strive to catalog the printed material in a separate record, because it i
 There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.
 
 **Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.  
-_Example_:  
+##### Example:  
 1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. There is one record for the collection parent record, and five individual entries for each piece.
 
 **Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context.  
@@ -252,7 +252,7 @@ _Examples_:
 
 RISM includes music found in printed publications that are not primarily music documents. The focus of the RISM record is nevertheless the music.  
 
-_Example_:  
+##### Example:  
 990026614: 3 songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).  
 **Composer/Author (100)**: The composer of the music  
 **Additional Personal Name (700)**: The author of the book, with the indicator **other**  

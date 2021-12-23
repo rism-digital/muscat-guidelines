@@ -28,7 +28,7 @@ Bei den Handschriften sollte möglichst immer eine (annähernde) Datierung gemac
 
 Daten können in einer der Katalogisierungssprachen durch folgende Begriffe ergänzt werden: **ca.** (für circa) **, nach, vor.** Mit Fragezeichen wird die Fragwürdigkeit einer Angabe angezeigt. Das Entstehungsjahr sollte möglichst exakt angegeben werden. Bei Unsicherheit können auch größere Zeiträume gewählt werden.
 
-_Beispiele:_  
+##### Beispiele  
 1875  
 1856 Weihnachten  
 1757-01-11  

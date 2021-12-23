@@ -38,7 +38,7 @@ Należy zwrócić uwagę na fakt, że w przypadku rękopisów daty podaje się b
 
 Inne daty można wprowadzać takie, jakie podano w źródle. Informacje niepewne należy oznaczyć znakami zapytania.
 
-_Przykłady:_  
+##### Przykłady  
 1875  
 Boże Narodzenie 1856   
 1757-01-11  

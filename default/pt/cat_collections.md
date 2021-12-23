@@ -110,7 +110,7 @@ Há duas maneiras de catalogar periódicos que contêm música: como uma coletâ
   
 
 Catalogar como **coletâneas** pode ser apropriado quando o periódico consiste de música no todo ou em sua maior parte e foi preservado integralmente. O material é associado ao nível de coletânea. Entradas individuais são criadas para cada peça no volume.  
-_Exemplo_:  
+##### Exemplo:  
 1001097294: Edição de Janeiro (ano preciso desconhecido) do Kleine Pianoforte-Bibliothek, contendo 5 peças. Há um registro para o registro principal da coletânea e cinco registros individuais para cada peça.   
 
   
@@ -126,7 +126,7 @@ O RISM inclui música encontrada em publicações impressas que não são essenc
 
   
 
-_Exemplo_:   
+##### Exemplo:   
 990026614: 3 canções de John Isaac Hawkins que foram publicadas no Discourse introductory to a course of lectures on the science of nature (1800), de Charles Willson Peale.  
 **Compositor/Autor (100)**: O compositor da música  
 **Nome de Pessoa Adicional (700)**: O autor do livro, com o indicador other  

@@ -61,7 +61,7 @@ Basso continuo [Baixo continuo]
 
 Liste as partes da mais aguda para a mais grave. Entre com um instrumento por linha. Adicione possibilidades alternativas à formação instrumental original entre parênteses.
 
-_Exemplos:_
+##### Exemplos
 
 S  
 A  

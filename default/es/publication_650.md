@@ -4,7 +4,7 @@ Introduzca un descriptor o una palabra clave que ayude a describir los contenido
 
 Las ubicaciones geográficas se ingresan en el campo **Lugar relacionado (651).**
 
-_Ejemplos:_  
+##### Ejemplos  
 
 Instruments   
 Madrigals   

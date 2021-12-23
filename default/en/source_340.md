@@ -28,7 +28,7 @@ Any additions or comments about the printing technique may be explained in the f
 If a source includes multiple printing techniques, you may repeat the field to indicate each technique. Include a note
 in the field **General note (500 $a)** to explain.
 
-_Example_:
+##### Example:
 
 Engraved music that has a lithographed title page:
 

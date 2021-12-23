@@ -16,7 +16,7 @@ _Solitamente il nome del compositore o il luogo, altrimenti seleziona un'altra p
 - **Spazio**
 - **Anno** di pubblicazione
 
-_Esempi:_
+##### Esempi
 
 > Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
 >             → DirksenS 2007  
@@ -30,7 +30,7 @@ _Esempi:_
   
 Per autori o curatori che pubblicano più articoli sullo stesso compositore o più opere dello stesso compositore, si aggiunge una lettera (**a**, **b**, **c** ecc.) dopo l'anno.  
   
-_Esempi:_  
+##### Esempi  
   
 
 > Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
@@ -96,7 +96,7 @@ Non è necessario indicare l'anno.
 
 Un catalogo pubblicato come parte di un'opera di più ampio respiro, come un'appendice in un libro, può essere inserito come un catalogo di opere. Simili oggetti possono anche essere citati fra i  **Riferimenti bibliografici**  **(691****)**. 
 
-_Esempi:_
+##### Esempi
 
 > A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
 >             → BelH  
@@ -109,7 +109,7 @@ _Esempi:_
 
 Utilizza le abbreviazioni correnti, se esistono (BWV, KV, Hob. ecc.). Puoi anche usare l'abbreviazione usata nel catalogo stesso se non porta a confusione.    
   
-_Esempi:_  
+##### Esempi  
 
 > Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
 >            → QV  
@@ -127,7 +127,7 @@ _Esempi:_
 
 Pubblicazioni che contengono il termine _catalogo tematico_ nel titolo spesso sono cataloghi di opere, ma a volte riguardano anche altri argomenti o non sono esaustive. Controlla ogni volta. Se si tratta del primo caso, assegna un'abbreviazione di catalogo di opere. Nel secondo caso, assegna un'abbreviazione come per la normale bibliografia. Insomma, qualsiasi cosa che non sia un catalogo di opere riceve un'abbreviazione come la bibliografia di riferimento. 
 
-_Esempi:_
+##### Esempi
 
 > Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
 >             → PasJ  

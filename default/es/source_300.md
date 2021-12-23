@@ -50,7 +50,7 @@ También se pueden indicar páginas o folios particulares de una pieza dentro de
 
 No consigne la extensión de las particellas aquí. Para ello utilice el campo **Particellas conservadas (590).**
 
-_Ejemplos:_  
+##### Ejemplos  
 1 _score_: 35 p.  
 1 _score_ (2x): 2, 2 f.  
 1 _short score_: 8 f.  

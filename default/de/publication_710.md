@@ -8,6 +8,6 @@ Verwenden Sie nur folgende Funktionen:
 
 - **Editor**: Speziell wenn es sich um die Herausgabe durch eine Körperschaft handelt.  
 
-_Beispiele:_  
+##### Beispiele  
 Sing-Akademie zu Berlin   
 Historische Sektion der Bayerischen Benediktinerakademie

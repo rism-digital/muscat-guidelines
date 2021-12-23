@@ -5,7 +5,7 @@ Este campo especifica qual item físico foi consultado para catalogar uma ediç�
 #### Exemplar examinado para catalogação (588 $a)
 Insira a sigla da instituição e o código ou número de chamada da edição impressa consultada. Pode-se também indicar se foi utilizado um exemplar apenas para uma parte do registro, tal como em incipits ou entradas individuais.
 
-_Exemplos:_
+##### Exemplos
 
 - CZ-Nlob X A a 12
 - (incipits:) US-BETm LCM 242

@@ -22,7 +22,7 @@ Należy wybrać spośród następujących :
 - Inne
 **Typ jednostki geograficznej (368 $b)**  
 Wprowadź typ jednostki geograficznej związanej z instytucją.  
-_Przykłady:_  
+##### Przykłady  
 hrabstwo  
 wieś  
   

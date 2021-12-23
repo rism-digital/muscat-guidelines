@@ -57,7 +57,7 @@ org
 
 Indique aquí el número total de partes. Si una pieza incluye dos partes del mismo instrumento, consigne el instrumento solamente en campo **Voz/instrumento** e indique **2** en el campo **Número**.
 
-_Ejemplos:_
+##### Ejemplos
 
 - Para una pieza con violín 1 y violín 2:  
 vl  

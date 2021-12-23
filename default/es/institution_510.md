@@ -10,7 +10,7 @@ Registre las diversas formas en que se presenta la forma autorizada del nombre d
 
   
 
-_Ejemplos:_
+##### Ejemplos
 
 The National Library of Wales [for Llyfrgell Genedlaethol Cymru]
 

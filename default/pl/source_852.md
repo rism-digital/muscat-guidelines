@@ -13,7 +13,7 @@ Wprowadzić siglum biblioteki przechowującej. Pole połączono z plikiem autory
 Wprowadzić bardzo szczegółową informację lokalizacyjną, szczególnie w przypadku dużych bibliotek, jeżeli ich nazwa nie występuje w samym siglum. Wprowadzić nazwę działu w języku lokalnym. Można w nawiasach kwadratowych wpisać tłumaczenie we własnym języku katalogowania.
 
    
-_Przykłady:_  
+##### Przykłady  
 Music Department  
 Collezioni speciali  
 Zakład Zbiorów Muzycznych [Dział muzyczny]
@@ -30,7 +30,7 @@ Uwaga: W polu **Uwaga o proweniencji (561)** wpisać znaki własności.
 
 Pole to jest dostępne w informacji o zbiorach dla nut drukowanych. Jeśli opisywany egzemplarz jest niekompletny, należy wprowadzić części (używając skrótów RISM) lub tomy znajdujące się w Państwa posiadaniu. Jeśli wiedzą Państwo, że egzemplarz jest kompletny, dobrze jest wpisać w polu kompletny - complete. Należy używać angielskiej terminologii. Kompletność odnosi się do obecności wszystkich spodziewanych części lub tomów; inne stopnie niekompletności (np. brakujące strony) można podać w uwadze.
 
-_Przykłady:_  
+##### Przykłady  
 vl only  
 Coro S, A, B only  
 vol. 1, 3 only  
@@ -42,7 +42,7 @@ complete
 
 W tym polu należy wprowadzić sygnaturę. Dokonać jak najdokładniejszej transkrypcji, włącznie ze spacjami i interpunkcją. W obrębie danej kolekcji bibliotecznej sygnatury muszą być spójne. Wskazać znaki pisane w indeksie górnym za pomocą znaku | (pionowa kreska). W przypadku braku sygnatury, należy wpisać **[bez sygnatury - without shelfmark]**. Wprowadzić dodatkowe sygnatury w polu **Inne sygnatury (591)**.
 
-_Przykłady:_  
+##### Przykłady  
 Ms Mus 165/6  
 Mus.ms. 743  
 Th.mus.A 5  

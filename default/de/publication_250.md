@@ -1,6 +1,6 @@
 #### Ausgabebezeichnung (250)
   
-_Beispiele:_  
+##### Beispiele  
 
 1. Auflage
 

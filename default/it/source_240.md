@@ -20,7 +20,7 @@ Inserisci il titolo proprio con un’ortografia standardizzata secondo (1) New G
   
 Nomi popolari o nomignoli (come “Eroica” o “messa di Nelson”) non sono considerati titoli propri. Tali nomi si inserscono nel campo **Titolo uniforme alternativo (730 $a)**.   
   
-_Esempi:_  
+##### Esempi  
 Die Forelle  
  Die Zauberflöte  
  The beggar's opera  
@@ -38,14 +38,14 @@ Inserendo un incipit testuale, utilizza le regole ortografiche della lingua risp
   
 Assicurati che l’incipit testuale in questo campo sia identico con l’incipit testuale nel campo **Incipit testuale (031 $t)**. In caso di testi latini, utilizza il testo che precede la virgola (nella lista in appendice) come titolo uniforme ma utilizza l’intero incipit testuale come incipit testuale.   
   
-_Esempi:_  
+##### Esempi  
 Der Mond ist aufgegangen  
  Gloria [con l’incipit testuale: Gloria, in excelsis Deo et in terra pax]  
   
 3. **Generi musicali**  
 Utilizza il genere del brano come titolo uniforme se non vi è né un titolo proprio né un incipit testuale. Nella maggior parte dei casi, inserisci il genere in inglese e al plurale (ad esempio **Operas**). Nota che con alcuni generi si utilizza un particolare **Soggetto (650)**. Si consulti l’appendice **Titoli uniformi – Soggetti** nelle **Regole di catalogazione** per ulteriori istruzioni.   
   
-_Esempi:_  
+##### Esempi  
 Symphonies  
  Allemandes  
   
@@ -55,7 +55,7 @@ Inserisci l’indicazione di tempo se non è possibile determinare il genere. Se
  -Pieces (un brano generico)  
  -Movements (un singolo movimento di un pezzo strumentale senza indicazione di tempo e di carattere indeterminato)  
   
-_Esempi:_  
+##### Esempi  
 Presto  
  Lento
 
@@ -63,7 +63,7 @@ Presto
 
 - **Raccolte.**  In questi casi si inserisce un numero e il genere. Inserisci una cifra araba che indica quante composizioni si trovano nella raccolta, seguita da un genere che comprenda quante più composizioni possibile.
 
-> _Esempi:_  
+> ##### Esempi  
 > 3 Instrumental pieces  
 > 25 Arias
 

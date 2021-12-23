@@ -6,7 +6,7 @@ Inserisci note aggiuntive che descrivono l’istituzione, come ad esempio:
 - Classificazione della collezione, come “Collection in GB-Lbl”.  
 - Deposito online: URL del deposito digitale dell’istituzione.
 - Collezioni archivistiche e non-archivistiche (ISDIAH 5.3.7): Inserisci i nomi dei fondi e delle collezioni. Inizia ogni nome su una nuova riga. Utilizza il nome come è usato dall’istituzione proprietaria. In caso di fondi personali, è consigliabile aggiungere tra parentesi le date di nascita e di morte della persona in questione. Se ci sono elenchi o URL con informazioni sulle collezioni o sui fondi di una particolare istituzione, fornisci lo URL.  
-_Esempi:_  
+##### Esempi  
  Joachim, Joseph (1831-1907) (Royal College of Music, Library)  
  Andrée-Stenhammararkivet  
  Telemann, Georg Michael  

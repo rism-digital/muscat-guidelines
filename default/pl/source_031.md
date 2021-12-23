@@ -77,7 +77,7 @@ Należy wybrać tonację lub modus z listy.
 
 Wprowadzić **x** dla tonacji durowych lub **b** dla tonacji molowych, podając następnie wielkie litery dźwięków, które mają być podniesione lub obniżone. Jeżeli dany utwór jest wyraźnie napisany w danej tonacji, lecz w znakach przykluczowych nie podano krzyżyka lub bemolu, brakujące krzyżyki i bemole można dodać w nawiasach. W przypadku braku znaków przykluczowych, należy pozostawić puste miejsce.
 
-_Przykłady:_  
+##### Przykłady  
 xF = F jest dur = G dur lub E moll  
 bBE = B i E są moll = B-dur/B-flat major lub G moll  
 xFC[G] = F and C są w źródle dur, ale utwór jest wyraźnie napisany w tonacji A dur, więc ostatni krzyżyk dodano w nawiasach.
@@ -203,7 +203,7 @@ Przykład:
    
 Ogólną wartość trwania grupy należy podać przed **(**. Wartość rytmiczna pierwszej nuty należy podać po **(**, nawet jeśli jest identyczna jak wartość nuty znajdującej tuż przed sekcją specjalnego rytmu. Liczbę nut w grupie należy wskazać przed ). Należy ją oddzielić od ostatniej nuty za pomocą ;.
 
-_Przykłady:_  
+##### Przykłady  
 8(3ABCDE;5)  = grupa pięciu trzydziestodwójek w miejsce jednej ósemki.  
 
 8({3ABCDE};5) = grupa pięciu trzydziestodwójek w miejsce jednej ósemki, belkowana.
@@ -251,7 +251,7 @@ Sekwencja rytmiczna kończy się w momencie, gdy pojawia się inna wartość ryt
 
 Należy stosować znak **%** by zmienić klucz, **$** by zmienić tonację, oraz **@** by zmienić znaki metrum. Następnie należy wpisać nowe oznaczenie (klucz, tonacja lub metrum), a następnie spację.
 
-_Przykłady:_  
+##### Przykłady  
 %C-1 '2A  
 %C-1 $xFC '8B  
 @3/2 '1C  
@@ -263,7 +263,7 @@ $nBE $xFC
 
 Skrócone formy notacji występujące w nutach, takie jak tremola lub znaki simile, należy wpisać w całości stosując występującą w źródle notację.
 
-_Przykłady:_  
+##### Przykłady  
 {'8DDDD} = półnuta/minima/półtremolo na D
 
  
@@ -289,6 +289,6 @@ Tu należy wprowadzić wszelkie inne uwagi, takie jak wysokość dźwięku trans
 
 W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie skomplikowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w Podsumowaniu ** obsady** **[240 $m]**). Do oddzielenia rodzin instrumentów należy należy stosować znak średnika.
 
-_Przykłady:_   
+##### Przykłady   
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  
 S 2 solo; Coro; ob obl; strings, bc
