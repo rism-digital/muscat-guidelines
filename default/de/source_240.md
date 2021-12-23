@@ -22,7 +22,7 @@ Geben Sie den Titel entsprechend der Schreibweise in 1) New Grove, 2) MGG, 3) We
 
 Titel von Drucken und populäre Namen (wie „Eroica“ oder „Nelson-Messe“ etc.) gelten nicht als Einordnungstitel. Solche Namen werden in **Alternativer Einordnungstitel (730 $a)** eingegeben.
 
-_Examples:_
+##### Examples
  - Die Forelle
  - Die Zauberflöte
  - The beggar's opera
@@ -44,14 +44,14 @@ When entering text incipits, use the orthographic rules of each respective langu
 
 Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. Lateinische Textincipits werden hier allerdings nur bis zu dem Trennungszeichen (Komma) als Einordnungstitel verwendet (siehe auch Liste im Anhang).
 
-_Examples:_
+##### Examples
  - **Ausschnitte** : Auszüge eines Werkes
  - **Fragmente** : Fragmente
 
 3. **3. Gattungsbezeichnungen**  
    Kommen weder Individualtitel noch Textincipit als Einordnungstitel in Frage, wird hier die entsprechende Gattung eingetragen. In most cases, enter the genre in English and in the plural (such as **Operas**). Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem **Schlagwort (650)**. Bitte benutzen Sie die Arbeitshilfe **Einordnungstitel - Schlagworte** im Anhang der **Richtlinien**.
 
-_Examples:_
+##### Examples
  - Vokalsolisten
  - Chor
 
@@ -61,14 +61,15 @@ _Examples:_
    -Pieces (nicht näher definierbares musikalisches Stück)  
    -Movements (Einzelsatz eines unbestimmten Instrumentalstücks ohne Tempobezeichnung)
 
-_Examples:_
+##### Examples
  - Presto
  - Streicher
 
 **Special rules:**
 
-- **Collections**. In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.  
-  _Examples:_    
+- **Collections**. In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.
+
+  ##### Examples
   25 Arias  
   3 Instrumental pieces
 - **Collections** : für den Einordnungstitel gelten für Sammlungen (Collections), Konvolute und Variationen. In diesen Fällen wird dem Gattungsbegriff eine arabische Zahl vorangestellt, die die Anzahl der zugehörigen Werke bezeichnet.  
@@ -114,7 +115,7 @@ Hier wird die Tonart des Gesamtwerks gemäß Abkürzungsliste eingetragen.
 #### Tonart (240 $r)
 
 **Required field** **except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch  
-If you have sketches or collections, enter a scoring summary if it makes sense to do so. **
+If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
 Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each element of the scoring summary with commas. Enter a maximum of four elements. Die ausführliche Auflistung der Besetzung erfolgt im Feld **Vollständige Besetzung (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
 
