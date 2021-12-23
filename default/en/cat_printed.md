@@ -3,7 +3,7 @@
 RISM seeks to document printed music from the beginnings of music printing through around 1900.
 
 In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and
-distribution. The amount of music considered "rare" or undocumented elsewhereis much less when compared to previous
+distribution. The amount of music considered "rare" or undocumented elsewhere is much less when compared to previous
 centuries. Music published by modern publishers, printed in large quantities, widely available, and meant for active use
 by library patrons would be better documented in cooperative databases such as [WorldCat](http://www.worldcat.org/).
 
