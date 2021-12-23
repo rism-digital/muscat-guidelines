@@ -5,6 +5,6 @@ This field goes hand in hand with the field **Associated institution (510 $a)**.
 
 Information you might want to enter here includes name variations, positions held, indications of when the person was active, or other notable information. Sometimes, the musical source you hold is the only source for such information! When possible, make sure you additionally enter this information in standardized form in the appropriate fields.
 
-_Example:_
+##### Examples
 - F-Pn
 - Autograph: 1782-1823; "Aubert Prêtre et M.e de musique des enf. de choeur"
