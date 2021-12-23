@@ -64,13 +64,10 @@ Si tuviese que registrar períodos no específicos, hágalo de manera apropiada 
 | s. XVIII, 2da mitad | 1750-1799 |
 | s. XVIII | 1700-1799 |
 
-####   
-Ubicación del impresor (260 $e)
+#### Ubicación del impresor (260 $e)
 
 Registre la localización de la institución asociada con la impresión, duplicación, etc. tal como aparece en la fuente.
 
 #### Nombre del impresor (260 $f)
 
 Registre el nombre del impresor o la imprenta tal como aparece en la fuente. Registre los nombres con su forma estandarizada en los campos **Nombre personal adicional (700)** o **Institución adicional**  **(710)**.
-
- 

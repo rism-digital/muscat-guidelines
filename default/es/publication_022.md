@@ -1,6 +1,6 @@
-**#### ISSN (022 $a)**
+#### ISSN (022 $a)
 Introduzca el Número de Serie Estándar Internacional (ISSN). El ISSN identifica de forma exclusiva las publicaciones seriadas.   
-  
+
 
 Ejemplos:
 

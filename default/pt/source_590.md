@@ -1,16 +1,16 @@
-### **Partes existentes e extensão (590)**  
+### Partes existentes e extensão (590)  
 
 Informe que partes a instituição possui e a sua paginação/número de folios.
 
- 
 
-#### **Partes existentes (590 $a)**
+
+#### Partes existentes (590 $a)
 
 **Campo obrigatório se a fonte contém partes.**
 
 Insira as partes existentes e o número de partes com referência à lista de abreviaturas de instrumentos do RISM.
 
- 
+
 
 A primeira letra para as partes instrumentais é sempre minúscula e, para as partes vocais, maiúscula. A ordem de inserção dos nomes das partes deve ser feita como indicado a seguir, da tessitura mais aguda para a mais grave:
 
@@ -23,11 +23,11 @@ A primeira letra para as partes instrumentais é sempre minúscula e, para as pa
 ●      Metais  
 ●      Outros instrumentos
 
- 
+
 
 Se nenhum detalhe para a designação das partes estiver disponível, por favor, escreva em inglês: **no further indication**
 
- 
+
 
 Casos especiais:
 
@@ -36,7 +36,7 @@ Casos especiais:
 - Instrumentos, designações ou afinações inusuais (como **cor in D|x**) devem ser escritos por extenso; entretanto, no campo **Formação total (594)**, tente padronizar o instrumento de acordo com a lista de abreviaturas de instrumentos do RISM se possível (como **cor in E|b**).  
 - Parte de teclado com texto: Insira usando inglês **pf with text** (ou **org with text**, **keyb with text**, etc.). O mesmo deve ser informado no campo incipit **Voz/instrumento (031 $m)**.  
 
- 
+
 
 #### Extensão (partes) (590 $b)
 
@@ -51,7 +51,7 @@ Neste sistema, **lvs** corresponde a 2 **f** dobradas, enquanto **fds** signific
 
 Também podem-se indicar páginas ou fólios individuais no interior de uma coletânea manuscrita, como em **p. 5-6** ou **f. 4r-4v.**
 
- 
+
 
 **Exemplos**: Existem duas maneiras diferentes de listar as partes.
 
@@ -64,7 +64,7 @@ Também podem-se indicar páginas ou fólios individuais no interior de uma cole
 **Extensão (partes) (590 $b)**: 4, 4, 4, 4 p.
 
 **Partes existentes (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
-**Extensão (partes) (590 $b)**: ** ** 4, 4, 3, 4, 2 p.
+**Extensão (partes) (590 $b)**: 4, 4, 3, 4, 2 p.
 
 **Partes existentes (590 $a)**: ob 1, 2, cl 1, 2 in B|b  
 **Extensão (partes) (590 $b)**: 2, 2, 2, 2 p.
@@ -75,7 +75,7 @@ Também podem-se indicar páginas ou fólios individuais no interior de uma cole
 **Partes existentes (590 $a)**: org (incpl)  
 **Extensão (partes) (590 $b)**: 8 p.
 
- 
+
 
 *Exemplo 2*: Tudo em uma linha, com uma vírgula separando os instrumentos e um ponto e vírgula separando as famílias de instrumentos (mas alguns usuários consideram isso confuso)
 

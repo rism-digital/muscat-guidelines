@@ -6,13 +6,13 @@ Este campo descreve a natureza da fonte. Por favor, selecione da lista seguinte:
 
 **Para música notada:**
 
-- 
+-
 
-**Manuscrito autógrafo: ** escrito completamente ou em sua maior parte pela mão do compositor.
+**Manuscrito autógrafo:** escrito completamente ou em sua maior parte pela mão do compositor.
 
-- 
+-
 
-**Possível manuscrito autógrafo**: indica que há um grau de incerteza se o manuscrito é da mão do compositor. 
+**Possível manuscrito autógrafo**: indica que há um grau de incerteza se o manuscrito é da mão do compositor.
 
 - **Autógrafo parcial:** partes significativas do manuscrito são da mão do compositor.  
 
@@ -24,31 +24,31 @@ Este campo descreve a natureza da fonte. Por favor, selecione da lista seguinte:
 
 - **Impresso com anotações autógrafas:** anotações manuscritas feitas pelo compositor. Use para materiais à mão somente (informação específica do exemplar).  
 
-- **Impresso com anotações não-autógrafas:** quaisquer outros tipos de anotações manuscritas feitas não pelo compositor, mas por terceiros. Use para materiais à mão somente (informação específica do exemplar). 
+- **Impresso com anotações não-autógrafas:** quaisquer outros tipos de anotações manuscritas feitas não pelo compositor, mas por terceiros. Use para materiais à mão somente (informação específica do exemplar).
 
 **Para outros tipos de documentos:**
 
-- 
+-
 
 **Libreto, manuscrito **
 
-- 
+-
 
 **Libreto, impresso**
 
-- 
+-
 
 **Tratado, manuscrito**
 
-- 
+-
 
 **Tratado, impresso**
 
-- 
+-
 
 **Periódico musical**
 
-- 
+-
 
 **Outro  **
 

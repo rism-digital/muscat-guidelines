@@ -18,7 +18,7 @@ Der Typ gibt die physische Form der Quelle wieder. Die Typen werden in Englisch 
 - Music periodical = Musikzeitschrift  
 - Other =  Sonstige  
 
-Als **Autograph** gilt eine Handschrift nur, wenn der Komponist sie ganz oder zu großen Teilen selbst geschrieben hat. Ein **fragliches Autograph** zeigt einen gewissen Grad an Ungewissheit an. Bei Autographen und fraglichen Autographen wird der Komponistenname nicht als Schreibername **(700)** angegeben. Nur wenn der Schreiber sicher ist, aber fraglich, ob er auch der Komponist ist, steht der Schreiber im Feld **Nebeneintrag Personenname (****700) **und derselbe Name als** Komponist/Autor (100 $a)** mit mutmaßlicher Zuschreibung.
+Als **Autograph** gilt eine Handschrift nur, wenn der Komponist sie ganz oder zu großen Teilen selbst geschrieben hat. Ein **fragliches Autograph** zeigt einen gewissen Grad an Ungewissheit an. Bei Autographen und fraglichen Autographen wird der Komponistenname nicht als Schreibername **(700)** angegeben. Nur wenn der Schreiber sicher ist, aber fraglich, ob er auch der Komponist ist, steht der Schreiber im Feld **Nebeneintrag Personenname (700)** und derselbe Name als **Komponist/Autor (100 $a)** mit mutmaßlicher Zuschreibung.
 
 Autographe Korrekturen oder Zusätze geringeren Umfangs werden durch „Manuscript with autograph annotations“ gekennzeichnet. In diesem Fall ist ein erklärender Vermerk im Feld **Bemerkungen (500)** sinnvoll.
 

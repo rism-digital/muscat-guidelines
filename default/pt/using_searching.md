@@ -38,7 +38,7 @@ tanto sem aspas: **lass noch**
 
   - Compositor contém: **(Bach AND Johann) NOT Sebastian**  
 para encontrar Johann Michael Bach e Johann Christian Bach mas não Johann Sebastian Bach
-  - Sigla contém: **D-B AND (I-\* OR F-P\*) **   
+  - Sigla contém: **D-B AND (I-\* OR F-P\*)**   
 para encontrar todos os impressos na biblioteca D-B de que haja também exemplares em Itália ou Pari **s**   
 
 
@@ -73,7 +73,7 @@ Por favor, observe o seguinte para buscar **Fontes**:
 
 Por favor, observe o seguinte para buscar **Nomes de pessoas**:
 
-- **Nome:** Busca nos campos **Título**** – Nome de pessoa (100 $a) **e** Variante de nome (400 $a)**.
+- **Nome:** Busca nos campos **Título – Nome de pessoa (100 $a) **e** Variante de nome (400 $a)**.
 - **Datas:** Busca no campo **Anos de nascimento e morte (100 $d)**, tanto ao digitar um ano como ao usar as seguintes abreviaturas: sc  a  p  c \*  +  /
 - **Profissão**: Busca o campo **Profissão ou função (550 $a)**, que são inseridas em inglês.
 - **Código de país**: Busca a nacionalidade usando a norma ISO 3166 [http://www.iso.org/iso/home/standards/country\_codes.htm](http://www.iso.org/iso/home/standards/country_codes.htm)

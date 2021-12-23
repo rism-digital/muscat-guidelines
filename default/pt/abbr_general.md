@@ -2,13 +2,13 @@
 
 Existem algumas abreviaturas e termos gerais que você deve encontrar no Muscat. Ao escrever em campos de texto livre, é uma boa prática escrever os termos por extenso sempre que possível para benefício de outros usuários que podem não estar familiarizados com estas abreviaturas.
 
- 
 
- 
 
- 
 
-| **Termo   **   
+
+
+
+| **Termo**   
  | **Significado** |
 | acc | acompanhamento |
 | appx | apêndice |
@@ -135,7 +135,3 @@ Existem algumas abreviaturas e termos gerais que você deve encontrar no Muscat.
 | ? | erros no incipit não corrigidos |
 |   |   |
 |   |   |
-
- 
-
- 

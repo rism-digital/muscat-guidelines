@@ -1,4 +1,4 @@
-### **La barra di menu superiore**
+### La barra di menu superiore
 
 **Amministrazione** collega alla configurazione MARC, che ti permette di visualizzare tutti i campi MARC utilizzati in Muscat (per le fonti e per le liste di voci d’autorità).
 
@@ -48,7 +48,7 @@ Utilizza **i collegamenti** in cima per navigare a una sezione della scheda. Red
 
 ### Bottoni nella modalità di redazione
 
-**Lente d’ingrandimento**: Fai clic qui per effettuare una ricerca nella lista di voci d’autorità collegata a questo campo. Si aprirà una nuova finestra. Dopo che hai trovato quello che cerchi, fai clicc su  **Select ** (seleziona) per trasferire i dati alla tua scheda.
+**Lente d’ingrandimento**: Fai clic qui per effettuare una ricerca nella lista di voci d’autorità collegata a questo campo. Si aprirà una nuova finestra. Dopo che hai trovato quello che cerchi, fai clicc su  **Select** (seleziona) per trasferire i dati alla tua scheda.
 
 **Punto interrogativo (?)**: Vengono visualizzate le regole di catalogazione RISM per questo campo.
 
@@ -58,7 +58,7 @@ Utilizza **i collegamenti** in cima per navigare a una sezione della scheda. Red
 
 **Freccia**: Fai clic sulla freccia per espandere o nascondere un campo.
 
-**Aggiungi un gruppo**: Questo bottone si trova alla fine della sezione  **Descrizione del materiale**. Con più gruppi puoi associare diverse date, formati, filigrane, nomi, istituzioni ecc. a diversi tipi di fonti (o qualsiasi altro modo da te scelto per descrivere il tuo materiale). Alcuni di questi campi, come  **Nome aggiuntivo di persona****  (700),  ****Nome di ente aggiuntivo****  (710) **, e ** Nota generale**** (500)** si trovano anche altrove nei modelli per le fonti. Usa il buon senso per decidere dove collocare queste informazioni: si riferiscono all'intera fonte, oppure soltanto a questo gruppo di materiale?
+**Aggiungi un gruppo**: Questo bottone si trova alla fine della sezione  **Descrizione del materiale**. Con più gruppi puoi associare diverse date, formati, filigrane, nomi, istituzioni ecc. a diversi tipi di fonti (o qualsiasi altro modo da te scelto per descrivere il tuo materiale). Alcuni di questi campi, come  **Nome aggiuntivo di persona (700),  **Nome di ente aggiuntivo (710)**, e **Nota generale (500)** si trovano anche altrove nei modelli per le fonti. Usa il buon senso per decidere dove collocare queste informazioni: si riferiscono all'intera fonte, oppure soltanto a questo gruppo di materiale?
 
 ### Altre funzioni nella modalità di redazione
 

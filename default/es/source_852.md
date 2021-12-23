@@ -1,4 +1,4 @@
-### **Sigla del repositorio (852)**
+### Sigla del repositorio (852)
 
 Aquí se ingresa información relativa a la biblioteca o institución que conserva el ítem.
 

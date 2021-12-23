@@ -35,7 +35,7 @@ Utilizza il titolo della composizione teatrale come titolo uniforme e seleziona 
 7.      Un arrangiamento per fiati da una composizione teatrale di cui non si conosce il titolo:  
 Utilizza **Wind music** sia come titolo uniforme che come parola chiave.
 
-8. ** ** Per  **schizzi ** di composizioni non identificate, usa il titolo proprio più il soggetto **Sketches**. Per schizzi di composizioni identificate, utilizza il titolo proprio e  **Sketches**  come secondo termine di soggetto.
+8. Per  **schizzi** di composizioni non identificate, usa il titolo proprio più il soggetto **Sketches**. Per schizzi di composizioni identificate, utilizza il titolo proprio e  **Sketches**  come secondo termine di soggetto.
 
 9.  In casi di incertezza completa, come organico ignoto, inserisci **Pieces**  come titolo uniforme e **Pieces**  come soggetto.
 

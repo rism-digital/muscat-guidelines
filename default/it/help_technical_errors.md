@@ -1,6 +1,6 @@
 # Problemi tecnici
 
-**1. **** Qualcosa non funziona?**
+**1. Qualcosa non funziona?**
 
 Non disperare! Se hai dei problemi, prima di tutto assicurati di avere la versione più recente di Firefox o Chrome; potresti aver bisogno di aggiornare il tuo browser. Poi, prova a svuotare la cache. Vi sono più maniere di farlo, a seconda del tuo sistema operativo:
 

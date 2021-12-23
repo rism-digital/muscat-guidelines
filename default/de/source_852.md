@@ -10,7 +10,7 @@ Geben Sie das Bibliothekssigel der besitzenden Institution an. Dieses Feld ist m
 
 #### Abteilung (852 $b)
 
-Genaue Standortangabe bei großen Bibliotheken. Geben Sie die Bezeichnung in der Landessprache ein. In Klammern kann eine Übersetzung in einer der Katalogisierungssprachen gegeben werden. 
+Genaue Standortangabe bei großen Bibliotheken. Geben Sie die Bezeichnung in der Landessprache ein. In Klammern kann eine Übersetzung in einer der Katalogisierungssprachen gegeben werden.
 
 ##### Beispiele  
 Musikabteilung  
@@ -27,7 +27,7 @@ Sammlung Hanns J. Eller
 
 Achtung: Geben Sie Provenienzvermerke im Feld **Herkunft der Quelle (561)** ein.
 
-#### **Erhaltenes Material (852 $q)**
+#### Erhaltenes Material (852 $q)
 
 Dieses Feld steht nur im Exemplareintrag für Musikdrucke zur Verfügung. Ist Ihr Exemplar unvollständig, geben Sie hier die vorhandenen Stimmen (mit RISM-Abbkürzungen) oder Bände an. Ist Ihr Exemplar unvollständig, können Sie hier **komplett** schreiben. Vollständigkeit bezieht sich hier auf das Vorhandensein aller erwarteten Stimmen oder Bände. Wenn beispielsweise einzelne Seiten fehlen, geben Sie dies in einer Bemerkung an.
 

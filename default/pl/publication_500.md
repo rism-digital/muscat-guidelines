@@ -1,4 +1,5 @@
-**#### Uwaga ogólna (500 $a)**Wprowadzać wszystkie uwagi na temat danego obiektu, szczególnie uwagi informujące o jego znaczeniu jako źródła muzycznego (jeśli nie wynika to z tytułu).
+#### Uwaga ogólna (500 $a)
+Wprowadzać wszystkie uwagi na temat danego obiektu, szczególnie uwagi informujące o jego znaczeniu jako źródła muzycznego (jeśli nie wynika to z tytułu).
 
 Podać sigla, jeżeli dana pozycja dotyczy instytucji, np. katalogi kolekcji.  
 

@@ -1,4 +1,4 @@
-**Uwaga do dysertacji **** (502 $a)**
+**Uwaga do dysertacji (502 $a)**
 
 Jeżeli dana pozycja jest pracą doktorską, należy podać typ stopnia naukowego, instytucję i rok.
 

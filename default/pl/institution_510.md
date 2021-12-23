@@ -1,4 +1,4 @@
-#### **Równoległa forma nazwy (MARC 510 $a; ISDIAH 5.1.3)**
+#### Równoległa forma nazwy (MARC 510 $a; ISDIAH 5.1.3)
 
 Pole to zawiera różne formy, w których występuje autoryzowana forma nazwy instytucji, jak również tłumaczenia nazwy na inne języki, najlepiej na język angielski. W tym miejscu można również wpisać oryginalne nazwy w alfabecie innym niż łaciński. Każdą nazwę należy wpisać w osobnym wierszu.
 

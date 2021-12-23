@@ -2,7 +2,7 @@
 
 **Administração** leva à configuração do MARC, que permite ver todos os campos MARC utilizados no Muscat (fontes e registros de autoridade).
 
-**Idioma ** permite que se modifique o idioma do Muscat.
+**Idioma** permite que se modifique o idioma do Muscat.
 
 O **Painel de Controle** exige seus registros recentes no Muscat.
 
@@ -63,7 +63,7 @@ Use os **links** na parte superior para ir direto para uma seção do registro. 
 
 **Autocompletar**: os campos que contêm uma chave são ligados a um registro ou índice de autoridade. Comece a digitar a informação e use o recurso autocompletar para auxiliar seu trabalho.
 
-**Adicionando novos nomes, títulos, cabeçalhos de assunto, etc.**: Caso não encontre o que precisa nos registros de autoridade, simplesmente insira o nome ou termo de que precisa. Ao clicar em um campo diferente, uma borda laranja aparece em torno do campo e pode-se ver uma caixa de confirmação onde se lê "Confirmar a inserção de um novo valor." Clique esta caixa para confirmar. Para nomes de pessoas, um campo chamado **Datas** aparecerá. Por favor, preencha-o se puder, porque isso ajuda a Redação Central a criar um novo registro de autoridade. Quando salvar, o nome ou título será automaticamente adicionado aos registros de autoridade. Ver também **Nomes de pessoas** em **Di**** retrizes gerais de catalogação**.
+**Adicionando novos nomes, títulos, cabeçalhos de assunto, etc.**: Caso não encontre o que precisa nos registros de autoridade, simplesmente insira o nome ou termo de que precisa. Ao clicar em um campo diferente, uma borda laranja aparece em torno do campo e pode-se ver uma caixa de confirmação onde se lê "Confirmar a inserção de um novo valor." Clique esta caixa para confirmar. Para nomes de pessoas, um campo chamado **Datas** aparecerá. Por favor, preencha-o se puder, porque isso ajuda a Redação Central a criar um novo registro de autoridade. Quando salvar, o nome ou título será automaticamente adicionado aos registros de autoridade. Ver também **Nomes de pessoas** em **Diretrizes gerais de catalogação**.
 
 **Campos obrigatórios e validação**: Quando se começa um novo registro, os campos mais importantes já estarão abertos e prontos para que sejam preenchidos. Campos em amarelo são campos obrigatórios. Ao salvar seu trabalho sem preencher um destes campos, uma borda vermelha aparecerá em torno do(s) campo(s) que ainda precisa(m) de atenção e as seções nas quais os campos ocorrem estarão vermelhas na barra lateral à direita. Em casos em que nenhuma informação possa ser inserida em um campo obrigatório, a validação pode ser anulada clicando em uma caixa na barra lateral.
 

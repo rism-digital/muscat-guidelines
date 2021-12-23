@@ -1,4 +1,5 @@
-**#### ISSN (022 $a)**Insira o _International Standard Serial Number_ (ISSN). O ISSN identifica unicamente publicações seriadas. 
+#### ISSN (022 $a)
+Insira o _International Standard Serial Number_ (ISSN). O ISSN identifica unicamente publicações seriadas. 
 
 ##### Exemplos  
 0027-4380  

@@ -24,8 +24,8 @@
 11tt = undicesimo tono (ionio), trasposto  
 12t = dodicesimo tono (ipoionio)  
 12tt = dodicesimo tono (ipoionio), trasposto  
-  
-**Modi bizantini: **  
+
+**Modi bizantini:**  
 Ēchos prōtos = Primo modo della musica bizantina  
 Ēchos deuteros = Secondo modo della musica bizantina  
 Ēchos tritos = Terzo modo della musica bizantina  

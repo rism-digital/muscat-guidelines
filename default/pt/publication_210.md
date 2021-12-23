@@ -1,15 +1,15 @@
 **Título abreviado (210 $a)   **
 
-**Campo obrigatório. **
+**Campo obrigatório.**
 
 Cada item de literatura secundária recebe um título abreviado único para facilitar a referência através dos registros RISM. Sempre verifique se um título abreviado já não está em uso antes de criá-lo.
 
-   
+
 Descreve-se, a seguir, como criar títulos abreviados para **literatura secundária geral**, **catálogos de obras** e **casos especiais**.  
 
-   
-**Literatura secundária geral****  **  
-Títulos abreviados para **literatura secundária geral** são feitos da seguinte forma: 
+
+**Literatura secundária geral**  
+Títulos abreviados para **literatura secundária geral** são feitos da seguinte forma:
 
 - **Último sobrenome** do autor ou editor   
 _Sobrenomes hifenizados ou compostos são escritos por extenso._  
@@ -29,7 +29,7 @@ _Normalmente o nome do compositor ou do local, caso contrário selecione outra p
 > Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
 >             → Aguirre RincónV 2009
 
-  
+
 
 Para autores ou editores que publicam múltiplos artigos sobre o mesmo compositor ou obras múltiplas do mesmo compositor, adiciona-se uma letra (**a**, **b**, **c**, etc.) logo após o ano.  
 ##### Exemplos  
@@ -50,7 +50,7 @@ _Exemplo:_
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 >             → Fuller-MaitlandF 1893
 
-  
+
 
 Se nenhum autor é indicado, use 1-2 palavras chave retiradas do título em seu lugar.  
 
@@ -59,7 +59,7 @@ Se nenhum autor é indicado, use 1-2 palavras chave retiradas do título em seu 
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 >             → VerzeichnisThibaut 1842
 
-  
+
 
 Para obras em vários volumes, que foram publicados ao longo de vários anos, apenas o primeiro ano é usado.  
 ##### Exemplo_:_
@@ -73,7 +73,7 @@ Se o ano de edição não for dado ou certo, escreva  s.d. (para no date) em vez
 > Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, no date).  
 >             → ZanglO s.d.
 
-  
+
 Se apenas uma data aproximada de publicação for conhecida, adicione um **ca.** (para circa) quando inserir o editor e ano de publicação no registro, mas omita o “ca.” no título abreviado.   
 ##### Exemplo_:_  
 
@@ -82,7 +82,7 @@ Se apenas uma data aproximada de publicação for conhecida, adicione um **ca.**
 
 Para os títulos abreviados de enciclopédias ou conjuntos bem conhecidos, use as abreviaturas ou termos estabelecidos (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).  
 
- 
+
 
 **Catálogos de obras **
 
@@ -117,11 +117,11 @@ Use as abreviaturas já estabelecidas para catálogos de obras, se elas existem 
 >            → BrinzingMWV  
 >                _Note: MWV was already in use for the Mendelssohn Werkverzeichnis._
 
- 
+
 
 **Casos especiais**
 
-Publicações que contêm o termo catálogo temático em seus títulos são frequentemente catálogos de obras, mas podem ocasionalmente incluir outros tópicos ou podem não ser extensivos em seu escopo. Sempre verifique novamente. Se for o primeiro caso, atribua-lhe um título abreviado de catálogo de obras. Se for o último, atribua-lhe um título abreviado como faria para qualquer literatura normal. Resumindo, tudo o que não for um catálogo de obras deve receber um título abreviado de literatura. 
+Publicações que contêm o termo catálogo temático em seus títulos são frequentemente catálogos de obras, mas podem ocasionalmente incluir outros tópicos ou podem não ser extensivos em seu escopo. Sempre verifique novamente. Se for o primeiro caso, atribua-lhe um título abreviado de catálogo de obras. Se for o último, atribua-lhe um título abreviado como faria para qualquer literatura normal. Resumindo, tudo o que não for um catálogo de obras deve receber um título abreviado de literatura.
 
 _Exemplos__:_
 
@@ -134,8 +134,8 @@ _Exemplos__:_
 > Robert Didion and Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_(Frankfurt: Vittorio Klostermann, 1990).  
 >             → DidionF 1990  
 > Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
->             → MurányiW 1997 
+>             → MurányiW 1997
 
- 
+
 
 Não atribua um título abreviado a livros, anuários, atas de conferências, etc. que consistam em uma coleção de ensaios. Nesses livros, cada ensaio entra individualmente como referência bibliográfica, mas não o livro inteiro. O ensaio é inserido como um registro de literatura secundária com o seu próprio título abreviado.

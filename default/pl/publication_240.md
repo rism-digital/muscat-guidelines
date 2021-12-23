@@ -1,14 +1,12 @@
-### **Tytuł pozycji (240)**
+### Tytuł pozycji (240)
 
 **Pole wymagane.**
 
-####   
-**Tytuł pozycji (240 $a)**  
+#### Tytuł pozycji (240 $a)  
 
 Podać tytuł pozycji, łącznie z podtytułami. Tłumaczenia tytułu można podać w polu **Tytuł dodatkowy (730)**.
 
-####   
-**Kategoria (240 $g)**  
+#### Kategoria (240 $g)  
 
 Wybrać kategorię publikacji. Do wyboru są następujące kategorie:
 
@@ -20,11 +18,9 @@ Wybrać kategorię publikacji. Do wyboru są następujące kategorie:
 - **Edycja nutowa**: edycja współczesna lub edycja krytyczna utworu muzycznego  
 - **Inne**: obejmuje wszystkie inne, niekatalogowe, nieencyklopedyczne publikacje, takie jak artykuły, eseje, rozdziały, biografie, opracowania z zakresu historii kultury itd.  
 - **Katalog tematyczny**: katalog kompozytora łącznie z incipitami  
-  
 
-####   
-**Typ publikacji (245 $h)**  
 
+#### Typ publikacji (245 $h)  
 Wybrać typ publikacji z następującej listy:
 
 - **Artykuł/rozdział**

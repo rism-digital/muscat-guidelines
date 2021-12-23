@@ -1,6 +1,6 @@
 ### Titolo diplomatico (245 $a)
 
-#### **Campo obbligatorio.**  
+**Campo obbligatorio.**  
 
 Inserisci il titolo esattamente come compare nella fonte (il titolo diplomatico). In pratica, questo include ogni informazione presente sulla pagina, come il nome del compositore o altre indicazioni. Per edizioni musicali a stampa, includi tutto ciò che si trova sul frontespizio, compresi i dati editoriali.
 
@@ -23,4 +23,4 @@ _Esempi_:
 [without title]   
 [caption title, f. 1r:] Claver [sic] [illegible] von Wartensee | Frankfurt 9 Oct. 1829.  
 [cover title:] XII | Divertimentous [!]  
-[cover title:] Offertorium in C | a | Canto, Alto, Tenore, Basso | Violino 1|m|o et 2|d|o | Viola | Clarinetto 1|m|o et 2|d|o | Corno 1|m|o et 2|d|o | Fagotto 1|m|o et 2|d|o | Clarino 1|m|o et 2|d|o | Timpani | Organo et Violon | Jos. Eibler 
+[cover title:] Offertorium in C | a | Canto, Alto, Tenore, Basso | Violino 1|m|o et 2|d|o | Viola | Clarinetto 1|m|o et 2|d|o | Corno 1|m|o et 2|d|o | Fagotto 1|m|o et 2|d|o | Clarino 1|m|o et 2|d|o | Timpani | Organo et Violon | Jos. Eibler

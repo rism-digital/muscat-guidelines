@@ -1,4 +1,4 @@
-#### **Identyfikator numeru kontrolnego (003)**
+#### Identyfikator numeru kontrolnego (003)
 
 **Nie zmieniać.**
 

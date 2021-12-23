@@ -2,7 +2,7 @@
 
 Podać głosy, które znajdują się w zbiorach oraz podać ich foliację/paginację.
 
-#### **Głosy (590 $a)**
+### Głosy (590 $a)
 
 **Pole wymagane, jeśli źródło zawiera głosy.**
 
@@ -19,11 +19,11 @@ Pierwszą literę partii instrumentalnych podaje się małą literą, a partii w
 ●      Dęte blaszane  
 ●      Inne instrumenty
 
- 
 
-W razie braku dalszych szczegółów na temat desygnacji głosu, należy wpisać angielskie wyrażenie:  **no further indication**. 
 
- 
+W razie braku dalszych szczegółów na temat desygnacji głosu, należy wpisać angielskie wyrażenie:  **no further indication**.
+
+
 
 Przypadki specjalne:
 
@@ -32,7 +32,7 @@ Przypadki specjalne:
 - Instrumenty, desygnacje lub stroje nietypowe (takie, jak **cor in D|x**) można wpisywać w całości; z tym, że w polu** Szczegółowy opis obsady (594)** należy w miarę możliwości ujednolicić instrument, zgodnie z listą skrótów instrumentów RISM (np. **cor in E|b**).
 - Partia klawiaturowa z tekstem: Wprowadzić stosując zapis **pf with text** (lub **org with text**, **keyb with text**, itd.). To samo należy wprowadzić w polu incipitu **Głos/instrument (031 $m)**.
 
- 
+
 
 #### Objętość (głosy) (590 $b)
 
@@ -41,13 +41,13 @@ Wpisać liczbę folii (folia - mianownik, l. mn.), stron, kart lub składek. Wyb
 - **f** - folio
 - **p** - strona  
 - **lvs** - karta (arkusz)  
-- **fds** - arkusz złożony/składka 
+- **fds** - arkusz złożony/składka
 
 W tym systemie,  **lvs** oznacza dwa złożone **f**, podczas gdy **fds** oznacza jedno **lvs**. Inne jednostki (takie jak konwersja z folii na strony) podać w polu **Uwagi ogólne (500)**.
 
 Można także wskazać pojedyncze strony lub folia w obrębie kolekcji rękopisów, np.  **p. 5-6** lub **f. 4r-4v**.
 
- 
+
 
 **Przykłady:** istnieją dwa sposoby wymieniania głosów.
 
@@ -61,7 +61,7 @@ Można także wskazać pojedyncze strony lub folia w obrębie kolekcji rękopis�
 **Objętość (głosy) (590 $b)**: 4, 4, 4, 4 p.
 
 **Przechowywane głosy (590 $a)**:: vl 1, 2, vla, vlc, b (= bc)  
-**Objętość (głosy) (590 $b)**: ** ** 4, 4, 3, 4, 2 p.
+**Objętość (głosy) (590 $b)**: 4, 4, 3, 4, 2 p.
 
 **Przechowywane głosy (590 $a)**:: ob 1, 2, cl 1, 2 in B|b  
 **Objętość (głosy) (590 $b)**: 2, 2, 2, 2 p.
@@ -72,7 +72,7 @@ Można także wskazać pojedyncze strony lub folia w obrębie kolekcji rękopis�
 **Przechowywane głosy (590 $a)**:: org (incpl)  
 **Objętość (głosy) (590 $b)**: 8 p.
 
- 
+
 
 *Przykład 2*: Wszystko w jednej linii z przecinkiem oddzielającym instrumenty i średnikiem oddzielającym rodziny instrumentów (lecz niektórzy użytkownicy uważają taki zapis za mylący).
 

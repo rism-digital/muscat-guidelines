@@ -8,15 +8,15 @@ Lo mismo corresponde a la citación de bibliografía secundaria: si se refiere a
 
 **2. Citación de literatura secundaria**
 
-En el registro del RISM puede incluirse información que no se encuentre en la fuente pero, en tal caso, debe añadirse una Referencia bibliográfica (691). Por ejemplo, si se identifica al compositor de un manuscrito a través de un libro, o si el año de publicación de un impreso aparece en un catálogo, la fuente de la información debe quedar clara en una nota (500) y una referencia indexada (691). 
+En el registro del RISM puede incluirse información que no se encuentre en la fuente pero, en tal caso, debe añadirse una Referencia bibliográfica (691). Por ejemplo, si se identifica al compositor de un manuscrito a través de un libro, o si el año de publicación de un impreso aparece en un catálogo, la fuente de la información debe quedar clara en una nota (500) y una referencia indexada (691).
 
 **3. URLs y enlaces a recursos externos**
 
 Utilice siempre enlaces permanentes _(permalinks)_ al vincular sus registros con música digitalizada, especialmente cuando utilice el campo **Recurso externo (856).**
 
-Si desea establecer un enlace con otro sitio web, no introduzca la URL en un campo de notas. En su lugar, consigne el recurso como referencia bibliográfica registrándolo en la base de datos de **Bibliografía secundaria**. A continuación, vínculelo en el campo **Referencia bibliográfica (691)** y refiérase a él por su título breve en un campo de notas. De este modo, el usuario tiene acceso a información bibliográfica completa y, en caso de que la dirección URL cambie, bastará con cambiarla únicamente en el registro bibliográfico. 
+Si desea establecer un enlace con otro sitio web, no introduzca la URL en un campo de notas. En su lugar, consigne el recurso como referencia bibliográfica registrándolo en la base de datos de **Bibliografía secundaria**. A continuación, vínculelo en el campo **Referencia bibliográfica (691)** y refiérase a él por su título breve en un campo de notas. De este modo, el usuario tiene acceso a información bibliográfica completa y, en caso de que la dirección URL cambie, bastará con cambiarla únicamente en el registro bibliográfico.
 
-En caso de los libros hallados por medio de una búsqueda en Google Books u otros repositorios en línea, cree siempre, en la base de datos de  **Bibliografía secundaria, ** el registro bibliográfico para el libro en sí y no para el repositorio; es decir, cite el libro y no su registro en _Google Books_. 
+En caso de los libros hallados por medio de una búsqueda en Google Books u otros repositorios en línea, cree siempre, en la base de datos de  **Bibliografía secundaria,** el registro bibliográfico para el libro en sí y no para el repositorio; es decir, cite el libro y no su registro en _Google Books_. 
 
 **4. Proveer identificaciones **
 

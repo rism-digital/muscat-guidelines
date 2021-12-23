@@ -1,13 +1,13 @@
-#### **Zasób zewnętrzny (856)**   
+#### Zasób zewnętrzny (856)   
 
-Z pola należy korzystać, aby podać link do zewnętrznego zasobu, który bezpośrednio dotyczy opisywanego źródła. 
+Z pola należy korzystać, aby podać link do zewnętrznego zasobu, który bezpośrednio dotyczy opisywanego źródła.
 
 **Adres URL zasobu zewnętrznego (856 $u)**    
-Wprowadzić adres URL zasobu zewnętrznego. Zawsze stosować permalinki. 
+Wprowadzić adres URL zasobu zewnętrznego. Zawsze stosować permalinki.
 
 **Uwaga o zasobie zewnętrznym (856 $z)**    
 Pole wymagane przy wprowadzaniu linku do zasobu zewnętrznego.   
-Wprowadzić krótki opis, który wyjaśnia, dlaczego dany adres URL jest istotny w odniesieniu do opisywanego źródła. Należy stosować własny język katalogowania. 
+Wprowadzić krótki opis, który wyjaśnia, dlaczego dany adres URL jest istotny w odniesieniu do opisywanego źródła. Należy stosować własny język katalogowania.
 
 ##### Przykłady  
 Egzemplarz zdigitalizowany  
@@ -25,20 +25,20 @@ Zgodne źródło w GB-Ob
 Pole to należy wypełnić przy wprowadzaniu linku do zasobu zewnętrznego. Należy wybrać jedno z następujacych:
 
 - **źródło zdigitalizowane** Link jest odsyłaczem do zewnętrznej strony internetowej, która jest zdigitalizowaną kopią opisywanego zasobu. Preferuje się zamieszczanie linku do zasobów instytucjonalnych, ale jeżeli takowy nie jest dostępny wtedy dopuszcza się linki do zasobów zewnętrznych, takich jak Internet Archive czy IMSLP.    
-  
+
 _Przykład_  
   :*[  
 https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/  
-  
+
 ](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)*
-- ** Manifest IIIF**: Podlinkowany obiekt jest czytelny dla formatu JSON i obsługiwany przez viewer np. diva.js. Dokument jest osadzony bezpośrednio na stronie internetowej. W wielu przypadkach w linku pojawia się określenie „manifest”, „iiif” lub podobne.  
-  
+- **Manifest IIIF**: Podlinkowany obiekt jest czytelny dla formatu JSON i obsługiwany przez viewer np. diva.js. Dokument jest osadzony bezpośrednio na stronie internetowej. W wielu przypadkach w linku pojawia się określenie „manifest”, „iiif” lub podobne.  
+
 _Przykład_  
   :*[  
 https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)*  
-  
+
 W przypadku, gdy oba linki są dostępne, zarówno do zewnętrznego viewera, jak i do manifestu IIIF, należy powtórzyć pole i podać oba linki osobno.  
-  
+
 _Przykład_  
   :  
 
@@ -48,20 +48,20 @@ Typ linku: źródło zdigitalizowane
   - źródło zewnętrzne:[https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
 Uwaga: manifest IIIF  
 Typ linku: manifest IIIF  
-  
-  
-- **Inne: ** Link do innych zasobów, które nie są zasobem opisywanym.  
 
- 
 
- 
+- **Inne:** Link do innych zasobów, które nie są zasobem opisywanym.  
+
+
+
+
 
 #### Rodzaje źródeł zewnętrznych  
 
 **Typ linku 856 $x: źródło zdigitalizowane**  
 Należy linkować jedynie do źródła opisanego w rekordzie RISM. Należy stosować jedynie permalinki. W przypadku braku permalinków należy linkować do strony, na której można łatwo znaleźć link do zdigitalizowanego źródła  (takiego jak rekord bibliograficzny w katalogu bibliotecznym). Można dołączyć fragmenty zdigitalizowanego źródła (np. kilka stron), jeżeli w pełni zdigitalizowana wersja nie jest dostępna.
 
-Linki wprowadzone jako nuty zdigitalizowane nuty pojawiają się w filtrze "Muzyka zdigitalizowana" w katalogu OPAC 
+Linki wprowadzone jako nuty zdigitalizowane nuty pojawiają się w filtrze "Muzyka zdigitalizowana" w katalogu OPAC
 
 (opac.rism.info).
 

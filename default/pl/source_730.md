@@ -16,13 +16,13 @@ _Przykłady_:
 
 Tytuł ujednolicony: Don Giovanni  
 Tytuł dodatkowy: Der steinerne Gast  
-  
+
 Tytuł ujednolicony: Masses (Msze)  
 Tytuł dodatkowy: Missa S Ursulae  
-  
+
 Tytuł ujednolicony: Masses (Msze)  
 Tytuł dodatkowy: Deutsche Messe [= tłumaczenie łacińskiego tekstu mszy]  
-  
+
 Tytuł ujednolicony: Masses (Msze)  
 Tytuł dodatkowy: Deutsches Hochamt [=parafraza nabożeństwa w jęz. niemieckim]
 
@@ -34,7 +34,7 @@ Tytuł dodatkowy: Symphoniae sacrae
 
 W przypadku kompletów wariacji, wprowadzić w tym polu nazwę tematu i wybrać **Wariacje** w polu **Strefa aranżacji (730 $o)**.
 
-W przypadku wstawień, wprowadzić tytuł większej opery lub utworu i wybrać **Wstawienia**  w polu **Podhasło** **(730 $k)**. Należy również zwrócić uwagę na wytyczne znajdujące się w polu **Wstawienia **** (787)**.
+W przypadku wstawień, wprowadzić tytuł większej opery lub utworu i wybrać **Wstawienia**  w polu **Podhasło (730 $k)**. Należy również zwrócić uwagę na wytyczne znajdujące się w polu **Wstawienia (787)**.
 
 _Przykłady_:
 
@@ -42,11 +42,9 @@ Tytuł ujednolicony: Wariacje
 Tytuł dodatkowy: Ein Mädchen oder Weibchen [plus **Wariacje** w polu **Strefa aranżacji (730 $o)**.]
 
 Tytuł ujednolicony: Consola amato bene  
-Tytuł dodatkowy: Una cosa rara [plus **Wstawienia****   **w** Podhaśle (730 $k)**]
+Tytuł dodatkowy: Una cosa rara [plus **Wstawienia** w **Podhaśle (730 $k)**]
 
-####   
-
-#### Strefa aranżacji (730 $o) 
+#### Strefa aranżacji (730 $o)
 
 Wybrać **Aranżację**, jeśli utwór jest aranżacją innego utworu. Pole to winno odpowiadać polu **Strefa aranżacji (240 $o)** znajdującemu się powyżej. Jeżeli utwór jest kompletem wariacji, wybrać **Wariacje**.
 
@@ -54,9 +52,9 @@ Wybrać **Aranżację**, jeśli utwór jest aranżacją innego utworu. Pole to w
 
 #### Typ reguły (730 $g)  
 
-Wskazać, jakie reguły katalogowania lub normy są stosowane do sformułowania dodatkowego tytułu. Reguły **RISM** są domyślne. Można również wybrać **RDA** (Resource Description and Access), **RAK** (zasady katalogowania stosowane w krajach niemieckojęzycznych) lub **ICCU ** (Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche), czyli zasady katalogowania we Włoszech. 
+Wskazać, jakie reguły katalogowania lub normy są stosowane do sformułowania dodatkowego tytułu. Reguły **RISM** są domyślne. Można również wybrać **RDA** (Resource Description and Access), **RAK** (zasady katalogowania stosowane w krajach niemieckojęzycznych) lub **ICCU** (Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche), czyli zasady katalogowania we Włoszech.
 
-#### Podhasło (730 $k) 
+#### Podhasło (730 $k)
 
 Pole służy do wprowadzania aspektów form specjalnych, jeśli mają zastosowanie. Wybrać spośród następujących:
 
@@ -64,12 +62,12 @@ Pole służy do wprowadzania aspektów form specjalnych, jeśli mają zastosowan
 - Fragmenty
 - Wstawienia
 - Szkice  
-Wybierając **Wyjątki**, **Fragmenty** lub **Szkice** w polu **Podhasło (240 $k)** znajdującym się powyżej, należy również wybrać **Wyjątki**, **Fragmenty** lub **Szkice** w tym polu. Dla wstawień, wybierz **Wstawienia**. Dalsze informacje można wprowadzić w polu **Uwaga o zawartości (505)**. 
+Wybierając **Wyjątki**, **Fragmenty** lub **Szkice** w polu **Podhasło (240 $k)** znajdującym się powyżej, należy również wybrać **Wyjątki**, **Fragmenty** lub **Szkice** w tym polu. Dla wstawień, wybierz **Wstawienia**. Dalsze informacje można wprowadzić w polu **Uwaga o zawartości (505)**.
 
-  
+
 
 #### Tonacja lub modus (730 $r)   
 Numer katalogowy/numer opus (730 $n)   
-Podsumowanie obsady (730 $m) 
+Podsumowanie obsady (730 $m)
 
 W przypadku aranżacji lub kompilacji pól tych należy użyć w celu wprowadzenia informacji o oryginalnej kompozycji. Pól tych nie trzeba wypełniać ponownie, jeśli są one identyczne z głównym utworem, o którym mowa.

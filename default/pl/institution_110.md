@@ -1,11 +1,11 @@
-#### **Instytucja (MARC 110 $a; ISDIAH 5.1.2)**
+#### Instytucja (MARC 110 $a; ISDIAH 5.1.2)
 
 Pole stanowi autoryzowany punkt dostępu, który jednoznacznie identyfikuje instytucję ze zbiorami.
 
-#### **Instytucja (110 $a)**
+#### Instytucja (110 $a)
 
 Wpisać bieżącą nazwę instytucji w języku lokalnym. Jeśli język oryginalny posiada alfabet inny niż łaciński, należy wpisać jej transliterację.   
-  
+
 Jeżeli biblioteki, archiwa lub centra dokumentacji należą do większej instytucji, należy najpierw wpisać nazwę większej instytucji i następnie dodać podległą jej jednostkę, oddzieloną przecinkiem.
 
 _Przykłady_:  
@@ -16,13 +16,11 @@ Norges musikkhøgskole, Biblioteket
 ERESBIL - Musikaren Euskal Artxiboa  
 Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossi
 
-#### **Miejsce (110 $c)**
+#### Miejsce (110 $c)
 
 Wprowadzić nazwę miasta, w którym znajduje się instytucja. Jeśli język oryginalny posiada alfabet inny niż łaciński, należy wpisać jej transliterację.
 
-** **
-
-#### **Siglum (110 $g)**
+#### Siglum (110 $g)
 
 Pole służy do podawania unikalnego, niezmienialnego siglum biblioteki RISM. **Sigla nadaje Biuro Centralne RISM** w porozumieniu z krajowymi grupami roboczymi RISM.
 
@@ -30,7 +28,7 @@ Sigla bibliotek składają się z trzech elementów: skrótu krajowego, skrótu 
 
  W przypadku, gdy instytucja zmieniła nazwę, nadal zachowuje to samo siglum. (Na przykład: CZ-Bu)
 
- 
+
 
 _Przykłady_:  
 GB-Cu = United Kingdom, Cambridge, University Library  

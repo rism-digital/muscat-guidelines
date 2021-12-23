@@ -1,4 +1,4 @@
-**### Descrizione fisica (300)**
+### Descrizione fisica (300)
 
 **Estensione (300 $a)**
 

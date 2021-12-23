@@ -18,9 +18,9 @@ Może to być problem z rozdzielczością ekranu. Muscat działa najlepiej na ek
 To również może być problem z rozdzielczością ekranu. Patrz Pkt. 3.  
 **5. Mój ekran jest szary i widzę jedynie klepsydrę.**   
 Dzieje się tak podczas szukania w indeksach. Należy sprawdzić, czy nie jest otwarte inne okno. Z tego okna należy wrócić do głównego ekranu.  
-**6. Mój incipit najwyraźniej się ** „ **zawiesił** ” **.**
+**6. Mój incipit najwyraźniej się** „ **zawiesił** ” **.**
 
 Należy spróbować kliknąć strzałki "odśwież" lub zapisać zapisany rekord i spróbować ponownie wprowadzić incipit.  
-**7. Otrzymuję komunikat o błędzie: ** „ **Error saving page: this is a stale version** ” **.**
+**7. Otrzymuję komunikat o błędzie:** „ **Error saving page: this is a stale version** ” **.**
 
 Oznacza to, że podczas edycji, ktoś inny również rozpoczął edycję rekordu i zapisał go wcześniej, przed Państwem. Należy spróbować zapamiętać zmiany, zamknąć rekord i otworzyć go ponownie.

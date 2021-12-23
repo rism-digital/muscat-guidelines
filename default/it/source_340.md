@@ -4,7 +4,7 @@ Questo campo riporta informazioni sulla descrizione fisica per un documento la c
 
 **Tecnica di stampa (340** **$d)**
 
-# 
+#
 
 Puoi indicare qui la tecnica o le tecniche usate nella produzione della fonte. Se hai bisogno di aggiungere un termine che non è sulla lista, prendi contatto con l'Editorial Center.
 
@@ -23,19 +23,19 @@ Puoi indicare qui la tecnica o le tecniche usate nella produzione della fonte. S
 
 Ogni aggiunta o commento sulla tecnica di riproduzione può essere spiegato nel campo **Nota generale (500 $a)**.
 
-Se una fonte comprende più tecniche di riproduzione, puoi ripetere il campo per indicare ciascuna tecnica. Aggiungi una nota esplicativa nel campo  **Nota generale****  (500 $a)**.
+Se una fonte comprende più tecniche di riproduzione, puoi ripetere il campo per indicare ciascuna tecnica. Aggiungi una nota esplicativa nel campo  **Nota generale (500 $a)**.
 
 _Esempio:_  
 Un’incisione musicale con un frontespizio litografato:  
 **Tecnica di stampa** (340 $d): Incisione  
 **Tecnica di stampa**  (340 $d): Litografia  
-**Nota generale**  (500 $a): Musica incisa. Frontespizio litografato. 
+**Nota generale**  (500 $a): Musica incisa. Frontespizio litografato.
 
-  
 
-#### **Formato librario (340 $m)**
 
-Seleziona il formato del libro risultante dalla piegatura di una carta per formare un fascicolo o segnatura (ad esempio, il formato di una carta piegata una volta è in folio, due volte in quarto, tre volte in ottavo). Seleziona dalle seguenti opzioni: 
+#### Formato librario (340 $m)
+
+Seleziona il formato del libro risultante dalla piegatura di una carta per formare un fascicolo o segnatura (ad esempio, il formato di una carta piegata una volta è in folio, due volte in quarto, tre volte in ottavo). Seleziona dalle seguenti opzioni:
 
 - **2°**: in folio, fo
 

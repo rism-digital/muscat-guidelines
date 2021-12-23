@@ -1,6 +1,6 @@
- 
 
-1. **Figuras ** (Los términos en _itálica_ indican referencias cruzadas.)
+
+1. **Figuras** (Los términos en _itálica_ indican referencias cruzadas.)
 
 **Nota del Traductor:** dado que la descripción de las filigranas debe hacerse de manera uniforme y en inglés, la columna derecha sólo plantea, a modo informativo, equivalencias para las expresiones estandarizadas.
 

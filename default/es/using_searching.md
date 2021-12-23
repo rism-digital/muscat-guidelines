@@ -4,7 +4,7 @@ En Muscat es posible realizar **búsquedas** mediante la **búsqueda por facetas
 
 La **búsqueda por facetas** (menú superior, en el medio) su usa para buscar los datos en un contexto de tipo OPAC. Si Ud. cuenta con derechos de edición sobre una fuente en particular, un botón de edición lo llevará directamente al modo de edición del registro respectivo Muscat.
 
-Una de las posibilidades de la [búsqueda avanzada](http://muscat.rism.info/advanced) es la  **búsqueda por íncipit. ** Un teclado facilita el ingreso de la notación musical. Hay cuatro modos de búsqueda disponibles, con diversos grados de flexibilidad:
+Una de las posibilidades de la [búsqueda avanzada](http://muscat.rism.info/advanced) es la  **búsqueda por íncipit.** Un teclado facilita el ingreso de la notación musical. Hay cuatro modos de búsqueda disponibles, con diversos grados de flexibilidad:
 
 1. Altura exacta: el íncipit concuerda con las alturas exactas.
 2. Intervalo: se ignoran las alturas, pero se buscan los intervalos. Esto permite la inclusión de **transposiciones** de una melodía dada.

@@ -1,4 +1,4 @@
-### **Dati editoriali (260)**
+### Dati editoriali (260)
 
 Questo campo è utilizzato per tutti i tipi di pubblicazione tranne articoli o singoli capitoli di libri.
 

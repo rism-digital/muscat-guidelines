@@ -1,6 +1,6 @@
-**Jest częścią…****  (760)**
+**Jest częścią… (760)**
 
-W tym polu należy wprowadzić link łączący opisywaną pozycję z rocznikiem, czasopismem, książką lub serią, której jest częścią. 
+W tym polu należy wprowadzić link łączący opisywaną pozycję z rocznikiem, czasopismem, książką lub serią, której jest częścią.
 
 **Tytuł czasopisma, książki lub serii (760 $t)**
 
@@ -22,4 +22,4 @@ W przypadku rozdziału będącego częścią zbioru esejów, wprowadzić jego nu
 _Przykład_:  
 str. 76-109
 
-Co do zasady, należy umieścić wystarczającą ilość informacji, aby inni użytkownicy systemu mogli bez problemu znaleźć daną pozycję 
+Co do zasady, należy umieścić wystarczającą ilość informacji, aby inni użytkownicy systemu mogli bez problemu znaleźć daną pozycję

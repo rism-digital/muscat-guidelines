@@ -1,4 +1,4 @@
-#### **Autor (100)**
+#### Autor (100)
 
 Podać nazwę głównego autora publikacji. Redaktorów tomów lub kompozytorów wprowadza się w polu **Dodatkowa osoba (700)**.
 

@@ -1,4 +1,4 @@
-#### ** ** Uwaga do zawartości **(520 $a)**
+#### Uwaga do zawartości (520 $a)
 
 Pole określa daty początkowe/końcowe danej pozycji. Dotyczy to szczególnie czasopism.
 

@@ -1,4 +1,4 @@
-**Nota generale****  (680 $a) **
+**Nota generale  (680 $a) **
 
 Inserisci note aggiuntive che descrivono l’istituzione, come ad esempio:
 
@@ -16,4 +16,4 @@ Inserisci note aggiuntive che descrivono l’istituzione, come ad esempio:
 
 - Orari d’apertura (ISDIAH 5.4.1): segnala informazioni sugli orari di apertura e le date di chiusura annuali. Aggiungi queste informazioni se non sono facilmente ottenibili online.  
 - Condizioni e requisiti per l’accesso e l’utilizzo (ISDIAH 5.4.2)
-- Servizi di riproduzione (ISDIAH 5.5.2) 
+- Servizi di riproduzione (ISDIAH 5.5.2)

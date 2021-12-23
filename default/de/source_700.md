@@ -1,4 +1,4 @@
-#### 
+####
 
 ### Nebeneintragung Personen (700)  
 
@@ -9,15 +9,15 @@ Geben Sie alle auf der Quelle genannten Namen an. Das Feld ist mit der Normdatei
 
 Bei Sammlungen oder Konvoluten werden lediglich diejenigen Namen angegeben, welche im Zusammenhang mit der ganzen Sammlung/Konvolut stehen. Namen, die sich lediglich auf einzelne Werke beziehen, werden im Einzeleintrag verzeichnet.
 
-#### Zuschreibung (700 $j) 
+#### Zuschreibung (700 $j)
 Wählen Sie einen Indikator, um die Gewissheit der Zuschreibung anzuzeigen:  
 
 - **Ermittelt** - Der Name ist teilweise oder gar nicht auf der Quelle genannt, aber die Zuschreibung ist (angemessen) sicher und basiert auf Vergleichen mit konkordanten Quellen, Sekundärliteratur oder anderen wissenschaftlichen Ressourcen.
-- 
+-
 
 **Mutmaßlich** - Die Zuschreibung basiert auf Sekundärliteratur, ist aber fraglich.
 
-- 
+-
 
 **Angeblich -** Der Name erscheint auf der Quelle, aber die Zuschreibung ist fraglich oder zweifelhaft.
 
@@ -49,10 +49,10 @@ Teilen Sie jeder Person eine Funktion zu. Eine Person kann mehrfach mit verschie
 - **Schreiber [csc]**  
 - **Sonstige Funktion [oth]:** Alle anderen Personen, deren Funktion nicht aufgelistet ist.
 - **Stecher [egr]**  
-- **Textdichter [lyr]:** Autor nicht dramatischer Werke, ausgenommen Oratorien. 
+- **Textdichter [lyr]:** Autor nicht dramatischer Werke, ausgenommen Oratorien.
 - **Übersetzer [trl]**  
 - **Verleger [pbl]**  
 - **Vorbesitzer [fmo]**  
 - **Widmungsträger [dte]**  
 - **Zensor [cns]**  
-- **Zweifelhaf**** t**: Wenn die Funktion unbekannt, unklar oder unspezifisch ist.
+- **Zweifelhaft**: Wenn die Funktion unbekannt, unklar oder unspezifisch ist.

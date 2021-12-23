@@ -1,4 +1,5 @@
-**#### Nota geral (500 $a)**Insira aqui quaisquer notas sobre o item, especialmente notas que se relacionem com a relevância do item enquanto fonte musical (caso isto não esteja óbvio no título).
+#### Nota geral (500 $a)
+Insira aqui quaisquer notas sobre o item, especialmente notas que se relacionem com a relevância do item enquanto fonte musical (caso isto não esteja óbvio no título).
 
 Insira aqui a sigla se o item se refere a uma instituição, tais como catálogos de coleções.
 

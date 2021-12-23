@@ -8,12 +8,12 @@ Este campo describe la naturaleza de la fuente. Por favor seleccione una de las 
 
 - **Autograph manuscript** (Manuscrito autógrafo): escrito completa o mayormente por la mano del compositor
 - **Possible autograph manuscript** (Posible manuscrito autógrafo): indica cierto grado de incertidumbre acerca de si se trata de un manuscrito de la mano del compositor
-- **Partial autograph** (Autógrafo parcial). ** ** partes significativas del manuscrito son de la mano del compositor
+- **Partial autograph** (Autógrafo parcial). partes significativas del manuscrito son de la mano del compositor
 - **Manuscript copy** (Copia manuscrita)
-- **Manuscript copy with autograph annotations** (Copia manuscrita con anotaciones autógrafas): incluye ** ** correcciones o pequeñas adiciones de la mano del compositor
+- **Manuscript copy with autograph annotations** (Copia manuscrita con anotaciones autógrafas): incluye correcciones o pequeñas adiciones de la mano del compositor
 - **Print** (Impreso)
-- **Print with autograph annotations ** (Impreso con anotaciones autógrafas): ** ** incluye anotaciones manuscritas de la mano del compositor. Úselo sólo en registros de ejemplares (información específica de una copia).
-- **Print with non-autograph annotations  ** (Impreso con anotaciones no autógrafas): ** ** incluye ** ** cualquier otro tipo de anotaciones manuscritas que no sean del compositor. Úselo sólo en registros de ejemplares (información específica de una copia).
+- **Print with autograph annotations** (Impreso con anotaciones autógrafas): incluye anotaciones manuscritas de la mano del compositor. Úselo sólo en registros de ejemplares (información específica de una copia).
+- **Print with non-autograph annotations** (Impreso con anotaciones no autógrafas): incluye cualquier otro tipo de anotaciones manuscritas que no sean del compositor. Úselo sólo en registros de ejemplares (información específica de una copia).
 
 **Para otros tipos de documentos:**
 

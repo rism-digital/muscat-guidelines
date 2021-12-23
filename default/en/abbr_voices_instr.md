@@ -785,8 +785,8 @@ fl d'amore
 
 - Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/MINIM_UK_UEDIN_59)
 - EN: flûte d'amour, flauto d'amore (in A or A|b)
-- DE: Flauto d'amore (in A oder A|b)FR: flûte d'amour
--   
+- DE: Flauto d'amore (in A oder A|b)
+- FR: flûte d'amour
 - IT: flauto d'amore
 - PL:
 - PT:

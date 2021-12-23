@@ -8,13 +8,13 @@ Dla nut drukowanych: Jeżeli oryginalne informacje na temat wydania zakryto etyk
 
 Dla druków należy wprowadzić takie miejsce wydania, jakie podano z źródle. Kilka miejsc wydania można wprowadzić klikając na znak plus (+) znajdujący się po lewej stronie pola tekstowego. Dla rękopisów należy wprowadzić miejsce powstania danego rękopisu, jeśli podano je w źródle.
 
-Jeżeli miejsca wydania na druku nie można zidentyfikować, należy wprowadzić **[s.****l.]**. W przypadku rękopisów należy pozostawić puste miejsce.
+Jeżeli miejsca wydania na druku nie można zidentyfikować, należy wprowadzić **[s.l.]**. W przypadku rękopisów należy pozostawić puste miejsce.
 
- 
+
 
 #### Wydawca, kopista (260 $b)
 
-W przypadku materiałów drukowanych, należy podać nazwę wydawcy, firmy wydawniczej, importera lub dystrybutora, jaką podano w źródle. 
+W przypadku materiałów drukowanych, należy podać nazwę wydawcy, firmy wydawniczej, importera lub dystrybutora, jaką podano w źródle.
 
 W przypadku rękopisów, należy podać nazwę kopisty, jaka widnieje w źródle.
 
@@ -22,7 +22,7 @@ W polach **Dodatkowa osoba (700)** lub **Instytucja dodatkowa (710)** zawsze nal
 
 Jeżeli nazwy wydawcy lub dystrybutora nie można zidentyfikować na druku, należy wprowadzić **[s.n.]**. (Nie należy indeksować [s.n.] jako dodatkowej instytucji.)  W przypadku rękopisów należy pozostawić puste miejsce.
 
- 
+
 
 #### Data (260 $c)
 
@@ -82,13 +82,13 @@ Dla okresów ogólnych odpowiednie lata należy wprowadzić na podstawie następ
 | XVIII wiek  
  | 1700-1799 |
 
- 
+
 
 #### Miejsce druku (260 $e)
 
 Należy wprowadzić miejsce instytucji związanej z drukiem, zwielokrotnianiem itd. jakie podano w źródle.
 
- 
+
 
 #### Nazwa drukarni (260 $f)
 

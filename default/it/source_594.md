@@ -1,7 +1,7 @@
-### **Organico**  (594)
+### Organico (594)
 
-**Voce/strumento****  (594 $b)  
- Campo obbligatorio. **
+**Voce/strumento (594 $b)  
+ Campo obbligatorio.**
 
 L’organico (o esecutori o strumentazione, che qui comprende anche le parti vocali) di una composizione, già indicato brevemente nell’ **Organico sintetico**, è qui indicato per esteso. L’ **Organico sintetico** deve perciò sempre corrispondere con i dettagli immessi in questa descrizione completa dell’organico.
 
@@ -52,7 +52,7 @@ cl in A
 tr  
 org
 
- 
+
 
 #### Numero (594 $c)
 

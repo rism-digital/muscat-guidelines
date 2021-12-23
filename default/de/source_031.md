@@ -5,7 +5,7 @@ Incipits helfen Werke zu identifizieren und Quellen zu vergleichen. Bei Instrume
 #### Incipitnummer (031 $a, b, c)
 **Pflichtfeld, wenn in diesem Teil irgendein Feld ausgefüllt ist.**
 
-Die Incipitnummer besteht aus drei durch Punkte getrennte Zahlen, welche für das Werk, den Satz und das Incipit stehen. Die erste Stelle ist immer eine "1". Sätze beziehen sich auf eindeutige Abteilungen im Werk (wie in einer Sinfonie oder eine Arie innerhalb einer Oper). Incipits mit unterschiedlichen Ziffern am Schluss, aber identischen Zahlen an zweiter Stelle, zeigen ein gleichzeitiges Erklingen an. 
+Die Incipitnummer besteht aus drei durch Punkte getrennte Zahlen, welche für das Werk, den Satz und das Incipit stehen. Die erste Stelle ist immer eine "1". Sätze beziehen sich auf eindeutige Abteilungen im Werk (wie in einer Sinfonie oder eine Arie innerhalb einer Oper). Incipits mit unterschiedlichen Ziffern am Schluss, aber identischen Zahlen an zweiter Stelle, zeigen ein gleichzeitiges Erklingen an.
 
 Die Nummerierung ist immer fortlaufend, auch wenn einzelne Sätze fehlen.
 
@@ -32,24 +32,24 @@ Angabe der zum Incipit gehörenden Rolle in standardisierter Form. Parallel dazu
 
 #### Textincipit (031 $t)
 
-Für lateinische Texte gelten gesonderte Regeln (siehe unten). Die Textincipits dienen der Identifizierung des verwendeten Textes und müssen nicht mit der Länge der angegeben Noten übereinstimmen. 
+Für lateinische Texte gelten gesonderte Regeln (siehe unten). Die Textincipits dienen der Identifizierung des verwendeten Textes und müssen nicht mit der Länge der angegeben Noten übereinstimmen.
 
-Geben Sie das Textincipit in moderner Rechtschreibung ein und normieren Sie die Eingabe mit Hilfe der Normdatei **Titel/Textincipit**. Geben Sie neue Texte ein, sofern diese noch nicht im Index vorhanden sind. 
+Geben Sie das Textincipit in moderner Rechtschreibung ein und normieren Sie die Eingabe mit Hilfe der Normdatei **Titel/Textincipit**. Geben Sie neue Texte ein, sofern diese noch nicht im Index vorhanden sind.
 
-Teilklammerungen des Textes sind nicht erlaubt. Emphatische Akzente, Satzzeichen und Wiederholungen im Text entfallen. Akzente werden nur so verwendet, wie sie im Wörterbuch stehen und grammatikalisch richtig sind. Ziffern zu Beginn des Textes werden in Worte umgeschrieben. Die Groß-/Kleinschreibung richtet sich nach den Regeln der jeweiligen Sprache; jedoch werden Bezeichnungen für Gott (Herr, Dio, Dieu, Signore, Lord, etc.) stets groß geschrieben. Wird für den Einordnungstitel (240) das Textincipit verwendet, muss auf genaue Übereinstimmung in Länge und Schreibweise geachtet werden. 
+Teilklammerungen des Textes sind nicht erlaubt. Emphatische Akzente, Satzzeichen und Wiederholungen im Text entfallen. Akzente werden nur so verwendet, wie sie im Wörterbuch stehen und grammatikalisch richtig sind. Ziffern zu Beginn des Textes werden in Worte umgeschrieben. Die Groß-/Kleinschreibung richtet sich nach den Regeln der jeweiligen Sprache; jedoch werden Bezeichnungen für Gott (Herr, Dio, Dieu, Signore, Lord, etc.) stets groß geschrieben. Wird für den Einordnungstitel (240) das Textincipit verwendet, muss auf genaue Übereinstimmung in Länge und Schreibweise geachtet werden.
 
 Nach Apostroph wird in den romanischen Sprachen immer ohne Leerzeichen weiter geschrieben. Ausnahme: wenn der Anfangsbuchstabe eines Wortes durch Apostroph ersetzt ist (z. B. Fra l'amante e 'l genitor).
 
 Zusätzlich ermittelte Texte, die nicht in der Quelle stehen, können hier in eckigen Klammern angegeben werden. Dazu gehören:
 
-- Ergänzte Texte, wenn Vokalstimmen fehlen 
+- Ergänzte Texte, wenn Vokalstimmen fehlen
 
 - Textincipits in der Originalsprache des Werks, wenn die Quelle eine übersetzte Fassung bietet
 
 - Texte von Vokalkompositionen, die Thema einer Variation oder Vorlage einer instrumentalen Bearbeitung wurden
-  
+
 **Gesonderte Regeln für lateinische Texte**: Geben Sie sowohl geistliche als auch weltliche lateinische Texte ein. Das Feld ist mit der Normdatei **Titel/Textincipit** verknüpft. Innerhalb des Indexes (Indikator 't') können Sie sich über den genauen liturgischen Kontext, Varianten und anderes in formieren. Wird für den 'Einordnungstitel' das Textincipit benutzt, so wird muss auf genaue Übereinstimmung der Schreibweise geachtet werden. Der lateinische Text wird im Einordnungstitel allerdings nur bis zu dem Trennungszeichen, einem Komma, angegeben. Lateinische Texte, die nicht in der Quelle genannt sind, sondern recherchiert wurden, werden in eckigen Klammern eingetragen.   
-  
+
 
 #### Tonart, Modus (031 $r)
 
@@ -64,17 +64,17 @@ Erlaubt sind auch:
 **c/** = alla breve  
 **3 =** proportio tripla; auch **1, 2**, etc.  
 **c3 =** proportio tripla  
-**c3/2  
-c. =** tempus imperfectum cum prolatione perfecta  
+**c3/2**  
+**c. =** tempus imperfectum cum prolatione perfecta  
 **o =** tempus perfectum cum prolatione imperfecta  
 **o/ =** tempus perfectum cum prolatione minore diminutum  
-**o.  ** = tempus perfectum cum prolatione perfecta
+**o.** = tempus perfectum cum prolatione perfecta
 
 _Weitere Beispiele:_  
 4/4  
 6/8
 Falls die Taktangabe in der Quelle offensichtlich falsch ist, muss das Taktmaß so angegeben werden, dass es mit dem tatsächlichen Incipit übereinstimmt. Dies kann unter **Kommentar zum Musikincipit** näher ausgeführt werden.  
-  
+
 
 #### Schlüssel (031 $g)
 
@@ -91,7 +91,7 @@ xFC[G] = Töne F und C werden erhöht. Das Stück steht jedoch eindeutig in A-Du
 
 **Gültigkeit (031 $??)**
 
-**Bitte diese Feld nicht verwenden!** (Es ist nur für Altdaten notwendig.) 
+**Bitte diese Feld nicht verwenden!** (Es ist nur für Altdaten notwendig.)
 
 #### Musikincipit (031 $p)
 
@@ -200,7 +200,7 @@ Wenn sich eine rhythmische Abfolge mehrmals wiederholt, kann sie den betroffenen
 ##### Beispiel:  
 statt 8.A6B8C8.D6E8F kann stehen 8.68ABCDEF  
 Das rhythmische Muster endet, sobald ein anderer rhythmischer Wert folgt.  
-  
+
 
 **12. Schlüssel-, Vorzeichen-, Taktwechsel:**
 
@@ -217,19 +217,19 @@ Verkürzte Schreibweisen in den Noten, wie Tremolo auf Halbe D oder Faulenzer, m
 
 _Beispiel:_  
 Tremolo Halbe auf D = {'8DDDD}  
-  
+
 **14. Akkorde**  
 Weder in Muscat noch im Online-Katalog können Akkorde dargestellt werden. Geben Sie daher keine Akkorde an, auch wenn es generell im Plaine & Easie Code möglich ist. Einfache Akkorde eines gleichen Notenwertes werden von der höchsten zur niedrigsten Note angegeben.   
-  
+
 _Beispiel:_  
 4’’C^’G^E^C  
-  
+
 
 #### Kommentar zum Musikincipit (031 $q)
 
 Hier können Kommentare in einer der Katalogisierungssprachen angegeben werden, wie zum Beispiel die Stimmung transponierter Instrumente, Fehler im Incipit oder vorgenommene Korrekturen.
 
-  
+
 
 #### Bemerkungen (031 $?)
 
@@ -237,35 +237,35 @@ In diesem Feld können besondere Angaben zur Besetzung des Satzes (beispielsweis
 
 Dabei gilt die übliche Reihenfolge:
 
-- 
+-
 
 Solo-Vokalstimmen
 
-- 
+-
 
 Chor-Vokalstimmen
 
-- 
+-
 
 Soloinstrumente
 
-- 
+-
 
 Streicherstimmen
 
-- 
+-
 
 Generalbass
 
-- 
+-
 
 Holzbläserstimmen
 
-- 
+-
 
 Blechbläserstimmen
 
-- 
+-
 
 weitere Instrumente.
 

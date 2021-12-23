@@ -2,7 +2,7 @@
 
 Vi sono alcune abbreviazioni e termini che puoi incontrare ovunque in Muscat. Riempiendo campi a testo libero, è miglior pratica di scrivere per esteso i termini a beneficio degli utenti cui queste abbreviazioni potrebbero non essere note.
 
- 
+
 
 | **Termine** | **Significato** |
 | acc | accompagnamento |
@@ -20,7 +20,7 @@ Vi sono alcune abbreviazioni e termini che puoi incontrare ovunque in Muscat. Ri
 | Chor-P | partitura vocale (in musica a stampa) |
 | clm. | colonna |
 | cm | centimetri |
-| CMPCOL | volume composito (tipo di fonte in Muscat)collezione (tipo di fonte in Muscat) |
+| CMPCOL | volume composito (tipo di fonte in Muscat) collezione (tipo di fonte in Muscat) |
 | collab. | collaboratore |
 | collection | raccolta manoscritta, raccolta a stampa  
  |
@@ -37,7 +37,7 @@ Vi sono alcune abbreviazioni e termini che puoi incontrare ovunque in Muscat. Ri
 |   |   |
 | ed. | curatore, a cura di, edizione |
 | edn. | edizione |
-| EDTenl. | edizione a stampa (tipo di fonte in Muscat)edizione accresciuta |
+| EDTenl. | edizione a stampa (tipo di fonte in Muscat) edizione accresciuta |
 | et al. | e altri  
  |
 | etc. | eccetera |
@@ -62,7 +62,7 @@ Vi sono alcune abbreviazioni e termini che puoi incontrare ovunque in Muscat. Ri
 | KLA | spartito/riduzione canto e piano (nella musica a stampa) |
 | kpl. | completo (nella musica a stampa) |
 | LEC |  scheda figlia (sottordinata) in una collezione di libretti a stampa (tipo di fonte Muscat) |
-| LEDLith. | libretto a stampa (tipo di fonte Muscat)litografia |
+| LEDLith. | libretto a stampa (tipo di fonte Muscat) litografia |
 | | |
 | LSR | libretto manoscritto (tipo di fonte Muscat) |
 | lvs. | fogli |
@@ -120,11 +120,11 @@ Vi sono alcune abbreviazioni e termini che puoi incontrare ovunque in Muscat. Ri
 | s.l. (sine loco) | senza luogo (nella musica a stampa) |
 | s.n. (sine nomine) | senza nome dell’editore (nella musica a stampa) |
 | St | parti (nella musica a stampa) |
-| SUBsuppl., supp. | scheda figlia (sottordinata) in un'edizione musicale a stampa (tipo di fonte Muscat)supplemento |
+| SUBsuppl., supp. | scheda figlia (sottordinata) in un'edizione musicale a stampa (tipo di fonte Muscat) supplemento |
 |   |   |
 | t | l’incipit è trascritto |
 | Tab | intavolatura (nella musica a stampa) |
-| TECTED theoreticum | scheda figlia (sottordinata) in una collezione di trattati a stampa (tipo di fonte Muscat)trattato a stampa (tipo di fonte Muscat)  
+| TECTED theoreticum | scheda figlia (sottordinata) in una collezione di trattati a stampa (tipo di fonte Muscat) trattato a stampa (tipo di fonte Muscat)  
 trattato |
 | TSR | trattato manoscritto (tipo di fonte Muscat) |
 | trans. | traduzione, traduttore  

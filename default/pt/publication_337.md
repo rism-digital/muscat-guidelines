@@ -1,5 +1,4 @@
-#### **Tipo de mídia (337 $a)**
-
+#### Tipo de mídia (337 $a)
 **Campo obrigatório.**
 
 Selecione o tipo de mídia a partir da lista abaixo:

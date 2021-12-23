@@ -1,8 +1,8 @@
-### **Titolo (240)**
+### Titolo (240)
 **Campo obbligatorio.   
-  
+
 Titolo (240 $a)**   
-  
+
 
 Inserisci il titolo dell'oggetto, inclusi i sottotitoli. Inserisci eventuali traduzioni del titolo nel campo **Titolo alternativo (730)**.
 

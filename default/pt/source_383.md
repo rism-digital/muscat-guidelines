@@ -1,4 +1,4 @@
-### **Número de opus (383)**
+### Número de opus (383)
 
 Insira o número de opus aqui se ele aparece na fonte, precedido por **op.**. Separe movimentos individuais com uma barra inclinada ( / ).
 

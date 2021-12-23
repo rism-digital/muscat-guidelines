@@ -1,15 +1,15 @@
 #### Localizzazione e accesso elettronico** (856)**  
 
 Utilizza questo campo per collegare una risorsa esterna che ha un legame diretto alla fonte descritta.   
-  
 
-**URL per l'accesso elettronico****  (856 $u)**
+
+**URL per l'accesso elettronico (856 $u)**
 
 Inserisci lo URL della risorsa esterna. Utilizza sempre dei collegamenti permanenti (permalink).
 
- 
 
-**Nota sulla risorsa esterna****  (856 $z)**
+
+**Nota sulla risorsa esterna (856 $z)**
 
 Questo campo è obbligatorio se si inserisce un collegamento internet.
 
@@ -46,13 +46,13 @@ https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu
 **Nota sulla risorsa esterna**: versione digitalizzata  
 **Tipo di collegamento**: musica digitalizzata
   - **URL per l'accesso elettronico**: [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
-**Nota **  **sulla risorsa esterna**: IIIF manifest  
+**Nota**  **sulla risorsa esterna**: IIIF manifest  
 **Tipo di collegamento**: IIIF manifest
 - **Altri**: Collegamento ad altre risorse che non sono la fonte descritta.
 
 #### Tipi di risorse esterne
 
-**Tipo di collegamento****  856 $x: Musica digitalizzata**  
+**Tipo di collegamento 856 $x: Musica digitalizzata**  
 Inserisci un collegamento unicamente alla fonte descritta nella scheda RISM. Usa solo collegamenti permanenti (permalinks). Se non sono disponibili dei collegamenti permanenti, istituisci un collegamento a una pagina dalla quale sia facile trovare il collegamento alla fonte digitalizzata (come una scheda bibliografica in un catalogo di biblioteca). Puoi inserire estratti da una fonte digitalizzata (ad esempio, alcune pagine) se una versione digitalizzata completa non è disponibile.
 
 I collegamenti inseriti come musica digitalizzata appaiono nel filtro "Musica digitalizzata" nell'OPAC pubblico (opac.rism.info).
@@ -66,7 +66,7 @@ Dettagli delle fonti che ne presentano un aspetto specifico, come una filigrana,
 - **Schede di cataloghi o banche dati**  
 Ad esempio, schede bibliografiche in cataloghi esterni o voci in banche dati esterne. Si possono inserire banche dati scientifiche esterne che forniscono informazioni utili, ma rifletti se non sia meglio indicarli nei riferimenti bibliografici.
 - **Cataloghi tematici elettronici, enciclopedie online, riferimenti digitalizzati**  
-In genere, utilizza i campi **Catalogo delle opere (690)** o **Riferimenti bibliografici (691)** per indicare opere online come cataloghi o enciclopedie. Tuttavia, come servizio agli utilizzatori, può essere utile aggiungere nel campo 856 un collegamento diretto a un certo luogo all'interno della risorsa di riferimento. 
+In genere, utilizza i campi **Catalogo delle opere (690)** o **Riferimenti bibliografici (691)** per indicare opere online come cataloghi o enciclopedie. Tuttavia, come servizio agli utilizzatori, può essere utile aggiungere nel campo 856 un collegamento diretto a un certo luogo all'interno della risorsa di riferimento.
 - **Fonti archivistiche o storiche**   
 Ad esempio, registri municipali o documenti, corrispondenza, periodici storici. Assicurati che la pertinenza della fonte archivistica sia spiegata in una **Nota generale (500)**, poi inserisci il collegamento diretto qui. Nel caso di periodici storici, inserisci il nome del periodico nei riferimenti bibliografici ma poi inserire qui un collegamento alla pagina specifica che contiene l'articolo; assicurati di inserire informazioni sull'articolo, ad esempio titolo e data, in una nota.
 - **Siti web**  

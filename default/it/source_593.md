@@ -24,11 +24,11 @@ Questo campo descrive la natura della fonte. Scegli dalla lista seguente:
 
 In caso di manoscritti autografi e autografi dubbi, non creare una indicazione aggiuntiva **(700)** con il nome del compositore come copista. Si fa tuttavia un’eccezione se l’identità del copista è certa ma è incerto se il copista sia anche il compositore. In questo caso, inserisci il nome del copista nel campo  **Nome aggiuntivo di persona**  **(700)** ma aggiungi lo stesso nome nel campo **Compositore/autore (100 $a)** con l’opportuna attribuzione.
 
-In alcuni casi, come per un  **autografo parziale**, può essere opportuna una nota esplicativa nel campo  **Nota generale****  (500)**.
+In alcuni casi, come per un  **autografo parziale**, può essere opportuna una nota esplicativa nel campo  **Nota generale (500)**.
 
-Se l’elaboratore di una composizione è anche il copista, seleziona **Copia manoscritta**  e non **Manoscritto autografo**. 
+Se l’elaboratore di una composizione è anche il copista, seleziona **Copia manoscritta**  e non **Manoscritto autografo**.
 
-Se sono presenti più categorie di fonti, ripeti il gruppo "Descrizione del materiale" per selezionare e descrivere ciascun tipo di fonte. 
+Se sono presenti più categorie di fonti, ripeti il gruppo "Descrizione del materiale" per selezionare e descrivere ciascun tipo di fonte.
 
 Se la tua fonte è una riproduzione meccanica (per esempio una fotocopia), segui questi passi:
 

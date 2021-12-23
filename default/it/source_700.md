@@ -1,8 +1,8 @@
 #### Nome aggiuntivo di persona (700)
 
-Questa parte appare due volte per ogni fonte. Nella sezione  **Persone e istituzioni**, riporta tutte le persone aggiuntive coinvolte. È anche presente nella sezione  **Descrizione del materiale**  per associare nomi aggiuntivi a un gruppo specifico, specialmente se vuoi creare più di un gruppo. 
+Questa parte appare due volte per ogni fonte. Nella sezione  **Persone e istituzioni**, riporta tutte le persone aggiuntive coinvolte. È anche presente nella sezione  **Descrizione del materiale**  per associare nomi aggiuntivi a un gruppo specifico, specialmente se vuoi creare più di un gruppo.
 
-#### Nome (700 $a) 
+#### Nome (700 $a)
 
 Inserisci tutti i nomi di persona che compaiono nella fonte. Questo campo è collegato con l’indice **Persone**. Si possono aggiungere dei nomi non ancora presenti nella lista di voci d’autorità.
 
@@ -10,17 +10,17 @@ Inserisci gli editori che portano il nome di una persona ma esercitano la funzio
 
 Per una scheda madre di raccolte o volumi compositi, inserisci un nome soltanto se il nome vale per tutte le composizioni della raccolta. Inserisci nomi collegati a singole composizioni nelle singole schede.
 
-#### Qualificazione d'attribuzione (700 $j) 
+#### Qualificazione d'attribuzione (700 $j)
 
 Seleziona un indicatore per descrivere il livello di certezza dell’attribuzione, se è applicabile una delle situazioni seguenti. Altrimenti lascia il campo vuoto.
 
-- **Presunto ** significa che il nome è presente sulla fonte, ma l’attribuzione è incerta o dubbia.
+- **Presunto** significa che il nome è presente sulla fonte, ma l’attribuzione è incerta o dubbia.
 - **Accertato** significa che il nome è presente solo parzialmente oppure del tutto assente dalla fonte, ma l’attribuzione è (ragionevolmente) sicura e basata sul confronto con fonti corrispondenti, riferimenti nella bibliografia, o altri metodi scientifici. Questo accade nella maggior parte dei casi.
 - **Congetturale** è un’ipotesi basata su prove secondarie (ad esempio, su riferimenti nella bibliografia).  
 - **Dubbio** significa che l’attribuzione è incerta.
-- **Attribuito erroneamente** significa che il nome è presente sulla fonte ma è errato. 
+- **Attribuito erroneamente** significa che il nome è presente sulla fonte ma è errato.
 
-#### Funzione (700 $4) 
+#### Funzione (700 $4)
 
 **Campo obbligatorio se "Nome" contiene un valore.**
 
@@ -47,11 +47,11 @@ Tieni presente che per alcune persone menzionate in una fonte si intende in real
 - **Licenziatario [lse]**: Una persona che originariamente ha ricevuto il diritto a stampare o pubblicare un'opera.
 - **Litografo [ltg]**  
 - **Poeta [lyr]**: L’autore del testo di una composizione musicale non drammatica (come il testo di un Lied), eccetto gli oratori.
-- **Altre funzioni [oth]**: Tutti gli altri nomi e funzioni, compresi importatori, distributori, e contributi di altro genere. 
+- **Altre funzioni [oth]**: Tutti gli altri nomi e funzioni, compresi importatori, distributori, e contributi di altro genere.
 - **Fabbricante di carta [ppm]**
 - **Interprete [prf]**: Ogni esecutore, ad esempio strumentista, cantante, musicista, direttore, ballerino o se il suo ruolo principale è sconosciuto o non specificato.  
 - **Stampatore [prt]**
-- **Editore [pbl]:** Inserisci l'editore come persona soltanto se si intende l'individuo, ad esempio un manoscritto di Beethoven che menziona il nome di Carl Friedrich Peters. (Peters in quanto la compagnia che pubblica l'edizione musicale a stampa, invece, è inserito come nome di ente.) 
+- **Editore [pbl]:** Inserisci l'editore come persona soltanto se si intende l'individuo, ad esempio un manoscritto di Beethoven che menziona il nome di Carl Friedrich Peters. (Peters in quanto la compagnia che pubblica l'edizione musicale a stampa, invece, è inserito come nome di ente.)
 - **Copista [scr]**: Utilizza per copisti o scribi
 - **Traduttore [trl]**  
 - **Fonditore [tyd]**: La persona che ha realizzato i caratteri.

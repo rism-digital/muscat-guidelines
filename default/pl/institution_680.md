@@ -1,4 +1,4 @@
-#### **Inne uwagi na temat opisu (680 $a)**
+#### Inne uwagi na temat opisu (680 $a)
 
 Wprowadzić dodatkowe uwagi opisujące daną instytucję, takie jak:
 
@@ -12,7 +12,7 @@ Wprowadzić dodatkowe uwagi opisujące daną instytucję, takie jak:
   Telemann, Georg Michael  
   Fonds Montpensier  
   Collection Camille Saint-Saëns  
- Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975) 
+ Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
 
 - Godziny otwarcia (ISDIAH 5.4.1): Należy podać informacje o godzinach otwarcia oraz dniach, kiedy instytucja jest nieczynna. Informacje te należy podać, gdy nie są łatwo dostępne w Internecie.  
 - Warunki i wymagania w zakresie dostępu i korzystania (ISDIAH 5.4.2)

@@ -17,45 +17,45 @@ Para instrumentos transpositores, afinações padronizadas estão incluídas na 
 
 Quando for necessário decidir entre termos similares, geralmente é melhor utilizar o termo que está apresentado na fonte. Se o nome do instrumento na fonte desvia das abreviaturas RISM, pode-se escrever o termo tal como está na fonte no campo **Nota geral (500)**.  
 
-Liste a formação na seguinte ordem: 
+Liste a formação na seguinte ordem:
 
-- 
+-
 
 Solo voices [Partes vocais - solo]
 
-- 
+-
 
 Chorus [Partes vocais - coro]
 
-- 
+-
 
 Solo instruments [Instrumentos - solo]
 
-- 
+-
 
 Strings [Cordas]
 
-- 
+-
 
 Woodwinds [Madeiras]
 
-- 
+-
 
 Brass [Metais]
 
-- 
+-
 
 Plucked instruments [Cordas pinçadas]
 
-- 
+-
 
 Percussion [Percussão]
 
-- 
+-
 
 Keyboard instruments [Teclas]
 
-- 
+-
 
 Basso continuo [Baixo continuo]
 
@@ -80,11 +80,11 @@ cl in A
 tr  
 org
 
- 
+
 
 #### Número (594 $c)
 
-Indique aqui o número total de partes. Se uma obra inclui duas partes para o mesmo instrumento, insira o instrumento uma vez no campo **Formação ** e o valor "2" no campo **Número**.
+Indique aqui o número total de partes. Se uma obra inclui duas partes para o mesmo instrumento, insira o instrumento uma vez no campo **Formação** e o valor "2" no campo **Número**.
 
 _Exemplos__:_
 
@@ -100,5 +100,5 @@ ob
 - Apenas 1 parte de clarineta:  
 cl  
 1
-  
+
 _Nota MARC: Este campo no OPAC é 594 $a. O valor para $a é gerado durante a exportação para o OPAC_ _._
