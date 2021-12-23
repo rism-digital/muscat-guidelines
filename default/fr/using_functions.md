@@ -10,7 +10,7 @@ The **Dashboard** displays your recent records in Muscat.
 
 **Folders** allow you to see all folders created by Muscat users.
 
-The **Faceted search** allows you to search the same sources but with more search criteria: a simple search with limits and an advanced search with many fields available. If you have the permissions to edit a record you see in the faceted search, there will be a link to take you to the Muscat editing mode. Otherwise, return to Muscat by clicking on ** Cataloguing**. **Home** takes you back to the RISM Zentralredaktion website.
+The **Faceted search** allows you to search the same sources but with more search criteria: a simple search with limits and an advanced search with many fields available. If you have the permissions to edit a record you see in the faceted search, there will be a link to take you to the Muscat editing mode. Otherwise, return to Muscat by clicking on **Cataloguing**. **Home** takes you back to the RISM Zentralredaktion website.
 
 The **Sources** page is the main page from which you access the bibliographic records for source descriptions.
 
