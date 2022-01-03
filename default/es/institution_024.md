@@ -1,5 +1,4 @@
 ### Referencia de la autoridad (MARC 024)
-
 Este campo se utiliza para registrar el número o código estándar o URI asociado a la institución.
 
 #### Referencia de la autoridad (024 $a)
@@ -23,11 +22,10 @@ Introduzca una URI procesable y analizable por máquina que identifique un nombr
 Objeto del mundo real URI (024 $1)
 
 Ingrese la URI que identifica la institución.
+
 #### Agencia de autoridad (024 $2)
-
 Seleccione una de las siguientes opciones:
-
-- **ISIL:** International Standard Identifier for Libraries and Related Organisations
+- **ISIL**: International Standard Identifier for Libraries and Related Organisations
 - **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
 - **DNB**: Deutsche Nationalbibliothek
@@ -36,16 +34,13 @@ Seleccione una de las siguientes opciones:
 - **LC**: Library of Congress
 - **MOC**: MARC Organization Code
 - **NLP**: Biblioteka Narodowa
-- **NKC**: Národní knihovna České republiky 
+- **NKC**: Národní knihovna České republiky
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
 - **WKP**: Wikidata (Wikipedia)  
-  
 
 #### Enlace (024 $6)
-
 Introduzca datos que vinculen campos que sean diferentes representaciones de escritura entre sí.
 
 #### Enlace de campo y número de secuencia (024 $8)
-
 Introduzca datos que identifiquen los campos vinculados.
