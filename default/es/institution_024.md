@@ -1,4 +1,4 @@
-### Referencia de la autoridad (MARC 024)
+### Referencia de la autoridad (024)
 Este campo se utiliza para registrar el número o código estándar o URI asociado a la institución.
 
 #### Referencia de la autoridad (024 $a)

@@ -6,7 +6,7 @@ Ein Querverweis zu bereits publizierten RISM-Serien wird angegeben, wenn eindeut
 
 Wählen Sie die entsprechende RISM Serie aus.
 
-** **
+
 
 **RISM Seriennumber (596 $b)**
 

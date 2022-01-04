@@ -6,7 +6,7 @@ Minor (mode): a, b, c, d, e, f, g, a|x, d|x, f|x, g|x, a|b, b|b, c|b, d|b, e|b, 
 
 
 
-_Examples_:
+##### Examples
 
 A
 

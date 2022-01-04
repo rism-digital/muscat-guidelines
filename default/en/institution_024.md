@@ -1,4 +1,4 @@
-### Authority reference (MARC 024)
+### Authority reference (024)
 This field is used to record the standard number or code or URI associated with the institution.
 
 #### Authority reference (024 $a)

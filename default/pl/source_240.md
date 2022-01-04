@@ -187,7 +187,7 @@ W przypadku basso continuo, wpisać instrument jak zwykle, np. **bc, bc, org**, 
 
 Ominąć streszczenie obsady, jeżeli siły wykonawcze nie są znane lub wiedza na ich temat jest niepewna. 
 
-_Przykłady_:  
+##### Przykłady  
 A, Coro, orch  
 Bariton, pf  
 V (3), strings, bc  

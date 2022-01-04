@@ -1,4 +1,4 @@
-#### Local e endereço (MARC 371; ISDIAH 5.2.1)
+### Local e endereço (371; ISDIAH 5.2.1)
 Este campo fornece os endereços da instituição, tanto físico como eletrônico.
 
 Insira as informações nos campos seguintes:
@@ -15,7 +15,7 @@ Ajuste o formato das informações de maneira adequada às convenções postais 
 
 Adicionalmente, pode-se inserir:
 
-- **Endereço de e-mail** (MARC 371 $m; ISDIAH 5.2.2): Insira o endereço de e-mail necessário para contatar a instituição.
+- **Endereço de e-mail** (371 $m; ISDIAH 5.2.2): Insira o endereço de e-mail necessário para contatar a instituição.
 - **URL** (371 $u): Use o endereço oficial da instituição. Se isso não for possível, forneça o endereço oficial da instituição maior à qual ela pertence. Não é recomendável fornecer endereços de blogs ou de redes sociais.
 
 

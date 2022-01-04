@@ -18,7 +18,7 @@ vol. 3/1-2; 11/1-2
 56
 
 Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
-_Ejemplo:_  
+##### Ejemplo  
 p. 76-109 
 
 Como regla general, asegúrese de incluir suficiente información para que otra persona pueda encontrar el artículo por sí misma

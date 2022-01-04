@@ -1,12 +1,10 @@
-### Tipo di istituzione (MARC 368)
+### Tipo di istituzione (368; ISDIAH 5.1.5)
 Questo campo riporta altri attributi della persona o nome collettivo o tipo di istituzione.  
-  
-**Tipo di istituzione (MARC 368 $a; ISDIAH 5.1.5)**  
 
+#### Tipo di istituzione (368 $a)
 Questo campo identifica il tipo di istituzione con collezioni archivistiche.
 
 Seleziona dai tipi seguenti:
-
 - Archivio  
 - Libraio
 - Copista
@@ -21,16 +19,13 @@ Seleziona dai tipi seguenti:
 - Editore  
 - Altri  
 
-**  **
-
 #### Tipo di giurisdizione (368 $b)
 Inserisci il tipo di giurisdizione associato all'istituzione.  
-  
-_Esempi_:  
+
+##### Esempi  
 Contea  
 Villaggio  
   
-
 #### Altra denominazione (368 $c)
 Inserisci qui una denominazione che non è presente nei campi precedenti di questa sezione.  
 

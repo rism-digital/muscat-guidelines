@@ -1,12 +1,10 @@
-### Location and address (MARC 371; ISDIAH 5.2.1)
-
+### Location and address (371; ISDIAH 5.2.1)
 This field gives the addresses of the institution, both physical and electronic.
 
 Enter information in the following fields:
-
 - Street address (371 $a): The street and number
 - Additions to the address: Storeys (for example, 1st floor, room 569), Names of buildings (for example, Palazzo ducale,
-  Rose cottage etc.) [MARC field?]
+  Rose cottage etc.)
 - Postal code (371 $e)
 - City (371 $b)
 - State, province, or county (371 $c)
@@ -17,8 +15,7 @@ Enter information in the following fields:
 Adjust the format of the information appropriate to the country's postal conventions.
 
 In addition, you may enter:
-
-- **E-mail** (MARC 371 $m; ISDIAH 5.2.2): Enter the e-mail address necessary to contact the institution.
+- **E-mail** (371 $m; ISDIAH 5.2.2): Enter the e-mail address necessary to contact the institution.
 - **URL** (371 $u): Use the official address of the institution. If this is not possible, give the official address of
   the larger institution to which it belongs. It is not recommended to give addresses for blogs or social networking
   sites.
@@ -27,10 +24,8 @@ In addition, you may enter:
 - **Source of information** (371 $v): The source where the information recorded in this field was found if not through a
   URL.
 
-#### Public note / Other contact information (MARC 371 $z; ISDIAH 5.2.2, 5.2.3)
-
+#### Public note/Other contact information (371 $z; ISDIAH 5.2.2, 5.2.3)
 Enter additional contact information, such as:
-
 - Telephone number (ISDIAH 5.2.2)
 - Fax number (ISDIAH 5.2.2)
 - Contact person (ISDIAH 5.2.3): It is useful to have the e-mail of a contact person, especially for institutions that

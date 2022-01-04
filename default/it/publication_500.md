@@ -7,7 +7,7 @@ Inserisci qui la sigla se l’oggetto riguarda un’istituzione, ad esempio cata
 Per tesi o dissertazioni universitarie, inserisci una nota su luogo e data di completamento della dissertazione.  
   
 
-_Esempi_:  
+##### Esempi  
 D-Bsa  
 Tübingen, Universität Diss. 2008  
 PhD dissertation, Institute of Musicology at the University of Wrocław  

@@ -1,5 +1,4 @@
-## **Estado do registro**
-
+## Estado do registro
 O **Estado do registro** determina quais registros estão publicados no [catálogo RISM online](https://opac.rism.info/index.php?id=4) e são, portanto, publicamente visíveis. O estado pode ser modificado manualmente.
 
 **Publicado**  

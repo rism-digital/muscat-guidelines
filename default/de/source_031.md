@@ -22,7 +22,7 @@ Der Satztitel wird in originaler Schreibweise wiedergegeben. Zeilenumbrüche wer
 
 Die Besetzung des Incipits wird gemäß der RISM-Abkürzungsliste angegeben. Verwenden Sie **V** für eine unbekannte Vokalstimme und **i** für ein unbekanntes Instrument. Transponierende Instrumente werden klingend notiert. Die Stimmung des Instruments wird im Feld **Bemerkungen** genannt.
 
-_Beispiele_:  
+##### Beispiele  
 pf  
 T coro
 

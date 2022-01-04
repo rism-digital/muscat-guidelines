@@ -19,7 +19,7 @@ Generalmente se registran por su título distintivo obras de tipo escénico, ora
   
 Registre el título distintivo con una ortografía estándar, tal como aparece en (1) New Grove, (2) MGG, (3) catálogos de obras, y/o (4) otros libros de referencia. No omita artículos iniciales (el, la, un, una, the, a, an, der, die, le, l’, etc.).  
   
-Los nombres o apodos por los cuales se conoce popularmente una obra (tales como “Eroica” o “Misa Nelson”) no cuentan como títulos uniformes. Tales nombres deben ser registrados en el campo **Títulos adicionales** **(730 $a)**.  
+Los nombres o apodos por los cuales se conoce popularmente una obra (tales como “Eroica” o “Misa Nelson”) no cuentan como títulos uniformes. Tales nombres deben ser registrados en el campo **Títulos adicionales(730 $a)**.  
   
 _Ejemplos de título distintivo:_  
 _Die Forelle_ (para el Lied “La Trucha”, de Schubert)  
@@ -45,7 +45,7 @@ Gloria [para el íncipit literario: Gloria, in excelsis Deo et in terra pax]
 3. **Género**  
 Utilice el género de la pieza como título uniforme si no cuenta con un título distintivo o un íncipit literario. En la mayoría de los casos, ingrese el género en inglés y en plural (como en **_Operas_** o **_Masses_**). Tenga en cuenta que, para algunos géneros, debe utilizarse un determinado **Descriptor (650)** como Título uniforme (y también como Descriptor). Por favor, remítase al apéndice **Título uniforme – Descriptor** de los _Lineamientos_para mayor información.  
   
-_Ejemplos_:  
+##### Ejemplos  
 _Symphonies_  
 _Allemandes_  
   
@@ -55,7 +55,7 @@ Ingrese la indicación de tempo en caso de que no pueda determinarse el género.
 - _Pieces_ (para piezas genéricas)  
 - _Movements_(un único movimiento de una pieza instrumental sin indicación de tempo ni de carácter)  
   
-_Ejemplos_:  
+##### Ejemplos  
 Presto  
 Lento
 
@@ -65,7 +65,7 @@ Lento
 _Ejemplo:  
 25 Arias_ 3 Instrumental pieces
 - **Volúmenes compuestos**. En este caso, ingrese el número que corresponde a la cantidad de ítems involcurados seguido de la palabra _"Items"_.   
-_Ejemplo:_  
+##### Ejemplo  
 11 ítems
 - **Variaciones**. En el caso de las variaciones, utilice **_Variations_** (Variaciones) como título uniforme. En el campo **Título adicional (730)**, registre la pieza sobre la que se basa la obra, en caso de identificarla, y seleccione el calificador **Variaciones** en la lista desplegable del subcampo **Declaración de arreglo (730 $o)**.
 - **Inserciones**. En el caso de las inserciones, ingrese el íncipit literario de la pieza insertada como título uniforme. En el campo **Título adicional (730)**, registre el nombre de la ópera u obra mayor en la cual se inserta la pieza y seleccione el calificador **Inserciones** en la lista desplegable del subcampo **Tipo especial de fuente (730 $k).**
@@ -139,7 +139,7 @@ Si la plantilla/orgánico incluye un bajo cifrado, regístrelo de manera convenc
 
 Omita el resumen de plantilla/orgánico si los medios interpretativos se desconocen o resultan inciertos.
 
-_Ejemplos_:  
+##### Ejemplos  
 _A, Coro, orch  
 Bariton, pf   
 V (3), strings, bc   

@@ -1,5 +1,4 @@
 ### La barra de menú superior
-
 El botón de  **Administración**  dirige a la configuración MARC, donde pueden consultarse todos los campos MARC utilizados en Muscat (tanto fuentes como archivos de autoridad).
 
 El botón de  **Idioma**  permite cambiar el lenguaje de Muscat.
@@ -19,7 +18,6 @@ El botón de  **Autoridades**  lo lleva a todos los archivos de autoridades, voc
 El botón de  **Lineamientos**  permite consultar todos los lineamientos en una sola página. Es donde estamos ahora.
 
 ### Secciones y acciones en el modo de edición
-
 Esta sección trata sobre las acciones que se pueden realizar cuando se edita el registro de una fuente.
 
 La columna de navegación a la derecha permite saltar a secciones específicas del registro, guardar y ver su trabajo.
@@ -41,7 +39,6 @@ El botón  **Mostrar historial de modificaciones**  permite ver, restaurar y bor
 El botón  **Añadir una nueva imagen**  permite subir imágenes pequeñas (habitualmente marcas de agua, muestras de escritura, o encuadernados) para agregar a sus registros. Puede acceder a las imágenes cargadas en el menú  **Autoridades** \>  **Imágenes.**
 
 ### Botones del modo de edición
-
 **Lupa**: haga click aquí para buscar en el archivo de autoridades vinculado al campo. Se abrirá una ventana aparte. Después de encontrar lo que necesite, haga click en  **Seleccionar**  para hacer la transferencia de la selección a su registro.
 
 **Signo de pregunta (?)**: Se muestran los lineamientos RISM para este campo.
@@ -52,10 +49,9 @@ El botón  **Añadir una nueva imagen**  permite subir imágenes pequeñas (habi
 
 **Flecha**: Haga click en la flecha para expandir o colapsar campos.
 
-**Añada un grupo**: Este botón se encuentra al final de la sección  **Descripción material.** Si se usan grupos diferenciados, distintas fechas, formatos, marcas de aguas, nombres, instituciones, etc. pueden asociarse a distintas fuentes (o como sea que elija describir su material). Algunos de estos campos, como **Nombre personal adicional (700), Institución adicional (710) **y **Nota general (500)** también se encuentran en otros lugares en la plantilla de Fuentes. Use su mejor juicio para decidir dónde colocar esta información: ¿aplica a toda la fuente, o solo a este grupo de material?
+**Añada un grupo**: Este botón se encuentra al final de la sección  **Descripción material.** Si se usan grupos diferenciados, distintas fechas, formatos, marcas de aguas, nombres, instituciones, etc. pueden asociarse a distintas fuentes (o como sea que elija describir su material). Algunos de estos campos, como **Nombre personal adicional (700), Institución adicional (710)** y **Nota general (500)** también se encuentran en otros lugares en la plantilla de Fuentes. Use su mejor juicio para decidir dónde colocar esta información: ¿aplica a toda la fuente, o solo a este grupo de material?
 
 ### Otras funciones en el modo de edición
-
 **Autocompletar:**  si ve un campo que tiene una llave, se trata de un campo vinculado al índice o archivo de autoridad. Empiece a escribir y use el autocompletado para ayudarse.
 
 **Añadir nuevos nombres, títulos, descriptores, etc.**: si no encuentra lo que necesita en el archivo o índice de autoridad, simplemente ingrese el nombre o título que desee. Una vez que haga click en otro campo, aparecerá un borde anaranjado alrededor del campo de la inserción, junto con una casilla de verificación con la indicación “Confirmar la inserción de un valor nuevo”. Haga click en esta casilla para confirmar. En el caso de los nombres personales, aparecerá un campo llamado  **Fechas de vida**. Por favor, llene este campo en la medida que le resulte posible. De este modo ayuda a la Oficina Central a crear un nuevo registro de autoridad para ese nombre. Al guardar, el nombre o título será añadido automáticamente al archivo de autoridades. Consulte también la sección  **Nombres personales** de los  **Lineamientos generales de Catalogación.**
@@ -71,4 +67,4 @@ Esta sección trata acerca de las acciones que pueden realizarse cuando se visua
 
 **Editar:**  verá este botón en caso de que cuente con los permisos necesarios para editar el registro.
 
-**Duplicar**: en el modo de visualización, un registro puede ser duplicado al hacer click en este botón. Si es necesario, puede luego llenar el campo **Registro madre (773) **para ligar este registro al registro principal de la colección.
+**Duplicar**: en el modo de visualización, un registro puede ser duplicado al hacer click en este botón. Si es necesario, puede luego llenar el campo **Registro madre (773)** para ligar este registro al registro principal de la colección.

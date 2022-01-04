@@ -10,7 +10,7 @@ Inserisci il numero dell’oggetto nella serie RISM. Si prega di notare che ogni
 
 Usa  **Other** per riferirti a edizioni musicali a stampa che non sono riportate nei volumi stampati delle serie A/I e B.
 
-_Esempio_:  
+##### Esempio  
 Other  
 1001100380
 

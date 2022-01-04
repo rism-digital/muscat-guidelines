@@ -1,4 +1,4 @@
-### Institution (MARC 110; ISDIAH 5.1.2)
+### Institution (110; ISDIAH 5.1.2)
 This field creates an authorized access point that uniquely identifies the institution with archival holdings.
 
 #### Authorized form of name (110 $a)

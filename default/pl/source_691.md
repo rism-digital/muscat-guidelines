@@ -10,7 +10,7 @@ Pole to jest połączone linkiem z bazą danych **Literatury pomocniczej**. Jeż
 
 Wpisać numer strony. Zastosować następujące angielskie skróty: **vol.** (volume - tom ), **fasc.** (fascicle - zeszyt), **suppl.** (supplement - suplement), **pt.** (part - część), **p.** (page - strona), **no.** (number - numer), oraz **clm.** (column - kolumna).
 
-_Przykłady_:  
+##### Przykłady  
 vol. 2, pt. 2, p. 430  
 vol. 5, p. 93; vol. 6, p. 12  
 Suppl. 1: 1779-1780, clm. 695

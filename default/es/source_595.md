@@ -8,7 +8,7 @@ No coloque los artículos tras el nombre principal. Siempre que sea posible, con
 
 En este campo pueden registrarse los nombres de todos los personajes que intervienen en una composición, sin importar si aparecen nombrados en la fuente o si derivan de bibliografía secundaria. Utilice ortografía estandarizada. Indique adiciones por medio del uso de corchetes. Puede registrar la parte vocal después del nombre del personaje, entre paréntesis.
 
-_Ejemplos_:  
+##### Ejemplos  
 Donna Flavia (S)  
 Theodor (T)  
 Zerbinetta (Mezzo-S)  
@@ -22,5 +22,5 @@ Drei Knaben
 
 Registre los nombres de personajes tal como aparecen en la fuente, en caso de que la ortografía difiera de la forma normalizada registrada anteriormente.
 
-_Ejemplo:_  
+##### Ejemplo  
 Pappageno

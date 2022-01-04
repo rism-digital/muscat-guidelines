@@ -4,7 +4,7 @@ Machen Sie hier Anmerkungen zu dem Literatureintrag, die nicht aus dem Titel her
   
 Geben Sie hier ein Bibliothekssigel an, wenn es sich beispielsweise um Sammlungskataloge handelt.  
   
-_Beispiele_:  
+##### Beispiele  
 D-Bsa  
 p. 95-97: "Appendix 4. Selected works"  
 S. 250-263: Werksverzeichnis (ohne Incipits)  

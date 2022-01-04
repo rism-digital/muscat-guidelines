@@ -1,4 +1,4 @@
-### Institución (MARC 110; ISDIAH 5.1.2)
+### Institución (110; ISDIAH 5.1.2)
 Este campo crea un punto de acceso autorizado que identifica de forma inequívoca a la institución con los fondos de archivo.
 
 #### Forma autorizada del nombre (110 $a)

@@ -88,7 +88,7 @@ Informacje dodatkowe (krótkie uwagi) o takich kwestiach, jak liczba lub niekomp
 - W razie posiadania wielu egzemplarzy tej samego głosu, należy wpisać liczbę i potem objętość każdego głosu. Przykład: **S (2x)**
 - **(= bc)**: partia basso continuo  
 - **(incpl)**: partia niekompletna  
-- Należy użyć a/ (ukośnik) **,** aby połączyć dwa elementy: **bc (2x/incpl)**
+- Należy użyć a/ (ukośnik), aby połączyć dwa elementy: **bc (2x/incpl)**
 - Jeśli partia zawiera muzykę dla wielu instrumentów, należy użyć **and**. Przykład: **tr 1 and 2**
 - Można wpisać strój: **cl 1, 2 in B|b**
 -

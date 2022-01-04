@@ -34,4 +34,4 @@ En caso de que se presenten múltiples tipos de fuentes, repita el grupo “Desc
 Si su fuente es una reproducción mecánica (por ejemplo, una fotocopia), siga estos pasos:
 
 1. Seleccione **Manuscrito autógrafo, Copia manuscrita,** etc. según corresponda (es decir, seleccione el tipo de documento que aplique a la fuente original).
-2. Seleccione el tipo de reproducción en el campo **Técnica de producción**  **específica** **(340 $d)**
+2. Seleccione el tipo de reproducción en el campo **Técnica de producción**  **específica(340 $d)**

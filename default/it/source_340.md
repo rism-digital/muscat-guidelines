@@ -2,7 +2,7 @@
 
 Questo campo riporta informazioni sulla descrizione fisica per un documento la cui produzione ha coinvolto mezzi tecnici, e la descrizione del formato per materiali a stampa.
 
-**Tecnica di stampa (340** **$d)**
+**Tecnica di stampa (340$d)**
 
 #
 
@@ -25,7 +25,7 @@ Ogni aggiunta o commento sulla tecnica di riproduzione può essere spiegato nel 
 
 Se una fonte comprende più tecniche di riproduzione, puoi ripetere il campo per indicare ciascuna tecnica. Aggiungi una nota esplicativa nel campo  **Nota generale (500 $a)**.
 
-_Esempio:_  
+##### Esempio  
 Un’incisione musicale con un frontespizio litografato:  
 **Tecnica di stampa** (340 $d): Incisione  
 **Tecnica di stampa**  (340 $d): Litografia  

@@ -1,4 +1,4 @@
-### Riferimento autorità (MARC 024)
+### Riferimento autorità (024)
 Questo campo è usato per riportare il numero standard o codice o URI correlato a un'istituzione.
 
 #### Riferimento autorità (024 $a)

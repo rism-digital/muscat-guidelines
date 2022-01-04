@@ -12,7 +12,7 @@ El número de íncipit se compone de tres dígitos que representan obra, movimie
 
 Numere los íncipits correlativamente incluso si faltan movimientos en la fuente. Por ejemplo, si la fuente corresponde a una sinfonía de tres movimientos pero falta el movimiento intermedio, numere los íncipits como 1.1.1 y 1.2.1 (no 1.3.1). (Nota: los puntos entre los dígitos son añadidos automáticamente por Muscat).
 
-_Ejemplos_:  
+##### Ejemplos  
 1.1.1 = 1ra obra, 1er movimiento, 1er íncipit  
 1.1.2 = 1ra obra, 1er movimiento, 2do íncipit (suena en simultáneo con 1.1.1)  
 1.1.2 = 1ra obra, 1er movimiento, la entrada de la parte vocal  
@@ -67,7 +67,7 @@ Seleccione la tonalidad o modo entre las opciones de la lista desplegable.
 
 Ingrese **x** para armaduras con sostenidos o **b** para armaduras con bemoles, seguido de las letras mayúsculas correspondientes a las alturas alteradas por la armadura. Si la pieza está claramente en una cierta tonalidad pero falta un sostenido o un bemol en la armadura, puede agregarlo entre corchetes. Si no hay armadura de clave, deje el campo en blanco.
 
-_Ejemplos_:  
+##### Ejemplos  
 xF = F (Fa) es sostenido = Sol mayor o Mi menor  
 bBE = B (Si) y E (Mi) son bemoles = Si bemol mayor o Sol menor  
 xFC[G] = F (Fa) y C (Do) son sostenidos en la fuente pero la pieza está claramente en La mayor, por lo cual se agrega el último sostenido entre corchetes.
@@ -88,7 +88,7 @@ Registre la indicación de compás como una fracción. También se permiten las 
 
 Si la métrica cambia constantemente, puede escribir la primera indicación de compás seguida de la segunda, separadas por un espacio. Si el íncipit no lleva indicaicón de compás, deje el campo en blanco.
 
-_Ejemplos_:  
+##### Ejemplos  
 4/4  
 6/8  
 3/4 4/4
@@ -176,7 +176,7 @@ No escriba ligaduras de expresión.
 { = comienzo del barrado  
 } = fin del barrado
 
-_Ejemplo:_  
+##### Ejemplo  
 {qq6’CDEDr}
 
 **10. Figuras irregulares**  
@@ -206,27 +206,27 @@ Por favor, ¡no olvide el valor rítmico dentro de los paréntesis!
 f = repetir la indicación  
 El pasaje será repetido cada vez que aparezca  **f**  después del segundo **!**. Esto sólo es posible dentro de un mismo compás.
 
-_Ejemplo:_  
+##### Ejemplo  
 !{‘8ABAG}!ff = el pasaje se repetirá dos veces
 
 **11.2 Compases repetidos**  
 i = repetir el último compás.  
 La “i” siempre va entre dos barras de compás
 
-_Ejemplo:_  
+##### Ejemplo  
 ‘4ABAG /i/i = el compás será repetido dos veces
 
 **11.3 Patrones rítmicos**  
 Cuando cierta secuencia rítmica se repite varias veces, el patrón rítmico puede consignarse antes de los respectivos nombres de nota.
 
-_Ejemplo:_  
+##### Ejemplo  
 **8.A6B8C 8.D6E8F** puede reemplazarse por **8.68ABCDEF**  
 La secuencia rítmica se termina apenas se presenta un valor rítmico distinto.
 
 **12. Cambio de clave, armadura o compás**  
 Use **%** para cambiar la clave, **$** para cambiar la armadura y **@** para cambiar la indicación de compás. Tras el carácter respectivo, escriba la nueva indicación (clave, armadura o compás) seguida de un espacio.
 
-_Ejemplos_:
+##### Ejemplos
 
 %C-1 '2A  
 %C-1 $xFC '8B  
@@ -235,13 +235,13 @@ $nBE $xFC
 
 **13. Formas de escritura abreviada**  
 Las formas abreviadas de notación que se encuentran en la música, como trémolos o signos similares de repetición, deben escribirse en su totalidad utilizando el equivalente en notación real.  
-_Ejemplo:_  
+##### Ejemplo  
 {‘8DDDD} = trémolo de corchea sobre Re
 
 **14. Acordes**  
 Registre acordes desde la nota más aguda a la más grave, separando los componentes con el signo **^**.
 
-_Ejemplo:_  
+##### Ejemplo  
 4’’C^G^E^C
 
 #### Nota general (031 $q)
@@ -252,6 +252,6 @@ Utilice este campo para registrar cualquier otro comentario, como la afinación 
 
 En este campo puede indicar la plantilla/orgánico específica para el movimiento en cuestión (por ejemplo, el caso de un movimiento dentro de una pieza vocal compleja). Consigne la plantilla/orgánico en una línea siguiendo las abreviaturas de instrumentos de RISM y el orden estándar (descriptas en **Resumen de plantilla/orgánico [240 $m]**). Use punto y coma para separar familias de instrumentos.
 
-_Ejemplos_:  
+##### Ejemplos  
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  
 S 2 solo; Coro; ob obl; strings, bc

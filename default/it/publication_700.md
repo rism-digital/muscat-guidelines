@@ -12,7 +12,7 @@ Seleziona dai seguenti (i codici di tre lettere si riferiscono ai codici MARC):
 - **Compositore [cmp]**  
 - **Curatore [edt]**
 - **Altra funzione [oth]**  
-_Esempio:_ per Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst _(titolo abbreviato: ReulF 2001):  
+##### Esempio per Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst _(titolo abbreviato: ReulF 2001):  
 Autore (100): Reul, Barbara M.  
 Persona (700): Fasch, Johann Friedrich (Compositore)  
 Persona (700): Hedwig Friederike, Fürstin von Anhalt-Zerbst (Nome correlato) 

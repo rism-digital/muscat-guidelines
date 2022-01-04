@@ -8,7 +8,7 @@ Seleziona l'origine della scheda:
 - **Conversione retrospettiva**: La scheda deriva da una pubblicazione su carta ed è stata convertita in un formato leggibile elettronicamente
 - **RISM**: La scheda è stata creata nella banca-dati RISM (valore predefinito)
 
-** **
+
 
 **Livello di catalogazione (980 $b)**
 
@@ -19,7 +19,7 @@ _Seguiranno altri dettagli._
 - **Completo**
 - **Standard**
 
-** **
+
 
 **Materiale esaminato (980 $c)**
 

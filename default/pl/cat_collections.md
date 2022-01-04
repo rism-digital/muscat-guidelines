@@ -32,7 +32,7 @@ Rekordy klocków introligatorskich powinny być proste. Podobnie jak w przypadku
 
 1. Po pierwsze, stwórz rekord dla szablonu klocka introligatorskiego, zapisz i zanotuj ID RISM.
 2. Dla rękopisów, w trybie edycji, znajdź pole **Rekord macierzysty (773)**. Kliknij w drugą ikonę „Search composite” w celu wyszukania klocka introligatorskiego.
-3. Dla druków muzycznych: W egzemplarzach znajdź pole **Współoprawne z (973) **i kliknij na ikonę lupy. Znajdź rekord klocka introligatorskiego i wybierz.
+3. Dla druków muzycznych: W egzemplarzach znajdź pole **Współoprawne z (973)** i kliknij na ikonę lupy. Znajdź rekord klocka introligatorskiego i wybierz.
 
 ### Katalogowanie kontrafaktury
 Kontrafaktura to technika, w której tekst zostaje zmieniony bez większych zmian w muzyce, jak np. przeredagowanie utworu świeckiego tekstem sakralnym lub odwrotnie. Zabieg jest niemal mechaniczny, w związku z czym rola aranżera nie ma charakteru twórczego, jednakże w wyniku zastosowania tej techniki powstaje utwór wokalny ze zmienionym celem wykorzystania muzyki (np. z kontekstu teatralnego na religijny).  
@@ -84,7 +84,7 @@ Istnieją dwa sposoby katalogowania czasopism zawierających źródło muzyczne:
 
 **Kolekcje**: kiedy periodyk składa się w całości lub w większości ze źródeł muzycznych i zachowany został jako całość.   
 Egzemplarze zostają dodane na poziomie kolekcji, natomiast dla poszczególnych źródeł tworzy się indywidualne wpisy pozycji w kolekcji.  
-_Przykład:_  
+##### Przykład  
 _1001097294:_ Styczniowy numer (dokładny rok nie jest określony) _Kleine Pianoforte-Bibliothek_ składa się z 5 źródeł muzycznych. Należy stworzyć jeden rekord kolekcji i pięć indywidualnych wpisów pozycji w kolekcji.   
 
 **Pojedyncze dzieła**: kiedy źródło muzyczne stanowi wkładkę lub dodatek do periodyku.   
@@ -99,14 +99,14 @@ Często takie źródła zachowane są w oderwaniu od oryginalnego kontekstu publ
 **Katalagowanie źródeł w „nie muzycznych” publikacjach**  
 
 RISM obejmuje źródła muzyczne znalezione w publikacjach drukowanych, które nie były pierwotnie materiałami poświęconymi muzyce.  
-_Przykład:_  
+##### Przykład  
 990026614: 3 pieśni Johna Isaac Hawkinsa opublikowane w książce Charlesa Willsona - Peale's Discourse introductory to a course of lectures on the science of nature (1800).  
 
 
 
 #### Katalogowanie traktatów
 
-Katalogując traktaty należy w polu **Rodzaj źródła, objętość (300 $a) **wpisać „text document” jako rodzaj.  
+Katalogując traktaty należy w polu **Rodzaj źródła, objętość (300 $a)** wpisać „text document” jako rodzaj.  
 Odpowiednie hasła przedmiotowe dla traktatów:  
 
 - **Treatises**

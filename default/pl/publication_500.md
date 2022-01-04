@@ -5,7 +5,7 @@ Podać sigla, jeżeli dana pozycja dotyczy instytucji, np. katalogi kolekcji.
 
 W przypadku prac magisterskich lub doktorskich, należy podać miejsce i czas ukończenia pracy.
 
-_Przykłady_:  
+##### Przykłady  
 D-Bsa  
 Tübingen, Universität Diss. 2008  
 Praca doktorska, Instytut Muzykologii, Uniwersytet Wrocławski  

@@ -8,6 +8,6 @@ Escriba aquí el nombre con el que se conocía anteriormente al periódico. Este
 
 
 
-_Ejemplo:_ La revista La revista _The Viola da Gamba Society Journal_ comenzó en 2007 y fue precedida por _Chelys. The Journal of the Viola da Gamba Society_ (publicada entre1969 y 2004). En el registro de la revista _The Viola da Gamba Society Journal_, ingrese lo siguiente:
+##### Ejemplo La revista La revista _The Viola da Gamba Society Journal_ comenzó en 2007 y fue precedida por _Chelys. The Journal of the Viola da Gamba Society_ (publicada entre1969 y 2004). En el registro de la revista _The Viola da Gamba Society Journal_, ingrese lo siguiente:
 
 Entrada anterior (780 $w): _Chelys. The Journal of the Viola da Gamba Society_

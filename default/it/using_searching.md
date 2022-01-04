@@ -63,6 +63,6 @@ troverà tutte le schede modificate dal tempo dei tempi fino al 7 febbraio 2012 
 
 Si prega di notare quanto segue per effettuare ricerche nell’indice **Persone**:
 
-- **Nome**: Ricerca nei campi **Nome di persona** **(100 $a)** e **Varianti del nome** **(400 $a)**.
-- **Date**: Ricerca nel campo **Data di nascita e di morte** **(100 $d)**, e comprende tanto gli anni che le abbreviazioni seguenti: sc  a  p  c  \*  +  /
+- **Nome**: Ricerca nei campi **Nome di persona(100 $a)** e **Varianti del nome(400 $a)**.
+- **Date**: Ricerca nel campo **Data di nascita e di morte(100 $d)**, e comprende tanto gli anni che le abbreviazioni seguenti: sc  a  p  c  \*  +  /
 - **Luoghi**: Ricerca nel campo **Nome geografico (551)**. Questo comprende luoghi di nascita, origine e attività.

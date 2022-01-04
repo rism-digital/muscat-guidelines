@@ -43,7 +43,7 @@ W przypadku szkiców nieznanych kompozycji, należy użyć tytułu wyróżniają
 
 Poniższa lista daje wyobrażenie o tym, jakie znormalizowane tytuły mają odpowiadającą im pozycję tematyczną. Proszę zauważyć, że lista ta nie jest wyczerpująca.
 
-### **Muzyka instrumentalna i wokalna ogólna**  
+### Muzyka instrumentalna i wokalna ogólna  
 
 |   
 **Tytuł ujednolicony/gatunek ** |
@@ -527,7 +527,7 @@ Hasło przedmiotowe „Incidental music” oznacza muzykę sceniczną do teatru 
 |
 #### _ **Standardized title** _
  |
-#### _ **Subject heading** _ ** **
+#### _ **Subject heading** _
  |
 | Airs | Airs (tańce) |
 | Allemandes | Allemandes  (Niemieckie)  

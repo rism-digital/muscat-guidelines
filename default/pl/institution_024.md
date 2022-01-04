@@ -1,4 +1,4 @@
-#### Inny identyfikator znormalizowany (024)
+### Inny identyfikator znormalizowany (024)
 Wypełniamy dla identyfikatorów VIAF ID, numerów ISNI, kodów GeoNames itd.  
 
 #### Numer lub kod (024 $a)

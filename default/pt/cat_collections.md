@@ -116,7 +116,7 @@ Catalogar como **coletâneas** pode ser apropriado quando o periódico consiste 
 
 
 Catalogar como **obras individuais** pode ser apropriado quando obras são incluídas como  inserções ou adições em periódicos sem um foco em música notada. Frequentemente, tais itens são preservados fora do contexto de suas publication originais.
-_Exemplos_:    
+##### Exemplos    
 991018149: "The Pantheon" publicado em The Lady's Magazine, Agosto 1784  
 990042111: "L'amour folâtrant l'autre jour" publicado em Nouveau Mercure galant, Maio 1679  
 

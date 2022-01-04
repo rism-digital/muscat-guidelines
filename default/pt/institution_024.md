@@ -1,4 +1,4 @@
-### Referência de autoridade
+### Referência de autoridade (024)
 
 #### Referência de autoridade (024 $a)
 Insira o código alfanumérico usado para identificar nomes. O código é obtido dos dados de autoridade da agência criadora.

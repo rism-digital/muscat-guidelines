@@ -10,7 +10,7 @@ Insira do título do periódico, livro ou série. Este campo é ligado à base d
 
 Insira na forma apropriada os números de volume, edição, ano e/ou páginas para o item. Por exemplo, para um periódico, insira os números de volume, ano e páginas. Insira em uma forma apropriada ao estilo do jornal.
 
-_Exemplos_:
+##### Exemplos
 
 23 (1986), p. 5-10  
 2, 35 (2014), 7-16  

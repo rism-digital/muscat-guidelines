@@ -1,6 +1,6 @@
 #### Titolo uniforme alternativo (730)  
 
-Questo campo è riservato per alternative al **Titolo uniforme** **(240 $a)**, anche in forma standardizzata, o per titoli di periodici e pubblicazioni in serie.  
+Questo campo è riservato per alternative al **Titolo uniforme(240 $a)**, anche in forma standardizzata, o per titoli di periodici e pubblicazioni in serie.  
 
 #### Titolo uniforme alternativo (730 $a)
 Inserisci titoli nettamente differenti piuttosto che titoli con ortografie alternative. Più varianti possono essere inserite ripetendo il campo. Anche titoli di serie e nomi di periodici vanno inseriti qui.
@@ -15,7 +15,7 @@ Fra i possibili tipi di alternative segnaliamo:
 - Composizioni senza un preciso titolo individuale (Festival Cantata, Fürstenlied)
 - Titoli sotto i quali l’oggetto è generalmente noto (soprattutto per edizioni a stampa)  
 
-_Esempi_:
+##### Esempi
 
 Titolo uniforme: Don Giovanni  
 Titolo uniforme alternativo: Der steinerne Gast
@@ -39,17 +39,17 @@ In caso di cicli di variazioni, inserisci il nome del tema in questo campo e sel
 
 In caso di inserimenti, immetti il titolo della composizione in cui la composizione da catalogare è stata inserita e seleziona **Inserimenti** nel campo **Suddivisione formale (730 $k)**. Per gli inserimenti, consulta anche le regole per il campo **Inserimenti (787)**.
 
-_Esempi_:
+##### Esempi
 
 Titolo uniforme: Variations  
 Titolo uniforme alternativo: Ein Mädchen oder Weibchen [e **Variazioni** nel campo **Arrangiamento (730 $o)**.]
 
 Titolo uniforme: Consola amato bene  
-Titolo uniforme alternativo: Una cosa rara [e **Inserimenti** in **Suddivisione formale** **(730 $k)**]
+Titolo uniforme alternativo: Una cosa rara [e **Inserimenti** in **Suddivisione formale(730 $k)**]
 
 Questo campo può anche essere utilizzato per titoli di periodici o serie di pubblicazioni.  
   
-_Esempi_:  
+##### Esempi  
 Oeuvres Complets de Piano  
 Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten  
 Nouveau Mercure galant, mai 1679  
@@ -76,7 +76,7 @@ Questo campo registra dei particolari aspetti formali, se sono applicabili. Sele
 - Inserimenti
 - Schizzi
 
-Assicurati di selezionare  **Estratti**,  **Frammenti**  o  **Schizzi**  qui se hai selezionato  **Estratti**, **Frammenti** o **Schizzi** nel campo **Suddivisione formale (240 $k)** più sopra. Per inserimenti, seleziona **Inserimenti**. Maggiori informazioni possono essere inserite nel campo **Nota di contenuto** **(505)**.
+Assicurati di selezionare  **Estratti**,  **Frammenti**  o  **Schizzi**  qui se hai selezionato  **Estratti**, **Frammenti** o **Schizzi** nel campo **Suddivisione formale (240 $k)** più sopra. Per inserimenti, seleziona **Inserimenti**. Maggiori informazioni possono essere inserite nel campo **Nota di contenuto(505)**.
 
   
 

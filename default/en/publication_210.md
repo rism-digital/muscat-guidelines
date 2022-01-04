@@ -45,27 +45,27 @@ letter (**a**, **b**, **c**, etc.) is added to the end of the year.
 
 
 For two or more authors or editors, only the first is used in a short title.  
-_Example:_
+##### Example
 
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 > → Fuller-MaitlandF 1893
 
 If no author is named, use 1-2 keywords from the title in its place.  
-_Example:_
+##### Example
 
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 > → VerzeichnisThibaut 1842
 
 
 For multivolume works that were published over the course of several years, only the first year is used.  
-_Example:_
+##### Example
 
 > Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
 > → SchröderW 1943
 
 If the year of publication is neither given nor ascertainable, write **s.d.** (for no date) instead of a year.
 
-_Example:_
+##### Example
 
 > Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, no date).  
 > → ZanglO s.d.
@@ -73,7 +73,7 @@ _Example:_
 
 If only an approximate year of publication is known, add a **ca.** (for circa) when you enter the publisher and
 publication year in the record, but omit the “ca.” in the short title.  
-_Example:_
+##### Example
 
 > Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
 > → FahrbachK 1850
@@ -106,7 +106,7 @@ works. Such items can also be cited as a **Bibliographic reference (691)**.
 
 Use the well-established abbreviations for catalogs of works if they exist (BWV, KV, Hob., etc.). You may also use the
 abbreviation used within the catalog as long as it does not lead to confusion.    
-_Example:_
+##### Example
 
 > Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
 > → QV  

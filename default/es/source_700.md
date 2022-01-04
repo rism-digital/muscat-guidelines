@@ -34,7 +34,7 @@ Recuerde que, en algunos de los casos en que una persona es nombrada en la fuent
 - **_Assignee_ [asg]:** la persona a la cual se le ha transferido una licencia de impresión o de publicación.
 - **Autor [aut]**: la persona responsable de crear una obra cuyo contenido es fundamentalmente textual-verbal, como un libro.
 - **Autor del concepto [ccp]**: la persona responsable por la idea original sobre la que se basa una obra, como el autor de un libro u obra sobre la que se basó una ópera.
-- **Autor del texto** **[lyr]**: autor(a) de la letra de una obra musical no-dramática (como el texto de una canción); se exceptúa el caso de los oratorios.
+- **Autor del texto[lyr]**: autor(a) de la letra de una obra musical no-dramática (como el texto de una canción); se exceptúa el caso de los oratorios.
 - **Censor [cns]**
 - **Co-compositor [ctb]**: utilice este calificador para compositores que también contribuyeron musicalmente a la pieza.
 - **Copista [scr]**: utilice este calificador para copistas o escribas.
@@ -46,7 +46,7 @@ Recuerde que, en algunos de los casos en que una persona es nombrada en la fuent
 - **Fundidor [typ]: **la persona que ha diseñado la tipografía.
 - **Grabador [egr]**
 - **Ilustrador [ill]**: la persona que contribuye a una fuente suplementando el contenido primario con dibujos, diagramas, fotografías, etc.
-- **Impresor** **[prt]**
+- **Impresor[prt]**
 - **Intérprete [prf]**: cualquier intérprete, sea este/a instrumentista, vocalista, músico/a, director(a), bailarín(a), o incluso si su habilidad principal es desconocida o no está especificada.
 - **Libretista [lbt]**: autor del libreto de una ópera, oratorio, u otra obra escénica.
 - **_Licensee_ [lse]:** la persona que originalmente tiene el derecho a imprimir o publicar.

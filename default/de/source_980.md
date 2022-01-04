@@ -8,7 +8,7 @@ Wählen Sie die Herkunft des Datensatzes aus:
 - **Retroeinspielung**: Der Datensatz stammt aus einer gedruckten Publikation und wurde in eine maschinenlesbare Form umgewandelt
 - **RISM**: Der Datensatz wurde in der RISM-Datenbank angelegt (Standard)
 
-** **
+
 
 **Erfassungstiefe (980 $b)**
 
@@ -19,7 +19,7 @@ _Details werden folgenden._
 - **Standard**
 - **Vollkatalogisat**
 
-** **
+
 
 **Autopsie (980 $c)**
 

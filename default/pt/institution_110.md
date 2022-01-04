@@ -1,4 +1,4 @@
-### Instituição (MARC 110; ISDIAH 5.1.2)
+### Instituição (110; ISDIAH 5.1.2)
 Este campo cria um ponto de acesso autorizado único, que identifica exclusivamente a instituição detentora do acervo.
 
 #### Forma autorizada do nome (110 $a)

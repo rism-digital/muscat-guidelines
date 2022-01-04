@@ -1,6 +1,4 @@
 ### Lokalizacja (034)
-
-#### Lokalizacja (034)
 Wprowadzić współrzędne (szerokość i długość geograficzną) instytucji. Na Mapach Google współrzędne wyświetlają się po kliknięciu prawym przyciskiem myszy na instytucję i wybraniu opcji „Co tu jest”.
 
 ##### Przykłady  

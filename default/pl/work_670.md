@@ -7,6 +7,6 @@ Wprowadzić tytuł skrócony. Pole połączono linkiem z bazą danych **Literatu
 #### Odnaleziona informacja (670 $b)
 Wprowadzić numer strony i tytuł dzieła jak w źródle odniesienia.
 
-_Przykład:_  
+##### Przykład  
 GarveyJacksonW : p. 2-3 (Crazy Jane ("Why fair maid in ev'ry feature") A favorite song...with an accompaniment for the harp or piano forte)  
 RitchieW 2008 : p. 110 (A song with lyrics written by Matthew Lewis, composed by Harriett Abrams, entitled "Crazy Jane" (c.1799))

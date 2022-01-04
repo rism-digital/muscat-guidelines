@@ -18,7 +18,7 @@ Per le edizioni a stampa, inserisci il nome dell’editore, casa editrice, impor
 
 Per i manoscritti, inserisci il nome del copista come compare sulla fonte.
 
-Inserisci sempre le forme standardizzate dei nomi nei campi **Nome aggiuntivo di persona** **(700)** o **Nome di ente aggiuntivo** **(710)**. In generale, gli editori che portano il nome di una persona ma svolgono le funzioni di una casa editrice (Pleyel, André ecc.) sono inseriti come istituzioni.
+Inserisci sempre le forme standardizzate dei nomi nei campi **Nome aggiuntivo di persona(700)** o **Nome di ente aggiuntivo(710)**. In generale, gli editori che portano il nome di una persona ma svolgono le funzioni di una casa editrice (Pleyel, André ecc.) sono inseriti come istituzioni.
 
 Se il nome dell’editore o stampatore non è indicato in un’edizione a stampa, inserisci **[s.n.]**. (Non inserire [s.n.] nell'indice delle istituzioni.) Per i manoscritti, lascia il campo vuoto.
 
@@ -80,4 +80,4 @@ Inserisci il luogo dell’istituzione associata alla stampa, duplicazione ecc. c
 
 #### Stampatore, stamperia (260 $f)
 
-Inserisci il nome dello stampatore o della stamperia come indicati nella fonte. Inserisci le forme standardizzate dei nomi nei campi **Nome aggiuntivo di persona (700) **o** Nome di ente aggiuntivo (710)**.
+Inserisci il nome dello stampatore o della stamperia come indicati nella fonte. Inserisci le forme standardizzate dei nomi nei campi **Nome aggiuntivo di persona (700)** o **Nome di ente aggiuntivo (710)**.

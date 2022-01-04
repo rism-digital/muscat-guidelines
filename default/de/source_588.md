@@ -15,6 +15,6 @@ Wenn Sie eine zweite Quelle als Grundlage für den Datensatz verwenden, füllen 
 
 ##### Beispiele
 
-- **Vorlageexemplar** **(588)**: GB-Lbl h.11.a.(1.)
+- **Vorlageexemplar(588)**: GB-Lbl h.11.a.(1.)
 - **Bemerkungen (500)**: Record based on YouV using the description of the copy in GB-Lbl, shelfmark h.11.a.(1.).
 - **Werkverzeichnis (690)**: YouV 2

@@ -4,7 +4,7 @@ Neste campo inserem-se números de chapa, que tipicamente aparecem em itens impr
 
 Insira o número de chapa exatamente como aparece na fonte.
 
-_Exemplos_:  
+##### Exemplos  
 B. & H. 8533  
 S. B. 2. 11  
 424  

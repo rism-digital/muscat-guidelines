@@ -11,7 +11,7 @@ Inserisci la sigla della biblioteca e la collocazione dell’edizione a stampa c
 
 Se utilizzi un riferimento bibliografico come base per la schedatura, riempi questo campo come al solito ma specifica la fonte secondaria in una **Nota generale (500)** e aggiungi un collegamento tra i cataloghi delle opere o i riferimenti bibliografici.
 
-_Esempio:_
+##### Esempio
 
 - **Copia esaminata per la catalogazione (588)**: GB-Lbl h.11.a.(1.)
 - **Nota generale (500)**: Record based on YouV using the description of the copy in GB-Lbl, shelfmark h.11.a.(1.).

@@ -8,7 +8,7 @@ reference (691)** when appropriate. See the list **Standard Watermarks** for the
 capitals, ciphers/initials, and years must be transcribed exactly. Indicate line breaks with **|** (the vertical pipe).
 Put your added descriptions in square brackets to distinguish them from transcriptions.
 
-_Examples_:
+##### Examples
 
 - C & G HONIG
 - GFA | VB [GFA above VB]

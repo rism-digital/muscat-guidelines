@@ -68,7 +68,7 @@ Presto
 > 25 Arias
 
 - **Volumi compositi (raccolte di miscellanee). **Inserisci un numero corrispondente al numero di oggetti rilegati insieme e la parola "Items".  
-_Esempio:_  
+##### Esempio  
 11 Items  
 - **Variazioni**. Inserisci qui  **Variations** come titolo standardizzato. Nel campo **Titolo uniforme alternativo (730)** inserisci il brano su cui è basata la composizione, se questo è noto, e seleziona  **Variazioni**  nel sottocampo  **Arrangiamento**.
 
@@ -82,7 +82,7 @@ _Esempio:_
 
 Seleziona **Arrangiamento** se la composizione è l’arrangiamento di un’altra composizione.   
    
-Nota che la sostituzione del testo o una trasposizione non sono considerati arrangiamenti. In questi casi, inserisci il name della persona responsabile, se noto, nei **Nomi di persone aggiuntivi** **(700)**. Sebbene le composizioni non siano considerate arrangiamenti, la persona qui è riportata come “Arrangiatore”.
+Nota che la sostituzione del testo o una trasposizione non sono considerati arrangiamenti. In questi casi, inserisci il name della persona responsabile, se noto, nei **Nomi di persone aggiuntivi(700)**. Sebbene le composizioni non siano considerate arrangiamenti, la persona qui è riportata come “Arrangiatore”.
 
 Gli arrangiamenti devono anche essere distinti da composizioni indipendenti (elaborazioni libere) come variazioni, parafrasi, parodie e fantasie su temi dalla composizione originale.  
   
@@ -149,7 +149,7 @@ In presenza di un basso cifrato, inserisci lo strumento come di consueto, ad ese
 
 Ometti l’organico sintetico se l'organico è sconosciuto o incerto.   
 
-_Esempi_:  
+##### Esempi  
 A, Coro, orch  
 Bariton, pf  
 V (3), strings, bc  

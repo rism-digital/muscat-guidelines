@@ -48,7 +48,7 @@ Pode-se também indicar páginas ou fólios individuais no interior de uma colet
 
 Não indique a extensão de partes aqui. Essa informação é inserida no campo **Partes existentes (590)**.
 
-_Exemplos_:  
+##### Exemplos  
 1 score: 35 p.  
 1 short score: 8 f.  
 1 tablature score: p. 5-8  
@@ -107,7 +107,7 @@ Exemplos incluem:
 
 Insira as dimensões da fonte: altura x largura em cm. Frações de centímetros podem ser indicadas por vírgula ou ponto. Um segundo conjunto de dimensões pode ser dado entre parênteses. Se há mais de dois conjuntos de dimensões diferentes, insira a frase em inglês “ **Different sizes** ” (tamanhos diferentes). Maior detalhamento pode ser feito no campo **Nota geral (500)**. Formatos como **octavo**, **quarto**, etc. devem ser indicados no campo **Formato de livro (340)**.
 
-_Exemplos_:  
+##### Exemplos  
 25.5 x 30.5 cm   
 36 x 25.5 cm  
 25.5 (21.5) x 32 (28.5) cm  
@@ -115,7 +115,7 @@ Different sizes
 
 Para itens impressos, pode-se inserir as dimensões da área impressa. Use indicações como “printed area” (área impressa) or “plate mark” (marca de chapa). Separe esta medida da medida da fonte com um ponto e vírgula. Se as dimensões variam, meça a página de título e a primeira página de música (incluindo, quando aplicável, uma indicação do que foi medido).
 
-_Exemplos_:  
+##### Exemplos  
 20 x 16 cm; plate mark 18 x 15,5 cm  
 Plate mark, title page: 20.2 x 27.7 cm; plate mark, music: 20.4 x 28.2 cm  
 Printed area, title page: 20.2 x 27.7 cm; printed area, music: 20.4 x 28.2 cm

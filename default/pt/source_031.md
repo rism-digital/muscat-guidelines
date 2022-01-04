@@ -27,7 +27,7 @@ Insira o título do movimento e o tempo ou indicações similares, se especifica
 
 Insira a parte vocal ou instrumental usando a lista de **abreviaturas de instrumentos do RISM**. Insira **V** para uma parte vocal não especificada. Insira **i** para uma parte instrumental não especificada. Escreva os instrumentos transpositores na altura real. Indique a afinação de um instrumento no campo **Nota geral**.
 
-_Exemplos_:  
+##### Exemplos  
 pf  
 T coro  
 org with text

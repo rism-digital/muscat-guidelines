@@ -126,7 +126,7 @@ PLATTNER à ROTTERDAM." **New record required** (different publication status). 
    indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the
    component in the original language (but standardized spelling) and the arabic number following the title.
 
-   _Examples_:
+   ##### Examples
 
    - RISM A/I: P 687
       - Title on source: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER

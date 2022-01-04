@@ -12,7 +12,7 @@ Insira o título curto da referência. Este campo está ligado à base de dados 
 
 Insira o número da página. Use as seguintes abreviações em inglês: **vol.** (volume), **fasc.** (fascículo), **suppl.** (suplemento), **pt.** (parte), **p.** (página), **no.** (número) e **clm.** (coluna).  
   
-_Exemplos_:  
+##### Exemplos  
 vol. 2, pt. 2, p. 430  
 vol. 5, p. 93; vol. 6, p. 12  
 Suppl. 1: 1779-1780, clm. 695

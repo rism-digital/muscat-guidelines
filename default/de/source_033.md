@@ -17,7 +17,7 @@ Die vorgegebenen Eingabeschemata lauten für die einzelnen Datierungstypen wie f
 - Mehrere Einzeldaten: jjjjmmtt, jjjjmmtt, jjjjmmtt etc.
 - Datierungsbereich: jjjjmmtt-jjjjmmtt
 
-_Beispiele_:  
+##### Beispiele  
 Einzeldatum: 1769  
 Einzeldatum: 18190913  
 Mehrere Einzeldaten: 18791213, 18791216, 18791223

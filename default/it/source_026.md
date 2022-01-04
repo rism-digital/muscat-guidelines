@@ -8,7 +8,7 @@ Inserisci l'intero identificatore d'impronta.
 
 Le linee guida pubblicate in merito e sviluppate dall'Institut de Recherche et d’Histoire des Textes e la National Library of Scotland possono essere consultate in linea: in [inglese, francese e italiano](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm), e in [tedesco](https://katalogbeta.slub-dresden.de/id/0001617101/#detail).
 
-_Esempio_:  
+##### Esempio  
 n?n, n;t, v.at BeDr C 1695R
 
 Gli elementi dell'impronta possono essere inseriti in diversi sottocampi, a seconda dello standard di descrizione:

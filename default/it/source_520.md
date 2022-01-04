@@ -4,7 +4,7 @@ Qui puoi inserire brevi e generiche informazioni sulla composizione/fonte o sull
 
 Si possono dare informazioni più dettagliate sul contenuto dell’oggetto nel campo **Nota di contenuto (505)**.
 
-_Esempi_:  
+##### Esempi  
 5 sonatas, 2 fantasies  
 5 motets, 2 masses, 1 Magnificat  
 Opera in 3 acts  

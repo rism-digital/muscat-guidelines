@@ -2,7 +2,6 @@
 
 #### Other notes on description (680 $a)
 Enter additional notes that describe the institution, such as:
-
 - Records management and collecting policies (ISDIAH 5.3.5): Enter information about the collecting policies of the
   institution. Indicate whether the repository seeks to acquire materials by transfer, gift, purchase and/or loan.
 - Classification of the collection, such as "Collection in GB-Lbl"

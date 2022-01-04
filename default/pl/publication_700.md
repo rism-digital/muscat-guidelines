@@ -16,7 +16,7 @@ Należy dokonać wyboru spośród poniższych elementów. (Trzyliterowe kody odn
 - **Redaktor [edt]**  
 - **Inna funkcja [oth]**  
 
-_Przykład:_ Dla Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst_  (tytuł skrócony: ReulF 2001):  
+##### Przykład Dla Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst_  (tytuł skrócony: ReulF 2001):  
 Autor (100): Reul, Barbara M.  
 Dodatkowa osoba (700): Fasch, Johann Friedrich (kompozytor)  
 Dodatkowa osoba (700): Hedwig Friederike, Fürstin von Anhalt-Zerbst (nazwa pokrewna/powiązana)

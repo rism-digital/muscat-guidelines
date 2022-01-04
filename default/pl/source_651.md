@@ -4,6 +4,6 @@ Wprowadzić miejsce wykonania/wykonań w ujednoliconej formie, jeżeli źródło
 
 W przypadku nut drukowanych, wypełnić jedynie w przypadku druków wydanych na specjalną okazję (tzn. muzyki napisanej na specjalną okazję). Miejsca wykonania związane z określonym egzemplarzem wydania drukowanego należy podać w informacji o zasobach.
 
-_Przykłady_:  
+##### Przykłady  
 Praha  
 Milano

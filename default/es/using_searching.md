@@ -32,7 +32,7 @@ como con comillas: **“lass noch”**
 - Truncamiento con ? o \*  
 **?**: El signo de pregunta reemplaza exactamente una letra. **B?cher** encontrará Bucher y Bacher.   
 **\***: El asterisco puede usarse para truncar o reemplazar cualquier cantidad de letras. **B\*cher** encontrará Bucher y Bacher pero también Boucher y Bötticher.
-- AND, OR, NOT, (): Aproveche las ventajas de la búsqueda booleana. Use paréntesis para agrupar su búsqueda. _Ejemplos_:
+- AND, OR, NOT, (): Aproveche las ventajas de la búsqueda booleana. Use paréntesis para agrupar su búsqueda. ##### Ejemplos
 
   - Compositor contiene: **(Bach AND Johann) NOT Sebastian**  
 Encontrará a Johann Michael Bach y Johann Christian Bach pero no a Johann Sebastian Bach.  

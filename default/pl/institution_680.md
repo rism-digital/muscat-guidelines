@@ -1,5 +1,6 @@
-#### Inne uwagi na temat opisu (680 $a)
+### Inne uwagi na temat opisu (680)
 
+#### Inne uwagi na temat opisu (680 $a)
 Wprowadzić dodatkowe uwagi opisujące daną instytucję, takie jak:
 
 - Polityka zarządzania rekordami i polityka gromadzenia (ISDIAH 5.3.5): Wprowadzić informacje o polityce gromadzenia prowadzonej przez daną instytucję. Należy podać informację o tym, czy repozytorium korzysta z takich metod gromadzenia materiałów jak transfer (przekazanie), dary, zakupy i/lub wypożyczenia.

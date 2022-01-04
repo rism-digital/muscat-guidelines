@@ -14,6 +14,6 @@ Caso se utilize uma fonte secundária como base para o registro, deve-se preench
 
 _Exemplo:_
 
-- **Exemplar examinado para catalogação** **(588)**: GB-Lbl h.11.a.(1.)
+- **Exemplar examinado para catalogação(588)**: GB-Lbl h.11.a.(1.)
 - **Nota geral (500)**: Registro baseado em YouV usando a descrição do exemplar em GB-Lbl, cota h.11.a.(1.).
 - **Catálogo de obras**: YouV 2

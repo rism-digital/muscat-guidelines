@@ -53,7 +53,7 @@ Puoi anche indicare pagine o carte singole all’interno di una raccolta manoscr
 **Estensione (parti) (590 $b)**: 4, 4, 4, 4 p.
 
 **Parti staccate esistenti (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
-**Estensione (parti) (590 $b) **: 4, 4, 3, 4, 2 p.
+**Estensione (parti) (590 $b)**: 4, 4, 3, 4, 2 p.
 
 **Parti staccate esistenti (590 $a)**: ob 1, 2, cl 1, 2 in B|b  
 **Estensione (parti) (590 $b)**: 2, 2, 2, 2 p.

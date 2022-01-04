@@ -1,4 +1,4 @@
-**Inna sygnatura** **(591)**
+**Inna sygnatura(591)**
 
   
 

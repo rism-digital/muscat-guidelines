@@ -87,7 +87,7 @@ the text incipit in its entirety for the text incipit.
   25 Arias  
   3 Instrumental pieces
 - **Composite volumes**. Enter a number corresponding to the number of items involved plus the word "Items."  
-  _Example:_  
+  ##### Example  
   11 Items
 - **Variations.** Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the
   piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
@@ -138,7 +138,7 @@ abbreviations and terms**.
 
 #### Scoring summary (240 $m)
 
-**Required field** **except for the following: operas and oratorios with the standard instrumentation V (X), Coro,
+**Required fieldexcept for the following: operas and oratorios with the standard instrumentation V (X), Coro,
 orch  
 If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
@@ -185,7 +185,7 @@ in the section **Figured bass in scores and/or parts** for guidance with related
 
 Omit the scoring summary if the performing forces are unknown or uncertain.
 
-_Examples_:  
+##### Examples  
  - A, Coro, orch  
  - Bariton, pf  
  - V (3), strings, bc  

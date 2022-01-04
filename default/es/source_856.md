@@ -10,7 +10,7 @@ Registre la URL completa del recurso externo. Siempre use permalinks.
 **Campo requerido cuando se registra un vínculo a un recurso externo.**  
 Realice un breve comentario que explique por qué la URL es relevante para la fuente descripta. Hágalo en su propio idioma de catalogación.
 
-_Ejemplos_:  
+##### Ejemplos  
 Copia digital  
 Filigrana en p. 4  
 Página principal del proyecto  
@@ -35,7 +35,7 @@ _Ejemplo:
 *[https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)*  
 
 En casos en los que haya enlaces disponibles tanto a un visor externo como a un manifiesto IIIF, repita el campo y consigne ambos enlaces por separado.  
-_Ejemplo:_
+##### Ejemplo
 
   - Fuente externa: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)   
 Nota: versión digitalizada  

@@ -22,7 +22,7 @@ Um título uniforme pode ser gerado a partir do seguinte, na ordem de preferênc
   
  Insira o título distintivo em grafia padronizada tal como no (1) New Grove, (2) MGG, (3) em catálogos de obras, e/ou (4) outros livros de referência. Não omita artigos iniciais (a, o, the, a, an, der, die, le, l', etc.).  
   
- Nomes populares ou apelidos (tais com "Eroica" ou "Nelson Mass") não contam como títulos uniformes. Tais nomes são inseridos no campo **Títulos adicionais** **(730 $a)**.   
+ Nomes populares ou apelidos (tais com "Eroica" ou "Nelson Mass") não contam como títulos uniformes. Tais nomes são inseridos no campo **Títulos adicionais(730 $a)**.   
   
 ##### Exemplos  
 Die Forelle  
@@ -101,7 +101,7 @@ Este campo destina-se a aspectos especiais da forma, se aplicáveis. Selecione e
 
 Selecione a tonalidade da obra como um todo (mesmo para excertos).
 
-No caso de arranjos, insira a tonalidade da obra original. Se a tonalidade original não pode ser determinada, insira a tonalidade da fonte em questão; neste caso, entretanto, insira uma nota correspondente no campo **Nota geral** **(500)**. 
+No caso de arranjos, insira a tonalidade da obra original. Se a tonalidade original não pode ser determinada, insira a tonalidade da fonte em questão; neste caso, entretanto, insira uma nota correspondente no campo **Nota geral(500)**. 
 
 Se nenhuma tonalidade está indicada na fonte, selecione uma tonalidade somente se ela puder ser determinada com certeza.
 
@@ -177,7 +177,7 @@ Caso trate-se de um baixo contínuo, insira o instrumento da forma usual, tal co
 
 Omita a síntese da formação se as forças de performance são desconhecidas ou imprecisas. 
 
-_Exemplos_:  
+##### Exemplos  
 A, Coro, orch  
 Bariton, pf  
 V (3), strings, bc  

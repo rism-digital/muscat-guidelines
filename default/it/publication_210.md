@@ -45,7 +45,7 @@ Per autori o curatori che pubblicano più articoli sullo stesso compositore o pi
   
 Per due o più autori o curatori, si usa solo il primo nell'abbreviazione.  
   
-_Esempio:_  
+##### Esempio  
 
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 >             → Fuller-MaitlandF 1893
@@ -53,7 +53,7 @@ _Esempio:_
   
 Se non è indicato nessun autore, usa 1-2 parole-chiave dal titolo al suo posto.  
   
-_Esempio:_
+##### Esempio
 
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 >             → VerzeichnisThibaut 1842
@@ -62,21 +62,21 @@ _Esempio:_
 
 Per opere in più volumi pubblicate nel corso di vari anni, si usa solo il primo anno.
 
-_Esempio:_
+##### Esempio
 
 > Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
 >             → SchröderW 1943
 
 Se l'anno di pubblicazione non è indicato né ricostruibile, scrivi **n.d.** (per 'no date') invece dell'anno.
 
-_Esempio:_
+##### Esempio
 
 > Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, n.d.).  
 >             → ZanglO n.d.
 
   
 If only an approximate year of publication is known, add a **ca.** (for circa) when you enter the publisher and publication year in the record, but omit the “ca.” in the short title.  
-_Example:_  
+##### Example  
 
 > Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
 >             → FahrbachK 1850

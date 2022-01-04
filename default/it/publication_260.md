@@ -4,8 +4,6 @@ Questo campo è utilizzato per tutti i tipi di pubblicazione tranne articoli o s
 
 Inserisci le informazioni seguenti come appaiono sull’oggetto:
 
-**Luogo (260 $a) **
-
-**Editore (260 $b)**
-
-**Anno (260 $c)**
+#### Luogo (260 $a)
+#### Editore (260 $b)
+#### Anno (260 $c)

@@ -49,7 +49,7 @@ En el caso de los autores o editores que publiquen varios artículos sobre el mi
 
 En el caso de dos o más autores o editores, sólo se utiliza el primero en el título breve.
 
-_Ejemplo:_
+##### Ejemplo
 
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 >             → Fuller-MaitlandF 1893
@@ -59,7 +59,7 @@ _Ejemplo:_
 
 Si no se nombra ningún autor, use una a dos palabras clave del título en su lugar.
 
-_Ejemplo:_
+##### Ejemplo
 
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 >             → VerzeichnisThibaut 1842
@@ -67,13 +67,13 @@ _Ejemplo:_
 
 
 Para obras de varios volúmenes publicadas a lo largo de varios años, sólo se utiliza el primer año.  
-_Ejemplo:_
+##### Ejemplo
 
 > Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
 >             → SchröderW 1943
 
 Si no se indica el año de publicación y éste no se puede determinar, escriba **s.d.** (sin fecha) en lugar del año.  
-_Ejemplo:_
+##### Ejemplo
 
 > Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, no date).  
 >             → ZanglO s.d.
@@ -82,7 +82,7 @@ _Ejemplo:_
 
 Si sólo se conoce un año aproximado de publicación, indique **ca.** (circa) al introducir el editor y el año de publicación en el registro, pero omítalo en el título breve.
 
-_Ejemplo:_
+##### Ejemplo
 
 > Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
 >             → FahrbachK 1850
@@ -115,7 +115,7 @@ Un catálogo publicado como parte de un ítem mayor, como puede ser el apéndice
 >          → SchL
 
 Utilice las abreviaturas más difundidas para los catálogos de obras en caso de que cuenten con ellas (BWV, KV, Hob., etc.). También puede valerse de la abreviatura utilizada dentro del catálogo, siempre que no induzca a confusión.    
-_Ejemplo:_  
+##### Ejemplo  
 
 > Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
 >            → QV  

@@ -1,7 +1,7 @@
 ### Specjalna technika produkcji (340)
 Pole służy do fizycznego opisu katalogowanej pozycji, do której produkcji niezbędne było wyposażenie techniczne, oraz do opisu formatu strony.
 
-#### Technika drukarska (340** **$d)
+#### Technika drukarska (340$d)
 Można tu podać technikę (techniki) zastosowaną (-e) do produkcji opisywanego źródła. Jeśli potrzebny jest termin, którego nie ma na liście, należy skontaktować się z Biurem Centralnym.
 
 - **Autografia**: druk transferowy (nie mylić z rękopisami autografami)  
@@ -21,7 +21,7 @@ Można tu podać technikę (techniki) zastosowaną (-e) do produkcji opisywanego
 
 Jeśli w źródle zastosowano wiele technik druku, można powtórzyć pole, aby podać każdą z nich z osobna. W polu **Uwaga ogólna (500 $a)** należy zawrzeć wyjaśnienie.
 
-_Przykład_:  
+##### Przykład  
 Sztychowane nuty z litografowaną stroną tytułową:  
 Specjalna technika produkcji (340 $d): Sztych  
 Specjalna technika produkcji (340 $d): Litografia  

@@ -17,7 +17,7 @@ Select from the following. (The three-letter codes refer to the MARC relator cod
 - **Editor [edt]**
 - **Other function [oth]**
 
-_Example:_
+##### Example
 
 - For Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin
 - Hedwig Friederike von Anhalt-Zerbst_  (short title: ReulF 2001):

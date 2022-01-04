@@ -39,7 +39,7 @@ Use o nome da obra cênica para o título uniforme e selecione **Arrangement (**
 7.      Um arranjo para madeiras a partir de uma obra cênica cujo nome é desconhecido:  
 Use **Wind music** (Música para madeiras) tanto para título uniforme como para cabeçalho de assunto.
 
-## **Música instrumental e vocal em geral**
+## Música instrumental e vocal em geral
 
 |
 ### _Título uniforme/gênero_

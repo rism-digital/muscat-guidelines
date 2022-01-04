@@ -80,4 +80,4 @@ Questo riguarda azioni che puoi fare mentre visualizzi l'intera scheda.
 
 **Modifica**: Se sei abilitato alla redazione della scheda, vedrai questo bottone di modifica.
 
-**Duplica**: Nella modalità di visualizzazione, una scheda può essere duplicata facendo clic su questo bottone. Se necessario, puoi ora riempire il campo **Notizia principale** **(773)** per collegare la scheda alla scheda principale della raccolta.
+**Duplica**: Nella modalità di visualizzazione, una scheda può essere duplicata facendo clic su questo bottone. Se necessario, puoi ora riempire il campo **Notizia principale(773)** per collegare la scheda alla scheda principale della raccolta.

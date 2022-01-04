@@ -135,13 +135,13 @@ Bei mehreren gleichen Gesangsstimmen oder Instrumenten wird die Anzahl in runden
 
 Als iSol werden nur Soloinstrumente bezeichnet, die gegenüber einem Orchester eine durchgehende Solofunktion haben (vor allem im Solokonzert). Bitte keine Stimmen angeben, die aus dem Tutti heraus einzelne Solopassagen übernehmen (z. B. ein Oboensolo innerhalb eines Kantatensatzes).
 
-Bei einer Bearbeitung wird die Besetzung der vorliegende Quelle angegeben. Ist die Besetzung des Originalwerks bekannt, wird diese im Feld **Bemerkungen** **(500)** angegeben. Bei einer **Collection** wird die Besetzung nur angegeben, wenn sie auf alle in der Sammlung enthaltenen Werke zutrifft.
+Bei einer Bearbeitung wird die Besetzung der vorliegende Quelle angegeben. Ist die Besetzung des Originalwerks bekannt, wird diese im Feld **Bemerkungen(500)** angegeben. Bei einer **Collection** wird die Besetzung nur angegeben, wenn sie auf alle in der Sammlung enthaltenen Werke zutrifft.
 
 Das Feld kann wiederholt werden, um Alternativbesetzungen anzugeben, z. B. ein Lied sowohl für Sopran als auch für Tenor. Geben Sie jede mögliche Besetzung in einem separaten Feld an.
 
 Machen Sie keine Angaben, wenn die Besetzung unbekannt oder unsicher ist.
 
-_Beispiele_:  
+##### Beispiele  
 A, Coro, orch  
 Bariton, pf  
 V (3), strings, bc  

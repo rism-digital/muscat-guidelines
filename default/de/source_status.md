@@ -1,4 +1,4 @@
-### **Status des Eintrags**
+### Status des Eintrags
 
 Der **Status des Eintrags** bestimmt, welche Datensätze im [RISM Online-Katalog](https://opac.rism.info/index.php?id=4) veröffentlicht werden und somit öffentlich einsehbar sind. Der Status kann manuell geändert werden.
 

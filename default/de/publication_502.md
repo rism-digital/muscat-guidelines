@@ -4,6 +4,6 @@ Wenn es ich um eine Hochschulschrift handelt, werden hier die Art, Institution u
 
   
 
-_Beispiele_:  
+##### Beispiele  
 Ph. D., University College, London 1998  
 Diss., Freie Universität, Berlin 2002

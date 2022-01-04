@@ -32,7 +32,7 @@ are the [unconstrained properties from the RDA Registry](http://www.rdaregistry.
 Briefly describe the nature of the relationship. Additional details may also be given in the field **General note (
 500**).
 
-_Examples_:
+##### Examples
 
 - Additional parts
 - Concordant source in US-Wc

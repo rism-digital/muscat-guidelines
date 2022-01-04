@@ -19,7 +19,7 @@ Si utiliza una fuente secundaria como base para el registro, rellene este campo 
 
   
 
-_Ejemplo:_
+##### Ejemplo
 
 - **Copia examinada para la catalogación (588):** GB-Lbl h.11.a.(1.)
 - **Nota general (500):** Registro basado en YouV utilizando la descripción del ejemplar de GB-Lbl, signatura h.11.a.(1.).

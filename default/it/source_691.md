@@ -12,7 +12,7 @@ Inserisci il titolo abbreviato per il riferimento bibliografico. Questo campo è
 
 Inserisci il numero di pagina. Utilizza le seguenti abbreviazioni in inglese:  **vol.** (volume), **fasc.** (fascicolo), **suppl.** (supplemento), **pt.** (parte), **p.** (pagina), **no.** (numero) e **clm.** (colonna).
 
-_Esempi_:  
+##### Esempi  
 vol. 2, pt. 2, p. 430  
 vol. 5, p. 93; vol. 6, p. 12  
 Suppl. 1: 1779-1780, clm. 695 

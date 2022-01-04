@@ -1,5 +1,6 @@
-**Outras notas sobre a descrição (680 $a)**
+### Outras notas sobre a descrição (680)
 
+#### Outras notas sobre a descrição (680 $a)
 Insira notas adicionais que descrevam a instituição, tais como:
 
 - Políticas de gestão e de entrada de documentos (ISDIAH 5.3.5): Insira informação sobre as políticas de entrada de documentos da instituição. Indique se o repositório procura adquirir materiais por transferência, doação, compra e/ou empréstimo.
@@ -12,7 +13,7 @@ Insira notas adicionais que descrevam a instituição, tais como:
   Telemann, Georg Michael  
   Fonds Montpensier  
   Collection Camille Saint-Saëns  
- Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975) 
+ Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
 
 - Horário de funcionamento (ISDIAH 5.4.1): Providenciar informação sobre horário de funcionamento e datas de fechamento anual: inclua esta informação se não está prontamente disponível online.
 - Condições e requisitos para acesso e uso (ISDIAH 5.4.2)

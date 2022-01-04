@@ -1,5 +1,4 @@
-### **A barra de menu superior**
-
+### A barra de menu superior
 **Administração** leva à configuração do MARC, que permite ver todos os campos MARC utilizados no Muscat (fontes e registros de autoridade).
 
 **Idioma** permite que se modifique o idioma do Muscat.

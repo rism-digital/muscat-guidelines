@@ -23,7 +23,7 @@ Seleziona il termine che descrive la relazione tra la fonte in oggetto e un'altr
 
 Descrivi brevemente la natura della relazione. Puoi aggiungere dettagli nel campo **Nota generale (500**).
 
-_Esempi_:  
+##### Esempi  
 Parti staccate aggiuntive   
 Fonte concordante in US-Wc  
 L'identificazione del compositore si basa sul manoscritto in D-B  

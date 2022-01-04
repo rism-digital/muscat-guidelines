@@ -48,14 +48,14 @@ W przypadku gdy autorów lub redaktorów jest dwóch lub więcej, w tytule skró
 
 
 
-_Przykład:_  
+##### Przykład  
 
 > John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
 >             → Fuller-MaitlandF 1893
 
 
 W przypadku gdy nie podano autora, należy użyć jedno lub dwa słowa kluczowe.  
-_Przykład:_
+##### Przykład
 
 > _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
 >             → VerzeichnisThibaut 1842
@@ -63,21 +63,21 @@ _Przykład:_
 
 
 Dla dzieł wielotomowych wydawanych na przestrzeni wielu lat, należy podać tylko pierwszy rok.   
-_Przykład:_
+##### Przykład
 
 > Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
 >             → SchröderW 1943
 
 Jeżeli nie podano roku wydania i nie można go ustalić, zamiast roku należy wpisać **s.d.** (tzn. brak daty).
 
-_Przykład:_
+##### Przykład
 
 > Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, no date).  
 >             → ZanglO s.d.
 
 
 Jeżeli rok wydania znany jest jedynie w przybliżeniu, należy dodać **ca.** (tzn. circa) przy wprowadzaniu do rekordu wydawcy i roku wydania, lecz należy pominąć „ca.” w tytule skróconym.  
-_Przykład:_  
+##### Przykład  
 
 > Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
 >             → FahrbachK 1850
@@ -114,7 +114,7 @@ Przy tworzeniu rekordów katalogów utworów należy stosować powszechnie używ
 
 
 
-_Przykład:_  
+##### Przykład  
 
 > Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
 >            → QV  

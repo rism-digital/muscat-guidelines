@@ -1,5 +1,4 @@
-### Nome di ente (MARC 110; ISDIAH 5.1.2)
-
+### Nome di ente (110; ISDIAH 5.1.2)
 Questo campo crea un punto d’accesso autorizzato che identifica univocamente l’istituzione che possiede dei beni archivistici.
 
 ##### Nome di ente (110 $a)

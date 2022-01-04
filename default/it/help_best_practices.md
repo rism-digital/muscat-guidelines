@@ -1,7 +1,7 @@
 # Miglior pratiche RISM
 
 **1. Campi a testo libero e campi collegati a un indice**  
-Se menzioni una persona o un’istituzione nella tua scheda (ad esempio in un campo note), assicurati di inserire il nome anche nei campi collegati a un indice **Nomi di persone aggiuntivi** **(700)** o **Nome di ente aggiuntivo (710)**.
+Se menzioni una persona o un’istituzione nella tua scheda (ad esempio in un campo note), assicurati di inserire il nome anche nei campi collegati a un indice **Nomi di persone aggiuntivi(700)** o **Nome di ente aggiuntivo (710)**.
 
 Lo stesso vale per le citazioni di bibliografia: se rimandi a una pubblicazione in un campo note, assicurati di inserirla nel campo **Riferimenti bibliografici (691)**.
 

@@ -1,8 +1,8 @@
-**Elektronische Lokalisierung und Zugriff (856** **$u)**
+**Elektronische Lokalisierung und Zugriff (856$u)**
 
 Verlinkung zu elektronischen Ressourcen. Verwenden Sie möglichst Permalinks.
 
-**Für das Publikum bestimmte Fußnote** **(856 $z)**
+**Für das Publikum bestimmte Fußnote(856 $z)**
 
 Geben Sie eine kurze Beschreibung der URL.
 

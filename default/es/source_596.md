@@ -1,6 +1,6 @@
 ### Referencias a las series RISM A/I y B (596)
 
-Registre referencias cruzadas a ediciones impresas indexadas en las series RISM si la fuente presenta claramente la misma obra como copia manuscrita de una edición impresa. Pueden darse más detalles al respecto en el campo **Nota general (500).** Véase también el campo **Fuente Relacionada** **(787)**.
+Registre referencias cruzadas a ediciones impresas indexadas en las series RISM si la fuente presenta claramente la misma obra como copia manuscrita de una edición impresa. Pueden darse más detalles al respecto en el campo **Nota general (500).** Véase también el campo **Fuente Relacionada(787)**.
 
 #### Referencias a las series RISM A/I y B (596 $a)
 

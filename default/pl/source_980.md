@@ -8,7 +8,7 @@ Wybierz pochodzenie rekordu:
 - **Konwersja retrospektywna**: Rekord pochodzi z publikacji papierowej i został przekształcony w formę do odczytu maszynowego
 - **RISM**:  Rekord został stworzony w RISM (domyślnie)
 
-** **
+
 
 **Poziom katalogowania (980 $b)**
 
@@ -19,7 +19,7 @@ _Szczegóły zakładają:_
 - **Pełny**
 - **Standardowy**
 
-** **
+
 
 **Zbadany materiał (980 $c)**
 

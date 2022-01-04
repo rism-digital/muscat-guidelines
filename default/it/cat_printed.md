@@ -1,4 +1,4 @@
-## **Copertura delle edizioni musicali a stampa in RISM**
+## Copertura delle edizioni musicali a stampa in RISM
 
 RISM ambisce a documentare edizioni musicali a stampa dai primordi della stampa musicale fino al 1900 circa.
 
@@ -6,7 +6,7 @@ Nel corso del XX secolo e fino ad oggi si è assistito a un forte incremento del
 
 RISM può considerare caso per caso l'opportunità di documentare musica pubblicata nel XX secolo da editori scomparsi o editori minori e regionali d'importanza storica; o anche edizioni moderne incluse nel contesto della catalogazione di un'intera collezione di valore storico, ad esempio la biblioteca privata di un individuo.
 
-## **Quando inserire una nuova scheda (edizioni musicali a stampa)**
+## Quando inserire una nuova scheda (edizioni musicali a stampa)
 
 RISM tratta ogni manoscritto come un oggetto unico e perciò ogni manoscritto la la sua scheda RISM. Il materiale a stampa è però differente, in quanto si possono descrivere copie multiple della stessa edizione utilizzando la stessa scheda (aggiungendo semplicemente i tuoi dati di possesso), ma varianti significative richiedono la creazione di una nuova scheda.
 
@@ -110,7 +110,7 @@ Edizioni musicali a stampa hanno titoli propri molto più spesso di manoscritti 
 
 > Inserisci i titoli uniformi utilizzando un'ortografia moderna, ma non modificare degli arcaismi o dei dialettalismi/regionalismi. Tra le modifiche più consuete vi sono la grafia _v_ per _u_, _i_ per _j_, _y_ per _i_, e _uu_ per _w_. La Redazione centrale può aiutarti per titoli in lingue straniere inconsuete. Puoi inserire delle varianti aggiuntive nel campo **Titolo uniforme alternativo (730)**.  
 >   
-> _Esempio_:
+> ##### Esempio
 
 > RISM A/I: RR 3030c[  
 > ](http://muscat.rism.info/admin/sources/991009151)Titolo diplomatico: Musicalische Grab=schrifft.  
@@ -121,7 +121,7 @@ Edizioni musicali a stampa hanno titoli propri molto più spesso di manoscritti 
 > #### 2. Come ricavare un titolo uniforme
 > Un titolo uniforme deve comporsi del titolo di un'edizione a stampa fino a una pausa naturale, spesso una virgola, un punto, o una dichiarazione dell'autore, dell'organico, del numero d'opera o dei dati editoriali. A volte, un titolo specifico compare su una pagina differente dal frontespizio.   
 >   
-> _Esempi_:
+> ##### Esempi
 
 > RISM A/I: B 805[  
 > ](http://muscat.rism.info/admin/sources/990003743)Titolo diplomatico: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza  
@@ -134,7 +134,7 @@ Edizioni musicali a stampa hanno titoli propri molto più spesso di manoscritti 
 ### Titoli generici
 Specialmente in edizioni antiche, anche titoli generici vengono citati come se si trattasse di titoli propri. Utilizza il campo **Titolo uniforme alternativo (730)** per inserire simili titoli in forma standardizzata. Per aiuto, fai riferimento a opere standard come Grove o MGG, e liste di voci d'autorità dalla [Library of Congress](http://id.loc.gov/authorities/names.html) o da [VIAF](http://www.viaf.org/). Se il titolo indica che l'oggetto è correlato a un altro oggetto, ad esempio libro/Buch/livre o Teil/part/tomus, inserisci il titolo con il complemento nella lingua originale (ma con l'ortografia standardizzata) e un numero arabo dopo il titolo.   
 
-_Esempi_:  
+##### Esempi  
 
 RISM A/I: P 687  
 Titolo diplomatico: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI  
@@ -146,6 +146,6 @@ Titolo diplomatico: Ander Theil | Der Preussischen | Fest-Lieder/ | Von Ostern a
 Titolo uniforme: Preussische Festlieder  
 Titolo uniforme alternativo: Preussische Festlieder, Teil 2
 
-## **Esemplari multipli in una istituzione**
+## Esemplari multipli in una istituzione
 
 Se la tua biblioteca contiene più esemplari della stessa edizione a stampa, ogni esemplare è riportato in una nota di possesso separata.  

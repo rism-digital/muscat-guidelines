@@ -54,12 +54,12 @@ De estas orientaciones se sigue que se utilizará un solo registro para represen
 
 ### Títulos distintivos
 
-La música impresa presenta títulos distintivos con mucha más frecuencia que la música manuscrita. Por favor, observe lo siguiente para el campo **Título** **uniforme (240)** al catalogar música impresa.
+La música impresa presenta títulos distintivos con mucha más frecuencia que la música manuscrita. Por favor, observe lo siguiente para el campo **Títulouniforme (240)** al catalogar música impresa.
 
 1. **Ortografía**  
 Ingrese títulos uniformes sólo con ortografía moderna, pero no corrija de más usos arcaicos o dialectos/regionalismos. Entre los cambios frecuentes aparecen _v_ a _u, i_ a _j, y_ a _i__, uu_ a _w_. El Centro Editorial puede asistirle con lenguajes extranjeros que no le resulten familiares. Puede ingresar variantes adicionales en el campo **Título adicional (730).**  
 
-> _Ejemplo:_  
+> ##### Ejemplo  
 > RISM A/I: RR 3030c  
 > Título en fuente (diplomático): Musicalische Grab=schrifft.]  
 > Título uniforme: Musikalische Grabschrift
@@ -67,7 +67,7 @@ Ingrese títulos uniformes sólo con ortografía moderna, pero no corrija de má
 1. **Derivación de un título uniforme**  
 Los títulos uniformes deben consistir en el título del impreso hasta que se da una interrupción natural, usualmente una coma, punto o enunciación del autor, de la plantilla/orgánico, del número o impreso. A veces aparece un título distintivo en una página diferente a la portada.  
 
-> _Ejemplos_:  
+> ##### Ejemplos  
 > RISM A/I: B 805  
 > Título en fuente (diplomático): Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza  
 > Título uniforme: Vezzo di perle musicali  
@@ -81,7 +81,7 @@ Los títulos uniformes deben consistir en el título del impreso hasta que se da
 
 Incluso los títulos genéricos, especialmente en impresos antiguos, se citan en la bibliografía como si fueran títulos distintivos. Use el campo **Título adicional (730)** para ingresar este tipo de títulos de forma uniforme. Como guía, consulte las obras estándar de referencia como Grove y MGG, y archivos de autoridad de la [Library of Congress](http://id.loc.gov/authorities/names.html) o de [VIAF](http://www.viaf.org/). Si el título indica que el ítem tiene una afiliación con otro ítem, en tanto libro/_book/Buch/livre_ o parte/tomo/_part/Teil/part/tomus_, ingrese el componente en el lenguaje original (con ortografía estandarizada) y los números arábigos después del título.
 
-_Ejemplos_:  
+##### Ejemplos  
 RISM A/I: P 687  
 Título en fuente: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI  
 Título uniforme: 6 Masses  
@@ -92,6 +92,6 @@ Título en fuente: Ander Theil | Der Preussischen | Fest-Lieder/ | Von Ostern an
 Título uniforme: Preussische Festlieder  
 Título adicional: Preussische Festlieder, Teil 2
 
-## **Múltiples copias en una institución**
+## Múltiples copias en una institución
 
 Si su institución alberga múltiples copias (ejemplares) de la misma edición impresa, cree un registro de ejemplar separado para cada copia.

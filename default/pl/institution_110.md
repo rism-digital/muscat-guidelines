@@ -1,4 +1,4 @@
-### Instytucja (MARC 110; ISDIAH 5.1.2)
+### Instytucja (110; ISDIAH 5.1.2)
 Pole stanowi autoryzowany punkt dostępu, który jednoznacznie identyfikuje instytucję ze zbiorami.
 
 #### Instytucja (110 $a)

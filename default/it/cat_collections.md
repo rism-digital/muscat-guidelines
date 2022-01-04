@@ -116,7 +116,7 @@ Il primo soggetto dev'essere **Compilations**  e/o  **Pasticcios**. Il secondo d
 
 **Descrizione sommaria (520)**  
 Usa questo campo per descrivere in generale la natura della fonte.  
-_Esempio_:  
+##### Esempio  
 Atto I di Amadei, atto II di Bononcini, ouverture e atto III di Händel
 
 **Titolo uniforme alternativo (730)**  
@@ -146,7 +146,7 @@ Aggiungi una nota soltanto di eventuali esecuzioni dell'opera compilativa.
 
 452505748: Un'opera-pasticcio consistente di tre atti di tre diversi compositori
 
-** **
+
 
 ### La catalogazione di parodie
 
@@ -205,7 +205,7 @@ Inserisci l'incipit testuale della fonte in esame. Se è noto il testo originale
 
 Ogni altro campo, ad esempio note di esecuzione, si riferisce soltanto alla fonte in esame.
 
-** **
+
 
 #### La catalogazione di inserti di arie  
 
@@ -221,7 +221,7 @@ Le regole consuete vanno applicate creando la scheda madre e la scheda per la co
 
 **Titolo uniforme (240)**: Titolo dell'inserto, o nome dell'opera seguito da  **Excerpts**
 
-**Titolo uniforme alternativo (730) **: Titolo dell'opera più vasta, seguito dal sottocampo** Inserts**
+**Titolo uniforme alternativo (730)**: Titolo dell'opera più vasta, seguito dal sottocampo** Inserts**
 
 **Soggetto (650)**: Inserisci tre soggetti: **Insertions**, il genere dell'inserto e il genere dell'opera più vasta
 
@@ -242,11 +242,11 @@ Non è sempre possiible creare una notizia adeguata per il materiale a stampa. I
 Ci sono due modi di catalogare periodici che contengono musica: come una raccolta o come una singola composizione. In ogni caso, il titolo del periodico, col numero dell'annata e l'anno, è inserito nel campo  **Titolo uniforme alternativo (730)**.
 
 Una **raccolta**  può essere adeguata se il periodico consiste interamente o in gran parte di musica e l'oggetto è stato acquisito e conservato integralmente. Le informazioni di possesso vanno collegate al livello della raccolta. Per ogni composizione in un numero del periodico va creata una scheda singola.   
-_Esempio_:  
+##### Esempio  
 1001097294: Numero di gennaio (l'anno è sconosciuto) della _Kleine Pianoforte-Bibliothek_, contenente cinque composizioni. Si è creata una scheda per la notizia principale per la raccolta, e cinque notizie individuali per ciascuna composizione.
 
 Un' **opera singola**  può essere adeguata se la composizione è compresa come un inserto o un'aggiunta a un periodico il cui contenuto prevalente è privo di notazione musicale. Di frequente, simili oggetti si conservano al di fuori del contesto originario della loro pubblicazione.   
-_Esempi_:   
+##### Esempi   
 991018149: "The Pantheon" pubblicato in _The Lady's Magazine_, agosto 1784  
 990042111: "L'amour folâtrant l'autre jour" pubblicato in _Nouveau Mercure galant_, maggio 1679
 
@@ -255,13 +255,13 @@ La catalogazione di musica all'interno di pubblicazioni non musicali
 
 RISM comprende anche musica trovata in pubblicazioni a stampa che non sono principalmente documenti musicali. L'oggetto della catalogazione RISM ciononostante riguarda la musica.  
 
-_Esempio_:  
+##### Esempio  
 990026614: Tre composizioni vocali di John Isaac Hawkins pubblicate nel _Discourse introductory to a course of lectures on the science of nature _(1800) di Charles Willson Peale.  
 **Compositore/Autore (100)**: Il compositore della musica  
 **Nome aggiuntivo di persona (700)**: L'autore del libro, con l'indicatore **Altra funzione**  
 **Titolo diplomatico (245)**: Il titolo del libro  
 **Titolo uniforme (240)**: Un titolo uniforme secondo le regole RISM, ad esempio **3 Songs**  
-**Descrizione fisica (300) **: Una descrizione della musica, ad esempio **1 score: 5 p.**
+**Descrizione fisica (300)**: Una descrizione della musica, ad esempio **1 score: 5 p.**
 
 Vanno poi create notizie individuali per ciascun brano, seguendo le consuete norme RISM.
 

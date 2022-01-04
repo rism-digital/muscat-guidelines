@@ -244,7 +244,7 @@ There are two ways to catalog periodicals that contain music: as a collection or
 1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. There is one record for the collection parent record, and five individual entries for each piece.
 
 **Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context.  
-_Examples_:    
+##### Examples    
 991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784  
 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
 

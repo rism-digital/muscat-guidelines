@@ -4,7 +4,7 @@ Questo campo rileva la presenza di filigrane nella fonte. Descrivi le filigrane 
 
  
 
-_Esempi_:  
+##### Esempi  
 C & G HONIG  
 GFA | VB [GFA above VB]  
 IV [countermark:] VI  

@@ -8,7 +8,7 @@ Enter sigla here if the item concerns an institution, such as catalogs of collec
 
 For university theses or dissertations, enter a note about where and when the dissertation was completed.
 
-_Examples_:
+##### Examples
 
 - D-Bsa
 - Tübingen, Universität Diss. 2008

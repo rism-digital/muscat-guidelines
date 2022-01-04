@@ -17,7 +17,7 @@ Pode-se indicar aqui a(s) técnica(s) usada(s) na produção da fonte. Se precis
 - **Tipografia**: inclui música impressa usando tipos móveis
 - **Xilogravura**  
 
-Quaisquer acréscimos ou comentários sobre a técnica de impressão pode ser inseridos no campo **Nota geral** **(500 $a)**.
+Quaisquer acréscimos ou comentários sobre a técnica de impressão pode ser inseridos no campo **Nota geral(500 $a)**.
 
 Se uma fonte inclui múltiplas técnicas de impressão, pode-se repetir o campo para indicar cada uma das técnicas. Inclua uma nota no campo **Nota geral (500 $a)** para explicar.
 

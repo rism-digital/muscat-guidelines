@@ -6,6 +6,6 @@ Wprowadzić datę w formie zakodowanej w polu **Data zakodowana (033)**. Wprowad
 
 W przypadku druków muzycznych, wypełnić jedynie w przypadku druków wydanych na specjalną okazję (tzn. muzyki napisanej na specjalną okazję). Wykonania związane z określonym egzemplarzem wydania drukowanego należy podać w informacji o zasobach.
 
-_Przykłady_:  
+##### Przykłady  
 Data pierwszego wykonania : [6.9.1791 Praha, Teatr Narodowy]  
 [u dołu strony tytułowej:] „Wykonanie w Baden Baden w dniu 17 Marca 1832 roku”

@@ -12,7 +12,7 @@ Numer incipitu składa się z trzech cyfr, które oznaczają utwór, część i 
 
 Incipity należy numerować kolejno, nawet jeśli w źródle brakuje części. Na przykład, jeżeli źródłem jest symfonia trzyczęściowa, ale brakuje części środkowej, incipity będą ponumerowane 1.1.1 i 1.2.1 (nie 1.3.1). (Uwaga: System Muscat automatycznie dodaje kropki między numerami.)
 
-_Przykłady_:  
+##### Przykłady  
 1.1.1 = 1. utwór, 1. część, 1. incipit  
 1.1.2 = 1. utwór, 1. część, 2. incipit (brzmi jednocześnie tak jak 1.1.1)  
 1.1.2 = 1. utwór, 1. część, wejście części wokalnej  
@@ -29,7 +29,7 @@ Należy wpisać tytuł części i tempo lub podobne wskaźniki, jeśli takowe zo
 
 Partię wokalną lub instrumentalną należy wpisać korzystając z listy **skrótów instrumentów RISM**. W przypadku nieznanej części wokalnej należy wpisać **V**. W przypadku nieznanej części instrumentalnej należy wpisać **i**. Incipity instrumentów transponowanych należy zapisać tak jak brzmią.
 
-_Przykłady_:  
+##### Przykłady  
 pf  
 T coro  
 org with text
@@ -98,7 +98,7 @@ c.** = tempus imperfectum cum prolatione perfecta
 
 Jeżeli metrum stale się zmienia, można wpisać pierwszy znak metrum, a  po nim drugi, przedzielony spacją. Jeżeli incipit jest pozbawiony znaku metrum, należy pozostawić to miejsce puste.
 
-_Przykłady_:  
+##### Przykłady  
 4/4  
 6/8  
 3/4 4/4
@@ -225,14 +225,14 @@ Nie należy zapominać o wartości rytmicznej w obrębie nawiasu kwadratowego.
 f = oznaczenie powtórzenia  
 Powtórzeń tej figury jest tyle, ile jest powtórzeń **f** po drugim **!**. Jest to możliwe jedynie w obrębie taktu.
 
-_Przykład:_  
+##### Przykład  
  !{'8ABAG}!ff = ta figura powtarza się dwukrotnie.
 
 11.2. Powtarzane takty  
 i = powtórzenie ostatniego taktu  
 'i' umieszcza się zawsze między dwoma kreskami taktowymi.
 
-_Przykład:_  
+##### Przykład  
 '4ABAG/i/i/ = takt zostanie powtórzony dwukrotnie.
 
 
@@ -241,7 +241,7 @@ _Przykład:_
 
 Gdy dana sekwencja rytmiczna powtarza się kilka razy, wzór rytmiczny można podać przed nazwami literowymi odpowiednich nut.
 
-_Przykład:_  
+##### Przykład  
 Zamiast zapisu  **8.A6B8C8.D6E8F** korzystając z kodowani można zapisać   **8.68ABCDEF**  
 Sekwencja rytmiczna kończy się w momencie, gdy pojawia się inna wartość rytmiczna.
 
@@ -271,7 +271,7 @@ Skrócone formy notacji występujące w nutach, takie jak tremola lub znaki simi
 
 Wprowadzić akordy od najwyższej do najniższej nuty, oddzielone znakiem **^**.    
 
-_Przykład:_  
+##### Przykład  
 4’’C^’G^E^C
 
 ####  
@@ -286,7 +286,7 @@ Tu należy wprowadzić wszelkie inne uwagi, takie jak wysokość dźwięku trans
 
 #### (031 $z)
 
-W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie skomplikowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w Podsumowaniu **obsady** **[240 $m]**). Do oddzielenia rodzin instrumentów należy należy stosować znak średnika.
+W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie skomplikowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w Podsumowaniu **obsady[240 $m]**). Do oddzielenia rodzin instrumentów należy należy stosować znak średnika.
 
 ##### Przykłady   
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  

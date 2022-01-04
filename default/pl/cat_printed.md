@@ -1,4 +1,4 @@
-## **Zakres nut drukowanych w RISM**
+## Zakres nut drukowanych w RISM
 
 RISM dąży do dokumentowania druków muzycznych od początku historii drukowania nut do około 1900 roku.
 
@@ -8,7 +8,7 @@ Wyjątek stanowiłyby nowoczesne edycje włączone w proces katalogowania zbior�
 
 RISM rozważy, oddzielnie rozpatrując każdy przypadek, czy dokumentować druki muzyczne wydane w XX wieku przez nieistniejących już wydawców, lub wydane przez mniejszych, regionalnych wydawców o znaczeniu historycznym.
 
-## **Kiedy należy wprowadzić nowy rekord (druki muzyczne)**
+## Kiedy należy wprowadzić nowy rekord (druki muzyczne)
 
 RISM traktuje każdy rękopis jako pozycję unikalną i dlatego też każdy rękopis posiada swój własny rekord RISM. Natomiast materiały drukowane różnią się od rękopisów tym, że wiele egzemplarzy tego samego wydania można opisać za pomocą jednego rekordu (poprzez dodanie informacji o posiadanych zbiorach). Nowy rekord tworzy się dla wariantów istotnych.
 
@@ -121,7 +121,6 @@ Tytuł ujednolicony: Musikalische Grabschrift
 Tytuły ujednolicone winny składać się tytułu druku aż do miejsca naturalnej przerwy, często przecinka, kropki lub oznaczenia autora, instrumentacji, numeru lub stopki wydawniczej. Czasami charakterystyczny tytuł znajduje się na innej stronie niż strona tytułowa.  
 
 ##### Przykłady  
-
 RISM A/I: B 805  
 Tytuł widniejący na źródle: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza  
 Tytuł ujednolicony: Vezzo di perle musicali  
@@ -132,10 +131,9 @@ Tytuł ujednolicony: Novo giardino de concerti
 
 **Tytuły generyczne**
 
-Nawet tytuły generyczne, szczególnie w przypadku starszych stopek wydawniczych, są często cytowane w literaturze jak by były tytułami charakterystycznymi. Do wprowadzania takich tytułów w ujednoliconej formie służy pole **Tytuł dodatkowy (730)**. Wskazówki można znaleźć w takich opracowaniach jak Grove i MGG, oraz kartotekach autorytatywnych [Library of Congress](http://id.loc.gov/authorities/names.html) lub [VIAF](http://www.viaf.org/). Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (z tym, że stosując standardową pisownię) oraz numer arabski występujący po tytule.
+Nawet tytuy generyczne, szczególnie w przypadku starszych stopek wydawniczych, są często cytowane w literaturze jak by były tytułami charakterystycznymi. Do wprowadzania takich tytułów w ujednoliconej formie służy pole **Tytuł dodatkowy (730)**. Wskazówki można znaleźć w takich opracowaniach jak Grove i MGG, oraz kartotekach autorytatywnych [Library of Congress](http://id.loc.gov/authorities/names.html) lub [VIAF](http://www.viaf.org/). Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (z tym, że stosując standardową pisownię) oraz numer arabski występujący po tytule.
 
-_Przykłady_:
-
+##### Przykłady
 RISM A/I: P 687  
 Tytuł widniejący na źródle: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI  
 Tytuł ujednolicony: 6 Masses  
@@ -146,6 +144,5 @@ Tytuł widniejący na źródle: Ander Theil | Der Preussischen | Fest-Lieder/ | 
 Tytuł ujednolicony: Preussische Festlieder  
 Tytuł dodatkowy: Preussische Festlieder, Teil 2
 
-## **Wiele egzemplarzy w jednej instytucji**
-
+## Wiele egzemplarzy w jednej instytucji
 Jeżeli Państwa instytucja posiada wiele egzemplarzy tego samego drukowanego wydania, należy stworzyć osobny rekord dla każdego egzemplarza.

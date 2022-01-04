@@ -8,7 +8,7 @@ Selecione a origem do registro:
 - **Conversão retrospectiva**: TO registro se originou de uma cópia impressa de publicação e foi convertido para uma forma legível-por-máquina.
 - **RISM**: O registro for criado na base de dados RISM (padrão).
 
-** **
+
 
 **Nível de catalogação (980 $b)**
 
@@ -19,7 +19,7 @@ _Detalhes virão adiante._
 - **Completo**   
 - **Padrão**   
 
-** **
+
 
 **Material examinado (980 $c)**
 

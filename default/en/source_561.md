@@ -9,7 +9,7 @@ Include the place on the source where the marks are found. Enter the standardize
 field **Additional personal name (700)** and institutions in **Additional institution (710)**. Note: Information about
 how the current holding institution acquired the item goes in the field **Source of acquisition (541)**.
 
-_Examples_:
+##### Examples
 
 - Stamp on p. 2: "Stadtbibliothek Danzig"
 - Oval stamp on p. 1: "Kapiteljski | arhiv | ŠAK"

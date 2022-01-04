@@ -7,7 +7,7 @@ Geben Sie hier den Titel der Zeitschrift oder Bandes etc. ein. Das Feld ist mit 
 
 Das Feld enthält Bandzählung und/oder Berichtsjahr bzw. Jahreszählung, in welcher das unselbständig erschienene Werk enthalten ist sowie die Angabe des Seitenbereiches, in dem sich das unselbständige Werk (z.B. Aufsatz) im übergeordneten Werk (z.B. Heft der Zeitschrift oder Aufsatzsammlung) befindet. Seitenangabe werden mit „p.“ für „pages“ gekennzeichnet.  
   
-_Beispiele_:  
+##### Beispiele  
 23 (1986), p. 5-10   
 2, 35 (2014), 7-16  
 71 (1997), Heft 5, p.275-292  
