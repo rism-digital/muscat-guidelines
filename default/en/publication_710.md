@@ -1,6 +1,7 @@
 ### Additional institution (710)
 
 #### Additional institution (710 $a)
+
 Enter the name of an additional institution that is connected with the item. Do not repeat the names of publishers in
 this field. This field is linked to the **Institutions** authority file.
 
@@ -8,5 +9,6 @@ this field. This field is linked to the **Institutions** authority file.
 - **Other function**
 
 ##### Examples
+
 - Sing-Akademie zu Berlin
 - Historische Sektion der Bayerischen Benediktinerakademie

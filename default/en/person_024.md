@@ -1,14 +1,18 @@
 ### Other standard identifier (024)
+
 This field gives an alphanumeric code that refers to a name created by another agency.
 
 #### Standard number or code (024 $a)
+
 Enter the alphanumeric code used to identify names. The code is taken from the authority data of the creating agency.
 
 ##### Examples
+
 - 100221216  
 - n83176163
 
 #### Source of number or code (024 $2)
+
 Select from the following:
 - **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
@@ -23,6 +27,7 @@ Select from the following:
 - **WKP**: Wikidata (Wikipedia)
 
 ##### Examples
+
 - 11862119X
 - DNB
 - 71579513

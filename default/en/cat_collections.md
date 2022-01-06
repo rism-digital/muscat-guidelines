@@ -43,20 +43,24 @@ Please note that RISM considers contrafacta to be separate from parody and parod
 
 Take note of the following fields when cataloging contrafacta. RISM ID no. 300234487, a sacred contrafactum of an aria from Josef Mysliveček's opera Il Bellerofonte, will be used as an example.
 
-**Composer (100)**    
+**Composer (100)**
+
 Enter the composer of the original music.
 
 - Mysliveček, Josef
 
-**Standardized title (240)**  
+**Standardized title (240)**
+
 Use the standardized title of the original piece. **Excerpts** may be added. Do not use **Arr**.
 
 - Il Bellerofonte. Excerpts
 
-**Alternative title (730)**  
+**Alternative title (730)**
+
 If there is a new, distinct standardized title for the piece in hand, you can enter it here. Do not enter text incipits here.
 
-**Subject headings (650)**  
+**Subject headings (650)**
+
 Add at least 3 subject headings (more if appropriate), in this order:  
 Contrafacta  
 Current genre  
@@ -66,12 +70,14 @@ Original genre
 - Sacred songs
 - Operas
 
-**Description summary (520)**  
+**Description summary (520)**
+
 Add a short description in English that explains the situation as a benefit to other RISM users.
 
 - Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte.
 
-**Language of text (041)**  
+**Language of text (041)**
+
 Fill out both of these fields:  
 Language of text (041 $a): The current text of the source in hand  
 Language of original text (041 $h): Language of the original piece
@@ -79,7 +85,8 @@ Language of original text (041 $h): Language of the original piece
 - Language of text: Latin
 - Language of original text: Italian
 
-**Text incipit (031 $t)**  
+**Text incipit (031 $t)**
+
 You will enter two text incipits (use the + to add a new line).  
 The text incipit of the current text  
 The text incipit of the original text, if known, in square brackets.
@@ -99,43 +106,57 @@ Compilations may be entered on a single record, or they may be entered as collec
 
 Take note of the following fields when cataloging compilations.
 
-**Composer/Author (100)**  
+**Composer/Author (100)**
+
 The composer is always **Compilations**.
 
-**Additional personal name (700)**  
+**Additional personal name (700)**
+
 The name of the compiler can be added with the function **Editor**.  
 
 If you have a compilation, enter the composer(s) of the original material and select the function **Composer cross-reference**. Enter the composer(s) of the new material and select the function **Co-composer**.
 
-If you have a pasticcio, do not enter composers as a composer cross-references. Instead, enter all composers as **Co-composer** s.
+If you have a pasticcio, do not enter composers as a composer cross-references. Instead, enter all composers as **Co-composer**s.
 
-**Standardized title (240)**  
+**Standardized title (240)**
+
 Enter the standardized title of the source in hand. For pasticcios, add **Excerpts** or **Arrangement** as appropriate.
 
-**Language code (041)**  
+**Language code (041)**
+
 For the field **Language of text**, enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
 
-**Subject heading (650)**  
+**Subject heading (650)**
+
 The first subject heading should be **Compilations** and/or **Pasticcios**. The second should be the genre of the source in hand. If you have excerpts, the genre of the excerpt can be added. **Collaborative compositions** is also an option.
 
-**Description summary (520)**  
-Use this field to describe in general the nature of the source.  
-##### Example:  
-Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
+**Description summary (520)**
 
-**Alternate title (730)**  
+Use this field to describe in general the nature of the source.  
+
+<figure>
+  Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
+  <figcaption>Example</figcaption>
+</figure>
+
+**Alternate title (730)**
+
 Enter the standardized title of the original piece(s), adding **Excerpts** or **Arrangement** as appropriate. You can also enter ossia titles.
 
-**Catalog of works (690)**  
+**Catalog of works (690)**
+
 You can enter the catalog of works number for both the compilation and the original works.
 
-**Text incipit (031)**  
+**Text incipit (031)**
+
 Enter the text of the source in hand. If known, enter the original text in square brackets.
 
-**General note (500)**  
+**General note (500)**
+
 Always use a note for clarification, especially if the works of separate composers are involved. This ensures that the composers are matched to the works used in the compilation.
 
-**Note on performance (518)**  
+**Note on performance (518)**
+
 Performances should be noted only as they relate to the compilation itself.
 
 **Examples of compilations**:
@@ -180,7 +201,8 @@ Enter the title of the pre-existing material. Add Excerpts as appropriate. Do no
 
 - Tancredi. Excerpts
 
-**Subject heading (650)**  
+**Subject heading (650)**
+
 Enter Parodies as the first subject heading. Enter the genre of the source in hand for the second, and the genre of the pre-existing material as the third.
 
 - Parodies
@@ -239,20 +261,25 @@ Always strive to catalog the printed material in a separate record, because it i
 
 There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.
 
-**Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.  
-##### Example:  
+**Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.
+
+##### Example:
+
 1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. There is one record for the collection parent record, and five individual entries for each piece.
 
 **Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context.  
-##### Examples    
+
+##### Examples
+
 991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784  
 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
 
 ### Music in non-music publications
 
-RISM includes music found in printed publications that are not primarily music documents. The focus of the RISM record is nevertheless the music.  
+RISM includes music found in printed publications that are not primarily music documents. The focus of the RISM record is nevertheless the music.
 
-##### Example:  
+##### Example:
+
 990026614: 3 songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).  
 **Composer/Author (100)**: The composer of the music  
 **Additional Personal Name (700)**: The author of the book, with the indicator **other**  
@@ -308,11 +335,7 @@ Additional subject headings may be added.
 Specify piano arrangements as follows.
 
 - In the field **Standardized title (240):**
-
   - Select **Arrangement** next to **Arrangement statement**.
-
   - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. Do not enter the scoring of the original work.
-
 - In the field **Total scoring (594)**, enter the total scoring of the arrangement. Do not enter the scoring of the original work.
-
 - In the field **Physical description (300)**, use **keyboard score** if the work has been reduced for piano. Use **vocal** score if the work has been reduced for voice and piano.

@@ -1,15 +1,15 @@
 ### Short title (210)
 
 #### Short title (210 $a)
+
 **Required field.**
 
-Each item of secondary literature receives a unique short title to enable easy reference throughout RISM records. Always
-check first to make sure a short title is not already in use.
+Each item of secondary literature receives a unique short title to enable easy reference throughout RISM records. Always check first to make sure a short title is not already in use.
 
-The following will describe how to create short titles for **general secondary literature**, **catalogs of works**,
-and **special cases**.
+The following will describe how to create short titles for **general secondary literature**, **catalogs of works**, and **special cases**.
 
 ##### General secondary literature
+
 Short titles for **general secondary literature** are made up as follows:
 
 - **Last name** of the author or editor  
@@ -20,6 +20,7 @@ Short titles for **general secondary literature** are made up as follows:
 - **Year** of publication
 
 ###### Examples
+
 - Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
  → DirksenS 2007  
 - Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
@@ -33,6 +34,7 @@ For authors or editors who publish multiple articles about the same composer or 
 letter (**a**, **b**, **c**, etc.) is added to the end of the year.  
 
 ###### Examples
+
 - Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
  → KircherA 2005  
 - Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, ed. Armin Kircher (Stuttgart: Carus, 2005).  
@@ -45,24 +47,28 @@ letter (**a**, **b**, **c**, etc.) is added to the end of the year.
 For two or more authors or editors, only the first is used in a short title.  
 
 ###### Example
+
 - John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
  → Fuller-MaitlandF 1893
 
 If no author is named, use 1-2 keywords from the title in its place.  
 
 ###### Example
+
 - _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
  → VerzeichnisThibaut 1842
 
 For multivolume works that were published over the course of several years, only the first year is used.  
 
 ###### Example
+
 - Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
  → SchröderW 1943
 
 If the year of publication is neither given nor ascertainable, write **s.d.** (for no date) instead of a year.
 
 ###### Example
+
 - Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, no date).  
  → ZanglO s.d.
 
@@ -70,6 +76,7 @@ If only an approximate year of publication is known, add a **ca.** (for circa) w
 publication year in the record, but omit the “ca.” in the short title.  
 
 ###### Example
+
 - Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
  → FahrbachK 1850
 
@@ -77,6 +84,7 @@ For the short titles of well-known encyclopedias or sets, use the well-establish
 Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
 ##### Catalogs of works
+
 Short titles for **catalogs of works** are made of:
 - **First three letters** of the last name of the author or editor
 - **First letter** of the composer’s last name, capitalized
@@ -87,6 +95,7 @@ A catalog that is published as a part of a larger item, such as an appendix in a
 works. Such items can also be cited as a **Bibliographic reference (691)**.
 
 ###### Examples
+
 - A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
  → BelH  
 - Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
@@ -100,6 +109,7 @@ Use the well-established abbreviations for catalogs of works if they exist (BWV,
 abbreviation used within the catalog as long as it does not lead to confusion.    
 
 ###### Example
+
 - Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
  → QV  
 - Klaus-Peter Koch, Samuel-Scheidt-Werke-Verzeichnis (SSWV) (Wiesbaden: Breitkopf & Härtel, 2000).  
@@ -109,23 +119,20 @@ abbreviation used within the catalog as long as it does not lead to confusion.
  _Note: MWV was already in use for the Mendelssohn Werkverzeichnis._
 
 ##### Special cases
-Publications that contain the term _thematic catalog_ in their titles are often catalogs of works but may occasionally
-touch on other topics or not be extensive in their scope. Always double-check. If it’s the former, give it a short title
-as for a catalog of works. If it’s the latter, give it a short title like you do for normal literature. In short,
-anything that isn’t a catalog of works is assigned a literature short title.
+
+Publications that contain the term _thematic catalog_ in their titles are often catalogs of works but may occasionally touch on other topics or not be extensive in their scope. Always double-check. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title like you do for normal literature. In short, anything that isn’t a catalog of works is assigned a literature short title.
 
 ###### Examples
+
 - Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
  → PasJ  
 - Jean Duron, _L’oeuvre de Sébastien de Brossard (1655-1730). Catalogue thématique_ (Versailles: Klincksieck, 1995).  
  → DurB  
-- Francesco Passadore, _Catalogo tematico delle composizioni di Giuseppe Torelli (1658-1709)_(Padua: Edizioni de "I Solisti Veneti", 2007).  
+- Francesco Passadore, _Catalogo tematico delle composizioni di Giuseppe Torelli (1658-1709)_ (Padua: Edizioni de "I Solisti Veneti", 2007).  
  → PasT  
-- Robert Didion and Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_(Frankfurt: Vittorio Klostermann, 1990).  
+- Robert Didion and Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_ (Frankfurt: Vittorio Klostermann, 1990).  
  → DidionF 1990  
 - Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
  → MurányiW 1997
 
-Do not assign a short title to books, yearbooks, conference reports, etc. that consist of a collection of essays. Any
-essays in such books are entered individually as literature references, not the entire book itself. The essay is entered
-as a literature record with its own short title.
+Do not assign a short title to books, yearbooks, conference reports, etc. that consist of a collection of essays. Any essays in such books are entered individually as literature references, not the entire book itself. The essay is entered as a literature record with its own short title.

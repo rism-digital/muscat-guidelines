@@ -1,12 +1,8 @@
 ### Standardized titles – Subject headings
-This section refers to cataloging situations where genres are used as standardized titles (refer to the guidelines
-for **Standardized title (240)**). In many cases, the **Standardized title** and the **Subject heading (650)** will be
-identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading
-is used.
 
-Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres,
-you will see the words (**voc.**) or (**inst.**) after the term in parentheses. Specifications such as (dances) or (
-stage) may also be added in parentheses after the main term.
+This section refers to cataloging situations where genres are used as standardized titles (refer to the guidelines for **Standardized title (240)**). In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
+
+Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words (**voc.**) or (**inst.**) after the term in parentheses. Specifications such as (dances) or (stage) may also be added in parentheses after the main term.
 
 Below are some examples, followed by correspondences for the following kinds of standardized titles:
 
@@ -50,10 +46,10 @@ Here are some examples for special situations:
 9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces**
    as the subject heading.
 
-The following list gives an idea of what standardized titles have a corresponding subject heading. Please note that this
-list is not comprehensive.
+The following list gives an idea of what standardized titles have a corresponding subject heading. Please note that this list is not comprehensive.
 
-#### General instrumental and vocal music  
+#### General instrumental and vocal music
+
 Standardized title — Corresponding subject heading
 - Airs — Airs (dances)  
 - Airs — Airs (inst.)  
@@ -110,7 +106,8 @@ Standardized title — Corresponding subject heading
 - Virelais — Virelais (forme fixe)  
 - Terzets — Terzets (voc.)  
 
-#### Sacred vocal music  
+#### Sacred vocal music
+
 Standardized title — Corresponding subject heading
 - Completoria — Hours of the Office  
 - Horae minores — Hours of the Office  
@@ -118,7 +115,8 @@ Standardized title — Corresponding subject heading
 - Laudes — Hours of the Office  
 - Matutina — Hours of the Office  
 
-#### Music for the stage, theater, etc.  
+#### Music for the stage, theater, etc.
+
 _For genres of individual numbers or parts, consult the section on vocal and instrumental music._  
 Standardized title — Corresponding subject heading  
 - Intermezzos — Intermezzos (stage)  
@@ -126,6 +124,7 @@ Standardized title — Corresponding subject heading
 - Prologues — Prologues (stage)  
 
 #### Exercises, studies, schools, lessons  
+
 Standardized title — Corresponding subject heading  
 - Arpeggios — Arpeggios (inst.)  
 - Cadences — Cadences (inst.) _or_ Cadenzas (inst.)  
@@ -138,6 +137,7 @@ Standardized title — Corresponding subject heading
 - Tutors — Tutors (voc.)  
 
 #### Dances
+
 Standardized title — Subject heading  
 - Airs — Airs (dances)  
 - Rounds — Rounds (dances)

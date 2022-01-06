@@ -4,13 +4,9 @@ Der Menüpunkt **Normdaten** listet alle Indices - ähnlich einer eigenen kleine
 
 In der Bilddatenbank werden alle Bilder (in der Regel Wasserzeichen, Schriftproben oder Bindungen) gesammelt, die Katalogisierer in Muscat hochladen und im Quellenbearbeitungsmodus über den Link **Neues Bild hinzufügen** an ihre Datensätze anhängen.
 
-
-
 **Körperschaften**
 
 Die Autoritätsdatei für Institutionen erfasst Nicht-Personen, die im Zusammenhang mit einer Quelle auftreten.
-
-
 
 **Liturgische Feste**   
 Der Index der liturgischen Feste enthält alle religiösen Feier- und Festtage. Neue liturgische Feste werden in Absprache mit der Zentralredaktion eingegeben.
@@ -27,18 +23,13 @@ Im Bearbeitungsmodus der Personen können Sie über die seitliche Schaltfläche 
 
 Nachdem Sie einen neuen Namen eingegeben haben können Sie ihn für die nächsten zwei Monate bearbeiten. Dies ist nützlich, wenn Sie z. B. alternative Schreibweisen finden oder wenn Sie zusätzliche biographische Informationen hinzufügen möchten. Danach geht die Kontrolle an die Zentralredaktion über. Ergänzungen sind weiterhin willkommen und können über die Kommentarfunktion oder per E-Mail an alexander.marxen@rism.info mitgeteilt werden.
 
-###  
 **Schlagwörter**
 
 Hier werden alle Schlagworte, Formen und Gattungen gesammelt. Einige Datensätze enthalten Erläuterungen zum Begriff. Wenn Sie einen Begriff benötigen, die nicht in unserer Liste enthalten ist, teilen Sie uns dies bitte mit.
 
-
-
 **Sekundärliteratur**
 
 Diese bibliografische Datenbank enthält Informationen zu allen Formen der Sekundärliteratur: Werkverzeichnisse, Themenkataloge, Bücher, Artikel, Enzyklopädien, Online-Ressourcen, kritische Ausgaben, moderne Ausgaben usw. Klicken Sie auf "Erstellen", um einen neuen Datensatz der Sekundärliteratur zu erstellen.
-
-
 
 **Titel / Textincipits**
 
