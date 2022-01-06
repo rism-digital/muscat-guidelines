@@ -74,7 +74,7 @@ Diese Richtlinie bedeutet, dass ein Eintrag für mehrere Ausgaben verwendet wird
 
 1.
 
-Exemplar 1: Rechtschreibfehler wurde korrigiert. Dies allein würde noch keinen neuen Datensatz rechtfertigen, aber es wurde eine weitere Textsprache (italienisch) hinzugefügt. **N**** euer Datensatz notwendig** (unterschiedlicher Inhalt/Erweiterung). Ergebnis: 1001031017
+Exemplar 1: Rechtschreibfehler wurde korrigiert. Dies allein würde noch keinen neuen Datensatz rechtfertigen, aber es wurde eine weitere Textsprache (italienisch) hinzugefügt. **Neuer Datensatz notwendig** (unterschiedlicher Inhalt/Erweiterung). Ergebnis: 1001031017
 
 2.
 
@@ -129,7 +129,7 @@ Einordnungstitel: Vezzo di perle musicali
 
 - RISM A/I: [B 3781](http://muscat.rism.info/admin/sources/990006458)  
 Diplomatischer Titel: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci [...]  
-Einordnungstitel:  Novo giardino de concerti  
+Einordnungstitel: Novo giardino de concerti  
 
 
 
@@ -148,6 +148,6 @@ Diplomatischer Titel: Ander Theil | Der Preussischen | Fest-Lieder/ | Von Ostern
 Einordnungstitel: Preussische Festlieder  
 Alternativer Titel: Preussische Festlieder, Teil 2
 
-## Mehrere Exemplare in einer Institution 
+## Mehrere Exemplare in einer Institution
 
 Besitzt Ihre Institution mehrere Exemplare eines Musikdrucks, wird für jedes Exemplar ein eigener Exemplareintrag erstellt.

@@ -1,15 +1,12 @@
 ### External resource URL (856)
 
 #### External resource URL (856 $u)
-
 Enter the full URL of the external resource. Use permalinks whenever possible.
 
-### Note about external resource (856 $z)
-
+#### Note about external resource (856 $z)
 Enter a brief note that describes the link.
 
 ##### Examples
-
 - Electronic resource
 - Elektronische Ressource
 - Link to PDF

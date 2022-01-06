@@ -2,7 +2,7 @@ Si possono effettuare delle **ricerche** in Muscat attraverso una ricerca per ca
 
 **Ricerca per categorie**
 
-La  **ricerca per**  **categorie** (menu superiore, al centro) permette di ricercare dati nel contesto abituale dell’OPAC. Se hai diritto a modificare una certa fonte, vedrai apparire un bottone 'Modifica' e facendo clic su di esso ti troverai direttamente nella modalità di redazione Muscat.
+La  **ricerca per categorie** (menu superiore, al centro) permette di ricercare dati nel contesto abituale dell’OPAC. Se hai diritto a modificare una certa fonte, vedrai apparire un bottone 'Modifica' e facendo clic su di esso ti troverai direttamente nella modalità di redazione Muscat.
 
 Una **ricerca per incipit**  è possibile attraverso la ricerca avanzata. Una tastiera permette un agevole inserimento della notazione. Sono disponibili quattro modalità di ricerca, con un grado variabile di imprecisione:  
 1. Altezza esatta: l'incipit corrisponde esattamente alle altezze immesse.  
@@ -10,7 +10,7 @@ Una **ricerca per incipit**  è possibile attraverso la ricerca avanzata. Una ta
 3. Contorno melodico accurato: gli intervalli sono ignorati, si ricercano solo i movimenti melodici verso l'acuto o verso il grave.   
 4. Contorno melodico approssimato: questa è la ricerca più approssimativa. Si ricerca il profilo approssimativo della melodia.  
 
-In fondo alla pagina, il campo  **Incipit**  permette all'utente di inserire il semplice codice Plaine & Easie (ad esempio, compiandolo e incollandolo dalla scheda di una fonte). La visualizzazione sul rigo musicale viene aggiornata automaticamente come nell'immissione dei dati nelle schede delle fonti.  
+In fondo alla pagina, il campo  **Incipit** permette all'utente di inserire il semplice codice Plaine & Easie (ad esempio, compiandolo e incollandolo dalla scheda di una fonte). La visualizzazione sul rigo musicale viene aggiornata automaticamente come nell'immissione dei dati nelle schede delle fonti.  
 
 Tutti gli altri campi presenti nella Ricerca avanzata possono essere usati in combinazione con la ricerca per incipit.  
 
@@ -64,5 +64,5 @@ troverà tutte le schede modificate dal tempo dei tempi fino al 7 febbraio 2012 
 Si prega di notare quanto segue per effettuare ricerche nell’indice **Persone**:
 
 - **Nome**: Ricerca nei campi **Nome di persona(100 $a)** e **Varianti del nome(400 $a)**.
-- **Date**: Ricerca nel campo **Data di nascita e di morte(100 $d)**, e comprende tanto gli anni che le abbreviazioni seguenti: sc  a  p  c  \*  +  /
+- **Date**: Ricerca nel campo **Data di nascita e di morte(100 $d)**, e comprende tanto gli anni che le abbreviazioni seguenti: sc a p c \* + /
 - **Luoghi**: Ricerca nel campo **Nome geografico (551)**. Questo comprende luoghi di nascita, origine e attività.

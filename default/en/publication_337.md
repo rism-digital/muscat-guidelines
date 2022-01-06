@@ -4,7 +4,6 @@
 **Required field.**
 
 Select the type of media from the following list:
-
 - **Printed medium**
 - **Electronic resource**: such as a database, website, or online catalog of works
 - **E-book**

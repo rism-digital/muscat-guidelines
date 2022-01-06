@@ -49,6 +49,6 @@ once to form a folio, twice to form a quarto, three times to form an octavo). Se
 - **18°**: octodecimo, eighteenmo, 18mo
 - **20°**: vigesimo, twentymo, 20mo
 - **24°**: vigesimo-quarto, twenty-fourmo, 24mo
-- **obl.**  **2°**: oblong folio
-- **obl.**  **4°**: oblong quarto
-- **obl.**  **8°**: oblong octavo
+- **obl. 2°**: oblong folio
+- **obl. 4°**: oblong quarto
+- **obl. 8°**: oblong octavo

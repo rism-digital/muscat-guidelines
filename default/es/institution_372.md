@@ -5,7 +5,7 @@ Este campo se utiliza para registrar el área en la que la institución está in
 Introduzca el campo de actividad con el que la institución está o estuvo involucrada.
 
 ##### Ejemplo
-Música--Enseñanza y estudio         
+- Música--Enseñanza y estudio         
 
 #### Fuente del término (372 $2)
 Introduzca el código que identifica la fuente de un término de vocabulario controlado para el campo de actividad.

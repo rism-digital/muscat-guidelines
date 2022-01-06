@@ -23,7 +23,7 @@ Registre la ciudad de la institución. Si el idioma original se escribe en alfab
 #### Sigla (110 $g)
 Este campo es para la única e inalterable Sigla de la biblioteca RISM. **Las siglas son asignadas por el Centro Editorial del RISM** en consulta con los grupos de trabajo nacionales del RISM.
 
-Las siglas del repositorio se componen de tres elementos: una abreviatura del país, una abreviatura de la ciudad y una abreviatura de la institución. En algunos casos, la abreviatura de la institución puede omitirse (ejemplo: D-B). Las abreviaturas del país y de la ciudad se escriben siempre en mayúsculas y la abreviatura de la institución, siempre en minúsculas.  El código de país está separado de los demás detalles por un guión. El código de país casi siempre se toma de la lista de códigos internacionales de registro de vehículos que mantienen las Naciones Unidas. Los códigos de ciudad e institución son creados por el Centro Editorial del RISM.
+Las siglas del repositorio se componen de tres elementos: una abreviatura del país, una abreviatura de la ciudad y una abreviatura de la institución. En algunos casos, la abreviatura de la institución puede omitirse (ejemplo: D-B). Las abreviaturas del país y de la ciudad se escriben siempre en mayúsculas y la abreviatura de la institución, siempre en minúsculas. El código de país está separado de los demás detalles por un guión. El código de país casi siempre se toma de la lista de códigos internacionales de registro de vehículos que mantienen las Naciones Unidas. Los códigos de ciudad e institución son creados por el Centro Editorial del RISM.
 
 En caso de que una institución haya cambiado de nombre, sigue manteniendo la misma Sigla. (Por ejemplo: CZ-Bu)
 

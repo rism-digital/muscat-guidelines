@@ -26,4 +26,4 @@ _Details werden folgenden._
 Bitte geben Sie an, ob Sie das Material beim Katalogisieren direkt geprüft haben.
 
 - **Autopsie**
-- **Keine**  **Autopsie**: Dies kann verwendet werden, wenn der Datensatz über eine Katalogbeschreibung angelegt wurde.
+- **Keine Autopsie**: Dies kann verwendet werden, wenn der Datensatz über eine Katalogbeschreibung angelegt wurde.

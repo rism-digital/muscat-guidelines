@@ -55,7 +55,7 @@ En este campo también pueden registrarse textos relacionados que no aparezcan e
 
 **Escritura no latina**: si su fuente presenta un íncipit literario escrito con letras o caracteres no latinos (alfabeto cirílico/griego/hebreo/coreano, caracteres chinos, etc.) ingrese el **Íncipit literario** en su idioma original. Las traducciones o transliteraciones son opcionales y pueden añadirse en campos de íncipit literario adicionales. Si desea añadir traducciones que no están en la fuente, hágalo entre corchetes. Se puede traducir a cualquiera de los idiomas RISM.
 
-**Reglas especiales para textos en latín**: ingrese los textos en latín, tanto sacros como seculares. Este campo está vinculado al archivo de autoridades de **Títulos/íncipits literarios**. Dentro del archivo de autoridades de **Títulos/íncipits literarios**, los términos precedidos por el indicador **t**  presentan información sobre el contexto litúrgico exacto, versiones variantes y otros aspectos vinculados al íncipit literario. Si el íncipit literario se usa además como Título Uniforme, asegúrese de que la ortografía sea idéntica; no obstante, recuerde que en los títulos uniformes el texto en latín se ingresa sólo hasta la coma. Use corchetes para registrar textos en latín que no aparecen en la fuente pero han sido determinados por vía de la investigación.
+**Reglas especiales para textos en latín**: ingrese los textos en latín, tanto sacros como seculares. Este campo está vinculado al archivo de autoridades de **Títulos/íncipits literarios**. Dentro del archivo de autoridades de **Títulos/íncipits literarios**, los términos precedidos por el indicador **t** presentan información sobre el contexto litúrgico exacto, versiones variantes y otros aspectos vinculados al íncipit literario. Si el íncipit literario se usa además como Título Uniforme, asegúrese de que la ortografía sea idéntica; no obstante, recuerde que en los títulos uniformes el texto en latín se ingresa sólo hasta la coma. Use corchetes para registrar textos en latín que no aparecen en la fuente pero han sido determinados por vía de la investigación.
 
 Los textos normalizados en latín suelen corresponderse con las versiones del _Liber usualis_. En RISM, estos textos incluyen generalmente una coma. Por ejemplo, si busca el texto “Et in terra pax”, encontrará alrededor de una docena de resultados, pero sólo uno incluye una coma, y verá que esta fuente ha sido usada 4800 veces en la base de datos. Se trata del registro que deseamos usar como íncipit –asumiendo que el mismo se corresponda con su fuente–. Si su íncipit literario es sólo “Et in terra pax” se da a entender que, o bien (1) sólo contiene esas palabras, o bien (2) continúa de un modo diferente al del _Liber usualis_. Por supuesto, cabe la posibilidad de que esto suceda. Sin embargo, en la mayoría de los casos se optará por la versión con la coma.
 
@@ -204,7 +204,7 @@ Por favor, ¡no olvide el valor rítmico dentro de los paréntesis!
 **11.1. Figuras repetidas**  
 ! = inicio y fin de un pasaje  
 f = repetir la indicación  
-El pasaje será repetido cada vez que aparezca  **f**  después del segundo **!**. Esto sólo es posible dentro de un mismo compás.
+El pasaje será repetido cada vez que aparezca  **f** después del segundo **!**. Esto sólo es posible dentro de un mismo compás.
 
 ##### Ejemplo  
 !{‘8ABAG}!ff = el pasaje se repetirá dos veces

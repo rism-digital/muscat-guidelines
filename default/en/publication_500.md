@@ -9,7 +9,6 @@ Enter sigla here if the item concerns an institution, such as catalogs of collec
 For university theses or dissertations, enter a note about where and when the dissertation was completed.
 
 ##### Examples
-
 - D-Bsa
 - Tübingen, Universität Diss. 2008
 - PhD dissertation, Institute of Musicology at the University of Wrocław

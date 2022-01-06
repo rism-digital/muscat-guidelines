@@ -1,7 +1,6 @@
 ### Language code (041)
 
 #### Language code (041 $a)
-
 **Required field.**
 
 Enter the language(s) of the item. Use the three-letter ISO 639-2 abbreviations found

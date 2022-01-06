@@ -8,6 +8,5 @@ this field. This field is linked to the **Institutions** authority file.
 - **Other function**
 
 ##### Examples
-
 - Sing-Akademie zu Berlin
 - Historische Sektion der Bayerischen Benediktinerakademie

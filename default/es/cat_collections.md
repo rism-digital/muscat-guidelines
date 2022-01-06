@@ -35,7 +35,7 @@ Con este tipo de documentos, deberá vincular tanto ítems manuscritos como impr
 
 ### Catalogación de _contrafacta_
 
-Los _Contrafacta _(sing. _Contrafactum_)_ _son piezas vocales en las cuales se reemplaza el texto sin realizar cambios significativos a la música, como en el caso de las obras seculares cuyo texto es reemplazado por uno sacro, o viceversa. La derivación es casi mecánica; hay poca creatividad en juego de parte del arreglador, aunque se plantea un cambio significativo en el propósito musical de la pieza (por ejemplo, el desplazamientpo de un contexto teatral a otro religioso).  
+Los _Contrafacta_ (sing. _Contrafactum_) son piezas vocales en las cuales se reemplaza el texto sin realizar cambios significativos a la música, como en el caso de las obras seculares cuyo texto es reemplazado por uno sacro, o viceversa. La derivación es casi mecánica; hay poca creatividad en juego de parte del arreglador, aunque se plantea un cambio significativo en el propósito musical de la pieza (por ejemplo, el desplazamientpo de un contexto teatral a otro religioso).  
 
 Por favor, nótese que RISM diferencia a los _contrafacta _de la parodia y las misas de parodia, las cuales, por lo general, involucran una transformación más significativa del material musical.  
 
@@ -48,7 +48,7 @@ Registre el compositor de la música original.
 - Mysliveček, Josef
 
 **Título uniforme (240)**  
-Utilice el título uniforme de la pieza original. Puede seleccionar el calificador  **Extractos.**  No use el calificador  **Arreglo**.
+Utilice el título uniforme de la pieza original. Puede seleccionar el calificador  **Extractos.** No use el calificador  **Arreglo**.
 
 - _Il Bellerofonte. _Extractos
 

@@ -26,7 +26,7 @@ Fuente concordante en GB-Ob
 
 **Campo requerido cuando se registra un vínculo a un recurso externo.** Seleccione entre las siguientes opciones:
 
-- **Fuente digitalizada**: el enlace pertenece a un sitio web externo que alberga una copia digitalizada del recurso descripto. Se privilegian los enlaces a repositorios institucionales; no obstante, si no hay repositorios institucionales disponibles, se aceptan enlaces a repositorios externos tales como_Internet_ _Archive_ o IMSLP. En el caso de las colecciones, no es necesario duplicar el mismo enlace en la entrada principal de la colección y las entradas individuales.  
+- **Fuente digitalizada**: el enlace pertenece a un sitio web externo que alberga una copia digitalizada del recurso descripto. Se privilegian los enlaces a repositorios institucionales; no obstante, si no hay repositorios institucionales disponibles, se aceptan enlaces a repositorios externos tales como _Internet Archive_ o IMSLP. En el caso de las colecciones, no es necesario duplicar el mismo enlace en la entrada principal de la colección y las entradas individuales.  
 _Ejemplo:  
 [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)_  
 

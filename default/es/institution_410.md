@@ -1,4 +1,4 @@
-#### Otra forma del nombre (410; ISDIAH 5.1.4)
+### Otra forma del nombre (410; ISDIAH 5.1.4)
 Este campo está destinado a cualquier otro nombre de la institución que no corresponda indicar en otro punto.
 
 #### Otra forma del nombre (410 $a)

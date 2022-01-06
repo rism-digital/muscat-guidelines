@@ -4,7 +4,7 @@ To pole rejestruje inne cechy osoby, osoby posiadającej zdolność prawną lub 
 #### Typ instytucji (368 $a)
 W polu podaje się typ instytucji przechowującej zbiory archiwalne.
 
-Należy wybrać spośród następujących :
+Należy wybrać spośród następujących:
 - Archiwum
 - Księgarnia
 - Kopista

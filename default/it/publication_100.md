@@ -1,5 +1,6 @@
-**Autore (100)**
+### Autore (100)
 
+#### Autore (100)
 Inserisci il nome dell'autore principale della pubblicazione. Curatori di edizioni in facsimile o edizioni musicali moderne sono inseriti come autori.  
 
 I nomi di curatori di raccolte di saggi o i compositori di edizioni moderne sono inseriti nel campo  **Nome aggiuntivo di persona (700)**.

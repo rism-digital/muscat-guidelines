@@ -3,6 +3,7 @@
 
 Der Eingabeblock selbst sowie jedes einzelne Eingabefeld sind wiederholbar. Betätigen Sie hierfür das Symbol **+**
 
+#### Standort und Adresse   
 Geben Sie die Informationen in folgende Felder ein:
 - Straße (371 $a): Straße und Hausnummer sowie Adresszusätze wie Stockwerk (bspw. 1. Etage, Raum 569), Häusernamen (beispielsweise Palazzo ducale, Rose cottage etc.) Für Adresszusätze wiederholen Sie bitte das Feld (371 $a), nachdem Sie Straße und Hausnummer eingetragen haben.
 - Postleitzahl (371 $e)
@@ -18,5 +19,5 @@ Passen Sie die Angaben den Postkonventionen des Landes an.
 Geben Sie weitere Kontaktdaten an, wie:
 - Telefonnummer (ISDIAH 5.2.2)
 - Faxnummer (ISDIAH 5.2.2)
-- Kontaktperson  (ISDIAH 5.2.3): Vor allem für Institutionen, die nicht auf Musik spezialisiert sind - wie Verwaltungs- oder Kirchenarchive - ist es sinnvoll, eine Kontaktperson zu nennen.   
-- E-Mail-Adresse der Kontaktperson  (ISDIAH 5.2.3)
+- Kontaktperson (ISDIAH 5.2.3): Vor allem für Institutionen, die nicht auf Musik spezialisiert sind - wie Verwaltungs- oder Kirchenarchive - ist es sinnvoll, eine Kontaktperson zu nennen.   
+- E-Mail-Adresse der Kontaktperson (ISDIAH 5.2.3)

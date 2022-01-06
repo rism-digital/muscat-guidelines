@@ -2,46 +2,31 @@
 
 RISM seeks to document printed music from the beginnings of music printing through around 1900.
 
-In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and
-distribution. The amount of music considered "rare" or undocumented elsewhere is much less when compared to previous
-centuries. Music published by modern publishers, printed in large quantities, widely available, and meant for active use
-by library patrons would be better documented in cooperative databases such as [WorldCat](http://www.worldcat.org/).
+In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and distribution. The amount of music considered "rare" or undocumented elsewhere is much less when compared to previous centuries. Music published by modern publishers, printed in large quantities, widely available, and meant for active use by library patrons would be better documented in cooperative databases such as [WorldCat](http://www.worldcat.org/).
 
-RISM will consider, on a case-by-case basis, whether to document music published in the 20th century by defunct
-publishers or by smaller, regional publishers of historical significance; as well as modern editions included in the
-course of cataloging a collection with historical value, such as the private library of an individual.
+RISM will consider, on a case-by-case basis, whether to document music published in the 20th century by defunct publishers or by smaller, regional publishers of historical significance; as well as modern editions included in the course of cataloging a collection with historical value, such as the private library of an individual.
 
 ## When to input a new record
 
-RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials
-are different, however, in that multiple copies of the same edition can be described using the same record (in which
-case you simply add your holdings information), but significant variants mean that a new record must be created.
+RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record (in which case you simply add your holdings information), but significant variants mean that a new record must be created.
 
-The following offers guidelines as to which variants justify a new record and which do not. (This section draws heavily
-from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
+The following offers guidelines as to which variants justify a new record and which do not. (This section draws heavily from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
 **A new record is required** if your item shows one or more of these differences when compared to the RISM record:
 
-- **Different content**: Differences in the title or authors/contributors. Edition statement that indicates
-  corrections, revisions, expansions, abridgments, or the inclusion of supplementary materials
+- **Different content**: Differences in the title or authors/contributors. Edition statement that indicates corrections, revisions, expansions, abridgments, or the inclusion of supplementary materials
 
 - **Different publisher.**
-- **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement
-of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by
-the comparison of multiple copies).
-- **Different publication status**: An original title page has been canceled and replaced. A new label is covering the
-original publication, distribution, production, etc., statement. Original sheets have been issued in a new publisher’s
-cover bearing more recent information than that provided on the title page. Series title page is new.
+- **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by the comparison of multiple copies).
+- **Different publication status**: An original title page has been canceled and replaced. A new label is covering the original publication, distribution, production, etc., statement. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page. Series title page is new.
 - **Different plate and/or publisher numbers**.
 
-**Do not create a new record** if your item has one of these differences. (If your item has _more than one_ of these
-differences, you must decide if a new record is necessary.)
+**Do not create a new record** if your item has one of these differences. (If your item has _more than one_ of these differences, you must decide if a new record is necessary.)
 
 - Different statement of printing: For example, "Fifth printing"
 - Different printer or other manufacturer but same publisher
 - Different printing date but same publication date
-- Different publisher’s cover that does not provide evidence of a discrete publishing unit (for example, a change of color
-in publisher’s cloth)
+- Different publisher’s cover that does not provide evidence of a discrete publishing unit (for example, a change of color in publisher’s cloth)
 - Different binding
 - Different publisher’s advertisements or catalogs (unless they are integral to the publication)
 - Corrections made in the course of a single press run (stop-press corrections)
@@ -53,8 +38,7 @@ information specific to your copy.
 
 #### Examples:
 
-1. You are looking at RISM number 1001031016: Beethoven, "Adelaide," op. 46, no date, Bonn, N. Simrock, text in German
-   and French.Spelling error on title page: "à une vois [!] Seule".
+1. You are looking at RISM number 1001031016: Beethoven, "Adelaide," op. 46, no date, Bonn, N. Simrock, text in German and French. Spelling error on title page: "à une vois [!] Seule".
 
    1. Copy 1: Same publication information but spelling has been corrected. This alone would not warrant a new record, but
 there is an additional text language in Italian. **New record required** (different content/expansion). Result:

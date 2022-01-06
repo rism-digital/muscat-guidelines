@@ -70,7 +70,7 @@ Por favor, observe o seguinte para buscar **Fontes**:
 Por favor, observe o seguinte para buscar **Nomes de pessoas**:
 
 - **Nome:** Busca nos campos **Título – Nome de pessoa (100 $a)** e **Variante de nome (400 $a)**.
-- **Datas:** Busca no campo **Anos de nascimento e morte (100 $d)**, tanto ao digitar um ano como ao usar as seguintes abreviaturas: sc  a  p  c \*  +  /
+- **Datas:** Busca no campo **Anos de nascimento e morte (100 $d)**, tanto ao digitar um ano como ao usar as seguintes abreviaturas: sc a p c \* + /
 - **Profissão**: Busca o campo **Profissão ou função (550 $a)**, que são inseridas em inglês.
 - **Código de país**: Busca a nacionalidade usando a norma ISO 3166 [http://www.iso.org/iso/home/standards/country\_codes.htm](http://www.iso.org/iso/home/standards/country_codes.htm)
 - **Locais**: Busca o campo **Nome geográfico (551)**. Isto inclui locais de nascimento, morte, origem ou de atividade.

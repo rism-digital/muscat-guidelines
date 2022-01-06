@@ -1,4 +1,4 @@
-**Wyszukiwanie** w Muscat jest dostępne poprzez **wyszukiwanie **** wieloaspektowe ** i poprzez** filtry**.
+**Wyszukiwanie** w Muscat jest dostępne poprzez **wyszukiwanie wieloaspektowe** i poprzez **filtry**.
 
 #### Wyszukiwanie  **wieloaspektowe**
 
@@ -30,12 +30,12 @@ W każdym polu można wprowadzić:
  albo bez znaków cudzysłowia: **lass noch** (98 wyników)  
  albo ze znakami cudzysłowia:  **„lass noch** ” (6 wyników)
 - Obcinanie za pomocą ? lub  \*  
-**?**:  Znak zapytania zastępuje dokładnie jedną literę. Za pomocą **B?cher** można znaleźć Bucher i Bacher.  **\***: Gwiazdkę można używać do obcinania lub zastępowania dowolnej liczby liter. Za pomocą **B\*cher** można znaleźć Bucher i Bacher, a także Boucher i Bötticher.
+**?**: Znak zapytania zastępuje dokładnie jedną literę. Za pomocą **B?cher** można znaleźć Bucher i Bacher.  **\***: Gwiazdkę można używać do obcinania lub zastępowania dowolnej liczby liter. Za pomocą **B\*cher** można znaleźć Bucher i Bacher, a także Boucher i Bötticher.
 - AND, OR, NOT, ( ): Należy korzystać z wyszukiwania Boole'a. Należy używać nawiasów do grupowania wyszukiwania. Przykłady:  
  Kompozytor zawiera: **(Bach AND Johann) NOT Sebastian**  
  Aby znaleźć nazwę Johann Michael Bach i Johann Christian Bach, lecz nie Johann Sebastian Bach  
  Siglum zawiera: **D-B AND (I-\* OR F-P\*)**   
- Aby znaleźć wszystkie  druki w bibliotece D-B, gdy kopie znajdują się także we Włoszech lub Paryżu.  
+ Aby znaleźć wszystkie druki w bibliotece D-B, gdy kopie znajdują się także we Włoszech lub Paryżu.  
 
 
 
@@ -68,5 +68,5 @@ Przy przeszukiwaniu **Źródeł** należy brać pod uwagę następujące element
 Przy wyszukiwaniu **Nazw Osobowych** należy zwrócić uwagę na następujące elementy:
 
 - **Nazwa**: Przeszukuje pola **Hasło - Nazwa osobowa (100 $a)** i **Wariant nazwy (400 $a)**.
-- **Daty życia**: Przeszukuje pole **Lata urodzin i śmierci (100 $d)**, tzn. lata, jak również następujące skróty: sc  a  p  c \*  +  /
+- **Daty życia**: Przeszukuje pole **Lata urodzin i śmierci (100 $d)**, tzn. lata, jak również następujące skróty: sc a p c \* + /
 - **Miejsca**: Przeszukuje pole **Nazwa geograficzna (551)**. Pole obejmuje miejsca urodzenia, śmierci, pochodzenia lub działalności.

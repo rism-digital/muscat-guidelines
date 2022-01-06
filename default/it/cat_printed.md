@@ -12,7 +12,7 @@ RISM tratta ogni manoscritto come un oggetto unico e perciò ogni manoscritto la
 
 Qui di seguito si offre una guida per decidere quali varianti giustificano una nuova scheda e quali no. (Questa sezione riprende ampiamente da [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
-**È necessaria una nuova scheda**  se il tuo oggetto mostra una o più delle differenze seguenti, in confronto alla scheda RISM esistente:
+**È necessaria una nuova scheda** se il tuo oggetto mostra una o più delle differenze seguenti, in confronto alla scheda RISM esistente:
 
 -
 
@@ -31,7 +31,7 @@ Qui di seguito si offre una guida per decidere quali varianti giustificano una n
 
 **Numero di lastra e/o numero editoriale diverso**.
 
-**Non creare una nuova scheda**  se il tuo oggetto mostra una delle differenze seguenti. (Se il tuo oggetto mostra più di una di queste differenze, devi decidere se è necessaria una nuova scheda.)
+**Non creare una nuova scheda** se il tuo oggetto mostra una delle differenze seguenti. (Se il tuo oggetto mostra più di una di queste differenze, devi decidere se è necessaria una nuova scheda.)
 
 -
 
@@ -75,7 +75,7 @@ Queste regole comportano che la stessa scheda sarà utilizzata per rappresentare
 
 1.
 
-Esemplare 1: Dati editoriali identici ma correzione dell'ortografia. Di per sé non sarebbe necessaria una nuova scheda, ma è aggiunto il testo anche in italiano. **È necessaria una nuova scheda****  **(contenuto diverso/espansione). Risultato: 1001031017
+Esemplare 1: Dati editoriali identici ma correzione dell'ortografia. Di per sé non sarebbe necessaria una nuova scheda, ma è aggiunto il testo anche in italiano. **È necessaria una nuova scheda** (contenuto diverso/espansione). Risultato: 1001031017
 
 2.
 
@@ -83,7 +83,7 @@ Esemplare 2: Come l'esemplare 1, ma con l'aggiunta di un prezzo inciso sul front
 
 3.
 
-Esemplare 3: Come il numero RISM 1001031016 (ma con la correzione ortografica), ma con la menzione di un nuovo editore: "chez L. PLATTNER à ROTTERDAM."  **È necessaria una nuova scheda****  **(diverso statuto editoriale). Risultato: 1001031022
+Esemplare 3: Come il numero RISM 1001031016 (ma con la correzione ortografica), ma con la menzione di un nuovo editore: "chez L. PLATTNER à ROTTERDAM."  **È necessaria una nuova scheda** (diverso statuto editoriale). Risultato: 1001031022
 
 
 
@@ -91,7 +91,7 @@ Esemplare 3: Come il numero RISM 1001031016 (ma con la correzione ortografica), 
 
 1.
 
-Esemplare 1: il titolo è identico ma un'etichetta è stata incollata sopra i dati editoriali: "Imported by William Forster...Strand." Riesci a vedere che l'etichetta ricopre l'informazione riguardante Offenbach/André.   **È necessaria una nuova scheda****  **(diverso statuto editoriale/un'etichetta copre i dati editoriali originari). Risultato: 1001031194
+Esemplare 1: il titolo è identico ma un'etichetta è stata incollata sopra i dati editoriali: "Imported by William Forster...Strand." Riesci a vedere che l'etichetta ricopre l'informazione riguardante Offenbach/André.   **È necessaria una nuova scheda** (diverso statuto editoriale/un'etichetta copre i dati editoriali originari). Risultato: 1001031194
 
 3. Stai considerando il numero RISM 990024126 (RISM A/I: G 5286). La scheda RISM riguarda una serie di varie sinfonie. Ogni sinfonia è disponibile come una pubblicazione separata con numeri di lastra successivi, uscite come _livres _1, 2 e 3.
 
@@ -129,7 +129,7 @@ Edizioni musicali a stampa hanno titoli propri molto più spesso di manoscritti 
 >   
 > RISM A/I: B 3781[  
 > ](http://muscat.rism.info/admin/sources/990006458)Titolo diplomatico: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima  
-> Titolo uniforme:  Novo giardino de concerti
+> Titolo uniforme: Novo giardino de concerti
 
 ### Titoli generici
 Specialmente in edizioni antiche, anche titoli generici vengono citati come se si trattasse di titoli propri. Utilizza il campo **Titolo uniforme alternativo (730)** per inserire simili titoli in forma standardizzata. Per aiuto, fai riferimento a opere standard come Grove o MGG, e liste di voci d'autorità dalla [Library of Congress](http://id.loc.gov/authorities/names.html) o da [VIAF](http://www.viaf.org/). Se il titolo indica che l'oggetto è correlato a un altro oggetto, ad esempio libro/Buch/livre o Teil/part/tomus, inserisci il titolo con il complemento nella lingua originale (ma con l'ortografia standardizzata) e un numero arabo dopo il titolo.   

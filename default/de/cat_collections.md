@@ -298,4 +298,4 @@ Im Feld **Besetzung (594)** wird die gesamte Besetzung des Arrangements eingetra
 
 -
 
-Im Feld **Material (300)** wird **keyboard score** für eine reine Klavierbearbeitung verwendet. Nutzen Sie **vocal**  **score** wenn es sich um eine Bearbeitung für Gesang und Klavier handelt.
+Im Feld **Material (300)** wird **keyboard score** für eine reine Klavierbearbeitung verwendet. Nutzen Sie **vocal score** wenn es sich um eine Bearbeitung für Gesang und Klavier handelt.

@@ -1,7 +1,7 @@
 #### Abschrift oder Impressum (260)
 Dieser Teil enthält alle Informationen zu Verlagen, Druckern, Ausgaben, Auflagen und Herstellung aller Quellentypen. In allen Feldern werden mit eckigen Klammern Ergänzungen gegenüber der Quelle gekennzeichnet. Mit Fragezeichen wird die Fragwürdigkeit einer Angabe angezeigt.
 
-Bei Musikdrucken: Wenn die originalen Verlagsangaben durch ein Etikett verdeckt sind oder durchgestrichen wurden und neue Information an dieser Stelle stehen, werden diese hier eingetragen. Wenn die originalen Verlagsangaben noch zu erkennen oder anderweitig verfügbar sind, können Sie diese hier durch Verdopplung des Feldes angeben. Ein Vermerk im Feld  **Bemerkungen (500)** ist hilfreich.
+Bei Musikdrucken: Wenn die originalen Verlagsangaben durch ein Etikett verdeckt sind oder durchgestrichen wurden und neue Information an dieser Stelle stehen, werden diese hier eingetragen. Wenn die originalen Verlagsangaben noch zu erkennen oder anderweitig verfügbar sind, können Sie diese hier durch Verdopplung des Feldes angeben. Ein Vermerk im Feld **Bemerkungen (500)** ist hilfreich.
 
 #### Ort (260 $a)
 Bei Drucken wird hier der Verlagsort, bei Handschriften der Entstehungsort, jeweils wie auf der Quelle vermerkt, eingetragen. Bei mehrere Ortsangaben wird das Feld durch das Pluszeichen (+) verdoppelt.

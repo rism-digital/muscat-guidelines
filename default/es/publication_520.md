@@ -1,7 +1,8 @@
-#### Nota de contenido (520 $a)
+### Nota de contenido (520)
 
+#### Nota de contenido (520 $a)
 Este campo indica la(s) fecha(s) de inicio y fin de un ítem, especialmente en el caso de las publicaciones periódicas.
 
 ##### Ejemplos  
-Vol. 1, no. 1 (Abril 1981)-  
-1969-2004
+- Vol. 1, no. 1 (Abril 1981)-  
+- 1969-2004

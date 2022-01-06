@@ -18,6 +18,6 @@ in a **General note (500)** and link to it as a catalog of works or bibliographi
 
 ##### Example
 
-- **Copy examined**  **for cataloging(588)**: GB-Lbl h.11.a.(1.)
+- **Copy examined for cataloging(588)**: GB-Lbl h.11.a.(1.)
 - **General note (500)**: Record based on YouV using the description of the copy in GB-Lbl, shelfmark h.11.a.(1.).
 - **Catalog of works (690)**: YouV 2

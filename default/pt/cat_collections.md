@@ -33,7 +33,7 @@ Registros para um volume composto for devem ser elaborados de maneira simples. T
 Ao ligar tanto um item manuscrito ou um item impresso a um registro de um volume composto, observe que eles são ligados de maneira diferente.  
 
 1. Primeiro, crie o registro para o volume composto, salve-o e anote o número RISM.
-2. Para manuscritos: no modo de edição do registro para a fonte manuscrita, vá ao campo **Registro principal (773)**. Clique no segundo botão para buscar pelo  volume composto.
+2. Para manuscritos: no modo de edição do registro para a fonte manuscrita, vá ao campo **Registro principal (773)**. Clique no segundo botão para buscar pelo volume composto.
 3. Para música impressa: na informação do material para a edição impressa, encontre o campo **Encadernado com (973)** e clique a lente de aumento. Encontre o registro do volume composto e o selecione.
 
 ### Catalogação de contrafacta
@@ -81,8 +81,8 @@ Idioma do texto original (041 $h): Idioma da peça original
 - Idioma do texto original: Italiano
 **Incipit literário (031 $t)**  
 Deve-se inserir dois incipits literários (use o + para adicionar uma nova linha).  
-O incipit  literário do texto atual   
-O incipit  literário do texto original, se conhecido, entre colchetes.  
+O incipit literário do texto atual   
+O incipit literário do texto original, se conhecido, entre colchetes.  
 
 - Alma redemptoris mater, quae pervia caeli
 - [Giusti dei che ben vedete]
@@ -115,7 +115,7 @@ Catalogar como **coletâneas** pode ser apropriado quando o periódico consiste 
 
 
 
-Catalogar como **obras individuais** pode ser apropriado quando obras são incluídas como  inserções ou adições em periódicos sem um foco em música notada. Frequentemente, tais itens são preservados fora do contexto de suas publication originais.
+Catalogar como **obras individuais** pode ser apropriado quando obras são incluídas como inserções ou adições em periódicos sem um foco em música notada. Frequentemente, tais itens são preservados fora do contexto de suas publication originais.
 ##### Exemplos    
 991018149: "The Pantheon" publicado em The Lady's Magazine, Agosto 1784  
 990042111: "L'amour folâtrant l'autre jour" publicado em Nouveau Mercure galant, Maio 1679  

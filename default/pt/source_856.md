@@ -24,7 +24,7 @@ Fonte concordante em GB-Ob
 
 #### Tipo de link (856 $x)
 Este campo é obrigatório quando se insere um link para um recurso externo. Selecione entre os seguintes:
-- **Fonte digitalizada**: O link é dirigido para um website externo que é uma cópia digitalizada do recurso a ser descrito. Links para repositórios institucionais são preferenciais, mas, caso nenhum esteja disponível, então links para repositórios externos, como o Internet Archive ou o IMSLP, são permitidos. 
+- **Fonte digitalizada**: O link é dirigido para um website externo que é uma cópia digitalizada do recurso a ser descrito. Links para repositórios institucionais são preferenciais, mas, caso nenhum esteja disponível, então links para repositórios externos, como o Internet Archive ou o IMSLP, são permitidos.
 
 ##### Exemplo:   
 [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)
@@ -69,7 +69,7 @@ Detalhes de fontes que apresentem apenas alguns aspectos, como marcas de água, 
 - **Registros catalográficos/Bases de dados**  
 Inclui entradas bibliográficas em catálogos externos ou entradas em bases de dados externas. Bases de dados acadêmicas externas que forneçam informação útil podem ser incluídas, mas considere se poderão estar melhor inseridas como um link para literatura secundária.  
 
-- **Catálogos eletrônicos de obras,  enciclopédias online, fontes de referência digitalizadas**  
+- **Catálogos eletrônicos de obras, enciclopédias online, fontes de referência digitalizadas**  
 De um modo geral, use os campos **Literatura Secundária (691)** ou **Catálogo de obras (690)** para se referir a obras de referência online, como catálogos de obras ou enciclopédias. No entanto, como um serviço para os usuários, pode ser útil incluir adicionalmente um link direto para um determinado local dentro do recurso, através do campo 856.
 
 - **Fontes arquivísticas, fontes históricas**  

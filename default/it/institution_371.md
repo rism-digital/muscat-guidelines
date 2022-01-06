@@ -5,8 +5,7 @@ Questo campo riporta gli indirizzi dell’istituzione, tanto fisici che elettron
 Inserisci le informazioni nei campi seguenti:
 
 - **Via e numero civico** (371 $a):
-
-  - Ripeti il campo per supplementi all’indirizzo: piano (ad esempio: primo piano, stanza 569), nomi di edifici (ad esempio: Palazzo ducale, Rose cottage ecc.)
+- Ripeti il campo per supplementi all’indirizzo: piano (ad esempio: primo piano, stanza 569), nomi di edifici (ad esempio: Palazzo ducale, Rose cottage ecc.)
 - **Codice postale** (371 $e)
 - **Città** (371 $b)
 - **Cantone o provincia** (371 $c)

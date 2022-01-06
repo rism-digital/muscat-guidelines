@@ -48,7 +48,7 @@ Incipit tekstowy składa się z kilku pierwszych słów utworu lub części i mo
 
 Incipity tekstowe podaje się w formie ujednoliconej. Incipity tekstowe należy wprowadzać przy użyciu nowoczesnej pisowni. W celu znormalizowania wpisu należy odwołać się do indeksu **Tytuły/incipity tekstowe**. Jeśli nie ma ich w indeksie, należy wpisać nowe incipity.  
 
-Nie należy umieszczać fragmentów tekstu w nawiasach lub podawać brakujących słów. W tekście nie należy umieszczać znaków interpunkcyjnych i powtórzeń.  Akcentów należy używać tylko w takiej formie, w jakiej pojawiają się w słowniku lub jeśli są poprawne gramatycznie. Numery należy wypisać na początku tekstu jako słowa. Wielkie i małe litery mają być zgodne z zasadami obowiązującymi w danym języku, z tym, że oznaczenia dla Boga (Herr, Dio, Dieu, Signore, Lord, etc.) należy zawsze pisać wielką literą. W przypadku stosowania incipitu tekstowego jako tytułu ujednoliconego (240), należy upewnić się, że długość i pisownia dokładnie się zgadzają.  
+Nie należy umieszczać fragmentów tekstu w nawiasach lub podawać brakujących słów. W tekście nie należy umieszczać znaków interpunkcyjnych i powtórzeń. Akcentów należy używać tylko w takiej formie, w jakiej pojawiają się w słowniku lub jeśli są poprawne gramatycznie. Numery należy wypisać na początku tekstu jako słowa. Wielkie i małe litery mają być zgodne z zasadami obowiązującymi w danym języku, z tym, że oznaczenia dla Boga (Herr, Dio, Dieu, Signore, Lord, etc.) należy zawsze pisać wielką literą. W przypadku stosowania incipitu tekstowego jako tytułu ujednoliconego (240), należy upewnić się, że długość i pisownia dokładnie się zgadzają.  
 
 Należy całkowicie pominąć tekst, jeśli nie można go przeczytać i należy dodać adnotację „Tekst nieczytelny” lub podobną.
 
@@ -61,13 +61,13 @@ Można tu podać sprawdzone lub pochodne teksty, które nie pojawiają się w ź
 - Incipity tekstowe w oryginalnym języku utworu, gdy źródło zawiera przetłumaczoną wersję.
 
 - Teksty kompozycji wokalnych, które stały się tematem wariacji lub podstawą aranżacji instrumentalnej.
-**Alfabety niełacińskie:**  Jeśli w źródle znajduje się incipit tekstowy, który zawiera litery lub znaki niełacińskie (cyrylica/alfabet grecki, hebrajski/koreański itd., znaki chińskie itp.), tenże **Incipit tekstowy** należy wprowadzić przy użyciu oryginalnego alfabetu. Tłumaczenia lub transliteracje są opcjonalne i można je dodawać w dodatkowych polach incipitu tekstowego. Tłumaczenia nie znajdujące się w źródle należy dodawać w nawiasach. Można tłumaczyć na dowolny język RISM.    
+**Alfabety niełacińskie:** Jeśli w źródle znajduje się incipit tekstowy, który zawiera litery lub znaki niełacińskie (cyrylica/alfabet grecki, hebrajski/koreański itd., znaki chińskie itp.), tenże **Incipit tekstowy** należy wprowadzić przy użyciu oryginalnego alfabetu. Tłumaczenia lub transliteracje są opcjonalne i można je dodawać w dodatkowych polach incipitu tekstowego. Tłumaczenia nie znajdujące się w źródle należy dodawać w nawiasach. Można tłumaczyć na dowolny język RISM.    
 
 **Specjalne zasady dla tekstów w języku łacińskim:** Należy wprowadzić teksty łacińskie, zarówno sakralne, jak i świeckie. Pole jest powiązane z plikiem **Tytuł/Incipity tekstowe**. W pliku **Tytuł/incipity tekstowe** termin poprzedzony wskaźnikiem t oznacza, że można uzyskać informacje na temat dokładnego kontekstu liturgicznego, wersji wariantowych i innych zagadnień. W przypadku używania incipitu tekstowego jako tytułu ujednoliconego, należy upewnić się, czy pisownia jest identyczna, ale należy pamiętać, że tekst łaciński w tytułach ujednoliconych wpisuje się wyłącznie do przecinka. Należy użyć nawiasów kwadratowych, aby wprowadzić teksty łacińskie, których nie podano w źródle, ale które ustalono w wyniku badań.
 
-Standardowe teksty łacińskie zazwyczaj pasują do tekstów z _Liber usualis_. W RISM teksty te zazwyczaj zawierają przecinek. Na przykład, w przypadku szukania  tekstu „Et in terra pax”, wyświetla się około tuzina opcji, ale tylko jedna ma przecinek i tego źródła używa się w bazie danych 4 800 razy.  Dlatego jest to ten poszukiwany tekst - zakładając, że pasuje on do danego źródła. Jeśli incipit tekstowy zawiera tylko „Et in terra pax”, oznacza to, że źródło (1) zawiera tylko te słowa lub (2) jego ciąg dalszy jest inny niż w _Liber usualis_. Jest to oczywiście możliwe, ale w większości przypadków pożądana jest wersja z przecinkiem.
+Standardowe teksty łacińskie zazwyczaj pasują do tekstów z _Liber usualis_. W RISM teksty te zazwyczaj zawierają przecinek. Na przykład, w przypadku szukania tekstu „Et in terra pax”, wyświetla się około tuzina opcji, ale tylko jedna ma przecinek i tego źródła używa się w bazie danych 4 800 razy. Dlatego jest to ten poszukiwany tekst - zakładając, że pasuje on do danego źródła. Jeśli incipit tekstowy zawiera tylko „Et in terra pax”, oznacza to, że źródło (1) zawiera tylko te słowa lub (2) jego ciąg dalszy jest inny niż w _Liber usualis_. Jest to oczywiście możliwe, ale w większości przypadków pożądana jest wersja z przecinkiem.
 
-**W przypadku danych importowanych obowiązuje następująca zasada:** W przypadku korzystania  z informacji z pola **Tekst (740 $a)**, należy ją tu powtórzyć.
+**W przypadku danych importowanych obowiązuje następująca zasada:** W przypadku korzystania z informacji z pola **Tekst (740 $a)**, należy ją tu powtórzyć.
 
 #### Tonacja lub modus (031 $r)
 
@@ -96,7 +96,7 @@ c.** = tempus imperfectum cum prolatione perfecta
 **o/** = tempus perfectum cum prolatione minore diminutum  
 **o.**  = tempus perfectum cum prolatione perfecta
 
-Jeżeli metrum stale się zmienia, można wpisać pierwszy znak metrum, a  po nim drugi, przedzielony spacją. Jeżeli incipit jest pozbawiony znaku metrum, należy pozostawić to miejsce puste.
+Jeżeli metrum stale się zmienia, można wpisać pierwszy znak metrum, a po nim drugi, przedzielony spacją. Jeżeli incipit jest pozbawiony znaku metrum, należy pozostawić to miejsce puste.
 
 ##### Przykłady  
 4/4  
@@ -165,7 +165,7 @@ qq...r = kilka appoggiatur lub ozdobników, które stanowią jedną całość (p
 
 '-' czyli (znak minus) oznacza pauzę jednonutową. Dla oznaczenia taktu pustego należy stosować „=” (znak równości). Dla wielu pustych taktów, po znaku równości, należy podać ilość. Aby się to wyświetliło, należy dodać kreskę taktową.
 
-_Przykład dla pauzy jednoósemkowej :_  
+_Przykład dla pauzy jednoósemkowej:_  
 8-   
 
 _Przykłady dla jednego taktu pustego:_  
@@ -196,7 +196,7 @@ Nie wpisywać legato.
 Przykład:  
 {qq6'CDEDr}
 
-**10. Rytmy specjalne :**  
+**10. Rytmy specjalne:**  
 ( = początek rytmu specjalnego  
 ) = koniec rytmu specjalnego  
 

@@ -1,4 +1,4 @@
-#### Typ źródła (593 $a) 
+#### Typ źródła (593 $a)
 
 **Pole wymagane.**
 
@@ -6,11 +6,11 @@ Pole określa charakter źródła. Należy wybrać odpowiedni typ źródła z na
 
 **W przypadku notacji muzycznej:**
 
-- 
+-
 
 **Autograf**: sporządzony całkowicie lub w większości ręką kompozytora.
 
-- 
+-
 
 **Prawdopodobnie autograf**: Istnieje pewien stopień niepewności, czy kompozytor sporządził rękopis własnoręcznie.
 
@@ -22,33 +22,33 @@ Pole określa charakter źródła. Należy wybrać odpowiedni typ źródła z na
 
 - **Druk**
 
-- **Druk z**  **własnoręcznymi adnotacjami autorskimi**
+- **Druk zwłasnoręcznymi adnotacjami autorskimi**
 
-- **Druk z adnotacjami nieautorskimi**: wszystkie adnotacje naniesione ręką inną niż autora. 
+- **Druk z adnotacjami nieautorskimi**: wszystkie adnotacje naniesione ręką inną niż autora.
 
 **Inne typy dokumentów:**
 
-- 
+-
 
 **Libretto, rękopiśmienne**
 
-- 
+-
 
 **Libretto, drukowane**
 
-- 
+-
 
 **Traktat, rękopiśmienne**
 
-- 
+-
 
 **Traktat, drukowane**
 
-- 
+-
 
 **Czasopismo muzyczne**
 
-- 
+-
 
 **Inne**
 
@@ -58,7 +58,7 @@ W niektórych przypadkach, takich jak częściowy autograf, może być stosowne 
 
 Jeżeli aranżer kompozycji był także kopistą, należy wybrać **Kopia rękopisu**, a nie **Rękopis autorski**.
 
-Jeśli występuje wiele typów źródeł, należy powtórzyć grupę „Opis materiału”, aby wybrać i opisać typ źródła. 
+Jeśli występuje wiele typów źródeł, należy powtórzyć grupę „Opis materiału”, aby wybrać i opisać typ źródła.
 
 Jeżeli źródło jest reprodukcją mechaniczną (np. fotokopią), należy wykonać następujące czynności:
 

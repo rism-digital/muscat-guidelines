@@ -1,4 +1,4 @@
-### Strumenti di supporto alla ricerca online  (856 $u; ISDIAH 5.3.8)
+### Strumenti di supporto alla ricerca online  (856; ISDIAH 5.3.8)
 Questo campo offre una panoramica generale delle guide alla ricerca pubblicate e/o non pubblicate preparate dall’istituzione e ogni altra pubblicazione pertinente.
 
 #### Strumenti di supporto alla ricerca online (856 $u)

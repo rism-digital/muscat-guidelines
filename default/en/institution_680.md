@@ -12,14 +12,12 @@ Enter additional notes that describe the institution, such as:
   the collections or fonds of a specific institution, provide the URL.
 
 ##### Examples  
- - Joachim, Joseph (1831-1907) (Royal College of Music, Library)  
- - Andrée-Stenhammararkivet  
- - Telemann, Georg Michael  
- - Fonds Montpensier  
- - Collection Camille Saint-Saëns  
- - Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
-
-- Opening times (ISDIAH 5.4.1): To provide information on opening times and dates of annual closures: Include this
-  information if it is not readily available online.
+- Joachim, Joseph (1831-1907) (Royal College of Music, Library)  
+- Andrée-Stenhammararkivet  
+- Telemann, Georg Michael  
+- Fonds Montpensier  
+- Collection Camille Saint-Saëns  
+- Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
+- Opening times (ISDIAH 5.4.1): To provide information on opening times and dates of annual closures: Include this information if it is not readily available online.
 - Conditions and requirements for access and use (ISDIAH 5.4.2)
 - Reproduction services (ISDIAH 5.5.2)

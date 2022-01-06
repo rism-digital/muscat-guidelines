@@ -8,5 +8,5 @@ Wprowadzić tytuł skrócony. Pole połączono linkiem z bazą danych **Literatu
 Wprowadzić numer strony i tytuł dzieła jak w źródle odniesienia.
 
 ##### Przykład  
-GarveyJacksonW : p. 2-3 (Crazy Jane ("Why fair maid in ev'ry feature") A favorite song...with an accompaniment for the harp or piano forte)  
-RitchieW 2008 : p. 110 (A song with lyrics written by Matthew Lewis, composed by Harriett Abrams, entitled "Crazy Jane" (c.1799))
+- GarveyJacksonW: p. 2-3 (Crazy Jane ("Why fair maid in ev'ry feature") A favorite song...with an accompaniment for the harp or piano forte)  
+- RitchieW 2008: p. 110 (A song with lyrics written by Matthew Lewis, composed by Harriett Abrams, entitled "Crazy Jane" (c.1799))

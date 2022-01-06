@@ -26,7 +26,7 @@ Jeżeli dokładny rok urodzenia i/lub zgonu danej osoby nie jest znany, należy 
  **18.sc** = XVIII wiek  
 - **a**: przed   
  **1811a** = przed 1811
-- **p**:  po  
+- **p**: po  
  **1811p** = po 1811
 - **c**: circa, ok.  
  **1816c** = ok.1816
@@ -52,7 +52,7 @@ Dla zakresów dat nie stosować następujacych skrótów: in, me, ex, q, d, t
 Pole służy do użytku wewnętrznego Biura Centralnego RISM.
 
 #### Inne daty życia  
-Sposób zapisu daty: DD.MM.RRRR.  Lata aktywności należy poprzedzić symbolem **fl.** (od floruit)  
+Sposób zapisu daty: DD.MM.RRRR. Lata aktywności należy poprzedzić symbolem **fl.** (od floruit)  
 
 ##### Przykłady
 - 22.11.1879-31.12.1967

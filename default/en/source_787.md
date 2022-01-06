@@ -19,7 +19,7 @@ are the [unconstrained properties from the RDA Registry](http://www.rdaregistry.
   printed hymn book.
 - **Copied from** [P60311]: The source in hand was copied from the related source, usually a printed edition. See also
   the field **Series A/I and B reference (596)**.
-- **Correlated source** [P60191]: The related source is directly relevant to the source in hand. Examples include:  A
+- **Correlated source** [P60191]: The related source is directly relevant to the source in hand. Examples include: A
   concordant source (but do not attempt to link to all possible concordant sources). The source used to make a composer
   identification. A different version of the same piece (double chorus version, English version, full version, longer
   version, SATB version, version for soprano duet, etc.).

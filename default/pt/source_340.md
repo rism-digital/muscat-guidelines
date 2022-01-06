@@ -11,7 +11,7 @@ Pode-se indicar aqui a(s) técnica(s) usada(s) na produção da fonte. Se precis
 - **Fac-símile**: uma reprodução feita com a intenção de simular, da forma mais parecida possível, a aparência física de um trabalho anterior
 - **Litografia**
 - **Processo foto-reprodutivo**: Inclui Cyanotype, diazo print, blueprint
-- **Reprodução**: muitos tipos de reprodução mecânica são incluídos aqui, tais como fotocópia,  xerocópia, cópia heliográfica
+- **Reprodução**: muitos tipos de reprodução mecânica são incluídos aqui, tais como fotocópia, xerocópia, cópia heliográfica
 - **Transparência**
 - **Datilografia**
 - **Tipografia**: inclui música impressa usando tipos móveis

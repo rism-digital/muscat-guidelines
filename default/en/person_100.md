@@ -3,7 +3,7 @@ This field is for the name of the person in its authorized form.
 
 #### Heading - Personal name (100 $a)
 Names are entered in the form Surname Forename, with a comma separating the elements for names in inverted order. If you
-only have initials, enter  in direct order.
+only have initials, enter in direct order.
 
 For names originally written using non-Latin scripts, enter the transliterated form in the Latin script in this field.
 The original form in non-Latin script, as well as alternate transliterations, can be entered in the field **Name

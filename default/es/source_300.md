@@ -4,7 +4,7 @@ Este campo registra el número de ítems, su formato y (para todos los formatos 
 
 Nótese que tanto la sección **Descripción material** como el campo **Descripción física (300)** y el subcampo **Formato, extensión (300 $a)** pueden repetirse (+). De este modo, Ud. puede optar por crear una sección de **Descripción material** para cada formato, o bien consignar cada formato en una línea separada en del campo **Descripción física (300)**.
 
-Supongamos que estamos frente a 1 partitura y 10 particellas. Los/as catalogadores/as que deseen entrar en mucho detalle pueden crear dos secciones de **Descripción material**, una para la partitura y otra para las particellas,  lo cual les permitirá asignar distintas fechas, copistas, filigranas y otros datos específicos que correspondan exclusivamente o sólo a la partitura o sólo a las particellas. (Incluso, pueden describir las particellas en grupos más pequeños si les resultara necesario). En caso de que la fecha, copista, etc. sean iguales para la partitura y las particellas, o si los/as catalogadores/as no desean entrar en mucho detalle, resultará suficiente con consignar simplemente un formato debajo del otro en el campo **Formato, extensión (300 $a)**. También resulta posible ingresar dimensiones distintas si se repite el campo **Descripción física (300)**.
+Supongamos que estamos frente a 1 partitura y 10 particellas. Los/as catalogadores/as que deseen entrar en mucho detalle pueden crear dos secciones de **Descripción material**, una para la partitura y otra para las particellas, lo cual les permitirá asignar distintas fechas, copistas, filigranas y otros datos específicos que correspondan exclusivamente o sólo a la partitura o sólo a las particellas. (Incluso, pueden describir las particellas en grupos más pequeños si les resultara necesario). En caso de que la fecha, copista, etc. sean iguales para la partitura y las particellas, o si los/as catalogadores/as no desean entrar en mucho detalle, resultará suficiente con consignar simplemente un formato debajo del otro en el campo **Formato, extensión (300 $a)**. También resulta posible ingresar dimensiones distintas si se repite el campo **Descripción física (300)**.
 
 #### Formato, extensión (300 $a)
 El campo **Formato, extensión (300 $a)** se compone de tres partes: **Cantidad de ítems, Formato, Extensión**. Nótese que, en el caso de las particellas –incluidas las que tienen formato de tablatura–, la extensión se indica en el campo **Particellas conservadas y extensión de las mismas (530)**. Complete este campo haciendo uso de la terminología en inglés consignada.
@@ -76,7 +76,7 @@ Los números de página cambian de manera correlativa de numeración romana a á
 
 La presencia de páginas blancas o de irregularidades en la foliación puede mencionarse en el campo **Nota general (500)**.
 
-- f. [1]  en blanco
+- f. [1] en blanco
 - f. [2] en blanco
 - p. 272 se presenta dos veces
 

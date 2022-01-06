@@ -5,7 +5,7 @@ Questo campo si usa per indicare l'area in cui si svolge l'attività dell'istitu
 Inserisci l'area in cui l'istituzione è o era attiva.
 
 ##### Esempio  
-Music--Instruction and study         
+- Music--Instruction and study         
 
 #### Fonte del termine (372 $2)
 Inserisci il codice che identifica la fonte di un vocabolario controllato per quell'area di attività.

@@ -1,5 +1,3 @@
-[TO TRANSLATE:]
-
 ### 자료 유형 (593 $a)
 
 **필수 영역.**
@@ -18,7 +16,7 @@
 
 - **인쇄본(Print)**
 
-- **자필 주석이 있는 인쇄본(Print with autograph annotations): 작곡가가 직접 작성한 주석이 있는 경우. 구체적인 정보가 포함된 자료에만 사용.** 
+- **자필 주석이 있는 인쇄본(Print with autograph annotations): 작곡가가 직접 작성한 주석이 있는 경우. 구체적인 정보가 포함된 자료에만 사용.**
 
 - **자필 주석이 없는 인쇄본(Print with non-autograph annotations)**: 작곡가가 아닌 사람의 자필 주석인 경우. 구체적인 정보가 포함된 자료에만 사용.
 

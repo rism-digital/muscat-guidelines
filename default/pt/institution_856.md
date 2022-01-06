@@ -1,4 +1,4 @@
-### Instrumentos de busca, guias e publicações (856 $u; ISDIAH 5.3.8)
+### Instrumentos de busca, guias e publicações (856; ISDIAH 5.3.8)
 
 #### Instrumentos de busca, guias e publicações (856 $u)
 Este campo fornece uma visão geral de instrumentos de busca publicados ou não publicados, guias preparados pela instituição e quaisquer outras publicações relevantes.

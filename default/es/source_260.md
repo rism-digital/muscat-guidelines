@@ -16,7 +16,7 @@ En el caso del material impreso, ingrese el nombre del editor, la compañía edi
 
 En el caso de los manuscritos, ingrese el nombre del copista tal como aparece en la fuente.
 
-Registre siempre los nombres con su forma estandarizada en los campos **Nombre personal adicional (700)** o **Institución adicional**  **(710)**. Los editores que aparecen nombrados en referencia a ciertas personas pero que cumplen la función de editorial (Pleyel, André, etc.) se ingresan como Instituciones.
+Registre siempre los nombres con su forma estandarizada en los campos **Nombre personal adicional (700)** o **Institución adicional (710)**. Los editores que aparecen nombrados en referencia a ciertas personas pero que cumplen la función de editorial (Pleyel, André, etc.) se ingresan como Instituciones.
 
 Si el nombre del editor o distribuidor no aparece identificado en el impreso, ingrese **[s.n.]** (No registre [s.n.] como institución adicional). Para los manuscritos, deje el campo en blanco.
 
@@ -28,7 +28,7 @@ En el caso de los manuscritos, trate siempre de consignar una fecha, aunque sea 
 
 Puede indicar fechas aproximadas en su idioma de catalogación, haciendo uso de las expresiones **ca.** –para _circa–_, **antes de** y **después de**. Trate de indicar la fecha del modo más exacto posible. Si no cuenta con datos certeros, utilice un rango de fechas que se corresponda con un período no específico, como el s. XVIII o el fin del s. XVII. Véase la tabla que aparece más abajo.
 
-En el caso de los impresos, si tiene un impreso que no tiene fecha, registre una fecha aproximada entre corchetes, o bien indique **[s.d.]**.Por favor, trate de proveer un rango de fechas razonables en el caso de que el impreso no esté datado, por ejemplo, valiéndose de las fechas de vida del compositor o arreglador como _terminus post quem_, o bien recurriendo a los años de actividad del editor.
+En el caso de los impresos, si tiene un impreso que no tiene fecha, registre una fecha aproximada entre corchetes, o bien indique **[s.d.]**. Por favor, trate de proveer un rango de fechas razonables en el caso de que el impreso no esté datado, por ejemplo, valiéndose de las fechas de vida del compositor o arreglador como _terminus post quem_, o bien recurriendo a los años de actividad del editor.
 
 Note que, en el caso de los manuscritos, las fechas se presentan sin corchetes, dado que los manuscritos rara vez tienen fechas. Los materiales impresos, en contraste, incluyen típicamente una fecha; así, cualquier suposición editorial deberá realizarse entre corchetes.
 
@@ -70,4 +70,4 @@ Registre la localización de la institución asociada con la impresión, duplica
 
 #### Nombre del impresor (260 $f)
 
-Registre el nombre del impresor o la imprenta tal como aparece en la fuente. Registre los nombres con su forma estandarizada en los campos **Nombre personal adicional (700)** o **Institución adicional**  **(710)**.
+Registre el nombre del impresor o la imprenta tal como aparece en la fuente. Registre los nombres con su forma estandarizada en los campos **Nombre personal adicional (700)** o **Institución adicional (710)**.

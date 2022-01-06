@@ -4,11 +4,11 @@
 
 **Lingue** ti permette di cambiare la lingua di Muscat.
 
-Il  **Dashboard**  visualizza le tue schede Muscat più recenti.
+Il  **Dashboard** visualizza le tue schede Muscat più recenti.
 
 **Commenti** ti permette di vedere tutti i commenti allegati alle schede Muscat. Puoi visualizzare commenti di tutti gli utenti e commentare qualsiasi scheda. Menziona un altro utente digitando @ seguito dal nome, per farlo partecipare alla conversazione.
 
-**Cartelle**  ti permette di visualizzare tutte le cartelle create da utenti Muscat.
+**Cartelle** ti permette di visualizzare tutte le cartelle create da utenti Muscat.
 
 La **Ricerca per categorie** ti permette di effettuare ricerche sulle medesime fonti ma con più criteri di ricerca: una ricerca semplice con dei limiti e una ricerca avanzata con molti campi a disposizione. Se sei abilitato a modificare una scheda che vedi nella ricerca per categorie, comparirà un collegamento che ti porta alla modalità di redazione Muscat. Altrimenti, ritorna a Muscat facendo clic su  **Catalogazione**. **Home** ti riporta alla pagina web dell'Editorial Center RISM.
 

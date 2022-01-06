@@ -14,7 +14,7 @@ RISM traktuje każdy rękopis jako pozycję unikalną i dlatego też każdy ręk
 
 Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uzasadniają tworzenie nowego rekordu. (W tej części korzystano obszernie z dokumentu [Katalogowanie opisowe zbiorów specjalnych (zbiory muzyczne) [Descriptive Cataloging of Rare Materials (Music)]  ](http://http://rbms.info/dcrm/)).
 
-**Nowy rekord jest konieczny**, jeżeli opisywana pozycja wykazuje jedną lub więcej z następujących różnic w stosunku do rekordu  RISM:
+**Nowy rekord jest konieczny**, jeżeli opisywana pozycja wykazuje jedną lub więcej z następujących różnic w stosunku do rekordu RISM:
 
 - **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje poprawki, zmiany, rozszerzenia, skróty, lub włączenie materiałów uzupełniających
 
@@ -77,7 +77,7 @@ Powyższe wytyczne oznaczają, że pojedynczy rekord będzie obsługiwał wiele 
 
 1.
 
-Egzemplarz 1: Ta sama informacja o wydaniu, lecz błąd w pisowni poprawiono. Sama ta okoliczność nie uzasadnia tworzenia nowego rekordu, lecz w egz. pojawia się dodatkowy tekst w  języku włoskim. **Nowy rekord jest wymagany** (inna treść/rozszerzenie). Wynik: 1001031017
+Egzemplarz 1: Ta sama informacja o wydaniu, lecz błąd w pisowni poprawiono. Sama ta okoliczność nie uzasadnia tworzenia nowego rekordu, lecz w egz. pojawia się dodatkowy tekst w języku włoskim. **Nowy rekord jest wymagany** (inna treść/rozszerzenie). Wynik: 1001031017
 
 2.
 
@@ -91,16 +91,16 @@ Egzemplarz 3: Taki jak numer RISM 1001031016 (lecz poprawiono błąd w pisowni),
 
 
 
-2. Druk  o numerze RISM 990055558 (A/I: R 2226): Romberg, Airs variés, op. 17, Offenbach, Jean André.
+2. Druk o numerze RISM 990055558 (A/I: R 2226): Romberg, Airs variés, op. 17, Offenbach, Jean André.
 
 1.
 
 Egzemplarz 1: Ten sam tytuł, lecz na informację o wydaniu naklejono etykietę: „Imported by William Forster...Strand". Widać, że etykieta zakrywa informację Offenbach/André. **Nowy rekord jest wymagany** (inny status wydania/informację o oryginalnym wydaniu zakrywa etykieta). Wynik: 1001031194
 
-3.Druk o numerze RISM 990024126 (RISM A/I: G 5286). Rekord RISM reprezentuje komplet  kilku symfonii. Każda symfonia jest dostępna jako osobne wydanie z osobnymi numerami wydawniczymi - jako _livres_ 1, 2, oraz 3.
+3. Druk o numerze RISM 990024126 (RISM A/I: G 5286). Rekord RISM reprezentuje komplet kilku symfonii. Każda symfonia jest dostępna jako osobne wydanie z osobnymi numerami wydawniczymi - jako _livres_ 1, 2, oraz 3.
 
 1. Opcja 1, rozwiązanie szybkie: Jeżeli Państwa biblioteka posiada jedynie jedną z pozycji z kompletu, **należy dodać swoje zbiory** a w polu „przechowywane materiały” należy wpisać, którą symfonię (livre) biblioteka posiada.   
-2. Opcja 2, rozwiązanie lepsze, lecz bardziej czasochłonne. **Powiadomić** o tym rekordzie **  Biuro Centralne**, a my podzielimy rekord na trzy rekordy, po jednym dla każdej symfonii. Następnie należy dodać swoje zbiory do rekordu symfonii, którą biblioteka posiada.
+2. Opcja 2, rozwiązanie lepsze, lecz bardziej czasochłonne. **Powiadomić** o tym rekordzie **Biuro Centralne**, a my podzielimy rekord na trzy rekordy, po jednym dla każdej symfonii. Następnie należy dodać swoje zbiory do rekordu symfonii, którą biblioteka posiada.
 
 **Tytuły ujednolicone dla druków muzycznych**
 
@@ -111,8 +111,7 @@ Druki muzyczne zawierają inne tytuły znacznie częściej niż rękopisy muzycz
 1. **Pisownia**  
 Tytuły ujednolicone należy wprowadzać stosując współczesną ortografię, lecz nie należy nadmiernie korygować uzusu archaicznego lub dialektu/regionalizmów. Częste zmiany to zmiana _v_ na _u_, _i_ na _j_, _y_ na _i_, oraz _uu_ na _w_. Centralne Biuro RISM może pomóc we wprowadzaniu tytułów w nieznanych językach obcych. Dodatkowe warianty można wprowadzić w polu **Tytuł dodatkowy (730)**.  
 
-_Przykład_  
-  :  
+##### Przykład
 RISM A/I: RR 3030c  
 Tytul widniejący na źródle: Musicalische Grab=schrifft.  
 Tytuł ujednolicony: Musikalische Grabschrift  

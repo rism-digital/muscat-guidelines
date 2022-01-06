@@ -64,4 +64,4 @@ vla       1 [solo 1 parte di viola]
 ob        2 [oboe 1 e oboe 2]  
 cl         1 [solo 1 parte di clarinetto]
 
-_Nota MARC: Questo campo nell’OPAC è__594 $a._ _Il valore per_ _$a è generato automaticamente durante l’esportazione nell’OPAC._
+_Nota MARC: Questo campo nell’OPAC è 594 $a. Il valore per $a è generato automaticamente durante l’esportazione nell’OPAC._

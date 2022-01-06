@@ -29,18 +29,18 @@ Die Forelle
  Die Zauberflöte  
  The beggar's opera
 
-**2. T**** extincipit**  
+**2. Textincipit**  
 Hat ein Vokalwerk keinen Individualtitel, tritt das Textincipit an seine Stelle.
 
 Besteht eine Handschrift aus Rezitativ und Arie oder Scena und Aria wird grundsätzlich das Textincipit der Arie zum Einordnungstitel. Entsprechendes gilt für Rezitativ und Cavatine, Scena und Rondo oder ähnliche Kombinationen. Wenn eine einzeln überlieferte Arie vorliegt, deren Operntitel unbekannt ist, geben Sie das Textincipit der Arie ein.
 
-Bei Kantaten dagegen wird der Text des ersten Vokalstücks zum Einordnungstitel, gleichgültig ob es ein Rezitativ, eine Arie oder ein Chor ist. 
+Bei Kantaten dagegen wird der Text des ersten Vokalstücks zum Einordnungstitel, gleichgültig ob es ein Rezitativ, eine Arie oder ein Chor ist.
 
 Messen, Requiems, Exsequien, Litaneien und Offiziumskompositionen werden hingegen immer mit der Gattungsbezeichnung eingeordnet. Dasselbe gilt für vollständige Opern und Oratorien mit unbekanntem Individualtitel.
 
 Die Groß- und Kleinschreibung richten sich nach den Regeln der jeweiligen Sprache, jedoch werden Bezeichnungen für „Gott“ (Herr, Dieu, Dio, Deus, Lord etc.) stets groß geschrieben. Interpunktionszeichen und Wiederholungen entfallen beim Einordnungstitel. Bei eindeutigen Übersetzungen wird nach Möglichkeit das Textincipit in der Originalsprache eingetragen.
 
-Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. Lateinische Textincipits werden hier allerdings nur bis zu dem Trennungszeichen (Komma) als Einordnungstitel verwendet (siehe auch Liste im Anhang). 
+Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. Lateinische Textincipits werden hier allerdings nur bis zu dem Trennungszeichen (Komma) als Einordnungstitel verwendet (siehe auch Liste im Anhang).
 
 ##### Beispiele  
 Der Mond ist aufgegangen  
@@ -53,17 +53,17 @@ Kommen weder Individualtitel noch Textincipit als Einordnungstitel in Frage, wir
 Symphonies  
  Allemandes
 
-**4.**  **Tempobezeichnungen**  
+**4. Tempobezeichnungen**  
 Lässt sich keine Gattung ermitteln, so kann auch eine Tempobezeichnung als Einordnungstitel eingesetzt werden. Erst wenn auch diese nicht zur Verfügung steht, kann auf folgende Termini zurückgegriffen werden:  
 -Songs (Vokalstück)  
 -Pieces (nicht näher definierbares musikalisches Stück)  
 -Movements (Einzelsatz eines unbestimmten Instrumentalstücks ohne Tempobezeichnung)
 
-  
+
 ##### Beispiele    
 Presto  
 Lento  
-  
+
 
 **Besondere Regelungen:**
 
@@ -81,7 +81,7 @@ _Beispiel:_
 - **Insertions**: Tragen Sie hier das Textincipit des eingefügten Stückes als Einordnungstitel ein. Geben Sie im Feld **Alternativer Titel (730)** den Namen der Oper oder eines größeren Werks ein und wählen Sie **Insertions** als zusätzliches **Schlagwort**.
 
 - **Nicht-lateinische Schriften**: Wenn Ihre Quelle einen Titel in nicht-lateinischen Buchstaben oder Zeichen aufweist (griechisches / hebräisches / koreanische / kyrillisches etc. Alphabet, chinesische Zeichen etc.) wird dieser in der ursprünglichen Schrift im **Einordnungstitel** eingetragen. Übersetzungen oder Transliterierungen sind fakultativ und werden im Feld **Alternativer Titel (730)** gemacht.   
-  
+
 
 #### Bearbeitung (240 $o)
 Handelt es sich bei vorliegendem Werk um eine Bearbeitung eines anderen Werks, wird das in diesem Feld mit **Arr** gekennzeichnet.   

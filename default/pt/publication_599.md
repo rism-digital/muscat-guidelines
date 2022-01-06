@@ -1,3 +1,5 @@
+### Nota interna (599)
+
 #### Nota interna (599 $a)
 Insira notas locais para uso interno. Elas não são publicadas no OPAC. Notas locais podem ser usadas para comentários de todos os tipos, tais como perguntas, comentários ou pesquisas a serem feitas. Apague as notas depois que cumpriram seus propósitos. É uma boa prática assinar a nota utilizando suas iniciais e a data.
 

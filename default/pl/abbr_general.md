@@ -1,4 +1,4 @@
-###  Skróty i terminy ogólne  
+### Skróty i terminy ogólne  
 
 Są to ogólne skróty i terminy, które występują w całym programie Muscat. Podczas wypełniania wolnych pól tekstowych, w miarę możliwości należy wpisywać terminy w pełnym brzmieniu. Może to pomóc innym użytkownikom, którzy mogą nie znać skrótów stosowanych w programie Muscat
 

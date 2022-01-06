@@ -25,5 +25,5 @@ _Detalhes virão adiante._
 
 Por favor, indique se o material foi diretamente examinado durante a catalogação.
 
-- **Material**  **examinado** 
+- **Material examinado** 
 - **Material não examinado**: Esta opção pode ser usada quando o registro foi criado a partir da descrição do material em um catálogo.

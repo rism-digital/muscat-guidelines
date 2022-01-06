@@ -17,7 +17,7 @@ La scheda principale (scheda madre) di una raccolta non può contenere un'altra 
 
 ### La catalogazione di volumi compositi
 
-Un **volume composito**  consiste di oggetti creati separatamente e rilegati insieme più tardi, solitamente da un possessore o un'istituzione. Vi sono altri nomi per questi volumi: "bound-with", "Sammelband", "binder's volume" o "collector's volume". I volumi compositi comprendono sia volumi in cui più singole edizioni a stampa sono rilegate insieme, sia volumi in cui oggetti a stampa e manoscritti sono rilegati insieme.  
+Un **volume composito** consiste di oggetti creati separatamente e rilegati insieme più tardi, solitamente da un possessore o un'istituzione. Vi sono altri nomi per questi volumi: "bound-with", "Sammelband", "binder's volume" o "collector's volume". I volumi compositi comprendono sia volumi in cui più singole edizioni a stampa sono rilegate insieme, sia volumi in cui oggetti a stampa e manoscritti sono rilegati insieme.  
 
 Vi sono due maniere di indicare un volume composito. La prima, e la più semplice, è di indicare la stessa segnatura per i diversi oggetti: una nota "rilegato con" è utile. La seconda è di usare il modello per i volumi compositi.  
 
@@ -101,18 +101,18 @@ Il compositore è sempre  **Compilations**.
 **Nome aggiuntivo di persona (700)**  
 Il nome del compilatore può essere aggiunto con la funzione **Curatore**.  
 
-Catalogando un'opera compilativa, inserisci il compositore o i compositori del materiale originale e seleziona la funzione  **Rimando ad altro compositore**. Inserisci  il compositore o i compositori di materiale originale aggiunto e seleziona la funzione  **Compositore secondario**.
+Catalogando un'opera compilativa, inserisci il compositore o i compositori del materiale originale e seleziona la funzione  **Rimando ad altro compositore**. Inserisci il compositore o i compositori di materiale originale aggiunto e seleziona la funzione  **Compositore secondario**.
 
 Catalogando un pasticcio, non inserire compositori come rimandi ad altri compositori. Inserisci piuttosto tutti i compositori come **Compositori secondari**.
 
 **Titolo uniforme (240)**  
-Inserisci il titolo uniforme della fonte in esame. Per i pasticci, inserisci **Estratti**  or  **Arrangiamento**  se necessario.
+Inserisci il titolo uniforme della fonte in esame. Per i pasticci, inserisci **Estratti** or  **Arrangiamento** se necessario.
 
 **Codice lingua (041)**  
 Nel campo  **Codice lingua** inserisci la lingua della fonte in esame. Se necessario, la lingua dell'opera originale può essere inserita nel sottocampo  **Lingua del testo originale**.
 
 **Soggetto (650)**  
-Il primo soggetto dev'essere **Compilations**  e/o  **Pasticcios**. Il secondo dev'essere il genere della fonte esaminata. Se vi sono degli estratti, puoi aggiungere il genere dell'estratto.  **Collaborative compositions**  è un'altra possibilità.
+Il primo soggetto dev'essere **Compilations** e/o  **Pasticcios**. Il secondo dev'essere il genere della fonte esaminata. Se vi sono degli estratti, puoi aggiungere il genere dell'estratto.  **Collaborative compositions**  è un'altra possibilità.
 
 **Descrizione sommaria (520)**  
 Usa questo campo per descrivere in generale la natura della fonte.  
@@ -120,7 +120,7 @@ Usa questo campo per descrivere in generale la natura della fonte.
 Atto I di Amadei, atto II di Bononcini, ouverture e atto III di Händel
 
 **Titolo uniforme alternativo (730)**  
-Inserisci il titolo uniforme della composizione o delle composizioni originali, aggiungendo  **Estratti**  o  **Arrangiamenti**  se necessario. Puoi anche inserire altri titoli alternativi.
+Inserisci il titolo uniforme della composizione o delle composizioni originali, aggiungendo  **Estratti** o  **Arrangiamenti** se necessario. Puoi anche inserire altri titoli alternativi.
 
 **Catalogo delle opere (690)**  
 Puoi inserire il numero di catalogo tanto della compilazione che delle opere originali.
@@ -241,11 +241,11 @@ Non è sempre possiible creare una notizia adeguata per il materiale a stampa. I
 
 Ci sono due modi di catalogare periodici che contengono musica: come una raccolta o come una singola composizione. In ogni caso, il titolo del periodico, col numero dell'annata e l'anno, è inserito nel campo  **Titolo uniforme alternativo (730)**.
 
-Una **raccolta**  può essere adeguata se il periodico consiste interamente o in gran parte di musica e l'oggetto è stato acquisito e conservato integralmente. Le informazioni di possesso vanno collegate al livello della raccolta. Per ogni composizione in un numero del periodico va creata una scheda singola.   
+Una **raccolta** può essere adeguata se il periodico consiste interamente o in gran parte di musica e l'oggetto è stato acquisito e conservato integralmente. Le informazioni di possesso vanno collegate al livello della raccolta. Per ogni composizione in un numero del periodico va creata una scheda singola.   
 ##### Esempio  
 1001097294: Numero di gennaio (l'anno è sconosciuto) della _Kleine Pianoforte-Bibliothek_, contenente cinque composizioni. Si è creata una scheda per la notizia principale per la raccolta, e cinque notizie individuali per ciascuna composizione.
 
-Un' **opera singola**  può essere adeguata se la composizione è compresa come un inserto o un'aggiunta a un periodico il cui contenuto prevalente è privo di notazione musicale. Di frequente, simili oggetti si conservano al di fuori del contesto originario della loro pubblicazione.   
+Un' **opera singola** può essere adeguata se la composizione è compresa come un inserto o un'aggiunta a un periodico il cui contenuto prevalente è privo di notazione musicale. Di frequente, simili oggetti si conservano al di fuori del contesto originario della loro pubblicazione.   
 ##### Esempi   
 991018149: "The Pantheon" pubblicato in _The Lady's Magazine_, agosto 1784  
 990042111: "L'amour folâtrant l'autre jour" pubblicato in _Nouveau Mercure galant_, maggio 1679
@@ -289,7 +289,7 @@ Si prega di osservare quanto segue nella catalogazione di libretti.
 
 ### La catalogazione di trattati
 
-Catalogando un trattato, il campo  **Categoria di fonte, estensione**  **(300 $a)** in genere include come formato "text document".
+Catalogando un trattato, il campo  **Categoria di fonte, estensione (300 $a)** in genere include come formato "text document".
 
 Fra i soggetti adeguati per un trattato ricordiamo:
 
@@ -314,10 +314,10 @@ Descrivi riduzioni per pianoforte (spartiti) nel modo seguente.
 
 Nel campo **Titolo uniforme (240):**
 
-  - Seleziona  **Arrangiamento**  nel sottocampo  **Arrangiamento**.
+  - Seleziona  **Arrangiamento** nel sottocampo  **Arrangiamento**.
 
-  - Sotto **Organico sintetico**, inserisci l'organico dell'arrangiamento, ad esempio  **pf**  o  **V, pf**. Non inserire l'organico della composizione originale.
+  - Sotto **Organico sintetico**, inserisci l'organico dell'arrangiamento, ad esempio  **pf** o  **V, pf**. Non inserire l'organico della composizione originale.
 
 - Nel campo **Organico (594)**, inserisci l'organico completo dell'arrangiamento. Non inserire l'organico della composizione originale.
 
-- Nel campo **Descrizione fisica (300)**, utilizza  **keyboard score**  se la composizione è stata ridotta per pianoforte solo. Utilizza  **vocal score** se la composizione è stata ridotta per canto e pianoforte.
+- Nel campo **Descrizione fisica (300)**, utilizza  **keyboard score** se la composizione è stata ridotta per pianoforte solo. Utilizza  **vocal score** se la composizione è stata ridotta per canto e pianoforte.

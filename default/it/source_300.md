@@ -40,7 +40,7 @@ Altre categorie:
 - **various**: Utilizza per notizie principali (schede madri) di raccolte se la raccolta comprende diverse categorie di fonti (come una partitura e una riduzione per tastiera).
 - **other**: Utilizza se non è valida nessuna delle categorie sopra elencate. In questi casi, aggiungi una nota esplicativa nel campo **Nota generale (500)**. Il numero di oggetti e l’estensione non sono obbligatori.  
 
-Se hai una parte-guida per il direttore, utilizza qui  **part**  o  **parts**  e inserisci  **conductor part**  nel campo  **Parti staccate (590).**
+Se hai una parte-guida per il direttore, utilizza qui  **part** o  **parts** e inserisci  **conductor part** nel campo  **Parti staccate (590).**
 
 **Estensione**: Inserisci il numero di pagine, carte o fascicoli. Scegli tra le seguenti abbreviature: **f** per carta, **p** per pagina, **lvs** (leaves) per foglio, e **fds** (folds) per fascicolo. Con questo sistema, un **lvs** corrisponde a due **f**, mentre un **fds** significa almeno un **lvs**.
 

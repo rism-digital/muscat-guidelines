@@ -88,7 +88,7 @@ Inserisci la misura dell’incipit musicale come frazione. Sono consentite anche
 
 **c** = tempo comune or tempus imperfectum cum prolatione imperfecta  
 **c/** = tempo tagliato, alla breve  
-**3** = proportio tripla; anche  **1**,  **2**  ecc.  
+**3** = proportio tripla; anche  **1**,  **2** ecc.  
 **c3** = proportio tripla  
 **c3/2**
 **c.** = tempus imperfectum cum prolatione perfecta  

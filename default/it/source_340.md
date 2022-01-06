@@ -9,7 +9,7 @@ Questo campo riporta informazioni sulla descrizione fisica per un documento la c
 Puoi indicare qui la tecnica o le tecniche usate nella produzione della fonte. Se hai bisogno di aggiungere un termine che non è sulla lista, prendi contatto con l'Editorial Center.
 
 - **Autografia**: procedimento litografico (da non confondere con manoscritti autografi)
-- **Stampata da**  **computer**
+- **Stampata da computer**
 - **Incisione**
 - **Facsimile**: una riproduzione effettuata con l’intenzione di simulare il più precisamente possibile l’apparenza fisica di un oggetto preesistente. (Questo non si riferisce a edizioni commerciali in facsimile, che si possono inserire tra la Bibliografia.)
 - **Litografia**

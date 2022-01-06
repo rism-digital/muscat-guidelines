@@ -81,7 +81,7 @@ xFC[G] = Fá e Dó são sustenidos na fonte, mas a peça é claramente em Lá ma
 
 Insira os compassos como frações. As seguintes expressões também são permitidas:
 
-**c** = tempo comum ou  tempus imperfectum cum prolatione imperfecta  
+**c** = tempo comum ou tempus imperfectum cum prolatione imperfecta  
 **c/** = alla breve  
 **3** = proportio tripla; também **1**, **2**, etc.  
 **c3** = proportio tripla  
@@ -153,7 +153,7 @@ C, D, E, F, G, A, B
 **5. Ornamentos**   
 g = acciaccatura (sem valor rítmico, precede o nome da nota)  
 q = appoggiatura (com valor rítmico, precede o nome da nota)  
-qq...r = várias  appoggiaturas ou ornamentos que formam uma unidade (com valor rítmico)
+qq...r = várias appoggiaturas ou ornamentos que formam uma unidade (com valor rítmico)
 
 **6. Pausas**
 

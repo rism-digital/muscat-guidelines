@@ -1,3 +1,5 @@
+### Autor (100)
+
 #### Autor (100)
 Insira o nome do principal autor da publicação. Editores de volumes ou compositores de edições modernas são inseridos no campo **Nome de pessoa adicional (700)**.
 

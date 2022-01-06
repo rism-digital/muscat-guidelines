@@ -46,7 +46,7 @@ https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu
 **Nota sulla risorsa esterna**: versione digitalizzata  
 **Tipo di collegamento**: musica digitalizzata
   - **URL per l'accesso elettronico**: [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
-**Nota**  **sulla risorsa esterna**: IIIF manifest  
+**Nota sulla risorsa esterna**: IIIF manifest  
 **Tipo di collegamento**: IIIF manifest
 - **Altri**: Collegamento ad altre risorse che non sono la fonte descritta.
 

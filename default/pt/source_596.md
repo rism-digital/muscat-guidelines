@@ -5,7 +5,7 @@ Insira referências cruzadas para as séries RISM de edições impressas se a fo
 
 Selecione a série RISM.
 
-  
+
 
 #### Número da série RISM (596 $b)  
 
@@ -52,7 +52,7 @@ B/IX/2 - _Hebrew writings concerning music in manuscripts and printed books from
 
 - 330
 
-B/XIII - _Hymnol__ogica Slavica (Música impressa dos séculos XVI a XVIII na Boêmia, Eslováquia, Polônia e Sérvia)_
+B/XIII - _Hymnologica Slavica (Música impressa dos séculos XVI a XVIII na Boêmia, Eslováquia, Polônia e Sérvia)_
 
 - HBS 1738/01
 - HP ca. 1558/09

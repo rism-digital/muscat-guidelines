@@ -16,7 +16,7 @@ En lo sucesivo, se ofrecen orientaciones acerca de qué tipo de variantes justif
 
 - **Diferente contenido**: diferencias en el título o los autores/colaboradores; declaración de la edición que indique correcciones, revisiones, expansiones, reducciones o inclusión de materiales suplementarios.
 - **Diferente editor**
-- **Diferente**  **configuración del tipo de impresión**: diferentes planchas (con excepción de las planchas de reemplazo). Cambios en el campo de extensión; modificación del formato musical o bibliográfico; diferencias en los finales de las líneas musicales y en los [reclamos](https://es.wikipedia.org/wiki/Reclamo_(libro))(revelados por la comparación de múltiples fuentes).
+- **Diferente configuración del tipo de impresión**: diferentes planchas (con excepción de las planchas de reemplazo). Cambios en el campo de extensión; modificación del formato musical o bibliográfico; diferencias en los finales de las líneas musicales y en los [reclamos](https://es.wikipedia.org/wiki/Reclamo_(libro))(revelados por la comparación de múltiples fuentes).
 - **Diferente estado de publicación**: la portada original ha sido cancelada y remplazada; una nueva etiqueta cubre la infomación de publicación, distribución, producción, etc. original; las partituras originales han sido publicadas con la cubierta de un nuevo editor, con información más reciente que aquella provista en la portada; la portada de la serie es nueva.
 - **Diferentes números de placas y/o editor**.
 
@@ -47,7 +47,7 @@ De estas orientaciones se sigue que se utilizará un solo registro para represen
 
 3. Ud. está viendo el número ID de RISM 990024126 (RISM A/I: G 5286). El registro RISM refiere a toda una serie de varias sinfonías. Cada sinfonía está disponible como publciación separada con su propio número de plancha; impresas como _livres_ 1, 2 y 3.
 
-1. Opción 1, la solución rápida. Si su biblioteca sólo tiene uno de los ítems de la serie, **añada**  **sus registros de ejemplares** y señale, por favor, cuál sinfonía (_livre_) alberga su repositorio en el campo “Material conservado”.
+1. Opción 1, la solución rápida. Si su biblioteca sólo tiene uno de los ítems de la serie, **añada sus registros de ejemplares** y señale, por favor, cuál sinfonía (_livre_) alberga su repositorio en el campo “Material conservado”.
 2. Opción 2, una mejor solución, pero que lleva más tiempo: **Notifique al Centro Editorial ** sobre el registro de la serie completa y lo dividiremos en 3, con un registro por cada sinfonía. Luego, añada su registro de ejemplar al registro de ítem impreso de la sinfonía que corresponda.
 
 ## Títulos uniformes para la música impresa
@@ -57,7 +57,7 @@ De estas orientaciones se sigue que se utilizará un solo registro para represen
 La música impresa presenta títulos distintivos con mucha más frecuencia que la música manuscrita. Por favor, observe lo siguiente para el campo **Títulouniforme (240)** al catalogar música impresa.
 
 1. **Ortografía**  
-Ingrese títulos uniformes sólo con ortografía moderna, pero no corrija de más usos arcaicos o dialectos/regionalismos. Entre los cambios frecuentes aparecen _v_ a _u, i_ a _j, y_ a _i__, uu_ a _w_. El Centro Editorial puede asistirle con lenguajes extranjeros que no le resulten familiares. Puede ingresar variantes adicionales en el campo **Título adicional (730).**  
+Ingrese títulos uniformes sólo con ortografía moderna, pero no corrija de más usos arcaicos o dialectos/regionalismos. Entre los cambios frecuentes aparecen _v_ a _u, i_ a _j, y_ a _i_, uu_ a _w_. El Centro Editorial puede asistirle con lenguajes extranjeros que no le resulten familiares. Puede ingresar variantes adicionales en el campo **Título adicional (730).**  
 
 > ##### Ejemplo  
 > RISM A/I: RR 3030c  

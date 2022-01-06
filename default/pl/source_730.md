@@ -34,7 +34,7 @@ Tytuł dodatkowy: Symphoniae sacrae
 
 W przypadku kompletów wariacji, wprowadzić w tym polu nazwę tematu i wybrać **Wariacje** w polu **Strefa aranżacji (730 $o)**.
 
-W przypadku wstawień, wprowadzić tytuł większej opery lub utworu i wybrać **Wstawienia**  w polu **Podhasło (730 $k)**. Należy również zwrócić uwagę na wytyczne znajdujące się w polu **Wstawienia (787)**.
+W przypadku wstawień, wprowadzić tytuł większej opery lub utworu i wybrać **Wstawienia** w polu **Podhasło (730 $k)**. Należy również zwrócić uwagę na wytyczne znajdujące się w polu **Wstawienia (787)**.
 
 ##### Przykłady
 

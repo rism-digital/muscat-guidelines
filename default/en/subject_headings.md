@@ -8,7 +8,7 @@ After you save the record, go to the authority file for subject headings and fin
 - **Alternate terms**: Please enter all alternate terms, each on a separate line (by pressing Enter). Here you can enter the term using other alphabet systems as well as synonyms, variations, other spellings, etc.
 - **Notes**: Please provide a short description in English, German, or French of what kind of term this is. Then feel free to also write in your native language, for the benefit of RISM contributors in your area, any description or guidelines you wish to set for the term: how to apply the term, any regional connections, references to secondary literature, etc.
 
-As an example, see **Gigues**.Terms in English, French, and German are given, along with alternate spellings. The field "Notes" explains the variety of gigues that exist and when and where they occurred.
+As an example, see **Gigues**. Terms in English, French, and German are given, along with alternate spellings. The field "Notes" explains the variety of gigues that exist and when and where they occurred.
 
 If you are working with music particular to a certain region, you can use whatever term is common in that region. A new term can be added if a similar genre is used in a different region but it is called something else.
 

@@ -79,7 +79,7 @@ A música impressa apresenta títulos distintivos mais frequentemente do que a m
 
 1.
 
-**Ortografia****  **  
+**Ortografia**  
 Insira os títulos uniformes usando ortografia moderna, mas não corrija usos arcaicos ou dialetos/regionalismos. Alterações frequentes incluem v para u, i para j, y para i, e uu para w. A Redação Central pode ajudar no caso de línguas estrangeiras pouco conhecidas. Variações adicionais podem ser inseridas no campo **Título adicional (730)**.   
 
 ##### Exemplo:   
@@ -88,7 +88,7 @@ Título na fonte: Musicalische Grab=schrifft.
 Título uniforme: Musikalische Grabschrift
 
 2. **Derivar um título uniforme**    
-Títulos uniformes devem consistir do título do impresso até a uma quebra natural, normalmente uma vírgula,  ponto final ou uma declaração do autor, instrumentação, número ou impressão. Às vezes, um título distintivo aparece em uma outra página que não a página de título.  
+Títulos uniformes devem consistir do título do impresso até a uma quebra natural, normalmente uma vírgula, ponto final ou uma declaração do autor, instrumentação, número ou impressão. Às vezes, um título distintivo aparece em uma outra página que não a página de título.  
 
 > ##### Exemplos   
 > RISM A/I: B 805   

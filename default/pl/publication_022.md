@@ -1,3 +1,5 @@
+### ISSN (022)
+
 #### ISSN (022 $a)
 Wprowadzić numer ISSN. Numer ISSN stanowi unikalny identyfikator wydawnictw ciągłych.
 

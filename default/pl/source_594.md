@@ -92,4 +92,4 @@ vla        1 [tylko 1 partia na altówkę]
 ob        2 [obój 1 i obój 2]  
 cl         1 [tylko jedna partia na klarnet]
 
-_Uwaga MARC: To pole w OPAC-u jest polem_ _594 $a._ _Generowanie wartości $a następuje podczas eksportu do OPAC-u._
+_Uwaga MARC: To pole w OPAC-u jest polem 594 $a. Generowanie wartości $a następuje podczas eksportu do OPAC-u._

@@ -4,6 +4,6 @@
 Insira a extensão do item em número de páginas ou volumes.   
 
 ##### Exemplos  
-270 p.  
-xxi, 528 p.  
-2vol.: XI, 518p.; 480p.
+- 270 p.  
+- xxi, 528 p.  
+- 2vol.: XI, 518p.; 480p.

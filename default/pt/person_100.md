@@ -52,7 +52,7 @@ Não utilize as seguintes abreviaturas para faixas de datas: in, me, ex, q , d, 
 Este campo é um campo interno para uso da Redação Central do RISM.
 
 #### Outras datas vitais
-Insira datas concretas na forma DD.MM.YYYY.  Anos ativos ou de florescimento devem ser precedidos por **fl.**.  
+Insira datas concretas na forma DD.MM.YYYY. Anos ativos ou de florescimento devem ser precedidos por **fl.**.  
 
 ##### Exemplos   
 - 22.11.1879-31.12.1967

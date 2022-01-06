@@ -1,8 +1,9 @@
+### Rodzaj nośnika (337)  
+
 #### Rodzaj nośnika (337 $a)  
 **Pole wymagane.**  
 
 Wybrać z poniższej listy typ nośnika:
-
 - **Nośnik drukowany**  
 - **Zasób elektroniczny:** np. baza danych, strona internetowa lub internetowy katalog utworów  
 - **E-książka/E-book**

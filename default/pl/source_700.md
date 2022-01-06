@@ -25,7 +25,7 @@ Wybierz odpowiednie określenie, aby opisać poziom pewności atrybucji, jeśli 
 
 **Pole wymagane w razie wypełnienia pola „Imię i nazwisko”.**
 
-Każdej osobie należy przypisać dokładną funkcję. Tę samą osobę można wprowadzić kilkakrotnie z różnymi funkcjami. W informacji o zasobach materiałów drukowanych  znajduje się zredukowana lista funkcji. Trzyliterowe kody odnoszą się do kodu relatora MARC.
+Każdej osobie należy przypisać dokładną funkcję. Tę samą osobę można wprowadzić kilkakrotnie z różnymi funkcjami. W informacji o zasobach materiałów drukowanych znajduje się zredukowana lista funkcji. Trzyliterowe kody odnoszą się do kodu relatora MARC.
 
 -
 

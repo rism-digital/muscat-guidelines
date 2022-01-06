@@ -1,11 +1,10 @@
 ### Ubicación y dirección (371; ISDIAH 5.2.1)
 En este campo se indican las direcciones de la institución, tanto físicas como electrónicas.
 
+#### Ubicación y dirección
 Ingrese la información en los siguientes campos:
-
 - **Calle y número** (371 $a):
-
-  - Repita el campo para añadir a la dirección: divisiones (por ejemplo, 1er piso, habitación 569), nombres de edificios (por ejemplo, Palazzo ducale, Rose Cottage, etc.)
+- Repita el campo para añadir a la dirección: divisiones (por ejemplo, 1er piso, habitación 569), nombres de edificios (por ejemplo, Palazzo ducale, Rose Cottage, etc.)
 - **Ciudad** (371 $b)
 - **Estado, provincia o condado** (371 $c)
 - **País** (371 $d)

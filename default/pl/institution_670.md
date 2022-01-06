@@ -1,4 +1,4 @@
-#### Literatura (670; ISDIAH 5.6.8)
+### Literatura (670; ISDIAH 5.6.8)
 
 #### Literatura (670 $a)
 Pole zawiera listę źródeł, które wykorzystano przy tworzeniu opisu instytucji, ale może również służyć jako ogólna bibliografia zbiorów instytucji.  

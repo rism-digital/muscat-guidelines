@@ -1,16 +1,15 @@
-**Elektronische Lokalisierung und Zugriff (856$u)**
+### Elektronische Lokalisierung und Zugriff (856)
 
+#### Elektronische Lokalisierung und Zugriff (856 $u)
 Verlinkung zu elektronischen Ressourcen. Verwenden Sie möglichst Permalinks.
 
-**Für das Publikum bestimmte Fußnote(856 $z)**
-
+#### Für das Publikum bestimmte Fußnote(856 $z)
 Geben Sie eine kurze Beschreibung der URL.
 
-  
 ##### Beispiele  
-Electronic resource  
-Elektronische Ressource  
-Link to PDF  
-Link zum Inhaltsverzeichnis  
-Some issues are available as a PDF  
-Link to database
+- Electronic resource  
+- Elektronische Ressource  
+- Link to PDF  
+- Link zum Inhaltsverzeichnis  
+- Some issues are available as a PDF  
+- Link to database
