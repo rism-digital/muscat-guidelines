@@ -1,4 +1,5 @@
 <jointfile>
+
 ## Abreviaturas y conceptos generales
 iSol
 
@@ -30,7 +31,7 @@ strings
 
 cuerdas
 
-- EN:  winds (brass and woodwind)
+- EN: winds (brass and woodwind)
 - DE: Blasinstrumente
 - FR: instruments à vent
 - IT: strumenti a fiato
@@ -1122,9 +1123,7 @@ zufoletto
 - PT:
 
 
-#
-
-# **Vientos-metal**
+## Vientos-metal
 
 banda
 
