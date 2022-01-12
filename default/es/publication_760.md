@@ -8,14 +8,9 @@ Escriba el título del periódico, libro o serie. Este campo está vinculado a l
 
 #### Título del periódico, libro o serie (760 $t)
 
-Introduzca, según corresponda, los números de volumen, número, año y/o página del artículo. Por ejemplo, para una publicación periódica, introduzca el volumen, el año y los números de página. Regístrelo de un modo que resulte apropiado al estilo de la revista.
+Introduzca, según corresponda, los números de volumen, número, año y/o página del artículo. For example, for a periodical enter the volume, year, and page numbers. Regístrelo de un modo que resulte apropiado al estilo de la revista.
 
-_Ejemplos:_  
-23 (1986), p. 5-10  
-2, 35 (2014), 7-16  
-71 (1997), Heft 5, p.275-292  
-vol. 3/1-2; 11/1-2  
-56
+##### Examples
 
 - 23 (1986), p. 5-10
 - 2, 35 (2014), 7-16
@@ -23,7 +18,7 @@ vol. 3/1-2; 11/1-2
 - vol. 3/1-2; 11/1-2
 - 56
 
-For a chapter within a collection of essays, enter the page numbers of the chapter:
+For a chapter within a collection of essays, enter the page numbers of the chapter.
 
 ##### Ejemplo:
 
