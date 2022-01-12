@@ -13,8 +13,8 @@ Introduzca la sigla del repostorio y la signatura topográfica de la edición im
 
 Si utiliza una fuente secundaria como base para el registro, rellene este campo como de costumbre, pero especifique la fuente secundaria en una Nota General (500) y vincúlela como catálogo de obras o referencia bibliográfica.
 
-_Ejemplo:_
+##### Example
 
-- **Copia examinada para la catalogación (588):** GB-Lbl h.11.a.(1.)
+- **Copy examined for cataloging(588)**: GB-Lbl h.11.a.(1.)
 - **Nota general (500):** Registro basado en YouV utilizando la descripción del ejemplar de GB-Lbl, signatura h.11.a.(1.).
 - **Catálogo de obras (690):** YouV 2
