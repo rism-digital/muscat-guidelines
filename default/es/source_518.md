@@ -7,9 +7,7 @@ Registre la fecha de manera codificada haciendo uso del campo **Fecha codificada
 
 En el caso de la música impresa, llene este campo únicamente en el caso de impresos ocasionales (es decir, música escrita para una ocasión específica). Las interpretaciones específicas respecto de determinada copia de una edición impresa deben ser consignados en los registros de ejemplar correspondientes.
 
-_Ejemplos_:  
-Fecha de la primera interpretación: [6.9.1791 Praga, Teatro nacional]  
-[al pie de la portada:] “Interpretación en Baden Baden el 17 de marzo de 1832”
+##### Examples
 
 - First performance date: [6.9.1791 Praha, National theatre]
 - [at foot of title page:] "Performance in Baden Baden on 17 March 1832"
