@@ -1,6 +1,7 @@
 ### Media type (337)
 
 #### Tipo de medios (337 $a)
+
 **Campo obligatorio.**
 
 Seleccione el tipo de medio de la siguiente lista:
