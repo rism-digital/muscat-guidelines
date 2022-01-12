@@ -68,8 +68,9 @@ Make sure that the text incipit in this field is identical with the text incipit
   ##### Examples
   25 Arias  
   3 Instrumental pieces
-- **Composite volumes**. Enter a number corresponding to the number of items involved plus the word "Items."  
-  _Example:_  
+- **Composite volumes**. Enter a number corresponding to the number of items involved plus the word "Items."
+
+  ##### Example
   11 Items
 - **Variations.** Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
 - **Insertions.** Enter the text incipit of the inserted piece as the standardized title here. In the field **Additional title (730)**, enter the name of the opera or larger work and select **Inserts** next to **Subheading.**
@@ -109,7 +110,7 @@ See “Ecclesiastical modes” for the Western and Byzantine church modes and �
 
 #### Scoring summary (240 $m)
 
-**Required field** **except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch  
+**Required fieldexcept for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch  
 If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
 Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each element of the scoring summary with commas. Enter a maximum of four elements. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
@@ -141,7 +142,7 @@ If you have a figured bass, enter the instrument as usual, such as **b**, **bc**
 
 Omit the scoring summary if the performing forces are unknown or uncertain.
 
-_Examples_:
+##### Examples
  - A, Coro, orch
  - Bariton, pf
  - V (3), strings, bc
