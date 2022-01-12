@@ -10,7 +10,7 @@ Enter the title of the periodical, book, or series. This field is linked to the 
 
 Enter as appropriate the volume, issue, year, and/or page numbers for the item. For example, for a periodical enter the volume, year, and page numbers. Enter in a form appropriate to the style of the journal.
 
-_Examples_:
+##### Examples
 
 - 23 (1986), p. 5-10
 - 2, 35 (2014), 7-16
@@ -18,7 +18,7 @@ _Examples_:
 - vol. 3/1-2; 11/1-2
 - 56
 
-For a chapter within a collection of essays, enter the page numbers of the chapter:
+For a chapter within a collection of essays, enter the page numbers of the chapter.
 
 ##### Example:
 
