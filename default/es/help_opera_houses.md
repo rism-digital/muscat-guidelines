@@ -1,5 +1,6 @@
 <jointfile>
-## Apéndice: Teatros de ópera y salas de concierto
+
+### Apéndice: Teatros de ópera y salas de concierto
 
 Alessandria (Italia/Italy)
 - Teatro Civico
