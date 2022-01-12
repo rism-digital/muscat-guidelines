@@ -16,11 +16,7 @@ Ingrese formas normalizadas de nombres personales en el campo **Nombres personal
 
 Ingrese las fechas en el formato AAAAMMDD. Reemplace porciones desconocidas de las fechas con un guión. El año sólo puede ingresarse como AAAA. Las fechas genéricas (ej. épocas del año) pueden indicarse tal como están en la fuente. Pueden añadirse múltiples fechas separadas por coma.
 
-_Ejemplos_:  
-17980215    
-183209--   
-1815   
-Pascua 1744
+##### Examples
 
 - 17980215
 - 183209--
