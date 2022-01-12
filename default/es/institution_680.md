@@ -1,6 +1,7 @@
 ### Other notes on description (680)
 
 #### Otras notas sobre la descripción (680 $a)
+
 Introduzca notas adicionales que describan la institución, como por ejemplo:
 
 - Políticas de gestión y recopilación de registros (ISDIAH 5.3.5): Introduzca información sobre las políticas de recopilación de la institución. Indique si el repositorio busca adquirir materiales mediante transferencia, donación, compra y/o préstamo.
@@ -16,13 +17,13 @@ Introduzca notas adicionales que describan la institución, como por ejemplo:
   Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
 
 ##### Examples
- - Joachim, Joseph (1831-1907) (Royal College of Music, Library)
- - Andrée-Stenhammararkivet
- - Telemann, Georg Michael
- - Fonds Montpensier
- - Collection Camille Saint-Saëns
- - Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
 
-- Horario de apertura (ISDIAH 5.4.1): Proporcionar información sobre los horarios de apertura y las fechas de cierre anual; incluir esta información si la misma no se halla fácilmente en línea.
+- Joachim, Joseph (1831-1907) (Royal College of Music, Library)
+- Andrée-Stenhammararkivet
+- Telemann, Georg Michael
+- Fonds Montpensier
+- Collection Camille Saint-Saëns
+- Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)
+- Opening times (ISDIAH 5.4.1): To provide information on opening times and dates of annual closures: Include this information if it is not readily available online.
 - Condiciones y requisitos de acceso y utilización (ISDIAH 5.4.2)
 - Servicios de reproducción (ISDIAH 5.5.2)
