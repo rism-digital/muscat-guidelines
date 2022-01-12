@@ -1,4 +1,4 @@
-### Institution (MARC 110 $a; ISDIAH 5.1.2)
+### Institution (110; ISDIAH 5.1.2)
 
 This field creates an authorized access point that uniquely identifies the institution with archival holdings.
 
@@ -8,7 +8,7 @@ Enter the current name of the institution in the local language. If the original
 
 When libraries, archives or documentation centres belong to a larger institution, enter the name of the larger institution first and add the subordinate unit separated by a comma.
 
-_Examples_:
+##### Examples
 
 - Privatsammlung Cees Verheijen
 - Private collection Christopher Hogwood
@@ -33,14 +33,14 @@ Library sigla are made up of three elements: a country abbreviation, a city abbr
 
 In case an institution has changed its name, it still keeps the same siglum. (For ex.: CZ-Bu)
 
-_Examples_:
+##### Examples
 
 - GB-Cu = United Kingdom, Cambridge, University Library
-- F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique.
+- F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique
 
 In the case of private collections, the last name of the owner is added to the city code in lowercase letters.
 
-##### Example:
+##### Example
 
 - I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti.
 
