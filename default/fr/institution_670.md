@@ -1,4 +1,4 @@
-### Literature (MARC 670; ISDIAH 5.6.8)
+### Literature (670; ISDIAH 5.6.8)
 
 This field lists the sources consulted in creating the description, including those that support the form of the name in the field **Authorized form of name** (110 $a). It can also serve as a general bibliography for the institution's collections.
 
