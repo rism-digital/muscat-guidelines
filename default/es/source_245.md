@@ -18,10 +18,7 @@ Si no hay un título disponible, ingrese, en inglés: _**[without title]**_ (sin
 
 Véase también la lista de **Términos estándar**.
 
-_Ejemplos_:  
-[title page:] Vesperae | chorales unà cum | organo cantandae | pro | Choro Ingolstadiensi,  
-[without title]  
-[caption title, f.
+##### Examples
 
 - [title page:] Vesperae | chorales unà cum | organo cantandae | pro | Choro Ingolstadiensi,
 - [without title]
