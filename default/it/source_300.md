@@ -50,7 +50,7 @@ You may also indicate single pages or folios within a manuscript collection. Use
 
 Do not indicate the extent for parts here. Extent is entered in the field **Parts held (590)**.
 
-_Examples_:
+##### Examples
 
 - 1 score: 35 p.
 - 1 score (2x): 2, 2 f.
@@ -107,7 +107,7 @@ Examples include:
 
 Enter the dimensions of the source: height x width in cm. Fractions of centimeters may be indicated by either a comma or period. A second set of dimensions can be given in parentheses. If there are more than two different sets of dimensions, enter the English phrase **Different sizes** ; further elaboration can be made in the field **General note (500)**. Formats such as **octavo**, **quarto**, etc. should be indicated in the field **Book format (340 $m)**.
 
-_Examples_:
+##### Examples
 
 - 25.5 x 30.5 cm
 - 36 x 25.5 cm
@@ -116,7 +116,7 @@ _Examples_:
 
 For printed items, if desired you may enter the dimensions of the printed area. Use indications such as "printed area" or "plate mark." Separate this measurement from the measurement of the source with a semicolon. If dimensions vary, measure the title page and the first page of music (including, when applicable, an indication of what was measured).
 
-_Examples_:
+##### Examples
 
 - 20 x 16 cm; plate mark 18 x 15,5 cm
 - Plate mark, title page: 20.2 x 27.7 cm; plate mark, music: 20.4 x 28.2 cm
