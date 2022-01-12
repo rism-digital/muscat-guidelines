@@ -4,7 +4,7 @@
 
 Enter the full URL of the external resource. Use permalinks whenever possible.
 
-### Note about external resource (856 $z)
+#### Note about external resource (856 $z)
 
 Enter a brief note that describes the link.
 
