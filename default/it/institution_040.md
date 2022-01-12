@@ -2,7 +2,7 @@
 
 This field names the organization that created the original record. For new records, this is always RISM, so the ISIL code for RISM is automatically filled out: DE-633.
 
-The Staatsbibliothek zu Berlin – Preußischer Kulturbesitz is responsible for maintaining the codes for Germany. See [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633)
+The Staatsbibliothek zu Berlin – Preußischer Kulturbesitz is responsible for maintaining the codes for Germany. See [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633).
 
 Do not change this field.
 
