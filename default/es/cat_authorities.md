@@ -12,7 +12,7 @@ El archivo de autoridad para instituciones (nombres corporativos) registra no-pe
 
 ## Festividades litúrgicas
 
-El índice de festividades litúrgicas registra festividades religiosas y días festivos. Pueden añadirse nuevas festividades litúrgicas en acuerdo con el Centro Editorial.
+The index of liturgical festivals collects religious holidays and feast days. Pueden añadirse nuevas festividades litúrgicas en acuerdo con el Centro Editorial.
 
 ## Nombres personales
 
@@ -28,7 +28,7 @@ El índice de lugares reúne los nombres de lugares, incluidos los nombres geogr
 
 ## Bibliografía secundaria
 
-La base de datos de bibliografía contiene información sobre todos los tipos de bibliografía secundaria: catálogos de obras, catálogos temáticos, libros, artículos, enciclopedias, recursos online, ediciones críticas, ediciones modernas para la interpretación, etc. Al hacer click en “Crear” puede añadirse una nueva obra de bibliografía secundaria.
+This bibliographic database contains information about all forms of secondary literature: catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. By clicking on "Create," a new work of secondary literature may be added.
 
 ## Descriptores
 
