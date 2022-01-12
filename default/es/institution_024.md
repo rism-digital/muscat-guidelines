@@ -1,4 +1,4 @@
-### Referencia de la autoridad (MARC 024)
+### Authority reference (024)
 
 Este campo se utiliza para registrar el número o código estándar o URI asociado a la institución.
 
@@ -34,7 +34,7 @@ Objeto del mundo real URI (024 $1)
 
 Ingrese la URI que identifica la institución.
 
-- **ISIL:** International Standard Identifier for Libraries and Related Organisations
+- **ISIL**: International Standard Identifier for Libraries and Related Organisations
 - **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
 - **DNB**: Deutsche Nationalbibliothek
