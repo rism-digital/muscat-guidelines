@@ -1,8 +1,8 @@
-### Type of institution (368)
+### Type of institution (368; ISDIAH 5.1.5)
 
 This field records other attributes of person or corporate body or type of institution.
 
-#### Type of institution (MARC 368 $a; ISDIAH 5.1.5)
+#### Type of institution (368 $a)
 
 This field identifies the type of institution with archival holdings.
 
@@ -26,8 +26,8 @@ Select from the following types:
 
 Enter the type of jurisdiction associated with the institution.
 
-_Examples_:
-
+##### Examples
+-
 - County
 - Village
 
