@@ -43,44 +43,51 @@ Por favor, nótese que RISM diferencia a los _contrafacta _de la parodia y las m
 
 Take note of the following fields when cataloging contrafacta. RISM ID no. 300234487, a sacred contrafactum of an aria from Josef Mysliveček's opera Il Bellerofonte, will be used as an example.
 
-**Compositor/autor (100)**  
-Registre el compositor de la música original.
+**Composer (100)**
+
+Enter the composer of the original music.
 
 - Mysliveček, Josef
 
-**Standardized title (240)**  
+**Título uniforme (240)**
+
 Use the standardized title of the original piece. **pf** o **V, pf**. Do not use **Arr**.
 
 - _Il Bellerofonte. _Extractos
 
-**Título alternativo (730)**  
-Si la pieza con _contrafactum_ presenta un título uniforme nuevo y distintivo, regístrelo en este campo. No ingrese incipits literarios en este campo.
+**Alternative title (730)**
 
-**Descriptores (650)**  
-Agregue al menos 3 descriptores (o más, si es necesario), en el siguiente orden:  
-_Contrafacta_  
-Género actual (= género del contrafactum)  
-Género original
+If there is a new, distinct standardized title for the piece in hand, you can enter it here. No ingrese incipits literarios en este campo.
+
+**Subject headings (650)**
+
+Add at least 3 subject headings (more if appropriate), in this order:  
+Contrafacta  
+Current genre  
+Original genre
 
 - Contrafacta
 - Sacred songs
 - Operas
 
-**Descripción sumaria (520)**  
-Añada una descripción breve en inglés que explique la situación, como un servicio a otros usuarios de RISM.
+**Description summary (520)**
+
+Add a short description in English that explains the situation as a benefit to other RISM users.
 
 - _Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte._  
   [Contrafactum sacro de un aria de la ópera Il Bellerofont, de Mysliveček]
 
-**Idioma del texto (041)**  
-Complete cada uno de estos dos campos:  
-Idioma del texto (041 $a): correspondiente al texto actual del _contrafactum_.  
-Idioma del texto original (041 $h): correspondiente a la pieza original.
+**Language of text (041)**
+
+Fill out both of these fields:  
+Language of text (041 $a): The current text of the source in hand  
+Language of original text (041 $h): Language of the original piece
 
 - Idioma del texto: Latín
 - Idioma del texto original: Italiano
 
-**Text incipit (031 $t)**  
+**Text incipit (031 $t)**
+
 You will enter two text incipits (use the + to add a new line).  
 The text incipit of the current text  
 The text incipit of the original text, if known, in square brackets.
@@ -100,44 +107,58 @@ Las compilaciones se pueden cargar en un solo registro, o bien como colecciones.
 
 Al catalogar compilaciones, tenga en cuenta los siguientes campos:
 
-**Compositor/Autor (100)**  
-El compositor es, en todos los casos, **Compilations** (Compilaciones).
+**Compositor/Autor (100)**
 
-**Nombre personal adicinal (700)**  
-El nombre del compilador puede ser añadido con la función **Editor**.
+The composer is always **Compilations**.
+
+**Nombre personal adicional (700)**
+
+The name of the compiler can be added with the function **Editor**.
 
 **Fuente relacionada (787):** Indique la obra mayor en la que se interpolaba esta pieza y seleccione el tipo de relación **Inserción en**. Añada una breve observación en el campo **Nota** para explicar la naturaleza de la inserción como, por ejemplo, el punto de la obra mayor en el que se interpola.
 
-En el caso de los pasticcios, no registre compositoras/es como Referencias cruzadas de compositor. En su lugar, cargue a cada compositor/a como **Co-compositor**.
+En el caso de los pasticcios, no registre compositoras/es como Referencias cruzadas de compositor. Instead, enter all composers as **Co-composer**s.
 
-**Título estandarizado (240)**  
-Introduzca el título estandarizado de la fuente en cuestión. Para los pasticcios, añada seleccione **Extractos** o **Arreglo** según corresponda.
+**Título uniforme (240)**
 
-**Language code (041)**  
+Introduzca el título uniforme de la fuente en cuestión. Para los pasticcios, añada seleccione **Extractos** o **Arreglo** según corresponda.
+
+**Código de idioma (041)**
+
 For the field **Language of text**, enter the language of the source in hand. Si corresponde, se puede introducir el idioma de la obra original en **Idioma del texto original**.
 
-**Descriptor (650)**  
-El primer descriptor debe ser **Compilations** (Compilaciones) y/o **Pasticcios**. El segundo corresponde al género de la fuente en cuestión. En el caso de los extractos, se puede añadir el género del extracto. Otra opción es **Collaborative compositions** (Composiciones colaborativas).
+**Subject heading (650)**
 
-**Description summary (520)**  
+The first subject heading should be **Compilations** and/or **Pasticcios**. El segundo corresponde al género de la fuente en cuestión. En el caso de los extractos, se puede añadir el género del extracto. Otra opción es **Collaborative compositions** (Composiciones colaborativas).
+
+**Description summary (520)**
+
 Use this field to describe in general the nature of the source.
-##### Ejemplo:
-Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
 
-**Título alternativo (730)**  
-Escriba el título uniforme de la(s) pieza(s) original(es), seleccionando **Extractos** o **Arreglo** según corresponda. También puede introducir títulos _ossia_.
+<figure>
+  Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
+  <figcaption>Example</figcaption>
+</figure>
 
-**Catálogo de obras (690)**  
-Puede introducir el número de catálogo de obras tanto para la compilación como para las obras originales.
+**Alternate title (730)**
 
-**Incipit literario (031)**  
-Introduzca el texto de la fuente en cuestión. If known, enter the original text in square brackets.
+Enter the standardized title of the original piece(s), adding **Excerpts** or **Arrangement** as appropriate. También puede introducir títulos _ossia_.
 
-**Nota general (500)**  
-Utilice siempre una nota para aclaraciones, especialmente si se trata de obras de compositores distintos. Esto asegura que los compositores se correspondan con las obras utilizadas en la compilación.
+**Catálogo de obras (690)**
 
-**Nota sobre ocasión de interpetación (518)**  
-Las interpretaciones deben ser señaladas sólo en la medida en que se relacionen con la compilación misma.
+You can enter the catalog of works number for both the compilation and the original works.
+
+**Text incipit (031)**
+
+Enter the text of the source in hand. If known, enter the original text in square brackets.
+
+**General note (500)**
+
+Always use a note for clarification, especially if the works of separate composers are involved. Esto asegura que los compositores se correspondan con las obras utilizadas en la compilación.
+
+**Note on performance (518)**
+
+Performances should be noted only as they relate to the compilation itself.
 
 **Examples of compilations**:
 
@@ -181,7 +202,9 @@ Introduzca el título del material preexistente. Seleccion Extractos según corr
 
 - Tancredi. Extractos
 
-Introduzca **Parodies** (Parodias) como primer Descriptor. Registre el género de la fuente en cuestión como segundo descriptor, y el género del material preexistente como tercer descriptor.
+**Subject heading (650)**
+
+Enter Parodies as the first subject heading. Registre el género de la fuente en cuestión como segundo descriptor, y el género del material preexistente como tercer descriptor.
 
 - Parodias
 - Himnos nacionales
@@ -242,11 +265,15 @@ Procure siempre catalogar el material impreso en un registro separado, dado que 
 Existen dos maneras de catalogar periódicos que contienen música: como colección o como obra individual. En cada caso, el título del periódico, con el número de edición y el año, se registran en el campo **Título adicional (730).**
 
 **Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Los registros de ejemplar se añaden al nivel de la colección. Individual entries are created for each piece in the issue.
+
 ##### Ejemplo:
+
 1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. Hay un registro madre para la colección y cinco entradas individuales, una para cada pieza.
 
-**Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context.  
-_Examples_:    
+**Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context.
+
+##### Examples
+
 991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784  
 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
 
@@ -255,6 +282,7 @@ _Examples_:
 RISM también incluye música presente en publicaciones impresas que fueron concebidas como documentos fundamentalmente no musicales. El foco de RISM, no obstante, se ubica sobre la música
 
 ##### Ejemplo:
+
 990026614: 3 songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).  
 **Composer/Author (100)**: The composer of the music  
 **Additional Personal Name (700)**: The author of the book, with the indicator **other**  
@@ -312,12 +340,8 @@ Additional subject headings may be added.
 Especifique los arreglos para piano del siguiente modo:
 
 - Seleccione **Arreglo** en el subcampo **Mención de arreglo.**
-
   - **Tipo de fuente (593):** Seleccione "Libreto, manuscrito" o "Libreto, impreso".
-
   - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. No ingrese los datos correspondientes a la obra original.
-
 - In the field **Total scoring (594)**, enter the total scoring of the arrangement. No ingrese los datos correspondientes a la obra original.
-
 - **Título uniforme (240)**  
   Utilice el título uniforme de la pieza original. Puede seleccionar el calificador  **Extractos.**  No use el calificador  **Arreglo**.
