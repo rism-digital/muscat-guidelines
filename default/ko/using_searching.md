@@ -26,14 +26,13 @@ The Muscat **filters** offer simple yet powerful searching.
 You can enter in each field:
 
 - Single words
-- Multiple words:   
+- Multiple words:  
   either without quotations mark: **lass noch**   
   or with quotation marks: **"lass noch"**
 - Truncation with ? or \*  
   **?**: The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
   **\***: The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher.
 - AND, OR, NOT, ( ): Take advantage of Boolean searching. Use parenthesis to group your search. Examples:
-
     - Composer contains: **(Bach AND Johann) NOT Sebastian**  
       To find Johann Michael Bach and Johann Christian Bach but not Johann Sebastian Bach
     - Siglum contains: **D-B AND (I-\* OR F-P\*)**   
@@ -57,8 +56,8 @@ Please note the following for all sections:
 Please note the following for searching **Sources**:
 
 - **Siglum contains**: Search by the letters in a siglum. This field is case-sensitive. For example:  
-  **D-\*** = all sources in Germany  
-  **D-B\*** =all sources in German cities that start with B  
+  **D-&#42;** = all sources in Germany  
+  **D-B&#42;** = all sources in German cities that start with B  
   **D-B** = all sources at the Staatsbibliothek zu Berlin
 
 ### Personal names
