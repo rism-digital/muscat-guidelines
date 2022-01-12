@@ -1,13 +1,14 @@
 ### General note (500)
 
 #### General note (500 $a)
+
 Enter any notes about the item, especially notes that relate to how the item is relevant to musical sources (if not obvious from the title).
 
 Enter sigla here if the item concerns an institution, such as catalogs of collections.
 
 For university theses or dissertations, enter a note about where and when the dissertation was completed.
 
-_Examples_:
+##### Examples
 
 - D-Bsa
 - Tübingen, Universität Diss. 2008
