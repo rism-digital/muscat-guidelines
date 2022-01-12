@@ -14,7 +14,7 @@ The incipit number consists of three digits, which stand for work, movement and 
 
 Number incipits consecutively even if movements are missing in the source. For example, if the source is a three-movement symphony but the middle movement is missing, the incipits will be numbered 1.1.1 and 1.2.1 (not 1.3.1). ( Note: Periods between the numbers are automatically added by Muscat.)
 
-_Examples_:
+##### Examples
 
 - 1.1.1 = 1st work, 1st movement, 1st incipit
 - 1.1.2 = 1st work, 1st movement, 2nd incipit (sounds at the same time as 1.1.1)
@@ -29,7 +29,7 @@ Enter the title of the movement and tempo or similar indications, if specified, 
 
 Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Indicate the tuning of an instrument in the **General note** field.
 
-_Examples_:
+##### Examples
 
 - pf
 - T coro
@@ -93,9 +93,7 @@ c.** = tempus imperfectum cum prolatione perfecta
 
 If the meter changes constantly, you can write the first time signature followed by the second, separated by a space. If the incipit is without a time signature, leave this field blank.
 
-_Beispiele:_    
-Presto  
-Lento
+##### Examples
 
 - 4/4
 - 6/8
@@ -223,7 +221,7 @@ Please do not forget the rhythmic value within the bracket!
 f = repeat indication   
 The figure will be repeated as often as **f** is repeated after the second **!**. This is only possible within a bar/measure.
 
-_Example:_
+##### Example
 
 - !{'8ABAG}!ff = this figure will be repeated twice
 
@@ -231,7 +229,7 @@ _Example:_
 i = repeat last bar/measure  
 'i' always goes between two bar lines.
 
-_Example:_
+##### Example
 
 - '4ABAG/i/i/ = the bar/measure will be repeated twice
 
@@ -239,7 +237,7 @@ _Example:_
 
 When a certain rhythmic sequence is repeated several times, the rhythmic pattern can be given before the respective note letter names.
 
-_Example:_
+##### Example
 
 - Instead of **8.A6B8C8.D6E8F** the code can be **8.68ABCDEF**
 - The rhythmic sequence ends as soon a different rhythmic value occurs.
@@ -267,7 +265,7 @@ Abbreviated forms of notation found within the music, such as tremolos or simile
 
 Enter chords from the highest to the lowest note, separated by a **^**.
 
-_Example:_
+##### Example
 
 - 4’’C^’G^E^C
 
