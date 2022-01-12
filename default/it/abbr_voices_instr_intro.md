@@ -1,7 +1,8 @@
 <jointfile>
-## RISM instrument abbreviations
-**Contents:**
 
+### RISM instrument abbreviations
+
+#### Contents
 - General abbreviations and concepts
   - Additions to any instrument to indicate a range
   - Additions to any instrument to indicate a type
