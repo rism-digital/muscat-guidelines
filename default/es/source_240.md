@@ -65,9 +65,10 @@ Asegúrese de que el íncipit literario que registra en este campo sea idéntico
   ##### Examples
   25 Arias  
   3 Instrumental pieces
-- **Volúmenes compuestos**. En este caso, ingrese el número que corresponde a la cantidad de ítems involcurados seguido de la palabra _"Items"_.   
-  _Ejemplo:_  
-  11 ítems
+- **Volúmenes compuestos**. Enter a number corresponding to the number of items involved plus the word "Items."
+
+  ##### Example
+  11 Items
 - **Variations.** Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
 - **Inserciones**. En el caso de las inserciones, ingrese el íncipit literario de la pieza insertada como título uniforme. En el campo **Título adicional (730)**, registre el nombre de la ópera u obra mayor en la cual se inserta la pieza y seleccione el calificador **Inserciones** en la lista desplegable del subcampo **Tipo especial de fuente (730 $k).**
 - **Caracteres no latinos**. Si el título de su fuente presenta letras o caracteres no latinos (alfabeto cirílico/griego/hebreo/coreano/etc., caracteres chinos, etc.) registre el **Título uniforme** con su escritura original. Las traducciones o transliteraciones son opcionales y pueden añadirse en el campo **Título adicional (730)**.
@@ -107,7 +108,7 @@ Consulte los apartados “Modos eclesiásticos” –para los modos griegos occi
 
 #### Tonalidad o modo (240 $r)
 
-**Required field** **except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch  
+**Required fieldexcept for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch  
 If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
 Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separe cada elemento del resumen con comas. Ingrese un máximo de cuatro elementos. La descripción detallada de la plantilla/orgánico deberá ser registrada en el campo **Plantilla/orgánico total (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
@@ -139,9 +140,7 @@ If you have a figured bass, enter the instrument as usual, such as **b**, **bc**
 
 Omita el resumen de plantilla/orgánico si los medios interpretativos se desconocen o resultan inciertos.
 
-_Ejemplos_:  
-Praha  
-Milano
+##### Examples
  - A, Coro, orch
  - Bariton, pf
  - V (3), strings, bc
