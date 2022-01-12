@@ -1,4 +1,4 @@
-### Institution (MARC 110 $a; ISDIAH 5.1.2)
+### Institution (110; ISDIAH 5.1.2)
 
 Este campo crea un punto de acceso autorizado que identifica de forma inequívoca a la institución con los fondos de archivo.
 
@@ -8,15 +8,7 @@ Introduzca el nombre actual de la institución en el idioma local. Si el idioma 
 
 En los casos en que las bibliotecas, los archivos o los centros de documentación pertenezcan a una institución más grande, escriba primero el nombre de la institución más grande y añada la unidad subordinada separada por una coma.
 
-_Ejemplos_:  
-Donna Flavia (S)  
-Theodor (T)  
-Zerbinetta (Mezzo-S)  
-Ein Polizeikommisar (Bariton)  
-Der Schornsteinfeger (Bariton)  
-Doktor Zwingli (B)  
-?Achiar?  
-Drei Knaben
+##### Examples
 
 - Privatsammlung Cees Verheijen
 - Private collection Christopher Hogwood
@@ -41,15 +33,14 @@ Las siglas del repositorio se componen de tres elementos: una abreviatura del pa
 
 En caso de que una institución haya cambiado de nombre, sigue manteniendo la misma Sigla. (Por ejemplo: CZ-Bu)
 
-_Ejemplo:_  
-4’’C^G^E^C
+##### Examples
 
 - GB-Cu = Reino Unido, Cambridge, University Library
-- F-Pn = Francia, París, Bibliothèque nationale de France, Département de la Musique.
+- F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique
 
 Ingrese el nombre de la unidad subordinada de la institución.
 
-##### Ejemplo:
+##### Example
 
 - I-PEbattisti = Italia, Perugia, Biblioteca privata Renzo Battisti.
 
