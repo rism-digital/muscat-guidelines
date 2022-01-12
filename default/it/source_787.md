@@ -11,7 +11,7 @@ Select the term that describes the relationship between the source in hand and a
 - **Additional material** [P60198]: The related source represents material that supplements the source in hand. Examples include: additional parts, instrumental parts, organ part, full score, vocal score, printed parts, etc.
 - **Arrangement of** [P60242]: The source in hand is an arrangement or otherwise derived from the related source. Examples include: A contrafacta made from the related source. A chorale arrangement of the related source, such as a printed hymn book.
 - **Copied from** [P60311]: The source in hand was copied from the related source, usually a printed edition. See also the field **Series A/I and B reference (596)**.
-- **Correlated source** [P60191]: The related source is directly relevant to the source in hand. Examples include:  A concordant source (but do not attempt to link to all possible concordant sources). The source used to make a composer identification. A different version of the same piece (double chorus version, English version, full version, longer version, SATB version, version for soprano duet, etc.).
+- **Correlated source** [P60191]: The related source is directly relevant to the source in hand. Examples include: A concordant source (but do not attempt to link to all possible concordant sources). The source used to make a composer identification. A different version of the same piece (double chorus version, English version, full version, longer version, SATB version, version for soprano duet, etc.).
 - **Insert in** [P60194]: The source in hand is a piece that was inserted into a larger work, such as a suitcase aria inserted into an opera.
 - **Published in** [P60195]: The source in hand was published in the related source.
 
@@ -19,7 +19,7 @@ Select the term that describes the relationship between the source in hand and a
 
 Briefly describe the nature of the relationship. Additional details may also be given in the field **General note ( 500**).
 
-_Examples_:
+##### Examples
 
 - Additional parts
 - Concordant source in US-Wc
