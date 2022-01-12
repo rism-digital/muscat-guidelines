@@ -1,8 +1,8 @@
-## Standardized titles – Subject headings
+### Standardized titles – Subject headings
 
-Esta sección refiere a situaciones de catalogación en las que los géneros se usan como títulos normalizados (véanse los lineamientos para **Título normalizado (240)**). En muchos casos, el Título normalizado y el Descriptor (650) resultarán idénticos, como sucede en el caso de _Symphonies_ [Sinfonías]\*_._ Sin embargo, en otros casos se usa un descriptor correspondiente pero no idéntico. In other cases, however, a corresponding, rather than identical, subject heading is used.
+This section refers to cataloging situations where genres are used as standardized titles (refer to the guidelines for **Standardized title (240)**). In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
 
-Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words (**voc.**) or (**inst.**) after the term in parentheses. También pueden aparecer especificaciones tales como (dances) [danzas] o (stage) [escenario/escénico] tras el término principal y entre paréntesis.
+Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words (**voc.**) or (**inst.**) after the term in parentheses. Specifications such as (dances) or (stage) may also be added in parentheses after the main term.
 
 En lo sucesivo se presentan algunos ejemplos y sus correspondencias, para los siguientes tipos de títulos normalizados:
 
@@ -51,11 +51,11 @@ Para bocetos de composiciones desconocidas, utilice el título distintivo y el d
 
 En casos de completa falta de certeza, como sucede con un orgánico desconocido, ingrese **Pieces** como título uniforme y **Pieces** como descriptor.</ol>
 
-La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Por favor, tenga en cuenta que la lista no es abarcativa.
+La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Please note that this list is not comprehensive.
 
-### Música instrumental y vocal en general
+#### Música instrumental y vocal en general
+
 Standardized title — Corresponding subject heading
-
 - Música vocal sacra
 - | _Género en español  
   (sólo referencia)    _ | _Usar como  
@@ -123,26 +123,26 @@ Standardized title — Corresponding subject heading
 - Virelais — Virelais (forme fixe)
 - Terzets — Terzets (voc.)
 
-### Música sacra vocal
-Standardized title — Corresponding subject heading
+#### Música sacra vocal
 
+Standardized title — Corresponding subject heading
 - Completoria — Hours of the Office
 - Horae minores — Hours of the Office
 - Intonations — Intonations (voc.)
 - Laudes — Hours of the Office
 - Matutina — Hours of the Office
 
-### Música para el escenario, el teatro, etc.
+#### Música para el escenario, el teatro, etc.
+
 _For genres of individual numbers or parts, consult the section on vocal and instrumental music._  
 Standardized title — Corresponding subject heading
-
 - Intermezzos — Intermezzos (stage)
 - Meditationes — Meditationes (Jesuit theatre)
 - Prologues — Prologues (stage)
 
-### Ejercicios, estudios, escuelas, lecciones
-Standardized title — Corresponding subject heading
+#### Ejercicios, estudios, escuelas, lecciones
 
+Standardized title — Corresponding subject heading
 - Arpeggios — Arpeggios (inst.)
 - Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
 - Cadenzas — Cadenzas (voc.)
@@ -153,7 +153,8 @@ Standardized title — Corresponding subject heading
 - Tutors — Tutors (inst.)
 - Tutors — Tutors (voc.)
 
-### Danzas
+#### Danzas
+
 Standardized title — Subject heading
 - Música vocal sacra
 - Rounds — Rounds (dances)
