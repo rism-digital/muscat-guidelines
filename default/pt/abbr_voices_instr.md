@@ -1,4 +1,5 @@
 <jointfile>
+
 ## General abbreviations and concepts
 iSol
 
@@ -30,7 +31,7 @@ strings
 
 winds
 
-- EN:  winds (brass and woodwind)
+- EN: winds (brass and woodwind)
 - DE: Blasinstrumente
 - FR: instruments à vent
 - IT: strumenti a fiato
@@ -1123,9 +1124,7 @@ zufoletto
 - PT:
 
 
-#
-
-# **Brass**
+## Brass
 
 banda
 
