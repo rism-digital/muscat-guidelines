@@ -44,7 +44,7 @@ Missing parts should be entered in the field **General note (500)**.
 
 **Required field.**
 
-Enter the shelfmark (also called "call number") in this field. Transcribe as precisely as possible, including spacing and punctuation. Enter shelfmarks consistently within any given library collection. Indicate superscript characters with **|** (the vertical pipe). If no shelfmark is present, enter **[without shelfmark]**.The phrase [no indication] can be used if the presence of a shelfmark is unknown. Enter additional shelfmarks in the field **Other shelfmarks (591)**.
+Enter the shelfmark (also called "call number") in this field. Transcribe as precisely as possible, including spacing and punctuation. Enter shelfmarks consistently within any given library collection. Indicate superscript characters with **|** (the vertical pipe). If no shelfmark is present, enter **[without shelfmark]**. The phrase [no indication] can be used if the presence of a shelfmark is unknown. Enter additional shelfmarks in the field **Other shelfmarks (591)**.
 
 ##### Examples
 - Ms Mus 165/6
