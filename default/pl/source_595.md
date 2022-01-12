@@ -8,7 +8,7 @@ Do not place articles after the main name. Where possible, the role should be li
 
 The names of all the roles in a composition can be listed in this field, regardless of whether they are named on the source or derived from secondary literature. Use standardized spelling. Indicate additions by using square brackets. You may enter the voice part following the name of the role in parentheses.
 
-_Examples_:
+##### Examples
 
 - Donna Flavia (S)
 - Theodor (T)
