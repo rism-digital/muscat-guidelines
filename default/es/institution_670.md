@@ -1,4 +1,4 @@
-### Bibliografía (MARC 670; ISDIAH 5.6.8)
+### Literature (670; ISDIAH 5.6.8)
 
 En este campo se enumeran las fuentes consultadas para la elaboración de la descripción, incluidas las que respaldan la forma del nombre en el campo **Forma autorizada del nombre (110 $a).** También puede servir como bibliografía general para las colecciones de la institución. It can also serve as a general bibliography for the institution's collections.
 
