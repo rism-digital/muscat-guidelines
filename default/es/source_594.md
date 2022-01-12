@@ -71,4 +71,4 @@ Indique aquí el número total de partes. Si una pieza incluye dos partes del mi
   cl  
   1
 
-_Nota MARC:_ _este campo  __es 594 $a __ en el OPAC. El valor de $a se genera durante la exportación al OPAC._
+_MARC note: This field in the OPAC is 594 $a. The value for $a is generated during the export to the OPAC._
