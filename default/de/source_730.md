@@ -16,7 +16,7 @@ Types of possible alternatives are:
 - Works with no clear individual title (Festival Cantata, Fürstenlied)
 - Titles, especially ones under which the item is widely known (particularly for printed editions)
 
-_Examples_:
+##### Examples
 
 - Standardized title: Don Giovanni
 - Additional title: Der steinerne Gast
@@ -40,7 +40,7 @@ In the case of variation sets, enter the name of theme in this field and select 
 
 In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading ( 730 $k)**. For inserts, also note the guidelines under for the field **Insertions (787)**.
 
-_Examples_:
+##### Examples
 
 - Standardized title: Variations
 - Additional title: Ein Mädchen oder Weibchen [plus **Variations** in the field **Arrangement statement (730 $o)**.]
@@ -50,7 +50,7 @@ _Examples_:
 
 This field can also be used for titles of periodicals or series.
 
-_Examples_:
+##### Examples
 
 - Oeuvres Complets de Piano
 - Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten
@@ -59,7 +59,7 @@ _Examples_:
 
 #### Arrangement statement (730 $o)
 
-Select **Arrangement** if the work is an arrangement of another work. Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
+**Skizzen** : Skizzen zu einem Werk Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
 
 #### Rule type (730 $g)
 
@@ -72,7 +72,7 @@ Indicate what cataloging rules or standards are used to formulate the additional
 
 #### Subheading (730 $k)
 
-This field is for special forms aspects as applicable. Select from the following:
+This field is for special forms aspects as applicable. Folgende Angaben sind möglich:
 
 - Excerpts
 - Fragments
