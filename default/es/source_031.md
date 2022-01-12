@@ -14,7 +14,7 @@ El número de íncipit se compone de tres dígitos que representan obra, movimie
 
 Numere los íncipits correlativamente incluso si faltan movimientos en la fuente. Por ejemplo, si la fuente corresponde a una sinfonía de tres movimientos pero falta el movimiento intermedio, numere los íncipits como 1.1.1 y 1.2.1 (no 1.3.1). (Nota: los puntos entre los dígitos son añadidos automáticamente por Muscat).
 
-_Ejemplo:_
+##### Examples
 
 - Texto de una parte vocal faltante
 - Íncipits literarios en el idioma original de la obra, cuando la fuente presenta una versión traducida
@@ -29,8 +29,7 @@ Registre el título del movimiento y el tempo –o indicaciones similares–, si
 
 Registre la parte vocal o instrumental correspondiente al íncipit siguiendo la lista de **abreviaturas de instrumentos de RISM**. Use **V** para una parte vocal desconocida e **i** para una parte instrumental desconocida. Enter **i** for an unknown instrumental part. En el caso de los instrumentos transpositores, transcriba los fragmentos en altura real. Indique la afinación del instrumento en el campo **Nota general**.
 
-_Ejemplo:_  
-4’’C^G^E^C
+##### Examples
 
 - |
 - T coro
@@ -94,9 +93,7 @@ c.** = tempus imperfectum cum prolatione perfecta
 
 Si la métrica cambia constantemente, puede escribir la primera indicación de compás seguida de la segunda, separadas por un espacio. Si el íncipit no lleva indicaicón de compás, deje el campo en blanco.
 
-_Ejemplos_:  
-Praha  
-Milano
+##### Examples
 
 - 4/4
 - 6/8
@@ -224,7 +221,7 @@ Por favor, ¡no olvide el valor rítmico dentro de los paréntesis!
 f = repetir la indicación  
 El pasaje será repetido cada vez que aparezca  **f**  después del segundo **!**. Esto sólo es posible dentro de un mismo compás.
 
-_Ejemplo:_
+##### Example
 
 - !{'8ABAG}!ff = this figure will be repeated twice
 
@@ -232,7 +229,7 @@ _Ejemplo:_
 i = repeat last bar/measure  
 'i' always goes between two bar lines.
 
-_Ejemplo:_
+##### Example
 
 - _Ejemplo:_  
   ‘4ABAG /i/i = el compás será repetido dos veces
@@ -241,7 +238,7 @@ _Ejemplo:_
 
 _Ejemplos_:
 
-_Ejemplo:_
+##### Example
 
 - _Ejemplo:_  
   **8.A6B8C 8.D6E8F** puede reemplazarse por **8.68ABCDEF**  
@@ -277,7 +274,7 @@ Abbreviated forms of notation found within the music, such as tremolos or simile
 i = repetir el último compás.  
 La “i” siempre va entre dos barras de compás
 
-_Ejemplo:_
+##### Example
 
 - 4’’C^’G^E^C
 
