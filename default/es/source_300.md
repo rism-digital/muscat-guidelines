@@ -50,8 +50,7 @@ También se pueden indicar páginas o folios particulares de una pieza dentro de
 
 No consigne la extensión de las particellas aquí. Para ello utilice el campo **Particellas conservadas (590).**
 
-Ejemplos de otras foliaciones:  
-El prefacio está numerado como I-VIII, seguido por 25 páginas de música.
+##### Examples
 
 - 1 score: 35 p.
 - 1 score (2x): 2, 2 f.
@@ -113,10 +112,7 @@ _Different sizes_
 
 Registre las dimensiones de la fuente siguiendo el formato alto x ancho en cm. Pueden indicarse fracciones de centímetros con una coma o un punto. Puede consignarse un segundo conjunto de dimensiones entre paréntesis. Si hay más de dos conjuntos de dimensiones diferentes, ingrese la frase en inglés **_Different sizes_** (Diferentes tamaños); en tal caso, puede dar mayores precisiones en el campo **Nota general (500)**. Formats such as **octavo**, **quarto**, etc. should be indicated in the field **Book format (340 $m)**.
 
-_Ejemplos_:  
-20 x 16 cm; _plate mark_ 18 x 15,5 cm  
-_plate mark_, _title page_: 20.2 x 27.7 cm; _plate mark_, _music_: 20.4 x 28.2 cm  
-_printed area, title page_: 20.2 x 27.7 cm; _printed area, music_: 20.4 x 28.2 cm
+##### Examples
 
 - 25.5 x 30.5 cm
 - 36 x 25.5 cm
@@ -125,11 +121,7 @@ _printed area, title page_: 20.2 x 27.7 cm; _printed area, music_: 20.4 x 28.2 c
 
 En el caso de los ítems impresos, puede ingresar, si lo desea, las dimensiones del área impresa; para ello utilice indicaciones como _printed área_ (área impresa) o _plate mark_ (marca de plancha), en inglés. Use indications such as "printed area" or "plate mark." Separe esta medición de la medición total de la fuente con un punto y coma. Si las dimensiones varían, mida la portada y la primera página de música (e incluya, en caso necesario, una indicación de qué fue medido).
 
-_Ejemplos:_  
-1 _score_: 35 p.  
-1 _score_ (2x): 2, 2 f.  
-1 _short score_: 8 f.  
-1 _tablature score_: p.
+##### Examples
 
 - 20 x 16 cm; plate mark 18 x 15,5 cm
 - Plate mark, title page: 20.2 x 27.7 cm; plate mark, music: 20.4 x 28.2 cm
