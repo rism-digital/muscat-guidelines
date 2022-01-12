@@ -1,14 +1,12 @@
-### Forma paralela del nombre (MARC 510; ISDIAH 5.1.3)
+### Parallel form of name (510; ISDIAH 5.1.3)
 
 Este campo presenta varias formas del nombre de una institución, incluidas las traducciones. También se pueden registrar aquí las relaciones con otras instituciones.
 
-#### Forma paralela del nombre (MARC 510 $a)
+#### Parallel form of name (510 $a)
 
 Registre las diversas formas en que se presenta la forma autorizada del nombre de una institución, así como las traducciones del nombre a otros idiomas, preferentemente al inglés. Los nombres originales en alfabetos no latinos también pueden ser registrados en este campo. Escriba cada nombre en una línea separada.
 
-_Ejemplos_:  
-Praha  
-Milano
+##### Examples
 
 - The National Library of Wales [for Llyfrgell Genedlaethol Cymru]
 - Norwegian State Academy of Music, The Library [for Norges musikkhøgskole, Biblioteket]
