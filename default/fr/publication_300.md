@@ -4,7 +4,7 @@
 
 Enter the extent of the item in number of pages or volumes.
 
-_Examples_:
+##### Examples
 
 - 270 p.
 - xxi, 528 p.
