@@ -5,8 +5,7 @@ Utilice este campo para registrar notas generales sobre la procedencia del ítem
 
 Si hay marcas de los/as propietarios/as, regístrelas exactamente como aparecen en la fuente, entre comillas. Incluya menciones al lugar de la fuente en el se encuentran las marcas. Ingrese formas normalizadas de nombres personales en el campo **Nombres personales adicionales (700)** y de instituciones en **Instituciones adicionales** **(710)**. Nótese que la información sobre cómo la institución conservadora actual adquirió el ítem se registra en el campo **Fuente de adquisición (541)**.
 
-_Ejemplos_:  
-Sello en p.
+##### Examples
 
 - Stamp on p. 2: "Stadtbibliothek Danzig"
 - Oval stamp on p. 1: "Kapiteljski | arhiv | ŠAK"
