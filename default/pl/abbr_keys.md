@@ -4,7 +4,7 @@
 
  
 
-_Przykłady_:
+##### Przykłady
 
 - A = A-dur 
 - B = B-dur 

@@ -22,7 +22,7 @@ Weitere Anmerkungen zum Herstellungsverfahren können im Feld **Bemerkungen (500
 
 Enthält eine Quelle mehrere Techniken kann das Feld wiederholt werden. Erläuterungen werden im Feld **Bemerkungen (500 $a)** ergänzt.
 
-_Beispiele_:  
+##### Beispiele  
 Engraved music that has a lithographed title page:  
 Special production technique (340 $d): Engraving  
 Special production technique (340 $d): Lithography  

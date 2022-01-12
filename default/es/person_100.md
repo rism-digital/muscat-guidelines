@@ -34,7 +34,7 @@ Si se desconocen los años exactos de nacimiento y/o muerte de la persona, utili
  **1816\*** = nacido en 1816, año de muerte desconocido
 - **+:** murió  
  **1756+** = murió en 1756, año de nacimiento desconocido
-- **/ :** o  
+- **/:** o  
  **17/18** = vivió en los siglos XVII y XVIII
 
 No utilice las siguientes abreviaturas para los rangos de fechas: in, me, ex, q , d, t
@@ -52,7 +52,7 @@ No utilice las siguientes abreviaturas para los rangos de fechas: in, me, ex, q 
 Este campo está destinado al uso interno del Centro Editorial del RISM.
 
 #### Otras fechas de vida
-Ingrese fechas concretas en el formato DD.MM.AAAA.  Los años de actividad o florecimiento deben ir precedidos de **fl.**
+Ingrese fechas concretas en el formato DD.MM.AAAA. Los años de actividad o florecimiento deben ir precedidos de **fl.**
 
 ##### Ejemplos
 - 22.11.1879-3.12.1967

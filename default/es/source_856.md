@@ -10,7 +10,7 @@ Registre la URL completa del recurso externo. Siempre use permalinks.
 **Campo requerido cuando se registra un vínculo a un recurso externo.**  
 Realice un breve comentario que explique por qué la URL es relevante para la fuente descripta. Hágalo en su propio idioma de catalogación.
 
-_Ejemplos_:  
+##### Ejemplos  
 Copia digital  
 Filigrana en p. 4  
 Página principal del proyecto  
@@ -26,7 +26,7 @@ Fuente concordante en GB-Ob
 
 **Campo requerido cuando se registra un vínculo a un recurso externo.** Seleccione entre las siguientes opciones:
 
-- **Fuente digitalizada**: el enlace pertenece a un sitio web externo que alberga una copia digitalizada del recurso descripto. Se privilegian los enlaces a repositorios institucionales; no obstante, si no hay repositorios institucionales disponibles, se aceptan enlaces a repositorios externos tales como_Internet_ _Archive_ o IMSLP. En el caso de las colecciones, no es necesario duplicar el mismo enlace en la entrada principal de la colección y las entradas individuales.  
+- **Fuente digitalizada**: el enlace pertenece a un sitio web externo que alberga una copia digitalizada del recurso descripto. Se privilegian los enlaces a repositorios institucionales; no obstante, si no hay repositorios institucionales disponibles, se aceptan enlaces a repositorios externos tales como _Internet Archive_ o IMSLP. En el caso de las colecciones, no es necesario duplicar el mismo enlace en la entrada principal de la colección y las entradas individuales.  
 _Ejemplo:  
 [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)_  
 
@@ -35,7 +35,7 @@ _Ejemplo:
 *[https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)*  
 
 En casos en los que haya enlaces disponibles tanto a un visor externo como a un manifiesto IIIF, repita el campo y consigne ambos enlaces por separado.  
-_Ejemplo:_
+##### Ejemplo
 
   - Fuente externa: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)   
 Nota: versión digitalizada  

@@ -16,7 +16,7 @@ Standardisierte Angaben der Personennamen werden im Feld**Nebeneintragung Person
 
 Daten werden grundsätzlich nach folgendem Schema eingegeben: jjjjmmtt. Fehlen Teile des Datums, werden die entsprechenden Stellen durch Bindestriche ersetzt. Allgemeine Datumsangaben können wie auf der Quelle angegeben werden. Mehrere Datumsangaben werden mit Komma getrennt.
 
-_Beispiele_:  
+##### Beispiele  
 17980215   
 183209--  
 1815  

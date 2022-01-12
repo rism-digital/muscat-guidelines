@@ -86,4 +86,4 @@ instrument in the field **Scoring** and **2** in the field **Number**.
   cl  
   1
 
-_MARC note: This field in the OPAC is_ _594 $a._ _The value for $a is generated during the export to the OPAC._
+_MARC note: This field in the OPAC is 594 $a. The value for $a is generated during the export to the OPAC._

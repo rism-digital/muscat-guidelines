@@ -1,6 +1,6 @@
 **1. Figure** (I termini in corsivo si riferiscono a rimandi.)
 
-** **
+
 
 abbot = abate
 

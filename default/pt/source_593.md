@@ -63,4 +63,4 @@ Se múltiplos tipos de fontes estão presentes, repita o grupo "Descrição mate
 Se a fonte é uma reprodução mecânica (como uma fotocópia), siga estes passos:
 
 1. Selecione **Manuscrito autógrafo**, **Cópia manuscrita**, etc. como for apropriado (isto é, selecione o tipo que se aplica à fonte original)
-2. Selecione o tipo de reprodução no campo **Técnica especial de produção** **(340 $d)**
+2. Selecione o tipo de reprodução no campo **Técnica especial de produção(340 $d)**

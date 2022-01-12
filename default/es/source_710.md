@@ -34,13 +34,13 @@ Asigne a cada institución una función exacta. Cada institución puede ser regi
 - **Depositario [dpt]:** la colección, dentro de la biblioteca a la cual pertenece el ítem, por ejemplo, la “James Fuld Music Collection” o el “Nachlass Armin Knab”.
 - **Distribuidor [dst]**
 - **Editorial (contenido) [edt]**: organización que contribuye a la fuente revisando o elucidando el contenido y añadiendo introducción, notas, u otros materiales críticos. El editor también puede preparar un material para su producción, publicación o distribución.
-- **Editorial** **(empresa) [pbl]** _(p__ublisher)_
+- **Editorial(empresa) [pbl]** _(publisher)_
 - **Fabricante de papel [ppm]**
 - **Fundidor [typ]: **la organización que ha diseñado la tipografía.
 - **Impresor [prt]**
-- **Intérprete** **[prf]**: la institución o ensamble que interpretó la obra, como puede ser una orquesta.
+- **Intérprete[prf]**: la institución o ensamble que interpretó la obra, como puede ser una orquesta.
 - **Librero [bsl]**: una persona u organización que tiene libros y otros materiales bibliográficos disponibles para su compra. No use “propietario anterior” para esta función.
-- **Licensee** **[lse]**: la institución que originalmente exhibe el derecho a imprimir o publicar.
+- **Licensee[lse]**: la institución que originalmente exhibe el derecho a imprimir o publicar.
 - **Otro [oth]**: todas las demásfunciones. Utilice este calificador si la función exacta no está en la lista o se desconoce, es poco clara o no está especificada.
 - **Lugar de evento [evp]**: nombre de la sala de conciertos, casa de ópera, teatro, etc.
 - **Propietario anterior [fmo]**

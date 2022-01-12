@@ -14,7 +14,7 @@ Il numero d’incipit consiste di tre cifre che rappresentano la composizione, i
 
 Numera gli incipit consecutivamente anche se nella fonte mancano alcuni movimenti. Ad esempio, se la fonte contiene una sinfonia in tre movimenti ma il movimento centrale manca, gli incipit verranno numerati 1.1.1 e 1.2.1 (non 1.3.1). (Nota bene: i punti fra le cifre sono aggiunti automaticamente da Muscat.)
 
-_Esempi_:  
+##### Esempi  
 1.1.1 = 1a composizione, 1o movimento, 1o incipit  
 1.1.2 = 1a composizione, 1o movimento, 2o incipit (risuona contemporaneamente a 1.1.1)  
 1.1.2 = 1a composizione, 1o movimento, entrata della parte vocale  
@@ -32,7 +32,7 @@ Inserisci l’intitolazione e il tempo del movimento o simili indicazioni, se sp
 
 Inserisci la parte vocale o lo strumento usando la lista di **abbreviazioni RISM per gli strumenti**. Inserisci **V** per una parte vocale sconosciuta. Inserisci **i** per una parte strumentale sconosciuta. Utilizza la notazione d’effetto per gli strumenti traspositori. Indica l’accordatura dello strumento nel campo  **Commento all'incipit musicale**.
 
-_Esempi_:  
+##### Esempi  
 pf  
 T coro  
 org with text
@@ -88,7 +88,7 @@ Inserisci la misura dell’incipit musicale come frazione. Sono consentite anche
 
 **c** = tempo comune or tempus imperfectum cum prolatione imperfecta  
 **c/** = tempo tagliato, alla breve  
-**3** = proportio tripla; anche  **1**,  **2**  ecc.  
+**3** = proportio tripla; anche  **1**,  **2** ecc.  
 **c3** = proportio tripla  
 **c3/2**
 **c.** = tempus imperfectum cum prolatione perfecta  
@@ -98,7 +98,7 @@ Inserisci la misura dell’incipit musicale come frazione. Sono consentite anche
 
 Se la misura è alternata regolarmente, puoi inserire la prima misura seguita dalla seconda, separate da uno spazio. Se l’incipit è privo di misura, lascia vuoto questo campo.
 
-_Esempi_:  
+##### Esempi  
 4/4  
 6/8
 
@@ -214,14 +214,14 @@ Nota:** Attualmente, la ricerca OPAC ignora gli elementi ripetuti descritti in 1
 f = indicazione della ripetizione   
 La figurazione sarà ripetuta tante volte quanto si ripete **f** dopo il secondo **!**. Questo è solo possibile all’interno di una battuta.
 
-_Esempio:_  
+##### Esempio  
  !{'8ABAG}!ff = questa figurazione sarà ripetuta due volte
 
 11.2. Ripetizione di battute  
 i = ripete l’ultima battuta  
 ‘i’ va sempre posta tra due stanghette di battuta.
 
-_Esempio:_  
+##### Esempio  
 '4ABAG/i/i/ = la battuta sarà ripetuta due volte
 
 
@@ -230,7 +230,7 @@ _Esempio:_
 
 Se si ripete più volte una stessa sequenza ritmica, il modulo ritmico si può indicare prima dei nomi delle rispettive note.
 
-_Esempio:_  
+##### Esempio  
 Invece di **8.A6B8C8.D6E8F** si può usare il codice **8.68ABCDEF**  
 La sequenza ritmica si interrompe non appena compare un nuovo valore ritmico.
 
@@ -250,7 +250,7 @@ $nBE $xFC
 **13. Abbreviazioni**   
 Forme di notazione abbreviata che si trovano nella musica, come tremoli o segni analoghi di ripetizione, devono essere scritti per esteso usando l’effettiva notazione.
 
-_Esempio:_  
+##### Esempio  
 {'8DDDD} = una minima di tremolo sul re
 
 
@@ -259,7 +259,7 @@ _Esempio:_
 
 Inserisci accordi dalla nota più acuta alla più grave, separate da **^**.
 
-_Esempio:_  
+##### Esempio  
 4’’C^’G^E^C
 
 ####  
@@ -270,7 +270,7 @@ Aggiungi commenti come l’accordatura degli strumenti traspositori, errori nell
 
 **Organico del movimento (031 $z)**
 
-In questo campo puoi indicare l’organico specifico del movimento in questione (come un movimento all’interno di una complessa composizione vocale). Elenca l’organico su una linea utilizzando le abbreviazioni RISM per gli strumenti e l’ordine standardizzato (descritto in **Organico sintetico** **[240 $m]**). Usa un punto e virgola per separare famiglie di strumenti.
+In questo campo puoi indicare l’organico specifico del movimento in questione (come un movimento all’interno di una complessa composizione vocale). Elenca l’organico su una linea utilizzando le abbreviazioni RISM per gli strumenti e l’ordine standardizzato (descritto in **Organico sintetico[240 $m]**). Usa un punto e virgola per separare famiglie di strumenti.
 
 ##### Esempi   
 S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  

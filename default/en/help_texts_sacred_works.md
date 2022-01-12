@@ -1,5 +1,6 @@
 <jointfile>
-## Standardized texts of sacred works  
+
+### Standardized texts of sacred works  
 
 The following list of standard texts of sacred works provide an overview of the Latin texts most frequently used in sacred music. The list is ordered by genre. Within a genre, all incipits of all sections are listed.
 
@@ -14,56 +15,63 @@ The following list of standard texts of sacred works provide an overview of the 
 - Te Deum  
 
 ### Mass
+
 - **Kyrie**, eleison Christe eleison Kyrie eleison  
- - Christe eleison   
- - Kyrie eleison    
+- Christe eleison   
+- Kyrie eleison  
+
 - **Gloria**, in excelsis Deo et in terra pax  
- - Et in terra pax, hominibus bonae voluntatis
- - Laudamus te, benedicimus te
- - Adoramus te, glorificamus te
- - Gratias agimus, tibi propter magnam gloriam tuam
- - Domine Deus rex caelestis
- - Domine fili, unigenite Jesu Christe
- - Qui tollis, peccata mundi miserere nobis
- - Qui tollis peccata mundi suscipe
- - Suscipe deprecationem nostram
- - Qui sedes, ad dexteram patris
- - Miserere nobis
- - Quoniam, tu solus sanctus
- - Tu solus Dominus
- - Tu solus altissimus, Jesu Christe
- - Cum sancto spiritu, in gloria Dei patris
- - In gloria Dei patris  
+- Et in terra pax, hominibus bonae voluntatis
+- Laudamus te, benedicimus te
+- Adoramus te, glorificamus te
+- Gratias agimus, tibi propter magnam gloriam tuam
+- Domine Deus rex caelestis
+- Domine fili, unigenite Jesu Christe
+- Qui tollis, peccata mundi miserere nobis
+- Qui tollis peccata mundi suscipe
+- Suscipe deprecationem nostram
+- Qui sedes, ad dexteram patris
+- Miserere nobis
+- Quoniam, tu solus sanctus
+- Tu solus Dominus
+- Tu solus altissimus, Jesu Christe
+- Cum sancto spiritu, in gloria Dei patris
+- In gloria Dei patris  
+
 - **Credo**, in unum Deum patrem omnipotentem
- - In unum Deum, patrem omnipotentem
- - Patrem omnipotentem, factorem caeli et terrae
- - Et in unum Dominum
- - Et ex patre natum, ante omnia
- - Deum de Deo, lumen de lumine
- - Qui propter, nos homines
- - Descendit de caelis
- - Et incarnatus est
- - Et homo factus est
- - Crucifixus, etiam pro nobis
- - Et resurrexit tertia die
- - Et iterum venturus est
- - Judicare vivos et mortuos
- - Cujus regni, non erit finis
- - Et in spiritum, sanctum Dominum
- - Et unam sanctam, catholicam
- - Confiteor unum baptisma, in remissionem peccatorum
- - Et expecto resurrectionem mortuorum
- - Et vitam venturi saeculi, amen  
+- In unum Deum, patrem omnipotentem
+- Patrem omnipotentem, factorem caeli et terrae
+- Et in unum Dominum
+- Et ex patre natum, ante omnia
+- Deum de Deo, lumen de lumine
+- Qui propter, nos homines
+- Descendit de caelis
+- Et incarnatus est
+- Et homo factus est
+- Crucifixus, etiam pro nobis
+- Et resurrexit tertia die
+- Et iterum venturus est
+- Judicare vivos et mortuos
+- Cujus regni, non erit finis
+- Et in spiritum, sanctum Dominum
+- Et unam sanctam, catholicam
+- Confiteor unum baptisma, in remissionem peccatorum
+- Et expecto resurrectionem mortuorum
+- Et vitam venturi saeculi, amen
+
 - **Sanctus**, Dominus Deus Sabaoth
- - Pleni sunt caeli, et terra gloria tua
- - Hosanna in excelsis
+- Pleni sunt caeli, et terra gloria tua
+- Hosanna in excelsis
+ 
 - **Benedictus**, qui venit in nomine Domini hosanna in excelsis
- - Hosanna in excelsis
+- Hosanna in excelsis
+
 - **Agnus Dei**, qui tollis peccata mundi miserere nobis
- - Miserere nobis
- - Dona nobis pacem
+- Miserere nobis
+- Dona nobis pacem
 
 ### Requiem (Missa pro defunctis)
+
 - **Requiem**, aeternam dona eis Domine
  - Aeternam dona eis
 - **Absolve Domine**, animas omnium fidelium defunctorum
@@ -97,6 +105,7 @@ The following list of standard texts of sacred works provide an overview of the 
  - Cum sanctis tuis, in aeternum
 
 ### Litaniae Lauretanae
+
 - Kyrie eleison Christe eleison Kyrie eleison Christe audi nos
 - Pater de caelis Deus, miserere nobis
 - Fili redemptor mundi Deus, miserere nobis
@@ -131,6 +140,7 @@ _Variation of Litaniae de Nomine Jesu:_
 - Agnus Dei qui tollis peccata mundi parce nobis Jesu
 
 ### Responsorium
+
 **Feria V. in coena Domini**  
 1. Nocturno:
 - In monte Oliveti, oravit ad patrem
@@ -176,6 +186,7 @@ Aestimatus sum, cum descendentibus
 Sepulto Domino, signatum est monumentum
 
 ### Vesperae
+
 - Dixit Dominus, Domino meo sede a dextris meis
 - Confitebor, tibi Domine in toto corde meo in consilio justorum et congregatione
 - Beatus vir, qui timet Dominum
@@ -198,6 +209,7 @@ Sepulto Domino, signatum est monumentum
 - Magnificat, anima mea Dominum
 
 ### Magnificat
+
 - **Magnificat**, anima mea Dominum
 - Anima mea Dominum
 - Et exsultavit, spiritus meus in Deo salutari meo
@@ -213,6 +225,7 @@ Sepulto Domino, signatum est monumentum
 - Sicut erat, in principio et nunc et semper
 
 ### Miserere
+
 - **Miserere**, mei Deus secundum magnam misericordiam tuam
 - Secundum magnam misericordiam tuam
 - Amplius lava me, ab iniquitate mea
@@ -238,6 +251,7 @@ Sepulto Domino, signatum est monumentum
 - Tunc imponent, super altare tuum vitulos
 
 ### Stabat Mater
+
 - **Stabat mater**, dolorosa juxta crucem lacrimosa
 - Cujus animam gementem
 - O quam tristis et afflicta
@@ -264,6 +278,7 @@ Sepulto Domino, signatum est monumentum
 - Amen
 
 ### Te Deum
+
 - **Te Deum**, laudamus te Dominum confitemur
 - Te Deum
 - Te Deum laudamus

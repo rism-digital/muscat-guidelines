@@ -19,7 +19,7 @@ Seleccione el término que describe la relación entre la fuente que está catal
 #### Nota (787 $n)
 Describa brevemente la naturaleza de la relación. En el campo Nota general (500) pueden registrarse detalles adicionales.  
   
-_Ejemplos_:  
+##### Ejemplos  
 Particelas adicionales  
 Fuente concordante en US-Wc  
 Identificación del compositor basada en el manuscrito en D-B  

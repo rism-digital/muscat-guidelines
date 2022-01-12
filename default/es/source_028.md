@@ -4,7 +4,7 @@ En este campo se registran los números de plancha, que aparecen por lo general 
 
 Registre el número de plancha exactamente como aparece en la fuente. Pueden añadirse números arábigos aclaratorios entre corchetes si el número de plancha está escrito con números romanos.
 
-_Ejemplos_:  
+##### Ejemplos  
 B. & H. 8533  
 S. B. 2. 11  
 424  

@@ -20,7 +20,7 @@ Depois de inserir um novo nome, pode-se editá-lo pelos próximos dois meses. Is
 O índice de locais reúne os nome de localidades, inclusive nomes geográficos históricos.
 
 ### Literatura secundária
-Esta base de dados bibliográfica contém informação sobre todas as formas de literatura secundária: catálogos de obras, catálogos temáticos, livros, artigos, enciclopédias, recursos online, edições críticas, edições práticas modernas, etc.  Ao clicar em "Criar", uma nova obra de literatura secundária pode ser acrescentada.
+Esta base de dados bibliográfica contém informação sobre todas as formas de literatura secundária: catálogos de obras, catálogos temáticos, livros, artigos, enciclopédias, recursos online, edições críticas, edições práticas modernas, etc. Ao clicar em "Criar", uma nova obra de literatura secundária pode ser acrescentada.
 
 ### Assuntos
 Todos os assuntos, formas e gêneros são reunidos aqui. Alguns registros incluem explicações sobre o escopo do assunto. Caso um assunto que não esteja em nossa lista seja necessário, por favor, informe-nos e iremos criá-lo.  
@@ -31,7 +31,7 @@ Este registro de autoridade contém tanto os títulos inseridos no campo **Títu
 ### Obras
 Um registro de autoridade para uma obra destina-se a toda informação que seja verdadeira para uma obra como um todo, não importando outras formas sob as quais uma música exista, seja - por exemplo - um arranjo, uma tradução, uma partitura completa ou um simples manuscrito. Registros de autoridade podem incluir compositor, título, variantes de título, tonalidade, formação instrumental e incipits, embora nem sempre seja uma questão simples decidir sobre o que constitui uma "obra" em separado.
 
-Associar uma fonte musical no Muscat com um registro de autoridade para uma obra assegura que  todas as ocorrências de uma dada peça de música sejam ligadas entre si. Isto melhora a capacidade de pesquisa do catálogo e ajuda os usuários a encontrar todas as fontes relevantes, independentemente se, por exemplo, um manuscrito chama a famosa ópera de Mozart “Die Zauberflöte” e outro seja rotulado “A Flauta Mágica”, ou uma pequena peça de música de câmara é chamada de “dueto” em um manuscrito, mas de “sonata” em outro. Além do Muscat, no ambiente de dados vinculados, informações sobre as obras - e os registros RISM associados - podem ser integrados em pesquisas na Web, em enciclopédias on-line e em outras bases de dados externas.
+Associar uma fonte musical no Muscat com um registro de autoridade para uma obra assegura que todas as ocorrências de uma dada peça de música sejam ligadas entre si. Isto melhora a capacidade de pesquisa do catálogo e ajuda os usuários a encontrar todas as fontes relevantes, independentemente se, por exemplo, um manuscrito chama a famosa ópera de Mozart “Die Zauberflöte” e outro seja rotulado “A Flauta Mágica”, ou uma pequena peça de música de câmara é chamada de “dueto” em um manuscrito, mas de “sonata” em outro. Além do Muscat, no ambiente de dados vinculados, informações sobre as obras - e os registros RISM associados - podem ser integrados em pesquisas na Web, em enciclopédias on-line e em outras bases de dados externas.
 
 Podem-se criar links para registros de autoridade de obras no campo 930 em todo registro bibliográfico para uma fonte musical. Obras que não estejam no registro de autoridade devem ser criadas antes para que um link possa ser feito.
 

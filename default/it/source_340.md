@@ -2,14 +2,14 @@
 
 Questo campo riporta informazioni sulla descrizione fisica per un documento la cui produzione ha coinvolto mezzi tecnici, e la descrizione del formato per materiali a stampa.
 
-**Tecnica di stampa (340** **$d)**
+**Tecnica di stampa (340$d)**
 
 #
 
 Puoi indicare qui la tecnica o le tecniche usate nella produzione della fonte. Se hai bisogno di aggiungere un termine che non è sulla lista, prendi contatto con l'Editorial Center.
 
 - **Autografia**: procedimento litografico (da non confondere con manoscritti autografi)
-- **Stampata da**  **computer**
+- **Stampata da computer**
 - **Incisione**
 - **Facsimile**: una riproduzione effettuata con l’intenzione di simulare il più precisamente possibile l’apparenza fisica di un oggetto preesistente. (Questo non si riferisce a edizioni commerciali in facsimile, che si possono inserire tra la Bibliografia.)
 - **Litografia**
@@ -25,7 +25,7 @@ Ogni aggiunta o commento sulla tecnica di riproduzione può essere spiegato nel 
 
 Se una fonte comprende più tecniche di riproduzione, puoi ripetere il campo per indicare ciascuna tecnica. Aggiungi una nota esplicativa nel campo  **Nota generale (500 $a)**.
 
-_Esempio:_  
+##### Esempio  
 Un’incisione musicale con un frontespizio litografato:  
 **Tecnica di stampa** (340 $d): Incisione  
 **Tecnica di stampa**  (340 $d): Litografia  

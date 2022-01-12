@@ -1,12 +1,10 @@
-**Typ instytucji (MARC 368)**  
+### Typ instytucji (368; ISDIAH 5.1.5)  
 To pole rejestruje inne cechy osoby, osoby posiadającej zdolność prawną lub typ instytucji.  
 
-#### Typ instytucji (MARC 368 $a; ISDIAH 5.1.5)
-
+#### Typ instytucji (368 $a)
 W polu podaje się typ instytucji przechowującej zbiory archiwalne.
 
-Należy wybrać spośród następujących :
-
+Należy wybrać spośród następujących:
 - Archiwum
 - Księgarnia
 - Kopista
@@ -20,14 +18,16 @@ Należy wybrać spośród następujących :
 - Drukarnia  
 - Wydawca
 - Inne
-**Typ jednostki geograficznej (368 $b)**  
-Wprowadź typ jednostki geograficznej związanej z instytucją.  
-##### Przykłady  
-hrabstwo  
-wieś  
 
-**Inne oznaczenie związane z hasłem (368 $c)**  
+#### Typ jednostki geograficznej (368 $b)  
+Wprowadź typ jednostki geograficznej związanej z instytucją.  
+
+##### Przykłady  
+- hrabstwo  
+- wieś  
+
+#### Inne oznaczenie związane z hasłem (368 $c)  
 Podaj określenie, jeśli nie pojawiło się we wcześniejszych polach tej sekcji.  
 
-**Źródło dla zastosowanego terminu (368 $2)**  
+#### Źródło dla zastosowanego terminu (368 $2)  
 Wprowadź źródło zastosowanych terminów.

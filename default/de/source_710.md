@@ -45,5 +45,5 @@ Teilen Sie jeder Institution eine Funktion zu. Eine Institution kann mehrfach mi
 - **Schreiber [scr]:** Kopistenwerkstatt oder Schreiberschule  
 - **Verleger [pbl]**  
 - **Vorbesitzer [fmo]**  
-- **Weitere** **[oth]**: Alle anderen Institutionen, deren Funktion nicht aufgelistet ist.
+- **Weitere[oth]**: Alle anderen Institutionen, deren Funktion nicht aufgelistet ist.
 - **Widmungsträger [dte]**

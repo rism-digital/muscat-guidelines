@@ -51,7 +51,7 @@ Non utilizzare le abbreviazioni seguenti per ambiti di date: in, me, ex, q, d, t
 Questo campo è per uso interno dell'Editorial Center RISM.
 
 #### Altre date
-Inserisci date precise nella forma DD.MM.YYYY.  Anni di attività sono preceduti da **fl.**.  
+Inserisci date precise nella forma DD.MM.YYYY. Anni di attività sono preceduti da **fl.**.  
 
 ##### Esempi
 - 22.11.1879-31.12.1967

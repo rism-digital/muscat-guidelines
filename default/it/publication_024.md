@@ -1,7 +1,8 @@
-ISMN (024 $a)
+### ISMN (024)
 
- Inserisci il numero International Standard Music Number (ISMN). Il numero ISMN è un identificatore univoco per edizioni musicali.  
-  
+#### ISMN (024 $a)
+Inserisci il numero International Standard Music Number (ISMN). Il numero ISMN è un identificatore univoco per edizioni musicali.  
+
 ##### Esempi  
-979-0-9020000-9-3  
-M-2306-7118-7 
+- 979-0-9020000-9-3  
+- M-2306-7118-7 

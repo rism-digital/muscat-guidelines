@@ -17,7 +17,7 @@ Se nenhum título está disponível, insira, em inglês: **[without title]**
 
 Veja também a lista de **Termos uniformes**.
 
-_Exemplos_:  
+##### Exemplos  
 [página título:] Vesperae | chorales unà cum | organo cantandae | pro | Choro Ingolstadiensi,  
 [without title]   
 [caption title, f. 1r:] Claver [sic] [illegible] von Wartensee | Frankfurt 9 Oct. 1829.  

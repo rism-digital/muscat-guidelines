@@ -1,4 +1,4 @@
-### Field of activity (MARC 372)
+### Field of activity (372)
 
 This field is used to enter the area in which the institution is engaged, its area of competence, responsibility, etc.
 The field is repeated if the institution has multiple fields of activity for different time periods.
@@ -7,7 +7,7 @@ The field is repeated if the institution has multiple fields of activity for dif
 
 Enter the field of activity in which the institution is or was engaged.
 
-_Example:_
+##### Example
 
 - Music--Instruction and study
 
@@ -15,6 +15,6 @@ _Example:_
 
 Enter the code that identifies the source of a controlled vocabulary term for the field of activity.
 
-_Example:_
+##### Example
 
 - lcsh

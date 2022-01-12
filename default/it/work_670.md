@@ -8,5 +8,5 @@ Inserisci il titolo abbreviato del riferimento bibliografico. Il campo è colleg
 Inserisci il numero di pagina e il titolo dell'opera come compaiono nella bibliografia di riferimento.
 
 ##### Esempi  
-GarveyJacksonW : p. 2-3 (Crazy Jane ("Why fair maid in ev'ry feature") A favorite song...with an accompaniment for the harp or piano forte)  
-RitchieW 2008 : p. 110 (A song with lyrics written by Matthew Lewis, composed by Harriett Abrams, entitled "Crazy Jane" (c.1799))
+- GarveyJacksonW: p. 2-3 (Crazy Jane ("Why fair maid in ev'ry feature") A favorite song...with an accompaniment for the harp or piano forte)  
+- RitchieW 2008: p. 110 (A song with lyrics written by Matthew Lewis, composed by Harriett Abrams, entitled "Crazy Jane" (c.1799))

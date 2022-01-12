@@ -16,7 +16,7 @@ Insira formas normalizadas dos nomes de pessoas no campo **Nome de pessoa adicio
 
 Insira as datas na forma YYYYMMDD. Substitua partes desconhecidas das datas com hífens. Se apenas o ano vai ser inserido, pode-se usar a forma YYYY. Datas gerais podem ser indicadas tal como dadas na fonte. Separe múltiplas datas com vírgula.  
 
-_Exemplos_:  
+##### Exemplos  
 17980215   
 183209--  
 1815  

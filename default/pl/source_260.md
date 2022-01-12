@@ -20,7 +20,7 @@ W przypadku rękopisów, należy podać nazwę kopisty, jaka widnieje w źródle
 
 W polach **Dodatkowa osoba (700)** lub **Instytucja dodatkowa (710)** zawsze należy wprowadzać nazwy ujednolicone. Wydawców nazwanych od nazwisk osób, lecz pełniących funkcję wydawcy (np. Pleyel, André, itd.) należy wprowadzać jako instytucje.
 
-Jeżeli nazwy wydawcy lub dystrybutora nie można zidentyfikować na druku, należy wprowadzić **[s.n.]**. (Nie należy indeksować [s.n.] jako dodatkowej instytucji.)  W przypadku rękopisów należy pozostawić puste miejsce.
+Jeżeli nazwy wydawcy lub dystrybutora nie można zidentyfikować na druku, należy wprowadzić **[s.n.]**. (Nie należy indeksować [s.n.] jako dodatkowej instytucji.) W przypadku rękopisów należy pozostawić puste miejsce.
 
 
 
@@ -30,7 +30,7 @@ W tym miejscu należy wprowadzić datę źródła. Należy używać cyfr arabski
 
 Dla rękopisów: Zawsze należy starać się podać datę, nawet jeśli jest przybliżona. Jeżeli znany jest miesiąc, dzień i rok, datę należy podać w formacie: RRRR-MM-DD.
 
-Można podać przybliżone daty w stosowanym przez Państwa bibliotekę języku katalogowania poprzez użycie następujących określeń:  **ca.** jako skrót circa, **przed** i **po**.  Należy starać się podać możliwie jak najdokładniejszą datę. Jeżeli nie ma pewności co do daty, należy użyć zakresu dat odpowiadającego ogólnie ujętemu okresowi, np. wiek XVIII lub koniec wieku XVII. Patrz tabela poniżej.
+Można podać przybliżone daty w stosowanym przez Państwa bibliotekę języku katalogowania poprzez użycie następujących określeń:  **ca.** jako skrót circa, **przed** i **po**. Należy starać się podać możliwie jak najdokładniejszą datę. Jeżeli nie ma pewności co do daty, należy użyć zakresu dat odpowiadającego ogólnie ujętemu okresowi, np. wiek XVIII lub koniec wieku XVII. Patrz tabela poniżej.
 
 Dla druków: W przypadku druku niedatowanego, należy wprowadzić albo przybliżoną datę w nawiasach kwadratowych albo **[s.d.]**.
 

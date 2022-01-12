@@ -11,7 +11,7 @@ Geben Sie den Kurztitel ein. Das Feld ist mit der Normdatei **Sekundärliteratur
 
 Hier wird die genaue Fundstelle des betreffenden Zitats wiedergegeben. Verwenden Sie  **vol.** (für Band), **fasc.** (Faszikel), **suppl.** (Supplement), **pt.** (Teil), **p.** (Seite), **no.** (Nummer) und **clm.** (Spalte).
 
-_Beispiele_:  
+##### Beispiele  
 vol. 2, pt .2, p. 430  
 vol. 5, p. 93; vol. 6, p. 12  
 Suppl. 1: 1779-1780, clm. 695

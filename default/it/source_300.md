@@ -1,15 +1,14 @@
 ### Descrizione fisica** (300)**
-
 **Campo obbligatorio.**
 
 Questo campo riporta il numero di oggetti, il formato e (per tutti i tipi di oggetti tranne le parti staccate) l’estensione.
 
 Nota che l’intera sezione **Descrizione del materiale** è ripetibile, come pure il campo **Descrizione fisica (300)** e il sottocampo **Categoria di fonte, estensione (300 $a)**. Perciò sei libero di creare una sezione **Descrizione del materiale** per ogni formato, oppure di elencare ogni formato in una riga separata nella **Descrizione fisica (300)**.
 
-Poniamo il caso di 1 partitura e 10 parti. Per catalogare in profondità, creare un gruppo  **Descrizione del materiale** per la partitura e un gruppo  **Descrizione del materiale** per le parti permette di assegnare diverse date, copisti, filigrane e altre informazioni soltanto alla partitura o soltanto alle parti (puoi anche descrivere le parti in gruppi più piccoli, se necessario). Se la data, il copista ecc. sono uguali per la partitura e per le parti, o se non desideri tale profondità di catalogazione, è sufficiente elencarle una sotto l’altra nel campo  **Descrizione fisica (300) **. Puoi riportare dimensioni diverse ripetendo il campo **Descrizione fisica (300)**.   
+Poniamo il caso di 1 partitura e 10 parti. Per catalogare in profondità, creare un gruppo  **Descrizione del materiale** per la partitura e un gruppo  **Descrizione del materiale** per le parti permette di assegnare diverse date, copisti, filigrane e altre informazioni soltanto alla partitura o soltanto alle parti (puoi anche descrivere le parti in gruppi più piccoli, se necessario). Se la data, il copista ecc. sono uguali per la partitura e per le parti, o se non desideri tale profondità di catalogazione, è sufficiente elencarle una sotto l’altra nel campo  **Descrizione fisica (300)**. Puoi riportare dimensioni diverse ripetendo il campo **Descrizione fisica (300)**.   
 
 
-**Categoria di fonte, estensione (300 $a)**
+#### Categoria di fonte, estensione (300 $a)
 
 Il campo **Categoria di fonte, estensione (300 $a)** si compone di tre elementi: **oggetti, formato, estensione**. Nota che l’estensione non viene indicata per parti staccate, incluse parti intavolate; l’estensione delle parti staccate è riportata nel campo **Parti staccate (590)**. Utilizza la terminologia inglese riportata nell'elenco.
 
@@ -41,7 +40,7 @@ Altre categorie:
 - **various**: Utilizza per notizie principali (schede madri) di raccolte se la raccolta comprende diverse categorie di fonti (come una partitura e una riduzione per tastiera).
 - **other**: Utilizza se non è valida nessuna delle categorie sopra elencate. In questi casi, aggiungi una nota esplicativa nel campo **Nota generale (500)**. Il numero di oggetti e l’estensione non sono obbligatori.  
 
-Se hai una parte-guida per il direttore, utilizza qui  **part**  o  **parts**  e inserisci  **conductor part**  nel campo  **Parti staccate (590).**
+Se hai una parte-guida per il direttore, utilizza qui  **part** o  **parts** e inserisci  **conductor part** nel campo  **Parti staccate (590).**
 
 **Estensione**: Inserisci il numero di pagine, carte o fascicoli. Scegli tra le seguenti abbreviature: **f** per carta, **p** per pagina, **lvs** (leaves) per foglio, e **fds** (folds) per fascicolo. Con questo sistema, un **lvs** corrisponde a due **f**, mentre un **fds** significa almeno un **lvs**.
 
@@ -49,7 +48,7 @@ Puoi anche indicare singole pagine o carte all’interno di una raccolta manoscr
 
 Non indicare qui l’estensione di parti staccate. L’estensione è riportata nel campo **Parti staccate esistenti (590)**.
 
-_Esempi_:  
+##### Esempi  
 1 score: 35 p.  
 1 score (2x): 2, 2 f.  
 1 short score: 8 f.  
@@ -115,7 +114,7 @@ Ecco alcuni esempi:
 
 Inserisci le dimensioni della fonte (altezza x larghezza in cm). Frazioni di centimetri possono essere indicate dopo un punto o dopo una virgola. Una seconda serie di misure può essere indicata tra parentesi. Se vi sono più di due dimensioni diverse, inserisci l'espressione inglese  **Different sizes**. Ulteriori specificazioni possono essere aggiunte nel campo **Nota generale (500)**. Indica le dimensioni di formato come **octavo**, **quarto** ecc. nel campo **Formato librario (340 $m)**.
 
-_Esempi_:
+##### Esempi
 
 25,5 x 30,5 cm  
 36 x 25.5 cm  
@@ -126,7 +125,7 @@ Per oggetti stampati, se vuoi puoi inserire le dimensioni dello specchio di stam
 
 
 
-_Esempi_:  
+##### Esempi  
 20 x 16 cm; plate mark 18 x 15,5 cm
 
 Plate mark, title page: 20.2 x 27.7 cm; plate mark, music: 20.4 x 28.2 cm

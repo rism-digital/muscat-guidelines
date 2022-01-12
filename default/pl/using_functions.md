@@ -6,13 +6,13 @@
 
 **Komentarze** pozwalają zobaczyć wszystkie komentarze dołączone do rekordów Muscat. Można przeglądać komentarze od wszystkich użytkowników i komentarze do każdego rekordu. Innych użytkowników, aby włączyć ich do rozmowy, należy nazwać wpisując @ plus ich nazwę.  
 
-**Foldery**  umożliwiają zobaczenie wszystkich folderów wytworzonych przez użytkowników Muscat. Folder można tworzyć wybierając rekordy na stronie głównej Źródeł, przechodząc do **akcji wsadowych** powyżej listy rekordów i tworząc nowy folder lub dodając je do istniejącego folderu. Można przeglądać folder, znajdując go w filtrach po prawej stronie pod hasłem **Is in folder.** Stamtąd można sortować i wyszukiwać jak zwykle. Należy usunąć foldery z punktu **Foldery** na pasku menu.  
+**Foldery** umożliwiają zobaczenie wszystkich folderów wytworzonych przez użytkowników Muscat. Folder można tworzyć wybierając rekordy na stronie głównej Źródeł, przechodząc do **akcji wsadowych** powyżej listy rekordów i tworząc nowy folder lub dodając je do istniejącego folderu. Można przeglądać folder, znajdując go w filtrach po prawej stronie pod hasłem **Is in folder.** Stamtąd można sortować i wyszukiwać jak zwykle. Należy usunąć foldery z punktu **Foldery** na pasku menu.  
 
 **Wyszukiwanie wieloaspektowe** pozwala na wyszukiwanie z tych samych źródeł, ale z większą liczbą kryteriów wyszukiwania: proste wyszukiwanie z ograniczeniami i wyszukiwanie zaawansowane z wieloma dostępnymi polami. W przypadku posiadania uprawnień do edycji rekordu widzianego w wyszukiwaniu bezpośrednim, pojawi się łącze do trybu edycyjnego Muscat. W przeciwnym razie, należy wróć do Muscat klikając na **Katalogowanie**. Wówczas **Strona główna** zabierze Państwa z powrotem do strony internetowej RISM Zentralredaktion.  
 
 Strona **Źródła** jest stroną główną, z której można uzyskać dostęp do rekordów bibliograficznych dla opisów źródłowych.  
 
-**Hasła wzorcowe**  przenoszą użytkownika do wszystkich haseł wzorcowych, kontrolowanego słownictwa i indeksów w Muscat. Zobacz **Ogólne wytyczne dotyczące katalogowania**: **Hasła wzorcowe**, aby uzyskać więcej informacji.  
+**Hasła wzorcowe** przenoszą użytkownika do wszystkich haseł wzorcowych, kontrolowanego słownictwa i indeksów w Muscat. Zobacz **Ogólne wytyczne dotyczące katalogowania**: **Hasła wzorcowe**, aby uzyskać więcej informacji.  
 
 **Wskazówki** pozwalają zobaczyć wszystkie wytyczne na jednej stronie. Właśnie tutaj się teraz Państwo znajdują.  
 
@@ -28,7 +28,7 @@ Należy użyć **linków** u góry, aby przejść do sekcji rekordu. Podczas edy
 **Pokaż podgląd** umożliwia podgląd rekordu bez zapisywania. Aby powrócić do trybu edycji, kliknij przycisk Ukryj podgląd.  
 
 **Zapisz i kontynuuj edycję** umożliwia zapisanie pracy i kontynuowanie jej w trybie edycji. Zapisywać należy często, aby zapobiec utracie pracy. Po pierwszym zapisaniu rekordu, system przypisuje numer RISM automatycznie.  
-  
+
 **Zapisz i zamknij** przywraca do poprzedniego ekranu, jednocześnie zapisując pracę.  
 
 
@@ -52,7 +52,7 @@ Należy użyć **linków** u góry, aby przejść do sekcji rekordu. Podczas edy
 **Kosz na śmieci**: Można usunąć pole, klikając na pojemnik na śmieci.  
 
 **Strzałka**: Należy kliknąć na strzałkę, aby rozszerzyć lub zwinąć pola.  
-**Dodaj grupę**: Ten przycisk znajduje się na dole sekcji **Opis materiału**. W przypadku różnych grup można przyporządkować różne daty, formaty, znaki wodne, nazwy, instytucje itp. do różnych typów źródeł (lub jakkolwiek inaczej opiszą Państwo dany materiał).  Niektóre z tych pól, takie jak **Dodatkowa osoba (700)**, **Dodatkowa instytucja (710)** i **Uwaga ogólna (500)**, znajdują się również w innym miejscu szablonu Źródła. Należy zdecydować, gdzie umieścić takie informacje: czy dotyczą one całego źródła, czy tylko tej grupy materiałów ?  
+**Dodaj grupę**: Ten przycisk znajduje się na dole sekcji **Opis materiału**. W przypadku różnych grup można przyporządkować różne daty, formaty, znaki wodne, nazwy, instytucje itp. do różnych typów źródeł (lub jakkolwiek inaczej opiszą Państwo dany materiał). Niektóre z tych pól, takie jak **Dodatkowa osoba (700)**, **Dodatkowa instytucja (710)** i **Uwaga ogólna (500)**, znajdują się również w innym miejscu szablonu Źródła. Należy zdecydować, gdzie umieścić takie informacje: czy dotyczą one całego źródła, czy tylko tej grupy materiałów ?  
 
 
 **Inne funkcje w trybie edycji**  

@@ -4,7 +4,7 @@ Tutaj można wprowadzić krótką, ogólną informację na temat utworu lub jego
 
 Bardziej szczegółowe informacje na temat zawartości danej pozycji można podać w polu **Uwaga o zawartości (505)**.
 
-_Przykłady_:  
+##### Przykłady  
 5 sonaty, 2 fantazje  
 5 motetów, 2 msze, 1 Magnificat  
 Opera w trzech aktach  

@@ -25,8 +25,8 @@
 12t = 12. ton (Hypojoński)  
 12tt = 12. ton (Hypojoński), transponowany
 
-  
-**Modusy bizatyjskie :**  
+
+**Modusy bizatyjskie:**  
 Ēchos prōtos (Pierwszy modus muzyki bizantyjskiej)  
 Ēchos deuteros (Drugi modus muzyki bizantyjskiej)  
 Ēchos tritos (Trzeci modus muzyki bizantyjskiej)  

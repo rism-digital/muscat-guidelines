@@ -9,8 +9,8 @@ Indique la relación de la persona en cuestión con el nombre geográfico.
 
 Seleccione una de las siguientes opciones:
 - **Lugar de actividad:** Típicamente una ciudad, pueblo, aldea, etc.  
-- **Lugar de fallecimiento:**  Típicamente una ciudad, pueblo, aldea, etc.  
+- **Lugar de fallecimiento:** Típicamente una ciudad, pueblo, aldea, etc.  
 - **Lugar de nacimiento: ** Típicamente una ciudad, pueblo, aldea, etc.  
-- **Lugar de origen:**  Utilícelo cuando no haya más información disponible sobre el lugar de nacimiento  
+- **Lugar de origen:** Utilícelo cuando no haya más información disponible sobre el lugar de nacimiento  
 - **País de actividad**  
-- **Región de actividad:**  Ejemplos: Süddeutschland, Hessen, Upper Midwest
+- **Región de actividad:** Ejemplos: Süddeutschland, Hessen, Upper Midwest

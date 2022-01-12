@@ -1,4 +1,5 @@
 <jointfile>
+
 ## General abbreviations and concepts
 iSol
 
@@ -30,7 +31,7 @@ strings
 
 winds
 
-- EN:  winds (brass and woodwind)
+- EN: winds (brass and woodwind)
 - DE: Blasinstrumente
 - FR: instruments à vent
 - IT: strumenti a fiato
@@ -1124,9 +1125,7 @@ zufoletto
 - PT:
 
 
-#   
-
-# **Brass**
+## Brass
 
 banda
 
@@ -1717,8 +1716,7 @@ trombino
 #### campanelli
 
 - Link: [https://en.wikipedia.org/wiki/Glockenspiel](https://en.wikipedia.org/wiki/Glockenspiel)
-- EN: glockenspiel, bells (tuned metal bars arranged like a keyboard; one-octave models commonly but inaccurately called
-  xylophone; see also lyra for the instrument played upright and held in the arm)
+- EN: glockenspiel, bells (tuned metal bars arranged like a keyboard; one-octave models commonly but inaccurately called xylophone; see also lyra for the instrument played upright and held in the arm)
 - DE: Glockenspiel (Stabspiel, ein Metallophon)
 - FR: glockenspiel
 - IT: glockenspiel carillon
@@ -1786,8 +1784,7 @@ trombino
 #### glass harmonica
 
 - Link: [http://www.mimo-international.com/MIMO/doc/IFD/OAI\_ULEI\_M0000349/glasharmonika](http://www.mimo-international.com/MIMO/doc/IFD/OAI_ULEI_M0000349/glasharmonika)
-- EN: glass harmonica, glass armonica, glass harmonium, bowl organ, hydrocrystalophone, armonica, harmonica (glass bowls
-  rubbed with fingertips; for glasses instead of bowls, see musical glasses)
+- EN: glass harmonica, glass armonica, glass harmonium, bowl organ, hydrocrystalophone, armonica, harmonica (glass bowls rubbed with fingertips; for glasses instead of bowls, see musical glasses)
 - DE: Glasharmonika
 - FR: harmonica de verre
 - IT: armonica a bicchieri, glassarmonica
@@ -2024,8 +2021,7 @@ trombino
 #### xilofono
 
 - Link: [https://en.wikipedia.org/wiki/Xylophone](https://en.wikipedia.org/wiki/Xylophone)
-- EN: xylophone (consisting of wooden bars struck with mallets, generally higher than marimba; see also marimba; do not
-  confuse with campanelli)
+- EN: xylophone (consisting of wooden bars struck with mallets, generally higher than marimba; see also marimba; do not confuse with campanelli)
 - DE: Xylophon (ein Aufschlagidiophon)
 - FR: xylophone
 - IT: xilofono

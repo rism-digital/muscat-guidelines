@@ -6,7 +6,7 @@ Pole opisuje związki rodzinne. Należy wpisać nazwę osobową powiązaną z da
 #### Typ związku (500 $i)
 Podać rodzaj związku, jaki łączy daną osobę z tą drugą osobą. Na przykład, rekord autorytatywny Clara Schumann będzie zawierał w tej sekcji następujące informacje: Schumann, Felix - matka.  
 
-Można wybierać spośród następujących elementów :
+Można wybierać spośród następujących elementów:
 - **brat (czyj)**  
 - **dziecko (czyje)**  
 - **mylony z**  

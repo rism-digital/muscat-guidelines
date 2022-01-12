@@ -1,4 +1,4 @@
-### Authority reference (MARC 024)
+### Authority reference (024)
 
 This field is used to record the standard number or code or URI associated with the institution.
 
@@ -6,7 +6,7 @@ This field is used to record the standard number or code or URI associated with 
 
 Enter the alphanumeric code used to identify names. The code is taken from the authority data of the creating agency.
 
-#### Terms of availability (024 $c)  
+#### Terms of availability (024 $c)
 
 Enter the terms of availability and/or qualifying information about availability.
 
@@ -14,7 +14,7 @@ Enter the terms of availability and/or qualifying information about availability
 
 Enter any optional digits carried to the right of the number or code.
 
-#### Qualifying information (024 $q)  
+#### Qualifying information (024 $q)
 
 Enter a brief statement of qualifying information concerning the item associated with a number being recorded in subfield $a or $z.
 
@@ -22,11 +22,11 @@ Enter a brief statement of qualifying information concerning the item associated
 
 Enter a canceled or invalid standard number or code.
 
-#### Authority record control number or standard number (024 $0)  
+#### Authority record control number or standard number (024 $0)
 
 Enter a machine actionable and parseable URI that identifies a name or label for the institution.
 
-#### Real World Object URI (024 $1)  
+#### Real World Object URI (024 $1)
 
 Enter the URI that identifies the institution.
 
@@ -34,7 +34,7 @@ Enter the URI that identifies the institution.
 
 Select from the following:
 
-- **ISIL:** International Standard Identifier for Libraries and Related Organisations
+- **ISIL**: International Standard Identifier for Libraries and Related Organisations
 - **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
 - **DNB**: Deutsche Nationalbibliothek

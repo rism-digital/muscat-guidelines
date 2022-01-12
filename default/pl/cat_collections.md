@@ -32,7 +32,7 @@ Rekordy klocków introligatorskich powinny być proste. Podobnie jak w przypadku
 
 1. Po pierwsze, stwórz rekord dla szablonu klocka introligatorskiego, zapisz i zanotuj ID RISM.
 2. Dla rękopisów, w trybie edycji, znajdź pole **Rekord macierzysty (773)**. Kliknij w drugą ikonę „Search composite” w celu wyszukania klocka introligatorskiego.
-3. Dla druków muzycznych: W egzemplarzach znajdź pole **Współoprawne z (973) **i kliknij na ikonę lupy. Znajdź rekord klocka introligatorskiego i wybierz.
+3. Dla druków muzycznych: W egzemplarzach znajdź pole **Współoprawne z (973)** i kliknij na ikonę lupy. Znajdź rekord klocka introligatorskiego i wybierz.
 
 ### Katalogowanie kontrafaktury
 Kontrafaktura to technika, w której tekst zostaje zmieniony bez większych zmian w muzyce, jak np. przeredagowanie utworu świeckiego tekstem sakralnym lub odwrotnie. Zabieg jest niemal mechaniczny, w związku z czym rola aranżera nie ma charakteru twórczego, jednakże w wyniku zastosowania tej techniki powstaje utwór wokalny ze zmienionym celem wykorzystania muzyki (np. z kontekstu teatralnego na religijny).  
@@ -57,7 +57,7 @@ Katalogując kompilację zwróć uwagę na pola wykorzystane w poniższych przyk
 
 702000642, 702000643: Wiele dzieł różnych kompozytorów wykorzystanych do stworzenia suity.
 
-452505748:  Opera pasticcio, składająca się z trzech aktów, skomponowanych przez trzech twórców.   
+452505748: Opera pasticcio, składająca się z trzech aktów, skomponowanych przez trzech twórców.   
 
 
 ### Katalogowanie parodii
@@ -69,7 +69,7 @@ Rekord 150205470 stanowi przykład
 ### Katalogowanie materiałów mieszanych (rękopisy i druki przechowywane razem)
 Nierzadko zdarza się, że rękopisy i druki muzyczne są razem przechowywane w tej samej tece lub mają tę samą sygnaturę: na przykład wydrukowana partytura z rękopiśmiennymi głosami lub grupa głosów drukowanych przechowywana jest z niektórymi głosami rękopiśmiennymi.   
 
-Najlepiej byłoby, gdyby materiał drukowany był katalogowany w osobnym zapisie, ponieważ jest możliwe, że inne biblioteki mają egzemplarze tego samego rekordu bibliograficznego. W takiej sytuacji, utwórz rekord dla druku muzycznego, dodaj swój egzemplarz i utwórz kolejny rekord dla rękopisu. Zawrzyj w  obydwu rekordach informację ID, tak aby użytkownik zrozumiał, co posiada biblioteka.  
+Najlepiej byłoby, gdyby materiał drukowany był katalogowany w osobnym zapisie, ponieważ jest możliwe, że inne biblioteki mają egzemplarze tego samego rekordu bibliograficznego. W takiej sytuacji, utwórz rekord dla druku muzycznego, dodaj swój egzemplarz i utwórz kolejny rekord dla rękopisu. Zawrzyj w obydwu rekordach informację ID, tak aby użytkownik zrozumiał, co posiada biblioteka.  
 
 Przykład: 280000006 stanowi rekord 4 rękopiśmiennych głosów uwertury. 990055636 to rekord dla drukowanych głosów. Biblioteka dodała informacje własnościowe oraz informację dla użytkownika odnoszącą wobec tych źródeł.  
 
@@ -84,7 +84,7 @@ Istnieją dwa sposoby katalogowania czasopism zawierających źródło muzyczne:
 
 **Kolekcje**: kiedy periodyk składa się w całości lub w większości ze źródeł muzycznych i zachowany został jako całość.   
 Egzemplarze zostają dodane na poziomie kolekcji, natomiast dla poszczególnych źródeł tworzy się indywidualne wpisy pozycji w kolekcji.  
-_Przykład:_  
+##### Przykład  
 _1001097294:_ Styczniowy numer (dokładny rok nie jest określony) _Kleine Pianoforte-Bibliothek_ składa się z 5 źródeł muzycznych. Należy stworzyć jeden rekord kolekcji i pięć indywidualnych wpisów pozycji w kolekcji.   
 
 **Pojedyncze dzieła**: kiedy źródło muzyczne stanowi wkładkę lub dodatek do periodyku.   
@@ -99,14 +99,14 @@ Często takie źródła zachowane są w oderwaniu od oryginalnego kontekstu publ
 **Katalagowanie źródeł w „nie muzycznych” publikacjach**  
 
 RISM obejmuje źródła muzyczne znalezione w publikacjach drukowanych, które nie były pierwotnie materiałami poświęconymi muzyce.  
-_Przykład:_  
+##### Przykład  
 990026614: 3 pieśni Johna Isaac Hawkinsa opublikowane w książce Charlesa Willsona - Peale's Discourse introductory to a course of lectures on the science of nature (1800).  
 
 
 
 #### Katalogowanie traktatów
 
-Katalogując traktaty należy w polu **Rodzaj źródła, objętość (300 $a) **wpisać „text document” jako rodzaj.  
+Katalogując traktaty należy w polu **Rodzaj źródła, objętość (300 $a)** wpisać „text document” jako rodzaj.  
 Odpowiednie hasła przedmiotowe dla traktatów:  
 
 - **Treatises**
@@ -135,7 +135,7 @@ W polu **Tytuł ujednolicony (240)**:
 
   -
 
-W polu **Podsumowanie obsady**, należy wpisać obsadę aranżacji, np.  pf lub V, pf. Nie należy wprowadzać obsady oryginalnego utworu.
+W polu **Podsumowanie obsady**, należy wpisać obsadę aranżacji, np. pf lub V, pf. Nie należy wprowadzać obsady oryginalnego utworu.
 
 -
 

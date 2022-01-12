@@ -14,7 +14,7 @@ Ist kein originaler Titel auf der Quelle vorhanden, geben Sie **[without title]*
 
 Kommentare werden in eckigen Klammern und mit englischen Ausdrücken direkt eingefügt. Siehe dazu die Liste **Fachausdrücke**.
 
-_Beispiele_:  
+##### Beispiele  
 [title page:] Vesperae | chorales unà cum | organo cantandae | pro | Choro Ingolstadiensi,  
 [without title]  
 [caption title, f. 1r:] Claver [sic] [illegible] von Wartensee | Frankfurt 9 Oct. 1829.  

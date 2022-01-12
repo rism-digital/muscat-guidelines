@@ -16,46 +16,47 @@ Un título uniforme puede generarse a partir de:
 
 1. **Títulos distintivos**  
 Generalmente se registran por su título distintivo obras de tipo escénico, oratorios, cantatas y canciones, y también ciertos tipos de música instrumental (como las piezas de carácter del s. XVIII que llevan un título individual y distintivo).  
-  
+
 Registre el título distintivo con una ortografía estándar, tal como aparece en (1) New Grove, (2) MGG, (3) catálogos de obras, y/o (4) otros libros de referencia. No omita artículos iniciales (el, la, un, una, the, a, an, der, die, le, l’, etc.).  
-  
-Los nombres o apodos por los cuales se conoce popularmente una obra (tales como “Eroica” o “Misa Nelson”) no cuentan como títulos uniformes. Tales nombres deben ser registrados en el campo **Títulos adicionales** **(730 $a)**.  
-  
+
+Los nombres o apodos por los cuales se conoce popularmente una obra (tales como “Eroica” o “Misa Nelson”) no cuentan como títulos uniformes. Tales nombres deben ser registrados en el campo **Títulos adicionales(730 $a)**.  
+
 _Ejemplos de título distintivo:_  
 _Die Forelle_ (para el Lied “La Trucha”, de Schubert)  
 _Die Zauberflöte_ (para “La flauta mágica”, de Mozart)  
 _The beggar’s opera_ (para “La ópera del mendigo”, de Gay y Pepusch)  
-  
+
 2. **Íncipit literario**  
 Ingrese el íncipit literario como título uniforme en el caso de las obras vocales que no cuenten con un título distintivo.  
-  
+
 Si una fuente consiste en recitativo y aria o _scena_y aria, se utiliza siempre el íncipit literario del aria como título uniforme. Aplique los mismos principios a casos de recitativo y cavatina, _scena_ y rondó, o combinaciones similares. Si su fuente incluye sólo un aria de una ópera cuyo título es desconocido, ingrese el íncipit literario del aria.  
-  
+
 Con las cantatas, por su parte, el texto de la primera pieza vocal funciona como título uniforme, sin importar de que se trate de un recitativo, aria o coro.  
-  
+
 Sin embargo, utilice el género en el caso de las misas, los réquiem, las obsequias, letanías y composiciones para el Oficio Divino. Lo mismo vale para las óperas y oratorios completos cuyo título se desconozca.  
-  
+
 Al registrar los íncipits literarios, siga las normas de ortografía del idioma correspondiente en lo que respecta al uso de letras mayúsculas o minúsculas. Utilice mayúscula inicial para los nombres de la deidad (Dios, God, Herr, Dio, Dieu, Signore, Lord, etc.). Omita signos de puntuación y repeticiones dentro del íncipit. En el caso de las obras con texto traducido, utilice el íncipit literario en su idioma original. Si el ítem es claramente una traducción, ingrese el título uniforme en el idioma original.  
-  
+
 Asegúrese de que el íncipit literario que registra en este campo sea idéntico al ingresado en el campo **Íncipit literario (031 $t)**. En el caso de los textos en latín, utilice el texto que precede a la coma (en la lista de incipits literarios que figura en el apéndice) como título uniforme pero registre el íncipit literario completo en el campo **Íncipit literario.**  
-  
-_Ejemplos_ _Der Mond ist aufgegangen_  
+
+##### Ejemplos
+_Der Mond ist aufgegangen_  
 Gloria [para el íncipit literario: Gloria, in excelsis Deo et in terra pax]  
-  
+
 3. **Género**  
 Utilice el género de la pieza como título uniforme si no cuenta con un título distintivo o un íncipit literario. En la mayoría de los casos, ingrese el género en inglés y en plural (como en **_Operas_** o **_Masses_**). Tenga en cuenta que, para algunos géneros, debe utilizarse un determinado **Descriptor (650)** como Título uniforme (y también como Descriptor). Por favor, remítase al apéndice **Título uniforme – Descriptor** de los _Lineamientos_para mayor información.  
-  
-_Ejemplos_:  
+
+##### Ejemplos  
 _Symphonies_  
 _Allemandes_  
-  
+
 4. **Indicaciones de tempo**  
 Ingrese la indicación de tempo en caso de que no pueda determinarse el género. Si ninguna de las opciones resulta factible, utilice uno de los siguientes términos:  
 - _Songs_ (para piezas vocales)  
 - _Pieces_ (para piezas genéricas)  
 - _Movements_(un único movimiento de una pieza instrumental sin indicación de tempo ni de carácter)  
-  
-_Ejemplos_:  
+
+##### Ejemplos  
 Presto  
 Lento
 
@@ -65,7 +66,7 @@ Lento
 _Ejemplo:  
 25 Arias_ 3 Instrumental pieces
 - **Volúmenes compuestos**. En este caso, ingrese el número que corresponde a la cantidad de ítems involcurados seguido de la palabra _"Items"_.   
-_Ejemplo:_  
+##### Ejemplo  
 11 ítems
 - **Variaciones**. En el caso de las variaciones, utilice **_Variations_** (Variaciones) como título uniforme. En el campo **Título adicional (730)**, registre la pieza sobre la que se basa la obra, en caso de identificarla, y seleccione el calificador **Variaciones** en la lista desplegable del subcampo **Declaración de arreglo (730 $o)**.
 - **Inserciones**. En el caso de las inserciones, ingrese el íncipit literario de la pieza insertada como título uniforme. En el campo **Título adicional (730)**, registre el nombre de la ópera u obra mayor en la cual se inserta la pieza y seleccione el calificador **Inserciones** en la lista desplegable del subcampo **Tipo especial de fuente (730 $k).**
@@ -139,13 +140,13 @@ Si la plantilla/orgánico incluye un bajo cifrado, regístrelo de manera convenc
 
 Omita el resumen de plantilla/orgánico si los medios interpretativos se desconocen o resultan inciertos.
 
-_Ejemplos_:  
+##### Ejemplos  
 _A, Coro, orch  
 Bariton, pf   
 V (3), strings, bc   
 V (4), Coro, orch, org_  (para una misa)  
 _cl, orch_  (para un concierto de clarinete)  
-   
+
 Por favor use las siguientes plantillas estándar en los casos pertinentes:  
 Cuarteto de cuerdas: vl (2), vla, vlc   
 Quinteto de cuerdas (2 violas): vl (2), vla (2), vlc   

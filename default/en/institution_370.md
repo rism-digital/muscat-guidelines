@@ -1,4 +1,4 @@
-### Associated place (MARC 370)
+### Associated place (370)
 
 This field is used to record a place associated with the institution.
 
@@ -8,8 +8,7 @@ Enter the country with which the institution is identified.
 
 #### Place of residence/headquarters (370 $e)
 
-Enter the town, city, province, state, locale, and/or country in which the institution has its headquarters or carries
-out its activities.
+Enter the town, city, province, state, locale, and/or country in which the institution has its headquarters or carries out its activities.
 
 #### Other associated place (370 $f)
 

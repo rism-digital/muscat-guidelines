@@ -11,36 +11,25 @@ Für die Erfassung von Sammlungen gelten folgende Regeln:
 
 Wenn die Werke einer Sammlung unterschiedliche Komponisten, Besetzungen, Quellentypen etc. haben, geben Sie diese nicht in den übergeordneten Eintrag ein.     
 
-
-
 Bei Sammlungen, in denen die Werke sehr ähnlich sind, ist es gut, einen vollständigen ersten Teileintrag anzulegen und den Datensatz mit der Funktion "Kopieren" zu duplizieren. Für die folgenden Datensätze müssen Sie dann nur noch Felder wie Titel und Seitenzahl etc. ändern.  
-
-
 
 Ein Haupteintrag einer Sammlung darf nicht mit einem weiteren Haupteintrag einer Sammlung verknüpft sein. Verwenden Sie stattdessen eine flachere Hierarchie durch einzelne Datensätze und erläutern Sie die Struktur, den Aufbau oder die Organisation des Objekts in einer Bemerkung.   
 
-
-
-
 ### Erfassung von Konvoluten
+
 Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind.  
 
 Es gibt zwei Möglichkeiten, einen Konvolut zu kennzeichnen. Die erste und einfachste Möglichkeit ist, die Einheiten mit der gleichen Signatur zu versehen; ein Vermerk ist ebenfalls hilfreich. Die zweite Möglichkeit ist die Verwendung der Vorlage für Konvolute.  
 
 Der Konvolutdatensatz dient dazu, alle gebundenen Einheiten mit einem einzigen Datensatz zu verknüpfen und dem Benutzer so einen bequemen Überblick über den gesamten Inhalt zu geben.  
 
-
 Die Datensätze für ein Konvolut sollten einfach gehalten werden. Wie bei den Datensätzen für einen Haupteintrag einer Sammlungen sollten die im Datensatz für ein Konvolut angegebenen Informationen für alle Komponenten des Bandes zutreffen. Erstellen Sie keine separaten Datensätze für mehrere zusammengesetzte Bände, die zusammengehören, wie z. B. ein Satz von Stimmbüchern, die nach Stimmtyp gebunden sind; diese sollten im selben Datensatz beschrieben werden. In vielen Fällen werden Sie eine Vielzahl von Feldern leer lassen.
-
-
 
 Sie werden entweder einen Manuskripteintrag oder einen Druckeintrag mit einem Konvolut-Datensatz verknüpfen. Diese werden unterschiedlich verknüpft.  
 
-    1. Erstellen Sie zunächst den Datensatz für das Konvolut, speichern Sie ihn und notieren Sie die RISM-Nummer.  
-    2. Bei Handschriften: Gehen Sie im Bearbeitungsmodus des Datensatzes für Ihr Manuskript in das Feld **Übergeordneter Eintrag** (773). Klicken Sie auf die zweite Schaltfläche, um nach dem Konvolut zu suchen.  
-    3. Bei Musikdrucken: Suchen Sie im Exemplareintrag das Feld **Zusammengebunden mit** (973) und klicken Sie auf die Lupe. Suchen Sie den Konvolut-Datensatz und wählen Sie ihn aus  
-
-
+1. Erstellen Sie zunächst den Datensatz für das Konvolut, speichern Sie ihn und notieren Sie die RISM-Nummer.  
+2. Bei Handschriften: Gehen Sie im Bearbeitungsmodus des Datensatzes für Ihr Manuskript in das Feld **Übergeordneter Eintrag** (773). Klicken Sie auf die zweite Schaltfläche, um nach dem Konvolut zu suchen.  
+3. Bei Musikdrucken: Suchen Sie im Exemplareintrag das Feld **Zusammengebunden mit** (973) und klicken Sie auf die Lupe. Suchen Sie den Konvolut-Datensatz und wählen Sie ihn aus  
 
 ### Erfassung von Kontrafacta   
 
@@ -50,20 +39,24 @@ Please note that RISM considers contrafacta to be separate from parody and parod
 
 Take note of the following fields when cataloging contrafacta. RISM ID no. 300234487, a sacred contrafactum of an aria from Josef Mysliveček's opera Il Bellerofonte, will be used as an example.
 
-**Composer (100)**    
+**Composer (100)**
+
 Enter the composer of the original music.
 
 - Mysliveček, Josef
 
 **Standardized title (240)**  
+
 Use the standardized title of the original piece. **Excerpts** may be added. Do not use **Arr**.
 
 - Il Bellerofonte. Excerpts
 
 **Alternative title (730)**  
+
 If there is a new, distinct standardized title for the piece in hand, you can enter it here. Do not enter text incipits here.
 
-**Subject headings (650)**  
+**Subject headings (650)**
+
 Add at least 3 subject headings (more if appropriate), in this order:  
 Contrafacta  
 Current genre  
@@ -74,12 +67,15 @@ Original genre
 - Operas
 
 **Description summary (520)**  
+
 Add a short description in English that explains the situation as a benefit to other RISM users.
 
 - Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte.
 
 **Language of text (041)**  
-Fill out both of these fields:  
+
+Fill out both of these fields:
+
 Language of text (041 $a): The current text of the source in hand  
 Language of original text (041 $h): Language of the original piece
 
@@ -87,6 +83,7 @@ Language of original text (041 $h): Language of the original piece
 - Language of original text: Italian
 
 **Text incipit (031 $t)**  
+
 You will enter two text incipits (use the + to add a new line).  
 The text incipit of the current text  
 The text incipit of the original text, if known, in square brackets.
@@ -128,7 +125,9 @@ The first subject heading should be **Compilations** and/or **Pasticcios**. The 
 
 **Description summary (520)**  
 Use this field to describe in general the nature of the source.  
+
 ##### Example:  
+
 Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
 
 **Alternate title (730)**  
@@ -157,8 +156,6 @@ Performances should be noted only as they relate to the compilation itself.
 702000642, 702000643: Several works by several composers used to create a new suite
 
 452505748: An opera pasticcio consisting of 3 acts by 3 different composers
-
-** **
 
 ### Erfassung von Parodien
 
@@ -215,8 +212,6 @@ Enter the text incipit of the source in hand. If the original text is known, ent
 
 All other fields, such as performance information, should relate only to the source in hand.
 
-** **
-
 ### Erfassung von gemischtem Material (manuscripts and printed items stored together)
 
 It is not uncommon for manuscript and printed items to be found together in the same folder or with the same shelfmark: for example, a printed score with handwritten parts, or a group of printed parts together with some handwritten ones.
@@ -226,26 +221,28 @@ Example: 280000006 is a record for 4 handwritten parts to an overture. 990055636
 
 It is not always feasible to create two records: perhaps your printed item does not contain enough information to create an adequate record. In such cases, proceed as follows: Catalog your material using a manuscript template. In the material description section, describe materials of one type (such as the manuscript materials). Add an additional material group, and describe the materials of the other type (such as the printed materials).   
 
-
-
 ### Erfassung von Noten in Zeitschriften
-There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.  
 
+There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.
 
-**Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.  
+**Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.
+
 ##### Example:  
+
 1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. There is one record for the collection parent record, and five individual entries for each piece.
 
 **Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context.  
-_Examples_:    
+
+##### Examples    
+
 991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784  
 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
 
-###   
 Erfassung von Musik in nicht-musikalischen Publikationen
 RISM enthält auch Werke, die in gedruckten Publikationen gefunden wurde, die nicht primär Musikdokumente sind. Der Schwerpunkt des RISM-Datensatzes liegt dennoch auf der Musik.   
 
 ##### Beispiel:   
+
 990026614: 3 Songs von John Isaac Hawkins, die in Charles Willson Peales _Discourse introductory to a course of lectures on the science of nature_ (1800) erschienen.  
 **Komponist/Autor (100)**: Komponist des Songs  
 **Nebeneintragung Person (700)**: Autor des Buchs mit Indikator **Sonstige Funktion**  
@@ -253,9 +250,7 @@ RISM enthält auch Werke, die in gedruckten Publikationen gefunden wurde, die ni
 **Einordnungstitel (240)**: Entsprechend den RISM-Richtlinien, beispielsweise **3 Songs**  
 **Material (300)**: Beschreibung des Notenmaterials, beispielsweise **1 score: 5 p.**   
 
-Teileinträge für jedes Werk können entsprechend den RISM-Richtlinien erstellt werden.  
-
-
+Teileinträge für jedes Werk können entsprechend den RISM-Richtlinien erstellt werden.
 
 ### Erfassung von Theoretika
 
@@ -280,22 +275,8 @@ Weitere Schlagwörter können hinzugefügt werden.
 
 Geben Sie Klavierbearbeitungen wie folgt an.
 
--
-
-Im Feld **Einordnungstitel (240):**
-
-  -
-
-Wähle **Bearbeitung** bei **Bearbeitung**.
-
-  -
-
-Unter **Besetzungshinweis** wird die Besetzung des Arrangements eingetragen, wie **pf** oder **V, pf**. Hier wird nicht die Originalbesetzung des Werks genannt.
-
--
-
-Im Feld **Besetzung (594)** wird die gesamte Besetzung des Arrangements eingetragen. Hier wird nicht die Originalbesetzung des Werks genannt.
-
--
-
-Im Feld **Material (300)** wird **keyboard score** für eine reine Klavierbearbeitung verwendet. Nutzen Sie **vocal**  **score** wenn es sich um eine Bearbeitung für Gesang und Klavier handelt.
+- Im Feld **Einordnungstitel (240):**
+- Wähle **Bearbeitung** bei **Bearbeitung**.
+- Unter **Besetzungshinweis** wird die Besetzung des Arrangements eingetragen, wie **pf** oder **V, pf**. Hier wird nicht die Originalbesetzung des Werks genannt.
+- Im Feld **Besetzung (594)** wird die gesamte Besetzung des Arrangements eingetragen. Hier wird nicht die Originalbesetzung des Werks genannt.
+- Im Feld **Material (300)** wird **keyboard score** für eine reine Klavierbearbeitung verwendet. Nutzen Sie **vocal score** wenn es sich um eine Bearbeitung für Gesang und Klavier handelt.

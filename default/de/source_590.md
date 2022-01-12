@@ -29,7 +29,7 @@ Sie können Stimmen einer Gruppe in einer Zeile zusammenfassen, als auch jeweils
 Durch Doppelpunkt getrennt folgen die Paginierungsabkürzungen: „f.“ für folio (Folio), „p.“ für pagina (Seite), „lvs.“ für leaves (Papierbogen) und „fds.“ für folds (Lagen). Bei Einzeleinträgen von Collections/Konvoluten wird die genaue Seitenzahl, auf welchen sich das entsprechende Werk befindet, angegeben, wobei der Indikator „p.“ bzw. „f.“ bzw. „lvs.“ bzw. „fds.“ vorangestellt wird.  
 
 
-_Beispiele_:  
+##### Beispiele  
 **Vorhandene Stimmen (590 $a)**: Solo: S 1, 2 (2x), A, T, B  
 **Umfang der Stimmen (590 $b)**: 3, 2, 2, 3, 3, 4 p.
 

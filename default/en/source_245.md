@@ -25,7 +25,7 @@ If no title is available, enter, in English: **[without title]**
 
 See also the list of **Standard terms**.
 
-_Examples_:
+##### Examples
 
 - [title page:] Vesperae | chorales unà cum | organo cantandae | pro | Choro Ingolstadiensi,
 - [without title]

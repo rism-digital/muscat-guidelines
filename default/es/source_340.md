@@ -23,7 +23,7 @@ Cualquier agregado o comentario sobre la técnica de impresión puede explicarse
 
 Si una fuente incluye muchas técnicas de impresión, puede repetir el campo para consignar cada técnica. Explíquelo mediante una nota en el campo **Nota general (500 $a)**.
 
-_Ejemplo:_  
+##### Ejemplo  
 Pieza de música grabada que incluye una portada litografiada:  
 **Técnica de producción específica (340 $d):** Grabado  
 **Técnica de producción específica (340 $d):** Litografía  

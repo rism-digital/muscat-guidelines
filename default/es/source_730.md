@@ -16,7 +16,7 @@ Tipos de alternativas posibles:
 - Obras que no presentan un título individual claro (Cantata Festiva, _Fürstenlied_)
 - Títulos, especialmente aquellos por los cuales un ítem es conocido a gran escala (particularmente pertinente en el caso de las ediciones impresas).
 
-_Ejemplos_:
+##### Ejemplos
 
 Título uniforme: _Don Giovanni_  
 Título adicional: _Der steinerne Gast_
@@ -40,7 +40,7 @@ En el caso de los conjuntos de variaciones, registre el nombre del tema original
 
 En el caso de las inserciones, registre el título de la ópera u obra mayor en este campo y seleccione el calificador **Inserciones** en el campo **Tipo especial de fuente (730 $k)**. Para las inserciones tenga también en cuenta los lineamientos planteados al respecto del campo **Inserciones (787)**.
 
-_Ejemplos_:  
+##### Ejemplos  
 Título uniforme: _Variations_  
 Título adicional: _Ein Mädchen oder Weibchen_ [más  **Variaciones** en el campo **Declaración de arreglo (730 $o)**] 
 

@@ -1,5 +1,4 @@
-### **A barra de menu superior**
-
+### A barra de menu superior
 **Administração** leva à configuração do MARC, que permite ver todos os campos MARC utilizados no Muscat (fontes e registros de autoridade).
 
 **Idioma** permite que se modifique o idioma do Muscat.
@@ -31,7 +30,7 @@ Use os **links** na parte superior para ir direto para uma seção do registro. 
 
 **Mostrar todas as seções** permite ver todas as seções do registro. Isto é útil quando se quer voltar para o registro completo depois de trabalhar em uma seção específica.
 
-**Mostrar Prévisualização** permite ver o registro sem salvá-lo. Para retornar ao modo de edição, clique em **Ocultar**  **Prévisualização**.
+**Mostrar Prévisualização** permite ver o registro sem salvá-lo. Para retornar ao modo de edição, clique em **Ocultar Prévisualização**.
 
 **Salvar e continuar editando** permite salvar o trabalho e continuar no modo de edição. Salve frequentemente, para evitar a perda de trabalho. Depois que um registro é salvo pela primeira vez, o número RISM é atribuído automaticamente.
 

@@ -1,4 +1,4 @@
-## **Stato della scheda**
+## Stato della scheda
 
 Lo **stato della scheda** determina quali schede sono pubblicate nel [catalogo RISM online](https://opac.rism.info/index.php?id=4) e sono dunque visibili pubblicamente. Lo stato può essere cambiato a mano.
 

@@ -21,7 +21,7 @@ Drei Knaben
 
 Wprowadzić role dramatyczne, które pojawiają się w źródle, jeśli różnią się one pisownią od formy ujednoliconej podanej powyżej.
 
-_Przykład_:  
+##### Przykład  
 Pappageno  
 
 **Dotyczy obu pól:** Nie umieszczać po głównej nazwie przedimków. Tam, gdzie się da, role należy podać od najwyższej do najniższej. Należy użyć znaku zapytania, aby wskazać, które informacje są niepewne. Nie używać przecinków.

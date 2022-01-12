@@ -27,7 +27,7 @@ Insira o título do movimento e o tempo ou indicações similares, se especifica
 
 Insira a parte vocal ou instrumental usando a lista de **abreviaturas de instrumentos do RISM**. Insira **V** para uma parte vocal não especificada. Insira **i** para uma parte instrumental não especificada. Escreva os instrumentos transpositores na altura real. Indique a afinação de um instrumento no campo **Nota geral**.
 
-_Exemplos_:  
+##### Exemplos  
 pf  
 T coro  
 org with text
@@ -81,7 +81,7 @@ xFC[G] = Fá e Dó são sustenidos na fonte, mas a peça é claramente em Lá ma
 
 Insira os compassos como frações. As seguintes expressões também são permitidas:
 
-**c** = tempo comum ou  tempus imperfectum cum prolatione imperfecta  
+**c** = tempo comum ou tempus imperfectum cum prolatione imperfecta  
 **c/** = alla breve  
 **3** = proportio tripla; também **1**, **2**, etc.  
 **c3** = proportio tripla  
@@ -153,7 +153,7 @@ C, D, E, F, G, A, B
 **5. Ornamentos**   
 g = acciaccatura (sem valor rítmico, precede o nome da nota)  
 q = appoggiatura (com valor rítmico, precede o nome da nota)  
-qq...r = várias  appoggiaturas ou ornamentos que formam uma unidade (com valor rítmico)
+qq...r = várias appoggiaturas ou ornamentos que formam uma unidade (com valor rítmico)
 
 **6. Pausas**
 

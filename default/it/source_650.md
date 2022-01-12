@@ -8,4 +8,4 @@ La parola chiave deve essere valida per l’intera composizione o la composizion
 
 Ogni scheda deve riportare un soggetto in relazione al titolo uniforme. Questo campo è particolarmente importante per composizioni il cui genere non è menzionato nel titolo uniforme. Si possono selezionare più soggetti; è compito del catalogatore scegliere l’ordine più appropriato. Alcuni tipi di composizione vanno descritti con piu di un soggetto, ad esempio "Contrafacta" o "Inserts".
 
-Nota che per certi tipi di genere utilizzati come titoli uniforme, viene utilizzato un **Soggetto (650)** corrispondente. Si prega di consultare l’appendice **Titolo uniforme – Parola chiave / Soggetto**  nelle **Regole di catalogazione** per un aiuto.
+Nota che per certi tipi di genere utilizzati come titoli uniforme, viene utilizzato un **Soggetto (650)** corrispondente. Si prega di consultare l’appendice **Titolo uniforme – Parola chiave / Soggetto** nelle **Regole di catalogazione** per un aiuto.

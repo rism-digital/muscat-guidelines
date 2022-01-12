@@ -52,7 +52,7 @@ Można również wskazać pojedyncze strony lub karty w obrębie zbioru rękopis
 
 Nie należy tutaj podawać objętości partii. Objętość wpisuje się w polu „ **Głosy** ”** (590)**.
 
-_Przykłady_:  
+##### Przykłady  
 1 partytura: 35 str.  
 1 partytura skrócona: 8 kart  
 1 partytura tabulaturowa: str. 5-8  
@@ -113,7 +113,7 @@ znak drukarski
 
 Podać wymiary źródła: wysokość x szerokość w cm. Ułamki centymetrów można zaznaczyć przecinkiem lub kropką. Drugi zestaw wymiarów można podać w nawiasach. Jeśli istnieją więcej niż dwa różne zestawy wymiarów, należy wpisać angielskie wyrażenie **Różne rozmiary** ; dalszego rozwinięcia można dokonać w polu **Uwaga ogólna (500)**. Formaty takie jak **octavo**, **quarto** itp. należy wskazać w polu **Format książki (340)**.
 
-_Przykłady_:  
+##### Przykłady  
 25,5 x 30,5 cm.  
 36 x 25,5 cm  
 25,5 (21,5) x 32 (28,5) cm
@@ -122,7 +122,7 @@ Różne rozmiary
 
 W przypadku pozycji drukowanych, w razie potrzeby można wprowadzić wymiary zadrukowanej powierzchni. Należy stosować oznaczenia takie jak „powierzchnia zadrukowana” lub „numer wydawniczy”. Pomiar ten należy oddzielić od pomiaru źródła za pomocą średnika. Jeśli wymiary są różne, należy zmierzyć stronę tytułową i pierwszą stronę z nutami (w tym podając, w razie potrzeby, podając co zmierzono).
 
-_Przykłady_:  
+##### Przykłady  
 20 x 16 cm; numer wydawniczy 18 x 15,5 cm
 
 Numer wydawniczy, strona tytułowa: 20,2 x 27,7 cm; numer wydawniczy, nuty: 20,4 x 28,2 cm

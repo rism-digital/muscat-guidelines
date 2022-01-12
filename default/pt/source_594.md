@@ -83,11 +83,9 @@ org
 
 
 #### Número (594 $c)
-
 Indique aqui o número total de partes. Se uma obra inclui duas partes para o mesmo instrumento, insira o instrumento uma vez no campo **Formação** e o valor "2" no campo **Número**.
 
-_Exemplos__:_
-
+##### Exemplos
 - Para uma obra com violino 1 e violino 2:  
 vl  
 2
@@ -101,4 +99,4 @@ ob
 cl  
 1
 
-_Nota MARC: Este campo no OPAC é 594 $a. O valor para $a é gerado durante a exportação para o OPAC_ _._
+_Nota MARC: Este campo no OPAC é 594 $a. O valor para $a é gerado durante a exportação para o OPAC._

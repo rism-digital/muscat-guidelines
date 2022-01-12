@@ -1,11 +1,11 @@
 ### Material (300)
 **Pflichtfeld**  
 
-Beachten Sie, dass bei der Materialbeschreibung sowohl die Felder **Material** **(300)** als auch die Unterkategorien **Quellenart, Umfang** **(300 $a)** wiederholt werden können. Sie können jede Ausgabeform in einem eigenen Block angeben.
+Beachten Sie, dass bei der Materialbeschreibung sowohl die Felder **Material(300)** als auch die Unterkategorien **Quellenart, Umfang(300 $a)** wiederholt werden können. Sie können jede Ausgabeform in einem eigenen Block angeben.
 
 Beispiel: es liegen eine Partitur und 10 Stimmen vor. Hier wird die Partitur in einem Block eingetragen und für die 10 Stimmen **Material (300)** wiederholt. Dies Trennung erlaubt die präzise Zuordnung von unterschiedlichen Datierungen, Schreibern, Formaten, Wasserzeichen etc.
 
-**Quellenart, Umfang** **(300 $a)**
+**Quellenart, Umfang(300 $a)**
 
 Dieses Feld enthält Angaben zur **Ausgabeform, Anzahl und Umfang** der vorliegenden Quelle. Vorangestellt wird die Anzahl der vorhandenen Exemplare. Die Angabe "X" kennzeichnet eine unbekannte Anzahl. Die Angaben zum Stimmenmaterial (auch Tabulaturen) werden im Feld **Vorhandenes Stimmenmaterial (590)** gemacht.
 
@@ -114,7 +114,7 @@ Druckermarke
 
 Die Formatangabe richtet sich nach der Formel Höhe x Breite und ist in cm anzugeben. Ein weiteres Format kann zusätzlich in runden Klammern angegeben werden. Bei mehr als zwei Formaten erfolgt die Angabe **Different sizes**. Weitere Ausführungen sind dann im Feld **Bemerkungen (500)** möglich. Formate wie **Oktav**, **Quart** oder **Quart klein** werden im Feld **Buchformat (340)** eingetragen.
 
-_Beispiele_:  
+##### Beispiele  
 25,5 x 30,5 cm  
 36 x 25.5 cm  
 25,5 (21,5) x 32 (28,5) cm  
@@ -124,7 +124,7 @@ Bei Musikdrucken können Sie zusätzlich zu den Abmessungen der Quelle auch das 
 
 
 
-_Beispiele_:  
+##### Beispiele  
 20 x 16 cm; plate mark 18 x 15,5 cm  
 Plate mark, title page: 20,2 x 27,7 cm; plate mark, music: 20,4 x 28,2 cm  
 Printed area, title page: 20,2 x 27,7 cm; printed area, music: 20,4 x 28,2 cm

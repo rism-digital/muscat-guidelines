@@ -4,7 +4,7 @@ Questo campo è utilizzato per i numeri di lastra, che tipicamente si trovano su
 
 Inserisci il numero di lastra esattamente come compare nella fonte. Puoi aggiungere numeri arabi tra parentesi se il numero di lastra utilizza numeri romani.
 
-_Esempi_:  
+##### Esempi  
 B. & H. 8533  
 S. B. 2. 11  
 424  

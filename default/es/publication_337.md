@@ -1,8 +1,9 @@
+### Tipo de medios (337)  
+
 #### Tipo de medios (337 $a)  
 Campo obligatorio.  
 
 Seleccione el tipo de medio de la siguiente lista:
-
 - **Medio impreso**
 - **Recurso electrónico:** como una base de datos, un sitio web o un catálogo de obras en línea
 - **E-book**

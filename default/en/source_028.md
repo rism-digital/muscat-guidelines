@@ -7,7 +7,7 @@ copied from a printed music edition.
 Enter the plate number exactly as it appears on the source. You may add arabic numerals in square brackets if the plate number
 uses roman numerals.
 
-_Examples_:
+##### Examples
 
 - B. & H. 8533
 - S. B. 2. 11

@@ -1,15 +1,15 @@
-### Parallel form of name (MARC 510; ISDIAH 5.1.3)
+### Parallel form of name (510; ISDIAH 5.1.3)
 
 This field gives various forms of an institution's name, including translations. Relationships to other institutions can
 also be recorded here.
 
-#### Parallel form of name (MARC 510 $a)
+#### Parallel form of name (510 $a)
 
 Enter various forms in which the authorized form of name of an institution occurs as well as translations of the name in
 other languages, preferably in English. Original names in non-Latin scripts can also be entered here. Enter each name on
 a separate line.
 
-_Examples_:
+##### Examples
 
 - The National Library of Wales [for Llyfrgell Genedlaethol Cymru]
 - Norwegian State Academy of Music, The Library [for Norges musikkhøgskole, Biblioteket]

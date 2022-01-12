@@ -16,7 +16,7 @@ Der Typ gibt die physische Form der Quelle wieder. Die Typen werden in Englisch 
 - Treatise, handwritten = Theoreticum, handschriftlich
 - Treatise, printed = Theoreticum, gedruckt  
 - Music periodical = Musikzeitschrift  
-- Other =  Sonstige  
+- Other = Sonstige  
 
 Als **Autograph** gilt eine Handschrift nur, wenn der Komponist sie ganz oder zu großen Teilen selbst geschrieben hat. Ein **fragliches Autograph** zeigt einen gewissen Grad an Ungewissheit an. Bei Autographen und fraglichen Autographen wird der Komponistenname nicht als Schreibername **(700)** angegeben. Nur wenn der Schreiber sicher ist, aber fraglich, ob er auch der Komponist ist, steht der Schreiber im Feld **Nebeneintrag Personenname (700)** und derselbe Name als **Komponist/Autor (100 $a)** mit mutmaßlicher Zuschreibung.
 

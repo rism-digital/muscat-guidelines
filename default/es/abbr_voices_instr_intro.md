@@ -1,7 +1,7 @@
-Contenidos:
+### RISM instrument abbreviations
 
+#### Contenidos
 - Abreviaturas y conceptos generales
-
   - General
   - Añadidos para indicar el rango de cualquier instrumento   
   - Añadidos a cualquier instrumento para indicar un tipo

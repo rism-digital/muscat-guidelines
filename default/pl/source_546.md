@@ -4,7 +4,7 @@ Wprowadzić uwagę o języku (językach) używanym w źródle. W razie wypełnie
 
 #### 
 
-_Przykłady_:  
+##### Przykłady  
 Prawdopodobnie język włoski.  
 Dialekt berneński  
 Dedykacja po łacińsku. Wstęp w języku niemieckim.

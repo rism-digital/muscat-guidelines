@@ -12,7 +12,7 @@ The authority file for institutions (corporate names) is for non-persons that ap
 
 ## Liturgical festivals
 
-The index of  liturgical festivals collects religious holidays and feast days. New liturgical festivals may be added in consultation with the Editorial Center.
+The index of liturgical festivals collects religious holidays and feast days. New liturgical festivals may be added in consultation with the Editorial Center.
 
 ## Personal names
 
@@ -28,7 +28,7 @@ The index of places collects the names of locations, including historical geogra
 
 ## Secondary literature
 
-This bibliographic database contains information about all forms of secondary literature: catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc.  By clicking on "Create," a new work of secondary literature may be added.
+This bibliographic database contains information about all forms of secondary literature: catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. By clicking on "Create," a new work of secondary literature may be added.
 
 ## Subject headings
 

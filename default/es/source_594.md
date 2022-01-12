@@ -6,7 +6,7 @@
 
 **Campo requerido.**
 
-La plantilla u orgánico (también conocida como medio de interpretación, orquestación o instrumentación –que aquí incluye también partes vocales–) de la obra, que se presentó de manera abreviada en el **Resumen de**  **plantilla/orgánico**, se registra en su totalidad en este campo. Por lo tanto, el **Resumen de**  **plantilla/orgánico** siempre debe guardar una correlación con los detalles que ingrese en esta descripción completa de las partes instrumentales y vocales involucradas en la composición.
+La plantilla u orgánico (también conocida como medio de interpretación, orquestación o instrumentación –que aquí incluye también partes vocales–) de la obra, que se presentó de manera abreviada en el **Resumen de plantilla/orgánico**, se registra en su totalidad en este campo. Por lo tanto, el **Resumen de plantilla/orgánico** siempre debe guardar una correlación con los detalles que ingrese en esta descripción completa de las partes instrumentales y vocales involucradas en la composición.
 
 Si la fuente no explicita la configuración total de la plantilla/orgánico, ésta debe inferirse a partir del título o del material mismo. Si la plantilla/orgánico no se conoce, escriba **_no indication_** (en inglés). Cualquier falta de certeza puede consignarse en detalle en el campo **Nota general (500)**.
 
@@ -35,7 +35,7 @@ Consigne la plantilla/orgánico en el siguiente orden:
 
 Ordene las partes desde el registro más agudo al más grave. Ingrese un instrumento por línea. Añada posibilidades de plantilla/orgánico alternativas a los requerimientos originales entre paréntesis.
 
-_Ejemplos_:  
+##### Ejemplos  
 S  
 A  
 T  
@@ -72,4 +72,4 @@ ob
 cl  
 1
 
-_Nota MARC:_ _este campo  __es 594 $a __ en el OPAC. El valor de $a se genera durante la exportación al OPAC._
+_Nota MARC: este campo es 594 $a en el OPAC. El valor de $a se genera durante la exportación al OPAC._

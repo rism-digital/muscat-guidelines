@@ -11,13 +11,13 @@ Pode-se indicar aqui a(s) técnica(s) usada(s) na produção da fonte. Se precis
 - **Fac-símile**: uma reprodução feita com a intenção de simular, da forma mais parecida possível, a aparência física de um trabalho anterior
 - **Litografia**
 - **Processo foto-reprodutivo**: Inclui Cyanotype, diazo print, blueprint
-- **Reprodução**: muitos tipos de reprodução mecânica são incluídos aqui, tais como fotocópia,  xerocópia, cópia heliográfica
+- **Reprodução**: muitos tipos de reprodução mecânica são incluídos aqui, tais como fotocópia, xerocópia, cópia heliográfica
 - **Transparência**
 - **Datilografia**
 - **Tipografia**: inclui música impressa usando tipos móveis
 - **Xilogravura**  
 
-Quaisquer acréscimos ou comentários sobre a técnica de impressão pode ser inseridos no campo **Nota geral** **(500 $a)**.
+Quaisquer acréscimos ou comentários sobre a técnica de impressão pode ser inseridos no campo **Nota geral(500 $a)**.
 
 Se uma fonte inclui múltiplas técnicas de impressão, pode-se repetir o campo para indicar cada uma das técnicas. Inclua uma nota no campo **Nota geral (500 $a)** para explicar.
 

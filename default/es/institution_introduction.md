@@ -1,13 +1,7 @@
 El Directorio de Repositorios de Música de RISM-C es un subproyecto del Grupo de Proyectos de la IAML sobre la Serie C de RISM, un proyecto destinado a localizar y describir fondos y colecciones de archivos de música a nivel de fondo/colección, utilizando la Norma Internacional para la Descripción de Instituciones con Fondos de Archivo (ISDIAH). Un componente necesario para la descripción son los datos sobre las instituciones conservadoras, su ubicación y su directorio. El objetivo es actualizar el _Directorio de Bibliotecas de Investigación Musical_ desarrollado por RISM. El proyecto comenzará con dos volúmenes que contienen quince países europeos, publicados en 2001 (2.ª edición), compilados y revisados por Elizabeth Davies.
 
-  
-
 La relación entre este proyecto de actualización y el proyecto de la Serie C de RISM radica en la idea de añadir información de archivo a la descripción de cada institución, así como una sección especial con información sobre los fondos musicales conservados en cada institución, presentada en forma de una simple lista con los nombres de los fondos o colecciones. Esto proporcionará una guía inicial con información sobre la ubicación de los fondos y colecciones previo a la descripción completa de los mismos.
-
-  
 
 La idea es involucrar tanto a las ramas nacionales de la IAML como a los grupos nacionales de RISM en esta actualización del directorio C de RISM. De esta manera, el subproyecto implicará una colaboración entre todas las ramas nacionales de la IAML y las oficinas nacionales de RISM. El resultado estará disponible en línea a través de los sitios web de RISM y de la IAML, y será un poderoso instrumento para localizar bibliotecas musicales, archivos y centros de documentación, así como sus fondos.
 
-  
-
-En esta guía se presentan los lineamientos para los asuntos prácticos que implica la actualización de la versión en papel del directorio, transformándolo en una base de datos en línea creada por el Centro Editorial de RISM. Los campos de esta base de datos están ordenados de acuerdo con MARC21 y los lineamientos se ajustan a ISDIAH de modo de permitir la compatibilidad. 
+En esta guía se presentan los lineamientos para los asuntos prácticos que implica la actualización de la versión en papel del directorio, transformándolo en una base de datos en línea creada por el Centro Editorial de RISM. Los campos de esta base de datos están ordenados de acuerdo con MARC21 y los lineamientos se ajustan a ISDIAH de modo de permitir la compatibilidad.

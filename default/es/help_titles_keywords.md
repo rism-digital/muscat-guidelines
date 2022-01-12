@@ -1,5 +1,4 @@
-## Apéndice: Títulos uniformes – Descriptores
-
+### Apéndice: Títulos uniformes – Descriptores
 Esta sección refiere a situaciones de catalogación en las que los géneros se usan como títulos normalizados (véanse los lineamientos para **Título normalizado (240)**). En muchos casos, el Título normalizado y el Descriptor (650) resultarán idénticos, como sucede en el caso de _Symphonies_ [Sinfonías]\*_._ Sin embargo, en otros casos se usa un descriptor correspondiente pero no idéntico.
 
 Pueden plantearse diferencias en las siguientes situaciones: si el mismo descriptor aplica tanto a géneros vocales como instrumentales, encontrará las palabras **(voc.)** o **(inst.)** tras el término, entre paréntesis. También pueden aparecer especificaciones tales como (dances) [danzas] o (stage) [escenario/escénico] tras el término principal y entre paréntesis.
@@ -39,11 +38,9 @@ Utilice  **Wind music** tanto como título uniforme y como descriptor.
 
 9. En casos de completa falta de certeza, como sucede con un orgánico desconocido, ingrese **Pieces** como título uniforme y **Pieces** como descriptor.
 
-
-
 La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Por favor, tenga en cuenta que la lista no es abarcativa.
 
-\*[**Nota del traductor: ** importa advertir que gran parte de los géneros que se usan como Título uniforme y Descriptor se colocan en inglés y en plural. En las siguientes tablas de ejemplos, la columna izquierda presenta, con fines puramente informativos, traducciones al español de los términos normalizados; sin embargo, para los registros deben seguirse, según corresponda, las columnas central y derecha].
+\*[**Nota del traductor:** importa advertir que gran parte de los géneros que se usan como Título uniforme y Descriptor se colocan en inglés y en plural. En las siguientes tablas de ejemplos, la columna izquierda presenta, con fines puramente informativos, traducciones al español de los términos normalizados; sin embargo, para los registros deben seguirse, según corresponda, las columnas central y derecha].
 
 #### Música instrumental y vocal en general  
 
@@ -108,8 +105,7 @@ Fugues |
 | Vercetos / Versos | Versets | Versets (inst.) |
 | Virelais | Virelais | Virelais (forme fixe) |
 
-####   
-Música vocal sacra
+#### Música vocal sacra
 
 | _Género en español  
 (sólo referencia)    _ | _Usar como  
@@ -121,10 +117,7 @@ correspondiente_ |
 | Laudes | Laudes | Hours of the Office |
 | Matutina, Maitines | Matutina | Hours of the Office |
 
-
-####   
-Música para la escena, el teatro, etc.
-
+#### Música para la escena, el teatro, etc.
 _Para géneros de las partes o números individuales, consulte la sección sobre música vocal e instrumental._
 
 | _Género en español  
@@ -152,10 +145,7 @@ correspondiente_ |
 | Tutores | Tutors | Tutors (inst.) |
 | Tutores | Tutors | Tutors (voc.) |
 
-
-
 #### Danzas
-
 | _Género en español  
 (sólo referencia)    _ | _Usar como  
 título uniforme_ | _Descriptor   

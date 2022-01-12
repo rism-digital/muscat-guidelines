@@ -1,18 +1,18 @@
-#### Instituição (MARC 110 $a; ISDIAH 5.1.2)
+### Instituição (110; ISDIAH 5.1.2)
 Este campo cria um ponto de acesso autorizado único, que identifica exclusivamente a instituição detentora do acervo.
 
-####Forma autorizada do nome (110 $a)
+#### Forma autorizada do nome (110 $a)
 Insira o nome atual da instituição no idioma local. Se o idioma local é escrito em um alfabeto não-latino, transcreva de uma forma transliterada.
 
 Quando bibliotecas, arquivos ou centros de documentação pertencem a uma instituição maior, insira o nome da instituição maior e acrescente a unidade subordinada separada por uma vírgula.  
 
-_Exemplos_:  
-Privatsammlung Cees Verheijen  
-Private collection Christopher Hogwood  
-Llyfrgell Genedlaethol Cymru  
-Norges musikkhøgskole, Biblioteket  
-ERESBIL - Musikaren Euskal Artxiboa  
-Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossi
+##### Exemplos  
+- Privatsammlung Cees Verheijen
+- Private collection Christopher Hogwood
+- Llyfrgell Genedlaethol Cymru
+- Norges musikkhøgskole, Biblioteket
+- ERESBIL - Musikaren Euskal Artxiboa
+- Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossi
 
 #### Local (110 $c)
 Insira a cidade da instituição. Se o idioma local é escrito em um alfabeto não-latino, transcreva em uma forma transliterada.
@@ -24,14 +24,13 @@ Siglas de instituições são elaboradas com três elementos: uma abreviatura de
 
 No caso em que uma instituição tenha modificado seu nome, ainda será mantida para ela a mesma sigla. (Por ex.: CZ-Bu)
 
-
-_Exemplos_:  
-GB-Cu = United Kingdom, Cambridge, University Library  
-F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique.
+##### Exemplos
+- GB-Cu = United Kingdom, Cambridge, University Library  
+- F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique
 
 No caso de coleções privadas, o último nome do proprietário é adicionado ao código de cidade em letras minúsculas.
 
-##### Exemplo:  
-I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti.
+##### Exemplo  
+- I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti.
 
 O RISM usa siglas de instituições desde sua fundação em 1952 em todas as suas publicações e catálogos. Elas são também utilizadas em todas enciclopédias musicais internacionais padrão e em publicações musicológicas.

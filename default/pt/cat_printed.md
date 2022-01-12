@@ -1,13 +1,11 @@
-## **Âmbito da música impressa no RISM**
-
+## Âmbito da música impressa no RISM
 O RISM procura documentar a música impressa desde os primórdios da impressão musical até cerca de 1900.
 
 Ao longo do século 20 e até o presente, vemos um aumento acentuado na publicação e na distribuição de música comercial. A quantidade de música considerada “rara” ou não-documentada em outros lugares é bastante menor quanto comparada aos séculos anteriores. Música publicada por editores modernos, impressa em grandes quantidades, amplamente disponíveis e destinadas ao uso ativo por usuários de bibliotecas seriam melhor documentadas em bases de dados cooperativas tais como o [WorldCat](http://www.worldcat.org/).
 
 O RISM considerará, caso a caso, a possibilidade de documentar música publicada no século XX por editoras extintas ou por editores regionais de reconhecida importância histórica; assim como edições modernas incluídas no decorrer da catalogação de uma coleção com valor histórico, como a biblioteca particular de um indivíduo.
 
-## **Quando criar um novo registro (música impressa) **
-
+## Quando criar um novo registro (música impressa)
 O RISM trata cada manuscrito como um item único e por isso cada manuscrito tem o seu próprio registro RISM. Os materiais impressos, no entanto, são diferentes, pois vários exemplares da mesma edição podem ser descritos usando o mesmo registro (nesse caso, terá apenas de adicionar as informações do seu material). Porém, variantes significativas significam que um novo registro deve ser criado.
 
 Enumeram-se a seguir diretrizes sobre as variantes que justificam, ou não, a criação de um novo registro. (Esta seção baseia-se fortemente em [Descriptive Cataloging of Rare Materials (Music)](http://http://rbms.info/dcrm/).
@@ -73,7 +71,7 @@ Opção 1, a solução rápida: se a sua instituição tem apenas uma das sinfon
 
 2. Opção 2, uma solução melhor, mas leva mais tempo: **Informe a Redação Central** sobre este registro e o dividiremos em três, um para cada sinfonia. Acrescente, então, os seus materiais ao registro da sinfonia correspondente.
 
-## **Títulos uniformes para música impressa **
+## Títulos uniformes para música impressa
 
 **Títulos distintivos **
 
@@ -81,7 +79,7 @@ A música impressa apresenta títulos distintivos mais frequentemente do que a m
 
 1.
 
-**Ortografia****  **  
+**Ortografia**  
 Insira os títulos uniformes usando ortografia moderna, mas não corrija usos arcaicos ou dialetos/regionalismos. Alterações frequentes incluem v para u, i para j, y para i, e uu para w. A Redação Central pode ajudar no caso de línguas estrangeiras pouco conhecidas. Variações adicionais podem ser inseridas no campo **Título adicional (730)**.   
 
 ##### Exemplo:   
@@ -89,10 +87,10 @@ RISM A/I: RR 3030c
 Título na fonte: Musicalische Grab=schrifft.   
 Título uniforme: Musikalische Grabschrift
 
-2. **Derivar um título uniforme**  ** **  
-Títulos uniformes devem consistir do título do impresso até a uma quebra natural, normalmente uma vírgula,  ponto final ou uma declaração do autor, instrumentação, número ou impressão. Às vezes, um título distintivo aparece em uma outra página que não a página de título.  
+2. **Derivar um título uniforme**    
+Títulos uniformes devem consistir do título do impresso até a uma quebra natural, normalmente uma vírgula, ponto final ou uma declaração do autor, instrumentação, número ou impressão. Às vezes, um título distintivo aparece em uma outra página que não a página de título.  
 
-> _Exemplos_:   
+> ##### Exemplos   
 > RISM A/I: B 805   
 > Título na fonte: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza   
 > Título uniforme: Vezzo di perle musicali
@@ -103,10 +101,9 @@ Títulos uniformes devem consistir do título do impresso até a uma quebra natu
 
 
 **Títulos genéricos **
+Mesmo os títulos genéricos, especialmente em impressos antigos, são frequentemente citados na literatura como se fossem títulos distintivos. Use o campo **Título adicional (730)** para registrar estes títulos de forma normalizada. Para orientação, consulte obras de referência padrão como o Grove e o MGG, e arquivos de autoridades da [Library of Congress](http://id.loc.gov/authorities/names.html) ou [VIAF](http://www.viaf.org/). Se o título indica que o item tem uma afiliação com outro item, como libro/Buch/livre ou Teil/part/tomus, insira o componente na linguagem original (mas com ortografia normalizada) e o algarismo depois do título.  
 
-Mesmo os títulos genéricos, especialmente em impressos antigos, são frequentemente citados na literatura como se fossem títulos distintivos. Use o campo **Título adicional (730)** para registrar estes títulos de forma normalizada. Para orientação, consulte obras de referência padrão como o Grove e o MGG, e arquivos de autoridades da [Library of Congress](http://id.loc.gov/authorities/names.html) ou [VIAF](http://www.viaf.org/). Se o título indica que o item tem uma afiliação com outro item, como libro/Buch/livre ou Teil/part/tomus, insira o componente na linguagem original (mas com ortografia normalizada) e o algarismo depois do título.    
-_Exemplos_:
-
+##### Exemplos
 RISM A/I: P 687   
 Título na fonte: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI   
 Título uniforme: 6 Masses   
@@ -117,6 +114,5 @@ Título na fonte: Ander Theil | Der Preussischen | Fest-Lieder/ | Von Ostern an 
 Título uniforme: Preussische Festlieder   
 Título adicional: Preussische Festlieder, Teil 2
 
-## **Múltiplos exemplares em uma instituição**
-
+## Múltiplos exemplares em uma instituição
 Se sua instituição possui múltiplos exemplares da mesma edição impressa, crie um registro de propriedade para cada exemplar.

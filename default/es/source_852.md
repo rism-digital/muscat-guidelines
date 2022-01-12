@@ -12,7 +12,7 @@ Ingrese la sigla del repositorio que conserva la fuente. Este campo está vincul
 
 Ingrese información de localización más específica, en particular en el caso de repositorios grandes, si es que esta información no está dada en la misma sigla. Ingrese el nombre del departamento en el idioma local. Puede incluir una traducción a su idioma de catalogación entre corchetes.
 
-_Ejemplos_:  
+##### Ejemplos  
 Departamento de música  
 _Collezioni speciali_  
 _Zakład Zbiorów Muzycznych_ [Departamento de música]
@@ -34,7 +34,7 @@ Este campo está disponible cuando se cargan registros de ejemplares de música 
 
 Las particellas faltantes deben registrarse en el campo **Nota general (500)**.
 
-_Ejemplos_:  
+##### Ejemplos  
 vl only  
 Coro S, A, B only  
 vol. 1, 3 only  

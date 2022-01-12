@@ -1,6 +1,6 @@
 #### Nome di ente aggiuntivo (710)
 
-Questa parte appare due volte per ogni fonte. Nella sezione  **Persone e istituzioni**  riporta tutte le istituzioni, organizzazioni o altre collettività coinvolte o menzionate sulla fonte, e nella sezione  **Descrizione del materiale**  puoi riportare nomi di enti nel gruppo stesso che li riguarda, specialmente se ve ne è più di uno.
+Questa parte appare due volte per ogni fonte. Nella sezione  **Persone e istituzioni** riporta tutte le istituzioni, organizzazioni o altre collettività coinvolte o menzionate sulla fonte, e nella sezione  **Descrizione del materiale** puoi riportare nomi di enti nel gruppo stesso che li riguarda, specialmente se ve ne è più di uno.
 
 Inserisci qui gli editori che portano il nome di una persona ma esercitano la funzione di case editrici (Pleyel, André ecc.). In caso di pubblicazioni presso l'autore, inserisci il nome della persona nella sua forma naturale, ad esempio Bernhard Christoph Breitkopf.
 
@@ -18,7 +18,7 @@ Seleziona un indicatore per descrivere il livello di certezza dell’attribuzion
 - **Presunta** significa che il nome è presente sulla fonte, ma l’attribuzione è incerta o dubbia.
 - **Accertata** significa che il nome è presente solo parzialmente oppure del tutto assente dalla fonte, ma l’attribuzione è (ragionevolmente) sicura e basata sul confronto con fonti corrispondenti, riferimenti nella bibliografia, o altri metodi scientifici. Questo accade nella maggior parte dei casi.
 - **Congetturale** è un’ipotesi basata su prove secondarie (ad esempio, su riferimenti nella bibliografia).  
-- **Dubbia**  significa che l’attribuzione è incerta.
+- **Dubbia** significa che l’attribuzione è incerta.
 - **Erronea** significa che il nome è presente sulla fonte ma è errato.
 
 #### Funzione (710 $4)

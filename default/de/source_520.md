@@ -4,7 +4,7 @@ Hier werden pauschale Angeben zum Werk bzw. zu Werkteilen gemacht. Die Angaben s
 
 Eine ausführliche Inhaltsbeschreibung erfolgt in **Bemerkungen zur Inhaltsangaben (505)**.
 
-_Beispiele_:  
+##### Beispiele  
 5 sonatas, 2 fantasies  
 5 motets, 2 masses, 1 Magnificat  
 Opera in 3 acts  

@@ -8,7 +8,7 @@ Seleccionar el orígen del registro:
 - **Conversión retrospectiva**: el registro se originó en una publicación física y fue convertido a un formato leíble por máquinas.
 - **RISM**: el registro fue creado en la base de datos de RISM (por defecto)
 
-** **
+
 
 **Nivel de catalogación (980 $b)**
 
@@ -19,7 +19,7 @@ _Más adelante se añadirán más detalles._
 - **Completo**
 - **Estándar**
 
-** **
+
 
 **Material examinado (980 $c)**
 

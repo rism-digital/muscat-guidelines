@@ -24,16 +24,16 @@ Questo campo può essere usato per riportare il nome di una collezione speciale,
 
 Inserisci i dati usando la lingua locale dell'istituzione. Puoi aggiungere tra parentesi quadre una traduzione nella tua lingua di catalogazione.
 
-_Esempio_:  
+##### Esempio  
 Sammlung Hanns J. Eller
 
-Nota: Riporta eventuali ex libris nel campo **Nota di provenienza** **(561)**.
+Nota: Riporta eventuali ex libris nel campo **Nota di provenienza(561)**.
 
 #### Materiale conservato (852 $q)
 
-Questo campo è disponibile nelle informazioni di possesso per edizioni musicali a stampa. Se la tua copia è incompleta, inserisci le parti (utilizzando le abbreviazioni RISM) o il volume che possiedi. Se sai che la tua copia è completa, è utile scrivere **complete**  in questo campo. Utilizza il termine inglese. La completezza riguarda in particolare la presenza di tutte le parti o volumi che si attendono; altri tipi di incompletezza (ad esempio, se una partitura o una parte sono mancanti mancante di alcune pagine) vanno indicati in una nota.
+Questo campo è disponibile nelle informazioni di possesso per edizioni musicali a stampa. Se la tua copia è incompleta, inserisci le parti (utilizzando le abbreviazioni RISM) o il volume che possiedi. Se sai che la tua copia è completa, è utile scrivere **complete** in questo campo. Utilizza il termine inglese. La completezza riguarda in particolare la presenza di tutte le parti o volumi che si attendono; altri tipi di incompletezza (ad esempio, se una partitura o una parte sono mancanti mancante di alcune pagine) vanno indicati in una nota.
 
-Parti mancanti vanno indicate nel campo  **Nota generale** **(500)**.
+Parti mancanti vanno indicate nel campo  **Nota generale(500)**.
 
 ##### Esempi  
 vl only  

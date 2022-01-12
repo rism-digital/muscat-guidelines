@@ -15,7 +15,7 @@ Bei der Nennung einer URL darf davor oder danach kein Satzzeichen folgen, sonst 
 
 Verlagsnummern werden ebenfalls hier eingetragen. Bitte kennzeichnen Sie sie deutlich als solche.
 
-_Beispiele_:  
+##### Beispiele  
 Title on the parts: "Cantata | dominica pentec. | [...] per Soprano, Alto | Tenore e Basso | del Sig:|r|e Jommelli"  
 Evidence present of another copyist  
 Vermerk auf vlc, f.8: “Wir streiken für neue Bögen”  

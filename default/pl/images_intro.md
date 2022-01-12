@@ -3,7 +3,7 @@ Baza danych **Obrazów** zawiera wszystkie obrazy, które zostały przesłane do
 
 Można dodać zdjęcie w formatach (.jpg, .png) klikając na **Załącz nowe zdjęcie** podczas edycji źródła lub bezpośrednio w bazie danych zdjęć klikając na **Utwórz**. Zawsze należy dodawać krótki opis, np. opis znaku wodnego, lokalizacji w źródle lub siglum. Pomoże to znaleźć je później. Obrazy są wyświetlane w kolejności, w jakiej są powiązane z rekordem.
 
-Podczas oglądania obrazu,  po prawej stronie można znaleźć następujące opcje:  
+Podczas oglądania obrazu, po prawej stronie można znaleźć następujące opcje:  
 - **Utwórz**
 - **Powróć do listy**  
 - **Edytuj**: Pozwala na zmianę nazwy lub zamianę pliku.

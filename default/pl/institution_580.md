@@ -1,6 +1,7 @@
-**Znajduje się teraz w (MARC 580)**
+### Znajduje się teraz w (580)
 
+#### Znajduje się teraz w (580)
 Podać siglum RISM biblioteki przechowującej.
 
-_Przykład:_  
-D-KA
+##### Przykład  
+- D-KA

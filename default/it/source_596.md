@@ -10,7 +10,7 @@ Inserisci il numero dell’oggetto nella serie RISM. Si prega di notare che ogni
 
 Usa  **Other** per riferirti a edizioni musicali a stampa che non sono riportate nei volumi stampati delle serie A/I e B.
 
-_Esempio_:  
+##### Esempio  
 Other  
 1001100380
 
@@ -50,7 +50,7 @@ B/IX/2 - _Hebrew writings concerning music in manuscripts and printed books from
 
 - 330
 
-B/XIII - _Hymnol__ogica Slavica_
+B/XIII - _Hymnologica Slavica_
 
 - HBS 1738/01
 - HP ca. 1558/09

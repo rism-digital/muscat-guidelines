@@ -54,4 +54,4 @@ trompeta bajo | a) suena una novena mayor más grave
 |   |   |   |   |   |
 | Mi bemol  
 (E-flat, grave) | saxofón barítono | a) suena una octava y una sexta mayor más grave  
- b) anotado  una octava y una sexta mayor más agudo | la'' | mi bemol, |
+ b) anotado una octava y una sexta mayor más agudo | la'' | mi bemol, |

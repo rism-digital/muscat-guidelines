@@ -7,7 +7,7 @@ Non aggiungere articoli dopo il nome principale. Se possibile, i personaggi vann
 **Nomi standardizzati dei personaggi (595 $a)**  
 Si possono elencare in questo campo i nomi di tutti i ruoli in una composizione, indipendentemente dal fatto che siano menzionati nella fonte o derivati dalla bibliografia. Utilizza un’ortografia normalizzata. Poni eventuali aggiunte tra parentesi quadre. Puoi inserire la parte vocale dopo il nome del personaggio tra parentesi.
 
-_Esempi_:  
+##### Esempi  
 Donna Flavia (S)  
 Theodor (T)  
 Zerbinetta (Mezzo-S)  
@@ -21,5 +21,5 @@ Drei Knaben
 **Nomi originali dei personaggi (595 $u)**  
 Inserisci i ruoli dei personaggi come appaiono nella fonte se la loro ortografia non corrisponde con quella standard indicata nel campo precedente.
 
-_Esempio_:  
+##### Esempio  
 Pappageno

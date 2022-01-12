@@ -16,10 +16,10 @@ Insira o nome da pessoa responsável pela obra. Isso pode incluir o compositor (
 
 Selecione um indicador para descrever o nível de certeza da atribuição, se alguma das situações abaixo se aplica. Caso contrário, deixe em branco.
 
-- **Certificada** **(Ascertained)** significa que o nome está parcialmente presente ou totalmente ausente na fonte, mas a atribuição é (razoavelmente) certa e baseada na comparação com fontes concordantes, literatura secundária ou outros recursos acadêmicos. É o que ocorre na maioria dos casos.
+- **Certificada(Ascertained)** significa que o nome está parcialmente presente ou totalmente ausente na fonte, mas a atribuição é (razoavelmente) certa e baseada na comparação com fontes concordantes, literatura secundária ou outros recursos acadêmicos. É o que ocorre na maioria dos casos.
 - **Conjectural (Conjetural)** é uma atribuição estimativa, baseada em evidência secundária (tal como literatura secundária).
 - **Duvidosa (Doubtful)** significa que a atribuição está em questão.
-- **Equivocada** **(Misattributed)** significa que o nome está na fonte mas a atribuição é incorreta.
+- **Equivocada(Misattributed)** significa que o nome está na fonte mas a atribuição é incorreta.
 - **Suposta (Alleged)** significa que o nome está presente na fonte, mas a atribuição é questionável ou duvidosa.
 
 Se a fonte é anônima, deixe este campo em branco.

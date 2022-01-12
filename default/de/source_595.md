@@ -7,7 +7,7 @@ Artikel werden nicht nachgestellt. Nach Möglichkeit sind die Rollen in der Reih
 **Rollennamen in standardisierter Form (595 $a)**  
 Hier werden alle Rollennamen angegeben, die in der Komposition vorkommen, unabhängig davon ob diese in der Quelle genannt sind oder nicht. In runden Klammern kann die Stimmlage auf die Rollenbezeichnung folgen. Mit eckigen Klammern wird eine Ergänzung gegenüber der Quelle gekennzeichnet.
 
-_Beispiele_:  
+##### Beispiele  
 Donna Flavia (S)  
 Theodor (T)  
 Zerbinetta (Mezzo-S)  
@@ -22,5 +22,5 @@ Drei Knaben
 **Rollennamen in originaler Schreibweise (595 $u)**  
 In diesem Feld werden alle Rollenbezeichnungen angegeben, wie sie in der Quelle vorkommen, sofern sie von der standardisieren Form (595 $a) abweichen. 
 
-_Beispiele_:  
+##### Beispiele  
 Pappaggeno

@@ -12,7 +12,7 @@ Typy alternatywnych tytułów:
 - Utwory nie posiadające wyraźnego indywidualnego tytułu (Festival Cantata, Fürstenlied)
 - Tytuły, szczególnie te, pod którymi pozycja jest powszechnie znana (szczególnie w odniesieniu do wydań drukowanych).
 
-_Przykłady_:
+##### Przykłady
 
 Tytuł ujednolicony: Don Giovanni  
 Tytuł dodatkowy: Der steinerne Gast  
@@ -34,9 +34,9 @@ Tytuł dodatkowy: Symphoniae sacrae
 
 W przypadku kompletów wariacji, wprowadzić w tym polu nazwę tematu i wybrać **Wariacje** w polu **Strefa aranżacji (730 $o)**.
 
-W przypadku wstawień, wprowadzić tytuł większej opery lub utworu i wybrać **Wstawienia**  w polu **Podhasło (730 $k)**. Należy również zwrócić uwagę na wytyczne znajdujące się w polu **Wstawienia (787)**.
+W przypadku wstawień, wprowadzić tytuł większej opery lub utworu i wybrać **Wstawienia** w polu **Podhasło (730 $k)**. Należy również zwrócić uwagę na wytyczne znajdujące się w polu **Wstawienia (787)**.
 
-_Przykłady_:
+##### Przykłady
 
 Tytuł ujednolicony: Wariacje  
 Tytuł dodatkowy: Ein Mädchen oder Weibchen [plus **Wariacje** w polu **Strefa aranżacji (730 $o)**.]
