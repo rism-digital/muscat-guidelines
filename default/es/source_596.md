@@ -55,7 +55,7 @@ B/IX/2 - _Hebrew writings concerning music in manuscripts and printed books from
 
 - 330
 
-B/XIII - _Hymnol__ogica Slavica_
+B/XIII - _Hymnologica Slavica_
 
 - HBS 1738/01
 - HP ca. 1558/09
