@@ -12,7 +12,7 @@ Enter the short title of the reference. This field is linked to the **Secondary 
 
 Enter the page number. Use the following English abbreviations: **vol.** (volume), **fasc.** (fascicle), **suppl.** ( supplement), **pt.** (part), **p.** (page), **no.** (number), and **clm.** (column).
 
-_Examples_:
+##### Examples
 
 - vol. 2, pt. 2, p. 430
 - vol. 5, p. 93; vol. 6, p. 12
