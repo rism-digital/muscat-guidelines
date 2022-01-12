@@ -5,8 +5,7 @@ En este campo se registran los números de plancha, que aparecen por lo general 
 
 Registre el número de plancha exactamente como aparece en la fuente. You may add arabic numerals in square brackets if the plate number uses roman numerals.
 
-_Ejemplos_:  
-B. & H.
+##### Examples
 
 - B. & H. 8533
 - S. B. 2. 11
