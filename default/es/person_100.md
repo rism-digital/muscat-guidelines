@@ -1,12 +1,15 @@
 ### Heading - Personal name (100)
+
 Este campo está destinado al nombre de la persona en su forma autorizada.
 
 #### Heading - Personal name (100 $a)
-Los nombres se introducen en la forma Apellido Nombre, con una coma separando los elementos de los nombres en orden invertido. If you only have initials, enter  in direct order.
 
-En el caso de los nombres escritos originalmente en alfabetos no latinos, en este campo introduzca la forma transliterada al alfabeto latino. La forma original en escritura no latina, así como las transliteraciones alternativas, pueden introducirse en el campo **Variante del nombre (400 $a).**
+Los nombres se introducen en la forma Apellido Nombre, con una coma separando los elementos de los nombres en orden invertido. If you only have initials, enter in direct order.
+
+En el caso de los nombres escritos originalmente en alfabetos no latinos, en este campo introduzca la forma transliterada al alfabeto latino. The original form in non-Latin script, as well as alternate transliterations, can be entered in the field **Name variant (400 $a)**.
 
 ##### Examples
+-
 - Telemann, Georg Philipp
 - Joo Su-won
 - Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
@@ -14,13 +17,14 @@ En el caso de los nombres escritos originalmente en alfabetos no latinos, en est
 - Copista C. H. Graun IX (Blechschmidt)
 
 #### Campo principal - Nombre personal (100 $a)
-Este campo se utiliza para registrar órdenes de la Iglesia Católica Romana. Abbreviations are taking from the following Wikipedia page:  
-[https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))
+
+Este campo se utiliza para registrar órdenes de la Iglesia Católica Romana. Abbreviations are taking from the following Wikipedia page: [https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))
 
 #### Orden religiosa (100 $c)
+
 Joo Su-won.
 
-Si se desconocen los años exactos de nacimiento y/o muerte de la persona, utilice las siguientes abreviaturas para indicar que los años no son exactos.
+If the person's exact years of birth and/or death are unknown, use the following abbreviations to signal that the years are not exact.
 
 - **.sc**: century  
   **18.sc** = Eighteenth century
@@ -40,6 +44,7 @@ Si se desconocen los años exactos de nacimiento y/o muerte de la persona, utili
 Do not use the following abbreviations for date ranges: in, me, ex, q, d, t
 
 ##### Examples
+
 - 1879-1967
 - 18.sc
 - 1811a-1855p
@@ -49,11 +54,14 @@ Do not use the following abbreviations for date ranges: in, me, ex, q, d, t
 - 17/18
 
 #### Años de nacimiento y muerte (100 $d)
+
 Este campo está destinado al uso interno del Centro Editorial del RISM.
 
 #### Estado (100 $w)
+
 Ingrese fechas concretas en el formato DD. MM.AAAA. Los años de actividad o florecimiento deben ir precedidos de **fl.**
 
 ##### Examples
+
 - 22.11.1879-31.12.1967
 - fl. 1732-1735
