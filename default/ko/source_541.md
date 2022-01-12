@@ -16,7 +16,7 @@ Enter standardized forms of the personal names in the field **Additional persona
 
 Enter dates in the form YYYYMMDD. Replace unknown portions of the dates with a hyphen. Single years may be entered as YYYY. General dates may be indicated as on the source. Separate multiple dates with a comma.
 
-_Examples_:
+##### Examples
 
 - 17980215
 - 183209--
