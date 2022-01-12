@@ -2,16 +2,16 @@ En Muscat es posible realizar **búsquedas** mediante la **búsqueda por facetas
 
 ### Filtros de Muscat
 
-La **búsqueda por facetas** (menú superior, en el medio) su usa para buscar los datos en un contexto de tipo OPAC. Si Ud. cuenta con derechos de edición sobre una fuente en particular, un botón de edición lo llevará directamente al modo de edición del registro respectivo Muscat.
+La **búsqueda por facetas** (menú superior, en el medio) su usa para buscar los datos en un contexto de tipo OPAC. If you have editing rights for a particular source, an edit button will take you directly to the Muscat editing mode.
 
-Una de las posibilidades de la [búsqueda avanzada](http://muscat.rism.info/advanced) es la  **búsqueda por íncipit. ** Un teclado facilita el ingreso de la notación musical. Hay cuatro modos de búsqueda disponibles, con diversos grados de flexibilidad:
+Una de las posibilidades de la [búsqueda avanzada](http://muscat.rism.info/advanced) es la  **búsqueda por íncipit. A keyboard permits the easy insertion of notation. Hay cuatro modos de búsqueda disponibles, con diversos grados de flexibilidad:
 
 1. Altura exacta: el íncipit concuerda con las alturas exactas.
 2. Intervalo: se ignoran las alturas, pero se buscan los intervalos. Esto permite la inclusión de **transposiciones** de una melodía dada.
 3. Contorno refinado de alturas: se ignoran los intervalos y se buscan sólo los movimientos ascendentes y descendentes de la melodía.
 4. Contorno grueso de alturas: es el más flexible de todos. Se busca el contorno aproximado de la melodía.
 
-Al final de la página, el campo **Íncipit** permite al usuario ingresar un fragmento de código Plaine & Easie (el mismo puede ser copiado y pegado desde una Fuente, por ejemplo). La previsualización del pentagrama se actualiza automáticamente como sucede en el editor de Fuentes.
+At the bottom of the page, the field **Incipit** permits the user to enter raw Plaine & Easie code (it can be copied and pasted from a source record, for example). La previsualización del pentagrama se actualiza automáticamente como sucede en el editor de Fuentes.
 
 Todos los otros campos presentes en la Búsqueda Avanzada pueden ser combinados con la búsqueda por íncipit.
 
@@ -26,14 +26,13 @@ Don't forget to always search for the incipit before entering an anonymous sourc
 Los **filtros** de Muscat permiten hacer búsquedas simples pero poderosas.
 
 - Palabras sueltas
-- Múltiples palabras:  
-  tanto sin comillas: **lass noch**    
-  como con comillas: **“lass noch”**
+- Multiple words:  
+  either without quotations mark: **lass noch**   
+  or with quotation marks: **"lass noch"**
 - Truncation with ? or \*  
   **?**: The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
   **\***: The asterisk can be used to truncate or replace any number of letters. **B\*cher** encontrará Bucher y Bacher pero también Boucher y Bötticher.
 - AND, OR, NOT, (): Aproveche las ventajas de la búsqueda booleana. Use paréntesis para agrupar su búsqueda. _Ejemplos_:
-
     - Compositor contiene: **(Bach AND Johann) NOT Sebastian**  
       Encontrará a Johann Michael Bach y Johann Christian Bach pero no a Johann Sebastian Bach.
     - Sigla contiene: **D-B AND (I-\* OR F-P\*)**  
@@ -51,10 +50,10 @@ En cada campo puede ingresar:
 
 Please note the following for searching **Sources**:
 
-- **Siglum contains**: Search by the letters in a siglum. Este campo registra mayúsculas y minúsculas. Por ejemplo:  
-  **D-\*** = todas las fuentes en Alemania  
-  **D-B\*** = todas las fuentes en ciudades alemanas que empiezan con B  
-  **D-B** = todas las fuentes en la _Staatsbibliothek zu Berlin_
+- **Siglum contains**: Search by the letters in a siglum. Este campo registra mayúsculas y minúsculas. For example:  
+  **D-&#42;** = all sources in Germany  
+  **D-B&#42;** = all sources in German cities that start with B  
+  **D-B** = all sources at the Staatsbibliothek zu Berlin
 
 ### Nombres personales
 
