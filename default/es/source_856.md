@@ -39,7 +39,7 @@ This field is required when entering a link to an external resource. Ingrese la 
 
 In cases where both links to an external viewer and an IIIF manifest are available, repeat the field and list both links separately.
 
-_Ejemplo:_
+##### Examples
 
 - External resource: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
   Note: digitized version  
