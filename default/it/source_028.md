@@ -5,7 +5,7 @@ This field is for plate numbers, which typically appear on printed items but can
 
 Enter the plate number exactly as it appears on the source. You may add arabic numerals in square brackets if the plate number uses roman numerals.
 
-_Examples_:
+##### Examples
 
 - B. & H. 8533
 - S. B. 2. 11
