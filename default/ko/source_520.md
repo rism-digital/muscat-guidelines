@@ -5,7 +5,7 @@ Here you may enter brief, general information about the work or sections of it. 
 
 More detailed information about the contents of the item can be given in the field **Contents note (505)**.
 
-_Examples_:
+##### Examples
 
 - 5 sonatas, 2 fantasies
 - 5 motets, 2 masses, 1 Magnificat
