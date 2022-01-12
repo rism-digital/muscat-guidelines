@@ -1,8 +1,8 @@
-### Tipo de institución (MARC 368)
+### Type of institution (368; ISDIAH 5.1.5)
 
 En este campo se registran otros atributos de la persona, entidad corporativa o el tipo de institución.
 
-#### Tipo de institución (MARC 368 $a; ISDIAH 5.1.5)
+#### Type of institution (368 $a)
 
 Este campo identifica el tipo de institución con fondos de archivo.
 
@@ -26,9 +26,8 @@ Seleccione uno de los siguientes tipos:
 
 Introduzca el tipo de jurisdicción asociada a la institución.
 
-_Ejemplos_:  
-vol.
-
+##### Examples
+-
 - County
 - Village
 
