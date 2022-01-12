@@ -72,10 +72,10 @@ Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreib
   ##### Examples
   25 Arias  
   3 Instrumental pieces
-- **Collections** : für den Einordnungstitel gelten für Sammlungen (Collections), Konvolute und Variationen. In diesen Fällen wird dem Gattungsbegriff eine arabische Zahl vorangestellt, die die Anzahl der zugehörigen Werke bezeichnet.  
-  _Beispiele:_  
-  25 Arias  
-  3 Instrumental pieces
+- **Collections** : für den Einordnungstitel gelten für Sammlungen (Collections), Konvolute und Variationen. Enter a number corresponding to the number of items involved plus the word "Items."
+
+  ##### Example
+  11 Items
 - **Variationen** : Geben Sie hier **Variations** als Einordnungstitel ein. In the field **Additional title (730)**, enter the piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
 - **Insertions** : Tragen Sie hier das Textincipit des eingefügten Stückes als Einordnungstitel ein. Geben Sie im Feld **Alternativer Titel (730)** den Namen der Oper oder eines größeren Werks ein und wählen Sie **Insertions** als zusätzliches **Schlagwort**.
 - **Nicht-lateinische Schriften** : Wenn Ihre Quelle einen Titel in nicht-lateinischen Buchstaben oder Zeichen aufweist (griechisches / hebräisches / koreanische / kyrillisches etc. Alphabet, chinesische Zeichen etc.) wird dieser in der ursprünglichen Schrift im **Einordnungstitel** eingetragen. Übersetzungen oder Transliterierungen sind fakultativ und werden im Feld **Alternativer Titel (730)** gemacht.
@@ -114,7 +114,7 @@ Hier wird die Tonart des Gesamtwerks gemäß Abkürzungsliste eingetragen.
 
 #### Tonart (240 $r)
 
-**Required field** **except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch  
+**Required fieldexcept for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch  
 If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
 Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each element of the scoring summary with commas. Enter a maximum of four elements. Die ausführliche Auflistung der Besetzung erfolgt im Feld **Vollständige Besetzung (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
@@ -146,9 +146,7 @@ If you have a figured bass, enter the instrument as usual, such as **b**, **bc**
 
 Omit the scoring summary if the performing forces are unknown or uncertain.
 
-_Beispiele:_    
-Presto  
-Lento
+##### Examples
  - A, Coro, orch
  - Bariton, pf
  - V (3), strings, bc
