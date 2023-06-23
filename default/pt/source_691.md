@@ -1,6 +1,10 @@
 ### Bibliographic reference (691)
 
-This field gives bibliographic references to the work or the source. Note that information from a catalog of works is entered in the field **Catalog of works (690)**. Cite literature when it was used during the cataloging process itself or if it refers directly to the source in question. You can also enter references to modern editions connected with the source and references to watermark literature.
+This field gives bibliographic references to the work or the source. Cite literature when it was used during the cataloging process itself or if it refers directly to the source in question. You can also enter references to modern editions connected with the source and references to watermark literature.
+
+Note that information from a catalog of works is entered in the field **Catalog of works (690)**.
+
+Use this field if you wish to indicate that a printed edition is not mentioned in a volume from RISM series A/I or a B volume (deest).
 
 #### Bibliographic reference (691 $a)
 
@@ -10,7 +14,7 @@ Enter the short title of the reference. This field is linked to the **Secondary 
 
 **Required field if a bibliographic reference (691 $a) is filled in.**
 
-Enter the page number. Use the following English abbreviations: **vol.** (volume), **fasc.** (fascicle), **suppl.** ( supplement), **pt.** (part), **p.** (page), **no.** (number), and **clm.** (column).
+Enter the location within the item, frequently a number or page. Consult the full record for the item in the **Secondary literature** database for the preferred citation format. Use the following English abbreviations: **vol.** (volume), **fasc.** (fascicle), **suppl.** (supplement), **pt.** (part), **p.** (page or pages), **no.** (number), and **clm.** (column).
 
 ##### Examples
 
