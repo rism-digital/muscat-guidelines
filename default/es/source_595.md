@@ -1,4 +1,4 @@
-### Nombres de personajes (590)
+### Named dramatic role (595)
 
 **Asegúrese de completar este campo si registra un nombre en el campo de Personaje (031 $e) dentro de un Íncipit.**
 
@@ -23,6 +23,6 @@ En este campo pueden registrarse los nombres de todos los personajes que intervi
 
 Registre los nombres de personajes tal como aparecen en la fuente, en caso de que la ortografía difiera de la forma normalizada registrada anteriormente.
 
-##### Ejemplo:
+##### Example
 
 - Pappageno
