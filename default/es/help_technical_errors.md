@@ -17,7 +17,7 @@ This might be a screen resolution issue. Muscat funciona mejor en pantallas de a
 
 #### 4. I can't scroll down the screen.
 
-This also might be a screen resolution issue. See #3, above.
+This also might be a screen resolution issue. See \#3, above.
 
 #### 5. My screen is gray and all I see is an hourglass.
 
@@ -29,4 +29,4 @@ Try clicking the "refresh" arrows, or save your record and try entering the inci
 
 #### 7. I get the error message: "Error saving page: this is a stale version"
 
-This means that while you were editing, someone else also began editing the record and saved before you did. Try to remember your changes, close the record, and open it again.
+This means that while you were editing, someone else also began editing the record and saved before you did, or perhaps you edited the record in a different tab. Try to remember your changes (take a screenshot), close the record, and open it again.
