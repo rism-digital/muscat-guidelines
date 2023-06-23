@@ -1,4 +1,4 @@
-### Digital objects
+# Digital objects
 
 The **Digital objects** database contains all images and MEI files that have been uploaded to Muscat. The database is intended to store and display individual images that serve to illustrate a point in a record, such as a watermark, a binding, or a handwriting sample; it is also where MEI incipits are attached. You can link digital objects to source records as well as authority records. Full digital versions of sources should not be uploaded here but rather linked in the field **External resource (856)**.
 
