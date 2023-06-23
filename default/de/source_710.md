@@ -6,18 +6,18 @@ Publishers named after people but acting out the function of publisher (Pleyel, 
 
 #### Institution (710 $a)
 
-Enter the names of all institutions that appear on or are associated with the source. This field is linked to the ** Institutions** authority file. Names not yet in the authority file may be added.
+Enter the names of all institutions that appear on or are associated with the source. This field is linked to the **Institutions** authority file. Names not yet in the authority file may be added.
 
 #### Department (710 $b)
 
 Enter, if necessary, the name of the unit of an institution, such as a department. Enter in the local language.
 
-#### Attribution (710 $j)
+#### Attribution (710 $g)
 
 Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
 - **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
-- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is (reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
 - **Conjectural** is a guess based on secondary evidence, such as secondary literature.
 - **Misattributed** means the name is on the source but is incorrect.
 
@@ -28,6 +28,7 @@ Select an indicator to describe the level of certainty of the attribution if any
 Assign each institution an exact function. An institution can be entered multiple times with different functions. A reduced list of functions is offered in the holdings information for printed items. The three-letter codes refer to the MARC relator code.
 
 - **Assignee [asg]**: The institution to whom a license for printing or publishing has been transferred.
+- **Associated name [asn]**: An institution that has some connection with the source, but the exact function is unclear.
 - **Bookseller [bsl]**: A person or organization who makes books and other bibliographic materials available for purchase. Do not use "former owner" for this function.
 - **Copyist [scr]**: A copyist workshop or a scribal school.
 - **Copyright holder [cph]**
@@ -43,4 +44,6 @@ Assign each institution an exact function. An institution can be entered multipl
 - **Performer [prf]**: The institution or ensemble that performed the work, such as an orchestra.
 - **Printer [prt]**
 - **Publisher [pbl]**
-- **Type designer [tyd]**: The organization who designed the typeface. If you are unsure whether the name is a publisher or a printer, select **Publisher**
+- **Type designer [tyd]**: The organization who designed the typeface.
+
+If you are unsure whether the name is a publisher or a printer, select **Publisher**
