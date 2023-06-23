@@ -16,7 +16,7 @@ En el caso del material impreso, ingrese el nombre del editor, la compañía edi
 
 En el caso de los manuscritos, ingrese el nombre del copista tal como aparece en la fuente.
 
-Registre siempre los nombres con su forma estandarizada en los campos **Nombre personal adicional (700)** o **Institución adicional**  **(710)**. Los editores que aparecen nombrados en referencia a ciertas personas pero que cumplen la función de editorial (Pleyel, André, etc.) se ingresan como Instituciones.
+Always enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional institution (710)**. Los editores que aparecen nombrados en referencia a ciertas personas pero que cumplen la función de editorial (Pleyel, André, etc.) se ingresan como Instituciones.
 
 Si el lugar no aparece identificado en un impreso, ingrese **[s.l.].** Para los manuscritos, deje el campo en blanco. (Do not index [s.n.] as an additional institution). Para los manuscritos, deje el campo en blanco.
 
@@ -28,7 +28,7 @@ En el caso de los manuscritos, trate siempre de consignar una fecha, aunque sea 
 
 You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before**, and **after**. Trate de indicar la fecha del modo más exacto posible. Si no cuenta con datos certeros, utilice un rango de fechas que se corresponda con un período no específico, como el s. XVIII o el fin del s. Véase la tabla que aparece más abajo.
 
-For prints: If you have a print but it is undated, either enter an approximate date in square brackets or enter **[s.d.]**. En el caso de los impresos, si tiene un impreso que no tiene fecha, registre una fecha aproximada entre corchetes, o bien indique **[s.d.]**.Por favor, trate de proveer un rango de fechas razonables en el caso de que el impreso no esté datado, por ejemplo, valiéndose de las fechas de vida del compositor o arreglador como _terminus post quem_, o bien recurriendo a los años de actividad del editor.
+For printed items: If you have a print but it is undated, either enter an approximate date in square brackets or enter **[s.d.]**. En el caso de los impresos, si tiene un impreso que no tiene fecha, registre una fecha aproximada entre corchetes, o bien indique **[s.d.]**.Por favor, trate de proveer un rango de fechas razonables en el caso de que el impreso no esté datado, por ejemplo, valiéndose de las fechas de vida del compositor o arreglador como _terminus post quem_, o bien recurriendo a los años de actividad del editor.
 
 Note that for manuscripts, dates are given without square brackets because manuscripts are rarely dated. Printed materials, by contrast, are more likely to include a date so any editorial guess should be in square brackets.
 
@@ -47,7 +47,7 @@ Se pueden indicar otras fechas que aparecen en la fuente. Utilice signos de inte
  - ?1745?
  - [1771]
 
-Si tuviese que registrar períodos no específicos, hágalo de manera apropiada siguiendo los ejemplos de la tabla siguiente
+For approximate periods of time, enter a range of years based on the following standardized date ranges:
 
 
 | **For the period**                   | **Enter this range of dates**        |
@@ -66,10 +66,26 @@ Si tuviese que registrar períodos no específicos, hágalo de manera apropiada 
 | 18th century, 2nd half               | 1750-1799                            |
 | 18th century                         | 1700-1799                            |
 
+**Obsolete procedures**: Older RISM cataloging guidelines allowed certain coded date formats. This practice was discontinued with the introduction of Muscat. The obsolete date formates are the following, with their meaning in parentheses:
+- 1782a (before 1782)
+- 1782c (ca. 1782)
+- 1782p (after 1782)
+- 18.in (beginning of the 18th century)
+- 18.me (middle of the 18th century)
+- 18.ex (end of the 18th century)
+- 18.1t (first third of the 18th century)
+- 18.3q (third quarter of the 18th century)
+- 18.2d (second half of the 18th century)
+- 18.sc (18th century)
+- 18/19 (18th or 19th century)
+
+
+
+
 #### Fecha (260 $c)
 
 Registre la localización de la institución asociada con la impresión, duplicación, etc. tal como aparece en la fuente.
 
 #### Nombre del impresor (260 $f)
 
-Registre el nombre del impresor o la imprenta tal como aparece en la fuente. Registre los nombres con su forma estandarizada en los campos **Nombre personal adicional (700)** o **Institución adicional**  **(710)**.
+Registre el nombre del impresor o la imprenta tal como aparece en la fuente. Enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional institution (710)**.
