@@ -11,9 +11,6 @@ please contact the Editorial Center.
 - **Autography**: Transfer printing (not to be confused with autograph manuscripts).
 - **Computer printout**
 - **Engraving**
-- **Facsimile**: A reproduction made with the intention to simulate as closely as possible the physical appearance of a
-  previous work. (This does not refer to commercial facsimile music editions, which should be entered as Secondary
-  literature.)
 - **Lithography**
 - **Offset printing**
 - **Photoreproductive process**: Includes Cyanotype, diazo print, blueprint.
@@ -28,7 +25,7 @@ Any additions or comments about the printing technique may be explained in the f
 If a source includes multiple printing techniques, you may repeat the field to indicate each technique. Include a note
 in the field **General note (500 $a)** to explain.
 
-##### Example:
+##### Example
 
 Engraved music that has a lithographed title page:
 

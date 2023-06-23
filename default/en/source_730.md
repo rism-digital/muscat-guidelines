@@ -21,28 +21,17 @@ Types of possible alternatives are:
 ##### Examples
 
 - Standardized title: Don Giovanni
-- Additional title: Der steinerne Gast
-
+ - Additional title: Der steinerne Gast
 - Standardized title: Masses
-- Additional title: Missa S Ursulae
-
+ - Additional title: Missa S Ursulae
 - Standardized title: Masses
-- Additional title: Deutsche Messe [= translation of the Latin text of the mass]
-
+ - Additional title: Deutsche Messe [= translation of the Latin text of the mass]
 - Standardized title: Masses
-- Additional title: Deutsches Hochamt [=paraphrased German church service]
+ - Additional title: Deutsches Hochamt [=paraphrased German church service]
 
-- Standardized title: 29 Madrigals
-- Additional title: Il primo libro de madrigali a tre voci
+In the case of variation sets, enter the name of theme in this field and select **Variations** in the field **Arrangement statement (730 $o)**.
 
-- Standardize title: 20 Sacred concerts
-- Additional title: Symphoniae sacrae
-
-In the case of variation sets, enter the name of theme in this field and select **Variations** in the field **
-Arrangement statement (730 $o)**.
-
-In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading (
-730 $k)**. For inserts, also note the guidelines under for the field **Insertions (787)**.
+In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading (730 $k)**. For inserts, also note the guidelines under for the field **Insertions (787)**.
 
 ##### Examples
 
@@ -70,11 +59,10 @@ field **Arrangement statement (240 $o)** above. If the work is a variation set, 
 
 Indicate what cataloging rules or standards are used to formulate the additional title.
 
-- **RISM**: (default)
+- **RISM** (default)
 - **RDA**: Resource Description and Access
 - **RAK**: Regeln für die alphabetische Katalogisierung (cataloging rules used in German-speaking countries)
-- **ICCU**: Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (
-  cataloging rules used in Italy)
+- **ICCU**: Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (cataloging rules used in Italy)
 
 #### Subheading (730 $k)
 
@@ -90,9 +78,8 @@ you also select **Excerpts**, **Fragments**, or **Sketches** here. For inserts, 
 information can be entered into the field **Contents note (505)**.
 
 #### Key or mode (730 $r)
-
-Catalog number/Opus number (730 $n)   
-Scoring summary (730 $m)
+#### Catalog number/Opus number (730 $n)   
+#### Scoring summary (730 $m)
 
 If you have an arrangement or compilation, use these fields to enter information about the original composition. These
 fields do not need to be filled out again if they are identical with the main work in question.

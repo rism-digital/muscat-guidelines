@@ -24,8 +24,7 @@ source.
 
 For manuscripts, enter the name of the copyist as it appears on the source.
 
-Always enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional
-institution (710)**. Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are
+Always enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional institution (710)**. Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are
 entered as institutions.
 
 If the name of the publisher or distributor is not identified on a print, enter **[s.n.]**. (Do not index [s.n.] as an
@@ -44,7 +43,7 @@ You may indicate approximate dates in your cataloging language by using the foll
 and **after**. Try to indicate the date as exactly as possible. If you are uncertain, use a date range that corresponds
 to a non-specific period, such as the eighteenth century or the end of the seventeenth century. See the table below.
 
-For prints: If you have a print but it is undated, either enter an approximate date in square brackets or enter **[s.d.]**.
+For printed items: If you have a print but it is undated, either enter an approximate date in square brackets or enter **[s.d.]**.
 Please make an effort to supply a reasonable date range for an undated print, such as by using the life dates of the
 composer or arranger as a _terminus post quem_, or the active years of a publisher.
 
@@ -65,7 +64,7 @@ Other dates may be indicated as on the source. Use question marks to indicate un
  - ?1745?  
  - [1771]
 
-For non-specific periods, enter appropriate years based on the following chart:
+For approximate periods of time, enter a range of years based on the following standardized date ranges:
 
 
 | **For the period** | **Enter this range of dates** |
@@ -82,7 +81,23 @@ For non-specific periods, enter appropriate years based on the following chart:
 | 18th century, 4th quarter | 1775-1799 |
 | 18th century, 1st half | 1700-1749 |
 | 18th century, 2nd half | 1750-1799 |
-| 18th century | 1700-1799 |
+| 18th century | 1700-1799 |  
+
+**Obsolete procedures**: Older RISM cataloging guidelines allowed certain coded date formats. This practice was discontinued with the introduction of Muscat. The obsolete date formates are the following, with their meaning in parentheses:  
+- 1782a (before 1782)
+- 1782c (ca. 1782)
+- 1782p (after 1782)
+- 18.in (beginning of the 18th century)
+- 18.me (middle of the 18th century)
+- 18.ex (end of the 18th century)
+- 18.1t (first third of the 18th century)
+- 18.3q (third quarter of the 18th century)
+- 18.2d (second half of the 18th century)
+- 18.sc (18th century)
+- 18/19 (18th or 19th century)
+
+
+
 
 #### Location of printer (260 $e)
 
@@ -90,5 +105,4 @@ Enter the location of the institution associated with printing, duplicating, etc
 
 #### Name of printer (260 $f)
 
-Enter the name of the printer or press as given on the source. Enter the standardized forms of the names in the fields**
-Additional personal name (700)** or **Additional institution (710)**.
+Enter the name of the printer or press as given on the source. Enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional institution (710)**.

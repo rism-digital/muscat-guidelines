@@ -2,7 +2,9 @@
 
 ## Standard terms
 
-Use these standardized English terms in fields where English is required.
+The section **Standard terms** contains standardized English terms that should be used in fields where English is required.  
+
+### General terms  
 
 accidental
 
@@ -100,11 +102,11 @@ C double sharp
 
 - DE: cisis
 
-C flat
+C-flat
 
 - DE: ces
 
-C sharp
+C-sharp
 
 - DE: cis
 
@@ -185,12 +187,11 @@ cut
 - DE: beschnitten
 
 device
-
 - DE: Signet
 
-publisher's device
+-publisher's device
 
-- DE:Verlagssignet
+ - DE: Verlagssignet
 
 diminish
 
@@ -438,7 +439,7 @@ vignette
 
 - DE: Vignette
 
-Note values - Notenwerte
+### Note values - Notenwerte
 
 A slash indicates American English / British English.
 
@@ -498,7 +499,7 @@ octuplet
 
 - DE: Oktole
 
-Rest values - Pausenwerte
+### Rest values - Pausenwerte
 
 whole rest / semibreve rest
 

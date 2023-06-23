@@ -11,8 +11,9 @@ Select from the following types:
 - Archive
 - Bookseller
 - Copyist
-- Corporate name
+- Congress
 - Documentation center
+- Institution  
 - Library
 - Museum
 - Research institute
@@ -22,12 +23,13 @@ Select from the following types:
 - Publisher
 - Other
 
+
 #### Type of jurisdiction (368 $b)
 
 Enter the type of jurisdiction associated with the institution.
 
 ##### Examples
-- 
+-
 - County
 - Village
 

@@ -4,7 +4,9 @@
 
 **Required field.**
 
-Each item of secondary literature receives a unique short title to enable easy reference throughout RISM records. Always check first to make sure a short title is not already in use.
+Each item of secondary literature receives a unique short title to enable easy reference throughout RISM records. Always check first to make sure a short title is not already in use.  
+
+Short tiles only apply to the edition described in the record. If a you would like to cite a different edition, please create a new record for the item.
 
 The following will describe how to create short titles for **general secondary literature**, **catalogs of works**, and **special cases**.
 
@@ -69,7 +71,7 @@ If the year of publication is neither given nor ascertainable, write **s.d.** (f
 
 ###### Example
 
-- Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung _ (Innsbruck, no date).  
+- Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung_ (Innsbruck, no date).  
  → ZanglO s.d.
 
 If only an approximate year of publication is known, add a **ca.** (for circa) when you enter the publisher and
@@ -120,7 +122,7 @@ abbreviation used within the catalog as long as it does not lead to confusion.
 
 ##### Special cases
 
-Publications that contain the term _thematic catalog_ in their titles are often catalogs of works but may occasionally touch on other topics or not be extensive in their scope. Always double-check. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title like you do for normal literature. In short, anything that isn’t a catalog of works is assigned a literature short title.
+Publications that contain the term _thematic catalog_ in their titles are often catalogs of works but may occasionally touch on other topics or not be extensive in their scope. Always double-check. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title like you do for normal secondary literature. In short, anything that is not a catalog of works is assigned a literature short title.
 
 ###### Examples
 
@@ -134,5 +136,12 @@ Publications that contain the term _thematic catalog_ in their titles are often 
  → DidionF 1990  
 - Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
  → MurányiW 1997
+
+For modern music editions, use the last name of the editor plus the first letter of the last name of the composer. The year refers to the year that the modern edition was published.  
+
+###### Examples
+
+- Barbara Strozzi, _Havete torto_, edited by Candace A. Magner (Cor Donato Editions, 2019).  
+ → StrozziH 2019  
 
 Do not assign a short title to books, yearbooks, conference reports, etc. that consist of a collection of essays. Any essays in such books are entered individually as literature references, not the entire book itself. The essay is entered as a literature record with its own short title.

@@ -1,7 +1,8 @@
 ### Physical description (300)
 
 **Required field.**  
-This field is for the number of items, the format, and (for all formats except parts) the extent.
+
+This field keeps track of the physical material preserved by stating the format (such as score or parts) and how many there are. Details on parts are entered in the field **Parts held and extent (590).**
 
 Note that the entire section **Material description** is repeatable, as is the field **Physical description (300)** and
 the subfield **Format, extent (300 $a)**. This means that you are free to create one **Material description** section
@@ -12,45 +13,41 @@ description** section for the score and one **Material description** section for
 different dates, copyists, watermarks, and other information specific to just that score or just those parts (or you can
 even describe the parts in smaller groups if necessary). If the date, copyist, etc. are the same for both the score and
 the parts, or if you are not going into so much detail, then it is enough to simply list one underneath the other in the
-field **Format, extent (300 $a)**. Different dimensions can be entered if you repeat the field **Physical description (
-300)**.
+field **Format, extent (300 $a)**. Different dimensions can be entered if you repeat the field **Physical description (300)**.
 
 #### Format, extent (300 $a)
 
-The field **Format, extent (300 $a)** is built up of three components: **Items, Format, Extent.** Note that an extent is
-not given for parts, including tablature parts; the extent of parts is entered in the field **Parts held (590)**. Use
-the English terminology listed.
+The field **Format, extent (300 $a)** is built up of three components: **Number of items, Format, Extent.** Note that an extent is
+not given for parts, including tablature parts; the extent of parts is entered in the field **Parts held (590)**.  
 
-**Items**: State the number of items held. Use **X** to indicate an unknown number of items.
+**Number of items**: State the number of items held. Use **X** to indicate an unknown number of items.
 
-**Format**: Use one of the following.  
+**Format**: Use one of the following English terms, in the singluar or plural as appropriate.  
+
 General:
 
-- **part(s)**: The notation of a work for an instrument or voice regardless of the number of staves per system (includes
-  piano, organ, piano four-hands). Use also for partbooks.
-- **score(s)**: Contains all the instruments and/or voices of a composition, as long as more than one performing force
+- **part**: The notation of a work for an instrument or voice regardless of the number of staves per system (includes
+  piano, organ, piano four-hands, no matter how many staves). Use also for partbooks.
+- **score**: Contains all the instruments and/or voices of a composition, as long as more than one performing force
   is involved. This includes works for voice and accompaniment.
 
 Kinds of scores:
 
-- **vocal score(s)**: Vocal part(s) with the accompaniment arranged for a keyboard instrument.
-- **keyboard score(s)**: The instruments are arranged for a keyboard instrument (no vocal parts). Indicate the extent
+- **vocal score**: Vocal part(s) with the accompaniment arranged for a keyboard instrument.
+- **keyboard score**: The instruments are arranged for a keyboard instrument (no vocal parts). Indicate the extent
   immediately following regardless of the number of staves per system.
-- **chorus score(s)**: A score that contains only the music for the voices.
-- **particella(s)**: A sketch or draft of a composition in a short score format.
-- **short score(s)**: All other kinds of reduced, condensed, or short scores.
+- **chorus score**: A score that contains only the music for the voices.
+- **particella**: A sketch or draft of a composition in a short score format.
+- **short score**: All other kinds of reduced, condensed, or short scores, or when the kind of reduced score cannot be determined.  
+- **tablature score**  
+- **choirbook**: A book in which all voices of a work are written separately so that the choir can read the music from one book. Choirbooks are input as with scores.  
 
 Special formats:
-
-- **tablature part(s)**: The type of tablature, if known, should be named in the field **General note (500).**
-- **tablature score(s)**
-- **choirbook(s)**: A book in which all voices of a work are written separately so that the choir can read the music
-  from one book.
-- **sketch(es)**: Use for sketches if the type of format cannot be more precisely determined.
-- **text document(s)**: Use for libretti, treatises, and other kinds of text documents. A note in **General note (500)**
-  may be necessary.
-- **prompt book(s)**: A document (can be a short score or text) used by a prompter for a stage work.
-- **table book(s)**: parts arranged on a page so that all performers can read from it while seated around a table.
+- **tablature part**: The type of tablature, if known, should be named in the field **General note (500).**  
+- **sketch**: Use for sketches if the type of format cannot be more precisely determined.
+- **text document**: Use for libretti, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
+- **prompt book**: A document (can be a short score or text) used by a prompter for a stage work.
+- **table book**: parts arranged on a page so that all performers can read from it while seated around a table.
 
 Other:
 
@@ -59,14 +56,13 @@ Other:
 - **other**: Use if none of the above apply. In such cases, explain with a note in the field **General note (500)**.
   The number of items or the extent is not required.
 
-For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590).**
+For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590).**  
 
 **Extent**: Enter the number of pages, leaves, or gatherings. Choose among the following abbreviations: **f** for
-folio, **p** for page, **lvs** for leaves (sheets), and **fds** for folds (gatherings). In this system, one **lvs**
-corresponds to two **f**, whereas one **fds** means at least one **lvs**.
+folio, **p** for page, **lvs** for leaves (sheets), and **fds** for folds (gatherings). In this system, one **lvs** corresponds to two **f**, whereas one **fds** means at least one **lvs**.
 
 You may also indicate single pages or folios within a manuscript collection. Use only one method of enumeration.
-Indicate other units (such as the conversion from folios to pages) in the field**General note (500)**. When indicating
+Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**. When indicating
 recto and verso, use both **r** and **v**.
 
 Do not indicate the extent for parts here. Extent is entered in the field **Parts held (590)**.
@@ -78,6 +74,7 @@ Do not indicate the extent for parts here. Extent is entered in the field **Part
 - 1 short score: 8 f.
 - 1 tablature score: p. 5-8
 - 1 keyboard score: f. 2r-4v
+- 1 choirbook: p. 45
 - various: 101 p.
 - 5 parts
 - 1 part
@@ -101,9 +98,8 @@ Pages change from roman to arabic numerals
 
 - XII p., p. 13-36
 
-Blank pages or foliation irregularities can be mentioned in the field**General note (500)**.
+Blank pages or foliation irregularities can be mentioned in the field **General note (500)**.
 
-- f. [1] blank
 - f. [2] blank
 - p. 272 occurs twice
 
@@ -129,7 +125,7 @@ Examples include:
 
 Enter the dimensions of the source: height x width in cm. Fractions of centimeters may be indicated by either a comma or
 period. A second set of dimensions can be given in parentheses. If there are more than two different sets of dimensions,
-enter the English phrase **Different sizes** ; further elaboration can be made in the field **General note (500)**.
+enter the English phrase **Different sizes**; further elaboration can be made in the field **General note (500)**.
 Formats such as **octavo**, **quarto**, etc. should be indicated in the field **Book format (340 $m)**.
 
 ##### Examples
@@ -139,7 +135,7 @@ Formats such as **octavo**, **quarto**, etc. should be indicated in the field **
 - 25.5 (21.5) x 32 (28.5) cm
 - Different sizes
 
-For printed items, if desired you may enter the dimensions of the printed area. Use indications such as "printed area"
+For printed items, if desired you may enter the dimensions of the printed area. Use English indications such as "printed area"
 or "plate mark." Separate this measurement from the measurement of the source with a semicolon. If dimensions vary,
 measure the title page and the first page of music (including, when applicable, an indication of what was measured).
 

@@ -1,5 +1,7 @@
-###	Help for transposing instruments
- 
+###	Help for transposing instruments  
+
+This table lists transposing instruments and what pitches they sound and are notated at. For music incipits (031 $p), transposing instruments should be notated at sounding pitch.
+
 | Tuning (highest to lowest) | Instruments | Transposition with respect to a) notation b) sounding pitch | A sounding c' is notated as | A notated c' sounds as |
 | --- | --- | --- | --- | --- |
 | in C (high) | piccolo, glockenspiel, celesta | a) sounds a perfect octave higher b) notated a perfect octave lower | c | c'' |
