@@ -1,23 +1,6 @@
-**Searching** in Muscat is available through a **faceted search** and through **filters**.
+## Searching
 
-### Faceted search
-
-The **Faceted search** (top menu in the middle) is available to search the data in a familiar OPAC setting. If you have editing rights for a particular source, an edit button will take you directly to the Muscat editing mode.
-
-An **incipit search** is available through the faceted search's Advanced search. A keyboard permits the easy insertion of notation. Four search modes are available, with various degrees of fuzziness:
-
-1. Exact pitch: Incipit matches the exact pitches.
-2. Interval: Exact pitches are ignored, but intervals are searched. This permits the inclusion of **transpositions** of a given melody.
-3. Refined pitch contour: Intervals are ignored but only the upward and downward movements of the melody are searched.
-4. Gross pitch contour: This is the fuzziest of all. The approximate contour of the melody is searched.
-
-At the bottom of the page, the field **Incipit** permits the user to enter raw Plaine & Easie code (it can be copied and pasted from a source record, for example). The musical staff preview is automatically updated as in the Source editor.
-
-All the other fields present in the Advanced Search can be combined with the incipit search.
-
-The RISM OPAC has a simplified incipit search under the [Advanced search](https://opac.rism.info/index.php?id=3&L=0). See the [help page](https://opac.rism.info/index.php?id=8&L=0#c38) for more information.
-
-Don't forget to always search for the incipit before entering an anonymous source! [Incipit search first](https://youtu.be/kKc0zzc8cbo)!
+**Searching** in Muscat is available through **filters** on the main Source page. For more extensive searching, including a music incipit search, use the public catalogs, the [RISM Catalog](https://opac.rism.info/) and [RISM Online](https://rism.online/).
 
 ### Muscat filters
 
@@ -56,8 +39,8 @@ Please note the following for all sections:
 Please note the following for searching **Sources**:
 
 - **Siglum contains**: Search by the letters in a siglum. This field is case-sensitive. For example:  
-  **D-&#42;** = all sources in Germany  
-  **D-B&#42;** = all sources in German cities that start with B  
+  **D-*** = all sources in Germany  
+  **D-B*** = all sources in German cities that start with B  
   **D-B** = all sources at the Staatsbibliothek zu Berlin
 
 ### Personal names
