@@ -2,7 +2,11 @@
 
 ## Watermarks
 
-**1. Figures** (Terms in italics refer to cross-references.)
+The section **Watermarks** contains standardized terms used to refer to watermarks.
+
+### Figures
+
+Terms in italics refer to cross-references.
 
 - abbot
 - _Agnus Dei: use_ lamb (Paschal)
@@ -106,7 +110,7 @@
 - wild man
 - wreath
 
-**2. Descriptions**
+### Descriptions
 
 - chain line
 - formed from a single piece of wire
