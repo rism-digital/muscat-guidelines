@@ -20,7 +20,7 @@ Enter as appropriate the volume, issue, year, and/or page numbers for the item. 
 
 For a chapter within a collection of essays, enter the page numbers of the chapter.  
 
-##### Example:
+##### Example  
 
 - p. 76-109
 

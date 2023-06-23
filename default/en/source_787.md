@@ -7,7 +7,7 @@ When you indicate a relationship to another source, a link will appear in the fu
 both sources in question belong to your library, you have the option of indicating the relationship in one record or in
 both.
 
-**Relationship (787 $4)**
+#### Relationship (787 $4)  
 
 Select the term that describes the relationship between the source in hand and another source. The relationships used
 are the [unconstrained properties from the RDA Registry](http://www.rdaregistry.info/Elements/u/%20).
@@ -27,10 +27,9 @@ are the [unconstrained properties from the RDA Registry](http://www.rdaregistry.
   inserted into an opera.
 - **Published in** [P60195]: The source in hand was published in the related source.
 
-**Note (787 $n)**
+#### Note (787 $n)  
 
-Briefly describe the nature of the relationship. Additional details may also be given in the field **General note (
-500**).
+Briefly describe the nature of the relationship. Additional details may also be given in the field **General note (500**).
 
 ##### Examples
 
@@ -41,6 +40,6 @@ Briefly describe the nature of the relationship. Additional details may also be 
 - Published in “Intabulatura di lauto, libro quarto” (Scotto, 1546).
 - Inserted after Act II, Scene 3 of the opera
 
-**RISM ID number (787 $w)**
+#### RISM ID number (787 $w)  
 
 Enter the RISM ID number of the related source or use the magnifying glass button to search.

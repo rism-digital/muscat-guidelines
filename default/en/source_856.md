@@ -1,4 +1,4 @@
-### External resource (856)
+### External resource (856)  
 
 Use this field to link to an external resource that bears a direct connection to the source being described.
 
@@ -8,7 +8,7 @@ Enter the full URL of the external resource. Always use permalinks.
 
 #### Note about external resource (856 $z)
 
-This field is required when entering a link to an external resource.
+**This field is required when entering a link to an external resource.**
 
 Enter a brief description that explains why the URL is relevant to the source being described. Enter using your
 cataloging language.
@@ -23,33 +23,34 @@ cataloging language.
 - Link to record in Bach Digital
 - Link to work in the Frescobaldi Thematic Catalogue Online
 - Entry in the church registry
-- Link to RISM ID no. 806155758, GB-Lbl Add. 14209 f.23r-27v, a setting by N. Porpora of this text
-- Concordant source in GB-Ob
+
 
 #### Link type (856 $x)
 
-This field is required when entering a link to an external resource. Select from the following:
+**This field is required when entering a link to an external resource.**
+
+Select from the following:
 
 - **Digitized source**: The link is to an external website which is a digitized copy of the resource being described.
   The preference is to link to institutional repositories but if one is not available then links to external
-  repositories such as the Internet Archive or IMSLP are allowed. For collections, it is not necessary to duplicate the
-  same link in the collection main entry and the individual entries.  
-  ##### Example:[  
-  https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)
-- **IIIF manifest**: The linked object is a machine-readable JSON object processed by an internal document viewer such
-  as diva.js. The document is embedded in the web page directly. In many cases, "manifest," "iiif," or similar appears
-  in the link.  
-  ##### Example:[https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)
+  repositories such as the Internet Archive or IMSLP are allowed. If a link to a digitized source is included in a record for a collection, it is not necessary to duplicate the
+  same link in the individual entries.  
+ - Example  
+  [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)
+- **IIIF manifest (digitized source)** and **IIIF manifest (other)**: The linked object is a machine-readable JSON object. IIIF links should only be to the manifest, not to a digital surrogate. IIIF manifests do not display the image but rather consist of machine-readable text that must be processed by an internal document viewer such
+  as diva.js before it displays a meaningful image. When viewing the manifest in a web browser, it will start with the curly bracket {. The document is embedded in the web page directly. In many cases, "manifest," "iiif," or similar appears
+  in the link.   
+  **IIIF manifest (digitized source)** should be used when the manifest represents a digital surrogate of the source being described.  **IIIF manifest (other)** should be used when the manifest represents an element other than the full source, such as a watermark.  
+ - Example
+  [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
 
-In cases where both links to an external viewer and an IIIF manifest are available, repeat the field and list both links
+ In cases where both links to an external viewer and an IIIF manifest are available, repeat the field and list both links
 separately.
-
-##### Examples
-
-- External resource: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
+ - Examples
+   - External resource: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
   Note: digitized version  
   Link type: digitized source
-- External
+   - External
   resource: [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
   Note: IIIF manifest  
   Link type: IIIF manifest
@@ -64,10 +65,7 @@ link to a page where the link to the digitized source can be easily found (such 
 catalog). You may include portions of the digitized source (such as a few pages) if a fully digitized version is not
 available.
 
-Links entered as digitized music appear in the filter "Digitized music" in the public OPAC (opac.rism.info).
-
-**Link type 856 $x: Other**
-
+**Link type 856 $x: Other**  
 Other kinds of external resources can include the following. Make sure it is always clear to the user why a link is
 being included, such as in a **General note (500)**.
 
@@ -90,8 +88,7 @@ being included, such as in a **General note (500)**.
 - **Websites**  
   Includes project websites, websites of external funding agencies, or other relevant websites.
 - **Other RISM records**  
-  Only link to another RISM record if the record has direct bearing to the source being described. Only use permalinks
-  from the RISM OPAC ([https://opac.rism.info/)](https://opac.rism.info/)). It should be clear to the user why the
+  Only link to another RISM record if the record has direct bearing to the source being described. Only use permalinks. It should be clear to the user why the
   record is relevant to the source. At a minimum, name the holding library, shelfmark, and RISM ID number in a note.
   Sometimes a connection to a different source might be better explained in a **General note (500)**.   
   If you refer to other RISM records elsewhere in you record, it is not required to link to them in this field.  

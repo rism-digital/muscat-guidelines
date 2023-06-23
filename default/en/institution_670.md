@@ -15,7 +15,7 @@ If no bibliography exists, naming the essential sources is sufficient.
 #### Source citation (670 $9)
 
 Enter a citation for a published work or a description of any source or action that provided information about the
-heading of the institution.
+heading of the institution. This field can also be used as an alternative to entering items individually through the Secondary literature database.
 
 #### Information found (670 $b)
 

@@ -1,6 +1,7 @@
 ### Provenance (561)
 
-#### Provenance (561 $a)
+#### Provenance (561 $a)  
+
 Use this field for general notes about the provenance of the item as well as ownership marks. Enter using your
 cataloging language.
 
@@ -12,6 +13,6 @@ how the current holding institution acquired the item goes in the field **Source
 ##### Examples
 
 - Stamp on p. 2: "Stadtbibliothek Danzig"
-- Oval stamp on p. 1: "Kapiteljski | arhiv | ŠAK"
+- Oval stamp on p. 1: "Kapiteljski \| arhiv \| ŠAK"
 - "Bayada Padrone" (name found at end)
 - Originally owned and maintained by Nikolaos Mavropoulos, ms was sold by his heirs after his death.

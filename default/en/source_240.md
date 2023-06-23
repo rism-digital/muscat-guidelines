@@ -1,6 +1,6 @@
 ### Standardized title (240)
 
-The title is entered here in a standardized form, which brings together under the same title compositions which, despite
+The title is entered here in a standardized form. The standardized title brings compositions together under the same title  which, despite
 having a variety of names, are the same or similar. Also called the "filing title" or "uniform title."
 
 #### Standardized title (240 $a)
@@ -17,23 +17,27 @@ A standardized title can be generated from the following, in order of preference
 3. Genres
 4. Tempo markings
 
-1. **Distinctive titles**  
-   Distinctive titles include all kinds of stage works, oratorios, cantatas, and songs, and also certain kinds of
-   instrumental music (such as character pieces from the 18th century with a distinctive, individual title).
+##### 1. Distinctive titles    
+
+Distinctive titles include all kinds of stage works, oratorios, cantatas, and songs, and also certain kinds of instrumental music (such as character pieces from the 18th century with a distinctive, individual title).
 
 Enter the distinctive title in standard spelling as in (1) New Grove, (2) MGG, (3) catalogs of works, and/or (4) other
 reference books. Do not omit initial articles (the, a, an, der, die, le, l', etc.).
 
 Popular names or nicknames (such as "Eroica" or "Nelson Mass") do not count as standardized titles. Such names are
-entered in the field **Additional titles (730 $a)**.
+entered in the field **Additional titles (730 $a)**.  
 
-##### Examples  
- - Die Forelle  
- - Die Zauberflöte  
- - The beggar's opera
+In English, sentence case is preferred. In French, the simplified French rules ([Règles simplifiées](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#Titres_d%E2%80%99%C5%93uvres_ou_de_p%C3%A9riodiques)) are preferred.  
 
-2. **Text incipit**  
-   Enter the text incipit as the standardized title for vocal pieces if there is no distinctive title.
+###### Examples  
+
+- Die Forelle  
+- Die Zauberflöte  
+- The beggar's opera
+
+##### 2. Text incipit  
+
+Enter the text incipit as the standardized title for vocal pieces if there is no distinctive title.
 
 If a source consists of a recitative and aria or a scena and aria, the text incipit of the aria is always used as the
 standardized title. Apply the same principles to a recitative and cavatina, scena and rondo, or similar combinations. If
@@ -54,57 +58,69 @@ Make sure that the text incipit in this field is identical with the text incipit
 With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use
 the text incipit in its entirety for the text incipit.
 
-##### Examples  
- - Der Mond ist aufgegangen  
- - Gloria [with text incipit: Gloria, in excelsis Deo et in terra pax]
+###### Examples  
 
-3. **Genre**  
-   Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In
-   most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a
-   corresponding **Subject heading (650)** is used. Please consult the appendix **Standardized title – Subject heading**
-   in the **Guidelines** for assistance.
+- Der Mond ist aufgegangen  
+- Gloria [with text incipit: Gloria, in excelsis Deo et in terra pax]
 
-##### Examples  
- - Symphonies  
- - Allemandes
+##### 3. Genre  
 
-4. **Tempo indications**  
-   Enter the tempo indication if the genre cannot be determined. If none of these options are available, use the
-   following terms:  
-   -Songs (vocal pieces)  
-   -Pieces (a generic piece)  
-   -Movements (a single movement of an instrumental piece without a tempo indication and of indeterminate character)
+Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Please consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
 
-##### Examples  
- - Presto  
- - Lento
+###### Examples  
 
-**Special rules:**
+- Symphonies  
+- Allemandes
 
-- **Collections**. In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many
-  works belong to the collection, followed by a genre that is as comprehensive as possible.  
-  ##### Examples    
-  25 Arias  
-  3 Instrumental pieces
-- **Composite volumes**. Enter a number corresponding to the number of items involved plus the word "Items."  
-  ##### Example  
-  11 Items
-- **Variations.** Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the
-  piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
-- **Insertions.** Enter the text incipit of the inserted piece as the standardized title here. In the field **Additional
-  title (730)**, enter the name of the opera or larger work and select **Inserts** next to **Subheading.**
-- **Non-Latin scripts.** If your source has a title that uses non-Latin letters or characters (
-  Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Standardized title** using the
-  original script. Translations or transliterations are optional and may be added in the field **Additional title (
-  730)**.
+##### 4. Tempo indications  
+
+Enter the tempo indication if the genre cannot be determined. If none of these options are available, use the following terms:  
+
+- Songs (vocal pieces)  
+- Pieces (a generic piece)  
+- Movements (a single movement of an instrumental piece without a tempo indication and of indeterminate character)
+
+###### Examples  
+
+- Presto  
+- Lento
+
+#### Special rules
+
+##### Collections  
+
+In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.  
+
+###### Examples    
+
+- 25 Arias  
+- 3 Instrumental pieces
+
+##### Composite volumes  
+
+Enter a number corresponding to the number of items involved plus the English word "Items."  
+
+###### Example  
+
+- 11 Items
+
+##### Variations
+
+Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
+
+##### Insertions  
+
+Enter the text incipit of the inserted piece as the standardized title here. In the field **Additional title (730)**, enter the name of the opera or larger work and select **Inserts** next to **Subheading.**  
+
+##### Non-Latin scripts  
+
+If your source has a standardized title that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Standardized title** using the original script. Translations or transliterations are optional and may be added in the field **Additional title (730)**.
 
 #### Arrangement statement (240 $o)
 
 Select **Arrangement** if the work is an arrangement of another work.
 
-Note that retextings and transpositions are not considered arrangements. In such cases, enter the name of the
-responsible person, if known, under **Additional personal name (700)**. Although the works are not considered
-arrangements, the person is referred to there as "Arranger".
+Note that retextings and transpositions are not considered arrangements. In such cases, enter the name of the responsible person, if known, under **Additional personal name (700)**. Although the works are not considered arrangements, the person is referred to there as "Arranger".
 
 Arrangements should also be distinguished from independent works (free elaborations), such as variations, paraphrases,
 parodies, and fantasies on themes from the original work.
@@ -133,13 +149,48 @@ cannot be clearly established.
 
 Do not translate modes into modern key names.
 
-See “Ecclesiastical modes” for the Western and Byzantine church modes and “Keys” for the list of keys under **General
-abbreviations and terms**.
+The following Western church modes are available:
+- 1st tone (Dorian)
+- 1st tone (Dorian), transposed
+- 2nd tone (Hypodorian)
+- 2nd tone (Hypodorian), transposed
+- 3rd tone (Phrygian)
+- 3rd tone (Phrygian), transposed
+- 4th tone (Hypophrygian)
+- 4th tone (Hypophrygian), transposed
+- 5th tone (Lydian)
+- 5th tone (Lydian), transposed
+- 6th tone (Hypolydian)
+- 6th tone (Hypolydian), transposed
+- 7th tone (Mixolydian)
+- 7th tone (Mixolydian), transposed
+- 8th tone (Hypomixolydian)
+- 8th tone (Hypomixolydian), transposed
+- 9th tone (Aeolian)
+- 9th tone (Aeolian), transposed
+- 10th tone (Hypoaeolian)
+- 10th tone (Hypoaeolian), transposed
+- 11th tone (Ionian)
+- 11th tone (Ionian), transposed
+- 2th tone (Hypoionian)
+- 12th tone (Hypoionian), transposed
+
+The following Byzantine church modes are available:  
+- Ēchos prōtos (First mode of Byzantine music)  
+- Ēchos deuteros (Second mode of Byzantine music)  
+- Ēchos tritos (Third mode of Byzantine music)  
+- Ēchos tetartos (Fourth mode of Byzantine music)  
+- Ēchos plagios prōtos (First plagal mode of Byzantine music)  
+- Ēchos plagios deuteros (Second plagal mode of Byzantine music)  
+- Ēchos barys (Third plagal mode of Byzantine music)  
+- Ēchos plagios tetartos (Fourth plagal mode of Byzantine music)   
+
+**Obsolete procedures**: Older RISM cataloging guidelines allowed multiple key signatures to be entered in this field, separated by a semicolon. This practice was discontinued with the introduction of Muscat.  
 
 #### Scoring summary (240 $m)
 
-**Required fieldexcept for the following: operas and oratorios with the standard instrumentation V (X), Coro,
-orch  
+**Required field except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch**
+
 If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
 Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each
@@ -152,16 +203,16 @@ English.
 
 Enter groups of instruments in the following order:
 
- - Solo voices
- - Chorus
- - Solo instruments
- - Strings
- - Woodwinds
- - Brass
- - Plucked instruments
- - Percussion
- - Keyboard instruments
- - Basso continuo
+- Solo voices
+- Chorus
+- Solo instruments
+- Strings
+- Woodwinds
+- Brass
+- Plucked instruments
+- Percussion
+- Keyboard instruments
+- Basso continuo
 
 When more than one of the same voice or instrument is indicated, place the number in parentheses after the part
 designation, such as **B (2)**. Use **V** to indicate an unknown vocal part and **i** for an unknown instrument. Also
@@ -172,8 +223,7 @@ concerto. Do not list a part here if it only has occasional solo passages, such 
 cantata.
 
 In the case of arrangements, the scoring summary refers to the personnel required in the present source, not in the work
-on which an arrangement is based. If the instrumentation of the original work is known, specify it in the field **
-General note (500)**. In the case of a **Collection**, only use the field if the particular scoring is applicable to
+on which an arrangement is based. If the instrumentation of the original work is known, specify it in the field **General note (500)**. In the case of a **Collection**, only use the field if the particular scoring is applicable to
 all the works contained in the collection.
 
 This field may be repeated in cases where alternative instrumentation is suggested, such as a song that is for either
@@ -186,42 +236,36 @@ in the section **Figured bass in scores and/or parts** for guidance with related
 Omit the scoring summary if the performing forces are unknown or uncertain.
 
 ##### Examples  
- - A, Coro, orch  
- - Bariton, pf  
- - V (3), strings, bc  
- - V (4), Coro, orch, org   _for a mass_  
- - cl, orch _ for a clarinet concerto_
+- A, Coro, orch  
+- Bariton, pf  
+- V (3), strings, bc  
+- V (4), Coro, orch, org   _for a mass_  
+- cl, orch _for a clarinet concerto_
 
 Please use the following standard instrumentation when applicable.
 
 String quartet
-
 - vl (2), vla, vlc
 
 String quintet (2 violas)
-
 - vl (2), vla (2), vlc
 
 String quintet (2 cellos)
-
 - vl (2), vla, vlc (2)
 
 String quintet (with double bass)
-
 - vl (2), vla, vlc, cb
 
 Piano trio
-
 - vl, vlc, pf
 
 Wind quintet
-
 - fl, ob, cl, cor, fag
 
 Flute quartet (all flutes)
-
 - fl (4)
 
 Flute quartet (flute with strings)
-
 - fl, vl, vla, vlc
+
+_MARC note: In records without a composer in the field 100 $a, the field 240 is exported as 130._

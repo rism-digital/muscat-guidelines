@@ -4,8 +4,7 @@
 
 #### Title of item (240 $a)
 
-Enter the title of the item, including subtitles. Translations of the title can go in the field **Additional title (
-730)**. Book reviews can be indicated by the prefix [review of:] and the name of the item.
+Enter the title of the item, including subtitles. Translations of the title can go in the field **Additional title (730)**. Book reviews can be indicated by the prefix [review of:] and the name of the item.
 
 #### Category (240 $g)
 

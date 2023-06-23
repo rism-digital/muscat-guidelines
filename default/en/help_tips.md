@@ -22,9 +22,7 @@ example, [unicode-table.com](https://unicode-table.com/) for Unicode characters.
 
 A folder can be created by selecting records on the main Sources page, then going to **Batch actions** above the list of
 records (on the upper left) and clicking on **Create folder with items**. You can also use **Batch actions** to add the
-selected records to an existing folder. View the items in your folder by selecting it on the right under **Is in
-folder**. From there, you can sort and search as usual. After any search in Sources, buttons under **Actions**
-appear: **Add all to new folder** and **Add all to an existing folder**. This refers to all of the records in the
+selected records to an existing folder. View the items in your folder by selecting it on the right under **Is in folder**. From there, you can sort and search as usual. After any search in Sources, buttons under **Actions** appear: **Add all to new folder** and **Add all to an existing folder**. This refers to all of the records in the
 current list of search results.
 
 On the **Folders** page linked from the top menu, you can find your folder by typing its name in the filter **Any field
@@ -32,7 +30,7 @@ contains**. You can also delete your own folders.
 
 #### 5. How can I export records from Muscat?
 
-Single records can be viewed in XML format by appending .xml to any record's URL in the viewing mode. You can export
+Single records can be viewed in XML format by appending .xml to any record's URL in the full record view. You can export
 your own folders containing records for sources (up to 25,000 records) in MARCXML or CSV format.
 
 #### 6. How can I check for errors in older records?

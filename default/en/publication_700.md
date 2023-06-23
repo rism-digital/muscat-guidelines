@@ -18,7 +18,7 @@ Select from the following. (The three-letter codes refer to the MARC relator cod
 
 ##### Example
 
-For Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst_  (short title: ReulF 2001):
+For Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst_ (short title: ReulF 2001):
 - Author (100): Reul, Barbara M.
 - Additional personal name (700): Fasch, Johann Friedrich (composer)
 - Additional personal name (700): Hedwig Friederike, Fürstin von Anhalt-Zerbst (associated name)

@@ -31,4 +31,4 @@ Enter additional contact information, such as:
 - **Telephone number** (ISDIAH 5.2.2)
 - **Fax number** (ISDIAH 5.2.2)
 - **Contact person** (ISDIAH 5.2.3): It is useful to have the e-mail of a contact person, especially for institutions that do not specialize in music, such as administrative or religious archives.
-- **Email address**  (ISDIAH 5.2.3)
+- **Email address** (ISDIAH 5.2.3)
