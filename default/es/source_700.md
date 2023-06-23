@@ -1,12 +1,12 @@
 ### Nombre personal adicional (700)
 
-This field appears twice for sources. It appears in the section **People and institutions** to list all additional people involved with the source. It is also in the section **Material description** if you wish to associate additional names with particular material groups, especially when creating multiple material groups.
+This field appears twice for sources. It appears in the section **People and institutions** to list all additional people involved with the source. It is also in the section **Material description** if you wish to associate additional names with particular material groups.
 
 #### Nombre personal adicional (700)
 
-Enter all personal names that appear on the source. Este campo está vinculado al registro de autoridad de Nombres personales. Names not yet in the authority file may be added.
+Enter all personal names that appear on the source as well as names that can be inferred. Este campo está vinculado al registro de autoridad de Nombres personales. Names not yet in the authority file may be added. Do not use **Anonymus** in this field.
 
-Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as an ** Additional institution (710)**.
+Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as an **Additional institution (710)**.
 
 In the case of parent records for collections or composite volumes, enter a name only if the name applies to all the works in the collection. Enter names associated with individual works in the individual records.
 
@@ -15,7 +15,7 @@ In the case of parent records for collections or composite volumes, enter a name
 Seleccione un calificador para describir el nivel de certeza de la atribución, en caso de que se dé alguna de las situaciones siguientes. Si no es el caso, deje el campo en blanco.
 
 - **Supuesta** significa que el nombre está presente en la fuente, pero la atribución es cuestionable o dudosa.
-- **Certificada** significa que el nombre está parcial o totalmente ausente en la fuente, pero la atribución es (razonablemente) cierta y se basa en la comparación con fuentes concordantes, bibliografía secundaria u otros recursos de investigación. Esto sucede en la mayoría de los casos.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is (reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. Esto sucede en la mayoría de los casos.
 - **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
 - **Mal atribuida** significa que hay un nombre en la fuente pero es incorrecto.
 
@@ -53,4 +53,4 @@ Keep in mind that when some people are named on sources, an institution is actua
 - **Publisher [pbl]**: Only enter the publisher as a person if the actual human is meant, such as a Beethoven manuscript that mentions Carl Friedrich Peters by name. (Peters functioning as the company that issues the printed music, on the other hand, is entered as an institution.)
 - **Text author [lyr]**: An author of the words of a non-dramatic musical work (such as the text of a song), except for oratorios.
 - **Translator [trl]**
-- **Type designer [tyd]**: The person who designed the typeface **.**
+- **Type designer [tyd]**: The person who designed the typeface.
