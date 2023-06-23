@@ -1,14 +1,23 @@
-## Cataloging language
+## Language
 
-**Use of English vs. other languages**  
-English terminology or fixed English abbreviations are required in some fields while in other fields, other languages are acceptable.
+The section **Language** clarifies the use of English and other languages in Muscat.
 
-When English is required, it is indicated in the guidelines for the applicable field.
+### Use of English vs. other languages
 
-**Cataloging language**  
-When English is not required, you may use what the guidelines refer to as your **cataloging language**. RISM allows the following cataloging languages: English, French, German, Italian, Portuguese, and Spanish. Alternately, other languages are allowed as long as a summary is provided in one of the six cataloging languages. The guidelines always state when the cataloging language may be used.
+English terminology or standardized English abbreviations are required in some fields. When English is required, it is indicated in the guidelines for the applicable field.
 
-In the guidelines that follow, "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
+In other fields, non-English languages are permitted.
 
-**Transliterations**  
+### Cataloging language
+
+When English is not required, you may use what the guidelines refer to as your **cataloging language**. RISM allows the following cataloging languages: English, French, German, Italian, Portuguese, and Spanish.
+
+ Other languages are allowed as long as a summary is provided in one of the six cataloging languages. The guidelines always state when you cataloging language may be used.
+
+In the guidelines that follow, the phrase "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
+
+Your cataloging language for Sources can be indicated in the field **Language of cataloging (040 $b)**.
+
+### Transliterations
+
 National groups are responsible for determining what transliteration tables should be used when transliterating their language.
