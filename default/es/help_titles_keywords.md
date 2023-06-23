@@ -21,37 +21,25 @@ Aquí hay algunos ejemplos para situaciones especiales:
    Use **Chorale arrangements** tanto como Título uniforme y como Descriptor.
 
 3. Un popurrí cuya música proviene de varias óperas:  
-   Use  **_Potpourri _** como título uniforme. Introduzca los nombres de las óperas en el campo **Título adicional (730). Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).</p></li>
+   Use  **_Potpourri _** como título uniforme. Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
 
-4
+4. A potpourri where you know that the music comes from several operas:  
+   Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
 
-A potpourri where you know that the music comes from several operas:  
-  Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+5. Un popurrí respecto del cual se desconoce la procedencia de la música:  
+   Use  **Potpourris ** como título y como descriptor.
 
-5
+6. Un arreglo de música para vientos de una obra teatral cuyo nombre se conoce:  
+   Usa el nombre de la obra escénica como título uniforme y seleccione  **Arreglo**. Introduzca como descriptor  **Wind music**.
 
-Un popurrí respecto del cual se desconoce la procedencia de la música:  
-  Use  **Potpourris ** como título y como descriptor.
+7. Un arreglo de música para vientos de una obra teatral cuyo nombre se desconoce:  
+   Utilice  **Wind music** tanto como título uniforme y como descriptor.
 
-6
+8. Para bocetos de composiciones desconocidas, utilice el título distintivo y el descriptor **Skteches**. Para bocetos de composiciones conocidas, por favor utilice el título distintivo de la obra y **Sketches** como segundo descriptor.
 
-Un arreglo de música para vientos de una obra teatral cuyo nombre se conoce:  
-  Usa el nombre de la obra escénica como título uniforme y seleccione  **Arreglo**. Introduzca como descriptor  **Wind music**.
+9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
 
-7
-
-Un arreglo de música para vientos de una obra teatral cuyo nombre se desconoce:  
-  Utilice  **Wind music** tanto como título uniforme y como descriptor.
-
-8
-
-Para bocetos de composiciones desconocidas, utilice el título distintivo y el descriptor **Skteches**. Para bocetos de composiciones conocidas, por favor utilice el título distintivo de la obra y **Sketches** como segundo descriptor.
-
-9
-
-En casos de completa falta de certeza, como sucede con un orgánico desconocido, ingrese **Pieces** como título uniforme y **Pieces** como descriptor.</ol>
-
-La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Please note that this list is not comprehensive.
+La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Please note that this list is not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English in the plural) and not in translation.
 
 #### Música instrumental y vocal en general
 
