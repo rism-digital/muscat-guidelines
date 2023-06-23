@@ -1,5 +1,6 @@
 ### Figured bass in scores and/or other parts
-[Intro sentence]
+
+[intro sentence]
 
 #### Figured bass, part
 
