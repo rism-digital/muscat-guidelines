@@ -15,8 +15,8 @@ Select the cataloging level.
 _Details will follow._
 
 - **Brief**
-- **Full**
 - **Standard**
+- **Full**
 
 #### Material examined (980 $c)
 
