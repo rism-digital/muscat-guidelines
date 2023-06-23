@@ -20,7 +20,7 @@ Introduzca, según corresponda, los números de volumen, número, año y/o pági
 
 For a chapter within a collection of essays, enter the page numbers of the chapter.
 
-##### Ejemplo:
+##### Example
 
 - Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
   _Ejemplo:_  
