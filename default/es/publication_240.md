@@ -4,7 +4,7 @@
 
 #### Título del ítem (240 $a)
 
-Introduzca el título del ítem, incluidos los subtítulos. Las traducciones del título pueden ir en el campo **Título adicional (730).** Las reseñas de libros se pueden indicar con el prefijo [reseña de:] y el nombre del ítem. Book reviews can be indicated by the prefix [review of:] and the name of the item.
+Introduzca el título del ítem, incluidos los subtítulos. Translations of the title can go in the field **Additional title (730)**. Book reviews can be indicated by the prefix [review of:] and the name of the item.
 
 #### Categoría (240 $g)
 
