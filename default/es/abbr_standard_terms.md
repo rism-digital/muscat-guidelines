@@ -2,7 +2,9 @@
 
 ## Términos estándar
 
-Use these standardized English terms in fields where English is required.
+The section **Standard terms** contains standardized English terms that should be used in fields where English is required.
+
+### General terms
 
 -margen superior ampliamente recortado | | crossed out / struck through | durchstrichen | tachado | | cut | beschnitten | cortado | | device -publisher's device | Signet-Verlagssignet | dispositivo -dispositivo del editor | | diminish | verkleinern | disminuir | | diminished | verkleinert | disminuido | | dotted | punktiert | apuntillado | | double | verdoppeln | doble | | double dotted | doppelt punktiert | doble apuntillado | | (double) dot | (doppelte) Punktierung | doble (puntillo) | | double flat | Doppel-B | doble bemol | | double sharp | Doppelkreuz | doble sostenido | | doubled | verdoppelt | duplicado | | dust cover title | Titel auf Schutzumschlag | título en sobrecubierta | | engraved | gestochen | grabado | | erased | ausradiert | borrado | | flatten | erniedrigen | descendido / bemolado | | frame-decorative frame-floral decorative frame | Rahmen-Zierrahmen-floraler Zierrahmen | marco-marco decorativo -marco decorativo floral | | G clef | G-Schlüssel | clave de Sol | | grace note | Vorschlag | acciacatura | | great octave | große Oktave | gran octava | | guard sheet | Deckblatt | guarda | | halve | halbieren | mitad | | halved | halbiert | disminuido a la mitad | | heading | Überschrift | encabezado | | illegible | unlesbar | ilegible | | incipit | Incipit | íncipit | | indication of parts | Stimmbezeichnung/en | indicación de partes | | key signature | Tonartvorzeichnung | tonalidad | | label on cover | Umschlagtitel auf Etikett / Umschlagtitel aufgeklebt | etiqueta en portada | | left before accolade | links von der Akkolade |   | | metre / meter | Taktart | métrica | | missing-text missing |  -Textverlust | faltante-texto faltante | | monogram | Monogramm | monograma | | natural sign | Auflösungszeichen | becuadro | | note head | Notenkopf | óvalo / cabeza de nota | | note stem | Notenhals | plica | | on previous page | auf der vorhergehenden Seite | en la página anterior | | pasteover S | Aufgeklebter Titel einer S-Stimme | S pegada encima | | printed | gedruckt | impreso | | printed title on ...raised     A with raised e [typeography] | Titelaufdruck auf ...überhöht     A mit e überhöht | título imreso en...superíndoceA con e elevada [tipografía] | | red chalk | Rötel | sanguina | | role book | Rollenbuch | libro de roles | | sharp / flat sign | Erhöhungs- / Erniedrigungszeichen | sostenido / bemol | | sharpen | erhöhen | ascendido | | sic | sic | sic | | small octave | kleine Oktave | octava corta | | soprano clef | Sopranschlüssel | clave de soprano | | space | Spatium, Zwischenraum | espacio | | spine title | Rückentitel | título del lomo | | spine title, printed | Rückentitel gedruckt | título del lomo, impreso | | tenor clef | Tenorschlüssel | clave de tenor | | tie | Haltebogen | ligadura de prolongación | | time signature | Taktvorzeichen | indicación de compás | | title in margin | Titel am Blattrand | título en el margen | | title on flyleaf | Titel auf Vorsatzblatt | título en la solapa | | title page | Titelseite | portada | | transposed up / down a major third | um eine große Terz aufwärts / abwärts transponiert | transportado a la tercera mayor ascendente / descendente | | treble clef | Violinschlüssel | clave de violín | | upbeat | Auftakt | levar | | vignette | Vignette | viñeta | |   |   |   |
 
@@ -107,11 +109,11 @@ C double sharp
 
 - DE: cisis
 
-C flat
+C-flat
 
 - DE: ces
 
-C sharp
+C-sharp
 
 - DE: cis
 
@@ -192,12 +194,11 @@ cut
 - DE: beschnitten
 
 device
-
 - DE: Signet
 
-publisher's device
+-publisher's device
 
-- DE:Verlagssignet
+ - DE: Verlagssignet
 
 diminish
 
@@ -445,7 +446,7 @@ viñeta
 
 - DE: Vignette
 
-Note values - Notenwerte
+### Note values - Notenwerte
 
 A slash indicates American English / British English.
 
@@ -505,7 +506,7 @@ octuplet
 
 - DE: Oktole
 
-Rest values - Pausenwerte
+### Rest values - Pausenwerte
 
 whole rest / semibreve rest
 
