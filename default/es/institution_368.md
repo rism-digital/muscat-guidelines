@@ -11,8 +11,9 @@ Seleccione uno de los siguientes tipos:
 - Archivo
 - Biblioteca
 - Centro de documentación
-- Copista
+- Congress
 - Editorial
+- Institution
 - Intérprete
 - Fabricante de papel
 - Instituto de investigación
@@ -21,6 +22,7 @@ Seleccione uno de los siguientes tipos:
 - Museo
 - Nombre corporativo
 - Otros
+
 
 #### Tipo de jurisdicción (368 $b)
 
