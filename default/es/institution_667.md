@@ -1,6 +1,6 @@
 ### Internal notes (667; ISDIAH 5.6.9)
 
-En este campo se documenta información adicional relativa a la creación y cambios de la descripción.
+En este campo se documenta información adicional relativa a la creación y cambios de la descripción. Internal notes are not published in the RISM catalogs or available in the RISM open data.
 
 #### Internal notes (667)
 
