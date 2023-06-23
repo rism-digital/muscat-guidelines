@@ -2,7 +2,7 @@
 
 ## Abreviaturas y términos generales
 
-Estas son algunas abreviaturas y términos generales que se pueden encontrar en Muscat. Cuando se escribe en campos de texto libre, es una buena práctica escribir los términos en su totalidad cuando sea posible, en beneficio de otros usuarios que pueden no estar familiarizados con estas abreviaturas.
+The section **General abbreviations and terms** contains terminology found throughout Muscat. When writing in free-text fields, it is advisable to avoid abbreviations and instead write out terms in full, when possible, for the benefit of other users who may not be familiar with these abbreviations.
 
 acc
 
@@ -24,6 +24,18 @@ Autograph
 
 - EN: possible autograph manuscript
 
+B (key)
+
+- EN: B major (five sharps)
+
+b (key)
+
+- EN: B minor (two sharps)
+
+B\|b (key)
+
+- EN: B-flat major (two flats)
+
 b.fig
 
 - EN: figured bass on a bass part
@@ -34,11 +46,11 @@ cfr.
 
 Chb
 
-- EN: choirbook (in printed music)
+- EN: choirbook (especially in records for printed music)
 
 Chor-P
 
-- EN: chorus score (in printed music)
+- EN: chorus score (especially in records for printed music)
 
 clm.
 
@@ -50,11 +62,11 @@ cm
 
 CMP
 
-- EN: composite volume (type of Muscat source)
+- EN: composite volume (type of Muscat template)
 
 COL
 
-- EN: collection (type of Muscat source)
+- EN: collection (type of Muscat template)
 
 collab.
 
@@ -70,7 +82,7 @@ comp.
 
 deest
 
-- EN: not in (for catalogs of works)
+- EN: not in, missing from (especially in catalogs of works)
 
 dir.
 
@@ -90,7 +102,7 @@ edn.
 
 EDT
 
-- EN: printed music edition (type of Muscat source)
+- EN: printed music edition (type of Muscat template)
 
 enl.
 
@@ -106,9 +118,9 @@ etc.
 
 ex.
 
-- EN: copies (for printed music)
+- EN: copies (especially in records for printed music)
 
-_Extractos
+Extractos
 
 - EN: excerpt(s)
 
@@ -138,7 +150,7 @@ idem
 
 i.e.
 
-- EN: that is, for example
+- EN: that is
 
 Incip.
 
@@ -162,19 +174,19 @@ keyboard (etc.) score
 
 KLA
 
-- EN: piano score/vocal score (in printed music)
+- EN: piano score/vocal score (especially in records for printed music)
 
 kpl.
 
-- EN: complete (in printed music)
+- EN: complete (especially in records for printed music)
 
 LEC
 
-- child record (subentry) in a printed libretto collection (type of Muscat source)
+- child record (subentry) in a printed libretto collection (type of Muscat template)
 
 LED
 
-- EN: printed libretto (type of Muscat source)
+- EN: printed libretto (type of Muscat template)
 
 Lith.
 
@@ -182,7 +194,7 @@ Lith.
 
 LSR
 
-- EN: handwritten libretto (type of Muscat source)
+- EN: handwritten libretto (type of Muscat template)
 
 lvs.
 
@@ -194,23 +206,23 @@ Ms., MS
 
 MSS
 
-- EN: music manuscripts
+- EN: manuscripts
 
 MSR
 
-- EN: music manuscript (type of Muscat source)
+- EN: music manuscript (type of Muscat template)
 
 no.
 
 - EN: number
 
-No title indicated
+[no indication]
 
-- EN: no title indicated
+- EN: no indication (used if an element such as a shelfmark might exist but this information is unknown to the cataloger)
 
 olim
 
-- EN: former shelf mark
+- EN: former shelfmark
 
 op.
 
@@ -218,11 +230,11 @@ op.
 
 Orgel-P
 
-- EN: organ score (in printed music)
+- EN: organ score (especially in records for printed music)
 
 P
 
-- EN: full score (in printed music)
+- EN: full score (especially in records for printed music)
 
 Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  
 _Ejemplo:_  
@@ -232,7 +244,7 @@ p.
 
 part
 
-- EN: part
+- EN: part (music notated for one instrument only, including keyboard)
 
 passim
 
@@ -250,7 +262,7 @@ phil.
 
 - EN: philosophical
 
-Pl.no
+pl.no
 
 - EN: plate number
 
@@ -272,7 +284,7 @@ pub.
 
 publ.
 
-- EN: date of publication
+- EN: published, date of publication
 
 repr.
 
@@ -320,11 +332,11 @@ s.n. (sine nomine)
 
 St
 
-- EN: parts (in printed music)
+- EN: parts (especially in records for printed music)
 
 SUB
 
-- child record (subentry) in a printed edition (type of Muscat source)
+- child record (subentry) in a printed edition (EDT template)
 
 suppl., supp.
 
@@ -336,23 +348,19 @@ t
 
 Tab
 
-- EN: tablature (in printed music)
+- EN: tablature (especially in records for printed music)
 
 TEC
 
-- child record (subentry) in a printed treatise collection (type of Muscat source)
+- child record (subentry) in a printed treatise collection (type of Muscat template)
 
 TED
 
-- EN: printed treatise (type of Muscat source)
-
-theoreticum
-
-- EN: treatise
+- EN: printed treatise (type of Muscat template)
 
 TSR
 
-- EN: handwritten treatise (type of Muscat source)
+- EN: handwritten treatise (type of Muscat template)
 
 trans.
 
@@ -370,11 +378,15 @@ vol.
 
 - EN: volume(s)
 
-without shelfmark
+[without shelfmark]
 
-- EN: without shelfmark
+- EN: without shelfmark (used if the item lacks a shelfmark)
 
-wm., wm:
+[without title]
+
+- EN: without title (used if the item lacks a title)
+
+wm., wm
 
 - EN: watermark
 
