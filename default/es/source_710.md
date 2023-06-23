@@ -6,18 +6,18 @@ Publishers named after people but acting out the function of publisher (Pleyel, 
 
 #### Institution (710 $a)
 
-Enter the names of all institutions that appear on or are associated with the source. This field is linked to the ** Institutions** authority file. Pueden añadirse nombres que aún no estén registrados en el archivo de autoridad.
+Enter the names of all institutions that appear on or are associated with the source. Este campo está vinculado al registro de autoridad de Instituciones. Pueden añadirse nombres que aún no estén registrados en el archivo de autoridad.
 
 #### Department (710 $b)
 
 Enter, if necessary, the name of the unit of an institution, such as a department. Enter in the local language.
 
-#### Attribution (710 $j)
+#### Attribution (710 $g)
 
 Seleccione un calificador para describir el nivel de certeza de la atribución, en caso de que se dé alguna de las situaciones siguientes. Si no es el caso, deje el campo en blanco.
 
 - **Supuesta** significa que el nombre está presente en la fuente, pero la atribución es cuestionable o dudosa.
-- **Certificada** significa que el nombre está parcial o totalmente ausente en la fuente, pero la atribución es (razonablemente) cierta y se basa en la comparación con fuentes concordantes, bibliografía secundaria u otros recursos de investigación. Esto sucede en la mayoría de los casos.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is (reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. Esto sucede en la mayoría de los casos.
 - **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
 - **Mal atribuida** significa que hay un nombre en la fuente pero es incorrecto.
 
@@ -28,6 +28,7 @@ Seleccione un calificador para describir el nivel de certeza de la atribución, 
 Assign each institution an exact function. An institution can be entered multiple times with different functions. A reduced list of functions is offered in the holdings information for printed items. The three-letter codes refer to the MARC relator code.
 
 - **Assignee [asg]**: The institution to whom a license for printing or publishing has been transferred.
+- **Associated name [asn]**: An institution that has some connection with the source, but the exact function is unclear.
 - **Bookseller [bsl]**: A person or organization who makes books and other bibliographic materials available for purchase. Do not use "former owner" for this function.
 - **Copyist [scr]**: A copyist workshop or a scribal school.
 - **Copyright holder [cph]**
@@ -43,4 +44,6 @@ Assign each institution an exact function. An institution can be entered multipl
 - **Performer [prf]**: The institution or ensemble that performed the work, such as an orchestra.
 - **Printer [prt]**
 - **Publisher [pbl]**
-- **Type designer [tyd]**: The organization who designed the typeface. If you are unsure whether the name is a publisher or a printer, select **Publisher**
+- **Type designer [tyd]**: The organization who designed the typeface.
+
+If you are unsure whether the name is a publisher or a printer, select **Publisher**
