@@ -1,14 +1,25 @@
-## Cataloging language
+## Language
 
-**Use of English vs. other languages**  
-English terminology or fixed English abbreviations are required in some fields while in other fields, other languages are acceptable.
+The section **Language** clarifies the use of English and other languages in Muscat.
 
-Los casos en que se requiera el inglés aparecerán indicados en los lineamientos para el campo correspondiente.
+### Use of English vs. other languages
 
-**Cataloging language**  
-When English is not required, you may use what the guidelines refer to as your **cataloging language**. RISM permite el uso de los siguientes idiomas de catalogación: inglés, francés, alemán, italiano, portugués y castellano. Alternativamente, se permiten otros idiomas siempre y cuando se provea un resumen del registro en uno de los seis idiomas de catalogación. Los lineamientos declaran todos los casos en que puede usarse el propio idioma.
+English terminology or standardized English abbreviations are required in some fields. Los casos en que se requiera el inglés aparecerán indicados en los lineamientos para el campo correspondiente.
 
-En los lineamientos que siguen, la indicación de “idioma de catalogación” refiere al uso de uno de estos seis idiomas o de un idioma diferente al que se adenda la traducción correspondiente indicada anteriormente.
+In other fields, non-English languages are permitted.
 
-**Transliterations**  
-National groups are responsible for determining what transliteration tables should be used when transliterating their language.
+### Cataloging language
+
+**Idioma de catalogación**  
+En caso de que no se requiera el inglés, podrá valerse de su propio idioma, al que los lineamientos refirirán como **idioma de catalogación**. RISM permite el uso de los siguientes idiomas de catalogación: inglés, francés, alemán, italiano, portugués y castellano.
+
+ Other languages are allowed as long as a summary is provided in one of the six cataloging languages. The guidelines always state when you cataloging language may be used.
+
+In the guidelines that follow, the phrase "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
+
+Your cataloging language for Sources can be indicated in the field **Language of cataloging (040 $b)**.
+
+### Transliterations
+
+**Transliteraciones**  
+Los grupos nacionales son los responsables de determinar qué tablas de equivalencias deben seguirse para transliterar su propio idioma.
