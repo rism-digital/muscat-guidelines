@@ -1,23 +1,6 @@
-En Muscat es posible realizar **búsquedas** mediante la **búsqueda por facetas** y los **filtros**.
+## Searching
 
-### Filtros de Muscat
-
-La **búsqueda por facetas** (menú superior, en el medio) su usa para buscar los datos en un contexto de tipo OPAC. If you have editing rights for a particular source, an edit button will take you directly to the Muscat editing mode.
-
-Una de las posibilidades de la [búsqueda avanzada](http://muscat.rism.info/advanced) es la  **búsqueda por íncipit. A keyboard permits the easy insertion of notation. Hay cuatro modos de búsqueda disponibles, con diversos grados de flexibilidad:
-
-1. Altura exacta: el íncipit concuerda con las alturas exactas.
-2. Intervalo: se ignoran las alturas, pero se buscan los intervalos. Esto permite la inclusión de **transposiciones** de una melodía dada.
-3. Contorno refinado de alturas: se ignoran los intervalos y se buscan sólo los movimientos ascendentes y descendentes de la melodía.
-4. Contorno grueso de alturas: es el más flexible de todos. Se busca el contorno aproximado de la melodía.
-
-At the bottom of the page, the field **Incipit** permits the user to enter raw Plaine & Easie code (it can be copied and pasted from a source record, for example). La previsualización del pentagrama se actualiza automáticamente como sucede en el editor de Fuentes.
-
-Todos los otros campos presentes en la Búsqueda Avanzada pueden ser combinados con la búsqueda por íncipit.
-
-La plataforma OPAC de RISM ofrece una búsqueda simplificada por íncipit en el motor de [Búsqueda Avanzada](https://opac.rism.info/index.php?id=3&L=0). [En este enlace](https://opac.rism.info/index.php?id=8&L=0#c38) encontrará instrucciones detalladas en [video](https://youtu.be/HgXFyiXZq5M).
-
-Don't forget to always search for the incipit before entering an anonymous source! [Incipit search first](https://youtu.be/kKc0zzc8cbo)!
+**Searching** in Muscat is available through **filters** on the main Source page. For more extensive searching, including a music incipit search, use the public catalogs, the [RISM Catalog](https://opac.rism.info/) and [RISM Online](https://rism.online/).
 
 ### Nombres personales
 
@@ -51,8 +34,8 @@ En cada campo puede ingresar:
 Please note the following for searching **Sources**:
 
 - **Siglum contains**: Search by the letters in a siglum. Este campo registra mayúsculas y minúsculas. For example:  
-  **D-&#42;** = all sources in Germany  
-  **D-B&#42;** = all sources in German cities that start with B  
+  **D-*** = all sources in Germany  
+  **D-B*** = all sources in German cities that start with B  
   **D-B** = all sources at the Staatsbibliothek zu Berlin
 
 ### Nombres personales
