@@ -22,7 +22,7 @@ On the **Folders** page linked from the top menu, you can find your folder by ty
 
 #### 5. How can I export records from Muscat?
 
-Single records can be viewed in XML format by appending .xml to any record's URL in the viewing mode. You can export your own folders containing records for sources (up to 25,000 records) in MARCXML or CSV format.
+Single records can be viewed in XML format by appending .xml to any record's URL in the full record view. You can export your own folders containing records for sources (up to 25,000 records) in MARCXML or CSV format.
 
 #### 6. How can I check for errors in older records?
 
