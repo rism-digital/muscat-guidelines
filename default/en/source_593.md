@@ -1,4 +1,5 @@
-### Source type (593)
+Source type (593)
+=================
 
 **Required field.**
 
@@ -48,5 +49,23 @@ The **Content type** describes the form of the material. Select from the followi
 - **Treatise**
 - **Other**: Use sparingly to describe other kinds of materials that accompany the musical source.
 
+
 For composite volumes that contain more than one content type, you may also select:
+
 - **Mixed**
+
+#### Other remarks
+
+In the case of autograph manuscripts and possible autograph manuscripts, do not create an added entry **(700)** with the composer's name as the copyist. However, an exception is if the identity of the copyist is certain but it is uncertain if the copyist is also the composer. In such a case, enter the copyist's name in the field **Additional personal name (700)** but add the same name to the field **Composer/Author (100 $a)** with the appropriate **Attribution qualifier (100$j)**.
+
+In some cases, such as with a partial autograph, an explanatory note in the field  **General note (500)** may be appropriate.
+
+If the arranger of a composition was also the copyist, select  **Manuscript copy** and not  **Autograph manuscript**.
+
+If multiple types of sources are present, repeat the  **Material description** group to select and describe each type of source.
+
+If your source is a mechanical reproduction (such as a photocopy), follow these steps:
+
+1\. Select  **Autograph manuscript**, **Manuscript copy**, etc. as it applies to the original source.
+
+2\. Select the type of reproduction in the field  **Special production technique (340 $d)**.
