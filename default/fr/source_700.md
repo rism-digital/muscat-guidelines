@@ -1,12 +1,12 @@
 ### Additional personal name (700)
 
-This field appears twice for sources. It appears in the section **People and institutions** to list all additional people involved with the source. It is also in the section **Material description** if you wish to associate additional names with particular material groups, especially when creating multiple material groups.
+This field appears twice for sources. It appears in the section **People and institutions** to list all additional people involved with the source. It is also in the section **Material description** if you wish to associate additional names with particular material groups.
 
 #### Name (700 $a)
 
-Enter all personal names that appear on the source. This field is linked to the **Personal names** authority file. Names not yet in the authority file may be added.
+Enter all personal names that appear on the source as well as names that can be inferred. This field is linked to the **Personal names** authority file. Names not yet in the authority file may be added. Do not use **Anonymus** in this field.
 
-Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as an ** Additional institution (710)**.
+Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as an **Additional institution (710)**.
 
 In the case of parent records for collections or composite volumes, enter a name only if the name applies to all the works in the collection. Enter names associated with individual works in the individual records.
 
@@ -15,7 +15,7 @@ In the case of parent records for collections or composite volumes, enter a name
 Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
 - **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
-- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is ( reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is (reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
 - **Conjectural** is a guess based on secondary evidence, such as secondary literature.
 - **Misattributed** means the name is on the source but is incorrect.
 
@@ -53,4 +53,4 @@ Keep in mind that when some people are named on sources, an institution is actua
 - **Publisher [pbl]**: Only enter the publisher as a person if the actual human is meant, such as a Beethoven manuscript that mentions Carl Friedrich Peters by name. (Peters functioning as the company that issues the printed music, on the other hand, is entered as an institution.)
 - **Text author [lyr]**: An author of the words of a non-dramatic musical work (such as the text of a song), except for oratorios.
 - **Translator [trl]**
-- **Type designer [tyd]**: The person who designed the typeface **.**
+- **Type designer [tyd]**: The person who designed the typeface.
