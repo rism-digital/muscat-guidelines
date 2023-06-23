@@ -21,7 +21,7 @@ Here are some examples for special situations:
    Use **Chorale arrangements** as both the standardized title and subject heading.
 
 3. A potpourri where you know that the music comes from a single opera:  
-   You don't need this list! Use the name of the opera as the standardized title and select **Excerpts** and ** Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+   You don't need this list! Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
 
 4. A potpourri where you know that the music comes from several operas:  
    Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
@@ -39,7 +39,7 @@ Here are some examples for special situations:
 
 9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
 
-The following list gives an idea of what standardized titles have a corresponding subject heading. Please note that this list is not comprehensive.
+The following list gives an idea of what standardized titles have a corresponding subject heading. Please note that this list is not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English in the plural) and not in translation.
 
 #### General instrumental and vocal music
 
