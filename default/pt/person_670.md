@@ -10,13 +10,13 @@ Enter the short title of the resource consulted. This field is connected to the 
 
 **Required if the above field is filled out.**
 
-Enter the form of the name and/or years indicated in the literature. Add a page number or other locators (such as **vide** for encyclopedias) if appropriate. Enter a **0** if no information is found (for example, you consulted Grove|7 but there was no entry for the person).
+Enter the form of the name and/or years indicated in the literature. Add a page number or other locators (such as **vide** for encyclopedias) if appropriate. Enter a **0** if no information is found (for example, you consulted Grove\|7 but there was no entry for the person).
 
 ##### Examples
 
 - **Source data found (670 $a)**: EitnerQ
 - **Information found (670 $b)**: Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]
-- **Source data found (670 $a)**: MGG|2/s
+- **Source data found (670 $a)**: MGG\|2/s
 - **Information found (670 $b)**: vide 6, 834
-- **Source data found (670 $a)**: Grove|7
+- **Source data found (670 $a)**: Grove\|7
 - **Information found (670 $b)**: 0
