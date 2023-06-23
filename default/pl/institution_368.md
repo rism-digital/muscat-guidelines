@@ -11,8 +11,9 @@ Select from the following types:
 - Archive
 - Bookseller
 - Copyist
-- Corporate name
+- Congress
 - Documentation center
+- Institution
 - Library
 - Museum
 - Research institute
@@ -21,6 +22,7 @@ Select from the following types:
 - Printer
 - Publisher
 - Other
+
 
 #### Type of jurisdiction (368 $b)
 
