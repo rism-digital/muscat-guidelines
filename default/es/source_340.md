@@ -9,7 +9,6 @@ En este subcampo puede indicar la(s) técnica(s) utilizadas en la producción de
 - **Autography**: Transfer printing (not to be confused with autograph manuscripts).
 - **Escrito mecanografiado**
 - **Impreso de computadora**
-- **Facsimile**: A reproduction made with the intention to simulate as closely as possible the physical appearance of a previous work. (Esto no refiere a ediciones musicales facsimilares de carácter comercial, que deben registrarse como Bibliografía Secundaria).
 - **Litografía**
 - **Grabado**
 - **Photoreproductive process**: Includes Cyanotype, diazo print, blueprint.
@@ -23,7 +22,7 @@ Cualquier agregado o comentario sobre la técnica de impresión puede explicarse
 
 Si una fuente incluye muchas técnicas de impresión, puede repetir el campo para consignar cada técnica. Explíquelo mediante una nota en el campo **Nota general (500 $a)**.
 
-##### Ejemplo:
+##### Example
 
 Engraved music that has a lithographed title page:
 
