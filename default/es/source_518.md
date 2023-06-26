@@ -1,11 +1,16 @@
-### Nota sobre ocasión de interpretación (518 $a)
+### Note on performance (518)
 
-Use este campo para registrar información sobre interpretaciones. Hágalo usando su idioma de catalogación. Guíese por la lista de **Teatros de ópera y salas de concierto** para consignar los nombres de los lugares correspondientes.
+The field **Note on performance** records information related to how the source in hand was used in a specific performance. The field is not meant to be a record of all performances of a work, but should instead focus on the source in hand.
 
-Registre la fecha de manera codificada haciendo uso del campo **Fecha codificada (033)**. Registre la ciudad de forma estandarizada en el campo **Lugar de interpretación (651)**. Registre el nombre del lugar (sala de conciertos, etc.) de forma estandarizada en el campo **Institución adicional(710)**.
+#### Nota sobre ocasión de interpretación (518 $a)
 
-En el caso de la música impresa, llene este campo únicamente en el caso de impresos ocasionales (es decir, música escrita para una ocasión específica). Las interpretaciones específicas respecto de determinada copia de una edición impresa deben ser consignados en los registros de ejemplar correspondientes.
+Enter information about performances related to the source here. Regístrelo usando su idioma de catalogación. Guíese por la lista de **Teatros de ópera y salas de concierto** para consignar los nombres de los lugares correspondientes.
 
-##### Ejemplos  
-Fecha de la primera interpretación: [6.9.1791 Praga, Teatro nacional]  
-[al pie de la portada:] “Interpretación en Baden Baden el 17 de marzo de 1832”
+Enter the city in standardized form in the field **Location of performance (651)**. Enter the name of the venue in standardized form in the field **Additional institution (710)**. Dates may be added using normal language in accordance with your cataloging language.
+
+En el caso de la música impresa, llene este campo sólo si se trata de impresos ocasionales (es decir, música escrita para una ocasión específca). Las interpretaciones específicas respecto de determinada copia de una edición impresa deben ser consignados en los registros de ejemplar correspondientes.
+
+##### Examples
+
+- First performance date: 6 September 1791, Prague, National theatre
+- [at foot of title page:] "Performance in Baden Baden on 17 March 1832"

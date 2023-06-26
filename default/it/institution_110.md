@@ -1,12 +1,15 @@
-### Nome di ente (110; ISDIAH 5.1.2)
-Questo campo crea un punto d’accesso autorizzato che identifica univocamente l’istituzione che possiede dei beni archivistici.
+### Institution (110; ISDIAH 5.1.2)
 
-##### Nome di ente (110 $a)
-Inserisci il nome attuale dell’istituzione nella lingua locale. Se la lingua originale è scritta in un alfabeto non latino, scrivila in forma traslitterata.
+This field creates an authorized access point that uniquely identifies the institution with archival holdings.
 
-Se la biblioteca, l’archivio o il centro di documentazione sono parte di un’istituzione più vasta, indica il nome dell’istituzione sovraordinata e indica di seguito l’unità subordinata, separandola con una virgola.
+#### Authorized form of name (110 $a)
 
-##### Esempi  
+Enter the current name of the institution in the local language. If the original language is in a non-Latin alphabet, write it in transliterated form.
+
+When libraries, archives or documentation centres belong to a larger institution, enter the name of the larger institution first and add the subordinate unit separated by a comma.
+
+##### Examples
+
 - Privatsammlung Cees Verheijen
 - Private collection Christopher Hogwood
 - Llyfrgell Genedlaethol Cymru
@@ -14,26 +17,31 @@ Se la biblioteca, l’archivio o il centro di documentazione sono parte di un’
 - ERESBIL - Musikaren Euskal Artxiboa
 - Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossi
 
-#### Istituzione subordinata (110 $b)
-Inserisci il nome dell'unità subordinata dell'istituzione principale.
+#### Subordinate unit (110 $b)
 
-#### Luogo (110 $c)  
-Inserisci la località dove si trova l’istituzione. Se la lingua originale è scritta in un alfabeto non latino, scrivila in forma traslitterata.
+Enter the name of the subordinate unite of the institution.
 
-#### Sigla (110 $g)
-Questo campo è per le sigle delle biblioteche RISM, che sono specifiche e inalterabili. **Le sigle sono assegnate dalla Redazione centrale RISM** consultando i gruppi di lavoro nazionali RISM.
+#### Place (110 $c)
 
-Le sigle delle biblioteche sono composte di tre parti: un’abbreviazione per il paese, una per la città e una per l’istituzione. In alcuni casi, l’abbreviazione per l’istituzione può essere omessa (ad esempio: D-B). Le abbreviazioni per il paese e la città sono sempre in lettere maiuscole e l’abbreviazione per l’istituzione è sempre in lettere minuscole. Il codice del paese è separato dagli altri dettagli con un trattino. Il codice del paese è quasi sempre ripreso dalla lista internazionale di codici di immatricolazione per i veicoli curata dalle Nazioni Unite. I codici delle città e delle istituzioni sono creati dalla Redazione centrale RISM.
+Enter the city of the institution. If the original language is in a non-Latin alphabet, write it in transliterated form.
 
-Se un’istituzione cambia nome, mantiene la medesima sigla (ad esempio: CZ-Bu).
+#### Siglum (110 $g)
 
-##### Esempi  
-- GB-Cu = United Kingdom, Cambridge, University Library  
+This field is for the unique, unalterable RISM library siglum. **Sigla are assigned by the RISM Editorial Center** in consultation with the RISM national working groups.
+
+Library sigla are made up of three elements: a country abbreviation, a city abbreviation, and an institution abbreviation. In some cases, the institution abbreviation may be omitted (example: D-B). The abbreviations for the country and city are always capitalized and the abbreviation for the institution is always lowercase. The country code is separated from the other details by a hyphen. The code for the country is almost always taken from the list of international vehicle registration codes maintained by the United Nations. City and institution codes are created by the RISM Editorial Center.
+
+In case an institution has changed its name, it still keeps the same siglum. (For ex.: CZ-Bu)
+
+##### Examples
+
+- GB-Cu = United Kingdom, Cambridge, University Library
 - F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique
 
-In caso di collezioni private, il cognome del proprietario è aggiunto al codice della città in lettere minuscole.
+In the case of private collections, the last name of the owner is added to the city code in lowercase letters.
 
-##### Esempio
-- I-PEbattisti = Italia, Perugia, Biblioteca privata Renzo Battisti.
+##### Example
 
-RISM utilizza le sigle delle biblioteche dalla sua fondazione nel 1952 in tutte le sue pubblicazioni e cataloghi. Le sigle sono anche utilizzate in tutte le correnti enciclopedie musicali internazionali e in pubblicazioni musicologiche.
+- I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti.
+
+RISM has been using library sigla since its foundation in 1952 in all of its publications and catalogs. They are also used in all of the standard international music encyclopedias and in musicological publications.

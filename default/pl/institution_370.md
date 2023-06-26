@@ -1,14 +1,19 @@
-### Miejsce powiązane (370)
-Wypełniamy dla deskryptorów osobowych, korporatywnych oraz dzieła.  
+### Associated place (370)
 
-#### Miejsce związane z aktywnością instytucji (370 $c)
-Wprowadź państwo, z którym instytucja jest identyfikowana.  
+This field is used to record a place associated with the institution.
 
-#### Miejsce siedziby (370 $e)
-wprowadź miasto, prowincję, stan, region i/lub państwo w którym instytucja ma swoją siedzibę lub prowadzi działalność.    
+#### Associated country (370 $c)
 
-#### Inne miejsce związane z aktywnością (370 $f)
-wprowadź inne lub dodatkowe miasto, prowincję, stan, region i/lub państwo związane z działalnością instytucji.   
+Enter the country with which the institution is identified.
 
-#### Źródło dla zastosowanego terminu (370 $2)
-Podaj źródło dla zastosowanych terminów.
+#### Place of residence/headquarters (370 $e)
+
+Enter the town, city, province, state, locale, and/or country in which the institution has its headquarters or carries out its activities.
+
+#### Other associated place (370 $f)
+
+Enter other or additional town, city, province, state, and/or country associated with the institution.
+
+#### Source of term (370 $2)
+
+Enter the source of the terms used.

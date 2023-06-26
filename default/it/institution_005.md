@@ -1,4 +1,3 @@
-### Data e ora dell'ultima transazione (005; ISDIAH 5.6.6)
-Questo campo riporta la data in cui la scheda è stata modificata per l’ultima volta.
+### Date and time of last transaction (005; ISDIAH 5.6.6)
 
-Questo campo è generato automaticamente.
+This field shows the date that the record was last modified. This field is automatically generated.

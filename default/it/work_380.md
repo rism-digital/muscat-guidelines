@@ -1,4 +1,7 @@
-### Soggetto (380 $a)
-Numero di registro RDA [rdaw:P10004](http://www.rdaregistry.info/Elements/w/#P10004)
+### Subject heading (380)
 
-Inserisci qui i soggetti o le denominazioni dei generi musicali. Questo campo è collegato all’indice **Soggetti / Parola chiave**.
+RDA Registry [rdaw:P10004](http://www.rdaregistry.info/Elements/w/#P10004)
+
+#### Subject heading (380 $a)
+
+Enter subject keywords or genre terms here. This field is linked to the authority file for **Subject headings**.

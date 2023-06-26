@@ -1,3 +1,4 @@
-#### Materiali allegati (525 $a) 
+### Supplementary material (525)
 
-Menziona il materiale che accompagna la fonte, come programmi di sala, recensioni ecc. Inserisci i dati usando la tua lingua di catalogazione. 
+#### Supplementary material (525 $a)
+Mention material that accompanies the source, such as program notes, reviews, etc. Enter using your cataloging language.

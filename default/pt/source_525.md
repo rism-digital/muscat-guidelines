@@ -1,3 +1,4 @@
-### Material suplementar (525 $a) 
+### Supplementary material (525)
 
-Mencione quaisquer materiais que acompanhem a fonte, tais como notas de programa, resenhas, etc. Use seu idioma de catalogação.
+#### Supplementary material (525 $a)
+Mention material that accompanies the source, such as program notes, reviews, etc. Enter using your cataloging language.

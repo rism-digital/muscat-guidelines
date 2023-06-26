@@ -1,2 +1,5 @@
-### Fonte consultata senza esito (675)
-Questo campo riporta la bibliografia consultata creando la descrizione dell'opera in cui non si è riscontrata alcuna informazione.
+### Source data not found (675)
+
+#### Source data not found (675 $a)
+
+This field lists the secondary literature consulted while creating the description of the work in which no information is found.

@@ -1,5 +1,6 @@
-### Nota sobre el contenido (505 $a)
+### Contents note (505)
 
+#### Nota sobre el contenido (505 $a)
 Use este campo para registrar información adicional sobre contenidos de la fuente que no se correspondan con ninguna otra categoría, como:
 
 - Información sobre distintas versiones de la obra
@@ -9,5 +10,3 @@ Use este campo para registrar información adicional sobre contenidos de la fuen
 - Información sobre la plantilla/orgánico total, si el material está incompleto.
 
 Complete el campo usando su propio idioma de catalogación.
-
-####

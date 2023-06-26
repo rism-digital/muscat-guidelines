@@ -1,7 +1,9 @@
-### Locais (551)
+### Places (551)
 
-#### Locais (551)
-Insira nomes geográficos. Este campo é ligado ao índice **Locais**.   
+#### Places (551)
 
-##### Exemplo:  
-- Aigen-Schlägl _para o registro da sigla de instituição RISM A-SCH._
+Enter geographical names. This field is linked to the **Places** index.
+
+##### Example
+
+- Aigen-Schlägl _for the RISM library siglum record A-SCH_

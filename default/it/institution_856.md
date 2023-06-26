@@ -1,11 +1,13 @@
-### Strumenti di supporto alla ricerca online  (856; ISDIAH 5.3.8)
-Questo campo offre una panoramica generale delle guide alla ricerca pubblicate e/o non pubblicate preparate dall’istituzione e ogni altra pubblicazione pertinente.
+### Finding aids, guides and publications (856; ISDIAH 5.3.8)
 
-#### Strumenti di supporto alla ricerca online (856 $u)
-Inserisci le informazioni (compresi gli URL) su aiuti alla ricerca, cataloghi, inventari ecc. delle collezioni dell’istituzione.
+This field provides a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
 
-#### Strumenti di supporto alla ricerca online (856 $u)
-Inserisci lo URL del supporto alla ricerca.
+Enter information (including URLs) about finding aids, catalogs, inventories, etc. for the institution’s collections.
 
-#### Nota sulla risorsa esterna (856 $z)  
-Inserisci una breve descrizione dello URL.
+#### Online finding aids (856 $u)
+
+Enter the URL of the finding aid.
+
+#### Note (856 $z)
+
+Enter a short description of the URL.

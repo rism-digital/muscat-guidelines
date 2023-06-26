@@ -1,4 +1,7 @@
-### Cabeçalho de assunto (380 $a)
+### Subject heading (380)
+
 RDA Registry [rdaw:P10004](http://www.rdaregistry.info/Elements/w/#P10004)
 
-Insira palavras-chave de assunto ou ternos de gênero aqui. Este campo é ligado ao índice **Assuntos**.
+#### Subject heading (380 $a)
+
+Enter subject keywords or genre terms here. This field is linked to the authority file for **Subject headings**.

@@ -1,56 +1,71 @@
-### 자료 유형 (593 $a)
+Source type (593)
+=================
 
-**필수 영역.**
+**Required field.**
 
-이 영역은 본래의 자료에 대해 나타냅니다. 아래의 리스트에서 선택하세요.
+This field describes the nature of the material as well as its contents.
 
-**기보된 음악: **
+#### Source type (593 $a)
 
-- **자필본(Autograph manuscript)**: 작품의 전체 혹은 대부분을 작곡가가 직접 쓴 경우
-- **자필본일 가능성이 있는 필사본(Possible autograph manuscript)**: 작곡가가 직접 쓴 필사본인지 불확실해 보이는 경우
+The **Source type** describes material characteristics. The options offered are based on the template chosen. Select from the following:
 
-- **부분적 자필본(Partial autograph)**: 필사본의 상당 부분을 작곡가가 직접 쓴 경우
-- **필사본의 복사본(Manuscript copy)**
+**For handwritten materials**
+- **Autograph manuscript**: Written completely or mostly in the composer’s hand. If you have entered Anonymus as the composer and wish to select autograph manuscript here, add an explanation in the **General note (500)**.
+- **Possible autograph manuscript**: Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
+- **Partial autograph**: Significant portions of the manuscript are in the composer's hand.
+- **Manuscript copy**: The manuscript is in the hand of a person other than the composer. This is selected by default when a template for handwritten material has been chosen.
+- **Manuscript copy with autograph annotations**: The manuscript is in the hand of a person other than the composer, but corrections or small additions are in the composer’s hand.
+- **Additional printed material**: Printed material is present but will not be described in a separate record (see below).
 
-- **자필 주석이 있는 필사본의 복사본(Manuscript copy with autograph annotations)**: 작곡가에 의한 교정이나 작은 부분이 추가된 경우  
+**For printed materials**
+- **Print**: This is selected by default when a template for printed material has been chosen.
 
-- **인쇄본(Print)**
+In the holdings information, you can further select from the following:
+- **Print**: This is selected by default.
+- **Print with autograph annotations**: Handwritten annotations by the composer.
+- **Print with non-autograph annotations**: Handwritten annotations not by the composer.
+- **Additional manuscript material**: Manuscript material is present but will not be described in a separate record (see below).
 
-- **자필 주석이 있는 인쇄본(Print with autograph annotations): 작곡가가 직접 작성한 주석이 있는 경우. 구체적인 정보가 포함된 자료에만 사용.**
+**For composite volumes**
+- **Composite**: This is selected by default.
 
-- **자필 주석이 없는 인쇄본(Print with non-autograph annotations)**: 작곡가가 아닌 사람의 자필 주석인 경우. 구체적인 정보가 포함된 자료에만 사용.
+For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differenciate futher.
 
-**자료의 다른 유형:**
+**Additional printed or manuscript material**
 
--
+Manuscript templates offer the option **Additional printed material.** In templates for printed items, the holdings information offers **Additional manuscript material**. This is to create a space in your record to briefly describe materials that accompany your main source but differ from the template type.
 
-**필사된 대본 **
+For example, you have a set of performing materials that comprises a handwritten set of parts and a printed score. You always have the option of describing the handwritten material in a template for manuscripts and the printed material in a template for prints, and including cross-references to the other records. While separate records for printed materials offer the fullest and most complete description, there might not always be enough information to describe a printed item fully or your preference might be to keep all your materials in one record. In such cases, you can indicate the additional materials and briefly describe them using these options.
 
--
+If you are using a manuscript template, your first instance of the field **Source type** will match the template by default and pertain to the handwritten material. Add a second material group and select **Additional printed material**. Then describe your printed material as usual for this section.
 
-**인쇄된 대본 **
+If you are using a print template, in the holdings information select **Additional manuscript material**. Then describe your manuscript material in this section.
 
--
+#### Content type (593 $b)
 
-**필사된 논문 **
+The **Content type** describes the form of the material. Select from the following:
+- **Notated music**
+- **Libretto**
+- **Treatise**
+- **Other**: Use sparingly to describe other kinds of materials that accompany the musical source.
 
--
 
-**출판된 논문 **
+For composite volumes that contain more than one content type, you may also select:
 
--
+- **Mixed**
 
-**기타 **
+#### Other remarks
 
-자필본과 자필본일 가능성이 있는 필사본일 경우는 작곡가의 이름을 필사자로 추가 등록(700)하지 마세요. 그러나 필사자의 이름은 분명하지만 필사자가 작곡가인지가 불확실한 경우는 예외입니다. 이 경우에는 필사자의 이름을 **추가 인명(Additional personal name, 700**) 부분에 입력하고 **작곡가/저자(100$a)** 부분에 적합한 것을 선택하여 같은 이름을 추가하세요.  
+In the case of autograph manuscripts and possible autograph manuscripts, do not create an added entry **(700)** with the composer's name as the copyist. However, an exception is if the identity of the copyist is certain but it is uncertain if the copyist is also the composer. In such a case, enter the copyist's name in the field **Additional personal name (700)** but add the same name to the field **Composer/Author (100 $a)** with the appropriate **Attribution qualifier (100$j)**.
 
-부분적으로 자필본인 경우에는 **일반 주해(500)**에 적절하게 설명하세요.
+In some cases, such as with a partial autograph, an explanatory note in the field  **General note (500)** may be appropriate.
 
-작품의 편곡자가 필사자인 경우에는 **자필본이 아닌 필사본 복사본** 을 선택하세요.
+If the arranger of a composition was also the copyist, select  **Manuscript copy** and not  **Autograph manuscript**.
 
-사료의 여러 유형이 존재하면, 각각의 사료를 선택하고 설명하기 위해서 "사료 설명" 그룹에서 되풀이해주세요.
+If multiple types of sources are present, repeat the  **Material description** group to select and describe each type of source.
 
-당신의 자료가 사진 복사본처럼 기술적으로 재생산 된것이라면 다음의 과정을 따라주세요.
+If your source is a mechanical reproduction (such as a photocopy), follow these steps:
 
-1. 자필본, 필사본 복사본 등을 적당하게 선택하세요. (즉, 원본에 맞춰서 타입을 선택하세요.)
-2. **특별한 생산 기술(340 $d)** 영역에서 재생산을 선택하세요.
+1\. Select  **Autograph manuscript**, **Manuscript copy**, etc. as it applies to the original source.
+
+2\. Select the type of reproduction in the field  **Special production technique (340 $d)**.

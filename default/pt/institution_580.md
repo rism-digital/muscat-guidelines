@@ -1,7 +1,9 @@
-### Agora em (580)
+### Now in (580)
 
-#### Agora em (580 $x)
-Se um material de uma instituição foi transferido para outra instituição, insira aqui o nome da atual instituição detentora.
+#### Now in (580 $x)
 
-##### Exemplo
--D-WÜd
+If the holdings of an institution have been transferred to another institution, enter the name of the current holding institution here.
+
+##### Example
+
+- D-WÜd

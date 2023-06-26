@@ -1,8 +1,10 @@
-### Uwaga do dysertacji (502)
+### Dissertation note (502)
 
-#### Uwaga do dysertacji (502 $a)
-Jeżeli dana pozycja jest pracą doktorską, należy podać typ stopnia naukowego, instytucję i rok.
+#### Dissertation note (502 $a)
 
-##### Przykłady  
-- Ph.D. diss., University College, London 1998  
+If the item is a doctoral dissertation, include the type of degree, institution, and year.
+
+##### Examples
+
+- Ph.D. diss., University College, London 1998
 - Diss., Freie Universität, Berlin 2002

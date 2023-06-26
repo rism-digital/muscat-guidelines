@@ -1,11 +1,13 @@
-### Registro madre (773 $w)
+### Parent record (773)
 
-Este campo vincula el registro con un registro madre o un registro de volumen compuesto. 
+#### Parent record (773 $w)
 
-El primer botón establece un vínculo con un registro madre (también llamado "entrada principal" o "registro de la colección"), apropiado para los casos en los que el registro forma parte de una colección. 
+This field links the record to a parent record or a record for a composite volume.
 
-El segundo botón establece un vínculo con un registro de volumen compuesto, correspondiente a los casos en los que el registro está encuadrado junto con otros elementos.
+The first button links to a parent record (also called "main entry" or "collection record") in cases where the record is part of a collection.
 
-Siempre realice los vínculos con el siguiente nivel más alto. 
+The second button links to a record for a composite volume in cases where the record was bound together with other items.
 
-Haga clic en el botón correspondiente y busque el número RISM del registro madre o del volumen compuesto. A continuación, haga clic en Seleccionar para crear el enlace.
+Always link to the next highest level.
+
+Click the appropriate button and search for the RISM ID number of the parent record or composite volume. Then, click **Select** to create the link.

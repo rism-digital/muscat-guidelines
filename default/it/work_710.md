@@ -1,2 +1,5 @@
-### Nome di ente aggiuntivo (710)
-Inserisci nomi di enti aggiuntivi per l'opera seguendo le regole di catalogazione per questo campo nelle schede bibliografiche per le Fonti.
+### Additional institution (710)
+
+#### Additional institution (710$a)
+
+Enter additional institutions for the work following the guidelines for this field in Sources.

@@ -1,116 +1,71 @@
-Quellentyp (593)
-================
+Source type (593)
+=================
 
-**Pflichtfeld**
+**Required field.**
 
-Dieses Feld beschreibt sowohl die Art des Materials als auch seinen Inhalt.
+This field describes the nature of the material as well as its contents.
 
-  
+#### Source type (593 $a)
 
-Quellentyp (593$a)
-------------------
+The **Source type** describes material characteristics. The options offered are based on the template chosen. Folgende Angaben sind möglich:
 
-  
+**For handwritten materials**
+- **Autograph manuscript**: Written completely or mostly in the composer’s hand. If you have entered Anonymus as the composer and wish to select autograph manuscript here, add an explanation in the **General note (500)**.
+- **Possible autograph manuscript**: Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
+- **Partial autograph**: Significant portions of the manuscript are in the composer's hand.
+- **Manuscript copy**: The manuscript is in the hand of a person other than the composer. This is selected by default when a template for handwritten material has been chosen.
+- **Manuscript copy with autograph annotations**: The manuscript is in the hand of a person other than the composer, but corrections or small additions are in the composer’s hand.
+- **Additional printed material**: Printed material is present but will not be described in a separate record (see below).
 
-Der Typ gibt die physische Form der Quelle wieder. Die Typen werden in Englisch eingetragen. Die angebotenen Optionen hängen von der gewählten Vorlage ab. Wählen Sie unter den folgende Angaben aus:
+**For printed materials**
+- **Print**: This is selected by default when a template for printed material has been chosen.
 
-  
+In the holdings information, you can further select from the following:
+- **Print**: This is selected by default.
+- **Print with autograph annotations**: Handwritten annotations by the composer.
+- **Print with non-autograph annotations**: Handwritten annotations not by the composer.
+- **Additional manuscript material**: Manuscript material is present but will not be described in a separate record (see below).
 
-**Für handschriftliches Material**
+**For composite volumes**
+- **Composite**: This is selected by default.
 
-*   **Autograph manuscript** = Autograph
-    
-*   **Possible autograph manuscript** = fragliches Autograph
-    
-*   **Partial autograph** = Teilautograph
-    
-*   **Manuscript copy** = Abschrift: Dies ist standardmäßig ausgewählt, wenn eine Vorlage für handschriftliches Material gewählt wurde
-    
-*   **Manuscript copy with autograph annotations** = Abschrift mit autographen Eintragungen
-    
-*   **Additional printed material** = zusätzlich gedrucktes Material: gedrucktes Material ist vorhanden, wird aber nicht in einem eigenen Eintrag beschrieben (siehe unten)
-    
+For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differenciate futher.
 
-**Für gedrucktes Material**
+**Additional printed or manuscript material**
 
-*   **Print** = Druck: Diese Option ist standardmäßig ausgewählt, wenn eine Vorlage für gedrucktes Material gewählt wurde
-    
+Manuscript templates offer the option **Additional printed material.** In templates for printed items, the holdings information offers **Additional manuscript material**. This is to create a space in your record to briefly describe materials that accompany your main source but differ from the template type.
 
-  
+For example, you have a set of performing materials that comprises a handwritten set of parts and a printed score. You always have the option of describing the handwritten material in a template for manuscripts and the printed material in a template for prints, and including cross-references to the other records. While separate records for printed materials offer the fullest and most complete description, there might not always be enough information to describe a printed item fully or your preference might be to keep all your materials in one record. In such cases, you can indicate the additional materials and briefly describe them using these options.
 
-In den Exemplareinträgen können Sie außerdem Folgendes auswählen:
+If you are using a manuscript template, your first instance of the field **Source type** will match the template by default and pertain to the handwritten material. Add a second material group and select **Additional printed material**. Then describe your printed material as usual for this section.
 
-*   **Print** = Druck: Dies ist standardmäßig ausgewählt.
-    
-*   **Print** with autograph annotations = Druck mit autographen Eintragungen.
-    
-*   **Print** with non-autograph annotations = Druck mit handschriftlichen Eintragungen. 
-    
-*   **Additional manuscript material** = zusätzlich handschriftliches Material: handschriftliches Material ist vorhanden, wird aber nicht in einem eigenen Eintrag beschrieben (siehe unten).
-    
+If you are using a print template, in the holdings information select **Additional manuscript material**. Then describe your manuscript material in this section.
 
-  
+#### Content type (593 $b)
 
-**Für Konvolutbände**
+The **Content type** describes the form of the material. Folgende Angaben sind möglich:
+- **Notated music**
+- **Libretto**
+- **Treatise**
+- **Other**: Use sparingly to describe other kinds of materials that accompany the musical source.
 
-*   **Composite**: Diese Option ist standardmäßig ausgewählt.
-    
 
-  
+For composite volumes that contain more than one content type, you may also select:
 
-**Zusätzlich gedrucktes oder handschriftliches Material**
+- **Mixed**
 
-Manuskriptvorlagen bieten die Option **Zusätzlich gedrucktes Material** und die Exemplareinträge bieten die Option **Zusätzlich handschriftliches Material** zu ergänzen. Dies dient dazu, in Ihrem Datensatz Platz für eine kurze Beschreibung von Materialien zu schaffen, die Ihre Hauptquelle begleiten, aber vom Vorlagentyp abweichen.
+#### Other remarks
 
-  
+In the case of autograph manuscripts and possible autograph manuscripts, do not create an added entry **(700)** with the composer's name as the copyist. However, an exception is if the identity of the copyist is certain but it is uncertain if the copyist is also the composer. In such a case, enter the copyist's name in the field **Additional personal name (700)** but add the same name to the field **Composer/Author (100 $a)** with the appropriate **Attribution qualifier (100$j)**.
 
-Sie haben zum Beispiel ein Set Aufführungsmaterial, der aus einem handschriftlichen Satz Stimmen und einer gedruckten Partitur besteht. Sie haben immer die Möglichkeit, das handschriftliche Material in einer Vorlage für Manuskripte und das gedruckte Material in einer Vorlage für Drucke zu beschreiben und mit Querverweisen auf die anderen Datensätze hinzuweisen. Denken Sie daran, dass separate Datensätze für gedrucktes Material anderen RISM-Nutzern den umfassendsten Zugang bieten. Es kann jedoch sein, dass nicht immer genügend Informationen vorhanden sind, um ein gedrucktes Objekt vollständig zu beschreiben, oder dass Sie es vorziehen, alle Ihre Materialien in einem Datensatz zu speichern. In solchen Fällen können Sie die zusätzlichen Materialien angeben und sie mit Hilfe dieser Optionen kurz beschreiben.
+In some cases, such as with a partial autograph, an explanatory note in the field  **General note (500)** may be appropriate.
 
-  
+If the arranger of a composition was also the copyist, select  **Manuscript copy** and not  **Autograph manuscript**.
 
-Wenn Sie eine **Manuskriptvorlage** verwenden, wird die erste Instanz des Feldes Quellentyp standardmäßig mit der Vorlage übereinstimmen und sich auf das handschriftliche Material beziehen. Fügen Sie eine zweite Materialgruppe hinzu und wählen Sie **Zusätzlich gedrucktes Material**. Beschreiben Sie dann Ihr gedrucktes Material wie üblich für diesen Abschnitt. 
+If multiple types of sources are present, repeat the  **Material description** group to select and describe each type of source.
 
-  
+If your source is a mechanical reproduction (such as a photocopy), follow these steps:
 
-Wenn Sie eine Druckvorlage verwenden, wählen Sie in den Exemplareinträgen **Zusätzlich handschriftliches Material**. Beschreiben Sie dann Ihr Manuskriptmaterial in diesem Abschnitt.
+1\. Select  **Autograph manuscript**, **Manuscript copy**, etc. as it applies to the original source.
 
-  
-
-Inhaltstyp (593$b)
-------------------
-
-Der **Inhaltstyp** beschreibt die Form des Materials. Wählen Sie aus den folgenden Möglichkeiten:
-
-*   **Notated music** 
-    
-*   **Libretto**
-    
-*   **Treatise**
-    
-*   **Other** : Sparsam verwenden, um andere Arten von Materialien zu beschreiben, die die Musikquelle begleiten.
-    
-
-Für Konvolutbände, die mehr als einen Inhaltstyp enthalten, können Sie auch wählen:
-
-*   **Mixed**
-    
-
-  
-
-Sonstige Anmerkungen
---------------------
-
-Bei autographen Handschriften und fraglichen Autographen sollte kein zusätzlicher Eintrag (700) mit dem Namen des Komponisten als Schreiber erstellt werden. Eine Ausnahme besteht jedoch, wenn die Identität des Kopisten feststeht, aber nicht sicher ist, ob der Schreiber auch der Komponist ist. In einem solchen Fall tragen Sie den Namen des Kopisten in das Feld **Nebeneintrag Personenname (700)** ein, fügen aber denselben Namen in das Feld **Name des Komponisten/Autors (100 $a)** mit dem entsprechenden **Zuschreibungsvermerk (100$j)** ein.
-
-In einigen Fällen beispielsweise bei Teilautographen ist ein erklärender Vermerk im Feld **Bemerkungen (500)** sinnvoll.
-
-Ist der Bearbeiter einer Komposition gleichzeitig auch deren Schreiber, gilt diese Quelle als Abschrift nicht als **Autograph**.
-
-Liegen mehrere Quellentypen vor, wird die Gruppe **Materialbeschreibung** wiederholt und der entsprechende Typ ausgewählt.
-
-Wenn es sich bei Ihrer Quelle um eine mechanische Reproduktion handelt (z. B. eine Fotokopie), gehen Sie folgendermaßen vor:
-
-1.  Wählen Sie Autograph, **Manuscript copy** usw. aus (d.h. wählen Sie den Typ aus, der für die Originalquelle gilt)
-    
-
-Wählen Sie die Art der Reproduktion im Feld **Spezielle Fertigungstechnik (340 $d)**
+2\. Select the type of reproduction in the field  **Special production technique (340 $d)**.

@@ -1,8 +1,9 @@
-#### 
+### Colophon (597)
 
-### Colofão (597)
+#### Colophon (597 $a)
 
-Para itens impressos, insira o colofão tal como ele aparece na fonte, tipicamente na última página impressa.
+For printed items, enter the colophon as it appears on the source, typically on the last printed page.
 
-##### Exemplo:  
-Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs | eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis
+##### Example
+
+- Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs \| eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis

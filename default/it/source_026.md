@@ -1,30 +1,32 @@
-### Impronta (026)
+### Fingerprint identifier (026)
 
-L'identificatore dell'impronta è impiegato per facilitare l’identificazione di libri antichi creando gruppi di caratteri provenienti da posizioni specifiche di specifiche pagine di un libro.
+A fingerprint identifier is used to assist in the identification of antiquarian books by creating groups of characters taken from specified positions on specified pages of the book.
 
-**Impronta non analizzata  (026 $e)**
+Depending on the description standard used, fingerprints can be entered in online line (unparsed) or in separate groups.
 
-Inserisci l'intero identificatore d'impronta.
+#### Unparsed fingerprint (026 $e)
 
-Le linee guida pubblicate in merito e sviluppate dall'Institut de Recherche et d’Histoire des Textes e la National Library of Scotland possono essere consultate in linea: in [inglese, francese e italiano](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm), e in [tedesco](https://katalogbeta.slub-dresden.de/id/0001617101/#detail).
+Enter the complete fingerprint identifier.
 
-##### Esempio  
-n?n, n;t, v.at BeDr C 1695R
+Guidelines established by the Institut de Recherche et d’Histoire des Texte and the National Library of Scotland can be consulted online in [English, French, and Italian](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm), and [German](http://nbn-resolving.de/urn:nbn:de:hbz:6:1-195591).
 
-Gli elementi dell'impronta possono essere inseriti in diversi sottocampi, a seconda dello standard di descrizione:
+##### Example
+- n?n, n;t, v.at BeDr C 1695R
 
-**Primo e secondo gruppo di caratteri  (026 $a)**
+Other fields are also available, depending on the description standard:
 
-Inserisci i caratteri che appartengono al primo e al secondo gruppo.
+#### First/second group (026 $a)
 
-**Terzo e quarto gruppo di caratteri  (026 $b)**
+Enter the characters that belong in the first and second group.
 
-Inserisci i caratteri che appartengono al terzo e al quarto gruppo.
+#### Third/fourth group (026 $b)
 
-**Data (026 $c)**
+Enter the characters that belong in the third and fourth group.
 
-Inserisci la data se è espressa come parte di un identificatore d'impronta.
+#### Date (026 $c)
 
-**Numero del volume o parte  (026 $d)**
+Enter the date when expressed as a component of a fingerprint identifier.
 
-Inserisci il numero del volume o della parte (ossia sezione) se è espresso come parte di un identificatore d'impronta.
+#### Number of volume/part (026 $d)
+
+Enter the number of the volume or part (i.e., section) when expressed as a component of a fingerprint identifier.

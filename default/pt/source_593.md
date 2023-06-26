@@ -1,66 +1,71 @@
-### Tipo de fonte (593 $a)
+Source type (593)
+=================
 
-**Campo obrigatório.**
+**Required field.**
 
-Este campo descreve a natureza da fonte. Por favor, selecione da lista seguinte:
+This field describes the nature of the material as well as its contents.
 
-**Para música notada:**
+#### Source type (593 $a)
 
--
+The **Source type** describes material characteristics. The options offered are based on the template chosen. Select from the following:
 
-**Manuscrito autógrafo:** escrito completamente ou em sua maior parte pela mão do compositor.
+**For handwritten materials**
+- **Autograph manuscript**: Written completely or mostly in the composer’s hand. If you have entered Anonymus as the composer and wish to select autograph manuscript here, add an explanation in the **General note (500)**.
+- **Possible autograph manuscript**: Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
+- **Partial autograph**: Significant portions of the manuscript are in the composer's hand.
+- **Manuscript copy**: The manuscript is in the hand of a person other than the composer. This is selected by default when a template for handwritten material has been chosen.
+- **Manuscript copy with autograph annotations**: The manuscript is in the hand of a person other than the composer, but corrections or small additions are in the composer’s hand.
+- **Additional printed material**: Printed material is present but will not be described in a separate record (see below).
 
--
+**For printed materials**
+- **Print**: This is selected by default when a template for printed material has been chosen.
 
-**Possível manuscrito autógrafo**: indica que há um grau de incerteza se o manuscrito é da mão do compositor.
+In the holdings information, you can further select from the following:
+- **Print**: This is selected by default.
+- **Print with autograph annotations**: Handwritten annotations by the composer.
+- **Print with non-autograph annotations**: Handwritten annotations not by the composer.
+- **Additional manuscript material**: Manuscript material is present but will not be described in a separate record (see below).
 
-- **Autógrafo parcial:** partes significativas do manuscrito são da mão do compositor.  
+**For composite volumes**
+- **Composite**: This is selected by default.
 
-- **Cópia manuscrita**
+For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differenciate futher.
 
-- **Cópia manuscrita com anotações autógrafas**: correções ou pequenos acréscimos são da mão do compositor.
+**Additional printed or manuscript material**
 
-- **Impresso**
+Manuscript templates offer the option **Additional printed material.** In templates for printed items, the holdings information offers **Additional manuscript material**. This is to create a space in your record to briefly describe materials that accompany your main source but differ from the template type.
 
-- **Impresso com anotações autógrafas:** anotações manuscritas feitas pelo compositor. Use para materiais à mão somente (informação específica do exemplar).  
+For example, you have a set of performing materials that comprises a handwritten set of parts and a printed score. You always have the option of describing the handwritten material in a template for manuscripts and the printed material in a template for prints, and including cross-references to the other records. While separate records for printed materials offer the fullest and most complete description, there might not always be enough information to describe a printed item fully or your preference might be to keep all your materials in one record. In such cases, you can indicate the additional materials and briefly describe them using these options.
 
-- **Impresso com anotações não-autógrafas:** quaisquer outros tipos de anotações manuscritas feitas não pelo compositor, mas por terceiros. Use para materiais à mão somente (informação específica do exemplar).
+If you are using a manuscript template, your first instance of the field **Source type** will match the template by default and pertain to the handwritten material. Add a second material group and select **Additional printed material**. Then describe your printed material as usual for this section.
 
-**Para outros tipos de documentos:**
+If you are using a print template, in the holdings information select **Additional manuscript material**. Then describe your manuscript material in this section.
 
--
+#### Content type (593 $b)
 
-**Libreto, manuscrito **
+The **Content type** describes the form of the material. Select from the following:
+- **Notated music**
+- **Libretto**
+- **Treatise**
+- **Other**: Use sparingly to describe other kinds of materials that accompany the musical source.
 
--
 
-**Libreto, impresso**
+For composite volumes that contain more than one content type, you may also select:
 
--
+- **Mixed**
 
-**Tratado, manuscrito**
+#### Other remarks
 
--
+In the case of autograph manuscripts and possible autograph manuscripts, do not create an added entry **(700)** with the composer's name as the copyist. However, an exception is if the identity of the copyist is certain but it is uncertain if the copyist is also the composer. In such a case, enter the copyist's name in the field **Additional personal name (700)** but add the same name to the field **Composer/Author (100 $a)** with the appropriate **Attribution qualifier (100$j)**.
 
-**Tratado, impresso**
+In some cases, such as with a partial autograph, an explanatory note in the field  **General note (500)** may be appropriate.
 
--
+If the arranger of a composition was also the copyist, select  **Manuscript copy** and not  **Autograph manuscript**.
 
-**Periódico musical**
+If multiple types of sources are present, repeat the  **Material description** group to select and describe each type of source.
 
--
+If your source is a mechanical reproduction (such as a photocopy), follow these steps:
 
-**Outro  **
+1\. Select  **Autograph manuscript**, **Manuscript copy**, etc. as it applies to the original source.
 
-No caso de manuscritos autógrafos e possíveis manuscritos autógrafos, não crie um registro adicional **(700)** com o nome do compositor como copista. Entretanto, uma exceção é feita se a identidade do copista é certa, mas é incerto se o copista é também o compositor. Neste caso, insira o nome do copista no campo **Nomes adicionais de pessoas (700),** mas adicione o mesmo nome ao campo **Nome do compositor/autor (100 $a)** com a atribuição apropriada.
-
-Em alguns casos, como no caso de um autógrafo parcial, uma nota explicativa no campo **Nota geral (500)** pode ser apropriada.
-
-Se o arranjador de uma composição foi também o copista, selecione **Cópia manuscrita** e não **Manuscrito autógrafo**.
-
-Se múltiplos tipos de fontes estão presentes, repita o grupo "Descrição material" para selecionar e descrever cada tipo de fonte.
-
-Se a fonte é uma reprodução mecânica (como uma fotocópia), siga estes passos:
-
-1. Selecione **Manuscrito autógrafo**, **Cópia manuscrita**, etc. como for apropriado (isto é, selecione o tipo que se aplica à fonte original)
-2. Selecione o tipo de reprodução no campo **Técnica especial de produção(340 $d)**
+2\. Select the type of reproduction in the field  **Special production technique (340 $d)**.

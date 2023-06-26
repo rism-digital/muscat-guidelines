@@ -1,66 +1,52 @@
-### Referências para as séries RISM A/I e B (596)
-Insira referências cruzadas para as séries RISM de edições impressas se a fonte apresenta claramente a mesma obra, tal como uma cópia manuscrita de uma edição impressa. Mais detalhes podem ser fornecidos no campo **Nota geral (500)**.  
+### RISM series A/I and B reference (596)
 
-#### Referências para as séries RISM A/I e B (596 $a)
+Enter cross-references to printed editions indexed in printed RISM series. This field is most commonly used if the source clearly presents the same work, such as a manuscript copy of a printed edition. This field can also include cross-references to other printed editions, such as for references to other editions or cases where confusion with a different edition might arise.
 
-Selecione a série RISM.
+Include a **General note (500)** to explain the connection between the source in hand and the source cited in the 596.
+
+See also the field **Related source (787)**.
+
+This field may not be used to indicate that a printed edition is absent from RISM's series A/I or a volume in the B series; use the field **Bibliographic reference (691)** instead.
+
+#### RISM series A/I and B reference (596 $a)
+
+Select the RISM series. Use **Other** for references to printed editions that were originally cataloged in Muscat and not included in the printed volumes of the A/I and B series.
+
+#### RISM series number (596 $b)
+
+Enter the reference to the piece in the RISM series. Note that each volume has a different way of referring to sources; some have individual numbers while others require page numbers.
 
 
+##### Examples
 
-#### Número da série RISM (596 $b)  
+- Other
+- 1001100380
 
-Insira a referência à obra na série RISM selecionada. Observe que cada volume tem uma maneira de diferente de fazer referência às fontes; alguns têm números individuais, enquanto outros exigem números de página.
+Below are examples for each [RISM publication](http://www.rism.info/en/publications.html) that includes printed music:
 
-Use **Other** para referências a edições impressas que não estejam incluídas nos volumes impressos das séries A/I e B.  
-_Exemplo:_  
-Other  
-1001100380
-
-Abaixo estão exemplos para cada [publicação RISM](http://www.rism.info/en/publications.html) que inclui música impressa:
-
-A/I - _Einzeldrucke vor 1800/Individual Prints before 1800 (Obras impressas anteriores a 1800)_
-
-- D 3552
-- H 6429a
-- AA 898 I,1
-
-B/I - _Recueils imprimés, XVIe-XVIIe siècles  (Antologias impressas nos século XVI e XVII)_
-
-- 1616/14
-
-B/II - _Recueils imprimés, XVIIIe siècle  (Antologias impressas no século XVIII)_
-
-- p. 87
-
-B/III - _The theory of music (Teoria musical)_
-
-- vol. 4, p. 151-152
-
-B/VI - _Écrits imprimés concernant la musique (Escritos impressos sobre música)_
-
-- vol. 1, p. 406-407
-
-B/VIII - _Das deutsche Kirchenlied (A canção sacra alemã)_
-
-- 1653/18
-
-B/IX/1 - _Hebrew notated manuscript sources up to circa 1840: A descriptive and thematic catalogue with a checklist of printed sources (Fontes hebraicas manuscritas notadas até cerca de 1840: um catálogo descritivo e temático com uma lista de fontes impressas)_
-
-- vol. 2, p. 881
-
-B/IX/2 - _Hebrew writings concerning music in manuscripts and printed books from Geonic times up to 1800 (Escritos hebraicos sobre música em livros manuscritos e impressos até cerca de 1800)_
-
-- 330
-
-B/XIII - _Hymnologica Slavica (Música impressa dos séculos XVI a XVIII na Boêmia, Eslováquia, Polônia e Sérvia)_
-
-- HBS 1738/01
-- HP ca. 1558/09
-
-B/XV - _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630 (Missas polifônicas em fontes de Espanha, Portugal e América Latina, ca. 1490-1630)_  
-Mencione o número A/I, B/I, ou B/II se fornecido; caso contrário, insira o(s) número(s) da(s) página(s).
-
-- p. 45-46
-
-B/XVII - _Die Triosonate: Catalogue Raisonné der gedruckten Quellen (A trio-sonata: Catálogo fundamentado de fontes impressas)_  
-Mencione o(s) número(s) da(s) página(s) se nenhuma outra série RISM estiver mencionada.
+- A/I - _Einzeldrucke vor 1800/Individual Prints before 1800_
+ - D 3552
+ - H 6429a
+ - AA 898 I,1
+- B/I - _Recueils imprimés, XVIe-XVIIe siècles_
+ - 1616/14
+- B/II - _Recueils imprimés, XVIIIe siècle_
+ - p. 87
+- B/III - _The theory of music_
+ - vol. 4, p. 151-152
+- B/VI - _Écrits imprimés concernant la musique_
+ - vol. 1, p. 406-407
+- B/VIII - _Das deutsche Kirchenlied_
+ - 1653/18
+- B/IX/1 - _Hebrew notated manuscript sources up to circa 1840: A descriptive and thematic catalogue with a checklist of printed sources_
+ - vol. 2, p. 881
+- B/IX/2 - _Hebrew writings concerning music in manuscripts and printed books from Geonic times up to 1800_
+ - 330
+- B/XIII - _Hymnologica Slavica_
+ - HBS 1738/01
+ - HP ca. 1558/09
+- B/XV - _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630_  
+  Cite the A/I, B/I, or B/II number if given; otherwise, cite the page number(s).
+ - p. 45-46
+- B/XVII - _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_  
+  Cite the page number(s) if no other RISM series is cited.

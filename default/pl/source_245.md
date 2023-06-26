@@ -1,25 +1,28 @@
-#### Tytuł w źródle (245 $a)
+### Title on source (245)
 
-**Pole wymagane.**
+#### Title on source (245 $a)
 
-Należy podać tytuł dokładnie taki, jaki widnieje w źródle (tytuł dyplomatyczny). W praktyce może to obejmować wszystkie informacje na stronie tytułowej, takie jak nazwisko kompozytora lub inne oznaczenia. W przypadku druków muzycznych, należy zamieścić wszystko na stronie tytułowej, łącznie ze stopką wydawniczą.  
+**Required field.**
 
-Należy spisywać tytuł w całości. Nie należy używać skrótów. Należy wskazać koniec linii za pomocą | (kreska pionowa) z pojedynczą spacją przed i po. Należy wskazać znaki zapisane w indeksie górnym z | bez spacji przed każdym znakiem zapisanym w indeksie górnym. Każdy znak zapisany w indeksie górnym należy poprzedzić znakiem |, tak jak w: 1|m|o  
+Enter the title exactly as it appears on the source (the diplomatic title). In practice, this may include all information on the title page, such as the composer's name or other indications. For printed music, include everything on the title page including the imprint.
 
-Należy dołączyć informacje o tym, gdzie pojawia się tytuł w nawiasach kwadratowych na początku pola. Zawsze należy używać terminologii angielskiej, a następnie dwukropka. Dane uzupełniające należy załączać w nawiasach kwadratowych. Należy użyć wykrzyknika w nawiasie **[!]** lub **[sic]**, aby wskazać nietypową lub nieprawidłową pisownię.
+Transcribe the title in its entirety. Do not abbreviate. Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Indicate superscripts with **\|** without a space before each superscript sign. Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o . Repeated letters indicated by a macron diacritic may be written out: m[m]
 
-W przypadku druków muzycznych, w nawiasach można wskazać elementy dekoracyjne, np.:  
-[czerwonym tuszem:]  
-[znak drukarni]  
-[winieta]  
+Include information about where the title appears in square brackets at the beginning of the field. Always use terminology in English, followed by a colon. Enclose supplementary data in square brackets. Use an exclamation point in square brackets **[!]** or **[sic]** to indicate an unusual or incorrect spelling.
 
-Jeśli tytuł nie jest dostępny, należy wpisać w języku angielskim: **[without title]**  
+For printed music, you can indicate decorative elements in square brackets in English, such as:
+- [in red ink:]
+- [printer's mark]
+- [vignette]
 
-Patrz również: lista **Terminów standardowych**.  
+If no title is available, enter, in English: **[without title]**
 
-Przykłady:  
-[title page:] Vesperae j chorales un a cum j organo cantandae j pro j Choro Ingolstadiensi,  
-[without title]  
-[caption title, f. 1r:] Claver [sic] [nieczytelne] von Wartensee | Frankfurt 9 października 1829.  
-[cover title:] XII | Divertimentous [!]  
-[cover title:] Offertorium w C j a | a | Canto, Alto, Tenore, Basso | Violino 1|m|o i 2|d|o | Corno 1|m|o i 2|d|o | Fagotto 1|m|o i 2|d|o | Clarino 1|m|o i 2|d|o | Timpani | Organo et Violon | Jos. Eib. Eibl.
+See also the list of **Standard terms**.
+
+##### Examples
+
+- [title page:] Vesperae \| chorales unà cum \| organo cantandae \| pro \| Choro Ingolstadiensi,
+- [without title]
+- \[caption title, f. 1r:] Claver [sic\] \[illegible\] von Wartensee \| Frankfurt 9 Oct. 1829.
+- [cover title:] XII \| Divertimentous [!]
+- [cover title:] Offertorium in C \| a \| Canto, Alto, Tenore, Basso \| Violino 1\|m\|o et 2\|d\|o \| Viola \| Clarinetto 1\|m\|o et 2\|d\|o \| Corno 1\|m\|o et 2\|d\|o \| Fagotto 1\|m\|o et 2\|d\|o \| Clarino 1\|m\|o et 2\|d\|o \| Timpani \| Organo et Violon \| Jos. Eibler

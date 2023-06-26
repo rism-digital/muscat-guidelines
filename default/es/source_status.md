@@ -1,11 +1,17 @@
-### Estado del registro
+### Record status
 
-El **estado del registro** determina cuáles registros se publican en el [catálogo online de RISM](https://opac.rism.info/index.php?id=4) y, por ende, son visibles públicamente. Este estado puede modificarse manualmente.
+The **Record status** records whether the records in Sources are published or unpublished. Only published records are available in the RISM catalogs and open data. The status can be changed manually. The record status is applied to each record individually, regardless of whether the record is linked to other records (such as in a collection).
 
-**_Published_ (Publicado)**  
-Los registros de Muscat con el estado  **_Published _** son enviados para ser publicados en el catálogo de RISM una vez al mes, alrededor del día 19 (dependiendo de los fines de semanas y los días no laborables). Los registros aparecen en el catálogo para ser consultados hacia fin de mes. Todos los registros nuevos se configuran automáticamente en **Publicado**.
+The record status only applies to records created for musical sources, not for other areas of Muscat (such as authority files).
 
-**_Unpublished _(No publicado)**  
-Los registros con el estado  **_Unpublished_** no se publican en el catálogo online de RISM. Algunos proyectos desean mantener este estado hasta que el proyecto finalice, o ciertos individuos pueden preferir esperar hasta que un ítem esté completamente catalogado antes de publicarlo (como en el caso de registros extensos que incluyen muchos íncipits o entradas individuales).
+#### Published
 
-Por favor, use este estado con discreción. No es conveniente ocultar registros que ya fueron publicados, ni tampoco es ideal dejar registros sin publicar por mucho tiempo.
+Records from Muscat with the status **Published** are available in the public RISM catalogs and open data. All new Muscat records are automatically set to **Published**.
+
+#### Unpublished
+
+Records with the status **Unpublished** are withheld from publication. Some RISM contributors wish to keep this status until a project is complete, or individuals might want to wait until an item is fully cataloged before publishing it (such as with extensive records that have lots of incipits or individual entries).
+
+Please use this status judiciously. It is not good practice to unpublish records that were once publicly available, nor is it ideal to keep records unpublished for a very long time.
+
+Multiple records can be published at once by adding them to a folder and publishing the contents of the folder.  

@@ -1,118 +1,109 @@
-## Âmbito da música impressa no RISM
-O RISM procura documentar a música impressa desde os primórdios da impressão musical até cerca de 1900.
+## Printed music in RISM
 
-Ao longo do século 20 e até o presente, vemos um aumento acentuado na publicação e na distribuição de música comercial. A quantidade de música considerada “rara” ou não-documentada em outros lugares é bastante menor quanto comparada aos séculos anteriores. Música publicada por editores modernos, impressa em grandes quantidades, amplamente disponíveis e destinadas ao uso ativo por usuários de bibliotecas seriam melhor documentadas em bases de dados cooperativas tais como o [WorldCat](http://www.worldcat.org/).
+The section **Printed music in RISM** outlines some considerations that are particular to printed music, including the scope of printed music in RISM, when to input a new record, standardized titles, and multiple copies.
 
-O RISM considerará, caso a caso, a possibilidade de documentar música publicada no século XX por editoras extintas ou por editores regionais de reconhecida importância histórica; assim como edições modernas incluídas no decorrer da catalogação de uma coleção com valor histórico, como a biblioteca particular de um indivíduo.
+### Scope of printed music in RISM
 
-## Quando criar um novo registro (música impressa)
-O RISM trata cada manuscrito como um item único e por isso cada manuscrito tem o seu próprio registro RISM. Os materiais impressos, no entanto, são diferentes, pois vários exemplares da mesma edição podem ser descritos usando o mesmo registro (nesse caso, terá apenas de adicionar as informações do seu material). Porém, variantes significativas significam que um novo registro deve ser criado.
+RISM seeks to document printed music from the beginnings of music printing through around 1945.
 
-Enumeram-se a seguir diretrizes sobre as variantes que justificam, ou não, a criação de um novo registro. (Esta seção baseia-se fortemente em [Descriptive Cataloging of Rare Materials (Music)](http://http://rbms.info/dcrm/).
+In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and distribution. The amount of music considered "rare" or undocumented through other resources is much less when compared to previous centuries. Music published by modern commercial publishers, printed in large quantities, widely available, and meant for active use by library patrons would be better documented in cooperative library catalogs such as [WorldCat](http://www.worldcat.org/).
 
-**Um novo registro é necessário** se o item mostra uma ou mais das seguintes diferenças, quando comparado com o registro já existente no RISM:  
+RISM will consider printed music that falls outside of its scope on a case-by-case basis. Relevant cases could include defunct publishers or smaller, regional publishers of historical significance, or modern editions that are part of a collection with historical value, such as the private library of an individual.
 
-- **Conteúdo diferente**: Diferenças no título ou autores / colaboradores. Menção de edição que indica correções, revisões, expansões, abreviações ou a inclusão de materiais suplementares
+### When to input a new record
 
-- **Editor diferente**.
+RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add thier holdings information and note any copy-specific differences. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created.
 
-- **Configuração diferente do tipo de impressão**: alterações na menção de extensão. Mudança no formato bibliográfico ou musical. Diferenças nos finais de linha musical e palavras de ordem (reveladas pela comparação de várias cópias).
+The following offers guidelines as to which variations justify a new record and which do not. (This section draws heavily from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
-- **Estado de publicação diferente**: Uma página de título original foi cancelada e substituída. Uma nova etiqueta está a cobrir a informação original sobre a publicação, distribuição, produção, etc. Partes originais foram publicadas com a capa de um novo editor com informações mais recentes do que as fornecidas na página de título. A página de título da série é nova.
+**A new record is required** if your item shows one or more of these differences when compared to the RISM record:
 
-- **Números de chapa e/ou editor diferentes. **
+- **Different content**: Differences in the title or authors/contributors. Edition statement that indicates corrections, revisions, expansions, abridgments, or the inclusion of supplementary materials.
+- **Different publisher.**
+- **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by the comparison of multiple copies).
+- **Different publication status**: An original title page has been canceled and replaced. A new label is covering the original publication, distribution, production, etc., statement. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page. Series title page is new.
+- **Different plate and/or publisher numbers**.
 
-**Não crie um novo registro** se o seu item apresenta uma das seguintes diferenças. (Se o seu item apresenta _mais de uma_ das seguintes diferenças, deve-se decidir se um novo registro é necessário.)
+**Do not create a new record** if your item has one of these differences. If your item has _more than one_ of these differences, you must decide if a new record is necessary.
 
-- Menção de impressão diferente: Por exemplo, “Quinta impressão”
+- Different statement of printing: For example, "Fifth printing"
+- Different printer or other manufacturer but same publisher
+- Different printing date but same publication date
+- Different publisher’s cover that does not provide evidence of a discrete publishing unit (for example, a change of color in publisher’s cloth)
+- Different kind of binding from the publisher
+- Different publisher’s advertisements or catalogs (unless they are integral to the publication)
+- Corrections made in the course of a single press run (stop-press corrections)
+- Presence or absence of an errata slip
 
-- Impressor ou outro fabricante diferente, mas mesmo editor  
-- Data de impressão diferente, mas a mesma data de edição
+These guidelines mean that a single record can be used to represent multiple impressions, states, and binding variants relating to a single edition or issue. In your holdings information, you can enter details about variants and information specific to your copy.
 
--  
+#### Examples
 
-Capa de publicação diferente, que não fornece evidência de que se trata de uma unidade de publicação distinta (por exemplo, uma mudança de cor no tecido da capa)  
+Example 1: You are looking at RISM ID number 1001031016: Beethoven, "Adelaide," op. 46, no date, Bonn, N. Simrock, text in German and French. Spelling error on title page: "à une vois [!] Seule".
 
-- Encadernação diferente
+1. Copy 1: Same publication information but spelling has been corrected. This alone would not warrant a new record, but there is an additional text language in Italian. **New record required** (different content/expansion). Result: 1001031017
 
-- Anúncios ou catálogos do editor diferentes (a menos que integrem a publicação)  
+2. Copy 2: As copy 1, but a price has been engraved on the title page. **Do not create a new record** (no evidence of discrete publishing unit). Add your holdings and mention the price in the holdings information.
 
-- Correções feitas no decorrer de uma tiragem única do impresso (correções “stop-press”)
+3. Copy 3: As RISM ID number 1001031016 (but spelling has been corrected), but an additional publisher is named: "chez L. PLATTNER à ROTTERDAM." **New record required** (different publication status). Result: 1001031022
 
-- Presença ou ausência de uma errata avulsa
+Example 2: You are looking at RISM ID number 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
 
-Estas diretrizes significam que um único registro será usado para representar diversas variantes de impressão, estado e encadernação, relacionadas com uma única edição ou publicação. Nas informações sobre o material, podem-se inserir detalhes sobre variantes e informações específicas do exemplar catalogado.
+1. Copy 1: Same title but a label has been stuck over the publication information: Köln, P.J. Simrock. You can see that the label is covering up the Bonn/Köln information. **New record required** (different publication status/label indicates a different publisher). Result: 1001141767
 
-_ **Exemplos: ** _
+Example 3: You are looking at RISM 990024126: Gyrowetz, Symphonies, op. 9. The RISM record represents a set of multiple symphonies. Each symphony is available as a separate publication with separate plate numbers, issued as _livres_ 1, 2, and 3.
 
-1. No caso do registro RISM n.º 1001031016: Beethoven, "Adelaide," op. 46, sem data, Bonn, N. Simrock, texto em alemão e francês. Erro ortográfico na página de título: "à une vois [!] Seule".
+1. Option 1, the quick solution: If your library only has one of the items in the set, **add your holdings** and in the field "Material held" please note which symphony (livre) you have.
+2. Option 2, a better solution, but takes more time: **Notify the Editorial Center** about this record and we will split the record into 3, one record for each symphony. Then, add your holdings to the record for the symphony you have.
 
-1.
+### Standardized titles for printed music
 
-Exemplar 1: A mesma informação de publicação, mas a ortografia foi corrigida. Isto, por si só, não justifica um novo registro, mas há uma língua adicional, texto em italiano. **Novo registro requerido** (conteúdo/expansão diferente). Resultado: 1001031017
+#### Distinctive titles
 
-2.
+Printed music bears distinctive titles much more frequently than music manuscripts do. Please observe the following for the field **Standardized title (240)** when cataloging printed music.
 
-Exemplar 2: Como o exemplar 1, mas um preço foi gravado na página de título. **Não criar um registro novo**   (não há evidência de uma unidade de publicação distinta). Acrescente seus materiais e mencione o preço na informação do exemplar.
+1. **Spelling**
 
-3. Exemplar 3: Como o registro RISM n. º1001031016 (com a ortografia foi corrigida), mas está mencionado um editor adicional: "chez L. PLATTNER à ROTTERDAM." **Novo registro requerido** (menção de publicação diferente). Resultado: 1001031022
+Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms. Frequent changes include _v_ to _u_, _i_ to _j_ , _y_ to _i_, and _uu_ to _w_. Additional variations can be entered in the field **Additional title (730)**.
 
-2. No caso do registro RISM n.º 990055558 (A/I: R 2226): Romberg, Airs variés, op. 17, Offenbach, Jean André.
+<figure>
+RISM A/I: RR 3030c
 
-1. Exemplar 1: Mesmo título, mas uma etiqueta foi colada sobre a informação de publicação: "Imported by William Forster... Strand." Pode-se ver que a etiqueta está a cobrir a informação sobre Offenbach/André. **Novo registro requerido** (diferente menção de publicação/etiqueta cobre a informação original de publicação). Resultado: 1001031194
+- Title on source: Musicalische Grab=schrifft.
+- Standardized title: Musikalische Grabschrift
+  <figcaption>Example</figcaption>
+</figure>
 
-3. No caso do registro RISM n.º 990024126 (RISM A/I: G 5286). O registro RISM representa um conjunto de múltiplas sinfonias. Cada sinfonia está disponível como uma publicação separada com números de chapa separados, indicados como _livres_ 1, 2 e 3.
+2. **Deriving a standardized title**
 
+Standardized titles should consist of the title of the print up to a natural break, frequently a comma, period, or a statement of the author, instrumentation, number, or imprint. Sometimes a distinctive title appears on a page other than the title page.
 
+##### Examples
 
-1.
+- RISM ID no. 990003743
+   - Title on source: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza
+   - Standardized title: Vezzo di perle musicali
 
-Opção 1, a solução rápida: se a sua instituição tem apenas uma das sinfonias do conjunto, **acrescente o seu material** e no campo "Material existente" anote, por favor, qual é a sinfonia (_livre_) que sua instituição tem.
+- RISM ID no. 990006458
+   - Title on source: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima
+   - Standardized title: Novo giardino de concerti
 
-2. Opção 2, uma solução melhor, mas leva mais tempo: **Informe a Redação Central** sobre este registro e o dividiremos em três, um para cada sinfonia. Acrescente, então, os seus materiais ao registro da sinfonia correspondente.
+#### Generic titles
 
-## Títulos uniformes para música impressa
+Standard RISM rules for generic titles apply (see **Standardized title (240)**), but bear in mind that even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive titles. Use the field **Additional title (730)** to enter such titles in a standardized form. For guidance, refer to standard reference works such as Grove and MGG, and authority files from the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the component in the original language (but standardized spelling) and the arabic number following the title.
 
-**Títulos distintivos **
+##### Examples
 
-A música impressa apresenta títulos distintivos mais frequentemente do que a música manuscrita. Por favor, ao catalogar música impressa, observe o seguinte para o campo **Título uniforme (240**).
+  - RISM ID no. 990048285
+    - Title on source: CANTVS \| IOANNIS PETRALOYSII \| PRAENESTINI \| Missarum cum quatuor, quinque, & sex vocibus. \| LIBER DVODECIMVS. \| Nunc primum in lucem editus. \| VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI
+    - Standardized title: Missarum, liber 12
+    - Additional title: 6 Masses
 
-1.
+  - RISM ID no. 993000147
+    - Title on source: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. Stimmen. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
+    - Standardized title: Preussische Festlieder
+    - Additional title: Preussische Festlieder, Teil 2
 
-**Ortografia**  
-Insira os títulos uniformes usando ortografia moderna, mas não corrija usos arcaicos ou dialetos/regionalismos. Alterações frequentes incluem v para u, i para j, y para i, e uu para w. A Redação Central pode ajudar no caso de línguas estrangeiras pouco conhecidas. Variações adicionais podem ser inseridas no campo **Título adicional (730)**.   
+### Multiple copies in one institution
 
-##### Exemplo:   
-RISM A/I: RR 3030c   
-Título na fonte: Musicalische Grab=schrifft.   
-Título uniforme: Musikalische Grabschrift
-
-2. **Derivar um título uniforme**    
-Títulos uniformes devem consistir do título do impresso até a uma quebra natural, normalmente uma vírgula, ponto final ou uma declaração do autor, instrumentação, número ou impressão. Às vezes, um título distintivo aparece em uma outra página que não a página de título.  
-
-> ##### Exemplos   
-> RISM A/I: B 805   
-> Título na fonte: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza   
-> Título uniforme: Vezzo di perle musicali
-
-> RISM A/I: B 3781  
-> Título na fonte: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima  
-> Título uniforme: Novo giardino de concerti
-
-
-**Títulos genéricos **
-Mesmo os títulos genéricos, especialmente em impressos antigos, são frequentemente citados na literatura como se fossem títulos distintivos. Use o campo **Título adicional (730)** para registrar estes títulos de forma normalizada. Para orientação, consulte obras de referência padrão como o Grove e o MGG, e arquivos de autoridades da [Library of Congress](http://id.loc.gov/authorities/names.html) ou [VIAF](http://www.viaf.org/). Se o título indica que o item tem uma afiliação com outro item, como libro/Buch/livre ou Teil/part/tomus, insira o componente na linguagem original (mas com ortografia normalizada) e o algarismo depois do título.  
-
-##### Exemplos
-RISM A/I: P 687   
-Título na fonte: CANTVS | IOANNIS PETRALOYSII | PRAENESTINI | Missarum cum quatuor, quinque, & sex vocibus. | LIBER DVODECIMVS. | Nunc primum in lucem editus. | VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI   
-Título uniforme: 6 Masses   
-Título adicional: Missarum, liber 12
-
-RISM A/I: SS 6593a   
-Título na fonte: Ander Theil | Der Preussischen | Fest-Lieder/ | Von Ostern an biß Advent | Mit 5/ 6/ 7/ 8. Stimmen. | JOHANNIS ECCARDI MULHUSINI THURINGI, | vnd | JOHANNIS STOBAEI GRUDENTINI BORUSSI. | Beyder Chur: vnd Fürstlicher Brandeb. Capell= | meistern in Preussen. | DISCANTVS. | Gedruckt zu Königsberg durch Johann Reusnern An: 1644.   
-Título uniforme: Preussische Festlieder   
-Título adicional: Preussische Festlieder, Teil 2
-
-## Múltiplos exemplares em uma instituição
-Se sua instituição possui múltiplos exemplares da mesma edição impressa, crie um registro de propriedade para cada exemplar.
+If your institutions owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.

@@ -1,10 +1,13 @@
-### Registro subsiguiente (785)
+### Succeeding entry (785)
 
 #### Registro subsiguiente (785 $a)
-Este campo y el anterior (**Entrada precedente**) se utilizan para listar y vincular títulos alternativos de fuentes, como el título de una revista que ha cambiado de nombre.
 
-Introduzca aquí el nombre con el que se ha conocido posteriormente a la revista. Este campo está vinculado a la base de datos de **Bibliografía secundaria**.
+This field and the previous field (**Preceding entry**) are used to list and link alternate titles of items, such as a journal title that has changed names.
 
-##### Ejemplo
-La revista _Chelys. The Journal of the Viola da Gamba Society_ existió entre 1969 y 2004, cuando se vio sucedida por _The Viola da Gamba Society Journal_. En el registro de _Chelys_, introduzca lo siguiente:   
-- Registro subsiguiente (785 $a): _The Viola da Gamba Society Journal_
+Introduzca aquí el nombre con el que se ha conocido posteriormente a la revista. Este campo está vinculado la base de datos de **Bibliografía secundaria**.
+
+##### Example
+
+The journal _Chelys. The Journal of the Viola da Gamba Society_ existed from 1969 to 2004, when it was succeeded by _The Viola da Gamba Society Journal_. In the record for _Chelys_, enter the following:
+
+- Succeeding entry (785 $a): The Viola da Gamba Society Journal

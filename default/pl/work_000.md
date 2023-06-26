@@ -1,2 +1,3 @@
-### Lider (000)
-W tym polu nie należy niczego wpisywać ani zmieniać.
+### Leader (000)
+
+Do not enter or change anything in this field.

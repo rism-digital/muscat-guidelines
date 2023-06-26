@@ -1,151 +1,409 @@
-### Abbreviazioni e termini vari
+<jointfile>
 
-Vi sono alcune abbreviazioni e termini che puoi incontrare ovunque in Muscat. Riempiendo campi a testo libero, è miglior pratica di scrivere per esteso i termini a beneficio degli utenti cui queste abbreviazioni potrebbero non essere note.
+## General abbreviations and terms
 
+The section **General abbreviations and terms** contains terminology found throughout Muscat. When writing in free-text fields, it is advisable to avoid abbreviations and instead write out terms in full, when possible, for the benefit of other users who may not be familiar with these abbreviations.
 
+acc
 
-| **Termine** | **Significato** |
-| acc | accompagnamento |
-| appx | appendice |
-| Arr, arr. | arrangiamento |
-| Autograph | manoscritto autografo |
-| ?Autograph? | manoscritto autografo dubbio  
- |
-|   |   |
-| b.fig | basso cifrato  
- |
-|   |   |
-| cfr. | confronta |
-| Chb | libro corale (in musica a stampa) |
-| Chor-P | partitura vocale (in musica a stampa) |
-| clm. | colonna |
-| cm | centimetri |
-| CMPCOL | volume composito (tipo di fonte in Muscat) collezione (tipo di fonte in Muscat) |
-| collab. | collaboratore |
-| collection | raccolta manoscritta, raccolta a stampa  
- |
-| comp. | data di composizione  
- |
-| convolutum | volume composito  
- |
-|   |   
- |
-|   |   |
-| deest | manca (per cataloghi tematici) |
-| dir. | direttore |
-| diss. | dissertazione dottorale |
-|   |   |
-| ed. | curatore, a cura di, edizione |
-| edn. | edizione |
-| EDTenl. | edizione a stampa (tipo di fonte in Muscat) edizione accresciuta |
-| et al. | e altri  
- |
-| etc. | eccetera |
-|  ex. | esemplari (per musica a stampa) |
-| Excerptsf. | estratticarta/carte |
-| facs. | facsimile |
-| fasc. | fascicolo |
-| fds. | fascicolo/fascicoli |
-|   |   |
-| ibd., ibid | nella stessa opera citata sopra |
-| idem | dello stesso autore |
-| i.e. | ossia, ad esempio  
- |
-| Incip. | incipit |
-| incpl. o inclp  
- | incompleto |
-|   |   |
-| Jg. | annata |
-| jun. | junior |
-|   |   |
-| keyboard (etc.) score | tipicamente due righi di musica arrangiata per strumento a tastiera; in alcuni casi può includere una parte vocale |
-| KLA | spartito/riduzione canto e piano (nella musica a stampa) |
-| kpl. | completo (nella musica a stampa) |
-| LEC |  scheda figlia (sottordinata) in una collezione di libretti a stampa (tipo di fonte Muscat) |
-| LEDLith. | libretto a stampa (tipo di fonte Muscat) litografia |
-| | |
-| LSR | libretto manoscritto (tipo di fonte Muscat) |
-| lvs. | fogli |
-|   |   |
-| | |
-| MSR | manoscritto musicale (tipo di fonte Muscat) |
-| Ms., MS | manoscritto |
-| MSS | manoscritti |
-|   |   |
-| no. | numero |
-| No title indicated | nessun titolo indicato  
- |
-|   |   |
-| olim | segnatura precedente  
- |
-| op. | numero d’opera  
- |
-| Orgel-P | partitura per organo (nella musica a stampa) |
-|   |   |
-| P | partitura (nella musica a stampa) |
-| p. | pagina/pagine |
-| part | parte |
-| passim | nelle pagine seguenti |
-| 1.perf. | data della prima rappresentazione |
-| perf. | data di una ulteriore rappresentazione  
- |
-| phil. | filosofico |
-| Pl.no | numero di lastra  
- |
-| pr. | stampa, stampato  
- |
-| Prov. | provenienza, possessore precedente (persona o istituzione) |
-| PUB | pubblicato (stato di una scheda Muscat) |
-| pub. | pubblicato |
-| publ. | data di pubblicazione  
- |
-|   |   |
-| repr. | ristampato, ristampa  
- |
-| rev. | edizione rivista |
-| RISM A/I | rinvio alla serie RISM A/I |
-| RISM B/ | rinvio alla serie RISM B/... |
-| |   
- |
-|   
- | |
-| score(s) | partitura/partiture |
-| s.d. (sine dato) | senza data  
- |
-| ser. | serie |
-| short score(s) | riduzione per pianoforte, partitura condensata o ristretta  
- |
-| sketches | schizzo, schizzi  
- |
-| s.l. (sine loco) | senza luogo (nella musica a stampa) |
-| s.n. (sine nomine) | senza nome dell’editore (nella musica a stampa) |
-| St | parti (nella musica a stampa) |
-| SUBsuppl., supp. | scheda figlia (sottordinata) in un'edizione musicale a stampa (tipo di fonte Muscat) supplemento |
-|   |   |
-| t | l’incipit è trascritto |
-| Tab | intavolatura (nella musica a stampa) |
-| TECTED theoreticum | scheda figlia (sottordinata) in una collezione di trattati a stampa (tipo di fonte Muscat) trattato a stampa (tipo di fonte Muscat)  
-trattato |
-| TSR | trattato manoscritto (tipo di fonte Muscat) |
-| trans. | traduzione, traduttore  
- |
-|   |   |
-| UNP | non pubblicato (stato di una scheda Muscat) |
-|   |   |
-| vide | vedi  
- |
-| vol. | volume/volumi |
-| without shelfmark | senza segnatura  
- |
-| wm., wm: | filigrana |
-| WV | catalogo delle opere  
- |
-|   |   |
-| \* | nato/nata |
-| + | morto/morta  
- |
-| + | sono stati corretti degli errori nell’incipit   
- |
-| ? | non sono stati corretti degli errori nell’incipit |
-|   
- | |
+- EN: accompaniment
+
+appx
+
+- EN: appendix
+
+Arr, arr.
+
+- EN: arrangement
+
+Autograph
+
+- EN: autograph manuscript
+
+?Autograph?
+
+- EN: possible autograph manuscript
+
+B (key)
+
+- EN: B major (five sharps)
+
+b (key)
+
+- EN: B minor (two sharps)
+
+B\|b (key)
+
+- EN: B-flat major (two flats)
+
+b.fig
+
+- EN: figured bass on a bass part
+
+cfr.
+
+- EN: compare
+
+Chb
+
+- EN: choirbook (especially in records for printed music)
+
+Chor-P
+
+- EN: chorus score (especially in records for printed music)
+
+clm.
+
+- EN: column
+
+cm
+
+- EN: centimeter
+
+CMP
+
+- EN: composite volume (type of Muscat template)
+
+COL
+
+- EN: collection (type of Muscat template)
+
+collab.
+
+- EN: collaborator
+
+collection
+
+- EN: manuscript collection, printed collection
+
+comp.
+
+- EN: composed (date of composition)
+
+deest
+
+- EN: not in, missing from (especially in catalogs of works)
+
+dir.
+
+- EN: conductor
+
+diss.
+
+- EN: dissertation
+
+ed.
+
+- EN: editor, edited by, edition
+
+edn.
+
+- EN: edition
+
+EDT
+
+- EN: printed music edition (type of Muscat template)
+
+enl.
+
+- EN: enlarged/expanded edition
+
+et al.
+
+- EN: and others
+
+etc.
+
+- EN: et cetera
+
+ex.
+
+- EN: copies (especially in records for printed music)
+
+Excerpts
+
+- EN: excerpt(s)
+
+f.
+
+- EN: folio(s)
+
+facs.
+
+- EN: facsimile
+
+fasc.
+
+- EN: fascicle, gathering
+
+fds.
+
+- EN: fold(s)
+
+ibd., ibid
+
+- EN: in the same work cited above
+
+idem
+
+- EN: by the same author
+
+i.e.
+
+- EN: that is
+
+Incip.
+
+- EN: incipit
+
+incpl. or incpl
+
+- EN: incomplete
+
+Jg.
+
+- EN: year
+
+jun.
+
+- EN: junior
+
+keyboard (etc.) score
+
+- EN: typically two staves with music arranged for keyboard instrument; in some cases may also include a vocal part
+
+KLA
+
+- EN: piano score/vocal score (especially in records for printed music)
+
+kpl.
+
+- EN: complete (especially in records for printed music)
+
+LEC
+
+- child record (subentry) in a printed libretto collection (type of Muscat template)
+
+LED
+
+- EN: printed libretto (type of Muscat template)
+
+Lith.
+
+- EN: lithography
+
+LSR
+
+- EN: handwritten libretto (type of Muscat template)
+
+lvs.
+
+- EN: leaves
+
+Ms., MS
+
+- EN: manuscript
+
+MSS
+
+- EN: manuscripts
+
+MSR
+
+- EN: music manuscript (type of Muscat template)
+
+no.
+
+- EN: number
+
+[no indication]
+
+- EN: no indication (used if an element such as a shelfmark might exist but this information is unknown to the cataloger)
+
+olim
+
+- EN: former shelfmark
+
+op.
+
+- EN: opus
+
+Orgel-P
+
+- EN: organ score (especially in records for printed music)
+
+P
+
+- EN: full score (especially in records for printed music)
+
+p.
+
+- EN: page(s)
+
+part
+
+- EN: part (music notated for one instrument only, including keyboard)
+
+passim
+
+- EN: over the next few pages
+
+1.perf.
+
+- EN: date of first performance
+
+perf.
+
+- EN: date of further performance
+
+phil.
+
+- EN: philosophical
+
+pl.no
+
+- EN: plate number
+
+pr.
+
+- EN: print, printed
+
+Prov.
+
+- EN: provenance, previous owner (person or institution)
+
+PUB
+
+- EN: published (Muscat status)
+
+pub.
+
+- EN: published
+
+publ.
+
+- EN: published, date of publication
+
+repr.
+
+- EN: reprinted, reprint
+
+rev.
+
+- EN: revised (edition)
+
+RISM A/I
+
+- EN: cross-reference to RISM series A/I
+
+RISM B/
+
+- EN: cross-reference to RISM series B
+
+score(s)
+
+- EN: score(s)
+
+s.d. (sine dato)
+
+- EN: without date
+
+ser.
+
+- EN: series
+
+short score(s)
+
+- EN: piano reduction(s) or condensed score(s)
+
+sketches
+
+- EN: sketch(es)
+
+s.l. (sine loco)
+
+- EN: without place (in published works)
+
+s.n. (sine nomine)
+
+- EN: without name (in published works)
+
+St
+
+- EN: parts (especially in records for printed music)
+
+SUB
+
+- child record (subentry) in a printed edition (EDT template)
+
+suppl., supp.
+
+- EN: supplement
+
+t
+
+- EN: incipit is transcribed
+
+Tab
+
+- EN: tablature (especially in records for printed music)
+
+TEC
+
+- child record (subentry) in a printed treatise collection (type of Muscat template)
+
+TED
+
+- EN: printed treatise (type of Muscat template)
+
+TSR
+
+- EN: handwritten treatise (type of Muscat template)
+
+trans.
+
+- EN: translation, translated by
+
+UNP
+
+- EN: unpublished (Muscat status)
+
+vide
+
+- EN: see
+
+vol.
+
+- EN: volume(s)
+
+[without shelfmark]
+
+- EN: without shelfmark (used if the item lacks a shelfmark)
+
+[without title]
+
+- EN: without title (used if the item lacks a title)
+
+wm., wm
+
+- EN: watermark
+
+WV
+
+- EN: catalog of works
+
+\*
+
+- EN: born
+
++
+
+- EN: died
+
++
+
+- EN: mistakes within incipit corrected
+
+?
+
+- EN: mistakes within incipit not corrected

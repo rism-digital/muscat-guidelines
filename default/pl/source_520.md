@@ -1,13 +1,15 @@
-**Podsumowanie (520 $a)**
+### Description summary (520)
 
-Tutaj można wprowadzić krótką, ogólną informację na temat utworu lub jego części. Informację należy wprowadzić w języku angielskim.
+#### Description summary (520 $a)
+Here you may enter brief, general information about the work or sections of it. Enter in English.
 
-Bardziej szczegółowe informacje na temat zawartości danej pozycji można podać w polu **Uwaga o zawartości (505)**.
+More detailed information about the contents of the item can be given in the field **Contents note (505)**.
 
-##### Przykłady  
-5 sonaty, 2 fantazje  
-5 motetów, 2 msze, 1 Magnificat  
-Opera w trzech aktach  
-5 arii z opery w trzech aktach  
-2. sekcja motetu  
-3. wersja requiem
+##### Examples
+
+- 5 sonatas, 2 fantasies
+- 5 motets, 2 masses, 1 Magnificat
+- Opera in 3 acts
+- 5 arias from the opera in 3 acts
+- 2nd section of the motet
+- 3rd version of the requiem

@@ -1,8 +1,11 @@
-#### Término cronológico (548)
-Registro RDA rdaw:P10086  
+### Chronological term (548)
 
-#### Fecha (548 $a)
-Introduzca el año de composición de la obra.
+RDA registry [rdaw:P10086](http://www.rdaregistry.info/Elements/w/#P10086)
 
-#### Tipo de relación (548 $i)
-Seleccione **Fecha de origen** en el menú desplegable.
+#### Date (548 $a)
+
+Enter the year the work was composed.
+
+#### Type of relationship (548 $i)
+
+Select **Date of origin** from the drop-down menu.

@@ -1,8 +1,11 @@
-### Dati editoriali (260)
-Questo campo è utilizzato per tutti i tipi di pubblicazione tranne articoli o singoli capitoli di libri.
+### Imprint (260)
 
-Inserisci le informazioni seguenti come appaiono sull’oggetto.
+This field is used for all types of publications except for articles/chapters.
 
-#### Luogo (260 $a)
-#### Editore (260 $b)
-#### Anno (260 $c)
+Enter the following information as given on the item.
+
+#### Place of publication (260 $a)
+
+#### Publisher (260 $b)
+
+#### Year (260 $c)

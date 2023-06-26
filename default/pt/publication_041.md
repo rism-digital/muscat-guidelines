@@ -1,6 +1,7 @@
-### Código de idioma (041)
+### Language code (041)
 
-#### Código de idioma (041 $a)
-**Campo obrigatório.**  
+#### Language code (041 $a)
 
- Informe o(s) idioma(s) utilizado(s) no item. Use as abreviaturas de três letras ISO 639-2 disponíveis aqui: [http://www.loc.gov/standards/iso639-2/php/code\_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)
+**Required field.**
+
+Enter the language(s) of the item. Use the three-letter ISO 639-2 abbreviations found here: [http://www.loc.gov/standards/iso639-2/php/code\_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)

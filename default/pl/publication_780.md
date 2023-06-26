@@ -1,10 +1,13 @@
-### Poprzedzający wpis (780)   
+### Preceding entry (780)
 
-#### Poprzedzający wpis (780 $w)   
-To pole i pole następne (**Kolejny wpis**) służy do podania alternatywnych tytułów (i połączenia linkiem z nimi), np. tytułu czasopisma, które zmieniło nazwę.
+#### Preceding entry (780 $w)
 
-Należy podać nazwę, pod którą czasopismo było uprzednio znane. Pole połączono linkiem z bazą danych **Literatury pomocniczej.**  
+This field and the next field (**Succeeding entry**) are used to name and link alternate titles of items, such as a journal title that has changed names.
 
-##### Przykład Czasopismo
-_The Viola da Gamba Society Journal_ zaczęło wychodzić w roku 2007, a jego poprzednikiem było _Chelys. The Journal of the Viola da Gamba Society_ (wydawane od 1969 do 2004 roku). W rekordzie dotyczącym _The Viola da Gamba Society Journal_, należy wprowadzić następujące dane:  
-- Poprzedzający wpis (780 $w): Chelys. The Journal of the Viola da Gamba Society
+Enter here the name that the periodical was formerly known as. This field is linked to the **Secondary literature** database.
+
+##### Example
+
+The journal _The Viola da Gamba Society Journal_ began in 2007 and was preceded by _Chelys. The Journal of the Viola da Gamba Society_ (published from 1969 to 2004). In the record for _The Viola da Gamba Society Journal_, enter the following:
+
+- Preceding entry (780 $w): Chelys. The Journal of the Viola da Gamba Society

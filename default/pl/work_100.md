@@ -1,31 +1,35 @@
-### Nagłówek (100)
+### Heading (100)
+This field identifies the work through the composer, title, and other musical information.
 
-W polu tym dzieło identyfikuje się poprzez kompozytora, tytuł i inne informacje muzyczne.
+#### Composer (100 $a)
+#### Years of birth and death (100 $d)
 
-#### Kompozytor (100 $a)
-#### Lata urodzenia i śmierci (100 $d)
-Rejestr RDA [rdaw:P10053](http://www.rdaregistry.info/Elements/w/datatype/#P10053)
+RDA registry [rdaw:P10053](http://www.rdaregistry.info/Elements/w/datatype/#P10053)
 
-Wprowadzić nazwę kompozytora. Pole połączono linkiem z kartoteką autorytatywną **Nazwy osobowe**. Można dodawać nowe nazwy; w takim przypadku należy dodać daty życia, jeśli są znane.
+Enter the name of the composer. This field is linked to the **Personal names** authority file. New names can be added; in such a case, include the life dates when known.
 
-#### Streszczenie obsady (100 $m)
-Rejestr RDA [rdae:P20215](http://www.rdaregistry.info/Elements/e/#P20215)
+#### Scoring summary (100 $m)
 
-Streszczenie obsady należy wprowadzić korzystając ze skrótów RISM.
+RDA registry [rdae:P20215](http://www.rdaregistry.info/Elements/e/#P20215)
 
-#### Numer opus/numer indeksu tematycznego (100 $n)
-Rejestr RDA [rdaw:P10079](http://www.rdaregistry.info/Elements/w/#P10079)  
+Enter the scoring summary using RISM abbreviations.
 
-Wprowadzić opus numer, poprzedzony przez „op.”, lub numer katalogu utworów, poprzedzony skrótem RISM.
+#### Opus/Thematic index number (100 $n)
 
-Należy zwrócić uwagę na fakt, że pole jest polem beztekstowym. Należy również indeksować odwołania do katalogów utworów; aby to zrobić, należy odwołanie wprowadzić ponownie w polu  **Odnalezione źródło danych (670).**
+RDA registry [rdaw:P10079](http://www.rdaregistry.info/Elements/w/#P10079)
 
-#### Tonacja lub modus (100 $r)
- Rejestr RDA [rdaw:P10221](http://www.rdaregistry.info/Elements/w/#P10221)
+Enter the opus number, preceded by "op.", or the catalog of works number, preceded by the RISM abbreviation.
 
-Wprowadzić tonację lub modus dzieła, jeżeli można je w sposób niepodważalny ustalić.
+Note that this field is a free-text field. References to catalogs of works must also be indexed; to do this, entered the reference again in the field **Source data found (670).**
 
-#### Tytuł dzieła (100 $t)
-Rejestr RDA [rdaw:P10088](http://www.rdaregistry.info/Elements/w/datatype/#P10088)
+#### Key or mode (100 $r)
 
-Wprowadzić tytuł dzieła.
+RDA registry [rdaw:P10221](http://www.rdaregistry.info/Elements/w/#P10221)
+
+Enter the key or mode of the work if it can be determined with certainty.
+
+#### Title of work (100 $t)
+
+RDA registry [rdaw:P10088](http://www.rdaregistry.info/Elements/w/datatype/#P10088)
+
+Enter the title of the work.

@@ -1,12 +1,15 @@
-### URL del recurso externo (856)
+### External resource URL (856)
 
 #### URL del recurso externo (856 $u)
+
 Introduzca la URL completa del recurso externo. Utilice enlaces permanentes siempre que resulte posible.
 
 #### Nota sobre el recurso externo (856 $z)
+
 Introduzca una breve nota que describa el enlace.
 
-##### Ejemplos
+##### Examples
+
 - Recurso electrónico
 - Elektronische Ressource
 - Enlace a PDF

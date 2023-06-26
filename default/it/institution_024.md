@@ -1,29 +1,39 @@
-### Riferimento autorità (024)
-Questo campo è usato per riportare il numero standard o codice o URI correlato a un'istituzione.
+### Authority reference (024)
 
-#### Riferimento autorità (024 $a)
-Inserisci il codice alfanumerico usato per identificare i nomi. Il codice è ricavato dalla lista di voci d’autorità dell’agenzia creatrice.
+This field is used to record the standard number or code or URI associated with the institution.
 
-#### Condizioni di disponibilità (024 $c)  
-Inserisci qui le condizioni e/o informazioni sull'accesso e disponibilità.  
+#### Authority reference (024 $a)
 
-#### Codici addizionali che seguono il numero o il codice standard (024 $d)  
-Inserisci qui eventuali numeri aggiuntivi a destra del numero o codice  
+Enter the alphanumeric code used to identify names. The code is taken from the authority data of the creating agency.
 
-#### Informazioni qualificanti (024 $q)  
-Inserisci una breve dichiarazione di informazione che qualifica l'oggetto associato con un numero riportato nei sottocampi $a o $z.  
+#### Terms of availability (024 $c)
 
-#### Numero standard o codice standard annullato/non valido (024 $z)  
-Inserisci un numero o codice standard annullato o non valido.  
+Enter the terms of availability and/or qualifying information about availability.
 
-#### Numero di controllo del registro dell'autorità o numero standard (024 $0)  
-Inserisci uno URI attivabile e analizzabile che identifica un nome o altra denominazione per l'istituzione.  
+#### Additional codes following the standard number or code (024 $d)
 
-#### Oggetto URI (024 $1)  
-Inserisci lo URI che identifica l'istituzione.  
+Enter any optional digits carried to the right of the number or code.
 
-#### Agenzia autorità (024 $2)
-Seleziona dai seguenti codici:
+#### Qualifying information (024 $q)
+
+Enter a brief statement of qualifying information concerning the item associated with a number being recorded in subfield $a or $z.
+
+#### Canceled/invalid standard number or code (024 $z)
+
+Enter a canceled or invalid standard number or code.
+
+#### Authority record control number or standard number (024 $0)
+
+Enter a machine actionable and parseable URI that identifies a name or label for the institution.
+
+#### Real World Object URI (024 $1)
+
+Enter the URI that identifies the institution.
+
+#### Authority agency (024 $2)
+
+Select from the following:
+
 - **ISIL**: International Standard Identifier for Libraries and Related Organisations
 - **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
@@ -36,10 +46,12 @@ Seleziona dai seguenti codici:
 - **NKC**: Národní knihovna České republiky
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
-- **WKP**: Wikidata (Wikipedia)  
+- **WKP**: Wikidata (Wikipedia)
 
-#### Collegamenti (024 $6)
-Inserisci dati che collegano campi che sono diverse rappresentazioni grafiche l'uno dell'altro.
+#### Linkage (024 $6)
 
-#### Link di campo e numero di sequenza (024 $8)
-Inserisci dati che identificano campi collegati.
+Enter data that links fields that are different script representations of each other.
+
+#### Field link and sequence number (024 $8)
+
+Enter data that identifies linked fields.

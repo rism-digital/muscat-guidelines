@@ -1,14 +1,42 @@
-### Tipo de instituição (368; ISDIAH 5.1.5)
-Este campo identifica o tipo da instituição que possui o material catalogado.
+### Type of institution (368; ISDIAH 5.1.5)
 
-#### Tipo de instituição (368 $a)
-Escolha um dos seguintes tipos:
-- Arquivo
-- Biblioteca
-- Centro de documentação
-- Editora
-- Impressora
-- Instituto de pesquisa
-- Museu
-- Nome corporativo
-- Outro
+This field records other attributes of person or corporate body or type of institution.
+
+#### Type of institution (368 $a)
+
+This field identifies the type of institution with archival holdings.
+
+Select from the following types:
+
+- Archive
+- Bookseller
+- Copyist
+- Congress
+- Documentation center
+- Institution
+- Library
+- Museum
+- Research institute
+- Papermaker
+- Performer
+- Printer
+- Publisher
+- Other
+
+
+#### Type of jurisdiction (368 $b)
+
+Enter the type of jurisdiction associated with the institution.
+
+##### Examples
+-
+- County
+- Village
+
+#### Other designation (368 $c)
+
+Enter a designation here if not found in the previous fields in this section.
+
+#### Source (368 $2)
+
+Enter the source of the terms used.

@@ -1,18 +1,23 @@
-### Referência bibliográfica (691) 
+### Bibliographic reference (691)
 
-Este campo fornece referências bibliográficas para a obra ou para a fonte. Observe que informações provenientes de um catálogo de obras são informadas no campo **Catálogo de Obras (690)**. Cite a literatura que foi utilizada durante o processo de catalogação em si ou que se refira diretamente à fonte em questão. Podem-se também incluir referências para edições modernas relacionadas com a fonte e referências para literatura sobre marcas d’água.
+This field gives bibliographic references to the work or the source. Cite literature when it was used during the cataloging process itself or if it refers directly to the source in question. You can also enter references to modern editions connected with the source and references to watermark literature.
 
-#### Referência bibliográfica (691 $a) 
+Note that information from a catalog of works is entered in the field **Catalog of works (690)**.
 
-Insira o título curto da referência. Este campo está ligado à base de dados **Literatura secundária**. Se a referência necessária ainda não estiver na base de dados, deve ser primeiramente adicionada à base para depois fazer a vinculação a ela neste campo.
+Use this field if you wish to indicate that a printed edition is not mentioned in a volume from RISM series A/I or a B volume (deest).
 
-#### Número/página  (691 $n) 
+#### Bibliographic reference (691 $a)
 
-**Campo obrigatório se o campo Referência bibliográfica (691 $a) está preenchido.**
+Enter the short title of the reference. This field is linked to the **Secondary literature** database. If the reference you wish to cite is not yet in the database, it must be added first before you can link to it.
 
-Insira o número da página. Use as seguintes abreviações em inglês: **vol.** (volume), **fasc.** (fascículo), **suppl.** (suplemento), **pt.** (parte), **p.** (página), **no.** (número) e **clm.** (coluna).  
-  
-##### Exemplos  
-vol. 2, pt. 2, p. 430  
-vol. 5, p. 93; vol. 6, p. 12  
-Suppl. 1: 1779-1780, clm. 695
+#### Number/page (691 $n)
+
+**Required field if a bibliographic reference (691 $a) is filled in.**
+
+Enter the location within the item, frequently a number or page. Consult the full record for the item in the **Secondary literature** database for the preferred citation format. Use the following English abbreviations: **vol.** (volume), **fasc.** (fascicle), **suppl.** (supplement), **pt.** (part), **p.** (page or pages), **no.** (number), and **clm.** (column).
+
+##### Examples
+
+- vol. 2, pt. 2, p. 430
+- vol. 5, p. 93; vol. 6, p. 12
+- Suppl. 1: 1779-1780, clm. 695

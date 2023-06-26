@@ -1,32 +1,29 @@
-### Alternatywna nazwa osoby (400)
-To pole jest przeznaczone dla form nazwy, które różnią się od formy autorytatywnej, takich jak nazwiska rodowe, pseudonimy, nazwy religijne, nazwy, których pisownia w innych źródłach jest inna, odmiennych transliteracji itd.
+### Name variant (400)
 
-#### Alternatywna nazwa osoby (400 $a)
-Wprowadzić nazwę w formie opisanej w polu **Hasło - Imię i nazwisko (100 $a)**.
+This field is for forms of the name that differ from the authorized form, such as birth names, pseudonyms, religious names, names spelled differently on different sources, alternate transliterations, etc.
 
-W przypadku nazw pisanych pierwotnie przy użyciu alfabetu innego niż łaciński w tym polu należy wpisać formę w alfabecie innym niż łaciński. W tym miejscu można również wprowadzić transliteracje powstałe na podstawie innych tabel tłumaczeń.  
+#### Name variant (400 $a)
 
-W tym miejscu wprowadza się dodatki do nazw, takie jak Jr, III, Sir, Meister, itp: **Sinatra, Frank Jr.**
+Enter the name in the form described in the field **Heading - Personal name (100 $a)**.
 
-#### Rok urodzenia i śmierci (400 $d)
-To pole należy pozostawić puste.
+For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
 
-#### Typ alternatywnej nazwy osoby (400 $j)
-Należy dokonać wyboru z poniższej listy:
-- **Alternatywna pisownia** [z]:Dotyczy alternatywnych pisowni, transliteracji lub nazw używających niełacińskiego alfabetu.  
-- **Imię chrzcielne** [tn]
-- **Nazwisko rodowe** [gg]
-- **Inicjały** [in]
-- **Nazwisko po ślubie** [ee]
-- **Przezwisko** [bn]
-- **Pseudonim** [da]
-- **Nazwa religijna** [do]
-- **Tłumaczenie** [ub]: Np., _Ackermann, Alexander_ to tłumaczony wariant _Agricola, Alexander_
+Additions to names such as Jr, III, Sir, Meister, etc. are entered here, for example: **Sinatra, Frank Jr.**
 
-**Nie należy używać poniższych elementów:**
+#### Life dates (400 $d)
 
-- **Monogram** [mo]
-- **Nazwa rodziny**  [ef]
-- **Inny wariant** [dv]
-- **Nazwa osobowa** [ff]
-- **Nieznany ** [xx]
+Do not enter anything in this field.
+
+#### Type of name variant (400 $j)
+
+The default value is **xx** (unassigned). Select from the list:
+
+- **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets
+- **Baptismal name** [tn]
+- **Birth name** [gg]
+- **Initials** [in]
+- **Married name** [ee]
+- **Nickname** [bn]
+- **Pseudonym** [da]
+- **Religious name** [do]
+- **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_

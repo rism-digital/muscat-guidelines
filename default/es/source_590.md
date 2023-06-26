@@ -1,14 +1,14 @@
 ### Particellas conservadas y extensión de las mismas (590)
 
-Registre las particellas conservadas en el repositorio y su foliación/paginación.
+This section indicates which parts are held and their foliation/pagination.
 
 #### Particellas conservadas (590 $a)
 
 **Requerido si la fuente contiene particellas.**
 
-Registre las particellas conservadas siguiendo la lista de abreviaturas de instrumentos de RISM y su cantidad.
+Registre las particellas conservadas siguiendo la lista de abreviaturas de instrumentos de RISM y su cantidad. If you wish, you may use the designations that appear on the source if they vary from the standardized RISM abbreviation.
 
-La primera letra de las abreviaturas de partes instrumentales se coloca en minúscula y la de las partes vocales, en mayúsculas. El orden en que deben nombrarse las particellas se consigna a continuación. Las particellas deben enumerarse desde el registro más agudo al más grave.
+La primera letra de las abreviaturas de partes instrumentales se coloca en minúscula y la de las partes vocales, en mayúsculas. El orden en que deben nombrarse las particellas se consigna a continuación.
 
 - Partes vocales solistas. Inicie el campo con **Solo:**
 - Partes vocales corales. Inicie el campo con **Coro:**
@@ -23,10 +23,16 @@ Si la designación de las particellas no está disponible, por favor escriba la 
 
 Casos especiales:
 
-- Bajo cifrado: si tiene una particella de bajo cifrado, ingrese el instrumento correspondiente seguido de **.fig**, como en **b.fig**, **bc.fig**, **org.fig**, etc. (No obstante, vea las tablas del apartado **Bajo cifrado en partituras y/o particellas** para mayores orientaciones sobre los campos relacionados).
+- Figured bass: If you have a figured bass, enter the instrument followed by **.fig**, such as **b.fig**, **bc.fig**, **org.fig**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 - Instrumento que no aparece en la lista de abreviaturas de RISM: escriba el instrumento en su totalidad.
-- Instrumentos, designaciones o afinaciones inusuales (como **cor in D|x**): se los puede escribir en su totalidad; sin embargo, en el campo **Plantilla/orgánico total (594)**, trate de estandarizar el instrumento según la lista de abreviaturas de RISM en caso de que sea posible (por ejemplo, en el caso anterior, **cor in E|b**).
-- Parte de teclado con texto: registre en inglés **_pf with text_** (u **_org with text_, _keyb with text_**, etc.). Lo mismo se registra en el campo de **Voz/instrumento(031 $m)** correspondiente al íncipit.
+- Unusual instruments, designations, or tunings (such as **cor in D\|x**) may be written out in full; however, in the field **Total scoring (594)**, try to standardize the instrument to RISM's instrument abbreviation list if possible (such as **cor in E\|b**).
+- Keyboard part with text: Enter using English **pf with text** (or **org with text**, **keyb with text**, etc.). Lo mismo se registra en el campo de **Voz/instrumento** **(031 $m)** correspondiente al íncipit.
+- In partbooks of the 15th and 16th centuries, it is sometimes the case that a part appears in a partbook that differs from the partbook’s label, such as a Tenor 2 part that is printed in a Quinta vox (V 5) partbook. In this field, you can indicate where each part is found by using an equals sign.  
+  Example:  
+  Partbooks are S, A, T, B, V 5. V 5 contains a T 2 part.  
+  S, A, T, B, V 5 (= T 2)  
+  See also the field **Total scoring (594)** on how to enter the total instrumentation.
+
 
 #### Extensión (partes) (590 $b)
 
@@ -37,33 +43,33 @@ Registre el número de folios, páginas, hojas o pliegues de cada particella. Ut
 - **lvs** para hojas
 - **fds** para pliegos
 
-En este sistema, una **lvs** corresponde a dos **f** plegados, mientras que para que haya un **fds** debe haber por lo menos una **lvs**. Indique otras unidades (por ejemplo, conversión de folios a páginas) en el campo **Nota general (500)**.
+In this system, **lvs** means two folded **f**, whereas **fds** means at least one **lvs**. Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
 
 También se pueden indicar páginas o folios particulares de una pieza dentro de una colección manuscrita, por ejemplo, **p. 5-6** o **f. 4r-4v**.
 
-**Ejemplos:_** Hay dos maneras distintas de consignar las particellas.
+##### Examples
+There are two different ways list the parts.
 
 *Ejemplo 1*: Una familia instrumental por línea e instrumentos separados por coma. Se repite el campo para cada familia.
 
-**Particellas conservadas (590 $a)**: Solo: S 1, 2 (2x), A, T, B  
-**Extensión (particellas) (590 $b)**: 3, 2, 2, 3, 3, 4 p.
+**(= bc)**: la particella es de bajo continuo
 
 **Particellas conservadas (590 $a)**: Coro: S, A, T B  
 **Extensión (particellas) (590 $b)**: 4, 4, 4, 4 p.
 
-**Particellas conservadas (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
-**Extensión (particellas) (590 $b)**: 4, 4, 3, 4, 2 p.
+**Parts held (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
+**Extent (parts) (590 $b)**: 4, 4, 3, 4, 2 p.
 
-**Particellas conservadas (590 $a)**: ob 1, 2, cl 1, 2 in B|b  
-**Extensión (particellas) (590 $b)**: 2, 2, 2, 2 p.
+**Parts held (590 $a)**: ob 1, 2, cl 1, 2 in B\|b  
+**Extent (parts) (590 $b)**: 2, 2, 2, 2 p.
 
-**Particellas conservadas (590 $a)**: tr 1 and 2 in B|b  
-**Extensión (particellas) (590 $b)**: 2 p.
+**Parts held (590 $a)**: tr 1 and 2 in B\|b   
+**Extent (parts) (590 $b)**: 2 p.
 
 **Particellas conservadas (590 $a)**: org (incpl)  
 **Extensión (particellas) (590 $b)**: 8 p.
 
-*Ejemplo 2*: Todo en una sola línea, instrumentos separados por comas y familias instrumentales separadas por punto y coma. (No obstante, a veces los usuarios consideran confuso este formato).
+*Example 2*: Everything on one line with a comma separating the instruments and a semicolon separating the instrument families (but this can be hard to follow if many parts are present)
 
 **Particellas conservadas (590 $a)**: Solo: S (2x), A, T, Bariton, B; Coro: S; vl 1, 2, vla, vlc, cb (incpl); fl 1, 2, ob; cor 1 and 2  
 **Extensión (particellas) (590 $b)**: 2, 2, 2, 3, 3, 3; 3; 5, 5, 3, 2, 1; 4, 3, 4; 2 f.
@@ -72,9 +78,9 @@ También se pueden indicar páginas o folios particulares de una pieza dentro de
 
 Se puede añadir información adicional (breves comentarios) sobre aspectos tales como el número o lo incompleto de las partes entre paréntesis, inmediatamente después de la designación de parte. Siga las siguientes convenciones:
 
-- Si tiene múltiples copias de la misma parte, indique la cantidad de copias con un número seguido de una x en el subcampo **Particellas conservadas**. Ejemplo: **S (2x)**
-- **(= bc)**: la particella es de bajo continuo
+- Si tiene múltiples copias de la misma parte, indique la cantidad de copias con un número seguido de una x en el subcampo **Particellas conservadas**. Example: **S (2x)**
+- **Particellas conservadas (590 $a)**: Solo:
 - **(incpl)**: la particella está incompleta
 - Use una barra inclinada (/) para unir dos elementos: **bc (2x/incpl)**
 - Si una particella contiene la música de varios instrumentos, use el conector **and** (y). Ejemplo: **tr 1 and 2**
-- también puede incluir la afinación: **cl 1, 2 in B|b**
+- You can include the tuning: **cl 1, 2 in B\|b**  

@@ -1,10 +1,13 @@
-### Numero d'opera (383 $b)
+### Opus number (383)
 
-Inserisci qui il numero d’opera se compare sulla fonte, preceduto da " **op.**". Separa numeri subordinati con una sbarra diagonale /.
+#### Opus number (383 $b)
 
-Se determini il numero d’opera dalla bibliografia di riferimento, inseriscilo tra parentesi quadre. Assicurati che la letteratura è citata nel campo  **Catalogo delle opere (690)** o **Riferimenti bibliografici (691)**.
+Enter the opus number here if it appears on the source, preceded by **op.**. Separate individual movements with a slash.
 
-##### Esempi  
-- op. 31  
-- op. 54/1  
+If you determine the opus number from the secondary literature, enter it in square brackets. Make sure the literature is then cited as either a **Catalog of works (690)** or **Bibliographic reference (691)**.
+
+##### Examples
+
+- op. 31
+- op. 54/1
 - op. [2]

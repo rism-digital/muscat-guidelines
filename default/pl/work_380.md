@@ -1,4 +1,7 @@
-### Hasło przedmiotowe (380 $a)
-Rejestr RDA [rdaw:P10004](http://www.rdaregistry.info/Elements/w/#P10004)  
+### Subject heading (380)
 
-W tym polu należy wprowadzić przedmiotowe słowa kluczowe lub terminy dotyczące gatunków muzycznych. Pole połączono linkiem z indeksem **Tematy.**
+RDA Registry [rdaw:P10004](http://www.rdaregistry.info/Elements/w/#P10004)
+
+#### Subject heading (380 $a)
+
+Enter subject keywords or genre terms here. This field is linked to the authority file for **Subject headings**.

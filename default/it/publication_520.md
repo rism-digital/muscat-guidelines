@@ -1,8 +1,10 @@
-### Nota di contenuto (520)
+### Contents note (520)
 
-#### Nota di contenuto (520 $a)
-Questo campo riporta le date di inizio e fine relative a un oggetto, specialmente per i periodici.  
+#### Contents note (520 $a)
 
-##### Esempi  
-- Vol. 1, no. 1 (Apr. 1981)-  
+This field states the beginning/ending date(s) of an item, especially for periodicals.
+
+##### Examples
+
+- Vol. 1, no. 1 (Apr. 1981)-
 - 1969-2004

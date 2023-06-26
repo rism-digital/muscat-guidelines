@@ -1,15 +1,18 @@
-### Localizzazione e accesso elettronico (856)
+### External resource URL (856)
 
-#### Localizzazione e accesso elettronico (856 $u)
-Inserisci lo URL della risorsa esterna. Utilizza ovunque possibile dei collegamenti permanenti (permalink).
+#### External resource URL (856 $u)
 
-#### Nota sulla risorsa esterna (856 $z)
-Inserisci una breve nota che descrive il collegamento.  
+Enter the full URL of the external resource. Use permalinks whenever possible.
 
-##### Esempi  
-- Electronic resource  
-- Elektronische Ressource  
-- Link to PDF  
-- Link zum Inhaltsverzeichnis  
-- Some issues are available as a PDF  
+#### Note about external resource (856 $z)
+
+Enter a brief note that describes the link.
+
+##### Examples
+
+- Electronic resource
+- Elektronische Ressource
+- Link to PDF
+- Link zum Inhaltsverzeichnis
+- Some issues are available as a PDF
 - Link to database

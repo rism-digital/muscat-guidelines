@@ -1,4 +1,5 @@
-### Powiązane miejsce (651)
+### Related place (651)
 
-#### Powiązane miejsce (651 $a)
-Wprowadzić nazwy geograficzne (miasta, regiony, stany, kraje) mające związek z daną pozycją. Pole to połączono linkiem z plikiem autorytatywnym **Miejsc**. Nie wprowadzać tutaj miejsca wydania.
+#### Related place (651 $a)
+
+Enter the names of geographic locations (cities, regions, states, countries) that are connected with or related to the item. This field is linked with the **Places** authority file. Do not enter the place of publication here.

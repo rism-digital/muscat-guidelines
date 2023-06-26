@@ -1,9 +1,11 @@
-### Descrizione fisica (300)
+### Physical description (300)
 
-#### Estensione (300 $a)
-Inserisci l’estensione dell’oggetto con il numero di pagine o volumi.
+#### Extent (300 $a)
 
-##### Esempi  
-- 270 p.  
-- xxi, 528 p.  
+Enter the extent of the item in number of pages or volumes.
+
+##### Examples
+
+- 270 p.
+- xxi, 528 p.
 - 2vol.: XI, 518p.; 480p.

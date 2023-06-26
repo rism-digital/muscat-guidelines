@@ -1,4 +1,5 @@
-### Zawód lub funkcja (550)
+### Profession or function (550)
 
-#### Zawód lub funkcja (550 $a)
-Wprowadzić, po angielsku, zawód lub funkcję, jaką pełni dana osoba w odniesieniu do źródeł muzycznych.
+#### Profession or function (550 $a)
+
+Enter, in English, the profession or function that the person in question plays in connection to musical sources.

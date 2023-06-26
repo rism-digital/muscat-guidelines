@@ -1,4 +1,5 @@
-### Data i godzina ostatniej operacji (005)
-**Nie zmieniać.**
+### Date and time of last transaction (005)
 
-Pole podaje datę ostatniej modyfikacji rekordu. Pole wypełnia się automatycznie.
+**Do not change.**
+
+This field indicates the date that the record was last modified. This field is automatically generated.

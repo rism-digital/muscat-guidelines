@@ -1,11 +1,11 @@
-# Modelos
+# Templates
 
-O Muscat oferece modelos para fontes diferentes. O modelo apresenta somente aqueles campos necessários para a fonte em questão.
+Muscat offers template for different sources. The template offers only those fields that are needed for the source in hand.
 
-#### Copiando registros existentes
+**Copying existing records**
 
-Além de selecionar diferentes modelos, pode-se copiar um registro existente. Há duas maneiras de fazer isto.
+In addition to selecting different templates, you can copy an existing record. There are two ways to do this.
 
-Na tela de escolha de modelos: simplesmente insira o numero RISM no campo "Criar a partir de fonte existente". Cria-se uma cópia do registro no modo de edição e, a partir daí, pode-se fazer quaisquer mudanças necessárias neste novo registro.
+From the template selection screen: simply enter the RISM number in the field "Create from existing source." You will then see a copy of the record in the editing mode and from there you can make any changes to the record that you need. The copied record will automatically receive a new RISM ID number upon saving.
 
-Alternativamente, pode-se copiar um registro no modo de visualização ao clicar no botão “Duplicar”, na barra lateral à direita.
+Alternately, you can copy a record in the viewing mode by clicking on the "Duplicate" button in the sidebar on the right.

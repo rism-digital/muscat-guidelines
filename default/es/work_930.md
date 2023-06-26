@@ -1,10 +1,13 @@
-### Obra relacionada (930)
-Registro RDA [rdaw:P10027](http://www.rdaregistry.info/Elements/w/#P10027)
+### Related work (930)
 
-Este campo se utiliza para señalar una relación entre la obra que se está catalogando y otra obra dada.
+RDA registry [rdaw:P10027](http://www.rdaregistry.info/Elements/w/#P10027)
 
-#### Obra (930$a)
-Indique la obra con la cual se relaciona la obra descripta por este registro.
+This field is used to show a relationship between the current work and a different work.
 
-#### Tipo de relación (930$i)
-Seleccione el tipo de relación.
+#### Work (930 $a)
+
+Enter the work related to the work described in this record.
+
+#### Type of relationship (930 $i)
+
+Select the type of relationship.

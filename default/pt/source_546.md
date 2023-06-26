@@ -1,8 +1,11 @@
-### Nota de idioma (546 $a) 
+### Language note (546)
 
-Insira uma nota sobre o(s) idioma(s) usado(s) na fonte. Se este campo for preenchido, uma entrada é também exigida no campo **Código de idioma (041)**. Use seu idioma de catalogação.
+#### Language note (546 $a)
 
-##### Exemplos  
-Provavelmente italiano.  
-Berner Dialekt.  
-Dedication in Latin. Preface in German.
+Enter a note on the language(s) used in the source. If this field is filled out, an entry is also required in the field **Language code (041)**. Enter using your cataloging language.
+
+##### Examples
+
+- Probably Italian
+- Berner dialect
+- Dedication in Latin. Preface in German.

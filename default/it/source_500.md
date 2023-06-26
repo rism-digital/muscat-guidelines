@@ -1,73 +1,36 @@
-#### Nota generale (500 $a)
+### General note (500)
 
-Si può riportare qui qualsiasi informazione riguardo a una fonte che non abbia potuto essere inserita in altri campi. Inserisci i dati usando la tua lingua di catalogazione. Per eventuali citazioni dalla fonte, utilizza **|** (la barra verticale) con uno spazio singolo prima e dopo il segno per indicare un a capo. Aggiunte alla citazione dall’originale vanno sempre indicate tra parentesi quadre.
+#### General note (500 $a)
+Any information on a source which could not be entered in other fields can be given here. Enter using your cataloging language. When quoting something on the source, use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Additions to the original quotation should always be in square brackets.
 
-Catalogando le collezioni di una singola biblioteca, le espressioni usate nelle osservazioni devono essere uniformate il più possibile.
+When cataloging the holdings of a single library, try to keep the expressions used as uniform as possible.
 
-Di seguito si riportano esempi del tipo di informazioni che possono essere incluse in una nota. La lista non è esaustiva.
+What follows are examples of types of information that can be included as a note. This list is not exhaustive.
 
-**Organico**  
-Se in partitura hai un basso cifrato, indicalo qui in questo modo: b = b.fig, bc = bc.fig, org = org.fig, ecc. (vedi anche le tabelle nella sezione  **Basso cifrato in partitura e/o in altre parti** per assistenza in campi correlati).
-
-- Organico del secondo Agnus Dei: S, A, T, T, B
-
-- org = org.fig
-
-**Parti mancanti**
-
-- Mancano le altre parti
-
-**Osservazioni**
-
-- Presenza di un altro copista.
-
-- Il materiale consiste di arie con testo parafrasato dall’opera di Jommelli.
-
-- Paginazione originale: 1-12.
-
-- fl 1 con dinamiche autografe
-
-**Origine dell’informazione ricavata da fonti esterne, ad esempio il compositore o la data**
-
-- Secondo FlotzingerL 1965, il compositore è Mozart.
-
-**Edizioni musicali a stampa**
-
--
-
-**Note sulla denominazione**
-
-  - Denominazione: “Allgem. Choralbuch.”
-
--
-
-**Numero editoriale**  
-Si noti che il numero editoriale va inserito qui, mentre il numero di lastra è inserito nel campo **Numero della lastra (028)**.
-
-  - Numero editoriale: 120
-
--
-
-**Note sulla segnatura**
-
-  - Segnatura: “F 2”
-
-**Citazioni dalla fonte**
-
-- Titolo sulle parti: "Cantata | dominica pentec. | [...] per Soprano, Alto | Tenore e Basso | del Sig:|r|e Jommelli"
-
-- In calce al frontespizio: "Performance in Baden Baden on 17 March 1832"
-
-- Nota sulla parte di violoncello, f. 8: “Wir streiken für neue Bögen”
-
-**Rimandi ad altre schede RISM **
-
-Includi la sigla RISM completa, la collocazione, e il numero identificativo RISM.
-
-- Altre parti in D-KPk 282 (RISM ID no. 450035504).
-
-- Una melodia uguale in US-Wc M1.A1A (RISM ID no. 000118313) porta il titolo "Jove in his chair".
-
-**Indirizzi internet (URL)**
-
-Rifletti innanzitutto se il sito internet non va piuttosto inserito come riferimento bibliografico. Se inserisci qui un indirizzo internet, non aggiungere segni d'interpunzione immediatamente prima o dopo lo URL, altrimenti il collegamento non verrà risolto.
+- **Instrumentation**  
+  If you have a figured bass in a score, indicate it here in the following manner: b = b.fig, bc = bc.fig, org = org.fig, etc. (see also the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
+ - Scoring of second Agnus Dei: S, A, T, T, B
+ - org = org.fig
+- **Missing parts**
+ - Other parts missing
+- **Observations**
+ - Evidence present of another copyist.
+ - The material consists of arias with paraphrased text from Jommelli’s opera.
+ - Original pagination: 1-12.
+ - fl 1 with autograph dynamics
+- **Origin of information ascertained from external sources, such as composer or dating**
+ - According to FlotzingerL 1965, composer is Mozart.
+- **Printed music**
+ - **Designation marks**
+   - Designation mark: “Allgem. Choralbuch.”
+ - **Signature marks**
+   - Signature mark: “F 2”
+- **Quotations from the source**
+ - At foot of title page: "Performance in Baden Baden on 17 March 1832"
+ - Note on cello part, f. 8: “Wir streiken für neue Bögen”
+- **References to other RISM records**  
+  Include the complete RISM siglum, the shelfmark, and the RISM ID number.
+ - Composer identified based on incipits in D-KPk 282 (RISM ID no. 450035504).
+ - Concordant tune at US-Wc M1.A1A (RISM ID no. 000118313) has title "Jove in his chair".
+- **URLs**  
+  Consider whether the website should be entered as secondary literature or in the field **External resource (856)**. If you enter a URL here, do not include any punctuation directly before or directly after the URL, otherwise the link will not resolve.

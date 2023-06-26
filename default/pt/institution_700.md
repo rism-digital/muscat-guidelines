@@ -1,4 +1,5 @@
-### Nomes de pessoas (700)
+### Personal names (700)
 
-#### Nomes de pessoas (700)
-Insira o nome da pessoa relacionada à instituição. Por exemplo, no caso de coleções privadas, pode-se selecionar o nome do proprietário.
+#### Personal names (700)
+
+Enter the name of the person related to the institution. For example, with private collections you may select the name of the owner.

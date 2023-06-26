@@ -1,15 +1,17 @@
-### Rodzaj nośnika (337)  
+### Media type (337)
 
-#### Rodzaj nośnika (337 $a)  
-**Pole wymagane.**  
+#### Media type (337 $a)
 
-Wybrać z poniższej listy typ nośnika:
-- **Nośnik drukowany**  
-- **Zasób elektroniczny:** np. baza danych, strona internetowa lub internetowy katalog utworów  
-- **E-książka/E-book**
-- **Druk muzyczny**  
-- **Rękopis**: dokument rękopiśmienny  
-- **Kombinacja nośników**  
+**Required field.**
+
+Select the type of media from the following list:
+
+- **Printed medium**
+- **Electronic resource**: such as a database, website, or online catalog of works
+- **E-book**
+- **Printed music**
+- **Manuscript**: a handwritten document
+- **Media combination**
 - **CD-ROM**
-- **Mikrofisza**
-- **Mikrofilm**
+- **Microfiche**
+- **Microfilm**

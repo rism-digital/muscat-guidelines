@@ -1,9 +1,11 @@
-### Opis fizyczny (300)
+### Physical description (300)
 
-#### Objętość (300 $a)
-Wprowadzić objętość danego obiektu, podając liczbę stron lub tomów.  
+#### Extent (300 $a)
 
-##### Przykłady  
-- 270 str.  
-- xxi, 528 str.  
-- 2 vol.: XI, 518 str.; 480 str.
+Enter the extent of the item in number of pages or volumes.
+
+##### Examples
+
+- 270 p.
+- xxi, 528 p.
+- 2vol.: XI, 518p.; 480p.

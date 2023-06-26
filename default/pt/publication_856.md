@@ -1,18 +1,18 @@
-### URL de recurso externo (856)
+### External resource URL (856)
 
-#### URL de recurso externo (856 $u)
-Insira o URL do recurso externo. Use permalinks sempre que possível.
+#### External resource URL (856 $u)
 
-#### Nota sobre recurso externo (856 $z)
-Insira uma breve nota que descreva o link.
+Enter the full URL of the external resource. Use permalinks whenever possible.
 
-##### Exemplos  
-- Electronic resource  
-- Elektronische Ressource  
-- Recurso eletrônico  
-- Link to PDF  
-- Link para PDF  
-- Link zum Inhaltsverzeichnis  
-- Some issues are available as a PDF  
-- Link to database  
-- Link para base de dados
+#### Note about external resource (856 $z)
+
+Enter a brief note that describes the link.
+
+##### Examples
+
+- Electronic resource
+- Elektronische Ressource
+- Link to PDF
+- Link zum Inhaltsverzeichnis
+- Some issues are available as a PDF
+- Link to database

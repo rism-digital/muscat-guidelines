@@ -1,27 +1,28 @@
-### Compositor/Autor (100)
+### Composer/Author (100)
 
-A informação aqui introduzida refere-se à identificação da principal pessoa envolvida como autor da fonte, no sentido mais amplo da expressão.
+Information is entered here concerning the identification of the main person involved as the author, in its broadest sense, of the source.
 
-####
+#### Name (100 $a)
 
-####
+**Required field.**
 
-Nome (100 $a)
+Enter the name of the person responsible for the work. This may be the composer (for music manuscripts and printed music), librettist (for librettos), or author of a work of music theory (for treatises).
 
-**Campo obrigatório.**
+This field is linked to the **Personal names** authority file. Names not yet in the authority file may be added. In such cases, check the box "Confirm the insertion of a new value" and add the person's life dates, if known, in the field **Life dates**. The new name, including life dates, will be confirmed and edited by the Editorial Center.
 
-Insira o nome da pessoa responsável pela obra. Isso pode incluir o compositor (para manuscritos musicais e música impressa), o libretista (para libretos) ou o autor de uma obra de teoria musical (no caso de tratados). Este campo é ligado ao arquivo de autoridade **Nomes de pessoas**. Nomes que ainda não estejam no arquivo de autoridade podem ser adicionados. Nestes casos, marque a caixa “Confirmar a adição de novo registro” e adicione as datas de nascimento e morte da pessoa, se conhecidas, no campo **Datas**. O novo nome, incluindo as datas, será confirmado e editado pela Redação Central.
+If the source has multiple composers, select one to be entered in this field and the rest can be added in **Additional personal name (700)** using the function **Co-composer.**
 
-**Atribuição (100 $j)**
+If the source is anonymous but you can determine the composer, enter the composer's name and select the appropriate attribution qualifier. If you cannot determine the composer, enter the name **Anonymus** but omit an attribution qualifier. The name **Compilations** is entered for pasticcios or compilations.
 
-Selecione um indicador para descrever o nível de certeza da atribuição, se alguma das situações abaixo se aplica. Caso contrário, deixe em branco.
+#### Attribution (100 $j)
 
-- **Certificada(Ascertained)** significa que o nome está parcialmente presente ou totalmente ausente na fonte, mas a atribuição é (razoavelmente) certa e baseada na comparação com fontes concordantes, literatura secundária ou outros recursos acadêmicos. É o que ocorre na maioria dos casos.
-- **Conjectural (Conjetural)** é uma atribuição estimativa, baseada em evidência secundária (tal como literatura secundária).
-- **Duvidosa (Doubtful)** significa que a atribuição está em questão.
-- **Equivocada(Misattributed)** significa que o nome está na fonte mas a atribuição é incorreta.
-- **Suposta (Alleged)** significa que o nome está presente na fonte, mas a atribuição é questionável ou duvidosa.
+Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
-Se a fonte é anônima, deixe este campo em branco.
+If you enter the composer as **Anonymus,** do not enter an attribution qualifier.
 
-A atribuição **verificada (verified)** aparece somente em registros antigos, mas não está mais em uso. Era usada quando o nome do compositor aparece na fonte com a mesma forma que na entrada principal de nome no RISM.
+- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
+- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is (reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
+- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
+- **Misattributed** means the name is on the source but is incorrect. If the source is anonymous, leave this field blank.
+
+**Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **verified.** This practice was discontinued with the introduction of Muscat. The attribution was used if the composer's name appears on the source in the same form as the RISM name heading.

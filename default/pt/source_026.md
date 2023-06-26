@@ -1,27 +1,32 @@
-### Identificador de impressão digital (026)
+### Fingerprint identifier (026)
 
-Um identificador de impressão digital é usado para ajudar na identificação de livros de antiquário através da criação de grupos de caracteres tomados de posições específicas de páginas especificadas do livro. 
+A fingerprint identifier is used to assist in the identification of antiquarian books by creating groups of characters taken from specified positions on specified pages of the book.
 
-**Impressão digital não analisada (026 $e)**
+Depending on the description standard used, fingerprints can be entered in online line (unparsed) or in separate groups.
 
-Insira o identificador de impressão digital completo.
+#### Unparsed fingerprint (026 $e)
 
-As diretrizes estabelecidas pelo Institut de Recherche et d'Histoire des Textes e pela National Library of Scotland podem ser consultadas on-line em [inglês, francês, italiano](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm) e [alemão](http://nbn-resolving.de/urn:nbn:de:hbz:6:1-195591).
+Enter the complete fingerprint identifier.
 
-Outros campos também estão disponíveis, dependendo do padrão de descrição:
+Guidelines established by the Institut de Recherche et d’Histoire des Texte and the National Library of Scotland can be consulted online in [English, French, and Italian](http://edit16.iccu.sbn.it/web_iccu/info/en/Impronta_notiziario.htm), and [German](http://nbn-resolving.de/urn:nbn:de:hbz:6:1-195591).
 
-**Primeiro/segundo grupo (026 $a)**
+##### Example
+- n?n, n;t, v.at BeDr C 1695R
 
-Insira os caracteres que pertencem aos grupos primeiro e segundo.
+Other fields are also available, depending on the description standard:
 
-**Terceiro/quarto grupo (026 $b)**
+#### First/second group (026 $a)
 
-Insira os caracteres que pertencem aos grupos terceiro e quarto.
+Enter the characters that belong in the first and second group.
 
-**Data (026 $c)**
+#### Third/fourth group (026 $b)
 
-Insira a data quando expressa como um componente do identificador de impressão digital.
+Enter the characters that belong in the third and fourth group.
 
-**Número de volume/parte (026 $d)**
+#### Date (026 $c)
 
-Insira o número do volume ou parte (i.e., seção) quando expresso como um componente do identificador de impressão digital.
+Enter the date when expressed as a component of a fingerprint identifier.
+
+#### Number of volume/part (026 $d)
+
+Enter the number of the volume or part (i.e., section) when expressed as a component of a fingerprint identifier.

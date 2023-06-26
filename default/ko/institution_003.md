@@ -1,4 +1,5 @@
-### 식별 관리 번호 (003)
-**변경하지 마십시오.**
+### Control number identifier (003)
 
-이 영역은 기관 코드를 위한 것으로 해당 시스템의 제어 번호는 **RISM ID 번호 영역(001)**에 포함됩니다.
+**Do not change.**
+
+This field is for the code of the agency whose system control number is contained in the field **RISM ID number (001)**.

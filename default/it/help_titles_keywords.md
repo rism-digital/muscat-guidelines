@@ -1,130 +1,136 @@
-### Appendice: Titoli uniformi – Soggetti
-Questa sezione si riferisce ai casi dove è usato come titolo uniforme un genere musicale (vedi le regole per il **Titolo uniforme (240)**). In molti casi, il  **Titolo uniforme** e il **Soggetto (650)** sono identici, come per le _Symphonies_. In altri casi, invece, si usa un soggetto corrispettivo ma non identico.
+### Standardized titles – Subject headings
 
-Delle differenze possono sussistere nei casi seguenti: Se lo stesso soggetto si applica a generi strumentali e vocali, vedrai le parole **(voc.)** o **(inst.)** tra parentesi dopo il termine. Precisazioni come (dances) o (stage) possono anche essere aggiunte tra parentesi dopo il termine principale.
+This section refers to cataloging situations where genres are used as standardized titles (refer to the guidelines for **Standardized title (240)**). In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
 
-Più sotto si riportano alcuni esempi, seguiti dai corrispettivi soggetti, per i seguenti tipi di titoli uniformi:
+Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words (**voc.**) or (**inst.**) after the term in parentheses. Specifications such as (dances) or (stage) may also be added in parentheses after the main term.
 
-- Musica vocale e strumentale generica  
-- Musica vocale sacra  
-- Musica di scena, teatrale ecc.
-- Esercizi, studi, scuole, lezioni
-- Danze
+Below are some examples, followed by correspondences for the following kinds of standardized titles:
 
-Ecco alcuni esempi di situazioni particolari:
+- General instrumental and vocal music
+- Sacred vocal music
+- Music for the stage, theater, etc.
+- Exercises, studies, schools, lessons
+- Dances
 
-1. Un’elaborazione sopra un corale di cui si conosce l’incipit testuale:  
-Non hai bisogno di questa lista! Utilizza l’incipit testuale come titolo uniforme e seleziona **Arrangement**. Inserisci la parola chiave  **Chorale arrangements**.
+Here are some examples for special situations:
 
-2. Un’elaborazione sopra un corale di cui non si conosce l’incipit testuale:  
-Utilizza **Chorale arrangements** sia come titolo uniforme che come parola chiave.
+1. A chorale arrangement where the text incipit is known:   
+   You don't need this list! Use the text incipit as the standardized title and select **Arrangement**. Enter the subject heading **Chorale arrangements**.
 
-3. Un potpourri di cui sai che la musica proviene da una sola opera:  
-Non hai bisogno di questa lista! Utilizza il titolo dell’opera come titolo uniforme e seleziona **Excerpts** e **Arrangement**. Inserisci le parole chiave **Potpourris** e **Operas** (o **Operettas** ecc. se più appropriato).
+2. A chorale arrangement where the text incipit is unknown:   
+   Use **Chorale arrangements** as both the standardized title and subject heading.
 
-4. Un potpourri di cui sai che la musica proviene da più opere:  
-Utilizza **Potpourri** come titolo uniforme. Inserisci i nomi delle opere nel campo **Titolo uniforme alternativo (730)**. Come parola chiave inserisci **Potpourris** e **Operas** (or **Operettas** ecc. se più appropriato).
+3. A potpourri where you know that the music comes from a single opera:  
+   You don't need this list! Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
 
-5. Un potpourri di cui non conosci le opere dalle quali proviene la musica:  
-Utilizza **Potpourris** sia come titolo uniforme che come parola chiave.
+4. A potpourri where you know that the music comes from several operas:  
+   Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
 
-6. Un arrangiamento per fiati da una composizione teatrale di cui si conosce il titolo:  
-Utilizza il titolo della composizione teatrale come titolo uniforme e seleziona **Arrangement**. Inserisci la parola chiave **Wind music**.
+5. A potpourri where you do not know what operas the music is from:  
+   Use **Potpourris** as both the standardized title and subject heading.
 
-7. Un arrangiamento per fiati da una composizione teatrale di cui non si conosce il titolo:  
-Utilizza **Wind music** sia come titolo uniforme che come parola chiave.
+6. A wind arrangement of music from a stage work where the name of the stage work is known:  
+   Use the name of the stage work as the standardized title and select **Arrangement**. Enter the subject heading **Wind music**.
 
-8. Per **schizzi** di composizioni non identificate, usa il titolo proprio più il soggetto **Sketches**. Per schizzi di composizioni identificate, utilizza il titolo proprio e  **Sketches** come secondo termine di soggetto.
+7. A wind arrangement of music from a stage work where the name of the stage work is unknown:  
+   Use **Wind music** as both the standardized title and subject heading.
 
-9. In casi di incertezza completa, come organico ignoto, inserisci **Pieces** come titolo uniforme e **Pieces** come soggetto.
+8. For **sketches** of unknown compositions, use the distinctive title plus the subject heading **Sketches**. For sketches of known compositions, please use the distinctive title of the work and **Sketches** as second subject heading.
 
-La lista seguente dà un'idea di quali titoli uniformi hanno un soggetto corrispondente. Nota che questa lista non è esaustiva.
+9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
 
-#### Musica vocale e strumentale generica
-Titolo uniforme/genere — Soggetto corrispondente
-- Airs — Airs (dances)  
-- Airs — Airs (inst.)  
-- Airs — Airs (voc.)  
-- Arias — Arias (voc.)  
-- Ballades — Ballades (forme fixe)  
-- Ballades — Ballades (inst.)  
-- Ballads — Ballads (voc.)  
-- Ballettos — Ballettos (voc.)  
-- Barcarolles — Barcarolles (inst.)  
-- Barcarolles — Barcarolles (voc.)  
-- Battle music — Battle music (inst.)  
-- Battle music — Battle music (voc.)  
-- Bergerettes — Bergerettes (voc.)  
-- Brass music — Brass music  
-- Canons — Canons (inst.)  
-- Canons — Canons (voc.)  
-- Canzonas — Canzonas (inst.)  
-- Canzoni — Canzoni (voc.)  
-- Capriccios — Capriccios (inst.)  
-- Capriccios — Capriccios (voc.)  
-- Duets — Duets (inst.)  
-- Duets — Duets (voc.)  
-- Etudes — Etudes (inst.)  
-- Fugues — Fugues (inst.)  
-- Fugues — Fugues (voc.)  
-- In Nomine — In Nomine (inst.)  
-- Instrumental pieces — Instrumental pieces  
-- Interludes — Interludes  
-- Intermezzos — Intermezzos (inst.)  
-- Intonazione — Intonazione (inst.)  
-- Nocturnes — Nocturnes (inst.)  
-- Notturni — Notturni (voc.)  
-- Pastorales — Pastorales (inst.)  
-- Pastorales — Pastorales (voc.)  
-- Preludes and Fugues — _enter two subject headings:_ Preludes Fugues  
-- Quartets — Quartets (inst.)  
-- Quartets — Quartets (voc.)  
-- Rhapsodies — Rhapsodies (inst.)  
-- Rhapsodies — Rhapsodies (voc.)  
-- Ricercares — Ricercares (inst.)  
-- Ricercares — Ricercares (voc.)  
-- Romances — Romances (inst.)  
-- Romances — Romances (voc.)  
-- Rondeaux — Rondeaux (forme fixe)  
-- Rondos — Rondos (inst.)  
-- Rondos — Rondos (voc.)  
-- Rounds — Rounds (voc.)  
-- Scherzi — Scherzi (voc.)  
-- Scherzos — Scherzos (inst.)  
-- Sonatas — _use_ Sonatas _or_ Triosonatas  
-- Trios — Trios (inst.)  
-- Versets — Versets (inst.)  
-- Virelais — Virelais (forme fixe)  
+The following list gives an idea of what standardized titles have a corresponding subject heading. Please note that this list is not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English in the plural) and not in translation.
+
+#### General instrumental and vocal music
+
+Standardized title — Corresponding subject heading
+- Airs — Airs (dances)
+- Airs — Airs (inst.)
+- Airs — Airs (voc.)
+- Arias — Arias (voc.)
+- Ballades — Ballades (forme fixe)
+- Ballades — Ballades (inst.)
+- Ballads — Ballads (voc.)
+- Ballettos — Ballettos (voc.)
+- Barcarolles — Barcarolles (inst.)
+- Barcarolles — Barcarolles (voc.)
+- Battle music — Battle music (inst.)
+- Battle music — Battle music (voc.)
+- Bergerettes — Bergerettes (voc.)
+- Brass music — Brass music
+- Canons — Canons (inst.)
+- Canons — Canons (voc.)
+- Canzonas — Canzonas (inst.)
+- Canzoni — Canzoni (voc.)
+- Capriccios — Capriccios (inst.)
+- Capriccios — Capriccios (voc.)
+- Duets — Duets (inst.)
+- Duets — Duets (voc.)
+- Etudes — Etudes (inst.)
+- Fugues — Fugues (inst.)
+- Fugues — Fugues (voc.)
+- In Nomine — In Nomine (inst.)
+- Instrumental pieces — Instrumental pieces
+- Interludes — Interludes
+- Intermezzos — Intermezzos (inst.)
+- Intonazione — Intonazione (inst.)
+- Nocturnes — Nocturnes (inst.)
+- Notturni — Notturni (voc.)
+- Pastorales — Pastorales (inst.)
+- Pastorales — Pastorales (voc.)
+- Preludes and Fugues — _enter two subject headings:_ Preludes Fugues
+- Quartets — Quartets (inst.)
+- Quartets — Quartets (voc.)
+- Rhapsodies — Rhapsodies (inst.)
+- Rhapsodies — Rhapsodies (voc.)
+- Ricercares — Ricercares (inst.)
+- Ricercares — Ricercares (voc.)
+- Romances — Romances (inst.)
+- Romances — Romances (voc.)
+- Rondeaux — Rondeaux (forme fixe)
+- Rondos — Rondos (inst.)
+- Rondos — Rondos (voc.)
+- Rounds — Rounds (voc.)
+- Scherzi — Scherzi (voc.)
+- Scherzos — Scherzos (inst.)
+- Sonatas — _use_ Sonatas _or_ Triosonatas
+- Trios — Trios (inst.)
+- Versets — Versets (inst.)
+- Virelais — Virelais (forme fixe)
 - Terzets — Terzets (voc.)
 
-#### Musica vocale sacra
-Titolo uniforme/genere — Soggetto corrispondente
-- Completoria — Hours of the Office  
-- Horae minores — Hours of the Office  
-- Intonations — Intonations (voc.)  
-- Laudes — Hours of the Office  
-- Matutina — Hours of the Office  
+#### Sacred vocal music
 
-#### Musica operistica, teatrale
-_Per generi di singoli numeri o parti, consulta la sezione sulla musica vocale e strumentale._
-Titolo uniforme/genere — Soggetto corrispondente
-- Intermezzos — Intermezzos (stage)  
-- Meditationes — Meditationes (Jesuit theatre)  
-- Prologues — Prologues (stage)  
+Standardized title — Corresponding subject heading
+- Completoria — Hours of the Office
+- Horae minores — Hours of the Office
+- Intonations — Intonations (voc.)
+- Laudes — Hours of the Office
+- Matutina — Hours of the Office
 
-#### Esercizi, studi, scuole, lezioni
-Titolo uniforme/genere — Soggetto corrispondente
-- Arpeggios — Arpeggios (inst.)  
-- Cadences — Cadences (inst.) _or_ Cadenzas (inst.)  
-- Cadenzas — Cadenzas (voc.)  
-- Exercises — Exercises (inst.)  
-- Exercises — Exercises (voc.)  
-- Solfeggios — Solfeggios (inst.)  
-- Solfeggios — Solfeggios (voc.)  
-- Tutors — Tutors (inst.)  
-- Tutors — Tutors (voc.)  
+#### Music for the stage, theater, etc.
 
-#### Danze
-Titolo uniforme/genere — Soggetto corrispondente
-- Airs — Airs (dances)  
+_For genres of individual numbers or parts, consult the section on vocal and instrumental music._  
+Standardized title — Corresponding subject heading
+- Intermezzos — Intermezzos (stage)
+- Meditationes — Meditationes (Jesuit theatre)
+- Prologues — Prologues (stage)
+
+#### Exercises, studies, schools, lessons
+
+Standardized title — Corresponding subject heading
+- Arpeggios — Arpeggios (inst.)
+- Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadenzas — Cadenzas (voc.)
+- Exercises — Exercises (inst.)
+- Exercises — Exercises (voc.)
+- Solfeggios — Solfeggios (inst.)
+- Solfeggios — Solfeggios (voc.)
+- Tutors — Tutors (inst.)
+- Tutors — Tutors (voc.)
+
+#### Dances
+
+Standardized title — Subject heading
+- Airs — Airs (dances)
 - Rounds — Rounds (dances)

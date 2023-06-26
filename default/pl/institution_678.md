@@ -1,4 +1,5 @@
-### Historia instytucji (678 $a; ISDIAH 5.3.1)
+### History of the institution (678; ISDIAH 5.3.1)
 
-#### Historia instytucji (678 $a)
-Pole podaje krótką historię instytucji. O ile jest to możliwe, należy w nim wprowadzić krótką historię instytucji.
+#### History of the institution (678 $a)
+
+This field provides a concise history of the institution. Enter a short history of the institution if possible.

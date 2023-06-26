@@ -1,11 +1,16 @@
-#### Uwaga o wykonaniach (518 $a)
+### Note on performance (518)
 
-Tutaj należy wprowadzić informacje o wykonaniach. Wprowadzić używając własnego języka katalogowania. W celu sprawdzenia nazw oper i sal koncertowych, należy korzystać z listy **Opery i sale koncertowe**.  
+The field **Note on performance** records information related to how the source in hand was used in a specific performance. The field is not meant to be a record of all performances of a work, but should instead focus on the source in hand.
 
-Wprowadzić datę w formie zakodowanej w polu **Data zakodowana (033)**. Wprowadzić nazwę miasta w formie ujednoliconej w polu **Miejsce wykonania (651)**. Wprowadzić nazwę opery lub sali w formie ujednoliconej w polu **Instytucja dodatkowa (710)**.
+#### Note on performance (518 $a)
 
-W przypadku druków muzycznych, wypełnić jedynie w przypadku druków wydanych na specjalną okazję (tzn. muzyki napisanej na specjalną okazję). Wykonania związane z określonym egzemplarzem wydania drukowanego należy podać w informacji o zasobach.
+Enter information about performances related to the source here. Enter using your cataloging language. For assistance with the names of performance venues, please refer to the list **Opera houses and concert halls**.
 
-##### Przykłady  
-Data pierwszego wykonania: [6.9.1791 Praha, Teatr Narodowy]  
-[u dołu strony tytułowej:] „Wykonanie w Baden Baden w dniu 17 Marca 1832 roku”
+Enter the city in standardized form in the field **Location of performance (651)**. Enter the name of the venue in standardized form in the field **Additional institution (710)**. Dates may be added using normal language in accordance with your cataloging language.
+
+For printed music, only fill this out in the case of occasional prints (that is, music written for a specific occasion). Performances specific to a certain copy of a printed edition should be given in the holdings information.
+
+##### Examples
+
+- First performance date: 6 September 1791, Prague, National theatre
+- [at foot of title page:] "Performance in Baden Baden on 17 March 1832"

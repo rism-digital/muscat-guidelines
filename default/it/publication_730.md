@@ -1,4 +1,5 @@
-### Titolo alternativo  (730)
+### Additional title (730)
 
-#### Titolo alternativo  (730 $a)
-Inserisci qui traduzioni del titolo se non appaiono sul frontespizio.
+#### Additional title (730 $a)
+
+Enter translations of the title here if they do not appear on the title page.

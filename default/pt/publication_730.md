@@ -1,4 +1,5 @@
-### Título adicional (730)
+### Additional title (730)
 
-#### Título adicional (730 $a)
-Insira aqui traduções do título se elas não aparecem na página de título.
+#### Additional title (730 $a)
+
+Enter translations of the title here if they do not appear on the title page.

@@ -1,5 +1,5 @@
-### Istituzioni correlate (510)
-Questo campo è associato al campo **Informazioni biografiche addizionali(678)**.
+### Associated institution (510)
 
-#### Istituzioni correlate (510 $a)
-Se su una fonte musicale si trovano informazioni biografiche supplementari riguardo a una persona, specialmente se si tratta di informazioni non prontamente reperibili in altre fonti di riferimento, la citazione dalla fonte musicale va inserita nel campo **Informazioni biografiche addizionali (678)** e qui va inserita la sigla dell’istituzione proprietaria della fonte. Questo campo è collegato alla lista di voci d’autorità **Istituzioni**.
+#### Associated institution (510 $a)
+
+This field goes hand in hand with the field **Additional biographical information (678)**. If additional biographical information about the person in question is found on a musical source, especially if this concerns information that is not readily found in other reference sources, the citation from the musical source is entered in the field **Additional biographical information (678)** and the siglum of the holding library is entered here. This field is linked to the **Institutions** authority file.

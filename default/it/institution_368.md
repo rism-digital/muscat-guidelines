@@ -1,33 +1,42 @@
-### Tipo di istituzione (368; ISDIAH 5.1.5)
-Questo campo riporta altri attributi della persona o nome collettivo o tipo di istituzione.  
+### Type of institution (368; ISDIAH 5.1.5)
 
-#### Tipo di istituzione (368 $a)
-Questo campo identifica il tipo di istituzione con collezioni archivistiche.
+This field records other attributes of person or corporate body or type of institution.
 
-Seleziona dai tipi seguenti:
-- Archivio  
-- Libraio
-- Copista
-- Nome collettivo
-- Centro di documentazione  
-- Biblioteca
-- Museo
-- Istituto di ricerca  
-- Cartiera
-- Esecutore
-- Stampatore
-- Editore  
-- Altri  
+#### Type of institution (368 $a)
 
-#### Tipo di giurisdizione (368 $b)
-Inserisci il tipo di giurisdizione associato all'istituzione.  
+This field identifies the type of institution with archival holdings.
 
-##### Esempi  
-Contea  
-Villaggio  
-  
-#### Altra denominazione (368 $c)
-Inserisci qui una denominazione che non è presente nei campi precedenti di questa sezione.  
+Select from the following types:
 
-#### Fonte (368 $2)
-Inserisci la fonte per i termini usati.
+- Archive
+- Bookseller
+- Copyist
+- Congress
+- Documentation center
+- Institution
+- Library
+- Museum
+- Research institute
+- Papermaker
+- Performer
+- Printer
+- Publisher
+- Other
+
+
+#### Type of jurisdiction (368 $b)
+
+Enter the type of jurisdiction associated with the institution.
+
+##### Examples
+-
+- County
+- Village
+
+#### Other designation (368 $c)
+
+Enter a designation here if not found in the previous fields in this section.
+
+#### Source (368 $2)
+
+Enter the source of the terms used.

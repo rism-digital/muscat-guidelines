@@ -1,15 +1,18 @@
-### URL źródła zewnętrznego (856)
+### External resource URL (856)
 
-#### URL źródła zewnętrznego (856 $u)
-Wprowadzić URL źródła zewnętrznego. Zawsze należy starać się używać permalinków.
+#### External resource URL (856 $u)
 
-#### Uwaga o źródle zewnętrznym (856 $z)  
-Wprowadzić krótką uwagę opisującą link.
+Enter the full URL of the external resource. Use permalinks whenever possible.
 
-##### Przykłady  
-- Zasób elektroniczny  
-- Elektronische Ressource  
-- Link do PDF  
-- Link zum Inhaltsverzeichnis  
-- Niektóre wydania są dostępne w formacie PDF  
-- Link do bazy danych
+#### Note about external resource (856 $z)
+
+Enter a brief note that describes the link.
+
+##### Examples
+
+- Electronic resource
+- Elektronische Ressource
+- Link to PDF
+- Link zum Inhaltsverzeichnis
+- Some issues are available as a PDF
+- Link to database

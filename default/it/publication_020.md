@@ -1,8 +1,10 @@
 ### ISBN (020)
 
 #### ISBN (020 $a)
-Inserisci il numero International Standard Book Number (ISBN). Il numero ISBN consiste di 10 o 13 cifre.   
 
-##### Esempi  
-- 3-486-21584-1  
+Enter the International Standard Book Number (ISBN). The ISBN is a number consisting of 10 or 13 digits.
+
+##### Examples
+
+- 3-486-21584-1
 - 978-3-486-21584-1

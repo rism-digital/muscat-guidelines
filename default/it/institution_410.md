@@ -1,13 +1,16 @@
-### Altre forme del nome (410; ISDIAH 5.1.4)
-Questo campo riporta ogni forma del nome dell’istituzione che non è riportata altrove.
+### Other form of name (410; ISDIAH 5.1.4)
 
-#### Altre forme del nome (410 $a)
-Inserisci altre forme del nome dell’istituzione, compresi nomi impropri o non ufficiali. Tra questi vi possono essere altre forme dello stesso nome, acronimi o varianti del nome usate in pubblicazioni precedenti (come i volumi RISM stampati), o forme antiquate del nome, comprese, se possibile, le date corrispondenti. Inserisci ogni nome su una nuova riga.
+This field is for any other name(s) for the institution not given elsewhere.
 
-##### Esempi  
-- Parry Room Library [per Royal College of Music Library]  
-- Wolfson Lending Library [per Royal College of Music Library]  
-- Musik-Konservatoriets Bibliotek [per Norges musikkhøgskole, Biblioteket]  
-- Gosudarstvennïy Istoricheskïyi Muzei [per Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossii]  
-- ERESBIL - Euskal Ereslarien Bilduma [per ERESBIL - Musikaren Euskal Artxiboa]  
-- ERESBIL - Archivo de Compositores Vascos [per ERESBIL - Musikaren Euskal Artxiboa]
+#### Other form of name (410 $a)
+
+Enter other forms of the name of the institution, as well as popular or non-official other names. This could include other forms of the same name, acronyms, names used in older publications (such as RISM volumes), or changes of name over time, including, if possible, relevant dates. Enter each name on a separate line.
+
+##### Examples
+
+- Parry Room Library [for Royal College of Music Library]
+- Wolfson Lending Library [for Royal College of Music Library]
+- Musik-Konservatoriets Bibliotek [for Norges musikkhøgskole, Biblioteket]
+- Gosudarstvennïy Istoricheskïyi Muzei [for Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossii]
+- ERESBIL - Euskal Ereslarien Bilduma \[1974-2000\] \[for ERESBIL - Musikaren Euskal Artxiboa\]
+- ERESBIL - Archivo de Compositores Vascos \[1974-2000\] \[for ERESBIL - Musikaren Euskal Artxiboa\]

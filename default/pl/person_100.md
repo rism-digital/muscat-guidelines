@@ -1,45 +1,50 @@
-### Nagłówek - osoba (100)
-W polu podaje się nazwę osobową w formie autorytatywnej.
+### Heading - Personal name (100)
 
-#### Nagłówek - osoba (100 $a)
-Nazwy wpisuje się w formacie: Nazwisko Imię, z przecinkiem rozdzielającym elementy dla nazw osobowych podawanych w kolejności odwróconej. W razie posiadania wyłącznie inicjałów, należy wpisać je w kolejności bezpośredniej (in direct order).
+This field is for the name of the person in its authorized form.
 
-W przypadku nazw zapisanych pierwotnie przy użyciu alfabetów innych niż łaciński, w tym polu należy wpisać nazwę w transliteracji łacińskiej. Oryginalną formę nazwy w alfabecie innym niż łaciński, jak również alternatywne transliteracje, można wprowadzić w polu **Alternatywna nazwa osoby (400 $a)**.  
+#### Heading - Personal name (100 $a)
 
-##### Przykłady
+Names are entered in the form Surname Forename, with a comma separating the elements for names in inverted order. If you only have initials, enter in direct order.
+
+For names originally written using non-Latin scripts, enter the transliterated form in the Latin script in this field. The original form in non-Latin script, as well as alternate transliterations, can be entered in the field **Name variant (400 $a)**.
+
+##### Examples
+-
 - Telemann, Georg Philipp
 - Joo Su-won
 - Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
 - A. C.
 - Copyist C. H. Graun IX (Blechschmidt)
 
-#### Zakon religijny (100 $c)
-Pole służy do wpisywania zakonów Kościoła Rzymsko-Katolickiego. Skróty pochodzą z następującej strony w Wikipedii:  
-[https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))
+#### Religious order (100 $c)
 
-#### Daty urodzenia i śmierci (100 $d)
-Wprowadzić rok urodzin i śmierci danej osoby lub wprowadzić inny istotny zakres dat.
+This field is for entering orders of the Roman Catholic Church. Abbreviations are taking from the following Wikipedia page: [https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))
 
-Jeżeli dokładny rok urodzenia i/lub zgonu danej osoby nie jest znany, należy użyć następujących skrótów, aby zasygnalizować, że wprowadzone dane nie są precyzyjne.
+#### Years of birth and death (100 $d)
 
-- **.sc**: wiek  
- **18.sc** = XVIII wiek  
-- **a**: przed   
- **1811a** = przed 1811
-- **p**: po  
- **1811p** = po 1811
-- **c**: circa, ok.  
- **1816c** = ok.1816
-- **\***: ur.  
- **1816\*** = ur. 1816, lecz rok śmierci nieznany  
-- **+**: zm.  
- **1756+** = zm. 1756, lecz rok urodzin nieznany  
-- **/**: lub  
- **17/18** = żył w wieku XVII i XVIII  
+Enter the person’s years of birth and death or enter a different relevant range of years.
 
-Dla zakresów dat nie stosować następujacych skrótów: in, me, ex, q, d, t
+If the person's exact years of birth and/or death are unknown, use the following abbreviations to signal that the years are not exact.
 
-##### Przykłady
+- **.sc**: century  
+  **18.sc** = Eighteenth century
+- **a**: before  
+  **1811a** = before 1811
+- **p**: after  
+  **1811p** = after 1811
+- **c**: circa, around, approximately  
+  **1816c** = around 1816
+- **\***: born  
+  **1816\*** = born in 1816, but year of death unknown
+- **+**: died  
+  **1756+** = died in 1756, but year of birth unknown
+- **/**: or  
+  **17/18** = lived in the seventeenth and eighteenth centuries
+
+Do not use the following abbreviations for date ranges: in, me, ex, q, d, t
+
+##### Examples
+
 - 1879-1967
 - 18.sc
 - 1811a-1855p
@@ -49,18 +54,14 @@ Dla zakresów dat nie stosować następujacych skrótów: in, me, ex, q, d, t
 - 17/18
 
 #### Status (100 $w)
-Pole służy do użytku wewnętrznego Biura Centralnego RISM.
 
-#### Inne daty życia  
-Sposób zapisu daty: DD.MM.RRRR. Lata aktywności należy poprzedzić symbolem **fl.** (od floruit)  
+This field is an internal field for use by the RISM Editorial Center.
 
-##### Przykłady
+#### Other life dates
+
+Enter concrete dates in the form DD.MM.YYYY. Years active or flourished must be preceded by **fl.**.
+
+##### Examples
+
 - 22.11.1879-31.12.1967
 - fl. 1732-1735
-
-[lub czy i ?] -  
-
-
-
-- **/**: lub  
-**17/18** = żył w wieku XVII i XVIII ??

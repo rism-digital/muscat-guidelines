@@ -1,9 +1,9 @@
-### Código de autenticação (042)
-Este campo identifica se o registro foi diferenciado pela Redação Central do RISM.
+### Authentication code (042)
 
-#### Código de autenticação (042 $a)
-Registros diferenciados referem-se a uma pessoa concreta e registros indiferenciados não podem (ainda) ser conectados a um indivíduo.   
+#### Authentication code (042 $a)
 
-Os códigos disponíveis são:  
-- diferenciado
-- indiferenciado
+Differentiated entries refer to a concrete person and undifferentiated entries cannot (yet) be connected to an individual.
+
+Available codes are:
+- differentiated
+- undifferentiated

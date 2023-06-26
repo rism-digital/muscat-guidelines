@@ -1,8 +1,10 @@
-### Uwaga do zawartości (520)
+### Contents note (520)
 
-#### Uwaga do zawartości (520 $a)
-Pole określa daty początkowe/końcowe danej pozycji. Dotyczy to szczególnie czasopism.
+#### Contents note (520 $a)
 
-##### Przykłady  
-- Vol. 1, no. 1 (Apr. 1981) -  
+This field states the beginning/ending date(s) of an item, especially for periodicals.
+
+##### Examples
+
+- Vol. 1, no. 1 (Apr. 1981)-
 - 1969-2004

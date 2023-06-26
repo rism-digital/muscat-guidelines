@@ -1,219 +1,242 @@
-### Título uniforme (240)
+### Standardized title (240)
 
-O título é inserido aqui de uma forma padronizada, que traz conjuntamente sob o mesmo título composições que, embora tenham uma variedade de nomes, são a mesma ou são similares. Também chamado de “título de arquivamento” or “título normalizado”.  
+The title is entered here in a standardized form. The standardized title brings compositions together under the same title  which, despite having a variety of names, are the same or similar. Also called the "filing title" or "uniform title."
 
-#### Título uniforme (240 $a)
+#### Standardized title (240 $a)
 
-**Campo obrigatório.**
+**Required field.**
 
-Indique informação questionável com uma interrogação ao final (por exemplo, **Die Zauberflöte?**). Não use colchetes ou parênteses. Coloque versões alternativas do título no campo **Título adicional (730)**.
+Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Put alternative versions of the title in the field **Additional title (730)**.
 
-Um título uniforme pode ser gerado a partir do seguinte, na ordem de preferência:
+A standardized title can be generated from the following, in order of preference:
 
-1. Títulos distintivos
-2. Incipits literários
-3. Gêneros
-4. Indicações de tempo
+1. Distinctive titles
+2. Text incipits
+3. Genres
+4. Tempo markings
 
+##### 1. Distinctive titles
 
+Distinctive titles include all kinds of stage works, oratorios, cantatas, and songs, and also certain kinds of instrumental music (such as character pieces from the 18th century with a distinctive, individual title).
 
-1. **Títulos distintivos**  
- Títulos distintivos incluem todos os tipos de obras cênicas, oratórios, cantatas e canções, e também certos tipos de música instrumental (tais como peças de caráter do século 18 com um título individual distintivo).  
+Enter the distinctive title in standard spelling as in (1) New Grove, (2) MGG, (3) catalogs of works, and/or (4) other reference books. Do not omit initial articles (the, a, an, der, die, le, l', etc.).
 
- Insira o título distintivo em grafia padronizada tal como no (1) New Grove, (2) MGG, (3) em catálogos de obras, e/ou (4) outros livros de referência. Não omita artigos iniciais (a, o, the, a, an, der, die, le, l', etc.).  
+Popular names or nicknames (such as "Eroica" or "Nelson Mass") do not count as standardized titles. Such names are entered in the field **Additional titles (730 $a)**.
 
- Nomes populares ou apelidos (tais com "Eroica" ou "Nelson Mass") não contam como títulos uniformes. Tais nomes são inseridos no campo **Títulos adicionais(730 $a)**.   
+In English, sentence case is preferred. In French, the simplified French rules ([Règles simplifiées](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#Titres_d%E2%80%99%C5%93uvres_ou_de_p%C3%A9riodiques)) are preferred.
 
-##### Exemplos  
-Die Forelle  
- Die Zauberflöte  
- The beggar's opera  
+###### Examples
 
-2. **Incipit literário**  
-Insira o incipit literário como o título uniforme para peças vocais se não existe um título distintivo.   
+- Die Forelle
+- Die Zauberflöte
+- The beggar's opera
 
- Se uma fonte consiste de um recitativo e ária, ou de uma cena e ária, o incipit literário da ária é sempre utilizado como o título uniforme. Aplique os mesmos princípios para um recitativo e cavatina, cena e rondó, ou para combinações similares. Caso trate-se de uma ária de ópera avulsa, de uma opera cujo título é desconhecido, insira o incipit literário da ária.  
+##### 2. Text incipit
 
- Para cantatas, por outro lado, o incipit literário da primeira peça vocal funciona como o título uniforme, independentemente de ser um recitativo, ária ou coro.   
+Enter the text incipit as the standardized title for vocal pieces if there is no distinctive title.
 
- Porém, utilize o gênero para missas, missas de réquiem, exéquias, ladainhas e composições para o Ofício Divino. O mesmo vale para óperas completas e oratórios cujos títulos são desconhecidos.  
+If a source consists of a recitative and aria or a scena and aria, the text incipit of the aria is always used as the standardized title. Apply the same principles to a recitative and cavatina, scena and rondo, or similar combinations. If you have a single opera aria from an opera whose title is unknown, enter the text incipit of the aria.
 
- Ao inserir incipits literários, utilize as regras ortográficas de cada idioma respectivo para ditar o uso de letras maiúsculas ou minúsculas. Coloque as iniciais em maiúsculas em nomes de divindades (Deus, God, Herr, Dio, Dieu, Signore, Lord, etc.). Omita sinais de pontuação e repetições no interior do incipit literário. Para título uniforme de traduções, use o incipit literário na língua original. Se o item é claramente uma tradução, insira o título uniforme na língua original.   
+With cantatas, on the other hand, the text of the first vocal piece functions as the standardized title, regardless of whether it is a recitative, aria, or chorus.
 
-Certifique-se de que o incipit literário neste campo é idêntico ao incipit literário no campo **Incipit literário (031 $t)**. Para textos latinos, use o texto que precede o ponto e vírgula como título uniforme, mas utilize o incipit literário inteiro para o incipit literário.   
+However, use the genre for masses, requiems, obsequies, litanies, and compositions for the divine office. The same is true for complete operas and oratorios whose titles are unknown.
 
-##### Exemplos  
-Der Mond ist aufgegangen  
- Gloria [com incipit literário: Gloria, in excelsis Deo et in terra pax]  
+When entering text incipits, use the orthographic rules of each respective language to dictate use of upper or lower case letters. Capitalize the names of the deity (God, Herr, Dio, Dieu, Signore, Lord, etc.). Omit punctuation marks and repetitions within the incipit. If the item is clearly a translation, enter the standardized title in the original language.
 
-3. **Gênero**  
-Use o gênero da obra como o título uniforme se não houver nem um título distintivo, nem um incipit literário. Na maioria dos casos, insere-se o gênero em inglês e no plural (como em **Operas**). Observe que, para alguns gêneros, um determinado **Cabeçalho de Assunto (650)** é utilizado. Por favor, consulte o apêndice **Título uniforme – Cabeçalho de Assunto** nas Diretrizes para ajuda.   
+Make sure that the text incipit in this field is identical with the text incipit in the field **Text incipit (031 $t)**. With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use the text incipit in its entirety for the text incipit.
 
-##### Exemplos  
-Symphonies  
- Allemandes  
+###### Examples
 
-4. **Indicações de tempo**  
-Insira a indicação de tempo se o gênero não puder ser determinado. Se nenhuma destas opções puder ser utilizada, use os seguintes termos:  
- -Songs (peças vocais)  
- -Pieces (uma peça genérica)  
- -Movements (um movimento único de uma peça instrumental sem uma indicação de tempo e de caráter indeterminado)  
+- Der Mond ist aufgegangen
+- Gloria [with text incipit: Gloria, in excelsis Deo et in terra pax]
 
-##### Exemplos  
-Presto  
- Lento
+##### 3. Genre
 
-**Regras especiais:**
+Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Please consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
 
-- **Coletâneas e**. Coletâneas. Nestes casos, um número mais o gênero é inserido. Insira um número arábico indicando quantas obras pertencem à coletânea, seguido de um gênero que seja o mais abrangente possível.  
-##### Exemplos    
-25 Arias  
-3 Instrumental pieces
-- **Volumes compostos**. Insira um número correspondente ao número de itens envolvidos mais a palavra “Itens”.  
-##### Exemplos  
-11 Itens   
-- **Variações.** Insira **Variations** como o título uniforme aqui. No campo **Título adicional (730)**, insira a obra sobre a qual a peça se baseia, quando conhecida, e selecione **Variations** em **Definição de arranjo**.
-- **Inserções.** Insira o incipit literário da peça inserida como título uniforme aqui. No campo **Título adicional (730)**, insira o nome da ópera ou da obra maior no campo.
-- **Caracteres não-latinos.** Se a sua fonte tem um título que usa letras ou caracteres não-latinos (alfabetos cirílico/grego/hebraico/coreano etc., caracteres chineses, etc.) insira o **Título uniforme** usando a grafia original. Traduções ou transliterações são opcionais e podem ser adicionais no campo **Título adicional (730)**.
+###### Examples
 
-#### Definição de arranjo (240 $o)
+- Symphonies
+- Allemandes
 
-Selecione **Arranjo** se a obra é um arranjo de outra obra.   
+##### 4. Tempo indications
 
-Observe que re-textualizações [retextings] e transposições não são considerados arranjos. Em tais casos, insira o nome da pessoa responsável, se conhecido, em **Nome de pessoa adicional (700)**. Embora as obras não sejam consideradas arranjos, a pessoa é indicada como “Arranjador”.
+Enter the tempo indication if the genre cannot be determined. If none of these options are available, use the following terms:
 
-Arranjos podem ser também diferenciados de obras independentes (elaborações livres), tais como variações, paráfrases, paródias e fantasias sobre temas da obras original.
+- Songs (vocal pieces)
+- Pieces (a generic piece)
+- Movements (a single movement of an instrumental piece without a tempo indication and of indeterminate character)
 
+###### Examples
 
+- Presto
+- Lento
 
-#### Subtítulo (240 $k)
+#### Special rules
 
-Este campo destina-se a aspectos especiais da forma, se aplicáveis. Selecione entre as seguintes opções:
+##### Collections
 
-- **Excertos**: se somente uma ou algumas seções da obra completa estão presentes.
-- **Fragmentos**: se somente fragmentos da obra estão presentes.
-- **Esboços:** se somente esboços da obra estão presentes.   
+In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.
 
+###### Examples
 
-#### Tonalidade ou modo (240 $r)
+- 25 Arias
+- 3 Instrumental pieces
 
-**Campo obrigatório se puder ser determinado com certeza.**
+##### Composite volumes
 
-Selecione a tonalidade da obra como um todo (mesmo para excertos).
+Enter a number corresponding to the number of items involved plus the English word "Items."
 
-No caso de arranjos, insira a tonalidade da obra original. Se a tonalidade original não pode ser determinada, insira a tonalidade da fonte em questão; neste caso, entretanto, insira uma nota correspondente no campo **Nota geral(500)**.
+###### Example
 
-Se nenhuma tonalidade está indicada na fonte, selecione uma tonalidade somente se ela puder ser determinada com certeza.
+- 11 Items
 
-Não insira uma tonalidade para: óperas, oratórios e cantatas; recitativos sem uma ária subsequente; e obras para as quais uma tonalidade não pode ser claramente estabelecida.
+##### Variations
 
-Não traduza modos para nomes de tonalidade modernas.    
+Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
 
-Ver “Modos eclesiáticos” para os modos das igrejas Ocidental e Bizantina e “Tonalidades” para a lista de tonalidades em **Abreviaturas e termos gerais**.
+##### Insertions
 
+Enter the text incipit of the inserted piece as the standardized title here. In the field **Additional title (730)**, enter the name of the opera or larger work and select **Inserts** next to **Subheading.**
 
+##### Non-Latin scripts
 
-#### Síntese da formação (240 $m)
+If your source has a standardized title that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Standardized title** using the original script. Translations or transliterations are optional and may be added in the field **Additional title (730)**.
 
-**Campo obrigatório exceto para o seguinte: óperas e oratórios com a instrumentação padrão V (X), Coro, orch. Caso trate-se de esboços ou coletâneas, insira uma síntese da formação se fizer sentido.**
+#### Arrangement statement (240 $o)
 
-Insira aqui uma breve síntese da formação do meio geral para a interpretação (performance) da obra. Separe cada elemento da formação com vírgulas. Insira no máximo quatro elementos. Uma descrição detalhada da instrumentação é inserida no campo **Formação total (594)**. A síntese da formação como um todo deve ficar em uma só linha; repita o campo somente para indicar instrumentações alternativas (veja abaixo).
+Select **Arrangement** if the work is an arrangement of another work.
 
-Use termos da lista de **Abreviaturas**. Escreva quaisquer termos que não estejam contidos nesta lista por extenso e em inglês.
+Note that retextings and transpositions are not considered arrangements. In such cases, enter the name of the responsible person, if known, under **Additional personal name (700)**. Although the works are not considered arrangements, the person is referred to there as "Arranger".
 
-Insira os grupos de instrumentos na seguinte ordem:
+Arrangements should also be distinguished from independent works (free elaborations), such as variations, paraphrases, parodies, and fantasies on themes from the original work.
 
+#### Subheading (240 $k)
 
+This field is for special form aspects as applicable. Select from the following:
 
--
+- **Excerpts**: if only one or several sections of the complete work are present
+- **Fragments**: if only fragments of the work are present
+- **Sketches:** if only sketches of the work are present
 
-Solo voices (Vozes solistas)
+#### Key or mode (240 $r)
 
--
+**Required if the key can be determined with certainty.**
 
-Chorus (Coro)
+Select the key of the entire work (even for excerpts).
 
--
+In the case of arrangements, enter the key of the original work. If the original key cannot be determined, enter the key of the source in hand; in this case, though, enter a corresponding note in the field **General note (500)**.
 
-Solo instruments (Instrumentos solistas)
+If no key is indicated on the source, select a key only if it can be determined with certainty.
 
--
+Do not enter a key for: operas, oratorios, and cantatas; recitatives without an ensuing aria; and works for which a key cannot be clearly established.
 
-Strings (Cordas)
+Do not translate modes into modern key names.
 
--
+The following Western church modes are available:
+- 1st tone (Dorian)
+- 1st tone (Dorian), transposed
+- 2nd tone (Hypodorian)
+- 2nd tone (Hypodorian), transposed
+- 3rd tone (Phrygian)
+- 3rd tone (Phrygian), transposed
+- 4th tone (Hypophrygian)
+- 4th tone (Hypophrygian), transposed
+- 5th tone (Lydian)
+- 5th tone (Lydian), transposed
+- 6th tone (Hypolydian)
+- 6th tone (Hypolydian), transposed
+- 7th tone (Mixolydian)
+- 7th tone (Mixolydian), transposed
+- 8th tone (Hypomixolydian)
+- 8th tone (Hypomixolydian), transposed
+- 9th tone (Aeolian)
+- 9th tone (Aeolian), transposed
+- 10th tone (Hypoaeolian)
+- 10th tone (Hypoaeolian), transposed
+- 11th tone (Ionian)
+- 11th tone (Ionian), transposed
+- 2th tone (Hypoionian)
+- 12th tone (Hypoionian), transposed
 
-Woodwinds (Madeiras)
+The following Byzantine church modes are available:
+- Ēchos prōtos (First mode of Byzantine music)
+- Ēchos deuteros (Second mode of Byzantine music)
+- Ēchos tritos (Third mode of Byzantine music)
+- Ēchos tetartos (Fourth mode of Byzantine music)
+- Ēchos plagios prōtos (First plagal mode of Byzantine music)
+- Ēchos plagios deuteros (Second plagal mode of Byzantine music)
+- Ēchos barys (Third plagal mode of Byzantine music)
+- Ēchos plagios tetartos (Fourth plagal mode of Byzantine music)
 
--
+**Obsolete procedures**: Older RISM cataloging guidelines allowed multiple key signatures to be entered in this field, separated by a semicolon. This practice was discontinued with the introduction of Muscat.
 
-Brass (Metais)
+#### Scoring summary (240 $m)
 
--
+**Required field except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch**
 
-Plucked instruments (Instrumentos de cordas pinçadas)
+If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
--
+Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each element of the scoring summary with commas. Enter a maximum of four elements. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
 
-Percussion (Percussão)
+Use terms from the **Abbreviations** list. Write out any terms that are not contained in this list in full and in English.
 
--
+Enter groups of instruments in the following order:
 
-Keyboard instruments (Teclados)
+- Solo voices
+- Chorus
+- Solo instruments
+- Strings
+- Woodwinds
+- Brass
+- Plucked instruments
+- Percussion
+- Keyboard instruments
+- Basso continuo
 
--
+When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Use **V** to indicate an unknown vocal part and **i** for an unknown instrument. Also use **V** to group together several different vocal parts, such as **V (8)**. Indicate an unknown number with **(X)**.
 
-Basso continuo (Baixo Contínuo)
+Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 
-Quando mais de uma parte da mesma voz ou instrumento é indicada, coloque o número entre parênteses depois da designação da parte, como em **B (2)**. Use **V** para indicar uma parte vocal desconhecida e **i** para indicar um instrumento desconhecido. Também use **V** para agrupar várias partes vocais diferentes, como em **V (8)**. Indique um número desconhecido como **(X)**.
+In the case of arrangements, the scoring summary refers to the personnel required in the present source, not in the work on which an arrangement is based. If the instrumentation of the original work is known, specify it in the field **General note (500)**. In the case of a **Collection**, only use the field if the particular scoring is applicable to all the works contained in the collection.
 
-Especifique instrumentos solistas somente se eles têm uma função contínua de solistas em relação a uma orquestra, especialmente em um concerto solo. Não liste aqui uma parte se ela tem apenas passagens solistas ocasionais, como um solo de oboé em uma seção de cantata.
+This field may be repeated in cases where alternative instrumentation is suggested, such as a song that is for either soprano or tenor. In such cases, enter each possible instrumentation in a separate field: for example, **S, pf** on one line and **T, pf** on the next.
 
-No caso de arranjos, a síntese da formação indica a formação exigida na fonte presente, não na obra original em que o arranjo se baseou. Se a instrumentação da obra original é conhecida, especifique-a no campo **Nota geral (500)**. No caso de uma **Coletânea**, somente utilize este campo se a formação instrumental particular é aplicável a todas as obras contidas na coletânea.
+If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
-Este campo pode ser repetido nos casos em que uma instrumentação alternativa é sugerida, tal como em uma canção escrita tanto para soprano como para tenor. Nestes casos, insira cada instrumentação possível em um campo separado: por exemplo, **S**, **pf** em uma linha e **T**, **pf** na próxima.
+Omit the scoring summary if the performing forces are unknown or uncertain.
 
-Caso trate-se de um baixo contínuo, insira o instrumento da forma usual, tal como b, bc, org, etc. (mas veja as tabelas na seção **Baixo contínuo em partituras e/ou partes** para orientação sobre os campos relacionados).
+##### Examples
+- A, Coro, orch
+- Bariton, pf
+- V (3), strings, bc
+- V (4), Coro, orch, org   _for a mass_
+- cl, orch _for a clarinet concerto_
 
-Omita a síntese da formação se as forças de performance são desconhecidas ou imprecisas.
-
-##### Exemplos  
-A, Coro, orch  
-Bariton, pf  
-V (3), strings, bc  
-V (4), Coro, orch, org   _para uma missa_  
-cl, orch  _para um concerto de clarinete_
-
-Por favor, utilize os seguintes padrões de instrumentação, quando aplicáveis:
+Please use the following standard instrumentation when applicable.
 
 String quartet
-
 - vl (2), vla, vlc
 
 String quintet (2 violas)
-
 - vl (2), vla (2), vlc
 
 String quintet (2 cellos)
-
 - vl (2), vla, vlc (2)
 
-String quintet (com baixo)
-
+String quintet (with double bass)
 - vl (2), vla, vlc, cb
 
 Piano trio
-
 - vl, vlc, pf
 
-Wind quintet        
-
+Wind quintet
 - fl, ob, cl, cor, fag
 
-Flute quartet (todos flautas)
-
+Flute quartet (all flutes)
 - fl (4)
 
-Flute quartet (flauta com cordas)
-
+Flute quartet (flute with strings)
 - fl, vl, vla, vlc
+
+_MARC note: In records without a composer in the field 100 $a, the field 240 is exported as 130._

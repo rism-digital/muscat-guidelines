@@ -1,8 +1,9 @@
-### Kod uwierzytelniający (042)
+### Authentication code (042)
 
-#### Kod uwierzytelniający (042 $a)
-Pole to określa, czy wpis został już zróżnicowany przez biuro centralne RISM. Wpisy zróżnicowane odnoszą się do konkretnej osoby, a niezróżnicowane nie mogą być (jeszcze) powiązane z konkretną osobą.  
+#### Authentication code (042 $a)
 
-Dostępne są kody:    
-- zróżnicowane
-- niezróżnicowany
+Differentiated entries refer to a concrete person and undifferentiated entries cannot (yet) be connected to an individual.
+
+Available codes are:
+- differentiated
+- undifferentiated

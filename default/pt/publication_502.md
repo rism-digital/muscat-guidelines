@@ -1,8 +1,10 @@
-### Nota de dissertação (502)
+### Dissertation note (502)
 
-#### Nota de dissertação (502 $a)
-Se o item é uma dissertação, inclua o tipo de grau, instituição e ano.
+#### Dissertation note (502 $a)
 
-##### Exemplos  
-- Ph.D. diss., University College, London 1998  
+If the item is a doctoral dissertation, include the type of degree, institution, and year.
+
+##### Examples
+
+- Ph.D. diss., University College, London 1998
 - Diss., Freie Universität, Berlin 2002

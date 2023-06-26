@@ -1,4 +1,5 @@
-### Nota general (680)
+### General note (680)
 
 #### Nota general (680 $a)
-Introduzca cualquier tipo de comentario general sobre la persona en cuestión. Estos comentarios serán publicados.
+
+Introduzca cualquier tipo de comentario general sobre la persona en cuestión. Estos comentarios serán publicados.  

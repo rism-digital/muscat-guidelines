@@ -1,5 +1,7 @@
-### Nota interna (667; ISDIAH 5.6.9)
-Questo capo documenta informazioni aggiuntive relative alla creazione e ai cambiamenti nella descrizione.
+### Internal notes (667; ISDIAH 5.6.9)
 
-#### Nota interna (667)
-Inserisci note concernenti la creazione e la manutenzione della scheda descrittiva. Ad esempio, possono essere inseriti qui i nomi delle persone responsabili per la creazione e/o la revisione della descrizione.
+This field documents additional information relating to the creation of and changes to the description. Internal notes are not published in the RISM catalogs or available in the RISM open data.
+
+#### Internal notes (667)
+
+Enter notes pertinent to the creation and maintenance of the description. For example, the names of persons responsible for creating and/or revising the description may be entered here.

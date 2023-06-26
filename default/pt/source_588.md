@@ -1,19 +1,30 @@
-### Nota sobre a fonte da descrição (588)  
+### Source of description note (588)
 
-Este campo especifica qual item físico foi consultado para catalogar uma edição impressa (tanto para novos registros, como para registros aprimorados).  
+This field specifies which physical item was consulted for cataloging a printed edition.
 
-#### Exemplar examinado para catalogação (588 $a)
-Insira a sigla da instituição e o código ou número de chamada da edição impressa consultada. Pode-se também indicar se foi utilizado um exemplar apenas para uma parte do registro, tal como em incipits ou entradas individuais.
+#### Copy examined for cataloging (588 $a)
 
-##### Exemplos
+Enter the library siglum and shelfmark of the printed edition consulted. You can also indicate if you used a copy for only a portion of the record, such as incipits or individual entries.
+
+##### Examples
 
 - CZ-Nlob X A a 12
 - (incipits:) US-BETm LCM 242
 
-Caso se utilize uma fonte secundária como base para o registro, deve-se preencher este campo como de costume, mas especificar a fonte secundária em uma **Nota geral (500)** e vinculá-la como um catálogo de obras ou referência bibliográfica.
+If you use a secondary source as a basis for the record, fill out this field as usual but specify the secondary source in a **General note (500)** and link to it as a catalog of works or bibliographic reference.
 
-_Exemplo:_
+##### Example
 
-- **Exemplar examinado para catalogação(588)**: GB-Lbl h.11.a.(1.)
-- **Nota geral (500)**: Registro baseado em YouV usando a descrição do exemplar em GB-Lbl, cota h.11.a.(1.).
-- **Catálogo de obras**: YouV 2
+- **Copy examined for cataloging (588)**: GB-Lbl h.11.a.(1.)
+- **General note (500)**: Record based on YouV using the description of the copy in GB-Lbl, shelfmark h.11.a.(1.).
+- **Catalog of works (690)**: YouV 2
+
+#### Using incomplete copies
+
+If your material is incomplete, add "(incomplete)" after your siglum and shelfmark, and include a **General note (500)** so it is clear to future readers that the record contains only partial information. Other cataloging-related information can be put in an **Internal note (599)** so that future holding libraries know what parts of the record can still be enhanced.
+
+##### Example
+
+**Copy examined for cataloging (588)**: GB-Lbl 123 (incomplete)
+- **General note (500)**: Record based incomplete copy in GB-Lbl 123. Vl 1 part missing.
+- **Internal note (599)**: Note to future libraries: record created based on incomplete copy; please check the extent of the vl 1 part and modify record accordingly.  

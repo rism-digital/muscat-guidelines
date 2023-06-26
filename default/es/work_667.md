@@ -1,2 +1,5 @@
-### Nota interna (667 $a)
-Use este campo para registrar notas locales para uso interno, tanto personal como en el marco de su grupo de trabajo. Las mismas pueden estar escritas en cualquier idioma y no se publican en el catálogo público _online_. Puede usarlas para realizar observaciones de todo tipo, tales como preguntas, comentarios o indagaciones a realizar. Elimine las notas después de que hayan cumplido su propósito. Es una buena práctica firmar cada nota con sus iniciales y la fecha.
+### Internal note (667)
+
+#### Nota interna (667 $a)
+
+Use este campo para registrar notas locales para uso interno, tanto personal como en el marco de su grupo de trabajo. Any language may be entered here. Internal notes are not published in the RISM catalogs or available in the RISM open data. Local notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Elimine las notas después de que hayan cumplido su propósito. It is best practice to sign your note using your initials and the date.

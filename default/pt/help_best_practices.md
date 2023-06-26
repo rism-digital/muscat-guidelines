@@ -1,19 +1,35 @@
-### Boas práticas no RISM
+### RISM Best Practices
 
-#### 1. Campos de texto livre e campos indexados
-Ao mencionar uma pessoa ou instituição no registro/registo (como em um campo de notas), deve-se também inserir o nome nos campos indexados **Nome de pessoa adicional (700)** ou **Instituição adicional (710)**.
+This section outlines best practices when cataloging for RISM; that is, conventions that are not codified in the guidelines but nevertheless contribute to sound, reliable, and transparent records.
 
-O mesmo se aplica ao citar literatura secundária: ao mencionar uma publicação em um campo de notas, deve-se também inseri-la no campo **Referência bibliográfica (691)**.
+#### 1. Free text fields and indexed fields
 
-#### 2. Citando literatura secundária
-Informação que não é encontrada na fonte pode ser incluída no registro/registo RISM, mas uma Referência bibliográfica (691) deve ser adicionada. Por exemplo, se o compositor de um manuscrito é conhecido através de um livro, ou se o ano de publicação para um impresso é dado em um catálogo, a fonte da informação deve ser claramente informada através de uma nota (500) e de uma referência indexada (691).
+If you name a person or institution in your record (such as in a notes field), make sure to also enter the name in the indexed fields **Additional personal name (700)** or **Additional institution (710)**.
 
-#### 3. URLs e links para recursos externos
-Sempre usar permalinks ao criar links para música digitalizada, em particular para o campo **Recurso externo (856))**.  
+The same applies for citing secondary literature: if you refer to a publication in a notes field, make sure to also enter it in the field **Bibliographic reference (691)**.
 
-Ao criar um link para um sítio diferente, não insira o URL em um campo de notas. Ao invés disso, insira o recurso como uma referência bibliográfica inserindo-o na base de dados **Literatura secundária**. Então, faça um link para ele no campo **Referência bibliográfica (691)** e indique-o pelo seu título curto em um campo de notas. Isto fornece aos usuários acesso à informação bibliográfica completa e, se o URL muda, então basta apenas modificá-lo uma única vez no registro bibliográfico.
+#### 2. Citing secondary literature
 
-Para livros encontrados no Google Books ou em outros repositórios online, deve-se sempre criar, na base de dados **Literatura secundária**, um registro/registo bibliográfico para o livro, e não para o repositório; i.e. deve-se citar o livro e não o Google Books.
+Information that is not found on the source may be included in the RISM record but the secondary literature should be cited. For example, if the composer of a manuscript is known through a journal article, or if the publication year for a printed edition is given in a published study on the publisher, the source of the information should be made clear through a **General note (500)** and indexed in the field **Bibliographic reference (691)**.
 
-#### 4. Fazendo identificações
-Informações importantes, tais como nomes de compositores ou títulos de obras, não estão sempre mencionadas na fonte. Às vezes é possível fazer identificações com base em literatura secundária, fontes de referência, outros registros RISM, ou mesmo fontes de arquivo a que se tenha acesso. Quando se recorre a esses recursos, deve-se sempre deixar claro no registro/registo o recurso que foi utilizado para fazer a identificação: deve-se nomear o recurso em uma **Nota geral (500)** e adicionar uma **Referência bibliográfica (691)**, quando apropriado. Deve-se certificar de que estará claro para os usuários posteriores do RISM como se chegou às conclusões relativas às informações apresentadas.
+#### 3. URLs and links to external resources
+
+Always use permalinks, in particular when linking to digitized music in the field **External resource (856)**.
+
+If you want to link to a website, do not enter the URL in a notes field. Rather, enter the resource as a bibliographic reference. This is done by entering it in the **Secondary literature** database. Then, link to it in the field **Bibliographic reference (691)** and refer to it by its short title in a notes field. This provides users with access to complete bibliographic information, and if the URL changes then an update is only needed once through the Secondary literature database.
+
+For books found on Google Books or other online repositories, always create a bibliographic record in the **Secondary literature** database for the book itself and not the repository; that is, cite the book and not Google Books.
+
+If you wish to refer to a musical source that is digitized but not in RISM, please contact the RISM Editorial Center to discuss having the source added.
+
+#### 4. Making identifications
+
+Frequently, important information such as names of composers or titles of pieces is not always named on the source itself. It is sometimes possible to make identifications based on the secondary literature, reference sources, other RISM records, or even archival sources. If you draw upon such resources, always be clear in the record about what you used to make the identification: name the resource or RISM ID number in a **General note (500)** and add a **Bibliographic reference (691)** if appropriate. Make sure it is clear for later RISM users how you came to your conclusions. More detailed, explanatory information not relevant for the public can be included in an **Internal note (599)** if needed.
+
+#### 5. Creating records based on descriptions from printed catalogs or online library catalogs
+
+Sometimes it is not possible to access the source in person and the only description available is in a printed catalog, catalog of works, or online library catalog. Such descriptions may be used as the basis of a RISM record. When doing so:
+
+- Include a **General note (500)** that identifies the source of information, such as "Record based on description in YouV"
+- Link to the source of information in the field **Bibliographic reference (691)** or **External resource** (856) as appropriate
+- In the field **Record origin (980)**, subfield **Material examined**, select **Material not examined**

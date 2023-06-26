@@ -1,7 +1,11 @@
-### Impressão (260)
-Este campo é usado para todos os tipos de publicação, exceto para artigos/capítulos.  
+### Imprint (260)
 
-Insira as seguintes informações tal como dadas no item:
-- Local de publicação (260 $a)
-- Editor (260 $b)
-- Ano (260 $c)
+This field is used for all types of publications except for articles/chapters.
+
+Enter the following information as given on the item.
+
+#### Place of publication (260 $a)
+
+#### Publisher (260 $b)
+
+#### Year (260 $c)

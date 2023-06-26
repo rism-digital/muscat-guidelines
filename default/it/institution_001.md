@@ -1,2 +1,3 @@
-### Numero documento RISM (001)
-Questo campo riporta il numero di documento RISM per questa scheda. Il numero è generato automaticamente e non può essere modificato.
+### RISM ID number (001)
+
+This field is for the RISM ID number for this record. This number is automatically generated and cannot be changed.

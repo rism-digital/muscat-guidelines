@@ -1,4 +1,5 @@
-### Instytucja powiązana (710)
+### Related institution (710)
 
-#### Instytucja powiązana (710)
-W polu podaje się odsyłacze krzyżowe do innych bibliotek lub instytucji powiązanych z daną instytucją. Pole połączono linkiem z plikiem autorytatywnym **Instytucje**.
+#### Related institution (710)
+
+This field gives cross-references to other libraries or institutions that are related to the given institution. This field is linked to the **Institutions** authority file.

@@ -1,11 +1,11 @@
-# Modelli
+# Templates
 
-Muscat offre la possibilità di selezionare un modello, a seconda del tipo di fonte che va catalogata. Il modello offre solo i campi necessari per la fonte in oggetto.
+Muscat offers template for different sources. The template offers only those fields that are needed for the source in hand.
 
-### Copiare schede esistenti  
+**Copying existing records**
 
-In aggiunta alla selezione di diversi modelli, puoi copiare una scheda esistente. Questo si può fare in due modi.
+In addition to selecting different templates, you can copy an existing record. There are two ways to do this.
 
-Sulla schermata dei modelli: inserisci semplicemente il numero RISM nel campo “Crea da una fonte esistente”. Vedrai così una copia della scheda in modalità di redazione e da qui potrai apportare alla scheda ogni cambiamento necessario. Alla scheda copiata verrà assegnato automaticamente un nuovo numero identificativo RISM al momento di salvare. 
+From the template selection screen: simply enter the RISM number in the field "Create from existing source." You will then see a copy of the record in the editing mode and from there you can make any changes to the record that you need. The copied record will automatically receive a new RISM ID number upon saving.
 
-In alternativa, puoi copiare una scheda nella modalità di visualizzazione cliccando sul bottone “Duplica” nella barra laterale a destra.
+Alternately, you can copy a record in the viewing mode by clicking on the "Duplicate" button in the sidebar on the right.

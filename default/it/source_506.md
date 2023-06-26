@@ -1,7 +1,10 @@
-#### Restrizioni all’accesso (506 $a) 
+### Access restrictions (506)
 
-Puoi inserire qui le condizioni dell’istituzione proprietaria della fonte. Inserisci i dati usando la tua lingua di catalogazione. 
+#### Access restrictions (506 $a)
 
-##### Esempi  
-Consultazione nella sala di lettura.  
-Riproduzioni su richiesta (secondo i casi a pagamento).
+Terms and conditions of the holding institution can be entered here. Enter using your cataloging language.
+
+##### Examples
+
+- Consultation in the reading room.
+- Reproductions upon request (charges may apply).

@@ -1,277 +1,339 @@
 ### Incipit (031)
-Incipits ajudam a identificar obras e facilitam a comparação de fontes. A melhor prática para música instrumental é incluir incipits de uma parte aguda e de uma parte grave, como vl 1 e baixo. Para música vocal, inclua incipits da parte vocal mais aguda e do primeiro violino ou da parte instrumental mais aguda. Escreva os instrumentos transpositores na altura real.  
 
-Se a notação necessária não estiver disponível através do _Plaine & Easie code_ (ver abaixo), transcreva a música da melhor forma possível e inclua uma nota explicativa. Pode-se anexar uma imagem do incipit a partir da fonte para maior clareza.
+Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the highest voice and the first violin or the highest instrumental part. Notate transposing instruments at sounding pitch.
 
-#### Número de obra, número de movimento, número de incipit (031 $a, b, c)
+If the notation you need is not available using the Plaine & Easie code, transcribe the music the best you can and include an explanatory note. You can attach an image of the incipit from the source for further clarification.
 
-**Campo obrigatório se qualquer campo nesta seção for utilizado.**
+Keep in mind that incipit transcription is primarily used for searching and identification, not for replicating the visual appearance of the score. The Plaine & Easie Code is an intentional simplification of Western notation and not all details can (or should) be encoded.
 
-O número de incipit consiste de três dígitos, os quais representam obra, movimento e incipit. O primeiro dígito é sempre um 1. Movimentos se referem a seções significativas de uma obra, sejam elas tecnicamente movimentos (como em uma sinfonia) ou diferentes seções (como em uma ária). Para indicar que dois ou mais incipits soam simultaneamente (por exemplo, um vl 1 e um baixo), o primeiro e o segundo números de incipit devem ser iguais.
+For assistance with transcribing mensural notation, please see "Basic Mensural Notation Reference" by Ted Dumitrescu ([http://www.cmme.org/misc/refsheet.pdf](http://www.cmme.org/misc/refsheet.pdf))).
 
-Numere os incipits consecutivamente, mesmo se movimentos estiverem faltando na fonte. Por exemplo, se a fonte é uma sinfonia de três movimentos, mas o movimento intermediário está faltando, os incipits deverão ser numerados 1.1.1 e 1.2.1 (e não 1.3.1). (Nota: Os pontos entre os números são automaticamente adicionados pelo Muscat.)
+<!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
-##### Exemplos  
-1.1.1 = 1ª obra, 1º movimento, 1º incipit  
-1.1.2 = 1ª obra, 1º movimento, 2º incipit (soa ao mesmo tempo que 1.1.1)  
-1.1.2 = 1ª obra, 1º movimento, entrada da parte vocal  
-1.2.1 = 1ª obra, 2º movimento, 1º incipit
+#### Work number, movement number, incipit number (031 $a, b, c)
 
+**Required field if any field in this section is used.**
 
-#### Título do movimento, tempo (031 $d)
+The incipit number consists of three digits, which stand for work, movement, and incipit.
 
-Insira o título do movimento e o tempo ou indicações similares, se especificadas, tal como aparecem na fonte. Use | (a barra vertical) com um espaço simples antes e depois para indicar quebras de linha. Use colchetes para indicar suplementos ao original; todos estes acréscimos devem ser grafados consistentemente. Múltiplos títulos ou indicações adicionais de tempo podem ser adicionados em campos separados. No caso de inserir múltiplos incipits para os quais o título ou a indicação de tempo é o(a) mesmo(a), insira o título ou indicação de tempo somente no primeiro incipit musical.
+The first digit is always a 1. The work number refers to the position of the incipit in the record in question, not its position in the source as a whole. Works in RISM are cataloged in separate records using a parent/child hierarchy, so the each record only has one work.
 
+Movements refer to both the work as a whole but also significant sections of a work, whether they are technically movements (such as a symphony) or different sections (such as a recitative and aria). Movement numbers can be identical if multiple incipits are entered for the movement.
 
-#### Voz/instrumento (031 $m)
+The incipit number is embedded within the hierarchy of the movement or work. Identical movement numbers but different incipit numbers mean that the incipits sound simultaneously, such as a vl 1 and bass.
 
-Insira a parte vocal ou instrumental usando a lista de **abreviaturas de instrumentos do RISM**. Insira **V** para uma parte vocal não especificada. Insira **i** para uma parte instrumental não especificada. Escreva os instrumentos transpositores na altura real. Indique a afinação de um instrumento no campo **Nota geral**.
+##### Examples
 
-##### Exemplos  
-pf  
-T coro  
-org with text
+- 1.1.1 = 1st work, 1st movement, 1st incipit
+- 1.1.2 = 1st work, 1st movement, 2nd incipit (sounds at the same time as 1.1.1)
+- 1.2.1 = 1st work, 2nd movement, 1st incipit
+- 1.3.1 = 1st work, 3nd movement, 1st incipit
 
-#### Papel (031 $e)
+Periods between the numbers are automatically added by Muscat.
 
-Insira aqui o nome normalizado do papel dramático. Se preencher este campo, certifique-se de preencher também o campo **Papéis dramáticos identificados (595)**. Indique quaisquer acréscimos editoriais entre colchetes. Indique toda informação questionável com uma interrogação.
+The three-figure incipit number must be unique within a record. Number incipits consecutively and with respect to the record in question. The incipit number may not imply any comment on the position of the item in a source. Numbering within the source should be reflected in the title description, and any particularities can be explained in a note. This means that the incipit for the fourth song in a song collection will be 1.1.1, as with all songs in the collection.
 
-
-
-#### Incipit literário (031 $t)
-
-Um incipit literário consiste de algumas poucas das primeiras palavras da peça ou seção e pode ser a primeira linha, a primeira frase ou outro grupo de palavras que faça sentido linguístico. Incipits literários servem para identificar o texto usado e não precisam necessariamente corresponder ao tamanho da música apresentada no incipit musical. Incipits literários podem se incluídos independentemente se um incipit musical for inserido ou não. Por favor observe que regras separadas se aplicam a textos em Latim (ver abaixo).
-
-Incipits literários são dados de forma padronizada. Insira o incipits literário usando a grafia moderna. Consulte o índice **Título/Incipits literários** para ajuda na padronização de seu texto. Insira novos incipits literários se eles não estiverem no índice.
-
-Não coloque partes do texto entre parênteses para adicionar palavras que faltem. Omita marcações de pontuação e repetições no texto. Acentos só devem ser usados tal como aparecem em dicionário ou se eles são gramaticalmente corretos. Escreva os números em começos de textos por extenso, como palavras. Letras maiúsculas e minúsculas seguem as regras da língua respectiva, exceto no caso de designações para Deus (God, Herr, Dio, Dieu, Signore, Lord, etc.) que sempre iniciam com maiúscula. Se o incipit literário é utilizado como o título uniforme (240), certifique-se de que o tamanho e a grafia sejam exatamente iguais.
-
-Omita o texto inteiramente caso não seja possível lê-lo e adicione uma nota dizendo “Texto ilegível” ou similar.
-
-Em línguas de Romance [Romance languages], continue o texto diretamente depois de um apóstrofo e sem um espaço. Uma exceção a essa regra é quando a primeira letra de uma palavra está substituída por um apóstrofo (por exemplo: Fra l'amante e 'l genitor).
-
-Textos confirmados ou derivados que não aparecem na fontes podem ser informados aqui. Nestes casos, insira o texto inteiro entre colchetes. Entre estes estão:
-
-·        Textos de uma parte vocal perdida  
-·        Texto dos incipits literários na língua original de uma obra quando a fonte contém uma versão traduzida  
-·        Textos de composições vocais que se tornaram o tema de uma variação ou a base de um arranjo instrumental
-
-**Caracteres não-latinos**: Se a sua fonte tem um incipit literário que usa letras ou caracteres não-latinos (alfabeto cirílico/grego/hebraico/coreano etc., caracteres chineses, etc.) insira o **Incipit literário** utilizando a letra original. Traduções ou transliterações são opcionais e podem ser acrescidas em campos adicionais de incipit literário. Adicione tradução que não esteja na fonte entre parênteses. Pode-se traduzir para qualquer um dos idiomas RISM.
-
-**Regras Especiais para textos em Latim**: Insira texto em latim, tanto sacros como seculares. O campo é ligado ao arquivo **Título/Incipits literários**. Dentro do arquivo **Título/Incipits literários**, um termo precedido pelo indicador **t** significa que pode-se obter informação sobre o exato contexto litúrgico, versões variantes e outros assuntos. Se o incipit literário é usado como título uniforme, certifique-se de que a grafia é idêntica, mas lembre-se de que o texto latino em títulos uniformes só é inserido até a vírgula. Use colchetes para inserir textos latinos que não estão nomeados na fonte, mas foram determinados através de pesquisa.
-
-Textos em latim padronizados geralmente correspondem aos textos do _Liber usualis_. No RISM, estes textos usualmente contém uma vírgula. Por exemplo, quando se procura pelo texto “Et in terra pax”, encontram-se cerca de uma dúzia de opções, mas apenas uma tem uma vírgula e esta fonte é utilizada 4.800 vezes na base de dados. Portanto é esta que queremos – presumindo que ela esteja de acordo com a sua fonte. Se o seu incipit literário é somente “Et in terra pax” então isto significa que sua fonte (1) contém somente estas palavras ou (2) continua de uma maneira diferente do _Liber usualis_. É claro que isso é possível, mas na maioria dos casos precisa-se da versão com a vírgula.
-
-**O seguinte se aplica a dados importados:** Informação do campo **Texto (740 $a)**, se usado, deve ser repetida aqui.
-
-#### Tonalidade ou modo (031 $r)
-
-Selecione a tonalidade ou modo na lista.
-
-#### Armadura de clave (031 $n)
-
-Insira **x** para tonalidades em sustenido ou **b** para tonalidades em bemóis, seguidas de letras maiúsculas das notas a serem alteradas para cima ou para baixo. Se uma peça está claramente em uma certa tonalidade mas um sustenido ou bemol não está na armadura de clave, os sustenidos ou bemóis omitidos podem ser adicionados entre colchetes. Se não há armadura de clave, deixe o campo em branco.
-
-##### Exemplos  
-xF = Fá sustenido = Sol maior ou Mi menor  
-bBE = Si e Mi bemóis = Si bemol maior ou Sol menor  
-xFC[G] = Fá e Dó são sustenidos na fonte, mas a peça é claramente em Lá maior, então o último sustenido é adicionado entre colchetes
-
-#### Compasso (031 $o)  
-
-Insira os compassos como frações. As seguintes expressões também são permitidas:
-
-**c** = tempo comum ou tempus imperfectum cum prolatione imperfecta  
-**c/** = alla breve  
-**3** = proportio tripla; também **1**, **2**, etc.  
-**c3** = proportio tripla  
-**c3/2  
-c.** = tempus imperfectum cum prolatione perfecta  
-**o** = tempus perfectum cum prolatione imperfecta  
-**o/** = tempus perfectum cum prolatione minore diminutum  
-**o.**  = tempo perfeito, tempus perfectum cum prolatione perfecta
-
-Se o metro muda constantemente, pode-se escrever a primeira fórmula de compasso seguida pela segunda, separada por um espaço. Se o incipit está sem indicação de compasso, deixe este campo em branco.
-
-##### Exemplos  
-4/4  
-6/8  
-3/4 4/4
-
-Se a indicação de compasso na fonte é obviamente errada, por favor corrija-a para que corresponda ao incipit fornecido. Inclua uma nota explicativa no campo **Nota geral**.
+ Consecutive numbering must be followed even if content is missing from the source. For example, if one song is missing from a collection of six songs, the work number of each incipit will still start with a 1. If the source is a three-movement symphony but the middle movement is missing, the incipits will be numbered 1.1.1 and 1.2.1 (not 1.3.1).
 
 
 
-#### Clave (031 $g)
-
-Selecione uma clave na lista. A letra indica o tipo de clave. Um hífen significa notação moderna. Um sinal de mais significa notação mensural. O número se refere à posição no pentagrama.
-
-#### Validade (031 $s)
-Não insira nada neste campo! (Ele é usado somente para dados antigos)    
 
 
+#### Title of movement, tempo (031 $d)
 
-#### Incipit musical  (031 $p)
+Enter the title of the movement and tempo or similar indications, if specified, as it appears on the source. Use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Use square brackets to indicate supplements to the original; any such additions should be spelled consistently. Multiple titles or additional tempo markings can be added in separate fields. If you are entering multiple incipits for which the title or tempo indication is the same, enter it only for the first music incipit.
 
-Insira o incipit musical em forma codificada usando o _Plaine & Easie code_ (ver também [https://www.iaml.info/plaine-easie-code](https://www.iaml.info/plaine-easie-code)). O incipit deve ter pelo menos dois compassos ou seis notas de comprimento.
+#### Voice/instrument (031 $m)
 
-**1. Oitavas**  
-' = na primeira oitava acima do Dó central  
-'' = na segunda oitava acima do Dó central  
-''' = na terceira oitava acima do Dó central  
-, = na primeira oitava abaixo do Dó central  
-,, = na segunda oitava abaixo do Dó central  
-,,, = na terceira oitava abaixo do Dó central
+Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Indicate the tuning of an instrument in the **General note** field.
 
-**2. Valores rítmicos**  
+##### Examples
+
+- pf
+- T coro
+- org with text
+
+#### Role (031 $e)
+
+Enter the standardized dramatic role name here. If you fill out this field, make sure to also fill out the field **Dramatic role named (595)**. Indicate any editorial additions with square brackets. Indicate any questionable information with a question mark.
+
+#### Text incipit (031 $t)
+
+A text incipit consists of the first few words of the piece or section and can be the first line, first phrase, or other group of words that make linguistic sense. Text incipits serve to identify the text used and do not necessarily need to match the length of music given in the music incipit. Text incipits can be included regardless of whether a music incipit is entered. Please note that separate rules apply to texts in Latin (see below).
+
+Text incipits are given in standardized form. Enter the text incipit using modern spelling. Refer to the index **Title/text incipits** to help standardize your entry. Enter new incipits if they are not in the index.
+
+Do not put portions of the text in square brackets or supply missing words. Omit punctuation marks and repetitions in the text.
+
+Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at the beginnings of texts as words. Upper and lower case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. If the text incipit is used as the standardized title (240), make sure that the length and spelling agree exactly.
+
+Omit the text entirely if you cannot read it and add a note saying "Text illegible" or similar.
+
+In Romance languages, continue the text directly after an apostrophe and without a space. An exception to this rule is when the first letter of a word is replaced by an apostrophe (for example: Fra l'amante e 'l genitor).
+
+Ascertained or derived texts that do not appear on the source can be given here. In such cases, put the entire text in square brackets. Among these texts are:
+
+- Texts if a vocal part is missing
+- Text incipits in the original language of the work when the source contains a translated version
+- Texts of vocal compositions which became the theme of a variation or the basis of an instrumental arrangement
+
+**Non-Latin scripts:** If your source has a text incipit that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Text incipit** using the original script. Translations or transliterations are optional and may be added in additional text incipit fields. Add translations not on the source in square brackets. You may translate into any of the RISM languages.
+
+**Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file **Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. If the text incipit is used as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have been determined by research.
+
+Standard Latin texts usually match the texts in the _Liber usualis_. In RISM, these texts usually contain a comma. For example, when you search for the text "Et in terra pax", you will see about a dozen options, but only 1 has a comma and this source is used 4,800 times in the database. Therefore it is the one we want – presuming this matches your source. If your text incipit is only "Et in terra pax" then this means your source (1) contains only these words or (2) continues in a way that is different from the _Liber usualis_. This is of course possible, but in most cases you want the version with the comma.
+
+#### Key or mode (031 $r)
+
+Select the key or mode of the incipit from the list.
+
+**Obsolete procedures**: Older RISM cataloging guidelines allowed multiple key signatures to be entered in this field, separated by a semicolon. This practice was discontinued with the introduction of Muscat.
+
+#### Key signature (031 $n)
+
+Enter **x** for sharp keys or **b** for flat keys, followed by capital letters of the pitches to be raised or lowered. If a piece is clearly in a certain key but a sharp or flat is not in the key signature, the missing sharps or flats may be added in square brackets.
+
+If there is no key signature, leave the field blank.
+
+If there are multiple key signatures (such as if a movement changes frequently from major to minor and back again), enter the key signature of the incipit in question add an explanation in the field **General note (031 $q).**
+
+##### Examples
+
+- xF = F is sharp = G major or E minor
+- bBE = B and E are flat = B-flat major or G minor
+- xFC[G] = F and C are sharp in the source but the piece is clearly in A major, so the last sharp is added in square brackets
+
+#### Time signature (031 $o)
+
+Enter time signatures as fractions. The following are also allowed:
+
+- **c** = common time or tempus imperfectum cum prolatione imperfecta
+- **c/** = cut time, alla breve
+- **3** = proportio tripla; also **1**, **2**, etc.
+- **c3** = proportio tripla
+- **c3/2**
+- **c.** = tempus imperfectum cum prolatione perfecta
+- **o** = tempus perfectum cum prolatione imperfecta
+- **o/** = tempus perfectum cum prolatione minore diminutum
+- **o.**  = perfect time, tempus perfectum cum prolatione perfecta
+
+If the meter changes constantly, you can write the first time signature followed by the second, separated by a space.
+
+If the incipit is without a time signature, add one and also add an explanation in the field **General note (031 $q)** such as "Time signature added." Do not put the inferred time signature in square brackets.
+
+##### Examples
+
+- 4/4
+- 6/8
+- 3/4 4/4
+
+If the time signature in the source is obviously wrong, please correct it to match the incipit given. Include an explanatory note in the field **General note**.
+
+#### Clef (031 $g)
+
+Select a clef from the list. The letter indicates the kind of clef. A hyphen means modern notation. A plus sign means mensural notation. The number refers to position on the staff line.
+
+If no clef is on the source, select one from the list and include an explanatory note in the field **General note (031 $q).**
+
+#### Validity (031 $s)
+
+Do not enter anything into this field! (It is only used for old data.)
+
+#### Music incipit (031 $p)
+
+Enter the music incipit in encoded form using the Plaine & Easie code (see also [https://www.iaml.info/plaine-easie-code](https://www.iaml.info/plaine-easie-code)). The incipit should be at least two bars (measures) or six notes long.
+
+##### 1. Octaves
+' = in the 1st octave above middle C  
+'' = in the 2nd octave above middle C  
+''' = in the 3rd octave above middle C  
+, = in the 1st octave below middle C  
+,, = in the 2nd octave below middle C  
+,,, = in the 3rd octave below middle C
+
+##### 2. Rhythmic values
+
 0 = longa  
 9 = breve  
 1 = whole note / semibreve  
-2 = half note / mínima  
-4 = quarter note / crotchet / semínima  
-8 = eighth note / quaver / colcheia  
-6 = 16th note / semiquaver / semicolcheia   
-3 = 32nd note / demisemiquaver / fusa  
-5 = 64th note / hemidemisemiquaver / semifusa  
-7 = 128th note / semihemidemisemiquaver / quartifusa  
-7. = notação neumática
+2 = half note / minim  
+4 = quarter note / crotchet / semiminim  
+8 = eighth note / quaver / fusa  
+6 = 16th note / semiquaver / semi fusa   
+3 = 32nd note / demisemiquaver  
+5 = 64th note / hemidemisemiquaver  
+7 = 128th note / semihemidemisemiquaver  
+7\. = neumatic notation
 
-Pontos são usados para indicar notas pontuadas. Múltiplos pontos podem ser acrescidos a uma nota.  
-4. = dotted quarter note / dotted crotchet / semínima pontuada  
-8.. = double dotted eighth note / double dotted quaver / colcheia com dois pontos
+Periods are used for dotted notes. Multiple periods can be added to a note.
 
-**3. Acidentes**  
-x = sustenido  
-xx = duplo sustenido  
-b = bemol  
-bb = duplo bemol  
+4\. = dotted quarter note / dotted crotchet   
+8.. = double dotted eighth note / double dotted quaver
+
+##### 3. Accidentals
+
+x = sharp  
+xx = double sharp  
+b = flat  
+bb = double flat  
 n = natural
 
-**4. Nomes das notas**  
+##### 4. Note names
+
 C, D, E, F, G, A, B
 
-**5. Ornamentos**   
-g = acciaccatura (sem valor rítmico, precede o nome da nota)  
-q = appoggiatura (com valor rítmico, precede o nome da nota)  
-qq...r = várias appoggiaturas ou ornamentos que formam uma unidade (com valor rítmico)
+##### 5. Grace notes and ornaments
 
-**6. Pausas**
+g = acciaccatura (without rhythmic value, precedes the note name)  
+q = appoggiatura (with rhythmic value, precedes the note name)  
+qq...r = several appoggiaturas or ornaments which belong together (with rhythmic value)
 
-O '-' (sinal de menos) é para uma pausa equivalente a uma única nota. Use '=' (sinal de igual) para uma pausa de compasso inteiro. Para pausa de múltiplos compassos, adicione em seguida ao = o número de compassos. Uma barra de compasso deve ser adicionada para que a pausa múltipla seja exibida.
+##### 6. Rests
 
-_Exemplo para uma pausa de colcheia:_  
-8-   
+The '-' (minus sign) is for a single-note rest. Use '=' (equal sign) for a measure rest. For multiple measures of rest, follow the = with the number of measures. A bar line must be added for it to display.
+- Eighth-note rest
+ - 8-
+- One measure of rest
+ - -
+ - =1
+- Multiple measures of rest
+ - =35
 
-_Exemplos para uma pausa de um compasso:_  
-=  
-=1
+##### 7. Bar lines
 
-_Exemplos para pausa de múltiplos compassos:_  
-=35
+/ = bar line  
+// = double bar line  
+//: = double bar line with repeat  
+:// = double bar line with repeat  
+://: = double bar line with repeat
 
-**7. Barras de compasso**  
-/ = barra de compasso  
-// = barra dupla   
-//: = barra dupla com repetição  
-:// = barra dupla com repetição  
-://: = barra dupla com repetição
+##### 8. Other symbols
 
-**8. Outros símbolos**  
-t = trinado (imediatamente em seguida à nota)  
-+ = ligadura de prolongamento (imediatamente em seguida à nota; não se deve confundir com uma ligadura de expressão)   
-() = fermata/suspensão/pausa (somente uma nota ou pausa individual pode ser colocada entre parênteses; acidentes, indicações de altura, etc. devem estar fora dos parênteses; ver também **10. Ritmos especiais**, abaixo)
+t = trill (immediately follows the note)
 
-Não insira ligaduras de expressão.
++ = tie (immediately follows the note; not to be confused with a slur)  
+  () = fermata/hold/pause (only a single note letter name or a single rest can be bracketed; accidentals, pitch indications, etc. must be outside the parentheses; see also **10. Special rhythms**, below)
 
-**9. União de bandeirolas**  
-{ = início da união de bandeirolas  
-} = fim da união de bandeirolas  
+Do not enter slurs.
 
-_Exemplo:_  
+##### 9. Beaming
+
+{ = beginning of beaming  
+} = end of beaming
+
+###### Example
+
 {qq6'CDEDr}
 
-**10. Ritmos especiais:**  
-( = início do ritmo especial  
-) = fim do ritmo especial  
+##### 10. Special rhythms
 
-O valor da duração total do grupo deve ser escrito antes do parêntese de abertura **(**. O valor rítmico da primeira nota deve ser colocado depois do parêntese de abertura **(**, mesmo se é idêntico ao da nota imediatamente anterior à seção do ritmo especial. O número de notas no interior do grupo deve ser indicado antes do parêntese de fechamento **)**. Ele é separado da última nota por um ponto e vírgula **;**.
+( = beginning of special rhythm  
+) = end of special rhythm
 
-##### Exemplos  
-8(3ABCDE;5)   = quiáltera de cinco, com cinco fusas, no espaço de uma colcheia  
-8({3ABCDE};5) = quiáltera de cinco, com cinco fusas, no espaço de uma colcheia, bandeirolas unidas  
+The total duration value of the group must be written before the **(**. The rhythmic value of the first note must be given after **(**, even if it is identical with that of the note immediately before the section of special rhythm. The number of notes in the group must be indicated before **)**. It is separated from the last note by **;**.
 
-A trêsquiáltera é um caso especial. Estritamente falando, deve ser codificada assim:  
-8(6ABC;3) ou 8({6ABC};3).  
-Embora também seja permitida a seguinte indicação abreviada:  
+###### Examples
+
+- 8(3ABCDE;5)   = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note.
+- 8({3ABCDE};5) = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note, beamed
+
+The triplet is a special case. Strictly speaking, it should be encoded as:  
+8(6ABC;3) or 8({6ABC};3).  
+Instead though, the following shortcut is permitted:  
 (6ABC)  
 ({6ABC})
 
-Por favor, não se esqueça do valor rítmico no interior dos parênteses!
+Please do not forget the rhythmic value within the bracket!
 
-**11. Atalhos**  
-**Nota:** Atualmente, a busca pelo OPAC ignora os elementos repetidos descritos em 11.1 e 11.2. Isto significa que quando se utilizam estes atalhos os incipits não serão totalmente recuperáveis pelo OPAC. Até que isto seja corrigido, por favor escreva o incipit integralmente (o atalho 11.3 pode ser utilizado tal como descrito abaixo)  
+##### 11. Shortcuts
 
-11.1. Figuras repetidas  
-! = Início e final de uma passagem a ser repetida  
-f = indicação de repetição  
-A figura será repetida tantas vezes quantas o f estiver repetido após o segundo “!”. Isso só é possível no interior de um compasso.
+**Note:** Currently, the OPAC search ignores the repeated elements described in 11.1 and 11.2. This means that if you use those shortcuts, your incipits will not be fully searchable by the OPAC. Until this is fixed, please write out the incipit in full. (Shortcut 11.3 may be used as described.)
 
-_Exemplo:_  
-!{'8ABAG}!ff = esta figura será repetida duas vezes
+###### 11.1. Repeated figures
 
-11.2. Compassos repetidos  
-i = repetir o último compasso  
-'i' sempre vai entre duas barras de compasso.
+! = beginning and end of passage  
+f = repeat indication   
+The figure will be repeated as often as **f** is repeated after the second **!**. This is only possible within a bar.
 
-_Exemplo:_  
-'4ABAG/i/i/ = o compasso será repetido duas vezes
+###### Example
+
+- !{'8ABAG}!ff = this figure will be repeated twice
+
+###### 11.2. Repeated bars
+
+i = repeat last bar  
+'i' always goes between two bar lines.
+
+###### Example
+
+- '4ABAG/i/i/ = the bar will be repeated twice
+
+###### 11.3. Rhythmic patterns
+
+When a certain rhythmic sequence is repeated several times, the rhythmic pattern can be given before the respective note letter names.
+
+###### Example
+
+- Instead of **8.A6B8C8.D6E8F** the code can be **8.68ABCDEF**
+- The rhythmic sequence ends as soon a different rhythmic value occurs.
+
+##### 12. Change of clef
+
+If the clef changes within the music incipit, use **%** to change the clef. Follow this with the new clef and a space.
+
+###### Examples
+
+- %C-1 '2A
+- %C-1 $xFC '8B
+
+##### 13. Change of key
+
+If the key changes within the music incipit, use **$** to change the key. Follow this with the new key signature and a space. A key signature can only be changed once per measure. You can cancel the previous key signature with $n or move directly to the new key signature.
+
+###### Examples
+
+- $nBE $xFC
+- $xFC
+
+##### 14. Change of time signature
+
+If the time signature changes within the music incipit, use **@** to change the time signature. Follow this with the new time signature and a space.
+
+###### Examples
+
+- @3/2 '1C
+
+##### 15. Abbreviations
+
+Abbreviated forms of notation found within the music, such as tremolos or simile signs for repeats, must be written out in full using the actual notation.
+
+###### Examples
+
+- {'8DDDD} = minim/ half tremolo on D
+
+##### 16. Chords
+
+Enter chords from the highest to the lowest note, separated by a **^**.
+
+###### Example
+
+- 4’’C^’G^E^C
+
+#### General note (031 $q)
+
+Add any other comments, such as the pitch of transposing instruments, mistakes in the incipit, the text incipit with the original spelling and/or punctuation, or any adjustments you had to make. Enter using your cataloging language.
+
+**Obsolete procedures**: Older RISM cataloging guidelines allowed the symbols **?**, **+**, and **t** to represent standardized remarks. This practice was discontinued with the introduction of Muscat. Do not use these symbols, but instead include an explanatory note in natural language. The symbols were the following:
+- **?** = Error in the incipit could not be corrected.
+- **+** = Error in the incipit has been corrected.
+- **t** = The incipit has been transcribed into modern notation.
 
 
+#### Scoring in movement (031 $z)
 
-11.3. Padrões rítmicos
+In this field, you can indicate the specific scoring for the particular movement in question (such as a movement within a complex vocal piece). List the scoring on one line using RISM instrument abbreviations and in the standard order (described in **Scoring summary [240 $m]**). Use a semicolon to separate instrument families.
 
-Quando uma dada sequência rítmica é repetida várias vezes, o padrão rítmico pode ser colocado antes das respectivas notas.
+##### Examples
 
-_Exemplo:_  
-Ao invés de **8.A6B8C8.D6E8F** a codificação pode ser **8.68ABCDEF**  
-A sequência rítmica termina assim que um valor rítmico diferente apareça.
-
-
-**12. Mudança de clave, tonalidade ou compasso:**
-
-Use **%** para mudar de clave, **$** para mudar a tonalidade ou modo, e **@** para mudar a indicação de compasso. Estes sinais devem ser seguidos da nova indicação (tempo, tonalidade ou clave), seguida por um espaço.
-
-##### Exemplos  
-%C-1 '2A  
-%C-1 $xFC '8B  
-@3/2 '1C  
-$nBE $xFC
-
-
-
-**13. Abreviaturas**   
-Formas abreviadas de notação encontradas no interior da música, tais como tremolos ou signos similares para repetições, devem ser escritas integralmente usando a notação moderna.   
-_Exemplo:_  
-{'8DDDD} = mínima, tremolo em Ré
-
-
-**14. Acordes**
-
-Insira os acordes da nota mais aguda para a mais grave, separadas por um acento circunflexo ^.  
-
-_Exemplo:_  
-4’’C^’G^E^C
-
-#### Nota geral (031 $q)
-
-Adicione quaisquer comentários, tais como a afinação de instrumentos transpositores, erros no incipit, o texto literário com a grafia e/ou pontuação original, ou quaisquer ajustes que tenha a fazer. Insira utilizando seu idioma de catalogação.
-
-
-
-#### Formação instrumental no movimento (031 $z)
-
-Neste campo, pode-se indicar a formação instrumental específica para o movimento particular em questão (tal como um movimento dentro de uma peça vocal complexa). Liste a formação instrumental em uma linha usando as abreviaturas de instrumentos do RISM e na ordem padronizada (descrita em **Síntese da formação instrumental [240 $m]**). Use um ponto e vírgula para separar famílias de instrumentos..
-
-##### Exemplos   
-S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]  
-S 2 solo; Coro; ob obl; strings, bc
+- S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]
+- S 2 solo; Coro; ob obl; strings, bc

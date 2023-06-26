@@ -1,4 +1,7 @@
-### Festa liturgica (747$a)
-Numero di registro RDA [rdax:P00011](http://www.rdaregistry.info/Elements/x/#P00011)
-  
-Inserisci le feste liturgiche per la composizione seguendo le regole per questo campo nelle schede bibliografiche per le **Fonti**.
+### Liturgical festival (747)
+
+RDA registry [rdax:P00011](http://www.rdaregistry.info/Elements/x/#P00011)
+
+#### Liturgical festival (747 $a)
+
+Enter liturgical festivals for the work following the guidelines for this field in Sources.

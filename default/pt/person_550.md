@@ -1,4 +1,5 @@
-### Profissão ou função (550)
+### Profession or function (550)
 
-#### Profissão ou função (550 $a)
-Insira, em inglês, a profissão ou função que a pessoa em questão exerce em conexão às fontes musicais.  
+#### Profession or function (550 $a)
+
+Enter, in English, the profession or function that the person in question plays in connection to musical sources.

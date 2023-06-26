@@ -1,8 +1,10 @@
-#### Festa liturgica (657 $a) 
+### Liturgical festival (657)
 
-Inserisci in questo campo il riferimento all’uso liturgico della composizione. Questo comprende feste liturgiche, festività, celebrazioni, stagioni, giornate e altre feste religiose. Il campo è collegato all’indice **Feste liturgiche**. Se cerchi una festa liturgica che non è ancora presente nell’indice, rivolgiti per favore al RISM Editorial Center. 
+#### Liturgical festival (657 $a)
+Enter references to the liturgical use of the composition in this field. This includes liturgical festivals, feasts, celebrations, seasons, days, and other religious holidays. The field is linked to the index **Liturgical festivals**. If you need a liturgical festival that isn't yet in the file, please contact the RISM Editorial Center.
 
-##### Esempi  
-Nativitas Domini  
-Mariae (B.V.) Visitatio  
-Single Sisters Covenant Day (Moravian Church)
+##### Examples
+
+- Nativitas Domini
+- Mariae (B.V.) Visitatio
+- Single Sisters Covenant Day (Moravian Church)

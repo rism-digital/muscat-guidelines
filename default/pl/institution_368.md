@@ -1,33 +1,42 @@
-### Typ instytucji (368; ISDIAH 5.1.5)  
-To pole rejestruje inne cechy osoby, osoby posiadającej zdolność prawną lub typ instytucji.  
+### Type of institution (368; ISDIAH 5.1.5)
 
-#### Typ instytucji (368 $a)
-W polu podaje się typ instytucji przechowującej zbiory archiwalne.
+This field records other attributes of person or corporate body or type of institution.
 
-Należy wybrać spośród następujących:
-- Archiwum
-- Księgarnia
-- Kopista
-- Nazwa firmy
-- Biblioteka
-- Centrum dokumentacji  
-- Muzeum
-- Instytut naukowy  
-- Producent papieru
-- Wykonawca
-- Drukarnia  
-- Wydawca
-- Inne
+#### Type of institution (368 $a)
 
-#### Typ jednostki geograficznej (368 $b)  
-Wprowadź typ jednostki geograficznej związanej z instytucją.  
+This field identifies the type of institution with archival holdings.
 
-##### Przykłady  
-- hrabstwo  
-- wieś  
+Select from the following types:
 
-#### Inne oznaczenie związane z hasłem (368 $c)  
-Podaj określenie, jeśli nie pojawiło się we wcześniejszych polach tej sekcji.  
+- Archive
+- Bookseller
+- Copyist
+- Congress
+- Documentation center
+- Institution
+- Library
+- Museum
+- Research institute
+- Papermaker
+- Performer
+- Printer
+- Publisher
+- Other
 
-#### Źródło dla zastosowanego terminu (368 $2)  
-Wprowadź źródło zastosowanych terminów.
+
+#### Type of jurisdiction (368 $b)
+
+Enter the type of jurisdiction associated with the institution.
+
+##### Examples
+-
+- County
+- Village
+
+#### Other designation (368 $c)
+
+Enter a designation here if not found in the previous fields in this section.
+
+#### Source (368 $2)
+
+Enter the source of the terms used.

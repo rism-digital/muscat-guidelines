@@ -1,4 +1,5 @@
-### Identyfikator numeru kontrolnego (003)
-**Nie zmieniać.**
+### Control number identifier (003)
 
-Pole służy do podania kodu instytucji, której systemowy numer kontrolny znajduje się w polu **Numeru identyfikacyjnego RISM (001)**.
+**Do not change.**
+
+This field is for the code of the agency whose system control number is contained in the field **RISM ID number (001)**.

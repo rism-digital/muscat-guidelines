@@ -1,7 +1,9 @@
-### Znajduje się teraz w (580)
+### Now in (580)
 
-#### Znajduje się teraz w (580)
-Podać siglum RISM biblioteki przechowującej.
+#### Now in (580 $x)
 
-##### Przykład  
-- D-KA
+If the holdings of an institution have been transferred to another institution, enter the name of the current holding institution here.
+
+##### Example
+
+- D-WÜd

@@ -1,2 +1,3 @@
 ### Leader (000)
-Nicht ändern.
+
+Do not change.

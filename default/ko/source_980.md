@@ -1,20 +1,26 @@
-### 자료 출처 (980)
+### Record origin (980)
 
-#### 출처 (980 $a)
-자료의 출처를 선택하세요:
+#### Origin (980 $a)
 
-- **외부(Import)**: 외부 데이터베이스에서 가져온 기록.
-- **후향 변환(Retrospective conversion)**: 인쇄 출판된 자료에서 나온 기록으로 컴퓨터 가독이 가능한 형태.
-- **리즘(RISM)**: RISM 데이터베이스에서 만들어진 기록. (초기설정)
+Select the origin of the record:
 
-#### 목록화 단계 (980 $b)
-목록화 단계를 선택하세요.    
-_자세한 사항은 아래를 참고하세요. _
-- **요약문(Brief)**
-- **전문(Full)**
-- **표준(Standard)**
+- **Import**: The record was imported from an external database
+- **Retrospective conversion**: The record originated in a hard-copy publication and was converted to a machine-readable form
+- **RISM**: The record was created in the RISM database (default)
 
-#### 자료 검열 (980 $c)
-당신이 목록화하면서 직접 자료를 검열했는지 여부를 표시하세요.  
-- **검열 자료**
-- **미검열 자료**: 목록에 설명을 사용하면서 레코드를 만들 때 사용할 수 있습니다.
+#### Cataloging level (980 $b)
+
+Select the cataloging level.
+
+_Details will follow._
+
+- **Brief**
+- **Standard**
+- **Full**
+
+#### Material examined (980 $c)
+
+Please indicate whether you directly examined the material as you were cataloging it.
+
+- **Material examined**
+- **Material not examined**: This can be used when the record was created using a description in a catalog.

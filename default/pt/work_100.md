@@ -1,30 +1,35 @@
-### Título (100)
-Este campo identifica a obra através de compositor, título e outra informação musical.
+### Heading (100)
+This field identifies the work through the composer, title, and other musical information.
 
-#### Compositor (100 $a)  
-#### Anos de nascimento e morte (100 $d)
-Registro RDA [rdaw:P10053](http://www.rdaregistry.info/Elements/w/datatype/#P10053)
+#### Composer (100 $a)
+#### Years of birth and death (100 $d)
 
-Insira o nome do compositor. Este campo é ligado ao registro de autoridade **Nomes de pessoas**. Novos nomes podem ser adicionados; em tal caso, inclua as datas de nascimento e morte, se conhecidas.
+RDA registry [rdaw:P10053](http://www.rdaregistry.info/Elements/w/datatype/#P10053)
 
-#### Síntese da formação (100 $m)  
-Registro RDA [rdae:P20215](http://www.rdaregistry.info/Elements/e/#P20215)
+Enter the name of the composer. This field is linked to the **Personal names** authority file. New names can be added; in such a case, include the life dates when known.
 
-Insira a síntese da formação usando as abreviaturas do RISM.
+#### Scoring summary (100 $m)
 
-#### Número de Opus/Índice temático (100 $n)  
-Registro RDA [rdaw:P10079](http://www.rdaregistry.info/Elements/w/#P10079)  
+RDA registry [rdae:P20215](http://www.rdaregistry.info/Elements/e/#P20215)
 
-Insira o número de opus, precedido por "op.", ou o número de um catálogo de obras, precedido pela abreviatura RISM.
+Enter the scoring summary using RISM abbreviations.
 
-Observe que este campo é um campo de texto livre. Referências a catálogos de obras podem também ser indexadas; para fazer isso, insira a referência novamente no campo **Fonte dos dados encontrados (670)**.
+#### Opus/Thematic index number (100 $n)
 
-#### Tonalidade ou modo (100 $r)  
-Registro RDA [rdaw:P10221](http://www.rdaregistry.info/Elements/w/#P10221)
+RDA registry [rdaw:P10079](http://www.rdaregistry.info/Elements/w/#P10079)
 
-Insira a tonalidade ou modo da obra se podem ser determinados com segurança.
+Enter the opus number, preceded by "op.", or the catalog of works number, preceded by the RISM abbreviation.
 
-#### Título da obra (100 $t)   
-Registro RDA [rdaw:P10088](http://www.rdaregistry.info/Elements/w/datatype/#P10088)
+Note that this field is a free-text field. References to catalogs of works must also be indexed; to do this, entered the reference again in the field **Source data found (670).**
 
-Insira o título da obra.
+#### Key or mode (100 $r)
+
+RDA registry [rdaw:P10221](http://www.rdaregistry.info/Elements/w/#P10221)
+
+Enter the key or mode of the work if it can be determined with certainty.
+
+#### Title of work (100 $t)
+
+RDA registry [rdaw:P10088](http://www.rdaregistry.info/Elements/w/datatype/#P10088)
+
+Enter the title of the work.

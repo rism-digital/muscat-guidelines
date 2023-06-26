@@ -1,3 +1,7 @@
-#### Link do pozycji w tym źródle (772 $w) 
+### Items in this source (774)
 
-W rekordach wpisu głównego tomów i kolekcji zbiorowych, w polu tym znajdują się linki do pozycji w nim zawartych. Linki dodają się automatycznie zaraz po ich utworzeniu w podhasłach.
+#### Items in this source (774 $w)
+
+In parent records, links to the items contained therein are displayed in this field. Links are added automatically as soon as they are established in the subentries.
+
+_MARC note: Upon export, $a is generated which contains normalized data from the 100 $a and 240 $a of the linked record._  

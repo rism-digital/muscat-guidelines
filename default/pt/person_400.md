@@ -1,24 +1,29 @@
-### Variante de nome (400)
-Este campo destina-se a formas do nome que se diferenciam da forma normalizada, tais como nome de nascimento, pseudônimos, nomes religiosos, nomes grafados diferentemente em fontes diferentes, transliterações alternativas, etc.   
+### Name variant (400)
 
-#### Variante de nome (400 $a)
-Insira o nome na forma descrita no campo **Cabeçalho – Nome de pessoa (100 $a)**.
+This field is for forms of the name that differ from the authorized form, such as birth names, pseudonyms, religious names, names spelled differently on different sources, alternate transliterations, etc.
 
-Para nomes originalmente escritos com caracteres não-latinos, insira a forma em caracteres não-latinos neste campo. Transliterações usando outras tabelas de tradução também podem ser inseridas aqui.  
+#### Name variant (400 $a)
 
-Acréscimos a nomes, tais como Jr, III, Sir, Meister, etc. são inseridos aqui, por exemplo: **Sinatra, Frank Jr.**
+Enter the name in the form described in the field **Heading - Personal name (100 $a)**.
 
-#### Datas (400 $d)
-Não insira nada neste campo.
+For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
 
-#### Tipo de variante de nome (400 $j)
-Selecione a partir da lista:
-- **Grafia Alternativa** [z]: Este tipo é para grafias alternativas, transliterações ou nomes em alfabetos não-latinos.
-- **Nome de batismo** [tn]
-- **Nome de nascimento** [gg]
-- **Iniciais** [in]
-- **Nome de casamento** [ee]  
-- **Apelido** [bn]: Este tipo é para alcunhas.
-- **Pseudônimo** [da]
-- **Nome religioso** [do]  
-- **Tradução** [ub]: Por exemplo, _Ackermann, Alexander_ é uma variante traduzida de _Agricola, Alexander._
+Additions to names such as Jr, III, Sir, Meister, etc. are entered here, for example: **Sinatra, Frank Jr.**
+
+#### Life dates (400 $d)
+
+Do not enter anything in this field.
+
+#### Type of name variant (400 $j)
+
+The default value is **xx** (unassigned). Select from the list:
+
+- **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets
+- **Baptismal name** [tn]
+- **Birth name** [gg]
+- **Initials** [in]
+- **Married name** [ee]
+- **Nickname** [bn]
+- **Pseudonym** [da]
+- **Religious name** [do]
+- **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_

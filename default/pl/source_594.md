@@ -1,95 +1,85 @@
-### Szczegółowy opis obsady (594)
+### Total scoring (594)
 
-#### Głos/instrument (594 $b)  
-**Pole wymagane.**  
+The field **Total scoring** is used to indicate all of the voices or instruments that are needed to perform the piece. "Scoring" is also known as performing forces, medium of performance, or instrumentation (which here includes vocal parts).
 
-W tym polu podaje się w całości obsadę (znaną także jako medium wykonawcze, instrumentacja, która obejmuje także partie wokalne) utworu, którą podano w skrócie w **Podsumowanie obsady**. Dlatego **Podsumowanie obsady** musi być zawsze skorelowane ze szczegółami wprowadzanymi w niniejszym pełnym opisie obsady.
+While the field **Scoring summary** (240 $m) givies the scoring of a work in brief, the **Total scoring** gives the scoring of a work in full. The **Scoring summary** must therefore always correlate with the details you enter in this full description of the scoring.
 
-Jeżeli w źródle nie podano pełnych wymagań co do obsady, należy je ustalić na podstawie tytułu lub samego materiału. Jeżeli obsada nie jest znana, należy wpisać:  **no indication**. O wszelkich wątpliwościach można wspomnieć bardziej szczegółowo w polu **Uwaga ogólna (500)**.      
+The total scoring should be as complete as possible, regardless of whether the source in hand is complete.
 
-W tym polu warto korzystać z funkcji autouzupełniania. Alfabetyczna lista skrótów znajduje się na liście skrótów instrumentów RISM. Ogólne nazwy instrumentów (takie jak smyczki- strings) podaje się zawsze w języku angielskim, a poszczególne instrumenty zawsze w miarę możliwości w języku włoskim. Nazwy innych specyficznych instrumentów regionalnych należy podawać w ich oryginalnym języku.
+#### Voice/instrument (594 $b)
 
-Partie głosowe należy wpisywać w indeksie górnym, a instrumentalne w indeksie dolnym. Instrumenty solowe należy poprzedzić oznaczeniem **iSol:**.
+**Required field.**
 
-Jeśli w utworze występuje basso continuo, instrument należy wprowadzić tak jak zwykle, np. **b**, **bc**, **org**, itd. (ale należy poszukać wskazówek odnośnie wypełniania pokrewnych pól w tabelach w sekcji **Basso continuo w obsadach i/lub partiach**).
+Enter the voices or instruments using RISM abbreviations. Use the autocomplete in this field to help you. An alphabetical list of abbreviations can be found in the RISM instrument abbreviations list. General instrumental designations (such as strings) are always in English and individual instruments are in Italian whenever possible. Other specific, regional instruments should be written in the original language.
 
-Dla instrumentów strojonych w innej tonacji niż C, standardowe strój podano w liście skrótów. Jeśli strój występujący w źródle różni się od stroju standardowego, należy go podać (patrz: **w A). W przypadku instrumentów, które są standardowo strojone w C, nie trzeba podawać informacji „w C”. W razie wątpliwości strój należy podać. Stroje instrumentów należy podawać w języku angielskim.** Patrz Aneks: Tonacje.
+Use upper case for vocal parts and lower case for other instrumental parts. Solo instruments begin with **iSol:**.
 
-Starając się wybierać między podobnymi terminami, najlepiej jest zazwyczaj wybrać termin znajdujący się w źródle. Jeśli nazwa instrumentu w opisywanym źródle odbiega od skrótu RISM, można w polu **Uwaga ogólna (500)** wpisać ten termin w postaci znajdującej się w źródle.
+If the full scoring requirements are not given, or if your source is incomplete, the total scoring should be ascertained from the title, the material itself, or other reference works. If the scoring is not known, write **no indication**. Any uncertainty can be mentioned in more detail in the field **General note (500)**.
 
-Obsadę należy podać w następującej kolejności:
+If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
--
+For non-C instruments, standard tunings are listed in the abbreviation list. If the tuning in your source deviates from the standard tuning, please list the tuning in the source (see: **in A**). For instruments that are normally in C, "in C" does not need to be listed. If in doubt, list the tuning. Instrument tunings should be given in English. See **Appendix: Keys**.
 
-Głosy solowe
+If you have a piece with an instrumentation that differs from the label on the source, such music for the Tenor 2 voice in a Quinta vox (V 5) partbook, use the more specific instrumentation if available. If the music is lacks such an indication but you are able to determine the actual voice with certainty, you are permitted to enter the actual voice. If there is any uncertainty, simply enter the part as on the source.
 
--
+When trying to decide between similar terms, it is usually best to go with what is on the source. If the name of the instrument in your source deviates from the RISM abbreviation, you may write the term as on the source in the field **General note (500)**.
 
-Chór
+List the scoring in the following order:
 
--
+- Solo voices
+- Chorus
+- Solo instruments
+- Strings
+- Woodwinds
+- Brass
+- Plucked instruments
+- Percussion
+- Keyboard instruments
+- Basso continuo
 
-Instrumenty solowe
+List parts from the highest to the lowest range. Enter one instrument per line. Add alternative scoring possibilities to the original requirements in parentheses.
 
--
+##### Examples
 
-Smyczki
+- S
+- A
+- T
+- B
+- Coro 1: T
+- Coro 1: A
+- Coro 2: S
+- iSol: pf
+- vl
+- vla
+- vlc
+- b
+- ob (fl)
+- cl in A
+- tr
+- org
 
--
+_MARC note: The field 594 $b is exported as 594 $a._
 
-Dęte drewnianie
+#### Number (594 $c)
 
--
+Indicate the total number of parts here. If a piece includes two parts for the same instrument, enter the single instrument in the field **Scoring** and **2** in the field **Number**.
 
-Dęte blaszane
+The number refers to the music, not to the number of people needed to play the music or the number of parts preserved in your source. For example, "Coro S" and "2" means that the soprano part is divided into soprano 1 and soprano 2.  Likewise, "vl" and "2" means that the violins are divided into violin 1 and violin 2.
 
--
+For incomplete sources or if the number is unknown, an **X** can be entered instead of a number.
 
-Instrumenty szarpane
+##### Examples
 
--
-
-Perkusja
-
--
-
-Instrumenty klawiszowe
-
--
-
-Basso continuo
-
-Partie podawać w kolejności od najwyższego do najniższego zakresu. W jednej linii należy podawać tylko jeden instrument. Alternatywne możliwości obsadowe w stosunku do wymagań oryginalnych należy podawać w nawiasach.
-
-##### Przykłady
-
-S  
-A  
-T  
-B  
-Coro 1: T  
-Coro 1: A  
-Coro 2: S  
-iSol: pf  
-vl  
-vla  
-vlc  
-b  
-ob (fl)  
-cl in A  
-tr  
-org
-
-
-
-#### Liczba (594 $c)
-
-Tutaj należy podać łączną liczbę głosów. Jeżeli utwór zawiera dwa głosy na ten sam instrument, należy w polu **Obsada** wpisać jeden instrument i liczbę 2 w polu **Liczba**.
-
- ##### Przykłady  
-vl         2 [dla utworu na skrzypce 1 i skrzypce 2]  
-vla        1 [tylko 1 partia na altówkę]  
-ob        2 [obój 1 i obój 2]  
-cl         1 [tylko jedna partia na klarnet]
-
-_Uwaga MARC: To pole w OPAC-u jest polem 594 $a. Generowanie wartości $a następuje podczas eksportu do OPAC-u._
+- For a piece with violin 1 and violin 2:  
+  vl  
+  2
+- Only 1 viola part:  
+  vla  
+  1
+- Oboe 1 and oboe 2:  
+  ob  
+  2
+- Only 1 clarinet part:  
+  cl  
+  1
+- French horns present but it is not known how many: cor X  

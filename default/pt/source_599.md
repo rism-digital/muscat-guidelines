@@ -1,3 +1,4 @@
-#### Nota interna (599 $a) 
+### Internal note (599)
 
-Insira notas locais para uso interno, inclusive dentro de seu próprio grupo de trabalho. Qualquer idioma pode ser utilizado aqui. As notas não são publicadas no catálogo online de acesso público. Notas locais podem ser usadas para comentários de todos os tipos, tais como questões, comentários ou pesquisa a ser feita. Apague as notas depois que servirem aos seus propósitos. É boa prática assinar toda nota utilizando suas iniciais e a data.
+#### Internal note (599 $a)
+Enter local notes for internal use, including within your own working group. Any language may be entered here. Internal notes are not published in the RISM catalogs or available in the RISM open data. Local notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.

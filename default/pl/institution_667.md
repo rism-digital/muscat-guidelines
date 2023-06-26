@@ -1,6 +1,7 @@
-### Uwagi wewnętrzne (667; ISDIAH 5.6.9)
+### Internal notes (667; ISDIAH 5.6.9)
 
-#### Uwagi wewnętrzne (667)
-Pole dokumentuje dodatkowe informacje na temat tworzenia opisu i dokonywania w nim zmian.
+This field documents additional information relating to the creation of and changes to the description. Internal notes are not published in the RISM catalogs or available in the RISM open data.
 
-Wprowadzić uwagi dotyczące tworzenia i utrzymania opisu. Np. można tu wprowadzić nazwy osób odpowiedzialnych za tworzenie i/lub rewizję opisu.
+#### Internal notes (667)
+
+Enter notes pertinent to the creation and maintenance of the description. For example, the names of persons responsible for creating and/or revising the description may be entered here.

@@ -1,7 +1,8 @@
-### Gênero  (375)
+### Gender (375)
 
-#### Gênero  (375)
-Selecione o gênero da pessoa:
-- feminino
-- masculino
-- desconhecido
+#### Gender (375)
+
+Select the gender of the person:
+- female
+- male
+- unknown

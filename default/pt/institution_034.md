@@ -1,9 +1,13 @@
-### Localização (034)  
-Insira as coordenadas (latitude e longitude) da instituição aqui. No Google Maps, as coordenadas são exibidas ao clicar com o botão direito na instituição e selecionar "O que é isto?"
+### Location (034)
 
-#### Exemplos  
-Longitude: -87.6735541  
-Latitude: 42.0515515
+#### Location (034)
 
-Longitude: 8.652714  
-Latitude: 50.120565
+Enter the coordinates (latitude and longitude) of the institution here. On Google Maps, the coordinates are displayed when you right-click on the institution and select "What's here."
+
+##### Examples
+
+- Longitude: -87.6735541
+- Latitude: 42.0515515
+
+- Longitude: 8.652714
+- Latitude: 50.120565

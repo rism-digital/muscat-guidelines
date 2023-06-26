@@ -1,15 +1,23 @@
-**Użyj języka angielskiego vs. innych języków**  
-  
-W niektórych polach wymaga się terminologii angielskiej lub stałych skrótów angielskich, podczas gdy w innych polach dopuszcza się inne języki.  
-  
-Jeśli wymaga się użycia języka angielskiego, w wytycznych dotyczących danego pola jest to wyraźnie określone.  
-  
-**Język katalogowania**  
-Jeśli angielskiego nie wymaga się, można użyć języka, który wytyczne określają jako język katalogowania. RISM dopuszcza następujące języki katalogowania: angielski, francuski, niemiecki, włoski, portugalski, hiszpański, polski. Alternatywnie, dozwolone są inne języki, o ile streszczenie jest dostarczone w jednym z sześciu języków katalogowych. Wytyczne zawsze określają, kiedy można użyć języka katalogowania.  
-  
-We wskazówkach „język katalogowania” odnosi się do praktyki używania jednego z tych siedmiu języków lub innego języka plus tłumaczenia na jeden z sześciu języków.  
-  
+## Language
 
-**Transliteracje**  
+The section **Language** clarifies the use of English and other languages in Muscat.
 
-Grupy krajowe są odpowiedzialne za określenie, jakie tabele transliteracji powinny być używane podczas transliteracji ich języka.
+### Use of English vs. other languages
+
+English terminology or standardized English abbreviations are required in some fields. When English is required, it is indicated in the guidelines for the applicable field.
+
+In other fields, non-English languages are permitted.
+
+### Cataloging language
+
+When English is not required, you may use what the guidelines refer to as your **cataloging language**. RISM allows the following cataloging languages: English, French, German, Italian, Portuguese, and Spanish.
+
+ Other languages are allowed as long as a summary is provided in one of the six cataloging languages. The guidelines always state when you cataloging language may be used.
+
+In the guidelines that follow, the phrase "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
+
+Your cataloging language for Sources can be indicated in the field **Language of cataloging (040 $b)**.
+
+### Transliterations
+
+National groups are responsible for determining what transliteration tables should be used when transliterating their language.

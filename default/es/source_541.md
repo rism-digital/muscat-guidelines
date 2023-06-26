@@ -10,17 +10,18 @@ Ingrese información acerca de cómo se adquirió el ítem: regalo, legado, pré
 
 Ingrese información sobre la persona o institución (donante, vendedor, etc.) por vía de la cual la institución adquirió la fuente. Regístrelo usando su idioma de catalogación.
 
-Ingrese formas normalizadas de nombres personales en el campo **Nombres personales adicionales (700)** y de instituciones en **Instituciones adicionales(710)**. 
+Enter standardized forms of the personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**.
 
 #### Fecha de adquisición (541 $d)
 
 Ingrese las fechas en el formato AAAAMMDD. Reemplace porciones desconocidas de las fechas con un guión. El año sólo puede ingresarse como AAAA. Las fechas genéricas (ej. épocas del año) pueden indicarse tal como están en la fuente. Pueden añadirse múltiples fechas separadas por coma.
 
-##### Ejemplos  
-17980215    
-183209--   
-1815   
-Pascua 1744
+##### Examples
+
+- 17980215
+- 183209--
+- 1815
+- Easter 1744
 
 #### Número de accesión (541 $e)
 

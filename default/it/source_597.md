@@ -1,6 +1,9 @@
-#### Colofone (597 $a)
+### Colophon (597)
 
-Per documenti a stampa, riporta il colofone come compare sulla fonte, tipicamente sull'ultima pagina stampata.
+#### Colophon (597 $a)
 
-##### Esempio  
-Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs | eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis
+For printed items, enter the colophon as it appears on the source, typically on the last printed page.
+
+##### Example
+
+- Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs \| eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis

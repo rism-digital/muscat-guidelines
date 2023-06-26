@@ -1,7 +1,9 @@
-### Miejsca (551)
+### Places (551)
 
-#### Miejsca (551)
-Podać nazwy geograficzne. Pole połączono linkiem z indeksem **Miejsca.**  
+#### Places (551)
 
-##### Przykład  
+Enter geographical names. This field is linked to the **Places** index.
+
+##### Example
+
 - Aigen-Schlägl _for the RISM library siglum record A-SCH_

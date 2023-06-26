@@ -1,2 +1,3 @@
-### Data di creazione (008; ISDIAH 5.6.6)
-Questo campo riporta la data in cui la scheda è stata creata. Questo campo è generato automaticamente. 
+### Date of creation (008; ISDIAH 5.6.6)
+
+This field shows the date that the record was created. This field is automatically generated.

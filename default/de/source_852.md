@@ -1,55 +1,65 @@
-### Bibliothekssigel (852)
+### Library siglum (852)
 
-Dieser Teil beschreibt die Bibliothek oder besitzende Institution.
+Information about the library or institution that holds the source is entered here.
 
-#### Bibliothekssigel (852 $a)   
+#### Library siglum (852 $a)
+
+**Required field.**
+
+Enter the siglum of the holding library. This field is linked to the **Institutions** authority file.
+
+#### Department (852 $b)
+
+Enter more specific location information, in particular for large libraries, if not named in the siglum itself. Enter the name of the department in the local language. You may include a translation in square brackets in your cataloging language.
+
+##### Examples
+
+- Music Department
+- Collezioni speciali
+- Zakład Zbiorów Muzycznych [Music department]
+
+#### Provenance (852 $z)
+
+This field can be used to indicate the name of a special collection, such as a collection, bequest, gift, papers, archive, _Nachlass_, or similar, that the source belongs to.
+
+Enter in the local language. You may include a translation in square brackets in your cataloging language.
+
+##### Example
+
+- Sammlung Hanns J. Eller
+
+Note: Enter ownership marks in the field **Provenance note (561)**.
+
+#### Material held (852 $q)
+
+This field is available in the holdings information for printed music. If your copy is incomplete, enter the parts (using RISM abbreviations) or volumes you have. If you know your copy is complete, it is helpful if you write **complete** in this field. Use English terminology. Here, completeness refers to the presence of all expected parts or volumes; other degrees of incompleteness (such as missing pages) can be indicated in a note.
+
+Missing parts should be entered in the field **General note (500)**.
+
+##### Examples
+
+- vl only
+- Coro S, A, B only
+- vol. 1, 3 only
+- complete
+
+#### Shelfmark (852 $c)
 
 **Pflichtfeld**
 
-Geben Sie das Bibliothekssigel der besitzenden Institution an. Dieses Feld ist mit der Normdatei **Körperschaften** verknüpft.
+Enter the shelfmark (also called "call number") in this field. Transcribe as precisely as possible, including spacing and punctuation, but enter shelfmarks as a single line of text without line breaks. Enter shelfmarks consistently within any given library collection. Indicate superscript characters with \| (the vertical pipe). If no shelfmark is present, enter the English phase **[without shelfmark]** in square brackets. The English phrase **[no indication]** can be used if the presence of a shelfmark is unknown. Enter additional shelfmarks in the field **Other shelfmarks (591)**.
 
-#### Abteilung (852 $b)
+In records for printed music, the phase **[no indication]** has been automatically added by the Editorial Center in cases where a shelfmark is not available. National groups revising their holdings should change **[no indication]** to the current shelfmark.
 
-Genaue Standortangabe bei großen Bibliotheken. Geben Sie die Bezeichnung in der Landessprache ein. In Klammern kann eine Übersetzung in einer der Katalogisierungssprachen gegeben werden.
+##### Examples
 
-##### Beispiele  
-Musikabteilung  
- Music Department   
-Collezioni speciali  
-Zakład Zbiorów Muzycznych [Music department]
+- Ms Mus 165/6
+- Mus.ms. 743
+- Th.mus.A 5
+- P 7 G 359
+- Vm\|1 805
+- [without shelfmark]
 
-#### Bestandsname (852 $z)
+#### Former shelfmark (olim) (852 $d)
 
-Vorgesehen für Nachlässe, geschlossene Provenienzen und Sammlungen o.ä.. Geben Sie die Bezeichnung in der Landessprache ein. In Klammern kann eine Übersetzung in einer der Katalogisierungssprachen gegeben werden.
-
-##### Beispiel:  
-Sammlung Hanns J. Eller
-
-Achtung: Geben Sie Provenienzvermerke im Feld **Herkunft der Quelle (561)** ein.
-
-#### Erhaltenes Material (852 $q)
-
-Dieses Feld steht nur im Exemplareintrag für Musikdrucke zur Verfügung. Ist Ihr Exemplar unvollständig, geben Sie hier die vorhandenen Stimmen (mit RISM-Abbkürzungen) oder Bände an. Ist Ihr Exemplar unvollständig, können Sie hier **komplett** schreiben. Vollständigkeit bezieht sich hier auf das Vorhandensein aller erwarteten Stimmen oder Bände. Wenn beispielsweise einzelne Seiten fehlen, geben Sie dies in einer Bemerkung an.
-
-##### Beispiele  
-vl only  
-Coro S, A, B only  
-vol. 1, 3 only  
-complete
-
-#### Signatur (852 $c)
-**Pflichtfeld**  
-
-In dieses Feld wird die Signatur eingetragen. Die Signatur ist möglichst genau wiederzugeben (betrifft Leer- und Interpunktionszeichen). Hochstellungen werden mit **|** (Vertikalstrich) direkt vor dem entsprechenden Zeichen angegeben. Innerhalb eines Bestandes sollen die Signaturen formal einheitlich geschrieben werden. Wenn keine Signatur angegeben ist, erfolgt die Eingabe **[without shelfmark]**. Weitere Signaturen werden im Feld **Weitere Signatur (591)** eingetragen.
-
-##### Beispiele  
-Ms Mus 165/6  
-Mus.ms. 743  
-Th.mus.A 5  
-P 7 G 359  
-Vm|1 805  
-[without shelfmark]
-
-#### Alte Signatur (olim) (852 $d)
-
-Geben Sie hier eine alte Signatur pro Zeile an.
+Enter old, invalid, or disused shelfmarks (olim) here. Enter one old shelfmark per field.

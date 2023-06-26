@@ -1,15 +1,17 @@
-### Mezzo fisico (337)
+### Media type (337)
 
-#### Mezzo fisico (337 $a)
-**Campo obbligatorio.**
+#### Media type (337 $a)
 
-Seleziona il tipo di mezzo fisico dalla lista seguente:
-- **Printed medium**: supporto a stampa
-- **Electronic resource**: risorsa elettronica, come una banca-dati, un sito internet o un catalogo di opere online
-- **E-book**: libro elettronico
-- **Printed music**: musica a stampa
-- **Manuscript**: un documento manoscritto
-- **Media combination**: combinazione di più supporti
+**Required field.**
+
+Select the type of media from the following list:
+
+- **Printed medium**
+- **Electronic resource**: such as a database, website, or online catalog of works
+- **E-book**
+- **Printed music**
+- **Manuscript**: a handwritten document
+- **Media combination**
 - **CD-ROM**
 - **Microfiche**
 - **Microfilm**

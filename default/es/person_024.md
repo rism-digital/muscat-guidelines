@@ -1,14 +1,18 @@
-### Otro identificador estándar (024)
+### Fuente del número o código (024 $2)
+
 Este campo proporciona un código alfanumérico que refiere a un nombre creado por otro organismo.
 
-#### Número o código estándar (024 $a)
+#### Otro identificador estándar (024)
+
 Introduzca el código alfanumérico utilizado para identificar los nombres. El código se toma de los datos de autoridad de la agencia creadora.
 
-##### Ejemplos
-- 100221216  
+##### Examples
+
+- 100221216
 - n83176163
 
-#### Fuente del número o código (024 $2)
+#### Número o código estándar (024 $a)
+
 Seleccione una de las siguientes opciones:
 - **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
@@ -22,7 +26,8 @@ Seleccione una de las siguientes opciones:
 - **VIAF**: Virtual International Authority File
 - **WKP**: Wikidata (Wikipedia)
 
-##### Ejemplos
+##### Examples
+
 - 11862119X
 - DNB
 - 71579513

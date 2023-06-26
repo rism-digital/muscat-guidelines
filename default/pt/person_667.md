@@ -1,4 +1,7 @@
-### Nota interna (667) 
+### Internal note (667)
 
-### Nota interna (667 $a)
-Aqui você pode inserir notas que não se destinam a exibição pública.
+Internal notes are not published in the RISM catalogs or available in the RISM open data.
+
+#### Internal note (667 $a)
+
+Here you may enter notes that are not intended for public display.

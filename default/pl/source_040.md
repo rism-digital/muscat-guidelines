@@ -1,3 +1,5 @@
-#### Język katalogowania (040 $b)
+### Cataloging agency (040)
 
-Należy podać język katalogowania. Języki do wyboru: angielski, francuski, niemiecki, włoski, portugalski, hiszpański i polski.
+### Language of cataloging (040 $b)
+
+Indicate your cataloging language. Select from English, French, German, Italian, Portuguese, or Spanish.

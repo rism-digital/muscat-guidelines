@@ -1,2 +1,3 @@
-### 최종 처리 시간 (005; ISDIAH 5.6.6)
-기록이 최종적으로 수정된 시간을 나타냅니다. 이 영역은 자동으로 생성됩니다.
+### Date and time of last transaction (005; ISDIAH 5.6.6)
+
+This field shows the date that the record was last modified. This field is automatically generated.

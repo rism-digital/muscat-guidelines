@@ -1,4 +1,5 @@
-### Instituição relacionada (710)
+### Related institution (710)
 
-#### Instituição relacionada (710)
-Este campo fornece referências-cruzadas para outras bibliotecas ou instituições relacionadas à instituição informada. Este campo é ligado ao registro de autoridade **Instituições**.
+#### Related institution (710)
+
+This field gives cross-references to other libraries or institutions that are related to the given institution. This field is linked to the **Institutions** authority file.
