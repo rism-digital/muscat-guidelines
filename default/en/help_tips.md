@@ -10,7 +10,7 @@ the field **External resource (856)**.
 
 #### 2. How can I change the order of {items in a collection, incipits, names, instruments, notes...}?
 
-It's quite simple: just click and drag! (Make sure you are clicking outside the white text field). Any repeatable
+It's quite simple: just click on the arrow and drag! Any repeatable
 field (designated by a **+** sign) can be organized this way.
 
 #### 3. How can I add special characters?
@@ -47,7 +47,7 @@ order for it to be searchable.
 
 #### 8. How can I delete a record?
 
-Please notify the RISM Editorial Center if you need to delete a record.
+Please notify the RISM Editorial Center if you need to delete a record, including holdings information.
 
 #### 9. What if my record is in the wrong template?
 

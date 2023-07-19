@@ -1,27 +1,27 @@
 ### Type of institution (368; ISDIAH 5.1.5)
 
-This field records other attributes of person or corporate body or type of institution.
+The field **Type of institution** records other attributes of the institution.
 
 #### Type of institution (368 $a)
 
-This field identifies the type of institution with archival holdings.
+This field identifies the type of institution.
 
 Select from the following types:
 
 - Archive
 - Bookseller
-- Copyist
 - Congress
+- Copyist
 - Documentation center
 - Institution  
 - Library
 - Museum
-- Research institute
+- Other
 - Papermaker
 - Performer
 - Printer
 - Publisher
-- Other
+- Research institute
 
 
 #### Type of jurisdiction (368 $b)
@@ -29,7 +29,7 @@ Select from the following types:
 Enter the type of jurisdiction associated with the institution.
 
 ##### Examples
--
+
 - County
 - Village
 

@@ -1,6 +1,6 @@
 ### Parallel form of name (510; ISDIAH 5.1.3)
 
-This field gives various forms of an institution's name, including translations. Relationships to other institutions can
+The field **Parallel form of name** gives various forms of an institution's name, including translations. Relationships to other institutions can
 also be recorded here.
 
 #### Parallel form of name (510 $a)
@@ -23,16 +23,16 @@ Select a term from the drop-down menu that describes the kind of name.
 
 Select from the following:
 
-- Earlier heading [a]
-- Later heading [b]
 - Acronym [d]
-- Musical composition [f]
 - Broader term [g]
-- Narrower term [h]
-- Reference instruction phrase in subfield $i [i]
-- Not applicable [n]
-- Relationship designation in $i or $4 [r]
+- Earlier heading [a]
 - Immediate parent body [t]
+- Later heading [b]
+- Musical composition [f]
+- Narrower term [h]
+- Not applicable [n]
+- Reference instruction phrase in subfield $i [i]
+- Relationship designation in $i or $4 [r]
 
 #### Relationship information (510 $i)
 

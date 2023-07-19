@@ -1,25 +1,15 @@
 ### Location and address (371; ISDIAH 5.2.1)
 
-This field gives the addresses of the institution, both physical and electronic.
+The field **Location and address** gives the addresses of the institution, both physical and electronic.
 
-#### Location and address
+Enter information in the following fields. Adjust the format of the information appropriate to the country's postal conventions.
 
-Enter information in the following fields:
-
-- **Street address** (371 $a): The street and number
-- **Additions to the address**: Storeys (for example, 1st floor, room 569), Names of buildings (for example, Palazzo ducale,
-  Rose cottage etc.)
-- **Postal code** (371 $e)
+- **Street address** (371 $a): The street and number as well as **Additions to the address**: Storeys (for example, 1st floor, room 569), Names of buildings (for example, Palazzo ducale, Rose cottage etc.)  
 - **City** (371 $b)
 - **State, province, or county** (371 $c)
 - **Country** (371 $d)
-- **URL** (371 $u): Use the official address of the institution. If this is not possible, give the official address of the larger institution to which it belongs. It is not recommended to give addresses for blogs or social networking sites.
-
-Adjust the format of the information appropriate to the country's postal conventions.
-
-In addition, you may enter:
-
-- **E-mail** (371 $m; ISDIAH 5.2.2): Enter the e-mail address necessary to contact the institution.
+- **Postal code** (371 $e)
+- **Email** (371 $m; ISDIAH 5.2.2): Enter the e-mail address necessary to contact the institution.
 - **URL** (371 $u): Use the official address of the institution. If this is not possible, give the official address of the larger institution to which it belongs. It is not recommended to give addresses for blogs or social networking sites.
 - **Start period** (371 $s): The starting date associated with the address of the institution.
 - **End period** (371 $t): The end date associated with the address of the institution.
@@ -31,4 +21,3 @@ Enter additional contact information, such as:
 - **Telephone number** (ISDIAH 5.2.2)
 - **Fax number** (ISDIAH 5.2.2)
 - **Contact person** (ISDIAH 5.2.3): It is useful to have the e-mail of a contact person, especially for institutions that do not specialize in music, such as administrative or religious archives.
-- **Email address** (ISDIAH 5.2.3)

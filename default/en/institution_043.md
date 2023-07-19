@@ -1,5 +1,7 @@
 ### Country code (043)
 
-#### Country code (043)
+The field **Country code** is used for the country in which the institution is located.  
 
-Select the country from the list. Additional countries may be added in consultation with the RISM Editorial Center.
+#### Country code (043 $c)
+
+Select the country from the list. 

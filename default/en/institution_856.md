@@ -1,6 +1,6 @@
-### Finding aids, guides and publications (856; ISDIAH 5.3.8)
+### Online finding aids (856; ISDIAH 5.3.8)
 
-This field provides a general overview of the published and/or unpublished finding aids and guides prepared by the
+The field **Online finding aids** provides a general overview of the published and/or unpublished finding aids and guides prepared by the
 institution and any other relevant publications.
 
 Enter information (including URLs) about finding aids, catalogs, inventories, etc. for the institution’s collections.
