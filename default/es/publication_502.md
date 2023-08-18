@@ -1,8 +1,10 @@
 ### Dissertation note (502)
 
+The field **Dissertation note** is used to indicate that the item is a dissertation.
+
 #### Nota de disertación (502 $a)
 
-Si el ítem es una tesis doctoral, incluya el tipo de grado académico, la institución y el año.
+If the item is a doctoral dissertation, enter a statement that includes the type of degree, institution, and year.
 
 ##### Examples
 
