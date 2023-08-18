@@ -2,22 +2,22 @@
 
 **No modificar.**
 
-Este campo presenta el código de la organización que creó el registro original. For new records, this is always RISM, so the ISIL code for RISM is automatically filled out: DE-633.
-
-DE-633.  
-La Staatsbibliothek zu Berlin - Preußischer Kulturbesitz es responsable del mantenimiento de los códigos para Alemania. Ver [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633)
+The field **Cataloging source** indicates the organization that created the original record.
 
 #### Agencia de catalogación original (040 $a)
 
 **No modificar.**
 
-Este campo presenta el código de la organización que transcribió el registro a un formato legible por máquina. The code for RISM is automatically filled out by Muscat.
+Este campo presenta el código de la organización que creó el registro original. For new records, this is always RISM, so the ISIL code for RISM is automatically filled out: DE-633.
+
+DE-633.  
+La Staatsbibliothek zu Berlin - Preußischer Kulturbesitz es responsable del mantenimiento de los códigos para Alemania. See [http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633](http://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-633).
 
 #### Agencia de la transcripción (040 $c)
 
 **No modificar.**
 
-This field gives the code for the organization that transcribed the record into machine-readable form. The code for RISM is automatically filled out by Muscat.
+This field gives the code for the organization that transcribed the record into machine-readable form. The ISIL code for RISM is automatically filled out: DE-633.
 
 #### Agencia de la modificación (040 $d)
 
