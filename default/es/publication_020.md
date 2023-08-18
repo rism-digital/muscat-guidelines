@@ -1,8 +1,10 @@
 ### ISBN (020)
 
+The field **ISBN** is for the International Standard Book Number, a unique identification number assigned to monographic publications.
+
 #### #### ISBN (020 $a)
 
-Introduzca el Número de Libro Estándar Internacional (ISBN). El ISBN es un número que consta de 10 o 13 dígitos.
+Enter the ISBN. El ISBN es un número que consta de 10 o 13 dígitos.
 
 ##### Examples
 
