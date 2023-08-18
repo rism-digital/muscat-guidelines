@@ -25,5 +25,5 @@ Enter the agency that created the standard number or code. Select from the follo
 - **NKC**: Národní knihovna České republiky  
 - **ORCID**: Open Researcher and Contributor ID     
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera  
-- **VIAF**: Virtual International Authority   File  
+- **VIAF**: Virtual International Authority File  
 - **WKP**: Wikidata (Wikipedia)  
