@@ -1,13 +1,19 @@
 ### Location (034)
 
-#### Location (034)
+The field **Location** is for the latitude and longitude of an instution. On Google Maps, the coordinates are displayed when you right-click on the institution and select "What's here."
 
-Enter the coordinates (latitude and longitude) of the institution here. On Google Maps, the coordinates are displayed when you right-click on the institution and select "What's here."
+#### Latitude (034 $f)
+
+Enter the latitude of the institution.
+
+#### Longitude (034 $d)
+
+Enter the latitude of the institution.
 
 ##### Examples
 
-- Longitude: -87.6735541
 - Latitude: 42.0515515
+- Longitude: -87.6735541
 
-- Longitude: 8.652714
 - Latitude: 50.120565
+- Longitude: 8.652714
