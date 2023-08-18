@@ -1,10 +1,10 @@
 ### Authority reference (024)
 
-This field is used to record the standard number or code or URI associated with the institution.
+The field **Authority reference** is used to record the standard number or code or URI associated with the institution.
 
 #### Authority reference (024 $a)
 
-Enter the alphanumeric code used to identify names. The code is taken from the authority data of the creating agency.
+Enter the alphanumeric code used to identify the institution. The code is taken from the authority data of the creating agency.
 
 #### Terms of availability (024 $c)
 

@@ -1,8 +1,10 @@
 ### ISSN (022)
 
+The field **ISSN** is for the International Standard Serial Number, a unique identification number assigned to a serial publication.  
+
 #### ISSN (022 $a)
 
-Enter the International Standard Serial Number (ISSN). The ISSN uniquely identifies serial publications.
+Enter the ISSN.
 
 ##### Examples
 

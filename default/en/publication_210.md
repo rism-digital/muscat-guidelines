@@ -1,12 +1,16 @@
 ### Short title (210)
 
+The field **Short title** is a unique abbreviation assigned to items of secondary literature to enable easy and consistent reference throughout the RISM database.  
+
 #### Short title (210 $a)
 
-**Required field.**
+**Required field for most kinds of items.**
 
-Each item of secondary literature receives a unique short title to enable easy reference throughout RISM records. Always check first to make sure a short title is not already in use.  
+Enter the short title in accordance with the guidance below. Short titles may only be used once.
 
-Short tiles only apply to the edition described in the record. If a you would like to cite a different edition, please create a new record for the item.
+Short titles are not needed for serials or collected volumes of essays; for these kinds of publications, the short title is entered in the record for the individual artical or chapter.   
+
+A short tile only apply to the edition described in the record. Separate records must be created for different editions.
 
 The following will describe how to create short titles for **general secondary literature**, **catalogs of works**, and **special cases**.
 
@@ -16,8 +20,8 @@ Short titles for **general secondary literature** are made up as follows:
 
 - **Last name** of the author or editor  
   _Hyphenated or compound last names are written out in full._
-- **Beginning letter** of a keyword from the title, capitalized  
-  _Usually the name of the composer or the place, otherwise select a different important word_
+- **First letter** of a keyword from the title, capitalized  
+  _Usually the name of the composer, otherwise select a different important word_
 - **Space**
 - **Year** of publication
 
@@ -33,7 +37,7 @@ Short titles for **general secondary literature** are made up as follows:
  → Aguirre RincónV 2009
 
 For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a
-letter (**a**, **b**, **c**, etc.) is added to the end of the year.  
+letter (**a**, **b**, **c**, etc.) is added to the end of the year for subsequent publications.  
 
 ###### Examples
 
@@ -107,10 +111,10 @@ works. Such items can also be cited as a **Bibliographic reference (691)**.
 - Bruno Scheithauer, _Verzeichniss sämtlicher gedruckten Werke Dr. Carl Loewe’s_ (Berlin, 1886).  
  → SchL
 
-Use the well-established abbreviations for catalogs of works if they exist (BWV, KV, Hob., etc.). You may also use the
-abbreviation used within the catalog as long as it does not lead to confusion.    
+Use the well-established abbreviations for catalogs of works if they exist (BWV, KV, Hob., etc.) or the
+abbreviation used within the catalog, as long as the abbreviation is not already in use in Muscat.    
 
-###### Example
+###### Examples
 
 - Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
  → QV  
@@ -139,9 +143,7 @@ Publications that contain the term _thematic catalog_ in their titles are often 
 
 For modern music editions, use the last name of the editor plus the first letter of the last name of the composer. The year refers to the year that the modern edition was published.  
 
-###### Examples
+###### Example
 
 - Barbara Strozzi, _Havete torto_, edited by Candace A. Magner (Cor Donato Editions, 2019).  
  → StrozziH 2019  
-
-Do not assign a short title to books, yearbooks, conference reports, etc. that consist of a collection of essays. Any essays in such books are entered individually as literature references, not the entire book itself. The essay is entered as a literature record with its own short title.

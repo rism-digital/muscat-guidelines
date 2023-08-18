@@ -1,24 +1,31 @@
 ### Heading - Personal name (100)
 
-This field is for the name of the person in its authorized form.
+The field **Heading - Personal name** is for the name of the person in its authorized form.
 
 #### Heading - Personal name (100 $a)
 
-Names are entered in the form Surname Forename, with a comma separating the elements for names in inverted order. If you only have initials, enter in direct order.
+Names are entered in the form Surname Forename, with a comma separating the elements for names in inverted order. If you only have initials or an artificially constructed name (such as a designation identifying a copyist), enter in direct (that is, uninverted) order.  
 
-For names originally written using non-Latin scripts, enter the transliterated form in the Latin script in this field. The original form in non-Latin script, as well as alternate transliterations, can be entered in the field **Name variant (400 $a)**.
+For names originally written using non-Latin scripts, enter the transliterated form using the Latin alphabet in this field. The original form in non-Latin script, as well as alternate transliterations, can be entered in the field **Name variant (400)**.
 
-##### Examples
-- 
+##### Examples  
+
 - Telemann, Georg Philipp
 - Joo Su-won
 - Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
 - A. C.
 - Copyist C. H. Graun IX (Blechschmidt)
 
-#### Religious order (100 $c)
+#### Religious order/Title (100 $c)
 
-This field is for entering orders of the Roman Catholic Church. Abbreviations are taking from the following Wikipedia page: [https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))
+This field is for entering religious orders or titles.
+
+Abbreviations for religious orders are taken from the following Wikipedia page: [https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))  
+
+##### Examples  
+
+- OCist  
+- Dr.  
 
 #### Years of birth and death (100 $d)
 
@@ -39,7 +46,7 @@ If the person's exact years of birth and/or death are unknown, use the following
 - **+**: died  
   **1756+** = died in 1756, but year of birth unknown
 - **/**: or  
-  **17/18** = lived in the seventeenth and eighteenth centuries
+  **17/18** = lived in the seventeenth or eighteenth centuries
 
 Do not use the following abbreviations for date ranges: in, me, ex, q, d, t
 
@@ -55,11 +62,11 @@ Do not use the following abbreviations for date ranges: in, me, ex, q, d, t
 
 #### Status (100 $w)
 
-This field is an internal field for use by the RISM Editorial Center.
+This field contains imported data from obsolete cataloging practices and is no longer in use.
 
-#### Other life dates
+#### Other life dates (100 $y)
 
-Enter concrete dates in the form DD.MM.YYYY. Years active or flourished must be preceded by **fl.**.
+The full life dates, including month and day, may be entered here. Enter concrete dates in the form DD.MM.YYYY. Years active or flourished must be preceded by **fl.**.  
 
 ##### Examples
 

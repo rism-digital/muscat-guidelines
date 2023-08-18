@@ -1,6 +1,8 @@
-### Other notes on description (680)
+### General note (680)
 
-#### Other notes on description (680 $a)
+The field **General note** is to enter other notes on description.  
+
+#### General note (680 $a)
 
 Enter additional notes that describe the institution, such as:
 

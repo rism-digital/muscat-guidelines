@@ -1,8 +1,10 @@
-### Language code (041)
+### Language code (041)  
+
+The field **Language code** is for the language of the item.
 
 #### Language code (041 $a)
 
-**Required field.**
+Enter the language(s) of the item.  
 
-Enter the language(s) of the item. Use the three-letter ISO 639-2 abbreviations found
+The codes used are the three-letter ISO 639-2 abbreviations found
 here: [http://www.loc.gov/standards/iso639-2/php/code\_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)
