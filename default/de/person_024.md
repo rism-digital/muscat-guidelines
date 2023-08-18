@@ -1,4 +1,4 @@
-### Other standard identifier (024)
+### Andere Standardkennung (024)
 
 This field gives an alphanumeric code that refers to a name created by another agency.
 
