@@ -1,12 +1,12 @@
 ### Institution (110; ISDIAH 5.1.2)
 
-Este campo crea un punto de acceso autorizado que identifica de forma inequívoca a la institución con los fondos de archivo.
+The field **Institution** is for an authorized access point that uniquely identifies the institution.
 
-#### Institución (MARC 110 $a; ISDIAH 5.1.2)
+#### Institution (110 $a)
 
-Introduzca el nombre actual de la institución en el idioma local. Si el idioma original se escribe en un alfabeto no latino, regístrelo de forma transliterada.
+Introduzca el nombre actual de la institución en el idioma local. If the local language is in a non-Latin alphabet, write it in transliterated form.
 
-En los casos en que las bibliotecas, los archivos o los centros de documentación pertenezcan a una institución más grande, escriba primero el nombre de la institución más grande y añada la unidad subordinada separada por una coma.
+When libraries, archives or documentation centers belong to a larger institution, enter the name of the larger institution first and add the subordinate unit separated by a comma.
 
 ##### Examples
 
@@ -19,9 +19,9 @@ En los casos en que las bibliotecas, los archivos o los centros de documentació
 
 #### Forma autorizada del nombre (110 $a)
 
-Enter the name of the subordinate unite of the institution.
+Enter the name of the subordinate unit of the institution.
 
-#### Unidad subordinada (110 $b)
+  #### Place (110 $c)
 
 Registre la ciudad de la institución. Si el idioma original se escribe en alfabeto no latino, ingéselo de forma transliterada.
 
@@ -38,7 +38,7 @@ En caso de que una institución haya cambiado de nombre, sigue manteniendo la mi
 - GB-Cu = Reino Unido, Cambridge, University Library
 - F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique
 
-Ingrese el nombre de la unidad subordinada de la institución.
+Ingrese el nombre de la unidad subordinada de la institución. Double last names are written together, without a space.
 
 ##### Example
 
