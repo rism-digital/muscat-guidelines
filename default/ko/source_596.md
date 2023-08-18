@@ -1,6 +1,6 @@
 ### RISM series A/I and B reference (596)
 
-Enter cross-references to printed editions indexed in printed RISM series. This field is most commonly used if the source clearly presents the same work, such as a manuscript copy of a printed edition. This field can also include cross-references to other printed editions, such as for references to other editions or cases where confusion with a different edition might arise.
+Enter cross-references to printed editions indexed in RISM series. This field is most commonly used if the source clearly presents the same work, such as a manuscript copy of a printed edition. This field can also include cross-references to other printed editions, such as for references to other editions or cases where confusion with a different edition might arise.
 
 Include a **General note (500)** to explain the connection between the source in hand and the source cited in the 596.
 
@@ -22,7 +22,7 @@ Enter the reference to the piece in the RISM series. Note that each volume has a
 - Other
 - 1001100380
 
-Below are examples for each [RISM publication](http://www.rism.info/en/publications.html) that includes printed music:
+Below are examples of the formatting for each [RISM publication](http://www.rism.info/en/publications.html) that includes printed music:
 
 - A/I - _Einzeldrucke vor 1800/Individual Prints before 1800_
  - D 3552
@@ -37,7 +37,7 @@ Below are examples for each [RISM publication](http://www.rism.info/en/publicati
 - B/VI - _Écrits imprimés concernant la musique_
  - vol. 1, p. 406-407
 - B/VIII - _Das deutsche Kirchenlied_
- - 1653/18
+ - 1653/18 Mi Gläs 1653
 - B/IX/1 - _Hebrew notated manuscript sources up to circa 1840: A descriptive and thematic catalogue with a checklist of printed sources_
  - vol. 2, p. 881
 - B/IX/2 - _Hebrew writings concerning music in manuscripts and printed books from Geonic times up to 1800_
@@ -50,3 +50,7 @@ Below are examples for each [RISM publication](http://www.rism.info/en/publicati
  - p. 45-46
 - B/XVII - _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_  
   Cite the page number(s) if no other RISM series is cited.
+
+#### Reference record ID (596 $c)
+
+Link to the record that corresponds to the ciation in 596 $a and $b. Click on the magnifying glass to search. If the record is not yet in Muscat, contact the Editorial Center.  
