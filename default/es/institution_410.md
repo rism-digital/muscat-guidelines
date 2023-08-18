@@ -1,10 +1,10 @@
 ### Other form of name (410; ISDIAH 5.1.4)
 
-Este campo está destinado a cualquier otro nombre de la institución que no corresponda indicar en otro punto.
+The field **Other form of name** is for any other name(s) for the institution not given elsewhere.
 
 #### Other form of name (410 $a)
 
-Introduzca otras formas del nombre de la institución, así como otros nombres populares o no oficiales. Se contemplan otras formas del mismo nombre, acrónimos, nombres utilizados en publicaciones más antiguas (como los volúmenes del RISM) o cambios de nombre a lo largo del tiempo, consignando, de ser posible, las fechas pertinentes. Escriba cada nombre en una línea separada.
+Enter other forms of the name of the institution, including popular or non-official other names. Se contemplan otras formas del mismo nombre, acrónimos, nombres utilizados en publicaciones más antiguas (como los volúmenes del RISM) o cambios de nombre a lo largo del tiempo, consignando, de ser posible, las fechas pertinentes. Escriba cada nombre en una línea separada.
 
 ##### Examples
 
