@@ -1,14 +1,14 @@
 ### Item part of (760)
 
-Use este campo para vincular su item al anuario, periódico, libro o serie del que forma parte.
+The field **Item part of** is used to link the item to a larger unit, such as linking an article to a periodical, or a chapter to a yearbook, or a book to a series. Larger units must be in Muscat before they can be linked.
 
 #### Item parte de (760)
 
-Escriba el título del periódico, libro o serie. Este campo está vinculado a la base de datos de Bibliografía secundaria. Se pueden añadir títulos que aún no estén en la base de datos.
+Escriba el título del periódico, libro o serie. This field is linked to the **Secondary literature** database through $0.
 
 #### Título del periódico, libro o serie (760 $t)
 
-Introduzca, según corresponda, los números de volumen, número, año y/o página del artículo. For example, for a periodical enter the volume, year, and page numbers. Regístrelo de un modo que resulte apropiado al estilo de la revista.
+Introduzca, según corresponda, los números de volumen, número, año y/o página del artículo. Regístrelo de un modo que resulte apropiado al estilo de la revista.
 
 ##### Examples
 
