@@ -1,5 +1,7 @@
 ### Record origin (980)
 
+The field **Record origin** is an administrative field to show where the record originated.  
+
 #### Origin (980 $a)
 
 Select the origin of the record:
@@ -13,15 +15,14 @@ Select the origin of the record:
 
 Select the cataloging level.
 
-_Details will follow._
+- **Brief**: The record includes the minimum fields required to save a record in Muscat.   
+- **Standard**: The record includes fuller information than a brief record but frequently lacks incipits. There are often fields that have not been filled out which could be added in a later phase of record enhancement.    
+- **Full**: The record contains information in nearly all fields that can possibly be filled out for the source in hand. Music incipits are included.  
 
-- **Brief**  
-- **Standard**  
-- **Full**  
 
 #### Material examined (980 $c)
 
-Please indicate whether you directly examined the material as you were cataloging it.
+Indicate whether you directly examined the material as you were cataloging it.
 
 - **Material examined**
-- **Material not examined**: This can be used when the record was created using a description in a catalog.
+- **Material not examined**: This can be used when the record was created using a description published elsewhere, such as in an electronic library catalog or printed catalog.

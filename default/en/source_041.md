@@ -1,7 +1,6 @@
 ### Language code (041)
 
-This field is for the language used in the source, whether in sung text or in other elements such as dedications and
-prefaces in printed sources. Explanatory notes can be given in the field **Language note (546)**. Contact the RISM
+The field **Language code** is for the language used in the source. Explanatory notes can be given in the field **Language note (546)**. Contact the RISM
 Editorial Center if you need a language that is not on the list.
 
 #### Language of text (041 $a)

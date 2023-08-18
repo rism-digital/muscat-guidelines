@@ -1,6 +1,6 @@
 ### RISM series A/I and B reference (596)  
 
-Enter cross-references to printed editions indexed in RISM series. This field is most commonly used if the source clearly presents the same work, such as a manuscript copy of a printed edition. This field can also include cross-references to other printed editions, such as for references to other editions or cases where confusion with a different edition might arise.
+The field **RISM series A/I and B reference** is for cross-references to printed editions in RISM, whether in the RISM database or in the printed A/I and B volumes. This field is most commonly used if the source clearly presents the same work, such as a manuscript copy of a printed edition. This field can also include cross-references to other printed editions, such as for references to other editions or cases where confusion with a different edition might arise.
 
 Include a **General note (500)** to explain the connection between the source in hand and the source cited in the 596.
 
@@ -10,47 +10,26 @@ This field may not be used to indicate that a printed edition is absent from RIS
 
 #### RISM series A/I and B reference (596 $a)
 
-Select the RISM series. Use **Other** for references to printed editions that were originally cataloged in Muscat and not included in the printed volumes of the A/I and B series.
+Select the RISM series. Choose from the following list.
+
+- A/I - _Einzeldrucke vor 1800/Individual Prints before 1800_
+- B/I - _Recueils imprimés, XVIe-XVIIe siècles_
+- B/II - _Recueils imprimés, XVIIIe siècle_
+- B/III - _The theory of music_
+- B/VI - _Écrits imprimés concernant la musique_
+- B/VIII - _Das deutsche Kirchenlied_
+- B/IX/1 - _Hebrew notated manuscript sources up to circa 1840: A descriptive and thematic catalogue with a checklist of printed sources_
+- B/IX/2 - _Hebrew writings concerning music in manuscripts and printed books from Geonic times up to 1800_
+- B/XIII - _Hymnologica Slavica_
+- B/XV - _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630_  
+- B/XVII - _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_  
+- Other: References to printed editions that were originally cataloged in Muscat and not included in the printed volumes of the A/I and B series. 
 
 #### RISM series number (596 $b)
 
 Enter the reference to the piece in the RISM series. Note that each volume has a different way of referring to sources;
-some have individual numbers while others require page numbers.
+some have individual numbers while others require page numbers. For the citation style, see the form given for each volume in the **Secondary literature** database.
 
-
-##### Examples  
-
-- Other
-- 1001100380
-
-Below are examples of the formatting for each [RISM publication](http://www.rism.info/en/publications.html) that includes printed music:
-
-- A/I - _Einzeldrucke vor 1800/Individual Prints before 1800_
- - D 3552
- - H 6429a
- - AA 898 I,1
-- B/I - _Recueils imprimés, XVIe-XVIIe siècles_
- - 1616/14
-- B/II - _Recueils imprimés, XVIIIe siècle_
- - p. 87
-- B/III - _The theory of music_
- - vol. 4, p. 151-152
-- B/VI - _Écrits imprimés concernant la musique_
- - vol. 1, p. 406-407
-- B/VIII - _Das deutsche Kirchenlied_
- - 1653/18 Mi Gläs 1653
-- B/IX/1 - _Hebrew notated manuscript sources up to circa 1840: A descriptive and thematic catalogue with a checklist of printed sources_
- - vol. 2, p. 881
-- B/IX/2 - _Hebrew writings concerning music in manuscripts and printed books from Geonic times up to 1800_
- - 330
-- B/XIII - _Hymnologica Slavica_
- - HBS 1738/01
- - HP ca. 1558/09
-- B/XV - _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630_  
-Cite the A/I, B/I, or B/II number if given; otherwise, cite the page number(s).
- - p. 45-46
-- B/XVII - _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_  
-Cite the page number(s) if no other RISM series is cited.
 
 #### Reference record ID (596 $c)   
 

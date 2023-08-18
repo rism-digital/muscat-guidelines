@@ -26,15 +26,15 @@ The index of places collects the names of locations, including historical geogra
 
 ## Secondary literature
 
-The database of Secondary literature enables  catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. to be cited in Muscat records. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
+The database of Secondary literature enables catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. to be cited in Muscat records. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
 
 ## Subject headings
 
-All subject headings, musical forms, and genres are collected here. Some records include translations or explanations as to the scope of the subject heading. Subject headings are linked through the field **Subject heading (650 $a)** in Sources and **Subject heading (650 $a)** in Secondary literature. 
+All subject headings, musical forms, and genres are collected here. Some records include translations or explanations as to the scope of the subject heading. Subject headings are linked through the field **Subject heading (650 $a)** in Sources and **Subject heading (650 $a)** in Secondary literature.
 
 ## Titles/Text incipits
 
-The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a),** as well as the text incipits entered in the field **Text incipit (031 $t)**.
+The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a)**, as well as the text incipits entered in the field **Text incipit (031 $t)**.
 
 ## Work nodes
 
@@ -46,7 +46,7 @@ Links to work nodes are made through the field 930 in every bibliographic record
 
 **Creating a new work node**
 
-Please contact the RISM Editorial Center if you wish to create work nodes.
+Contact the RISM Editorial Center if you wish to create work nodes.
 
 When you open a template to create a new authority record for a work, use the **VIAF search** to look in VIAF to see if the work is already there, and click **select** to transfer the data to your authority record and make the link to VIAF. Note that only the field 100 is searched (i.e., composer name, scoring summary, opus/thematic catalog number, key, and title), so searching for variants is not possible. Keep in mind that different VIAF contributors have different ways of expressing works, so expect variations in the formulation of titles, instruments, and even thematic indexes. A good strategy is to search by composer name plus the number of the opus/thematic index.
 

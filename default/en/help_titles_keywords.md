@@ -39,12 +39,12 @@ Here are some examples for special situations:
    Use **Wind music** as both the standardized title and subject heading.
 
 8. For **sketches** of unknown compositions, use the distinctive title plus the subject heading **Sketches**. For
-   sketches of known compositions, please use the distinctive title of the work and **Sketches** as second subject
+   sketches of known compositions, use the distinctive title of the work and **Sketches** as second subject
    heading.
 
 9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
 
-The following list gives an idea of what standardized titles have a corresponding subject heading. Please note that this list is not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English in the plural) and not in translation.
+The following list gives an idea of what standardized titles have a corresponding subject heading. Note that this list is not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English in the plural) and not in translation.
 
 #### General instrumental and vocal music
 

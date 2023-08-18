@@ -8,9 +8,9 @@ In RISM, the word _collection_ refers to any item (whether manuscript or printed
 
 Collections in RISM have a parent/child hierarchy, meaning there is one main entry (parent record) that describes the collection as a whole, and individual entries (child or analytical records) that describe each piece therein separately.
 
-Collection parent records may not contain collection parent records of manuscripts. There are no smaller collections with collections, even though the item itself may be structured this way. Instead, use a flatter hierarchy by means of individual records and explain the structure, makeup, or organization of the item in a note. For example, if a collection consists of a single march followed by a set of six sonatas, you will create 1 parent record and 7 individual entries, one for each piece. Even if the six sonatas can be considered as a unit, they must be described separately. The parent record can explain the organization of the collection and notes in the individual records can explain that each sonata is part of a set.
+Collection parent records may not contain collection parent records of manuscripts. There are no smaller collections within collections, even though the item itself may be structured this way. Instead, use a flatter hierarchy by means of child records and explain the structure, makeup, or organization of the item in a note. For example, if a collection consists of a single march followed by a set of six sonatas, you will create 1 parent record and 7 individual entries, one for each piece. Even if the six sonatas can be considered as a unit, they must be described separately. The parent record can explain the organization of the collection and notes in the child records can explain that each sonata is part of a set.
 
-When cataloging collections, please note that:
+When cataloging collections, note that:
 
 1. The collection main entry (parent record) should contain information that applies to the entire collection.
 2. Any information that is relevant only for some sections of the collection should be entered in the individual entry or entries.
@@ -34,7 +34,7 @@ Do not confuse composite volumes with collections; see "Collections," above, for
 
 As with collection parent records, the information given in the composite volume record should be true for all of the components of the volume, and remember that detailed information related to the music belongs in the respective bibliographic records. Do not create separate records for multiple composite volumes that belong together, such as a set of partbooks bound by voice type; these should be described in the same record. In many cases, you will be leaving a lot of fields blank.
 
-When describing a composite volumes creating the links, please observe the following. As an example of a composite volume, see [RISM ID no. 1001077677](https://muscat.rism.info/admin/sources/1001077677), a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
+When describing a composite volumes creating the links, observe the following. As an example of a composite volume, see [RISM ID no. 1001077677](https://muscat.rism.info/admin/sources/1001077677), a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
 
 1. First, create the record for the composite volume, save, and note the RISM ID number.
 2. For manuscripts: In the editing mode of the record for your manuscript, go to the field **Parent record (773)**. Click the second button to search for the composite volume.   
@@ -45,7 +45,7 @@ When describing a composite volumes creating the links, please observe the follo
 
 **Contrafacta** are vocal pieces in which the text is changed without significant change to the music, such as retexting a secular work with sacred text, or the other way around. The derivation is almost mechanical; there is little creativity on the part of the arranger, but there is a significant change in the musical purpose (such as from a theatrical context to a religious one).  
 
-Please note that RISM considers contrafacta to be separate from parody and parody masses, which typically involve a more significant transformation of the musical material.  
+Note that RISM considers contrafacta to be separate from parody and parody masses, which typically involve a more significant transformation of the musical material.  
 
 Take note of the following fields when cataloging contrafacta. RISM ID no. 300234487, a sacred contrafactum of an aria from Josef Mysliveček's opera Il Bellerofonte, will be used as an example.
 
@@ -162,7 +162,7 @@ Operas that include **insertion arias** (also called suitcase arias or interpola
 
 Inserts that are separated from a larger work should be cataloged separately. A link to the work into which it was inserted can be indicated in the field **Related source (787**).
 
-The usual rules apply when creating the parent record and the record for the main opera. Please observe the following when cataloging the insert. Note that all fields (such as date of composition and scoring) pertain to the insertion only.
+The usual rules apply when creating the parent record and the record for the main opera. Observe the following when cataloging the insert. Note that all fields (such as date of composition and scoring) pertain to the insertion only.
 
 - **Composer (100)**: Composer of the insertion
 - **Additional name (700)**: Composer of the larger work, such as an opera
@@ -214,17 +214,17 @@ Individual entries are then created for each piece, following normal RISM rules.
 
 ### Collected works and monuments  
 
-Volumes that are part of collected works editions or monuments of music are treated like separate publications and are cataloged as one record per volume. Such volumes will usually consist of a parent record for the edition and individual entries for each piece contained therein. The name of the series is entered in the field **Additional title (730).**
+Volumes that are part of collected works editions or monuments of music are treated like separate publications and are cataloged as one record per volume. Such volumes will usually consist of a parent record for the edition and individual entries for each piece contained therein. The name of the series is entered in the field **Additional title (730)**.
 
-Please observe the following fields in particular when cataloging volumes in collected works. We will use [RISM ID no. 1001200051](https://muscat.rism.info/admin/sources/1001200051) as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
+Observe the following fields in particular when cataloging volumes in collected works. We will use [RISM ID no. 1001200051](https://muscat.rism.info/admin/sources/1001200051) as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
 
-- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. Enter all other titles in the field **Variant title on source (246).**  
+- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. Enter all other titles in the field **Variant title on source (246)**.  
 - **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.  
 - **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
 
 ### Libretti  
 
-Please observe the following when cataloging libretti.
+Observe the following when cataloging libretti.
 
 - **Composer/Author (100):** Enter the author of the libretto. Do not use this field for the composer of the music.
 - **Additional personal name (700):** A useful function is "conceptor," such as the author of a play that a libretto was based on. Only enter a composer's name as a cross-reference if named on the source.

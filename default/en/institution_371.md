@@ -9,11 +9,11 @@ Enter information in the following fields. Adjust the format of the information 
 - **State, province, or county** (371 $c)
 - **Country** (371 $d)
 - **Postal code** (371 $e)
-- **Email** (371 $m; ISDIAH 5.2.2): Enter the e-mail address necessary to contact the institution.
+- **Email** (371 $m; ISDIAH 5.2.2): Enter the email address necessary to contact the institution.
 - **URL** (371 $u): Use the official address of the institution. If this is not possible, give the official address of the larger institution to which it belongs. It is not recommended to give addresses for blogs or social networking sites.
 - **Start period** (371 $s): The starting date associated with the address of the institution.
 - **End period** (371 $t): The end date associated with the address of the institution.
-- **Source of information** (371 $v): The source where the information recorded in this field was found if not through a URL.
+- **Source of information** (371 $v): The source where the information recorded in this field was found if not through a URI.
 
 #### Public note/Other contact information (371 $z; ISDIAH 5.2.2, 5.2.3)
 

@@ -1,6 +1,6 @@
 ### Incipit (031)
 
-Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to
+The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to
 include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the
 highest voice and the first violin or the highest instrumental part. Notate transposing instruments at sounding pitch.
 
@@ -9,10 +9,13 @@ include an explanatory note. You can attach an image of the incipit from the sou
 
 Keep in mind that incipit transcription is primarily used for searching and identification, not for replicating the visual appearance of the score. The Plaine & Easie Code is an intentional simplification of Western notation and not all details can (or should) be encoded.
 
-For assistance with transcribing mensural notation, please see "Basic Mensural Notation Reference" by Ted
+For assistance with transcribing mensural notation, see "Basic Mensural Notation Reference" by Ted
 Dumitrescu ([http://www.cmme.org/misc/refsheet.pdf](http://www.cmme.org/misc/refsheet.pdf))).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
+
+_MARC export note:_  
+Records that contain an incipit (anything in field 031) receive $2pe upon saving, indicating that the incipit was created using the Plaine and Easie code.  
 
 #### Work number, movement number, incipit number (031 $a, b, c)  
 
@@ -42,15 +45,15 @@ The three-figure incipit number must be unique within a record. Number incipits 
 three-movement symphony but the middle movement is missing, the incipits will be numbered 1.1.1 and 1.2.1 (not 1.3.1).
 
 
-
-
-
 #### Title of movement, tempo (031 $d)
 
 Enter the title of the movement and tempo or similar indications, if specified, as it appears on the source. Use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Use square brackets to indicate
 supplements to the original; any such additions should be spelled consistently. Multiple titles or additional tempo
 markings can be added in separate fields. If you are entering multiple incipits for which the title or tempo indication
 is the same, enter it only for the first music incipit.
+
+**Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
+
 
 #### Voice/instrument (031 $m)
 
@@ -74,7 +77,7 @@ information with a question mark.
 A text incipit consists of the first few words of the piece or section and can be the first line, first phrase, or other
 group of words that make linguistic sense. Text incipits serve to identify the text used and do not necessarily need to
 match the length of music given in the music incipit. Text incipits can be included regardless of whether a music
-incipit is entered. Please note that separate rules apply to texts in Latin (see below).
+incipit is entered. Note that separate rules apply to texts in Latin (see below).
 
 Text incipits are given in standardized form. Enter the text incipit using modern spelling. Refer to the index **Title/text incipits** to help standardize your entry. Enter new incipits if they are not in the index.
 
@@ -112,7 +115,8 @@ example, when you search for the text "Et in terra pax", you will see about a do
 this source is used 4,800 times in the database. Therefore it is the one we want – presuming this matches your source.
 If your text incipit is only "Et in terra pax" then this means your source (1) contains only these words or (2)
 continues in a way that is different from the _Liber usualis_. This is of course possible, but in most cases you want
-the version with the comma.
+the version with the comma.  
+
 
 #### Key or mode (031 $r)
 
@@ -128,7 +132,7 @@ be added in square brackets.
 
 If there is no key signature, leave the field blank.  
 
-If there are multiple key signatures (such as if a movement changes frequently from major to minor and back again), enter the key signature of the incipit in question add an explanation in the field **General note (031 $q).**
+If there are multiple key signatures (such as if a movement changes frequently from major to minor and back again), enter the key signature of the incipit in question add an explanation in the field **General note (031 $q)**.
 
 ##### Examples
 
@@ -152,7 +156,9 @@ Enter time signatures as fractions. The following are also allowed:
 
 If the meter changes constantly, you can write the first time signature followed by the second, separated by a space.
 
-If the incipit is without a time signature, add one and also add an explanation in the field **General note (031 $q)** such as "Time signature added." Do not put the inferred time signature in square brackets.
+If the incipit is without a time signature, add one and also add an explanation in the field **General note (031 $q)** such as "Time signature added." Do not put the inferred time signature in square brackets.  
+
+**Obsolete procedures**: Older guidelines allowed a blank field here if the source lacked a time signature.
 
 ##### Examples
 
@@ -160,7 +166,7 @@ If the incipit is without a time signature, add one and also add an explanation 
 - 6/8
 - 3/4 4/4
 
-If the time signature in the source is obviously wrong, please correct it to match the incipit given. Include an
+If the time signature in the source is obviously wrong, correct it to match the incipit given. Include an
 explanatory note in the field **General note**.
 
 #### Clef (031 $g)
@@ -168,7 +174,7 @@ explanatory note in the field **General note**.
 Select a clef from the list. The letter indicates the kind of clef. A hyphen means modern notation. A plus sign means
 mensural notation. The number refers to position on the staff line.
 
-If no clef is on the source, select one from the list and include an explanatory note in the field **General note (031 $q).**    
+If no clef is on the source, select one from the list and include an explanatory note in the field **General note (031 $q)**.    
 
 #### Validity (031 $s)
 
@@ -228,14 +234,14 @@ qq...r = several appoggiaturas or ornaments which belong together (with rhythmic
 ##### 6. Rests  
 
 The '-' (minus sign) is for a single-note rest. Use '=' (equal sign) for a measure rest. For multiple measures of rest,
-follow the = with the number of measures. A bar line must be added for it to display.
+follow the = with the number of measures and a bar line.
 - Eighth-note rest
- - 8-
+ - 8-/
 - One measure of rest
- - -
- - =1
+ - -/
+ - =1/
 - Multiple measures of rest  
- - =35
+ - =35/
 
 ##### 7. Bar lines  
 
@@ -284,13 +290,9 @@ Instead though, the following shortcut is permitted:
 (6ABC)  
 ({6ABC})
 
-Please do not forget the rhythmic value within the bracket!
+Do not forget the rhythmic value within the bracket!
 
 ##### 11. Shortcuts  
-
-**Note:** Currently, the OPAC search ignores the repeated elements described in 11.1 and 11.2. This means that if you
-use those shortcuts, your incipits will not be fully searchable by the OPAC. Until this is fixed, please write out the
-incipit in full. (Shortcut 11.3 may be used as described.)
 
 ###### 11.1. Repeated figures  
 
@@ -317,10 +319,12 @@ i = repeat last bar
 When a certain rhythmic sequence is repeated several times, the rhythmic pattern can be given before the respective note
 letter names.
 
+The rhythmic sequence ends as soon a different rhythmic value occurs. Make sure that all notes as indicated by the pattern are present at least once.  
+
 ###### Example
 
 - Instead of **8.A6B8C8.D6E8F** the code can be **8.68ABCDEF**
-- The rhythmic sequence ends as soon a different rhythmic value occurs.
+
 
 ##### 12. Change of clef  
 
@@ -364,6 +368,8 @@ Enter chords from the highest to the lowest note, separated by a **^**.
 ###### Example
 
 - 4’’C^’G^E^C
+
+**Obsolete procedures**: In older cataloging programs, the field for encoded notation began with the control character $ followed by the key signature ($xFC for $bBE), and then a character that was entered as a ³ (superscript 3) but displayed as an _ (underscore). Incipits with no key signature started directly with an _.
 
 #### General note (031 $q)
 

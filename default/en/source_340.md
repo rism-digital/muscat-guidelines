@@ -1,12 +1,11 @@
 ### Special production technique (340)
 
-This field is for the physical description information for an item that required technical equipment for its production,
+The field **Special production technique** is for the physical description information for an item that required technical equipment for its production,
 and for the description of the page format.
 
 #### Printing technique (340 $d)
 
-You may indicate the technique(s) used in the production of the source here. If you need any term not on the list,
-please contact the Editorial Center.
+Indicate the technique used in the production of the source here. If you need any term not on the list, contact the Editorial Center.
 
 - **Autography**: Transfer printing (not to be confused with autograph manuscripts).
 - **Computer printout**
@@ -35,8 +34,8 @@ Engraved music that has a lithographed title page:
 
 #### Book format (340 $m)
 
-Select the format of the book resulting from folding a sheet to form a gathering of leaves (for example, a sheet folded
-once to form a folio, twice to form a quarto, three times to form an octavo). Select from the following:
+Select the format of the book. The book format results from folding a sheet to form a gathering of leaves. For example, a sheet folded
+once formats a folio, twice is a quarto, three times is an octavo. Select from the following:
 
 - **2°**: folio, fo
 - **4°**: quarto, 4to

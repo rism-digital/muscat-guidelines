@@ -1,6 +1,8 @@
 ### Contents note (520)
 
-The field **Contents note** is meant as MARC 364 (Dates of Publication) and is used to state the beginning and/or ending date(s) of an item, especially for periodicals.  
+Recte: **Dates of Publication (362)**  
+
+The field Contents note is meant as **Dates of Publication (362)** and is used to state the beginning and/or ending date(s) of an item, especially for periodicals.  
 
 #### Contents note (520 $a)
 
