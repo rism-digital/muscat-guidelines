@@ -1,10 +1,10 @@
 ### Authority reference (024)
 
-Este campo se utiliza para registrar el número o código estándar o URI asociado a la institución.
+The field **Authority reference** is used to record the standard number or code or URI associated with the institution.
 
 #### Referencia de la autoridad (024 $a)
 
-Introduzca el código alfanumérico utilizado para identificar los nombres. El código se toma de los datos de autoridad de la agencia creadora.
+Enter the alphanumeric code used to identify the institution. El código se toma de los datos de autoridad de la agencia creadora.
 
 #### Condiciones de disponibilidad (024 $c)
 
