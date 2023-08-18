@@ -1,13 +1,13 @@
 ### Preceding entry (780)
 
-#### Preceding entry (780 $w)
+The field **Preceding entry** is used to name and link an earlier name of an item, such as a journal title that has changed names.
 
-This field and the next field (**Succeeding entry**) are used to name and link alternate titles of items, such as a journal title that has changed names.
+#### Preceding entry (780 $t)
 
-Enter here the name that the periodical was formerly known as. This field is linked to the **Secondary literature** database.
+Enter here the former name of the periodical. This field is linked to the **Secondary literature** database through $w.
 
 ##### Example
 
-The journal _The Viola da Gamba Society Journal_ began in 2007 and was preceded by _Chelys. The Journal of the Viola da Gamba Society_ (published from 1969 to 2004). In the record for _The Viola da Gamba Society Journal_, enter the following:
+_Chelys. The Journal of the Viola da Gamba Society_ was published from 1969 to 2004. In 2007, the journal _The Viola da Gamba Society Journal_ began as a continuation of _Chelys_. In the record for _The Viola da Gamba Society Journal_, enter the following:
 
-- Preceding entry (780 $w): Chelys. The Journal of the Viola da Gamba Society
+- Preceding entry (780 $t): Chelys. The Journal of the Viola da Gamba Society
