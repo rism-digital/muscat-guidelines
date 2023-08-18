@@ -69,3 +69,11 @@ If your source is a mechanical reproduction (such as a photocopy), follow these 
 1\. Select  **Autograph manuscript**, **Manuscript copy**, etc. as it applies to the original source.
 
 2\. Select the type of reproduction in the field  **Special production technique (340 $d)**.
+
+If your source is typewritten, follow these steps:
+
+1\. Select a template for a handwritten item.
+
+2\. Select **Autograph manuscript** if the composer or author typed the document themselves. Select **Manuscript copy** if someone other than the composer or author typed the document themselves.
+
+3\. Select **Typescript** in the field  **Special production technique (340 $d)**.
