@@ -1,6 +1,6 @@
 ### RISM Dokumentnummer (001)
 
-Die RISM Dokumentnummer wird vom System vergegeben. Eine manuelle Eingabe ist nicht möglich.
+The field **RISM ID number** is the permanent RISM identifier for the record. This number is automatically generated and cannot be changed.
 
 In record imports, nine-digit RISM ID numbers are assigned. The first three digits of a nine-digit number indicate the contributing national group.
 
