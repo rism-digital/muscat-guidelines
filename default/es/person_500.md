@@ -1,12 +1,14 @@
 ### Related personal name (500)
 
+The field **Related personal name* describes familial relationships.
+
 #### Tipo de relación (500 $i)
 
-Este campo describe relaciones familiares. Registre el nombre personal que se relaciona con la persona en cuestión. Este campo está vinculado al archivo de autoridad de **Nombres personales.
+Registre el nombre personal que se relaciona con la persona en cuestión. This field is linked to the **Personal names** authority file through subfield $0.
 
 #### Nombre personal relacionado (500 $a)
 
-Indique el tipo de relación que une a la persona en cuestión con la persona relacionada. As an example, the authority record for Clara Schumann will have the following in this section: Schumann, Felix - mother of.
+Indique el tipo de relación que une a la persona en cuestión con la persona relacionada. For example, the authority record for Clara Schumann will have the following in this section: Schumann, Felix - mother of.
 
 Seleccione una de las siguientes opciones:
 
