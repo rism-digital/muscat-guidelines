@@ -112,7 +112,7 @@ Standard RISM rules for generic titles apply (see **Standardized title (240)**),
 
 ### Multiple copies in one institution
 
-If your institutions owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.  
+If your institution owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.  
 
 ### Record splits and mergers
 
