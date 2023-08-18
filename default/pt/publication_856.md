@@ -1,8 +1,10 @@
 ### External resource URL (856)
 
+The field **External resource URL** is used to link to external resources, such as an electronic version of the item, the publisher's website with more information, or a database.
+
 #### External resource URL (856 $u)
 
-Enter the full URL of the external resource. Use permalinks whenever possible.
+Enter the full URL of the external resource, beginning with http. Use permalinks whenever possible.
 
 #### Note about external resource (856 $z)
 
