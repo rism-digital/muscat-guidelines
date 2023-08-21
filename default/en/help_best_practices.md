@@ -42,6 +42,6 @@ Catalogers should not remove information from the core record if it is correct, 
 
 If a record has already been revised by another working group (evident by the presence of a library's siglum and shelfmark in the field **Source of description note (588)**), use cataloger's judgement as to whether futher revision is necessary. If you make further changes, make it clear in the note what revisions you contributed.
 
-If your copy is incomlete, revisions might still be possible, but make it clear in the **Source of description note (588)** that your copy is incomplete.
+If your copy is incomplete, revisions might still be possible, but make it clear in the **Source of description note (588)** that your copy is incomplete.
 
 If you wish to edit a record that was previously described using an incomplete copy, it must first be ensured that the accurate material information is preserved in the holdings record of the library with the incomplete copy. The Editorial Center can assist with transferring data to holdings records. 
