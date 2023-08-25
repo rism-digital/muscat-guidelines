@@ -9,7 +9,7 @@ Enter the latitude of the institution.
 
 #### Longitude (034 $d)
 
-Enter the latitude of the institution.
+Enter the longitude of the institution.
 
 ##### Examples
 
