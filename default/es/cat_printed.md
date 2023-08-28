@@ -21,7 +21,7 @@ The following offers guidelines as to which variations justify a new record and 
 - **Different content**: Differences in the title or authors/contributors. Edition statement that indicates corrections, revisions, expansions, abridgments, or the inclusion of supplementary materials.
 - **Different publisher.**
 - **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by the comparison of multiple copies).
-- **Different publication status**: An original title page has been canceled and replaced. A new label is covering the original publication, distribution, production, etc., statement. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page. Series title page is new.
+- **Different publication status**: An original title page has been canceled and replaced. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page. Series title page is new.
 - **Different plate and/or publisher numbers**.
 
 **Do not create a new record** if your item has one of these differences. If your item has _more than one_ of these differences, you must decide if a new record is necessary.

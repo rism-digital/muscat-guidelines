@@ -8,7 +8,7 @@ Images such as digitized resources should only be added as links that link to th
 
 #### 2. How can I change the order of {items in a collection, incipits, names, instruments, notes...}?
 
-It's quite simple: just click and drag! (Make sure you are clicking outside the white text field). Any repeatable field (designated by a **+** sign) can be organized this way.
+It's quite simple: just click on the arrow and drag! Any repeatable field (designated by a **+** sign) can be organized this way.
 
 #### 3. How can I add special characters?
 
@@ -34,7 +34,7 @@ If you create a music incipit in a different format (such as a full score in Sib
 
 #### 8. How can I delete a record?
 
-Please notify the RISM Editorial Center if you need to delete a record.
+Please notify the RISM Editorial Center if you need to delete a record, including holdings information.
 
 #### 9. What if my record is in the wrong template?
 

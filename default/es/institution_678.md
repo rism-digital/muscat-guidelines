@@ -1,5 +1,7 @@
-### History of the institution (678; ISDIAH 5.3.1)
+### History of institution (678; ISDIAH 5.3.1)
 
-#### History of the institution (678 $a)
+The field **History of institution** provides a concise history of the institution.
 
-Este campo proporciona una historia concisa de la institución. Introduzca una breve historia de la institución si es posible.
+#### History of institution (678 $a)
+
+Enter a short history of the institution.

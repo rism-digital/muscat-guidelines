@@ -1,17 +1,19 @@
 ### Media type (337)
 
-#### Tipo de medios (337 $a)
-
 **Campo obligatorio.**
+
+The field **Media type** is for the kind of medium represented by the item.
+
+#### Tipo de medios (337 $a)
 
 Seleccione el tipo de medio de la siguiente lista:
 
-- **Medio impreso**
-- **Electronic resource**: such as a database, website, or online catalog of works
+- **CD-ROM**
 - **E-book**
-- **Música impresa**
+- **Electronic resource**: such as a database, website, or online catalog of works
 - **Manuscript**: a handwritten document
 - **Combinación de medios**
-- **CD-ROM**
 - **Microficha**
 - **Microfilm**
+- **Medio impreso**
+- **Música impresa**  

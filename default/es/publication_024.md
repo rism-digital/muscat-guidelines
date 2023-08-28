@@ -1,8 +1,10 @@
 ### ISMN (024)
 
+The field **ISMN** is for the International Standard Music Number. The ISMN is a unique identifier for modern, commercial printed music.
+
 #### #### ISMN (024 $a)
 
-Registre el Número Estándar Intenacional de Música. El ISMN es un identificador único para la música impresa.
+Enter the ISMN.
 
 ##### Examples
 

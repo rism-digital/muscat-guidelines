@@ -1,6 +1,6 @@
 ### Número de ID de RISM (001)
 
-El número de identificación de RISM es generado automáticamente por Muscat para los registros nuevos.
+The field **RISM ID number** is the permanent RISM identifier for the record. Este número se genera automáticamente y no puede ser modificado.
 
 In record imports, nine-digit RISM ID numbers are assigned. The first three digits of a nine-digit number indicate the contributing national group.
 

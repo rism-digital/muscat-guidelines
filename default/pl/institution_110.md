@@ -1,12 +1,12 @@
 ### Institution (110; ISDIAH 5.1.2)
 
-This field creates an authorized access point that uniquely identifies the institution with archival holdings.
+The field **Institution** is for an authorized access point that uniquely identifies the institution.
 
-#### Authorized form of name (110 $a)
+#### Institution (110 $a)
 
-Enter the current name of the institution in the local language. If the original language is in a non-Latin alphabet, write it in transliterated form.
+Enter the current name of the institution in the local language. If the local language is in a non-Latin alphabet, write it in transliterated form.
 
-When libraries, archives or documentation centres belong to a larger institution, enter the name of the larger institution first and add the subordinate unit separated by a comma.
+When libraries, archives or documentation centers belong to a larger institution, enter the name of the larger institution first and add the subordinate unit separated by a comma.
 
 ##### Examples
 
@@ -19,9 +19,9 @@ When libraries, archives or documentation centres belong to a larger institution
 
 #### Subordinate unit (110 $b)
 
-Enter the name of the subordinate unite of the institution.
+Enter the name of the subordinate unit of the institution.
 
-#### Place (110 $c)
+  #### Place (110 $c)
 
 Enter the city of the institution. If the original language is in a non-Latin alphabet, write it in transliterated form.
 
@@ -38,7 +38,7 @@ In case an institution has changed its name, it still keeps the same siglum. (Fo
 - GB-Cu = United Kingdom, Cambridge, University Library
 - F-Pn = France, Paris, Bibliothèque nationale de France, Département de la Musique
 
-In the case of private collections, the last name of the owner is added to the city code in lowercase letters.
+In the case of private collections, the last name of the owner is added to the city code in lowercase letters. Double last names are written together, without a space.
 
 ##### Example
 

@@ -1,6 +1,6 @@
 ### Name variant (400)
 
-This field is for forms of the name that differ from the authorized form, such as birth names, pseudonyms, religious names, names spelled differently on different sources, alternate transliterations, etc.
+The field **Name variant** is for forms of the name that differ from the authorized form, including birth names, pseudonyms, religious names, names spelled differently on different sources, and alternate transliterations.
 
 #### Name variant (400 $a)
 
@@ -12,11 +12,11 @@ Additions to names such as Jr, III, Sir, Meister, etc. are entered here, for exa
 
 #### Life dates (400 $d)
 
-Do not enter anything in this field.
+Do not enter anything in this field.  This field may be filled out automatically if names are imported from VIAF. Any variants in life dates should be entered in the field **Source data found (670).**
 
 #### Type of name variant (400 $j)
 
-The default value is **xx** (unassigned). Select from the list:
+Select from the following list. The codes in square brackets refer to internal RISM codes.
 
 - **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets
 - **Baptismal name** [tn]
@@ -27,3 +27,6 @@ The default value is **xx** (unassigned). Select from the list:
 - **Pseudonym** [da]
 - **Religious name** [do]
 - **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_
+- **Uncategorized** [xx]
+
+The default value **xx** (unassigned) appears in older records.

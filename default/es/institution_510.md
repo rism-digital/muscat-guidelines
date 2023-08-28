@@ -1,6 +1,6 @@
 ### Parallel form of name (510; ISDIAH 5.1.3)
 
-Este campo presenta varias formas del nombre de una institución, incluidas las traducciones. También se pueden registrar aquí las relaciones con otras instituciones.
+The field **Parallel form of name** gives various forms of an institution's name, including translations. También se pueden registrar aquí las relaciones con otras instituciones.
 
 #### Parallel form of name (510 $a)
 
@@ -20,16 +20,16 @@ Seleccione un término del menú desplegable que describa el tipo de nombre.
 
 Seleccione una de las siguientes opciones:
 
-- Superior jerárquico
-- Subordinado jerárquico
 - Predecesor de la corporación
-- Sucesor de la corporación
 - Familia fundadora de la corporación
-- Miembro del órgano corporativo de la empresa
-- Miembro de la familia de la empresa
-- Corporación absorvida
-- Designación de la relación en $i o $4 [r]
+- Superior jerárquico
 - Cuerpo padre inmediato [t]
+- Subordinado jerárquico
+- Sucesor de la corporación
+- Miembro del órgano corporativo de la empresa
+- Corporación absorvida
+- Miembro de la familia de la empresa
+- Designación de la relación en $i o $4 [r]
 
 #### Información de la relación (510 $i)
 

@@ -1,6 +1,6 @@
 ### Associated place (370)
 
-Este campo se utiliza para registrar un lugar asociado a la institución.
+The field **Associated place** is used to record a place associated with the institution.
 
 #### País asociado (370 $c)
 

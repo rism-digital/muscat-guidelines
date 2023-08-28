@@ -1,6 +1,6 @@
-### Finding aids, guides and publications (856; ISDIAH 5.3.8)
+### Online finding aids (856; ISDIAH 5.3.8)
 
-En esta sección se ofrece un panorama general de los instrumentos de descripción y las guías, publicadas o no, preparadas por la institución, así como de cualquier otra publicación pertinente.
+The field **Online finding aids** provides a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
 
 Introduzca información (incluidas las URLs) sobre los instrumentos de descripción, catálogos, inventarios, etc. correspondientes a las colecciones de la institución.
 

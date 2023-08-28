@@ -1,8 +1,10 @@
 ### Places (551)
 
-#### Places (551)
+The field **Places** is used to record the location of the institution in 110 $c in standardized form.
 
-Registre nombres gráficos en este campo. El mismo está vinculado al índice de **Lugares**.
+#### Place (551 $a)
+
+Enter the city, village, town, etc. This field is linked to the **Places** index through $0.
 
 ##### Example
 

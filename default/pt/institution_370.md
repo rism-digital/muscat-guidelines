@@ -1,6 +1,6 @@
 ### Associated place (370)
 
-This field is used to record a place associated with the institution.
+The field **Associated place** is used to record a place associated with the institution.
 
 #### Associated country (370 $c)
 

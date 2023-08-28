@@ -1,10 +1,10 @@
 ### Other form of name (410; ISDIAH 5.1.4)
 
-This field is for any other name(s) for the institution not given elsewhere.
+The field **Other form of name** is for any other name(s) for the institution not given elsewhere.
 
 #### Other form of name (410 $a)
 
-Enter other forms of the name of the institution, as well as popular or non-official other names. This could include other forms of the same name, acronyms, names used in older publications (such as RISM volumes), or changes of name over time, including, if possible, relevant dates. Enter each name on a separate line.
+Enter other forms of the name of the institution, including popular or non-official other names. This could include other forms of the same name, acronyms, names used in older publications (such as RISM volumes), or changes of name over time, including, if possible, relevant dates. Enter each name on a separate line.
 
 ##### Examples
 

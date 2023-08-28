@@ -1,27 +1,27 @@
 ### Type of institution (368; ISDIAH 5.1.5)
 
-En este campo se registran otros atributos de la persona, entidad corporativa o el tipo de institución.
+The field **Type of institution** records other attributes of the institution.
 
 #### Type of institution (368 $a)
 
-Este campo identifica el tipo de institución con fondos de archivo.
+This field identifies the type of institution.
 
 Seleccione uno de los siguientes tipos:
 
 - Archivo
 - Biblioteca
-- Centro de documentación
 - Congress
+- Centro de documentación
 - Editorial
 - Institution
 - Intérprete
 - Fabricante de papel
-- Instituto de investigación
+- Otros
 - Imprenta
 - Librero
 - Museo
 - Nombre corporativo
-- Otros
+- Instituto de investigación
 
 
 #### Tipo de jurisdicción (368 $b)
@@ -29,7 +29,7 @@ Seleccione uno de los siguientes tipos:
 Introduzca el tipo de jurisdicción asociada a la institución.
 
 ##### Examples
--
+
 - County
 - Village
 

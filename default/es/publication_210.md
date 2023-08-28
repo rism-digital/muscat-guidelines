@@ -1,12 +1,16 @@
 ### Short title (210)
 
+The field **Short title** is a unique abbreviation assigned to items of secondary literature to enable easy and consistent reference throughout the RISM database.
+
 #### Short title (210 $a)
 
-**Campo obligatorio.**
+**Required field for most kinds of items.**
 
-Cada ítem de la Bibliografía secundaria recibe un título breve único que permite referenciarlo fácilmente en los registros RISM. Always check first to make sure a short title is not already in use.
+Enter the short title in accordance with the guidance below. Short titles may only be used once.
 
-Short tiles only apply to the edition described in the record. If a you would like to cite a different edition, please create a new record for the item.
+Short titles are not needed for serials or collected volumes of essays; for these kinds of publications, the short title is entered in the record for the individual artical or chapter.
+
+A short tile only apply to the edition described in the record. Separate records must be created for different editions.
 
 The following will describe how to create short titles for **general secondary literature**, **catalogs of works**, and **special cases**.
 
@@ -16,8 +20,8 @@ Los títulos breves de **bibliografía secundaria general** se componen de la si
 
 - **Apellido** de la/el autor(a) o editor(a)  
   _Los apellidos compuestos o con guión se escriben en su totalidad._
-- La **letra inicial** de una palabra clave del título, en mayúsculas  
-  _Por lo general es el nombre del compositor o el lugar; en otros casos, seleccione otra palabra importante_
+- **First letter** of a keyword from the title, capitalized  
+  _Usually the name of the composer, otherwise select a different important word_
 - **Espacio**
 - Si sólo se conoce un año aproximado de publicación, indique **ca.** (circa) al introducir el editor y el año de publicación en el registro, pero omítalo en el título breve.
 
@@ -32,7 +36,7 @@ Los títulos breves de **bibliografía secundaria general** se componen de la si
 - Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincónV 2009
 
-For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a letter (**a**, **b**, **c**, etc.) is added to the end of the year.
+For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a letter (**a**, **b**, **c**, etc.) is added to the end of the year for subsequent publications.
 
 ###### Examples
 
@@ -104,9 +108,9 @@ Un catálogo publicado como parte de un ítem mayor, como puede ser el apéndice
 - Bruno Scheithauer, _Verzeichniss sämtlicher gedruckten Werke Dr. Carl Loewe’s_ (Berlin, 1886).  
   → SchL
 
-Utilice las abreviaturas más difundidas para los catálogos de obras en caso de que cuenten con ellas (BWV, KV, Hob., etc.). You may also use the abbreviation used within the catalog as long as it does not lead to confusion.
+Use the well-established abbreviations for catalogs of works if they exist (BWV, KV, Hob., etc.) or the abbreviation used within the catalog, as long as the abbreviation is not already in use in Muscat.
 
-###### Example
+###### Examples
 
 - Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
   → QV
@@ -135,9 +139,7 @@ Publications that contain the term _thematic catalog_ in their titles are often 
 
 For modern music editions, use the last name of the editor plus the first letter of the last name of the composer. The year refers to the year that the modern edition was published.
 
-###### Examples
+###### Example
 
 - Barbara Strozzi, _Havete torto_, edited by Candace A. Magner (Cor Donato Editions, 2019).  
-  → StrozziH 2019
-
-No asigne un título breve a los libros, anuarios, informes de conferencias, etc. que consisten en una colección de ensayos. Any essays in such books are entered individually as literature references, not the entire book itself. The essay is entered as a literature record with its own short title.
+  → StrozziH 2019  

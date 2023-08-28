@@ -1,5 +1,7 @@
 ### Country of publication (044)
 
+The field **Country of publication** is for the country in which the item was published.
+
 #### Country of publication (044 $a)
 
-Use this field only for printed monographs. Enter the name of the country in which the item was published. Enter the name in English.
+Enter the country of publication. Select from the drop-down list. Use this field only for printed monographs. 

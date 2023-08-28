@@ -1,24 +1,31 @@
 ### Heading - Personal name (100)
 
-Este campo está destinado al nombre de la persona en su forma autorizada.
+The field **Heading - Personal name** is for the name of the person in its authorized form.
 
 #### Heading - Personal name (100 $a)
 
-Los nombres se introducen en la forma Apellido Nombre, con una coma separando los elementos de los nombres en orden invertido. If you only have initials, enter in direct order.
+Los nombres se introducen en la forma Apellido Nombre, con una coma separando los elementos de los nombres en orden invertido. If you only have initials or an artificially constructed name (such as a designation identifying a copyist), enter in direct (that is, uninverted) order.
 
-En el caso de los nombres escritos originalmente en alfabetos no latinos, en este campo introduzca la forma transliterada al alfabeto latino. The original form in non-Latin script, as well as alternate transliterations, can be entered in the field **Name variant (400 $a)**.
+For names originally written using non-Latin scripts, enter the transliterated form using the Latin alphabet in this field. The original form in non-Latin script, as well as alternate transliterations, can be entered in the field **Name variant (400)**.
 
 ##### Examples
--
+
 - Telemann, Georg Philipp
 - Joo Su-won
 - Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
 - A. C.
 - Copista C. H. Graun IX (Blechschmidt)
 
-#### Campo principal - Nombre personal (100 $a)
+#### Religious order/Title (100 $c)
 
-Este campo se utiliza para registrar órdenes de la Iglesia Católica Romana. Abbreviations are taking from the following Wikipedia page: [https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))
+This field is for entering religious orders or titles.
+
+Abbreviations for religious orders are taken from the following Wikipedia page: [https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))
+
+##### Examples
+
+- OCist
+- Dr.
 
 #### Orden religiosa (100 $c)
 
@@ -39,7 +46,7 @@ If the person's exact years of birth and/or death are unknown, use the following
 - **+****+:** murió  
   **1756+** = murió en 1756, año de nacimiento desconocido
 - **/**: or  
-  **17/18** = lived in the seventeenth and eighteenth centuries
+  **17/18** = lived in the seventeenth or eighteenth centuries
 
 Do not use the following abbreviations for date ranges: in, me, ex, q, d, t
 
@@ -55,11 +62,11 @@ Do not use the following abbreviations for date ranges: in, me, ex, q, d, t
 
 #### Años de nacimiento y muerte (100 $d)
 
-Este campo está destinado al uso interno del Centro Editorial del RISM.
+This field contains imported data from obsolete cataloging practices and is no longer in use.
 
-#### Estado (100 $w)
+#### Other life dates (100 $y)
 
-Ingrese fechas concretas en el formato DD. MM.AAAA. Los años de actividad o florecimiento deben ir precedidos de **fl.**
+The full life dates, including month and day, may be entered here. Ingrese fechas concretas en el formato DD. MM.AAAA. Los años de actividad o florecimiento deben ir precedidos de **fl.**
 
 ##### Examples
 
