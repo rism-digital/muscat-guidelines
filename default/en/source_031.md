@@ -132,8 +132,6 @@ be added in square brackets.
 
 If there is no key signature, leave the field blank.  
 
-If there are multiple key signatures (such as if a movement changes frequently from major to minor and back again), enter the key signature of the incipit in question add an explanation in the field **General note (031 $q)**.
-
 ##### Examples
 
 - xF = F is sharp = G major or E minor
