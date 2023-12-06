@@ -20,7 +20,7 @@ If you want to link to a website, do not enter the URL in a notes field. Rather,
 
 For books found on Google Books or other online repositories, always create a bibliographic record in the **Secondary literature** database for the book itself and not the repository; that is, cite the book and not Google Books.
 
-If you wish to refer to a musical source that is digitized but not in RISM, please contact the RISM Editorial Center to discuss having the source added.
+If you wish to refer to a musical source that is digitized but not in RISM, contact the RISM Editorial Center to discuss having the source added.
 
 #### 4. Making identifications
 
@@ -33,3 +33,15 @@ Sometimes it is not possible to access the source in person and the only descrip
 - Include a **General note (500)** that identifies the source of information, such as "Record based on description in YouV"
 - Link to the source of information in the field **Bibliographic reference (691)** or **External resource** (856) as appropriate
 - In the field **Record origin (980)**, subfield **Material examined**, select **Material not examined**
+
+#### 6. The shared cataloging environment of printed music
+
+Bibliographic records for printed editions exist in a shared cataloging environment where multiple libraries have editing rights to the same record. This differs from manuscripts, which are unique to the holding library. Due to the shared environment, care must be taken so that the implications of adding or deleting information from core bibliographic records is thought through.
+
+Catalogers should not remove information from the core record if it is correct, even if it is not relevant for local cataloging systems. Administrative information is stored in the records that can explain decisions made by the Editorial Center and the relationship to other records. Do not delete or edit data in the fields **Initial entry (775)**, **Local number (035)**, or **RISM series (510)**. Never delete a note that indicates that a record was merged with another record.
+
+If a record has already been revised by another working group (evident by the presence of a library's siglum and shelfmark in the field **Source of description note (588)**), use cataloger's judgement as to whether futher revision is necessary. If you make further changes, make it clear in the note what revisions you contributed.
+
+If your copy is incomplete, revisions might still be possible, but make it clear in the **Source of description note (588)** that your copy is incomplete.
+
+If you wish to edit a record that was previously described using an incomplete copy, it must first be ensured that the accurate material information is preserved in the holdings record of the library with the incomplete copy. The Editorial Center can assist with transferring data to holdings records. 
