@@ -14,15 +14,32 @@ It's quite simple: just click on the arrow and drag! Any repeatable field (desig
 
 Muscat supports Unicode (UTF-8), so make sure than any special characters are Unicode compliant. See, for example, [unicode-table.com](https://unicode-table.com/) for Unicode characters.
 
-#### 4. How can I use the folders?
+#### 4. How can I create and use folders?
 
-A folder can be created by selecting records on the main Sources page, then going to **Batch actions** above the list of records (on the upper left) and clicking on **Create folder with items**. You can also use **Batch actions** to add the selected records to an existing folder. View the items in your folder by selecting it on the right under **Is in folder**. From there, you can sort and search as usual. After any search in Sources, buttons under **Actions** appear: **Add all to new folder** and **Add all to an existing folder**. This refers to all of the records in the current list of search results.
+Folders can be created from any of the search pages for sources or authorities in Muscat. Folders can aid searching, and folders can be used to perform bulk actions through the Folder view. Folder sizes are limited to 25,000 records.
 
-On the **Folders** page linked from the top menu, you can find your folder by typing its name in the filter **Any field contains**. You can also delete your own folders.
+##### Creating and adding to folders
+There are two ways to create folders. From the search page, select records by checking the box on the left next to each record. Under **Batch actions** above the list of records on the upper left, click on **Create folder with items**. Name the folder and click **OK.** From **Batch actions** you can also add records to an existing folder. This method enables up to 100 records (the maximum number of results on a search page) to be added to a new or existing folder. The record selection is preserved only on the current page of results.
+
+The second way to create a folder is to perform any search and then look for the **Actions** list on the right-hand side of the page. By clicking on **Add all to a new folder**, all results from the search will be added to a new folder. Name the folder and save. By clicking on **Add all to an existing folder,** you can select the folder from the list of folders. This method enables up to 25,000 records (a folder's maximum size) to be added to a folder.
+
+##### Searching with folders
+
+On the search page, the filters include a drop-down menu called **Is in folder.** Select your folder to limit results to records that are only in that folder.
+
+##### Performing bulk actions
+
+On the main Folders page, you can click **View** to view the contents of any folder, **Edit** to change the name of your folders, and **Delete** to delete the folder. (The records in the folder will not be deleted.)
+
+When viewing your folder, the **Publish** button will change the status of the records from unpublished to published. You can also **Export** the contents of the folder as MARCXML or a CSV file, which is sent by email. **Validate** runs the records through Muscat's standard validation and the report is sent by email.
+
+##### Managing folders
+
+Muscat folders are visible to all Muscat users. Links to folders can be sent to other catalogers. Folders expire after six months, but the expiration date can be reset in the folder view.
 
 #### 5. How can I export records from Muscat?
 
-Single records can be viewed in XML format by appending .xml to any record's URL in the full record view. You can export your own folders containing records for sources (up to 25,000 records) in MARCXML or CSV format.
+There are several ways to export records. Single records can be viewed in XML format by appending .xml to any record's URL in the full record view. You can also create a folder of records and export them in MARCXML or CSV format (see question 4, above).
 
 #### 6. How can I check for errors in older records?
 
@@ -30,12 +47,12 @@ When viewing one of your own folders, click the "Validate items" link. You will 
 
 #### 7. How can I include more complex music incipits with my records?
 
-If you create a music incipit in a different format (such as a full score in Sibelius) and convert it to MEI, then you can upload the MEI file to Muscat. Currently, only the Editorial Center can do this; please contact us for assistance. This will be displayed as an image in the online catalog. A separate Plaine & Easie incipit would have to be made in order for it to be searchable.
+If you create a music incipit in a different format (such as a full score in Sibelius) and convert it to MEI, then you can upload the MEI file to Muscat. Currently, only the Editorial Center can do this; contact us for assistance. This will be displayed as an image in the online catalog. A separate Plaine & Easie incipit would have to be made in order for it to be searchable.
 
 #### 8. How can I delete a record?
 
-Please notify the RISM Editorial Center if you need to delete a record, including holdings information.
+Only the Editorial Center can delete a record. Notify the RISM Editorial Center if you need to delete a record, including holdings information.
 
 #### 9. What if my record is in the wrong template?
 
-Please notify the RISM Editorial Center if you need the template of a record to be switched.
+Notify the RISM Editorial Center if you need the template of a record to be switched.
