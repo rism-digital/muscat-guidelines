@@ -1,5 +1,7 @@
 ### Language note (546)
 
+The field **Language note** is for explanatory information to supplement information entered in the field **Language code (041)**.
+
 #### Nota de idioma (546 $a)
 
 Ingrese una nota sobre el idioma o los idiomas utilizado(s) en la fuente. Sólo puede rellenar este campo si ha realizado una entrada en el campo **Código de idioma (041).** Escriba la nota usando su idioma de catalogación. Haga el registro usando su propio idioma de catalogación.
@@ -7,7 +9,7 @@ Ingrese una nota sobre el idioma o los idiomas utilizado(s) en la fuente. Sólo 
 ##### Examples
 
 - Probably Italian
-- Berner dialect
+- Berner Dialekt
 - _Ejemplos_:  
   Probablemente italiano  
   Berner Dialekt  
