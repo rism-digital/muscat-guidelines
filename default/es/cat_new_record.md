@@ -1,4 +1,4 @@
-# Creating a new record
+# Records and record types
 
 A new record can be created in Muscat by either selecting the appropritate template or by copying an existing record. Links to both are on the Source page or the full record view.
 
@@ -7,6 +7,55 @@ A new record can be created in Muscat by either selecting the appropritate templ
 Muscat offers templates for different sources. La plantilla ofrecerá sólo los campos que se requieren para la fuente en cuestión.
 
 If you see that a record is in the wrong template, notify the Editorial Center to have the template changed.
+
+### Available templates
+
+A **Collection** record (parent record) is used when the item contains multiple works. Each work in the collection is then entered as an **item in the collection** (child record) and linked to the collection record. Manuscripts and prints can also exist as **single items alone** that are not part of collections.
+
+A **Composite volume** is a volume that consists of items that were created separately but later bound together, typically by an owner or institution. This includes volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
+
+Manuscripts are unique to a library and can only be owned by one institution. Printed materials have holdings, meaning that multiple libraries can own copies (exemplars) of an edition.
+
+The libretto template is used for documents that contain texts that clearly represent a sung musical performance. Most commonly, these are books that contain the words of an opera or other long vocal work, but they can also be collections of text-only  books such as hymnals or Christmas songs. Such publications are sometimes known as songsters, pocket books (frequently labeled as such on the source), or tunebooks.
+
+The treatise template is used for documents that explore theoretical aspects of music, including points of composition or performance.
+
+Both libretti and treatises may contain notated music, and the line between a libretto or treatise and music might not always be a clear one.
+
+The following templates are used in Muscat for Sources. Templates are encoded in the MARC record's Leader, positions 5-7.
+
+Manuscripts:
+- Music manuscripts
+ - Collection record (parent record) [LDR: ndc]
+   - Item in collection (child record) [LDR: ndd]
+ - Music manuscript alone [LDR: ndm]
+- Libretti
+ - Collection record (parent record) [LDR: ndc]
+   - Item in collection (child record) [LDR: ntm]
+  - Libretto alone
+- Treatises
+   - Collection record (parent record) [LDR: ndc]
+    - Item in collection (child record)
+   - Treatise alone
+
+Printed materials:
+- Printed music editions
+ - Collection record (parent record) [LDR: ncc]
+   - Item in collection (child record) [LDR: ncd]
+ - Music manuscript alone
+- Libretti
+ - Collection record (parent record)
+   - Item in collection (child record)
+  - Libretto alone
+- Treatises
+   - Collection record (parent record)
+    - Item in collection (child record)
+   - Treatise alone
+
+
+Composite volumes:
+- Composite volume [LDR: npc]
+
 
 ## Copying existing records
 
