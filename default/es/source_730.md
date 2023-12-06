@@ -1,6 +1,6 @@
 ### Título adicional (730)
 
-This field is for alternatives to the **Standardized title (240 $a)**, also in a standardized form, or for titles of periodicals and series.
+The field **Additional title** is for alternatives to the **Standardized title (240 $a)**, also in a standardized form, or for titles of periodicals and series. It is linked to the **Titles/Text incipits** index through $0.
 
 #### Título adicional (730 $a)
 
