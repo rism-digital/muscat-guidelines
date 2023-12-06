@@ -8,9 +8,9 @@ In RISM, the word _collection_ refers to any item (whether manuscript or printed
 
 Collections in RISM have a parent/child hierarchy, meaning there is one main entry (parent record) that describes the collection as a whole, and individual entries (child or analytical records) that describe each piece therein separately.
 
-Los registros madre de colección no pueden albergar registros madre de colección de manuscritos. There are no smaller collections with collections, even though the item itself may be structured this way. En su lugar, trabaje con una estructura menos jerarquizada, con registros individuales y explique la conformación u organización del ítem en una nota. For example, if a collection consists of a single march followed by a set of six sonatas, you will create 1 parent record and 7 individual entries, one for each piece. Even if the six sonatas can be considered as a unit, they must be described separately. The parent record can explain the organization of the collection and notes in the individual records can explain that each sonata is part of a set.
+Los registros madre de colección no pueden albergar registros madre de colección de manuscritos. There are no smaller collections within collections, even though the item itself may be structured this way. Instead, use a flatter hierarchy by means of child records and explain the structure, makeup, or organization of the item in a note. For example, if a collection consists of a single march followed by a set of six sonatas, you will create 1 parent record and 7 individual entries, one for each piece. Even if the six sonatas can be considered as a unit, they must be described separately. The parent record can explain the organization of the collection and notes in the child records can explain that each sonata is part of a set.
 
-Al catalogar colecciones, tenga en cuenta que:
+When cataloging collections, note that:
 
 1. La entrada principal de la colección (registro madre) debe contener información que aplique a toda la colección.
 2. Any information that is relevant only for some sections of the collection should be entered in the individual entry or entries.
@@ -34,7 +34,7 @@ Do not confuse composite volumes with collections; see "Collections," above, for
 
 Tal como con los registros madre de colección, la información consignada en el registro de volumen compuesto debería aplicar a todos los componentes del volumen, teniendo en cuenta que la información detallada en relación con la música corresponde a los registros bibliográficos respectivos. No cree registros separados para múltiples volúmenes compuestos que van juntos, tales como un conjunto de libros de partes ecuadernados por tipo de voz; es mejor que se los describa en el mismo registro. En muchos casos, deberá dejar muchos campos en blanco.
 
-When describing a composite volumes creating the links, please observe the following. As an example of a composite volume, see [RISM ID no. 1001077677](https://muscat.rism.info/admin/sources/1001077677), a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
+When describing a composite volumes creating the links, observe the following. As an example of a composite volume, see [RISM ID no. 1001077677](https://muscat.rism.info/admin/sources/1001077677), a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
 
 1. First, create the record for the composite volume, save, and note the RISM ID number.
 2. Para los manuscritos: en el modo de edición del registro de su manuscrito, vaya al campo **Registro madre (773)**. Haga click en el segundo botón (lupa de la derecha) para buscar el volúmen compuesto.
@@ -45,7 +45,7 @@ When describing a composite volumes creating the links, please observe the follo
 
 **Contrafacta** are vocal pieces in which the text is changed without significant change to the music, such as retexting a secular work with sacred text, or the other way around. La derivación es casi mecánica; hay poca creatividad en juego de parte del arreglador, aunque se plantea un cambio significativo en el propósito musical de la pieza (por ejemplo, el desplazamientpo de un contexto teatral a otro religioso).
 
-Por favor, nótese que RISM diferencia a los _contrafacta _de la parodia y las misas de parodia, las cuales, por lo general, involucran una transformación más significativa del material musical.
+Note that RISM considers contrafacta to be separate from parody and parody masses, which typically involve a more significant transformation of the musical material.
 
 Take note of the following fields when cataloging contrafacta. RISM ID no. 300234487, a sacred contrafactum of an aria from Josef Mysliveček's opera Il Bellerofonte, will be used as an example.
 
@@ -162,7 +162,7 @@ Operas that include **insertion arias** (also called suitcase arias or interpola
 
 Las inserciones que aparecen separadas de una obra mayor deben catalogarse por separado. Se puede indicar un enlace a la obra en la que eran interpoladas en el campo **Fuente relacionada (787).**
 
-A la hora de crear el registro madre y el registro de la ópera principal, se siguen las reglas usuales. Please observe the following when cataloging the insert. Considere lo siguiente al catalogar la inserción: tenga en cuenta que todos los campos (tales como como la fecha de la composición y la plantilla/orgánico) corresponden únicamente a la inserción.
+A la hora de crear el registro madre y el registro de la ópera principal, se siguen las reglas usuales. Observe the following when cataloging the insert. Considere lo siguiente al catalogar la inserción: tenga en cuenta que todos los campos (tales como como la fecha de la composición y la plantilla/orgánico) corresponden únicamente a la inserción.
 
 - No resulta extraño encontrar manuscritos e ítems impresos reunidos en la misma carpeta o bajo la misma signatura: por ejemplo, una partitura impresa con particellas manuscritas, o un grupo de particellas impresas junto con otras manuscritas.
 - **Nombre personal adicional (700):** Compositor de la obra mayor, como la Ópera
@@ -216,17 +216,17 @@ As an example we will use [RISM ID no. 990026614](https://muscat.rism.info/admin
 
 ### Collected works and monuments
 
-Volumes that are part of collected works editions or monuments of music are treated like separate publications and are cataloged as one record per volume. Such volumes will usually consist of a parent record for the edition and individual entries for each piece contained therein. The name of the series is entered in the field **Additional title (730).**
+Volumes that are part of collected works editions or monuments of music are treated like separate publications and are cataloged as one record per volume. Such volumes will usually consist of a parent record for the edition and individual entries for each piece contained therein. The name of the series is entered in the field **Additional title (730)**.
 
-Please observe the following fields in particular when cataloging volumes in collected works. We will use [RISM ID no. 1001200051](https://muscat.rism.info/admin/sources/1001200051) as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
+Observe the following fields in particular when cataloging volumes in collected works. We will use [RISM ID no. 1001200051](https://muscat.rism.info/admin/sources/1001200051) as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
 
-- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. Enter all other titles in the field **Variant title on source (246).**
+- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. Enter all other titles in the field **Variant title on source (246)**.
 - **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
 - **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
 
 ### Libretti
 
-Por favor, tenga en cuenta lo siguiente al catalogar libretos.
+Observe the following when cataloging libretti.
 
 - **Compositor/Autor (100):** Introduzca el autor del libreto. No utilice este campo para el compositor de la música.
 - **Nombre personal adicional (700):**"Autor del concepto" es una función útil, por ejemplo, para registrar al autor de una obra de teatro en la que se basa el libreto. Introduzca el nombre de un compositor como referencia cruzada sólo si se lo nombra en la fuente.
