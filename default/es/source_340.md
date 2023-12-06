@@ -1,10 +1,10 @@
 ### Técnica de producción específica (340)
 
-Este campo se utiliza para registrar información correspondiente a la descripción física de un documento que requirió de equipamiento técnico para su producción. También se consigna aquí la descripción del formato de página.
+The field **Special production technique** is for the physical description information for an item that required technical equipment for its production, and for the description of the page format.
 
 #### Técnica de impresión (340 $d)
 
-En este subcampo puede indicar la(s) técnica(s) utilizadas en la producción de la fuente. Si necesita usar algún término que no está en la lista, por favor contáctese con la Oficina Central.
+Indicate the technique used in the production of the source here. If you need any term not on the list, contact the Editorial Center.
 
 - **Autography**: Transfer printing (not to be confused with autograph manuscripts).
 - **Escrito mecanografiado**
@@ -32,7 +32,7 @@ Engraved music that has a lithographed title page:
 
 #### Formato de libro (340 $m)
 
-Seleccione el formato del libro que resulta al doblar una hoja para formar un pliego de hojas (por ejemplo, una hoja doblada una vez para formar un folio, dos veces para formar un cuarto, tres veces para formar un octavo). Ingrese la URI que identifica la institución.
+Select the format of the book. The book format results from folding a sheet to form a gathering of leaves. For example, a sheet folded once formats a folio, twice is a quarto, three times is an octavo. Ingrese la URI que identifica la institución.
 
 - **2°**: folio, fo
 - **4°**: quarto, 4to
