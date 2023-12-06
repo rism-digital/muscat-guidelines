@@ -26,7 +26,7 @@ El índice de lugares reúne los nombres de lugares, incluidos los nombres geogr
 
 ## Bibliografía secundaria
 
-The database of Secondary literature enables  catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. to be cited in Muscat records. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
+The database of Secondary literature enables catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. to be cited in Muscat records. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
 
 ## Descriptores
 
@@ -34,7 +34,7 @@ All subject headings, musical forms, and genres are collected here. Some records
 
 ## Titles/Text incipits
 
-The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a),** as well as the text incipits entered in the field **Text incipit (031 $t)**.
+The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a)**, as well as the text incipits entered in the field **Text incipit (031 $t)**.
 
 ## Work nodes
 
@@ -46,7 +46,7 @@ Links to work nodes are made through the field 930 in every bibliographic record
 
 **Creating a new work node**
 
-Please contact the RISM Editorial Center if you wish to create work nodes.
+Contact the RISM Editorial Center if you wish to create work nodes.
 
 Una vez abierta la plantilla para crear un nuevo registro de autoridad de una obra, use la **búsqueda en VIAF** para ver si la obra ya está cargada allí; si ese fuese el caso, haga click en **seleccionar** para transferir los datos a su registro de autoridad y hacer el enlace a VIAF. Tenga en cuenta que esta búsqueda examina sólo el campo 100 (es decir, nombre de compositor, resumen de plantilla/orgánico, número de opus o de catálogo temático, tonalidad y título), por lo que no es posible la búsqueda de variantes. Recuerde que los distintos colaboradores de VIAF tienen diferentes maneras de registrar obras, por lo cual es esperable que se encuentren variaciones en la formulación de los títulos, los instrumentos e incluso de los índices temáticos. Una buena estrategia consiste en buscar por el nombre de compositor más el número del opus/índice temático.
 
