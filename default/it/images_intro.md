@@ -4,7 +4,7 @@ The **Digital objects** database contains all images and MEI files that have bee
 
 Add an image (.jpeg or .png) by clicking on **Attach a new image** when you are editing a source. Always add a short description, such as a description of the watermark, the location on the source, or the siglum. This will help you find them later. Images are displayed in the order they are linked to the record.
 
-Please consult the RISM Editorial Center if you wish to add an MEI incipit.
+Consult the RISM Editorial Center if you wish to add an MEI incipit.
 
 When you are viewing an image, you have the following options on the right:
 
