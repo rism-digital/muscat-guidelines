@@ -20,7 +20,7 @@ RDA registry [rdaw:P10079](http://www.rdaregistry.info/Elements/w/#P10079)
 
 Enter the opus number, preceded by "op.", or the catalog of works number, preceded by the RISM abbreviation.
 
-Note that this field is a free-text field. References to catalogs of works must also be indexed; to do this, entered the reference again in the field **Source data found (670).**
+Note that this field is a free-text field. References to catalogs of works must also be indexed; to do this, entered the reference again in the field **Source data found (670)**.
 
 #### Key or mode (100 $r)
 
