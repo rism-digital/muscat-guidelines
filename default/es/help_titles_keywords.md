@@ -35,11 +35,11 @@ Aquí hay algunos ejemplos para situaciones especiales:
 7. Un arreglo de música para vientos de una obra teatral cuyo nombre se desconoce:  
    Utilice  **Wind music** tanto como título uniforme y como descriptor.
 
-8. Para bocetos de composiciones desconocidas, utilice el título distintivo y el descriptor **Skteches**. Para bocetos de composiciones conocidas, por favor utilice el título distintivo de la obra y **Sketches** como segundo descriptor.
+8. Para bocetos de composiciones desconocidas, utilice el título distintivo y el descriptor **Skteches**. For sketches of known compositions, use the distinctive title of the work and **Sketches** as second subject heading.
 
 9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
 
-La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Please note that this list is not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English in the plural) and not in translation.
+La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Note that this list is not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English in the plural) and not in translation.
 
 #### Música instrumental y vocal en general
 
