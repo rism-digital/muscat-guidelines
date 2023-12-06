@@ -21,7 +21,7 @@ Los **filtros** de Muscat permiten hacer búsquedas simples pero poderosas.
     - Sigla contiene: **D-B AND (I-\* OR F-P\*)**  
       Encontrará todos los casos de impresos conservados en el repositorio D-B de los cuales también haya copias en Italia o París.
 
-En cada campo puede ingresar:
+Note the following for all sections:
 
 - **Fecha**
 
@@ -31,7 +31,7 @@ En cada campo puede ingresar:
     - **Date range**: Note that since the day is set at midnight, to search for all records created on February 7, 2012, for example, you must enter the start date 2012-02-07 (understood as midnight on February 7) and the end date 2012-02-08 (understood as midnight on February 8). Esto incluirá todas las fuentes creadas durante el día. ¡Una búsqueda de 2012-02-7 a 2012-02-7 no mostrará ningún resultado!  
       Por favor, tenga en cuenta lo siguiente para buscar **Fuentes** :
 
-Please note the following for searching **Sources**:
+Note the following for searching **Sources**:
 
 - **Siglum contains**: Search by the letters in a siglum. Este campo registra mayúsculas y minúsculas. For example:  
   **D-*** = all sources in Germany  
@@ -40,7 +40,7 @@ Please note the following for searching **Sources**:
 
 ### Nombres personales
 
-Please note the following for searching **Personal names**:
+Note the following for searching **Personal names**:
 
 - **Name**: Searches the fields **Heading - Personal name (100 $a)** and **Name variant (400 $a)**.
 - **Life dates**: Searches the field **Years of birth and death (100 $d)**, meaning years as well as the following abbreviations: sc a p c \* + /
