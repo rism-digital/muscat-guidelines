@@ -1,7 +1,10 @@
 ### General note (500)
 
+The field **General note** is for any information on a source which could not be entered in other fields, to supplement the information given in encoded form elsewhere in the record, or to offer any other explanations that would help the reader.
+
 #### Nota general (500 $a)
-Cualquier información de la fuente que no pueda incluirse en otros campos puede registrarse aquí. Hágalo usando su propio idioma de catalogación. When quoting something on the source, use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Sus propios agregados a la transcripción siempre deben estar entre corchetes.
+
+Enter all other notes here. Hágalo usando su propio idioma de catalogación. When quoting something on the source, use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Sus propios agregados a la transcripción siempre deben estar entre corchetes.
 
 Al catalogar las existencias de un mismo repositorio, trate de uniformar las expresiones utilizadas en la mayor medida posible.
 
