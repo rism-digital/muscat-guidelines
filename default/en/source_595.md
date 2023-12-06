@@ -1,8 +1,8 @@
 ### Named dramatic role (595)
 
-**Make sure to fill out this field if you have entered a name in the incipit field Role (031 $e).**  
+The field **Named dramatic role** is to list the roles for dramatic music such as operas or oratorios. This field must be filled out if a name is entered in the incipit field **Role (031 $e)**.  
 
-Do not place articles after the main name. Where possible, the role should be listed from highest to lowest. Use a
+Write names in their natural order; do not place articles after the main name. Where possible, the role should be listed from highest to lowest. Use a
 question mark to indicate questionable information. Do not use commas.
 
 #### Dramatic role named, standardized (595 $a)

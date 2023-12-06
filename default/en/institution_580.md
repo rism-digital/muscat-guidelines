@@ -10,3 +10,5 @@ institution here. This field is linked to the **Institutions** authority file th
 ##### Example
 
 - D-WÜd
+
+**Obsolete procedures** This field duplicated Holdings now in (373$a), which was removed with version 6.1.

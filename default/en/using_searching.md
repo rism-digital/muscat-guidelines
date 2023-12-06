@@ -1,6 +1,6 @@
 ## Searching  
 
-**Searching** in Muscat is available through **filters** on the main Source page. For more extensive searching, including a music incipit search, use the public catalogs, the [RISM Catalog](https://opac.rism.info/) and [RISM Online](https://rism.online/). 
+**Searching** in Muscat is available through **filters** on the main Source page. For more extensive searching, including a music incipit search, use the public catalogs, the [RISM Catalog](https://opac.rism.info/) and [RISM Online](https://rism.online/).
 
 ### Muscat filters
 
@@ -22,7 +22,7 @@ You can enter in each field:
     - Siglum contains: **D-B AND (I-\* OR F-P\*)**   
       To find all prints in the library D-B where there are also copies in Italy or Paris
 
-Please note the following for all sections:
+Note the following for all sections:
 
 - **Date**
 
@@ -43,7 +43,7 @@ Please note the following for all sections:
       date 2012-02-08 (understood as midnight on February 8). This will include all sources created during the day. A
       search from 2012-02-07 to 2012-02-07 will be empty!
 
-Please note the following for searching **Sources**:
+Note the following for searching **Sources**:
 
 - **Siglum contains**: Search by the letters in a siglum. This field is case-sensitive. For example:  
   **D-*** = all sources in Germany  
@@ -52,7 +52,7 @@ Please note the following for searching **Sources**:
 
 ### Personal names
 
-Please note the following for searching **Personal names**:
+Note the following for searching **Personal names**:
 
 - **Name**: Searches the fields **Heading - Personal name (100 $a)** and **Name variant (400 $a)**.
 - **Life dates**: Searches the field **Years of birth and death (100 $d)**, meaning years as well as the following

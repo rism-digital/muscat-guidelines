@@ -1,6 +1,6 @@
 ### External resource (856)  
 
-Use this field to link to an external resource that bears a direct connection to the source being described.
+The field **External resource** is used to link to an external resource that bears a direct connection to the source being described.
 
 #### External resource URL (856 $u)
 

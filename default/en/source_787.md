@@ -1,6 +1,6 @@
 ### Related source (787)
 
-This field is used to indicate a relationship between the source in hand and another source in Muscat. Fill out all
+The field **Related source** is used to indicate a relationship between the source in hand and another source in Muscat. Fill out all
 three subfields in this section.
 
 When you indicate a relationship to another source, a link will appear in the full record view of the related source. If
@@ -29,7 +29,7 @@ are the [unconstrained properties from the RDA Registry](http://www.rdaregistry.
 
 #### Note (787 $n)  
 
-Briefly describe the nature of the relationship. Additional details may also be given in the field **General note (500**).
+Briefly describe the nature of the relationship. Additional details may also be given in the field **General note (500**). Write using your cataloging language.
 
 ##### Examples
 

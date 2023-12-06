@@ -1,7 +1,7 @@
 ### Publishing, printing, and production information (260)
 
-Information is entered here relating to the publication, printing, distribution, issue, release, or production for all
-types of sources. In all subfields here, indicate additions and completions with square brackets. Place a question mark
+The field **Publishing, printing, and production information** is for information relating to the publication, printing, distribution, issue, release, or production for all
+types of sources. In all subfields here, indicate editorial additions and completions with square brackets. Place a question mark
 after an uncertain piece of information.
 
 For printed music: If the original publishing information is covered by a label or otherwise crossed out or altered, and
@@ -44,12 +44,14 @@ and **after**. Try to indicate the date as exactly as possible. If you are uncer
 to a non-specific period, such as the eighteenth century or the end of the seventeenth century. See the table below.
 
 For printed items: If you have a print but it is undated, either enter an approximate date in square brackets or enter **[s.d.]**.
-Please make an effort to supply a reasonable date range for an undated print, such as by using the life dates of the
+Make an effort to supply a reasonable date range for an undated print, such as by using the life dates of the
 composer or arranger as a _terminus post quem_, or the active years of a publisher.
 
 Note that for manuscripts, dates are given without square brackets because manuscripts are rarely dated. Printed materials, by contrast, are more likely to include a date so any editorial guess should be in square brackets.  
 
 Other dates may be indicated as on the source. Use question marks to indicate uncertain information.
+
+
 
 ##### Examples  
  - 1875
@@ -95,6 +97,8 @@ For approximate periods of time, enter a range of years based on the following s
 - 18.2d (second half of the 18th century)
 - 18.sc (18th century)
 - 18/19 (18th or 19th century)
+
+Furthermore, previous cataloging programs had two fields for dating. One was for numbers only and the second was a text field where numbers plus abbreviations such as _+, ca., ante, post,_ and _18.sc_ or text such as _Easter 1805_ or _?1745?_ could be entered. Some legacy records, therefore, display two date indications, such as _1806 (1806 ca.)_. Dates written in the format XX.XX.XXXX are interpreted as DD.MM.YYYY.
 
 
 
