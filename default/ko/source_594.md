@@ -18,7 +18,7 @@ If the full scoring requirements are not given, or if your source is incomplete,
 
 If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
-For non-C instruments, standard tunings are listed in the abbreviation list. If the tuning in your source deviates from the standard tuning, please list the tuning in the source (see: **in A**). For instruments that are normally in C, "in C" does not need to be listed. If in doubt, list the tuning. Instrument tunings should be given in English. See **Appendix: Keys**.
+For non-C instruments, standard tunings are listed in the abbreviation list. If the tuning in your source deviates from the standard tuning, list the tuning in the source (see: **in A**). For instruments that are normally in C, "in C" does not need to be listed. If in doubt, list the tuning. Instrument tunings should be given in English. See **Appendix: Keys**.
 
 If you have a piece with an instrumentation that differs from the label on the source, such music for the Tenor 2 voice in a Quinta vox (V 5) partbook, use the more specific instrumentation if available. If the music is lacks such an indication but you are able to determine the actual voice with certainty, you are permitted to enter the actual voice. If there is any uncertainty, simply enter the part as on the source.
 
@@ -58,7 +58,7 @@ List parts from the highest to the lowest range. Enter one instrument per line. 
 - tr
 - org
 
-_MARC note: The field 594 $b is exported as 594 $a._
+_MARC note: The fields 594 $b and $c are combined and exported as 594 $a._
 
 #### Number (594 $c)
 
