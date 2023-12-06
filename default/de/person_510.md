@@ -1,6 +1,6 @@
 ### Associated institution (510)
 
-The field **Associated institution** is used to document institutions related to the persion.
+The field **Associated institution** is used to document institutions related to the person.
 
 #### Associated institution (510 $a)
 
