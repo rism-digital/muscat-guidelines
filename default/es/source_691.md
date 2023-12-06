@@ -1,6 +1,6 @@
 ### Referencia bibliográfica (691)
 
-Este campo registra referencias bibliográficas a la obra o la fuente. Cite bibliografía que haya sido utilizada durante el mismo proceso de catalogación o que refiera directamente a la fuente en cuestión. También puede consignar referencias a ediciones modernas relacionadas con la fuente y mencionar bibliografía sobre las filigranas presentes.
+The field **Bibliographic reference** gives bibliographic references related to the work or the source. Cite secondary literature when it was used during the cataloging process itself or if it refers directly to the source in question. También puede consignar referencias a ediciones modernas relacionadas con la fuente y mencionar bibliografía sobre las filigranas presentes.
 
 Tenga en cuenta que la información correspondiente al catálogo de obras se registra en el campo **Catálogo de obras (690)**.
 
@@ -14,7 +14,14 @@ Registre el título breve de la referencia. Este campo está vinculado la base d
 
 **Campo requerido si consigna una referencia bibliográfica (691 $a).**
 
-Enter the location within the item, frequently a number or page. Consult the full record for the item in the **Secondary literature** database for the preferred citation format. Use the following English abbreviations: **vol.** (volume), **fasc.** (fascicle), **suppl.** (supplement), **pt.** (part), **p.** (page or pages), **no.** (number), and **clm.** (column).
+Enter the location within the item, frequently a number or page. Consult the full record for the item in the **Secondary literature** database for the preferred citation format. Use the following English abbreviations:
+- **vol.**: volume
+- **fasc.**: fascicle
+- **suppl.**: supplement
+- **pt.**: part
+- **p.**: page or pages
+- **no.**: number
+- **clm.**: column
 
 ##### Examples
 
