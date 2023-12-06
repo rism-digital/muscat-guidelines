@@ -1,8 +1,8 @@
 ### Fingerprint identifier (026)
 
-A fingerprint identifier is used to assist in the identification of antiquarian books by creating groups of characters taken from specified positions on specified pages of the book.
+The field **Fingerprint identifier** is used to assist in the identification of antiquarian books by creating groups of characters taken from specified positions on specified pages of the book.
 
-Depending on the description standard used, fingerprints can be entered in online line (unparsed) or in separate groups.
+Depending on the description standard used, fingerprints can be entered in one line (unparsed) or in separate groups. Do not enter the same fingerprint in both ways.
 
 #### Unparsed fingerprint (026 $e)
 
