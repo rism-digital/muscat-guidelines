@@ -1,8 +1,10 @@
 ### Access restrictions (506)
 
+The field **Access restrictions** is for the terms and conditions of the holding institution.
+
 #### Restricciones de acceso (506 $a)
 
-Aquí pueden registrarse los términos y condiciones de la institución que alberga la fuente. Complételo usando su idioma de catalogación.
+Enter any access restrictions as determined by the holding institution. Complételo usando su idioma de catalogación.
 
 ##### Examples
 
