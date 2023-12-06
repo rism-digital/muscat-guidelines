@@ -18,7 +18,7 @@ If the full scoring requirements are not given, or if your source is incomplete,
 
 If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
-En el caso de los instrumentos transpositores, las afinaciones estándar aparecen en la lista de abreviaturas. If the tuning in your source deviates from the standard tuning, please list the tuning in the source (see: **in A**). Para instrumentos que normalmente están en Do, no es necesario indicar “in C” (en Do). Si surgieran dudas, registre la afinación. Es necesario que las afinaciones se consignen en inglés. See **Appendix: Keys**.
+En el caso de los instrumentos transpositores, las afinaciones estándar aparecen en la lista de abreviaturas. If the tuning in your source deviates from the standard tuning, list the tuning in the source (see: **in A**). Para instrumentos que normalmente están en Do, no es necesario indicar “in C” (en Do). Si surgieran dudas, registre la afinación. Es necesario que las afinaciones se consignen en inglés. See **Appendix: Keys**.
 
 If you have a piece with an instrumentation that differs from the label on the source, such music for the Tenor 2 voice in a Quinta vox (V 5) partbook, use the more specific instrumentation if available. If the music is lacks such an indication but you are able to determine the actual voice with certainty, you are permitted to enter the actual voice. If there is any uncertainty, simply enter the part as on the source.
 
@@ -58,7 +58,7 @@ Ordene las partes desde el registro más agudo al más grave. Ingrese un instrum
 - | | serpentone | serpent | Serpent (in Basslage, zur Zinkenfamilie gehörig) | serpent | serpentone | serpentón |
 - org
 
-_MARC note: The field 594 $b is exported as 594 $a._
+_MARC note: The fields 594 $b and $c are combined and exported as 594 $a._
 
 #### Número (594 $c)
 
