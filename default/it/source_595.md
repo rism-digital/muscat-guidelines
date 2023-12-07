@@ -6,9 +6,9 @@ Inserisci i nomi nel loro ordine naturale; non spostare eventuali articoli dopo 
 
 #### Nomi standardizzati dei personaggi (595 $a)
 
-Si possono elencare in questo campo i nomi di tutti i personaggi presenti di una composizione. Non è rilevante se siano menzionati nella fonte o derivati dalla bibliografia. Utilizza un'ortografia normalizzata. Indicate additions by using square brackets. You may enter the voice part following the name of the role in parentheses.
+Si possono elencare in questo campo i nomi di tutti i personaggi presenti di una composizione. Non è rilevante se siano menzionati nella fonte o derivati dalla bibliografia. Utilizza un'ortografia normalizzata. Indica eventuali aggiunte tra parentesi quadre. Puoi indicare il registro vocale tra parentesi dopo il nome del personaggio.
 
-##### Examples
+##### Esempi
 
 - Donna Flavia (S)
 - Theodor (T)
@@ -19,10 +19,10 @@ Si possono elencare in questo campo i nomi di tutti i personaggi presenti di una
 - ?Achiar?
 - Drei Knaben
 
-#### Dramatic role named, original spelling (595 $u)
+#### Nomi originali dei personaggi (595 $u)
 
-Enter the dramatic role that appears on the source if it differs in spelling from the standardized form given above.
+Inserisci il nome del personaggio come appare sulla fonte, se questo differisce nell'ortografia dalla forma normalizzata indicata sopra.
 
-##### Example
+##### Esempio
 
 - Pappageno
