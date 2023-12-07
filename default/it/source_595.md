@@ -1,12 +1,12 @@
-### Named dramatic role (595)
+### Personaggi menzionati (595)
 
-The field **Named dramatic role** is to list the roles for dramatic music such as operas or oratorios. This field must be filled out if a name is entered in the incipit field **Role (031 $e)**.
+Nel campo **Personaggi menzionati** puoi elencare i personaggi di composizioni come opere e oratori. Assicurati di riempire questo campo se hai inserito un nome sotto **Personaggio (031 $e)** nel campo per l'incipit.
 
-Write names in their natural order; do not place articles after the main name. Where possible, the role should be listed from highest to lowest. Use a question mark to indicate questionable information. Do not use commas.
+Inserisci i nomi nel loro ordine naturale; non spostare eventuali articoli dopo il vocabolo principale. Se possibile, elenca i personaggi dalla tessitura più acuta alla più bassa. Usa un punto interrogativo per indicare informazioni incerte. Non inserire virgole.
 
-#### Dramatic role named, standardized (595 $a)
+#### Nomi standardizzati dei personaggi (595 $a)
 
-The names of all the roles in a composition can be listed in this field, regardless of whether they are named on the source or derived from secondary literature. Use standardized spelling. Indicate additions by using square brackets. You may enter the voice part following the name of the role in parentheses.
+Si possono elencare in questo campo i nomi di tutti i personaggi presenti di una composizione. Non è rilevante se siano menzionati nella fonte o derivati dalla bibliografia. Utilizza un'ortografia normalizzata. Indicate additions by using square brackets. You may enter the voice part following the name of the role in parentheses.
 
 ##### Examples
 
