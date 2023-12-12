@@ -18,15 +18,15 @@ Nell'indice delle feste liturgiche si trovano feste religiose e giorni festivi. 
 
 La lista di voci di autorità per i nomi di persona riporta tutte le persone che sono in relazione a una fonte o a un'altra voce di autorità in Muscat. Si possono collegare nomi di persone nei campi **Compositore/Autore (100 $a)** e **Nome aggiuntivo di persona (700 $a)** nelle fonti, **Persona (700 $a)** tra le istituzioni, **Nome di persona collegato (500 $a)** tra le persone, **Autore (100 $a)** e **Nome aggiuntivo di persona (700 $a)** nella bibliografia, e **Compositore (100 $a)** nei riferimenti alle opere. RISM contribuisce a [VIAF (Virtual International Authority File)](https://www.viaf.org/) e i nomi aggiunti a RISM vengono periodicamente inviati a VIAF.
 
-Nomi nuovi possono essere modificati dal catalogatore della scheda per due mesi dopo essere stati creati. Catalogers are encouraged to fill out as much information in the authority record as they can, including links to VIAF, biographical information, and alternate spellings. After two months, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to alexander.marxen@rism.info.
+Nomi nuovi possono essere modificati dal catalogatore della scheda per due mesi dopo essere stati creati. Si incoraggiano i catalogatori a compilare il maggior numero di informazioni possibile nella voce di autorità, compresi collegamenti a VIAF, informazioni biografiche e ortografie alternative. Dopo due mesi, il controllo della scheda passa all’Editorial Center. Aggiunte sono ancora benvenute e possono essere comunicate tramite la funzione di commento o inviando una e-mail a alexander.marxen@rism.info.
 
-## Places
+## Luoghi
 
-The index of places collects the names of locations, including historical geographic names. The index is built from places entered in the following fields: **Location of performance (651 $a)** in Sources, **Geographic name (551 $a)** in Personal names, **Related place (651 $a)** in Secondary Literature, and **Place (551 $a)** in Institutions.
+L'indice dei luoghi raccoglie i nomi di località, compresi nomi geografici storici. L'indice è costituito dai luoghi inseriti nei seguenti campi: **Luogo di un'esecuzione (651 $a)** nelle fonti, **Nome geografico (551 $a)** nelle persone, **Luogo correlato (651 $a)** nella bibliografia, e **Luoghi (551 $a)** nelle istituzioni.
 
-## Secondary literature
+## Bibliografia
 
-The database of Secondary literature enables catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. to be cited in Muscat records. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
+La banca-dati bibliografica delle opere di riferimento consente di citare nelle schede Muscat cataloghi di opere, cataloghi tematici, libri, articoli, enciclopedie, risorse online, edizioni critiche, edizioni pratiche moderne ecc. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
 
 ## Subject headings
 
