@@ -1,14 +1,14 @@
-# Authorities
+# Indici
 
-The **Authorities** section of Muscat collects all authority files, controlled vocabulary, and indexes, and ensures that terminology is consistent throughout Muscat. Each of these is described in brief below. Full guidelines are included within each authority file.
+La sezione **Indici** di Muscat contiene tutte le voci di autorità, il vocabolario controllato e gli indici e garantisce un utilizzo uniforme della terminologia all’interno di Muscat. Ciascuno di questi è brevemente descritto qui di seguito. La descrizione di ogni voce di autorità comprende tutte le corrispondenti regole di catalogazione.
 
-## Digital objects
+## Oggetti digitali
 
-The digital objects database collects all of the images (typically watermarks, handwriting samples, or bindings) and MEI incipits that are attached to records in Muscat. You can attach digital objects to sources, people, and institutions.
+The digital objects database collects all of the images (typically watermarks, handwriting samples, or bindings) and MEI incipits that are attached to records in Muscat. Puoi collegare oggetti digitali a fonti, persone e istituzioni.
 
-## Institutions
+## Istituzioni
 
-The authority file for institutions (corporate names) describes non-persons that appear in connection with a source or other authority record in Muscat. This authority file contains both modern institutions (such as a library with a RISM library sigla) and historical corporate bodies (such as a publisher or an orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated instition (510 $a)** in Personal names, and **Additional instition (710 $a)** in Secondary literature.
+La lista di voci di autorità per le istituzioni (enti, nomi collettivi) riporta nomi non di persona che appaiono in relazione a una fonte. This authority file contains both modern institutions (such as a library with a RISM library sigla) and historical corporate bodies (such as a publisher or an orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated instition (510 $a)** in Personal names, and **Additional instition (710 $a)** in Secondary literature.
 
 ## Liturgical festivals
 
