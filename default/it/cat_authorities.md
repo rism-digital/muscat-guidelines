@@ -8,15 +8,15 @@ La banca-dati delle immagini riunisce tutte le immagini (di regola filigrane, es
 
 ## Istituzioni
 
-La lista di voci di autorità per le istituzioni (enti, nomi collettivi) riporta nomi non di persona che appaiono in relazione a una fonte. Questa lista di autorità contiene sia nomi di istituzioni moderne (come una biblioteca con una sigla RISM) che nomi collettivi storici (come un editore o un'orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated instition (510 $a)** in Personal names, and **Additional instition (710 $a)** in Secondary literature.
+La lista di voci di autorità per le istituzioni (enti, nomi collettivi) riporta nomi non di persona che appaiono in relazione a una fonte. Questa lista di autorità contiene sia nomi di istituzioni moderne (come una biblioteca con una sigla RISM) che nomi collettivi storici (come un editore o un'orchestra). Si può creare un collegamento a un'istituzione nel campo **Nome aggiuntivo di ente (710 $a)** nelle fonti, **Istituzione correlata (710 $a)** per le istituzioni, **Istituzioni correlate (510 $a)** tra le persone, e **Nome aggiuntivo di ente (710 $a)** nella bibliografia.
 
-## Liturgical festivals
+## Feste liturgiche
 
-The index of liturgical festivals collects religious holidays and feast days. Liturgical festivals can be linked in the field **Liturgical festival (657 $a)** in Sources.
+Nell'indice delle feste liturgiche si trovano feste religiose e giorni festivi. Si possono creare collegamenti alle feste liturgiche nel campo ** Festa liturgica (657 $a)** nelle fonti.
 
-## Personal names
+## Persone
 
-The authority file for personal names describes all people that are connected to a source or other authority record in Muscat. Personal names can be linked in the fields **Composer/Author (100 $a)** and **Additional personal name (700 $a)** in Sources, **Person (700 $a)** in Institions, **Related personal name (500 $a)** in Personal names, **Author (100 $a)** and **Additional personal name (700 $a)** in Secondary literature, and **Composer (100 $a)** in Work nodes. RISM is a contributor to [VIAF (Virtual International Authority File)](https://www.viaf.org/) so names contributed to RISM are sent to VIAF on a regular basis.
+La lista di voci di autorità per i nomi di persona riporta tutte le persone che sono in relazione a una fonte o a un'altra voce di autorità in Muscat. Si possono collegare nomi di persone nei campi **Compositore/Autore (100 $a)** e **Nome aggiuntivo di persona (700 $a)** nelle fonti, **Persona (700 $a)** tra le istituzioni, **Nome di persona collegato (500 $a)** tra le persone, **Autore (100 $a)** e **Nome aggiuntivo di persona (700 $a)** nella bibliografia, e **Compositore (100 $a)** nei riferimenti alle opere. RISM contribuisce a [VIAF (Virtual International Authority File)](https://www.viaf.org/) e i nomi aggiunti a RISM vengono periodicamente inviati a VIAF.
 
 New names can be edited by the record owner for two months after creation. Catalogers are encouraged to fill out as much information in the authority record as they can, including links to VIAF, biographical information, and alternate spellings. After two months, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to alexander.marxen@rism.info.
 
