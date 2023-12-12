@@ -18,7 +18,7 @@ Nell'indice delle feste liturgiche si trovano feste religiose e giorni festivi. 
 
 La lista di voci di autorità per i nomi di persona riporta tutte le persone che sono in relazione a una fonte o a un'altra voce di autorità in Muscat. Si possono collegare nomi di persone nei campi **Compositore/Autore (100 $a)** e **Nome aggiuntivo di persona (700 $a)** nelle fonti, **Persona (700 $a)** tra le istituzioni, **Nome di persona collegato (500 $a)** tra le persone, **Autore (100 $a)** e **Nome aggiuntivo di persona (700 $a)** nella bibliografia, e **Compositore (100 $a)** nei riferimenti alle opere. RISM contribuisce a [VIAF (Virtual International Authority File)](https://www.viaf.org/) e i nomi aggiunti a RISM vengono periodicamente inviati a VIAF.
 
-New names can be edited by the record owner for two months after creation. Catalogers are encouraged to fill out as much information in the authority record as they can, including links to VIAF, biographical information, and alternate spellings. After two months, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to alexander.marxen@rism.info.
+Nomi nuovi possono essere modificati dal catalogatore della scheda per due mesi dopo essere stati creati. Catalogers are encouraged to fill out as much information in the authority record as they can, including links to VIAF, biographical information, and alternate spellings. After two months, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to alexander.marxen@rism.info.
 
 ## Places
 
