@@ -28,9 +28,9 @@ L'indice dei luoghi raccoglie i nomi di località, compresi nomi geografici stor
 
 La banca-dati bibliografica delle opere di riferimento consente di citare nelle schede Muscat cataloghi di opere, cataloghi tematici, libri, articoli, enciclopedie, risorse online, edizioni critiche, edizioni pratiche moderne ecc. Un collegamento alla bibliografia si crea inserendo il **Titolo breve (210 $a)** nei campi **Catalogo delle opere (690 $a)** e **Riferimenti bibliografici (691 $a)** nelle fonti, **Bibliografia (670 $a)** tra le istituzioni e **Fonte dei dati (670 $a)** tra le persone.
 
-## Subject headings
+## Parole chiave
 
-All subject headings, musical forms, and genres are collected here. Some records include translations or explanations as to the scope of the subject heading. Subject headings are linked through the field **Subject heading (650 $a)** in Sources and **Subject heading (650 $a)** in Secondary literature.
+Tutti i soggetti, le forme e i generi musicali sono raccolti qui. Alcune schede includono traduzioni o spiegazioni in merito alla portata della parola chiave. All'indice delle parole chiave si creano collegamenti nei campi **Soggetto (650 $a)** nelle fonti e **Soggetto (650 $a)** nella bibliografia.
 
 ## Titles/Text incipits
 
