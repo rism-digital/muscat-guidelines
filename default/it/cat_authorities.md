@@ -26,7 +26,7 @@ L'indice dei luoghi raccoglie i nomi di località, compresi nomi geografici stor
 
 ## Bibliografia
 
-La banca-dati bibliografica delle opere di riferimento consente di citare nelle schede Muscat cataloghi di opere, cataloghi tematici, libri, articoli, enciclopedie, risorse online, edizioni critiche, edizioni pratiche moderne ecc. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
+La banca-dati bibliografica delle opere di riferimento consente di citare nelle schede Muscat cataloghi di opere, cataloghi tematici, libri, articoli, enciclopedie, risorse online, edizioni critiche, edizioni pratiche moderne ecc. Un collegamento alla bibliografia si crea inserendo il **Titolo breve (210 $a)** nei campi **Catalogo delle opere (690 $a)** e **Riferimenti bibliografici (691 $a)** nelle fonti, **Bibliografia (670 $a)** tra le istituzioni e **Fonte dei dati (670 $a)** tra le persone.
 
 ## Subject headings
 
