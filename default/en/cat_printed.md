@@ -18,7 +18,7 @@ Information for the core level includes composer, publisher, title, instrumentat
 
 ### When to input a new record
 
-RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add thier holdings information and note any copy-specific differences. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created.
+RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created.
 
 The following offers guidelines as to which variations justify a new record and which do not. (This section draws heavily from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
@@ -112,7 +112,7 @@ Standard RISM rules for generic titles apply (see **Standardized title (240)**),
 
 ### Multiple copies in one institution
 
-If your institutions owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.  
+If your institution owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.  
 
 ### Record splits and mergers
 

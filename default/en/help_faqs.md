@@ -39,7 +39,7 @@ Outside of Muscat, published Muscat records are availble through RISM's [SRU dow
 
 #### 8. When do Muscat records appear in the public catalogs?
 
-Muscat records are sent for publication in the [RISM Catalog](https://opac.rism.info/) once a month, at around the 19th of each month. Records are then visible a few days later.  
+Muscat records are sent for publication in the [RISM Catalog](https://opac.rism.info/) once a month, at around the 19th of each month. Records are then visible a few days later.  [RISM Online](https://rism.online) is updated daily, so new records and changes will appear there on the following day.
 
 [RISM Online](https://rism.online/) is updated once a day with records from Muscat.
 
