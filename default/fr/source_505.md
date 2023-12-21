@@ -1,7 +1,10 @@
 ### Contents note (505)
 
+The field **Contents note** is for information related to the contents of the source.
+
 #### Contents note (505 $a)
-Enter additional information about the contents of the source which does not fit into any other category, such as:
+
+The names of all the pieces within a collection or all the movements with a piece can be entered here. In addition, further information about the contents of the source which does not fit into any other category can be included here, such as:
 
 - Information on different versions of the work
 - Information on the structure of collections

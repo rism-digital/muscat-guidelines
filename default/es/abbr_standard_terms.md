@@ -280,6 +280,10 @@ guard sheet
 
 - DE: Deckblatt
 
+half title
+
+- DE: Kurztitel
+
 halve
 
 - DE: halbieren

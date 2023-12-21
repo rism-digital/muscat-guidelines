@@ -1,6 +1,6 @@
 ### Library siglum (852)
 
-Information about the library or institution that holds the source is entered here.
+The field **Library siglum** is for information about the library or institution that holds the source (also known as the holding library).
 
 #### Library siglum (852 $a)
 

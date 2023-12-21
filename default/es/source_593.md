@@ -1,15 +1,15 @@
-Source type (593)
-=================
+### Source type (593)
 
 **Campo requerido.**
 
-This field describes the nature of the material as well as its contents.
+The field **Source type** describes the nature of the material as well as its contents.
 
 #### Tipo de fuente (593 $a)
 
 The **Source type** describes material characteristics. The options offered are based on the template chosen. Seleccione una opción entre las siguientes:
 
-**For handwritten materials**
+##### For handwritten materials
+
 - **Autograph manuscript**: Written completely or mostly in the composer’s hand. If you have entered Anonymus as the composer and wish to select autograph manuscript here, add an explanation in the **General note (500)**.
 - **Possible autograph manuscript**: Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
 - **Partial autograph**: Significant portions of the manuscript are in the composer's hand.
@@ -17,7 +17,8 @@ The **Source type** describes material characteristics. The options offered are 
 - **Manuscript copy with autograph annotations**: The manuscript is in the hand of a person other than the composer, but corrections or small additions are in the composer’s hand.
 - **Additional printed material**: Printed material is present but will not be described in a separate record (see below).
 
-**For printed materials**
+##### For printed materials
+
 - **Print**: This is selected by default when a template for printed material has been chosen.
 
 In the holdings information, you can further select from the following:
@@ -26,12 +27,13 @@ In the holdings information, you can further select from the following:
 - **Print with non-autograph annotations**: Handwritten annotations not by the composer.
 - **Additional manuscript material**: Manuscript material is present but will not be described in a separate record (see below).
 
-**For composite volumes**
+##### For composite volumes
+
 - **Composite**: This is selected by default.
 
 For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differenciate futher.
 
-**Additional printed or manuscript material**
+##### Additional printed or manuscript material
 
 Manuscript templates offer the option **Additional printed material.** In templates for printed items, the holdings information offers **Additional manuscript material**. This is to create a space in your record to briefly describe materials that accompany your main source but differ from the template type.
 
@@ -54,21 +56,29 @@ For composite volumes that contain more than one content type, you may also sele
 
 - **Mixed**
 
-#### Other remarks
+#### Casos especiales
+
+##### Collections
+
+You may choose the combination of source type and content type that best summarizes the collection as a whole, or multiple material groups may be added for each kind of source. Keep in mind that differenciated information will always be provided in the child record.
+
+##### Composers, arrangers, and copyists
 
 In the case of autograph manuscripts and possible autograph manuscripts, do not create an added entry **(700)** with the composer's name as the copyist. However, an exception is if the identity of the copyist is certain but it is uncertain if the copyist is also the composer. In such a case, enter the copyist's name in the field **Additional personal name (700)** but add the same name to the field **Composer/Author (100 $a)** with the appropriate **Attribution qualifier (100$j)**.
 
 In some cases, such as with a partial autograph, an explanatory note in the field  **General note (500)** may be appropriate.
 
-If the arranger of a composition was also the copyist, select  **Manuscript copy** and not  **Autograph manuscript**.
+If the arranger of a composition was also the copyist, select **Manuscript copy** and not  **Autograph manuscript**.
 
-If multiple types of sources are present, repeat the  **Material description** group to select and describe each type of source.
+##### Photocopies
 
 Si su fuente es una reproducción mecánica (por ejemplo, una fotocopia), siga estos pasos:
 
 1\. Select  **Autograph manuscript**, **Manuscript copy**, etc. as it applies to the original source.
 
 2\. Select the type of reproduction in the field  **Special production technique (340 $d)**.
+
+##### Typewritten items
 
 If your source is typewritten, follow these steps:
 

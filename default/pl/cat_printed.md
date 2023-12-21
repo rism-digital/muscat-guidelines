@@ -1,8 +1,8 @@
-## Printed music in RISM
+## Printed editions in RISM
 
-The section **Printed music in RISM** outlines some considerations that are particular to printed music, including the scope of printed music in RISM, when to input a new record, standardized titles, and multiple copies.
+The section **Printed editions in RISM** outlines some considerations that are particular to printed music, including the scope of printed editions in RISM, core records vs. copy-specific information, when to input a new record, standardized titles, multiple copies, record splits and mergers, and printed editions from Series B.
 
-### Scope of printed music in RISM
+### Scope of printed editions in RISM
 
 RISM seeks to document printed music from the beginnings of music printing through around 1945.
 
@@ -10,9 +10,15 @@ In the course of the 20th century and up to today, we see a sharp increase in co
 
 RISM will consider printed music that falls outside of its scope on a case-by-case basis. Relevant cases could include defunct publishers or smaller, regional publishers of historical significance, or modern editions that are part of a collection with historical value, such as the private library of an individual.
 
+### Core records vs. copy-specific information
+
+Muscat has a two-tiered structure for printed editions: a core bibliographic level and the holdings level. Information that is true for the edition as a whole is entered on a core bibliographic level, and information specific to a library's copy is entered on the holdings level.
+
+Information for the core level includes composer, publisher, title, instrumentation, plate number, and format. Information for the holdings level includes holding library, shelfmark, missing parts, handwritten additions, previous owners, bindings, and ownership stamps. MARC fields on the holdings record are linked through $3.
+
 ### When to input a new record
 
-RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add thier holdings information and note any copy-specific differences. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created.
+RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created.
 
 The following offers guidelines as to which variations justify a new record and which do not. (This section draws heavily from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
@@ -53,14 +59,14 @@ Example 2: You are looking at RISM ID number 990044663: Mozart, Quartets, Bonn, 
 
 Example 3: You are looking at RISM 990024126: Gyrowetz, Symphonies, op. 9. The RISM record represents a set of multiple symphonies. Each symphony is available as a separate publication with separate plate numbers, issued as _livres_ 1, 2, and 3.
 
-1. Option 1, the quick solution: If your library only has one of the items in the set, **add your holdings** and in the field "Material held" please note which symphony (livre) you have.
+1. Option 1, the quick solution: If your library only has one of the items in the set, **add your holdings** and in the field "Material held" note which symphony (livre) you have.
 2. Option 2, a better solution, but takes more time: **Notify the Editorial Center** about this record and we will split the record into 3, one record for each symphony. Then, add your holdings to the record for the symphony you have.
 
 ### Standardized titles for printed music
 
 #### Distinctive titles
 
-Printed music bears distinctive titles much more frequently than music manuscripts do. Please observe the following for the field **Standardized title (240)** when cataloging printed music.
+Printed music bears distinctive titles much more frequently than music manuscripts do. Observe the following for the field **Standardized title (240)** when cataloging printed music.
 
 1. **Spelling**
 
@@ -101,9 +107,63 @@ Standard RISM rules for generic titles apply (see **Standardized title (240)**),
 
   - RISM ID no. 993000147
     - Title on source: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. Stimmen. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
-    - Standardized title: Preussische Festlieder
-    - Additional title: Preussische Festlieder, Teil 2
+    - Standardized title: Preussische Festlieder, Teil 2
+
 
 ### Multiple copies in one institution
 
-If your institutions owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.
+If your institution owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.
+
+### Record splits and mergers
+
+#### Background
+RISM's first cataloging projects from the 1950s to 1970s focused on printed music. Many shortcuts were taken related to the challenges of collating catalog cards from the worldwide network of RISM contributors, and the space limitations of printed books. The volumes published in RISM's series A/I, B/I, and B/II frequently necessarily summarized multiple editions into a single entry and alluded to potential points of differentiation without further elaboration. At the same time, having multiple contributors at times resulted in the same edition unwittingly being described multiple times but from different access points.
+
+Today, the online environment allows the flexibility to have one record describe one edition. This means that records that describe multiple editions should ideally be split, and multiple records that describe the same edition should be merged.
+
+##### Record splits
+
+A record should be split when there is evidence that multiple, distinct printed editions are described in one record. The implication of a distinct edition is that it was conceived as a unit by the publisher and was available on its own on the market. The result is that consumers (and later, libraries) were able to acquire the edition on its own, with or without the other editions in the series or set.
+
+You can recognize the presence of distinct eidtions through conventions such as the following that will appear in the records.
+
+The field **Title on source (245)** will often mention multiple parts or several keys:
+- Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3)
+- Sinfonie [C, F, A] à grand orchestre
+- Concert pour la flûte traversière ... libro I(-VI)
+- Divine harmony. Six select anthems … (Divine harmony. The 2|d collection being select anthems ...)
+
+The field **Plate number (028)** will list multiple plates, with successive plate numbers in parentheses:
+- 1192
+- (1198)
+- (1199)
+- (1217)
+- (1218)
+
+The field **General note (500)** or the **holdings information** will mention multiple editions, usually in German or English:
+
+- Multiple editions
+- GB-Lbl (2 verschiedene Ausgaben)
+
+In the **holdings information**, there are usually indications that only a certain part or book is held, and the language of the indication will generally follow the language of the editions's title:
+
+- F-Pc K-733 [libro II]
+- D-F Mus. pr. Q 55/349 [livre 1]
+- CH-Bu [2., 3. Buch]
+
+In cases of record splits, the RISM series number is carried over to all new records.
+
+##### Record mergers
+
+Catalogers should be aware that duplicates in the database can sometimes be found. Some duplicates originated in the printed RISM A/I or B series: pasticcios or other collaborative works were entered under multiple composers, an edition classified in the B/I series was also published in A/I, or an edition was simply entered twice within a long list. In addition, sometimes catalogers inadvertently create duplicate records.
+
+Duplicate records are undesirable and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.
+
+
+##### Procedure
+
+Record splits and mergers can only be carried out by the Editorial Center and are done on an ad-hoc basis. If you notice a case when records should be split or merged, contact the Editorial Center.
+
+#### Printed editions from Series B
+
+The Editorial Center carried out automated imports for the entries in A/I and B/I. While further automated imports are not planned for other volumes in series B, it is welcome and desirable for RISM contributors to add editions found in B volumes by hand. When so doing, fill in the field **RISM series (510)** to indicate what series the edition is in. Notify the Editorial Center of such additions so that we can add other holding libraries in accordance with the descriptions in the B volumes.     

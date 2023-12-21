@@ -1,6 +1,6 @@
 ### Código de idioma (041)
 
-En este campo se registra el idioma utilizado en la fuente, ya sea en el texto cantado o en otros elementos como indicaciones y prefacios en fuentes impresas. Pueden incluirse notas aclaratorias en el campo **Nota de idioma (546)**. Contacte a la Oficina Central de RISM si necesita consignar un idioma que no aparece en la lista.
+The field **Language code** is for the language used in the source. Pueden incluirse notas aclaratorias en el campo **Nota de idioma (546)**. Contacte a la Oficina Central de RISM si necesita consignar un idioma que no aparece en la lista.
 
 #### Idioma del texto (041 $a)
 

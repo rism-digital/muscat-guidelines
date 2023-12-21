@@ -2,8 +2,10 @@
 
 The field **Internal note** is used for information not intended for public display. Internal notes are not published in the RISM catalogs or available in the RISM open data.
 
-En este campo se documenta información adicional relativa a la creación y cambios de la descripción.
+
 
 #### Nota interna (667 $a)
 
-Introduzca notas pertinentes a la creación y mantenimiento de la descripción. Por ejemplo, aquí se pueden introducir los nombres de las personas responsables de la creación y/o revisión de la descripción.
+Enter local notes for internal use, including for use within your own working group. Any language may be entered here. Internal notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Elimine las notas después de que hayan cumplido su propósito. Es una buena práctica firmar cada nota con sus iniciales y la fecha.
+
+In accordance with ISDIAH 5.6.9, notes can be entered here that are pertinent to the creation and maintenance of the description. Por ejemplo, aquí se pueden introducir los nombres de las personas responsables de la creación y/o revisión de la descripción. Furthermore, this field documents additional information relating to the creation of and changes to the description.

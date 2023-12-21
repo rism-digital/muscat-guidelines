@@ -4,7 +4,7 @@ La base de datos de **Objetos Digitales** contiene todas las imágenes y archivo
 
 Añada una imagen (.jpeg o .png) haciendo clic en **Adjuntar una nueva imagen** mientras edita una fuente. Always add a short description, such as a description of the watermark, the location on the source, or the siglum. This will help you find them later. Las imágenes se muestran en el orden en que han sido vinculadas al registro.
 
-Por favor, consulte el Centro Editorial de RISM si desea añadir un incipit MEI.
+Consult the RISM Editorial Center if you wish to add an MEI incipit.
 
 When you are viewing an image, you have the following options on the right:
 

@@ -1,12 +1,16 @@
 ### Location of performance (651)
 
+The field **Location of performance** is used if the source in hand can be associated with a specific performance. It should be filled out if the field **Note on performance (518)** is used.
+
 #### Lugar de interpretación (651 $a)
 
-En caso de que la fuente pueda asociarse a una o varias ocasión(es) de interpretación, registre el lugar de esa(s) interpretación(es) en este campo, de manera estandarizada. Si necesita ingresar nuevos nombres geográficos que todavía no están en el archivo de autoridad, por favor regístrelos en el idioma local.
+Enter the location of performance(s) in this field in a standardized form. It is linked to the **Places** index through $0. When entering new geographical names that are not yet in the index, enter them in the local language.
 
-En el caso de la música impresa, llene este campo sólo si se trata de impresos ocasionales (es decir, música escrita para una ocasión específca). Los lugares que correspondan exclusivamente a una determinada copia de una edición impresa deben ser consignados en los registros de ejemplar correspondientes.
+For printed music, this field should be filled out in the core bibliographic record only in the case of occasional prints (that is, music written for a specific occasion). Locations specific to a certain copy of a printed edition should be entered in the holdings information.
 
 ##### Examples
 
 - Praha
 - Milano
+
+**Obsolete procedures**: Older RISM cataloging programs had two fields for the location of a performance, one standardized and one as given on the item. 

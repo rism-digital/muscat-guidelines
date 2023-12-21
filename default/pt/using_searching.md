@@ -21,7 +21,7 @@ You can enter in each field:
     - Siglum contains: **D-B AND (I-\* OR F-P\*)**   
       To find all prints in the library D-B where there are also copies in Italy or Paris
 
-Please note the following for all sections:
+Note the following for all sections:
 
 - **Date**
 
@@ -36,7 +36,7 @@ Please note the following for all sections:
       will retrieve all records edited from the beginning of time up to February 7, 2012 at midnight (meaning no records created during the work day on February 7 will be included).
     - **Date range**: Note that since the day is set at midnight, to search for all records created on February 7, 2012, for example, you must enter the start date 2012-02-07 (understood as midnight on February 7) and the end date 2012-02-08 (understood as midnight on February 8). This will include all sources created during the day. A search from 2012-02-07 to 2012-02-07 will be empty!
 
-Please note the following for searching **Sources**:
+Note the following for searching **Sources**:
 
 - **Siglum contains**: Search by the letters in a siglum. This field is case-sensitive. For example:  
   **D-*** = all sources in Germany  
@@ -45,7 +45,7 @@ Please note the following for searching **Sources**:
 
 ### Personal names
 
-Please note the following for searching **Personal names**:
+Note the following for searching **Personal names**:
 
 - **Name**: Searches the fields **Heading - Personal name (100 $a)** and **Name variant (400 $a)**.
 - **Life dates**: Searches the field **Years of birth and death (100 $d)**, meaning years as well as the following abbreviations: sc a p c \* + /

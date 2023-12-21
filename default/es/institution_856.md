@@ -6,7 +6,7 @@ Introduzca información (incluidas las URLs) sobre los instrumentos de descripci
 
 #### Instrumentos de descripción, guías y publicaciones (MARC 856 $u; ISDIAH 5.3.8)
 
-Introduzca una breve descripción de la URL.
+Introduzca una breve descripción de la URL. Only enter one URL per field. All URLs must begin with `http` or `https`.
 
 #### Nota (856 $z)
 

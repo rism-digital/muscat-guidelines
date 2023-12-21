@@ -1,8 +1,14 @@
 ### Watermark description (592)
 
+The field **Watermark description** is for both transcriptions and descriptions of watermarks.
+
 #### Descripción de las filigranas (592 $a)
 
-Este campo registra las filigranas presentes en la fuente. Descríbalas de modo normalizado y en inglés. Por favor estandarice su información con la ayuda de catálogos o bases de datos de filigranas (añadiendo una referencia en el campo **Referencia bibliográfica (691)** cuando sea necesario). Consulte la lista de **Filigranas estándar** , que contienen nombres de filigranas comunes. Las versalitas, cifras/iniciales y años deben transcribirse de manera exacta. Indicate line breaks with **\|** (the vertical pipe). Agregue sus propias descripciones entre corchetes para distinguirlas del contenido transcripto.
+Transcribe or describe the watermark uniformly and in English. Descriptions should be entered in square brackets while transcriptions, such as letters, should be entered directly.
+
+Small capitals, ciphers/initials, and years must be transcribed exactly. Indicate line breaks with **\|** (the vertical pipe).
+
+Standardize your information with the help of watermark catalogs or databases, adding a reference in the field **Bibliographic reference (691)** when appropriate. Consulte la lista de **Filigranas estándar** , que contienen nombres de filigranas comunes.
 
 ##### Examples
 

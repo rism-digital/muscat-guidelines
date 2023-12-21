@@ -55,3 +55,5 @@ Seleccione una de las siguientes opciones:
 #### Field link and sequence number (024 $8)
 
 Introduzca datos que vinculen campos que sean diferentes representaciones de escritura entre sí.
+
+**Obsolete procedures**: In earlier versions of Muscat, the GND (DNB) code appeared in 035. This was removed in 2016 and integrated into 024.

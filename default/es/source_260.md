@@ -1,6 +1,6 @@
 ### Publishing, printing, and production information (260)
 
-En esta sección se registra la información relativa a la publicación, impresión, distribución, emisión, lanzamiento y/o producción de todos los tipos de fuente. En todos los subcampos de esta sección, señale agregados y terminaciones entre corchetes. Utilice un signo de pregunta después de todo fragmento de información que resulte incierto.
+The field **Publishing, printing, and production information** is for information relating to the publication, printing, distribution, issue, release, or production for all types of sources. In all subfields here, indicate editorial additions and completions with square brackets. Utilice un signo de pregunta después de todo fragmento de información que resulte incierto.
 
 En el caso de la música impresa: si la información de publicación original está cubierta por una etiqueta, o bien aparece tachada o alterada y se coloca una nueva información en su lugar, ingrese la información nueva en esta sección. Si se puede leer la información de publicación original o si la información de publicación original está disponible de algún otro modo, puede ingresarla de igual modo repitiendo el campo. En este caso, puede resultar necesaria una nota aclaratoria dentro del campo **Nota general (500)**.
 
@@ -28,11 +28,13 @@ En el caso de los manuscritos, trate siempre de consignar una fecha, aunque sea 
 
 You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before**, and **after**. Trate de indicar la fecha del modo más exacto posible. Si no cuenta con datos certeros, utilice un rango de fechas que se corresponda con un período no específico, como el s. XVIII o el fin del s. Véase la tabla que aparece más abajo.
 
-For printed items: If you have a print but it is undated, either enter an approximate date in square brackets or enter **[s.d.]**. En el caso de los impresos, si tiene un impreso que no tiene fecha, registre una fecha aproximada entre corchetes, o bien indique **[s.d.]**.Por favor, trate de proveer un rango de fechas razonables en el caso de que el impreso no esté datado, por ejemplo, valiéndose de las fechas de vida del compositor o arreglador como _terminus post quem_, o bien recurriendo a los años de actividad del editor.
+For printed items: If you have a print but it is undated, either enter an approximate date in square brackets or enter **[s.d.]**. Make an effort to supply a reasonable date range for an undated print, such as by using the life dates of the composer or arranger as a _terminus post quem_, or the active years of a publisher.
 
 Note that for manuscripts, dates are given without square brackets because manuscripts are rarely dated. Printed materials, by contrast, are more likely to include a date so any editorial guess should be in square brackets.
 
 Se pueden indicar otras fechas que aparecen en la fuente. Utilice signos de interrogación para señalar información que resulte incierta.
+
+
 
 ##### Examples
  - 1875
@@ -78,6 +80,8 @@ For approximate periods of time, enter a range of years based on the following s
 - 18.2d (second half of the 18th century)
 - 18.sc (18th century)
 - 18/19 (18th or 19th century)
+
+Furthermore, previous cataloging programs had two fields for dating. One was for numbers only and the second was a text field where numbers plus abbreviations such as _+, ca., ante, post,_ and _18.sc_ or text such as _Easter 1805_ or _?1745?_ could be entered. Some legacy records, therefore, display two date indications, such as _1806 (1806 ca.)_. Dates written in the format XX.XX.XXXX are interpreted as DD.MM.YYYY.
 
 
 

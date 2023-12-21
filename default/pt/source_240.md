@@ -1,12 +1,15 @@
 ### Standardized title (240)
 
-The title is entered here in a standardized form. The standardized title brings compositions together under the same title  which, despite having a variety of names, are the same or similar. Also called the "filing title" or "uniform title."
+The field **Standardized title** is for the title in a standardized form. The standardized title brings compositions together under the same title which, despite having a variety of names, are the same or similar. Also called the "filing title" or "uniform title."
+
+_MARC export note:_  
+The field **Standardized title** is exported as MARC 130, with the same subfields as 240, when the record does not include a name in the field **Composer/Author (100)**.
 
 #### Standardized title (240 $a)
 
 **Required field.**
 
-Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Put alternative versions of the title in the field **Additional title (730)**.
+Enter the title in a standardized form. The field is linked to the **Title/Text incipit** index through $0. Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Put alternative versions of the title in the field **Additional title (730)**.
 
 A standardized title can be generated from the following, in order of preference:
 
@@ -30,6 +33,7 @@ In English, sentence case is preferred. In French, the simplified French rules (
 - Die Forelle
 - Die Zauberflöte
 - The beggar's opera
+- L'italiana in Algeri
 
 ##### 2. Text incipit
 
@@ -52,7 +56,7 @@ Make sure that the text incipit in this field is identical with the text incipit
 
 ##### 3. Genre
 
-Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Please consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
+Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
 
 ###### Examples
 
@@ -213,7 +217,7 @@ Omit the scoring summary if the performing forces are unknown or uncertain.
 - V (4), Coro, orch, org   _for a mass_
 - cl, orch _for a clarinet concerto_
 
-Please use the following standard instrumentation when applicable.
+Use the following standard instrumentation when applicable.
 
 String quartet
 - vl (2), vla, vlc
@@ -238,5 +242,3 @@ Flute quartet (all flutes)
 
 Flute quartet (flute with strings)
 - fl, vl, vla, vlc
-
-_MARC note: In records without a composer in the field 100 $a, the field 240 is exported as 130._

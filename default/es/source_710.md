@@ -1,18 +1,18 @@
 ### Additional institution (710)
 
-This field appears twice for sources. It appears in the section **People and institutions** to list all additional institutions, organizations, or other corporate bodies involved with the source. It is also in the section **Material description** if you wish to associate additional institutions with particular materials groups, especially when creating multiple material groups.
+The field **Additional institution** is to index any institution, organization, or other corporate body involved with the source, apart from the holding institution named in the field **Library siglum (852)**.
 
 Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered here. In the case of self-published music, enter the name of the person in its natural form, such as Bernhard Christoph Breitkopf.
 
 #### Institution (710 $a)
 
-Enter the names of all institutions that appear on or are associated with the source. Este campo está vinculado al registro de autoridad de Instituciones. Pueden añadirse nombres que aún no estén registrados en el archivo de autoridad.
+Enter the names of all institutions that appear on or are associated with the source. This field is linked to the **Institutions** authority file through $0 and the city (Place) through $c. Pueden añadirse nombres que aún no estén registrados en el archivo de autoridad.
 
 #### Department (710 $b)
 
 Enter, if necessary, the name of the unit of an institution, such as a department. Enter in the local language.
 
-#### Attribution (710 $g)
+#### Attribution qualifier (710 $g)
 
 Seleccione un calificador para describir el nivel de certeza de la atribución, en caso de que se dé alguna de las situaciones siguientes. Si no es el caso, deje el campo en blanco.
 
@@ -20,6 +20,8 @@ Seleccione un calificador para describir el nivel de certeza de la atribución, 
 - **Ascertained** means the name is partially present or entirely absent from the source, but attribution is (reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. Esto sucede en la mayoría de los casos.
 - **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
 - **Mal atribuida** significa que hay un nombre en la fuente pero es incorrecto.
+
+**Obsolete procedures** See the corresponding attribution field in the field **Composer/Author (100)**.
 
 #### Function (710 $4)
 
@@ -44,6 +46,6 @@ Assign each institution an exact function. An institution can be entered multipl
 - **Performer [prf]**: The institution or ensemble that performed the work, such as an orchestra.
 - **Printer [prt]**
 - **Publisher [pbl]**
-- **Type designer [tyd]**: The organization who designed the typeface.
+- **Type designer [tyd]**: The organization that designed the typeface.
 
 If you are unsure whether the name is a publisher or a printer, select **Publisher**

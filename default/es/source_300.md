@@ -2,56 +2,72 @@
 
 **Campo requerido**
 
-This field keeps track of the physical material preserved by stating the format (such as score or parts) and how many there are. Details on parts are entered in the field **Parts held and extent (590).**
-
-Note that the entire section **Material description** is repeatable, as is the field **Physical description (300)** and the subfield **Format, extent (300 $a)**. This means that you are free to create one **Material description** section per format, or you can list each format on a separate line in **Physical description (300)**.
-
-Supongamos que estamos frente a 1 partitura y 10 particellas. Los/as catalogadores/as que deseen entrar en mucho detalle pueden crear dos secciones de **Descripción material** , una para la partitura y otra para las particellas,  lo cual les permitirá asignar distintas fechas, copistas, filigranas y otros datos específicos que correspondan exclusivamente o sólo a la partitura o sólo a las particellas. En caso de que la fecha, copista, etc. sean iguales para la partitura y las particellas, o si los/as catalogadores/as no desean entrar en mucho detalle, resultará suficiente con consignar simplemente un formato debajo del otro en el campo **Formato, extensión (300 $a)**. Different dimensions can be entered if you repeat the field **Physical description (300)**.
+The field **Physical description** provides a clear declaration of the material preserved by stating the format (such as score or parts) and how many there are. If you have parts, this field is used in conjunction with the field **Parts held and extent (590)**, in which the specific parts are named.
 
 #### Formato, extensión (300 $a)
 
-The field **Format, extent (300 $a)** is built up of three components: **Number of items, Format, Extent.** Note that an extent is not given for parts, including tablature parts; the extent of parts is entered in the field **Parts held (590)**.
+For all types of formats except parts, the field **Format, extent (300 $a)** is built up of three components: **Number of items, Format, Extent.**
 
-**Number of items**: State the number of items held. Use **X** para indicar un número desconocido de ítems.
+###### Example
+- 1 score: 35 p.
 
-**Format**: Use one of the following English terms, in the singluar or plural as appropriate.
+For parts, the field **Format, extent (300 $a)** is built up of two components: **Number of items, Format.** The specific parts are listed separately in the field **Parts held (590)**.
 
-General:
+###### Example
+
+- 5 parts
+
+##### Number of items
+
+State the number of items held. Use **X** para indicar un número desconocido de ítems.
+
+##### Format
+
+Use one of the following English terms, in the singluar or plural as appropriate.
+
+###### General
 
 - **part**: The notation of a work for an instrument or voice regardless of the number of staves per system (includes piano, organ, piano four-hands, no matter how many staves). Úselo también para libros de partes.
 - **score**: Contains all the instruments and/or voices of a composition, as long as more than one performing force is involved. Este formato incluye a las obras para voz y acompañamiento.
 
-Tipos de partituras (scores):
+###### Kinds of scores
 
-- **vocal score**: Vocal part(s) with the accompaniment arranged for a keyboard instrument.
-- **keyboard score**: The instruments are arranged for a keyboard instrument (no vocal parts). En este caso, indicar la extensión inmediatamente a continuación del formato, sin importar el número de pentagramas por sistema.
-- **chorus score**: A score that contains only the music for the voices.
+- **vocal score**: A work with voices and instruments where the vocal part(s) are present with the accompaniment arranged for a keyboard instrument.
+- **keyboard score**: A work for instruments where the instruments are arranged for a keyboard instrument (no vocal parts). En este caso, indicar la extensión inmediatamente a continuación del formato, sin importar el número de pentagramas por sistema.
+- **chorus score**: A work for solo voices, chorus, and instruments where only the music for the chorus is present in score format, omitting any solo vocal parts; an accompaniment reduced for a keyboard instrument may or may not be present.
 - **particella**: A sketch or draft of a composition in a short score format.
 - **short score**: All other kinds of reduced, condensed, or short scores, or when the kind of reduced score cannot be determined.
 - **tablature score**
 - **choirbook**: A book in which all voices of a work are written separately so that the choir can read the music from one book. Choirbooks are input as with scores.
 
-Formatos especiales:
-- **tablature part**: The type of tablature, if known, should be named in the field **General note (500).**
+###### Special formats
+
+- **tablature part**: The type of tablature, if known, should be named in the field **General note (500)**.
 - **sketch**: Use for sketches if the type of format cannot be more precisely determined.
 - **text document**: Use for libretti, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
 - **prompt book**: A document (can be a short score or text) used by a prompter for a stage work.
 - **table book**: parts arranged on a page so that all performers can read from it while seated around a table.
 
-En el caso de las particellas de director, consigne **part(s)**como formato e ingrese **_conductor part_** (particella de director) en **Particellas conservadas (590)**.
+###### Otros
 
 - **various**: Use for collection parent records if the collection contains different kinds of formats (such as a full score and a keyboard score).
-- **other**: Use if none of the above apply. En tales casos, explique las particularidades con una nota en el campo **Nota general (500)**. No se requiere ni la cantidad de ítems ni extensión.
+- **other**: Use if none of the above apply. In such cases, include an explanation in the field **General note (500)**. No se requiere ni la cantidad de ítems ni extensión.
 
-For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590).**
+For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590)**.
 
-**Extent**: Enter the number of pages, leaves, or gatherings. Elija entre las siguientes abreviaturas: **f** para folio, **p** para página, **lvs** para hojas y **fds** para pliegos. In this system, one **lvs** corresponds to two **f**, whereas one **fds** means at least one **lvs**.
+For texted scores, use **with text**, such as **keyboard score with text**. For texted parts, see **Parts held and extent (590)**.
 
-También se pueden indicar páginas o folios particulares de una pieza dentro de una colección manuscrita. Utilice un solo método de enumeración. Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**. Use **r** y **v** para indicar recto y verso.
+##### Extent
+
+For all formats except parts, enter the number of pages, leaves, or gatherings. Elija entre las siguientes abreviaturas: **f** para folio, **p** para página, **lvs** para hojas y **fds** para pliegos.
+
+For collection parent records as well as for pieces that are not part of collections, the total extent is given, such as **35 p.** If a piece is within a collection, the extent for that piece is given, such as **p. 17-23.**
+
+Use only one method of foliation or pagination within a collection. When using recto and verso enumeration, use both **r** and **v**. Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
 
 No consigne la extensión de las particellas aquí. Para ello utilice el campo **Particellas conservadas (590).**
 
-##### Examples
+###### Examples
 
 - 1 score: 35 p.
 - 1 score (2x): 2, 2 f.
@@ -63,9 +79,10 @@ No consigne la extensión de las particellas aquí. Para ello utilice el campo *
 - 5 parts
 - 1 part
 - Otros:
-- other
 
-1 folio sin numeración, prefacio con numeración I-VIII, seguido de 25 páginas de música.
+
+###### Examples of other foliations
+Foreword is numbered I-VIII, followed by 25 pages of music
 
 - VIII, 25 p.
 
@@ -120,7 +137,7 @@ Registre las dimensiones de la fuente siguiendo el formato alto x ancho en cm. P
 - 25.5 (21.5) x 32 (28.5) cm
 - Different sizes
 
-En el caso de los ítems impresos, puede ingresar, si lo desea, las dimensiones del área impresa; para ello utilice indicaciones como _printed área_ (área impresa) o _plate mark_ (marca de plancha), en inglés. Use English indications such as "printed area" or "plate mark." Separe esta medición de la medición total de la fuente con un punto y coma. Si las dimensiones varían, mida la portada y la primera página de música (e incluya, en caso necesario, una indicación de qué fue medido).
+For printed items, you may enter the dimensions of the printed area. Use English indications such as "printed area" or "plate mark." Separe esta medición de la medición total de la fuente con un punto y coma. Si las dimensiones varían, mida la portada y la primera página de música (e incluya, en caso necesario, una indicación de qué fue medido). Full dimensions of the item then go in the holdings information.
 
 ##### Examples
 

@@ -1,6 +1,6 @@
 ### Particellas conservadas y extensión de las mismas (590)
 
-This section indicates which parts are held and their foliation/pagination.
+The field **Parts held and extent** indicates which parts are held and their foliation/pagination.
 
 #### Particellas conservadas (590 $a)
 
@@ -19,7 +19,7 @@ La primera letra de las abreviaturas de partes instrumentales se coloca en minú
 - Vientos-metal
 - Otros instrumentos
 
-Si la designación de las particellas no está disponible, por favor escriba la frase en inglés **_no further indication_** (no hay más indicaciones).
+If no further details of the part designations are available, write the English phrase: **no further indication**
 
 Casos especiales:
 
@@ -43,7 +43,7 @@ Registre el número de folios, páginas, hojas o pliegues de cada particella. Ut
 - **lvs** para hojas
 - **fds** para pliegos
 
-In this system, **lvs** means two folded **f**, whereas **fds** means at least one **lvs**. Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
+Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
 
 También se pueden indicar páginas o folios particulares de una pieza dentro de una colección manuscrita, por ejemplo, **p. 5-6** o **f. 4r-4v**.
 

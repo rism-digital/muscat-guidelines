@@ -1,7 +1,10 @@
 ### Items in this source (774)
 
+The field **Items in this source** lists the RISM ID numbers of all records linked to the record.
+
 #### Items in this source (774 $w)
 
-In parent records, links to the items contained therein are displayed in this field. Links are added automatically as soon as they are established in the subentries.
+RISM ID numbers are added automatically from child records and displayed here.
 
-_MARC note: Upon export, $a is generated which contains normalized data from the 100 $a and 240 $a of the linked record._  
+_MARC export note:_  
+Upon export, $a is generated which contains normalized data from the 100 $a and 240 $a of the linked record.  

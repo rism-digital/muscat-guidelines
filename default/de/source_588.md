@@ -1,6 +1,6 @@
 ### Source of description note (588)
 
-This field specifies which physical item was consulted for cataloging a printed edition.
+The field **Source of description note** specifies which physical item (exemplar) was consulted for cataloging a printed edition.
 
 #### Copy examined for cataloging (588 $a)
 
@@ -27,4 +27,4 @@ If your material is incomplete, add "(incomplete)" after your siglum and shelfma
 
 **Copy examined for cataloging (588)**: GB-Lbl 123 (incomplete)
 - **General note (500)**: Record based incomplete copy in GB-Lbl 123. Vl 1 part missing.
-- **Internal note (599)**: Note to future libraries: record created based on incomplete copy; please check the extent of the vl 1 part and modify record accordingly.  
+- **Internal note (599)**: Note to future libraries: record created based on incomplete copy; check the extent of the vl 1 part and modify record accordingly.  

@@ -1,14 +1,17 @@
 ### Íncipits (031)
 
-Los íncipits ayudan a identificar las obras y facilitan la comparación de las fuentes entre sí. Para la música instrumental se prefiere el registro de fragmentos de una parte aguda y de una parte grave, como vl 1 y bajo. En el caso de la música vocal-instrumental, incluya íncipits de la voz más aguda y el primer violín o la parte instrumental más aguda. En el caso de los instrumentos transpositores, transcriba los fragmentos en altura real.
+The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Los íncipits ayudan a identificar las obras y facilitan la comparación de las fuentes entre sí. Para la música instrumental se prefiere el registro de fragmentos de una parte aguda y de una parte grave, como vl 1 y bajo. En el caso de la música vocal-instrumental, incluya íncipits de la voz más aguda y el primer violín o la parte instrumental más aguda. En el caso de los instrumentos transpositores, transcriba los fragmentos en altura real.
 
 En caso de que la notación del fragmento que necesita transcribir no pueda representarse con código _Plaine & Easie_, transcriba la música de la manera más fiel posible e incluya una nota aclaratoria al respecto. Puede adjuntar una imagen del íncipit en la fuente para mayor claridad.
 
 Keep in mind that incipit transcription is primarily used for searching and identification, not for replicating the visual appearance of the score. The Plaine & Easie Code is an intentional simplification of Western notation and not all details can (or should) be encoded.
 
-For assistance with transcribing mensural notation, please see "Basic Mensural Notation Reference" by Ted Dumitrescu ([http://www.cmme.org/misc/refsheet.pdf](http://www.cmme.org/misc/refsheet.pdf))).
+For assistance with transcribing mensural notation, see "Basic Mensural Notation Reference" by Ted Dumitrescu ([http://www.cmme.org/misc/refsheet.pdf](http://www.cmme.org/misc/refsheet.pdf))).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
+
+_MARC export note:_  
+Records that contain an incipit (anything in field 031) receive $2pe upon saving, indicating that the incipit was created using the Plaine and Easie code.
 
 #### Número de obra, número de movimiento, número de íncipit (031 $a, b, c)
 
@@ -36,12 +39,12 @@ The three-figure incipit number must be unique within a record. Number incipits 
  Consecutive numbering must be followed even if content is missing from the source. For example, if one song is missing from a collection of six songs, the work number of each incipit will still start with a 1. If the source is a three-movement symphony but the middle movement is missing, the incipits will be numbered 1.1.1 and 1.2.1 (not 1.3.1).
 
 
-
-
-
 #### Título del movimiento, tempo (031 $d)
 
 Registre el título del movimiento y el tempo –o indicaciones similares–, si aparecen especificados, tal como figuran en la fuente. Use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Use corchetes para indicar agregados al original; los agregados deben tener una ortografía consistente. Pueden añadirse múltiples títulos o marcas de tempo adicionales en campos separados. Si registra varios íncipits para los cuales el título y la indicación de tempo coinciden, ingrese el dato solo en el primer íncipit.
+
+**Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
+
 
 #### Voz/instrumento (031 $m)
 
@@ -59,7 +62,7 @@ Registre el nombre estandarizado del personaje en este campo. If you fill out th
 
 #### Text incipit (031 $t)
 
-El íncipit literario consiste en las primeras palabras de una pieza o sección y puede equivaler al primer verso, la primera frase u otro grupo de palabras del texto que tenga sentido lingüístico. Los íncipits literarios sirven para identificar el texto utilizado y no precisan corresponderse con la longitud del íncipit musical necesariamente. Los mismos pueden registrarse sin importar si se ingresa un íncipit musical o no. Por favor, tenga en cuenta que se siguen reglas particulares para los textos en latín (vea más abajo).
+El íncipit literario consiste en las primeras palabras de una pieza o sección y puede equivaler al primer verso, la primera frase u otro grupo de palabras del texto que tenga sentido lingüístico. Los íncipits literarios sirven para identificar el texto utilizado y no precisan corresponderse con la longitud del íncipit musical necesariamente. Los mismos pueden registrarse sin importar si se ingresa un íncipit musical o no. Note that separate rules apply to texts in Latin (see below).
 
 Los íncipits literarios se presentan de forma estandarizada. Registre el íncipit literario con ortografía moderna. Refer to the index **Title/text incipits** to help standardize your entry. Registre íncipits nuevos en caso de el índice no los incluya.
 
@@ -83,6 +86,7 @@ En este campo también pueden registrarse textos relacionados que no aparezcan e
 
 Los textos normalizados en latín suelen corresponderse con las versiones del _Liber usualis_. En RISM, estos textos incluyen generalmente una coma. Por ejemplo, si busca el texto “Et in terra pax”, encontrará alrededor de una docena de resultados, pero sólo uno incluye una coma, y verá que esta fuente ha sido usada 4800 veces en la base de datos. Se trata del registro que deseamos usar como íncipit –asumiendo que el mismo se corresponda con su fuente–. If your text incipit is only "Et in terra pax" then this means your source (1) contains only these words or (2) continues in a way that is different from the _Liber usualis_. Por supuesto, cabe la posibilidad de que esto suceda. Sin embargo, en la mayoría de los casos se optará por la versión con la coma.
 
+
 #### Tonalidad o modo (031 $r)
 
 Select the key or mode of the incipit from the list.
@@ -94,8 +98,6 @@ Select the key or mode of the incipit from the list.
 Ingrese **x** para armaduras con sostenidos o **b** para armaduras con bemoles, seguido de las letras mayúsculas correspondientes a las alturas alteradas por la armadura. If a piece is clearly in a certain key but a sharp or flat is not in the key signature, the missing sharps or flats may be added in square brackets.
 
 Si no hay armadura de clave, deje el campo en blanco.
-
-If there are multiple key signatures (such as if a movement changes frequently from major to minor and back again), enter the key signature of the incipit in question add an explanation in the field **General note (031 $q).**
 
 ##### Examples
 
@@ -121,19 +123,21 @@ Si la métrica cambia constantemente, puede escribir la primera indicación de c
 
 If the incipit is without a time signature, add one and also add an explanation in the field **General note (031 $q)** such as "Time signature added." Do not put the inferred time signature in square brackets.
 
+**Obsolete procedures**: Older guidelines allowed a blank field here if the source lacked a time signature.
+
 ##### Examples
 
 - 4/4
 - 6/8
 - 3/4 4/4
 
-En caso de que el compás indicado sea obviamente erróneo, por favor corríjalo para que se corresponda con el íncipit dado. Incluya una nota aclaratoria al respecto en el campo **Nota general**.
+If the time signature in the source is obviously wrong, correct it to match the incipit given. Incluya una nota aclaratoria al respecto en el campo **Nota general**.
 
 #### Clave (031 $g)
 
 Seleccione una clave de la lista. La letra indica el tipo de clave. El guión (-) indica notación moderna. El signo más (+) indica notación mensural. El número se refiere a la posición de la clave en el pentagrama.
 
-If no clef is on the source, select one from the list and include an explanatory note in the field **General note (031 $q).**
+If no clef is on the source, select one from the list and include an explanatory note in the field **General note (031 $q)**.
 
 #### Validez (031 $s)
 
@@ -190,14 +194,14 @@ qq...r = several appoggiaturas or ornaments which belong together (with rhythmic
 
 ##### 6. Rests
 
-The '-' (minus sign) is for a single-note rest. Utilice “=” (signo igual) para indicar un silencio de compás. For multiple measures of rest, follow the = with the number of measures. Debe añadir una barra de compás para visualizarlo.
+The '-' (minus sign) is for a single-note rest. Utilice “=” (signo igual) para indicar un silencio de compás. For multiple measures of rest, follow the = with the number of measures and a bar line.
 - Eighth-note rest
- - 8-
+ - 8-/
 - One measure of rest
- - -
- - =1
+ - -/
+ - =1/
 - Multiple measures of rest
- - =35
+ - =35/
 
 ##### 7. Bar lines
 
@@ -242,11 +246,9 @@ La duración total del grupo debe escribirse antes de **(**. El valor rítmico d
 El tresillo constituye un caso especial. En sentido estricto, debería codificarse como:  
 8(6ABC;3) o 8({6ABC};3)
 
-Por favor, ¡no olvide el valor rítmico dentro de los paréntesis!
+Do not forget the rhythmic value within the bracket!
 
 ##### 11. Shortcuts
-
-**Note:** Currently, the OPAC search ignores the repeated elements described in 11.1 and 11.2. Esto significa que si utiliza estos métodos abreviados, sus íncipits no podrán ser buscados por completo en el OPAC. Hasta que esto se solucione, por favor escriba el íncipit en su totalidad. (El método 11.3 puede ser utilizado).
 
 ###### 11.1. Repeated figures
 
@@ -272,12 +274,14 @@ i = repeat last bar
 
 _Ejemplos_:
 
+The rhythmic sequence ends as soon a different rhythmic value occurs. Make sure that all notes as indicated by the pattern are present at least once.
+
 ###### Example
 
 - _Ejemplo:_  
   **8.A6B8C 8.D6E8F** puede reemplazarse por **8.68ABCDEF**  
   La secuencia rítmica se termina apenas se presenta un valor rítmico distinto.
-- The rhythmic sequence ends as soon a different rhythmic value occurs.
+
 
 ##### 12. Change of clef
 
@@ -325,6 +329,8 @@ La “i” siempre va entre dos barras de compás
 ###### Example
 
 - 4’’C^’G^E^C
+
+**Obsolete procedures**: In older cataloging programs, the field for encoded notation began with the control character $ followed by the key signature ($xFC for $bBE), and then a character that was entered as a ³ (superscript 3) but displayed as an _ (underscore). Incipits with no key signature started directly with an _.
 
 #### Nota general (031 $q)
 

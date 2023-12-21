@@ -1,6 +1,9 @@
 ### Description summary (520)
 
+The field **Description summary** gives a concise statement about the content of the source.
+
 #### Descripción sumaria (520 $a)
+
 En este campo se puede registrar, de manera breve, información general sobre la obra o sobre sus secciones. Ingrese la información en inglés.
 
 En caso de que desee aportar información más detallada sobre los contenidos de la fuente, puede hacerlo en el campo **Nota sobre el contenido (505)**.

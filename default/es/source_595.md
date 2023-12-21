@@ -1,8 +1,8 @@
 ### Named dramatic role (595)
 
-**Asegúrese de completar este campo si registra un nombre en el campo de Personaje (031 $e) dentro de un Íncipit.**
+The field **Named dramatic role** is to list the roles for dramatic music such as operas or oratorios. This field must be filled out if a name is entered in the incipit field **Role (031 $e)**.
 
-No coloque los artículos tras el nombre principal. Siempre que sea posible, consigne los personajes desde el más agudo al más grave. Use signos de interrogación para indicar información dudosa. No use comas.
+Write names in their natural order; do not place articles after the main name. Siempre que sea posible, consigne los personajes desde el más agudo al más grave. Use signos de interrogación para indicar información dudosa. No use comas.
 
 #### Nombres de personajes, normalizados (595 $a)
 

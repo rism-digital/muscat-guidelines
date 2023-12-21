@@ -1,6 +1,6 @@
-### Source of acquisition (541)
+### Source of acquisition note (541)
 
-Information about how the holding institution acquired the source is entered here.
+The field **Source of acquisition** is for information about how the holding institution acquired the source.
 
 #### Method of acquisition (541 $c)
 

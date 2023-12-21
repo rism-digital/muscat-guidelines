@@ -1,6 +1,6 @@
 ### Parts held and extent (590)
 
-This section indicates which parts are held and their foliation/pagination.
+The field **Parts held and extent** indicates which parts are held and their foliation/pagination.
 
 #### Parts held (590 $a)
 
@@ -19,7 +19,7 @@ The first letter of instrumental parts is in lowercase and vocal parts uppercase
 - Brass
 - Other instruments
 
-If no further details of the part designations are available, please write the English phrase: **no further indication**
+If no further details of the part designations are available, write the English phrase: **no further indication**
 
 Special cases:
 
@@ -43,7 +43,7 @@ Enter the number of folios, pages, leaves, or gatherings. Use only one method of
 - **lvs** for leaves (sheets)
 - **fds** for folds (gatherings)
 
-In this system, **lvs** means two folded **f**, whereas **fds** means at least one **lvs**. Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
+Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
 
 You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**.
 

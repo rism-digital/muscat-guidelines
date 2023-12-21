@@ -1,6 +1,6 @@
-### Fuente de adquisición (541)
+### Source of acquisition note (541)
 
-En esta sección se registra información relativa a la manera el ítem fue adquirido por la institución que lo conserva.
+The field **Source of acquisition** is for information about how the holding institution acquired the source.
 
 #### Método de adquisición (541 $c)
 

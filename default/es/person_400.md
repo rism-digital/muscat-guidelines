@@ -12,7 +12,7 @@ Additions to names such as Jr, III, Sir, Meister, etc. are entered here, for exa
 
 #### Fechas de vida (400 $d)
 
-No introduzca nada en este campo.  This field may be filled out automatically if names are imported from VIAF. Any variants in life dates should be entered in the field **Source data found (670).**
+No introduzca nada en este campo.  This field may be filled out automatically if names are imported from VIAF. Any variants in life dates should be entered in the field **Source data found (670)**.
 
 #### Tipo de variante de nombre (400 $j)
 

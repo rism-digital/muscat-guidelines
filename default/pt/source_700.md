@@ -1,14 +1,14 @@
 ### Additional personal name (700)
 
-This field appears twice for sources. It appears in the section **People and institutions** to list all additional people involved with the source. It is also in the section **Material description** if you wish to associate additional names with particular material groups.
+The field **Additional personal name** is to index all additional people involved with the source, apart from the name indexed in the field **Composer/Author (100)**.
 
 #### Name (700 $a)
 
-Enter all personal names that appear on the source as well as names that can be inferred. This field is linked to the **Personal names** authority file. Names not yet in the authority file may be added. Do not use **Anonymus** in this field.
+Enter all additional personal names that appear on the source as well as names that can be inferred. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d. Names not yet in the authority file may be added. Do not use **Anonymus** in this field.
 
 Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as an **Additional institution (710)**.
 
-In the case of parent records for collections or composite volumes, enter a name only if the name applies to all the works in the collection. Enter names associated with individual works in the individual records.
+In the case of parent records for collections or composite volumes, enter a name only if the name applies to all the works in the collection. Enter names associated with individual works in the child records.
 
 #### Attribution (700 $j)
 
@@ -18,6 +18,8 @@ Select an indicator to describe the level of certainty of the attribution if any
 - **Ascertained** means the name is partially present or entirely absent from the source, but attribution is (reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
 - **Conjectural** is a guess based on secondary evidence, such as secondary literature.
 - **Misattributed** means the name is on the source but is incorrect.
+
+**Obsolete procedures** See the corresponding attribution field in the field **Composer/Author (100)**.
 
 #### Function (700 $4)
 
@@ -32,6 +34,7 @@ Keep in mind that when some people are named on sources, an institution is actua
 - **Associated name [asn]**: A person who has some connection with the source, but the exact function is unclear.
 - **Author [aut]**: The person responsible for creating a work that is primarily textual in content, such as a book.
 - **Censor [cns]**
+- **Choreographer**
 - **Co-composer [ctb]**: Use for composers who also contributed musically to the piece.
 - **Composer cross-reference [cmp]**: Use to name a composer who is or was associated with the piece in some way. Examples include a composer to whom the piece is or was incorrectly attributed, or a composer whose melody is used in a set of variations.
 - **Conceptor [ccp]**: The person responsible for the original idea on which a work is based, such as the author of a book or play that an opera was based on.

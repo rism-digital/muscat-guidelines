@@ -6,7 +6,7 @@ Enter information (including URLs) about finding aids, catalogs, inventories, et
 
 #### Online finding aids (856 $u)
 
-Enter the URL of the finding aid.
+Enter the URL of the finding aid. Only enter one URL per field. All URLs must begin with `http` or `https`.
 
 #### Note (856 $z)
 

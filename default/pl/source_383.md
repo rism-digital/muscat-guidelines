@@ -1,5 +1,7 @@
 ### Opus number (383)
 
+The field **Opus number** is for the opus number as it appears on the source.
+
 #### Opus number (383 $b)
 
 Enter the opus number here if it appears on the source, preceded by **op.**. Separate individual movements with a slash.

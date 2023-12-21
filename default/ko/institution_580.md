@@ -9,3 +9,5 @@ Enter the name of the current holding institution here. This field is linked to 
 ##### Example
 
 - D-WÜd
+
+**Obsolete procedures** This field duplicated Holdings now in (373$a), which was removed with version 6.1.

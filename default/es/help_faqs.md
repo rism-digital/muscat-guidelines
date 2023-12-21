@@ -25,7 +25,7 @@ Passwords are managed by the Editorial Center. Contactenos si pierde su contrase
 
 #### 5. Can I show Muscat to my colleagues? Can I demonstrate Muscat at conferences or in workshops?
 
-Yes, please do! A training version of Muscat is available for exactly these purposes at [https://muscat-training.rism.info](https://muscat-training.rism.info/). Todos los usuarios de Muscat pueden acceder a la misma con sus credenciales personales. There are also 99 training accounts ("training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be used. Please contact the RISM Editorial Center for the current password. Anything on the training version can be added or edited. It is synchronized with the current Muscat data on a regular basis, so practice records on the training server may be deleted. New records or changes on the training server are not transfered to the main Muscat program.
+Yes, you are welcome to do so. A training version of Muscat is available for exactly these purposes at [https://muscat-training.rism.info](https://muscat-training.rism.info/). Todos los usuarios de Muscat pueden acceder a la misma con sus credenciales personales. There are also 99 training accounts ("training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be used. Contact the RISM Editorial Center for the current password. Anything on the training version can be added or edited. It is synchronized with the current Muscat data on a regular basis, so practice records on the training server may be deleted. New records or changes on the training server are not transferred to the main Muscat program.
 
 #### 6. In the modification history, what does it mean if "[system]" is listed as the author?
 
@@ -35,9 +35,11 @@ This is a system edit. You might see a system edit if one of the indexed fields 
 
 Muscat records that have the publication status "published" appear in the [RISM Catalog](https://opac.rism.info/), developed by the [Bavarian State Library](https://www.bsb-muenchen.de/) (Munich), and [RISM Online](https://rism.online/), developed by the [RISM Digital Center](https://rism.info/digital-center.html) (Bern, Switzerland). In addition, RISM records are available as open data and linked open data and may be reused in other projects.
 
+Outside of Muscat, published Muscat records are availble through RISM's [SRU downloader](https://github.com/rism-international/sru-downloader), the RISM Catalog's "Show MARCXML" link on any record, the RISM Catalog's monthly data dump, and RISM Online's API.
+
 #### 8. When do Muscat records appear in the public catalogs?
 
-Muscat records are sent for publication in the [RISM Catalog](https://opac.rism.info/) once a month, at around the 19th of each month. Unos días después, los registros son visibles.
+Muscat records are sent for publication in the [RISM Catalog](https://opac.rism.info/) once a month, at around the 19th of each month. Unos días después, los registros son visibles.  [RISM Online](https://rism.online) is updated daily, so new records and changes will appear there on the following day.
 
 [RISM Online](https://rism.online/) is updated once a day with records from Muscat.
 

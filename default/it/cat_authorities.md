@@ -1,40 +1,40 @@
-# Authorities
+# Indici
 
-The **Authorities** section of Muscat collects all authority files, controlled vocabulary, and indexes, and ensures that terminology is consistent throughout Muscat. Each of these is described in brief below. Full guidelines are included within each authority file.
+La sezione **Indici** di Muscat contiene tutte le voci di autorità, il vocabolario controllato e gli indici e garantisce un utilizzo uniforme della terminologia all’interno di Muscat. Ciascuno di questi è brevemente descritto qui di seguito. La descrizione di ogni voce di autorità comprende tutte le corrispondenti regole di catalogazione.
 
-## Digital objects
+## Oggetti digitali
 
-The digital objects database collects all of the images (typically watermarks, handwriting samples, or bindings) and MEI incipits that are attached to records in Muscat. You can attach digital objects to sources, people, and institutions.
+La banca-dati delle immagini riunisce tutte le immagini (di regola filigrane, esempi di calligrafia o rilegature) e gli incipit MEI collegati a schede in Muscat. Puoi collegare oggetti digitali a fonti, persone e istituzioni.
 
-## Institutions
+## Istituzioni
 
-The authority file for institutions (corporate names) describes non-persons that appear in connection with a source or other authority record in Muscat. This authority file contains both modern institutions (such as a library with a RISM library sigla) and historical corporate bodies (such as a publisher or an orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated instition (510 $a)** in Personal names, and **Additional instition (710 $a)** in Secondary literature.
+La lista di voci di autorità per le istituzioni (enti, nomi collettivi) riporta nomi non di persona che appaiono in relazione a una fonte. Questa lista di autorità contiene sia nomi di istituzioni moderne (come una biblioteca con una sigla RISM) che nomi collettivi storici (come un editore o un'orchestra). Si può creare un collegamento a un'istituzione nel campo **Nome aggiuntivo di ente (710 $a)** nelle fonti, **Istituzione correlata (710 $a)** per le istituzioni, **Istituzioni correlate (510 $a)** tra le persone, e **Nome aggiuntivo di ente (710 $a)** nella bibliografia.
 
-## Liturgical festivals
+## Feste liturgiche
 
-The index of liturgical festivals collects religious holidays and feast days. Liturgical festivals can be linked in the field **Liturgical festival (657 $a)** in Sources.
+Nell'indice delle feste liturgiche si trovano feste religiose e giorni festivi. Si possono creare collegamenti alle feste liturgiche nel campo ** Festa liturgica (657 $a)** nelle fonti.
 
-## Personal names
+## Persone
 
-The authority file for personal names describes all people that are connected to a source or other authority record in Muscat. Personal names can be linked in the fields **Composer/Author (100 $a)** and **Additional personal name (700 $a)** in Sources, **Person (700 $a)** in Institions, **Related personal name (500 $a)** in Personal names, **Author (100 $a)** and **Additional personal name (700 $a)** in Secondary literature, and **Composer (100 $a)** in Work nodes. RISM is a contributor to [VIAF (Virtual International Authority File)](https://www.viaf.org/) so names contributed to RISM are sent to VIAF on a regular basis.
+La lista di voci di autorità per i nomi di persona riporta tutte le persone che sono in relazione a una fonte o a un'altra voce di autorità in Muscat. Si possono collegare nomi di persone nei campi **Compositore/Autore (100 $a)** e **Nome aggiuntivo di persona (700 $a)** nelle fonti, **Persona (700 $a)** tra le istituzioni, **Nome di persona collegato (500 $a)** tra le persone, **Autore (100 $a)** e **Nome aggiuntivo di persona (700 $a)** nella bibliografia, e **Compositore (100 $a)** nei riferimenti alle opere. RISM contribuisce a [VIAF (Virtual International Authority File)](https://www.viaf.org/) e i nomi aggiunti a RISM vengono periodicamente inviati a VIAF.
 
-New names can be edited by the record owner for two months after creation. Catalogers are encouraged to fill out as much information in the authority record as they can, including links to VIAF, biographical information, and alternate spellings. After two months, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to alexander.marxen@rism.info.
+Nomi nuovi possono essere modificati dal catalogatore della scheda per due mesi dopo essere stati creati. Si incoraggiano i catalogatori a compilare il maggior numero di informazioni possibile nella voce di autorità, compresi collegamenti a VIAF, informazioni biografiche e ortografie alternative. Dopo due mesi, il controllo della scheda passa all’Editorial Center. Aggiunte sono ancora benvenute e possono essere comunicate tramite la funzione di commento o inviando una e-mail a alexander.marxen@rism.info.
 
-## Places
+## Luoghi
 
-The index of places collects the names of locations, including historical geographic names. The index is built from places entered in the following fields: **Location of performance (651 $a)** in Sources, **Geographic name (551 $a)** in Personal names, **Related place (651 $a)** in Secondary Literature, and **Place (551 $a)** in Institutions.
+L'indice dei luoghi raccoglie i nomi di località, compresi nomi geografici storici. L'indice è costituito dai luoghi inseriti nei seguenti campi: **Luogo di un'esecuzione (651 $a)** nelle fonti, **Nome geografico (551 $a)** nelle persone, **Luogo correlato (651 $a)** nella bibliografia, e **Luoghi (551 $a)** nelle istituzioni.
 
-## Secondary literature
+## Bibliografia
 
-The database of Secondary literature enables  catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. to be cited in Muscat records. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
+La banca-dati bibliografica delle opere di riferimento consente di citare nelle schede Muscat cataloghi di opere, cataloghi tematici, libri, articoli, enciclopedie, risorse online, edizioni critiche, edizioni pratiche moderne ecc. Un collegamento alla bibliografia si crea inserendo il **Titolo breve (210 $a)** nei campi **Catalogo delle opere (690 $a)** e **Riferimenti bibliografici (691 $a)** nelle fonti, **Bibliografia (670 $a)** tra le istituzioni e **Fonte dei dati (670 $a)** tra le persone.
 
-## Subject headings
+## Parole chiave
 
-All subject headings, musical forms, and genres are collected here. Some records include translations or explanations as to the scope of the subject heading. Subject headings are linked through the field **Subject heading (650 $a)** in Sources and **Subject heading (650 $a)** in Secondary literature.
+Tutti i soggetti, le forme e i generi musicali sono raccolti qui. Alcune schede includono traduzioni o spiegazioni in merito alla portata della parola chiave. All'indice delle parole chiave si creano collegamenti nei campi **Soggetto (650 $a)** nelle fonti e **Soggetto (650 $a)** nella bibliografia.
 
 ## Titles/Text incipits
 
-The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a),** as well as the text incipits entered in the field **Text incipit (031 $t)**.
+The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a)**, as well as the text incipits entered in the field **Text incipit (031 $t)**.
 
 ## Work nodes
 
@@ -46,7 +46,7 @@ Links to work nodes are made through the field 930 in every bibliographic record
 
 **Creating a new work node**
 
-Please contact the RISM Editorial Center if you wish to create work nodes.
+Contact the RISM Editorial Center if you wish to create work nodes.
 
 When you open a template to create a new authority record for a work, use the **VIAF search** to look in VIAF to see if the work is already there, and click **select** to transfer the data to your authority record and make the link to VIAF. Note that only the field 100 is searched (i.e., composer name, scoring summary, opus/thematic catalog number, key, and title), so searching for variants is not possible. Keep in mind that different VIAF contributors have different ways of expressing works, so expect variations in the formulation of titles, instruments, and even thematic indexes. A good strategy is to search by composer name plus the number of the opus/thematic index.
 

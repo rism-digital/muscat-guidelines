@@ -1,12 +1,15 @@
 ### Einordnungstitel (240)
 
-The title is entered here in a standardized form. The standardized title brings compositions together under the same title  which, despite having a variety of names, are the same or similar. Auch Einordnungstitel oder Einheitssachtitel genannt.
+The field **Standardized title** is for the title in a standardized form. The standardized title brings compositions together under the same title which, despite having a variety of names, are the same or similar. Auch Einordnungstitel oder Einheitssachtitel genannt.
+
+_MARC export note:_  
+The field **Standardized title** is exported as MARC 130, with the same subfields as 240, when the record does not include a name in the field **Composer/Author (100)**.
 
 #### Besetzungshinweis (240 $m)
 
 **Pflichtfeld**
 
-Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Alternative Titel werden bei **Alternativer Einordnungstitel (730)** eingetragen.
+Enter the title in a standardized form. The field is linked to the **Title/Text incipit** index through $0. Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Alternative Titel werden bei **Alternativer Einordnungstitel (730)** eingetragen.
 
 A standardized title can be generated from the following, in order of preference:
 
@@ -19,9 +22,9 @@ A standardized title can be generated from the following, in order of preference
 
 Distinctive titles include all kinds of stage works, oratorios, cantatas, and songs, and also certain kinds of instrumental music (such as character pieces from the 18th century with a distinctive, individual title).
 
-Geben Sie den Titel entsprechend der Schreibweise in 1) New Grove, 2) MGG, 3) Werkverzeichnisse, 4) weitere Nachschlagewerke ein. Lassen Sie den Artikel zu Beginn nicht weg (the, a, an, der, die, le, l', etc.).
+Enter the distinctive title in standard spelling as in (1) New Grove, (2) MGG, (3) catalogs of works, and/or (4) other reference books. Lassen Sie den Artikel zu Beginn nicht weg (the, a, an, der, die, le, l', etc.).
 
-Titel von Drucken und populäre Namen (wie „Eroica“ oder „Nelson-Messe“ etc.) gelten nicht als Einordnungstitel. Solche Namen werden in **Alternativer Einordnungstitel (730 $a)** eingegeben.
+Titel von Drucken und populäre Namen (wie „Eroica“ oder „Nelson-Messe“ etc.) gelten nicht als Einordnungstitel. Such names are entered in the field **Additional titles (730 $a)**.
 
 In English, sentence case is preferred. In French, the simplified French rules ([Règles simplifiées](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#Titres_d%E2%80%99%C5%93uvres_ou_de_p%C3%A9riodiques)) are preferred.
 
@@ -30,23 +33,21 @@ In English, sentence case is preferred. In French, the simplified French rules (
 - Die Forelle
 - Die Zauberflöte
 - The beggar's opera
+- L'italiana in Algeri
 
 ##### 2. Text incipit
 
 Enter the text incipit as the standardized title for vocal pieces if there is no distinctive title.
 
-Besteht eine Handschrift aus Rezitativ und Arie oder Scena und Aria wird grundsätzlich das Textincipit der Arie zum Einordnungstitel. Entsprechendes gilt für Rezitativ und Cavatine, Scena und Rondo oder ähnliche Kombinationen. Wenn eine einzeln überlieferte Arie vorliegt, deren Operntitel unbekannt ist, geben Sie das Textincipit der Arie ein.
+If a source consists of a recitative and aria or a scena and aria, the text incipit of the aria is always used as the standardized title. Entsprechendes gilt für Rezitativ und Cavatine, Scena und Rondo oder ähnliche Kombinationen. If you have a single opera aria from an opera whose title is unknown, enter the text incipit of the aria.
 
-_Beispiele:_  
-Die Forelle  
-Die Zauberflöte  
-The beggar's opera
+With cantatas, on the other hand, the text of the first vocal piece functions as the standardized title, regardless of whether it is a recitative, aria, or chorus.
 
-Messen, Requiems, Exsequien, Litaneien und Offiziumskompositionen werden hingegen immer mit der Gattungsbezeichnung eingeordnet. Dasselbe gilt für vollständige Opern und Oratorien mit unbekanntem Individualtitel.
+Messen, Requiems, Exsequien, Litaneien und Offiziumskompositionen werden hingegen immer mit der Gattungsbezeichnung eingeordnet. The same is true for complete operas and oratorios whose titles are unknown.
 
-When entering text incipits, use the orthographic rules of each respective language to dictate use of upper or lower case letters. Capitalize the names of the deity (God, Herr, Dio, Dieu, Signore, Lord, etc.). Interpunktionszeichen und Wiederholungen entfallen beim Einordnungstitel. Bei eindeutigen Übersetzungen wird nach Möglichkeit das Textincipit in der Originalsprache eingetragen.
+When entering text incipits, use the orthographic rules of each respective language to dictate use of upper or lower case letters. Capitalize the names of the deity (God, Herr, Dio, Dieu, Signore, Lord, etc.). Omit punctuation marks and repetitions within the incipit. If the item is clearly a translation, enter the standardized title in the original language.
 
-Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. Lateinische Textincipits werden hier allerdings nur bis zu dem Trennungszeichen (Komma) als Einordnungstitel verwendet (siehe auch Liste im Anhang).
+Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use the text incipit in its entirety for the text incipit.
 
 ###### Examples
 
@@ -55,7 +56,7 @@ Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreib
 
 ##### 3. Genre
 
-Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Please consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
+Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
 
 ###### Examples
 
@@ -128,7 +129,7 @@ Hier wird ein Vermerk zu besonderen Ausgabeformen gemacht. Folgende Angaben sind
 
 Handelt es sich bei vorliegendem Werk um eine Bearbeitung eines anderen Werks, wird das in diesem Feld mit **Arr** gekennzeichnet.
 
-In the case of arrangements, enter the key of the original work. In diesem Fall ist eine entsprechende Bemerkung im Feld **Bemerkungen (500)** notwendig.
+In the case of arrangements, enter the key of the original work. If the original key cannot be determined, enter the key of the source in hand; in this case, though, enter a corresponding note in the field **General note (500)**.
 
 Bearbeitungen sind ebenfalls zu unterscheiden von eigenständigen Werken (freie Bearbeitungen) wie Variationen, Paraphrasen, Parodien und Phantasien über ein Thema der Vorlage.
 
@@ -180,9 +181,9 @@ The following Byzantine church modes are available:
 
 If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
-Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each element of the scoring summary with commas. Enter a maximum of four elements. Die ausführliche Auflistung der Besetzung erfolgt im Feld **Vollständige Besetzung (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
+Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each element of the scoring summary with commas. Enter a maximum of four elements. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
 
-Es gelten die Bezeichnungen gemäß **Abkürzungsliste**. Darin nicht enthaltene Begriffe werden auf Englisch und ausgeschrieben angegeben.
+Es gelten die Bezeichnungen gemäß **Abkürzungsliste**. Write out any terms that are not contained in this list in full and in English.
 
 Modale Tonarten werden nicht in moderne Tonartenbezeichnungen übertragen.
 
@@ -197,13 +198,13 @@ Modale Tonarten werden nicht in moderne Tonartenbezeichnungen übertragen.
 - Keyboard instruments
 - Basso continuo
 
-Bei mehreren gleichen Gesangsstimmen oder Instrumenten wird die Anzahl in runden Klammern angegeben, z. B. **B (2)**. Eine unbekannte Singstimme wird mit **V,** eine unbekannte Instrumentalstimme mit **i** wiedergegeben. Also use **V** to group together several different vocal parts, such as **V (8)**. Eine unbekannte Anzahl Stimmen wird mit nachgestelltem **(X)** ausgedrückt.
+When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Eine unbekannte Singstimme wird mit **V,** eine unbekannte Instrumentalstimme mit **i** wiedergegeben. Also use **V** to group together several different vocal parts, such as **V (8)**. Eine unbekannte Anzahl Stimmen wird mit nachgestelltem **(X)** ausgedrückt.
 
-Als iSol werden nur Soloinstrumente bezeichnet, die gegenüber einem Orchester eine durchgehende Solofunktion haben (vor allem im Solokonzert). Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
+Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 
-Bei einer Bearbeitung wird die Besetzung der vorliegende Quelle angegeben. If the instrumentation of the original work is known, specify it in the field **General note (500)**. In the case of a **Collection**, only use the field if the particular scoring is applicable to all the works contained in the collection.
+In the case of arrangements, the scoring summary refers to the personnel required in the present source, not in the work on which an arrangement is based. If the instrumentation of the original work is known, specify it in the field **General note (500)**. In the case of a **Collection**, only use the field if the particular scoring is applicable to all the works contained in the collection.
 
-Das Feld kann wiederholt werden, um Alternativbesetzungen anzugeben, z. B. ein Lied sowohl für Sopran als auch für Tenor. In such cases, enter each possible instrumentation in a separate field: for example, **S, pf** on one line and **T, pf** on the next.
+This field may be repeated in cases where alternative instrumentation is suggested, such as a song that is for either soprano or tenor. In such cases, enter each possible instrumentation in a separate field: for example, **S, pf** on one line and **T, pf** on the next.
 
 If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 
@@ -216,7 +217,7 @@ Omit the scoring summary if the performing forces are unknown or uncertain.
 - V (4), Coro, orch, org   _for a mass_
 - cl, orch _for a clarinet concerto_
 
-Please use the following standard instrumentation when applicable.
+Use the following standard instrumentation when applicable.
 
 Machen Sie keine Angaben, wenn die Besetzung unbekannt oder unsicher ist.
 - vl (2), vla, vlc
@@ -256,5 +257,3 @@ Flute quartet (all flutes)
 
 Flute quartet (flute with strings)
 - fl, vl, vla, vlc
-
-_MARC note: In records without a composer in the field 100 $a, the field 240 is exported as 130._
