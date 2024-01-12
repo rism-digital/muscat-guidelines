@@ -11,7 +11,7 @@ Indicate the technique used in the production of the source here. If you need an
 - **Impreso de computadora**
 - **Litografía**
 - **Grabado**
-- **Photoreproductive process**: Includes Cyanotype, diazo print, blueprint.
+- **Photoreproductive process (blueprint)**: Includes Cyanotype, diazo print, blueprint.
 - **Reproduction**: Many types of mechanical reproductions are included here, such as photocopy, xerocopy, heliography.
 - **Transparency**
 - **Transparencia**
@@ -45,3 +45,4 @@ Select the format of the book. The book format results from folding a sheet to f
 - **obl. 2°**: oblong folio
 - **obl. 4°**: oblong quarto
 - **obl. 8°**: oblong octavo
+- **obl. 12°**: oblong duodecimo  
