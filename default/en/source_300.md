@@ -47,7 +47,7 @@ Use one of the following English terms, in the singluar or plural as appropriate
 
 - **tablature part**: The type of tablature, if known, should be named in the field **General note (500)**.  
 - **sketch**: Use for sketches if the type of format cannot be more precisely determined.
-- **text document**: Use for libretti, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
+- **text document**: Use for librettos, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
 - **prompt book**: A document (can be a short score or text) used by a prompter for a stage work.
 - **table book**: parts arranged on a page so that all performers can read from it while seated around a table.
 
