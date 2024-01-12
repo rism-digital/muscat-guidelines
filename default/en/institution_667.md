@@ -10,4 +10,6 @@ Enter local notes for internal use, including for use within your own working gr
 note using your initials and the date.  
 
 In accordance with ISDIAH 5.6.9, notes can be entered here that are pertinent to the creation and maintenance of the description. For example, the names of persons responsible
-for creating and/or revising the description may be entered here. Furthermore, this field documents additional information relating to the creation of and changes to the description.
+for creating and/or revising the description may be entered here. Furthermore, this field documents additional information relating to the creation of and changes to the description.  
+
+Export note: The number of sources that are linked to an institution in Muscat are exported to the field 667 $a, for example: Published sources: 6
