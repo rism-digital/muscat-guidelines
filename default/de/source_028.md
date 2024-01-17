@@ -2,19 +2,19 @@
 
 Das Feld **Platten- oder Verlagsnummer** ist für die Plattennummern und Verlagsnummern, die auf dem Exemplar erscheinen. Sie erscheinen in der Regel auf gedruckten Ausgaben, können aber auch auf Handschriften zu finden sein, die von einer gedruckten Edition kopiert wurden.
 
-#### Publisher or plate number (028, indicators 20 for plate number; 028, indicators 30 for publisher number)
+#### Verlags- oder Plattennummer (028, Indikator 20 für Plattennummer; 028, Indikator 30 für Verlagsnummer)
 
-Select the kind of number from the drop-down menu. A publisher number is usually found only on the title page. A plate number is usually found at the bottom of each page; include such numbers even if the music was not printed from plates.
+Wählen Sie die Art der Nummer aus dem Dropdown-Menü. Eine Verlagsnummer ist normalerweise nur auf der Titelseite zu finden. Eine Plattennummer befindet sich in der Regel am unteren Rand jeder Seite; geben Sie diese Nummern an, auch wenn die Noten nicht von Platten gedruckt wurden.
 
-#### Number (028 $a)
+#### Nummer (028 $a)
 
-Enter the publisher number or plate number exactly as it appears on the source.
+Geben Sie die Verlagsnummer oder die Plattennummer genau so ein, wie sie auf der Quelle erscheint.
 
-Enter only one publisher number or plate number per field, but repeat the field if both kinds or multiple numbers are present. If the publisher number is identical with the plate number, the publisher number does not need to be entered separately. Enter all plate numbers found on the source, checking all pages in case multiple plate numbers are present. If a number range is given, enter the range as given on the source and also add each full number separately.
+Geben Sie nur eine Verlagsnummer oder eine Plattennummer pro Feld ein, aber wiederholen Sie das Feld, wenn beide Typen oder mehrere Nummern vorhanden sind. Ist die Verlagsnummer mit der Plattennummer identisch, muss die Verlegernummer nicht separat eingegeben werden. Geben Sie alle auf der Quelle befindlichen Plattennummern ein, prüfen Sie alle Seiten für den Fall, dass mehrere Plattennummern vorhanden sind. Wenn ein Zahlenbereich angegeben wird, geben Sie den Bereich wie auf der Quelle angegeben ein und fügen Sie jede Zahl separat hinzu.
 
-The statement "[without plate number]" in English is allowed and serves to convey to other readers that you checked the source for plate numbers but they are lacking.
+Die Aussage "[without plate number]" in Englisch ist erlaubt und dient dazu, anderen Nutzern zu vermitteln, dass Sie die Quelle auf Plattennummern überprüft haben, diese aber sie fehlen.
 
-##### Examples
+##### Beispiele
 
 - B. H. 4
 - 424
