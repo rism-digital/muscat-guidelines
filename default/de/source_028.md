@@ -1,6 +1,6 @@
-### Plate or publisher number (028)
+### Platten- oder Verlagsnummer (028)
 
-The field **Plate or publisher number** is for the plate numbers and publisher numbers that appear on the item. They typically appear on printed items but can also be found on manuscripts that were copied from a printed music edition.
+Das Feld **Platten- oder Verlagsnummer** ist für die Plattennummern und Verlagsnummern, die auf dem Exemplar erscheinen. Sie erscheinen in der Regel auf gedruckten Ausgaben, können aber auch auf Handschriften zu finden sein, die von einer gedruckten Edition kopiert wurden.
 
 #### Publisher or plate number (028, indicators 20 for plate number; 028, indicators 30 for publisher number)
 
