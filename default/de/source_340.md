@@ -20,29 +20,29 @@ Geben Sie hier die Technik an, die bei der Herstellung der Quelle verwendet wurd
 
 Ergänzungen oder Kommentare zur Drucktechnik können im Feld **Bemerkungen (500 $a)** erklärt werden.
 
-Enthält eine Quelle mehrere Drucktechniken, können Sie das Feld wiederholen, um jede Technik anzugeben. Include a note in the field **General note (500 $a)** to explain.
+Enthält eine Quelle mehrere Drucktechniken, können Sie das Feld wiederholen, um jede Technik anzugeben. Fügen Sie eine Anmerkung im Feld **Bemerkungen (500 $a)** hinzu, um sie zu erklären.
 
-##### Example
+##### Beispiele
 
-Engraved music that has a lithographed title page:
+Gestochene Noten mit lithografierter Titelseite:
 
-- **Special production technique (340 $d)**: Engraving
-- **Special production technique (340 $d)**: Lithography
-- **General note (500 $a)**: Music engraved. Title page lithographed.
+- **Spezielle Fertigungstechnik (340 $d)**: Stich
+- **Spezielle Fertigungstechnik (340 $d)**: Lithographie
+- **Bemerkungen (500 $a)**: Noten gestochen. Titelseite lithographiert.
 
-#### Book format (340 $m)
+#### Buchformat (340 $m)
 
-Select the format of the book. The book format results from folding a sheet to form a gathering of leaves. For example, a sheet folded once formats a folio, twice is a quarto, three times is an octavo. Folgende Angaben sind möglich:
+Wählen Sie das Buchformat aus. Das Buchformat ergibt sich aus der Faltung eines Blattes zu einer Ansammlung von Blättern. Beispiel: ein einmal gefaltetes Blatt ist ein Folio, ein zweimal gefaltetes Blatt ein Quarto und ein dreimal gefaltetes Blatt ein Octavo. Folgende Angaben sind möglich:
 
-- **2°**: folio, fo
-- **4°**: quarto, 4to
-- **8°**: octavo, 8vo
-- **12°**: duodecimo, twelvemo, 12mo
-- **16°**: sextodecimo, sixteenmo, 16mo
-- **18°**: octodecimo, eighteenmo, 18mo
-- **20°**: vigesimo, twentymo, 20mo
-- **24°**: vigesimo-quarto, twenty-fourmo, 24mo
-- **obl. 2°**: oblong folio
-- **obl. 4°**: oblong quarto
-- **obl. 8°**: oblong octavo
-- **obl. 12°**: oblong duodecimo  
+- **2°**: Folio, fo
+- **4°**: Quarto, 4to
+- **8°**: Octavo, 8vo
+- **12°**: Duodecimo, 12mo
+- **16°**: Sextodecimo, 16mo
+- **18°**: Octodecimo, 18mo
+- **20°**: Vigesimo, 20mo
+- **24°**: Vigesimo-Quarto, 24mo
+- **obl. 2°**: Folio quer
+- **obl. 4°**: Quarto quer
+- **obl. 8°**: Octavo quer
+- **obl. 12°**: Duodecimo quer  
