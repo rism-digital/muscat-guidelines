@@ -1,26 +1,26 @@
-### Special production technique (340)
+### Spezielle Fertigungstechnik (340)
 
-The field **Special production technique** is for the physical description information for an item that required technical equipment for its production, and for the description of the page format.
+Das Feld **Spezielle Fertigungstechnik** ist für die physische Beschreibung einer Quelle vorgesehen, für deren Produktion eine technische Ausrüstung erforderlich ist, und für die Beschreibung des Seitenformats.
 
-#### Printing technique (340 $d)
+#### Herstellungsverfahren (340 $d)
 
-Indicate the technique used in the production of the source here. If you need any term not on the list, contact the Editorial Center.
+Geben Sie hier die Technik an, die bei der Herstellung der Quelle verwendet wurde. Wenn Sie einen Begriff benötigen, der nicht auf der Liste steht, wenden Sie sich bitte an die Zentralredaktion.
 
-- **Autography**: Transfer printing (not to be confused with autograph manuscripts).
-- **Computer printout**
-- **Engraving**
-- **Lithography**
-- **Offset printing**
-- **Photoreproductive process (blueprint)**: Includes Cyanotype, diazo print, blueprint.
-- **Reproduction**: Many types of mechanical reproductions are included here, such as photocopy, xerocopy, heliography.
-- **Transparency**
-- **Typescript**
-- **Typography**: Includes music printed using movable type.
-- **Woodcut**
+- **Autografie**: Transferdruck/Umdruck (nicht zu verwechseln mit autographen Manuskripten).
+- **Computerausdruck**
+- **Stich**
+- **Lithographie**
+- **Offsetdruck**
+- **Fotoreproduktiver Prozess (Blaupausen)**: Beinhaltet Cyanotype, Diazo-Druck, Blaupausen.
+- **Reproduktion**: Hier sind viele mechanische Reproduktionen enthalten, wie z. B. Fotokopie, Xerokopie, Heliographie.
+- **Transparentfolie**
+- **Typoskript**
+- **Typendruck**: Enthält Musik mit beweglichem Typen.
+- **Holzschnitt**
 
-Any additions or comments about the printing technique may be explained in the field **General note (500 $a)**.
+Ergänzungen oder Kommentare zur Drucktechnik können im Feld **Bemerkungen (500 $a)** erklärt werden.
 
-If a source includes multiple printing techniques, you may repeat the field to indicate each technique. Include a note in the field **General note (500 $a)** to explain.
+Enthält eine Quelle mehrere Drucktechniken, können Sie das Feld wiederholen, um jede Technik anzugeben. Include a note in the field **General note (500 $a)** to explain.
 
 ##### Example
 
