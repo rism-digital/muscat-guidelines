@@ -114,6 +114,17 @@ Standard RISM rules for generic titles apply (see **Standardized title (240)**),
 
 If your institution owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.
 
+### Microfilm copies
+
+Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Notify the Editorical Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856).
+
+#### Example
+- RISM ID no. 990052954, copy in B-Bc:  
+  Mikrofilm im Deutschen Musikgeschichtlichen Archiv (D-Kdma) vorhanden
+- RISM ID no. 1000000576, copy in D-B:  
+  Digital copy of microfilm available from DiZbi.HAZU | Digitalna zbirka i katalog Hrvatske akademije znanosti i umjetnosti
+
+
 ### Record splits and mergers
 
 #### Background

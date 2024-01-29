@@ -1,6 +1,6 @@
 ## Cataloging special types of sources
 
-This section describes how to catalog special types of sources: collections, composite volumes, contrafacta, compilations, parodies, insertion arias, mixed materials (manuscripts and printed items stored together), music in periodicals, music in non-music publications, collected works (sometimes called "monuments"), libretti, treatises, keyboard arrangements, and sources from other RISM Series B publications.
+This section describes how to catalog special types of sources: collections, composite volumes, contrafacta, compilations, parodies, insertion arias, mixed materials (manuscripts and printed items stored together), music in periodicals, music in non-music publications, collected works (sometimes called "monuments"), librettos, treatises, keyboard arrangements, and sources from other RISM Series B publications.
 
 ### Collections
 
@@ -222,13 +222,13 @@ Observe the following fields in particular when cataloging volumes in collected 
 - **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
 - **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
 
-### Libretti
+### Librettos
 
-Observe the following when cataloging libretti.
+Observe the following when cataloging librettos.
 
 - **Composer/Author (100):** Enter the author of the libretto. Do not use this field for the composer of the music.
 - **Additional personal name (700):** A useful function is "conceptor," such as the author of a play that a libretto was based on. Only enter a composer's name as a cross-reference if named on the source.
-- **Additional institution (710):** Do not forget to index the name of the publisher (for printed libretti).
+- **Additional institution (710):** Do not forget to index the name of the publisher (for printed librettos).
 - **Standardized title (240):** The fields "Arrangement statement" and "Key or mode" are not relevant here. If the libretto includes notated music, indicate the key in the music incipit (031) only.
 - **Additional title (730):** If the libretto was based on a book or play, the title of the original work can be entered here.
 - **Subject heading (650):** Enter the name of the genre for which the libretto was written, if known (such as “Operas” or “Cantatas”). "Librettos" is not necessary.

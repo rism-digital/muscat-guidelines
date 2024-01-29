@@ -16,10 +16,10 @@ The statement "[without plate number]" in English is allowed and serves to conve
 
 ##### Examples
 
-- B. & H. 8533
+- B. H. 4
 - 424
-- S. 107 T.
-- 2756.7
-- 875b
+- 5251.5252.
+- 732a
 - XLII
+- M-210948
 - [without plate number]

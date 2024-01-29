@@ -1,6 +1,6 @@
 ## Cataloging special types of sources
 
-This section describes how to catalog special types of sources: collections, composite volumes, contrafacta, compilations, parodies, insertion arias, mixed materials (manuscripts and printed items stored together), music in periodicals, music in non-music publications, collected works (sometimes called "monuments"), libretti, treatises, keyboard arrangements, and sources from other RISM Series B publications.
+This section describes how to catalog special types of sources: collections, composite volumes, contrafacta, compilations, parodies, insertion arias, mixed materials (manuscripts and printed items stored together), music in periodicals, music in non-music publications, collected works (sometimes called "monuments"), librettos, treatises, keyboard arrangements, and sources from other RISM Series B publications.
 
 ### Collections
 
@@ -224,13 +224,13 @@ Observe the following fields in particular when cataloging volumes in collected 
 - **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
 - **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
 
-### Libretti
+### Librettos
 
-Observe the following when cataloging libretti.
+Observe the following when cataloging librettos.
 
 - **Compositor/Autor (100):** Introduzca el autor del libreto. No utilice este campo para el compositor de la música.
 - **Nombre personal adicional (700):**"Autor del concepto" es una función útil, por ejemplo, para registrar al autor de una obra de teatro en la que se basa el libreto. Introduzca el nombre de un compositor como referencia cruzada sólo si se lo nombra en la fuente.
-- **Código de idioma (041):** Utilice el campo "Idioma del texto" sólo si el libreto contiene música anotada con letra.
+- **Additional institution (710):** Do not forget to index the name of the publisher (for printed librettos).
 - **Título uniforme (240):** Los campos "Declaración de arreglo" y "Tonalidad o modo" no resultan relevantes en este caso. En caso de que el libreto incluya música anotada, indique la tonalidad sólo en el Incipit musical (031).
 - **Título uniforme (240):** Título de la inserción, o el nombre de la ópera seguido de Extractos.
 - **Descriptor (650):** Introduzca el nombre del género para el que se escribió el libreto, si se lo conoce (como "Operas" o "Cantatas"). "Librettos" no es necesario.
