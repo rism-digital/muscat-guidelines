@@ -34,11 +34,11 @@ Tutti i soggetti, le forme e i generi musicali sono raccolti qui. Alcune schede 
 
 ## Titles/Text incipits
 
-The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a)**, as well as the text incipits entered in the field **Text incipit (031 $t)**.
+L'indice Titolo / Incipit testuale contiene sia i titoli inseriti tra le Fonti nel campo **Titolo uniforme (240 $a)** e **Titolo uniforme alternativo (730 $a)** che gli incipit testuali inseriti nel campo **Incipit testuale (031 $t)**.
 
-## Work nodes
+## Riferimenti alle opere
 
-Work nodes collect all information that is true for a work as a whole, no matter what other forms a piece of music exists in, whether it be—for example—an arrangement, a translation, a full score, or a single manuscript. Work nodes can include the composer, title, title variants, key, instrumentation, and incipits, though it is not always an easy matter to decide what constitutes a separate "work."
+I riferimenti alle opere riportano tutte le informazioni che sono valide per una composizione nel suo complesso, indipendentemente dalla forma che assume l'opera musicale, ad esempio un arrangiamento, una traduzione, una partitura completa o un singolo manoscritto. I riferimenti alle opere possono includere il compositore, il titolo, varianti del titolo, la tonalità, l'organico e l'incipit, anche se non è sempre facile decidere cosa costituisce una "opera" a sé stante.
 
 Associating a musical source in Muscat with a work ensures that all instances of any given piece of music are linked together. This improves the searchability of the catalog and helps users find all relevant sources, regardless of whether, for example, one manuscript calls the famous Mozart opera "Die Zauberflöte" and another is labeled "The Magic Flute," or a small chamber music piece is called a "duet" on one manuscript but a "sonata" on another. Beyond Muscat, in the linked data environment, information on works—and the associated RISM records—can be integrated into web searches, online encyclopedias, and other external databases.
 
