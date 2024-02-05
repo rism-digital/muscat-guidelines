@@ -32,7 +32,7 @@ La banca-dati bibliografica delle opere di riferimento consente di citare nelle 
 
 Tutti i soggetti, le forme e i generi musicali sono raccolti qui. Alcune schede includono traduzioni o spiegazioni in merito alla portata della parola chiave. All'indice delle parole chiave si creano collegamenti nei campi **Soggetto (650 $a)** nelle fonti e **Soggetto (650 $a)** nella bibliografia.
 
-## Titles/Text incipits
+## Titoli / Incipit testuali
 
 L'indice Titolo / Incipit testuale contiene sia i titoli inseriti tra le Fonti nel campo **Titolo uniforme (240 $a)** e **Titolo uniforme alternativo (730 $a)** che gli incipit testuali inseriti nel campo **Incipit testuale (031 $t)**.
 
@@ -40,7 +40,7 @@ L'indice Titolo / Incipit testuale contiene sia i titoli inseriti tra le Fonti n
 
 I riferimenti alle opere riportano tutte le informazioni che sono valide per una composizione nel suo complesso, indipendentemente dalla forma che assume l'opera musicale, ad esempio un arrangiamento, una traduzione, una partitura completa o un singolo manoscritto. I riferimenti alle opere possono includere il compositore, il titolo, varianti del titolo, la tonalità, l'organico e l'incipit, anche se non è sempre facile decidere cosa costituisce una "opera" a sé stante.
 
-Associating a musical source in Muscat with a work ensures that all instances of any given piece of music are linked together. Questo migliora la ricercabilità nel catalogo e aiuta gli utenti a trovare tutte le fonti rilevanti, indipendentemente dal fatto che, ad esempio, un manoscritto chiami la famosa opera di Mozart "Die Zauberflöte" e un altro sia etichettato "The Magic Flute", oppure un breve pezzo di musica da camera sia chiamato "duetto" su un manoscritto ma "sonata" su un altro. Al di là di Muscat, nell'ambiente dei dati collegati, le informazioni sulle opere e le relative schede RISM possono essere integrate nelle ricerche in rete, nelle enciclopedie online e in altre banche dati esterne.
+Collegare una fonte musicale in Muscat ad una voce di autorità per un'opera assicura che tutte le istanze di una data composizione siano collegate tra loro. Questo migliora la ricercabilità nel catalogo e aiuta gli utenti a trovare tutte le fonti rilevanti, indipendentemente dal fatto che, ad esempio, un manoscritto chiami la famosa opera di Mozart "Die Zauberflöte" e un altro sia etichettato "The Magic Flute", oppure un breve pezzo di musica da camera sia chiamato "duetto" su un manoscritto ma "sonata" su un altro. Al di là di Muscat, nell'ambiente dei dati collegati, le informazioni sulle opere e le relative schede RISM possono essere integrate nelle ricerche in rete, nelle enciclopedie online e in altre banche dati esterne.
 
 È possibile collegare i riferimenti alle opere nel campo 930 di ogni scheda bibliografica per una fonte musicale. Opere non ancora presenti nell'indice vanno create prima di poter istituire il collegamento.
 
