@@ -1,10 +1,10 @@
-### Internal note (599)
+### Interne Bemerkungen (599)
 
-The field **Internal note** is used for information not intended for public display. Internal notes are not published in the RISM catalogs or available in the RISM open data.
+Im Feld **Interne Bermekungen**werden allgemeine Angaben gemacht, die nicht zur Veröffentlichung bestimmt sind. Interne Bemerkungen werden nicht in den RISM-Katalogen oder den RISM Open Data veröffentlicht.
 
-#### Internal note (599 $a)
+#### Interne Bemerkungen (599 $a)
 
-Enter local notes for internal use, including within your own working group. Any language may be entered here. Local notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.
+Geben Sie lokale Notizen für den internen Gebrauch ein, auch für die Verwendung innerhalb Ihrer eigenen Arbeitsgruppe. Hier können Sie jede Sprache eingeben. Interne Notizen können für Bemerkungen aller Art verwendet werden, wie Fragen, Kommentare oder Recherchen. Löschen Sie Notizen, nachdem sie ihren Zweck erfüllt haben. Kennzeichnen Sie Ihre Notizen mit Ihren Initialen und einem Datum.
 
 **Obsolete procedures**: Older RISM cataloging guidelines contained codes and other standardized terminology to describe the nature of the comment:
 - 005 From head office (Zentralredaktion)
