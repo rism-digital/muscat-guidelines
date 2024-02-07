@@ -1,4 +1,4 @@
-### Authentication code (042)
+### Individualisierung (042)
 
 The field **Authentication code** indicates whether or not the name has been connected to a single individual.
 
