@@ -1,15 +1,15 @@
-### Profession or function (550)
+### Beruf oder Funktion (550)
 
-The field **Profession or function** is for the profession of the person or the function the person plays in relation to a musical source.
+Das Feld **Beruf oder Funktion** ist für den Beruf der Person oder die Funktion der Person in Bezug auf eine musikalische Quelle.
 
-#### Profession or function (550 $a)
+#### Beruf oder Funktion (550 $a)
 
-Enter, in English, the profession or function of the person. Professions can refer to any profession or occupation that the person carried out, whether or not it has to do with music. A function refers to the relationship of the person to a musical source.
+Die Angabe zu Beruf oder Funktion einer Person erfolgt grundsätzlich auf Englisch. Berufe können sich auf jeden Beruf beziehen, den die Person ausgeübt hat, unabhängig davon, ob es um Musik geht oder nicht. Eine Funktion bezeichnet das Verhältnis der Person zu einer musikalischen Quelle.
 
-##### Examples
-- Composer
-- Priest
-- Politician
-- Dedicatee
+##### Beispiele
+- Komponist
+- Priester
+- Politiker
+- Widmungsträger
 
 **Obsolete procedures**: Older RISM records contain 550$i which indicates the type of term: profession, academic, or religion.
