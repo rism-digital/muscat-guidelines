@@ -4,4 +4,4 @@ Im Feld **Interne Bermekungen**werden allgemeine Angaben zur Person gemacht, die
 
 #### Interne Bemerkungen (667 $a)
 
-Geben Sie lokale Notizen für den internen Gebrauch ein, auch für die Verwendung innerhalb Ihrer eigenen Arbeitsgruppe. Hier können Sie jede Sprache eingeben. Interne Notizen können für Bemerkungen aller Art verwendet werden, wie Fragen, Kommentare oder Nachforschungen. Löschen Sie Notizen, nachdem sie ihren Zweck erfüllt haben. Kennzeichnen Sie Ihre Notizen mit Ihren Initialen und einem Datum.  
+Geben Sie Notizen für den internen Gebrauch ein. Hier kann jede Sprache verwendet werden. Interne Notizen können für Bemerkungen aller Art verwendet werden, wie Fragen, Kommentare oder Nachforschungen. Löschen Sie Notizen, nachdem sie ihren Zweck erfüllt haben. Kennzeichnen Sie Ihre Notizen mit Ihren Initialen und einem Datum.  
