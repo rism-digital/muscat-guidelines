@@ -1,12 +1,12 @@
-### Name variant (400)
+### Namensvarianten (400)
 
-The field **Name variant** is for forms of the name that differ from the authorized form, including birth names, pseudonyms, religious names, names spelled differently on different sources, and alternate transliterations.
+Das Feld **Namensvarianten** ist für Formen des Namens, die sich von der Ansetzungsform unterscheiden, einschließlich Geburtsnamen, Pseudonyme, Ordensnamen, abweichende Schreibweisen auf der Quelle sowie alternative Transliterationen.
 
-#### Name variant (400 $a)
+#### Namensvarianten (400 $a)
 
-Enter the name in the form described in the field **Heading - Personal name (100 $a)**.
+Geben Sie den Namen in gleicher Form wie im Feld **Ansetzungsform (100 $a)** ein.
 
-For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
+Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in transliterierter Form eingeben. Transliterations using other translation tables can also be entered here.
 
 Additions to names such as Jr, III, Sir, Meister, etc. are entered here, for example: **Sinatra, Frank Jr.**
 
