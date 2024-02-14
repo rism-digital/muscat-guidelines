@@ -1,4 +1,4 @@
-### Source data found (670)
+### Literaturnachweis (670)
 
 The field **Source data found** keeps track of the secondary literature that was consulted while entering the forms of the name and the dates, and gives the form of the name and dates found therein. Secondary literature that was consulted but yielded no information is also entered here. Forms of the name that differ from the form given in **Heading - Personal name (100 $a)** must be entered in the field **Name variant (400 $a)**.
 
