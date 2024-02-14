@@ -1,23 +1,23 @@
-### Related personal name (500)
+### Zugehörige Personen (500)
 
-The field **Related personal name* describes familial relationships.
+Das Feld **Zugehörige Personen* beschreibt familiäre Beziehungen.
 
-#### Related personal name (500 $a)
+#### Zugehörige Personen (500 $a)
 
-Enter the personal name that stands in relation to the person in question. This field is linked to the **Personal names** authority file through subfield $0.
+Geben Sie den Personennamen ein, der im Verhältnis zur betreffenden Person steht. Das Feld ist mit der Normdatei **Personen** verknüpft.
 
-#### Type of relationship (500 $i)
+#### Art der Beziehung (500 $i)
 
-Indicate the type of relationship the person in question has to the related person. For example, the authority record for Clara Schumann will have the following in this section: Schumann, Felix - mother of.
+Mit Hilfe dieses Feldes können Sie die Art der Verweisung zu einer weiteren Person spezifizieren. Die Relation wird ausgehend von der zu bearbeitenden Person angegeben; in diesem Abschnitt wird zum Beispiel die Normdatei für Clara Schumann folgendermaßen aufgeführt: Schumann, Felix - Mutter von.
 
 Folgende Angaben sind möglich:
 
-- **brother of**
-- **child of**
-- **confused with**
-- **father of**
-- **married to**
-- **mother of**
-- **related to**: a different relationship, such as an aunt, uncle, cousin, etc.
-- **sister of**
-- **other**: select if the relationship is not familial
+- **Bruder von**
+- **Kind von**
+- **Verwechselt mit**
+- **Vater von**
+- **Verheiratet mit**
+- **Mutter von**
+- **Verwandt mit**: eine andere Beziehung, wie etwa eine Tante oder Onkel, Cousin, etc.
+- **Schwester von**
+- **Sonstige Funktion**: Wählen Sie diese Option, wenn keine familiäre Beziehung besteht
