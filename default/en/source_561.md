@@ -1,8 +1,8 @@
-### Provenance notes (561)
+### Provenance note (561)
 
 The field **Provenance** is for information about the ownership of the item before it came into possession of the holding library.  
 
-#### Provenance notes (561 $a)  
+#### Provenance note (561 $a)  
 
 Use this field for general notes about the provenance of the item as well as ownership marks. Enter using your
 cataloging language.

@@ -1,8 +1,8 @@
-### Initial entry (775)  
+### Initial entry in A/I (775)  
 
-The field **Initial entry** links to the RISM ID number that corresponds to the edition that was listed first in the RISM publication _Einzeldrucke vor 1800/Individual prints before 1800_ (A/I).
+The field **Initial entry in A/I** links to the RISM ID number that corresponds to the edition that was listed first in the RISM publication _Einzeldrucke vor 1800/Individual prints before 1800_ (A/I).
 
-#### Initial entry (775 $w)  
+#### Initial entry in A/I (775 $w)  
 
 Do not edit this field.
 

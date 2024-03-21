@@ -4,7 +4,7 @@ The field **Bibliographic reference** gives bibliographic references related to 
 or if it refers directly to the source in question. You can also enter references to modern editions connected with the
 source and references to watermark literature.
 
-Note that information from a catalog of works is
+Note that information citing a catalog of works number is
 entered in the field **Catalog of works (690)**.  
 
 Use this field if you wish to indicate that a printed edition is not mentioned in a volume from RISM series A/I or a B volume (deest).

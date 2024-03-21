@@ -27,7 +27,7 @@ Abbreviations for religious orders are taken from the following Wikipedia page: 
 - OCist  
 - Dr.  
 
-#### Years of birth and death (100 $d)
+#### Life dates (100 $d)
 
 Enter the person’s years of birth and death or enter a different relevant range of years.
 

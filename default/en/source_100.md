@@ -10,7 +10,7 @@ sense, of the source.
 Enter the name of the person responsible for the work. This may be the composer (for music manuscripts and printed
 music), librettist (for librettos), or author of a work of music theory (for treatises).  
 
-This field is linked to the **Personal names** authority file through $0. Names not yet in the authority file may be added. In such cases, check the box "Confirm
+This field is linked to the **Personal names** authority file through $0 and the life dataes are displayed $d. Names not yet in the authority file may be added. In such cases, check the box "Confirm
 the insertion of a new value" and add the person's life dates, if known, in the field **Life dates (100 $d)**. The new name,
 including life dates, will be confirmed and edited by the Editorial Center.  
 
@@ -33,4 +33,4 @@ If you enter the composer as **Anonymus,** do not enter an attribution qualifier
   blank.
 
 **Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **Verified.** The attribution was used if the composer's name
-appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in November 2021.
+appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in February 2024.

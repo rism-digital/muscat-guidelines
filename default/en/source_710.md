@@ -49,7 +49,8 @@ MARC relator code.
 - **Former owner [fmo]**
 - **Licensee [lse]**: An institution that is an original recipient of the right to print or publish.
 - **Other [oth]**: All other functions. Use if the exact function is not on the list or is unknown, unclear, or unspecific.
-- **Papermaker [ppm]**
+- **Papermaker [ppm]**  
+- **Patron [pat]**: An institution responsible for commissioning a work.  
 - **Performer [prf]**: The institution or ensemble that performed the work, such as an orchestra.
 - **Printer [prt]**
 - **Publisher [pbl]**

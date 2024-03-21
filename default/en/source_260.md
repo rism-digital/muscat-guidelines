@@ -4,10 +4,10 @@ The field **Publishing, printing, and production information** is for informatio
 types of sources. In all subfields here, indicate editorial additions and completions with square brackets. Place a question mark
 after an uncertain piece of information.
 
-For printed music: If the original publishing information is covered by a label or otherwise crossed out or altered, and
+For printed music: If the original publishing information is covered by a label showing later information or otherwise crossed out or altered (including stamps), and
 new information is provided in its place, enter the new information in this field. If you can read the original
 publishing information or if the original publishing information is otherwise available, you may also enter it by
-repeating the field. An explanatory note in the field **General note (500)** may be necessary.
+repeating the field. An explanatory note in the field **General note (500)** may be necessary to clarify the presence of a label or multiple imprints. If a label or stamp is somewhere else on the page, record it in the holdings information.
 
 #### Place (260 $a)
 
@@ -99,8 +99,6 @@ For approximate periods of time, enter a range of years based on the following s
 - 18/19 (18th or 19th century)
 
 Furthermore, previous cataloging programs had two fields for dating. One was for numbers only and the second was a text field where numbers plus abbreviations such as _+, ca., ante, post,_ and _18.sc_ or text such as _Easter 1805_ or _?1745?_ could be entered. Some legacy records, therefore, display two date indications, such as _1806 (1806 ca.)_. Dates written in the format XX.XX.XXXX are interpreted as DD.MM.YYYY.
-
-
 
 
 #### Location of printer (260 $e)

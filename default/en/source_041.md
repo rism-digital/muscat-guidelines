@@ -8,14 +8,9 @@ Editorial Center if you need a language that is not on the list. Languages are l
 **Required field if Text Incipit (031 $t) is filled out**
 
 Select the language(s) of the text in the source. For music, this refers to the language of the sung or spoken text,
-even if it is printed separately, and not other text such as prefaces or dedications. For treatises, this refers to the
-language of the text. For librettos, use subfield **$e**.
+even if it is printed separately, and not other text such as prefaces or dedications. For treatises and librettos, this refers to the
+language of the text.
 
-#### Language of libretto (041 $e)
-
-**Required field if libretto template is selected.**
-
-Select the language of the libretto.
 
 #### Language of original text (041 $h)
 
