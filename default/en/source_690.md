@@ -16,3 +16,8 @@ Editorial Center determines the appropriate citation style, in keeping with the 
 is explained in the corresponding entry in the **Secondary literature** database through $0. If the source contains only one
 movement of a work, indicate the number of the movement after a slash. Write **deest** if a particular composition is
 not listed in the composer’s catalog of works.
+
+##### Example
+
+A 14
+385/9

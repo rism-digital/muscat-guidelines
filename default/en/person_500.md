@@ -4,7 +4,7 @@ The field **Related personal name* describes familial relationships.
 
 #### Related personal name (500 $a)
 
-Enter the personal name that stands in relation to the person in question. This field is linked to the **Personal names** authority file through subfield $0.
+Enter the personal name that stands in relation to the person in question. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d.  
 
 #### Type of relationship (500 $i)
 

@@ -6,7 +6,7 @@ The field **Library siglum** is for information about the library or institution
 
 **Required field.**
 
-Enter the siglum of the holding library. This field is linked to the **Institutions** authority file.
+Enter the siglum of the holding library. This field is linked to the **Institutions** authority file. The name of the library is displayed in the field **Library ($e)**.
 
 #### Department (852 $b)
 
