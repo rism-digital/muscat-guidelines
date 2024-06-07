@@ -1,9 +1,9 @@
-### Language code (041)
+### Sprachcode (041)
 
-The field **Language code** is for the language of the item.
+Das Feld **Sprachcode** ist für die in der Literatur verkommende(n) Sprache(n).
 
-#### Language code (041 $a)
+#### Sprachcode (041 $a)
 
-Enter the language(s) of the item.
+Geben Sie die Sprache(n) des Elements an.
 
-The codes used are the three-letter ISO 639-2 abbreviations found here: [http://www.loc.gov/standards/iso639-2/php/code\_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)
+Nutzen Sie die aus drei Buchstaben bestehenden ISO 639-2 Abkürzungen:  [http://www.loc.gov/standards/iso639-2/php/code\_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)
