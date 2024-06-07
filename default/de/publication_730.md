@@ -1,7 +1,7 @@
-### Additional title (730)
+### Zusätzlicher Titel (730)
 
-The field **Additional title** is used for other titles not found on the title page.
+Das Feld **Zusätzlicher Titel** wird für andere Titel verwendet, die nicht auf der Titelseite stehen.
 
-#### Additional title (730 $a)
+#### Zusätzlicher Titel (730 $a)
 
 Enter translations of the title here if they do not appear on the title page.
