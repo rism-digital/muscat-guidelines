@@ -1,19 +1,19 @@
-### Media type (337)
+### Physisches Medium (337)
 
-**Required field.**
+**Pflichtfeld.**
 
-The field **Media type** is for the kind of medium represented by the item.
+Das Feld **Medientyp** gibt die Art des Mediums an, das die Publikation repräsentiert.
 
-#### Media type (337 $a)
+#### Medientyp (337 $a)
 
-Select the type of media from the following list:
+Wählen Sie den Medientyp aus der folgenden Liste:
 
 - **CD-ROM**
-- **E-book**
-- **Electronic resource**: such as a database, website, or online catalog of works
-- **Manuscript**: a handwritten document
-- **Media combination**
-- **Microfiche**
-- **Microfilm**
-- **Printed medium**
-- **Printed music**  
+- **E-Book**
+- **Elektronische Ressource**: wie eine Datenbank, Website oder ein Online-Werkverzeichnis
+- **Manuskript**: Ein handgeschriebenes Dokument
+- **Medienkombination**
+- **Mikrofiche**
+- **Mikrofilm**
+- **Gedrucktes Medium**
+- **Notenausgabe**  
