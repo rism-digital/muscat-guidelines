@@ -1,6 +1,6 @@
 ### Sprachcode (041)
 
-Das Feld **Sprachcode** ist für die in der Literatur verkommende(n) Sprache(n).
+Das Feld **Sprachcode** ist für die in der Publikation verkommende(n) Sprache(n).
 
 #### Sprachcode (041 $a)
 
