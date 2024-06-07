@@ -1,12 +1,12 @@
-### Dissertation note (502)
+### Hinweis zur Dissertation (502)
 
-The field **Dissertation note** is used to indicate that the item is a dissertation.
+Das Feld **Hinweis zur Dissertation** zeigt an, dass es sich um eine Dissertation handelt.
 
-#### Dissertation note (502 $a)
+#### Hochschulschriftenvermerk (502 $a)
 
-If the item is a doctoral dissertation, enter a statement that includes the type of degree, institution, and year.
+Wenn es ich um eine Hochschulschrift handelt, werden hier die Art, Institution und Jahr genannt.
 
-##### Examples
+##### Beispiele
 
 - Ph.D. diss., University College, London 1998
-- Diss., Freie Universität, Berlin 2002
+- Diss., Freie Universität, Berlin 2002
