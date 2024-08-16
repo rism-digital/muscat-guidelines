@@ -11,7 +11,7 @@ Der **Quellentyp** gibt die physische Form der Quelle wieder. Die angebotenen Op
 ##### Für handschriftliches Material
 
 - **Autograph manuscript = Autograph**: vollständig oder größtenteils geschrieben in der Hand des Komponisten. Wenn Sie Anonymus als Komponist eingegeben haben und hier Autograph auswählen, ergänzen Sie bitte eine Erklärung in den **Bemerukungen (500)** hinzu.
-- **Possible autograph manuscript**: Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
+- **Possible autograph manuscript = fragliches Autograph**: Zeigt eine gewisse Unsicherheit an, ob das Manuskript von der Hand des Komponisten ist.
 - **Partial autograph = Teilautograph**: Große Teile des Manuskripts sind in der Hand des Komponisten.
 - **Manuscript copy = Abschrift**: Das Manuskript liegt in der Hand einer anderen Person als des Komponisten vor. Diese Einstellung wird standardmäßig ausgewählt, wenn eine Vorlage für handgeschriebenes Material ausgewählt wurde.
 - **Manuscript copy with autograph annotations = Abschrift mit autographen Eintragungen**: Das Manuskript liegt in der Hand einer anderen Person als de Komponisten vor, enthält aber Korrekturen oder kleine Zusätze des Komponisten.
@@ -46,44 +46,44 @@ Wenn Sie eine Druckvorlage verwenden, wählen Sie in den Exemplareinträgen **Zu
 #### Inhaltstyp (593 $b)
 
 Der **Inhaltstyp** beschreibt die Form des Materials. Folgende Angaben sind möglich:
-- **Notated music**
+- **Notenmaterial**
 - **Libretto**
-- **Treatise**
-- **Other**: Use sparingly to describe other kinds of materials that accompany the musical source.
+- **Traktat**
+- **Sonstige**: Sparsam verwenden, um andere Arten von Materialien zu beschreiben, die die Musikquelle begleiten.
 
 
-For composite volumes that contain more than one content type, you may also select:
+Für Konvolutbände, die mehr als einen Inhaltstyp enthalten, können Sie auch wählen:
 
-- **Mixed**
+- **Gemischt**
 
-#### Special cases
+#### Spezialfälle
 
-##### Collections
+##### Sammlungen
 
-You may choose the combination of source type and content type that best summarizes the collection as a whole, or multiple material groups may be added for each kind of source. Keep in mind that differenciated information will always be provided in the child record.
+Sie können eine Kombination von Quellentyp und Inhaltstyp wählen, die die Sammlung als Ganzes am besten zusammenfaßt oder mehrere Materialgruppen für jede Art von Quelle hinzugefügen. Beachten Sie, dass immer unterschiedliche Informationen im Teileintrag zur Verfügung stehen.
 
-##### Composers, arrangers, and copyists
+##### Komponisten, Bearbeiter und Schreiber
 
-In the case of autograph manuscripts and possible autograph manuscripts, do not create an added entry **(700)** with the composer's name as the copyist. However, an exception is if the identity of the copyist is certain but it is uncertain if the copyist is also the composer. In such a case, enter the copyist's name in the field **Additional personal name (700)** but add the same name to the field **Composer/Author (100 $a)** with the appropriate **Attribution qualifier (100$j)**.
+Bei autographen Handschriften und fraglichen Autographen sollte kein zusätzlicher Eintrag **(700)** mit dem Namen des Komponisten als Schreiber erstellt werden. Eine Ausnahme besteht jedoch, wenn die Identität des Kopisten feststeht, aber nicht sicher ist, ob der Schreiber auch der Komponist ist. In einem solchen Fall tragen Sie den Namen des Kopisten in das Feld **Nebeneintrag Personenname (700)** ein, fügen aber denselben Namen in das Feld Name des **Komponisten/Autors (100 $a)** mit dem entsprechenden **Zuschreibungsvermerk (100$j)** ein.
 
-In some cases, such as with a partial autograph, an explanatory note in the field  **General note (500)** may be appropriate.
+In einigen Fällen beispielsweise bei Teilautographen ist ein erklärender Vermerk im Feld **Bemerkungen (500)** sinnvoll.
 
-If the arranger of a composition was also the copyist, select **Manuscript copy** and not  **Autograph manuscript**.
+Ist der Bearbeiter einer Komposition gleichzeitig auch deren Schreiber, gilt diese Quelle als **Abschrift** nicht als **Autograph**.
 
-##### Photocopies
+##### Fotokopien
 
-If your source is a mechanical reproduction (such as a photocopy), follow these steps:
+Wenn es sich bei Ihrer Quelle um eine mechanische Reproduktion handelt (z. B. eine Fotokopie), gehen Sie folgendermaßen vor:
 
-1\. Select  **Autograph manuscript**, **Manuscript copy**, etc. as it applies to the original source.
+1\. Wählen Sie **Autograph**, **Abschrift** usw. aus (d.h. wählen Sie den Typ aus, der für die Originalquelle gilt).
 
-2\. Select the type of reproduction in the field  **Special production technique (340 $d)**.
+2\. Wählen Sie die Art der Reproduktion im Feld **Spezielle Fertigungstechnik (340 $d)**.
 
-##### Typewritten items
+##### Maschinenschriftliche Einträge
 
-If your source is typewritten, follow these steps:
+Wenn es sich bei Ihrer Quelle um eine Maschinenschrift handelt, gehen Sie folgendermaßen vor:
 
-1\. Select a template for a handwritten item.
+1\. Wählen Sie eine Manuskriptvorlage.
 
-2\. Select **Autograph manuscript** if the composer or author typed the document themselves. Select **Manuscript copy** if someone other than the composer or author typed the document themselves.
+2\. Wählen Sie **Autograph** aus, wenn der Komponist oder Autor das Dokument selbst eingegeben hat. Wählen Sie **Abschrift**, wenn eine andere Person als der Komponist oder Autor das Dokument eingegeben hat.
 
-3\. Select **Typescript** in the field  **Special production technique (340 $d)**.
+3\. Wählen Sie **Maschinenschrift** im Feld **Spezielle Fertigungstechnik (340 $d)**.
