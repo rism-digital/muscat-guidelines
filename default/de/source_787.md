@@ -28,6 +28,6 @@ Beschreiben Sie kurz die Art der Beziehung. Zusätzliche Angaben können auch in
 - Veröffentlicht in “Intabulatura di lauto, libro quarto” (Scotto, 1546).
 - Eingefügt nach dem zweiten Akt, Szene 3 der Oper
 
-#### RISM ID number (787 $w)
+#### RISM Dokumentnummer (787 $w)
 
-Enter the RISM ID number of the related source or use the magnifying glass button to search.
+Geben Sie die RISM ID Nummer der zugehörigen Quelle ein oder verwenden Sie die Lupe zum Suchen.
