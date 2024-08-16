@@ -10,42 +10,42 @@ Der **Quellentyp** gibt die physische Form der Quelle wieder. Die angebotenen Op
 
 ##### Für handschriftliches Material
 
-- Autograph manuscript = Autograph (vollständig oder größtenteils geschrieben in der Hand des Komponisten). If you have entered Anonymus as the composer and wish to select autograph manuscript here, add an explanation in the **General note (500)**.
+- **Autograph manuscript = Autograph**: vollständig oder größtenteils geschrieben in der Hand des Komponisten. Wenn Sie Anonymus als Komponist eingegeben haben und hier Autograph auswählen, ergänzen Sie bitte eine Erklärung in den **Bemerukungen (500)** hinzu.
 - **Possible autograph manuscript**: Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
-- **Partial autograph**: Significant portions of the manuscript are in the composer's hand.
-- **Manuscript copy**: The manuscript is in the hand of a person other than the composer. This is selected by default when a template for handwritten material has been chosen.
-- **Manuscript copy with autograph annotations**: The manuscript is in the hand of a person other than the composer, but corrections or small additions are in the composer’s hand.
-- **Additional printed material**: Printed material is present but will not be described in a separate record (see below).
+- **Partial autograph = Teilautograph**: Große Teile des Manuskripts sind in der Hand des Komponisten.
+- **Manuscript copy = Abschrift**: Das Manuskript liegt in der Hand einer anderen Person als des Komponisten vor. Diese Einstellung wird standardmäßig ausgewählt, wenn eine Vorlage für handgeschriebenes Material ausgewählt wurde.
+- **Manuscript copy with autograph annotations = Abschrift mit autographen Eintragungen**: Das Manuskript liegt in der Hand einer anderen Person als de Komponisten vor, enthält aber Korrekturen oder kleine Zusätze des Komponisten.
+- **Additional printed material = zusätzlich gedrucktes Material**: gedrucktes Material ist vorhanden, wird aber nicht in einem eigenen Eintrag beschrieben (siehe unten).
 
-##### For printed materials
+##### Für gedrucktes Material
 
-- **Print**: This is selected by default when a template for printed material has been chosen.
+- **Print = Druck**: Diese Einstellung wird standardmäßig ausgewählt, wenn eine Vorlage für gedrucktes Material gewählt wurde.
 
-In the holdings information, you can further select from the following:
-- **Print**: This is selected by default.
-- **Print with autograph annotations**: Handwritten annotations by the composer.
-- **Print with non-autograph annotations**: Handwritten annotations not by the composer.
-- **Additional manuscript material**: Manuscript material is present but will not be described in a separate record (see below).
+In den Exemplareinträgen können Sie außerdem Folgendes auswählen:
+- **Print = Druck**: Dies ist standardmäßig ausgewählt.
+- **Print with autograph annotations = Druck mit autographen Eintragungen**: Mit handschriftlichen Anmerkungen des Komponisten.
+- **Print with non-autograph annotations = Druck mit handschriftlichen Eintragungen**: Mit handschriftlichen Anmerkungen nicht vom Komponisten.
+- **Additional manuscript material = zusätzlich handschriftliches Material**: handschriftliches Material ist vorhanden, wird aber nicht in einem eigenen Eintrag beschrieben (siehe unten).
 
-##### For composite volumes
+##### Für Konvolutbände
 
-- **Composite**: This is selected by default.
+- **Composite = Konvolut**: Diese Option ist standardmäßig ausgewählt.
 
-For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differenciate futher.
+Für Manuskript-Sammlungen wählen Sie den Quellentyp, der die Sammlung am besten repräsentiert, oder verwenden Sie mehrere Materialgruppen, um weiter zu differenzieren.
 
-##### Additional printed or manuscript material
+##### Zusätzlich gedrucktes oder handschriftliches Material
 
-Manuscript templates offer the option **Additional printed material.** In templates for printed items, the holdings information offers **Additional manuscript material**. This is to create a space in your record to briefly describe materials that accompany your main source but differ from the template type.
+Manuskriptvorlagen bieten die Option **Zusätzlich gedrucktes Material** und die Exemplareinträge bieten die Option **Zusätzlich handschriftliches Material** zu ergänzen. Dies dient dazu, in Ihrem Datensatz Platz für eine kurze Beschreibung von Materialien zu schaffen, die Ihre Hauptquelle begleiten, aber vom Vorlagentyp abweichen.
 
-For example, you have a set of performing materials that comprises a handwritten set of parts and a printed score. You always have the option of describing the handwritten material in a template for manuscripts and the printed material in a template for prints, and including cross-references to the other records. While separate records for printed materials offer the fullest and most complete description, there might not always be enough information to describe a printed item fully or your preference might be to keep all your materials in one record. In such cases, you can indicate the additional materials and briefly describe them using these options.
+Sie haben zum Beispiel Aufführungsmaterial, das aus einem handschriftlichen Satz Stimmen und einer gedruckten Partitur besteht. Sie haben immer die Möglichkeit, das handschriftliche Material in einer Vorlage für Manuskripte und das gedruckte Material in einer Vorlage für Drucke zu beschreiben und mit Querverweisen auf die anderen Datensätze hinzuweisen. Denken Sie daran, dass separate Datensätze für gedrucktes Material anderen RISM-Nutzern den umfassendsten Zugang bieten.Es kann jedoch sein, dass nicht immer genügend Informationen vorhanden sind, um ein gedrucktes Objekt vollständig zu beschreiben, oder dass Sie es vorziehen, alle Ihre Materialien in einem Datensatz zu speichern. In solchen Fällen können Sie die zusätzlichen Materialien angeben und sie mit Hilfe dieser Optionen kurz beschreiben.
 
-If you are using a manuscript template, your first instance of the field **Source type** will match the template by default and pertain to the handwritten material. Add a second material group and select **Additional printed material**. Then describe your printed material as usual for this section.
+Wenn Sie eine Manuskriptvorlage verwenden, wird die erste Instanz des Feldes **Quellentyp** standardmäßig mit der Vorlage übereinstimmen und sich auf das handschriftliche Material beziehen. Fügen Sie eine zweite Materialgruppe hinzu und wählen Sie **Zusätzlich gedrucktes Material**. Beschreiben Sie dann Ihr gedrucktes Material wie üblich für diesen Abschnitt.
 
-If you are using a print template, in the holdings information select **Additional manuscript material**. Then describe your manuscript material in this section.
+Wenn Sie eine Druckvorlage verwenden, wählen Sie in den Exemplareinträgen **Zusätzlich handschriftliches Material**. Beschreiben Sie dann Ihr handschriftliches Material wie üblich für diesen Abschnitt.
 
-#### Content type (593 $b)
+#### Inhaltstyp (593 $b)
 
-The **Content type** describes the form of the material. Folgende Angaben sind möglich:
+Der **Inhaltstyp** beschreibt die Form des Materials. Folgende Angaben sind möglich:
 - **Notated music**
 - **Libretto**
 - **Treatise**
