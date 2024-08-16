@@ -1,16 +1,16 @@
-### Source type (593)
+### Quellentyp (593)
 
-**Required field.**
+**Pflichtfeld.**
 
-The field **Source type** describes the nature of the material as well as its contents.
+Das Feld **Quellentyp** beschreibt sowohl die Beschaffenheit des Materials als auch dessen Inhalt.
 
-#### Source type (593 $a)
+#### Quellentyp (593 $a)
 
-The **Source type** describes material characteristics. The options offered are based on the template chosen. Folgende Angaben sind möglich:
+Der **Quellentyp** gibt die physische Form der Quelle wieder. Die angebotenen Optionen hängen von der gewählten Vorlage ab. Folgende Angaben sind möglich:
 
-##### For handwritten materials
+##### Für handschriftliches Material
 
-- **Autograph manuscript**: Written completely or mostly in the composer’s hand. If you have entered Anonymus as the composer and wish to select autograph manuscript here, add an explanation in the **General note (500)**.
+- Autograph manuscript = Autograph (vollständig oder größtenteils geschrieben in der Hand des Komponisten). If you have entered Anonymus as the composer and wish to select autograph manuscript here, add an explanation in the **General note (500)**.
 - **Possible autograph manuscript**: Indicates a degree of uncertainty whether the manuscript is in the composer's hand.
 - **Partial autograph**: Significant portions of the manuscript are in the composer's hand.
 - **Manuscript copy**: The manuscript is in the hand of a person other than the composer. This is selected by default when a template for handwritten material has been chosen.
