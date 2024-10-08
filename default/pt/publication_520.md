@@ -1,10 +1,10 @@
-### Contents note (520)
+### Dates of publication (520)
 
-Recte: **Dates of Publication (362)**
+Recte: **Dates of publication (362)**
 
-The field Contents note is meant as **Dates of Publication (362)** and is used to state the beginning and/or ending date(s) of an item, especially for periodicals.
+The field **Dates of publication** is used to state the beginning and/or ending date(s) of an item, especially for periodicals.
 
-#### Contents note (520 $a)
+#### Dates of publication (520 $a)
 
 Enter the beginning date and (if applicable) the ending date of an item. If the item continues to be published, leave the date open.
 
