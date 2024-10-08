@@ -6,7 +6,7 @@ The field **Library siglum** is for information about the library or institution
 
 **Campo requerido.**
 
-Enter the siglum of the holding library. Este campo está vinculado al registro de autoridad de Instituciones.
+Enter the siglum of the holding library. Este campo está vinculado al registro de autoridad de Instituciones. The name of the library is displayed in the field **Library ($e)**.
 
 #### Department (852 $b)
 
