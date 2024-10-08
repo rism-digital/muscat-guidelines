@@ -336,7 +336,7 @@ La “i” siempre va entre dos barras de compás
 
 Utilice este campo para registrar cualquier otro comentario, como la afinación de los instrumentos transpositores, la presencia de errores en el íncipit, el texto del íncipit con la ortografía y/o puntuación original, o cualquier otro ajuste que desee hacer. Regístrelo usando su idioma de catalogación.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed the symbols **?**, **+**, and **t** to represent standardized remarks. This practice was discontinued with the introduction of Muscat. Do not use these symbols, but instead include an explanatory note in natural language. The symbols were the following:
+**Obsolete procedures**: Older RISM cataloging guidelines allowed the symbols **?**, **+**, and **t** to represent standardized remarks. This practice was discontinued with the introduction of Muscat, and instead explanatory notes in natural language are put into the field **General note (031 $q)**. The symbols were the following:
 - **?** = Error in the incipit could not be corrected.
 - **+** = Error in the incipit has been corrected.
 - **t** = The incipit has been transcribed into modern notation.
