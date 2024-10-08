@@ -2,7 +2,7 @@
 
 The field **Bibliographic reference** gives bibliographic references related to the work or the source. Cite secondary literature when it was used during the cataloging process itself or if it refers directly to the source in question. También puede consignar referencias a ediciones modernas relacionadas con la fuente y mencionar bibliografía sobre las filigranas presentes.
 
-Tenga en cuenta que la información correspondiente al catálogo de obras se registra en el campo **Catálogo de obras (690)**.
+Note that information citing a catalog of works number is entered in the field **Catalog of works (690)**.
 
 Use this field if you wish to indicate that a printed edition is not mentioned in a volume from RISM series A/I or a B volume (deest).
 
