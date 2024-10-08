@@ -37,6 +37,6 @@ Enter the type of jurisdiction associated with the institution.
 
 Enter a designation here if not found in the previous fields in this section.
 
-#### Source (368 $2)
+#### Source of term (368 $2)
 
 Enter the source of the terms used.

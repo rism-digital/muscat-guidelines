@@ -116,7 +116,7 @@ If your institution owns multiple copies (exemplars) of the same printed edition
 
 ### Microfilm copies  
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Notify the Editorical Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). 
+Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Notify the Editorical Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856).
 
 #### Example  
 - RISM ID no. 990052954, copy in B-Bc:  
@@ -134,7 +134,7 @@ Today, the online environment allows the flexibility to have one record describe
 
 ##### Record splits  
 
-A record should be split when there is evidence that multiple, distinct printed editions are described in one record. The implication of a distinct edition is that it was conceived as a unit by the publisher and was available on its own on the market. The result is that consumers (and later, libraries) were able to acquire the edition on its own, with or without the other editions in the series or set.  
+A record must be split when there is evidence that multiple, distinct printed editions are described in one record. The implication of a distinct edition is that it was conceived as a unit by the publisher and was available on its own on the market. The result is that consumers (and later, libraries) were able to acquire the edition on its own, with or without the other editions in the series or set.  
 
 You can recognize the presence of distinct eidtions through conventions such as the following that will appear in the records.
 
@@ -168,7 +168,7 @@ In cases of record splits, the RISM series number is carried over to all new rec
 
 Catalogers should be aware that duplicates in the database can sometimes be found. Some duplicates originated in the printed RISM A/I or B series: pasticcios or other collaborative works were entered under multiple composers, an edition classified in the B/I series was also published in A/I, or an edition was simply entered twice within a long list. In addition, sometimes catalogers inadvertently create duplicate records.
 
-Duplicate records are undesirable and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.  
+Duplicate records are not allowed and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.  
 
 
 ##### Procedure  
