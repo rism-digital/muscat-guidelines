@@ -1,7 +1,7 @@
-### Country of publication (044)
+### Publikationsland (044)
 
-The field **Country of publication** is for the country in which the item was published.
+Das Feld **Publikationsland** ist für das Land, in dem die Publikation veröffentlicht wurde.
 
-#### Country of publication (044 $a)
+#### Publikationsland (044 $a)
 
-Enter the country of publication. Select from the drop-down list. Use this field only for printed monographs. 
+Geben Sie das Land der Veröffentlichung ein. Es steht eine Auswahlliste zur Verfügung. Verwenden Sie dieses Feld nur für gedruckte Monographien. 

@@ -32,22 +32,22 @@ La banca-dati bibliografica delle opere di riferimento consente di citare nelle 
 
 Tutti i soggetti, le forme e i generi musicali sono raccolti qui. Alcune schede includono traduzioni o spiegazioni in merito alla portata della parola chiave. All'indice delle parole chiave si creano collegamenti nei campi **Soggetto (650 $a)** nelle fonti e **Soggetto (650 $a)** nella bibliografia.
 
-## Titles/Text incipits
+## Titoli / Incipit testuali
 
-The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a)**, as well as the text incipits entered in the field **Text incipit (031 $t)**.
+L'indice Titolo / Incipit testuale contiene sia i titoli inseriti tra le Fonti nel campo **Titolo uniforme (240 $a)** e **Titolo uniforme alternativo (730 $a)** che gli incipit testuali inseriti nel campo **Incipit testuale (031 $t)**.
 
-## Work nodes
+## Riferimenti alle opere
 
-Work nodes collect all information that is true for a work as a whole, no matter what other forms a piece of music exists in, whether it be—for example—an arrangement, a translation, a full score, or a single manuscript. Work nodes can include the composer, title, title variants, key, instrumentation, and incipits, though it is not always an easy matter to decide what constitutes a separate "work."
+I riferimenti alle opere riportano tutte le informazioni che sono valide per una composizione nel suo complesso, indipendentemente dalla forma che assume l'opera musicale, ad esempio un arrangiamento, una traduzione, una partitura completa o un singolo manoscritto. I riferimenti alle opere possono includere il compositore, il titolo, varianti del titolo, la tonalità, l'organico e l'incipit, anche se non è sempre facile decidere cosa costituisce una "opera" a sé stante.
 
-Associating a musical source in Muscat with a work ensures that all instances of any given piece of music are linked together. This improves the searchability of the catalog and helps users find all relevant sources, regardless of whether, for example, one manuscript calls the famous Mozart opera "Die Zauberflöte" and another is labeled "The Magic Flute," or a small chamber music piece is called a "duet" on one manuscript but a "sonata" on another. Beyond Muscat, in the linked data environment, information on works—and the associated RISM records—can be integrated into web searches, online encyclopedias, and other external databases.
+Collegare una fonte musicale in Muscat ad una voce di autorità per un'opera assicura che tutte le istanze di una data composizione siano collegate tra loro. Questo migliora la ricercabilità nel catalogo e aiuta gli utenti a trovare tutte le fonti rilevanti, indipendentemente dal fatto che, ad esempio, un manoscritto chiami la famosa opera di Mozart "Die Zauberflöte" e un altro sia etichettato "The Magic Flute", oppure un breve pezzo di musica da camera sia chiamato "duetto" su un manoscritto ma "sonata" su un altro. Al di là di Muscat, nell'ambiente dei dati collegati, le informazioni sulle opere e le relative schede RISM possono essere integrate nelle ricerche in rete, nelle enciclopedie online e in altre banche dati esterne.
 
-Links to work nodes are made through the field 930 in every bibliographic record for a musical source. Works not in the authority file must be created there first before a link can be made.
+È possibile collegare i riferimenti alle opere nel campo 930 di ogni scheda bibliografica per una fonte musicale. Opere non ancora presenti nell'indice vanno create prima di poter istituire il collegamento.
 
-**Creating a new work node**
+**Creazione di un nuovo riferimento a un'opera**
 
-Contact the RISM Editorial Center if you wish to create work nodes.
+Contatta il RISM Editorial Center se vuoi creare un nuovo riferimento a un'opera.
 
-When you open a template to create a new authority record for a work, use the **VIAF search** to look in VIAF to see if the work is already there, and click **select** to transfer the data to your authority record and make the link to VIAF. Note that only the field 100 is searched (i.e., composer name, scoring summary, opus/thematic catalog number, key, and title), so searching for variants is not possible. Keep in mind that different VIAF contributors have different ways of expressing works, so expect variations in the formulation of titles, instruments, and even thematic indexes. A good strategy is to search by composer name plus the number of the opus/thematic index.
+Quando apri il template per creare un nuovo riferimento a un'opera, utilizza la **ricerca VIAF** per vedere se l'opera è presente, e clicca su **seleziona** per trasferire i dati nella tua scheda e creare un collegamento a VIAF. Nota che solo il campo 100 è ricercabile (ad esempio, nome del compositore, organico sommario, numero d'opera/di catalogo tematico, tonalità e titolo), quindi la ricerca di varianti non è possibile. Tieni presente che i diversi collaboratori del VIAF hanno modi diversi di esprimere le opere, quindi aspettati variazioni nella formulazione dei titoli, degli strumenti e persino degli indici tematici. Una buona strategia è quella di cercare per nome del compositore più il numero d'opera/di catalogo.
 
-After you import the data from VIAF, note that it may be necessary to clean up some fields in the field **Heading (100)** to conform to RISM standards. Do not delete or edit imported information in the field **Name variants (400)**.
+Dopo aver importato i dati da VIAF, si noti che potrebbe essere necessario ritoccare alcuni sottocampi della **Intestazione (100)** per conformarsi agli standard RISM. Non cancellare o modificare le informazioni importate nel campo alternativo per la **Intestazione (400)**.

@@ -1,12 +1,12 @@
-### Physical description (300)
+### Material (300)
 
-The field **Physical description** is for the extent of the item.
+Das Feld **Material** ist für den Umfang der Publikation.
 
-#### Extent (300 $a)
+#### Umfang (300 $a)
 
-Enter the extent of the item in number of pages or volumes.
+Geben Sie den Umfang der Publikation in Anzahl der Seiten oder Bänden ein.
 
-##### Examples
+##### Beispiele
 
 - 270 p.
 - xxi, 528 p.

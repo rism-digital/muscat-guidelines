@@ -1,16 +1,16 @@
-### External resource (856)
+### Elektronische Lokalisierung und Zugriff (856)
 
-The field **External resource** is used to link to external resources, such as writing samples.
+Das Feld **Elektronische Lokalisierung und Zugriff** wird verwendet, um externe Ressourcen zu verknüpfen.
 
-#### External resource URL (856 $u)
+#### Uniform Resource Identifier (856 $u)
 
-Enter the full URL of the external resource, beginning with http. Always use permalinks.
+Geben Sie die vollständige URL der externen Ressource ein, beginnend mit http. Immer Permalinks verwenden.
 
-#### Note about external resource (856 $y)
+#### Für das Publikum bestimmte Fussnote (856 $y)
 
-Briefly describe what the URL points to in a relevant language.
+Beschreiben Sie kurz, worauf die URL verweist.
 
-##### Example
+##### Beispiele
 
-- **External resource URL (856 $u)**: [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)
-- **Note about external resource (856 $y)** Schriftprobe [D-B Am.B 65 / p. 1, 26]
+- **Uniform Resource Identifier (856 $u)**: [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)
+- **Für das Publikum bestimmte Fussnote (856 $y)** Schriftprobe [D-B Am.B 65 / p. 1, 26]

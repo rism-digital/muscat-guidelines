@@ -1,17 +1,17 @@
-### Record status
+### Datensatzstatus
 
-The **Record status** records whether the records in Sources are published or unpublished. Only published records are available in the RISM catalogs and open data. The status can be changed manually. The record status is applied to each record individually, regardless of the publication status of other records it may be linked to (such as in a collection).
+Der **Datensatzstatus** speichert, ob die Datensätze in Quellen veröffentlicht oder unveröffentlicht sind. Nur veröffentlichte Datensätze sind in den RISM-Katalogen und Open Data verfügbar. Der Status kann manuell geändert werden. Der Datensatzstatus wird auf jeden Datensatz einzeln angewendet, unabhängig vom Publikationsstatus anderer Datensätze, mit denen er verbunden sein kann (wie in einer Sammlung).
 
-The record status only applies to records created for musical sources, not for other areas of Muscat (such as authority files).
+Der Datensatzstatus gilt nur für Datensätze, die für musikalische Quellen erstellt wurden und nicht für andere Bereiche von Muscat (wie z. B. Normdaten).
 
-#### Published
+#### Veröffentlicht
 
-Records from Muscat with the status **Published** are available in the public RISM catalogs and open data. All new Muscat records are automatically set to **Published**.
+Datensätze von Muscat mit dem Status **Veröffentlicht** sind in den öffentlichen RISM-Katalogen und Open Data verfügbar. Alle neuen Muscat-Datensätze werden automatisch auf **Veröffentlicht** gesetzt.
 
-#### Unpublished
+#### Unveröffentlicht
 
-Records with the status **Unpublished** are withheld from publication. Some RISM contributors wish to keep this status until a project is complete, or individuals might want to wait until an item is fully cataloged before publishing it (such as with extensive records that have lots of incipits or individual entries).
+Datensätze mit dem Status **Unveröffentlicht** werden nicht veröffentlicht. Einige RISM-Mitarbeiter behalten diesen Status bei, bis ein Projekt abgeschlossen ist, oder Einzelpersonen möchten möglicherweise bis zur vollständigen Katalogisierung einer Quelle (z. B. mit vielen Incipits oder Einzeleinträgen) warten.
 
-Use this status judiciously. It is not good practice to unpublish records that were once publicly available, nor is it ideal to keep records unpublished for a very long time.
+Verwenden Sie diesen Status sinnvoll. Datensätze, die einmal öffentlich zugänglich waren, dürfen nicht zurückgezogen werden, noch ist es ideal, Datensätze für eine sehr lange Zeit unveröffentlicht vorzuhalten.
 
-Multiple records can be published at once by adding them to a folder and publishing the contents of the folder.  
+Mehrere Datensätze können sofort veröffentlicht werden, indem Sie in einen Ordner anlegen und die Inhalte des Ordners veröffentlichen.  

@@ -1,10 +1,10 @@
-### Author (100)
+### Autor (100)
 
-The field **Author** is for the person responsible for the item.
+Das Feld **Autor** ist für die Person, die für die Publikation verantwortlich ist.
 
-#### Author (100 $a)
+#### Autor (100 $a)
 
-Enter the name of the main author of the publication. Editors of facsimile or modern music editions are entered as authors.
+Geben Sie den Namen des Hauptautors der Publikation ein. Herausgeber von Faksimile oder modernen Musikausgaben werden als Autoren eingetragen.
 
 Editors of volumes of essays or composers of modern editions are entered in the field **Additional personal name (700)**.
 

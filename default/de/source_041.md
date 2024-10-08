@@ -1,19 +1,19 @@
-### Language code (041)
+### Sprachcode (041)
 
-The field **Language code** is for the language used in the source. Explanatory notes can be given in the field **Language note (546)**. Contact the RISM Editorial Center if you need a language that is not on the list.
+Das Feld **Sprachcode** ist für die Sprache, die in der Quelle verwendet wird. Erklärende Hinweise können im Feld **Sprachenvermerk (546)** angegeben werden. Kontaktieren Sie die RISM Zentralredaktion, wenn Sie eine Sprache benötigen, die nicht auf der Liste steht. Die Sprachen werden gemäß der [MARC Code Liste für Sprachen](https://www.loc.gov/marc/languages/language_code.html) aufgelistet.
 
-#### Language of text (041 $a)
+#### Textsprache (041 $a)
 
-**Required field if Text Incipit (031 $t) is filled out**
+**Pflichtfeld, wenn das Textincipit (031 $t) ausgefüllt ist**
 
-Select the language(s) of the text in the source. For music, this refers to the language of the sung or spoken text, even if it is printed separately, and not other text such as prefaces or dedications. For treatises, this refers to the language of the text. For libretti, use subfield **$e**.
+Wählen Sie die Sprache(n) des Textes in der Quelle aus. Bei Musik bezieht sich dies auf die Sprache des gesungenen oder gesprochenen Textes, auch wenn er separat gedruckt ist, und nicht auf andere Texte wie Vorworte oder Widmungen. Bei Traktaten bezieht sich dies auf die Sprache des Textes. Benutzen Sie für Librettos das Unterfeld **$e**.
 
-#### Language of libretto (041 $e)
+#### Sprache des Librettos (041 $e)
 
-**Required field if libretto template is selected.**
+**Pflichtfeld, wenn das Template Libretto gewählt wurde.**
 
-Select the language of the libretto.
+Wählen Sie die Sprache des Librettos aus.
 
-#### Language of original text (041 $h)
+#### Sprache des Originaltextes (041 $h)
 
-If the text in the source is a translation, select the original language here.
+Wenn der Text in der Quelle eine Übersetzung ist, wählen Sie hier die Originalsprache aus.

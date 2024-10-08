@@ -1,7 +1,7 @@
-### Related place (651)
+### Verknüpfter Ort (651)
 
-The field **Related place** is used for geographic names associated with the subject matter of the item.
+Das Feld **Verknüpfter Ort** wird für geografische Namen verwendet, die mit dem Thema der Publikation in Verbindung stehen.
 
-#### Related place (651 $a)
+#### Verknüpfter Ort (651 $a)
 
-Enter the city, region, state, or country. This field is linked with the **Places** authority file through $0. Do not enter the place of publication here.
+Geben Sie die Stadt, Region, den Staat oder das Land ein. Das Feld ist mit der Normdatei **Orte** verknüpft. Hier wird nicht der Publikationsort eingetragen.

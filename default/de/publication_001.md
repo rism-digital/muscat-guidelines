@@ -1,3 +1,3 @@
-### RISM ID number (001)
+### RISM Dokumentnummer (001)
 
-The field **RISM ID number** is the permanent RISM identifier for the record. This number is automatically generated and cannot be changed.
+Das Feld **RISM Dokumentnummer** ist die permanente RISM ID für den Datensatz. Diese Nummer wird automatisch generiert und kann nicht geändert werden.

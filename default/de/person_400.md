@@ -1,32 +1,32 @@
-### Name variant (400)
+### Namensvarianten (400)
 
-The field **Name variant** is for forms of the name that differ from the authorized form, including birth names, pseudonyms, religious names, names spelled differently on different sources, and alternate transliterations.
+Das Feld **Namensvarianten** ist für Formen des Namens, die sich von der Ansetzungsform unterscheiden, einschließlich Geburtsnamen, Pseudonyme, Ordensnamen, abweichende Schreibweisen auf der Quelle sowie alternative Transliterationen.
 
-#### Name variant (400 $a)
+#### Namensvarianten (400 $a)
 
-Enter the name in the form described in the field **Heading - Personal name (100 $a)**.
+Geben Sie den Namen in gleicher Form wie im Feld **Ansetzungsform (100 $a)** ein.
 
-For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
+Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in transliterierter Form eingeben. Andere Formen von Transliterationen können hier ebenfalls eingetragen werden.
 
-Additions to names such as Jr, III, Sir, Meister, etc. are entered here, for example: **Sinatra, Frank Jr.**
+Ergänzungen zum Namen wie Jr, III, Sir, Meister, etc. werden hier eingegeben, zum Beispiel: **Sinatra, Frank Jr.**
 
-#### Life dates (400 $d)
+#### Lebensdaten (400 $d)
 
-Do not enter anything in this field.  This field may be filled out automatically if names are imported from VIAF. Any variants in life dates should be entered in the field **Source data found (670)**.
+Dieses Feld nicht verwenden.  Dieses Feld kann automatisch ausgefüllt werden, wenn Namen von VIAF importiert werden. Alle Varianten der Lebensdaten sollten in das Feld **Literaturnachweis (670)** eingegeben werden.
 
-#### Type of name variant (400 $j)
+#### Art der Namensvariante (400 $j)
 
-Select from the following list. The codes in square brackets refer to internal RISM codes.
+Es steht eine Auswahlliste zur Verfügung. Die Codes in eckigen Klammern beziehen sich auf interne RISM-Codes.
 
-- **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets
-- **Baptismal name** [tn]
-- **Birth name** [gg]
-- **Initials** [in]
-- **Married name** [ee]
-- **Nickname** [bn]
+- **Andere Schreibweise** [z]: Dies ist für alternative Schreibweisen, Transliterationen oder Namen mit nicht-lateinischen Alphabeten
+- **Taufname** [tn]
+- **Geburtsname** [gg]
+- **Initialen** [in]
+- **Ehename** [ee]
+- **Beiname** [bn]
 - **Pseudonym** [da]
-- **Religious name** [do]
-- **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_
-- **Uncategorized** [xx]
+- **Ordensname** [do]
+- **Übersetzung** [ub]: Zum Beispiel, _Ackermann, Alexander_ ist eine übersetzte Variante von _Agricola, Alexander_
+- **Nicht kategorisiert** [xx]
 
-The default value **xx** (unassigned) appears in older records.
+Der Standardwert **xx** (nicht zugewiesen) erscheint in älteren Datensätzen.

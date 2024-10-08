@@ -1,22 +1,22 @@
-### Source data found (670)
+### Literaturnachweis (670)
 
-The field **Source data found** keeps track of the secondary literature that was consulted while entering the forms of the name and the dates, and gives the form of the name and dates found therein. Secondary literature that was consulted but yielded no information is also entered here. Forms of the name that differ from the form given in **Heading - Personal name (100 $a)** must be entered in the field **Name variant (400 $a)**.
+Das Feld **Literaturnachweis** zitiert die für die Recherche herangezogene Sekundärliteratur und nennt die dort gefundene Ansetzungsform und Lebensdaten. Sekundärliteratur, die konsultiert wurde, aber keine Informationen lieferte, wird ebenfalls hier eingetragen. Namensformen, die von der unter **Ansetzungsform (100 $a)** angegebenen Form abweichen, sind im Feld **Namensvarianten (400 $a)** einzutragen.
 
-#### Source data found (670 $a)
+#### Literaturnachweis (670 $a)
 
-Enter the short title of the resource consulted. This field is connected to the **Secondary literature** database and is linked through $w.
+Geben Sie hier den Kurztitel der Sekundärliteratur an. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft.
 
-#### Information found (670 $b)
+#### Vorhandene Informationen (670 $b)
 
-**Required if the above field is filled out.**
+**Pflichtfeld, wenn Literaturnachweis ausgefüllt ist.**
 
-Enter the form of the name and/or years as indicated in the literature. Add a page number or other locators (such as **vide** for encyclopedias) if appropriate. Enter a **0** if no information is found (for example, you consulted Grove\|7 but there was no entry for the person).
+Geben Sie die in der Literatur angegebene Ansetzungsform des Namens und/oder der Jahreszahl ein. Fügen Sie gegebenenfalls eine Seitenzahl oder andere Zitationen (wie **vide** für Enzyklopädien) hinzu. Geben Sie eine **0** ein, wenn keine Informationen gefunden werden (zum Beispiel haben Sie Grove\|7 konsultiert, aber es gab keinen Eintrag für die Person).
 
-##### Examples
+##### Beispiele
 
-- **Source data found (670 $a)**: EitnerQ
-- **Information found (670 $b)**: Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]
-- **Source data found (670 $a)**: MGG\|2/s
-- **Information found (670 $b)**: vide 6, 834
-- **Source data found (670 $a)**: Grove\|7
-- **Information found (670 $b)**: 0
+- **Literaturnachweis (670 $a)**: EitnerQ
+- **Vorhandene Informationen (670 $b)**: Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]
+- **Literaturnachweis (670 $a)**: MGG\|2/s
+- **Vorhandene Informationen (670 $b)**: vide 6, 834
+- **Literaturnachweis (670 $a)**: Grove\|7
+- **Vorhandene Informationen (670 $b)**: 0

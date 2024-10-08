@@ -1,20 +1,20 @@
-### Geographic name (551)
+### Geographischer Name (551)
 
-The field **Geographic name** is for geographic names associated with the person in question.
+Das Feld **Geographischer Name** ist für geographische Namen, die mit der betreffenden Person verknüpft sind.
 
-#### Geographic name (551 $a)
+#### Geographischer Name (551 $a)
 
-Enter the geographic name (country, region, city, etc.) associated with the person in question. Names are entered in the modern local language. Geographic names are connected with the **Places** authority file.
+Geben Sie den geographischen Namen (Land, Region, Stadt, etc.) ein, der der betreffenden Person zugeordnet ist. Namen werden in der modernen Landessprache eingetragen. Geographische Namen sind mit der Normdatei **Orte** verknüpft.
 
-#### Type (551 $i)
+#### Typ (551 $i)
 
-Indicate the how the geographical name is related to the person in question.
+Geben Sie an, wie der geographische Name mit der betreffenden Person in Beziehung steht.
 
-Select from the following:
+Folgende Angaben sind möglich:
 
-- **Country active**
-- **Place active**: Typically a city, town, village, etc.
-- **Place of birth**: Typically a city, town, village, etc.
-- **Place of death**: Typically a city, town, village, etc.
-- **Place of origin**: Use when there is no further information available about the place of birth.
-- **Region active**: Examples: Süddeutschland, Hessen, New England
+- **Wirkungsland**
+- **Wirkungsort**: In der Regel eine Stadt, ein Dorf, eine Ortschaft usw.
+- **Geburtsort**: In der Regel eine Stadt, ein Dorf, eine Ortschaft usw.
+- **Sterbeort**: In der Regel eine Stadt, ein Dorf, eine Ortschaft usw.
+- **Herkunftsangabe**: Verwenden, wenn keine weiteren Informationen über den Geburtsort verfügbar sind.
+- **Wirkungsregion**: Beispiele: Süddeutschland, Hessen, New England

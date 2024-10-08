@@ -1,7 +1,7 @@
-### Nationality (043)
+### Länder-Code (043)
 
-The field **Nationality** is for the nationality of the person described in the record.
+Das Feld **Länder-Code**dient der Angabe der Nationalität der Person.
 
-#### Nationality (043 $c)
+#### Länder-Code (043 $c)
 
-Select the modern-day nationality of the person. Multiple countries may be selected if the person was a citizen of multiple countries. Additional countries may be added in consultation with the RISM Editorial Center. For historical regions (Prussia, Bohemia), enter the closest modern equivalent.
+Wählen Sie die Nationalität der Person aus. Wenn die Person mehrere Staatsangehörigkeiten hat, können mehrere Länder ausgewählt werden. Weitere Länder, die nicht in der Auswahlliste vorhanden sind, können in Absprache mit der RISM-Zentralredaktion hinzugefügt werden. Für historische Regionen (Preußen, Böhmen) geben Sie das nächstgelegene moderne Äquivalent an.

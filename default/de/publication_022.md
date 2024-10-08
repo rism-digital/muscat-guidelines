@@ -1,12 +1,12 @@
 ### ISSN (022)
 
-The field **ISSN** is for the International Standard Serial Number, a unique identification number assigned to a serial publication.
+Das Feld **ISSN** ist für die Internationale Standardnummer für fortlaufende Sammelwerke.
 
 #### ISSN (022 $a)
 
-Enter the ISSN.
+Geben Sie die ISSN ein.
 
-##### Examples
+##### Beispiele
 
 - 0027-4380
 - 0003-0139

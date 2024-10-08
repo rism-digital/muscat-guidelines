@@ -1,7 +1,7 @@
-### General note (680)
+### Externe Bemerkungen (680)
 
-The field **General note** is for any other kind of information.
+Das Feld **Externe Bemerkungen** ist für alle anderen Arten von Informationen.
 
-#### General note (680 $a)
+#### Externe Bemerkungen (680 $a)
 
-Enter any other notes about the person.  
+Hier werden allgemeine Angaben zur Person gemacht, die zur Veröffentlichung bestimmt sind.  

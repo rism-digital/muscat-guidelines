@@ -1,27 +1,28 @@
-### Record origin (980)
+### Herkunft des Datensatzes (980)
 
-The field **Record origin** is an administrative field to show where the record originated.
+Das Feld **Herkunft des Datensatzes** ist ein administratives Feld, um anzuzeigen, wo der Datensatz entstand.
 
-#### Origin (980 $a)
+#### Herkunft (980 $a)
 
-Select the origin of the record:
+Wählen Sie die Herkunft des Datensatzes aus:
 
-- **Import**: The record was imported from an external database
-- **Retrospective conversion**: The record originated in a hard-copy publication and was converted to a machine-readable form
-- **RISM**: The record was created in the RISM database (default)
+- **Fremddateneinspielung**: Der Datensatz wurde aus einer externen Datenbank importiert
+- **Retroeinspielung**: Der Datensatz stammt aus einer gedruckten Publikation und wurde in eine maschinenlesbare Form umgewandelt
+- **RISM**: Der Datensatz wurde in der RISM-Datenbank erstellt (Standard)
 
-#### Cataloging level (980 $b)
+#### Erfassungstiefe (980 $b)
 
-Select the cataloging level.
+Wählen Sie die Erfassungstiefe aus.
 
-- **Brief**: The record includes the minimum fields required to save a record in Muscat.
-- **Standard**: The record includes fuller information than a brief record but frequently lacks incipits. There are often fields that have not been filled out which could be added in a later phase of record enhancement.
-- **Full**: The record contains information in nearly all fields that can possibly be filled out for the source in hand. Music incipits are included.
+- **Kurzkatalogisat**: Der Datensatz enthält die Mindestfelder, die erforderlich sind, um einen Datensatz in Muscat zu speichern.
+- **Standard**: Der Datensatz enthält umfassendere Informationen als ein Kurzkatalogisat, enthält aber häufig keine Incipits. Oft gibt es Felder, die nicht ausgefüllt wurden und in einer späteren Phase der Datensatzerweiterung hinzugefügt werden könnten.
+- **Vollkatalogisat**: Der Datensatz enthält Informationen in fast allen Feldern, die für die betreffende Quelle ausgefüllt werden können. Musikincipits sind enthalten.
 
+Exportnotiz: 980 $b wird als 599 $b exportiert.
 
-#### Material examined (980 $c)
+#### Autopsie (980 $c)
 
-Indicate whether you directly examined the material as you were cataloging it.
+Geben Sie an, ob Sie das Material beim Katalogisieren direkt geprüft haben.
 
-- **Material examined**
-- **Material not examined**: This can be used when the record was created using a description published elsewhere, such as in an electronic library catalog or printed catalog.
+- **Autopsie**
+- **Keine Autopsie**: Dies kann verwendet werden, wenn der Datensatz anhand einer Beschreibung erstellt wurde, die an anderer Stelle veröffentlicht wurde, z. B. in einem elektronischen Bibliothekskatalog oder einem gedruckten Katalog.

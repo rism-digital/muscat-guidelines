@@ -1,15 +1,15 @@
-### Imprint (260)
+### Impressum (260)
 
-The field **Imprint** is for the publication information of an item. This field is used for all types of publications except for articles/chapters.
+Das Feld **Impressum** ist für die Publikationsinformationen eines Eintrags. Dieses Feld wird für alle Arten von Publikationen mit Ausnahme von Artikel/Kapitel verwendet.
 
-#### Place of publication (260 $a)
+#### Ort der Publikation (260 $a)
 
-Enter the place of publication as given on the item.
+Geben Sie den Ort der Veröffentlichung ein, wie auf der Publikation angegeben.
 
-#### Publisher (260 $b)
+#### Verlag (260 $b)
 
-Enter the publisher as given on the item.
+Geben Sie den Verlag ein, wie auf der Publikation angegeben.
 
-#### Year (260 $c)
+#### Jahr (260 $c)
 
-Enter the year as given on the item.  
+Geben Sie das Jahr ein, wie auf der Publikation angegeben.  
