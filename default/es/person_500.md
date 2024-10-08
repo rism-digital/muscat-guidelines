@@ -4,7 +4,7 @@ The field **Related personal name* describes familial relationships.
 
 #### Tipo de relación (500 $i)
 
-Registre el nombre personal que se relaciona con la persona en cuestión. This field is linked to the **Personal names** authority file through subfield $0.
+Registre el nombre personal que se relaciona con la persona en cuestión. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d.
 
 #### Nombre personal relacionado (500 $a)
 
