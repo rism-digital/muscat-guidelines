@@ -6,12 +6,12 @@ Write names in their natural order; do not place articles after the main name. W
 
 #### Dramatic role named, standardized (595 $a)
 
-The names of all the roles in a composition can be listed in this field, regardless of whether they are named on the source or derived from secondary literature. Use standardized spelling. Indicate additions by using square brackets. You may enter the voice part following the name of the role in parentheses.
+The names of all the roles in a composition can be listed in this field, regardless of whether they are named on the source or derived from secondary literature. Use standardized spelling. Indicate additions by using square brackets. The voice part may be entered following the name of the role in parentheses, if known.
 
 ##### Examples
 
-- Donna Flavia (S)
-- Theodor (T)
+- Donna Flavia
+- Theodor
 - Zerbinetta (Mezzo-S)
 - Ein Polizeikommisar (Bariton)
 - Der Schornsteinfeger (Bariton)
