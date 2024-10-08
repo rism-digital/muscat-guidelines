@@ -23,6 +23,7 @@ Geben Sie die Agentur ein, die die ID oder den Code erstellt hat. Es steht eine 
 - **LC**: Library of Congress
 - **NLP**: Biblioteka Narodowa
 - **NKC**: Národní knihovna České republiky
+- **OCLC**: OCLC's WorldCat Entities
 - **ORCID**: Open Researcher and Contributor ID
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File

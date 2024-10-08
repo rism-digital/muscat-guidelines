@@ -37,6 +37,6 @@ Introduzca el tipo de jurisdicción asociada a la institución.
 
 Condado
 
-#### Fuente (368 $2)
+#### Source of term (368 $2)
 
 Pueblo

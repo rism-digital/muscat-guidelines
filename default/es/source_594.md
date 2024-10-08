@@ -58,7 +58,7 @@ Ordene las partes desde el registro más agudo al más grave. Ingrese un instrum
 - | | serpentone | serpent | Serpent (in Basslage, zur Zinkenfamilie gehörig) | serpent | serpentone | serpentón |
 - org
 
-_MARC note: The fields 594 $b and $c are combined and exported as 594 $a._
+_MARC note: The fields 594 $b and $c are concatenated and exported as 594 $a._
 
 #### Número (594 $c)
 

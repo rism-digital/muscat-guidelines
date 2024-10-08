@@ -4,7 +4,7 @@ The field **Additional institution** is for institutions that are connected with
 
 #### Institution (710 $a)
 
-Enter the name of the institution. Do not enter the names of publishers in this field. This field is linked to the **Institutions** authority file through $0 and departments are displayed in $b.
+Enter the name of the institution. Do not enter the names of publishers in this field. This field is linked to the **Institutions** authority file through $0 and the place is displayed in $c.
 
 ##### Examples
 

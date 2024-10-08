@@ -30,7 +30,7 @@ Introduzca una URI procesable y analizable por máquina que identifique un nombr
 
 Objeto del mundo real URI (024 $1)
 
-#### Enlace (024 $6)
+#### Número o código estándar (024 $a)
 
 Ingrese la URI que identifica la institución.
 
@@ -41,12 +41,12 @@ Ingrese la URI que identifica la institución.
 - **ICCU**: Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI**: International Standard Name Identifier
 - **LC**: Library of Congress
-- **MOC**: MARC Organization Code
 - **NLP**: Biblioteka Narodowa
 - **NKC**: Národní knihovna České republiky
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
 - **WKP**: Wikidata (Wikipedia)
+- **MOC**: MARC Organization Code
 
 #### Enlace de campo y número de secuencia (024 $8)
 

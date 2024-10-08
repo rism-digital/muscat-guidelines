@@ -24,7 +24,7 @@ If you wish to refer to a musical source that is digitized but not in RISM, cont
 
 #### 4. Making identifications
 
-Frequently, important information such as names of composers or titles of pieces is not always named on the source itself. It is sometimes possible to make identifications based on the secondary literature, reference sources, other RISM records, or even archival sources. If you draw upon such resources, always be clear in the record about what you used to make the identification: name the resource or RISM ID number in a **General note (500)** and add a **Bibliographic reference (691)** if appropriate. Make sure it is clear for later RISM users how you came to your conclusions. More detailed, explanatory information not relevant for the public can be included in an **Internal note (599)** if needed.
+Frequently, important information such as names of composers or titles of pieces is not always named on the source itself. It is sometimes possible to make identifications based on the secondary literature, reference sources, other RISM records, or even archival sources. If you draw upon such resources, always be clear in the record about what you used to make the identification: name the resource or source in RISM (with siglum, shelfmark, and RISM ID number) in a **General note (500)** and add a **Bibliographic reference (691)** if appropriate. Make sure it is clear for later RISM users how you came to your conclusions. More detailed, explanatory information not relevant for the public can be included in an **Internal note (599)** if needed.
 
 #### 5. Creating records based on descriptions from printed catalogs or online library catalogs
 
@@ -38,10 +38,10 @@ Sometimes it is not possible to access the source in person and the only descrip
 
 Bibliographic records for printed editions exist in a shared cataloging environment where multiple libraries have editing rights to the same record. This differs from manuscripts, which are unique to the holding library. Due to the shared environment, care must be taken so that the implications of adding or deleting information from core bibliographic records is thought through.
 
-Catalogers should not remove information from the core record if it is correct, even if it is not relevant for local cataloging systems. Administrative information is stored in the records that can explain decisions made by the Editorial Center and the relationship to other records. Do not delete or edit data in the fields **Initial entry (775)**, **Local number (035)**, or **RISM series (510)**. Never delete a note that indicates that a record was merged with another record.
+Catalogers should not remove information from the core record if it is correct, even if it is not relevant for local cataloging systems. Administrative information is stored in the records that can explain decisions made by the Editorial Center and the relationship to other records. Do not delete or edit data in the fields **Initial entry in A/I (775)**, **Local number (035)**, or **RISM series (510)**. Never delete a note that indicates that a record was merged with another record.
 
 If a record has already been revised by another working group (evident by the presence of a library's siglum and shelfmark in the field **Source of description note (588)**), use cataloger's judgement as to whether futher revision is necessary. If you make further changes, make it clear in the note what revisions you contributed.
 
 If your copy is incomplete, revisions might still be possible, but make it clear in the **Source of description note (588)** that your copy is incomplete.
 
-If you wish to edit a record that was previously described using an incomplete copy, it must first be ensured that the accurate material information is preserved in the holdings record of the library with the incomplete copy. The Editorial Center can assist with transferring data to holdings records. 
+If you wish to edit a record that was previously described using an incomplete copy, it must first be ensured that the accurate material information is preserved in the holdings record of the library with the incomplete copy. The Editorial Center can assist with transferring data to holdings records.

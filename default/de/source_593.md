@@ -72,18 +72,20 @@ Ist der Bearbeiter einer Komposition gleichzeitig auch deren Schreiber, gilt die
 
 ##### Fotokopien
 
-Wenn es sich bei Ihrer Quelle um eine mechanische Reproduktion handelt (z. B. eine Fotokopie), gehen Sie folgendermaßen vor:
+If your source is a mechanical reproduction (such as a photocopy) of a manuscript, follow these steps:
 
 1\. Wählen Sie **Autograph**, **Abschrift** usw. aus (d.h. wählen Sie den Typ aus, der für die Originalquelle gilt).
 
 2\. Wählen Sie die Art der Reproduktion im Feld **Spezielle Fertigungstechnik (340 $d)**.
 
-##### Maschinenschriftliche Einträge
+##### Typewritten or computer-generated material
 
-Wenn es sich bei Ihrer Quelle um eine Maschinenschrift handelt, gehen Sie folgendermaßen vor:
+If your source is typewritten or computer generated, follow these steps:
 
 1\. Wählen Sie eine Manuskriptvorlage.
 
-2\. Wählen Sie **Autograph** aus, wenn der Komponist oder Autor das Dokument selbst eingegeben hat. Wählen Sie **Abschrift**, wenn eine andere Person als der Komponist oder Autor das Dokument eingegeben hat.
+2\. Select **Autograph manuscript** if the composer or author created the document themselves. Select **Manuscript copy** if someone other than the composer or author created the document themselves.
 
-3\. Wählen Sie **Maschinenschrift** im Feld **Spezielle Fertigungstechnik (340 $d)**.
+3\. Select an appropriate printing technique from **Special production technique (340 $d)**, such as **Typescript** for typewritten items or **Computer printout** for computer-generated materials.
+
+4\. Add an explanatory note in the field **General note (500)**.  

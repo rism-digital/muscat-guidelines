@@ -231,7 +231,7 @@ Observe the following when cataloging librettos.
 - **Additional institution (710):** Do not forget to index the name of the publisher (for printed librettos).
 - **Standardized title (240):** The fields "Arrangement statement" and "Key or mode" are not relevant here. If the libretto includes notated music, indicate the key in the music incipit (031) only.
 - **Additional title (730):** If the libretto was based on a book or play, the title of the original work can be entered here.
-- **Subject heading (650):** Enter the name of the genre for which the libretto was written, if known (such as “Operas” or “Cantatas”). "Librettos" is not necessary.
+- **Subject heading (650):** If known, enter the name of the genre for which the libretto was written, such as “Operas” or “Cantatas”. "Librettos" is not necessary.
 - **Language code (041):** Use the field "Language of text" only if the libretto contains notated music with words.
 - **Source type (593):** Select the source type. For the content type, select "Libretto."
 - **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p.

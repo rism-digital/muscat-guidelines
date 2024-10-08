@@ -27,7 +27,7 @@ Abbreviations for religious orders are taken from the following Wikipedia page: 
 - OCist
 - Dr.
 
-#### Orden religiosa (100 $c)
+#### Life dates (100 $d)
 
 Joo Su-won.
 

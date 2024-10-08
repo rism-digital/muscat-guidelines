@@ -4,4 +4,10 @@ Das Feld **Katalogisierungsquelle** zeigt die Organisation an, die den ursprüng
 
 ### Katalogisierungssprache (040 $b)
 
-Geben Sie Ihre Katalogisierungssprache an. Wählen Sie zwischen Deutsch, Englisch, Französisch, Italienisch oder Spanisch. 
+Geben Sie Ihre Katalogisierungssprache an. Select from the following.
+- English
+- French
+- German
+- Italian
+- Portuguese
+- Spanish   

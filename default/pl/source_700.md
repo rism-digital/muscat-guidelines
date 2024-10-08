@@ -10,7 +10,7 @@ Publishers named after people but acting out the function of publisher (Pleyel, 
 
 In the case of parent records for collections or composite volumes, enter a name only if the name applies to all the works in the collection. Enter names associated with individual works in the child records.
 
-#### Attribution (700 $j)
+#### Attribution qualifier (700 $j)
 
 Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
 
@@ -51,6 +51,7 @@ Keep in mind that when some people are named on sources, an institution is actua
 - **Lithographer [ltg]**
 - **Other [oth]**: All other functions.
 - **Papermaker [ppm]**
+- **Patron [pat]**: A person responsible for commissioning a work.
 - **Performer [prf]**: Any performer, such as instrumentalist, vocalist, musician, conductor, dancer, or if the principal skill is unknown or unspecified.
 - **Printer [prt]**
 - **Publisher [pbl]**: Only enter the publisher as a person if the actual human is meant, such as a Beethoven manuscript that mentions Carl Friedrich Peters by name. (Peters functioning as the company that issues the printed music, on the other hand, is entered as an institution.)

@@ -21,7 +21,7 @@ When libraries, archives or documentation centers belong to a larger institution
 
 Enter the name of the subordinate unit of the institution.
 
-  #### Place (110 $c)
+#### Place (110 $c)
 
 Enter the city of the institution. If the original language is in a non-Latin alphabet, write it in transliterated form.
 

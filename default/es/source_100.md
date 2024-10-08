@@ -8,7 +8,7 @@ The field **Composer/Author** is for the identification of the main person invol
 
 Registre el nombre de la persona responsable de la obra. Puede identificarse con el/la compositor(a) (en el caso de los manuscritos musicales y la música impresa), el/la libretista (en el caso de los libretos), o el/la autor(a) de una obra de teoría musical (en el caso de los tratados).
 
-This field is linked to the **Personal names** authority file through $0. Pueden añadirse nombres que aún no estén en el registro de autoridad. In such cases, check the box "Confirm the insertion of a new value" and add the person's life dates, if known, in the field **Life dates (100 $d)**. The new name, including life dates, will be confirmed and edited by the Editorial Center.
+This field is linked to the **Personal names** authority file through $0 and the life dataes are displayed $d. Pueden añadirse nombres que aún no estén en el registro de autoridad. In such cases, check the box "Confirm the insertion of a new value" and add the person's life dates, if known, in the field **Life dates (100 $d)**. The new name, including life dates, will be confirmed and edited by the Editorial Center.
 
 If the source has multiple composers, select one to be entered in this field and the rest can be added in **Additional personal name (700)** using the function **Co-composer.**
 
@@ -25,4 +25,4 @@ If you enter the composer as **Anonymus,** do not enter an attribution qualifier
 - **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
 - **Mal atribuida** significa que hay un nombre en la fuente pero es incorrecto. Si la fuente es anónima, deje este campo en blanco.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **Verified.** The attribution was used if the composer's name appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in November 2021.
+**Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **Verified.** The attribution was used if the composer's name appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in February 2024.

@@ -4,4 +4,10 @@ The field **Cataloging source** indicates the organization that created the orig
 
 ### Idioma de la catalogación (040 $b)
 
-Indique su idioma de catalogación. Elija entre inglés, francés, alemán, italiano, portugués o español. 
+Indique su idioma de catalogación. Seleccione una de las siguientes opciones.
+- English
+- French
+- German
+- Italiano
+- Portuguese
+- Spanish   

@@ -6,12 +6,12 @@ Write names in their natural order; do not place articles after the main name. S
 
 #### Nombres de personajes, normalizados (595 $a)
 
-En este campo pueden registrarse los nombres de todos los personajes que intervienen en una composición, sin importar si aparecen nombrados en la fuente o si derivan de bibliografía secundaria. Utilice ortografía estandarizada. Indique adiciones por medio del uso de corchetes. Puede registrar la parte vocal después del nombre del personaje, entre paréntesis.
+En este campo pueden registrarse los nombres de todos los personajes que intervienen en una composición, sin importar si aparecen nombrados en la fuente o si derivan de bibliografía secundaria. Utilice ortografía estandarizada. Indique adiciones por medio del uso de corchetes. The voice part may be entered following the name of the role in parentheses, if known.
 
 ##### Examples
 
-- Donna Flavia (S)
-- Theodor (T)
+- Donna Flavia
+- Theodor
 - Zerbinetta (Mezzo-S)
 - Ein Polizeikommisar (Bariton)
 - Der Schornsteinfeger (Bariton)

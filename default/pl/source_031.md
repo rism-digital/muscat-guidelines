@@ -329,7 +329,7 @@ Enter chords from the highest to the lowest note, separated by a **^**.
 
 Add any other comments, such as the pitch of transposing instruments, mistakes in the incipit, the text incipit with the original spelling and/or punctuation, or any adjustments you had to make. Enter using your cataloging language.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed the symbols **?**, **+**, and **t** to represent standardized remarks. This practice was discontinued with the introduction of Muscat. Do not use these symbols, but instead include an explanatory note in natural language. The symbols were the following:
+**Obsolete procedures**: Older RISM cataloging guidelines allowed the symbols **?**, **+**, and **t** to represent standardized remarks. This practice was discontinued with the introduction of Muscat, and instead explanatory notes in natural language are put into the field **General note (031 $q)**. The symbols were the following:
 - **?** = Error in the incipit could not be corrected.
 - **+** = Error in the incipit has been corrected.
 - **t** = The incipit has been transcribed into modern notation.

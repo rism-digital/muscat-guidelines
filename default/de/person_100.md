@@ -27,7 +27,7 @@ Abkürzungen für religiöse Orden werden von der folgenden Wikipedia-Seite übe
 - OCist
 - Dr.
 
-#### Geburts- und Todesdaten (100 $d)
+#### Life dates (100 $d)
 
 Geben Sie das Geburts- und Todesjahr der Person ein oder geben Sie einen anderen relevanten Zeitraum an.
 
