@@ -17,7 +17,7 @@ When libraries, archives or documentation centers belong to a larger institution
 - ERESBIL - Musikaren Euskal Artxiboa
 - Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossi
 
-#### Forma autorizada del nombre (110 $a)
+#### Lugar (110 $c)
 
 Enter the name of the subordinate unit of the institution.
 
