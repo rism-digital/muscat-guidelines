@@ -26,5 +26,5 @@ Enter the location within the item, frequently a number or page. Consult the ful
 ##### Examples
 
 - vol. 2, pt. 2, p.
-- vol. 5, p. 93; vol. 6, p.
+- vol. 2, pt. 2, p.
 - Suppl. 1: 1779-1780, clm. 695
