@@ -21,7 +21,7 @@ Here are some examples for special situations:
    Use **Chorale arrangements** as both the standardized title and subject heading.
 
 3. A potpourri where you know that the music comes from a single opera:  
-   You don't need this list! Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+   You don't need this list! Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate). Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**.
 
 4. A potpourri where you know that the music comes from several operas:  
    Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
@@ -120,7 +120,7 @@ Standardized title — Corresponding subject heading
 
 Standardized title — Corresponding subject heading
 - Arpeggios — Arpeggios (inst.)
-- Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadences — Cadences (inst.) Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
 - Cadenzas — Cadenzas (voc.)
 - Exercises — Exercises (inst.)
 - Exercises — Exercises (voc.)
