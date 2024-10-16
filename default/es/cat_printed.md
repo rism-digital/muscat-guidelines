@@ -18,7 +18,7 @@ Information for the core level includes composer, publisher, title, instrumentat
 
 ### When to input a new record
 
-RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created.
+RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences.
 
 The following offers guidelines as to which variations justify a new record and which do not. (This section draws heavily from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
@@ -27,7 +27,7 @@ The following offers guidelines as to which variations justify a new record and 
 - **Different content**: Differences in the title or authors/contributors. Edition statement that indicates corrections, revisions, expansions, abridgments, or the inclusion of supplementary materials.
 - **Different publisher.**
 - **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by the comparison of multiple copies).
-- **Different publication status**: An original title page has been canceled and replaced. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page. Series title page is new.
+- **Different publication status**: An original title page has been canceled and replaced. Series title page is new. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page.
 - **Different plate and/or publisher numbers**.
 
 **Do not create a new record** if your item has one of these differences. If your item has _more than one_ of these differences, you must decide if a new record is necessary.
@@ -55,7 +55,7 @@ Example 1: You are looking at RISM ID number 1001031016: Beethoven, "Adelaide," 
 
 Example 2: You are looking at RISM ID number 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
 
-1. Copy 1: Same title but a label has been stuck over the publication information: Köln, P.J. Simrock. You can see that the label is covering up the Bonn/Köln information. **New record required** (different publication status/label indicates a different publisher). Result: 1001141767
+1. Copy 1: Same title but a label has been stuck over the publication information: Köln, P. J. Simrock. You can see that the label is covering up the Bonn/Köln information. **New record required** (different publication status/label indicates a different publisher). Result: 1001141767
 
 Example 3: You are looking at RISM 990024126: Gyrowetz, Symphonies, op. 9. The RISM record represents a set of multiple symphonies. Each symphony is available as a separate publication with separate plate numbers, issued as _livres_ 1, 2, and 3.
 
@@ -122,7 +122,7 @@ Microfilm copies of printed editions are not added as separate copies but are de
 - RISM ID no. 990052954, copy in B-Bc:  
   Mikrofilm im Deutschen Musikgeschichtlichen Archiv (D-Kdma) vorhanden
 - RISM ID no. 1000000576, copy in D-B:  
-  Digital copy of microfilm available from DiZbi.HAZU | Digitalna zbirka i katalog Hrvatske akademije znanosti i umjetnosti
+  Digital copy of microfilm available from DiZbi. HAZU | Digitalna zbirka i katalog Hrvatske akademije znanosti i umjetnosti
 
 
 ### Record splits and mergers
