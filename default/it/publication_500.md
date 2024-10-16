@@ -14,8 +14,8 @@ For university theses or dissertations, enter a note about where and when the di
 
 - D-Bsa
 - Tübingen, Universität Diss. 2008
-- p. 95-97: "Appendix 4. Selected works"
-- S. 250-263: Werksverzeichnis (ohne Incipits)
+- p. p. 95-97: "Appendix 4. Selected works"
+- S. S. 250-263: Werksverzeichnis (ohne Incipits)
 
 This field is also used to define the method for citing a thematic catalog or catalog of works. This ensures that all RISM contributors who use the catalog cite the catalog in the same way. When determining the citation style, keep in mind the style and outline of the catalog. Try to give examples that reflect the variety of kinds of works in the catalog. Only use page numbers as a last resort.
 
@@ -23,5 +23,5 @@ This field is also used to define the method for citing a thematic catalog or ca
 _For YouV_
 - Short title. Nummer
 - YouV. 3 (12 sonatas for recorder with continuo)
-- YouV. 3, no. 1 (1st sonata from the 12 sonatas for recorder with continuo)
 - YouV. 3, no.1/2 (2nd movement only of the first sonata from the 12 sonatas for recorder with continuo)
+- YouV. 3, no. 1 (1st sonata from the 12 sonatas for recorder with continuo)
