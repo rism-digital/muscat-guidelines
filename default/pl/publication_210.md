@@ -32,6 +32,7 @@ Short titles for **general secondary literature** are made up as follows:
 - Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
   → WollnyS 2001
 - Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999
 - Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincónV 2009
@@ -44,7 +45,8 @@ For authors or editors who publish multiple articles about the same composer or 
   → KircherA 2005
 - Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, ed. Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherE 2005a
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, ed. Armin Kircher (Stuttgart: Carus, 2005). [full score]  
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, ed. Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
+  → KircherE 2005c Armin Kircher (Stuttgart: Carus, 2005). [full score]  
   → KircherE 2005b
 - Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ ed. Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
   → KircherE 2005c
@@ -98,7 +100,7 @@ A catalog that is published as a part of a larger item, such as an appendix in a
 
 ###### Examples
 
-- A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
+- A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
 - Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
   → KnaA
