@@ -46,7 +46,7 @@ Use the **links** at the top to jump to a section of the record. When editing a 
 
 **Move arrow**: Fields that can be repeated have an up-and-down arrow if you wish to change the order. Click the arrow and drag it to its new position.
 
-**Question mark (?)**: Click ? to display the RISM guidelines for this field.
+**Question mark (?)**: Click ? to display the RISM guidelines for this field. to display the RISM guidelines for this field.
 
 **Plus (+) and minus (-) signs**: Fields that may be repeated have a plus sign (+). Click on the + to create a new, empty field. Fields may be reordered in this section by clicking and dragging them. Click the - to delete a field.
 
@@ -102,7 +102,7 @@ Duplicate authority records can be merged by the Editorial Center. During the pr
 
 7. Now a message appears that says, "Successfully merged Institution [deprecated record] into [target record]!"
 
-8. You can confirm that this worked by viewing the unpublished, deprecated record, which will have 0 sources attached to it. The target record will have its previous records plus the new records attached to it from the merge. (It might take a moment for Muscat to reindex before this is displayed on the search page, but the full record views are correct.) Now you can delete the unpublished, deprecated record.
+8. You can confirm that this worked by viewing the unpublished, deprecated record, which will have 0 sources attached to it. The target record will have its previous records plus the new records attached to it from the merge. (It might take a moment for Muscat to reindex before this is displayed on the search page, but the full record views are correct.) Now you can delete the unpublished, deprecated record. Now you can delete the unpublished, deprecated record.
 
 Note:
 - In the Modification History for the linked sources, the change will be displayed like this: "Institution change id from 51000870 to 40009964"
