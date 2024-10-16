@@ -12,15 +12,15 @@ Seleccione uno de los siguientes tipos:
 - Biblioteca
 - Congress
 - Centro de documentación
-- Editorial
+- Centro de documentación
 - Institution
-- Intérprete
-- Fabricante de papel
-- Otros
-- Imprenta
 - Librero
 - Museo
-- Nombre corporativo
+- Otros
+- Fabricante de papel
+- Librero
+- Museo
+- Editorial
 - Instituto de investigación
 
 
