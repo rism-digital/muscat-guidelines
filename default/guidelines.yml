@@ -1,495 +1,505 @@
---- !map:HashWithIndifferentAccess
+chapters:
+- guidelines_title: "introduction"
+  helpfile: "introduction"
 
-header: "header"
-footer: "footer"
-tag_index: true
-lang: ["en", "de", "it", "pl", "es", "pt"]
-version: "7.1"
+- guidelines_title: "editor"
+  sections:
+    - guidelines_title: "edit_functions"
+      helpfile: "using_functions"
+    - guidelines_title: "edit_searching"
+      helpfile: "using_searching"
 
-doc:
-  chapters:
-  - title: "doc_introduction"
-    helpfile: "introduction"
-  - title: "doc_editor"
-    sections:
-      - title: "doc_edit_functions"
-        helpfile: "using_functions"
-      - title: "doc_edit_searching"
-        helpfile: "using_searching"
-  - title: "doc_cataloguing"
-    sections:
-      - title: "doc_cat_language"
-        helpfile: "cat_language"
-      - title: "doc_cat_collections"
-        helpfile: "cat_collections"
-      - title: "doc_cat_templates"
-        helpfile: "cat_templates"
-      - title: "doc_cat_authorities"
-        helpfile: "cat_authorities"
-      - title: "doc_scope_printed_music"
-        helpfile: "cat_printed"
-  - title: "doc_masks"
-    sections:
-      - title: "doc_library"
-        subsections:
-          - title: "852"
-            helpfile: "source_852"
-            index: true
-          - title: "591"
-            helpfile: "source_591"
-            index: true
-          - title: "035"
-            helpfile: "source_035"
-            index: true
-          - title: "506"
-            helpfile: "source_506"
-            index: true
-          - title: "561"
-            helpfile: "source_561"
-            index: true
-          - title: "541"
-            helpfile: "source_541"
-            index: true
-          - title: "773"
-            helpfile: "source_773"
-            index: true
-          - title: "774"
-            helpfile: "source_774"
-            index: true
-          - title: "787"
-            helpfile: "source_787"
-            index: true
-          - title: "775"
-            helpfile: "source_775"
-            index: true
-      - title: "doc_people"
-        subsections:
-          - title: "100"
-            helpfile: "source_100"
-            index: true
-          - title: "700"
-            helpfile: "source_700"
-            index: true
-          - title: "710"
-            helpfile: "source_710"
-            index: true
-      - title: "doc_title"
-        subsections:
-          - title: "245"
-            helpfile: "source_245"
-            index: true
-          - title: "246"
-            helpfile: "source_246"
-            index: true
-          - title: "240"
-            helpfile: "source_240"
-            index: true
-          - title: "690"
-            helpfile: "source_690"
-            index: true
-          - title: "383"
-            helpfile: "source_383"
-            index: true
-          - title: "730"
-            helpfile: "source_730"
-            index: true
-          - title: "650"
-            helpfile: "source_650"
-            index: true
-          - title: "520"
-            helpfile: "source_520"
-            index: true
-          - title: "594"
-            helpfile: "source_594"
-            index: true
-          - title: "598"
-            helpfile: "source_598"
-            index: true
-          - title: "595"
-            helpfile: "source_595"
-            index: true
-          - title: "740"
-            helpfile: "source_740"
-            index: true
-          - title: "041"
-            helpfile: "source_041"
-            index: true
-          - title: "546"
-            helpfile: "source_546"
-            index: true
-          - title: "026"
-            helpfile: "source_026"
-            index: true
-      - title: "doc_physical_description"
-        subsections:
-          - title: "593"
-            helpfile: "source_593"
-            index: true
-          - title: "260"
-            helpfile: "source_260"
-            index: true
-          - title: "597"
-            helpfile: "source_597"
-            index: true
-          - title: "300"
-            helpfile: "source_300"
-            index: true
-          - title: "590"
-            helpfile: "source_590"
-            index: true
-          - title: "340"
-            helpfile: "source_340"
-            index: true
-          - title: "028"
-            helpfile: "source_028"
-            index: true
-          - title: "592"
-            helpfile: "source_592"
-            index: true
-          - title: "500"
-            helpfile: "source_500"
-            index: true
-          - title: "563"
-            helpfile: "source_563"
-            index: true
-          - title: "856"
-            helpfile: "source_856"
-            index: true
-      - title: "doc_incipit"
-        subsections:
-          - title: "031"
-            helpfile: "source_031"
-            index: true
-      - title: "edit_references"
-        subsections:
-          - title: "505"
-            helpfile: "source_505"
-            index: true
-          - title: "525"
-            helpfile: "source_525"
-            index: true
-          - title: "691"
-            helpfile: "source_691"
-            index: true
-          - title: "510"
-            helpfile: "source_510"
-            index: true
-          - title: "596"
-            helpfile: "source_596"
-            index: true
-          - title: "657"
-            helpfile: "source_657"
-            index: true
-          - title: "651"
-            helpfile: "source_651"
-            index: true
-          - title: "518"
-            helpfile: "source_518"
-            index: true
-      - title: "doc_administration"
-        subsections:
-          - title: "001"
-            helpfile: "source_001"
-            index: true
-          - title: "040"
-            helpfile: "source_040"
-            index: true
-          - title: "599"
-            helpfile: "source_599"
-            index: true
-      - title: "doc_record_actions"
-        subsections:
-          - title: "doc_record_status"
-          - helpfile: "source_status"
-  - title: "doc_aid_titles_keywords"
-    helpfile: "subject_headings"
-  - title: "doc_digital_objects"
-    helpfile: "images_intro"
-  - title: "doc_institutions"
-    helpfile: "institution_introduction"
-    sections:
-      - title: "doc_numbers"
-        subsections:
-          - title: "in_024"
-            helpfile: "institution_024"
-            index: true
-          - title: "in_040"
-            helpfile: "institution_040"
-            index: true
-          - title: "in_043"
-            helpfile: "institution_043"
-            index: true
-          - title: "in_034"
-            helpfile: "institution_034"
-            index: true
-      - title: "doc_in_identity"
-        subsections:
-          - title: "in_110"
-            helpfile: "institution_110"
-          - title: "in_510"
-            helpfile: "institution_510"
-            index: true
-          - title: "in_410"
-            helpfile: "institution_410"
-            index: true
-          - title: "in_368"
-            helpfile: "institution_368"
-            index: true
-          - title: "in_580"
-            helpfile: "institution_580"
-            index: true
-      - title: "doc_in_contact"
-        subsections:
-          - title: "in_371"
-            helpfile: "institution_371"
-      - title: "doc_in_description"
-        subsections:
-          - title: "in_678"
-            helpfile: "institution_678"
-          - title: "in_670"
-            helpfile: "institution_670"
-            index: true
-          - title: "in_680"
-            helpfile: "institution_680"
-            index: true
-          - title: "in_856"
-            helpfile: "institution_856"
-            index: true
-          - title: "in_551"
-            helpfile: "institution_551"
-            index: true
-          - title: "in_710"
-            helpfile: "institution_710"
-            index: true
-          - title: "in_700"
-            helpfile: "institution_700"
-            index: true
-      - title: "doc_in_control"
-        subsections:
-          - title: "in_000"
-            helpfile: "institution_000"
-          - title: "in_001"
-            helpfile: "institution_001"
-            index: true
-          - title: "in_003"
-            helpfile: "institution_003"
-            index: true
-          - title: "in_005"
-            helpfile: "institution_005"
-            index: true
-          - title: "in_008"
-            helpfile: "institution_008"
-            index: true
-          - title: "in_667"
-            helpfile: "institution_667"
-            index: true
-  - title: "doc_personal_names"
-    sections:
-      - title: "pe_main_entry_fields"
-        subsections:
-          - title: "pe_100"
-            helpfile: "person_100"
-            index: true
-          - title: "pe_042"
-            helpfile: "person_042"
-            index: true
-          - title: "pe_375"
-            helpfile: "person_375"
-            index: true
-          - title: "pe_043"
-            helpfile: "person_043"
-            index: true
-      - title: "pe_numbers"
-        subsections:
-          - title: "pe_024"
-            helpfile: "person_024"
-            index: true
-      - title: "pe_name_variants"
-        subsections:
-          - title: "pe_400"
-            helpfile: "person_400"
-            index: true
-      - title: "pe_relations"
-        subsections:
-          - title: "pe_500"
-            helpfile: "person_500"
-            index: true
-          - title: "pe_510"
-            helpfile: "person_510"
-            index: true
-          - title: "pe_550"
-            helpfile: "person_550"
-            index: true
-          - title: "pe_551"
-            helpfile: "person_551"
-            index: true
-          - title: "pe_667"
-            helpfile: "person_667"
-            index: true
-      - title: "pe_references"
-        subsections:
-          - title: "pe_670"
-            helpfile: "person_670"
-            index: true
-          - title: "pe_678"
-            helpfile: "person_678"
-            index: true
-          - title: "pe_680"
-            helpfile: "person_680"
-            index: true
-          - title: "pe_856"
-            helpfile: "person_856"
-            index: true
-      - title: "pe_control"
-        subsections:
-          - title: "pe_040"
-            helpfile: "person_040"
-            index: true
-          - title: "in_000"
-            helpfile: "person_000"
-            index: true
-          - title: "in_001"
-            helpfile: "person_001"
-            index: true
-          - title: "in_003"
-            helpfile: "person_003"
-            index: true
-          - title: "in_005"
-            helpfile: "person_005"
-            index: true
+- guidelines_title: "cataloguing"
+  sections:
+    - guidelines_title: "cat_language"
+      helpfile: "cat_language"
+    - guidelines_title: "cat_collections"
+      helpfile: "cat_collections"
+    - guidelines_title: "cat_templates"
+      helpfile: "cat_templates"
+    - guidelines_title: "cat_authorities"
+      helpfile: "cat_authorities"
+    - guidelines_title: "scope_printed_music"
+      helpfile: "cat_printed"
+
+- guidelines_title: "masks"
+  sections:
+    - guidelines_title: "library"
+      subsections:
+        - title: "852"
+          helpfile: "source_852"
+          index: true
+        - title: "591"
+          helpfile: "source_591"
+          index: true
+        - title: "035"
+          helpfile: "source_035"
+          index: true
+        - title: "506"
+          helpfile: "source_506"
+          index: true
+        - title: "561"
+          helpfile: "source_561"
+          index: true
+        - title: "541"
+          helpfile: "source_541"
+          index: true
+        - title: "773"
+          helpfile: "source_773"
+          index: true
+        - title: "774"
+          helpfile: "source_774"
+          index: true
+        - title: "787"
+          helpfile: "source_787"
+          index: true
+        - title: "775"
+          helpfile: "source_775"
+          index: true
+    - guidelines_title: "people"
+      subsections:
+        - title: "100"
+          helpfile: "source_100"
+          index: true
+        - title: "700"
+          helpfile: "source_700"
+          index: true
+        - title: "710"
+          helpfile: "source_710"
+          index: true
+    - guidelines_title: "title"
+      subsections:
+        - title: "245"
+          helpfile: "source_245"
+          index: true
+        - title: "246"
+          helpfile: "source_246"
+          index: true
+        - title: "240"
+          helpfile: "source_240"
+          index: true
+        - title: "690"
+          helpfile: "source_690"
+          index: true
+        - title: "383"
+          helpfile: "source_383"
+          index: true
+        - title: "730"
+          helpfile: "source_730"
+          index: true
+        - title: "650"
+          helpfile: "source_650"
+          index: true
+        - title: "520"
+          helpfile: "source_520"
+          index: true
+        - title: "594"
+          helpfile: "source_594"
+          index: true
+        - title: "598"
+          helpfile: "source_598"
+          index: true
+        - title: "595"
+          helpfile: "source_595"
+          index: true
+        - title: "041"
+          helpfile: "source_041"
+          index: true
+        - title: "546"
+          helpfile: "source_546"
+          index: true
+        - title: "026"
+          helpfile: "source_026"
+          index: true
+    - guidelines_title: "physical_description"
+      subsections:
+        - title: "593"
+          helpfile: "source_593"
+          index: true
+        - title: "260"
+          helpfile: "source_260"
+          index: true
+        - title: "597"
+          helpfile: "source_597"
+          index: true
+        - title: "300"
+          helpfile: "source_300"
+          index: true
+        - title: "590"
+          helpfile: "source_590"
+          index: true
+        - title: "340"
+          helpfile: "source_340"
+          index: true
+        - title: "028"
+          helpfile: "source_028"
+          index: true
+        - title: "592"
+          helpfile: "source_592"
+          index: true
+        - title: "500"
+          helpfile: "source_500"
+          index: true
+        - title: "563"
+          helpfile: "source_563"
+          index: true
+        - title: "856"
+          helpfile: "source_856"
+          index: true
+    - guidelines_title: "incipit"
+      subsections:
+        - title: "031"
+          helpfile: "source_031"
+          index: true
+    - guidelines_title: "edit_references"
+      subsections:
+        - title: "505"
+          helpfile: "source_505"
+          index: true
+        - title: "525"
+          helpfile: "source_525"
+          index: true
+        - title: "691"
+          helpfile: "source_691"
+          index: true
+        - title: "510"
+          helpfile: "source_510"
+          index: true
+        - title: "596"
+          helpfile: "source_596"
+          index: true
+        - title: "657"
+          helpfile: "source_657"
+          index: true
+        - title: "651"
+          helpfile: "source_651"
+          index: true
+        - title: "518"
+          helpfile: "source_518"
+          index: true
+    - guidelines_title: "administration"
+      subsections:
+        - title: "001"
+          helpfile: "source_001"
+          index: true
+        - title: "040"
+          helpfile: "source_040"
+          index: true
+        - title: "599"
+          helpfile: "source_599"
+          index: true
+    - guidelines_title: "record_actions"
+      subsections:
+        - guidelines_title: "record_status"
+        - helpfile: "source_status"
+
+- guidelines_title: "aid_titles_keywords"
+  helpfile: "subject_headings"
+
+- guidelines_title: "digital_objects"
+  helpfile: "images_intro"
 
 
-  - title: "li_lit"
-    sections:
-      - title: "li_main_entry_fields"
-        subsections:
-          - title: "li_100"
-            helpfile: "publication_100"
-            index: true
-          - title: "li_700"
-            helpfile: "publication_700"
-            index: true
-          - title: "li_240"
-            helpfile: "publication_240"
-            index: true
-          - title: "730"
-            helpfile: "publication_730"
-            index: true
-          - title: "li_260"
-            helpfile: "publication_260"
-            index: true
-          - title: "li_300"
-            helpfile: "publication_300"
-            index: true
-          - title: "li_337"
-            helpfile: "publication_337"
-            index: true
-          - title: "li_210"
-            helpfile: "publication_210"
-            index: true
-      - title: "li_subject"
-        subsections:
-          - title: "li_020"
-            helpfile: "publication_020"
-            index: true
-          - title: "li_022"
-            helpfile: "publication_022"
-            index: true
-          - title: "li_024"
-            helpfile: "publication_024"
-            index: true
-          - title: "li_041"
-            helpfile: "catalogue_041"
-            index: true
-          - title: "li_044"
-            helpfile: "publication_044"
-            index: true
-          - title: "li_710"
-            helpfile: "publication_710"
-            index: true
-          - title: "li_760"
-            helpfile: "publication_760"
-            index: true
-          - title: "li_650"
-            helpfile: "publication_650"
-            index: true
-          - title: "li_651"
-            helpfile: "publication_651"
-            index: true
-          - title: "li_250"
-            helpfile: "publication_250"
-            index: true
-          - title: "li_780"
-            helpfile: "publication_780"
-            index: true
-          - title: "li_785"
-            helpfile: "publication_785"
-      - title: "li_note"
-        subsections:
-          - title: "li_500"
-            helpfile: "publication_500"
-            index: true
-          - title: "li_502"
-            helpfile: "publication_502"
-            index: true
-          - title: "li_599"
-            helpfile: "publication_599"
-            index: true
-          - title: "li_856"
-            helpfile: "publication_856"
-            index: true
-          - title: "li_520"
-            helpfile: "publication_520"
-            index: true
-      - title: "li_control"
-        subsections:
-          - title: "li_000"
-            helpfile: "publication_000"
-            index: true
-          - title: "li_001"
-            helpfile: "publication_001"
-            index: true
-          - title: "li_003"
-            helpfile: "publication_003"
-            index: true
-          - title: "li_005"
-            helpfile: "publication_005"
-            index: true
+- guidelines_title: "institutions"
+  helpfile: "institution_introduction"
+  sections:
+    - guidelines_title: "in_numbers"
+      model: "institution"
+      subsections:
+        - title: "024"
+          helpfile: "institution_024"
+          index: true
+        - title: "040"
+          helpfile: "institution_040"
+          index: true
+        - title: "043"
+          helpfile: "institution_043"
+          index: true
+        - title: "034"
+          helpfile: "institution_034"
+          index: true
+    - guidelines_title: "in_identity"
+      model: "institution"
+      subsections:
+        - title: "110"
+          helpfile: "institution_110"
+        - title: "510"
+          helpfile: "institution_510"
+          index: true
+        - title: "410"
+          helpfile: "institution_410"
+          index: true
+        - title: "368"
+          helpfile: "institution_368"
+          index: true
+        - title: "580"
+          helpfile: "institution_580"
+          index: true
+    - guidelines_title: "in_contact"
+      model: "institution"
+      subsections:
+        - title: "371"
+          helpfile: "institution_371"
+    - guidelines_title: "in_description"
+      model: "institution"
+      subsections:
+        - title: "678"
+          helpfile: "institution_678"
+        - title: "670"
+          helpfile: "institution_670"
+          index: true
+        - title: "680"
+          helpfile: "institution_680"
+          index: true
+        - title: "856"
+          helpfile: "institution_856"
+          index: true
+        - title: "551"
+          helpfile: "institution_551"
+          index: true
+        - title: "710"
+          helpfile: "institution_710"
+          index: true
+        - title: "700"
+          helpfile: "institution_700"
+          index: true
+    - guidelines_title: "in_control"
+      model: "institution"
+      subsections:
+        - title: "000"
+          helpfile: "institution_000"
+        - title: "001"
+          helpfile: "institution_001"
+          index: true
+        - title: "003"
+          helpfile: "institution_003"
+          index: true
+        - title: "005"
+          helpfile: "institution_005"
+          index: true
+        - title: "008"
+          helpfile: "institution_008"
+          index: true
+        - title: "667"
+          helpfile: "institution_667"
+          index: true
 
-  - title: "doc_abbreviations"
-    sections:
-    - title: "doc_abbr_voices_instr"
-      helpfile: "abbr_voices_instr"
-    - title: "aid_terms"
-      helpfile: "abbr_standard_terms"
-    - title: "aid_watermarks"
-      helpfile: "abbr_watermarks"
-    - title: "aid_general"
-      helpfile: "abbr_general"
-    - title: "aid_eccl"
-      helpfile: "abbr_modes"
-    - title: "aid_keys"
-      helpfile: "abbr_keys"
+- guidelines_title: "personal_names"
+  sections:
+    - guidelines_title: "pe_main_entry_fields"
+      model: "person"
+      subsections:
+        - title: "100"
+          helpfile: "person_100"
+          index: true
+        - title: "042"
+          helpfile: "person_042"
+          index: true
+        - title: "375"
+          helpfile: "person_375"
+          index: true
+        - title: "043"
+          helpfile: "person_043"
+          index: true
+    - guidelines_title: "pe_numbers"
+      model: "person"
+      subsections:
+        - title: "024"
+          helpfile: "person_024"
+          index: true
+    - guidelines_title: "pe_name_variants"
+      model: "person"
+      subsections:
+        - title: "400"
+          helpfile: "person_400"
+          index: true
+    - guidelines_title: "pe_relations"
+      model: "person"
+      subsections:
+        - title: "500"
+          helpfile: "person_500"
+          index: true
+        - title: "510"
+          helpfile: "person_510"
+          index: true
+        - title: "550"
+          helpfile: "person_550"
+          index: true
+        - title: "551"
+          helpfile: "person_551"
+          index: true
+        - title: "667"
+          helpfile: "person_667"
+          index: true
+    - guidelines_title: "pe_references"
+      model: "person"
+      subsections:
+        - title: "670"
+          helpfile: "person_670"
+          index: true
+        - title: "678"
+          helpfile: "person_678"
+          index: true
+        - title: "680"
+          helpfile: "person_680"
+          index: true
+        - title: "856"
+          helpfile: "person_856"
+          index: true
+    - guidelines_title: "pe_control"
+      model: "person"
+      subsections:
+        - title: "040"
+          helpfile: "person_040"
+          index: true
+        - title: "000"
+          helpfile: "person_000"
+          index: true
+        - title: "001"
+          helpfile: "person_001"
+          index: true
+        - title: "003"
+          helpfile: "person_003"
+          index: true
+        - title: "005"
+          helpfile: "person_005"
+          index: true
 
-  - title: "doc_other"
-    sections:
-    - title: "aid_titles"
-      helpfile: "help_titles_keywords"
-    - title: "aid_texts"
-      helpfile: "help_texts_sacred_works"
-    - title: "aid_lit"
-      helpfile: "aid_liturgical"
-    - title: "aid_figured"
-      helpfile: "help_figured_bass"
-    - title: "aid_transpose"
-      helpfile: "help_transposing_instruments"
-    - title: "aid_opera"
-      helpfile: "help_opera_houses"
-    - title: "aid_faq"
-      helpfile: "help_faqs"
-    - title: "aid_tt"
-      helpfile: "help_tips"
-    - title: "aid_best"
-      helpfile: "help_best_practices"
-    - title: "aid_error"
-      helpfile: "help_technical_errors"
+- guidelines_title: "li_lit"
+  sections:
+    - guidelines_title: "li_main_entry_fields"
+      model: "publication"
+      subsections:
+        - title: "100"
+          helpfile: "publication_100"
+          index: true
+        - title: "700"
+          helpfile: "publication_700"
+          index: true
+        - title: "240"
+          helpfile: "publication_240"
+          index: true
+        - title: "730"
+          helpfile: "publication_730"
+          index: true
+        - title: "260"
+          helpfile: "publication_260"
+          index: true
+        - title: "300"
+          helpfile: "publication_300"
+          index: true
+        - title: "337"
+          helpfile: "publication_337"
+          index: true
+        - title: "210"
+          helpfile: "publication_210"
+          index: true
+    - guidelines_title: "li_subject"
+      model: "publication"
+      subsections:
+        - title: "020"
+          helpfile: "publication_020"
+          index: true
+        - title: "022"
+          helpfile: "publication_022"
+          index: true
+        - title: "024"
+          helpfile: "publication_024"
+          index: true
+        - title: "041"
+          helpfile: "catalogue_041"
+          index: true
+        - title: "044"
+          helpfile: "publication_044"
+          index: true
+        - title: "710"
+          helpfile: "publication_710"
+          index: true
+        - title: "760"
+          helpfile: "publication_760"
+          index: true
+        - title: "650"
+          helpfile: "publication_650"
+          index: true
+        - title: "651"
+          helpfile: "publication_651"
+          index: true
+        - title: "250"
+          helpfile: "publication_250"
+          index: true
+        - title: "780"
+          helpfile: "publication_780"
+          index: true
+        - title: "785"
+          helpfile: "publication_785"
+    - guidelines_title: "li_note"
+      model: "publication"
+      subsections:
+        - title: "500"
+          helpfile: "publication_500"
+          index: true
+        - title: "502"
+          helpfile: "publication_502"
+          index: true
+        - title: "599"
+          helpfile: "publication_599"
+          index: true
+        - title: "856"
+          helpfile: "publication_856"
+          index: true
+        - title: "520"
+          helpfile: "publication_520"
+          index: true
+    - guidelines_title: "li_control"
+      model: "publication"
+      subsections:
+        - title: "000"
+          helpfile: "publication_000"
+          index: true
+        - title: "001"
+          helpfile: "publication_001"
+          index: true
+        - title: "003"
+          helpfile: "publication_003"
+          index: true
+        - title: "005"
+          helpfile: "publication_005"
+          index: true
+
+- guidelines_title: "abbreviations"
+  sections:
+  - guidelines_title: "abbr_voices_instr"
+    helpfile: "abbr_voices_instr"
+  - guidelines_title: "aid_terms"
+    helpfile: "abbr_standard_terms"
+  - guidelines_title: "aid_watermarks"
+    helpfile: "abbr_watermarks"
+  - guidelines_title: "aid_general"
+    helpfile: "abbr_general"
+  - guidelines_title: "aid_eccl"
+    helpfile: "abbr_modes"
+  - guidelines_title: "aid_keys"
+    helpfile: "abbr_keys"
+
+- guidelines_title: "other"
+  sections:
+  - guidelines_title: "aid_titles"
+    helpfile: "help_titles_keywords"
+  - guidelines_title: "aid_texts"
+    helpfile: "help_texts_sacred_works"
+  - guidelines_title: "aid_lit"
+    helpfile: "aid_liturgical"
+  - guidelines_title: "aid_figured"
+    helpfile: "help_figured_bass"
+  - guidelines_title: "aid_transpose"
+    helpfile: "help_transposing_instruments"
+  - guidelines_title: "aid_opera"
+    helpfile: "help_opera_houses"
+  - guidelines_title: "aid_faq"
+    helpfile: "help_faqs"
+  - guidelines_title: "aid_tt"
+    helpfile: "help_tips"
+  - guidelines_title: "aid_best"
+    helpfile: "help_best_practices"
+  - guidelines_title: "aid_error"
+    helpfile: "help_technical_errors"
