@@ -18,7 +18,7 @@ Information for the core level includes composer, publisher, title, instrumentat
 
 ### When to input a new record
 
-RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created.
+RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences.
 
 The following offers guidelines as to which variations justify a new record and which do not. (This section draws heavily from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
@@ -27,7 +27,7 @@ The following offers guidelines as to which variations justify a new record and 
 - **Different content**: Differences in the title or authors/contributors. Edition statement that indicates corrections, revisions, expansions, abridgments, or the inclusion of supplementary materials.
 - **Different publisher.**
 - **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by the comparison of multiple copies).
-- **Different publication status**: An original title page has been canceled and replaced. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page. Series title page is new.
+- **Different publication status**: An original title page has been canceled and replaced. Series title page is new. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page.
 - **Different plate and/or publisher numbers**.
 
 **Do not create a new record** if your item has one of these differences. If your item has _more than one_ of these differences, you must decide if a new record is necessary.
@@ -55,7 +55,7 @@ Example 1: You are looking at RISM ID number 1001031016: Beethoven, "Adelaide," 
 
 Example 2: You are looking at RISM ID number 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
 
-1. Copy 1: Same title but a label has been stuck over the publication information: Köln, P.J. Simrock. You can see that the label is covering up the Bonn/Köln information. **New record required** (different publication status/label indicates a different publisher). Result: 1001141767
+1. Copy 1: Same title but a label has been stuck over the publication information: Köln, P.J. Simrock. Simrock. You can see that the label is covering up the Bonn/Köln information. **New record required** (different publication status/label indicates a different publisher). Result: 1001141767
 
 Example 3: You are looking at RISM 990024126: Gyrowetz, Symphonies, op. 9. The RISM record represents a set of multiple symphonies. Each symphony is available as a separate publication with separate plate numbers, issued as _livres_ 1, 2, and 3.
 
@@ -106,7 +106,7 @@ Standard RISM rules for generic titles apply (see **Standardized title (240)**),
     - Additional title: 6 Masses
 
   - RISM ID no. 993000147
-    - Title on source: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. Stimmen. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
+    - Stimmen. Title on source: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
     - Standardized title: Preussische Festlieder, Teil 2
 
 
@@ -139,10 +139,10 @@ A record must be split when there is evidence that multiple, distinct printed ed
 You can recognize the presence of distinct eidtions through conventions such as the following that will appear in the records.
 
 The field **Title on source (245)** will often mention multiple parts or several keys:
-- Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3)
+- Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3) N|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
-- Divine harmony. Six select anthems … (Divine harmony. The 2|d collection being select anthems ...)
+- Divine harmony. Six select anthems … (Divine harmony. (Divine harmony. The 2|d collection being select anthems ...)
 
 The field **Plate number (028)** will list multiple plates, with successive plate numbers in parentheses:
 - 1192
@@ -168,7 +168,7 @@ In cases of record splits, the RISM series number is carried over to all new rec
 
 Catalogers should be aware that duplicates in the database can sometimes be found. Some duplicates originated in the printed RISM A/I or B series: pasticcios or other collaborative works were entered under multiple composers, an edition classified in the B/I series was also published in A/I, or an edition was simply entered twice within a long list. In addition, sometimes catalogers inadvertently create duplicate records.
 
-Duplicate records are not allowed and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.
+Duplicate records are not allowed and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.
 
 
 ##### Procedure
