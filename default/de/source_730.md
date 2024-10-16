@@ -29,7 +29,7 @@ Types of possible alternatives are:
 
 In the case of variation sets, enter the name of theme in this field and select **Variations** in the field **Arrangement statement (730 $o)**.
 
-In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading (730 $k)**. For inserts, also note the guidelines under for the field **Insertions (787)**.
+For inserts, also note the guidelines under for the field **Insertions (787)**. In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading (730 $k)**.
 
 ##### Examples
 
@@ -50,7 +50,7 @@ This field can also be used for titles of periodicals or series.
 
 #### Arrangement statement (730 $o)
 
-**Skizzen** : Skizzen zu einem Werk Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
+**Skizzen** : Skizzen zu einem Werk **Skizzen** : Skizzen zu einem Werk Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
 
 #### Rule type (730 $g)
 
