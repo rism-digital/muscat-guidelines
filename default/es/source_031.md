@@ -227,9 +227,7 @@ t = trill (immediately follows the note)
 
 ###### Example
 
-_Ejemplos_  
-8(3ABCDE;5) = quintillo (5) de fusas (3), en el tiempo de una corchea (8)  
-8({3ABCDE};5) = quintillo de fusas, en el tiempo de una corchea con las plicas unidas.
+{qq6’CDEDr}
 
 ##### 10. Special rhythms
 
@@ -252,7 +250,7 @@ Do not forget the rhythmic value within the bracket!
 
 ###### 11.1. Repeated figures
 
-! Figuras repetidas</strong>  
+! ! Figuras repetidas</strong>  
 ! = inicio y fin de un pasaje  
 f = repetir la indicación  
 El pasaje será repetido cada vez que aparezca  **f**  después del segundo **!**. This is only possible within a bar.
