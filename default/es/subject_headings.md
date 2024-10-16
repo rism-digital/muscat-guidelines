@@ -2,7 +2,7 @@
 
 The authority file for **Subject headings** contains all the forms, genres, and other standardized terms used in the Muscat sources in the field **Subject heading (650)**. A record for a subject heading typically includes the standardized RISM term in English and in plural, translations or alternate terms, and a definition. Genres and forms found outside of Western Europe or common in a particular region where there is no English equivalent are given in the local language (and in the plural when it makes linguistic sense).
 
-Subject headings can be added while cataloging. In the record, simply enter the new subject heading and click to a different field. You then get a message that says "Confirm the insertion of a new value" which you should then click.
+Subject headings can be added while cataloging. You then get a message that says "Confirm the insertion of a new value" which you should then click. In the record, simply enter the new subject heading and click to a different field.
 
 After you save the record, go to the authority file for subject headings and find your new heading. You can edit subject headings you create. Do the following:
 
