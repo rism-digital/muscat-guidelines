@@ -8,5 +8,5 @@ Wenn es ich um eine Hochschulschrift handelt, werden hier die Art, Institution u
 
 ##### Beispiele
 
-- Ph.D. diss., University College, London 1998
+- Ph.D. Ph.D. diss., University College, London 1998
 - Diss., Freie Universität, Berlin 2002
