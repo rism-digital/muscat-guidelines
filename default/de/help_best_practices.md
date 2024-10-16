@@ -12,7 +12,7 @@ The same applies for citing secondary literature: if you refer to a publication 
 
 Information that is not found on the source may be included in the RISM record but the secondary literature should be cited. For example, if the composer of a manuscript is known through a journal article, or if the publication year for a printed edition is given in a published study on the publisher, the source of the information should be made clear through a **General note (500)** and indexed in the field **Bibliographic reference (691)**.
 
-#### 3. URLs and links to external resources
+#### 3. 3. URLs and links to external resources
 
 Always use permalinks, in particular when linking to digitized music in the field **External resource (856)**.
 
@@ -38,7 +38,7 @@ Sometimes it is not possible to access the source in person and the only descrip
 
 Bibliographic records for printed editions exist in a shared cataloging environment where multiple libraries have editing rights to the same record. This differs from manuscripts, which are unique to the holding library. Due to the shared environment, care must be taken so that the implications of adding or deleting information from core bibliographic records is thought through.
 
-Catalogers should not remove information from the core record if it is correct, even if it is not relevant for local cataloging systems. Administrative information is stored in the records that can explain decisions made by the Editorial Center and the relationship to other records. Do not delete or edit data in the fields **Initial entry in A/I (775)**, **Local number (035)**, or **RISM series (510)**. Never delete a note that indicates that a record was merged with another record.
+Catalogers should not remove information from the core record if it is correct, even if it is not relevant for local cataloging systems. Administrative information is stored in the records that can explain decisions made by the Editorial Center and the relationship to other records. Never delete a note that indicates that a record was merged with another record. Do not delete or edit data in the fields **Initial entry in A/I (775)**, **Local number (035)**, or **RISM series (510)**.
 
 If a record has already been revised by another working group (evident by the presence of a library's siglum and shelfmark in the field **Source of description note (588)**), use cataloger's judgement as to whether futher revision is necessary. If you make further changes, make it clear in the note what revisions you contributed.
 
