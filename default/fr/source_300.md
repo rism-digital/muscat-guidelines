@@ -9,6 +9,7 @@ The field **Physical description** provides a clear declaration of the material 
 For all types of formats except parts, the field **Format, extent (300 $a)** is built up of three components: **Number of items, Format, Extent.**
 
 ###### Example
+
 - 1 score: 35 p.
 
 For parts, the field **Format, extent (300 $a)** is built up of two components: **Number of items, Format.** The specific parts are listed separately in the field **Parts held (590)**.

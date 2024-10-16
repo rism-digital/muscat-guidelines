@@ -6,7 +6,7 @@ Enter information in the following fields. Adjust the format of the information 
 
 - **Street address** (371 $a): The street and number as well as **Additions to the address**: Storeys (for example, 1st floor, room 569), Names of buildings (for example, Palazzo ducale, Rose cottage etc.)
 - **City** (371 $b)
-- **State, province, or county** (371 $c)
+- **County, province, state** (371 $c)
 - **Country** (371 $d)
 - **Postal code** (371 $e)
 - **Email** (371 $m; ISDIAH 5.2.2): Enter the email address necessary to contact the institution.

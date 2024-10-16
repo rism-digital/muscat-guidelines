@@ -4,7 +4,7 @@ Das Feld **Zugehörige Personen* beschreibt familiäre Beziehungen.
 
 #### Zugehörige Personen (500 $a)
 
-Geben Sie den Personennamen ein, der im Verhältnis zur betreffenden Person steht. Das Feld ist mit der Normdatei **Personen** verknüpft.
+Geben Sie den Personennamen ein, der im Verhältnis zur betreffenden Person steht. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d.
 
 #### Art der Beziehung (500 $i)
 

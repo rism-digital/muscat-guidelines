@@ -30,7 +30,7 @@ Enter a machine actionable and parseable URI that identifies a name or label for
 
 Enter the URI that identifies the institution.
 
-#### Authority agency (024 $2)
+#### Normdatenagentur (024 $2)
 
 Select from the following:
 
@@ -41,12 +41,12 @@ Select from the following:
 - **ICCU**: Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI**: International Standard Name Identifier
 - **LC**: Library of Congress
-- **MOC**: MARC Organization Code
 - **NLP**: Biblioteka Narodowa
 - **NKC**: Národní knihovna České republiky
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
 - **WKP**: Wikidata (Wikipedia)
+- **MOC**: MARC Organization Code
 
 #### Linkage (024 $6)
 

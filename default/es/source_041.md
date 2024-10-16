@@ -6,13 +6,8 @@ The field **Language code** is for the language used in the source. Pueden inclu
 
 **Required field if Text Incipit (031 $t) is filled out**
 
-Seleccione el/los idioma(s) del texto de la fuente. En obras musicales, se refiere al idioma del texto cantado o hablado, no de otros textos como pueden ser prefacios o dedicatorias. En el caso de los tratados, se refiere al idioma del cuerpo del texto. For librettos, use subfield **$e**.
+Seleccione el/los idioma(s) del texto de la fuente. En obras musicales, se refiere al idioma del texto cantado o hablado, no de otros textos como pueden ser prefacios o dedicatorias. For treatises and librettos, this refers to the language of the text.
 
-#### Idioma del libreto (041 $e)
-
-**Campo requerido si se selecciona la plantilla de libreto.**
-
-Si el texto de la fuente es una traducción, indique el idioma original en este campo.
 
 #### Idioma del texto original (041 $h)
 

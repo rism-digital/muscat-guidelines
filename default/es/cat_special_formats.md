@@ -233,7 +233,7 @@ Observe the following when cataloging librettos.
 - **Additional institution (710):** Do not forget to index the name of the publisher (for printed librettos).
 - **Título uniforme (240):** Los campos "Declaración de arreglo" y "Tonalidad o modo" no resultan relevantes en este caso. En caso de que el libreto incluya música anotada, indique la tonalidad sólo en el Incipit musical (031).
 - **Título uniforme (240):** Título de la inserción, o el nombre de la ópera seguido de Extractos.
-- **Descriptor (650):** Introduzca el nombre del género para el que se escribió el libreto, si se lo conoce (como "Operas" o "Cantatas"). "Librettos" no es necesario.
+- **Subject heading (650):** If known, enter the name of the genre for which the libretto was written, such as “Operas” or “Cantatas”. "Librettos" no es necesario.
 - Entre los descriptores apropiados para tratados aparecen los siguientes casos:
 - **Source type (593):** Select the source type. For the content type, select "Libretto."
 - **Descripción física:** **Formato, extensión (300):** Utilice la frase "text document" [documento de texto] para describir el formato del libreto. Un ejemplo sería: 1 text document: viii, 27. Para un capítulo dentro de una colección de ensayos, introduzca los números de página del capítulo:  

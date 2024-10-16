@@ -21,7 +21,7 @@ When libraries, archives or documentation centers belong to a larger institution
 
 Enter the name of the subordinate unit of the institution.
 
-  #### Place (110 $c)
+#### Unidad subordinada (110 $b)
 
 Registre la ciudad de la institución. Si el idioma original se escribe en alfabeto no latino, ingéselo de forma transliterada.
 

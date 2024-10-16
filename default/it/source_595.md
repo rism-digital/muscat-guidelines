@@ -6,12 +6,12 @@ Inserisci i nomi nel loro ordine naturale; non spostare eventuali articoli dopo 
 
 #### Nomi standardizzati dei personaggi (595 $a)
 
-Si possono elencare in questo campo i nomi di tutti i personaggi presenti di una composizione. Non è rilevante se siano menzionati nella fonte o derivati dalla bibliografia. Utilizza un'ortografia normalizzata. Indica eventuali aggiunte tra parentesi quadre. Puoi indicare il registro vocale tra parentesi dopo il nome del personaggio.
+Si possono elencare in questo campo i nomi di tutti i personaggi presenti di una composizione. Non è rilevante se siano menzionati nella fonte o derivati dalla bibliografia. Utilizza un'ortografia normalizzata. Indica eventuali aggiunte tra parentesi quadre. The voice part may be entered following the name of the role in parentheses, if known.
 
 ##### Esempi
 
-- Donna Flavia (S)
-- Theodor (T)
+- Donna Flavia
+- Theodor
 - Zerbinetta (Mezzo-S)
 - Ein Polizeikommisar (Bariton)
 - Der Schornsteinfeger (Bariton)
