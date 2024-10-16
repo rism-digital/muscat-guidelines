@@ -8,5 +8,5 @@ If the item is a doctoral dissertation, enter a statement that includes the type
 
 ##### Examples
 
-- Ph.D. diss., University College, London 1998
+- Ph.D. Ph.D. diss., University College, London 1998
 - Diss., Freie Universität, Berlin 2002
