@@ -8,7 +8,7 @@ Transcribe or describe the watermark uniformly and in English. Descriptions shou
 
 Small capitals, ciphers/initials, and years must be transcribed exactly. Indicate line breaks with **\|** (the vertical pipe).
 
-Standardize your information with the help of watermark catalogs or databases, adding a reference in the field **Bibliographic reference (691)** when appropriate. See the list **Standard Watermarks** for the names of common watermarks.
+See the list **Standard Watermarks** for the names of common watermarks. Standardize your information with the help of watermark catalogs or databases, adding a reference in the field **Bibliographic reference (691)** when appropriate.
 
 ##### Examples
 
