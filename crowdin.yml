@@ -6,3 +6,5 @@ preserve_hierarchy: true
 files:
   - source: default/en/*.md
     translation: /default/%two_letters_code%/%original_file_name%
+  - source: /locales/en.yml
+    translation: /locales/%two_letters_code%.yml
