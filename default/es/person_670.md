@@ -15,7 +15,7 @@ Enter the form of the name and/or years as indicated in the literature. Add a pa
 ##### Examples
 
 - Fuente de los datos encontrados (670 $a): EitnerQ
-- Información encontrada (670 $b): Bach, Johann Christian II. (Giovanni) [bautizado 07.09.1735-1782] 07.09.1735-1782]
+- Información encontrada (670 $b): Bach, Johann Christian II. (Giovanni) [bautizado 07.09.1735-1782] 07.09.1735-1782] 07.09.1735-1782]
 - **Source data found (670 $a)**: MGG\|2/s
 - Información encontrada (670 $b): vide 6, 834
 - **Source data found (670 $a)**: Grove\|7
