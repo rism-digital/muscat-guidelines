@@ -286,7 +286,7 @@ chapters:
 
 - guidelines_title: "personal_names"
   sections:
-    - guidelines_title: "main_entry_fields"
+    - guidelines_title: "pe_main_entry_fields"
       model: "person"
       subsections:
         - title: "100"
