@@ -46,7 +46,7 @@ El botón  **Mostrar historial de modificaciones**  permite ver, restaurar y bor
 
 **Move arrow**: Fields that can be repeated have an up-and-down arrow if you wish to change the order. Click the arrow and drag it to its new position.
 
-**Question mark (?)**: Click ? to display the RISM guidelines for this field.
+**Question mark (?)**: Click ? to display the RISM guidelines for this field. to display the RISM guidelines for this field.
 
 **Plus (+) and minus (-) signs**: Fields that may be repeated have a plus sign (+). Haga click en el + para crear un nuevo registro vacío. Fields may be reordered in this section by clicking and dragging them. Click the - to delete a field.
 
@@ -76,9 +76,9 @@ When you begin a new record, the most important fields will already be open and 
 
 **Crear** : este botón lleva a la página de selección de plantillas desde la cual puede crear un nuevo registro.
 
-**Regresar a la lista** : este botón lo lleva de regreso a la lista de todas las fuentes musicales.
+**Crear** : este botón lleva a la página de selección de plantillas desde la cual puede crear un nuevo registro.
 
-**Editar:**  verá este botón en caso de que cuente con los permisos necesarios para editar el registro.
+**Regresar a la lista** : este botón lo lleva de regreso a la lista de todas las fuentes musicales.
 
 **Edit:** If you have permissions to edit the record, you will see this edit button.
 
@@ -98,11 +98,11 @@ Duplicate authority records can be merged by the Editorial Center. During the pr
 
 5. Click "Merge" under Actions on the right.
 
-6. A popup message will appear that says, "Should [the deprecated record] really be merged into [the target record]?" This is the action that takes links in the unpublished record and sends them to the target. Click OK.
+6. A popup message will appear that says, "Should [the deprecated record] really be merged into [the target record]?" This is the action that takes links in the unpublished record and sends them to the target. This is the action that takes links in the unpublished record and sends them to the target. Click OK.
 
 7. Now a message appears that says, "Successfully merged Institution [deprecated record] into [target record]!"
 
-8. You can confirm that this worked by viewing the unpublished, deprecated record, which will have 0 sources attached to it. The target record will have its previous records plus the new records attached to it from the merge. (It might take a moment for Muscat to reindex before this is displayed on the search page, but the full record views are correct.) Now you can delete the unpublished, deprecated record.
+8. You can confirm that this worked by viewing the unpublished, deprecated record, which will have 0 sources attached to it. The target record will have its previous records plus the new records attached to it from the merge. (It might take a moment for Muscat to reindex before this is displayed on the search page, but the full record views are correct.) Now you can delete the unpublished, deprecated record. Now you can delete the unpublished, deprecated record.
 
 Note:
 - In the Modification History for the linked sources, the change will be displayed like this: "Institution change id from 51000870 to 40009964"
