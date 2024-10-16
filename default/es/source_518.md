@@ -15,4 +15,4 @@ For printed music, this field should be filled out in the core bibliographic rec
 - First performance date: 6 September 1791, Prague, National theatre
 - [at foot of title page:] "Performance in Baden Baden on 17 March 1832"
 
-**Obsolete procedures**: Older RISM cataloging programs contained two fields for the date of performances, one in the format DD.MM.YYYY and one with other dates that do not fit that format. 
+**Obsolete procedures**: Older RISM cataloging programs contained two fields for the date of performances, one in the format DD. MM.YYYY and one with other dates that do not fit that format. 
