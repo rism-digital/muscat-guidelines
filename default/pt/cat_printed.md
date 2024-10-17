@@ -18,7 +18,7 @@ Information for the core level includes composer, publisher, title, instrumentat
 
 ### When to input a new record
 
-RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created.
+RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences.
 
 The following offers guidelines as to which variations justify a new record and which do not. (This section draws heavily from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
@@ -27,7 +27,7 @@ The following offers guidelines as to which variations justify a new record and 
 - **Different content**: Differences in the title or authors/contributors. Edition statement that indicates corrections, revisions, expansions, abridgments, or the inclusion of supplementary materials.
 - **Different publisher.**
 - **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by the comparison of multiple copies).
-- **Different publication status**: An original title page has been canceled and replaced. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page. Series title page is new.
+- **Different publication status**: An original title page has been canceled and replaced. Series title page is new. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page.
 - **Different plate and/or publisher numbers**.
 
 **Do not create a new record** if your item has one of these differences. If your item has _more than one_ of these differences, you must decide if a new record is necessary.
@@ -55,7 +55,7 @@ Example 1: You are looking at RISM ID number 1001031016: Beethoven, "Adelaide," 
 
 Example 2: You are looking at RISM ID number 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
 
-1. Copy 1: Same title but a label has been stuck over the publication information: Köln, P.J. Simrock. You can see that the label is covering up the Bonn/Köln information. **New record required** (different publication status/label indicates a different publisher). Result: 1001141767
+1. Copy 1: Same title but a label has been stuck over the publication information: Köln, P.J. Simrock. Simrock. You can see that the label is covering up the Bonn/Köln information. **New record required** (different publication status/label indicates a different publisher). Result: 1001141767
 
 Example 3: You are looking at RISM 990024126: Gyrowetz, Symphonies, op. 9. The RISM record represents a set of multiple symphonies. Each symphony is available as a separate publication with separate plate numbers, issued as _livres_ 1, 2, and 3.
 
@@ -106,7 +106,7 @@ Standard RISM rules for generic titles apply (see **Standardized title (240)**),
     - Additional title: 6 Masses
 
   - RISM ID no. 993000147
-    - Title on source: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. Stimmen. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
+    - Stimmen. Title on source: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
     - Standardized title: Preussische Festlieder, Teil 2
 
 
@@ -142,7 +142,7 @@ The field **Title on source (245)** will often mention multiple parts or several
 - Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
-- Divine harmony. Six select anthems … (Divine harmony. The 2|d collection being select anthems ...)
+- Divine harmony. Six select anthems … (Divine harmony. (Divine harmony. The 2|d collection being select anthems ...)
 
 The field **Plate number (028)** will list multiple plates, with successive plate numbers in parentheses:
 - 1192
@@ -177,4 +177,4 @@ Record splits and mergers can only be carried out by the Editorial Center and ar
 
 #### Printed editions from Series B
 
-The Editorial Center carried out automated imports for the entries in A/I and B/I. While further automated imports are not planned for other volumes in series B, it is welcome and desirable for RISM contributors to add editions found in B volumes by hand. When so doing, fill in the field **RISM series (510)** to indicate what series the edition is in. Notify the Editorial Center of such additions so that we can add other holding libraries in accordance with the descriptions in the B volumes.     
+The Editorial Center carried out automated imports for the entries in A/I and B/I. The Editorial Center carried out automated imports for the entries in A/I and B/I. While further automated imports are not planned for other volumes in series B, it is welcome and desirable for RISM contributors to add editions found in B volumes by hand. When so doing, fill in the field **RISM series (510)** to indicate what series the edition is in. Notify the Editorial Center of such additions so that we can add other holding libraries in accordance with the descriptions in the B volumes.     

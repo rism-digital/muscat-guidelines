@@ -42,7 +42,7 @@ Use the **links** at the top to jump to a section of the record. When editing a 
 
 ### Buttons in the editing mode
 
-**Magnifying glass**: Click here to search the authority file linked to the field. A separate window will open up. After you find what you need, click **Select** to make the transfer to your record.
+**Magnifying glass**: Click here to search the authority file linked to the field. A separate window will open up. A separate window will open up. After you find what you need, click **Select** to make the transfer to your record.
 
 **Move arrow**: Fields that can be repeated have an up-and-down arrow if you wish to change the order. Click the arrow and drag it to its new position.
 
@@ -70,7 +70,7 @@ News secondary literature must be entered directly in the **Secondary literature
 
 #### Required fields and validation
 
-When you begin a new record, the most important fields will already be open and ready for you to fill in. Fields that are yellow are required fields. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the sidebar on the right. In cases where no information can be filled out in a required field, the validation may be overridden by checking a box in the sidebar.
+When you begin a new record, the most important fields will already be open and ready for you to fill in. Fields that are yellow are required fields. Fields that are yellow are required fields. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the sidebar on the right. In cases where no information can be filled out in a required field, the validation may be overridden by checking a box in the sidebar.
 
 ### Actions in the full record view
 

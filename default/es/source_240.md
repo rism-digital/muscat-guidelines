@@ -39,13 +39,13 @@ In English, sentence case is preferred. In French, the simplified French rules (
 
 Enter the text incipit as the standardized title for vocal pieces if there is no distinctive title.
 
-If a source consists of a recitative and aria or a scena and aria, the text incipit of the aria is always used as the standardized title. Aplique los mismos principios a casos de recitativo y cavatina, _scena</em> y rondó, o combinaciones similares. If you have a single opera aria from an opera whose title is unknown, enter the text incipit of the aria.
+Aplique los mismos principios a casos de recitativo y cavatina, _scena</em> y rondó, o combinaciones similares. If a source consists of a recitative and aria or a scena and aria, the text incipit of the aria is always used as the standardized title. If you have a single opera aria from an opera whose title is unknown, enter the text incipit of the aria.
 
 With cantatas, on the other hand, the text of the first vocal piece functions as the standardized title, regardless of whether it is a recitative, aria, or chorus.
 
 Sin embargo, utilice el género en el caso de las misas, los réquiem, las obsequias, letanías y composiciones para el Oficio Divino. The same is true for complete operas and oratorios whose titles are unknown.
 
-When entering text incipits, use the orthographic rules of each respective language to dictate use of upper or lower case letters. Utilice mayúscula inicial para los nombres de la deidad (Dios, God, Herr, Dio, Dieu, Signore, Lord, etc.). Omit punctuation marks and repetitions within the incipit. If the item is clearly a translation, enter the standardized title in the original language.
+Utilice mayúscula inicial para los nombres de la deidad (Dios, God, Herr, Dio, Dieu, Signore, Lord, etc.). When entering text incipits, use the orthographic rules of each respective language to dictate use of upper or lower case letters. Omit punctuation marks and repetitions within the incipit. If the item is clearly a translation, enter the standardized title in the original language.
 
 Asegúrese de que el íncipit literario que registra en este campo sea idéntico al ingresado en el campo **Íncipit literario (031 $t)**. With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use the text incipit in its entirety for the text incipit.
 
@@ -74,7 +74,7 @@ Enter the tempo indication if the genre cannot be determined. If none of these o
 ###### Examples
 
 - Voces solistas
-- Coro
+- Cuerdas
 
 #### Special rules
 
@@ -107,7 +107,7 @@ Enter the text incipit of the inserted piece as the standardized title here. In 
 
 If your source has a standardized title that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Standardized title** using the original script. Translations or transliterations are optional and may be added in the field **Additional title (730)**.
 
-#### Reglas especiales:
+#### Tipo especial de fuente (240 $k)
 
 Seleccione el calificador **Arreglo** si la pieza es un arreglo de otra obra.
 
@@ -123,7 +123,7 @@ Este campo registra aspectos formales especiales del documento que resulten rele
 - **Fragments**: if only fragments of the work are present
 - **Variaciones**.
 
-#### Tipo especial de fuente (240 $k)
+#### Tonalidad o modo (240 $r)
 
 **Required if the key can be determined with certainty.**
 
@@ -181,24 +181,24 @@ The following Byzantine church modes are available:
 
 If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
-Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each element of the scoring summary with commas. Ingrese un máximo de cuatro elementos. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
+Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Ingrese un máximo de cuatro elementos. Separate each element of the scoring summary with commas. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
 
 Use los términos de la lista de **Abreviaturas**. Write out any terms that are not contained in this list in full and in English.
 
 Ingrese los grupos de instrumentos en el siguiente orden:
 
-- Instrumentos solistas
+- Voces solistas
 - Coro
 - Instrumento solista
 - Cuerdas
 - Vientos-madera
 - Vientos-metal
-- Cuerdas pulsadas
+- Instrumentos de cuerda pulsada
 - Percusión
 - Instrumentos de cuerda pulsada
 - Bajo continuo
 
-When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Utilice **V** para indicar una parte vocal desconocida e **i** para remitirse a un instrumento desconocido. Also use **V** to group together several different vocal parts, such as **V (8)**. Indique un número desconocido de partes con **(X)**.
+Also use **V** to group together several different vocal parts, such as **V (8)**. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Indique un número desconocido de partes con **(X)**. Utilice **V** para indicar una parte vocal desconocida e **i** para remitirse a un instrumento desconocido.
 
 Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 

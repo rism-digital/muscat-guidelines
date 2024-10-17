@@ -40,13 +40,14 @@ For authors or editors who publish multiple articles about the same composer or 
 
 ###### Examples
 
-- Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
-  → KircherA 2005
-- Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, ed. Armin Kircher (Stuttgart: Carus, 2005).  
-  → KircherE 2005a
 - Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, ed. Armin Kircher (Stuttgart: Carus, 2005). [full score]  
   → KircherE 2005b
 - Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ ed. Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
+  → KircherE 2005c
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, ed. Armin Kircher (Stuttgart: Carus, 2005). [full score]  
+  → KircherE 2005b
+- Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, ed. Armin Kircher (Stuttgart: Carus, 2005).  
+  → KircherE 2005a Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
   → KircherE 2005c
 
 For two or more authors or editors, only the first is used in a short title.
@@ -54,6 +55,7 @@ For two or more authors or editors, only the first is used in a short title.
 ###### Example
 
 - John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893
 
 If no author is named, use 1-2 keywords from the title in its place.
@@ -81,7 +83,7 @@ If only an approximate year of publication is known, add a **ca.** (for circa) w
 
 ###### Example
 
-- Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
+- Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850
 
 For the short titles of well-known encyclopedias or sets, use the well-established abbreviations or terms (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
@@ -98,7 +100,7 @@ A catalog that is published as a part of a larger item, such as an appendix in a
 
 ###### Examples
 
-- A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
+- A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
 - Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
   → KnaA
@@ -133,7 +135,7 @@ Publications that contain the term _thematic catalog_ in their titles are often 
   → PasT
 - Robert Didion and Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_ (Frankfurt: Vittorio Klostermann, 1990).  
   → DidionF 1990
-- Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
+- Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
   → MurányiW 1997
 
 For modern music editions, use the last name of the editor plus the first letter of the last name of the composer. The year refers to the year that the modern edition was published.

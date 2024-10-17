@@ -218,7 +218,7 @@ Volumes that are part of collected works editions or monuments of music are trea
 
 Observe the following fields in particular when cataloging volumes in collected works. We will use [RISM ID no. 1001200051](https://muscat.rism.info/admin/sources/1001200051) as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
 
-- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. Enter all other titles in the field **Variant title on source (246)**.
+- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. iii]. Enter all other titles in the field **Variant title on source (246)**.
 - **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
 - **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
 

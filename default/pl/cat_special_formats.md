@@ -234,7 +234,7 @@ Observe the following when cataloging librettos.
 - **Subject heading (650):** If known, enter the name of the genre for which the libretto was written, such as “Operas” or “Cantatas”. "Librettos" is not necessary.
 - **Language code (041):** Use the field "Language of text" only if the libretto contains notated music with words.
 - **Source type (593):** Select the source type. For the content type, select "Libretto."
-- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p.
+- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. p.
 
 ### Treatises
 
@@ -269,4 +269,4 @@ Specify keyboard arrangements as follows.
 
 ### Sources described in RISM Series B publications not yet in Muscat
 
-There are currently no projects underway by the Editorial Center to systematically add sources described in [RISM's Series B publications](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Nevertheles, RISM contributors are welcome to create new records for such sources. If you add items to Muscat that are described in a B volume, fill out the field **RISM Series (510)** in the Administration section and indicate what book the description was found in. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record.
+There are currently no projects underway by the Editorial Center to systematically add sources described in [RISM's Series B publications](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Nevertheles, RISM contributors are welcome to create new records for such sources. If you add items to Muscat that are described in a B volume, fill out the field **RISM Series (510)** in the Administration section and indicate what book the description was found in. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record.

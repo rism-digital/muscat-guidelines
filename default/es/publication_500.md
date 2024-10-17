@@ -25,5 +25,5 @@ Este campo también se utiliza para definir el método de citación de un catál
 _For YouV_
 - Short title. Nummer
 - YouV. 3 (12 sonatas for recorder with continuo)
-- YouV. 3, no. 1 (1st sonata from the 12 sonatas for recorder with continuo)
 - YouV. 3, no.1/2 (2nd movement only of the first sonata from the 12 sonatas for recorder with continuo)
+- YouV. 3, no. 1 (1st sonata from the 12 sonatas for recorder with continuo)

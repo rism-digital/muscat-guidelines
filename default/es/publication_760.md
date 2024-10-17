@@ -2,7 +2,7 @@
 
 The field **Item part of** is used to link the item to a larger unit, such as linking an article to a periodical, or a chapter to a yearbook, or a book to a series. Larger units must be in Muscat before they can be linked.
 
-#### Item parte de (760)
+#### Título del periódico, libro o serie (760 $t)
 
 Escriba el título del periódico, libro o serie. This field is linked to the **Secondary literature** database through $0.
 

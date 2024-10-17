@@ -40,7 +40,7 @@ Missing parts should be entered in the field **General note (500)**.
 
 - vl only
 - Coro S, A, B only
-- vol. 1, 3 only
+- vol. vol. 1, 3 only
 - complete
 
 #### Shelfmark (852 $c)
@@ -55,7 +55,7 @@ In records for printed music, the phase **[no indication]** has been automatical
 
 - Ms Mus 165/6
 - Mus.ms. 743
-- Th.mus.A 5
+- Th.mus. A 5
 - P 7 G 359
 - Vm\|1 805
 - [without shelfmark]

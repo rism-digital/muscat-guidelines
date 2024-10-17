@@ -4,7 +4,7 @@
 
 ### Nombres personales
 
-¡No olvide siempre buscar el íncipit antes de ingresar una fuente anónima! ¡[Primero busque por íncipit](https://youtu.be/kKc0zzc8cbo)!
+Los **filtros** de Muscat permiten hacer búsquedas simples pero poderosas.
 
 Los **filtros** de Muscat permiten hacer búsquedas simples pero poderosas.
 
@@ -12,7 +12,7 @@ Los **filtros** de Muscat permiten hacer búsquedas simples pero poderosas.
 - Multiple words:  
   either without quotations mark: **lass noch**   
   or with quotation marks: **"lass noch"**
-- Truncation with ? or \*  
+- Truncation with ? Truncation with ? or \*  
   **?**: The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
   **\***: The asterisk can be used to truncate or replace any number of letters. **B\*cher** encontrará Bucher y Bacher pero también Boucher y Bötticher.
 - AND, OR, NOT, (): Aproveche las ventajas de la búsqueda booleana. Use paréntesis para agrupar su búsqueda. _Ejemplos_:

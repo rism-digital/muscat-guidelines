@@ -26,13 +26,13 @@ Introduzca un número o código estándar cancelado o no válido.
 
 Introduzca una URI procesable y analizable por máquina que identifique un nombre o etiqueta para la institución.
 
-#### Agencia de autoridad (024 $2)
+#### Objeto del mundo real URI (024 $1)
 
-Objeto del mundo real URI (024 $1)
+Ingrese la URI que identifica la institución.
 
 #### Número o código estándar (024 $a)
 
-Ingrese la URI que identifica la institución.
+Seleccione una de las siguientes opciones:
 
 - **ISIL**: International Standard Identifier for Libraries and Related Organisations
 - **BNE**: Biblioteca Nacional de España

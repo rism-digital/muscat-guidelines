@@ -7,7 +7,7 @@ The field **Special production technique** is for the physical description infor
 Indicate the technique used in the production of the source here. If you need any term not on the list, contact the Editorial Center.
 
 - **Autography**: Transfer printing (not to be confused with autograph manuscripts).
-- **Escrito mecanografiado**
+- **Impreso de computadora**
 - **Impreso de computadora**
 - **Litografía**
 - **Grabado**

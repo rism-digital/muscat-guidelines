@@ -26,7 +26,7 @@ Special cases:
 - Figured bass: If you have a figured bass, enter the instrument followed by **.fig**, such as **b.fig**, **bc.fig**, **org.fig**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
 - Instrument not on the RISM instrument abbreviation list: write out the instrument in full.
 - Unusual instruments, designations, or tunings (such as **cor in D\|x**) may be written out in full; however, in the field **Total scoring (594)**, try to standardize the instrument to RISM's instrument abbreviation list if possible (such as **cor in E\|b**).
-- Keyboard part with text: Enter using English **pf with text** (or **org with text**, **keyb with text**, etc.). The same thing is entered in the incipit field **Voice/instrument (031 $m)**.
+- Example: **tr 1 and 2** If a part contains the music for multiple instruments, use **and**.
 - In partbooks of the 15th and 16th centuries, it is sometimes the case that a part appears in a partbook that differs from the partbook’s label, such as a Tenor 2 part that is printed in a Quinta vox (V 5) partbook. In this field, you can indicate where each part is found by using an equals sign.  
   Example:  
   Partbooks are S, A, T, B, V 5. V 5 contains a T 2 part.  
@@ -83,5 +83,5 @@ Additional information (brief remarks) about such things as the number or incomp
 - **(= bc)**: part is a basso continuo part
 - **(incpl)**: part is incomplete
 - Use a **/** (slash) to join two elements: **bc (2x/incpl)**
-- If a part contains the music for multiple instruments, use **and**. Example: **tr 1 and 2**
+- If you have multiple copies of the same part, write the number and then include the extent for each part. Example: **S (2x)**
 - You can include the tuning: **cl 1, 2 in B\|b**  
