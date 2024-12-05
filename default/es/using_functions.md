@@ -1,34 +1,36 @@
 ### La barra de menú superior
 
+After you log into Muscat, access is granted to different Muscat areas through the various points on the top menu bar.
+
 **Administration** links to the MARC configuration, which lets you view all the MARC fields used in Muscat (sources plus authority files)
 
-El botón de  **Idioma**  permite cambiar el lenguaje de Muscat.
+**Language** allows you to switch the language of the Muscat interface.
 
-El **Panel de actividad** muestra los registros que ha editado recientemente en Muscat.
+The **Dashboard** displays the latest Muscat version information, your newest Muscat records, and your comments on records.
 
-El botón de  **Comentarios**  permite ver todos los comentarios agregados a los registros de Muscat. Cualquier usuario puede ver los comentarios de todos los demás y comentar en cualquier registro. Comments can be added to any kind of record throughout Muscat. You can only add comments through the full record view. Nombre a otros usuarios tipeando @ más su nombre para incluirlos en la conversación.
+The **Comments** page displays all comments on Muscat records. Comments can be added to any kind of record throughout Muscat. You can only add comments through the full record view. Name other users by typing **@** plus their name, and they will receive a notification by email.
 
-**Folders** allow you to see all folders created by Muscat users.
+The **Folders** page displays all folders created by Muscat users. Records in Muscat can be placed into folders, and the folders can be shared among users or used to organize searching and editing work.
 
-The **Sources** page is the main cataloging page in Muscat and contains the bibliographic records that describe all of the musical sources in Muscat.
+The **Sources** page is the main cataloging page in Muscat and contains the all of the bibliographic records that describe the musical sources in Muscat.
 
-El botón de  **Autoridades**  lo lleva a todos los archivos de autoridades, vocabulario controlado e índices en Muscat. See **General cataloging guidelines: Authorities** for more information.
+El botón de  **Autoridades**  lo lleva a todos los archivos de autoridades, vocabulario controlado e índices en Muscat.
 
-El botón de  **Lineamientos**  permite consultar todos los lineamientos en una sola página. Es donde estamos ahora.
+The **Guidelines** page displays all the guidelines on one page.
 
 ### Secciones y acciones en el modo de edición
 
-Esta sección trata sobre las acciones que se pueden realizar cuando se edita el registro de una fuente.
+This section describes actions you can take when editing a source record.
 
 La columna de navegación a la derecha permite saltar a secciones específicas del registro, guardar y ver su trabajo.
 
-Use los  **enlaces**  en la parte superior para saltar a una sección del registro. When editing a single section, your work will be retained if you jump to a different section or if you click on **Show all sections**. (But remember to save your work before leaving the editing mode!)
+Fields in a Muscat record are grouped into sections. By clicking on the section link, you can jump directly to a different section of the record.
 
-El botón  **Mostrar todas las secciones**  permite ver todas las secciones del registro. This is useful for when you want to return to editing the full record after working on a specific section.
+**Show all sections** lets you view all sections of the record on one page.
 
-El botón  **Mostrar vista preliminar ** permite ver el registro sin guardar. Para volver al modo de edición, haga click en  **Esconder vista previa.**
+**Show preview** lets you view the record. Para volver al modo de edición, haga click en  **Esconder vista previa.</strong>
 
-**Cesto de basura** : Borre un campo haciendo click en el cesto de basura.
+**Validate** checks for errors in the record that prevent saving.
 
 El botón  **Guardar y continuar editando**  permite guardar su trabajo y seguir en el modo de edición. Save frequently to prevent you from losing your work. After a record is first saved, the RISM ID number is assigned automatically.
 
@@ -38,51 +40,51 @@ El botón  **Guardar y cerrar**  lo lleva de regreso a la pantalla anterior desp
 
 El botón  **Mostrar historial de modificaciones**  permite ver, restaurar y borrar versiones previas del registro. Click **Show all sections** again to return to the editing mode and any unsaved changes.
 
-**Attach a new image** lets you upload small images (usually watermarks, handwriting samples, or bindings) to attach to your records. Puede acceder a las imágenes cargadas en el menú  **Autoridades ** \>  **Imágenes.**
+**Attach a new image** lets you upload small images (typically watermarks, handwriting samples, or bindings) to attach to your records. Puede acceder a las imágenes cargadas en el menú  **Autoridades ** \>  **Imágenes.**
 
 ### Botones del modo de edición
 
 **Magnifying glass**: Click here to search the authority file linked to the field. Se abrirá una ventana aparte. Después de encontrar lo que necesite, haga click en  **Seleccionar**  para hacer la transferencia de la selección a su registro.
 
-**Move arrow**: Fields that can be repeated have an up-and-down arrow if you wish to change the order. Click the arrow and drag it to its new position.
+**Move arrow**: Fields that can be repeated have an up-and-down arrow if you wish to change the order. Click the arrow and drag the field to its new position.
 
-**Question mark (?)**: Click ? to display the RISM guidelines for this field. to display the RISM guidelines for this field.
+**Question mark (?)**: Click ? to display the RISM guidelines for this field. to display the RISM guidelines for the field.
 
-**Plus (+) and minus (-) signs**: Fields that may be repeated have a plus sign (+). Haga click en el + para crear un nuevo registro vacío. Fields may be reordered in this section by clicking and dragging them. Click the - to delete a field.
+**Plus (+) and minus (-) signs**: Fields that may be repeated have a plus sign (+). Haga click en el + para crear un nuevo registro vacío. Click the - to delete a field.
 
 **Trash can**: Delete a field by clicking on the trash can.
 
 **Show/hide arrow**: Click on the arrow to expand or collapse fields.
 
-**Add a group**: This button is found at the bottom of the section **Material description**. With different groups, you can associate different dates, formats, watermarks, names, institutions, etc. with different types of sources (or however you choose to describe your material). Some of these fields, such as **Additional personal name (700)**,**Additional institution (710)**, and **General note (500)**are also found elsewhere in the Sources template. Use your best judgment to decide where to place such information: does it apply to the entire source, or just this group of material?
+**Add a group**: This button is found at the bottom of the section **Material description**. Material groups allow you to associate different dates, formats, watermarks, names, institutions, etc. with different types of sources. For example, you can describe autograph material separately from other handwritten materials, or you may wish to describe scores and parts in separate groups. Some fields, such as **Additional personal name (700)**, **Additional institution (710)**, and **General note (500)**, are also available elsewhere in the Sources template.
 
 ### Otras funciones en el modo de edición
 
 #### Autocomplete
 
-If you see a field that contains a key, the field is linked to the authority file or index. Begin typing and use the autocomplete to help you.
+Field that contain a key are linked to an authority file or index. Begin typing and use the autocomplete to help you.
 
 #### Adding new names, titles, subject headings, etc.
 
-If you do not find what you need in the authority files, simply enter the name or term you need. Once you click to a different field, an orange border appears around the fields and you will see a checkbox that reads "Confirm the insertion of a new value." Haga click en esta casilla para confirmar. For personal names, a field called **Life dates** will appear. Fill this out if you can because it helps the Editorial Center create a new authority record. Al guardar, el nombre o título será añadido automáticamente al archivo de autoridades. See also **General Cataloging Guidelines** under **Personal names.**
+If you do not find what you need in the authority files, a new term can be added. Simply enter the name or term you need. Once you click to a different field, an orange border appears around the field and you will see a checkbox that reads "Confirm the insertion of a new value." Haga click en esta casilla para confirmar. After you save the record, the new term will appear in the authority file. For personal names, a field called **Life dates** will appear. Fill this out if you can because it helps the Editorial Center complete the new authority record. See also **General cataloging guidelines** under **Personal names.**
 
-News secondary literature must be entered directly in the **Secondary literature** database.
+New secondary literature must be entered directly in the **Secondary literature** database.
 
 #### Required fields and validation
 
-When you begin a new record, the most important fields will already be open and ready for you to fill in. Los campos en amarillo son campos requeridos. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the sidebar on the right. In cases where no information can be filled out in a required field, the validation may be overridden by checking a box in the sidebar.
+When you begin a new record, the most important fields will already be open and ready for you to fill in. Los campos en amarillo son campos requeridos. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the right-hand havigation sidebar.
 
 ### Actions in the full record view
 
-**Crear** : este botón lleva a la página de selección de plantillas desde la cual puede crear un nuevo registro.
+This section describes actions you can take when viewing the full record.
 
-**Crear** : este botón lleva a la página de selección de plantillas desde la cual puede crear un nuevo registro.
+**Create:** Go to the template selection page from which you can create a new record.
 
-**Regresar a la lista** : este botón lo lleva de regreso a la lista de todas las fuentes musicales.
+**Return to the list:** This brings you back to the Sources page.
 
-**Edit:** If you have permissions to edit the record, you will see this edit button.
+**Edit:** If you have permissions to edit the record, you will see an edit button.
 
-**Duplicate**: In the full record view, a record may be copied by clicking on the Duplicate button.
+**Duplicate**: Any record may be copied by clicking on the Duplicate button.
 
 ### Merging records
 
@@ -92,7 +94,7 @@ Duplicate authority records can be merged by the Editorial Center. During the pr
 
 2. In the editing mode of the deprecated record, set the Record Status to "Unpublished" at the bottom and save.
 
-3. On the Institutions search page, perform a search so that the two records are on the same page of results.
+3. On the search page of the authority file, perform a search so that the two records are on the same page of results.
 
 4. Select the two you want to merge by clicking the checkbox to the left of the record.
 
@@ -100,12 +102,12 @@ Duplicate authority records can be merged by the Editorial Center. During the pr
 
 6. A popup message will appear that says, "Should [the deprecated record] really be merged into [the target record]?" This is the action that takes links in the unpublished record and sends them to the target. This is the action that takes links in the unpublished record and sends them to the target. Click OK.
 
-7. Now a message appears that says, "Successfully merged Institution [deprecated record] into [target record]!"
+7. Now a message appears that says, "Successfully merged \[Name of authority file\] \[deprecated record\] into [target record]!"
 
 8. You can confirm that this worked by viewing the unpublished, deprecated record, which will have 0 sources attached to it. The target record will have its previous records plus the new records attached to it from the merge. (It might take a moment for Muscat to reindex before this is displayed on the search page, but the full record views are correct.) Now you can delete the unpublished, deprecated record. Now you can delete the unpublished, deprecated record.
 
 Note:
-- In the Modification History for the linked sources, the change will be displayed like this: "Institution change id from 51000870 to 40009964"
+- In the Modification History for the linked sources, the change will be displayed like this: "[Authority file] change id from 51000870 to 40009964"
 - Only two records at a time can be merged.
 - Only authority records can be merged, not Sources.
 - As a protection against accidental deleting, autority records that are linked to other authority records cannot be deleted. Before merging, make sure that the target record has all of the information you need from the deprecated record. Delete any references to other authority records.  
