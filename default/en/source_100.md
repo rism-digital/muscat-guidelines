@@ -10,7 +10,7 @@ sense, of the source.
 Enter the name of the person responsible for the work. This may be the composer (for music manuscripts and printed
 music), librettist (for librettos), or author of a work of music theory (for treatises).  
 
-This field is linked to the **Personal names** authority file through $0 and the life dataes are displayed $d. Names not yet in the authority file may be added. In such cases, check the box "Confirm
+This field is linked to the **Personal names** authority file through $0 and the life dates are displayed $d. Names not yet in the authority file may be added. In such cases, check the box "Confirm
 the insertion of a new value" and add the person's life dates, if known, in the field **Life dates (100 $d)**. The new name,
 including life dates, will be confirmed and edited by the Editorial Center.  
 
@@ -18,10 +18,10 @@ If the source has multiple composers, select one to be entered in this field and
 
 If the source is anonymous but you can determine the composer, enter the composer's name and select the appropriate attribution qualifier. If you cannot determine the composer, enter the name **Anonymus** but omit an attribution qualifier. The name **Compilations** is entered for pasticcios or compilations.
 
-#### Attribution qualifier (100 $j)
+#### Attribution qualifier (100 $j)  
 
 Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not,
-leave blank.  
+leave blank.   
 
 If you enter the composer as **Anonymus,** do not enter an attribution qualifier.  
 
