@@ -13,16 +13,14 @@ Los registros madre de colección no pueden albergar registros madre de colecci�
 When cataloging collections, note that:
 
 1. La entrada principal de la colección (registro madre) debe contener información que aplique a toda la colección.
-2. Any information that is relevant only for some sections of the collection should be entered in the individual entry or entries.
+2. Any information that is relevant only for some sections of the collection should be entered in the child record.
 
 Si las obras de la colección son de distintos compositores o presentan diferente plantilla/orgánico, tipo de fuente, etc., no ingrese estos datos en el registro madre.
-
-En el caso de colecciones compuestas por obras muy similares entre sí, es una buena estrategia crear una primera entrada con todos los datos correspondientes a una obra y usar la función “Duplicar” para copiar el registro. Luego, para los registros siguientes sólo restará cambiar campos tales como el título y el número de páginas.
 
 
 ### Composite volumes
 
-Un **Volumen compuesto** es un volumen integrado por documentos que fueron creados por separado y encuadernados juntos posteriormente, usualmente por un propietario o una institución. There are many other names for such volumes in English: binders' collections, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volumes, recueils factices, Sammelband, tract volume. En este conjunto se incluyen tanto los volúmenes en los que una suma de ítems impresos fue encuadernada en conjunto, como también aquellos en los que piezas impresas aparecen encuadernadas junto a manuscritos.
+Un **Volumen compuesto** es un volumen integrado por documentos que fueron creados por separado y encuadernados juntos posteriormente, usualmente por un propietario o una institución. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. En este conjunto se incluyen tanto los volúmenes en los que una suma de ítems impresos fue encuadernada en conjunto, como también aquellos en los que piezas impresas aparecen encuadernadas junto a manuscritos.
 
 Hay dos maneras de señalar la presencia de volúmenes compuestos. La primera y más simple consiste en dar a los ítems la misma signatura; también resulta útil una nota de encuadernación. La segunda forma consiste en utilziar la plantilla para volúmenes compuestos.
 
