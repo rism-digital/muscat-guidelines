@@ -74,7 +74,7 @@ If the arranger of a composition was also the copyist, select **Manuscript copy*
 
 If your source is a mechanical reproduction (such as a photocopy) of a manuscript, follow these steps:
 
-1\. Select  **Autograph manuscript**, **Manuscript copy**, etc. as it applies to the original source.
+3\. Select an appropriate printing technique from **Special production technique (340 $d)**, such as **Typescript** for typewritten items or **Computer printout** for computer-generated materials.
 
 2\. Select the type of reproduction in the field  **Special production technique (340 $d)**.
 
@@ -86,6 +86,6 @@ If your source is typewritten or computer generated, follow these steps:
 
 2\. Select **Autograph manuscript** if the composer or author created the document themselves. Select **Manuscript copy** if someone other than the composer or author created the document themselves.
 
-3\. Select an appropriate printing technique from **Special production technique (340 $d)**, such as **Typescript** for typewritten items or **Computer printout** for computer-generated materials.
+4\. Add an explanatory note in the field **General note (500)**.
 
-4\. Add an explanatory note in the field **General note (500)**.  
+1\. Add an explanatory note in the field **General note (500)**.  

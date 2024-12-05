@@ -6,7 +6,7 @@ The field **Subject heading** is for the genre of the piece or other relevant ke
 
 **Campo requerido.**
 
-Ingrese palabras clave o términos relativos al género de la pieza en este punto. This field is linked to the index **Subjects** through $0.
+Ingrese palabras clave o términos relativos al género de la pieza en este punto. This field is linked to the index **Subject headings** through $0.
 
 La palabra clave debe aplicar a la obra en su totalidad o a la obra original sobre la que se basa la pieza, incluso en el caso de los arreglos, los extractos o los movimientos sueltos. En el caso de las secciones de obras vocales mayores, ingrese tanto el género del extracto en cuestión (por ejemplo, _Arias_, _Marches_) como el de la obra completa.
 

@@ -13,8 +13,8 @@ For names originally written using non-Latin scripts, enter the transliterated f
 - Telemann, Georg Philipp
 - Joo Su-won
 - Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
-- A. C.
-- Copyist C. H. Graun IX (Blechschmidt)
+- A. A. C.
+- Copyist C. H. Copyist C. H. Graun IX (Blechschmidt)
 
 #### Religious order/Title (100 $c)
 
@@ -71,4 +71,4 @@ The full life dates, including month and day, may be entered here. Enter concret
 ##### Examples
 
 - 22.11.1879-31.12.1967
-- fl. 1732-1735
+- fl. fl. 1732-1735

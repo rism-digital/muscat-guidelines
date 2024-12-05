@@ -1,11 +1,11 @@
 ### Dupliziert von (981)
 
-Das Feld **Dupliziert von** ist ein automatisiertes Verwaltungsfeld, das verwendet wird, wenn ein Datensatz aus einem bereits in Muscat existierenden Datensatz dupliziert wird.
+The field **Duplicated from** is an automated administrative field that is used when a record is duplicated from an already existing record in Muscat. When a record is duplicated from a record that itself was created from the duplication process, the field documents a maximum of five duplication occurrences: the original record and the most recent four.
 
 #### Originaleintrag (981 $0)
 
-Wenn ein Katalogisierer einen Quellendatensatz dupliziert, wird die RISM-ID des Originaldatensatzes automatisch in dieses Feld eingegeben.
+When a cataloger duplicates a record in Secondary Literature, the RISM ID of the original record is automatically entered into this field.
 
 #### Datum (981 $d)
 
-Wenn ein Katalogisierer einen Quellendatensatz dupliziert, wird das Datum und die Uhrzeit der Duplikation automatisch in dieses Feld eingegeben. Das Format ist JJJJ-MM-TT HH:MM:SS.
+When a cataloger duplicates a record in Secondary Literature, the date and time of when the duplication took place is automatically entered into this field. Das Format ist JJJJ-MM-TT HH:MM:SS.

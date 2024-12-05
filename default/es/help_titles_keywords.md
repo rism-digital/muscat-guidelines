@@ -14,14 +14,14 @@ En lo sucesivo se presentan algunos ejemplos y sus correspondencias, para los si
 
 Aquí hay algunos ejemplos para situaciones especiales:
 
-1. Un popurrí cuya música proviene de una sola ópera:  
-   ¡No necesita esta lista! Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**. Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas** , etc. según corresponda).
+1. Un popurrí cuya música proviene de varias óperas:  
+   Use  **_Potpourri _** como título uniforme. Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
 
 2. Un arreglo de melodía de coral donde el incipit de texto es desconocido:  
    Use **Chorale arrangements** tanto como Título uniforme y como Descriptor.
 
-3. Un popurrí cuya música proviene de varias óperas:  
-   Use  **_Potpourri _** como título uniforme. Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+3. Un popurrí cuya música proviene de una sola ópera:  
+   ¡No necesita esta lista! Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas** , etc. según corresponda). Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**.
 
 4. A potpourri where you know that the music comes from several operas:  
    Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
@@ -132,7 +132,7 @@ Standardized title — Corresponding subject heading
 
 Standardized title — Corresponding subject heading
 - Arpeggios — Arpeggios (inst.)
-- Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadences — Cadences (inst.) Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
 - Cadenzas — Cadenzas (voc.)
 - Exercises — Exercises (inst.)
 - Exercises — Exercises (voc.)
