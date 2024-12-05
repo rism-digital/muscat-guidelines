@@ -487,8 +487,6 @@ chapters:
     helpfile: "help_titles_keywords"
   - guidelines_title: "aid_texts"
     helpfile: "help_texts_sacred_works"
-  - guidelines_title: "aid_lit"
-    helpfile: "aid_liturgical"
   - guidelines_title: "aid_figured"
     helpfile: "help_figured_bass"
   - guidelines_title: "aid_transpose"
