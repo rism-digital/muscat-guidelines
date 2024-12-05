@@ -6,7 +6,7 @@ The field **Subject heading** is for the genre of the piece or other relevant ke
 
 **Required field.**
 
-Enter subject keywords or genre terms here. This field is linked to the index **Subjects** through $0.
+Enter subject keywords or genre terms here. This field is linked to the index **Subject headings** through $0.
 
 The keyword should apply to the entire work or the original work on which a piece is based, even in the case of arrangements, excerpts, or single movements. In the case of sections of larger vocal works, enter the genre of the excerpt in question (such as Arias, Marches) as well as that of the entire work.
 
