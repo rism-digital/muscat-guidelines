@@ -4,7 +4,7 @@ The field **Authority reference** is used to record the standard number or code 
 
 #### Referencia de la autoridad (024 $a)
 
-Enter the alphanumeric code used to identify the institution. El código se toma de los datos de autoridad de la agencia creadora.
+Enter the alphanumeric code used to identify the institution. El código se toma de los datos de autoridad de la agencia creadora. Examples of the formatting are given below.
 
 #### Condiciones de disponibilidad (024 $c)
 
@@ -37,6 +37,7 @@ Seleccione una de las siguientes opciones:
 - **ISIL**: International Standard Identifier for Libraries and Related Organisations
 - **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
+ - Example: ark:/12148/cb12229245w
 - **DNB**: Deutsche Nationalbibliothek
 - **ICCU**: Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI**: International Standard Name Identifier
