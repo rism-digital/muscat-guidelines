@@ -14,9 +14,9 @@ chapters:
     - guidelines_title: "cat_language"
       helpfile: "cat_language"
     - guidelines_title: "cat_collections"
-      helpfile: "cat_collections"
+      helpfile: "cat_special_formats"
     - guidelines_title: "cat_templates"
-      helpfile: "cat_templates"
+      helpfile: "cat_new_record"
     - guidelines_title: "cat_authorities"
       helpfile: "cat_authorities"
     - guidelines_title: "scope_printed_music"
@@ -407,7 +407,7 @@ chapters:
           helpfile: "publication_024"
           index: true
         - title: "041"
-          helpfile: "catalogue_041"
+          helpfile: "publication_041"
           index: true
         - title: "044"
           helpfile: "publication_044"
