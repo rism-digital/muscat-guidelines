@@ -24,12 +24,12 @@ This also might be a screen resolution issue. See \#3, above.
 
 #### 5. My screen is gray and all I see is an hourglass.
 
-This happens when you are searching in the indexes. Check to see if another window is open. From that window, navigate
+This happens when you are searching in the indexes and have switched windows or tabs. Check to see if another window is open. From that window, navigate
 back to the main screen.
 
 #### 6. My incipit seems to have stalled.
 
-Try clicking the "refresh" arrows, or save your record and try entering the incipit again.
+Try clicking the "refresh" arrows next to the music staff, or save your record and try entering the incipit again.
 
 #### 7. I get the error message: "Error saving page: this is a stale version"
 

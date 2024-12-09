@@ -70,6 +70,10 @@ In some cases, such as with a partial autograph, an explanatory note in the fiel
 
 If the arranger of a composition was also the copyist, select **Manuscript copy** and not  **Autograph manuscript**.
 
+##### Other forms of notation    
+
+Use **Notated music** as a **Content type** for documents that can be considered performance material, even if they do not use staff notation. This includes graphic notation, letter notation, number notation, and documents that only consist of performance instructions.     
+
 ##### Photocopies  
 
 If your source is a mechanical reproduction (such as a photocopy) of a manuscript, follow these steps:
@@ -84,7 +88,7 @@ If your source is typewritten or computer generated, follow these steps:
 
 1\. Select a template for a handwritten item.  
 
-2\. Select **Autograph manuscript** if the composer or author created the document themselves. Select **Manuscript copy** if someone other than the composer or author created the document themselves.
+2\. Select **Autograph manuscript** if the composer or author created the document themselves. Select **Manuscript copy** if someone other than the composer or author created the document.
 
 3\. Select an appropriate printing technique from **Special production technique (340 $d)**, such as **Typescript** for typewritten items or **Computer printout** for computer-generated materials.
 

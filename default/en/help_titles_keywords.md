@@ -1,50 +1,19 @@
 ### Standardized titles – Subject headings
 
-This section refers to cataloging situations where genres are used as standardized titles (refer to the guidelines for **Standardized title (240)**). In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
+This section expands on the guidelines for **Standardized title (240)** in cataloging situations where genres are used as standardized titles. In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.  
 
-Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words (**voc.**) or (**inst.**) after the term in parentheses. Specifications such as (dances) or (stage) may also be added in parentheses after the main term.
+A variant subject heading is used in the following situations:  
+- If the same subject heading can be used in both vocal and instrumental genres, an abbreviation in parentheses is added after the genre: **(voc.)** or **(inst.)**, respectively.
+- Specifications such as **(dances)** or **(stage)** may also be added in parentheses after the main term.  
 
-Below are some examples, followed by correspondences for the following kinds of standardized titles:
+Below are lists of standardized titles and their corresponding subject headings. The lists are not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English and in the plural) and not in translation. Note the special situations at the end.
 
+Contents:
 - General instrumental and vocal music
 - Sacred vocal music
 - Music for the stage, theater, etc.
 - Exercises, studies, schools, lessons
 - Dances
-
-Here are some examples for special situations:
-
-1. A chorale arrangement where the text incipit is known:   
-   You don't need this list! Use the text incipit as the standardized title and select **Arrangement**. Enter the
-   subject heading **Chorale arrangements**.
-
-2. A chorale arrangement where the text incipit is unknown:   
-   Use **Chorale arrangements** as both the standardized title and subject heading.
-
-3. A potpourri where you know that the music comes from a single opera:  
-   You don't need this list! Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
-
-4. A potpourri where you know that the music comes from several operas:  
-   Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**.
-   For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
-
-5. A potpourri where you do not know what operas the music is from:  
-   Use **Potpourris** as both the standardized title and subject heading.
-
-6. A wind arrangement of music from a stage work where the name of the stage work is known:  
-   Use the name of the stage work as the standardized title and select **Arrangement**. Enter the subject heading **Wind
-   music**.
-
-7. A wind arrangement of music from a stage work where the name of the stage work is unknown:  
-   Use **Wind music** as both the standardized title and subject heading.
-
-8. For **sketches** of unknown compositions, use the distinctive title plus the subject heading **Sketches**. For
-   sketches of known compositions, use the distinctive title of the work and **Sketches** as second subject
-   heading.
-
-9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
-
-The following list gives an idea of what standardized titles have a corresponding subject heading. Note that this list is not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English in the plural) and not in translation.
 
 #### General instrumental and vocal music
 
@@ -138,4 +107,35 @@ Standardized title — Corresponding subject heading
 
 Standardized title — Subject heading  
 - Airs — Airs (dances)  
-- Rounds — Rounds (dances)
+- Rounds — Rounds (dances)  
+
+#### Special situations
+
+1. A chorale arrangement where the text incipit is known:   
+   You don't need this list! Use the text incipit as the standardized title and select **Arrangement**. Enter the
+   subject heading **Chorale arrangements**.
+
+2. A chorale arrangement where the text incipit is unknown:   
+   Use **Chorale arrangements** as both the standardized title and subject heading.
+
+3. A potpourri where you know that the music comes from a single opera:  
+   You don't need this list! Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+
+4. A potpourri where you know that the music comes from several operas:  
+   Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**.
+   For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+
+5. A potpourri where you do not know what operas the music is from:  
+   Use **Potpourris** as both the standardized title and subject heading.
+
+6. A wind arrangement of music from a stage work where the name of the stage work is known:  
+   Use the name of the stage work as the standardized title and select **Arrangement**. Enter the subject heading **Wind music**.
+
+7. A wind arrangement of music from a stage work where the name of the stage work is unknown:  
+   Use **Wind music** as both the standardized title and subject heading.
+
+8. For **sketches** of unknown compositions, use the distinctive title plus the subject heading **Sketches**. For
+   sketches of known compositions, use the distinctive title of the work and **Sketches** as second subject
+   heading.
+
+9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.

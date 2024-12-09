@@ -2,7 +2,7 @@
 
 The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to
 include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the
-highest voice and the first violin or the highest instrumental part. Notate transposing instruments at sounding pitch.
+highest voice and the first violin or the highest instrumental part.
 
 If the notation you need is not available using the Plaine & Easie code, transcribe the music the best you can and
 include an explanatory note. You can attach an image of the incipit from the source for further clarification.  
@@ -58,14 +58,16 @@ is the same, enter it only for the first music incipit.
 #### Voice/instrument (031 $m)
 
 Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal
-part. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Indicate the
-tuning of an instrument in the **General note** field.
+part. Enter **i** for an unknown instrumental part. Indicate the
+tuning of an instrument in the **General note** field. If the instrument is a transposing instrument, you may enter it at notated pitch or at sounding pitch. In the field **General note (031 $q)**, indicate which option you used.
 
 ##### Examples
 
 - pf
 - T coro
 - org with text
+
+**Obsolete procedures**: Older RISM guidelines required music incipits for transposing instruments to be entered at sounding pitch. 
 
 #### Role (031 $e)
 
