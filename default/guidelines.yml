@@ -221,6 +221,8 @@ chapters:
     - guidelines_title: "in_identity"
       model: "institution"
       subsections:
+        - title: "094"
+          helpfile: "institution_094"
         - title: "110"
           helpfile: "institution_110"
         - title: "510"
@@ -238,8 +240,12 @@ chapters:
     - guidelines_title: "in_contact"
       model: "institution"
       subsections:
+        - title: "370"
+          helpfile: "institution_370"
         - title: "371"
           helpfile: "institution_371"
+        - title: "372"
+          helpfile: "institution_372"
     - guidelines_title: "in_description"
       model: "institution"
       subsections:
