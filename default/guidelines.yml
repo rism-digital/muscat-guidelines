@@ -145,6 +145,8 @@ chapters:
           index: true
     - guidelines_title: "edit_references"
       subsections:
+        - source: "588"
+          helpfile: "source_588" 
         - title: "500"
           helpfile: "source_500"
           index: true
