@@ -10,7 +10,7 @@ All of the tutorials are linked on the [RISM Editorial Center's Muscat page](htt
 
 You can contact the Muscat developers to report any errors, questions, comments, or suggestions to [muscat@rism.info](mailto:muscat@rism.info) at any time.  
 
-**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, a Google Group, is the official Muscat discussion list that each Muscat user belongs to. Official announcements from the Editorial Center and the Muscat developers are disseminated solely through this group. In addition, all Muscat users are encouraged to ask questions or raise topics for discussion. A Google account is not required.   
+**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, a Google Group, is the official Muscat discussion list to which each Muscat user belongs. Official announcements from the Editorial Center and the Muscat developers are disseminated solely through this group. In addition, all Muscat users are encouraged to ask questions or raise topics for discussion. A Google account is not required.   
 
 There is also a discussion channel for the RISM community on Slack at:   
 [https://rismcommunity.slack.com/](https://rismcommunity.slack.com/)
