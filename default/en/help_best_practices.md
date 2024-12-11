@@ -8,7 +8,7 @@ If you name a person or institution in your record (such as in a notes field), m
 
 The same applies for citing secondary literature: if you refer to a publication in a notes field, make sure to also enter it in the field **Bibliographic reference (691)**.  
 
-Conversly, make sure that the relevance of an indexed name or institution is clear, such as through an explanation in a notes field.   
+Conversely, make sure that the relevance of an indexed name or institution is clear, such as through an explanation in a notes field.   
 
 #### 2. Citing secondary literature
 
