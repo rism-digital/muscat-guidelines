@@ -32,4 +32,4 @@ Indique la referencia a la pieza dentro de la serie RISM. Tenga en cuenta que ca
 
 #### Reference record ID (596 $c)
 
-Link to the record that corresponds to the ciation in 596 $a and $b. Click on the magnifying glass to search. If the record is not yet in Muscat, contact the Editorial Center.  
+Link to the record that corresponds to the citation in 596 $a and $b. Click on the magnifying glass to search. If the record is not yet in Muscat, contact the Editorial Center.  
