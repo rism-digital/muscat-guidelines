@@ -138,6 +138,8 @@ chapters:
         - title: "563"
           helpfile: "source_563"
           index: true
+        - title: "973"
+          helpfile: "source_973"
     - guidelines_title: "incipit"
       subsections:
         - title: "031"
