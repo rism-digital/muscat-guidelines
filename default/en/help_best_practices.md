@@ -20,7 +20,7 @@ Always use permalinks, in particular when linking to digitized music in the fiel
 
 If you want to link to a website, do not enter the URL in a notes field. Rather, enter the resource as a bibliographic reference. This is done by entering it in the **Secondary literature** authority. Then, link to it in the field **Bibliographic reference (691)** and refer to it by its short title in a notes field. This provides users with access to complete bibliographic information, and if the URL changes then an update is only needed once through the **Secondary literature** database.
 
-For books found on Google Books or other online repositories, always create a bibliographic record in the **Secondary literature** database for the book itself and not the repository; that is, cite the book and not Google Books.  
+For books found on Google Books or other online repositories, always create a bibliographic record in the **Secondary literature** authority for the book itself and not the repository; that is, cite the book and not Google Books.  
 
 For databases cited as secondary literature, as a convenience for our users you may cite the database in the **Bibliographic reference (691)** field and then provide a direct link to the entry in the database through the **External resource (856)** field.
 
