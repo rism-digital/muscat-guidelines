@@ -80,7 +80,7 @@ Enter the tempo indication if the genre cannot be determined. If none of these o
 
 ##### Collections
 
-En este caso, el título se formula con un número más el género (en inglés y en plural, a la manera de los descriptores). Enter an arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.
+En este caso, el título se formula con un número más el género (en inglés y en plural, a la manera de los descriptores). Enter an Arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.
 
 ###### Examples
 

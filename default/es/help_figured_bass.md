@@ -1,6 +1,6 @@
 ### Figured bass in scores and/or other parts
 
-[intro sentence]
+This section offers guidance on which fields should be filled out if you have a figured bass in your score or parts, depending on the instrument.
 
 #### Figured bass, part
 
@@ -28,7 +28,7 @@ The following fields must be filled out as follows if you have a figured bass **
 
 #### Figured bass, score
 
-For a figured bass in a **score**, do the following:
+The following fields must be filled out as follows if you have a figured bass **score**:
 
 ##### Instrument: b
 

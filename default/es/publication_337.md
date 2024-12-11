@@ -10,8 +10,8 @@ Seleccione el tipo de medio de la siguiente lista:
 
 - **CD-ROM**
 - **E-book**
-- **Electronic resource**: such as a database, website, or online catalog of works
-- **Manuscript**: a handwritten document
+- **Electronic resource**: Such as a database, website, or online catalog of works.
+- **Manuscript**: A handwritten document.
 - **Combinación de medios**
 - **Microficha**
 - **Microfilm**

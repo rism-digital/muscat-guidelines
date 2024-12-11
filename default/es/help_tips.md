@@ -1,14 +1,14 @@
 ### How do I ...? Tips & tricks Tips & tricks
 
-#### 1. How can I add images?
+#### 1. How can I add images to a record?
 
-Small images such as watermarks, handwriting samples, or bindings can be attached to the record directly from the editing mode: click on **Attach a new image** on the menu on the right.
+Small images such as watermarks, handwriting samples, or bindings can be attached to the record directly from the editing mode: click on **Attach a new image** on the menu on the right. See the section **Digital objects** for more details.
 
-Images such as digitized resources should only be added as links that link to the holding repository. These are added in the field **External resource (856)**.
+Images such as digitized resources should only be added as URLs that link to the holding repository. These are added in the field **External resource (856)**.
 
-#### 2. How can I change the order of {items in a collection, incipits, names, instruments, notes...}?
+#### 2. How can I change the order of fields in my record?
 
-It's quite simple: just click on the arrow and drag! Any repeatable field (designated by a **+** sign) can be organized this way.
+It's quite simple: just click on the arrow and drag up or down. Any repeatable field (designated by a **+** sign) can be organized this way, such as items in a collection, incipits, names, instruments, notes, etc.
 
 #### 3. How can I add special characters?
 
@@ -39,15 +39,15 @@ Muscat folders are visible to all Muscat users. Links to folders can be sent to 
 
 #### 5. How can I export records from Muscat?
 
-There are several ways to export records. Single records can be viewed in XML format by appending .xml to any record's URL in the full record view. You can also create a folder of records and export them in MARCXML or CSV format (see question 4, above).
+There are several ways retrieve Muscat records in various formats. Single records can be viewed in XML format by appending **.xml** to any record's URL in the full record view or by clicking the **Show XML** button from the menu on the right-hand side of the page. The MARC21 format can be displayed by clicking the **Show MARC21** button from the menu. You can also create a folder of records and export them in MARCXML or CSV format (see question 4, above).
 
 #### 6. How can I check for errors in older records?
 
-When viewing one of your own folders, click the "Validate items" link. You will receive an email with a list of validation errors found.
+When viewing one of your own folders, click the **Validate items** link. You will receive an email with a list of validation errors found.
 
 #### 7. How can I include more complex music incipits with my records?
 
-If you create a music incipit in a different format (such as a full score in Sibelius) and convert it to MEI, then you can upload the MEI file to Muscat. Currently, only the Editorial Center can do this; contact us for assistance. This will be displayed as an image in the online catalog. A separate Plaine & Easie incipit would have to be made in order for it to be searchable.
+If you create a music incipit with an external program (such as a full score in Sibelius) and convert it to MEI, the MEI file can be uploaded to Muscat. Currently, only the Editorial Center can do this; contact us for assistance. This will be displayed as an image in the online catalog. A separate Plaine & Easie incipit must be made in order for the incipit to be searchable.
 
 #### 8. How can I delete a record?
 
@@ -55,4 +55,4 @@ Only the Editorial Center can delete a record. Notify the RISM Editorial Center 
 
 #### 9. What if my record is in the wrong template?
 
-Notify the RISM Editorial Center if you need the template of a record to be switched.
+Templates can be changed, but only the Editorial Center can do this. Notify the RISM Editorial Center if you need the template of a record to be switched.

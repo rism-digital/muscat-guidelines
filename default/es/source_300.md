@@ -24,7 +24,7 @@ State the number of items held. Use **X** para indicar un número desconocido de
 
 ##### Format
 
-Use one of the following English terms, in the singluar or plural as appropriate.
+Use one of the following English terms, in the singular or plural as appropriate.
 
 ###### General
 
@@ -95,7 +95,7 @@ La presencia de páginas blancas o de irregularidades en la foliación puede men
 
 - [1] f., VIII, 25 p.
 
-Pages change from roman to arabic numerals
+Pages change from Roman to Arabic numerals
 
 - XII p., p. 13-36
 

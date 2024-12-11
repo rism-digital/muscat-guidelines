@@ -4,7 +4,7 @@ The field **Dissertation note** is used to indicate that the item is a dissertat
 
 #### Nota de disertación (502 $a)
 
-If the item is a doctoral dissertation, enter a statement that includes the type of degree, institution, and year.
+Enter a statement that includes the type of degree, institution, and year.
 
 ##### Examples
 

@@ -44,7 +44,7 @@ Fields in a Muscat record are grouped into sections. By clicking on the section 
 
 ### Buttons in the editing mode
 
-**Magnifying glass**: Click here to search the authority file linked to the field. A separate window will open up. A separate window will open up. After you find what you need, click **Select** to make the transfer to your record.
+**Magnifying glass**: Click here to search the authority file linked to the field. A separate window will open. A separate window will open up. After you find what you need, click **Select** to make the transfer to your record.
 
 **Move arrow**: Fields that can be repeated have an up-and-down arrow if you wish to change the order. Click the arrow and drag the field to its new position.
 
@@ -62,7 +62,7 @@ Fields in a Muscat record are grouped into sections. By clicking on the section 
 
 #### Autocomplete
 
-Field that contain a key are linked to an authority file or index. Begin typing and use the autocomplete to help you.
+Fields that contain a key are linked to an authority file or index. Begin typing and use the autocomplete to help you.
 
 #### Adding new names, titles, subject headings, etc.
 
@@ -72,7 +72,7 @@ New secondary literature must be entered directly in the **Secondary literature*
 
 #### Required fields and validation
 
-When you begin a new record, the most important fields will already be open and ready for you to fill in. Fields that are yellow are required fields. Fields that are yellow are required fields. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the right-hand havigation sidebar.
+When you begin a new record, the most important fields will already be open and ready for you to fill in. Fields that are yellow are required fields. Fields that are yellow are required fields. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the right-hand navigation sidebar.
 
 ### Actions in the full record view
 
@@ -110,4 +110,4 @@ Note:
 - In the Modification History for the linked sources, the change will be displayed like this: "[Authority file] change id from 51000870 to 40009964"
 - Only two records at a time can be merged.
 - Only authority records can be merged, not Sources.
-- As a protection against accidental deleting, autority records that are linked to other authority records cannot be deleted. Before merging, make sure that the target record has all of the information you need from the deprecated record. Delete any references to other authority records.  
+- As a protection against accidental deleting, authority records that are linked to other authority records cannot be deleted. Before merging, make sure that the target record has all of the information you need from the deprecated record. Delete any references to other authority records.  

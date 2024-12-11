@@ -1,6 +1,6 @@
 ### Ubicación (034)
 
-The field **Location** is for the latitude and longitude of an instution. Para ver las coordenadas en _Google Maps, _haga clicl con el botón derecho del ratón en la institución y seleccione "Qué hay aquí".
+The field **Location** is for the latitude and longitude of an institution. Para ver las coordenadas en _Google Maps, _haga clicl con el botón derecho del ratón en la institución y seleccione "Qué hay aquí".
 
 #### Latitude (034 $f)
 

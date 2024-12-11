@@ -13,7 +13,7 @@ Enter the name of the institution. Do not enter the names of publishers in this 
 
 #### Function (710 $4)
 
-Enter the function of the instiution. Seleccione una de las siguientes opciones.
+Enter the function of the institution. Seleccione una de las siguientes opciones.
 
-- **Editor**: Use especially if the item has an institution as an author rather than people.
+- **Editor**: Use especially if the item has an institution as an author rather than a person.
 - **Other function**: All other functions.

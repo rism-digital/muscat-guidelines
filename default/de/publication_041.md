@@ -6,4 +6,4 @@ Das Feld **Sprachcode** ist für die in der Publikation verkommende(n) Sprache(n
 
 Geben Sie die Sprache(n) des Elements an.
 
-Nutzen Sie die aus drei Buchstaben bestehenden ISO 639-2 Abkürzungen:  [http://www.loc.gov/standards/iso639-2/php/code\_list.php](http://www.loc.gov/standards/iso639-2/php/code_list.php)
+The codes used are the three-letter ISO 639-2 abbreviations found on the [Library of Congress website](http://www.loc.gov/standards/iso639-2/php/code_list.php).

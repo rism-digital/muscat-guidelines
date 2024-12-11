@@ -31,7 +31,7 @@ In the holdings information, you can further select from the following:
 
 - **Composite**: This is selected by default.
 
-For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differenciate futher.
+For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differentiate further.
 
 ##### Additional printed or manuscript material
 
@@ -60,7 +60,7 @@ For composite volumes that contain more than one content type, you may also sele
 
 ##### Collections
 
-You may choose the combination of source type and content type that best summarizes the collection as a whole, or multiple material groups may be added for each kind of source. Keep in mind that differenciated information will always be provided in the child record.
+You may choose the combination of source type and content type that best summarizes the collection as a whole, or multiple material groups may be added for each kind of source. Keep in mind that differentiated information will always be provided in the child record.
 
 ##### Composers, arrangers, and copyists
 
@@ -69,6 +69,10 @@ In the case of autograph manuscripts and possible autograph manuscripts, do not 
 In some cases, such as with a partial autograph, an explanatory note in the field  **General note (500)** may be appropriate.
 
 If the arranger of a composition was also the copyist, select **Manuscript copy** and not  **Autograph manuscript**.
+
+##### Other forms of notation
+
+Use **Notated music** as a **Content type** for documents that can be considered performance material, even if they do not use staff notation. This includes graphic notation, letter notation, number notation, and documents that only consist of performance instructions.
 
 ##### Photocopies
 
@@ -84,7 +88,7 @@ If your source is typewritten or computer generated, follow these steps:
 
 1\. Select a template for a handwritten item.
 
-2\. Select **Autograph manuscript** if the composer or author created the document themselves. Select **Manuscript copy** if someone other than the composer or author created the document themselves.
+2\. Select **Autograph manuscript** if the composer or author created the document themselves. Select **Manuscript copy** if someone other than the composer or author created the document.
 
 4\. Add an explanatory note in the field **General note (500)**.
 

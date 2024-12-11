@@ -1,6 +1,6 @@
 ### Nombre personal adicional (700)
 
-The field **Additional personal name** is for editors of the item, additional people involved in the publication, and composers or other people that the publication is about.
+The field **Additional personal name** is for editors of the item, additional people involved in the publication, and composers or other people that the publication treats.
 
 #### Nombre personal adicional (700)
 
@@ -10,11 +10,11 @@ Cosnigne el nombre. This field is linked to the **Personal names** authority fil
 
 Enter the function of the person as related to the item. Seleccione una de las siguientes opciones. The three-letter codes refer to the MARC relator code.
 
-- **Additional author [aut]**: Name additional authors here if the publication has more than one author.
+- **Additional author [aut]**: Use for additional authors if the publication has more than one author.
 - **Associated name [asn]**: Other names such as honoree, name in title, collector, text author, other, etc.
-- **Compositor [cmp]**
-- **Editor [edt]**
-- **Otra función [oth]**
+- **Composer [cmp]**: The composer treated in the item or the composer of the work for music editions.
+- **Editor [edt]**:
+- **Other function [oth]**: All other functions.
 
 ##### Example
 

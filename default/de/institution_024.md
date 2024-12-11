@@ -24,7 +24,7 @@ Enter a canceled or invalid standard number or code.
 
 #### Authority record control number or standard number (024 $0)
 
-Enter a machine actionable and parseable URI that identifies a name or label for the institution.
+Enter a machine actionable and parsable URI that identifies a name or label for the institution.
 
 #### Real World Object URI (024 $1)
 

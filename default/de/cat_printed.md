@@ -96,7 +96,7 @@ Standardized titles should consist of the title of the print up to a natural bre
 
 #### Generic titles
 
-Standard RISM rules for generic titles apply (see **Standardized title (240)**), but bear in mind that even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive titles. Use the field **Additional title (730)** to enter such titles in a standardized form. For guidance, refer to standard reference works such as Grove and MGG, and authority files from the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the component in the original language (but standardized spelling) and the arabic number following the title.
+Standard RISM rules for generic titles apply (see **Standardized title (240)**), but bear in mind that even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive titles. Use the field **Additional title (730)** to enter such titles in a standardized form. For guidance, refer to standard reference works such as Grove and MGG, and authority files from the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the component in the original language (but standardized spelling) and the Arabic numeral following the title.
 
 ##### Examples
 
@@ -116,7 +116,7 @@ If your institution owns multiple copies (exemplars) of the same printed edition
 
 ### Microfilm copies
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Notify the Editorical Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856).
+Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856).
 
 #### Example
 - RISM ID no. 990052954, copy in B-Bc:  
@@ -136,7 +136,7 @@ Today, the online environment allows the flexibility to have one record describe
 
 A record must be split when there is evidence that multiple, distinct printed editions are described in one record. The implication of a distinct edition is that it was conceived as a unit by the publisher and was available on its own on the market. The result is that consumers (and later, libraries) were able to acquire the edition on its own, with or without the other editions in the series or set.
 
-You can recognize the presence of distinct eidtions through conventions such as the following that will appear in the records.
+You can recognize the presence of distinct editions through conventions such as the following that will appear in the records.
 
 The field **Title on source (245)** will often mention multiple parts or several keys:
 - Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3) N|o 1 (2, 3)
@@ -156,7 +156,7 @@ The field **General note (500)** or the **holdings information** will mention mu
 - Multiple editions
 - GB-Lbl (2 verschiedene Ausgaben)
 
-In the **holdings information**, there are usually indications that only a certain part or book is held, and the language of the indication will generally follow the language of the editions's title:
+In the **holdings information** there are usually indications that only a certain part or book is held, and the language of the indication will generally follow the language of the edition's title:
 
 - F-Pc K-733 [libro II]
 - D-F Mus. pr. Q 55/349 [livre 1]
