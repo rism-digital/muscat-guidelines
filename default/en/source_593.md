@@ -31,7 +31,7 @@ In the holdings information, you can further select from the following:
 
 - **Composite**: This is selected by default.  
 
-For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differenciate futher.
+For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differentiate further.
 
 ##### Additional printed or manuscript material  
 
@@ -60,7 +60,7 @@ For composite volumes that contain more than one content type, you may also sele
 
 ##### Collections  
 
-You may choose the combination of source type and content type that best summarizes the collection as a whole, or multiple material groups may be added for each kind of source. Keep in mind that differenciated information will always be provided in the child record.
+You may choose the combination of source type and content type that best summarizes the collection as a whole, or multiple material groups may be added for each kind of source. Keep in mind that differentiated information will always be provided in the child record.
 
 ##### Composers, arrangers, and copyists
 

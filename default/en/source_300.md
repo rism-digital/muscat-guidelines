@@ -24,7 +24,7 @@ State the number of items held. Use **X** to indicate an unknown number of items
 
 ##### Format  
 
-Use one of the following English terms, in the singluar or plural as appropriate.  
+Use one of the following English terms, in the singular or plural as appropriate.  
 
 ###### General
 
@@ -102,7 +102,7 @@ Foreword is numbered I-VIII, followed by 25 pages of music
 
 - [1] f., VIII, 25 p.
 
-Pages change from roman to arabic numerals
+Pages change from Roman to Arabic numerals
 
 - XII p., p. 13-36
 

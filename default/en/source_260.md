@@ -32,7 +32,7 @@ additional institution). For manuscripts, leave blank.
 
 #### Date (260 $c)
 
-Enter the date of the source. Use arabic numerals (such as 1624 instead of MDCXXIV). Keep in mind that this field is for
+Enter the date of the source. Use Arabic numerals (such as 1624 instead of MDCXXIV). Keep in mind that this field is for
 the date of the material source itself, not for the work notated in the source. If the source contains an obvious
 error (such as a typographical error), enter the correct date in this field.
 
@@ -85,7 +85,7 @@ For approximate periods of time, enter a range of years based on the following s
 | 18th century, 2nd half | 1750-1799 |
 | 18th century | 1700-1799 |  
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed certain coded date formats. This practice was discontinued with the introduction of Muscat. The obsolete date formates are the following, with their meaning in parentheses:  
+**Obsolete procedures**: Older RISM cataloging guidelines allowed certain coded date formats. This practice was discontinued with the introduction of Muscat. The obsolete date formats are the following, with their meaning in parentheses:  
 - 1782a (before 1782)
 - 1782c (ca. 1782)
 - 1782p (after 1782)

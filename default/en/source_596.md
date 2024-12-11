@@ -23,7 +23,7 @@ Select the RISM series. Choose from the following list.
 - B/XIII - _Hymnologica Slavica_
 - B/XV - _Mehrstimmige Messen in Quellen aus Spanien, Portugal und Lateinamerika, ca. 1490-1630_  
 - B/XVII - _Die Triosonate: Catalogue Raisonné der gedruckten Quellen_  
-- Other: References to printed editions that were originally cataloged in Muscat and not included in the printed volumes of the A/I and B series. 
+- Other: References to printed editions that were originally cataloged in Muscat and not included in the printed volumes of the A/I and B series.
 
 #### RISM series number (596 $b)
 
@@ -33,4 +33,4 @@ some have individual numbers while others require page numbers. For the citation
 
 #### Reference record ID (596 $c)   
 
-Link to the record that corresponds to the ciation in 596 $a and $b. Click on the magnifying glass to search. If the record is not yet in Muscat, contact the Editorial Center.  
+Link to the record that corresponds to the citation in 596 $a and $b. Click on the magnifying glass to search. If the record is not yet in Muscat, contact the Editorial Center.  

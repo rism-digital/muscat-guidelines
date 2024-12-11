@@ -35,7 +35,7 @@ This is a system edit. You might see a system edit if one of the indexed fields 
 
 Muscat records that have the publication status **published** appear in the [RISM Catalog](https://opac.rism.info/), developed by the [Bavarian State Library](https://www.bsb-muenchen.de/) (Munich, Germany), and [RISM Online](https://rism.online/), developed by the [RISM Digital Center](https://rism.info/digital-center.html) (Bern, Switzerland).
 
-Outside of Muscat, published Muscat records are availble through RISM's [SRU downloader](https://github.com/rism-international/sru-downloader), the RISM Catalog's "Show MARCXML" link on any record, the RISM Catalog's monthly data dump, and RISM Online's API.
+Outside of Muscat, published Muscat records are available through RISM's [SRU downloader](https://github.com/rism-international/sru-downloader), the RISM Catalog's "Show MARCXML" link on any record, the RISM Catalog's monthly data dump, and RISM Online's API.
 
 #### 8. When do Muscat records appear in the public catalogs?
 

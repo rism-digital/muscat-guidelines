@@ -81,7 +81,7 @@ Enter the tempo indication if the genre cannot be determined. If none of these o
 
 ##### Collections  
 
-In these cases, a number plus the genre is entered. Enter an arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.  
+In these cases, a number plus the genre is entered. Enter an Arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.  
 
 ###### Examples    
 
