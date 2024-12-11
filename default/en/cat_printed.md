@@ -156,7 +156,7 @@ The field **General note (500)** or the **holdings information** will mention mu
 - Multiple editions
 - GB-Lbl (2 verschiedene Ausgaben)
 
-In the **holdings information**, there are usually indications that only a certain part or book is held, and the language of the indication will generally follow the language of the edition's title:
+In the **holdings information** there are usually indications that only a certain part or book is held, and the language of the indication will generally follow the language of the edition's title:
 
 - F-Pc K-733 [libro II]
 - D-F Mus. pr. Q 55/349 [livre 1]
