@@ -2,7 +2,7 @@
 
 The field **Total scoring** is used to indicate all of the voices or instruments that are needed to perform the piece. "Scoring" is also known as performing forces, medium of performance, or instrumentation (which here includes vocal parts).
 
-While the field **Scoring summary** (240 $m) givies the scoring of a work in brief, the **Total scoring** gives the scoring of a work in full. Por lo tanto, el **Resumen de**  **plantilla/orgánico** siempre debe guardar una correlación con los detalles que ingrese en esta descripción completa de las partes instrumentales y vocales involucradas en la composición.
+While the field **Scoring summary** (240 $m) gives the scoring of a work in brief, the **Total scoring** gives the scoring of a work in full. Por lo tanto, el **Resumen de**  **plantilla/orgánico** siempre debe guardar una correlación con los detalles que ingrese en esta descripción completa de las partes instrumentales y vocales involucradas en la composición.
 
 The total scoring should be as complete as possible, regardless of whether the source in hand is complete.
 
