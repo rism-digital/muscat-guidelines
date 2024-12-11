@@ -4,4 +4,4 @@ The field **Additional title** is used for other titles not found on the title p
 
 #### Título adicional (730 $a)
 
-Introduzca las traducciones del título en este campo, en caso de que no aparezcan en la portada.
+Enter other titles or translations of the title if they do not appear on the title page.
