@@ -8,6 +8,6 @@ Geben Sie die Ausgabe, wie sie auf der Titelseite oder anderswo auf der Publikat
 
 ##### Beispiele
 
-- Auflage Partitur, zugleich Orgelstimme
 - New ed., rev. and enl.
-- Urtextausgabe
+- Bilingual edition English/Español
+- Auflage Partitur, zugleich Orgelstimme
