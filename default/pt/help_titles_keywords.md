@@ -14,8 +14,8 @@ Below are some examples, followed by correspondences for the following kinds of 
 
 Here are some examples for special situations:
 
-1. A chorale arrangement where the text incipit is known:   
-   You don't need this list! Use the text incipit as the standardized title and select **Arrangement**. Enter the subject heading **Chorale arrangements**.
+1. A wind arrangement of music from a stage work where the name of the stage work is known:  
+   Use the name of the stage work as the standardized title and select **Arrangement**. Enter the subject heading **Wind music**.
 
 2. A chorale arrangement where the text incipit is unknown:   
    Use **Chorale arrangements** as both the standardized title and subject heading.
@@ -29,8 +29,8 @@ Here are some examples for special situations:
 5. A potpourri where you do not know what operas the music is from:  
    Use **Potpourris** as both the standardized title and subject heading.
 
-6. A wind arrangement of music from a stage work where the name of the stage work is known:  
-   Use the name of the stage work as the standardized title and select **Arrangement**. Enter the subject heading **Wind music**.
+6. A wind arrangement of music from a stage work where the name of the stage work is unknown:  
+   Use **Wind music** as both the standardized title and subject heading.
 
 7. A wind arrangement of music from a stage work where the name of the stage work is unknown:  
    Use **Wind music** as both the standardized title and subject heading.
@@ -120,7 +120,7 @@ Standardized title — Corresponding subject heading
 
 Standardized title — Corresponding subject heading
 - Arpeggios — Arpeggios (inst.)
-- Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadences — Cadences (inst.) Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
 - Cadenzas — Cadenzas (voc.)
 - Exercises — Exercises (inst.)
 - Exercises — Exercises (voc.)

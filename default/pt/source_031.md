@@ -1,6 +1,6 @@
 ### Incipit (031)
 
-The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the highest voice and the first violin or the highest instrumental part. Notate transposing instruments at sounding pitch.
+The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the highest voice and the first violin or the highest instrumental part. Notate transposing instruments at sounding pitch. Notate transposing instruments at sounding pitch.
 
 If the notation you need is not available using the Plaine & Easie code, transcribe the music the best you can and include an explanatory note. You can attach an image of the incipit from the source for further clarification.
 
@@ -48,7 +48,7 @@ Enter the title of the movement and tempo or similar indications, if specified, 
 
 #### Voice/instrument (031 $m)
 
-Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Indicate the tuning of an instrument in the **General note** field.
+Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Indicate the tuning of an instrument in the **General note** field.
 
 ##### Examples
 
@@ -278,7 +278,7 @@ The rhythmic sequence ends as soon a different rhythmic value occurs. Make sure 
 
 ###### Example
 
-- Instead of **8.A6B8C8.D6E8F** the code can be **8.68ABCDEF**
+- Instead of **8. A6B8C8. D6E8F** the code can be **8.68ABCDEF**
 
 
 ##### 12. Change of clef

@@ -14,7 +14,7 @@ These fields will be identical with the main Heading (100) above.
 
 #### Title of work (400 $t)
 
-Use this field to record title variants, alternatives, nicknames, different spellings, etc. Repeat this field for each variation.
+Use this field to record title variants, alternatives, nicknames, different spellings, etc. Repeat this field for each variation. Repeat this field for each variation.
 
 ##### Examples
 

@@ -10,7 +10,7 @@ Enter information in the following fields. Ajustar el formato de la información
 - **Country** (371 $d)
 - **Postal code** (371 $e)
 - **Email** (371 $m; ISDIAH 5.2.2): Enter the email address necessary to contact the institution.
-- **Calle y número** (371 $a): If this is not possible, give the official address of the larger institution to which it belongs. No se recomienda consignar direcciones de blogs o redes sociales.
+- **Calle y número** (371 $a): If this is not possible, give the official address of the larger institution to which it belongs. If this is not possible, give the official address of the larger institution to which it belongs. No se recomienda consignar direcciones de blogs o redes sociales.
 - **Período de inicio** (371 $s): La fecha de inicio asociada a la dirección de la institución.
 - **Período final** (371 $t): La fecha de finalización asociada a la dirección de la institución.
 - **Source of information** (371 $v): The source where the information recorded in this field was found if not through a URI.

@@ -12,7 +12,7 @@ You can enter in each field:
 - Multiple words:  
   either without quotations mark: **lass noch**   
   or with quotation marks: **"lass noch"**
-- Truncation with ? or \*  
+- Truncation with ? Truncation with ? or \*  
   **?**: The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
   **\***: The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher.
 - AND, OR, NOT, ( ): Take advantage of Boolean searching. Use parenthesis to group your search. Examples:

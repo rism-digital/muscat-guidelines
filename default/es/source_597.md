@@ -8,4 +8,4 @@ En el caso de los ítems impresos, registre el colofón tal como se presenta en 
 
 ##### Example
 
-- Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs \| eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis
+- Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs \| eorundem expliciunt feliciter. Anno dñi. M.cccc.xcij.kł.ij.aprilis

@@ -70,7 +70,8 @@ For multivolume works that were published over the course of several years, only
 - Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
   → SchröderW 1943
 
-Si no se nombra ningún autor, use una a dos palabras clave del título en su lugar.
+Si no se indica el año de publicación y éste no se puede determinar, escriba **s.d.** (sin fecha) en lugar del año.  
+_Ejemplo:_
 
 ###### Example
 
@@ -84,8 +85,7 @@ If only an approximate year of publication is known, add a **ca.** (for circa) w
 - Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C. A. Spina, ca. 1850).  
   → FahrbachK 1850
 
-Si no se indica el año de publicación y éste no se puede determinar, escriba **s.d.** (sin fecha) en lugar del año.  
-_Ejemplo:_
+Para los títulos breves de enciclopedias o conjuntos bibliográficos conocidos, utilice las abreviaturas o términos más establecidos (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
 ##### Catálogos de obras
 

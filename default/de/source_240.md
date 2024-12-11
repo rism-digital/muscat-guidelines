@@ -39,13 +39,13 @@ In English, sentence case is preferred. In French, the simplified French rules (
 
 Enter the text incipit as the standardized title for vocal pieces if there is no distinctive title.
 
-If a source consists of a recitative and aria or a scena and aria, the text incipit of the aria is always used as the standardized title. Entsprechendes gilt für Rezitativ und Cavatine, Scena und Rondo oder ähnliche Kombinationen. If you have a single opera aria from an opera whose title is unknown, enter the text incipit of the aria.
+Entsprechendes gilt für Rezitativ und Cavatine, Scena und Rondo oder ähnliche Kombinationen. If a source consists of a recitative and aria or a scena and aria, the text incipit of the aria is always used as the standardized title. If you have a single opera aria from an opera whose title is unknown, enter the text incipit of the aria.
 
 With cantatas, on the other hand, the text of the first vocal piece functions as the standardized title, regardless of whether it is a recitative, aria, or chorus.
 
 Messen, Requiems, Exsequien, Litaneien und Offiziumskompositionen werden hingegen immer mit der Gattungsbezeichnung eingeordnet. The same is true for complete operas and oratorios whose titles are unknown.
 
-When entering text incipits, use the orthographic rules of each respective language to dictate use of upper or lower case letters. Capitalize the names of the deity (God, Herr, Dio, Dieu, Signore, Lord, etc.). Omit punctuation marks and repetitions within the incipit. If the item is clearly a translation, enter the standardized title in the original language.
+Capitalize the names of the deity (God, Herr, Dio, Dieu, Signore, Lord, etc.). When entering text incipits, use the orthographic rules of each respective language to dictate use of upper or lower case letters. Omit punctuation marks and repetitions within the incipit. If the item is clearly a translation, enter the standardized title in the original language.
 
 Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use the text incipit in its entirety for the text incipit.
 
@@ -175,13 +175,13 @@ The following Byzantine church modes are available:
 
 **Obsolete procedures**: Older RISM cataloging guidelines allowed multiple key signatures to be entered in this field, separated by a semicolon. This practice was discontinued with the introduction of Muscat.
 
-#### Tonart (240 $r)
+#### Unterteilung nach der Form (240 $k)
 
 **Required field except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch**
 
 If you have sketches or collections, enter a scoring summary if it makes sense to do so.
 
-Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Separate each element of the scoring summary with commas. Enter a maximum of four elements. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
+Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Enter a maximum of four elements. Separate each element of the scoring summary with commas. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
 
 Es gelten die Bezeichnungen gemäß **Abkürzungsliste**. Write out any terms that are not contained in this list in full and in English.
 
@@ -198,7 +198,7 @@ Modale Tonarten werden nicht in moderne Tonartenbezeichnungen übertragen.
 - Keyboard instruments
 - Basso continuo
 
-When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Eine unbekannte Singstimme wird mit **V,** eine unbekannte Instrumentalstimme mit **i** wiedergegeben. Also use **V** to group together several different vocal parts, such as **V (8)**. Eine unbekannte Anzahl Stimmen wird mit nachgestelltem **(X)** ausgedrückt.
+Also use **V** to group together several different vocal parts, such as **V (8)**. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Eine unbekannte Anzahl Stimmen wird mit nachgestelltem **(X)** ausgedrückt. Eine unbekannte Singstimme wird mit **V,** eine unbekannte Instrumentalstimme mit **i** wiedergegeben.
 
 Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 

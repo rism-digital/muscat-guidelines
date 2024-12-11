@@ -1,17 +1,22 @@
-Muscat is the cataloging program offered by RISM to working groups and contributors, available free of charge to anyone who is interested. It enables direct access to the RISM database hosted by the Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. To access the database you need a login name and password, available from the RISM Zentralredaktion (Editorial Center). This document contains the international guidelines developed by RISM to document and describe musical sources as used in the Muscat program.
+Welcome to the website of the RISM Cataloging Guidelines, the rules and procedures for describing historical musical sources for the Répertoire International des Sources Musicales (RISM) - International Inventory of Musical Sources.
 
-Muscat is developed jointly by the RISM Zentralredaktion and the RISM Digital Center and is based on a program that was jointly developed by RISM Switzerland and RISM UK.
+**To search the RISM database, please visit [the RISM website](https://rism.info/index.html).**
 
-Muscat data is structured around the MARC21 library standard. Numbers next to field names, such as 245 $a, refer to the MARC21 field.
+This website contains the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. Muscat is used by RISM's working groups and contributors, available free of charge to anyone who is interested. It enables direct access to the RISM database hosted by the Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. If you are interested in becoming a contributor, contact the RISM Editorial Center (Zentralredaktion).
 
-Si desea tener un panorama general, puede consultar los contenidos que aparecen a la derecha. Sections **2-Using Muscat** and **3-General cataloging guidelines** explain how to use the program (general functions, templates, how to catalog certain formats).
+Muscat is developed jointly by the two RISM Centers, the RISM Editorial Center and the RISM Digital Center. It is based on a program that was jointly developed by RISM Switzerland and RISM UK.
 
-The section **4-Cataloging musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. Los mismos están listados en el orden en que aparecen en el programa. When working with Muscat, you will also find the guidelines for each field linked to their respective field by a question mark. Se incluyen _Ejemplos_ a lo largo de la explicación.
+Muscat data is structured around the [MARC21 library standard](https://www.loc.gov/marc/). The numbers and letters next to field names, such as 245 $a, refer to the MARC21 field.
 
-After the guidelines, the middle sections (5-14) offer various lists containing standardized vocabulary and abbreviations for use in areas such as the title on source, subject headings, and liturgical festivals. In addition, you will find a table of transposing instruments to help you when entering incipits.
+Refer to the contents on the right for an overview of this document. The sections **2-Using Muscat** and **3-General cataloging guidelines** explain how to use the program: general functions, templates, how to catalog certain formats.
 
-Al final (sección 15) hay un índice de todos los campos MARC utilizados en Muscat, ordenados según su etiqueta MARC21. These fields are also linked to their corresponding sections in this document.
+The section **4-Cataloging musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. The guidelines are listed in the order they appear in the program. When working with Muscat, you will also find the guidelines for each field linked to their respective field. Se incluyen _Ejemplos_ a lo largo de la explicación.
+
+The middle sections (5-9) contain the guidelines for RISM's authority files. The final sections (10-11) offer various lists containing RISM's standardized vocabulary and abbreviations.
 
 Visit [RISM's Muscat page](https://rism.info/community/muscat.html) for more information about Muscat.
 
-La edición y actualización de los lineamientos está a cargo de la Oficina Central de RISM en Fráncfort, Alemania. Jennifer Ward (jennifer.ward@rism.info) maintains the English version and Martina Falletta (martina.falletta@rism.info) maintains the German version. En caso de que algo no esté claro, no dude en contactarnos. We would also like to extend our gratitude to our translators: Ferran Jorba (Catalan), Claudio Bacciagaluppi and Rodolfo Zitellini (Italian and French), Laurent Pugin (French), Marcelina Chojecka and Katarzyna Diehl (Polish), André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, and Silvia Sequeira, and Marcos Virmond (Portuguese), and Rodrigo Balaguer, Antonio Ezquerro, John Lazos, Lucas Reccitelli, Oliver Schöner, and Luciana Giron Sheridan (Spanish): thank you very much for translating and making Muscat more easily accessible to our colleagues worldwide.
+The guidelines are maintained by the RISM Editorial Center in Frankfurt, Germany.  
+English: Jennifer Ward (jennifer.ward@rism.info) German: Martina Falletta (martina.falletta@rism.info) Should anything be unclear, do not hesitate to contact us.
+
+We would also like to extend our gratitude to our translators, whose efforts make Muscat more easily accessible to our colleagues worldwide. Catalan: Ferran Jorba Italian: Claudio Bacciagaluppi, Rodolfo Zitellini French: Claudio Bacciagaluppi, Rodolfo Zitellini, Laurent Pugin Korean: JeongYoun Chang Polish: Marcelina Chojecka, Katarzyna Diehl Portuguese: André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, Silvia Sequeira, Marcos Virmond Spanish: Rodrigo Balaguer, Antonio Ezquerro, John Lazos, Lucas Reccitelli, Oliver Schöner, Luciana Giron Sheridan

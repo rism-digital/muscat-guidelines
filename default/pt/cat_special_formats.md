@@ -13,16 +13,14 @@ Collection parent records may not contain collection parent records of manuscrip
 When cataloging collections, note that:
 
 1. The collection main entry (parent record) should contain information that applies to the entire collection.
-2. Any information that is relevant only for some sections of the collection should be entered in the individual entry or entries.
+2. Any information that is relevant only for some sections of the collection should be entered in the child record.
 
 If the works in the collection have different composers, scoring, source types, etc., then do not enter them in the parent record.
-
-For collections in which the works are very similar, it is a good strategy to create a full first entry and use the "Duplicate" function to copy the record. Then for the following records you only have to change fields such as title and page number.
 
 
 ### Composite volumes
 
-A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are many other names for such volumes in English: binders' collections, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volumes, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
+A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
 
 There are two ways to indicate a composite volume. The first, and simplest, way is to catalog the items separately and give the items the same shelfmark; a bound-with note is also helpful. The second is to use the template for a composite volume record.
 
@@ -52,13 +50,13 @@ Take note of the following fields when cataloging contrafacta. RISM ID no. 30023
 - **Composer (100)**  
   Enter the composer of the original music.
  - Mysliveček, Josef
-- **Standardized title (240)**  
-  Use the standardized title of the original piece. **Excerpts** may be added. Do not use **Arr**.
+- **Language code (041)**  
+  For the field **Language of text**, enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
  - Il Bellerofonte. Excerpts
 - **Alternative title (730)**  
   If there is a new, distinct standardized title for the piece in hand, you can enter it here. Do not enter text incipits here.
-- **Subject headings (650)**  
-  Add at least 3 subject headings (more if appropriate), in this order:  Contrafacta -- Current genre -- Original genre.
+- **Subject heading (650)**  
+  Enter Parodies as the first subject heading. Enter the genre of the source in hand for the second, and the genre of the pre-existing material as the third.
  - Contrafacta
  - Sacred songs
  - Operas
@@ -94,25 +92,24 @@ Take note of the following fields when cataloging compilations.
   The name of the compiler can be added with the function **Editor**.  
   If you have a compilation, enter the composer(s) of the original material and select the function **Composer cross-reference**. Enter the composer(s) of the new material and select the function **Co-composer**.   
   If you have a pasticcio, do not enter composers as a composer cross-references. Instead, enter all composers as a **Co-composer**.
-- **Standardized title (240)**  
-  Enter the standardized title of the source in hand. For pasticcios, add **Excerpts** or **Arrangement** as appropriate.
-- **Language code (041)**  
-  For the field **Language of text**, enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
+- **Composer/Author (100)**  
+  The composer is always **Compilations**.
+- **Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
 - **Subject heading (650)**  
   The first subject heading should be **Compilations** and/or **Pasticcios**. The second should be the genre of the source in hand. If you have excerpts, the genre of the excerpt can be added. **Collaborative compositions** is also an option.
 - **Description summary (520)**  
   Use this field to describe in general the nature of the source.
  - Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
-- **Alternate title (730)**  
-  Enter the standardized title of the original piece(s), adding **Excerpts** or **Arrangement** as appropriate. You can also enter ossia titles.
+- **Standardized title (240)**  
+  Enter the standardized title of the source in hand.
 - **Catalog of works (690)**  
   You can enter the catalog of works number for both the compilation and the original works.
 - **Text incipit (031)**  
   Enter the text of the source in hand. If known, enter the original text in square brackets.
-- **General note (500)**  
-  Always use a note for clarification, especially if the works of separate composers are involved. This ensures that the composers are matched to the works used in the compilation.
 - **Note on performance (518)**  
   Performances should be noted only as they relate to the compilation itself.
+- **General note (500)**  
+  Always use a note for clarification, especially if the works of separate composers are involved.
 
 #### Examples of compilations
 
@@ -140,8 +137,8 @@ The record 150205470 will be used as an example.
 - **Additional title (730)**  
   Enter the title of the pre-existing material. Add Excerpts as appropriate. Do not use Arrangement or Variations.
  - Tancredi. Excerpts
-- **Subject heading (650)**  
-  Enter Parodies as the first subject heading. Enter the genre of the source in hand for the second, and the genre of the pre-existing material as the third.
+- **Subject headings (650)**  
+  Add at least 3 subject headings (more if appropriate), in this order:  Contrafacta -- Current genre -- Original genre.
  - Parodies
  - National anthems
  - Operas
@@ -218,7 +215,7 @@ Volumes that are part of collected works editions or monuments of music are trea
 
 Observe the following fields in particular when cataloging volumes in collected works. We will use [RISM ID no. 1001200051](https://muscat.rism.info/admin/sources/1001200051) as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
 
-- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. Enter all other titles in the field **Variant title on source (246)**.
+- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. iii]. Enter all other titles in the field **Variant title on source (246)**.
 - **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
 - **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
 

@@ -10,7 +10,7 @@ This field may not be used to indicate that a printed edition is absent from RIS
 
 #### Referencias a las series RISM A/I y B (596 $a)
 
-Seleccione la serie RISM Choose from the following list.
+Seleccione la serie RISM Choose from the following list. Choose from the following list.
 
 - A/I - _Einzeldrucke vor 1800/Individual Prints before 1800_
 - B/I - _Recueils imprimés, XVIe-XVIIe siècles_

@@ -13,16 +13,14 @@ Collection parent records may not contain collection parent records of manuscrip
 When cataloging collections, note that:
 
 1. The collection main entry (parent record) should contain information that applies to the entire collection.
-2. Any information that is relevant only for some sections of the collection should be entered in the individual entry or entries.
+2. Any information that is relevant only for some sections of the collection should be entered in the child record.
 
 If the works in the collection have different composers, scoring, source types, etc., then do not enter them in the parent record.
-
-For collections in which the works are very similar, it is a good strategy to create a full first entry and use the "Duplicate" function to copy the record. Then for the following records you only have to change fields such as title and page number.
 
 
 ### Composite volumes
 
-A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are many other names for such volumes in English: binders' collections, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volumes, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
+A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
 
 There are two ways to indicate a composite volume. The first, and simplest, way is to catalog the items separately and give the items the same shelfmark; a bound-with note is also helpful. The second is to use the template for a composite volume record.
 
@@ -234,7 +232,7 @@ Observe the following when cataloging librettos.
 - **Subject heading (650):** If known, enter the name of the genre for which the libretto was written, such as “Operas” or “Cantatas”. "Librettos" is not necessary.
 - **Language code (041):** Use the field "Language of text" only if the libretto contains notated music with words.
 - **Source type (593):** Select the source type. For the content type, select "Libretto."
-- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p.
+- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. p.
 
 ### Treatises
 
@@ -269,4 +267,4 @@ Specify keyboard arrangements as follows.
 
 ### Sources described in RISM Series B publications not yet in Muscat
 
-There are currently no projects underway by the Editorial Center to systematically add sources described in [RISM's Series B publications](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Nevertheles, RISM contributors are welcome to create new records for such sources. If you add items to Muscat that are described in a B volume, fill out the field **RISM Series (510)** in the Administration section and indicate what book the description was found in. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record.
+There are currently no projects underway by the Editorial Center to systematically add sources described in [RISM's Series B publications](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Nevertheles, RISM contributors are welcome to create new records for such sources. If you add items to Muscat that are described in a B volume, fill out the field **RISM Series (510)** in the Administration section and indicate what book the description was found in. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record.

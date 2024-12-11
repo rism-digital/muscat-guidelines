@@ -10,5 +10,5 @@ Enter the beginning date and (if applicable) the ending date of an item. If the 
 
 ##### Examples
 
-- Vol. 1, no. 1 (Apr. 1981)-
+- Vol. Vol. 1, no. 1 (Apr. 1981)-
 - 1969-2004

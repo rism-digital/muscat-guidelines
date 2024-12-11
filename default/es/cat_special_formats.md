@@ -13,16 +13,14 @@ Los registros madre de colección no pueden albergar registros madre de colecci�
 When cataloging collections, note that:
 
 1. La entrada principal de la colección (registro madre) debe contener información que aplique a toda la colección.
-2. Any information that is relevant only for some sections of the collection should be entered in the individual entry or entries.
+2. Any information that is relevant only for some sections of the collection should be entered in the child record.
 
 Si las obras de la colección son de distintos compositores o presentan diferente plantilla/orgánico, tipo de fuente, etc., no ingrese estos datos en el registro madre.
-
-En el caso de colecciones compuestas por obras muy similares entre sí, es una buena estrategia crear una primera entrada con todos los datos correspondientes a una obra y usar la función “Duplicar” para copiar el registro. Luego, para los registros siguientes sólo restará cambiar campos tales como el título y el número de páginas.
 
 
 ### Composite volumes
 
-Un **Volumen compuesto** es un volumen integrado por documentos que fueron creados por separado y encuadernados juntos posteriormente, usualmente por un propietario o una institución. There are many other names for such volumes in English: binders' collections, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volumes, recueils factices, Sammelband, tract volume. En este conjunto se incluyen tanto los volúmenes en los que una suma de ítems impresos fue encuadernada en conjunto, como también aquellos en los que piezas impresas aparecen encuadernadas junto a manuscritos.
+Un **Volumen compuesto** es un volumen integrado por documentos que fueron creados por separado y encuadernados juntos posteriormente, usualmente por un propietario o una institución. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. En este conjunto se incluyen tanto los volúmenes en los que una suma de ítems impresos fue encuadernada en conjunto, como también aquellos en los que piezas impresas aparecen encuadernadas junto a manuscritos.
 
 Hay dos maneras de señalar la presencia de volúmenes compuestos. La primera y más simple consiste en dar a los ítems la misma signatura; también resulta útil una nota de encuadernación. La segunda forma consiste en utilziar la plantilla para volúmenes compuestos.
 
@@ -58,7 +56,7 @@ Take note of the following fields when cataloging contrafacta. RISM ID no. 30023
 - **Título alternativo (730)**  
   Si la pieza con _contrafactum_ presenta un título uniforme nuevo y distintivo, regístrelo en este campo. No ingrese incipits literarios en este campo.
 - **Subject headings (650)**  
-  Add at least 3 subject headings (more if appropriate), in this order:  Contrafacta -- Current genre -- Original genre.
+  Add at least 3 subject headings (more if appropriate), in this order: Contrafacta -- Current genre -- Original genre.
  - Contrafacta
  - Sacred songs
  - Operas
@@ -108,8 +106,8 @@ Al catalogar compilaciones, tenga en cuenta los siguientes campos:
   Escriba el título uniforme de la(s) pieza(s) original(es), seleccionando **Extractos** o **Arreglo** según corresponda. También puede introducir títulos _ossia_.
 - **Catálogo de obras (690)**  
   Puede introducir el número de catálogo de obras tanto para la compilación como para las obras originales.
-- **Incipit literario (031)**  
-  Introduzca el texto de la fuente en cuestión. If known, enter the original text in square brackets.
+- **Text incipits (031)**  
+  Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
 - **Nota general (500)**  
   Utilice siempre una nota para aclaraciones, especialmente si se trata de obras de compositores distintos. Esto asegura que los compositores se correspondan con las obras utilizadas en la compilación.
 - **Nota sobre ocasión de interpetación (518)**  
@@ -149,8 +147,8 @@ El registro 150205470 será usado como ejemplo.
   Enter the language for the source in hand in the field Language of text. Introduzca el idioma del material preexistente en el campo Idioma del texto original.
  - Danés
  - Italiano
-- **Text incipits (031)**  
-  Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
+- **Incipit literario (031)**  
+  Introduzca el texto de la fuente en cuestión. If known, enter the original text in square brackets.
  - Dannemark hellige lyd
  - [Di tanti palpiti]
 - **Other fields**  
@@ -164,19 +162,17 @@ Las inserciones que aparecen separadas de una obra mayor deben catalogarse por s
 
 A la hora de crear el registro madre y el registro de la ópera principal, se siguen las reglas usuales. Observe the following when cataloging the insert. Considere lo siguiente al catalogar la inserción: tenga en cuenta que todos los campos (tales como como la fecha de la composición y la plantilla/orgánico) corresponden únicamente a la inserción.
 
-- No resulta extraño encontrar manuscritos e ítems impresos reunidos en la misma carpeta o bajo la misma signatura: por ejemplo, una partitura impresa con particellas manuscritas, o un grupo de particellas impresas junto con otras manuscritas.
+- **Compositor (100):** Compositor de la inserción.
 - **Nombre personal adicional (700):** Compositor de la obra mayor, como la Ópera
-- En caso de que no sea factible c un registro adecuado para el material impreso, proceda de la siguiente manera: catalogue su material utilizando una plantilla de manuscrito; en la sección de descripción del material, describa los materiales del manuscrito; añada un grupo de materiales adicional y describa los materiales impresos.
+- **Título uniforme (240):** Título de la inserción, o el nombre de la ópera seguido de Extractos.
 - **Título adicional (730):** Si el libreto se basa en un libro o una obra de teatro, puede introducirse aquí el título de la obra original.
 - **Nota general (500):** Se puede añadir cualquier información adicional que se conozca y aclare la relación de la inserción dentro de la obra mayor.
 - **Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
-- **Compositor (100):** Compositor de la inserción.
+- **Nota general (500):** Se puede añadir cualquier información adicional que se conozca y aclare la relación de la inserción dentro de la obra mayor.
 
 ### Mixed materials (manuscripts and printed items stored together)
 
-_Ejemplos_:    
-991018149: "The Pantheon" publicado en _The Lady's Magazine_, Agosto de 1784  
-990042111: "L'amour folâtrant l'autre jour" publicado en _Nouveau Mercure galant_, Mayo de 1679
+No resulta extraño encontrar manuscritos e ítems impresos reunidos en la misma carpeta o bajo la misma signatura: por ejemplo, una partitura impresa con particellas manuscritas, o un grupo de particellas impresas junto con otras manuscritas.
 
 Procure siempre catalogar el material impreso en un registro separado, dado que es posible que otras bibliotecas tengan ejemplares de la misma edición. Cree un registro para el material impreso, añada sus registros de ejemplar y cree otro registro para los materiales manuscritos. Utilice el campo **Fuente relacionada (787)** para señalar la relación de un registro al otro.
 
@@ -248,11 +244,11 @@ Appropriate subject headings for treatises include the following:
 
 - **Treatises**
 - **Writings**
-- ****Music theory ** [Teoría musical]**
+- ******Music theory ** [Teoría musical]****
 - ****Theory of harmony ** [Teoría de la armonía]**
 - En el campo **Título**
 - **uniforme (240)**:
-- ****Contrapuntal studies (inst./voc.).**
+- ******Contrapuntal studies (inst./voc.).****
 - ****Solfeggios (voc.) **[Solfeos (vocales)]**
 - ****Solfeggios (inst.) **[Solfeos (instrumentales)]**
 - ****Scales (inst./voc.) **[Escalas (instrumentales/vocales)]**
@@ -266,7 +262,7 @@ The boundry between treatises and method books can sometimes be a thin one, and 
 Specify keyboard arrangements as follows.
 
 - Seleccione **Arreglo** en el subcampo **Mención de arreglo.**
-  - **Tipo de fuente (593):** Seleccione "Libreto, manuscrito" o "Libreto, impreso".
+  - ****Solfeggios (inst.) **[Solfeos (instrumentales)]**
   - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. No ingrese la plantilla/orgánico de la obra original.
 - In the field **Total scoring (594)**, enter the total scoring of the arrangement. No ingrese la plantilla/orgánico de la obra original.
 - **Título uniforme (240)**  
