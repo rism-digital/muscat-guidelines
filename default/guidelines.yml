@@ -328,9 +328,6 @@ chapters:
         - title: "551"
           helpfile: "person_551"
           index: true
-        - title: "667"
-          helpfile: "person_667"
-          index: true
     - guidelines_title: "pe_references"
       model: "person"
       subsections:
@@ -345,6 +342,12 @@ chapters:
           index: true
         - title: "856"
           helpfile: "person_856"
+          index: true
+        - title: "667"
+          helpfile: "person_667"
+          index: true
+        - title: "910"
+          helpfile: "person_910"
           index: true
     - guidelines_title: "pe_control"
       model: "person"
