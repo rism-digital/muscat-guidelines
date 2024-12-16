@@ -25,5 +25,5 @@ Export note: 980 $b is exported as 599 $b.
 
 Indicate whether you directly examined the material as you were cataloging it.
 
-- **Material examined**
+- **Material examined**: This is the default value for new records in Muscat.
 - **Material not examined**: This can be used when the record was created using a description published elsewhere, such as in an electronic library catalog or printed catalog.

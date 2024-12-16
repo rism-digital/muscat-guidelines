@@ -68,7 +68,7 @@ the original requirements in parentheses.
 - tr
 - org
 
-_MARC note: The fields 594 $b and $c are concatenated and exported as 594 $a._
+_MARC export note: The fields 594 $b and $c are concatenated and exported as 594 $a._
 
 #### Number (594 $c)
 

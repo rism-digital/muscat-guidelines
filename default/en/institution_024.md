@@ -26,7 +26,7 @@ Enter a canceled or invalid standard number or code.
 
 Enter a machine actionable and parsable URI that identifies a name or label for the institution.
 
-#### Real World Object URI (024 $1)
+#### Real world object URI (024 $1)
 
 Enter the URI that identifies the institution.
 
