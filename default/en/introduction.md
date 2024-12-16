@@ -22,10 +22,10 @@ German: [Martina Falletta](mailto:martina.falletta@rism.info)
 Should anything be unclear, do not hesitate to contact us.  
 
 We would also like to extend our gratitude to our translators, past and present, whose efforts make Muscat more easily accessible to our colleagues worldwide.  
-Catalan: Ferran Jorba  
-Italian: Claudio Bacciagaluppi, Rodolfo Zitellini  
-French: Claudio Bacciagaluppi, Rodolfo Zitellini, Laurent Pugin  
-Korean: JeongYoun Chang   
-Polish: Marcelina Chojecka, Katarzyna Diehl  
-Portuguese: André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, Silvia Sequeira, Marcos Virmond  
-Spanish: Rodrigo Balaguer, Antonio Ezquerro, John Lazos, Lucas Reccitelli, Oliver Schöner, Luciana Giron Sheridan  
+- Catalan: Ferran Jorba  
+- Italian: Claudio Bacciagaluppi, Rodolfo Zitellini  
+- French: Claudio Bacciagaluppi, Rodolfo Zitellini, Laurent Pugin  
+- Korean: JeongYoun Chang   
+- Polish: Marcelina Chojecka, Katarzyna Diehl  
+- Portuguese: André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, Silvia Sequeira, Marcos Virmond  
+- Spanish: Rodrigo Balaguer, Antonio Ezquerro, John Lazos, Lucas Reccitelli, Oliver Schöner, Luciana Giron Sheridan  
