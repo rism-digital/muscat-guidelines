@@ -1,11 +1,11 @@
 ### Work catalog note (590)
 
-The field **Work catalog note** is used to state a note about a work catalog.
+The field **Work catalog note** is used to record decisions about how the work catalog is treated in Muscat.
 
 #### Work catalog note (590 $a)
 
-Enter the work catalog note in the correct way.
+Enter decisions about how the work catalog is treated.
 
 ##### Esempi:
 
-- This note never existed.
+- _Forthcoming_
