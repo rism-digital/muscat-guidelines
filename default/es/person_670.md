@@ -8,9 +8,9 @@ Introduzca el título corto del recurso consultado. This field is connected to t
 
 #### Información encontrada (670 $b)
 
-**Requerido si se rellena el campo anterior.**
+**Required if 670 $a is filled out.**
 
-Enter the form of the name and/or years as indicated in the literature. Add a page number or other locators (such as **vide** for encyclopedias) if appropriate. Enter a **0** if no information is found (for example, you consulted Grove\|7 but there was no entry for the person).
+Enter the form of the name and years as indicated in the literature. Add a page number or other locators (such as **vide** for encyclopedias) if appropriate. Enter a **0** if no information is found (for example, you consulted Grove\|7 but there was no entry for the person).
 
 ##### Examples
 
