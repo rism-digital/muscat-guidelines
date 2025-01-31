@@ -12,7 +12,7 @@ Introduzca notas adicionales que describan la institución, como por ejemplo:
 
 
 In accordance with ISDIAH guidelines, the following can also be entered here:
-- Políticas de gestión y recopilación de registros (ISDIAH 5.3.5): Introduzca información sobre las políticas de recopilación de la institución. Indique si el repositorio busca adquirir materiales mediante transferencia, donación, compra y/o préstamo.
+- Políticas de gestión y recopilación de registros (ISDIAH 5.3.5): Introduzca información sobre las políticas de recopilación de la institución. Indicate whether the repository seeks to acquire materials by transfer, gift, purchase, and/or loan.
 - Archivos y otras existencias (ISDIAH 5.3.7): Introduzca los nombres de los fondos y colecciones. Comience cada nombre en una nueva línea. Utilice el nombre tal y como lo utiliza la institución que lo alberga. Si existen listas o URL con la información sobre las colecciones o fondos de una institución específica, indique la URL.   
   _Ejemplos:_  
   Joachim, Joseph (1831-1907) (Royal College of Music, Library)  

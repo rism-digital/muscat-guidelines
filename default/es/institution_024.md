@@ -24,7 +24,7 @@ Introduzca un número o código estándar cancelado o no válido.
 
 #### Número de control del registro de autoridad o número estándar (024 $0)
 
-Introduzca una URI procesable y analizable por máquina que identifique un nombre o etiqueta para la institución.
+Enter a machine actionable and parsable URI that identifies a name or label for the institution.
 
 #### Objeto del mundo real URI (024 $1)
 

@@ -1,6 +1,6 @@
 ### Tabella degli strumenti traspositori
 
-Questa tabella elenca gli strumenti traspositori, a quali altezze suonano e come vengono notati. Per gli incipit musicali (031 $p), gli strumenti traspositori devono essere notati alle altezze effettive.
+This table lists transposing instruments and their sounding and notated pitches.
 
 | Accordatura (dall'acuto al grave) | Strumenti                                                              | Transposizione con riferimento a) alla notazione b) all'altezza effettiva                   | Un do3 effettivo è scritto come | Un do3 scritto suona come |
 | --------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------- |

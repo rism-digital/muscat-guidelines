@@ -31,7 +31,7 @@ In den Exemplareinträgen können Sie außerdem Folgendes auswählen:
 
 - **Composite = Konvolut**: Diese Option ist standardmäßig ausgewählt.
 
-Für Manuskript-Sammlungen wählen Sie den Quellentyp, der die Sammlung am besten repräsentiert, oder verwenden Sie mehrere Materialgruppen, um weiter zu differenzieren.
+For manuscript collections, select the source type that best represents the collection, or use multiple material groups to differentiate further.
 
 ##### Zusätzlich gedrucktes oder handschriftliches Material
 
@@ -60,7 +60,7 @@ Für Konvolutbände, die mehr als einen Inhaltstyp enthalten, können Sie auch w
 
 ##### Sammlungen
 
-Sie können eine Kombination von Quellentyp und Inhaltstyp wählen, die die Sammlung als Ganzes am besten zusammenfaßt oder mehrere Materialgruppen für jede Art von Quelle hinzugefügen. Beachten Sie, dass immer unterschiedliche Informationen im Teileintrag zur Verfügung stehen.
+Sie können eine Kombination von Quellentyp und Inhaltstyp wählen, die die Sammlung als Ganzes am besten zusammenfaßt oder mehrere Materialgruppen für jede Art von Quelle hinzugefügen. Keep in mind that differentiated information will always be provided in the child record.
 
 ##### Komponisten, Bearbeiter und Schreiber
 
@@ -69,6 +69,10 @@ Bei autographen Handschriften und fraglichen Autographen sollte kein zusätzlich
 In einigen Fällen beispielsweise bei Teilautographen ist ein erklärender Vermerk im Feld **Bemerkungen (500)** sinnvoll.
 
 Ist der Bearbeiter einer Komposition gleichzeitig auch deren Schreiber, gilt diese Quelle als **Abschrift** nicht als **Autograph**.
+
+##### Other forms of notation
+
+Use **Notated music** as a **Content type** for documents that can be considered performance material, even if they do not use staff notation. This includes graphic notation, letter notation, number notation, and documents that only consist of performance instructions.
 
 ##### Fotokopien
 
@@ -84,7 +88,7 @@ If your source is typewritten or computer generated, follow these steps:
 
 1\. Wählen Sie eine Manuskriptvorlage.
 
-2\. Select **Autograph manuscript** if the composer or author created the document themselves. Select **Manuscript copy** if someone other than the composer or author created the document themselves.
+2\. Select **Autograph manuscript** if the composer or author created the document themselves. Select **Manuscript copy** if someone other than the composer or author created the document.
 
 3\. Select an appropriate printing technique from **Special production technique (340 $d)**, such as **Typescript** for typewritten items or **Computer printout** for computer-generated materials.
 

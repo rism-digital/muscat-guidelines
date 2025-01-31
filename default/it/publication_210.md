@@ -8,15 +8,15 @@ The field **Short title** is a unique abbreviation assigned to items of secondar
 
 Enter the short title in accordance with the guidance below. Short titles may only be used once.
 
-Short titles are not needed for serials or collected volumes of essays; for these kinds of publications, the short title is entered in the record for the individual artical or chapter.
+Short titles are not needed for serials or collected volumes of essays; for these kinds of publications, the short title is entered in the record for the individual article or chapter.
 
-A short tile only apply to the edition described in the record. Separate records must be created for different editions.
+A short tile only applies to the edition described in the record. Separate records must be created for different editions.
 
 The following will describe how to create short titles for **general secondary literature**, **catalogs of works**, and **special cases**.
 
 ##### General secondary literature
 
-Short titles for **general secondary literature** are made up as follows:
+Short titles for **general secondary literature** are created as follows:
 
 - **Last name** of the author or editor  
   _Hyphenated or compound last names are written out in full._
@@ -36,17 +36,17 @@ Short titles for **general secondary literature** are made up as follows:
 - Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincónV 2009
 
-For authors or editors who publish multiple articles about the same composer or multiple works by the same composer, a letter (**a**, **b**, **c**, etc.) is added to the end of the year for subsequent publications.
+For authors or editors who publish multiple articles about the same composer or multiple works by the same composer in the same year, a letter (**a**, **b**, **c**, etc.) is added to the end of the year for subsequent publications.
 
 ###### Examples
 
-- Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ ed. Armin Kircher (Stuttgart: Carus, 2005).  
+- Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ edited by Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherA 2005
-- Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, ed. Armin Kircher (Stuttgart: Carus, 2005).  
+- Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, edited by Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherE 2005a
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, ed. Armin Kircher (Stuttgart: Carus, 2005). [full score]  
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, edited by Armin Kircher (Stuttgart: Carus, 2005). [full score]  
   → KircherE 2005b
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ ed. Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ edited by Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
   → KircherE 2005c
 
 For two or more authors or editors, only the first is used in a short title.
@@ -72,7 +72,7 @@ For multivolume works that were published over the course of several years, only
 
 If the year of publication is neither given nor ascertainable, write **s.d.** (for no date) instead of a year.
 
-###### Example
+###### Esempio
 
 - Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung_ (Innsbruck, no date).  
   → ZanglO s.d.
@@ -84,17 +84,17 @@ If only an approximate year of publication is known, add a **ca.** (for circa) w
 - Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850
 
-For the short titles of well-known encyclopedias or sets, use the well-established abbreviations or terms (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
+For the short titles of well-known encyclopedias or sets, use the established abbreviations or terms (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
 ##### Catalogs of works
 
-Short titles for **catalogs of works** are made of:
+Short titles for **catalogs of works** are created as follows:
 - **First three letters** of the last name of the author or editor
 - **First letter** of the composer’s last name, capitalized
 
 No year is needed.
 
-A catalog that is published as a part of a larger item, such as an appendix in a book, may be entered as a catalog of works. Such items can also be cited as a **Bibliographic reference (691)**.
+A catalog that is published as a part of a larger item, such as an appendix in a book, may be entered as a catalog of works.
 
 ###### Examples
 
@@ -107,7 +107,7 @@ A catalog that is published as a part of a larger item, such as an appendix in a
 - Bruno Scheithauer, _Verzeichniss sämtlicher gedruckten Werke Dr. Carl Loewe’s_ (Berlin, 1886).  
   → SchL
 
-Use the well-established abbreviations for catalogs of works if they exist (BWV, KV, Hob., etc.) or the abbreviation used within the catalog, as long as the abbreviation is not already in use in Muscat.
+Use the established abbreviations for catalogs of works if they exist (BWV, KV, Hob., etc.) or the abbreviation used within the catalog, as long as the abbreviation is not already in use in Muscat.
 
 ###### Examples
 
@@ -121,7 +121,7 @@ Use the well-established abbreviations for catalogs of works if they exist (BWV,
 
 ##### Special cases
 
-Publications that contain the term _thematic catalog_ in their titles are often catalogs of works but may occasionally touch on other topics or not be extensive in their scope. Always double-check. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title like you do for normal secondary literature. In short, anything that is not a catalog of works is assigned a literature short title.
+Publications that contain the term "thematic catalog" in their titles are usually catalogs of a composer's works but may occasionally treat a different area or not be extensive in their scope. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title as for general secondary literature. In short, anything that is not a catalog of a composer's works is assigned short title as for general secondary literature.
 
 ###### Examples
 
@@ -141,4 +141,4 @@ For modern music editions, use the last name of the editor plus the first letter
 ###### Example
 
 - Barbara Strozzi, _Havete torto_, edited by Candace A. Magner (Cor Donato Editions, 2019).  
-  → StrozziH 2019  
+  → MangerS 2019  
