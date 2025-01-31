@@ -25,4 +25,4 @@ If you enter the composer as **Anonymus,** do not enter an attribution qualifier
 - **Conjectural** is a guess based on secondary evidence, such as secondary literature.
 - **Misattributed** means the name is on the source but is incorrect. If the source is anonymous, leave this field blank.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **Verified.** The attribution was used if the composer's name appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in February 2024.
+**Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **Verified.** The attribution was used if the composer's name appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in 2024.
