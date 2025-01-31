@@ -35,5 +35,3 @@ What follows are examples of types of information that can be included as a note
   Include the complete RISM siglum, the shelfmark, and the RISM ID number.
  - Composer identified based on incipits in D-KPk 282 (RISM ID no. 450035504).
  - Concordant tune at US-Wc M1.A1A (RISM ID no. 000118313) has title "Jove in his chair".
-- **URLs**  
-  Consider whether the website should be entered as secondary literature or in the field **External resource (856)**. If you enter a URL here, do not include any punctuation directly before or directly after the URL, otherwise the link will not resolve.
