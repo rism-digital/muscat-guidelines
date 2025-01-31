@@ -1,45 +1,19 @@
 ### Standardized titles – Subject headings
 
-This section refers to cataloging situations where genres are used as standardized titles (refer to the guidelines for **Standardized title (240)**). In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
+This section expands on the guidelines for **Standardized title (240)** in cataloging situations where genres are used as standardized titles. In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
 
-Differences can arise in the following situations: If the same subject heading applies to vocal and instrumental genres, you will see the words (**voc.**) or (**inst.**) after the term in parentheses. Specifications such as (dances) or (stage) may also be added in parentheses after the main term.
+A variant subject heading is used in the following situations:
+- If the same subject heading can be used in both vocal and instrumental genres, an abbreviation in parentheses is added after the genre: **(voc.)** or **(inst.)**, respectively.
+- Specifications such as **(dances)** or **(stage)** may also be added in parentheses after the main term.
 
-En lo sucesivo se presentan algunos ejemplos y sus correspondencias, para los siguientes tipos de títulos normalizados:
+Below are lists of standardized titles and their corresponding subject headings. The lists are not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English and in the plural) and not in translation. Note the special situations at the end.
 
+Contenidos:
 - Música instrumental y vocal en general
 - Música sacra vocal
 - Música para el escenario, el teatro, etc.
 - Ejercicios, estudios, escuelas, lecciones
 - Danzas
-
-Aquí hay algunos ejemplos para situaciones especiales:
-
-1. Un popurrí cuya música proviene de varias óperas:  
-   Use  **_Potpourri _** como título uniforme. Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
-
-2. Un arreglo de melodía de coral donde el incipit de texto es desconocido:  
-   Use **Chorale arrangements** tanto como Título uniforme y como Descriptor.
-
-3. Un popurrí cuya música proviene de una sola ópera:  
-   ¡No necesita esta lista! Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas** , etc. según corresponda). Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**.
-
-4. A potpourri where you know that the music comes from several operas:  
-   Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
-
-5. Un popurrí respecto del cual se desconoce la procedencia de la música:  
-   Use  **Potpourris ** como título y como descriptor.
-
-6. Un arreglo de música para vientos de una obra teatral cuyo nombre se conoce:  
-   Usa el nombre de la obra escénica como título uniforme y seleccione  **Arreglo**. Introduzca como descriptor  **Wind music**.
-
-7. Un arreglo de música para vientos de una obra teatral cuyo nombre se desconoce:  
-   Utilice  **Wind music** tanto como título uniforme y como descriptor.
-
-8. Para bocetos de composiciones desconocidas, utilice el título distintivo y el descriptor **Skteches**. For sketches of known compositions, use the distinctive title of the work and **Sketches** as second subject heading.
-
-9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
-
-La siguiente lista proporciona una idea de qué títulos uniformes tienen un descriptor correspondiente. Note that this list is not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English in the plural) and not in translation.
 
 #### Música instrumental y vocal en general
 
@@ -146,3 +120,30 @@ Standardized title — Corresponding subject heading
 Standardized title — Subject heading
 - Música vocal sacra
 - Rounds — Rounds (dances)
+
+#### Special situations
+
+1. Un popurrí cuya música proviene de varias óperas:  
+   Use  **_Potpourri _** como título uniforme. Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**. Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+
+2. Un arreglo de melodía de coral donde el incipit de texto es desconocido:  
+   Use **Chorale arrangements** tanto como Título uniforme y como Descriptor.
+
+3. Un popurrí cuya música proviene de una sola ópera:  
+   ¡No necesita esta lista! Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas** , etc. según corresponda). Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**.
+
+4. A potpourri where you know that the music comes from several operas:  
+   Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+
+5. Un popurrí respecto del cual se desconoce la procedencia de la música:  
+   Use  **Potpourris ** como título y como descriptor.
+
+6. Un arreglo de música para vientos de una obra teatral cuyo nombre se conoce:  
+   Usa el nombre de la obra escénica como título uniforme y seleccione  **Arreglo**. Enter the subject heading **Wind music**.
+
+7. Un arreglo de música para vientos de una obra teatral cuyo nombre se desconoce:  
+   Utilice  **Wind music** tanto como título uniforme y como descriptor.
+
+8. Para bocetos de composiciones desconocidas, utilice el título distintivo y el descriptor **Skteches**. For sketches of known compositions, use the distinctive title of the work and **Sketches** as second subject heading.
+
+9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.

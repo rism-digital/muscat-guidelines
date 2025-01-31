@@ -22,7 +22,7 @@ Si el lugar no aparece identificado en un impreso, ingrese **[s.l.].** Para los 
 
 #### Fecha (260 $c)
 
-Ingrese la fecha de la fuente. Utilice números arábigos (por ejemplo, 1624 en lugar de MDCXXIV). Tenga en cuenta que este campo está destinado a la fecha del material en sí, no de la obra notada en la fuente. Si la fuente contiene un error obvio (como puede ser un error tipográfico), registre la fecha correcta en este campo.
+Ingrese la fecha de la fuente. Use Arabic numerals (such as 1624 instead of MDCXXIV). Tenga en cuenta que este campo está destinado a la fecha del material en sí, no de la obra notada en la fuente. Si la fuente contiene un error obvio (como puede ser un error tipográfico), registre la fecha correcta en este campo.
 
 En el caso de los manuscritos, trate siempre de consignar una fecha, aunque sea aproximada. Si cuenta con una fecha con día, mes y año, escríbala con el formato AAAA-MM-DD.
 
@@ -68,7 +68,7 @@ For approximate periods of time, enter a range of years based on the following s
 | 18th century, 2nd half        | 1750-1799                            |
 | 18th century                  | 1700-1799                            |
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed certain coded date formats. This practice was discontinued with the introduction of Muscat. The obsolete date formates are the following, with their meaning in parentheses:
+**Obsolete procedures**: Older RISM cataloging guidelines allowed certain coded date formats. This practice was discontinued with the introduction of Muscat. The obsolete date formats are the following, with their meaning in parentheses:
 - 1782a (before 1782)
 - 1782c (ca. 1782)
 - 1782p (after 1782)

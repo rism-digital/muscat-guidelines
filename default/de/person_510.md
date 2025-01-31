@@ -4,4 +4,4 @@ Das Feld **Beziehung Körperschaft** wird verwendet, um Institutionen zu dokumen
 
 #### Beziehung Körperschaft (510 $a)
 
-Geben Sie die mit der Person in Verbindung stehende Institution an. Das Feld ist mit der Normdatei **Körperschaften** verknüpft.
+Enter the institution associated with the person. Das Feld ist mit der Normdatei **Körperschaften** verknüpft.

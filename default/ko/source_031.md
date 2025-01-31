@@ -1,6 +1,6 @@
 ### Incipit (031)
 
-The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the highest voice and the first violin or the highest instrumental part. Notate transposing instruments at sounding pitch.
+The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the highest voice and the first violin or the highest instrumental part.
 
 If the notation you need is not available using the Plaine & Easie code, transcribe the music the best you can and include an explanatory note. You can attach an image of the incipit from the source for further clarification.
 
@@ -11,7 +11,7 @@ For assistance with transcribing mensural notation, see "Basic Mensural Notation
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
 _MARC export note:_  
-Records that contain an incipit (anything in field 031) receive $2pe upon saving, indicating that the incipit was created using the Plaine and Easie code.
+Records that contain an incipit (anything in field 031) receive $2pe upon saving, indicating that the incipit was created using the Plaine & Easie code.
 
 #### Work number, movement number, incipit number (031 $a, b, c)
 
@@ -30,7 +30,7 @@ The incipit number is embedded within the hierarchy of the movement or work. Ide
 - 1.1.1 = 1st work, 1st movement, 1st incipit
 - 1.1.2 = 1st work, 1st movement, 2nd incipit (sounds at the same time as 1.1.1)
 - 1.2.1 = 1st work, 2nd movement, 1st incipit
-- 1.3.1 = 1st work, 3nd movement, 1st incipit
+- 1.3.1 = 1st work, 3rd movement, 1st incipit
 
 Periods between the numbers are automatically added by Muscat.
 
@@ -48,13 +48,15 @@ Enter the title of the movement and tempo or similar indications, if specified, 
 
 #### Voice/instrument (031 $m)
 
-Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Indicate the tuning of an instrument in the **General note** field.
+Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Indicate the tuning of an instrument in the **General note** field. If the instrument is a transposing instrument, you may enter it at notated pitch or at sounding pitch. In the field **General note (031 $q)**, indicate which option you used.
 
 ##### Examples
 
 - pf
-- T coro
+- Coro T
 - org with text
+
+**Obsolete procedures**: Older RISM guidelines required music incipits for transposing instruments to be entered at sounding pitch.
 
 #### Role (031 $e)
 
@@ -68,7 +70,7 @@ Text incipits are given in standardized form. Enter the text incipit using moder
 
 Do not put portions of the text in square brackets or supply missing words. Omit punctuation marks and repetitions in the text.
 
-Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at the beginnings of texts as words. Upper and lower case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. If the text incipit is used as the standardized title (240), make sure that the length and spelling agree exactly.
+Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at the beginnings of texts as words. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. If the text incipit is used as the standardized title (240), make sure that the length and spelling agree exactly.
 
 Omit the text entirely if you cannot read it and add a note saying "Text illegible" or similar.
 

@@ -1,6 +1,6 @@
 ### Item part of (760)
 
-The field **Item part of** is used to link the item to a larger unit, such as linking an article to a periodical, or a chapter to a yearbook, or a book to a series. Larger units must be in Muscat before they can be linked.
+The field **Item part of** is used to link the item to a larger unit, such as linking an article to a periodical, or a chapter to a yearbook, or a book to a series. The larger unit must be in Muscat before it can be linked.
 
 #### Título del periódico, libro o serie (760 $t)
 

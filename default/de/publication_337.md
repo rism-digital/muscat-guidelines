@@ -10,8 +10,8 @@ Wählen Sie den Medientyp aus der folgenden Liste:
 
 - **CD-ROM**
 - **E-Book**
-- **Elektronische Ressource**: wie eine Datenbank, Website oder ein Online-Werkverzeichnis
-- **Manuskript**: Ein handgeschriebenes Dokument
+- **Electronic resource**: Such as a database, website, or online catalog of works.
+- **Manuscript**: A handwritten document.
 - **Medienkombination**
 - **Mikrofiche**
 - **Mikrofilm**

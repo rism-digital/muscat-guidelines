@@ -1,6 +1,6 @@
 ### Íncipits (031)
 
-The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Los íncipits ayudan a identificar las obras y facilitan la comparación de las fuentes entre sí. Para la música instrumental se prefiere el registro de fragmentos de una parte aguda y de una parte grave, como vl 1 y bajo. En el caso de la música vocal-instrumental, incluya íncipits de la voz más aguda y el primer violín o la parte instrumental más aguda. En el caso de los instrumentos transpositores, transcriba los fragmentos en altura real.
+The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Los íncipits ayudan a identificar las obras y facilitan la comparación de las fuentes entre sí. Para la música instrumental se prefiere el registro de fragmentos de una parte aguda y de una parte grave, como vl 1 y bajo. En el caso de la música vocal-instrumental, incluya íncipits de la voz más aguda y el primer violín o la parte instrumental más aguda.
 
 En caso de que la notación del fragmento que necesita transcribir no pueda representarse con código _Plaine & Easie_, transcriba la música de la manera más fiel posible e incluya una nota aclaratoria al respecto. Puede adjuntar una imagen del íncipit en la fuente para mayor claridad.
 
@@ -11,7 +11,7 @@ For assistance with transcribing mensural notation, see "Basic Mensural Notation
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
 _MARC export note:_  
-Records that contain an incipit (anything in field 031) receive $2pe upon saving, indicating that the incipit was created using the Plaine and Easie code.
+Records that contain an incipit (anything in field 031) receive $2pe upon saving, indicating that the incipit was created using the Plaine & Easie code.
 
 #### Número de obra, número de movimiento, número de íncipit (031 $a, b, c)
 
@@ -30,7 +30,7 @@ The incipit number is embedded within the hierarchy of the movement or work. Ide
 - Texto de una parte vocal faltante
 - Íncipits literarios en el idioma original de la obra, cuando la fuente presenta una versión traducida
 - 1.2.1 = 1st work, 2nd movement, 1st incipit
-- 1.3.1 = 1st work, 3nd movement, 1st incipit
+- 1.3.1 = 1st work, 3rd movement, 1st incipit
 
 Periods between the numbers are automatically added by Muscat.
 
@@ -48,13 +48,15 @@ Registre el título del movimiento y el tempo –o indicaciones similares–, si
 
 #### Voz/instrumento (031 $m)
 
-Registre la parte vocal o instrumental correspondiente al íncipit siguiendo la lista de **abreviaturas de instrumentos de RISM**. Use **V** para una parte vocal desconocida e **i** para una parte instrumental desconocida. Enter **i** for an unknown instrumental part. En el caso de los instrumentos transpositores, transcriba los fragmentos en altura real. Indique la afinación del instrumento en el campo **Nota general**.
+Registre la parte vocal o instrumental correspondiente al íncipit siguiendo la lista de **abreviaturas de instrumentos de RISM**. Use **V** para una parte vocal desconocida e **i** para una parte instrumental desconocida. Enter **i** for an unknown instrumental part. Indique la afinación del instrumento en el campo **Nota general**. If the instrument is a transposing instrument, you may enter it at notated pitch or at sounding pitch. In the field **General note (031 $q)**, indicate which option you used.
 
 ##### Examples
 
 - |
-- T coro
+- Coro T
 - org with text
+
+**Obsolete procedures**: Older RISM guidelines required music incipits for transposing instruments to be entered at sounding pitch.
 
 #### Personaje (031 $e)
 
@@ -68,7 +70,7 @@ Los íncipits literarios se presentan de forma estandarizada. Registre el íncip
 
 Do not put portions of the text in square brackets or supply missing words. Omita los signos de puntuación y las repeticiones del texto.
 
-Las tildes deben usarse sólo si aparecen en el diccionario o si son gramaticalmente correctas. Escriba los números de principio del texto como palabras. El uso de mayúsculas y minúsculas debe seguir las reglas del idioma respectivo, salvo en el caso de las designaciones de Dios (Herr, Dio, Dieu, Signore, Lord, etc.) que se colocan siempre con mayúscula inicial. Si el íncipit literario se usa como Título Uniforme (240), asegúrese de que el largo y la ortografía se correspondan de modo exacto.
+Las tildes deben usarse sólo si aparecen en el diccionario o si son gramaticalmente correctas. Escriba los números de principio del texto como palabras. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. Si el íncipit literario se usa como Título Uniforme (240), asegúrese de que el largo y la ortografía se correspondan de modo exacto.
 
 Omita el texto por completo si no puede leerlo y añada una nota que diga “Texto ilegible” o algo similar.
 
