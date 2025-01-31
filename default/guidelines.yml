@@ -53,9 +53,7 @@ chapters:
         - title: "787"
           helpfile: "source_787"
           index: true
-        - title: "775"
-          helpfile: "source_775"
-          index: true
+
     - guidelines_title: "people"
       subsections:
         - title: "100"
@@ -86,6 +84,9 @@ chapters:
           index: true
         - title: "730"
           helpfile: "source_730"
+          index: true
+        - title: "597"
+          helpfile: "source_597"
           index: true
         - title: "650"
           helpfile: "source_650"
@@ -119,9 +120,6 @@ chapters:
         - title: "260"
           helpfile: "source_260"
           index: true
-        - title: "597"
-          helpfile: "source_597"
-          index: true
         - title: "300"
           helpfile: "source_300"
           index: true
@@ -137,15 +135,11 @@ chapters:
         - title: "592"
           helpfile: "source_592"
           index: true
-        - title: "500"
-          helpfile: "source_500"
-          index: true
         - title: "563"
           helpfile: "source_563"
           index: true
-        - title: "856"
-          helpfile: "source_856"
-          index: true
+        - title: "973"
+          helpfile: "source_973"
     - guidelines_title: "incipit"
       subsections:
         - title: "031"
@@ -153,6 +147,11 @@ chapters:
           index: true
     - guidelines_title: "edit_references"
       subsections:
+        - source: "588"
+          helpfile: "source_588" 
+        - title: "500"
+          helpfile: "source_500"
+          index: true
         - title: "505"
           helpfile: "source_505"
           index: true
@@ -161,9 +160,6 @@ chapters:
           index: true
         - title: "691"
           helpfile: "source_691"
-          index: true
-        - title: "510"
-          helpfile: "source_510"
           index: true
         - title: "596"
           helpfile: "source_596"
@@ -177,6 +173,9 @@ chapters:
         - title: "518"
           helpfile: "source_518"
           index: true
+        - title: "856"
+          helpfile: "source_856"
+          index: true
     - guidelines_title: "administration"
       subsections:
         - title: "001"
@@ -185,8 +184,21 @@ chapters:
         - title: "040"
           helpfile: "source_040"
           index: true
+        - title: "980"
+          helpfile: "source_980"
+        - title: "981"
+          helpfile: "source_981"
+        - title: "510"
+          helpfile: "source_510"
+          index: true
         - title: "599"
           helpfile: "source_599"
+          index: true
+        - title: "775"
+          helpfile: "source_775"
+          index: true
+        - title: "910"
+          helpfile: "source_910"
           index: true
     - guidelines_title: "record_actions"
       subsections:
@@ -221,6 +233,8 @@ chapters:
     - guidelines_title: "in_identity"
       model: "institution"
       subsections:
+        - title: "094"
+          helpfile: "institution_094"
         - title: "110"
           helpfile: "institution_110"
         - title: "510"
@@ -238,8 +252,12 @@ chapters:
     - guidelines_title: "in_contact"
       model: "institution"
       subsections:
+        - title: "370"
+          helpfile: "institution_370"
         - title: "371"
           helpfile: "institution_371"
+        - title: "372"
+          helpfile: "institution_372"
     - guidelines_title: "in_description"
       model: "institution"
       subsections:
@@ -328,9 +346,6 @@ chapters:
         - title: "551"
           helpfile: "person_551"
           index: true
-        - title: "667"
-          helpfile: "person_667"
-          index: true
     - guidelines_title: "pe_references"
       model: "person"
       subsections:
@@ -345,6 +360,12 @@ chapters:
           index: true
         - title: "856"
           helpfile: "person_856"
+          index: true
+        - title: "667"
+          helpfile: "person_667"
+          index: true
+        - title: "910"
+          helpfile: "person_910"
           index: true
     - guidelines_title: "pe_control"
       model: "person"
