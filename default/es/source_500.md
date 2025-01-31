@@ -34,5 +34,3 @@ A continuación se presentan ejemplos del tipo de información que puede registr
   Include the complete RISM siglum, the shelfmark, and the RISM ID number.
  - Composer identified based on incipits in D-KPk 282 (RISM ID no. 450035504).
  - Melodía concordante en US-Wc M1.A1A (RISM ID no. 000118313), con el título “Jove in his chair”
-- **URLs**  
-  Consider whether the website should be entered as secondary literature or in the field **External resource (856)**. Si registra una URL en este campo, no incluya ningún signo de puntuación directamente antes o después de la URL, ya que de otro modo el vínculo no funcionará.

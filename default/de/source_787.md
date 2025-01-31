@@ -1,6 +1,6 @@
 ### Verwandte Quelle (787)
 
-Dieses Feld **Verwandte Quelle** wird verwendet, um eine Beziehung zwischen der vorliegenden Quelle und einer anderen Quelle in Muscat anzuzeigen. Füllen Sie alle drei Unterfelder in diesem Abschnitt aus.
+Dieses Feld **Verwandte Quelle** wird verwendet, um eine Beziehung zwischen der vorliegenden Quelle und einer anderen Quelle in Muscat anzuzeigen. All three subfields in this section must be filled out.
 
 Wenn Sie eine Beziehung zu einer anderen Quelle angeben, erscheint ein Link in der Vollanzeige des Datensatzes. Wenn beide Quellen zu Ihrer Bibliothek gehören, haben Sie die Möglichkeit, die Beziehung in einem Datensatz oder in beiden anzugeben.
 

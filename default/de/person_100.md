@@ -18,9 +18,9 @@ Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in translite
 
 #### Orden/Titel (100 $c)
 
-Dieses Feld dient zur Eingabe religiöser Orden oder Titel.
+Enter the person's religious order or title.
 
-Abkürzungen für religiöse Orden werden von der folgenden Wikipedia-Seite übernommen: [https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))
+Abbreviations for religious orders are taken from the Wikipedia page "\[Liste der Ordenskürzel (römisch-katholisch)\](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch).
 
 ##### Beispiele
 
@@ -33,8 +33,8 @@ Geben Sie das Geburts- und Todesjahr der Person ein oder geben Sie einen anderen
 
 Wenn die genauen Geburts- und/oder Todesjahre unbekannt sind, verwenden Sie die folgenden Abkürzungen.
 
-- **.sc**: Jahrhundert  
-  **18.sc** = 18. Jahrhundert
+- **.sc**: century  
+  **18.sc** = 18th century
 - **a**: vor  
   **1811a** = vor 1811
 - **p**: nach  
@@ -45,8 +45,8 @@ Wenn die genauen Geburts- und/oder Todesjahre unbekannt sind, verwenden Sie die 
   **1816\*** = geboren 1816, Todesjahr unbekannt
 - **+**: gestorben  
   **1756+** = gestorben 1756, Geburtsjahr unbekannt
-- **/**: oder  
-  **17/18** = lebte im 17. oder 18. Jahrhundert
+- **/**: or  
+  **17/18** = lived in the 17th or 18th centuries
 
 Verwenden Sie die folgenden Abkürzungen nicht für Datumsbereiche: in, me, ex, q, d, t
 
@@ -60,10 +60,6 @@ Verwenden Sie die folgenden Abkürzungen nicht für Datumsbereiche: in, me, ex, 
 - 1760c-1808
 - 17/18
 
-#### Status (100 $w)
-
-Dieses Feld enthält importierte Daten aus veralteten Katalogverfahren und wird nicht mehr verwendet.
-
 #### Andere Lebensdaten (100 $y)
 
 Hier können Sie die vollständigen Lebensdaten, einschließlich Monat und Tag, eintragen. Geben Sie konkrete Daten in der Form TT.MM.JJJJ ein. Nachgewiesene Wirkungszeiten werden mit vorangestelltem **fl.** angegeben.
@@ -72,3 +68,5 @@ Hier können Sie die vollständigen Lebensdaten, einschließlich Monat und Tag, 
 
 - 22.11.1879-31.12.1967
 - fl. 1732-1735
+
+**Obsolete procedures**: The field **Status (100 $w)** was used as an indicator from the Deutsche Nationalbibliothek and was removed in 2024.

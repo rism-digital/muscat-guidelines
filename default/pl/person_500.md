@@ -1,6 +1,6 @@
 ### Related personal name (500)
 
-The field **Related personal name* describes familial relationships.
+The field **Related personal name** describes familial relationships.
 
 #### Related personal name (500 $a)
 
@@ -12,12 +12,12 @@ Indicate the type of relationship the person in question has to the related pers
 
 Select from the following:
 
-- **brother of**
-- **child of**
-- **confused with**
-- **father of**
-- **married to**
-- **mother of**
-- **related to**: a different relationship, such as an aunt, uncle, cousin, etc.
-- **sister of**
-- **other**: select if the relationship is not familial
+- **Brother of**
+- **Child of**
+- **Confused with**
+- **Father of**
+- **Married to**
+- **Mother of**
+- **Other**: Select if the relationship is not familial.
+- **Related to**: Use for a different familial relationship not on this list, such as an aunt, uncle, cousin, etc.
+- **Sister of**

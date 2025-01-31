@@ -26,7 +26,7 @@ Introduzca un número o código estándar cancelado o no válido.
 
 Enter a machine actionable and parsable URI that identifies a name or label for the institution.
 
-#### Objeto del mundo real URI (024 $1)
+#### Real world object URI (024 $1)
 
 Ingrese la URI que identifica la institución.
 

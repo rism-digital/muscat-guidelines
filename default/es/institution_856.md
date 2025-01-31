@@ -1,13 +1,11 @@
-### Online finding aids (856; ISDIAH 5.3.8)
+### External resource (856; ISDIAH 5.3.8)
 
-The field **Online finding aids** provides a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
+The field **External resource** provides relevant URLs for the institution. In accordance with ISDIAH guidelines, it can provide a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
 
-Introduzca información (incluidas las URLs) sobre los instrumentos de descripción, catálogos, inventarios, etc. correspondientes a las colecciones de la institución.
+#### URL del recurso externo (856 $u)
 
-#### Instrumentos de descripción, guías y publicaciones (MARC 856 $u; ISDIAH 5.3.8)
+Enter the URL. Only enter one URL per field. All URLs must begin with `http` or `https`.
 
-Introduzca una breve descripción de la URL. Only enter one URL per field. All URLs must begin with `http` or `https`.
-
-#### Nota (856 $z)
+#### Nota sobre el recurso externo (856 $z)
 
 Introduzca la URL de la ayuda de búsqueda.

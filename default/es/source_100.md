@@ -25,4 +25,4 @@ If you enter the composer as **Anonymus,** do not enter an attribution qualifier
 - **Conjetural** refiere a una suposición basada en evidencia secundaria (por ej., bibliografía secundaria)
 - **Mal atribuida** significa que hay un nombre en la fuente pero es incorrecto. Si la fuente es anónima, deje este campo en blanco.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **Verified.** The attribution was used if the composer's name appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in February 2024.
+**Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **Verified.** The attribution was used if the composer's name appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in 2024.

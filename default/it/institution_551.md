@@ -1,6 +1,6 @@
-### Places (551)
+### Related place (551)
 
-The field **Places** is used to record the location of the institution in 110 $c in standardized form.
+The field **Related place** is used to record the location of the institution in 110 $c in standardized form.
 
 #### Place (551 $a)
 

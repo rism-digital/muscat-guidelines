@@ -1,8 +1,8 @@
-### Geographischer Name (551)
+### Related place (551)
 
-Das Feld **Geographischer Name** ist für geographische Namen, die mit der betreffenden Person verknüpft sind.
+The field **Related place** is for geographic names associated with the person in question.
 
-#### Geographischer Name (551 $a)
+#### Related place (551 $a)
 
 Geben Sie den geographischen Namen (Land, Region, Stadt, etc.) ein, der der betreffenden Person zugeordnet ist. Namen werden in der modernen Landessprache eingetragen. Geographische Namen sind mit der Normdatei **Orte** verknüpft.
 

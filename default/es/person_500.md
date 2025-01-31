@@ -1,6 +1,6 @@
 ### Related personal name (500)
 
-The field **Related personal name* describes familial relationships.
+The field **Related personal name** describes familial relationships.
 
 #### Tipo de relación (500 $i)
 
@@ -12,12 +12,12 @@ Indique el tipo de relación que une a la persona en cuestión con la persona re
 
 Seleccione una de las siguientes opciones:
 
-- **hermano de**
-- **hijo de**
-- **confundido con**
-- **padre de**
-- **casado con**
-- **madre de**
-- **related to**: a different relationship, such as an aunt, uncle, cousin, etc.
-- **hermana de**
-- **other**: select if the relationship is not familial
+- **Brother of**
+- **Child of**
+- **Confused with**
+- **Father of**
+- **Married to**
+- **Mother of**
+- **Other**: Select if the relationship is not familial.
+- **Related to**: Use for a different familial relationship not on this list, such as an aunt, uncle, cousin, etc.
+- **Sister of**

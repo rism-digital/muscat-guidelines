@@ -4,9 +4,7 @@ The field **Name variant** is for forms of the name that differ from the authori
 
 #### Name variant (400 $a)
 
-Enter the name in the form described in the field **Heading - Personal name (100 $a)**.
-
-For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
+Enter the name variant. For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
 
 Additions to names such as Jr, III, Sir, Meister, etc. are entered here, for example: **Sinatra, Frank Jr.**
 
@@ -16,9 +14,9 @@ Do not enter anything in this field.  This field may be filled out automatically
 
 #### Type of name variant (400 $j)
 
-Select from the following list. The codes in square brackets refer to internal RISM codes.
+Select the type of name variant from the following list. The codes in square brackets refer to internal RISM codes.
 
-- **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets
+- **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets.
 - **Baptismal name** [tn]
 - **Birth name** [gg]
 - **Initials** [in]
@@ -29,4 +27,4 @@ Select from the following list. The codes in square brackets refer to internal R
 - **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_
 - **Uncategorized** [xx]
 
-The default value **xx** (unassigned) appears in older records.
+The default value **xx** (uncategorized) appears in older records.

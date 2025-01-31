@@ -18,9 +18,9 @@ For names originally written using non-Latin scripts, enter the transliterated f
 
 #### Religious order/Title (100 $c)
 
-This field is for entering religious orders or titles.
+Enter the person's religious order or title.
 
-Abbreviations for religious orders are taken from the following Wikipedia page: [https://de.wikipedia.org/wiki/Liste\_der\_Ordensk%C3%BCrzel\_(r%C3%B6misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))
+Abbreviations for religious orders are taken from the Wikipedia page "\[Liste der Ordenskürzel (römisch-katholisch)\](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch).
 
 ##### Examples
 
@@ -34,7 +34,7 @@ Enter the person’s years of birth and death or enter a different relevant rang
 If the person's exact years of birth and/or death are unknown, use the following abbreviations to signal that the years are not exact.
 
 - **.sc**: century  
-  **18.sc** = Eighteenth century
+  **18.sc** = 18th century
 - **a**: before  
   **1811a** = before 1811
 - **p**: after  
@@ -46,7 +46,7 @@ If the person's exact years of birth and/or death are unknown, use the following
 - **+**: died  
   **1756+** = died in 1756, but year of birth unknown
 - **/**: or  
-  **17/18** = lived in the seventeenth or eighteenth centuries
+  **17/18** = lived in the 17th or 18th centuries
 
 Do not use the following abbreviations for date ranges: in, me, ex, q, d, t
 
@@ -60,10 +60,6 @@ Do not use the following abbreviations for date ranges: in, me, ex, q, d, t
 - 1760c-1808
 - 17/18
 
-#### Status (100 $w)
-
-This field contains imported data from obsolete cataloging practices and is no longer in use.
-
 #### Other life dates (100 $y)
 
 The full life dates, including month and day, may be entered here. Enter concrete dates in the form DD.MM.YYYY. Years active or flourished must be preceded by **fl.**.
@@ -72,3 +68,5 @@ The full life dates, including month and day, may be entered here. Enter concret
 
 - 22.11.1879-31.12.1967
 - fl. fl. 1732-1735
+
+**Obsolete procedures**: The field **Status (100 $w)** was used as an indicator from the Deutsche Nationalbibliothek and was removed in 2024.
