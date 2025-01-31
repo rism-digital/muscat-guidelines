@@ -1,8 +1,8 @@
-### Nombre geográfico (551)
+### Related place (551)
 
-The field **Geographic name** is for geographic names associated with the person in question.
+The field **Related place** is for geographic names associated with the person in question.
 
-#### Nombre geográfico (551 $a)
+#### Related place (551 $a)
 
 Enter the geographic name (country, region, city, etc.) associated with the person in question. Los nombres se introducen en el idioma local moderno. Los nombres geográficos están conectados con el registro de la autoridad de **Lugares**.
 
