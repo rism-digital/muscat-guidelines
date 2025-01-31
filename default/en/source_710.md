@@ -56,4 +56,4 @@ MARC relator code.
 - **Publisher [pbl]**
 - **Type designer [tyd]**: The organization that designed the typeface.
 
-If you are unsure whether the name is a publisher or a printer, select **Publisher**
+If you are unsure whether the institution is a publisher or a printer, select **Publisher**.
