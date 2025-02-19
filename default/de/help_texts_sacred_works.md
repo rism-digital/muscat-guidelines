@@ -1,5 +1,5 @@
-### Standardized texts of sacred works
+### Standardisierte Texte geistlicher Werke
 
-The following list of standard texts of sacred works provide an overview of the Latin texts most frequently used in sacred music. The list is ordered by genre. Within a genre, all incipits of all sections are listed.
+Die folgende Liste von Standardtexten für geistliche Werke gibt einen Überblick über die in der Kirchenmusik am häufigsten verwendeten lateinischen Texte. Die Liste ist nach Gattungen sortiert. Innerhalb einer Gattung werden alle Incipits aller Abschnitte aufgelistet.
 
 {% include common/help_texts_sacred_works.html %}
