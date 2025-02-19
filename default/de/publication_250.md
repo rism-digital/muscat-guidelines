@@ -9,5 +9,5 @@ Geben Sie die Ausgabe, wie sie auf der Titelseite oder anderswo auf der Publikat
 ##### Beispiele
 
 - New ed., rev. and enl.
-- Bilingual edition English/Español
+- zweisprachige Ausgabe Englisch/Spanisch
 - Auflage Partitur, zugleich Orgelstimme
