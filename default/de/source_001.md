@@ -4,4 +4,4 @@ Das Feld **RISM Dokumentnummer** ist die permanente RISM ID für den Datensatz. 
 
 Importdaten werden neunstellige RISM-ID-Nummern zugewiesen. Die ersten drei Ziffern einer neunstelligen Zahl zeigen die beitragende Arbeitsgruppe an.
 
-**Obsolete procedures**: In former RISM cataloging programs, the RISM ID number was entered by hand. The RISM ID number was nine digits in length and the first three digits indicated the national group. Some IDs started with three zeros, which may be ignored. This practice was discontinued with the introduction of Muscat.  
+**Altdaten**: In früheren RISM-Katalogisierungsprogrammen wurde die RISM-ID von Hand eingetragen. Die RISM-ID-Nummer war neun Ziffern lang und die ersten drei Ziffern deuten auf dieA rbeitsgruppe hin. Einige IDs haben mit drei Nullen begonnen, die ignoriert werden können. Diese Praxis wurde mit der Einführung von Muskat eingestellt.  

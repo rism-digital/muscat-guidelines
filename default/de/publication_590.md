@@ -1,11 +1,11 @@
-### Work catalog note (590)
+### Bemerkung Werkverzeichnis (590)
 
-The field **Work catalog note** is used to record decisions about how the work catalog is treated in Muscat.
+Das Feld **Bemerkung Werkverzeichnis** wird verwendet, um Entscheidungen darüber festzuhalten, wie das Werkverzeichnis in Muscat behandelt wird.
 
-#### Work catalog note (590 $a)
+#### Bemerkung Werkverzeichnis (590 $a)
 
-Enter decisions about how the work catalog is treated.
+Geben Sie Entscheidungen über die Verwendung des Werkverzeichnisses ein.
 
 ##### Beispiele
 
-- _Forthcoming_
+- _in Kürze_

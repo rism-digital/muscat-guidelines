@@ -1,20 +1,20 @@
-### External resource URL (856)
+### Elektronische Lokalisierung und Zugriff (856)
 
-The field **External resource URL** is used to link to external resources, such as an electronic version of the item, the publisher's website with more information, or a database.
+Das Feld **Elektronische Lokalisierung und Zugriff** wird verwendet, um auf externe Ressourcen zu verlinken wie eine elektronische Version der Publikation, die Website des Herausgebers mit weiteren Informationen oder eine Datenbank.
 
-#### External resource URL (856 $u)
+#### Elektronische Lokalisierung und Zugriff (856 $u)
 
-Enter the full URL of the external resource, beginning with http. Use permalinks whenever possible.
+Geben Sie die vollständige URL der externen Ressource ein, beginnend mit http. Verwenden Sie möglichst Permalinks.
 
-#### Note about external resource (856 $z)
+#### Für das Publikum bestimmte Fussnote (856 $z)
 
-Enter a brief note that describes the link.
+Geben Sie eine kurze Beschreibung der URL.
 
-##### Examples
+##### Beispiele
 
 - Electronic resource
 - Elektronische Ressource
-- Link to PDF
+- Link zum PDF
 - Link zum Inhaltsverzeichnis
-- Some issues are available as a PDF
-- Link to database
+- Einige Nummern sind im PDF-Format erhältlich
+- Link zur Datenbank
