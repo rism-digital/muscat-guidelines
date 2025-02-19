@@ -1,39 +1,39 @@
-### External resource (856)
+### Elektronische Lokalisierung und Zugriff (856)
 
-The field **External resource** is used to link to an external resource that bears a direct connection to the source being described.
+Das Feld **Externe Ressource** wird verwendet, um auf eine externe Ressource zu verlinken, die eine direkte Verbindung zu der beschriebenen Quelle hat.
 
-#### External resource URL (856 $u)
+#### Elektronische Lokalisierung und Zugriff (856 $u)
 
-Enter the full URL of the external resource. Always use permalinks.
+Geben Sie die vollständige URL der externen Ressource ein. Immer Permalinks verwenden.
 
-#### Note about external resource (856 $z)
+#### Für das Publikum bestimmte Fussnote (856 $z)
 
-**This field is required when entering a link to an external resource.**
+**Pflichtfeld, wenn Sie einen Link auf eine externe Ressource eingeben.**
 
-Enter a brief description that explains why the URL is relevant to the source being described. Enter using your cataloging language.
+Geben Sie eine kurze Beschreibung zur Erläuterung, warum die URL für die beschriebene Quelle relevant ist. Verwenden Sie Ihre Katalogisierungssprache.
 
-##### Examples
+##### Beispiele
 
-- Digital copy
-- Watermark on p. 4
-- Project homepage
-- Detail of binding
-- Bibliographic record
-- Link to record in Bach Digital
-- Link to work in the Frescobaldi Thematic Catalogue Online
-- Entry in the church registry
+- Digitalisat
+- Wasserzeichen auf S. 4
+- Projektseite
+- Details der Bindung
+- Bibliographischer Eintrag
+- Link zu Bach Digital
+- Link zum Thematischen Katalog Frescobaldi Online
+- Eintrag im Kirchenregister
 
 
-#### Link type (856 $x)
+#### Linktyp (856 $x)
 
-**This field is required when entering a link to an external resource.**
+**Pflichtfeld, wenn Sie einen Link auf eine externe Ressource eingeben.**
 
 Folgende Angaben sind möglich:
 
-- The preference is to link to institutional repositories but if one is not available then links to external repositories such as the Internet Archive or IMSLP are allowed. **Digitized source**: The link is to an external website which is a digitized copy of the resource being described. If a link to a digitized source is included in a record for a collection, it is not necessary to duplicate the same link in the individual entries.
- - Example  
+- **Notendigitalisat**: Der Link führt zu einer externe Webseite mit einer digitalisierten Version der im Titel vorliegenden Quelle. Bevorzugt wird immer die digitale Sammlung der besitzenden Institution, dann externe Repertorien (Internet Archive oder IMSLP). Bei Sammlungen ist es nicht notwendig, den Lihk in den Teileinträgen zu wiederholen.
+ - Beispiel  
    [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)
-- **IIIF manifest (digitized source)** and **IIIF manifest (other)**: The linked object is a machine-readable JSON object. IIIF links should only be to the manifest, not to a digital surrogate. IIIF manifests do not display the image but rather consist of machine-readable text that must be processed by an internal document viewer such as diva.js before it displays a meaningful image. When viewing the manifest in a web browser, it will start with the curly bracket {. The document is embedded in the web page directly. In many cases, "manifest," "iiif," or similar appears in the link.   
+- **IIIF-Manifest (digitalisierte Quelle)** und **IIIF-Manifest (sonstige)**: Das verknüpfte Objekt ist ein maschinenlesbares JSON-Objekt. IIIF links should only be to the manifest, not to a digital surrogate. IIIF manifests do not display the image but rather consist of machine-readable text that must be processed by an internal document viewer such as diva.js before it displays a meaningful image. When viewing the manifest in a web browser, it will start with the curly bracket {. The document is embedded in the web page directly. In many cases, "manifest," "iiif," or similar appears in the link.   
   **IIIF manifest (digitized source)** should be used when the manifest represents a digital surrogate of the source being described.  **IIIF manifest (other)** should be used when the manifest represents an element other than the full source, such as a watermark.
  - Example [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)
 
