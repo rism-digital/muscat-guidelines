@@ -1,12 +1,12 @@
-### Title (240)
+### Titel (240)
 
-**Required field.**
+**Pflichtfeld.**
 
-The field **Title** is for the title as given on the item.
+Das Feld **Titel** ist für den Titel wie auf dem Exemplar angegeben.
 
-#### Title (240 $a)
+#### Titel (240 $a)
 
-Enter the title of the item, including subtitles. Translations of the title can go in the field **Additional title (730)**. Book reviews can be indicated by the prefix **[review of:]** and the name of the item.
+Geben Sie den Titel des Exemplars ein, inklusive Untertitel. Translations of the title can go in the field **Additional title (730)**. Book reviews can be indicated by the prefix **[review of:]** and the name of the item.
 
 #### Category (240 $g)
 
