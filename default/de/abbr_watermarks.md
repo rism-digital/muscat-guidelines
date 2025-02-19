@@ -1,4 +1,4 @@
-## Watermarks
+## Wasserzeichen
 
 The section **Watermarks** contains standardized terms used to refer to watermarks.
 
