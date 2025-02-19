@@ -6,28 +6,28 @@ Das Feld **Titel** ist für den Titel wie auf dem Exemplar angegeben.
 
 #### Titel (240 $a)
 
-Geben Sie den Titel des Exemplars ein, inklusive Untertitel. Translations of the title can go in the field **Additional title (730)**. Book reviews can be indicated by the prefix **[review of:]** and the name of the item.
+Geben Sie den Titel des Exemplars ein, inklusive Untertitel. Übersetzungen des Titels können in das Feld **Zusätzlicher Titel (730)** eingetragen. Buchrezensionen können durch das Präfix **[Rezension von:]** und dem Titel des Artikels angezeigt werden.
 
-#### Category (240 $g)
+#### Art/Inhalt (240 $g)
 
-Select the category that describes the publication. Choose from:
+Wählen Sie eine Kategorie aus, die die Publikation beschreibt. Wählen aus:
 
-- **Bibliography**
-- **Catalog**: Other catalogs, including catalogs of collections or library holdings.
-- **Catalog of works**: A catalog of a composer that does not include incipits.
-- **Collective catalog**: Catalogs that include works by more than one composer.
-- **Encyclopedia**
-- **Music edition**: A modern edition or a critical edition of music.
-- **Other**: Includes all other non-catalog, non-encyclopedia publications, such as articles, essays, chapters, biographies, cultural histories, etc.
-- **Thematic catalog**: A catalog of a composer that includes music incipits.
+- **Bibliographie**
+- **Katalog**: Andere Kataloge, einschließlich Kataloge von Sammlungen oder Beständen.
+- **Werkverzechnis**: Ein Werkverzeichnis eines Komponisten, das keine Incipits enthält.
+- **Sammelkatalog**: Katalog, der Werke von mehreren Komponisten enthält.
+- **Enzyklopädie**
+- **Musikedition**: Eine moderne Ausgabe oder eine kritische Notenausgabe.
+- **Sonstige Funktion**: Enthält alle anderen Publikationen ohne Katalog, keine Enzyklopädie sowie Artikel, Essays, Kapitel, Biografien, Kulturgeschichte, etc.
+- **Thematischer Katalog**: Ein Werkverzeichnis eines Komponisten, das Musikincipits enthält.
 
-#### Type of publication (240 $h)
+#### Ausgabeform (240 $h)
 
-Select the type of publication from the following list:
+Wählen Sie die Art der Veröffentlichung aus der folgenden Liste:
 
-- **Article/chapter**
-- **Monograph**: A single publication published on a single topic (includes most books).
-- **Periodical**: A journal, newspaper, or magazine.
-- **Series**: Names of publication series.
-- **Volume in a series**
-- **Yearbook**
+- **Artikel/Kapitel**
+- **Monographie**: Eine einzelne Publikation, die zu einem einzelnen Thema veröffentlicht wird (meistens Bücher).
+- **Periodikum**: Ein Journal, eine Zeitung oder eine Zeitschrift.
+- **Serie**: Name der Publikationsreihe.
+- **Band innerhalb einer Serie**
+- **Jahrbuch**
