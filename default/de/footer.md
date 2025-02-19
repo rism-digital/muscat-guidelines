@@ -1,1 +1,1 @@
-Guidelines footer
+Richtlinien Fußzeile
