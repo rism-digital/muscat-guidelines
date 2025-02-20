@@ -92,22 +92,22 @@ Doppelte Normdateneinträge können von der Zentralredaktion zusammengeführt we
 
 1. Wählen Sie zwei Datensätze aus, die Sie zusammenführen möchten. Einer davon wird als Ziel beibehalten. Der andere ist veraltet und wird gelöscht.
 
-2. In the editing mode of the deprecated record, set the Record Status to "Unpublished" at the bottom and save.
+2. Im Bearbeitungsmodus des veralteten Datensatzes setzen Sie den Datensatzstatus unten auf "Unpublished" und speichern.
 
-3. On the search page of the authority file, perform a search so that the two records are on the same page of results.
+3. Führen Sie in der Normdatei eine Suche durch, so dass die beiden Datensätze auf derselben Ergebnisseite erscheinen.
 
-4. Select the two you want to merge by clicking the checkbox to the left of the record.
+4. Wählen Sie die beiden Datensätze aus, die Sie zusammenführen möchten, indem Sie auf das Kontrollkästchen links neben dem Datensatz klicken.
 
-5. Click "Merge" under Actions on the right.
+5. Klicken Sie rechts unter Aktionen auf "Umhängen".
 
-6. A popup message will appear that says, "Should [the deprecated record] really be merged into [the target record]?" This is the action that takes links in the unpublished record and sends them to the target. Click OK.
+6. Es erscheint eine Popup-Nachricht, in der es heißt: "Soll [der veraltete Datensatz] wirklich in [den Zieleintrag] zusammengeführt werden?" Dies ist die Aktion, die Links im unveröffentlichten Datensatz aufnimmt und an das Ziel sendet. Klicken Sie OK.
 
-7. Now a message appears that says, "Successfully merged \[Name of authority file\] \[deprecated record\] into [target record]!"
+7. Nun erscheint eine Meldung, in der es heißt: "Erfolgreich \[Name der Normdatei\] \[veralteter Eintrag\] in [Zieleintrag] zusammengeführt!"
 
-8. You can confirm that this worked by viewing the unpublished, deprecated record, which will have 0 sources attached to it. The target record will have its previous records plus the new records attached to it from the merge. (It might take a moment for Muscat to reindex before this is displayed on the search page, but the full record views are correct.) Now you can delete the unpublished, deprecated record. Now you can delete the unpublished, deprecated record.
+8. Sie können sich vergewissern, dass dies funktioniert hat, indem Sie sich den unveröffentlichten und nicht mehr aktuellen Datensatz anzeigen lassen, dem 0 Quellen zugeordnet sind. Der Zieldatensatz enthält seine vorherigen Datensätze sowie die neuen Datensätze, die ihm durch die Zusammenführung hinzugefügt wurden. (Es kann einen Moment dauern, bis Muscat den Index neu erstellt hat und dies auf der Suchseite angezeigt wird, aber die vollständigen Datensatzansichten sind korrekt). Jetzt können Sie den unveröffentlichten, veralteten Datensatz löschen.
 
-Note:
-- In the Modification History for the linked sources, the change will be displayed like this: "[Authority file] change id from 51000870 to 40009964"
-- Only two records at a time can be merged.
-- Only authority records can be merged, not Sources.
-- As a protection against accidental deleting, authority records that are linked to other authority records cannot be deleted. Before merging, make sure that the target record has all of the information you need from the deprecated record. Delete any references to other authority records.  
+Hinweis:
+- In der Änderungsgeschichte für die verknüpften Quellen wird die Änderung wie folgt angezeigt: "[Authority file] change id from 51000870 to 40009964"
+- Es können jeweils nur zwei Datensätze zusammengeführt werden.
+- Es können nur Normdatensätze zusammengeführt werden, keine Quellen.
+- Zum Schutz vor versehentlichem Löschen können Normdatensätze, die mit anderen Normdatensätzen verknüpft sind, nicht gelöscht werden. Vergewissern Sie sich vor dem Umhängen, dass der Zieldatensatz alle Informationen enthält, die Sie aus dem veralteten Datensatz benötigen. Löschen Sie alle Verweise auf andere Normdateneinträge.  
