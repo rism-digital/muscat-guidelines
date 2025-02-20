@@ -20,29 +20,29 @@ Die **Richtlinien**-Seite zeigt alle Richtlinien auf einer Seite an.
 
 ### Abschnitte und Aktionen im Bearbeitungsmodus
 
-This section describes actions you can take when editing a source record.
+In diesem Abschnitt werden Aktionen beschrieben, die Sie beim Bearbeiten eines Quelldatensatzes durchführen können.
 
-The navigation column on the right allows you to jump to specific sections of the record and save and view your work.
+Die Navigationsleiste auf der rechten Seite ermöglicht es Ihnen, zu bestimmten Bereichen des Datensatzes zu springen und Ihre Arbeit zu speichern und anzuzeigen.
 
-Fields in a Muscat record are grouped into sections. By clicking on the section link, you can jump directly to a different section of the record.
+Die Felder eines Muscat-Datensatzes sind in Abschnitte gruppiert. Sie können direkt zu einem anderen Abschnitt des Datensatzes springen, indem Sie auf den Abschnittslink klicken.
 
-**Show all sections** lets you view all sections of the record on one page.
+**Alle Blöcke anzeigen** ermöglicht es Ihnen, alle Abschnitte des Datensatzes auf einer Seite anzuzeigen.
 
-**Show preview** lets you view the record. To return to editing mode, click **Hide preview**.
+**Vorschau anzeigen** ermöglicht die Ansicht der Daten während des Erfassungsprozesses ohne Speicherung. In den Bearbeitungsmodus kehren Sie über **Vorschau verbergen** zurück.
 
-**Validate** checks for errors in the record that prevent saving.
+Die **Validierung** prüft, ob der Datensatz Fehler enthält, die ein Speichern verhindern.
 
-**Save and continue editing** allows you to save your work and continue in the editing mode. Save frequently to prevent you from losing your work. After a record is first saved, the RISM ID number is assigned automatically.
+**Speichern und weiter bearbeiten** ermöglicht es Ihnen, Ihre Arbeit zu speichern und im Bearbeitungsmodus fortzufahren. Es empfiehlt sich häufiges Speichern, damit ein Datenverlust möglichst ausgeschlossen wird. Nach dem ersten Speichern eines Datensatzes wird die RISM ID Nummer automatisch zugewiesen.
 
-**Save and close** brings you back to the previous screen while saving your work.
+**Speichern und verlassen** bringt Sie zurück zum vorherigen Bildschirm und speichert Ihre Arbeit.
 
-**Cancel** brings you back to the previous screen without saving.
+**Abbrechen** bringt Sie zurück zum vorherigen Bildschirm, ohne zu speichern.
 
-**Show modification history** allows you to view, restore, and delete previous versions of the record. Click **Show all sections** again to return to the editing mode and any unsaved changes.
+Die **Änderungsgeschichte** ermöglicht es Ihnen, frühere Versionen des Datensatzes anzuzeigen, wiederherzustellen und zu löschen. Klicken Sie erneut auf **Alle Blöcke anzeigen**, um in den Bearbeitungsmodus zurückzukehren und ungespeicherte Änderungen zu übernehmen.
 
-**Attach a new image** lets you upload small images (typically watermarks, handwriting samples, or bindings) to attach to your records. All images can be found in the **Authorities** menu under **Digital objects**.
+Mit **Neues Bild hinzufügen** können Sie kleine Bilder (typischerweise Wasserzeichen, Handschriftenproben oder Einbände) hochladen, um sie Ihren Datensätzen hinzuzufügen. Alle Bilder finden Sie im Menü **Normdaten** unter **Digitale Objekte**.
 
-### Buttons in the editing mode
+### Schaltflächen im Bearbeitungsmodus
 
 **Magnifying glass**: Click here to search the authority file linked to the field. A separate window will open. After you find what you need, click **Select** to make the transfer to your record.
 
