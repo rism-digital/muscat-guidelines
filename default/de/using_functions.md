@@ -1,24 +1,24 @@
-### The top menu bar
+### Die obere Menüleiste
 
-After you log into Muscat, access is granted to different Muscat areas through the various points on the top menu bar.
+Nachdem Sie sich in Muscat eingeloggt haben, können Sie über die verschiedenen Punkte in der oberen Menüleiste auf die verschiedenen Bereiche von Muscat zugreifen.
 
-**Administration** links to the MARC configuration, which lets you view all the MARC fields used in Muscat (sources plus authority files)
+**Administration** Links zur MARC-Konfiguration, mit der Sie alle in Muscat verwendeten MARC-Felder anzeigen können (Quellen und Normdaten)
 
-**Language** allows you to switch the language of the Muscat interface.
+**Sprache**: damit können Sie die Sprache von Muscat wechseln.
 
-The **Dashboard** displays the latest Muscat version information, your newest Muscat records, and your comments on records.
+Das **Dashboard** zeigt die neuesten Informationen zur Muscat-Version, Ihre neuesten Muscat-Datensätze und Ihre Kommentare zu den Datensätzen an.
 
-The **Comments** page displays all comments on Muscat records. Comments can be added to any kind of record throughout Muscat. You can only add comments through the full record view. Name other users by typing **@** plus their name, and they will receive a notification by email.
+Die **Kommentare**-Seite zeigt alle Kommentare zu Muscat-Datensätzen an. Kommentare können bei jedem Datensatz in Muscat hinzugefügt werden. Sie können Kommentare nur über die vollständige Datensatzansicht hinzufügen. Benennen Sie andere Benutzer, indem Sie **@** plus ihren Namen eingeben, und sie erhalten eine Benachrichtigung per E-Mail.
 
-The **Folders** page displays all folders created by Muscat users. Records in Muscat can be placed into folders, and the folders can be shared among users or used to organize searching and editing work.
+Unter **Ordner** können Sie alle von Muscat-Benutzern angelegte Ordner sehen. Die Datensätze in Muscat können in Ordnern abgelegt werden, die von den Benutzern gemeinsam genutzt oder zur Organisation von Such- und Bearbeitungsvorgängen verwendet werden können.
 
-The **Sources** page is the main cataloging page in Muscat and contains the all of the bibliographic records that describe the musical sources in Muscat.
+Die Seite **Quellen** ist die Hauptseite, über die Sie auf die Datensätze für Quellenbeschreibungen zugreifen können.
 
-**Authorities** takes you to all authority files, controlled vocabulary, and indexes in Muscat.
+Die Seite **Normdaten** führt Sie zu allen Nordateien, kontrolliertem Vokabular und Indizes in Muscat.
 
-The **Guidelines** page displays all the guidelines on one page.
+Die **Richtlinien**-Seite zeigt alle Richtlinien auf einer Seite an.
 
-### Sections and actions in the editing mode
+### Abschnitte und Aktionen im Bearbeitungsmodus
 
 This section describes actions you can take when editing a source record.
 
