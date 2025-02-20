@@ -1,48 +1,48 @@
-### The top menu bar
+### Die obere Menüleiste
 
-After you log into Muscat, access is granted to different Muscat areas through the various points on the top menu bar.
+Nachdem Sie sich in Muscat eingeloggt haben, können Sie über die verschiedenen Punkte in der oberen Menüleiste auf die verschiedenen Bereiche von Muscat zugreifen.
 
-**Administration** links to the MARC configuration, which lets you view all the MARC fields used in Muscat (sources plus authority files)
+**Administration** Links zur MARC-Konfiguration, mit der Sie alle in Muscat verwendeten MARC-Felder anzeigen können (Quellen und Normdaten)
 
-**Language** allows you to switch the language of the Muscat interface.
+**Sprache**: damit können Sie die Sprache von Muscat wechseln.
 
-The **Dashboard** displays the latest Muscat version information, your newest Muscat records, and your comments on records.
+Das **Dashboard** zeigt die neuesten Informationen zur Muscat-Version, Ihre neuesten Muscat-Datensätze und Ihre Kommentare zu den Datensätzen an.
 
-The **Comments** page displays all comments on Muscat records. Comments can be added to any kind of record throughout Muscat. You can only add comments through the full record view. Name other users by typing **@** plus their name, and they will receive a notification by email.
+Die **Kommentare**-Seite zeigt alle Kommentare zu Muscat-Datensätzen an. Kommentare können bei jedem Datensatz in Muscat hinzugefügt werden. Sie können Kommentare nur über die vollständige Datensatzansicht hinzufügen. Benennen Sie andere Benutzer, indem Sie **@** plus ihren Namen eingeben, und sie erhalten eine Benachrichtigung per E-Mail.
 
-The **Folders** page displays all folders created by Muscat users. Records in Muscat can be placed into folders, and the folders can be shared among users or used to organize searching and editing work.
+Unter **Ordner** können Sie alle von Muscat-Benutzern angelegte Ordner sehen. Die Datensätze in Muscat können in Ordnern abgelegt werden, die von den Benutzern gemeinsam genutzt oder zur Organisation von Such- und Bearbeitungsvorgängen verwendet werden können.
 
-The **Sources** page is the main cataloging page in Muscat and contains the all of the bibliographic records that describe the musical sources in Muscat.
+Die Seite **Quellen** ist die Hauptseite, über die Sie auf die Datensätze für Quellenbeschreibungen zugreifen können.
 
-**Authorities** takes you to all authority files, controlled vocabulary, and indexes in Muscat.
+Die Seite **Normdaten** führt Sie zu allen Nordateien, kontrolliertem Vokabular und Indizes in Muscat.
 
-The **Guidelines** page displays all the guidelines on one page.
+Die **Richtlinien**-Seite zeigt alle Richtlinien auf einer Seite an.
 
-### Sections and actions in the editing mode
+### Abschnitte und Aktionen im Bearbeitungsmodus
 
-This section describes actions you can take when editing a source record.
+In diesem Abschnitt werden Aktionen beschrieben, die Sie beim Bearbeiten eines Quelldatensatzes durchführen können.
 
-The navigation column on the right allows you to jump to specific sections of the record and save and view your work.
+Die Navigationsleiste auf der rechten Seite ermöglicht es Ihnen, zu bestimmten Bereichen des Datensatzes zu springen und Ihre Arbeit zu speichern und anzuzeigen.
 
-Fields in a Muscat record are grouped into sections. By clicking on the section link, you can jump directly to a different section of the record.
+Die Felder eines Muscat-Datensatzes sind in Abschnitte gruppiert. Sie können direkt zu einem anderen Abschnitt des Datensatzes springen, indem Sie auf den Abschnittslink klicken.
 
-**Show all sections** lets you view all sections of the record on one page.
+**Alle Blöcke anzeigen** ermöglicht es Ihnen, alle Abschnitte des Datensatzes auf einer Seite anzuzeigen.
 
-**Show preview** lets you view the record. To return to editing mode, click **Hide preview**.
+**Vorschau anzeigen** ermöglicht die Ansicht der Daten während des Erfassungsprozesses ohne Speicherung. In den Bearbeitungsmodus kehren Sie über **Vorschau verbergen** zurück.
 
-**Validate** checks for errors in the record that prevent saving.
+Die **Validierung** prüft, ob der Datensatz Fehler enthält, die ein Speichern verhindern.
 
-**Save and continue editing** allows you to save your work and continue in the editing mode. Save frequently to prevent you from losing your work. After a record is first saved, the RISM ID number is assigned automatically.
+**Speichern und weiter bearbeiten** ermöglicht es Ihnen, Ihre Arbeit zu speichern und im Bearbeitungsmodus fortzufahren. Es empfiehlt sich häufiges Speichern, damit ein Datenverlust möglichst ausgeschlossen wird. Nach dem ersten Speichern eines Datensatzes wird die RISM ID Nummer automatisch zugewiesen.
 
-**Save and close** brings you back to the previous screen while saving your work.
+**Speichern und verlassen** bringt Sie zurück zum vorherigen Bildschirm und speichert Ihre Arbeit.
 
-**Cancel** brings you back to the previous screen without saving.
+**Abbrechen** bringt Sie zurück zum vorherigen Bildschirm, ohne zu speichern.
 
-**Show modification history** allows you to view, restore, and delete previous versions of the record. Click **Show all sections** again to return to the editing mode and any unsaved changes.
+Die **Änderungsgeschichte** ermöglicht es Ihnen, frühere Versionen des Datensatzes anzuzeigen, wiederherzustellen und zu löschen. Klicken Sie erneut auf **Alle Blöcke anzeigen**, um in den Bearbeitungsmodus zurückzukehren und ungespeicherte Änderungen zu übernehmen.
 
-**Attach a new image** lets you upload small images (typically watermarks, handwriting samples, or bindings) to attach to your records. All images can be found in the **Authorities** menu under **Digital objects**.
+Mit **Neues Bild hinzufügen** können Sie kleine Bilder (typischerweise Wasserzeichen, Handschriftenproben oder Einbände) hochladen, um sie Ihren Datensätzen hinzuzufügen. Alle Bilder finden Sie im Menü **Normdaten** unter **Digitale Objekte**.
 
-### Buttons in the editing mode
+### Schaltflächen im Bearbeitungsmodus
 
 **Magnifying glass**: Click here to search the authority file linked to the field. A separate window will open. After you find what you need, click **Select** to make the transfer to your record.
 
