@@ -1,7 +1,7 @@
-### Contributing project (910)
+### Beteiligtes Projekt (910)
 
-The field **Contributing project** is used to show that a specific project substantially contributed to cataloging the source. This increases the visibility of cataloging projects and allows funding bodies to be named.
+Das Feld **Beteiligtes Projekt** wird verwendet, um zu zeigen, dass ein bestimmtes Projekt wesentlich zur Katalogisierung der Quelle beigetragen hat. Dies erhöht die Sichtbarkeit von Katalogprojekten und ermöglicht die Benennung von Fördereinrichtungen.
 
-#### Institution (910 $a)
+#### Körperschaft (910 $a)
 
-The field **Institution** is for the name of the institution or cataloging project that contributed the cataloging data. Names of projects are taken from the **Institutions** authority file. This field can only be added in consultation with the Editorial Center.
+Das Feld **Körperschaft** ist für den Namen der Institution oder des Katalogprojekts, das die Katalogdaten eingebracht hat. Die Namen der Projekte werden aus den Normdaten **Körperschaften** übernommen. Dieses Feld kann nur in Absprache mit der Zentralredaktion hinzugefügt werden.

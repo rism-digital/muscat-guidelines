@@ -1,5 +1,5 @@
-## Watermarks
+## Wasserzeichen
 
-The section **Watermarks** contains standardized terms used to refer to watermarks.
+Der Abschnitt **Wasserzeichen** enthält standardisierte Begriffe, die zur Beschreibung der Wasserzeichen verwendet werden.
 
 {% include common/abbr_watermarks.html %}

@@ -1,1 +1,1 @@
-Guidelines Header
+Richtlinien Überschrift
