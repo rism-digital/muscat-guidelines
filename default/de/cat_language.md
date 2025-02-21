@@ -2,22 +2,22 @@
 
 Über den Gebrauch von Englisch und anderen Sprachen in Muscat informiert der Abschnitt **Sprache**.
 
-### Use of English vs. other languages
+### Verwendung von Englisch im Vergleich zu anderen Sprachen
 
-English terminology or standardized English abbreviations are required in some fields. When English is required, it is indicated in the guidelines for the applicable field.
+In einigen Bereichen werden englische Terminologie oder standardisierte englische Abkürzungen verlangt. Wenn Englisch erforderlich ist, wird dies in den Richtlinien für das entsprechende Feld angegeben.
 
-In other fields, non-English languages are permitted.
+In anderen Bereichen sind auch andere Sprachen als Englisch zulässig.
 
-### Cataloging language
+### Katalogisierungssprache
 
-When English is not required, you may use what the guidelines refer to as your **cataloging language**. RISM allows the following cataloging languages: English, French, German, Italian, Portuguese, and Spanish.
+Wenn Englisch nicht erforderlich ist, können Sie die in den Richtlinien als **Katalogisierungssprache** bezeichnete Sprache verwenden. RISM erlaubt folgende Katalogisierungssprachen: Englisch, Französisch, Deutsch, Italienisch, Portugiesisch und Spanisch.
 
- Other languages are allowed as long as a summary is provided in one of the six cataloging languages. The guidelines always state when you cataloging language may be used.
+ Andere Sprachen sind zulässig, solange eine Zusammenfassung in einer der sechs Katalogisierungssprachen vorliegt. In den Richtlinien wird immer angegeben, wann Sie die Katalogisierungssprache verwenden dürfen.
 
-In the guidelines that follow, the phrase "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
+In den folgenden Richtlinien bezieht sich der Begriff „Katalogisierungssprache“ auf die Verwendung entweder einer dieser sechs Sprachen oder einer anderen Sprache und einer Übersetzung in eine dieser sechs Sprachen.
 
-Your cataloging language for Sources can be indicated in the field **Language of cataloging (040 $b)**.
+Ihre Katalogisierungssprache für Quellen kann im Feld **Katalogisierungssprache (040 $b)** angegeben werden.
 
-### Transliterations
+### Transliteration
 
-National groups are responsible for determining what transliteration tables should be used when transliterating their language.
+Die Arbeitsgruppen sind dafür verantwortlich, die Transliterationstabellen zu bestimmen, die für die Transkription ihrer Sprache zu verwenden sind.
