@@ -1,14 +1,14 @@
-## Searching
+## Suchen
 
-**Searching** in Muscat is available through **filters** on the main Source page. For more extensive searching, including a music incipit search, use the public catalogs, the [RISM Catalog](https://opac.rism.info/) and [RISM Online](https://rism.online/).
+Die **Suche** in Muscat ist über die **Filter** auf der Hauptseite der Quellen möglich. Für eine umfangreichere Suche, einschließlich einer Musikincipit-Suche, verwenden Sie die öffentlichen Kataloge, den [RISM Catalog](https://opac.rism.info/) und [RISM Online](https://rism.online/).
 
-### Muscat filters
+### Muscat-Filter
 
-The Muscat **filters** offer simple yet powerful searching.
+Der Muscat-**Filter** bietet eine einfache, aber leistungsstarke Suche.
 
-You can enter in each field:
+Sie können in jedem Feld eingeben:
 
-- Single words
+- Einzelne Worte
 - Multiple words:  
   either without quotations mark: **lass noch**   
   or with quotation marks: **"lass noch"**
