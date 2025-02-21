@@ -1,8 +1,8 @@
-### Subject headings
+### Schlagwörter
 
-The authority file for **Subject headings** contains all the forms, genres, and other standardized terms used in the field **Subject heading (650)**. A record for a subject heading typically includes the standardized RISM term in English and in plural, translations or alternate terms, and a sometimes a definition or scope note. Genres and forms found outside of Western Europe or common in a particular region where there is no English equivalent are given in the local language (and in the plural when it makes linguistic sense).
+Die Normdatei der **Schlagwörter** enthält alle Gattungen und andere standardisierte Begriffe, die im Feld **Schlagwort (650)** verwendet werden. Ein Datensatz für ein Schlagwort enthält in der Regel den RISM-Standardbegriff in Englisch und im Plural, Übersetzungen oder alternative Begriffe und manchmal eine Definition oder einen Hinweis auf den Anwendungsbereich. Gattungen und Formen, die außerhalb Westeuropas vorkommen oder in einer bestimmten Region üblich sind, für die es keine englische Entsprechung gibt, werden in der jeweiligen Landessprache angegeben (und im Plural, wenn es sprachlich sinnvoll ist).
 
-New subject headings can be added while cataloging. You then get a message that says "Confirm the insertion of a new value" which you should then click. In the record, simply enter the new subject heading and click to a different field.
+Während der Katalogisierung können neue Schlagworte hinzugefügt werden. You then get a message that says "Confirm the insertion of a new value" which you should then click. In the record, simply enter the new subject heading and click to a different field.
 
 After you save the record, go to the authority file for subject headings and find your new heading. You can edit the subject headings you create. Do the following:
 
