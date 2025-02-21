@@ -1,6 +1,6 @@
-## Language
+## Sprache
 
-The section **Language** clarifies the use of English and other languages in Muscat.
+Über den Gebrauch von Englisch und anderen Sprachen in Muscat informiert der Abschnitt **Sprache**.
 
 ### Use of English vs. other languages
 
