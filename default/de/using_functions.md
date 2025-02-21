@@ -44,70 +44,70 @@ Mit **Neues Bild hinzufügen** können Sie kleine Bilder (typischerweise Wasserz
 
 ### Schaltflächen im Bearbeitungsmodus
 
-**Magnifying glass**: Click here to search the authority file linked to the field. A separate window will open. After you find what you need, click **Select** to make the transfer to your record.
+**Vergrößerungsglas**: Klicken Sie hier, um die mit dem Feld verknüpfte Normdatei zu durchsuchen. Es öffnet sich ein separates Fenster. Wenn Sie gefunden haben, was Sie brauchen, klicken Sie auf **Auswählen**, um die Übertragung in Ihren Datensatz vorzunehmen.
 
-**Move arrow**: Fields that can be repeated have an up-and-down arrow if you wish to change the order. Click the arrow and drag the field to its new position.
+**Pfeil bewegen**: Felder, die wiederholt werden können, haben einen Pfeil nach oben und unten, wenn Sie die Reihenfolge ändern möchten. Klicken Sie auf den Pfeil und ziehen Sie das Feld an seine neue Position.
 
-**Question mark (?)**: Click ? to display the RISM guidelines for this field. to display the RISM guidelines for the field.
+**Fragezeichen (?)**: Durch Klicken auf das ? erscheinen die für diese Kategorie geltenden Richtlinien in einem neuen Fenster.
 
-**Plus (+) and minus (-) signs**: Fields that may be repeated have a plus sign (+). Click on the + to create a new, empty field. Click the - to delete a field.
+**Plus (+) und Minus (-) Zeichen**: Felder, die wiederholt werden können, haben ein Pluszeichen (+). Klicken Sie auf das + um ein neues leeres Feld zu erstellen. Klicken Sie auf - um ein Feld zu löschen.
 
-**Trash can**: Delete a field by clicking on the trash can.
+**Papierkorb**: Löschen Sie ein Feld durch Klicken auf den Papierkorb.
 
-**Show/hide arrow**: Click on the arrow to expand or collapse fields.
+**Pfeil ein-/ausblenden**: Klicken Sie auf den Pfeil, um Felder ein- oder auszublenden.
 
-**Add a group**: This button is found at the bottom of the section **Material description**. Material groups allow you to associate different dates, formats, watermarks, names, institutions, etc. with different types of sources. For example, you can describe autograph material separately from other handwritten materials, or you may wish to describe scores and parts in separate groups. Some fields, such as **Additional personal name (700)**, **Additional institution (710)**, and **General note (500)**, are also available elsewhere in the Sources template.
+**Add a group**hinzu: Dieser Button befindet sich unter dem Abschnitt **Materialbeschreibung**. Mit Hilfe von Materialgruppen können Sie verschiedene Datumsangaben, Formate, Wasserzeichen, Namen, Institutionen usw. mit verschiedenen Arten von Quellen verknüpfen. Sie können z. B. autographes Material getrennt von anderem handschriftlichen Material beschreiben, oder Sie können Partituren und Stimmen in getrennten Gruppen beschreiben. Einige Felder, wie z. B. **Nebeneintragung Personen (700)**, **Nebeneintragung Körperschaft (710)**, und **Bemerkung (500)**, sind auch an anderer Stelle im Quellen-Template verfügbar.
 
-### Other functions in the editing mode
+### Weitere Funktionen im Bearbeitungsmodus
 
 #### Autocomplete
 
-Fields that contain a key are linked to an authority file or index. Begin typing and use the autocomplete to help you.
+Felder, die einen Schlüssel enthalten, sind mit Normdaten oder einem Index verknüpft. Beginnen Sie mit der Eingabe und nutzen Sie die automatische Vervollständigung als Hilfe.
 
-#### Adding new names, titles, subject headings, etc.
+#### Hinzufügen von neuen Namen, Titeln, Schlagwörtern usw.
 
-If you do not find what you need in the authority files, a new term can be added. Simply enter the name or term you need. Once you click to a different field, an orange border appears around the field and you will see a checkbox that reads "Confirm the insertion of a new value." Click this box to confirm. After you save the record, the new term will appear in the authority file. For personal names, a field called **Life dates** will appear. Fill this out if you can because it helps the Editorial Center complete the new authority record. See also **General cataloging guidelines** under **Personal names.**
+Wenn Sie in den Normdaten nicht finden, was Sie brauchen, können Sie einen neuen Begriff hinzufügen. Geben Sie einfach den Namen oder den Begriff ein, den Sie benötigen. Sobald Sie auf ein anderes Feld klicken, erscheint ein orangefarbener Rahmen um das Feld und Sie sehen ein Kontrollkästchen mit dem Text "Confirm the insertion of a new value". Klicken Sie zur Bestätigung auf dieses Feld. Nachdem Sie den Datensatz gespeichert haben, erscheint der neue Begriff in der Normdatei. Für Personennamen wird ein Feld mit der Bezeichnung **Lebensdaten** angezeigt. Füllen Sie dieses Feld möglichst aus, denn es hilft der Zentralredaktion, den neuen Normdatensatz zu vervollständigen. Siehe auch **Allgemeine Richtlinien** unter **Personen**.
 
-New secondary literature must be entered directly in the **Secondary literature** database.
+Neue Sekundärliteratur muss direkt in die **Sekundärliteratur**-Datenbank eingetragen werden.
 
-#### Required fields and validation
+#### Pflichtfelder und Validierung
 
-When you begin a new record, the most important fields will already be open and ready for you to fill in. Fields that are yellow are required fields. If you save without filling out one of these fields, a red border will appear around the fields that still need attention, and the sections in which the fields occur will be red in the right-hand navigation sidebar.
+Wenn Sie einen neuen Datensatz beginnen, sind die wichtigsten Felder bereits geöffnet und können von Ihnen ausgefüllt werden. Gelb markierte Felder sind Pflichtfelder. Wenn Sie speichern, ohne eines dieser Felder auszufüllen, werden die Felder, die noch ausgefüllt werden müssen, rot umrandet, und die Abschnitte, in denen die Felder vorkommen, werden in der rechten Navigationsleiste rot dargestellt.
 
-### Actions in the full record view
+### Aktionen im Anzeigemodus
 
-This section describes actions you can take when viewing the full record.
+In diesem Abschnitt werden Aktionen beschrieben, die Sie bei der Anzeige des vollständigen Datensatzes durchführen können.
 
-**Create:** Go to the template selection page from which you can create a new record.
+**Erstellen:** Gehen Sie zur Vorlagenauswahlseite, von der aus Sie einen neuen Datensatz erstellen können.
 
-**Return to the list:** This brings you back to the Sources page.
+**Zurück zur Liste:** Dies bringt Sie zurück zur Quellen-Seite.
 
-**Edit:** If you have permissions to edit the record, you will see an edit button.
+**Bearbeiten:** Wenn Sie die Berechtigung haben, den Datensatz zu bearbeiten, wird eine Schaltfläche zum Bearbeiten angezeigt.
 
-**Duplicate**: Any record may be copied by clicking on the Duplicate button.
+**Kopieren**: Jeder Datensatz kann durch Anklicken der Schaltfläche Kopieren dupliziert werden.
 
-### Merging records
+### Datensätze zusammenführen
 
-Duplicate authority records can be merged by the Editorial Center. During the process of merging, any sources that are linked to the deprecated authority record are automatically transferred to the target record.
+Doppelte Normdateneinträge können von der Zentralredaktion zusammengeführt werden. Während des Zusammenführungsprozesses werden alle Quellen, die mit dem veralteten Normdatensatz verknüpft sind, automatisch in den Zieldatensatz übertragen.
 
-1. Pick out two records that you want to merge. One is the target, which will be kept. The other is deprecated and will be deleted.
+1. Wählen Sie zwei Datensätze aus, die Sie zusammenführen möchten. Einer davon wird als Ziel beibehalten. Der andere ist veraltet und wird gelöscht.
 
-2. In the editing mode of the deprecated record, set the Record Status to "Unpublished" at the bottom and save.
+2. Im Bearbeitungsmodus des veralteten Datensatzes setzen Sie den Datensatzstatus unten auf "Unpublished" und speichern.
 
-3. On the search page of the authority file, perform a search so that the two records are on the same page of results.
+3. Führen Sie in der Normdatei eine Suche durch, so dass die beiden Datensätze auf derselben Ergebnisseite erscheinen.
 
-4. Select the two you want to merge by clicking the checkbox to the left of the record.
+4. Wählen Sie die beiden Datensätze aus, die Sie zusammenführen möchten, indem Sie auf das Kontrollkästchen links neben dem Datensatz klicken.
 
-5. Click "Merge" under Actions on the right.
+5. Klicken Sie rechts unter Aktionen auf "Umhängen".
 
-6. A popup message will appear that says, "Should [the deprecated record] really be merged into [the target record]?" This is the action that takes links in the unpublished record and sends them to the target. Click OK.
+6. Es erscheint eine Popup-Nachricht, in der es heißt: "Soll [der veraltete Datensatz] wirklich in [den Zieleintrag] zusammengeführt werden?" Dies ist die Aktion, die Links im unveröffentlichten Datensatz aufnimmt und an das Ziel sendet. Klicken Sie OK.
 
-7. Now a message appears that says, "Successfully merged \[Name of authority file\] \[deprecated record\] into [target record]!"
+7. Nun erscheint eine Meldung, in der es heißt: "Erfolgreich \[Name der Normdatei\] \[veralteter Eintrag\] in [Zieleintrag] zusammengeführt!"
 
-8. You can confirm that this worked by viewing the unpublished, deprecated record, which will have 0 sources attached to it. The target record will have its previous records plus the new records attached to it from the merge. (It might take a moment for Muscat to reindex before this is displayed on the search page, but the full record views are correct.) Now you can delete the unpublished, deprecated record. Now you can delete the unpublished, deprecated record.
+8. Sie können sich vergewissern, dass dies funktioniert hat, indem Sie sich den unveröffentlichten und nicht mehr aktuellen Datensatz anzeigen lassen, dem 0 Quellen zugeordnet sind. Der Zieldatensatz enthält seine vorherigen Datensätze sowie die neuen Datensätze, die ihm durch die Zusammenführung hinzugefügt wurden. (Es kann einen Moment dauern, bis Muscat den Index neu erstellt hat und dies auf der Suchseite angezeigt wird, aber die vollständigen Datensatzansichten sind korrekt). Jetzt können Sie den unveröffentlichten, veralteten Datensatz löschen.
 
-Note:
-- In the Modification History for the linked sources, the change will be displayed like this: "[Authority file] change id from 51000870 to 40009964"
-- Only two records at a time can be merged.
-- Only authority records can be merged, not Sources.
-- As a protection against accidental deleting, authority records that are linked to other authority records cannot be deleted. Before merging, make sure that the target record has all of the information you need from the deprecated record. Delete any references to other authority records.  
+Hinweis:
+- In der Änderungsgeschichte für die verknüpften Quellen wird die Änderung wie folgt angezeigt: "[Authority file] change id from 51000870 to 40009964"
+- Es können jeweils nur zwei Datensätze zusammengeführt werden.
+- Es können nur Normdatensätze zusammengeführt werden, keine Quellen.
+- Zum Schutz vor versehentlichem Löschen können Normdatensätze, die mit anderen Normdatensätzen verknüpft sind, nicht gelöscht werden. Vergewissern Sie sich vor dem Umhängen, dass der Zieldatensatz alle Informationen enthält, die Sie aus dem veralteten Datensatz benötigen. Löschen Sie alle Verweise auf andere Normdateneinträge.  
