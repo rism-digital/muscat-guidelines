@@ -9,44 +9,44 @@ Der Muscat-**Filter** bietet eine einfache, aber leistungsstarke Suche.
 Sie können in jedem Feld eingeben:
 
 - Einzelne Worte
-- Multiple words:  
-  either without quotations mark: **lass noch**   
-  or with quotation marks: **"lass noch"**
-- Truncation with ? Truncation with ? or \*  
-  **?**: The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
-  **\***: The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher.
-- AND, OR, NOT, ( ): Take advantage of Boolean searching. Use parenthesis to group your search. Examples:
-    - Composer contains: **(Bach AND Johann) NOT Sebastian**  
-      To find Johann Michael Bach and Johann Christian Bach but not Johann Sebastian Bach
-    - Siglum contains: **D-B AND (I-\* OR F-P\*)**   
-      To find all prints in the library D-B where there are also copies in Italy or Paris
+- Mehrere Wörter:  
+  entweder ohne Anführungszeichen: **lass noch**   
+  oder mit Anführungszeichen: **"lass noch"**
+- Trunkierung mit ? oder \*  
+  **?**: Das Fragezeichen ersetzt exakt einen Buchstaben. **B?cher** findet Bucher und Bacher.   
+  **\***: Das Sternchen kann verwendet werden, um eine beliebige Anzahl von Buchstaben zu kürzen oder zu ersetzen. **B\*cher** findet Bucher und Bacher, aber auch Boucher und Bötticher.
+- UND, ODER, NICHT, ( ): Nutzen Sie die Vorteile der booleschen Suche. Verwenden Sie Klammern zur Gruppierung Ihrer Suche. Beispiele:
+    - Komponist enthält: **(Bach UND Johann) NICHT Sebastian**  
+      Um Johann Michael Bach und Johann Christian Bach zu finden, aber nicht Johann Sebastian Bach
+    - Sigel enthält: **D-B UND (I-\* OR F-P\*)**   
+      Um alle Drucke in der Bibliothek D-B zu finden, von denen es auch Exemplare in Italien oder Paris gibt
 
-Note the following for all sections:
+Für alle Abschnitte ist Folgendes zu beachten:
 
-- **Date**
+- **Datum**
 
-    - **Searching by date:** Enter dates in the format YYYY-MM-DD. The day is set to midnight by default.
-    - **Single date ("from"):** If you fill in only the left-hand field (the "from"), you will get all records modified or created **since** that date (including records created during the day on that date).   
-      Example: Last modification   
+    - **Suche nach Datum:** Geben Sie die Daten im Format JJJ-MM-TT ein. Standardmäßig ist der Tag auf Mitternacht gesetzt.
+    - **Ein einzelnes Datum („von“):** Wenn Sie nur das linke Feld („von“) ausfüllen, erhalten Sie alle Datensätze, die seit diesem Datum geändert wurden oder **seit** diesem Datum erstellt wurden (einschließlich der Datensätze, die im Laufe des Tages an diesem Datum erstellt wurden)   
+      . Beispiel: Letzte Änderung   
       **2012-02-07** - [empty]  
-      will retrieve all records edited from February 7, 2012 to today.
-    - **Single date ("to")**: If you fill in only the right-hand field (the "to"), you will get all records modified or created **up to** that date at midnight.  
-      Example: Last modification  
+      werden alle Datensätze angezeigt, die seit dem 7. Februar 2012 bearbeitet wurden.
+    - **Ein einzheolnes Datum ("bis")**: Wenn Sie nur das rechte Feld ("bis") ausfüllen, erhalten Sie alle Datensätze, die **bis** zu diesem Datum um Mitternacht geändert oder erstellt wurden.  
+      Beispiel: Letzte Änderung  
       [empty] -  **2012-02-07**  
-      will retrieve all records edited from the beginning of time up to February 7, 2012 at midnight (meaning no records created during the work day on February 7 will be included).
-    - **Date range**: Note that since the day is set at midnight, to search for all records created on February 7, 2012, for example, you must enter the start date 2012-02-07 (understood as midnight on February 7) and the end date 2012-02-08 (understood as midnight on February 8). This will include all sources created during the day. A search from 2012-02-07 to 2012-02-07 will be empty!
+      wird alle Datensätze abrufen, die seit Beginn des Zeitraums bis zum 7. Februar 2012 um Mitternacht bearbeitet wurden (d. h. Datensätze, die während des Arbeitstages am 7. Februar erstellt wurden, werden nicht berücksichtigt).
+    - **Datumsbereich**: Da der Tag auf Mitternacht festgelegt ist, müssen Sie beispielsweise für die Suche nach allen Datensätzen, die am 7. Februar 2012 erstellt wurden, das Startdatum 2012-02-07 (verstanden als Mitternacht des 7. Februar) und das Enddatum 2012-02-08 (verstanden als Mitternacht des 8. Februar) eingeben. Dazu gehören alle Quellen, die im Laufe des Tages erstellt wurden. Eine Suche vom 2012-02-07 bis 2012-02-07 wird zu keinem Ergebnis führen!
 
-Note the following for searching **Sources**:
+Bei der Suche nach **Quellen** sind folgende Punkte zu beachten:
 
-- **Siglum contains**: Search by the letters in a siglum. This field is case-sensitive. For example:  
-  **D-*** = all sources in Germany  
-  **D-B*** = all sources in German cities that start with B  
-  **D-B** = all sources at the Staatsbibliothek zu Berlin
+- **Sigelum**: Suche nach Buchstaben in einem Sigel. In diesem Feld wird zwischen Groß- und Kleinschreibung unterschieden. Zum Beispiel:  
+  **D-*** = alle Quellen in Deutschland  
+  **D-B*** = alle Quellen in deutschen Städten, die mit B  
+  beginnen ** D-B** = alle Quellen aus der Staatsbibliothek zu Berlin
 
-### Personal names
+### Personennamen
 
-Note the following for searching **Personal names**:
+Bei der Suche nach **Personen** sind folgende Punkte zu beachten:
 
-- **Name**: Searches the fields **Heading - Personal name (100 $a)** and **Name variant (400 $a)**.
-- **Life dates**: Searches the field **Years of birth and death (100 $d)**, meaning years as well as the following abbreviations: sc a p c \* + /
-- **Places**: Searches the field **Geographic name (551)**. This includes places of birth, death, origin, or activity.
+- **Name**: Durchsucht die Felder **Ansetzungsform (100 $a)** und **Namensvarianten (400 $a)**.
+- **Lebensdaten**: Durchsucht die Felder **Geburts- und Todesdaten (100 $d)**, bedeutet Jahre und die folgenden Abkürzungen: sc a p c \* + /
+- **Orte**: Durchsucht das Feld **Ort (551)**. Dazu gehören Geburts-, Sterbe-, Herkunfts- oder Wirkungsorte.
