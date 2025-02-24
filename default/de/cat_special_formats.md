@@ -1,8 +1,8 @@
-## Cataloging special types of sources
+## Katalogisierung spezieller Arten von Quellen
 
-This section describes how to catalog special types of sources: collections, composite volumes, contrafacta, compilations, parodies, insertion arias, mixed materials (manuscripts and printed items stored together), music in periodicals, music in non-music publications, collected works (sometimes called "monuments"), librettos, treatises, keyboard arrangements, and sources from other RISM Series B publications.
+In diesem Abschnitt wird beschrieben, wie spezielle Arten von Quellen zu katalogisieren sind: Sammlungen, Sammelbände (Konvolute), Kontrafakturen, Kompilationen, Parodien, Einlagen, gemischtes Material (Manuskripte und Drucke, die zusammen aufbewahrt werden), Musik in Zeitschriften, Musik in nicht-musikalischen Publikationen, gesammelte Werke (manchmal „Denkmäler“ genannt), Libretti, Traktate, Bearbeitungen für Tasteninstrumente und Quellen aus anderen Publikationen der RISM Serie B.
 
-### Collections
+### Sammlungen
 
 In RISM, the word _collection_ refers to any item (whether manuscript or printed) that contains two or more pieces. This includes both intentional collections or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
 
