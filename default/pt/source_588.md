@@ -8,7 +8,7 @@ Enter the library siglum and shelfmark of the printed edition consulted. You can
 
 ##### Examples
 
-- CZ-Nlob X A a 12
+- I-Bc Q.51
 - (incipits:) US-BETm LCM 242
 
 If you use a secondary source as a basis for the record, fill out this field as usual but specify the secondary source in a **General note (500)** and link to it as a catalog of works or bibliographic reference.
