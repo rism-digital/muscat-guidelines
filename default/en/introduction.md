@@ -1,6 +1,3 @@
-Welcome to the website of the RISM Cataloging Guidelines, the rules and procedures for describing historical musical sources for the Répertoire International des Sources Musicales (RISM) - International Inventory of Musical Sources.  
-
-**To search the RISM database, please visit [the RISM website](https://rism.info/index.html).**
 
 This website contains the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. Muscat is used by RISM's working groups and contributors, available free of charge to anyone who is interested. It enables direct access to the RISM database hosted by the Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. If you are interested in becoming a contributor, contact the RISM Editorial Center (Zentralredaktion).
 
