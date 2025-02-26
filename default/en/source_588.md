@@ -9,7 +9,7 @@ only a portion of the record, such as incipits or individual entries.
 
 ##### Examples
 
-- CZ-Nlob X A a 12
+- I-Bc Q.51
 - (incipits:) US-BETm LCM 242
 
 If you use a secondary source as a basis for the record, fill out this field as usual but specify the secondary source

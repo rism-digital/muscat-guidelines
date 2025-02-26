@@ -91,6 +91,9 @@ chapters:
         - title: "650"
           helpfile: "source_650"
           index: true
+        - title: "490"
+          helpfile: "source_490"
+          index: true
         - title: "520"
           helpfile: "source_520"
           index: true
@@ -148,7 +151,7 @@ chapters:
     - guidelines_title: "edit_references"
       subsections:
         - source: "588"
-          helpfile: "source_588" 
+          helpfile: "source_588"
         - title: "500"
           helpfile: "source_500"
           index: true
@@ -471,7 +474,7 @@ chapters:
           index: true
         - title: "520"
           helpfile: "publication_520"
-          index: true 
+          index: true
         - title: "590"
           helpfile: "publication_590"
     - guidelines_title: "li_control"
