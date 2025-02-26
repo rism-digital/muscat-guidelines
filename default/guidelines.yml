@@ -21,6 +21,8 @@ chapters:
       helpfile: "cat_authorities"
     - guidelines_title: "scope_printed_music"
       helpfile: "cat_printed"
+    - guidelines_title: "cat_material_groups"
+      helpfile: "cat_material_groups"
 
 - guidelines_title: "masks"
   sections:
@@ -178,6 +180,9 @@ chapters:
           index: true
         - title: "856"
           helpfile: "source_856"
+          index: true
+        - title: "930"
+          helpfile: "source_930"
           index: true
     - guidelines_title: "administration"
       subsections:
