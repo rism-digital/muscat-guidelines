@@ -1,76 +1,76 @@
-### External resource (856)
+### Elektronische Lokalisierung und Zugriff (856)
 
-The field **External resource** is used to link to an external resource that bears a direct connection to the source being described.
+Das Feld **Externe Ressource** wird verwendet, um auf eine externe Ressource zu verlinken, die eine direkte Verbindung zu der beschriebenen Quelle hat.
 
-#### External resource URL (856 $u)
+#### Elektronische Lokalisierung und Zugriff (856 $u)
 
-Enter the full URL of the external resource. Always use permalinks.
+Geben Sie die vollständige URL der externen Ressource ein. Immer Permalinks verwenden.
 
-#### Note about external resource (856 $z)
+#### Für das Publikum bestimmte Fussnote (856 $z)
 
-**This field is required when entering a link to an external resource.**
+**Pflichtfeld, wenn Sie einen Link auf eine externe Ressource eingeben.**
 
-Enter a brief description that explains why the URL is relevant to the source being described. Enter using your cataloging language.
+Geben Sie eine kurze Beschreibung zur Erläuterung, warum die URL für die beschriebene Quelle relevant ist. Verwenden Sie Ihre Katalogisierungssprache.
 
-##### Examples
+##### Beispiele
 
-- Digital copy
-- Watermark on p. 4
-- Project homepage
-- Detail of binding
-- Bibliographic record
-- Link to record in Bach Digital
-- Link to work in the Frescobaldi Thematic Catalogue Online
-- Entry in the church registry
+- Digitalisat
+- Wasserzeichen auf S. 4
+- Projektseite
+- Details der Bindung
+- Bibliographischer Eintrag
+- Link zu Bach Digital
+- Link zum Thematischen Katalog Frescobaldi Online
+- Eintrag im Kirchenregister
 
 
-#### Link type (856 $x)
+#### Linktyp (856 $x)
 
-**This field is required when entering a link to an external resource.**
+**Pflichtfeld, wenn Sie einen Link auf eine externe Ressource eingeben.**
 
 Folgende Angaben sind möglich:
 
-- The preference is to link to institutional repositories but if one is not available then links to external repositories such as the Internet Archive or IMSLP are allowed. **Digitized source**: The link is to an external website which is a digitized copy of the resource being described. If a link to a digitized source is included in a record for a collection, it is not necessary to duplicate the same link in the individual entries.
- - Example  
+- **Notendigitalisat**: Der Link führt zu einer externe Webseite mit einer digitalisierten Version der im Titel vorliegenden Quelle. Bevorzugt wird immer die digitale Sammlung der besitzenden Institution, dann externe Repertorien (Internet Archive oder IMSLP). Bei Sammlungen ist es nicht notwendig, den Lihk in den Teileinträgen zu wiederholen.
+ - Beispiel  
    [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)
-- **IIIF manifest (digitized source)** and **IIIF manifest (other)**: The linked object is a machine-readable JSON object. IIIF links should only be to the manifest, not to a digital surrogate. IIIF manifests do not display the image but rather consist of machine-readable text that must be processed by an internal document viewer such as diva.js before it displays a meaningful image. When viewing the manifest in a web browser, it will start with the curly bracket {. The document is embedded in the web page directly. In many cases, "manifest," "iiif," or similar appears in the link.   
-  **IIIF manifest (digitized source)** should be used when the manifest represents a digital surrogate of the source being described.  **IIIF manifest (other)** should be used when the manifest represents an element other than the full source, such as a watermark.
- - Example [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)
+- **IIIF-Manifest (digitalisierte Quelle)** und **IIIF-Manifest (sonstige)**: Das verknüpfte Objekt ist ein maschinenlesbares JSON-Objekt. IIIF-Links sollten nur zum Manifest und nicht zu einem digitalen Surrogat gehören. IIIF-Manifeste zeigen das Bild nicht an, sondern bestehen aus maschinenlesbarem Text, der von einem internen Dokumentenbetrachter wie diva.js verarbeitet werden muss, bevor es ein aussagekräftiges Bild anzeigt. Wenn Sie das Manifest in einem Web-Browser ansehen, beginnt es mit der geschweiften Klammer {. Das Dokument ist direkt in die Webseite eingebettet. In vielen Fällen erscheint "manifest", "iiif" oder ähnliches im Link.   
+  **IIIF-Manifest (digitalisierte Quelle)** sollte verwendet werden, wenn das Manifest einen digitalen Ersatz für die beschriebene Quelle darstellt.  **IIIF-Manifest (sonstige)** sollte verwendet werden, wenn das Manifest ein anderes Element als die vollständige Quelle repräsentiert, wie zum Beispiel ein Wasserzeichen.
+ - Beispiel [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)
 
- In cases where both links to an external viewer and an IIIF manifest are available, repeat the field and list both links separately.
- - Examples
-   - External resource: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
-     Note: digitized version  
-     Link type: digitized source
-   - External resource: [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
-     Note: IIIF manifest  
-     Link type: IIIF manifest
+ Wenn sowohl Links zu einem externen Dokumentbetrachter als auch ein IIIF-Manifest verfügbar sind, wiederholen Sie das Feld und führen Sie beide Links einzeln auf.
+ - Beispiele
+   - Externe Ressource: [http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966](http://nrs.harvard.edu/urn-3:FHCL.Loeb:537966)  
+     Fußnote: Digitalisat  
+     Linktyp: Quellendigitalisat
+   - Externe Ressource: [https://iiif.lib.harvard.edu/manifests/drs:2820650](https://iiif.lib.harvard.edu/manifests/drs:2820650)  
+     Fußnote: IIIF-Manifest (digitalisierte Quelle)  
+     Linktyp: IIIF-Manifest
 
-- **Other**: Link to other resources that are not the resource being described.
+- **Sonstige**: Link zu anderen Ressourcen, die nicht die beschriebene Quelle darstellen.
 
-#### Kinds of external resources
+#### Arten von externen Ressourcen
 
-**Link type 856 $x: Digitized source**  
-Link only to the source being described in the RISM record. Only use permalinks. If permalinks are unavailable, you may link to a page where the link to the digitized source can be easily found (such as a bibliographic record in a library catalog). You may include portions of the digitized source (such as a few pages) if a fully digitized version is not available.
+**Link Typ 856 $x: Digitalisierte Quelle**  
+Link nur auf die im RISM-Eintrag beschriebene Quelle. Verwenden Sie nur Permalinks. Stehen keine Permalinks zur Verfügung, können Sie auf eine Seite verlinken, auf der der Link zur digitalisierten Quelle leicht zu finden ist (z. B. ein Datensatz in einem Bibliothekskatalog). Sie können auch Teile der digitalisierten Quelle (z. B. einige Seiten) angeben, wenn keine vollständig digitalisierte Version verfügbar ist.
 
-**Link type 856 $x: Other**  
-Other kinds of external resources can include the following. Make sure it is always clear to the user why a link is being included, such as in a **General note (500)**.
+**Linktyp 856 $x: Sonstiges**  
+Andere Arten von externen Ressourcen können Folgende sein. Stellen Sie sicher, dass dem Benutzer klar ist, warum ein Link aufgenommen wurde, z. B. durch eine **Bemerkung (500)**.
 
-- **Details of sources**  
-  Details of sources that only present certain aspects, such as a watermark, binding, title page, or cover.
-- **Catalog records/Databases**  
-  Includes bibliographic entries in external catalogs or entries in external databases. External scholarly databases that provide useful information might be included, but consider whether they might be better linked as secondary literature.
-- **Electronic catalogs of works, online encyclopedias, digitized reference sources**  
-  In general, use the fields **Secondary literature (691)** or **Catalog of works (690)** to refer to online reference works such as catalogs of works or encyclopedias. However, as a service to users, it might be helpful to additionally include a direct link to a certain place within the resource through the 856 field.
-- **Archival sources, historical sources**  
-  Includes digitized municipal registers or documents, digitized correspondence, historical newspapers. Ensure that the relevance of the archival source is first clear in a **General note (500)**, then include the direct link here. For historical newspapers, you should enter the name of the newspaper as secondary literature but you may link to the specific page where the article is found here; make sure information about the article, such as article title and date, is included in a note.
-- **Websites**  
-  Includes project websites, websites of external funding agencies, or other relevant websites.
-- **Other RISM records**  
-  Only link to another RISM record if the record has direct bearing to the source being described. Only use permalinks. It should be clear to the user why the record is relevant to the source. At a minimum, name the holding library, shelfmark, and RISM ID number in a note. Sometimes a connection to a different source might be better explained in a **General note (500)**.   
-  If you refer to other RISM records elsewhere in you record, it is not required to link to them in this field.  
-  It is not necessary to link to all concordant sources in RISM here; indeed, this is a futile pursuit because the number of sources grows in Muscat daily.
-- **References to relevant sources in other libraries but not in RISM**  
-  If you want to link to a source not yet in RISM, consider whether it is possible for your working group to first enter the digitized libretto, manuscript, or treatise, or add holdings to a particular print. The Editorial Center is happy to help you if you think a source should be in RISM. However, it is understandable if you are unable to create a new record for a source first.
-- **Other relevant sources**  
-  Includes concordant sources, concordant works, concordant arias or sections of works, sources that served as the basis for the source being described. Such links can be to the digitized objects or links to external catalogs.
+- **Details zur Quelle**  
+  Angaben zur Quelle, die nur bestimmte Aspekte berücksichtigen, wie Wasserzeichen, Einband, Titelseite oder Umschlag.
+- **Katalogeinträge/Datenbanken**  
+  Enthält bibliographische Einträge in externen Katalogen oder Einträge in externen Datenbanken. Externe wissenschaftliche Datenbanken, die nützliche Informationen liefern, können einbezogen werden, aber überlegen Sie, ob man sie nicht besser als Sekundärliteratur verknüpfen sollte.
+- **Elektronische Werkverzeichnisse, Online-Lexika, digitalisierte Parallelquellen**  
+  Verwenden Sie in der Regel die Felder **Sekundärliteratur (691)** oder **Werkverzeichnis (690)**, um auf Online-Nachschlagewerke wie Werkverzeichnisse oder Enzyklopädien zu verweisen. Für den Benutzer kann es jedoch hilfreich sein, zusätzlich einen direkten Link zu einem bestimmen Ort innerhalb der Ressource über das Feld 856 einzubinden.
+- **Archivquellen, historische Quellen**  
+  Dazu gehören digitalisierte Stadtregister oder -Dokumente, digitalisierte Korrespondenz, historische Zeitungen. Stellen Sie sicher, dass die Relevanz der Archivquelle zunächst in einer allgemeine **Bemerkung (500)** deutlich wird, und fügen Sie hier den direkten Link hinzu. Bei historischen Zeitungen sollten Sie den Namen der Zeitung als Sekundärliteratur eingeben, aber Sie können auch auf die spezielle Seite verlinken, auf der sich der Artikel hier befindet; stellen Sie sicher, dass Informationen über den Artikel, wie z. B. Titel und Datum, in einer Bemerkung enthalten sind.
+- **Webseiten**  
+  Umfasst Projekt-Webseiten, Webseiten externer Geldgeber oder andere relevante Webseiten.
+- **Andere RISM-Datensätze**  
+  Verlinken Sie nur dann auf einen anderen RISM-Datensatz, wenn der Datensatz einen direkten Bezug zu der beschriebenen Quelle hat. Verwenden Sie nur Permalinks. Dem Benutzer sollte klar sein, warum der Datensatz für die Quelle relevant ist. Benennen Sie mindestens die besitzende Bibliothek, die Signatur und die RISM ID Nummer in einer Bemerkung. Manchmal kann eine Verbindung zu einer anderen Quelle besser in einer allgemeinen **Bemerkung (500)**.   
+  Wenn Sie an anderer Stelle in Ihrem Datensatz auf andere RISM-Datensätze verweisen, ist es nicht erforderlich, in diesem Feld darauf zu verweisen.  
+  Es ist nicht notwendig, hier auf alle übereinstimmenden Quellen in RISM zu verweisen, da die Zahl der Quellen in Muscat täglich wächst.
+- **Verweise auf relevante Quellen in anderen Bibliotheken, nicht in RISM**  
+  Wenn Sie auf eine Quelle verweisen möchten, die noch nicht in RISM enthalten ist, prüfen Sie, ob es für Ihre Arbeitsgruppe möglich ist, zuerst das digitalisierte Libretto, Manuskript oder die Abhandlung einzugeben oder Exemplare zu einem bestimmten Druck hinzuzufügen. Die Zentralredaktion hilft Ihnen gerne weiter, wenn Sie der Meinung sind, dass eine Quelle in RISM verzeichnet sein sollte. Sie kann aber in diesem Fall keinen neuen Datensatz für die Quelle erstellen.
+- **Andere relevante Quellen**  
+  Umfasst konkordante Quellen, konkordante Werke, konkordante Arien oder Werkteile, Quellen, die als Grundlage für die beschriebene Quelle dienten. Solche Links können zu den digitalisierten Objekten oder zu externen Katalogen führen.

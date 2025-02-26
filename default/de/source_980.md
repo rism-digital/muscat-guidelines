@@ -24,5 +24,5 @@ Exportnotiz: 980 $b wird als 599 $b exportiert.
 
 Geben Sie an, ob Sie das Material beim Katalogisieren direkt geprüft haben.
 
-- **Material examined**: This is the default value for new records in Muscat.
+- **Autopsie**: Dies ist der Standardwert für neue Datensätze in Muscat.
 - **Keine Autopsie**: Dies kann verwendet werden, wenn der Datensatz anhand einer Beschreibung erstellt wurde, die an anderer Stelle veröffentlicht wurde, z. B. in einem elektronischen Bibliothekskatalog oder einem gedruckten Katalog.

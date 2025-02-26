@@ -1,14 +1,14 @@
-### Dates of publication (520)
+### Veröffentlichungsdatum (520)
 
-Recte: **Dates of publication (362)**
+Erhalten: **Daten der Veröffentlichung (362)**
 
-The field **Dates of publication** is used to state the beginning and/or ending date(s) of an item, especially for periodicals.
+Das Feld **Datum der Veröffentlichung** wird verwendet, um das Anfangs- und/oder Enddatum einer Publikation anzugeben, insbesondere bei Zeitschriften.
 
-#### Dates of publication (520 $a)
+#### Veröffentlichungsdatum (520 $a)
 
-Enter the beginning date and (if applicable) the ending date of an item. If the item continues to be published, leave the date open.
+Geben Sie das Anfangsdatum und (falls zutreffend) das Enddatum eines Objekts ein. Wenn das Objekt weiter veröffentlicht wird, lassen Sie das Datum offen.
 
-##### Examples
+##### Beispiele
 
-- Vol. Vol. 1, no. 1 (Apr. 1981)-
+- Bd. 1, Nr. 1 (Apr. 1981)-
 - 1969-2004

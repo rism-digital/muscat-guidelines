@@ -1,31 +1,31 @@
-Welcome to the website of the RISM Cataloging Guidelines, the rules and procedures for describing historical musical sources for the Répertoire International des Sources Musicales (RISM) - International Inventory of Musical Sources.
+Willkommen auf der Website der RISM-Katalogisierungsrichtlinien, den Regeln und Verfahren zur Beschreibung historischer Musikquellen für das Répertoire International des Sources Musicales (RISM) - Internationales Quellenlexikon der Musik.
 
-**To search the RISM database, please visit [the RISM website](https://rism.info/index.html).**
+**Um die RISM-Datenbank zu durchsuchen, besuchen Sie bitte [die RISM-Website](https://rism.info/index.html).**
 
-This website contains the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. Muscat is used by RISM's working groups and contributors, available free of charge to anyone who is interested. It enables direct access to the RISM database hosted by the Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. If you are interested in becoming a contributor, contact the RISM Editorial Center (Zentralredaktion).
+Diese Website enthält die von RISM entwickelten internationalen Richtlinien, um musikalische Quellen zu dokumentieren und zu beschreiben, wie sie für das Katalogisierungsprogramm Muscat angewendet werden. Muscat wird von den RISM-Arbeitsgruppen und -mitarbeitern genutzt und steht allen Interessierten kostenlos zur Verfügung. Es ermöglicht direkten Zugriff auf die RISM-Datenbank, die von der Staatsbibliothek zu Berlin, Preußischer Kulturbesitz gehostet wird. Wenn Sie an einer Mitarbeit interessiert sind, wenden Sie sich bitte an die RISM-Zentralredaktion.
 
-Muscat is developed jointly by the two RISM Centers, the RISM Editorial Center and the RISM Digital Center. It is based on a program that was jointly developed by RISM Switzerland and RISM UK.
+Muscat wird gemeinsam von den beiden RISM-Zentren, der RISM-Zentralredaktion und dem RISM Digital Center, entwickelt. Es basiert auf einem gemeinsam von RISM Schweiz und RISM UK entwickelten Programm.
 
-Muscat data is structured around the [MARC21 library standard](https://www.loc.gov/marc/). The numbers and letters next to field names, such as 245 $a, refer to the MARC21 field.
+Die Muscat-Daten sind nach dem [MARC21 Bibliotheksstandard](https://www.loc.gov/marc/) strukturiert. Die Zahlen und Buchstaben neben den Feldnamen, wie z. B. 245 $a, beziehen sich auf das MARC21 Feld.
 
-Refer to the contents on the right for an overview of this document. The sections **2-Using Muscat** and **3-General cataloging guidelines** explain how to use the program: general functions, templates, how to catalog certain formats.
+Einen Überblick über dieses Dokument finden Sie im Inhaltsverzeichnis auf der rechten Seite. Die Abschnitte **2-Benutzung von Muscat** und **3-Allgemeine Katalogisierungsrichtlinien** erklären, wie man das Programm benutzt: allgemeine Funktionen, Vorlagen, wie man bestimmte Formate katalogisiert.
 
-The section **4-Cataloging musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. The guidelines are listed in the order they appear in the program. When working with Muscat, you will also find the guidelines for each field linked to their respective field. Examples are included throughout.
+Der Abschnitt **4-Katalogisierung musikalischer Quellen** enthält die RISM-Katalogisierungsrichtlinien für musikalische Quellen in Muscat. Die Richtlinien sind in der Reihenfolge aufgeführt, in der sie im Programm erscheinen. Wenn Sie mit Muscat arbeiten, finden Sie die Richtlinien auch für jedes Feld; sie sind mit dem jeweiligen Feld verknüpft. Beispiele sind durchgehend enthalten.
 
-The middle sections (5-9) contain the guidelines for RISM's authority files. The final sections (10-11) offer various lists containing RISM's standardized vocabulary and abbreviations.
+Die mittleren Abschnitte (5-9) enthalten die Richtlinien für die RISM-Normdaten. Die letzten Abschnitte (10-11) bieten verschiedene Listen mit standardisiertem Vokabular und Abkürzungen von RISM an.
 
-Visit [RISM's Muscat page](https://rism.info/community/muscat.html) for more information about Muscat.
+Besuchen Sie die [RISM Muscat-Seite](https://rism.info/community/muscat.html) für weitere Informationen über Muscat.
 
-The guidelines are maintained by the RISM Editorial Center in Frankfurt, Germany.
- - English: [Jennifer Ward](mailto:jennifer.ward@rism.info)
- - German: [Martina Falletta](mailto:martina.falletta@rism.info)
- - Should anything be unclear, do not hesitate to contact us.
+Die Richtlinien werden von der RISM-Zentralredaktion in Frankfurt am Main, Deutschland, gepflegt.
+ - Englisch: [Jennifer Ward](mailto:jennifer.ward@rism.info)
+ - Deutsch: [Martina Falletta](mailto:martina.falletta@rism.info)
+ - Falls etwas unklar ist, zögern Sie nicht uns zu kontaktieren.
 
-We would also like to extend our gratitude to our translators, past and present, whose efforts make Muscat more easily accessible to our colleagues worldwide.
- - Catalan: Ferran Jorba
- - Italian: Claudio Bacciagaluppi, Rodolfo Zitellini
- - French: Claudio Bacciagaluppi, Rodolfo Zitellini, Laurent Pugin
- - Korean: JeongYoun Chang
- - Polish: Marcelina Chojecka, Katarzyna Diehl
- - Portuguese: André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, Silvia Sequeira, Marcos Virmond
- - Spanish: Rodrigo Balaguer, Antonio Ezquerro, John Lazos, Lucas Reccitelli, Oliver Schöner, Luciana Giron Sheridan  
+Wir möchten uns auch bei unseren Übersetzern bedanken, die in der Vergangenheit und in der Gegenwart tätig waren, um Muscat unseren Kollegen weltweit leichter zugänglich machen.
+ - Katalanisch: Ferran Jorba
+ - Italienisch: Claudio Bacciagaluppi, Rodolfo Zitellini
+ - Französisch: Claudio Bacciagaluppi, Rodolfo Zitellini, Laurent Pugin
+ - Koreanisch: JeongYoun Chang
+ - Polnisch: Marcelina Chojecka, Katarzyna Diehl
+ - Portugiesisch: André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, Silvia Sequeira, Marcos Virmond
+ - Spanisch: Rodrigo Balaguer, Antonio Ezquerro, John Lazos, Lucas Reccitelli, Oliver Schöner, Luciana Giron Sheridan  

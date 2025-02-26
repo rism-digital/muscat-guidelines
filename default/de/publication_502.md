@@ -4,7 +4,7 @@ Das Feld **Hinweis zur Dissertation** zeigt an, dass es sich um eine Dissertatio
 
 #### Hochschulschriftenvermerk (502 $a)
 
-Enter a statement that includes the type of degree, institution, and year.
+Wenn es ich um eine Hochschulschrift handelt, werden hier die Art, Institution und das Jahr genannt.
 
 ##### Beispiele
 

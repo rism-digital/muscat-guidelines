@@ -1,5 +1,5 @@
-## Standard terms
+## Standardbegriffe
 
-The section **Standard terms** contains standardized English terms that should be used in fields where English is required.
+Der Abschnitt **Standardbegriffe** enthält standardisierte englische Begriffe, die in Feldern verwendet werden sollten, in denen Englisch erforderlich ist.
 
 {% include common/abbr_standard_terms.html %}
