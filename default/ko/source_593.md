@@ -41,7 +41,7 @@ For example, you have a set of performing materials that comprises a handwritten
 
 If you are using a manuscript template, your first instance of the field **Source type** will match the template by default and pertain to the handwritten material. Add a second material group and select **Additional printed material**. Then describe your printed material as usual for this section.
 
-If you are using a print template, in the holdings information select **Additional manuscript material**. Then describe your manuscript material in this section.
+If you are using a print template, in the holdings information select **Additional manuscript material**. Manuscript material can be described briefly in this section, or in the field **General note (500)**.
 
 #### Content type (593 $b)
 

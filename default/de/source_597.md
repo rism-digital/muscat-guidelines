@@ -1,11 +1,11 @@
-### Colophon (597)
+### Kolophon (597)
 
-The field **Colophon** is for a transcription of the colophon in a printed edition. A colophon is different from the publication information found on the title page.
+Das Feld **Kolophon** ist für die Transkription des Kolophons in einem Musikdruck. Ein Kolophon unterscheidet sich von den Publikationsangaben auf dem Titelblatt.
 
-#### Colophon (597 $a)
+#### Kolophon (597 $a)
 
-For printed items, enter the colophon as it appears on the source, typically on the last printed page.
+Bei den Drucken wird hier der Kolophon (Schlussformel mit Angaben über Verfasser, Druckort und Druckjahr) wie auf der Quelle wiedergegeben.
 
-##### Example
+##### Beispiel
 
-- Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs \| eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis
+- Vigilie maiores minoresqz ac vespere mortuorū:ānexis officijs \| eorundem expliciunt feliciter. Anno dñi.M.cccc.xcij.kł.ij.aprilis

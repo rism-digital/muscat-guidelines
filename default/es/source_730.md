@@ -1,10 +1,10 @@
 ### Título adicional (730)
 
-The field **Additional title** is for alternatives to the **Standardized title (240 $a)**, also in a standardized form, or for titles of periodicals and series. It is linked to the **Titles/Text incipits** index through $0.
+The field **Additional title** is for alternatives to the **Standardized title (240 $a)**, also in a standardized form. It is linked to the **Titles/Text incipits** index through $0.
 
 #### Título adicional (730 $a)
 
-Enter markedly different titles rather than titles with alternative spellings. Multiple variants can be entered by repeating the field. In addition, series titles and names of periodicals are entered here.
+Enter markedly different titles rather than titles with alternative spellings. Multiple variants can be entered by repeating the field.
 
 Types of possible alternatives are:
 
@@ -39,14 +39,6 @@ For inserts, also note the guidelines under for the field **Insertions (787)**. 
 - Standardized title: Consola amato bene
 - Additional title: Una cosa rara [plus **Inserts** in **Subheading (730 $k)**]
 
-This field can also be used for titles of periodicals or series.
-
-##### Examples
-
-- Oeuvres Complets de Piano
-- Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten
-- Nouveau Mercure galant, mai 1679
-- The Lady's Magazine, Aug., 1784
 
 #### Arrangement statement (730 $o)
 

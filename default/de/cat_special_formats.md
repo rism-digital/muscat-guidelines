@@ -1,82 +1,82 @@
-## Cataloging special types of sources
+## Katalogisierung spezieller Arten von Quellen
 
-This section describes how to catalog special types of sources: collections, composite volumes, contrafacta, compilations, parodies, insertion arias, mixed materials (manuscripts and printed items stored together), music in periodicals, music in non-music publications, collected works (sometimes called "monuments"), librettos, treatises, keyboard arrangements, and sources from other RISM Series B publications.
+In diesem Abschnitt wird beschrieben, wie spezielle Arten von Quellen zu katalogisieren sind: Sammlungen, Sammelbände (Konvolute), Kontrafakturen, Kompilationen, Parodien, Einlagen, gemischtes Material (Manuskripte und Drucke, die zusammen aufbewahrt werden), Musik in Zeitschriften, Musik in nicht-musikalischen Publikationen, gesammelte Werke (manchmal „Denkmäler“ genannt), Libretti, Traktate, Bearbeitungen für Tasteninstrumente und Quellen aus anderen Publikationen der RISM Serie B.
 
-### Collections
+### Sammlungen
 
-In RISM, the word _collection_ refers to any item (whether manuscript or printed) that contains two or more pieces. This includes both intentional collections or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
+In RISM bezieht sich das Wort _Sammlung_ auf jeden Gegenstand (ob handschriftlich oder gedruckt), der zwei oder mehr Stücke enthält. Dazu gehören sowohl beabsichtigte Sammlungen oder Anthologien als auch Werke, die von ihren Schöpfern nicht unbedingt als Sammlungen gedacht waren (z. B. eine Klaviersonate mit einem kurzen Marsch auf der letzten Seite).
 
-Collections in RISM have a parent/child hierarchy, meaning there is one main entry (parent record) that describes the collection as a whole, and individual entries (child or analytical records) that describe each piece therein separately.
+Sammlungen in RISM haben eine übergeordnete/untergeordnete Hierarchie, d. h. es gibt einen Haupteintrag (übergeordneter Datensatz), der die Sammlung als Ganzes beschreibt, und einzelne Einträge (untergeordnete oder analytische Datensätze), die jedes darin enthaltene Stück separat beschreiben.
 
-Collection parent records may not contain collection parent records of manuscripts. There are no smaller collections within collections, even though the item itself may be structured this way. Instead, use a flatter hierarchy by means of child records and explain the structure, makeup, or organization of the item in a note. For example, if a collection consists of a single march followed by a set of six sonatas, you will create 1 parent record and 7 individual entries, one for each piece. Even if the six sonatas can be considered as a unit, they must be described separately. The parent record can explain the organization of the collection and notes in the child records can explain that each sonata is part of a set.
+Übergeordnete Datensätze der Sammlung dürfen keine übergeordneten Einträge von Manuskripten enthalten. Es gibt keine kleineren Sammlungen innerhalb von Sammlungen, auch wenn der Gegenstand selbst auf diese Weise strukturiert sein kann. Verwenden Sie stattdessen eine flachere Hierarchie mit Hilfe von untergeordneten Datensätzen und erläutern Sie die Struktur, den Aufbau oder die Organisation des Gegenstands in einer Notiz. Besteht eine Sammlung beispielsweise aus einem einzelnen Marsch, gefolgt von einer Reihe von sechs Sonaten, so erstellen Sie einen übergeordneten Datensatz und 7 individuelle Einträge, einen für jedes Werk. Auch wenn die sechs Sonaten als eine Einheit betrachtet werden können, müssen sie einzeln beschrieben werden. Der übergeordnete Datensatz kann die Organisation der Sammlung erläutern, und die Bemerkungen in den untergeordneten Datensätzen können erklären, dass jede Sonate Teil einer Reihe ist.
 
-When cataloging collections, note that:
+Für die Erfassung von Sammlungen gelten folgende Regeln:
 
-1. The collection main entry (parent record) should contain information that applies to the entire collection.
-2. Any information that is relevant only for some sections of the collection should be entered in the child record.
+1. Sämtliche Angaben, welche auf die gesamte Sammlung zutreffen, werden im übergeordneten Eintrag eingetragen.
+2. Angaben, die nur für einzelne Teile aus der Sammlung zutreffen, werden in den entsprechenden Einzeleinträgen gemacht.
 
-If the works in the collection have different composers, scoring, source types, etc., then do not enter them in the parent record.
-
-
-### Composite volumes
-
-A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
-
-There are two ways to indicate a composite volume. The first, and simplest, way is to catalog the items separately and give the items the same shelfmark; a bound-with note is also helpful. The second is to use the template for a composite volume record.
-
-The composite volume record serves as means to link all bound items to a single record, thus providing the user with a convenient overview of the entire contents of a bound item.
-
-Records for a composite volume should be kept simple. In principle, the record simply describes the binding and serves as a means to connect the individual items to each other.
-
-Do not confuse composite volumes with collections; see "Collections," above, for the use in RISM. Furthermore, do not confuse composite volumes with printed editions: a printed edition is single bibliographic unit that was issued by the publisher as such. Both collections and printed editions can contain multiple pieces. In contrast to this, composite volumes bring together disparate units: for example, a printed collection of madrigals from 1604, a manuscript of a motet from 1620, and a printed edition of madrigals from 1614.
-
-As with collection parent records, the information given in the composite volume record should be true for all of the components of the volume, and remember that detailed information related to the music belongs in the respective bibliographic records. Do not create separate records for multiple composite volumes that belong together, such as a set of partbooks bound by voice type; these should be described in the same record. In many cases, you will be leaving a lot of fields blank.
-
-When describing a composite volumes creating the links, observe the following. As an example of a composite volume, see [RISM ID no. 1001077677](https://muscat.rism.info/admin/sources/1001077677), a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
-
-1. First, create the record for the composite volume, save, and note the RISM ID number.
-2. For manuscripts: In the editing mode of the record for your manuscript, go to the field **Parent record (773)**. Click the second button to search for the composite volume.
-3. For printed music: In the holdings information for the printed edition, find the field **Bound with (973)** and click the magnifying glass. Find the record for the composite volume and select it.
+Wenn die Werke einer Sammlung unterschiedliche Komponisten, Besetzungen, Quellentypen etc. haben, geben Sie diese nicht in den übergeordneten Eintrag ein.
 
 
-### Contrafacta
+### Konvolutbände
 
-**Contrafacta** are vocal pieces in which the text is changed without significant change to the music, such as retexting a secular work with sacred text, or the other way around. The derivation is almost mechanical; there is little creativity on the part of the arranger, but there is a significant change in the musical purpose (such as from a theatrical context to a religious one).
+Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Im Englischen gibt es viele weitere Bezeichnungen für solche Bände: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind.
 
-Note that RISM considers contrafacta to be separate from parody and parody masses, which typically involve a more significant transformation of the musical material.
+Es gibt zwei Möglichkeiten, einen Konvolutband zu kennzeichnen. Die erste und einfachste Möglichkeit ist, die Einheiten mit der gleichen Signatur zu versehen; ein Vermerk ist ebenfalls hilfreich. Die zweite Möglichkeit ist die Verwendung der Vorlage für Konvolute.
 
-Take note of the following fields when cataloging contrafacta. RISM ID no. 300234487, a sacred contrafactum of an aria from Josef Mysliveček's opera Il Bellerofonte, will be used as an example.
+Der Konvolutdatensatz dient dazu, alle gebundenen Einheiten mit einem einzigen Datensatz zu verknüpfen und dem Benutzer so einen bequemen Überblick über den gesamten Inhalt zu geben.
 
-- **Composer (100)**  
-  Enter the composer of the original music.
- - Mysliveček, Josef
-- **Standardized title (240)**  
-  Use the standardized title of the original piece. **Excerpts** may be added. Do not use **Arr**.
- - Il Bellerofonte. Excerpts
-- **Alternative title (730)**  
-  If there is a new, distinct standardized title for the piece in hand, you can enter it here. Do not enter text incipits here.
-- **Subject headings (650)**  
-  Add at least 3 subject headings (more if appropriate), in this order:  Contrafacta -- Current genre -- Original genre.
+Die Datensätze für ein Konvolut sollten einfach gehalten werden. Im Prinzip beschreibt der Datensatz nur die Bindung und dient als Mittel, um die einzelnen Elemente miteinander zu verbinden.
+
+Verwechseln Sie zusammengesetzte Bände nicht mit Sammlungen; siehe "Sammlungen", oben, für die Verwendung in RISM. Außerdem dürfen Sie Sammelbände nicht mit gedruckten Ausgaben verwechseln: Ein Musikdruck ist eine einzelne bibliografische Einheit, die vom Verlag als solche herausgegeben wurde. Sowohl die Sammlungen als auch die gedruckten Editionen können mehrere Werke enthalten. Im Gegensatz dazu fassen zusammengesetzte Bände disparate Einheiten zusammen: zum Beispiel eine gedruckte Madrigalsammlung von 1604, das Manuskript einer Motette von 1620 und eine gedruckte Madrigalausgabe von 1614.
+
+Wie bei den übergeordneten Datensätzen einer Sammlung sollten die Angaben im Datensatz des Konvoluts für alle Bestandteile des Bandes zutreffen. Denken Sie daran, dass detaillierte Informationen über die Werke in die jeweiligen bibliografischen Datensätze gehören. Erstellen Sie keine separaten Datensätze für mehrere zusammengesetzte Bände, die zusammengehören, wie z. B. ein Satz von Stimmbüchern, die nach Stimmtyp gebunden sind; diese sollten im selben Datensatz beschrieben werden. In vielen Fällen werden Sie eine Vielzahl von Feldern leer lassen.
+
+Bei der Beschreibung eines Konvoluts, das die Verlinkungen herstellt, ist Folgendes zu beachten. Ein Beispiel für einen Sammelband ist [RISM ID no. 1001077677](https://muscat.rism.info/admin/sources/1001077677), eine gebundene Sammlung von 10 Klavierstücken von Chopin, die ca. 1846-1857 veröffentlicht wurden.
+
+1. Erstellen Sie zunächst den Datensatz für das Konvolut, speichern Sie ihn und notieren Sie die RISM-Nummer.
+2. Bei Handschriften: Gehen Sie im Bearbeitungsmodus des Datensatzes für Ihr Manuskript in das Feld **Übergeordneter Eintrag (773)**. Klicken Sie auf die zweite Schaltfläche, um nach dem Konvolut zu suchen.
+3. Bei Musikdrucken: Suchen Sie im Exemplareintrag das Feld **Zusammengebunden mit (973)** und klicken Sie auf die Lupe. Suchen Sie den Konvolut-Datensatz und wählen Sie ihn aus.
+
+
+### Kontrafacta
+
+**Kontrafacta** sind Vokalwerke, bei denen der Text ohne wesentliche Änderung der Musik verändert wird, z. B. durch Umtextung eines weltlichen Werks mit einem geistlichen Text oder umgekehrt. Die Ableitung ist nahezu mechanisch; es gibt wenig Kreativität seitens des Arrangereurs, aber es gibt eine bedeutende Veränderung in der musikalischen Zweckbestimmung (wie z. B. von einem Theaterkontext zu einem religiösen).
+
+Es ist zu beachten, dass RISM Kontrafakturen als etwas anderes betrachtet als Parodien und Parodie-Massen, die in der Regel eine stärkere Veränderung des musikalischen Materials beinhalten.
+
+Beachten Sie die folgenden Felder bei der Katalogisierung von Kontrafacta. Als Beispiel dient RISM ID no. 300234487, ein sakrales Kontrafaktum einer Arie aus der Oper Il Bellerofonte von Josef Mysliveček.
+
+- **Komponist (100)**  
+  Geben Sie den Komponisten des Originals an.
+ - Mysliveček, Josef
+- **Einordnungstitel (240)**  
+  Verwenden Sie den standardisierten Titel des Originalstücks. **Ausschnitte** kann hinzugefügt werden. Verwenden Sie nicht **Arr**.
+ - Il Bellerofonte. Ausschnitte
+- **Alternativer Titel (730)**  
+  Wenn es einen neuen, eigenen, standardisierten Titel für das Stück gibt, können Sie ihn hier eingeben. Geben Sie hier keine Textincipits ein.
+- **Schlagwörter (650)**  
+  Fügen Sie mindestens 3 Schlagwörter hinzu (mehr falls erforderlich), in dieser Reihenfolge: Contrafacta -- aktuelles Genre -- Genre des Originals.
  - Contrafacta
  - Sacred songs
  - Operas
-- **Description summary (520)**  
-  Add a short description in English that explains the situation as a benefit to other RISM users.
+- **Zusammenfassende Beschreibung (520)**  
+  Fügen Sie eine kurze Beschreibung in englischer Sprache hinzu, um anderen RISM-Nutzern die Situation zu erklären.
  - Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte.
-- **Language of text (041)**  
-  Fill out both of these fields:  
-  Language of text (041 $a): The current text of the source in hand  
-  Language of original text (041 $h): Language of the original piece
- - Language of text: Latin
- - Language of original text: Italian
-- **Text incipit (031 $t)**  
-  You will enter two text incipits (use the + to add a new line):   
-  The text incipit of the current text  
-  The text incipit of the original text, if known, in square brackets.
+- **Sprachcode (041)**  
+  Füllen Sie beide Felder aus:  
+  Sprachcode (041 $a): Der aktuelle Text der vorliegenden Quelle  
+  Sprachcodee des Originaltextes (041 $h): Sprache des Originals
+ - Sprachcode: Lateinisch
+ - Sprachcode des Originaltextes: Italienisch
+- **Textincipit (031 $t)**  
+  Sie geben zwei Textincipits ein (verwenden Sie das + um eine neue Zeile hinzuzufügen):   
+  Der Textincipit des aktuellen Textes  
+  Der TextiIncipit des ursprünglichen Textes, wenn bekannt, in eckigen Klammern.
  - Alma redemptoris mater, quae pervia caeli
  - [Giusti dei che ben vedete]
-- **Other fields**  
-  All other fields, such as liturgical feasts and instrumentation, should refer to the source in hand, that is, the contrafactum itself, and not the original work on which it was based.
+- **Weitere Felder**  
+  In allen anderen Feldern, wie z. B. bei den liturgischen Festen und der Instrumentation, sollte auf die vorliegende Quelle verwiesen werden, d. h. auf das Kontrafaktum selbst und nicht auf das ursprüngliche Werk, auf dem es beruht.
 
 ### Compilations
 

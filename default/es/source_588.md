@@ -8,7 +8,7 @@ Introduzca la sigla del repostorio y la signatura topográfica de la edición im
 
 ##### Examples
 
-- CZ-Nlob X A a 12
+- I-Bc Q.51
 - (incipits:) US-BETm LCM 242
 
 Si utiliza una fuente secundaria como base para el registro, rellene este campo como de costumbre, pero especifique la fuente secundaria en una Nota General (500) y vincúlela como catálogo de obras o referencia bibliográfica.

@@ -41,7 +41,7 @@ Sie haben zum Beispiel Aufführungsmaterial, das aus einem handschriftlichen Sat
 
 Wenn Sie eine Manuskriptvorlage verwenden, wird die erste Instanz des Feldes **Quellentyp** standardmäßig mit der Vorlage übereinstimmen und sich auf das handschriftliche Material beziehen. Fügen Sie eine zweite Materialgruppe hinzu und wählen Sie **Zusätzlich gedrucktes Material**. Beschreiben Sie dann Ihr gedrucktes Material wie üblich für diesen Abschnitt.
 
-Wenn Sie eine Druckvorlage verwenden, wählen Sie in den Exemplareinträgen **Zusätzlich handschriftliches Material**. Beschreiben Sie dann Ihr handschriftliches Material wie üblich für diesen Abschnitt.
+Wenn Sie eine Druckvorlage verwenden, wählen Sie in den Exemplareinträgen **Zusätzlich handschriftliches Material**. Manuscript material can be described briefly in this section, or in the field **General note (500)**.
 
 #### Inhaltstyp (593 $b)
 

@@ -8,7 +8,7 @@ Geben Sie das Bibliothekssigel und die Signatur des verwendeten Musikdrucks an. 
 
 ##### Beispiele
 
-- CZ-Nlob X A a 12
+- I-Bc Q.51
 - (Incipits:) US-BETm LCM 242
 
 Wenn Sie eine zweite Quelle als Grundlage für den Datensatz verwenden, füllen Sie dieses Feld wie gewohnt aus, nennen die zweite Quelle auch in **Bemerkungen (500)** und verweisen auf Sekundärliteratur oder ein Werkverzeichnis.
