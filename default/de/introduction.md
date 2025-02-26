@@ -1,6 +1,3 @@
-Willkommen auf der Website der RISM-Katalogisierungsrichtlinien, den Regeln und Verfahren zur Beschreibung historischer Musikquellen für das Répertoire International des Sources Musicales (RISM) - Internationales Quellenlexikon der Musik.
-
-**Um die RISM-Datenbank zu durchsuchen, besuchen Sie bitte [die RISM-Website](https://rism.info/index.html).**
 
 Diese Website enthält die von RISM entwickelten internationalen Richtlinien, um musikalische Quellen zu dokumentieren und zu beschreiben, wie sie für das Katalogisierungsprogramm Muscat angewendet werden. Muscat wird von den RISM-Arbeitsgruppen und -mitarbeitern genutzt und steht allen Interessierten kostenlos zur Verfügung. Es ermöglicht direkten Zugriff auf die RISM-Datenbank, die von der Staatsbibliothek zu Berlin, Preußischer Kulturbesitz gehostet wird. Wenn Sie an einer Mitarbeit interessiert sind, wenden Sie sich bitte an die RISM-Zentralredaktion.
 
