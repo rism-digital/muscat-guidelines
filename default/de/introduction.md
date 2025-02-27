@@ -5,9 +5,9 @@ Muscat wird gemeinsam von den beiden RISM-Zentren, der RISM-Zentralredaktion und
 
 Die Muscat-Daten sind nach dem [MARC21 Bibliotheksstandard](https://www.loc.gov/marc/) strukturiert. Die Zahlen und Buchstaben neben den Feldnamen, wie z. B. 245 $a, beziehen sich auf das MARC21 Feld.
 
-Einen Überblick über dieses Dokument finden Sie im Inhaltsverzeichnis auf der rechten Seite. Die Abschnitte **2-Benutzung von Muscat** und **3-Allgemeine Katalogisierungsrichtlinien** erklären, wie man das Programm benutzt: allgemeine Funktionen, Vorlagen, wie man bestimmte Formate katalogisiert.
+Einen Überblick über dieses Dokument finden Sie im Inhaltsverzeichnis auf der rechten Seite. The sections **2-Using Muscat** and **3-General cataloging principles** explain how to use the program: general functions, templates, how to catalog certain formats.
 
-Der Abschnitt **4-Katalogisierung musikalischer Quellen** enthält die RISM-Katalogisierungsrichtlinien für musikalische Quellen in Muscat. Die Richtlinien sind in der Reihenfolge aufgeführt, in der sie im Programm erscheinen. Wenn Sie mit Muscat arbeiten, finden Sie die Richtlinien auch für jedes Feld; sie sind mit dem jeweiligen Feld verknüpft. Beispiele sind durchgehend enthalten.
+The section **4-Cataloging guidelines for musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. Die Richtlinien sind in der Reihenfolge aufgeführt, in der sie im Programm erscheinen. Wenn Sie mit Muscat arbeiten, finden Sie die Richtlinien auch für jedes Feld; sie sind mit dem jeweiligen Feld verknüpft. Beispiele sind durchgehend enthalten.
 
 Die mittleren Abschnitte (5-9) enthalten die Richtlinien für die RISM-Normdaten. Die letzten Abschnitte (10-11) bieten verschiedene Listen mit standardisiertem Vokabular und Abkürzungen von RISM an.
 
@@ -16,7 +16,8 @@ Besuchen Sie die [RISM Muscat-Seite](https://rism.info/community/muscat.html) f�
 Die Richtlinien werden von der RISM-Zentralredaktion in Frankfurt am Main, Deutschland, gepflegt.
  - Englisch: [Jennifer Ward](mailto:jennifer.ward@rism.info)
  - Deutsch: [Martina Falletta](mailto:martina.falletta@rism.info)
- - Falls etwas unklar ist, zögern Sie nicht uns zu kontaktieren.
+
+Falls etwas unklar ist, zögern Sie nicht uns zu kontaktieren.
 
 Wir möchten uns auch bei unseren Übersetzern bedanken, die in der Vergangenheit und in der Gegenwart tätig waren, um Muscat unseren Kollegen weltweit leichter zugänglich machen.
  - Katalanisch: Ferran Jorba
