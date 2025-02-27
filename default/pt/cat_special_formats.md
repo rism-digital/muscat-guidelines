@@ -32,7 +32,7 @@ Do not confuse composite volumes with collections; see "Collections," above, for
 
 As with collection parent records, the information given in the composite volume record should be true for all of the components of the volume, and remember that detailed information related to the music belongs in the respective bibliographic records. Do not create separate records for multiple composite volumes that belong together, such as a set of partbooks bound by voice type; these should be described in the same record. In many cases, you will be leaving a lot of fields blank.
 
-When describing a composite volumes creating the links, observe the following. As an example of a composite volume, see [RISM ID no. 1001077677](https://muscat.rism.info/admin/sources/1001077677), a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
+When describing a composite volumes creating the links, observe the following. As an example of a composite volume, see RISM ID no. 1001077677, a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
 
 1. First, create the record for the composite volume, save, and note the RISM ID number.
 2. For manuscripts: In the editing mode of the record for your manuscript, go to the field **Parent record (773)**. Click the second button to search for the composite volume.
@@ -166,7 +166,7 @@ The usual rules apply when creating the parent record and the record for the mai
 - **Standardized title (240)**: Title of the insertion, or the name of the opera followed by Excerpts
 - **Additional title (730)**: Title of the larger work, plus the subheading **Inserts**
 - **Subject heading (650)**: Enter three: Insertions, the genre of the insertion, and the genre of the larger work
-- **Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
+- **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
 - **General note (500)**: Any additional information can be added to make the relationship of the insert within the larger work (if known) clear.
 
 ### Mixed materials (manuscripts and printed items stored together)
@@ -200,7 +200,7 @@ There are two ways to catalog periodicals that contain music: as a collection or
 
 RISM includes music found in printed publications that are not primarily music documents. The focus of the RISM record is nevertheless the music.
 
-As an example we will use [RISM ID no. 990026614](https://muscat.rism.info/admin/sources/990026614), three songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
+As an example we will use RISM ID no. 990026614, three songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
 - **Composer/Author (100)**: The composer of the music
 - **Additional Personal Name (700)**: The author of the book, with the function **other**
 - **Title on source (245)**: The title of the book
@@ -213,7 +213,7 @@ Individual entries are then created for each piece, following normal RISM rules.
 
 Volumes that are part of collected works editions or monuments of music are treated like separate publications and are cataloged as one record per volume. Such volumes will usually consist of a parent record for the edition and individual entries for each piece contained therein. The name of the series is entered in the field **Additional title (730)**.
 
-Observe the following fields in particular when cataloging volumes in collected works. We will use [RISM ID no. 1001200051](https://muscat.rism.info/admin/sources/1001200051) as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
+Observe the following fields in particular when cataloging volumes in collected works. We will use RISM ID no. 1001200051 as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
 
 - **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. iii]. Enter all other titles in the field **Variant title on source (246)**.
 - **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
