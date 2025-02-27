@@ -1,7 +1,7 @@
 
-Diese Website enthält die von RISM entwickelten internationalen Richtlinien, um musikalische Quellen zu dokumentieren und zu beschreiben, wie sie für das Katalogisierungsprogramm Muscat angewendet werden. Muscat wird von den RISM-Arbeitsgruppen und -mitarbeitern genutzt und steht allen Interessierten kostenlos zur Verfügung. Es ermöglicht direkten Zugriff auf die RISM-Datenbank, die von der Staatsbibliothek zu Berlin, Preußischer Kulturbesitz gehostet wird. Wenn Sie an einer Mitarbeit interessiert sind, wenden Sie sich bitte an die RISM-Zentralredaktion.
+This website presents the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. Muscat wird von den RISM-Arbeitsgruppen und -mitarbeitern genutzt und steht allen Interessierten kostenlos zur Verfügung. Es ermöglicht direkten Zugriff auf die RISM-Datenbank, die von der Staatsbibliothek zu Berlin, Preußischer Kulturbesitz gehostet wird. If you are interested in becoming a contributor, contact the [RISM Editorial Center (Zentralredaktion)](https://rism.info/editorial-center.html){:blank}.
 
-Muscat wird gemeinsam von den beiden RISM-Zentren, der RISM-Zentralredaktion und dem RISM Digital Center, entwickelt. Es basiert auf einem gemeinsam von RISM Schweiz und RISM UK entwickelten Programm.
+Muscat is developed jointly by the two RISM Centers, the RISM Editorial Center and the [RISM Digital Center](https://rism.digital/){:blank}. Es basiert auf einem gemeinsam von RISM Schweiz und RISM UK entwickelten Programm.
 
 Die Muscat-Daten sind nach dem [MARC21 Bibliotheksstandard](https://www.loc.gov/marc/) strukturiert. Die Zahlen und Buchstaben neben den Feldnamen, wie z. B. 245 $a, beziehen sich auf das MARC21 Feld.
 
@@ -17,7 +17,7 @@ Die Richtlinien werden von der RISM-Zentralredaktion in Frankfurt am Main, Deuts
  - Englisch: [Jennifer Ward](mailto:jennifer.ward@rism.info)
  - Deutsch: [Martina Falletta](mailto:martina.falletta@rism.info)
 
-Falls etwas unklar ist, zögern Sie nicht uns zu kontaktieren.
+Falls etwas unklar ist, zögern Sie nicht uns zu kontaktieren. Currently only the English guidelines are available on this website and futher translations will follow in due time.
 
 Wir möchten uns auch bei unseren Übersetzern bedanken, die in der Vergangenheit und in der Gegenwart tätig waren, um Muscat unseren Kollegen weltweit leichter zugänglich machen.
  - Katalanisch: Ferran Jorba
