@@ -1,6 +1,6 @@
 ### Internal note (667; ISDIAH 5.6.9)
 
-The field **Internal note** is used for information not intended for public display. Internal notes are not published in the RISM catalogs or available in the RISM open data.
+The field **Internal note** is used for information not intended for public display. Internal notes are not published in the public RISM catalogs or available in the RISM open data.
 
 
 #### Internal note (667 $a)
