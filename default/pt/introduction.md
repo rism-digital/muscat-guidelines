@@ -1,7 +1,7 @@
 
-This website contains the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. Muscat is used by RISM's working groups and contributors, available free of charge to anyone who is interested. It enables direct access to the RISM database hosted by the Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. If you are interested in becoming a contributor, contact the RISM Editorial Center (Zentralredaktion).
+This website presents the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. Muscat is used by RISM's working groups and contributors, available free of charge to anyone who is interested. It enables direct access to the RISM database hosted by the Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. If you are interested in becoming a contributor, contact the [RISM Editorial Center (Zentralredaktion)](https://rism.info/editorial-center.html){:blank}.
 
-Muscat is developed jointly by the two RISM Centers, the RISM Editorial Center and the RISM Digital Center. It is based on a program that was jointly developed by RISM Switzerland and RISM UK.
+Muscat is developed jointly by the two RISM Centers, the RISM Editorial Center and the [RISM Digital Center](https://rism.digital/){:blank}. It is based on a program that was jointly developed by RISM Switzerland and RISM UK.
 
 Muscat data is structured around the [MARC21 library standard](https://www.loc.gov/marc/). The numbers and letters next to field names, such as 245 $a, refer to the MARC21 field.
 
@@ -17,7 +17,7 @@ The guidelines are maintained by the RISM Editorial Center in Frankfurt, Germany
  - English: [Jennifer Ward](mailto:jennifer.ward@rism.info)
  - German: [Martina Falletta](mailto:martina.falletta@rism.info)
 
-Should anything be unclear, do not hesitate to contact us.
+Should anything be unclear, do not hesitate to contact us. Currently only the English guidelines are available on this website and futher translations will follow in due time.
 
 We would also like to extend our gratitude to our translators, past and present, whose efforts make Muscat more easily accessible to our colleagues worldwide.
  - Catalan: Ferran Jorba
