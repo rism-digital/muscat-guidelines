@@ -5,9 +5,9 @@ Muscat is developed jointly by the two RISM Centers, the RISM Editorial Center a
 
 Muscat data is structured around the [MARC21 library standard](https://www.loc.gov/marc/). The numbers and letters next to field names, such as 245 $a, refer to the MARC21 field.
 
-Refer to the contents on the right for an overview of this document. The sections **2-Using Muscat** and **3-General cataloging guidelines** explain how to use the program: general functions, templates, how to catalog certain formats.
+Refer to the contents on the right for an overview of this document. The sections **2-Using Muscat** and **3-General cataloging principles** explain how to use the program: general functions, templates, how to catalog certain formats.
 
-The section **4-Cataloging musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. The guidelines are listed in the order they appear in the program. When working with Muscat, you will also find the guidelines for each field linked to their respective field. Examples are included throughout.
+The section **4-Cataloging guidelines for musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. The guidelines are listed in the order they appear in the program. When working with Muscat, you will also find the guidelines for each field linked to their respective field. Examples are included throughout.
 
 The middle sections (5-9) contain the guidelines for RISM's authority files. The final sections (10-11) offer various lists containing RISM's standardized vocabulary and abbreviations.
 
@@ -16,7 +16,8 @@ Visit [RISM's Muscat page](https://rism.info/community/muscat.html) for more inf
 The guidelines are maintained by the RISM Editorial Center in Frankfurt, Germany.
  - English: [Jennifer Ward](mailto:jennifer.ward@rism.info)
  - German: [Martina Falletta](mailto:martina.falletta@rism.info)
- - Should anything be unclear, do not hesitate to contact us.
+
+Should anything be unclear, do not hesitate to contact us.
 
 We would also like to extend our gratitude to our translators, past and present, whose efforts make Muscat more easily accessible to our colleagues worldwide.
  - Catalan: Ferran Jorba
