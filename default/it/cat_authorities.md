@@ -8,7 +8,7 @@ La banca-dati delle immagini riunisce tutte le immagini (di regola filigrane, es
 
 ## Istituzioni
 
-La lista di voci di autorità per le istituzioni (enti, nomi collettivi) riporta nomi non di persona che appaiono in relazione a una fonte. Questa lista di autorità contiene sia nomi di istituzioni moderne (come una biblioteca con una sigla RISM) che nomi collettivi storici (come un editore o un'orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated institution (510 $a)** in Personal names, and **Additional institution (710 $a)** in Secondary literature.
+La lista di voci di autorità per le istituzioni (enti, nomi collettivi) riporta nomi non di persona che appaiono in relazione a una fonte. This authority file contains both modern institutions (such as a library with a RISM library siglum) and historical corporate bodies (such as a publisher or an orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated institution (510 $a)** in Personal names, and **Additional institution (710 $a)** in Secondary literature.
 
 ## Feste liturgiche
 
