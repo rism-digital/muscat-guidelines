@@ -24,4 +24,4 @@ Enter the number, volume, or other sequential designation used in the title of t
 - mai 1679
 - Aug., 1784
 - 11. Suite
-- 1779, N|o 10
+- 1779, N\|o 10
