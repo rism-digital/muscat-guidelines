@@ -6,7 +6,7 @@
 
 In einigen Bereichen werden englische Terminologie oder standardisierte englische Abkürzungen verlangt. Wenn Englisch erforderlich ist, wird dies in den Richtlinien für das entsprechende Feld angegeben.
 
-In anderen Bereichen sind auch andere Sprachen als Englisch zulässig.
+In anderen Bereichen sind auch weitere Sprachen als Englisch zulässig.
 
 ### Katalogisierungssprache
 
@@ -20,4 +20,4 @@ Ihre Katalogisierungssprache für Quellen kann im Feld **Katalogisierungssprache
 
 ### Transliteration
 
-Die Arbeitsgruppen sind dafür verantwortlich, die Transliterationstabellen zu bestimmen, die für die Transkription ihrer Sprache zu verwenden sind.
+Die Arbeitsgruppen sind dafür verantwortlich, die Transliterationstabellen zu bestimmen, die für die Transkription ihrer Sprache verwendet werden.
