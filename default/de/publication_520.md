@@ -6,7 +6,7 @@ Das Feld **Datum der Veröffentlichung** wird verwendet, um das Anfangs- und/ode
 
 #### Veröffentlichungsdatum (520 $a)
 
-Geben Sie das Anfangsdatum und (falls zutreffend) das Enddatum eines Objekts ein. Wenn das Objekt weiter veröffentlicht wird, lassen Sie das Datum offen.
+Geben Sie das Anfangsdatum und (falls zutreffend) das Enddatum der Veröffentlichung ein. Wenn die Publikation noch weiter veröffentlicht wird, lassen Sie das Datum offen.
 
 ##### Beispiele
 
