@@ -1,5 +1,5 @@
-### Additional biographical information (678)
+### Weitere biographische Angaben (678)
 
-**Obsolete field. Use 680 instead.**
+**Veraltetes Feld. Verwenden Sie stattdessen 680.**
 
-The field **Additional biographical information** was for biographical information found on a musical source.
+Das Feld **Weitere biographischeAngaben** wurde für biographische Informationen verwendet, die einer musikalischen Quelle entnommen wurden.
