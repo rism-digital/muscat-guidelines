@@ -4,7 +4,7 @@ Die Normdatei der **Schlagwörter** enthält alle Gattungen und andere standardi
 
 Während der Katalogisierung können neue Schlagworte hinzugefügt werden. Geben Sie einfach den neuen Begriff in den Datensatz ein und klicken Sie auf ein anderes Feld. Sie erhalten die Meldung „Confirm the insertion of a new value“, die Sie anklicken müssen.
 
-Nachdem Sie den Datensatz gespeichert haben, suchen Sie in der Normdatei für Sclagwörter nach dem neuen Begriff. Sie können die von Ihnen erstellten Schlagwörter bearbeiten. Gehen Sie folgendermaßen vor:
+Nachdem Sie den Datensatz gespeichert haben, suchen Sie in der Normdatei für Schlagwörter nach dem neuen Begriff. Sie können die von Ihnen erstellten Schlagwörter bearbeiten. Gehen Sie folgendermaßen vor:
 
 - **Begriff**: Geben Sie den Begriff wenn möglich in Englisch und im Plural ein. Für regionale Musik, insbesondere außerhalb Westeuropas, verwenden Sie den in der Region üblichen Begriff. Für Sprachen, die nicht das lateinische Alphabet verwenden, geben Sie hier den transliterierten Begriff in lateinischer Schrift ein.
 - **Synonym**: Geben Sie alle alternativen Begriffe in einer separaten Zeile ein (durch Drücken der Entertaste). Hier können Sie den Begriff in anderen Alphabetsystemen sowie Synonyme, Varianten, andere Schreibweisen usw. eingeben.
