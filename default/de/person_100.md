@@ -18,23 +18,23 @@ Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in translite
 
 #### Orden/Titel (100 $c)
 
-Enter the person's religious order or title.
+Geben Sie die Ordenszugehörigkeit oder den Titel der Person ein.
 
-Abbreviations for religious orders are taken from the Wikipedia page "[Liste der Ordenskürzel (römisch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))".
+Die Abkürzungen für religiöse Orden werden von der Wikipedia-Seite "[Liste der Ordenskürzel (römisch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch)) " übernommen.
 
 ##### Beispiele
 
 - OCist
 - Dr.
 
-#### Life dates (100 $d)
+#### Lebensdaten (100 $d)
 
 Geben Sie das Geburts- und Todesjahr der Person ein oder geben Sie einen anderen relevanten Zeitraum an.
 
 Wenn die genauen Geburts- und/oder Todesjahre unbekannt sind, verwenden Sie die folgenden Abkürzungen.
 
-- **.sc**: century  
-  **18.sc** = 18th century
+- **.sc**: Jahrhundert  
+  **18.sc** = 18. Jahrhundert
 - **a**: vor  
   **1811a** = vor 1811
 - **p**: nach  
@@ -45,8 +45,8 @@ Wenn die genauen Geburts- und/oder Todesjahre unbekannt sind, verwenden Sie die 
   **1816\*** = geboren 1816, Todesjahr unbekannt
 - **+**: gestorben  
   **1756+** = gestorben 1756, Geburtsjahr unbekannt
-- **/**: or  
-  **17/18** = lived in the 17th or 18th centuries
+- **/**: oder  
+  **17/18** = lebte im 17. und 18. Jahrhundert
 
 Verwenden Sie die folgenden Abkürzungen nicht für Datumsbereiche: in, me, ex, q, d, t
 
@@ -69,4 +69,4 @@ Hier können Sie die vollständigen Lebensdaten, einschließlich Monat und Tag, 
 - 22.11.1879-31.12.1967
 - fl. 1732-1735
 
-**Obsolete procedures**: The field **Status (100 $w)** was used as an indicator from the Deutsche Nationalbibliothek and was removed in 2024.
+**Altdaten**: Das Feld **Status (100 $w)** wurde als Indikator aus der Deutschen Nationalbibliothek verwendet und wurde 2024 entfernt.
