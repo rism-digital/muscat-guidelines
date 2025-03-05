@@ -1,10 +1,10 @@
 ### Zugehörige Personen (500)
 
-The field **Related personal name** describes familial relationships.
+Das Feld **Zugehörige Personen** beschreibt familiäre Beziehungen.
 
 #### Zugehörige Personen (500 $a)
 
-Geben Sie den Personennamen ein, der im Verhältnis zur betreffenden Person steht. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d.
+Geben Sie den Personennamen ein, der im Verhältnis zur betreffenden Person steht. Das Feld ist mit der Normdatei **Personen** durch $0 verknüpft, Lebensdaten werden in $d angezeigt.
 
 #### Art der Beziehung (500 $i)
 
@@ -12,12 +12,12 @@ Mit Hilfe dieses Feldes können Sie die Art der Verweisung zu einer weiteren Per
 
 Folgende Angaben sind möglich:
 
-- **Brother of**
-- **Child of**
-- **Confused with**
-- **Father of**
-- **Married to**
-- **Mother of**
-- **Other**: Select if the relationship is not familial.
-- **Related to**: Use for a different familial relationship not on this list, such as an aunt, uncle, cousin, etc.
-- **Sister of**
+- **Bruder von**
+- **Kind von**
+- **Verwechselt mit**
+- **Vater von**
+- **Verheiratet mit**
+- **Mutter von**
+- **Sonstige Funktion**: Wählen Sie diese Option, wenn keine familiäre Beziehung besteht.
+- **Verwandt mit**: Verwenden Sie diesen Indikator für eine andere familiäre Beziehung, die nicht auf dieser Liste steht, wie Tante oder Onkel, Cousin, etc.
+- **Schwester von**
