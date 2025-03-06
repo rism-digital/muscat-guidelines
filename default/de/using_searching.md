@@ -28,17 +28,17 @@ Für alle Abschnitte ist Folgendes zu beachten:
     - **Suche nach Datum:** Geben Sie die Daten im Format JJJ-MM-TT ein. Standardmäßig ist der Tag auf Mitternacht gesetzt.
     - **Ein einzelnes Datum („von“):** Wenn Sie nur das linke Feld („von“) ausfüllen, erhalten Sie alle Datensätze, die seit diesem Datum geändert wurden oder **seit** diesem Datum erstellt wurden (einschließlich der Datensätze, die im Laufe des Tages an diesem Datum erstellt wurden)   
       . Beispiel: Letzte Änderung   
-      **2012-02-07** - [empty]  
+      **2012-02-07** - [leer]  
       werden alle Datensätze angezeigt, die seit dem 7. Februar 2012 bearbeitet wurden.
     - **Ein einzheolnes Datum ("bis")**: Wenn Sie nur das rechte Feld ("bis") ausfüllen, erhalten Sie alle Datensätze, die **bis** zu diesem Datum um Mitternacht geändert oder erstellt wurden.  
       Beispiel: Letzte Änderung  
-      [empty] -  **2012-02-07**  
+      [leer] -  **2012-02-07**  
       wird alle Datensätze abrufen, die seit Beginn des Zeitraums bis zum 7. Februar 2012 um Mitternacht bearbeitet wurden (d. h. Datensätze, die während des Arbeitstages am 7. Februar erstellt wurden, werden nicht berücksichtigt).
     - **Datumsbereich**: Da der Tag auf Mitternacht festgelegt ist, müssen Sie beispielsweise für die Suche nach allen Datensätzen, die am 7. Februar 2012 erstellt wurden, das Startdatum 2012-02-07 (verstanden als Mitternacht des 7. Februar) und das Enddatum 2012-02-08 (verstanden als Mitternacht des 8. Februar) eingeben. Dazu gehören alle Quellen, die im Laufe des Tages erstellt wurden. Eine Suche vom 2012-02-07 bis 2012-02-07 wird zu keinem Ergebnis führen!
 
 Bei der Suche nach **Quellen** sind folgende Punkte zu beachten:
 
-- **Sigelum**: Suche nach Buchstaben in einem Sigel. In diesem Feld wird zwischen Groß- und Kleinschreibung unterschieden. Zum Beispiel:  
+- **Sigel**: Suche nach Buchstaben in einem Sigel. In diesem Feld wird zwischen Groß- und Kleinschreibung unterschieden. Zum Beispiel:  
   **D-*** = alle Quellen in Deutschland  
   **D-B*** = alle Quellen in deutschen Städten, die mit B  
   beginnen ** D-B** = alle Quellen aus der Staatsbibliothek zu Berlin

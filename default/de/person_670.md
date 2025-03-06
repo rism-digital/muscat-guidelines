@@ -8,9 +8,9 @@ Geben Sie hier den Kurztitel der Sekundärliteratur an. Das Feld ist mit der Nor
 
 #### Vorhandene Informationen (670 $b)
 
-**Required if 670 $a is filled out.**
+**Benötigt wenn 670 $a ausgefüllt ist.**
 
-Enter the form of the name and years as indicated in the literature. Fügen Sie gegebenenfalls eine Seitenzahl oder andere Zitationen (wie **vide** für Enzyklopädien) hinzu. Geben Sie eine **0** ein, wenn keine Informationen gefunden werden (zum Beispiel haben Sie Grove\|7 konsultiert, aber es gab keinen Eintrag für die Person).
+Geben Sie den in der Sekundärliteratur angegebenen Kurztitel ein. Fügen Sie gegebenenfalls eine Seitenzahl oder andere Zitationen (wie **vide** für Enzyklopädien) hinzu. Geben Sie eine **0** ein, wenn keine Informationen gefunden werden (zum Beispiel haben Sie Grove\|7 konsultiert, aber es gab keinen Eintrag für die Person).
 
 ##### Beispiele
 

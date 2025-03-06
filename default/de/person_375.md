@@ -1,10 +1,10 @@
 ### Geschlecht (375)
 
-The field **Gender** is for the gender of the person described in the record.
+Das Feld **Geschlecht** ist für das Geschlecht der Person bestimmt.
 
 #### Geschlecht (375 $a)
 
 Wählen Sie das Geschlecht der Person:
-- Female
-- Male
-- Unknown
+- Weiblich
+- Männlich
+- Unbekannt

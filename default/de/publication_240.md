@@ -6,7 +6,7 @@ Das Feld **Titel** ist für den Titel wie auf dem Exemplar angegeben.
 
 #### Titel (240 $a)
 
-Geben Sie den Titel des Exemplars ein, inklusive Untertitel. Übersetzungen des Titels können in das Feld **Zusätzlicher Titel (730)** eingetragen. Buchrezensionen können durch das Präfix **[Rezension von:]** und dem Titel des Artikels angezeigt werden.
+Geben Sie den Titel des Exemplars ein, inklusive Untertitel. Übersetzungen des Titels können in das Feld **Zusätzlicher Titel (730)** eingetragen werden. Buchrezensionen können durch das Präfix **[Rezension von:]** und dem Titel des Artikels angezeigt werden.
 
 #### Art/Inhalt (240 $g)
 
