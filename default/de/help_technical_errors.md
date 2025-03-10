@@ -1,32 +1,32 @@
-### Technical problems
+### Technische Probleme
 
-#### 1. Things aren't working!
+#### 1. Es funktioniert nicht!
 
-Do not despair! If you are having problems, first always make sure you have the most recent version of Firefox or Chrome; you might need to update your browser. Then, try clearing the cache. There are several ways to do this, depending on your computer:
-- Hold down the Shift key and left-click the Reload button
-- Press "Ctrl + F5" or press "Ctrl + Shift + R" (Windows, Linux)
-- Press "Command + Shift + R" (Mac)
+Verzweifeln Sie nicht! Wenn Sie Probleme haben, stellen Sie zuerst sicher, dass Sie die neueste Version von Firefox oder Chrome installiert haben; möglicherweise müssen Sie Ihren Browser aktualisieren. Versuchen Sie dann den Cache zu löschen. Dazu gibt es verschiedene Möglichkeiten, abhängig von Ihrem Computer:
+- Halten Sie die Umschalttaste gedrückt und klicken Sie mit der linken Maustaste auf die Schaltfläche Neu laden (Reload)
+- Drücken Sie "Strg + F5" oder "Strg + Umschalt + R" (Windows, Linux)
+- Drücken Sie "Befehl + Umschalt + R" (Mac)
 
-#### 2. I can't save my work.
+#### 2. Ich kann meine Arbeit nicht speichern.
 
-Make sure you are using either Firefox or Chrome. Internet Explorer will not let you save anything!
+Stellen Sie sicher, dass Sie entweder Firefox oder Chrome verwenden. Mit dem Internet Explorer können Sie nichts speichern!
 
-#### 3. The fields stretch all the way across a page and cut into other text.
+#### 3. Die Felder erstrecken sich über die gesamte Seite und unterbrechen anderen Text.
 
-This might be a screen resolution issue. Muscat works best on screens that are at least 1366 x 768 pixels. Other resolutions might lead to display issues.
+Dies könnte ein Problem mit der Bildschirmauflösung sein. Muscat funktioniert am besten auf Bildschirmen mit einer Auflösung von mindestens 1366 x 768 Pixeln. Andere Auflösungen können zu Problemen führen.
 
-#### 4. I can't scroll down the screen.
+#### 4. Ich kann auf dem Bildschirm nicht nach unten scrollen.
 
-This also might be a screen resolution issue. See \#3, above.
+Dies könnte auch ein Problem mit der Bildschirmauflösung sein. Siehe \#3, oben.
 
-#### 5. My screen is gray and all I see is an hourglass.
+#### 5. Mein Bildschirm ist grau und alles, was ich sehe, ist eine Sanduhr.
 
-This happens when you are searching in the indexes and have switched windows or tabs. Check to see if another window is open. From that window, navigate back to the main screen.
+Dies geschieht, wenn Sie in den Indizes suchen und Fenster oder Tabs gewechselt haben. Prüfen Sie, ob ein anderes Fenster geöffnet ist. Navigieren Sie in diesem Fenster zurück zum Hauptbildschirm.
 
-#### 6. My incipit seems to have stalled.
+#### 6. Mein Incipit scheint ins Stocken geraten zu sein.
 
-Try clicking the "refresh" arrows next to the music staff, or save your record and try entering the incipit again.
+Klicken Sie auf die Pfeile "Aktualisieren" neben dem Notenincipit, oder speichern Sie Ihren Datensatz und geben Sie das Incipit erneut ein.
 
-#### 7. I get the error message: "Error saving page: this is a stale version"
+#### 7. Ich erhalte die Fehlermeldung: "Fehler beim Speichern der Seite: dies ist eine veraltete Version"
 
-This means that while you were editing, someone else also began editing the record and saved before you did, or perhaps you edited the record in a different tab. Try to remember your changes (take a screenshot), close the record, and open it again.
+Das bedeutet, dass während Sie den Datensatz bearbeiteten, eine andere Person ebenfalls mit der Bearbeitung begonnen und vor Ihnen gespeichert hat, oder dass Sie den Datensatz in einem anderen Tab bearbeitet haben. Versuchen Sie, sich Ihre Änderungen zu merken (machen Sie ein Bildschirmfoto), schließen Sie den Datensatz und öffnen Sie ihn erneut.
