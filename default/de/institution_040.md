@@ -2,7 +2,7 @@
 
 The field **Cataloging source** indicates the organization that created the original record.
 
-#### Katalogisierungssprache (040 $b)
+#### Cataloging language (040 $b)
 
 Geben Sie Ihre Katalogisierungssprache an. Select from the following.
 - English
