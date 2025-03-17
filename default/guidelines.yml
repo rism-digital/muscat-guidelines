@@ -210,8 +210,9 @@ chapters:
           index: true
     - guidelines_title: "record_actions"
       subsections:
-        - guidelines_title: "record_status"
-        - helpfile: "source_status"
+        - title: "record_status"
+          helpfile: "source_status"
+          index: true
 
 - guidelines_title: "aid_titles_keywords"
   helpfile: "subject_headings"
