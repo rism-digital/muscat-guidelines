@@ -29,6 +29,7 @@ fr:
     administration: "Administration"
     record_actions: "Actions sur la notice"
     record_status: "Statut de la notice"
+    source_status: "Source status"
     in_numbers: "Nombres et champs codés"
     in_identity: "Zone d'identité"
     in_contact: "Zone de contact"
