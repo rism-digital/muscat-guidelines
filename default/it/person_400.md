@@ -6,8 +6,6 @@ The field **Name variant** is for forms of the name that differ from the authori
 
 Enter the name variant. For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
 
-Additions to names such as Jr, III, Sir, Meister, etc. are entered here, for example: **Sinatra, Frank Jr.**
-
 #### Life dates (400 $d)
 
 Do not enter anything in this field.  This field may be filled out automatically if names are imported from VIAF. Any variants in life dates should be entered in the field **Source data found (670)**.
