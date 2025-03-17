@@ -13,7 +13,7 @@ Enter the function of the person as related to the item. Seleccione una de las s
 - **Additional author [aut]**: Use for additional authors if the publication has more than one author.
 - **Associated name [asn]**: Other names such as honoree, name in title, collector, text author, other, etc.
 - **Composer [cmp]**: The composer treated in the item or the composer of the work for music editions.
-- **Editor [edt]**:
+- **Editor [edt]**
 - **Other function [oth]**: All other functions.
 
 ##### Example
