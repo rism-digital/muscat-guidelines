@@ -4,7 +4,7 @@ The field **External resource** provides relevant URLs for the institution. In a
 
 #### URL del recurso externo (856 $u)
 
-Enter the URL. Only enter one URL per field. All URLs must begin with `http` or `https`.
+Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**.
 
 #### Nota sobre el recurso externo (856 $z)
 
