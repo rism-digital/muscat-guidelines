@@ -6,8 +6,6 @@ Das Feld **Namensvarianten** ist für Formen des Namens, die sich von der Ansetz
 
 Geben Sie hier Namensvarianten ein. Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in transliterierter Form eingeben. Andere Formen von Transliterationen können hier ebenfalls eingetragen werden.
 
-Ergänzungen zum Namen wie Jr, III, Sir, Meister, etc. werden hier eingegeben, zum Beispiel: **Sinatra, Frank Jr.**
-
 #### Lebensdaten (400 $d)
 
 Dieses Feld nicht verwenden.  Dieses Feld kann automatisch ausgefüllt werden, wenn Namen von VIAF importiert werden. Alle Varianten der Lebensdaten sollten in das Feld **Literaturnachweis (670)** eingegeben werden.
