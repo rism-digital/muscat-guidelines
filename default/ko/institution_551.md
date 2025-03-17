@@ -8,4 +8,5 @@ Enter the city, village, town, etc. This field is linked to the **Places** index
 
 ##### Example
 
-- Aigen-Schlägl _for the RISM library siglum record A-SCH_
+- Aigen-Schlägl  
+  _For the RISM library siglum record A-SCH_
