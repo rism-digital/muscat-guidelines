@@ -145,6 +145,7 @@ chapters:
           index: true
         - title: "973"
           helpfile: "source_973"
+          index: true
     - guidelines_title: "incipit"
       subsections:
         - title: "031"
