@@ -212,7 +212,7 @@ chapters:
           index: true
     - guidelines_title: "record_actions"
       subsections:
-        - title: "record_status"
+        - title: "record_actions"
           helpfile: "source_status"
           index: true
 
