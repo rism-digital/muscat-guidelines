@@ -36,7 +36,7 @@ Keep in mind that when some people are named on sources, an institution is actua
 - **Censor [cns]**
 - **Choreographer**
 - **Co-composer [ctb]**: Use for composers who also contributed musically to the piece.
-- **Composer cross-reference [cmp]**: Use to name a composer who is or was associated with the piece in some way. Examples include a composer to whom the piece is or was incorrectly attributed, or a composer whose melody is used in a set of variations.
+- **Composer cross-reference [att]**: Use to name a composer who is or was associated with the piece in some way. Examples include a composer to whom the piece is or was incorrectly attributed, or a composer whose melody is used in a set of variations.
 - **Conceptor [ccp]**: The person responsible for the original idea on which a work is based, such as the author of a book or play that an opera was based on.
 - **Copyist [scr]**: Use for copyist or scribe.
 - **Copyright holder [cph]**
