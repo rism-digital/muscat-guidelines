@@ -30,6 +30,6 @@ Seleccione la serie RISM Choose from the following list. Choose from the followi
 Indique la referencia a la pieza dentro de la serie RISM. Tenga en cuenta que cada volumen tiene un modo distinto de referirse a las fuentes: algunos tienen números individuales mientras que otros requieren números de página. For the citation style, see the form given for each volume in the **Secondary literature** database.
 
 
-#### Reference record ID (596 $c)
+#### RISM ID number (596 $c)
 
 Link to the record that corresponds to the citation in 596 $a and $b. Click on the magnifying glass to search. If the record is not yet in Muscat, contact the Editorial Center.  
