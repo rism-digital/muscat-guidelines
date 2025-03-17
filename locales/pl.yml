@@ -29,6 +29,7 @@ pl:
     administration: "Administration"
     record_actions: "Record actions"
     record_status: "Record status"
+    source_status: "Source status"
     in_numbers: "Numbers and code fields"
     in_identity: "Identity area"
     in_contact: "Contact area"
