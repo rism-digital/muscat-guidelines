@@ -29,7 +29,7 @@ In the case of private collections, the last name of the owner is added to the c
 - CZ-Bu = Czech Republic, Brno, Moravská zemská knihovna v Brně (formerly the Universitní knihovna)
 - I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti
 
-**Obsolete procedures:** In some cases, the institution abbreviation was omitted (example: D-B), especially if the institution was prominent. Today, an institution abbreviation is always included in a siglum.
+**Obsolete procedures:** In some cases, the institution abbreviation was omitted (example: D-B), especially if the institution was prominent within the city. Today, an institution abbreviation is always included in a siglum.
 
 #### Former siglum (094 $z)
 
