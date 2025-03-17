@@ -29,6 +29,7 @@ de:
     administration: "Administration"
     record_actions: "Datensatzaktionen"
     record_status: "Datensatzstatus"
+    source_status: "Source status"
     in_numbers: "Nummern und Codefelder"
     in_identity: "Identity area"
     in_contact: "Contact area"
