@@ -4,14 +4,18 @@ The field **Parallel form of name** gives various forms of an institution's name
 
 #### Parallel form of name (510 $a)
 
-Registre las diversas formas en que se presenta la forma autorizada del nombre de una institución, así como las traducciones del nombre a otros idiomas, preferentemente al inglés. Los nombres originales en alfabetos no latinos también pueden ser registrados en este campo. Escriba cada nombre en una línea separada.
+Registre las diversas formas en que se presenta la forma autorizada del nombre de una institución, así como las traducciones del nombre a otros idiomas, preferentemente al inglés. Los nombres originales en alfabetos no latinos también pueden ser registrados en este campo. Enter each name in a separate field.
 
 ##### Examples
 
-- The National Library of Wales [for Llyfrgell Genedlaethol Cymru]
-- Norwegian State Academy of Music, The Library [for Norges musikkhøgskole, Biblioteket]
-- ERESBIL - Archivo Vasco de la Música [for ERESBIL - Musikaren Euskal Artxiboa]
-- ERESBIL - Basque Archives of Music [for ERESBIL - Musikaren Euskal Artxiboa]
+- The National Library of Wales  
+  _For Llyfrgell Genedlaethol Cymru_
+- Norwegian State Academy of Music, Library  
+  _For Norges musikkhøgskole, Biblioteket_
+- ERESBIL - Archivo Vasco de la Música  
+  _For ERESBIL - Musikaren Euskal Artxiboa_
+- ERESBIL - Basque Archives of Music  
+  _for ERESBIL - Musikaren Euskal Artxiboa_
 - Государственный центральный музей музыкальной культуры им. М. И. Глинки
 
 #### Subcampo de control (510 $w)
