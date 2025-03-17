@@ -8,6 +8,6 @@ This field gives information about the agency that created the record.
 
 Do not change or edit these fields.
 
-#### Idioma de la catalogación (040 $b)
+#### Cataloging language (040 $b)
 
 Indique su idioma de catalogación. Elija entre inglés, francés, alemán, italiano, portugués o español.
