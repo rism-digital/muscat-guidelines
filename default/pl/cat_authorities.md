@@ -1,12 +1,12 @@
-# Authorities
+# Hasła wzorcowe
 
-The **Authorities** section of Muscat collects all authority files, controlled vocabulary, and indexes, and ensures that terminology is consistent throughout Muscat. Each of these is described in brief below. Full guidelines are included within each authority file.
+Sekcja **Hasła wzorcowe** w programie Muscat gromadzi wszystkie pliki autorytatywne, kontrolowane słownictwo i indeksy, w celu zachowania spójności stosowanej terminologii w Muscat. Każde z nich opisano w skrócie poniżej. Pełne wytyczne dla wskazanych rodzajów haseł wzorcowych zawarte są w dokuemntacji każdego hasła.
 
-## Digital objects
+## Obiekty cyfrowe
 
-The digital objects database collects all of the images (typically watermarks, handwriting samples, or bindings) and MEI incipits that are attached to records in Muscat. You can attach digital objects to sources, people, and institutions.
+Baza danych obiektów cyfrowych gromadzi wszystkie obrazy (zazwyczaj znaki wodne, próbki pisma ręcznego lub oprawy) oraz incipity MEI, które są dołączone do rekordów w Muscat. Obiekty cyfrowe można dołączać do źródeł, osób i instytucji.
 
-## Institutions
+## Instytucje
 
 The authority file for institutions (corporate names) describes non-persons that appear in connection with a source or other authority record in Muscat. This authority file contains both modern institutions (such as a library with a RISM library siglum) and historical corporate bodies (such as a publisher or an orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated institution (510 $a)** in Personal names, and **Additional institution (710 $a)** in Secondary literature.
 
