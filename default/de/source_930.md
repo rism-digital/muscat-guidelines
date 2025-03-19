@@ -1,7 +1,7 @@
-### Werk (930)
+### External work reference (Work node) (930)
 
-Das Feld **Werk** wird verwendet, um die im Quellen-Datensatz beschriebene Komposition mit einem Werk in den Normdaten **Work Nodes** zu verknüpfen.
+The field **External work reference (Work node)** is used to link the work described in the Sources record to a work in the **Work nodes** authority file.
 
-#### Werk (930 $a)
+#### External work reference (Work node) (930 $a)
 
-Klicken Sie auf die Lupe, um ein Werk aus den Normdaten **Work Nodes** auszuwählen.
+Use the autocomplete or click the magnifying glass to select a work from the **Work nodes** authority file.
