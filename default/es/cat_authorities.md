@@ -38,16 +38,8 @@ The Title/Text incipits index collects the titles entered in Sources from the fi
 
 ## Work nodes
 
-Work nodes collect all information that is true for a work as a whole, no matter what other forms a piece of music exists in, whether it be—for example—an arrangement, a translation, a full score, or a single manuscript. Work nodes can include the composer, title, title variants, key, instrumentation, and incipits, though it is not always an easy matter to decide what constitutes a separate "work."
+The **Work nodes** serve as a link between sources in Muscat and external work authorities. Within Muscat, they group sources sharing the same external work authority ID number. A link to an existing, external work authority, preferably to the GND from the German National Library (DNB), is required to create a work node.
 
-Associating a musical source in Muscat with a work ensures that all instances of any given piece of music are linked together. Esto contribuye a la facilidad de búsqueda dentro del catálogo y ayuda a los usuarios a encontrar todas las fuentes relevantes, más allá de, por ejemplo, si un manuscrito llama a la famosa ópera de Mozart “Die Zauberflöte” y otra la designa como “The Magic Flute”, o si una pequeña pieza de música de cámara es llamada “dueto” en un manuscrito y “sonata” en otro. Más allá de Muscat, en entornos de datos vinculados, la información sobre las obras –y los registros RISM asociados– puede integrarse a búsquedas web, enciclopedias online y otras bases de datos externas.
-
-Links to work nodes are made through the field 930 in every bibliographic record for a musical source. Works not in the authority file must be created there first before a link can be made.
-
-**Creating a new work node**
+Work nodes are not exported as authority data, and work nodes do not have external ID numbers. They are linked in the source records through the field **External work reference (Work node) (930)**, and link to the external authority through that authority's work ID number.
 
 Contact the RISM Editorial Center if you wish to create work nodes.
-
-Una vez abierta la plantilla para crear un nuevo registro de autoridad de una obra, use la **búsqueda en VIAF** para ver si la obra ya está cargada allí; si ese fuese el caso, haga click en **seleccionar** para transferir los datos a su registro de autoridad y hacer el enlace a VIAF. Tenga en cuenta que esta búsqueda examina sólo el campo 100 (es decir, nombre de compositor, resumen de plantilla/orgánico, número de opus o de catálogo temático, tonalidad y título), por lo que no es posible la búsqueda de variantes. Recuerde que los distintos colaboradores de VIAF tienen diferentes maneras de registrar obras, por lo cual es esperable que se encuentren variaciones en la formulación de los títulos, los instrumentos e incluso de los índices temáticos. Una buena estrategia consiste en buscar por el nombre de compositor más el número del opus/índice temático.
-
-Tenga en cuenta que una vez importados los datos de VIAF, puede resultar necesario limpiar algunas entradas en el campo **Encabezado** **(100)** para adecuar el registro al estándar de RISM. No borre o edite información importante en el campo **Variantes de nombre (400)**.
