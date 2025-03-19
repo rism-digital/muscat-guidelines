@@ -38,16 +38,8 @@ L'indice Titolo / Incipit testuale contiene sia i titoli inseriti tra le Fonti n
 
 ## Riferimenti alle opere
 
-I riferimenti alle opere riportano tutte le informazioni che sono valide per una composizione nel suo complesso, indipendentemente dalla forma che assume l'opera musicale, ad esempio un arrangiamento, una traduzione, una partitura completa o un singolo manoscritto. I riferimenti alle opere possono includere il compositore, il titolo, varianti del titolo, la tonalità, l'organico e l'incipit, anche se non è sempre facile decidere cosa costituisce una "opera" a sé stante.
+The **Work nodes** serve as a link between sources in Muscat and external work authorities. Within Muscat, they group sources sharing the same external work authority ID number. A link to an existing, external work authority, preferably to the GND from the German National Library (DNB), is required to create a work node.
 
-Collegare una fonte musicale in Muscat ad una voce di autorità per un'opera assicura che tutte le istanze di una data composizione siano collegate tra loro. Questo migliora la ricercabilità nel catalogo e aiuta gli utenti a trovare tutte le fonti rilevanti, indipendentemente dal fatto che, ad esempio, un manoscritto chiami la famosa opera di Mozart "Die Zauberflöte" e un altro sia etichettato "The Magic Flute", oppure un breve pezzo di musica da camera sia chiamato "duetto" su un manoscritto ma "sonata" su un altro. Al di là di Muscat, nell'ambiente dei dati collegati, le informazioni sulle opere e le relative schede RISM possono essere integrate nelle ricerche in rete, nelle enciclopedie online e in altre banche dati esterne.
-
-È possibile collegare i riferimenti alle opere nel campo 930 di ogni scheda bibliografica per una fonte musicale. Opere non ancora presenti nell'indice vanno create prima di poter istituire il collegamento.
-
-**Creazione di un nuovo riferimento a un'opera**
+Work nodes are not exported as authority data, and work nodes do not have external ID numbers. They are linked in the source records through the field **External work reference (Work node) (930)**, and link to the external authority through that authority's work ID number.
 
 Contatta il RISM Editorial Center se vuoi creare un nuovo riferimento a un'opera.
-
-Quando apri il template per creare un nuovo riferimento a un'opera, utilizza la **ricerca VIAF** per vedere se l'opera è presente, e clicca su **seleziona** per trasferire i dati nella tua scheda e creare un collegamento a VIAF. Nota che solo il campo 100 è ricercabile (ad esempio, nome del compositore, organico sommario, numero d'opera/di catalogo tematico, tonalità e titolo), quindi la ricerca di varianti non è possibile. Tieni presente che i diversi collaboratori del VIAF hanno modi diversi di esprimere le opere, quindi aspettati variazioni nella formulazione dei titoli, degli strumenti e persino degli indici tematici. Una buona strategia è quella di cercare per nome del compositore più il numero d'opera/di catalogo.
-
-Dopo aver importato i dati da VIAF, si noti che potrebbe essere necessario ritoccare alcuni sottocampi della **Intestazione (100)** per conformarsi agli standard RISM. Non cancellare o modificare le informazioni importate nel campo alternativo per la **Intestazione (400)**.
