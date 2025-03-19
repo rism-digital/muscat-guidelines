@@ -1,9 +1,9 @@
-### Related institution (510)
+### In Beziehung stehende Körperschaft (510)
 
-The field **Related institution** is used to document institutions associated with the person.
+Das Feld **In Beziehung stehende Körperschaft** wird verwendet, um Institutionen zu dokumentieren, die dieser Person zugeordnet sind.
 
-#### Institution (510 $a)
+#### Körperschaft (510 $a)
 
-Enter the institution associated with the person. Das Feld ist mit der Normdatei **Körperschaften** verknüpft.
+Geben Sie die mit der Person in Verbindung stehende Körperschaft an. Das Feld ist mit der Normdatei **Körperschaften** verknüpft.
 
-**Obsolete procedures**: In Kallisto, this field was used in conjunction with the field **Additional biographical information** and recorded biographical information found on a musical source.     Since the introduction of Muscat, the distinction is no longer made whether the biographical information comes from a musical source or not.
+**Altdaten**: In Kallisto wurde dieses Feld in Verbindung mit dem Feld **Weitere biographische Angaben** verwendet und erfasste biographische Informationen, die in einer Musikquelle gefunden wurden.     Seit der Einführung von Muscat wird nicht mehr unterschieden, ob die biographischen Informationen von einer musikalischen Quelle stammen oder nicht.

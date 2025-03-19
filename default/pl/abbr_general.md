@@ -1,5 +1,5 @@
-## General abbreviations and terms
+## Ogólne skróty i pojęcia
 
-The section **General abbreviations and terms** contains terminology found throughout Muscat. When writing in free-text fields, it is advisable to avoid abbreviations and instead write out terms in full, when possible, for the benefit of other users who may not be familiar with these abbreviations.
+Są to **Ogólne skróty i terminy**, które występują w całym programie Muscat. Podczas wypełniania wolnych pól tekstowych, w miarę możliwości należy wpisywać terminy w pełnym brzmieniu. Może to pomóc innym użytkownikom, którzy mogą nie znać skrótów stosowanych w programie Muscat.
 
 {% include common/abbr_general.html %}

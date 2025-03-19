@@ -4,7 +4,7 @@ Nachdem Sie sich in Muscat eingeloggt haben, können Sie über die verschiedenen
 
 **Administration** Links zur MARC-Konfiguration, mit der Sie alle in Muscat verwendeten MARC-Felder anzeigen können (Quellen und Normdaten)
 
-**Sprache**: damit können Sie die Sprache von Muscat wechseln.
+**Sprache**: damit können Sie die Sprache der Muscat-Oberfläche wechseln.
 
 Das **Dashboard** zeigt die neuesten Informationen zur Muscat-Version, Ihre neuesten Muscat-Datensätze und Ihre Kommentare zu den Datensätzen an.
 
@@ -14,7 +14,7 @@ Unter **Ordner** können Sie alle von Muscat-Benutzern angelegte Ordner sehen. D
 
 Die Seite **Quellen** ist die Hauptseite, über die Sie auf die Datensätze für Quellenbeschreibungen zugreifen können.
 
-Die Seite **Normdaten** führt Sie zu allen Nordateien, kontrolliertem Vokabular und Indizes in Muscat.
+Die Seite **Normdaten** führt Sie zu allen Normdateien, kontrolliertem Vokabular und Indizes in Muscat.
 
 Die **Richtlinien**-Seite zeigt alle Richtlinien auf einer Seite an.
 
@@ -56,7 +56,7 @@ Mit **Neues Bild hinzufügen** können Sie kleine Bilder (typischerweise Wasserz
 
 **Pfeil ein-/ausblenden**: Klicken Sie auf den Pfeil, um Felder ein- oder auszublenden.
 
-**Add a group**hinzu: Dieser Button befindet sich unter dem Abschnitt **Materialbeschreibung**. Mit Hilfe von Materialgruppen können Sie verschiedene Datumsangaben, Formate, Wasserzeichen, Namen, Institutionen usw. mit verschiedenen Arten von Quellen verknüpfen. Sie können z. B. autographes Material getrennt von anderem handschriftlichen Material beschreiben, oder Sie können Partituren und Stimmen in getrennten Gruppen beschreiben. Einige Felder, wie z. B. **Nebeneintragung Personen (700)**, **Nebeneintragung Körperschaft (710)**, und **Bemerkung (500)**, sind auch an anderer Stelle im Quellen-Template verfügbar.
+**Add a group**hinzu: Dieser Button befindet sich unter dem Abschnitt **Materialbeschreibung**. Mit Hilfe von Materialgruppen können Sie verschiedene Datumsangaben, Formate, Wasserzeichen, Namen, Institutionen usw. mit verschiedenen Arten von Quellen verknüpfen. Sie können z. B. autographes Material getrennt von anderem handschriftlichen Material beschreiben, oder Sie können Partituren und Stimmen in getrennten Gruppen beschreiben. Einige Felder, wie z. B. **Nebeneintragung Personen (700)**, **Nebeneintragung Körperschaft (710)** und **Bemerkung (500)**, sind auch an anderer Stelle im Quellen-Template verfügbar.
 
 ### Weitere Funktionen im Bearbeitungsmodus
 

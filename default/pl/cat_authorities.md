@@ -1,24 +1,24 @@
-# Authorities
+# Hasła wzorcowe
 
-The **Authorities** section of Muscat collects all authority files, controlled vocabulary, and indexes, and ensures that terminology is consistent throughout Muscat. Each of these is described in brief below. Full guidelines are included within each authority file.
+Sekcja **Hasła wzorcowe** w programie Muscat gromadzi wszystkie pliki autorytatywne, kontrolowane słownictwo i indeksy, w celu zachowania spójności stosowanej terminologii w Muscat. Każde z nich opisano w skrócie poniżej. Pełne wytyczne dla wskazanych rodzajów haseł wzorcowych zawarte są w dokuemntacji każdego hasła.
 
-## Digital objects
+## Obiekty cyfrowe
 
-The digital objects database collects all of the images (typically watermarks, handwriting samples, or bindings) and MEI incipits that are attached to records in Muscat. You can attach digital objects to sources, people, and institutions.
+Baza danych obiektów cyfrowych gromadzi wszystkie obrazy (zazwyczaj znaki wodne, próbki pisma ręcznego lub oprawy) oraz incipity MEI, które są dołączone do rekordów w Muscat. Obiekty cyfrowe można dołączać do źródeł, osób i instytucji.
 
-## Institutions
+## Instytucje
 
-The authority file for institutions (corporate names) describes non-persons that appear in connection with a source or other authority record in Muscat. This authority file contains both modern institutions (such as a library with a RISM library sigla) and historical corporate bodies (such as a publisher or an orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated institution (510 $a)** in Personal names, and **Additional institution (710 $a)** in Secondary literature.
+Pliki autorytatywne dla Instytucji (nazwy korporatywne) opisują ciała zbiorowe niebędących osobami, które pojawiają się w związku ze źródłem lub innym rekordem autorytatywnym w Muscat. Ten autorytatywny plik zawiera zarówno współczesną nazwę instytucji (biblioteka z siglum biblioteki RISM) i historyczne oddziały instytucji (takie jak wydawca lub orkiestra). Instytucje można dodawać w polu **Dodatkowa instytucja (710 $a)** w Źródłach, **Dodatkowa instytucja (710 $a)** w Instytucjach, ** Powiązana instytucja (510 $a)** w Osobach i **Dodatkowa instytucja (710 $a)** w Literaturze pomocniczej.
 
-## Liturgical festivals
+## Święta liturgiczne
 
-The index of liturgical festivals collects religious holidays and feast days. Liturgical festivals can be linked in the field **Liturgical festival (657 $a)** in Sources.
+W indeksie świąt liturgicznych gromadzi się święta religijne i dni świąteczne. Święta liturgiczne można dodawać w polu **Święto liturgiczne (657 $a)** w Źródłach.
 
-## Personal names
+## Osoby
 
-The authority file for personal names describes all people that are connected to a source or other authority record in Muscat. Personal names can be linked in the fields **Composer/Author (100 $a)** and **Additional personal name (700 $a)** in Sources, **Person (700 $a)** in Institutions, **Related personal name (500 $a)** in Personal names, **Author (100 $a)** and **Additional personal name (700 $a)** in Secondary literature, and **Composer (100 $a)** in Work nodes. RISM is a contributor to [VIAF (Virtual International Authority File)](https://www.viaf.org/) so names contributed to RISM are sent to VIAF on a regular basis.
+Plik autorytatywny nazw osobowych opisuje wszelkie osoby powiązane ze źródłem, lub innym rekordem autorytatywnym w Muscat. Nazwy osobowe można dodawać w polach **Nazwa kompozytora/autora (100 $a)** i **Dodatkowa osoba (700 $a)** w Źródłach, **Imię i nazwisko (700 $a)** w Instytucjach, **Powiązana osoba (500 $a)**  w Nazwach osobowych, **Autor (100 $a)** i **Dodatkowa osoba (700 $a)** w Literaturze pomocniczej oraz Kompozytor (100 $a)</strong> w....... RISM jest współtwórcą [VIAF (Virtual International Authority File)](https://www.viaf.org/), więc nazwy wnoszone do RISM są regularnie wysyłane do VIAF.
 
-New names can be edited by the record owner for two months after creation. Catalogers are encouraged to fill out as much information in the authority record as they can, including links to VIAF, biographical information, and alternate spellings. After two months, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to [Alexander Marxen](mailto:alexander.marxen@rism.info).
+Nowe rekordy nazw osobowych mogą być edytowane przez właściciela rekordu przez dwa miesiące po utworzeniu. Zachęca się, aby katalogerzy wypełniali w rekordzie autorytatywnym możliwie jak najwięcej informacji, w tym odwołania do VIAF, informacje biograficzne i inne pisownie. Po dwóch miesiącach tryb edycji rekordu przechodzi do Biura Centralnego. Additions are still welcome and can be communicated through the comment function or by sending an email to [Alexander Marxen](mailto:alexander.marxen@rism.info).
 
 ## Places
 

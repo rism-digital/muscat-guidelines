@@ -4,9 +4,7 @@ The field **Type of institution** records other attributes of the institution.
 
 #### Type of institution (368 $a)
 
-This field identifies the type of institution.
-
-Select from the following types:
+Enter the type of institution. Select from the following types:
 
 - Archive
 - Bookseller

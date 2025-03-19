@@ -4,7 +4,7 @@ The field **External resource URL** is used to link to external resources, such 
 
 #### External resource URL (856 $u)
 
-Enter the full URL of the external resource, beginning with http. Use permalinks whenever possible.
+Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**. Use permalinks whenever possible.
 
 #### Note about external resource (856 $z)
 

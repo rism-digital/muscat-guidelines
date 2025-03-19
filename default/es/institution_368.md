@@ -4,9 +4,7 @@ The field **Type of institution** records other attributes of the institution.
 
 #### Type of institution (368 $a)
 
-This field identifies the type of institution.
-
-Seleccione uno de los siguientes tipos:
+Enter the type of institution. Seleccione uno de los siguientes tipos:
 
 - Archivo
 - Biblioteca
@@ -39,4 +37,4 @@ Condado
 
 #### Source of term (368 $2)
 
-Pueblo
+Introduzca la fuente de los términos utilizados.

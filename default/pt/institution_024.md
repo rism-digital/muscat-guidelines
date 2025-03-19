@@ -32,7 +32,7 @@ Enter the URI that identifies the institution.
 
 #### Source of number or code (024 $2)
 
-Select from the following:
+Enter the agency that created the standard number or code. Select from the following:
 
 - **ISIL**: International Standard Identifier for Libraries and Related Organisations
 - **BNE**: Biblioteca Nacional de España

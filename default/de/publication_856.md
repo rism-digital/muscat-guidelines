@@ -4,7 +4,7 @@ Das Feld **Elektronische Lokalisierung und Zugriff** wird verwendet, um auf exte
 
 #### Elektronische Lokalisierung und Zugriff (856 $u)
 
-Geben Sie die vollständige URL der externen Ressource ein, beginnend mit http. Verwenden Sie möglichst Permalinks.
+Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**. Verwenden Sie möglichst Permalinks.
 
 #### Für das Publikum bestimmte Fussnote (856 $z)
 

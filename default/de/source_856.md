@@ -4,7 +4,7 @@ Das Feld **Externe Ressource** wird verwendet, um auf eine externe Ressource zu 
 
 #### Elektronische Lokalisierung und Zugriff (856 $u)
 
-Geben Sie die vollständige URL der externen Ressource ein. Immer Permalinks verwenden.
+Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**. Immer Permalinks verwenden.
 
 #### Für das Publikum bestimmte Fussnote (856 $z)
 

@@ -4,7 +4,7 @@ The field **External resource** is used to link to an external resource that bea
 
 #### URL del recurso externo (856 $u)
 
-Introduzca la URL completa del recurso externo. Utilice siempre enlaces permanentes (permalinks).
+Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**. Utilice siempre enlaces permanentes (permalinks).
 
 #### Nota sobre el recurso externo (856 $z)
 

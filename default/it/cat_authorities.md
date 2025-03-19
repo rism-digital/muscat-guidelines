@@ -8,7 +8,7 @@ La banca-dati delle immagini riunisce tutte le immagini (di regola filigrane, es
 
 ## Istituzioni
 
-La lista di voci di autorità per le istituzioni (enti, nomi collettivi) riporta nomi non di persona che appaiono in relazione a una fonte. Questa lista di autorità contiene sia nomi di istituzioni moderne (come una biblioteca con una sigla RISM) che nomi collettivi storici (come un editore o un'orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated institution (510 $a)** in Personal names, and **Additional institution (710 $a)** in Secondary literature.
+La lista di voci di autorità per le istituzioni (enti, nomi collettivi) riporta nomi non di persona che appaiono in relazione a una fonte. This authority file contains both modern institutions (such as a library with a RISM library siglum) and historical corporate bodies (such as a publisher or an orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated institution (510 $a)** in Personal names, and **Additional institution (710 $a)** in Secondary literature.
 
 ## Feste liturgiche
 
@@ -18,7 +18,7 @@ Nell'indice delle feste liturgiche si trovano feste religiose e giorni festivi. 
 
 La lista di voci di autorità per i nomi di persona riporta tutte le persone che sono in relazione a una fonte o a un'altra voce di autorità in Muscat. Personal names can be linked in the fields **Composer/Author (100 $a)** and **Additional personal name (700 $a)** in Sources, **Person (700 $a)** in Institutions, **Related personal name (500 $a)** in Personal names, **Author (100 $a)** and **Additional personal name (700 $a)** in Secondary literature, and **Composer (100 $a)** in Work nodes. RISM contribuisce a [VIAF (Virtual International Authority File)](https://www.viaf.org/) e i nomi aggiunti a RISM vengono periodicamente inviati a VIAF.
 
-Nomi nuovi possono essere modificati dal catalogatore della scheda per due mesi dopo essere stati creati. Si incoraggiano i catalogatori a compilare il maggior numero di informazioni possibile nella voce di autorità, compresi collegamenti a VIAF, informazioni biografiche e ortografie alternative. Dopo due mesi, il controllo della scheda passa all’Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to [Alexander Marxen](mailto:alexander.marxen@rism.info).
+Nomi nuovi possono essere modificati dal catalogatore della scheda per due mesi dopo essere stati creati. Si incoraggiano i catalogatori a compilare il maggior numero di informazioni possibile nella voce di autorità, compresi collegamenti a VIAF, informazioni biografiche e ortografie alternative. Dopo due mesi, il controllo della scheda passa all’Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an email to [Alexander Marxen](mailto:alexander.marxen@rism.info).
 
 ## Luoghi
 

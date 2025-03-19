@@ -4,13 +4,13 @@ The field **External resource** is used to link to external resources, such as w
 
 #### URL del recurso externo (856 $u)
 
-Enter the full URL of the external resource, beginning with http. Utilice siempre enlaces permanentes (permalinks).
+Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**. Utilice siempre enlaces permanentes (permalinks).
 
-#### Nota sobre el recurso externo (856 $y)
+#### Nota sobre el recurso externo (856 $z)
 
-Describa brevemente el contenido de la URL en un idioma relevante.
+Briefly describe what the URL points to in your cataloging language.
 
 ##### Example
 
 - **External resource URL (856 $u)**: [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)
-- **Note about external resource (856 $y)** Schriftprobe [D-B Am. B 65 / p. 1, 26]
+- **Note about external resource (856 $z)** Schriftprobe [D-B Am.B 65 / p. 1, 26]

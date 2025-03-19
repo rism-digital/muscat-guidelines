@@ -4,7 +4,7 @@ The field **Authentication code** indicates whether or not the name has been con
 
 #### Código de autenticación (042 $a)
 
-Enter whether the name is differentiated or undifferentiated. Differentiated entries refer to a concrete person and undifferentiated entries cannot (yet) be connected to an individual.
+Enter whether the name is differentiated or undifferentiated. Differentiated entries refer to a concrete person. Undifferentiated entries cannot (yet) be connected to a single individual and may represent multiple people.
 
 Select from:
 - diferenciadas

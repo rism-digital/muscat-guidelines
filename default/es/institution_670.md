@@ -10,7 +10,7 @@ Se recomienda, pero no es obligatorio, introducir y actualizar la bibliografía 
 
 #### Cita de la fuente (670 $9)
 
-Registre una cita a una obra publicada o una descripción de toda fuente o acción que haya proporcionado información sobre el Encabezado de la institución. This field can also be used as an alternative to entering items individually through the **Secondary literature** database.
+Registre una cita a una obra publicada o una descripción de toda fuente o acción que haya proporcionado información sobre el Encabezado de la institución.
 
 #### Información encontrada (670 $b)
 

@@ -4,9 +4,7 @@ Das Feld **Namensvarianten** ist für Formen des Namens, die sich von der Ansetz
 
 #### Namensvarianten (400 $a)
 
-Enter the name variant. Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in transliterierter Form eingeben. Andere Formen von Transliterationen können hier ebenfalls eingetragen werden.
-
-Ergänzungen zum Namen wie Jr, III, Sir, Meister, etc. werden hier eingegeben, zum Beispiel: **Sinatra, Frank Jr.**
+Geben Sie hier Namensvarianten ein. Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in transliterierter Form eingeben. Andere Formen von Transliterationen können hier ebenfalls eingetragen werden.
 
 #### Lebensdaten (400 $d)
 
@@ -14,9 +12,9 @@ Dieses Feld nicht verwenden.  Dieses Feld kann automatisch ausgefüllt werden, w
 
 #### Art der Namensvariante (400 $j)
 
-Select the type of name variant from the following list. Die Codes in eckigen Klammern beziehen sich auf interne RISM-Codes.
+Wählen Sie den Typ der Namensvariante aus der folgenden Liste. Die Codes in eckigen Klammern beziehen sich auf interne RISM-Codes.
 
-- **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets.
+- **Andere Schreibweise** [z]: Dies ist für alternative Schreibweisen, Transliterationen oder Namen mit nicht-lateinischen Alphabeten.
 - **Taufname** [tn]
 - **Geburtsname** [gg]
 - **Initialen** [in]
@@ -27,4 +25,4 @@ Select the type of name variant from the following list. Die Codes in eckigen Kl
 - **Übersetzung** [ub]: Zum Beispiel, _Ackermann, Alexander_ ist eine übersetzte Variante von _Agricola, Alexander_
 - **Nicht kategorisiert** [xx]
 
-The default value **xx** (uncategorized) appears in older records.
+Der Standardwert **xx** (Nicht kategorisiert) erscheint in älteren Datensätzen.

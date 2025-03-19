@@ -1,40 +1,42 @@
 ### Ansetzungsform (100)
 
-Das Feld **Ansetzungsform** ist der Name der Person in ihrer normierten Form.
+Das Feld **Ansetzungsform** ist der Name der Person in ihrer normierten Form. The heading is made up of the name in 100 $a, the years in 100 $d, and words in 100 $c.
 
 #### Ansetzungsform (100 $a)
 
-In der Regel erfolgt die Eingabe in invertierter Form (Nachname, Vorname). Wenn Sie nur Initialen oder einen künstlich konstruierten Namen haben (z. B. eine Bezeichnung, die einen Kopisten identifiziert), geben Sie diese in unveränderter Reihenfolge ein.
+Names are entered in inverted order in the form Surname Forename, with a comma separating the elements for names. If you only have initials or an artificially constructed name (such as a designation identifying a copyist), enter in uninverted order. Names of members of the nobility are entered in the local usual form.
 
 Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in transliterierter Form eingeben. Die Originalform in nicht-lateinischer Schrift sowie alternative Transliterationen können im Feld **Namensvarianten (400)** eingegeben werden.
 
 ##### Beispiele
 
 - Telemann, Georg Philipp
-- Joo Su-won
-- Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
 - A. C.
 - Copyist C. H. Graun IX (Blechschmidt)
+- Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
+- Aylesford, Heneage Finch, 3rd Earl of
 
-#### Orden/Titel (100 $c)
+#### Titles and words associated with a name (100 $c)
 
-Enter the person's religious order or title.
+Enter qualifying information to distinguish people with the same name. If there are multiple people with the same heading (100 $a and 100 $d), a term must be entered here to differenciate them. Use terms from the field "Profession or function (550)" in your cataloging language.
 
-Abbreviations for religious orders are taken from the Wikipedia page "\[Liste der Ordenskürzel (römisch-katholisch)\](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch).
+The field can also be used to record additions to names such as Jr., III, Sir, Meister, etc., as well as the person's religious order or title. Die Abkürzungen für religiöse Orden werden von der Wikipedia-Seite "[Liste der Ordenskürzel (römisch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch)) " übernommen.
 
 ##### Beispiele
 
+- Composer
+- Poet
 - OCist
 - Dr.
 
-#### Life dates (100 $d)
+#### Lebensdaten (100 $d)
 
 Geben Sie das Geburts- und Todesjahr der Person ein oder geben Sie einen anderen relevanten Zeitraum an.
 
 Wenn die genauen Geburts- und/oder Todesjahre unbekannt sind, verwenden Sie die folgenden Abkürzungen.
 
-- **.sc**: century  
-  **18.sc** = 18th century
+- **.sc**: Jahrhundert  
+  **18.sc** = 18. Jahrhundert
 - **a**: vor  
   **1811a** = vor 1811
 - **p**: nach  
@@ -45,10 +47,9 @@ Wenn die genauen Geburts- und/oder Todesjahre unbekannt sind, verwenden Sie die 
   **1816\*** = geboren 1816, Todesjahr unbekannt
 - **+**: gestorben  
   **1756+** = gestorben 1756, Geburtsjahr unbekannt
-- **/**: or  
-  **17/18** = lived in the 17th or 18th centuries
+- **/**: oder  
+  **17/18** = lebte im 17. und 18. Jahrhundert
 
-Verwenden Sie die folgenden Abkürzungen nicht für Datumsbereiche: in, me, ex, q, d, t
 
 ##### Beispiele
 
@@ -62,11 +63,17 @@ Verwenden Sie die folgenden Abkürzungen nicht für Datumsbereiche: in, me, ex, 
 
 #### Andere Lebensdaten (100 $y)
 
-Hier können Sie die vollständigen Lebensdaten, einschließlich Monat und Tag, eintragen. Geben Sie konkrete Daten in der Form TT.MM.JJJJ ein. Nachgewiesene Wirkungszeiten werden mit vorangestelltem **fl.** angegeben.
+Hier können Sie die vollständigen Lebensdaten, einschließlich Monat und Tag, eintragen. Geben Sie konkrete Daten in der Form TT.MM.JJJJ ein. Elements of a date that are not available may be omitted. Years active or flourishing must be preceded by **fl.**.
 
 ##### Beispiele
 
 - 22.11.1879-31.12.1967
+- 06.1715-1780  
+  _Day of birth unknown_
+- -12.12.1803  
+  _Only date of death known_
 - fl. 1732-1735
 
-**Obsolete procedures**: The field **Status (100 $w)** was used as an indicator from the Deutsche Nationalbibliothek and was removed in 2024.
+**Obsolete procedures**:
+- The field 100 $c was previously called "Religious order/Title" but the scope was expanded and the field renamed in 2025.
+- The field **Status (100 $w)** was used as an indicator imported from the Deutsche Nationalbibliothek and was removed in 2024.

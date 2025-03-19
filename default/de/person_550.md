@@ -11,3 +11,5 @@ Die Angabe zu Beruf oder Funktion einer Person erfolgt grundsätzlich auf Englis
 - Priest
 - Politician
 - Dedicatee
+
+**Obsolete procedures**: Some older RISM records contain "profession" in 550$i which indicated that the type of term.

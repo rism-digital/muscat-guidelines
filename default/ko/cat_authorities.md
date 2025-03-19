@@ -8,7 +8,7 @@ The digital objects database collects all of the images (typically watermarks, h
 
 ## Institutions
 
-The authority file for institutions (corporate names) describes non-persons that appear in connection with a source or other authority record in Muscat. This authority file contains both modern institutions (such as a library with a RISM library sigla) and historical corporate bodies (such as a publisher or an orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated institution (510 $a)** in Personal names, and **Additional institution (710 $a)** in Secondary literature.
+The authority file for institutions (corporate names) describes non-persons that appear in connection with a source or other authority record in Muscat. This authority file contains both modern institutions (such as a library with a RISM library siglum) and historical corporate bodies (such as a publisher or an orchestra). Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated institution (510 $a)** in Personal names, and **Additional institution (710 $a)** in Secondary literature.
 
 ## Liturgical festivals
 
@@ -18,7 +18,7 @@ The index of liturgical festivals collects religious holidays and feast days. Li
 
 The authority file for personal names describes all people that are connected to a source or other authority record in Muscat. Personal names can be linked in the fields **Composer/Author (100 $a)** and **Additional personal name (700 $a)** in Sources, **Person (700 $a)** in Institutions, **Related personal name (500 $a)** in Personal names, **Author (100 $a)** and **Additional personal name (700 $a)** in Secondary literature, and **Composer (100 $a)** in Work nodes. RISM is a contributor to [VIAF (Virtual International Authority File)](https://www.viaf.org/) so names contributed to RISM are sent to VIAF on a regular basis.
 
-New names can be edited by the record owner for two months after creation. Catalogers are encouraged to fill out as much information in the authority record as they can, including links to VIAF, biographical information, and alternate spellings. After two months, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an e-mail to [Alexander Marxen](mailto:alexander.marxen@rism.info).
+New names can be edited by the record owner for two months after creation. Catalogers are encouraged to fill out as much information in the authority record as they can, including links to VIAF, biographical information, and alternate spellings. After two months, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an email to [Alexander Marxen](mailto:alexander.marxen@rism.info).
 
 ## Places
 

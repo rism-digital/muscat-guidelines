@@ -2,7 +2,7 @@
 
 Das Feld **Katalogisierungsquelle** zeigt die Organisation an, die den ursprünglichen Datensatz erstellt hat.
 
-### Katalogisierungssprache (040 $b)
+### Cataloging language (040 $b)
 
 Geben Sie Ihre Katalogisierungssprache an. Select from the following.
 - English

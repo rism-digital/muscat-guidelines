@@ -17,7 +17,7 @@ En caso de que no se requiera el inglés, podrá valerse de su propio idioma, al
 
 In the guidelines that follow, the phrase "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
 
-Your cataloging language for Sources can be indicated in the field **Language of cataloging (040 $b)**.
+Your cataloging language for Sources can be indicated in the field **Cataloging language (040 $b)**.
 
 ### Transliterations
 

@@ -32,7 +32,7 @@ Enter the URI that identifies the institution.
 
 #### Normdatenagentur (024 $2)
 
-Select from the following:
+Geben Sie die Agentur ein, die die ID oder den Code erstellt hat. Es steht eine Auswahlliste zur Verfügung. Select from the following:
 
 - **ISIL**: International Standard Identifier for Libraries and Related Organisations
 - **BNE**: Biblioteca Nacional de España

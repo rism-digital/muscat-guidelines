@@ -1,25 +1,25 @@
-### RISM instrument abbreviations
+### Określenia głosów i instrumentów
 
-The section **RISM instrument abbreviations** contains the standardized list of abbreviations used by RISM to designate instruments, including vocal instruments.
+Sekcja **Skrótów głosów i instrumentów** zawiera listę skrótów wykorzystywanych w RISM w celu opisania instrumentów, w tym głosów wokalnych.
 
-In general, names of instrument families (such as _strings_) are in English and names of individual instruments are abbreviated based on their name in Italian. Voice parts are written using capital letters and non-vocal instruments are written using lower-case letters.
+Zasadniczo nazwy rodzin instrumentów (takich jak _strunowe_) występują w języku angielskim, a nazwy poszczególnych instrumentów są skrócone w oparciu o ich nazwę w języku włoskim. Części wokalne pisane są wielkimi literami, a instrumentalne pisane są małymi literami.
 
-Names of regional instruments not on the list should be written out in full in the original language.
+Nazwy instrumentów regionalnych, które nie znajdują się na liście, należy wpisać w całości w języku oryginalnym.
 
-#### Contents
+#### Zawartość
 
-- General abbreviations and concepts
-  - Additions to any instrument to indicate a range
-  - Additions to any instrument to indicate a type
-  - Additions to any wind instrument to indicate a tuning other than standard tuning
-  - Unspecified or unknown types or numbers of instruments
-- Vocal (voice) terms
-- Strings
-- Woodwinds
-- Brass
-- Plucked instruments
-- Percussion, other
-- Keyboard instruments
+- Skróty i pojęcia ogólne
+  - Dodatki do dowolnego instrumentu wskazujące zakres
+  - Dodatki do dowolnego instrumentu wskazujące typ
+  - Dodatki do dowolnego instrumentu wskazujące strój odmienny od standardowego
+  - Nieokreślone lub nieznane typy lub liczby instrumentów
+- Terminy wokalne (głos)
+- Strunowe
+- Dęte drewniane
+- Blaszane
+- Szarpane
+- Perkusyjne, inne
+- Klawiszowe
 - Basso continuo
 
 {% include common/abbr_voices_instr.html %}

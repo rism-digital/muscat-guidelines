@@ -4,7 +4,7 @@ Das Feld **Individualisierung** zeigt die Individualisierung eines Personeneintr
 
 #### Individualisierung (042 $a)
 
-Geben Sie an, ob der Name individualisiert oder nicht individualisiert ist. Individualisierte Einträge beziehen sich auf eine konkrete Person, während nicht individualisierte Einträge nicht eindeutig zugeordnet werden können.
+Geben Sie an, ob der Name individualisiert oder nicht individualisiert ist. Differentiated entries refer to a concrete person. Undifferentiated entries cannot (yet) be connected to a single individual and may represent multiple people.
 
 Auswahl:
 - differentiated
