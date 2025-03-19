@@ -32,9 +32,9 @@ Baza danych Literatury pomocniczej gromadzi informacje o katalogach dzieł, kata
 
 W tym miejscu gromadzi się wszystkie hasła przedmiotowe, formy i gatunki. Niektóre rekordy zawierają wyjaśnienia dotyczące zakresu hasła przedmiotowego. Hasła przedmiotowe powiazane są poprzez pole **Hasło przedmiotowe (650 $a)** w Źródłach i **Hasło przedmiotowe (650 $a)** w Literaturze pomocniczej.
 
-## Titles/Text incipits
+## Tytuły / incipity tekstowe
 
-The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a)**, as well as the text incipits entered in the field **Text incipit (031 $t)**.
+Indeks Tytuły / incipity tekstowe gromadzi tytuły wprowadzane w Źródłach z pól: **Tytuł ujednolicony (240 $a)** i **Tytuł dodatkowy (730 $a)** jak również incipity tekstowe wprowadzane w polu **Incipit tekstowy (031 $t)**.
 
 ## Work nodes
 
