@@ -18,7 +18,7 @@ W indeksie świąt liturgicznych gromadzi się święta religijne i dni świąte
 
 Plik autorytatywny nazw osobowych opisuje wszelkie osoby powiązane ze źródłem, lub innym rekordem autorytatywnym w Muscat. Nazwy osobowe można dodawać w polach **Nazwa kompozytora/autora (100 $a)** i **Dodatkowa osoba (700 $a)** w Źródłach, **Imię i nazwisko (700 $a)** w Instytucjach, **Powiązana osoba (500 $a)** w Nazwach osobowych, **Autor (100 $a)** i **Dodatkowa osoba (700 $a)** w Literaturze pomocniczej oraz Kompozytor (100 $a)</strong> w rekordach Dzieł. RISM jest współtwórcą [VIAF (Virtual International Authority File)](https://www.viaf.org/), więc nazwy wnoszone do RISM są regularnie wysyłane do VIAF.
 
-Nowe rekordy nazw osobowych mogą być edytowane przez właściciela rekordu przez dwa miesiące po utworzeniu. Zachęca się, aby katalogerzy wypełniali w rekordzie autorytatywnym możliwie jak najwięcej informacji, w tym odwołania do VIAF, informacje biograficzne i inne pisownie. Po dwóch miesiącach tryb edycji rekordu przechodzi w ręce Biura Centralnego. Dodatkowe informacje, uzupełniające rekord są mile widziane i mogą zostać zgłoszone poprzed dodanie komentarza w rekordzie lub wysłanie e-maila do [Alexandra Marxena](mailto:alexander.marxen@rism.info).
+Nowe rekordy nazw osobowych mogą być edytowane przez właściciela rekordu przez dwa miesiące po utworzeniu. Zachęca się, aby katalogerzy wypełniali w rekordzie autorytatywnym możliwie jak najwięcej informacji, w tym odwołania do VIAF, informacje biograficzne i inne pisownie. Po dwóch miesiącach tryb edycji rekordu przechodzi w ręce RISM Editorial Center. Dodatkowe informacje, uzupełniające rekord są mile widziane i mogą zostać zgłoszone poprzed dodanie komentarza w rekordzie lub wysłanie e-maila do [Alexandra Marxena](mailto:alexander.marxen@rism.info).
 
 ## Miejsca
 
@@ -36,10 +36,10 @@ W tym miejscu gromadzi się wszystkie hasła przedmiotowe, formy i gatunki. Niek
 
 Indeks Tytuły / incipity tekstowe gromadzi tytuły wprowadzane w Źródłach z pól: **Tytuł ujednolicony (240 $a)** i **Tytuł dodatkowy (730 $a)** jak również incipity tekstowe wprowadzane w polu **Incipit tekstowy (031 $t)**.
 
-## Work nodes
+## Dzieło
 
-The **Work nodes** serve as a link between sources in Muscat and external work authorities. Within Muscat, they group sources sharing the same external work authority ID number. A link to an existing, external work authority, preferably to the GND from the German National Library (DNB), is required to create a work node.
+Rekord **Dzieła** służy jako link między źródłami w Muscat a zewnętrznymi rekordami autorytatywnymi dzieł. W obrębie Muscat Dzieła grupują źródła, dzieląc to samo ID z rekordem autorytatywnym zewnętrzenym. Aby utworzyć rekord Dzieła, potrzebny jest link do już istniejącego zewnętrznego rekordu autorytatywnego, najlepiej odnoszący się do GND z Niemieckiej Biblioteki Narodowej (DNB).
 
-Work nodes are not exported as authority data, and work nodes do not have external ID numbers. They are linked in the source records through the field **External work reference (Work node) (930)**, and link to the external authority through that authority's work ID number.
+Rekordy Dzieł nie są eksportowane jako dane autorytatywne i nie posiadają zewnętrzbych numerów ID. Są połączone z rekordami źródeł poprzez pole **Odniesienie do dzieła zewnętrznego (Dzieło) (930)** i łączą się z zewnętrznym rekordem autorytatywnym dzieła poprzez numer ID identyfikujacy ten rekrod autorytatywny.
 
-Contact the RISM Editorial Center if you wish to create work nodes.
+Jeśli chcesz utworzyć rekord Dzieła, skontaktuj się z RISM Editorial Center.
