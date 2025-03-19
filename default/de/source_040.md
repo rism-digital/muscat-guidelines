@@ -1,10 +1,10 @@
 ### Katalogisierungsquelle (040)
 
-Das Feld **Katalogisierungsquelle** zeigt die Organisation an, die den ursprünglichen Datensatz erstellt hat.
+The field **Cataloging agency** indicates the organization that created the original record.
 
 ### Cataloging language (040 $b)
 
-Geben Sie Ihre Katalogisierungssprache an. Select from the following.
+Geben Sie Ihre Katalogisierungssprache an. Folgende Angaben sind möglich:
 - English
 - French
 - German
