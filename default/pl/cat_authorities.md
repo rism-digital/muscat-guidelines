@@ -24,13 +24,13 @@ Nowe rekordy nazw osobowych mogą być edytowane przez właściciela rekordu prz
 
 Indeks miejsc zawiera nazwy miejscowości, w tym historyczne nazwy geograficzne. Indeks powstaje na podstawie dodawanych wartości w następujących polach: **Miejsce wykonania (651 $a)** w Żródłach, **Powiązane miejsce (551 $a)** w Osobach, **Powiązane miejsce (651 $a)** w Literaturze pomocniczej i **Powiązane miejsce (551$a)** w Instytucjach.
 
-## Secondary literature
+## Literatura pomocnicza
 
-The database of Secondary literature enables catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. to be cited in Muscat records. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
+Baza danych Literatury pomocniczej gromadzi informacje o katalogach dzieł, katalogach tematycznych, książkach, artykułach, encyklopediach, zasobach online, edycjach krytycznych, edycjach współczesnych itp. do cytowania w rekordach Muscat. Literatura pomocnicza powiązana jest poprzez **Skrócony tytuł (210 $a)**, dodać ją można w polach: **Katalog utworów (690 $a)** i **Odniesienie bibliograficzne (691 $a)** w Źródłach, w **Literatura (670 $a)** w Instytucjach oraz w **Odnalezione źródło danych (670 $a)** w Osobach.
 
-## Subject headings
+## Hasła przedmiotowe
 
-All subject headings, musical forms, and genres are collected here. Some records include translations or explanations as to the scope of the subject heading. Subject headings are linked through the field **Subject heading (650 $a)** in Sources and **Subject heading (650 $a)** in Secondary literature.
+W tym miejscu gromadzi się wszystkie hasła przedmiotowe, formy i gatunki. Niektóre rekordy zawierają wyjaśnienia dotyczące zakresu hasła przedmiotowego. Hasła przedmiotowe powiazane są poprzez pole **Hasło przedmiotowe (650 $a)** w Źródłach i **Hasło przedmiotowe (650 $a)** w Literaturze pomocniczej.
 
 ## Titles/Text incipits
 
