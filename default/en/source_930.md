@@ -1,8 +1,8 @@
-### Work (930)   
+### External work reference (Work node) (930)   
 
-The field **Work** is used to link the work described in the Sources record to a work in the **Work nodes** authority file.
+The field **External work reference (Work node)** is used to link the work described in the Sources record to a work in the **Work nodes** authority file.
 
 
-#### Work (930 $a)  
+#### External work reference (Work node) (930 $a)  
 
-Click the magnifying glass to select a work from the **Work nodes** authority file.  
+Use the autocomplete or click the magnifying glass to select a work from the **Work nodes** authority file.  
