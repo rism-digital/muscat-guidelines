@@ -19,7 +19,7 @@ Select the cataloging level.
 - **Standard**: The record includes fuller information than a brief record but frequently lacks incipits. There are often fields that have not been filled out which could be added in a later phase of record enhancement.    
 - **Full**: The record contains information in nearly all fields that can possibly be filled out for the source in hand. Music incipits are included.  
 
-Export note: 980 $b is exported as 599 $b.  
+_MARC export note_: 980 $b is exported as 599 $b.  
 
 #### Material examined (980 $c)
 
