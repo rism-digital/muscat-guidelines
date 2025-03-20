@@ -24,7 +24,7 @@ Enter the form of the name and years as indicated in the literature. Add a page 
 
 ##### Examples
 
-- Bach, Johann Christian II. (Giovanni) [bautizado 07.09.1735-1782] 07.09.1735-1782] 07.09.1735-1782]
+- Bach, Johann Christian II. (Giovanni) [bautizado 07.09.1735-1782] 07.09.1735-1782] 07.09.1735-1782] 07.09.1735-1782]
 - vide 6, 834
 - 0
 
