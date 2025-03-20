@@ -8,4 +8,4 @@ The field **Institution** is for the name of the institution or cataloging proje
 
 #### Project URL (910 $u)
 
-Enter the URL for the website of the contributing project. All URLs must begin with **http** or **https**.
+Enter the full URL for the website of the contributing project. All URLs must begin with **http** or **https**.
