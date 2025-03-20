@@ -18,7 +18,7 @@ Information that is not found on the source may be included in the RISM record, 
 
 Always use permalinks, in particular when linking to digitized music in the field **External resource (856)**.
 
-If you want to link to a website, do not enter the URL in a notes field. Rather, enter the resource as a bibliographic reference. This is done by entering it in the **Secondary literature** authority. Then, link to it in the field **Bibliographic reference (691)** and refer to it by its short title in a notes field. This provides users with access to complete bibliographic information, and if the URL changes then an update is only needed once through the **Secondary literature** database.
+If you want to link to a website, do not enter the URL in a notes field. Rather, enter the resource as a bibliographic reference. Then, link to it in the field **Bibliographic reference (691)** and refer to it by its short title in a notes field. This is done by entering it in the **Secondary literature** authority. This provides users with access to complete bibliographic information, and if the URL changes then an update is only needed once through the **Secondary literature** database.
 
 For books found on Google Books or other online repositories, always create a bibliographic record in the **Secondary literature** authority for the book itself and not the repository; that is, cite the book and not Google Books.
 
