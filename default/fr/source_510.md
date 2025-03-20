@@ -1,6 +1,6 @@
 ### RISM series (510)
 
-The field **RISM series (510)** is an administrative field that indicates that the source in hand was originally described in one of the publications belonging to RISM's Series A/I or B.
+The field **RISM series (510)** is an administrative field that indicates that the source in hand was originally described in one of the publications belonging to RISM's series A/I or B series.
 
 This field was automatically filled out when entries from RISM's book publications were imported. Automated imports were carried out for A/I and B/I.
 
@@ -23,4 +23,4 @@ Contact the Editorial Center if you wish to add sources from a series not on the
 
 #### Number/page (510 $c)
 
-Enter the reference to the piece in the RISM series. Note that each volume has a different way of referring to sources; some have identifiers while others require page numbers. For the citation style, see the form given for each volume in the **Secondary literature** database.  
+Enter the reference to the piece in the RISM series. For the citation style, see the form given for each volume in the **Secondary literature** database. Note that each volume has a different way of referring to sources; some have individual numbers while others require page numbers.  
