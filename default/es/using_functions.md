@@ -28,7 +28,7 @@ Fields in a Muscat record are grouped into sections. By clicking on the section 
 
 **Show all sections** lets you view all sections of the record on one page.
 
-**Show preview** lets you view the record. Para volver al modo de edición, haga click en  **Esconder vista previa.</strong>
+Click **Show all sections** again to return to the editing mode and any unsaved changes. El botón  **Mostrar historial de modificaciones**  permite ver, restaurar y borrar versiones previas del registro.
 
 **Validate** checks for errors in the record that prevent saving.
 
@@ -38,7 +38,7 @@ El botón  **Cancelar**  lo lleva de nuevo a la pantalla anterior sin guardar.
 
 El botón  **Guardar y cerrar**  lo lleva de regreso a la pantalla anterior después de guardar su trabajo.
 
-El botón  **Mostrar historial de modificaciones**  permite ver, restaurar y borrar versiones previas del registro. Click **Show all sections** again to return to the editing mode and any unsaved changes.
+**Show preview** lets you view the record. Para volver al modo de edición, haga click en  **Esconder vista previa.
 
 **Attach a new image** lets you upload small images (typically watermarks, handwriting samples, or bindings) to attach to your records. Puede acceder a las imágenes cargadas en el menú  **Autoridades ** \>  **Imágenes.**
 
@@ -50,7 +50,7 @@ El botón  **Mostrar historial de modificaciones**  permite ver, restaurar y bor
 
 **Question mark (?)**: Click ? to display the RISM guidelines for this field. to display the RISM guidelines for the field.
 
-**Plus (+) and minus (-) signs**: Fields that may be repeated have a plus sign (+). Haga click en el + para crear un nuevo registro vacío. Click the - to delete a field.
+Haga click en el + para crear un nuevo registro vacío. **Plus (+) and minus (-) signs**: Fields that may be repeated have a plus sign (+). Click the - to delete a field.
 
 **Trash can**: Delete a field by clicking on the trash can.
 
