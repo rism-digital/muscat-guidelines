@@ -2,22 +2,22 @@
 
 Sekcja **Kod języka** określa użycie języka angielskiego i innych języków w Muscat.
 
-### Use of English vs. other languages
+### Użyj języka angielskiego vs. innych języków
 
-English terminology or standardized English abbreviations are required in some fields. When English is required, it is indicated in the guidelines for the applicable field.
+W niektórych polach wymaga się terminologii angielskiej lub standaryzowanych skrótów angielskich, podczas gdy w innych polach dopuszcza się inne języki. Jeśli wymaga się użycia języka angielskiego, w wytycznych dotyczących danego pola jest to wyraźnie określone.
 
-In other fields, non-English languages are permitted.
+W innych polach dozwolone są języki inne niż angielski.
 
-### Cataloging language
+### Język katalogowania
 
-When English is not required, you may use what the guidelines refer to as your **cataloging language**. RISM allows the following cataloging languages: English, French, German, Italian, Portuguese, and Spanish.
+Jeśli angielskiego nie wymaga się, można użyć języka, który wytyczne określają jako **Język katalogowania**. RISM dopuszcza następujące języki katalogowania: angielski, francuski, niemiecki, włoski, portugalski, hiszpański, polski.
 
- Other languages are allowed as long as a summary is provided in one of the six cataloging languages. The guidelines always state when you cataloging language may be used.
+ Alternatywnie, dozwolone są inne języki, o ile podsumowanie jest dostarczone w jednym z sześciu języków katalogowych. Wytyczne zawsze określają, kiedy można użyć języka katalogowania.
 
-In the guidelines that follow, the phrase "cataloging language" refers to the practice of using either one of these six languages or a different language plus a translation into one of the six.
+We wskazówkach „język katalogowania” odnosi się do praktyki używania jednego z tych sześciu języków lub innego języka plus tłumaczenia na jeden z sześciu języków.
 
-Your cataloging language for Sources can be indicated in the field **Cataloging language (040 $b)**.
+Twój język katalogowania dla Źródeł może być wskazany w polu **Język katalogowania (040 $b)**.
 
-### Transliterations
+### Transliteracje
 
-National groups are responsible for determining what transliteration tables should be used when transliterating their language.
+Grupy krajowe są odpowiedzialne za określenie, jakie tabele transliteracji powinny być używane podczas transliteracji ich języka.
