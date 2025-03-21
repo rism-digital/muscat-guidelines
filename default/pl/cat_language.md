@@ -1,6 +1,6 @@
-## Language
+## Kod języka
 
-The section **Language** clarifies the use of English and other languages in Muscat.
+Sekcja **Kod języka** określa użycie języka angielskiego i innych języków w Muscat.
 
 ### Use of English vs. other languages
 
