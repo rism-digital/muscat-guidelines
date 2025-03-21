@@ -4,11 +4,11 @@ W tej sekcji opisano sposób katalogowania szczególnych rodzajów źródeł: ko
 
 ### Kolekcje
 
-W RISM, _Kolekcja_ odnosi się do każdej pozycji (zarówno rekopiśmiennej jak i drukowanej), zawierającej dwa lub więcej kompozycje. Jest zarówno intencjonalnie powstałą kolekcją lub antologią wielu dzieł, jak również pozycją, która nie była docelowo zamierzona jako kolekcja przez twórcę (na przykład sonata fortepianowa z krótkim marszem na ostatniej stronie).
+W RISM, _Kolekcja_ odnosi się do każdej pozycji (zarówno rekopiśmiennej jak i drukowanej), zawierającej dwie lub więcej kompozycji. Jest zarówno intencjonalnie powstałą kolekcją lub antologią wielu dzieł, jak również pozycją, która nie była docelowo zamierzona jako kolekcja przez jego twórcę (na przykład sonata fortepianowa z krótkim marszem na ostatniej stronie).
 
 Kolekcje w RISM mają charatter hierarchiczny, co oznacza, że jest jeden główny rekord (rekord macierzysty), który opisuje kolekcję jako całość i indywidualne pozycje (pozycja w kolekcji lub rekord analityczny), które opisują każdą kompozycję oddzielnie.
 
-Rekordy macierzyste kolekcji nie mogą zawierać rekordów macierzystych kolekcji rękopisów. Nie ma mniejszych kolekcji w ramach kolekcji chociaż pozycja w kolekcji sama w sobie może byc zorganizowana w taki sposób. Zamiast tego należy zastosować bardziej płaską hierarchię za pomocą indywidualnych rekordów i wyjaśnić strukturę, konstrukcję lub organizację danej pozycji w uwadze. Na przykład, jeśli kolekcja składa się z pojedynczego marsza, po którym następuje zbiór sześciu sonat, należy stworzyć 1 rekord macierzysty i 7 indywidualnych wpisów, jeden dla każdej kompozycji. Nawet jeśli te 6 sonat można uznać za kolekcję, należy je opisać oddzielnie. Rekord macierzysty oraz notatki w rekordach pozycji w kolekcji mogą wyjaśnić organizację kolekcji i przynależność każdej z sonat do zbioru.
+Rekordy macierzyste kolekcji nie mogą zawierać rekordów macierzystych kolekcji rękopisów. Nie ma mniejszych kolekcji w ramach kolekcji chociaż pozycja w kolekcji sama w sobie może być zorganizowana w taki sposób. Zamiast tego należy zastosować bardziej płaską hierarchię za pomocą indywidualnych rekordów i wyjaśnić strukturę, konstrukcję lub organizację danej pozycji w uwadze. Na przykład, jeśli kolekcja składa się z pojedynczego marsza, po którym następuje zbiór sześciu sonat, należy stworzyć 1 rekord macierzysty i 7 indywidualnych wpisów, jeden dla każdej kompozycji. Nawet jeśli te 6 sonat można uznać za kolekcję, należy je opisać oddzielnie. Rekord macierzysty oraz odpowiednie adnotacje w rekordach pozycji w kolekcji mogą wyjaśnić organizację kolekcji i przynależność każdej z sonat do zbioru.
 
 Przy katalogowaniu kolekcji, należy zwrócić uwagę na następujące kwestie:
 
@@ -26,17 +26,17 @@ Istnieją dwa sposoby na wskazanie istnienia klocka introligatorskiego. Pierwsza
 
 Katalogowanie klocka introligatorskiego ma na celu połączenie wszystkich obiektów współoprawnych w jeden rekord, dostarczając tym samym użytkownikowi praktyczny zarys zawartości źródła.
 
-Rekordy klocków introligatorskich powinny być proste. Zasadniczo, opisują element wiążący dla pozycji składowych.
+Rekordy klocków introligatorskich powinny być proste. Zasadniczo, opisują element wiążący dla pozycji składowych i służą połączeniu indywidualnych pozycji w całość.
 
-Nie mylić klocków introligatorskich z kolekcjami; „kolekcje” w RISM przeznaczone są wyłącznie do rękopisów. Ponadto nie mylić klocków introligatorskich z drukami: druk jest pojedynczą jednostką bibliograficzną, która została wydana przez wydawcę jako taka. Zarówno kolekcje, jak i druki mogą zawierać wiele pozycji. W przeciwieństwie do tego, klocki introligatorskie łączą różne jednostki, na przykład wydrukowana kolekcja madrygałów z 1604, rękopis motetu z 1620 r. oraz druk madrygałów z 1615 r.
+Nie mylić klocków introligatorskich z kolekcjami; zobacz stosowanie „Kolekcji” w RISM powyżej. Ponadto nie mylić klocków introligatorskich z drukami: druk jest pojedynczą jednostką bibliograficzną, która została wydana przez wydawcę jako taka. Zarówno kolekcje, jak i druki mogą zawierać wiele pozycji. W przeciwieństwie do tego, klocki introligatorskie łączą różne jednostki, na przykład wydrukowana kolekcja madrygałów z 1604, rękopis motetu z 1620 r. oraz druk madrygałów z 1615 r.
 
 Podobnie jak w przypadku rekordów macierzystych kolekcji, informacje podane w klocku introligatorskim powinny być prawdziwe dla wszystkich składowych. Należy pamiętać, że szczegółowe informacje dotyczące zawartości poszczególnych obiektów powinny znajdować się w odpowiednich rekordach bibliograficznych. Nie należy tworzyć oddzielnych rekordów dla wielu klocków introligatorskich, które należą do siebie, takich jak zbiór głosów; powinny one być opisane w tym samym rekordzie. W wielu przypadkach wiele pól będzie pustych.
 
-When describing a composite volumes creating the links, observe the following. As an example of a composite volume, see RISM ID no. 1001077677, a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
+Opisując klcek introligatorski, tworząc połączenia między rekordami, zwróć uwagę na następujące kwestie. Jako przykład klocka introligatorskiego, zobacz RISM ID: 1001077677, który jest zbiorem kolekcji i pojedynczych 10 kompozycji na fortepian autorstwa Chopina, opublikowanych między 1846-1857.
 
-1. First, create the record for the composite volume, save, and note the RISM ID number.
-2. For manuscripts: In the editing mode of the record for your manuscript, go to the field **Parent record (773)**. Click the second button to search for the composite volume.
-3. For printed music: In the holdings information for the printed edition, find the field **Bound with (973)** and click the magnifying glass. Find the record for the composite volume and select it.
+1. Po pierwsze, stwórz rekord dla szablonu klocka introligatorskiego, zapisz i odnotuj ID RISM.
+2. Dla rękopisów, w trybie edycji, znajdź pole **Rekord macierzysty (773)**. Kliknij w drugą ikonę „Search composite” w celu wyszukania klocka introligatorskiego.
+3. Dla druków muzycznych: W egzemplarzach znajdź pole **Współoprawne z (973)** i kliknij na ikonę lupy. Znajdź rekord klocka introligatorskiego i wybierz.
 
 
 ### Contrafacta
