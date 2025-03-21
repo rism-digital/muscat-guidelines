@@ -20,7 +20,7 @@ Si las obras de la colección son de distintos compositores o presentan diferent
 
 ### Composite volumes
 
-Un **Volumen compuesto** es un volumen integrado por documentos que fueron creados por separado y encuadernados juntos posteriormente, usualmente por un propietario o una institución. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. En este conjunto se incluyen tanto los volúmenes en los que una suma de ítems impresos fue encuadernada en conjunto, como también aquellos en los que piezas impresas aparecen encuadernadas junto a manuscritos.
+Un **Volumen compuesto** es un volumen integrado por documentos que fueron creados por separado y encuadernados juntos posteriormente, usualmente por un propietario o una institución. En este conjunto se incluyen tanto los volúmenes en los que una suma de ítems impresos fue encuadernada en conjunto, como también aquellos en los que piezas impresas aparecen encuadernadas junto a manuscritos. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume.
 
 Hay dos maneras de señalar la presencia de volúmenes compuestos. La primera y más simple consiste en dar a los ítems la misma signatura; también resulta útil una nota de encuadernación. La segunda forma consiste en utilziar la plantilla para volúmenes compuestos.
 
@@ -167,7 +167,7 @@ A la hora de crear el registro madre y el registro de la ópera principal, se si
 - **Título uniforme (240):** Título de la inserción, o el nombre de la ópera seguido de Extractos.
 - **Título adicional (730):** Si el libreto se basa en un libro o una obra de teatro, puede introducirse aquí el título de la obra original.
 - **Nota general (500):** Se puede añadir cualquier información adicional que se conozca y aclare la relación de la inserción dentro de la obra mayor.
-- **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
+- Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work. **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**.
 - **Nota general (500):** Se puede añadir cualquier información adicional que se conozca y aclare la relación de la inserción dentro de la obra mayor.
 
 ### Mixed materials (manuscripts and printed items stored together)
@@ -244,11 +244,11 @@ Appropriate subject headings for treatises include the following:
 
 - **Treatises**
 - **Writings**
-- ******Music theory ** [Teoría musical]****
+- ********Music theory ** [Teoría musical]******
 - ****Theory of harmony ** [Teoría de la armonía]**
 - En el campo **Título**
 - **uniforme (240)**:
-- ******Contrapuntal studies (inst./voc.).****
+- ********Contrapuntal studies (inst./voc.).******
 - ****Solfeggios (voc.) **[Solfeos (vocales)]**
 - ****Solfeggios (inst.) **[Solfeos (instrumentales)]**
 - ****Scales (inst./voc.) **[Escalas (instrumentales/vocales)]**

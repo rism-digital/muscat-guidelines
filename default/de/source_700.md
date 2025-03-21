@@ -4,7 +4,7 @@ The field **Additional personal name** is to index all additional people involve
 
 #### Name (700 $a)
 
-Enter all additional personal names that appear on the source as well as names that can be inferred. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d. Names not yet in the authority file may be added. Names not yet in the authority file may be added. Do not use **Anonymus** in this field.
+Names not yet in the authority file may be added. Do not use **Anonymus** in this field. Enter all additional personal names that appear on the source as well as names that can be inferred. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d. Names not yet in the authority file may be added.
 
 Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered as an **Additional institution (710)**.
 

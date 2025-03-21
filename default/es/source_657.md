@@ -9,5 +9,5 @@ Registre referencias al uso litúrgico de la composición en este campo. Esto in
 ##### Examples
 
 - Nativitas Domini
-- Mariae (B.V.) Visitatio Visitatio
+- Mariae (B.V.) Visitatio Visitatio Visitatio
 - Single Sisters Covenant Day (Moravian Church)

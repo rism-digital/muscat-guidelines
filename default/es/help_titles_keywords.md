@@ -106,7 +106,7 @@ Standardized title — Corresponding subject heading
 
 Standardized title — Corresponding subject heading
 - Arpeggios — Arpeggios (inst.)
-- Cadences — Cadences (inst.) Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadences — Cadences (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
 - Cadenzas — Cadenzas (voc.)
 - Exercises — Exercises (inst.)
 - Exercises — Exercises (voc.)
@@ -130,7 +130,7 @@ Standardized title — Subject heading
    Use **Chorale arrangements** tanto como Título uniforme y como Descriptor.
 
 3. Un popurrí cuya música proviene de una sola ópera:  
-   ¡No necesita esta lista! Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas** , etc. según corresponda). Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**.
+   ¡No necesita esta lista! Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**. Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas** , etc. según corresponda).
 
 4. A potpourri where you know that the music comes from several operas:  
    Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).

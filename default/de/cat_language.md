@@ -16,7 +16,7 @@ Wenn Englisch nicht erforderlich ist, können Sie die in den Richtlinien als **K
 
 In den folgenden Richtlinien bezieht sich der Begriff „Katalogisierungssprache“ auf die Verwendung entweder einer dieser sechs Sprachen oder einer anderen Sprache und einer Übersetzung in eine dieser sechs Sprachen.
 
-Your cataloging language for Sources can be indicated in the field **Cataloging language (040 $b)**.
+Ihre Katalogisierungssprache für Quellen kann im Feld **Katalogisierungssprache (040 $b)** angegeben werden.
 
 ### Transliteration
 

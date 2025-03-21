@@ -1,5 +1,5 @@
 
-This website presents the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. Muscat wird von den RISM-Arbeitsgruppen und -mitarbeitern genutzt und steht allen Interessierten kostenlos zur Verfügung. Es ermöglicht direkten Zugriff auf die RISM-Datenbank, die von der Staatsbibliothek zu Berlin, Preußischer Kulturbesitz gehostet wird. If you are interested in becoming a contributor, contact the [RISM Editorial Center (Zentralredaktion)](https://rism.info/editorial-center.html){:blank}.
+Es ermöglicht direkten Zugriff auf die RISM-Datenbank, die von der Staatsbibliothek zu Berlin, Preußischer Kulturbesitz gehostet wird. Muscat wird von den RISM-Arbeitsgruppen und -mitarbeitern genutzt und steht allen Interessierten kostenlos zur Verfügung. This website presents the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. If you are interested in becoming a contributor, contact the [RISM Editorial Center (Zentralredaktion)](https://rism.info/editorial-center.html){:blank}.
 
 Muscat is developed jointly by the two RISM Centers, the RISM Editorial Center and the [RISM Digital Center](https://rism.digital/){:blank}. Es basiert auf einem gemeinsam von RISM Schweiz und RISM UK entwickelten Programm.
 

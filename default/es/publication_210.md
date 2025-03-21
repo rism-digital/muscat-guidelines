@@ -122,7 +122,7 @@ Use the established abbreviations for catalogs of works if they exist (BWV, KV, 
 
 ##### Casos especiales
 
-Publications that contain the term "thematic catalog" in their titles are usually catalogs of a composer's works but may occasionally treat a different area or not be extensive in their scope. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title as for general secondary literature. In short, anything that is not a catalog of a composer's works is assigned short title as for general secondary literature.
+If it’s the former, give it a short title as for a catalog of works. Publications that contain the term "thematic catalog" in their titles are usually catalogs of a composer's works but may occasionally treat a different area or not be extensive in their scope. If it’s the latter, give it a short title as for general secondary literature. In short, anything that is not a catalog of a composer's works is assigned short title as for general secondary literature.
 
 ###### Examples
 

@@ -1,5 +1,5 @@
 ## Znaki wodne
 
-The section **Watermarks** contains standardized terms used to refer to watermarks.
+Sekcja **Znaki wodne** zawiera ustandaryzowane pojęcia odnoszące się do znaków wodnych.
 
 {% include common/abbr_watermarks.html %}

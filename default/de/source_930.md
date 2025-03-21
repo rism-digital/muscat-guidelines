@@ -4,4 +4,4 @@ Das Feld **Werk** wird verwendet, um die im Quellen-Datensatz beschriebene Kompo
 
 #### Werk (930 $a)
 
-Klicken Sie auf die Lupe, um ein Werk aus den Normdaten **Work Nodes** auszuwählen.
+Use the autocomplete or click the magnifying glass to select a work from the **Work nodes** authority file.

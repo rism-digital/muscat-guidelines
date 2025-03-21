@@ -45,7 +45,7 @@ Enter the number of folios, pages, leaves, or gatherings. Use only one method of
 
 Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
 
-You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**. 5-6</strong> or **f. 4r-4v**.
+You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**. 5-6</strong> or **f. 4r-4v**. 4r-4v</strong>.
 
 ##### Examples
 There are two different ways list the parts.

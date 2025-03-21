@@ -107,7 +107,7 @@ Enter the text incipit of the inserted piece as the standardized title here. In 
 
 If your source has a standardized title that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Standardized title** using the original script. Translations or transliterations are optional and may be added in the field **Additional title (730)**.
 
-#### Tipo especial de fuente (240 $k)
+#### Tonalidad o modo (240 $r)
 
 Seleccione el calificador **Arreglo** si la pieza es un arreglo de otra obra.
 
@@ -198,7 +198,7 @@ Ingrese los grupos de instrumentos en el siguiente orden:
 - Instrumentos de cuerda pulsada
 - Bajo continuo
 
-Also use **V** to group together several different vocal parts, such as **V (8)**. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Indique un número desconocido de partes con **(X)**. Utilice **V** para indicar una parte vocal desconocida e **i** para remitirse a un instrumento desconocido.
+Indique un número desconocido de partes con **(X)**. Also use **V** to group together several different vocal parts, such as **V (8)**. Utilice **V** para indicar una parte vocal desconocida e **i** para remitirse a un instrumento desconocido. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**.
 
 Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 

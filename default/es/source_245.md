@@ -8,7 +8,7 @@ The field **Title on source** is for a diplomatic transcription of the title as 
 
 Registre el título exactamente como aparece en la fuente (título diplomático). En la práctica, el Título en fuente puede incluir toda la información de la portada, como el nombre del compositor u otras indicaciones. En el caso de la música impresa, registre todo el contenido de la portada, incluida la información editorial.
 
-Transcriba el título completo. No abrevie. Indicate superscripts with **\|** without a space before each superscript sign. Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o . Las letras repetidas indicadas con un macrón diacrítico deben escribirse desarrolladas: m[m]. Indicate line breaks with **\|** (the vertical pipe) with a single space before and after.
+Transcriba el título completo. No abrevie. Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o . Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o . Indicate line breaks with **\|** (the vertical pipe) with a single space before and after.
 
 Incluya información acerca de la ubicación del título, entre corchetes y al principio del campo. Utilice siempre terminología en inglés, seguida de dos puntos. Provea datos suplementarios entre corchetes. Use an exclamation point in square brackets **[!]** or **[sic]** to indicate an unusual or incorrect spelling.
 

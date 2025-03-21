@@ -4,7 +4,7 @@ The field **Authority reference** is used to record the standard number or code 
 
 #### Authority reference (024 $a)
 
-Enter the alphanumeric code used to identify the institution. The code is taken from the authority data of the creating agency. Examples of the formatting are given below.
+The code is taken from the authority data of the creating agency. Enter the alphanumeric code used to identify the institution. Examples of the formatting are given below.
 
 #### Terms of availability (024 $c)
 

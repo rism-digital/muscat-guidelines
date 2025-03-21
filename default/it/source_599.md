@@ -4,7 +4,7 @@ The field **Internal note** is used for information not intended for public disp
 
 #### Internal note (599 $a)
 
-Enter local notes for internal use, including within your own working group. Any language may be entered here. Local notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.
+Enter local notes for internal use, including within your own working group. Notes may be entered in any language. Local notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.
 
 **Obsolete procedures**: Older RISM cataloging guidelines contained codes and other standardized terminology to describe the nature of the comment:
 - 005 From head office (Zentralredaktion)

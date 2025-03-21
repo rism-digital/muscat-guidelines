@@ -4,7 +4,7 @@ The field **Authority reference** is used to record the standard number or code 
 
 #### Referencia de la autoridad (024 $a)
 
-Enter the alphanumeric code used to identify the institution. El código se toma de los datos de autoridad de la agencia creadora. Examples of the formatting are given below.
+El código se toma de los datos de autoridad de la agencia creadora. Enter the alphanumeric code used to identify the institution. Examples of the formatting are given below.
 
 #### Condiciones de disponibilidad (024 $c)
 
