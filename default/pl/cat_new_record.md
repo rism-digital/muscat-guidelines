@@ -6,11 +6,11 @@ Nowy rekord można utworzyć w Muscat poprzez wybranie odpowiedniego szablonu lu
 
 Muscat oferuje możliwość wyboru szablonu, w zależności od rodzaju katalogowanego źródła. Szablon zawiera tylko te pola, które są potrzebne do skatalogowania danego źródła.
 
-If you see that a record is in the wrong template, notify the Editorial Center to have the template changed.
+Jeżeli zauważysz, że rekord skatalgoowany jest w nieodpowiednim szablonie, poinformuj RISM Editorial Center w celu zmiany szablonu.
 
-### Available templates
+### Dostępne szablony
 
-A record for a **Collection** (parent record) is used when the item contains multiple pieces. Each piece in the collection is then entered as an **Item in a collection** (child record) and linked to the collection record. Manuscripts and printed editions can also exist as **Single items** that are not part of collections.
+Rekord dla **Kolekcji** (rekord macierzysty) jest używany, gdy zawiera wiele pozycji. Each piece in the collection is then entered as an **Item in a collection** (child record) and linked to the collection record. Manuscripts and printed editions can also exist as **Single items** that are not part of collections.
 
 A **Composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. This includes volumes in which printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
 
