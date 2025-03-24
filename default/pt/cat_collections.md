@@ -51,7 +51,7 @@ Enter the composer of the original music.
 
 **Standardized title (240)**
 
-Use the standardized title of the original piece. **Excerpts** may be added. Do not use **Arr**.
+Use the standardized title of the original piece. For the field **Language of text**, enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
 
 - Il Bellerofonte. Excerpts
 
@@ -120,11 +120,11 @@ If you have a pasticcio, do not enter composers as a composer cross-references. 
 
 **Standardized title (240)**
 
-Enter the standardized title of the source in hand. For pasticcios, add **Excerpts** or **Arrangement** as appropriate.
+Enter the standardized title of the source in hand. The composer is always **Compilations**.
 
 **Language code (041)**
 
-For the field **Language of text**, enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
+For the field **Language of text**, enter the language of the source in hand. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
 
 **Subject heading (650)**
 
@@ -141,7 +141,7 @@ Use this field to describe in general the nature of the source.
 
 **Alternate title (730)**
 
-Enter the standardized title of the original piece(s), adding **Excerpts** or **Arrangement** as appropriate. You can also enter ossia titles.
+Enter the standardized title of the original piece(s), adding **Excerpts** or **Arrangement** as appropriate. Enter the standardized title of the source in hand.
 
 **Catalog of works (690)**
 
@@ -153,7 +153,7 @@ Enter the text of the source in hand. If known, enter the original text in squar
 
 **General note (500)**
 
-Always use a note for clarification, especially if the works of separate composers are involved. This ensures that the composers are matched to the works used in the compilation.
+Always use a note for clarification, especially if the works of separate composers are involved. Performances should be noted only as they relate to the compilation itself.
 
 **Note on performance (518)**
 
@@ -203,7 +203,7 @@ Enter the title of the pre-existing material. Add Excerpts as appropriate. Do no
 
 **Subject heading (650)**
 
-Enter Parodies as the first subject heading. Enter the genre of the source in hand for the second, and the genre of the pre-existing material as the third.
+Enter Parodies as the first subject heading. Add at least 3 subject headings (more if appropriate), in this order:  Contrafacta -- Current genre -- Original genre.
 
 - Parodies
 - National anthems
@@ -309,7 +309,7 @@ Please observe the following when cataloging libretti.
 
 **Source type (593):** Select either "Libretto, handwritten" or "Libretto, printed."
 
-**Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p.
+**Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. 95-97:
 
 ### Treatises
 
