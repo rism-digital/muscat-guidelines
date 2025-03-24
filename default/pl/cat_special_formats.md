@@ -1,42 +1,42 @@
-## Cataloging special types of sources
+## Katalogowanie specjalnych typów źródeł
 
-This section describes how to catalog special types of sources: collections, composite volumes, contrafacta, compilations, parodies, insertion arias, mixed materials (manuscripts and printed items stored together), music in periodicals, music in non-music publications, collected works (sometimes called "monuments"), librettos, treatises, keyboard arrangements, and sources from other RISM Series B publications.
+W tej sekcji opisano sposób katalogowania szczególnych rodzajów źródeł: kolekcje, klocki introligatorskie, kontrafacta, kompilacje, tzw. wstawki, parodie, materiały mieszane (rękopisy i druki przechowywane razem), muzyka w czasopismach, muzyka w publikacjach niemuzycznych, libretta, traktaty i aranżacje fortepianowe.
 
-### Collections
+### Kolekcje
 
-In RISM, the word _collection_ refers to any item (whether manuscript or printed) that contains two or more pieces. This includes both intentional collections or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
+W RISM, _Kolekcja_ odnosi się do każdej pozycji (zarówno rekopiśmiennej jak i drukowanej), zawierającej dwie lub więcej kompozycji. Jest zarówno intencjonalnie powstałą kolekcją lub antologią wielu dzieł, jak również pozycją, która nie była docelowo zamierzona jako kolekcja przez jego twórcę (na przykład sonata fortepianowa z krótkim marszem na ostatniej stronie).
 
-Collections in RISM have a parent/child hierarchy, meaning there is one main entry (parent record) that describes the collection as a whole, and individual entries (child or analytical records) that describe each piece therein separately.
+Kolekcje w RISM mają charatter hierarchiczny, co oznacza, że jest jeden główny rekord (rekord macierzysty), który opisuje kolekcję jako całość i indywidualne pozycje (pozycja w kolekcji lub rekord analityczny), które opisują każdą kompozycję oddzielnie.
 
-Collection parent records may not contain collection parent records of manuscripts. There are no smaller collections within collections, even though the item itself may be structured this way. Instead, use a flatter hierarchy by means of child records and explain the structure, makeup, or organization of the item in a note. For example, if a collection consists of a single march followed by a set of six sonatas, you will create 1 parent record and 7 individual entries, one for each piece. Even if the six sonatas can be considered as a unit, they must be described separately. The parent record can explain the organization of the collection and notes in the child records can explain that each sonata is part of a set.
+Rekordy macierzyste kolekcji nie mogą zawierać rekordów macierzystych kolekcji rękopisów. Nie ma mniejszych kolekcji w ramach kolekcji chociaż pozycja w kolekcji sama w sobie może być zorganizowana w taki sposób. Zamiast tego należy zastosować bardziej płaską hierarchię za pomocą indywidualnych rekordów i wyjaśnić strukturę, konstrukcję lub organizację danej pozycji w uwadze. Na przykład, jeśli kolekcja składa się z pojedynczego marsza, po którym następuje zbiór sześciu sonat, należy stworzyć 1 rekord macierzysty i 7 indywidualnych wpisów, jeden dla każdej kompozycji. Nawet jeśli te 6 sonat można uznać za kolekcję, należy je opisać oddzielnie. Rekord macierzysty oraz odpowiednie adnotacje w rekordach pozycji w kolekcji mogą wyjaśnić organizację kolekcji i przynależność każdej z sonat do zbioru.
 
-When cataloging collections, note that:
+Przy katalogowaniu kolekcji, należy zwrócić uwagę na następujące kwestie:
 
-1. The collection main entry (parent record) should contain information that applies to the entire collection.
-2. Any information that is relevant only for some sections of the collection should be entered in the child record.
+1. Wpis główny kolekcji (rekord macierzysty) powinien zawierać informacje dotyczące całej kolekcji.
+2. Wszelkie informacje, które są istotne tylko dla niektórych elementów kolekcji, należy wpisać w indywidualnym wpisie.
 
-If the works in the collection have different composers, scoring, source types, etc., then do not enter them in the parent record.
+Jeżeli utwory w kolekcji mają różnych kompozytorów, obsadę, rodzaje źródeł itp. nie należy ich wpisywać w rekordzie macierzystym.
 
 
-### Composite volumes
+### Klocki introligatorskie
 
-A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
+**Klocek introligatorski** składa się z obiektów powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Istnieją różne określenia na tego typu obiekt: sammelband, adligat, źródło współoprawne. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków jak i woluminy połączonych druków z rękopisami.
 
-There are two ways to indicate a composite volume. The first, and simplest, way is to catalog the items separately and give the items the same shelfmark; a bound-with note is also helpful. The second is to use the template for a composite volume record.
+Istnieją dwa sposoby na wskazanie istnienia klocka introligatorskiego. Pierwsza, ta prostsza zakłada nadanie jednej sygnatury wszystkim zawartym obiektom z informacją „współoprawne z”. Drugi sposób zakłada wybór szablonu dla klocka introligatorskiego.
 
-The composite volume record serves as means to link all bound items to a single record, thus providing the user with a convenient overview of the entire contents of a bound item.
+Katalogowanie klocka introligatorskiego ma na celu połączenie wszystkich obiektów współoprawnych w jeden rekord, dostarczając tym samym użytkownikowi praktyczny zarys zawartości źródła.
 
-Records for a composite volume should be kept simple. In principle, the record simply describes the binding and serves as a means to connect the individual items to each other.
+Rekordy klocków introligatorskich powinny być proste. Zasadniczo, opisują element wiążący dla pozycji składowych i służą połączeniu indywidualnych pozycji w całość.
 
-Do not confuse composite volumes with collections; see "Collections," above, for the use in RISM. Furthermore, do not confuse composite volumes with printed editions: a printed edition is single bibliographic unit that was issued by the publisher as such. Both collections and printed editions can contain multiple pieces. In contrast to this, composite volumes bring together disparate units: for example, a printed collection of madrigals from 1604, a manuscript of a motet from 1620, and a printed edition of madrigals from 1614.
+Nie mylić klocków introligatorskich z kolekcjami; zobacz stosowanie „Kolekcji” w RISM powyżej. Ponadto nie mylić klocków introligatorskich z drukami: druk jest pojedynczą jednostką bibliograficzną, która została wydana przez wydawcę jako taka. Zarówno kolekcje, jak i druki mogą zawierać wiele pozycji. W przeciwieństwie do tego, klocki introligatorskie łączą różne jednostki, na przykład wydrukowana kolekcja madrygałów z 1604, rękopis motetu z 1620 r. oraz druk madrygałów z 1615 r.
 
-As with collection parent records, the information given in the composite volume record should be true for all of the components of the volume, and remember that detailed information related to the music belongs in the respective bibliographic records. Do not create separate records for multiple composite volumes that belong together, such as a set of partbooks bound by voice type; these should be described in the same record. In many cases, you will be leaving a lot of fields blank.
+Podobnie jak w przypadku rekordów macierzystych kolekcji, informacje podane w klocku introligatorskim powinny być prawdziwe dla wszystkich składowych. Należy pamiętać, że szczegółowe informacje dotyczące zawartości poszczególnych obiektów powinny znajdować się w odpowiednich rekordach bibliograficznych. Nie należy tworzyć oddzielnych rekordów dla wielu klocków introligatorskich, które należą do siebie, takich jak zbiór głosów; powinny one być opisane w tym samym rekordzie. W wielu przypadkach wiele pól będzie pustych.
 
-When describing a composite volumes creating the links, observe the following. As an example of a composite volume, see RISM ID no. 1001077677, a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
+Opisując klcek introligatorski, tworząc połączenia między rekordami, zwróć uwagę na następujące kwestie. Jako przykład klocka introligatorskiego, zobacz RISM ID: 1001077677, który jest zbiorem kolekcji i pojedynczych 10 kompozycji na fortepian autorstwa Chopina, opublikowanych między 1846-1857.
 
-1. First, create the record for the composite volume, save, and note the RISM ID number.
-2. For manuscripts: In the editing mode of the record for your manuscript, go to the field **Parent record (773)**. Click the second button to search for the composite volume.
-3. For printed music: In the holdings information for the printed edition, find the field **Bound with (973)** and click the magnifying glass. Find the record for the composite volume and select it.
+1. Po pierwsze, stwórz rekord dla szablonu klocka introligatorskiego, zapisz i odnotuj ID RISM.
+2. Dla rękopisów, w trybie edycji, znajdź pole **Rekord macierzysty (773)**. Kliknij w drugą ikonę „Search composite” w celu wyszukania klocka introligatorskiego.
+3. Dla druków muzycznych: W egzemplarzach znajdź pole **Współoprawne z (973)** i kliknij na ikonę lupy. Znajdź rekord klocka introligatorskiego i wybierz.
 
 
 ### Contrafacta

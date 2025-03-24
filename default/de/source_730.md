@@ -1,6 +1,6 @@
 ### Additional title (730)
 
-The field **Additional title** is for alternatives to the **Standardized title (240 $a)**, also in a standardized form. It is linked to the **Titles/Text incipits** index through $0.
+It is linked to the **Titles/Text incipits** index through $0. The field **Additional title** is for alternatives to the **Standardized title (240 $a)**, also in a standardized form.
 
 #### Additional title (730 $a)
 
@@ -42,7 +42,7 @@ For inserts, also note the guidelines under for the field **Insertions (787)**. 
 
 #### Arrangement statement (730 $o)
 
-**Skizzen** : Skizzen zu einem Werk **Skizzen** : Skizzen zu einem Werk Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
+**Skizzen** : Skizzen zu einem Werk **Skizzen** : Skizzen zu einem Werk **Skizzen** : Skizzen zu einem Werk Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
 
 #### Rule type (730 $g)
 

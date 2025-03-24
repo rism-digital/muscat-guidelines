@@ -32,4 +32,4 @@ Enter the reference to the piece in the RISM series. Note that each volume has a
 
 #### RISM ID number (596 $c)
 
-Link to the record that corresponds to the citation in 596 $a and $b. Click on the magnifying glass to search. If the record is not yet in Muscat, contact the Editorial Center.  
+Link to the record that corresponds to the citation in 596 $a and $b. Click on the magnifying glass to search. Click on the magnifying glass to search. If the record is not yet in Muscat, contact the Editorial Center.  

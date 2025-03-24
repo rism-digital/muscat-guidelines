@@ -33,6 +33,7 @@ Short titles for **general secondary literature** are created as follows:
   → WollnyS 2001
 - Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999
 - Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincónV 2009
@@ -55,6 +56,7 @@ For two or more authors or editors, only the first is used in a short title.
 ###### Example
 
 - John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893
 
@@ -83,7 +85,7 @@ If only an approximate year of publication is known, add a **ca.** (for circa) w
 
 ###### Example
 
-- Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
+- Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850
 
 For the short titles of well-known encyclopedias or sets, use the established abbreviations or terms (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
@@ -123,7 +125,7 @@ Use the established abbreviations for catalogs of works if they exist (BWV, KV, 
 
 ##### Special cases
 
-Publications that contain the term "thematic catalog" in their titles are usually catalogs of a composer's works but may occasionally treat a different area or not be extensive in their scope. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title as for general secondary literature. In short, anything that is not a catalog of a composer's works is assigned short title as for general secondary literature.
+If it’s the former, give it a short title as for a catalog of works. Publications that contain the term "thematic catalog" in their titles are usually catalogs of a composer's works but may occasionally treat a different area or not be extensive in their scope. If it’s the latter, give it a short title as for general secondary literature. In short, anything that is not a catalog of a composer's works is assigned short title as for general secondary literature.
 
 ###### Examples
 

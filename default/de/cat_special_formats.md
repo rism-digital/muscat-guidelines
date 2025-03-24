@@ -20,7 +20,7 @@ Wenn die Werke einer Sammlung unterschiedliche Komponisten, Besetzungen, Quellen
 
 ### Konvolutbände
 
-Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Im Englischen gibt es viele weitere Bezeichnungen für solche Bände: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind.
+Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind. Im Englischen gibt es viele weitere Bezeichnungen für solche Bände: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume.
 
 Es gibt zwei Möglichkeiten, einen Konvolutband zu kennzeichnen. Die erste und einfachste Möglichkeit ist, die Einheiten mit der gleichen Signatur zu versehen; ein Vermerk ist ebenfalls hilfreich. Die zweite Möglichkeit ist die Verwendung der Vorlage für Konvolute.
 
@@ -167,7 +167,7 @@ The usual rules apply when creating the parent record and the record for the mai
 - **Standardized title (240)**: Title of the insertion, or the name of the opera followed by Excerpts
 - **Additional title (730)**: Title of the larger work, plus the subheading **Inserts**
 - **Subject heading (650)**: Enter three: Insertions, the genre of the insertion, and the genre of the larger work
-- **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
+- Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work. **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**.
 - **General note (500)**: Any additional information can be added to make the relationship of the insert within the larger work (if known) clear.
 
 ### Mixed materials (manuscripts and printed items stored together)
@@ -232,7 +232,7 @@ Observe the following when cataloging librettos.
 - **Subject heading (650):** If known, enter the name of the genre for which the libretto was written, such as “Operas” or “Cantatas”. "Librettos" is not necessary.
 - **Language code (041):** Use the field "Language of text" only if the libretto contains notated music with words.
 - **Source type (593):** Select the source type. For the content type, select "Libretto."
-- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. p.
+- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. p. p.
 
 ### Treatises
 

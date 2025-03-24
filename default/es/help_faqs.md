@@ -23,7 +23,7 @@ No, only the literature labeled "HB" or "Handbibliothek" or "RISM-ZR" in an inte
 
 Contact the Editorial Center if you lose your password. You can change your password by clicking on your user name (in the upper right-hand corner of Muscat).
 
-#### 5. Can I show Muscat to my colleagues? Can I show Muscat to my colleagues? Can I demonstrate Muscat at conferences or in workshops?
+#### 5. Can I show Muscat to my colleagues? Can I show Muscat to my colleagues? Can I show Muscat to my colleagues? Can I demonstrate Muscat at conferences or in workshops?
 
 Yes, you are welcome to do so. A training version of Muscat is available for exactly these purposes at [https://muscat-training.rism.info](https://muscat-training.rism.info/). Todos los usuarios de Muscat pueden acceder a la misma con sus credenciales personales. There are also 99 training accounts ("training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be used. Contact the RISM Editorial Center for the current password. Anything on the training version can be added or edited. It is updated with the current Muscat data on a regular basis, so practice records on the training server are be deleted after these updates. New records or changes on the training server are not transferred to the main Muscat program.
 
