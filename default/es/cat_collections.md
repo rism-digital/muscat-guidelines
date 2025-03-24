@@ -150,7 +150,7 @@ You can enter the catalog of works number for both the compilation and the origi
 
 **Text incipit (031)**
 
-Enter the text of the source in hand. If known, enter the original text in square brackets.
+Enter the text of the source in hand. If the original text is known, enter it in square brackets.
 
 **General note (500)**
 
@@ -219,7 +219,7 @@ Introduzca el idioma de la fuente en cuestión en el campo Idioma del texto. Int
 
 **Incipits literarios (031)**
 
-Introduzca el incipit literario de la fuente en cuestión. If the original text is known, enter it in square brackets.
+Introduzca el incipit literario de la fuente en cuestión. If known, enter the original text in square brackets.
 
 - Dannemark hellige lyd
 - [Di tanti palpiti]
@@ -246,7 +246,7 @@ En caso de que no sea factible c un registro adecuado para el material impreso, 
 
 **Nota general (500):** Se puede añadir cualquier información adicional que se conozca y aclare la relación de la inserción dentro de la obra mayor.
 
-**Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
+**Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**. **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**.
 
 **Compositor (100):** Compositor de la inserción.
 
