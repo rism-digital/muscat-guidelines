@@ -1,11 +1,11 @@
-# Templates
+# Vorlagen
 
-Muscat offers template for different sources. The template offers only those fields that are needed for the source in hand.
+Muscat bietet Vorlagen für unterschiedliche Quellen. Die Vorlage bietet nur die Felder an, die für die jeweilige Quelle benötigt werden.
 
-**Copying existing records**
+**Kopieren bestehender Datensätze**
 
-In addition to selecting different templates, you can copy an existing record. There are two ways to do this.
+Sie können nicht nur verschiedene Vorlagen auswählen, sondern auch einen bestehenden Datensatz kopieren. Es gibt zwei Möglichkeiten, dies zu tun.
 
-From the template selection screen: simply enter the RISM number in the field "Create from existing source." You will then see a copy of the record in the editing mode and from there you can make any changes to the record that you need. The copied record will automatically receive a new RISM ID number upon saving.
+Auf dem Auswahlbildschirm für die Vorlage: Geben Sie einfach die RISM-Nummer in das Feld „Erstellen aus vorhandener Quelle“ ein. Sie sehen dann eine Kopie des Datensatzes im Bearbeitungsmodus und können von dort aus alle gewünschten Änderungen am Datensatz vornehmen. Der kopierte Datensatz erhält beim Speichern automatisch eine neue RISM ID.
 
-Alternately, you can copy a record in the viewing mode by clicking on the "Duplicate" button in the sidebar on the right.
+Alternativ können Sie einen Datensatz auch im Ansichtsmodus kopieren, indem Sie auf die Schaltfläche "Kopieren" in der rechten Seitenleiste klicken.
