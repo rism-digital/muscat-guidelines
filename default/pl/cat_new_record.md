@@ -1,10 +1,10 @@
-# Records and record types
+# Rekordy i typy rekordów
 
-A new record can be created in Muscat by either selecting the appropritate template or by copying an existing record. Links to both are on the Source page or the full record view.
+Nowy rekord można utworzyć w Muscat poprzez wybranie odpowiedniego szablonu lub przez skopiowanie istniejącego rekordu. Linki do obydwu znaleźć można na stronie dla Źródeł lub w pełnym widoku rekordu.
 
-## Templates
+## Szablony
 
-Muscat offers templates for different sources. A template offers only those fields that are needed for the source in hand.
+Muscat oferuje możliwość wyboru szablonu, w zależności od rodzaju katalogowanego źródła. Szablon zawiera tylko te pola, które są potrzebne do skatalogowania danego źródła.
 
 If you see that a record is in the wrong template, notify the Editorial Center to have the template changed.
 
