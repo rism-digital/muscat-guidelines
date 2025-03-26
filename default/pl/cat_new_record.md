@@ -10,15 +10,15 @@ Jeżeli zauważysz, że rekord skatalgoowany jest w nieodpowiednim szablonie, po
 
 ### Dostępne szablony
 
-Rekord dla **Kolekcji** (rekord macierzysty) jest stosowany, gdy źródła składa się z wielu pozycji. Każda pozycja kolekcji jest dodawana jako **Pozycja w tym źródle** (rekord dziecko) i połączona z rekordem kolekcji. Rękopisy i druki muzyczne mogą również funkcjonować jako **Samodzielne pozycje** i nie być częscią kolekcji.
+Rekord dla **Kolekcji** (rekord macierzysty) jest stosowany, gdy źródło składa się z wielu pozycji. Każda pozycja kolekcji jest dodawana jako **Pozycja w tym źródle** (rekord dziecko) i połączona z rekordem kolekcji. Rękopisy i druki muzyczne mogą również funkcjonować jako **Samodzielne pozycje** i nie być częscią kolekcji.
 
 **Klocek introligatorski** składa się z pozycji powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków jak ja woluminy połączonych druków z rękopisami.
 
-Manuscripts are unique to a library and can only be owned by one institution. Printed materials have holdings, meaning that multiple libraries can own copies (exemplars) of an edition.
+Manuscripts are unique to a library and can only be owned by one institution. Materiały drukowane posiadają egzemplarze, co oznacza że wiele bibliotek jest właścicielem kopii (egzemplarzy) danego wydania.
 
-The libretto/song text template is used for documents that contain texts that clearly represent a sung musical performance. Most commonly, these are books that contain the words of an opera or other long vocal work, but they can also be collections of text-only books such as hymnals or Christmas songs. Such publications are sometimes known as songsters, pocket books (frequently labeled as such on the source), or tunebooks.
+Szablon dedykowany libretto/tekstowi muzycznemu wykorzystywany jest do źródeł, które zawierają tylko tekst, odnoszący się do śpiewanego wykonawstawa muzycznego. Najczęściej są to książki, które zawierają słowa opery lub innej kompozycji wokalnej, ale mogą to być również kolekcje źródeł tekstowych, takich jak śpiewniki hymnów czy piosenek Bożonarodzeniowych. Takie publikacje są czasami nazywane zbiorami tekstów pieśni, książkami kieszonkowymi (często oznaczanymi tak na źródle) lub śpiewnikami.
 
-The treatise template is used for documents that explore theoretical aspects of music, including points of composition or performance.
+Szablon dedykowany traktatom jest wykorzystywany do źródeł, które podejmują teoretyczne aspekty muzyki, w tym aspekty kompozycji czy wykonawstwa.
 
 Both librettos and treatises may contain notated music, and the line between a libretto or treatise and music might not always be a clear one.
 
