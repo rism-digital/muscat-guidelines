@@ -14,55 +14,55 @@ Rekord dla **Kolekcji** (rekord macierzysty) jest stosowany, gdy źródło skła
 
 **Klocek introligatorski** składa się z pozycji powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków jak ja woluminy połączonych druków z rękopisami.
 
-Manuscripts are unique to a library and can only be owned by one institution. Materiały drukowane posiadają egzemplarze, co oznacza że wiele bibliotek jest właścicielem kopii (egzemplarzy) danego wydania.
+Manuscripts are unique to a library and can only be owned by one institution. Druki muzyczne posiadają egzemplarze, co oznacza że wiele bibliotek jest właścicielem kopii (egzemplarzy) danego wydania.
 
 Szablon dedykowany libretto/tekstowi muzycznemu wykorzystywany jest do źródeł, które zawierają tylko tekst, odnoszący się do śpiewanego wykonawstawa muzycznego. Najczęściej są to książki, które zawierają słowa opery lub innej kompozycji wokalnej, ale mogą to być również kolekcje źródeł tekstowych, takich jak śpiewniki hymnów czy piosenek Bożonarodzeniowych. Takie publikacje są czasami nazywane zbiorami tekstów pieśni, książkami kieszonkowymi (często oznaczanymi tak na źródle) lub śpiewnikami.
 
 Szablon dedykowany traktatom jest wykorzystywany do źródeł, które podejmują teoretyczne aspekty muzyki, w tym aspekty kompozycji czy wykonawstwa.
 
-Both librettos and treatises may contain notated music, and the line between a libretto or treatise and music might not always be a clear one.
+Zarówno szablony dedykowane librettom jak i traktatom mogą zawierać zapis nutowy, a proporcje między zawartością nut do tekstu nie zawsze jest wyraźny.
 
-The following templates are used in Muscat for Sources. Templates are encoded in the MARC record's Leader, positions 6-7.
+Następujące szablony są używane w Muscat dla Źródeł. Szablony są kodowane w pozycji 6-7 Lider rekordu MARC.
 
-Handwritten materials:
-- Music manuscript
- - Collection (parent record) [LDR: dc]
-   - Item in a collection (child record) [LDR: da]
- - Single music manuscript [LDR: dm]
-- Libretto/Song text
- - Collection (parent record) [LDR: dc]
-   - Item in a collection (child record) [LDR: ta]
-  - Single libretto/song text [LDR: tm]
-- Treatise
-   - Collection (parent record) [LDR: dc]
-    - Item in a collection (child record) [LDR: ta]
-   - Single treatise [LDR: tm]
+Materiały rękopiśmienne:
+- Rękopisy muzyczne
+ - Rekord kolekcji (rekord macierzysty) [LDR: dc]
+   - Indywidualny wpis pozycji w kolekcji (rekord dziecka) [LDR: da]
+ - Pojedynczy rękopis muzyczny [LDR: dm]
+- Libretta/Teksty pieśni
+ - Rekord kolekcji (rekord macierzysty) [LDR: dc]
+   - Indywidualny wpis pozycji w kolekcji (rekord dziecka) [LDR: ta]
+  - Pojedynczy rękopis libretta/Tekstu pieśni [LDR: tm]
+- Traktaty
+   - Rekord kolekcji (rekord macierzysty) [LDR: dc]
+    - Indywidualny wpis pozycji w kolekcji (rekord dziecka) [LDR: ta]
+   - Pojedynczy rękopis traktatu [LDR: tm]
 
-Printed materials:
-- Music edition
- - Collection (parent record) [LDR: cc]
-   - Item in a collection (child record) [LDR: ca]
- - Single music edition [LDR: cm]
-- Libretto/Song text
- - Collection (parent record) [LDR: ac]
-   - Item in a collection (child record) [LDR: aa]
-  - Single libretto/song text [LDR: am]
-- Treatise
-   - Collection (parent record) [LDR: ac]
-    - Item in a collection (child record) [LDR: aa]
-   - Single treatise [LDR: am]
+Materiały drukowane:
+- Druki muzyczne
+ - Rekord kolekcji (rekord macierzysty) [LDR: cc]
+   - Indywidualny wpis pozycji w kolekcji (rekord dziecka) [LDR: ca]
+ - Pojedynczy druk muzyczny [LDR: cm]
+- Libretta/Teksty pieśni
+ - Rekord kolekcji (rekord macierzysty) [LDR: ac]
+   - Indywidualny wpis pozycji w kolekcji (rekord dziecka) [LDR: aa]
+  - Pojedynczy druk libretta/Tekstu pieśni [LDR: am]
+- Traktaty
+   - Rekord kolekcji (rekord macierzysty) [LDR: ac]
+    - Indywidualny wpis pozycji w kolekcji (rekord dziecka) [LDR: aa]
+   - Pojedynczy druk traktatu [LDR: am]
 
-Composite volumes:
-- Composite volume [LDR: pc]
+Klocki introligatorskie:
+- Klocek introligatorski [LDR: pc]
 
 
-## Copying existing records
+## Kopiowanie istniejących rekordów
 
-There are two ways to copy a record.
+Istnieją dwa sposoby na skopiowanie rekordu.
 
-From the template selection screen: Simply enter the RISM ID number in the field "Create from existing source." You will then see a copy of the record in the editing mode and from there you can make any changes to the record that you need. The copied record will automatically receive a new RISM ID number upon saving.
+Można to zrobić na ekranie szablonu: wystarczy wpisać numer RISM w polu „Utwórz z istniejącego źródła”. Wówczas na ekranie ukaże się kopia rekordu w trybie edycji, gdzie można dokonać dowolnych zmian. Przy zapisywaniu skopiowany rekord automatycznie otrzyma nowy numer identyfikacyjny RISM.
 
-From the full record view: When viewing any record in Muscat, you can click the "Duplicate" button in the sidebar on the right and a copy of the record in the editing mode will be displayed.
+Alternatywnie, można skopiować rekord w trybie przeglądania z widoku pełnego rekordu, klikając przycisk „Duplikuj” na pasku bocznym po prawej stronie. Wówczas na ekranie ukaże się kopia rekordu w trybie edycji.
 
 Catalogers may duplicate any record in Muscat, including records that were created by a different library. Editing permissions still apply, so catalogers will not be able to save a record for institutions that they do not have permissions for. Duplicating records saves time when cataloging one's own collections (especially if the content is similar throughout), but catalogers can also take advantage of records created by other libraries, especially if a record has extensive music incipits, or in the case of cataloging reprints where the contents are the same or similar. Only one record at a time can be duplicated.
 
