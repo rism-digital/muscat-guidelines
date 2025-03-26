@@ -12,7 +12,7 @@ Jeżeli zauważysz, że rekord skatalgoowany jest w nieodpowiednim szablonie, po
 
 Rekord dla **Kolekcji** (rekord macierzysty) jest stosowany, gdy źródła składa się z wielu pozycji. Każda pozycja kolekcji jest dodawana jako **Pozycja w tym źródle** (rekord dziecko) i połączona z rekordem kolekcji. Rękopisy i druki muzyczne mogą również funkcjonować jako **Samodzielne pozycje** i nie być częscią kolekcji.
 
-A **Composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. This includes volumes in which printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
+**Klocek introligatorski** składa się z pozycji powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków jak ja woluminy połączonych druków z rękopisami.
 
 Manuscripts are unique to a library and can only be owned by one institution. Printed materials have holdings, meaning that multiple libraries can own copies (exemplars) of an edition.
 
