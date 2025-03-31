@@ -1,4 +1,4 @@
-## Printed editions in RISM
+## Druki muzyczne w RISM
 
 The section **Printed editions in RISM** outlines some considerations that are particular to printed music, including the scope of printed editions in RISM, core records vs. copy-specific information, when to input a new record, standardized titles, multiple copies, record splits and mergers, and printed editions from Series B.
 
