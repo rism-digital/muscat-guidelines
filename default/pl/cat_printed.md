@@ -57,10 +57,10 @@ Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakł
 
 1. Egzemplarz 1: Ten sam tytuł, ale nalepka została naniesiona na strefę wydania: Köln, P.J. Simrock. Możesz zobaczyć, że etykieta przykrywa informacje o Bonn/Köln. **Nowy rekord jest wymagany** (inny status wydania: na oryginalnej strefie wydania, znajduje się informacja o nowym wydawcy). Wynik: 1001141767
 
-3. Druk o numerze RISM 990024126: Gyrowetz, Symphonies, op. 9. The RISM record represents a set of multiple symphonies. Each symphony is available as a separate publication with separate plate numbers, issued as _livres_ 1, 2, and 3.
+3. Druk o numerze RISM 990024126: Gyrowetz, Symphonies, op. 9. Rekord RISM prezentuje zbiór wielu symfonii. Każda symfonia jest dostępna jako oddzielne wydanie z samodzielnymi numerami wydawniczymi, jako _livres_ 1, 2 i 3.
 
-1. Option 1, the quick solution: If your library only has one of the items in the set, **add your holdings** and in the field "Material held" note which symphony (livre) you have.
-2. Option 2, a better solution, but takes more time: **Notify the Editorial Center** about this record and we will split the record into 3, one record for each symphony. Then, add your holdings to the record for the symphony you have.
+1. Opcja 1: szybkie rozwiązanie: jeżeli Twoja biblioteka posiada jedną z symfonii zbioru, możesz wybrać **Dodaj egzemplarz** i w polu „Posiadany materiał”, wskazać którą symfonię (livre) posiadasz.
+2. Opcja 2: lepsze rozwiązanie, które zajmie jednak więcej czasu: <Powiadomić Biuro Centralne</strong> o tym rekordzie, a my podzielimy rekord na trzy rekordy, po jednym dla każdej symfonii. Następnie należy dodać rekord egzemplarza do rekordu symfonii, którą biblioteka posiada.
 
 ### Standardized titles for printed music
 
