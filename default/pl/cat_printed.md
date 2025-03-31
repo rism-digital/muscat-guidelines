@@ -1,6 +1,6 @@
 ## Druki muzyczne w RISM
 
-Sekcja **Druki muzyczne w RISM** przedstawia pewne przemyślenia odnośnie druków muzycznych, w szczegónosci zakresu edycji muzycznych, rekordów bibliograficznych wobec informacji dla egzemplarza, kiedy tworzyć nowy rekord, wprowadzać tytuły standaryzowane, wielu nakładów, konieczności podziału rekordów i ich łączenia, a także wydań druków muzucznych z Serii B.
+Sekcja **Druki muzyczne w RISM** przedstawia pewne przemyślenia odnośnie druków muzycznych, w szczegónosci zakresu edycji muzycznych, rekordów bibliograficznych wobec informacji dla egzemplarza, kiedy tworzyć nowy rekord, wprowadzać tytuły standaryzowane, wielu nakładów, konieczności podziału rekordów i ich łączenia, a także wydań druków muzycznych z Serii B.
 
 ### Zakres druków muzycznych w RISM
 
@@ -24,7 +24,7 @@ Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uz
 
 **Nowy rekord jest konieczny**, jeżeli opisywana pozycja wykazuje jedną lub więcej z następujących różnic w stosunku do rekordu RISM:
 
-- **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje korekty, rewizje, rozszerzenia, streszczenia lub włączenie materiałów uzupełniających.
+- **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje korekty, rewizje, rozszerzenia, uproszczenia, lub włączenie materiałów uzupełniających.
 - **Inny wydawca.**
 - **Inny układ druku**: Zmiany w numerach wydawniczych (z wyjątkiem numerów zastępczych). Zmiany w objętości. Zmiana w zakresie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
 - **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej. Strona tytułowa serii jest nowa.
@@ -41,7 +41,7 @@ Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uz
 - Poprawki dokonane w trakcie druku nakładu (poprawki dokonane w trakcie druku)
 - Obecność lub brak erraty
 
-Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakładów, statusów, watiantów opraw odnosząc się do jednego wydania lub nakładu. W danych dla egzemplarza, można wprowadzić szczegóły na temat wariantów i informacji identyfikujących dany egzemplarz.
+Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakładów, korekt, wariantów opraw odnosząc się do jednego wydania lub nakładu. W danych dla egzemplarza, można wprowadzić szczegóły na temat wariantów i informacji identyfikujących dany egzemplarz.
 
 #### Przykłady
 
