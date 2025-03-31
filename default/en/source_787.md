@@ -1,6 +1,7 @@
 ### Related source (787)
 
-The field **Related source** is used to indicate a relationship between the source in hand and another source in Muscat.
+The field **Related source** is used to indicate a relationship between the source in hand and another source in Muscat. All
+three subfields in this section must be filled out.
 
 When you indicate a relationship to another source, a link will appear in the full record view of the related source. If
 both sources in question belong to your library, you have the option of indicating the relationship in one record or in
