@@ -24,40 +24,40 @@ Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uz
 
 **Nowy rekord jest konieczny**, jeżeli opisywana pozycja wykazuje jedną lub więcej z następujących różnic w stosunku do rekordu RISM:
 
-- **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje korekty, rewizje, ....wyciągi, lub włączenie materiałów uzupełniających
+- **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje korekty, rewizje, rozszerzenia, streszczenia lub włączenie materiałów uzupełniających.
 - **Inny wydawca.**
-- **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by the comparison of multiple copies).
-- **Different publication status**: An original title page has been canceled and replaced. Series title page is new. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page.
-- **Different plate and/or publisher numbers**.
+- **Inny układ druku**: Zmiany w numerach wydawniczych (z wyjątkiem numerów zastępczych). Zmiany w objętości. Zmiana w zakresie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
+- **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej. Strona tytułowa serii jest nowa.
+- **Inny numer wydawniczy lub numer wydawcy**.
 
-**Do not create a new record** if your item has one of these differences. If your item has _more than one_ of these differences, you must decide if a new record is necessary.
+**Nie należy tworzyć nowego rekordu**, jeżeli opisywana pozycja wykazuje jedną z poniższych różnic. Jeżeli opisywana pozycja posiada _więcej niż jedną_ z poniższych różnic, należy zdecydować, czy nowy rekord jest konieczny.
 
-- Different statement of printing: For example, "Fifth printing"
-- Different printer or other manufacturer but same publisher
-- Different printing date but same publication date
-- Different publisher’s cover that does not provide evidence of a discrete publishing unit (for example, a change of color in publisher’s cloth)
-- Different kind of binding from the publisher
-- Different publisher’s advertisements or catalogs (unless they are integral to the publication)
-- Corrections made in the course of a single press run (stop-press corrections)
-- Presence or absence of an errata slip
+- Inna strefa oznaczenie druku: na przykład, „Piąty wydruk”
+- Inna drukarnia lub wytwórca, lecz ten sam wydawca
+- Inna data druku, lecz ta sama data wydania
+- Inna obwoluta wydawcy, która nie zawiera dowodów istnienia odrębnej jednostki wydawniczej (np. zmiana koloru materiału)
+- Inna oprawa wydawcy
+- Inne reklamy lub katalogi wydawcy (chyba, że stanowią integralną część wydania)
+- Poprawki dokonane w trakcie druku nakładu (poprawki dokonane w trakcie druku)
+- Obecność lub brak erraty
 
-These guidelines mean that a single record can be used to represent multiple impressions, states, and binding variants relating to a single edition or issue. In your holdings information, you can enter details about variants and information specific to your copy.
+Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakładów, statusów, watiantów opraw odnosząc się do jednego wydania lub nakładu. W danych dla egzemplarza, można wprowadzić szczegóły na temat wariantów i informacji identyfikujących dany egzemplarz.
 
-#### Examples
+#### Przykłady
 
-Example 1: You are looking at RISM ID number 1001031016: Beethoven, "Adelaide," op. 46, no date, Bonn, N. Simrock, text in German and French. Spelling error on title page: "à une vois [!] Seule".
+1. Druk o numerze RISM 1001031016: Beethoven, „Adelaide” op. 46, niedatowany, Bonn, N. Simrock, tekst w języku niemieckim i francuskim. Błąd w pisowni na stronie tytułowej: „à une vois [!] Seule”.
 
-1. Copy 1: Same publication information but spelling has been corrected. This alone would not warrant a new record, but there is an additional text language in Italian. **New record required** (different content/expansion). Result: 1001031017
+1. Egzemplarz 1: Ta sama informacja o wydaniu, lecz błąd w pisowni poprawiono. Sama ta okoliczność nie uzasadnia tworzenia nowego rekordu, lecz w egz. pojawia się dodatkowy tekst w języku włoskim. **Nowy rekord jest wymagany** (inna treść/rozszerzenie). Wynik: 1001031017
 
-2. Copy 2: As copy 1, but a price has been engraved on the title page. **Do not create a new record** (no evidence of discrete publishing unit). Add your holdings and mention the price in the holdings information.
+2. Egzemplarz 2: Sytuacja podobna jak w przypadku egz. 1, lecz na stronie tytułowej odbito cenę. **Nie należy tworzyć nowego rekordu** (brak dowodu istnienia odrębnego wydawnictwa/odrębnej jednostki wydawniczej). Dodaj egzemplarz i podaj informację o cenie w danych o egzemplarzu.
 
-3. Copy 3: As RISM ID number 1001031016 (but spelling has been corrected), but an additional publisher is named: "chez L. PLATTNER à ROTTERDAM." **New record required** (different publication status). Result: 1001031022
+3. Egzemplarz 3: Taki jak numer RISM 1001031016 (lecz poprawiono błąd w pisowni), ale podany jest dodatkowy wydawca: „chez L. PLATTNER à ROTTERDAM." **Nowy rekord jest wymagany** (inny status wydania). Wynik: 1001031022
 
-Example 2: You are looking at RISM ID number 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
+2. Druk o numerze RISM 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
 
-1. Copy 1: Same title but a label has been stuck over the publication information: Köln, P.J. Simrock. You can see that the label is covering up the Bonn/Köln information. **New record required** (different publication status/label indicates a different publisher). Result: 1001141767
+1. Egzemplarz 1: Ten sam tytuł, ale nalepka została naniesiona na strefę wydania: Köln, P.J. Simrock. Możesz zobaczyć, że etykieta przykrywa informacje o Bonn/Köln. **Nowy rekord jest wymagany** (inny status wydania: na oryginalnej strefie wydania, znajduje się informacja o nowym wydawcy). Wynik: 1001141767
 
-Example 3: You are looking at RISM 990024126: Gyrowetz, Symphonies, op. 9. The RISM record represents a set of multiple symphonies. Each symphony is available as a separate publication with separate plate numbers, issued as _livres_ 1, 2, and 3.
+3. Druk o numerze RISM 990024126: Gyrowetz, Symphonies, op. 9. The RISM record represents a set of multiple symphonies. Each symphony is available as a separate publication with separate plate numbers, issued as _livres_ 1, 2, and 3.
 
 1. Option 1, the quick solution: If your library only has one of the items in the set, **add your holdings** and in the field "Material held" note which symphony (livre) you have.
 2. Option 2, a better solution, but takes more time: **Notify the Editorial Center** about this record and we will split the record into 3, one record for each symphony. Then, add your holdings to the record for the symphony you have.
