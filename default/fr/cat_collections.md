@@ -19,7 +19,7 @@ Collection parent records may not contain collection parent records of manuscrip
 
 ### Composite volumes
 
-A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are other names for such volumes: binders' collections, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volumes, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
+A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are other names for such volumes: binders' collections, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volumes, recueils factices, Sammelband, tract volume. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume.
 
 There are two ways to indicate a composite volume. The first, and simplest, way is to catalog the items separately and give the items the same shelfmark; a bound-with note is also helpful. The second is to use the template for a composite volume record.
 
@@ -245,7 +245,7 @@ The usual rules apply when creating the parent record and the record for the mai
 
 **Subject heading (650)**: Enter three: Insertions, the genre of the insertion, and the genre of the larger work
 
-**Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
+**Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**. **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**.
 
 **General note (500)**: Any additional information can be added to make the relationship of the insert within the larger work (if known) clear.
 
