@@ -1,6 +1,6 @@
 
 <article class="notification is-danger is-light">
-    <p>A message for RISM contributors: The guidelines on this website are currently only available in English. Translations are in preparation and will be made available in due time. Consult Muscat for the guidelines in languages other than English. You will find the translations in the cataloging interface on the field-specific guidelines buttons.</p>
+    <p>A message for RISM contributors: The guidelines on this website are currently only available in English. Translations are in preparation and will be made available in due time. Consult Muscat for the guidelines in languages other than English. You will find the translations in the cataloging interface when you click the question mark for each field.</p>
 </article>  
 
 <article class="notification is-danger">
