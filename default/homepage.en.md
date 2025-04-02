@@ -1,6 +1,6 @@
 
 <article class="notification is-danger is-light">
-    <p>A message for RISM contributors: The guidelines on this website are currently only available in English. Translations are in preparation and will be made available in due time.</p>
+    <p>A message for RISM contributors: The guidelines on this website are currently only available in English. Translations are in preparation and will be made available in due time. Consult Muscat for the guidelines in languages other than English.</p>
 </article>
 
 Welcome to the website of the RISM Cataloging Guidelines, the rules and procedures for describing historical musical sources for the Répertoire International des Sources Musicales (RISM) - International Inventory of Musical Sources.  
