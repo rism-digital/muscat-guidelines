@@ -1,10 +1,10 @@
 ### Ansetzungsform (100)
 
-Das Feld **Ansetzungsform** ist der Name der Person in ihrer normierten Form. The heading is made up of the name in 100 $a, the years in 100 $d, and words in 100 $c.
+Das Feld **Ansetzungsform** ist der Name der Person in ihrer normierten Form. Die Ansetzungsform besteht aus dem Namen in 100 $a, den Lebensdaten in 100 $d und Worten in 100 $c.
 
 #### Ansetzungsform (100 $a)
 
-Names are entered in inverted order in the form Surname Forename, with a comma separating the elements for names. If you only have initials or an artificially constructed name (such as a designation identifying a copyist), enter in uninverted order. Names of members of the nobility are entered in the local usual form.
+Namen werden in umgekehrter Reihenfolge in der Form Nachname Vorname eingegeben, wobei ein Komma die Namensteile trennt. Wenn Sie nur Initialen oder einen künstlich konstruierten Namen haben (z. B. eine Bezeichnung, die einen Kopisten identifiziert), geben Sie diese in unveränderter Reihenfolge ein. Die Namen von Adelsmitgliedern werden in der lokal üblichen Form eingegeben.
 
 Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in transliterierter Form eingeben. Die Originalform in nicht-lateinischer Schrift sowie alternative Transliterationen können im Feld **Namensvarianten (400)** eingegeben werden.
 
@@ -16,7 +16,7 @@ Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in translite
 - Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
 - Aylesford, Heneage Finch, 3rd Earl of
 
-#### Titles and words associated with a name (100 $c)
+#### Titel und Wörter, die mit einem Namen verknüpft sind (100 $c)
 
 Enter qualifying information to distinguish people with the same name. If there are multiple people with the same heading (100 $a and 100 $d), a term must be entered here to differenciate them. Use terms from the field "Profession or function (550)" in your cataloging language.
 
