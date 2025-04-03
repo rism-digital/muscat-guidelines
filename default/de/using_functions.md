@@ -16,7 +16,7 @@ Die Seite **Quellen** ist die Hauptseite, über die Sie auf die Datensätze für
 
 Die Seite **Normdaten** führt Sie zu allen Normdateien, kontrolliertem Vokabular und Indizes in Muscat.
 
-Die **Richtlinien**-Seite zeigt alle Richtlinien auf einer Seite an.
+The **Guidelines** page directs to the RISM Cataloging Guidelines website, [guidelines.rism.info](https://guidelines.rism.info/index.html){:blank}.
 
 ### Abschnitte und Aktionen im Bearbeitungsmodus
 

@@ -16,7 +16,7 @@ The **Sources** page is the main cataloging page in Muscat and contains the all 
 
 **Authorities** takes you to all authority files, controlled vocabulary, and indexes in Muscat.
 
-The **Guidelines** page displays all the guidelines on one page.
+The **Guidelines** page directs to the RISM Cataloging Guidelines website, [guidelines.rism.info](https://guidelines.rism.info/index.html){:blank}.
 
 ### Sections and actions in the editing mode
 
