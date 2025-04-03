@@ -18,7 +18,7 @@ Wählen Sie die Erfassungstiefe aus.
 - **Standard**: Der Datensatz enthält umfassendere Informationen als ein Kurzkatalogisat, enthält aber häufig keine Incipits. Oft gibt es Felder, die nicht ausgefüllt wurden und in einer späteren Phase der Datensatzerweiterung hinzugefügt werden könnten.
 - **Vollkatalogisat**: Der Datensatz enthält Informationen in fast allen Feldern, die für die betreffende Quelle ausgefüllt werden können. Musikincipits sind enthalten.
 
-Exportnotiz: 980 $b wird als 599 $b exportiert.
+_MARC Exportnotiz_: 980 $b wird als 599 $b exportiert.
 
 #### Autopsie (980 $c)
 
