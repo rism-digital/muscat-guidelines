@@ -32,7 +32,7 @@ Verwechseln Sie zusammengesetzte Bände nicht mit Sammlungen; siehe "Sammlungen"
 
 Wie bei den übergeordneten Datensätzen einer Sammlung sollten die Angaben im Datensatz des Konvoluts für alle Bestandteile des Bandes zutreffen. Denken Sie daran, dass detaillierte Informationen über die Werke in die jeweiligen bibliografischen Datensätze gehören. Erstellen Sie keine separaten Datensätze für mehrere zusammengesetzte Bände, die zusammengehören, wie z. B. ein Satz von Stimmbüchern, die nach Stimmtyp gebunden sind; diese sollten im selben Datensatz beschrieben werden. In vielen Fällen werden Sie eine Vielzahl von Feldern leer lassen.
 
-Bei der Beschreibung eines Konvoluts, das die Verlinkungen herstellt, ist Folgendes zu beachten. As an example of a composite volume, see RISM ID no. 1001077677, a bound collection of 10 piano pieces by Chopin that were published ca. 1846-1857.
+Bei der Beschreibung eines Konvoluts, das die Verlinkungen herstellt, ist Folgendes zu beachten. Ein Beispiel für einen Konvolutband ist RISM ID no. 1001077677, eine gebundene Sammlung von 10 Klavierstücken von Chopin, die um 1846-1857 veröffentlicht wurden.
 
 1. Erstellen Sie zunächst den Datensatz für das Konvolut, speichern Sie ihn und notieren Sie die RISM-Nummer.
 2. Bei Handschriften: Gehen Sie im Bearbeitungsmodus des Datensatzes für Ihr Manuskript in das Feld **Übergeordneter Eintrag (773)**. Klicken Sie auf die zweite Schaltfläche, um nach dem Konvolut zu suchen.
