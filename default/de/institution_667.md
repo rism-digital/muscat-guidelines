@@ -1,11 +1,11 @@
-### Internal note (667; ISDIAH 5.6.9)
+### Interne Bemerkungen (667; ISDIAH 5.6.9)
 
-The field **Internal note** is used for information not intended for public display. Internal notes are not published in the public RISM catalogs or available in the RISM open data.
+Im Feld **Interne Bermekungen** werden allgemeine Angaben gemacht, die nicht zur Veröffentlichung bestimmt sind. Interne Bemerkungen werden nicht in öffentliche Kataloge exportiert oder in den LOD RISM-Daten zur Verfügung gestellt.
 
 
-#### Internal note (667 $a)
+#### Interne Bemerkungen (667 $a)
 
-Enter local notes for internal use, including for use within your own working group. Any language may be entered here. Internal notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.
+Geben Sie Notizen für den internen Gebrauch ein, auch für die Verwendung innerhalb Ihrer eigenen Arbeitsgruppe. Hier kann jede Sprache verwendet werden. Interne Notizen können für Bemerkungen aller Art verwendet werden, wie Fragen, Kommentare oder Nachforschungen. Löschen Sie Notizen, nachdem sie ihren Zweck erfüllt haben. It is best practice to sign your note using your initials and the date.
 
 For example, the names of persons responsible for creating and/or revising the description may be entered here. For example, the names of people responsible for creating and/or revising the description may be entered here. Furthermore, this field documents additional information relating to the creation of and changes to the description.
 
