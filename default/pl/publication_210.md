@@ -33,6 +33,7 @@ Short titles for **general secondary literature** are created as follows:
   → WollnyS 2001
 - Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999
 - Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincónV 2009
@@ -99,7 +100,7 @@ A catalog that is published as a part of a larger item, such as an appendix in a
 
 ###### Examples
 
-- A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
+- A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
 - Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
   → KnaA
@@ -122,7 +123,7 @@ Use the established abbreviations for catalogs of works if they exist (BWV, KV, 
 
 ##### Special cases
 
-Publications that contain the term "thematic catalog" in their titles are usually catalogs of a composer's works but may occasionally treat a different area or not be extensive in their scope. If it’s the former, give it a short title as for a catalog of works. If it’s the latter, give it a short title as for general secondary literature. In short, anything that is not a catalog of a composer's works is assigned short title as for general secondary literature.
+If it’s the former, give it a short title as for a catalog of works. Publications that contain the term "thematic catalog" in their titles are usually catalogs of a composer's works but may occasionally treat a different area or not be extensive in their scope. If it’s the latter, give it a short title as for general secondary literature. In short, anything that is not a catalog of a composer's works is assigned short title as for general secondary literature.
 
 ###### Examples
 
