@@ -30,7 +30,7 @@ Enter a brief description that explains why the URL is relevant to the source be
 
 Select from the following:
 
-- The preference is to link to institutional repositories but if one is not available then links to external repositories such as the Internet Archive or IMSLP are allowed. **Digitized source**: The link is to an external website which is a digitized copy of the resource being described. If a link to a digitized source is included in a record for a collection, it is not necessary to duplicate the same link in the individual entries.
+- The preference is to link to institutional repositories but if one is not available then links to external repositories such as the Internet Archive or IMSLP are allowed. The preference is to link to institutional repositories but if one is not available then links to external repositories such as the Internet Archive or IMSLP are allowed. If a link to a digitized source is included in a record for a collection, it is not necessary to duplicate the same link in the individual entries.
  - Example  
    [https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD\_A15/](https://mirador.acdh.oeaw.ac.at/musikarchivspitz/A-SPD_A15/)
 - **IIIF manifest (digitized source)** and **IIIF manifest (other)**: The linked object is a machine-readable JSON object. IIIF links should only be to the manifest, not to a digital surrogate. IIIF manifests do not display the image but rather consist of machine-readable text that must be processed by an internal document viewer such as diva.js before it displays a meaningful image. When viewing the manifest in a web browser, it will start with the curly bracket {. The document is embedded in the web page directly. In many cases, "manifest," "iiif," or similar appears in the link.   
