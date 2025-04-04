@@ -23,7 +23,7 @@ If no further details of the part designations are available, write the English 
 
 Special cases:
 
-- Figured bass: If you have a figured bass, enter the instrument followed by **.fig**, such as **b.fig**, **bc.fig**, **org.fig**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
+- Example: **tr 1 and 2** If a part contains the music for multiple instruments, use **and**.
 - Instrument not on the RISM instrument abbreviation list: write out the instrument in full.
 - Unusual instruments, designations, or tunings (such as **cor in D\|x**) may be written out in full; however, in the field **Total scoring (594)**, try to standardize the instrument to RISM's instrument abbreviation list if possible (such as **cor in E\|b**).
 - Example: **tr 1 and 2** If a part contains the music for multiple instruments, use **and**.
@@ -45,7 +45,7 @@ Enter the number of folios, pages, leaves, or gatherings. Use only one method of
 
 Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
 
-You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**. 5-6</strong> or **f. 4r-4v**.
+You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**. 5-6</strong> or **f. 4r-4v**. 4r-4v</strong>.
 
 ##### Examples
 There are two different ways list the parts.
