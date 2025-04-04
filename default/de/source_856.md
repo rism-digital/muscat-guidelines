@@ -4,7 +4,7 @@ Das Feld **Externe Ressource** wird verwendet, um auf eine externe Ressource zu 
 
 #### Elektronische Lokalisierung und Zugriff (856 $u)
 
-Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**. Immer Permalinks verwenden.
+Geben Sie die URL ein. Geben Sie nur eine URL pro Feld ein. Alle URLs müssen mit **http** oder **https** beginnen. Immer Permalinks verwenden.
 
 #### Für das Publikum bestimmte Fussnote (856 $z)
 
@@ -67,7 +67,7 @@ Andere Arten von externen Ressourcen können Folgende sein. Stellen Sie sicher, 
 - **Webseiten**  
   Umfasst Projekt-Webseiten, Webseiten externer Geldgeber oder andere relevante Webseiten.
 - **Andere RISM-Datensätze**  
-  Verlinken Sie nur dann auf einen anderen RISM-Datensatz, wenn der Datensatz einen direkten Bezug zu der beschriebenen Quelle hat. Verwenden Sie nur Permalinks. Dem Benutzer sollte klar sein, warum der Datensatz für die Quelle relevant ist. Benennen Sie mindestens die besitzende Bibliothek, die Signatur und die RISM ID Nummer in einer Bemerkung. Manchmal kann eine Verbindung zu einer anderen Quelle besser in einer allgemeinen **Bemerkung (500)**.   
+  Verlinken Sie nur dann auf einen anderen RISM-Datensatz, wenn der Datensatz einen direkten Bezug zu der beschriebenen Quelle hat. Verwenden Sie nur Permalinks. Dem Benutzer sollte klar sein, warum der Datensatz für die Quelle relevant ist. Nennen Sie mindestens die besitzende Bibliothek, die Signatur und die RISM ID Nummer in einer Bemerkung. Manchmal kann eine Verbindung zu einer anderen Quelle besser in einer allgemeinen **Bemerkung (500)** erklärt werden.   
   Wenn Sie an anderer Stelle in Ihrem Datensatz auf andere RISM-Datensätze verweisen, ist es nicht erforderlich, in diesem Feld darauf zu verweisen.  
   Es ist nicht notwendig, hier auf alle übereinstimmenden Quellen in RISM zu verweisen, da die Zahl der Quellen in Muscat täglich wächst.
 - **Verweise auf relevante Quellen in anderen Bibliotheken, nicht in RISM**  
