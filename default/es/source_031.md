@@ -70,7 +70,7 @@ Los íncipits literarios se presentan de forma estandarizada. Registre el íncip
 
 Do not put portions of the text in square brackets or supply missing words. Omita los signos de puntuación y las repeticiones del texto.
 
-Las tildes deben usarse sólo si aparecen en el diccionario o si son gramaticalmente correctas. Escriba los números de principio del texto como palabras. Si el íncipit literario se usa como Título Uniforme (240), asegúrese de que el largo y la ortografía se correspondan de modo exacto. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter.
+Las tildes deben usarse sólo si aparecen en el diccionario o si son gramaticalmente correctas. Escriba los números de principio del texto como palabras. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter.
 
 Omita el texto por completo si no puede leerlo y añada una nota que diga “Texto ilegible” o algo similar.
 
@@ -252,7 +252,7 @@ Do not forget the rhythmic value within the bracket!
 
 ###### 11.1. Repeated figures
 
-! ! ! Figuras repetidas</strong>  
+! ! ! ! Figuras repetidas</strong>  
 ! = inicio y fin de un pasaje  
 f = repetir la indicación  
 El pasaje será repetido cada vez que aparezca  **f**  después del segundo **!**. This is only possible within a bar.
