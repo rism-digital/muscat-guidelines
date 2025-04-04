@@ -12,7 +12,7 @@ Geben Sie die Seitenzahl ein, auf der der Name gefunden wurde. Für Online-Publi
 
 ##### Beispiele
 - p. 42
-- MONIKA SCHWARZ-DANUSER, Art. Mendelssohn, Fanny (Caecilie), in: MGG Online, hrsg. MONIKA SCHWARZ-DANUSER, Art. Mendelssohn, Fanny (Caecilie), in: MGG Online, hrsg. von Laurenz Lütteken, Kassel, Stuttgart, New York: 2016ff., zuerst veröffentlicht 2004, online veröffentlicht 2016
+- MONIKA SCHWARZ-DANUSER, Art. Mendelssohn, Fanny (Caecilie), in: MGG Online, hrsg. von Laurenz Lütteken, Kassel, Stuttgart, New York: 2016ff., zuerst veröffentlicht 2004, online veröffentlicht 2016
 
 #### Vorhandene Informationen (670 $b)
 
@@ -22,7 +22,7 @@ Geben Sie den in der Sekundärliteratur angegebenen Kurztitel ein. Fügen Sie ge
 
 ##### Beispiele
 
-- Bach, Johann Christian II. (Giovanni) [bapt. (Giovanni) [bapt. 07.09.1735-1782]
+- Bach, Johann Christian II. (Giovanni) [bapt.   07.09.1735-1782]
 - vide 6, 834
 - 0
 
