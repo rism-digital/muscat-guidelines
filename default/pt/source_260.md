@@ -2,7 +2,7 @@
 
 The field **Publishing, printing, and production information** is for information relating to the publication, printing, distribution, issue, release, or production for all types of sources. In all subfields here, indicate editorial additions and completions with square brackets. Place a question mark after an uncertain piece of information.
 
-If you can read the original publishing information or if the original publishing information is otherwise available, you may also enter it by repeating the field. For printed music: If the original publishing information is covered by a label showing later information or otherwise crossed out or altered (including stamps), and new information is provided in its place, enter the new information in this field. An explanatory note in the field **General note (500)** may be necessary to clarify the presence of a label or multiple imprints. If a label or stamp is somewhere else on the page, record it in the holdings information.
+For printed music: If the original publishing information is covered by a label showing later information or otherwise crossed out or altered (including stamps), and new information is provided in its place, enter the new information in this field. If you can read the original publishing information or if the original publishing information is otherwise available, you may also enter it by repeating the field. An explanatory note in the field **General note (500)** may be necessary to clarify the presence of a label or multiple imprints. If a label or stamp is somewhere else on the page, record it in the holdings information.
 
 #### Place (260 $a)
 
@@ -39,7 +39,7 @@ Other dates may be indicated as on the source. Use question marks to indicate un
  - 1856 Christmas Day
  - 1757-01-11
  - 1782-03-27-1784-05-07
- - ca. ca. 1760
+ - ca. ca. ca. 1760
  - before 1802
  - after 1653
  - Easter 1744
