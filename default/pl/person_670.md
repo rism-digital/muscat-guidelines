@@ -12,7 +12,7 @@ Enter the page number where the name is found. For online publications, enter th
 
 ##### Examples
 - p. 42
-- MONIKA SCHWARZ-DANUSER, Art. Mendelssohn, Fanny (Caecilie), in: MGG Online, hrsg. von Laurenz Lütteken, Kassel, Stuttgart, New York: 2016ff., zuerst veröffentlicht 2004, online veröffentlicht 2016
+- MONIKA SCHWARZ-DANUSER, Art. MONIKA SCHWARZ-DANUSER, Art. Mendelssohn, Fanny (Caecilie), in: MGG Online, hrsg. von Laurenz Lütteken, Kassel, Stuttgart, New York: 2016ff., zuerst veröffentlicht 2004, online veröffentlicht 2016
 
 #### Information found (670 $b)
 
