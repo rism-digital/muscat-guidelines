@@ -28,7 +28,7 @@ Fields in a Muscat record are grouped into sections. By clicking on the section 
 
 **Show all sections** lets you view all sections of the record on one page.
 
-Click **Show all sections** again to return to the editing mode and any unsaved changes. El botón  **Mostrar historial de modificaciones**  permite ver, restaurar y borrar versiones previas del registro.
+El botón  **Mostrar historial de modificaciones**  permite ver, restaurar y borrar versiones previas del registro. Click **Show all sections** again to return to the editing mode and any unsaved changes.
 
 **Validate** checks for errors in the record that prevent saving.
 
