@@ -1,6 +1,6 @@
 ### Verwandte Quelle (787)
 
-Dieses Feld **Verwandte Quelle** wird verwendet, um eine Beziehung zwischen der vorliegenden Quelle und einer anderen Quelle in Muscat anzuzeigen. All three subfields in this section must be filled out.
+Dieses Feld **Verwandte Quelle** wird verwendet, um eine Beziehung zwischen der vorliegenden Quelle und einer anderen Quelle in Muscat anzuzeigen. Alle drei Unterfelder in diesem Abschnitt müssen ausgefüllt werden.
 
 Wenn Sie eine Beziehung zu einer anderen Quelle angeben, erscheint ein Link in der Vollanzeige des Datensatzes. Wenn beide Quellen zu Ihrer Bibliothek gehören, haben Sie die Möglichkeit, die Beziehung in einem Datensatz oder in beiden anzugeben.
 
@@ -11,7 +11,7 @@ Wählen Sie einen Begriff, der die Beziehung zwischen der vorliegenden Quelle un
 - **Zusätzliches Material** [P60198]: Die verwandte Quelle stellt Material dar, das die vorliegende Quelle ergänzt. Beispiele sind: zusätzliche Stimmen, Instrumentalstimmen, Orgelstimmen, Partitur, Gesangspartitur, gedruckte Stimmen usw.
 - **Bearbeitung von** [P60242]: Bei der vorliegenden Quelle handelt es sich um ein Arrangement oder eine andere Ableitung aus der entsprechenden Quelle. Beispiele hierfür sind: Eine Kontrafaktur aus der verwandten Quelle. Eine Choralbearbeitung der verwandten Quelle, wie z. B. ein gedrucktes Gesangbuch.
 - **Abschrift von** [P60311]: Die vorliegende Quelle wurde von der entsprechenden Quelle, in der Regel einer gedruckten Ausgabe, kopiert. Siehe auch **Querverweise zu RISM A/I und RISM B (596)**.
-- **Korrelierte Quelle** [P60191]: Die verwandte Quelle ist für die vorliegenden Quelle unmittelbar relevant. Beispiele hierfür sind:  Eine übereinstimmende Quelle (versuchen Sie jedoch nicht, alle möglichen Konkordanzen zu verknüpfen). Die Quelle ist nützlich, um den Komponisten zu identifizieren. Eine andere Fassung desselben Stücks (doppelchörige Fassung, englische Fassung, Langfassung, SATB-Fassung, Fassung für Sopranduett usw.).
+- **Korrelierte Quelle** [P60191]: Die verwandte Quelle ist für die vorliegende Quelle unmittelbar relevant. Beispiele hierfür sind:  Eine übereinstimmende Quelle (versuchen Sie jedoch nicht, alle möglichen Konkordanzen zu verknüpfen). Die Quelle ist nützlich, um den Komponisten zu identifizieren. Eine andere Fassung desselben Stücks (doppelchörige Fassung, englische Fassung, Langfassung, SATB-Fassung, Fassung für Sopranduett usw.).
 - **Einfügen in** [P60194]: Bei der vorliegenden Quelle handelt es sich um ein Stück, das in ein größeres Werk eingefügt wurde, wie z. B. eine Einlagearie in einer Oper.
 - **Veröffentlicht in** [P60195]: Die betreffende Quelle wurde in der entsprechenden Quelle veröffentlicht.
 
