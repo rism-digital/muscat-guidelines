@@ -1,5 +1,5 @@
 
-Diese Website stellt die von RISM entwickelten internationalen Richtlinien vor, um musikalische Quellen zu dokumentieren und zu beschreiben, wie sie für das Katalogisierungsprogramm Muscat angewendet werden. Muscat wird von den RISM-Arbeitsgruppen und -mitarbeitern genutzt und steht allen Interessierten kostenlos zur Verfügung. This website presents the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. Wenn Sie an einer Mitarbeit interessiert sind, wenden Sie sich bitte an die \[RISM-Zentralredaktion\](https://rism.info/editorial-center.html){:blank}.
+Diese Website stellt die von RISM entwickelten internationalen Richtlinien vor, um musikalische Quellen zu dokumentieren und zu beschreiben, wie sie für das Katalogisierungsprogramm Muscat angewendet werden. Muscat wird von den RISM-Arbeitsgruppen und -mitarbeitern genutzt und steht allen Interessierten kostenlos zur Verfügung. Es ermöglicht direkten Zugriff auf die RISM-Datenbank, die von der Staatsbibliothek zu Berlin, Preußischer Kulturbesitz gehostet wird. Wenn Sie an einer Mitarbeit interessiert sind, wenden Sie sich bitte an die \[RISM-Zentralredaktion\](https://rism.info/editorial-center.html){:blank}.
 
 Muscat wird gemeinsam von den beiden RISM-Zentren, der RISM-Zentralredaktion und dem \[RISM Digital Center\](https://rism.digital/){:blank}, entwickelt. Es basiert auf einem gemeinsam von RISM Schweiz und RISM UK entwickelten Programm.
 
@@ -19,7 +19,7 @@ Die Richtlinien werden von der RISM-Zentralredaktion in Frankfurt am Main, Deuts
 
 Falls etwas unklar ist, zögern Sie nicht uns zu kontaktieren. Derzeit sind nur die englischen Richtlinien auf dieser Website verfügbar, weitere Übersetzungen werden zu gegebener Zeit folgen.
 
-Wir möchten uns auch bei unseren Übersetzern bedanken, die in der Vergangenheit und in der Gegenwart tätig waren, um Muscat unseren Kollegen weltweit leichter zugänglich machen.
+Wir möchten uns auch bei unseren Übersetzern bedanken, die in der Vergangenheit und in der Gegenwart tätig waren, um Muscat unseren Kollegen weltweit leichter zugänglich zu machen.
  - Katalanisch: Ferran Jorba
  - Italienisch: Claudio Bacciagaluppi, Rodolfo Zitellini
  - Französisch: Claudio Bacciagaluppi, Rodolfo Zitellini, Laurent Pugin
