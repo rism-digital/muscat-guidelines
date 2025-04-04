@@ -198,7 +198,7 @@ Ingrese los grupos de instrumentos en el siguiente orden:
 - Instrumentos de cuerda pulsada
 - Bajo continuo
 
-Indique un número desconocido de partes con **(X)**. Also use **V** to group together several different vocal parts, such as **V (8)**. Utilice **V** para indicar una parte vocal desconocida e **i** para remitirse a un instrumento desconocido. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**.
+Utilice **V** para indicar una parte vocal desconocida e **i** para remitirse a un instrumento desconocido. Indique un número desconocido de partes con **(X)**. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Also use **V** to group together several different vocal parts, such as **V (8)**.
 
 Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 
