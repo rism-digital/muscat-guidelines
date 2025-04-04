@@ -1,6 +1,6 @@
 ### Interne Bemerkungen (667; ISDIAH 5.6.9)
 
-Im Feld **Interne Bermekungen** werden allgemeine Angaben gemacht, die nicht zur Veröffentlichung bestimmt sind. Interne Bemerkungen werden nicht in öffentliche Kataloge exportiert oder in den LOD RISM-Daten zur Verfügung gestellt.
+Im Feld **Interne Bemerkungen** werden allgemeine Angaben gemacht, die nicht zur Veröffentlichung bestimmt sind. Interne Bemerkungen werden nicht in öffentliche Kataloge exportiert oder in den LOD RISM-Daten zur Verfügung gestellt.
 
 
 #### Interne Bemerkungen (667 $a)
