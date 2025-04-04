@@ -12,9 +12,9 @@ You can enter in each field:
 - Multiple words:  
   either without quotations mark: **lass noch**   
   or with quotation marks: **"lass noch"**
-- Truncation with ? **B?cher** will find Bucher and Bacher.   
-  **\***: The asterisk can be used to truncate or replace any number of letters. **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher. or \*  
-  **?**: The question mark replaces exactly one letter.
+- Truncation with ? **B\*cher** will find Bucher and Bacher but also Boucher and Bötticher. or \*  
+  **?**: The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
+  **\***: The asterisk can be used to truncate or replace any number of letters.
 - AND, OR, NOT, ( ): Take advantage of Boolean searching. Use parenthesis to group your search. Examples:
     - Composer contains: **(Bach AND Johann) NOT Sebastian**  
       To find Johann Michael Bach and Johann Christian Bach but not Johann Sebastian Bach
