@@ -6,13 +6,13 @@ Im Feld **Interne Bermekungen**werden allgemeine Angaben gemacht, die nicht zur 
 
 Geben Sie lokale Notizen für den internen Gebrauch ein, auch für die Verwendung innerhalb Ihrer eigenen Arbeitsgruppe. Hier können Sie jede Sprache eingeben. Interne Notizen können für Bemerkungen aller Art verwendet werden, wie Fragen, Kommentare oder Recherchen. Löschen Sie Notizen, nachdem sie ihren Zweck erfüllt haben. Kennzeichnen Sie Ihre Notizen mit Ihren Initialen und einem Datum.
 
-**Obsolete procedures**: Older RISM cataloging guidelines contained codes and other standardized terminology to describe the nature of the comment:
-- 005 From head office (Zentralredaktion)
-- 006 To head office (Zentralredaktion)
-- 007 Other
-- 090 Combined pieces
-- 791 New no.
+**Altdaten**: Ältere RISM-Katalogrichtlinien enthielten Codes und andere standardisierte Terminologien, um die Art des Kommentars zu beschreiben:
+- 005 Von der Zentralredaktion
+- 006 An die Zentralredaktion
+- 007 Weitere
+- 090 Kombinierte Angaben
+- 791 Neue Nr.
 - 792 Card index no.
-- 942 Date of composition
+- 942 Kompositionsdatum
 
-This was typically followed by abbreviations indicating the editor.
+Es folgten in der Regel Abkürzungen, die auf den Katalogisierer hinweisen.

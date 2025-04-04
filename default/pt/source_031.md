@@ -48,7 +48,7 @@ Enter the title of the movement and tempo or similar indications, if specified, 
 
 #### Voice/instrument (031 $m)
 
-Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Enter **i** for an unknown instrumental part. Indicate the tuning of an instrument in the **General note** field. If the instrument is a transposing instrument, you may enter it at notated pitch or at sounding pitch. In the field **General note (031 $q)**, indicate which option you used.
+Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Notate transposing instruments at sounding pitch. Enter **i** for an unknown instrumental part. Indicate the tuning of an instrument in the **General note** field. Indicate the tuning of an instrument in the **General note** field. If the instrument is a transposing instrument, you may enter it at notated pitch or at sounding pitch. In the field **General note (031 $q)**, indicate which option you used.
 
 ##### Examples
 
@@ -70,7 +70,7 @@ Text incipits are given in standardized form. Enter the text incipit using moder
 
 Do not put portions of the text in square brackets or supply missing words. Omit punctuation marks and repetitions in the text.
 
-Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at the beginnings of texts as words. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. If the text incipit is used as the standardized title (240), make sure that the length and spelling agree exactly.
+Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at the beginnings of texts as words. If the text incipit is used as the standardized title (240), make sure that the length and spelling agree exactly. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter.
 
 Omit the text entirely if you cannot read it and add a note saying "Text illegible" or similar.
 

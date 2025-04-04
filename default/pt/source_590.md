@@ -45,7 +45,7 @@ Enter the number of folios, pages, leaves, or gatherings. Use only one method of
 
 Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
 
-You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**. 5-6</strong> or **f. 4r-4v**.
+You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**. 5-6</strong> or **f. 4r-4v**. 4r-4v</strong>.
 
 ##### Examples
 There are two different ways list the parts.
@@ -79,9 +79,9 @@ There are two different ways list the parts.
 
 Additional information (brief remarks) about such things as the number or incompleteness of parts can be added in parentheses directly after the part designation. Use the following conventions:
 
-- If you have multiple copies of the same part, write the number and then include the extent for each part. Example: **S (2x)** Example: **S (2x)**
+- If you have multiple copies of the same part, write the number and then include the extent for each part. Example: **S (2x)** Example: **S (2x)** Example: **S (2x)**
 - **(= bc)**: part is a basso continuo part
 - **(incpl)**: part is incomplete
 - Use a **/** (slash) to join two elements: **bc (2x/incpl)**
-- If a part contains the music for multiple instruments, use **and**. Example: **tr 1 and 2**
+- Example: **tr 1 and 2** If a part contains the music for multiple instruments, use **and**. Example: **tr 1 and 2**
 - You can include the tuning: **cl 1, 2 in B\|b**  

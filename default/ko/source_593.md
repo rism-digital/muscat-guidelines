@@ -78,7 +78,7 @@ Use **Notated music** as a **Content type** for documents that can be considered
 
 If your source is a mechanical reproduction (such as a photocopy) of a manuscript, follow these steps:
 
-3\. Select an appropriate printing technique from **Special production technique (340 $d)**, such as **Typescript** for typewritten items or **Computer printout** for computer-generated materials.
+3\. Add an explanatory note in the field **General note (500)**.
 
 2\. Select the type of reproduction in the field  **Special production technique (340 $d)**.
 

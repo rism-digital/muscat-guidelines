@@ -19,7 +19,7 @@ La scheda principale (scheda madre) di una raccolta non può contenere un'altra 
 
 ### Catalogare volumi compositi
 
-Un **volume composito** consiste di oggetti creati separatamente e rilegati insieme più tardi, solitamente da un possessore o da un'istituzione. Volumi di questo tipo si possono anche chiamare "binders' collection", "binders' volume", "bound sheet music", "bound-with", "collectors' volume", "factitious volume", "nonce volume", "tract volume" (EN), "recueil factice" (FR) o "Sammelband" (DE). Nei volumi compositi si trovano rilegate insieme sia più singole edizioni a stampa, sia edizioni a stampa e manoscritti.
+Un **volume composito** consiste di oggetti creati separatamente e rilegati insieme più tardi, solitamente da un possessore o da un'istituzione. Volumi di questo tipo si possono anche chiamare "binders' collection", "binders' volume", "bound sheet music", "bound-with", "collectors' volume", "factitious volume", "nonce volume", "tract volume" (EN), "recueil factice" (FR) o "Sammelband" (DE). There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume.
 
 Vi sono due maniere di catalogare un volume composito. La prima, e la più semplice, è di catalogare separatamente le diverse fonti e indicare per tutte la stessa segnatura; una nota "rilegato con" è qui opportuna. La seconda è di usare il template della scheda per i volumi compositi.
 
@@ -53,7 +53,7 @@ Inserisci il compositore della musica originale.
 
 Utilizza il titolo uniforme della composizione originale. Puoi aggiungere **Estratti**. Non utilizzare **Arrangiamento**.
 
-- Il Bellerofonte. Excerpts
+- Il Bellerofonte. Estratti
 
 **Titolo uniforme alternativo (730)**
 
@@ -61,9 +61,9 @@ Se vi è un nuovo, diverso titolo uniforme per il brano in esame, puoi inserirlo
 
 **Soggetto (650)**
 
-Inserisci almeno tre soggetti (o più se necessario), in quest'ordine:  
-Contrafacta  
-Genere attuale  
+Inserisci almeno tre soggetti (o più se necessario), in quest'ordine:\
+Contrafacta\
+Genere attuale\
 Genere originale
 
 - Contrafacta
@@ -78,8 +78,8 @@ Aggiungi una breve descrizione in inglese che spiega la situazione a beneficio d
 
 **Codice lingua (041)**
 
-Riempi entrambi i sottocampi:  
-Lingua del testo cantato (041 $a): Il testo attuale della fonte in esame   
+Riempi entrambi i sottocampi:\
+Lingua del testo cantato (041 $a): Il testo attuale della fonte in esame\
 Lingua del testo originale (041 $h): La lingua della composizione originale
 
 - Lingua del testo cantato: Latino
@@ -87,8 +87,8 @@ Lingua del testo originale (041 $h): La lingua della composizione originale
 
 **Incipit testuale (031 $t)**
 
-Inserisci due incipit testuali (usa il segno + per aggiungere una nuova riga).  
-L'incipit testuale del testo attuale  
+Inserisci due incipit testuali (usa il segno + per aggiungere una nuova riga).\
+L'incipit testuale del testo attuale\
 L'incipit testuale del testo originale, se questo è noto, tra parentesi quadre.
 
 - Alma redemptoris mater, quae pervia caeli
@@ -171,7 +171,7 @@ Aggiungi una nota soltanto se relativa ad esecuzioni dell'opera compilativa in q
 
 452505748: Un'opera-pasticcio consistente di tre atti di tre diversi compositori
 
-### Parodie
+### Parodies
 
 Una parodia è una composizione basata su materiale preesistente che risulta in una opera nuova. Nel XIX secolo, il termine acquisisce una connotazione satirica.
 
@@ -255,7 +255,7 @@ It is not uncommon for manuscript and printed items to be found together in the 
 
 Cerca sempre di catalogare il materiale stampato in una scheda differente, perché è possibile che altre biblioteche abbiano copie della stessa edizione. Crea una notizia per l'oggetto a stampa, aggiungi le tue informazioni di possesso, e crea un'altra notizia per il materiale manoscritto. Usa il campo **Fonte correlata (787)** per rimandare da una scheda all'altra.
 
- Se non è possibile creare una notizia per il materiale stampato, procedi come segue: Cataloga il materiale utilizzando il modello per i manoscritti. Nella sezione descrizione del materiale, descrivi i materiali manoscritti. Aggiungi un ulteriore gruppo di materiali e descrivi i materiali stampati.
+Se non è possibile creare una notizia per il materiale stampato, procedi come segue: Cataloga il materiale utilizzando il modello per i manoscritti. Nella sezione descrizione del materiale, descrivi i materiali manoscritti. Aggiungi un ulteriore gruppo di materiali e descrivi i materiali stampati.
 
 ### Musica in periodici
 
@@ -271,7 +271,7 @@ Un'**opera singola** può essere appropriata se la composizione è compresa come
 
 ##### Esempi:
 
-991018149: "The Pantheon" pubblicato su _The Lady's Magazine_, Agosto 1784  
+991018149: "The Pantheon" pubblicato su _The Lady's Magazine_, Agosto 1784\
 990042111: "L'amour folâtrant l'autre jour" pubblicato in _Nouveau Mercure galant_, maggio 1679
 
 ### Musica in pubblicazioni non musicali
@@ -280,11 +280,11 @@ RISM includes music found in printed publications that are not primarily music d
 
 ##### Esempio:
 
-990026614: 3 canzoni di John Isaac Hawkins pubblicate nel _Discourse introductory to a course of lectures on the science of nature_ di Charles Willson Peale (1800).  
-**Compositore/Autore (100)**: Il compositore della musica  
-**Nome aggiuntivo di persona (700)**: L'autore del libro, con l'indicatore **Altra funzione**  
-**Titolo diplomatico (245)**: Il titolo del libro  
-**Titolo uniforme (240)**: Un titolo uniforme secondo le regole RISM, ad esempio **3 Songs**  
+990026614: 3 canzoni di John Isaac Hawkins pubblicate nel _Discourse introductory to a course of lectures on the science of nature_ di Charles Willson Peale (1800).\
+**Compositore/Autore (100)**: Il compositore della musica\
+**Nome aggiuntivo di persona (700)**: L'autore del libro, con l'indicatore **Altra funzione**\
+**Titolo diplomatico (245)**: Il titolo del libro\
+**Titolo uniforme (240)**: Un titolo uniforme secondo le regole RISM, ad esempio **3 Songs**\
 **Descrizione fisica (300)**: Descrizione della musica, ad esempio **1 score: 5 p.**
 
 Individual entries are then created for each piece, following normal RISM rules.
@@ -295,7 +295,7 @@ Please observe the following when cataloging libretti.
 
 **Compositore/Autore (100):** Inserisci l'autore del libretto. Non usare questo campo per il compositore della musica.
 
-** Nome aggiuntivo di persona (700):** Una funzione utile è "Autore della fonte letteraria", ad esempio l'autore di un'opera di teatro di prosa su cui si basa il libretto. Only enter a composer's name as a cross-reference if named on the source.
+\*\* Nome aggiuntivo di persona (700):\*\* Una funzione utile è "Autore della fonte letteraria", ad esempio l'autore di un'opera di teatro di prosa su cui si basa il libretto. Only enter a composer's name as a cross-reference if named on the source.
 
 **Nome di ente aggiuntivo (710):** Non dimenticare di indicizzare il nome dell'editore (per libretti stampati).
 
@@ -335,7 +335,7 @@ Additional subject headings may be added.
 Specify piano arrangements as follows.
 
 - In the field **Standardized title (240):**
-  - Select **Arrangement** next to **Arrangement statement**.
-  - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. Do not enter the scoring of the original work.
+ - Select **Arrangement** next to **Arrangement statement**.
+ - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. Do not enter the scoring of the original work.
 - In the field **Total scoring (594)**, enter the total scoring of the arrangement. Do not enter the scoring of the original work.
 - In the field **Physical description (300)**, use **keyboard score** if the work has been reduced for piano. Use **vocal** score if the work has been reduced for voice and piano.

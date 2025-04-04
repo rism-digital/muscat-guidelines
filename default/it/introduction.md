@@ -1,5 +1,5 @@
 
-This website presents the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. Muscat is used by RISM's working groups and contributors, available free of charge to anyone who is interested. It enables direct access to the RISM database hosted by the Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. If you are interested in becoming a contributor, contact the [RISM Editorial Center (Zentralredaktion)](https://rism.info/editorial-center.html){:blank}.
+It enables direct access to the RISM database hosted by the Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. Muscat is used by RISM's working groups and contributors, available free of charge to anyone who is interested. This website presents the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. If you are interested in becoming a contributor, contact the [RISM Editorial Center (Zentralredaktion)](https://rism.info/editorial-center.html){:blank}.
 
 Muscat is developed jointly by the two RISM Centers, the RISM Editorial Center and the [RISM Digital Center](https://rism.digital/){:blank}. It is based on a program that was jointly developed by RISM Switzerland and RISM UK.
 
@@ -7,7 +7,7 @@ Muscat data is structured around the [MARC21 library standard](https://www.loc.g
 
 Refer to the contents on the right for an overview of this document. The sections **2-Using Muscat** and **3-General cataloging principles** explain how to use the program: general functions, templates, how to catalog certain formats.
 
-The section **4-Cataloging guidelines for musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat. The guidelines are listed in the order they appear in the program. When working with Muscat, you will also find the guidelines for each field linked to their respective field. Examples are included throughout.
+Examples are included throughout. The guidelines are listed in the order they appear in the program. When working with Muscat, you will also find the guidelines for each field linked to their respective field. The section **4-Cataloging guidelines for musical sources** contains the RISM cataloging guidelines for musical sources for use with Muscat.
 
 The middle sections (5-9) contain the guidelines for RISM's authority files. The final sections (10-11) offer various lists containing RISM's standardized vocabulary and abbreviations.
 

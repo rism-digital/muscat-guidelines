@@ -28,7 +28,7 @@ Fields in a Muscat record are grouped into sections. By clicking on the section 
 
 **Show all sections** lets you view all sections of the record on one page.
 
-**Show preview** lets you view the record. To return to editing mode, click **Hide preview**.
+To return to editing mode, click **Hide preview**. **Show preview** lets you view the record.
 
 **Validate** checks for errors in the record that prevent saving.
 
@@ -50,7 +50,7 @@ Fields in a Muscat record are grouped into sections. By clicking on the section 
 
 **Question mark (?)**: Click ? to display the RISM guidelines for the field.
 
-**Plus (+) and minus (-) signs**: Fields that may be repeated have a plus sign (+). Click on the + to create a new, empty field. Click the - to delete a field.
+Click on the + to create a new, empty field. **Plus (+) and minus (-) signs**: Fields that may be repeated have a plus sign (+). Click the - to delete a field.
 
 **Trash can**: Delete a field by clicking on the trash can.
 

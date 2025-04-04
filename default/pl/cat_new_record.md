@@ -16,7 +16,7 @@ Rekord dla **Kolekcji** (rekord macierzysty) jest stosowany, gdy źródło skła
 
 Manuscripts are unique to a library and can only be owned by one institution. Druki muzyczne posiadają egzemplarze, co oznacza że wiele bibliotek jest właścicielem kopii (egzemplarzy) danego wydania.
 
-Szablon dedykowany libretto/tekstowi muzycznemu wykorzystywany jest do źródeł, które zawierają tylko tekst, odnoszący się do śpiewanego wykonawstawa muzycznego. Najczęściej są to książki, które zawierają słowa opery lub innej kompozycji wokalnej, ale mogą to być również kolekcje źródeł tekstowych, takich jak śpiewniki hymnów czy piosenek Bożonarodzeniowych. Takie publikacje są czasami nazywane zbiorami tekstów pieśni, książkami kieszonkowymi (często oznaczanymi tak na źródle) lub śpiewnikami.
+Takie publikacje są czasami nazywane zbiorami tekstów pieśni, książkami kieszonkowymi (często oznaczanymi tak na źródle) lub śpiewnikami. Najczęściej są to książki, które zawierają słowa opery lub innej kompozycji wokalnej, ale mogą to być również kolekcje źródeł tekstowych, takich jak śpiewniki hymnów czy piosenek Bożonarodzeniowych. Szablon dedykowany libretto/tekstowi muzycznemu wykorzystywany jest do źródeł, które zawierają tylko tekst, odnoszący się do śpiewanego wykonawstawa muzycznego.
 
 Szablon dedykowany traktatom jest wykorzystywany do źródeł, które podejmują teoretyczne aspekty muzyki, w tym aspekty kompozycji czy wykonawstwa.
 

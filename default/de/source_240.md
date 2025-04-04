@@ -198,7 +198,7 @@ Modale Tonarten werden nicht in moderne Tonartenbezeichnungen übertragen.
 - Keyboard instruments
 - Basso continuo
 
-Eine unbekannte Anzahl Stimmen wird mit nachgestelltem **(X)** ausgedrückt. Also use **V** to group together several different vocal parts, such as **V (8)**. Eine unbekannte Singstimme wird mit **V,** eine unbekannte Instrumentalstimme mit **i** wiedergegeben. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**.
+Eine unbekannte Singstimme wird mit **V,** eine unbekannte Instrumentalstimme mit **i** wiedergegeben. Eine unbekannte Anzahl Stimmen wird mit nachgestelltem **(X)** ausgedrückt. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Also use **V** to group together several different vocal parts, such as **V (8)**.
 
 Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 

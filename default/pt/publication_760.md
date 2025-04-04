@@ -15,13 +15,13 @@ Enter as appropriate the volume, issue, year, and/or page numbers for the item. 
 - 23 (1986), p. 5-10
 - 2, 35 (2014), 7-16
 - 71 (1997), Heft 5, p.275-292
-- vol. vol. 3/1-2; 11/1-2
+- vol. vol. vol. 3/1-2; 11/1-2
 - 56
 
 For a chapter within a collection of essays, enter the page numbers of the chapter.
 
 ##### Example
 
-- p. p. 76-109
+- p. p. p. 76-109
 
 As a general rule, make sure to include enough information so that someone else would be able to find the item themselves.

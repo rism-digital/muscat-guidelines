@@ -20,7 +20,7 @@ If the works in the collection have different composers, scoring, source types, 
 
 ### Composite volumes
 
-A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
+A **composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. Composite volumes include volumes in which individual printed items are bound together, as well as volumes in which printed items and manuscripts are bound together. There are many other names for such volumes in English: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume.
 
 There are two ways to indicate a composite volume. The first, and simplest, way is to catalog the items separately and give the items the same shelfmark; a bound-with note is also helpful. The second is to use the template for a composite volume record.
 
@@ -94,7 +94,8 @@ Take note of the following fields when cataloging compilations.
   If you have a pasticcio, do not enter composers as a composer cross-references. Instead, enter all composers as a **Co-composer**.
 - **Composer/Author (100)**  
   The composer is always **Compilations**.
-- **Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
+- **Composer/Author (100)**  
+  The composer is always **Compilations**.
 - **Subject heading (650)**  
   The first subject heading should be **Compilations** and/or **Pasticcios**. The second should be the genre of the source in hand. If you have excerpts, the genre of the excerpt can be added. **Collaborative compositions** is also an option.
 - **Description summary (520)**  
@@ -106,10 +107,10 @@ Take note of the following fields when cataloging compilations.
   You can enter the catalog of works number for both the compilation and the original works.
 - **Text incipit (031)**  
   Enter the text of the source in hand. If known, enter the original text in square brackets.
-- **Note on performance (518)**  
-  Performances should be noted only as they relate to the compilation itself.
 - **General note (500)**  
   Always use a note for clarification, especially if the works of separate composers are involved.
+- **Note on performance (518)**  
+  Performances should be noted only as they relate to the compilation itself.
 
 #### Examples of compilations
 
@@ -166,7 +167,7 @@ The usual rules apply when creating the parent record and the record for the mai
 - **Standardized title (240)**: Title of the insertion, or the name of the opera followed by Excerpts
 - **Additional title (730)**: Title of the larger work, plus the subheading **Inserts**
 - **Subject heading (650)**: Enter three: Insertions, the genre of the insertion, and the genre of the larger work
-- **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
+- Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work. **Related source (787)**: Indicate the the larger work into which this piece was inserted and select the relationship type **Insert in**.
 - **General note (500)**: Any additional information can be added to make the relationship of the insert within the larger work (if known) clear.
 
 ### Mixed materials (manuscripts and printed items stored together)

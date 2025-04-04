@@ -167,7 +167,7 @@ The usual rules apply when creating the parent record and the record for the mai
 - **Standardized title (240)**: Title of the insertion, or the name of the opera followed by Excerpts
 - **Additional title (730)**: Title of the larger work, plus the subheading **Inserts**
 - **Subject heading (650)**: Enter three: Insertions, the genre of the insertion, and the genre of the larger work
-- **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**. Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work.
+- Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work. **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**.
 - **General note (500)**: Any additional information can be added to make the relationship of the insert within the larger work (if known) clear.
 
 ### Mixed materials (manuscripts and printed items stored together)

@@ -27,7 +27,7 @@ Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uz
 - **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje korekty, rewizje, rozszerzenia, uproszczenia, lub włączenie materiałów uzupełniających.
 - **Inny wydawca.**
 - **Inny układ druku**: Zmiany w numerach wydawniczych (z wyjątkiem numerów zastępczych). Zmiany w objętości. Zmiana w zakresie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
-- **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej. Strona tytułowa serii jest nowa.
+- **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Strona tytułowa serii jest nowa. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej.
 - **Inny numer wydawniczy lub numer wydawcy**.
 
 **Nie należy tworzyć nowego rekordu**, jeżeli opisywana pozycja wykazuje jedną z poniższych różnic. Jeżeli opisywana pozycja posiada _więcej niż jedną_ z poniższych różnic, należy zdecydować, czy nowy rekord jest konieczny.
@@ -45,7 +45,7 @@ Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakł
 
 #### Przykłady
 
-1. Druk o numerze RISM 1001031016: Beethoven, „Adelaide” op. 46, niedatowany, Bonn, N. Simrock, tekst w języku niemieckim i francuskim. Błąd w pisowni na stronie tytułowej: „à une vois [!] Seule”.
+Druk o numerze RISM 1001031016: Beethoven, „Adelaide” op. 46, niedatowany, Bonn, N. Simrock, tekst w języku niemieckim i francuskim. Błąd w pisowni na stronie tytułowej: „à une vois [!] Seule”.
 
 1. Egzemplarz 1: Ta sama informacja o wydaniu, lecz błąd w pisowni poprawiono. Sama ta okoliczność nie uzasadnia tworzenia nowego rekordu, lecz w egz. pojawia się dodatkowy tekst w języku włoskim. **Nowy rekord jest wymagany** (inna treść/rozszerzenie). Wynik: 1001031017
 
@@ -53,11 +53,11 @@ Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakł
 
 3. Egzemplarz 3: Taki jak numer RISM 1001031016 (lecz poprawiono błąd w pisowni), ale podany jest dodatkowy wydawca: „chez L. PLATTNER à ROTTERDAM." **Nowy rekord jest wymagany** (inny status wydania). Wynik: 1001031022
 
-2. Druk o numerze RISM 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
+Druk o numerze RISM 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
 
 1. Egzemplarz 1: Ten sam tytuł, ale nalepka została naniesiona na strefę wydania: Köln, P.J. Simrock. Możesz zobaczyć, że etykieta przykrywa informacje o Bonn/Köln. **Nowy rekord jest wymagany** (inny status wydania: na oryginalnej strefie wydania, znajduje się informacja o nowym wydawcy). Wynik: 1001141767
 
-3. Druk o numerze RISM 990024126: Gyrowetz, Symphonies, op. 9. Rekord RISM prezentuje zbiór wielu symfonii. Każda symfonia jest dostępna jako oddzielne wydanie z samodzielnymi numerami wydawniczymi, jako _livres_ 1, 2 i 3.
+Druk o numerze RISM 990024126: Gyrowetz, Symphonies, op. 9. Rekord RISM prezentuje zbiór wielu symfonii. Każda symfonia jest dostępna jako oddzielne wydanie z samodzielnymi numerami wydawniczymi, jako _livres_ 1, 2 i 3.
 
 1. Opcja 1: szybkie rozwiązanie: jeżeli Twoja biblioteka posiada jedną z symfonii zbioru, możesz wybrać **Dodaj egzemplarz** i w polu „Posiadany materiał”, wskazać którą symfonię (livre) posiadasz.
 2. Opcja 2: lepsze rozwiązanie, które zajmie jednak więcej czasu: <Powiadomić Biuro Centralne</strong> o tym rekordzie, a my podzielimy rekord na trzy rekordy, po jednym dla każdej symfonii. Następnie należy dodać rekord egzemplarza do rekordu symfonii, którą biblioteka posiada.
@@ -116,7 +116,7 @@ If your institution owns multiple copies (exemplars) of the same printed edition
 
 ### Microfilm copies
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856).
+Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available.
 
 #### Example
 - RISM ID no. 990052954, copy in B-Bc:  

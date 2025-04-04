@@ -45,7 +45,7 @@ Use one of the following English terms, in the singular or plural as appropriate
 
 - **tablature part**: The type of tablature, if known, should be named in the field **General note (500)**.
 - **sketch**: Use for sketches if the type of format cannot be more precisely determined.
-- For texted parts, see **Parts held and extent (590)**. For texted scores, use **with text**, such as **keyboard score with text**.
+- For texted scores, use **with text**, such as **keyboard score with text**. For texted parts, see **Parts held and extent (590)**.
 - **prompt book**: A document (can be a short score or text) used by a prompter for a stage work.
 - **table book**: parts arranged on a page so that all performers can read from it while seated around a table.
 

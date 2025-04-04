@@ -61,9 +61,9 @@ If there is a new, distinct standardized title for the piece in hand, you can en
 
 **Subject headings (650)**
 
-Add at least 3 subject headings (more if appropriate), in this order:  
-Contrafacta  
-Current genre  
+Add at least 3 subject headings (more if appropriate), in this order:\
+Contrafacta\
+Current genre\
 Original genre
 
 - Contrafacta
@@ -78,8 +78,8 @@ Add a short description in English that explains the situation as a benefit to o
 
 **Language of text (041)**
 
-Fill out both of these fields:  
-Language of text (041 $a): The current text of the source in hand  
+Fill out both of these fields:\
+Language of text (041 $a): The current text of the source in hand\
 Language of original text (041 $h): Language of the original piece
 
 - Language of text: Latin
@@ -87,8 +87,8 @@ Language of original text (041 $h): Language of the original piece
 
 **Text incipit (031 $t)**
 
-You will enter two text incipits (use the + to add a new line).  
-The text incipit of the current text  
+You will enter two text incipits (use the + to add a new line).\
+The text incipit of the current text\
 The text incipit of the original text, if known, in square brackets.
 
 - Alma redemptoris mater, quae pervia caeli
@@ -255,7 +255,7 @@ It is not uncommon for manuscript and printed items to be found together in the 
 
 Always strive to catalog the printed material in a separate record, because it is possible that other libraries have copies of the same edition. Create one record for the printed item, add your holdings, and create another record for the manuscript materials. Use the field **Related source (787)** to point from one record to the other.
 
- If it is not feasible to create an adequate record for the printed material, proceed as follows: Catalog your material using a manuscript template. In the material description section, describe the manuscript materials. Add an additional material group, and describe the printed materials.
+If it is not feasible to create an adequate record for the printed material, proceed as follows: Catalog your material using a manuscript template. In the material description section, describe the manuscript materials. Add an additional material group, and describe the printed materials.
 
 ### Music in periodicals
 
@@ -271,7 +271,7 @@ There are two ways to catalog periodicals that contain music: as a collection or
 
 ##### Examples
 
-991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784  
+991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784\
 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
 
 ### Music in non-music publications
@@ -280,11 +280,11 @@ RISM includes music found in printed publications that are not primarily music d
 
 ##### Example:
 
-990026614: 3 songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).  
-**Composer/Author (100)**: The composer of the music  
-**Additional Personal Name (700)**: The author of the book, with the indicator **other**  
-**Title on source (245)**: The title of the book  
-**Standardized title (240)**: A standardized title according to RISM rules, such as **3 Songs**  
+990026614: 3 songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).\
+**Composer/Author (100)**: The composer of the music\
+**Additional Personal Name (700)**: The author of the book, with the indicator **other**\
+**Title on source (245)**: The title of the book\
+**Standardized title (240)**: A standardized title according to RISM rules, such as **3 Songs**\
 **Physical description (300)**: A description of the music, such as **1 score: 5 p.**
 
 Individual entries are then created for each piece, following normal RISM rules.
@@ -335,7 +335,7 @@ Additional subject headings may be added.
 Specify piano arrangements as follows.
 
 - In the field **Standardized title (240):**
-  - Select **Arrangement** next to **Arrangement statement**.
-  - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. Do not enter the scoring of the original work.
+ - Select **Arrangement** next to **Arrangement statement**.
+ - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. Do not enter the scoring of the original work.
 - In the field **Total scoring (594)**, enter the total scoring of the arrangement. Do not enter the scoring of the original work.
 - In the field **Physical description (300)**, use **keyboard score** if the work has been reduced for piano. Use **vocal** score if the work has been reduced for voice and piano.

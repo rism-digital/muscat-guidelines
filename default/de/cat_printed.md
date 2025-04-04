@@ -116,7 +116,7 @@ If your institution owns multiple copies (exemplars) of the same printed edition
 
 ### Microfilm copies
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available.
+Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record.
 
 #### Example
 - RISM ID no. 990052954, copy in B-Bc:  
@@ -139,7 +139,7 @@ A record must be split when there is evidence that multiple, distinct printed ed
 You can recognize the presence of distinct editions through conventions such as the following that will appear in the records.
 
 The field **Title on source (245)** will often mention multiple parts or several keys:
-- Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
+- Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
 - Divine harmony. Six select anthems … (Divine harmony. (Divine harmony. The 2\|d collection being select anthems ...)

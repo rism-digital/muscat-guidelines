@@ -11,7 +11,7 @@ Enter the short title of the resource consulted. This field is connected to the 
 Enter the page number where the name is found. For online publications, enter the citation form as recommended by the resource.
 
 ##### Examples
-- p. 42
+- p. p. 42
 - MONIKA SCHWARZ-DANUSER, Art. Mendelssohn, Fanny (Caecilie), in: MGG Online, hrsg. von Laurenz Lütteken, Kassel, Stuttgart, New York: 2016ff., zuerst veröffentlicht 2004, online veröffentlicht 2016
 
 #### Information found (670 $b)
