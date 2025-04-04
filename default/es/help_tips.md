@@ -1,4 +1,4 @@
-### How do I ...? Tips & tricks How do I ...? Tips & tricks Tips & tricks
+### How do I ...? Tips & tricks How do I ...? Tips & tricks How do I ...? Tips & tricks Tips & tricks
 
 #### 1. How can I add images to a record?
 
