@@ -23,4 +23,4 @@ Contact the Editorial Center if you wish to add sources from a series not on the
 
 #### Number/page (510 $c)
 
-Enter the reference to the piece in the RISM series. Note that each volume has a different way of referring to sources; some have identifiers while others require page numbers. For the citation style, see the form given for each volume in the **Secondary literature** database.  
+Enter the reference to the piece in the RISM series. For the citation style, see the form given for each volume in the **Secondary literature** database. Note that each volume has a different way of referring to sources; some have identifiers while others require page numbers.  

@@ -106,7 +106,7 @@ Standardized title — Corresponding subject heading
 
 Standardized title — Corresponding subject heading
 - Arpeggios — Arpeggios (inst.)
-- Cadences — Cadences (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadences — Cadences (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
 - Cadenzas — Cadenzas (voc.)
 - Exercises — Exercises (inst.)
 - Exercises — Exercises (voc.)
