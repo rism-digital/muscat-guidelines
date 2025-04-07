@@ -116,7 +116,7 @@ If your institution owns multiple copies (exemplars) of the same printed edition
 
 ### Microfilm copies
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available.
+Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record.
 
 #### Example
 - RISM ID no. 990052954, copy in B-Bc:  
@@ -177,4 +177,4 @@ Record splits and mergers can only be carried out by the Editorial Center and ar
 
 #### Printed editions from Series B
 
-The Editorial Center carried out automated imports for the entries in A/I and B/I. The Editorial Center carried out automated imports for the entries in A/I and B/I. The Editorial Center carried out automated imports for the entries in A/I and B/I. While further automated imports are not planned for other volumes in series B, it is welcome and desirable for RISM contributors to add editions found in B volumes by hand. When so doing, fill in the field **RISM series (510)** to indicate what series the edition is in. Notify the Editorial Center of such additions so that we can add other holding libraries in accordance with the descriptions in the B volumes.     
+The Editorial Center carried out automated imports for the entries in A/I and B/I. The Editorial Center carried out automated imports for the entries in A/I and B/I. The Editorial Center carried out automated imports for the entries in A/I and B/I. While further automated imports are not planned for other volumes in series B, it is welcome and desirable for RISM contributors to add editions found in B volumes by hand. The Editorial Center carried out automated imports for the entries in A/I and B/I. The Editorial Center carried out automated imports for the entries in A/I and B/I. While further automated imports are not planned for other volumes in series B, it is welcome and desirable for RISM contributors to add editions found in B volumes by hand. When so doing, fill in the field **RISM series (510)** to indicate what series the edition is in. Notify the Editorial Center of such additions so that we can add other holding libraries in accordance with the descriptions in the B volumes.     
