@@ -27,7 +27,7 @@ Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uz
 - **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje korekty, rewizje, rozszerzenia, uproszczenia, lub włączenie materiałów uzupełniających.
 - **Inny wydawca.**
 - **Inny układ druku**: Zmiany w numerach wydawniczych (z wyjątkiem numerów zastępczych). Zmiany w objętości. Zmiana w zakresie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
-- **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Strona tytułowa serii jest nowa. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej.
+- **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej. Strona tytułowa serii jest nowa. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy.
 - **Inny numer wydawniczy lub numer wydawcy**.
 
 **Nie należy tworzyć nowego rekordu**, jeżeli opisywana pozycja wykazuje jedną z poniższych różnic. Jeżeli opisywana pozycja posiada _więcej niż jedną_ z poniższych różnic, należy zdecydować, czy nowy rekord jest konieczny.
@@ -116,7 +116,7 @@ If your institution owns multiple copies (exemplars) of the same printed edition
 
 ### Microfilm copies
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available.
+Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record.
 
 #### Example
 - RISM ID no. 990052954, copy in B-Bc:  
