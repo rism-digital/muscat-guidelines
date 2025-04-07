@@ -62,7 +62,7 @@ For conductor part(s), use **part** or **parts** here and enter **conductor part
 
 For all formats except parts, enter the number of pages, leaves, or gatherings. Choose among the following abbreviations: **f** for folio, **p** for page, **lvs** for leaves (sheets), and **fds** for folds (gatherings).
 
-For collection parent records as well as for pieces that are not part of collections, the total extent is given, such as **35 p.** If a piece is within a collection, the extent for that piece is given, such as **p. 17-23.** 17-23. 17-23.</strong>
+For collection parent records as well as for pieces that are not part of collections, the total extent is given, such as **35 p.** If a piece is within a collection, the extent for that piece is given, such as **p. 17-23.** 17-23. 17-23.
 
 Use only one method of foliation or pagination within a collection. When using recto and verso enumeration, use both **r** and **v**. Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
 
@@ -101,8 +101,8 @@ Pages change from Roman to Arabic numerals
 
 Blank pages or foliation irregularities can be mentioned in the field **General note (500)**.
 
-- f. f. f. [2] blank
-- p. p. p. 272 occurs twice
+- f. f. f. f. [2] blank
+- p. p. p. p. 272 occurs twice
 
 #### Other physical details (300 $b)
 
