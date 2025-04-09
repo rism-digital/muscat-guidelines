@@ -16,7 +16,7 @@ Geben Sie die Seitenzahl ein, auf der der Name gefunden wurde. Für Online-Publi
 
 #### Vorhandene Informationen (670 $b)
 
-**Benötigt wenn 670 $a ausgefüllt ist.**
+**Benötigt, wenn 670 $a ausgefüllt ist.**
 
 Geben Sie den in der Sekundärliteratur angegebenen Kurztitel ein. Fügen Sie gegebenenfalls eine Seitenzahl oder andere Zitationen (wie **vide** für Enzyklopädien) hinzu. Geben Sie eine **0** ein, wenn keine Informationen gefunden wurden (zum Beispiel haben Sie Grove-7 konsultiert, aber es gab keinen Eintrag für die Person).
 
