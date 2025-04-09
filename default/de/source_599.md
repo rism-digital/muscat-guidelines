@@ -12,7 +12,7 @@ Geben Sie lokale Notizen für den internen Gebrauch ein, auch für die Verwendun
 - 007 Weitere
 - 090 Kombinierte Angaben
 - 791 Neue Nr.
-- 792 Card index no.
+- 792 Karten-Index Nr.
 - 942 Kompositionsdatum
 
 Es folgten in der Regel Abkürzungen, die auf den Katalogisierer hinweisen.
