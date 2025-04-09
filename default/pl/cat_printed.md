@@ -62,22 +62,20 @@ Druk o numerze RISM 990024126: Gyrowetz, Symphonies, op. 9. Rekord RISM prezentu
 1. Opcja 1: szybkie rozwiązanie: jeżeli Twoja biblioteka posiada jedną z symfonii zbioru, możesz wybrać **Dodaj egzemplarz** i w polu „Posiadany materiał”, wskazać którą symfonię (livre) posiadasz.
 2. Opcja 2: lepsze rozwiązanie, które zajmie jednak więcej czasu: <Powiadomić Biuro Centralne</strong> o tym rekordzie, a my podzielimy rekord na trzy rekordy, po jednym dla każdej symfonii. Następnie należy dodać rekord egzemplarza do rekordu symfonii, którą biblioteka posiada.
 
-### Standardized titles for printed music
+### Znormalizowane tytuły dla druków muzycznych
 
-#### Distinctive titles
+#### Tytuły charakterystyczne
 
-Printed music bears distinctive titles much more frequently than music manuscripts do. Observe the following for the field **Standardized title (240)** when cataloging printed music.
+Druki muzyczne zawierają inne tytuły znacznie częściej niż rękopisy muzyczne. Przy katalogowaniu druków muzycznych w polu **Tytuł ujednolicony (240)** należy przestrzegać następujących zasad:
 
-1. **Spelling**
+1. **Pisownia**
 
-Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms. Frequent changes include _v_ to _u_, _i_ to _j_ , _y_ to _i_, and _uu_ to _w_. Additional variations can be entered in the field **Additional title (730)**.
+Tytuły ujednolicone należy wprowadzać stosując współczesną ortografię, lecz nie należy nadmiernie korygować uzusu archaicznego lub dialektu/regionalizmów. Częste zmiany to zmiana _v_ na _u_, _i_ na _j_, <0>y<0> na <0>i<0>, oraz <0>uu<0> na <0>w<0>. Dodatkowe warianty można wprowadzić w polu **Tytuł dodatkowy (730)**.</p>
 
 <figure>
-RISM A/I: RR 3030c
-
-- Title on source: Musicalische Grab=schrifft.
-- Standardized title: Musikalische Grabschrift
-  <figcaption>Example</figcaption>
+<0>Przykład<0>:
+Tytul widniejący na źródle: Musicalische Grab=schrifft.
+Tytuł ujednolicony: Musikalische Grabschrift
 </figure>
 
 2. **Deriving a standardized title**
