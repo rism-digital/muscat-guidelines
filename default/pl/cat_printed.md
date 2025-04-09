@@ -78,71 +78,93 @@ Tytul widniejący na źródle: Musicalische Grab=schrifft.
 Tytuł ujednolicony: Musikalische Grabschrift
 </figure>
 
-2. **Deriving a standardized title**
+2. **Uzyskiwanie tytułu ujednoliconego z tytuły charakterystycznego**
 
-Standardized titles should consist of the title of the print up to a natural break, frequently a comma, period, or a statement of the author, instrumentation, number, or imprint. Sometimes a distinctive title appears on a page other than the title page.
+Tytuły ujednolicone winny składać się tytułu druku aż do miejsca naturalnej przerwy, często przecinka, kropki lub oznaczenia autora, instrumentacji, numeru lub stopki wydawniczej. Czasami charakterystyczny tytuł znajduje się na innej stronie niż strona tytułowa.
 
-##### Examples
+##### Przykłady:
 
-- RISM ID no. 990003743
-   - Title on source: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza
-   - Standardized title: Vezzo di perle musicali
+- ID RISM nr 990003743
+   - Tytuł widniejący na źródle: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza
+   - Tytuł ujednolicony: Vezzo di perle musicali
 
-- RISM ID no. 990006458
-   - Title on source: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima
-   - Standardized title: Novo giardino de concerti
+- ID RISM nr 990006458
+   - Tytuł widniejący na źródle: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima
+   - Tytuł ujednolicony: Novo giardino de concerti
 
-#### Generic titles
+#### Tytuły generyczne
 
-Standard RISM rules for generic titles apply (see **Standardized title (240)**), but bear in mind that even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive titles. Use the field **Additional title (730)** to enter such titles in a standardized form. For guidance, refer to standard reference works such as Grove and MGG, and authority files from the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the component in the original language (but standardized spelling) and the Arabic numeral following the title.
+Standardowe wytyczne RISM dla tytułów generycznych mają zastosowanie (patrz **Tytuł ujednolicony (240)**), ale pamiętaj, że w starszych stopkach wydawniczych są często cytowane w literaturze jak by były tytułami charakterystycznymi. Do wprowadzania takich tytułów w ujednoliconej formie służy pole **Tytuł dodatkowy (730)**. Wskazówki można znaleźć w takich opracowaniach jak Grove i MGG, oraz hasłach wzorcowych [Library of Congress](http://id.loc.gov/authorities/names.html) lub
 
-##### Examples
-
-  - RISM ID no. 990048285
-    - Title on source: CANTVS \| IOANNIS PETRALOYSII \| PRAENESTINI \| Missarum cum quatuor, quinque, & sex vocibus. \| LIBER DVODECIMVS. \| Nunc primum in lucem editus. \| VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI
-    - Standardized title: Missarum, liber 12
-    - Additional title: 6 Masses
-
-  - RISM ID no. 993000147
-    - Stimmen. Title on source: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
-    - Standardized title: Preussische Festlieder, Teil 2
+VIAF<1>. Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (z tym, że stosując standardową pisownię) oraz numer arabski występujący po tytule.</p> 
 
 
-### Multiple copies in one institution
 
-If your institution owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.
+##### Przykłady:
 
-### Microfilm copies
+  - ID RISM nr 990048285
+    
+        - Tytuł widniejący na źródle: CANTVS \| IOANNIS PETRALOYSII \| PRAENESTINI \| Missarum cum quatuor, quinque, & sex vocibus. \| LIBER DVODECIMVS. \| Nunc primum in lucem editus. \| VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI
+    - Tytuł ujednolicony: Missarum, liber 12
+    - Tytuł dodatkowy: 6 Masses
+  - ID RISM nr 993000147
+    
+        - Tytuł widniejący na źródle: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8.  Stimmen. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
+    - Tytuł ujednolicony: Preussische Festlieder, Teil 2
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record.
-
-#### Example
-- RISM ID no. 990052954, copy in B-Bc:  
-  Mikrofilm im Deutschen Musikgeschichtlichen Archiv (D-Kdma) vorhanden
-- RISM ID no. 1000000576, copy in D-B:  
-  Digital copy of microfilm available from DiZbi.HAZU | Digitalna zbirka i katalog Hrvatske akademije znanosti i umjetnosti
 
 
-### Record splits and mergers
 
-#### Background
-RISM's first cataloging projects from the 1950s to 1970s focused on printed music. Many shortcuts were taken related to the challenges of collating catalog cards from the worldwide network of RISM contributors, and the space limitations of printed books. The volumes published in RISM's series A/I, B/I, and B/II frequently necessarily summarized multiple editions into a single entry and alluded to potential points of differentiation without further elaboration. At the same time, having multiple contributors at times resulted in the same edition unwittingly being described multiple times but from different access points.
+### Wiele kopii/egzemplarzy w jednej instytucji
+
+Jeżeli Państwa instytucja posiada wiele egzemplarzy tego samego drukowanego wydania, należy stworzyć osobny rekord dla każdego egzemplarza.  
+
+
+
+### Kopie mikrofilmowe
+
+Kopie mikrofilmów druków muzycznych nie są dodawane jako oddzielne rekordy egzemplarzy, ale są opisywane wraz z informacjami o egzemplarzach, które stanowią oryginał druku, na podstawie którego stworzono mikrofilm. Linki opisujące mikrofilm w lokalnym katalogu instytucji mogą zostać dodane jeśli są dostępne. Jesli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856). Powiadom Editorial Centrel jeżeli chcesz dodać swoją kopię mikrofilmową, ale nie możesz edytować rekordu egzemplarza.
+
+
+
+#### Przykłady
+
+- ID RISM nr 990052954, egzemplarz w B-Bc:  
+  Mikrofilm dostępny w Niemieckim Archiwum Historii Muzyki (D-Kdma)   
+
+- ID RISM nr 1000000576, egzemplarz w D-B:  
+  Cyfrowa kopia mikrofilmu dostępna w zasobach cyfrowych i katalogu Chorwackiej Akademii Nauk i Sztuk DiZbi.HAZU
+
+
+
+
+### Podział i łączenie rekordów
+
+
+
+#### Kontekst
+
+Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Many shortcuts were taken related to the challenges of collating catalog cards from the worldwide network of RISM contributors, and the space limitations of printed books. The volumes published in RISM's series A/I, B/I, and B/II frequently necessarily summarized multiple editions into a single entry and alluded to potential points of differentiation without further elaboration. At the same time, having multiple contributors at times resulted in the same edition unwittingly being described multiple times but from different access points.  
 
 Today, the online environment allows the flexibility to have one record describe one edition. This means that records that describe multiple editions should ideally be split, and multiple records that describe the same edition should be merged.
 
+
+
 ##### Record splits
 
-A record must be split when there is evidence that multiple, distinct printed editions are described in one record. The implication of a distinct edition is that it was conceived as a unit by the publisher and was available on its own on the market. The result is that consumers (and later, libraries) were able to acquire the edition on its own, with or without the other editions in the series or set.
+A record must be split when there is evidence that multiple, distinct printed editions are described in one record. The implication of a distinct edition is that it was conceived as a unit by the publisher and was available on its own on the market. The result is that consumers (and later, libraries) were able to acquire the edition on its own, with or without the other editions in the series or set.  
 
 You can recognize the presence of distinct editions through conventions such as the following that will appear in the records.
 
 The field **Title on source (245)** will often mention multiple parts or several keys:
+
 - Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
 - Divine harmony. Six select anthems … (Divine harmony. The 2\|d collection being select anthems ...)
 
 The field **Plate number (028)** will list multiple plates, with successive plate numbers in parentheses:
+
 - 1192
 - (1198)
 - (1199)
@@ -162,16 +184,22 @@ In the **holdings information** there are usually indications that only a certai
 
 In cases of record splits, the RISM series number is carried over to all new records.
 
+
+
 ##### Record mergers
 
 Catalogers should be aware that duplicates in the database can sometimes be found. Some duplicates originated in the printed RISM A/I or B series: pasticcios or other collaborative works were entered under multiple composers, an edition classified in the B/I series was also published in A/I, or an edition was simply entered twice within a long list. In addition, sometimes catalogers inadvertently create duplicate records.
 
-Duplicate records are not allowed and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.
+Duplicate records are not allowed and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.  
+
+
 
 
 ##### Procedure
 
 Record splits and mergers can only be carried out by the Editorial Center and are done on an ad-hoc basis. If you notice a case when records should be split or merged, contact the Editorial Center.
+
+
 
 #### Printed editions from Series B
 
