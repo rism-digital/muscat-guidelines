@@ -72,11 +72,12 @@ Druki muzyczne zawierają inne tytuły znacznie częściej niż rękopisy muzycz
 
 Tytuły ujednolicone należy wprowadzać stosując współczesną ortografię, lecz nie należy nadmiernie korygować uzusu archaicznego lub dialektu/regionalizmów. Częste zmiany to zmiana _v_ na _u_, _i_ na _j_, <0>y<0> na <0>i<0>, oraz <0>uu<0> na <0>w<0>. Dodatkowe warianty można wprowadzić w polu **Tytuł dodatkowy (730)**.</p>
 
-<figure>
-<0>Przykład<0>:
-Tytul widniejący na źródle: Musicalische Grab=schrifft.
-Tytuł ujednolicony: Musikalische Grabschrift
-</figure>
+##### Przykłady
+
+- RISM ID no. 991009151
+ - Title on source: Musicalische Grab=schrifft.
+ - Standardized title: Musikalische Grabschrift
+
 
 2. **Uzyskiwanie tytułu ujednoliconego z tytuły charakterystycznego**
 
