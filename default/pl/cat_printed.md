@@ -144,7 +144,7 @@ Kopie mikrofilmów druków muzycznych nie są dodawane jako oddzielne rekordy eg
 
 #### Kontekst
 
-Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Many shortcuts were taken related to the challenges of collating catalog cards from the worldwide network of RISM contributors, and the space limitations of printed books. The volumes published in RISM's series A/I, B/I, and B/II frequently necessarily summarized multiple editions into a single entry and alluded to potential points of differentiation without further elaboration. At the same time, having multiple contributors at times resulted in the same edition unwittingly being described multiple times but from different access points.  
+Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Podjęto wiele uproszczeń związanych z wyzwaniem zestawienia danych z kart katalogowych z międzynarodowej sieci instytucji współpracujących z RISM i ograniczeniami przestrzeni na drukowane książki. Woluminy publikowane w ramach serii RISM A/I, B/I, and B/II ujmowały w jednym rekordzie często wiele wydań, wskazując właściwości różnicujące, ale bez ich dalszego opracowania. Jednocześnie zdarzało się, że współpraca z wieloma katalogerami generowała nieświadomie wiele opisów tego samego wydania, ale znajdujących się w różnych instytucjach.  
 
 Today, the online environment allows the flexibility to have one record describe one edition. This means that records that describe multiple editions should ideally be split, and multiple records that describe the same edition should be merged.
 
