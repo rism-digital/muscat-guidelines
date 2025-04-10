@@ -145,7 +145,7 @@ Kopie mikrofilmów druków muzycznych nie są dodawane jako oddzielne rekordy eg
 
 #### Kontekst
 
-Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Podjęto wiele uproszczeń związanych z wyzwaniem zestawienia danych z kart katalogowych z międzynarodowej sieci instytucji współpracujących z RISM i ograniczeniami przestrzeni na drukowane książki. Woluminy publikowane w ramach serii RISM A/I, B/I, and B/II ujmowały w jednym rekordzie często wiele wydań, wskazując właściwości różnicujące, ale bez ich dalszego opracowania. Jednocześnie zdarzało się, że współpraca z wieloma katalogerami generowała nieświadomie wiele opisów tego samego wydania, ale znajdujących się w różnych instytucjach.  
+Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Podjęto wiele uproszczeń związanych z wyzwaniem zestawienia danych z kart katalogowych z międzynarodowej sieci instytucji współpracujących z RISM i ograniczeniami przestrzeni w drukowanych katalogach RISM. Woluminy publikowane w ramach serii RISM A/I, B/I, and B/II ujmowały w jednym rekordzie często wiele wydań, wskazując właściwości różnicujące, ale bez ich dalszego opracowania. Jednocześnie zdarzało się, że współpraca z wieloma katalogerami generowała nieświadomie wiele opisów tego samego wydania, ale znajdujących się w różnych instytucjach.  
 
 Dzisiejsze środowisko online daje elastyczność opisu jednego wydania za pomocą jednego rekordu. Oznacza to, że wspólne rekordy opisujące wiele edycji powinny zostać rozdzielone, a wielokrotne opisy tego samego wydania połączone.
 
@@ -172,36 +172,36 @@ W polu **Numer wydawniczy (028)** wylistowane będzie wiele numerów wydawniczyc
 - (1217)
 - (1218)
 
-The field **General note (500)** or the **holdings information** will mention multiple editions, usually in German or English:
+W polu **Uwaga ogólna (500)** lub w informacji **egzemplarza** podana będzie informacja o wielu wydaniach, zazwyczaj w języku niemieckim lub angielskim:
 
-- Multiple editions
+- Wiele wydań
 - GB-Lbl (2 verschiedene Ausgaben)
 
-In the **holdings information** there are usually indications that only a certain part or book is held, and the language of the indication will generally follow the language of the edition's title:
+W rekordzie **egzemplarza** są podane zazwyczaj informacje o przechowywaniu określonej części lub woluminu,a język tej adnotacji będzie zgodny z językiem tytuły wydania.
 
 - F-Pc K-733 [libro II]
 - D-F Mus. pr. Q 55/349 [livre 1]
 - CH-Bu [2., 3. Buch]
 
-In cases of record splits, the RISM series number is carried over to all new records.
+W przypadku podziału rekordów, numer serii RISM jest przenoszony do wszystkich nowych zapisów.
 
 
 
-##### Record mergers
+##### Łączenie rekordów
 
-Catalogers should be aware that duplicates in the database can sometimes be found. Some duplicates originated in the printed RISM A/I or B series: pasticcios or other collaborative works were entered under multiple composers, an edition classified in the B/I series was also published in A/I, or an edition was simply entered twice within a long list. In addition, sometimes catalogers inadvertently create duplicate records.
+Katalogerzy powinny być świadomi, że w bazie czasami można znaleźć duplikaty. Niektóre duplikaty swoje początki mają w drukowanych seriach RISM A/I lub B: pasticcia lub inne dzieła wydane przez kilku autorów wpisywano pod wieloma kompozytorami, podczas gdy wydanie zaklasyfikowane w serii B/I również było publikowane w serii A/I lub było po prostu dwukrotnie dodane w ramach długiej listy. Ponadto niekiedy katalogerzy nieumyślnie tworzą duplikaty już istniejących rekordów.
 
-Duplicate records are not allowed and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.  
-
-
-
-
-##### Procedure
-
-Record splits and mergers can only be carried out by the Editorial Center and are done on an ad-hoc basis. If you notice a case when records should be split or merged, contact the Editorial Center.
+Zduplikowane rekordy nie są dozwolone i muszą być scalone po zidentyfikowaniu. Podczas łączenia rekordów obowiązują kryteria dotyczące tego, jaki rekord będzie ostateczny i jaki rekord zostanie połączony. Pierwszeństwo nadaje się rekordowi z serii A/I lub B/I (zazwyczaj możliwe do zidentyfikowania za pomocą numeru identyfikacyjnego RISM, który zaczyna się od 990 lub 993) oraz starszy rekord jest preferowany wobec nowszego (można zweryfikować przez datę utworzenia rekordu). Egzemplarze są przenoszone do finalnego rekordu bibliograficznego i jeśli na podstawie tego źródła stworzono rekord bibliogarficzny egzemplarz wykorzystywany jest jako egzemplarz kontrolny. Notatka taka jak „Ten rekord został scalony z ID RISM nr XXX” jest zawsze uwzględniany w celu śledzenia starych numerów RISM.  
 
 
 
-#### Printed editions from Series B
+
+##### Procedura
+
+Podziały i łączenie rekordów może być przeprowadzane wyłącznie przez Editorial Center w trybie ad hoc. Jeśli zauważysz przypadek, kiedy rekordy powinny zostać podzielone lub połączone, skontaktuj się z Editorial Center.
+
+
+
+#### Wydania z serii B
 
 The Editorial Center carried out automated imports for the entries in A/I and B/I. While further automated imports are not planned for other volumes in series B, it is welcome and desirable for RISM contributors to add editions found in B volumes by hand. When so doing, fill in the field **RISM series (510)** to indicate what series the edition is in. Notify the Editorial Center of such additions so that we can add other holding libraries in accordance with the descriptions in the B volumes. Notify the Editorial Center of such additions so that we can add other holding libraries in accordance with the descriptions in the B volumes.     
