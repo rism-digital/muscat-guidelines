@@ -204,4 +204,4 @@ Podziały i łączenie rekordów może być przeprowadzane wyłącznie przez Edi
 
 #### Wydania z serii B
 
-Editorial Center zaimportowało automatycznie rekordy z serii A/I i B/I. Podczas gdy dalszy autmatyczny import jest planowany dla innych woluminów z serii B, jest mile widziane i pożądane, aby współpracujący z RISM dodawali ręcznie wydania z serii B. Robiąc to, uzupełnij pole **Seria RISM (510)** w celu wskazania, w której serii znajduje się dane wydanie. Notify the Editorial Center of such additions so that we can add other holding libraries in accordance with the descriptions in the B volumes.     
+Editorial Center zaimportowało automatycznie rekordy z serii A/I i B/I. Podczas gdy dalszy autmatyczny import jest planowany dla innych woluminów z serii B, jest mile widziane i pożądane, aby współpracujący z RISM dodawali ręcznie wydania z serii B. Robiąc to, uzupełnij pole **Seria RISM (510)** w celu wskazania, w której serii znajduje się dane wydanie. Powiadom Editorial Center o takich uzupełnieniach, abyśmy mogli dodać inne egzemplarze instytucji zgodnie z opisami w woluminach serii B.     
