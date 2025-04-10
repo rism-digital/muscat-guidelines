@@ -146,24 +146,24 @@ Kopie mikrofilmów druków muzycznych nie są dodawane jako oddzielne rekordy eg
 
 Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Podjęto wiele uproszczeń związanych z wyzwaniem zestawienia danych z kart katalogowych z międzynarodowej sieci instytucji współpracujących z RISM i ograniczeniami przestrzeni na drukowane książki. Woluminy publikowane w ramach serii RISM A/I, B/I, and B/II ujmowały w jednym rekordzie często wiele wydań, wskazując właściwości różnicujące, ale bez ich dalszego opracowania. Jednocześnie zdarzało się, że współpraca z wieloma katalogerami generowała nieświadomie wiele opisów tego samego wydania, ale znajdujących się w różnych instytucjach.  
 
-Today, the online environment allows the flexibility to have one record describe one edition. This means that records that describe multiple editions should ideally be split, and multiple records that describe the same edition should be merged.
+Dzisiejsze środowisko online daje elastyczność opisu jednego wydania za pomocą jednego rekordu. Oznacza to, że wspólne rekordy opisujące wiele edycji powinny zostać rozdzielone, a wielokrotne opisy tego samego wydania połączone.
 
 
 
-##### Record splits
+##### Podział rekordów
 
-A record must be split when there is evidence that multiple, distinct printed editions are described in one record. The implication of a distinct edition is that it was conceived as a unit by the publisher and was available on its own on the market. The result is that consumers (and later, libraries) were able to acquire the edition on its own, with or without the other editions in the series or set.  
+Rekord musi być podzielony, jeżeli istnieją dowody, że w jednym rekordzie opisano wiele odrębnych edycji. Zamysłem samodzielengo wydania jest to, że wydawca opracował je intencjonalnie jako wydanie i byłw takiej postaci było dostępne na rynku. W rezultacie konsumenci (i późniejsze biblioteki) mogli samodzielnie nabyć wydanie, z lub bez innych edycji w serii lub zestawie.  
 
-You can recognize the presence of distinct editions through conventions such as the following that will appear in the records.
+Możesz rozpoznać obecność odrębnych edycji za pomocą wskazanych poniżej właściwości, jakie zauważysz w rekordach.
 
-The field **Title on source (245)** will often mention multiple parts or several keys:
+W polu **Tytuł w źródle (245)** często wspomniane jest wiele części lub kluczy:
 
 - Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
 - Divine harmony. Six select anthems … (Divine harmony. The 2\|d collection being select anthems ...)
 
-The field **Plate number (028)** will list multiple plates, with successive plate numbers in parentheses:
+W polu **Numer wydawniczy (028)** wylistowane będzie wiele numerów wydawniczych z kolejnymi numerami w nawiasach:
 
 - 1192
 - (1198)
