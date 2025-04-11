@@ -11,8 +11,8 @@ For names originally written using non-Latin scripts, enter the transliterated f
 ##### Examples
 
 - Telemann, Georg Philipp
-- A. A. C. A. C.
-- Copyist C. H. Copyist C. H. Copyist C. H. Graun IX (Blechschmidt)
+- A. A. C. A. C. A. C.
+- Copyist C. H. Copyist C. H. Copyist C. H. Graun IX (Blechschmidt) Copyist C. H. Copyist C. H. Graun IX (Blechschmidt)
 - Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
 - Aylesford, Heneage Finch, 3rd Earl of
 
@@ -72,7 +72,7 @@ The full life dates, including month and day, may be entered here. Enter concret
   _Day of birth unknown_
 - -12.12.1803  
   _Only date of death known_
-- fl. fl. 1732-1735 fl. 1732-1735
+- fl. fl. 1732-1735 fl. 1732-1735 fl. 1732-1735
 
 **Obsolete procedures**:
 - The field 100 $c was previously called "Religious order/Title" but the scope was expanded and the field renamed in 2025.

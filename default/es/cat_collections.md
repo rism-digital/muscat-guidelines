@@ -88,9 +88,8 @@ Language of original text (041 $h): Language of the original piece
 
 **Text incipit (031 $t)**
 
-You will enter two text incipits (use the + to add a new line).\
-The text incipit of the current text\
-The text incipit of the original text, if known, in square brackets.
+Enter the text of the source in hand.\
+If the original text is known, enter it in square brackets.
 
 - Alma redemptoris mater, quae pervia caeli
 - [Giusti dei che ben vedete]
@@ -150,7 +149,7 @@ You can enter the catalog of works number for both the compilation and the origi
 
 **Text incipit (031)**
 
-Enter the text of the source in hand. If the original text is known, enter it in square brackets.
+Introduzca el incipit literario de la fuente en cuestión. If the original text is known, enter it in square brackets.
 
 **General note (500)**
 
@@ -282,6 +281,11 @@ RISM también incluye música presente en publicaciones impresas que fueron conc
 ##### _Ejemplo: _
 
 990026614: 3 songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).\
+**Composer/Author (100)**: The composer of the music\
+**Additional Personal Name (700)**: The author of the book, with the indicator **other**\
+**Title on source (245)**: The title of the book\
+**Standardized title (240)**: A standardized title according to RISM rules, such as **3 Songs**\
+**Physical description (300)**: A description of the music, such as **1 score: 5 p.**\
 **Composer/Author (100)**: The composer of the music\
 **Additional Personal Name (700)**: The author of the book, with the indicator **other**\
 **Title on source (245)**: The title of the book\

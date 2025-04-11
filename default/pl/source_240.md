@@ -198,7 +198,7 @@ Enter groups of instruments in the following order:
 - Keyboard instruments
 - Basso continuo
 
-Indicate an unknown number with **(X)**. Also use **V** to group together several different vocal parts, such as **V (8)**. Use **V** to indicate an unknown vocal part and **i** for an unknown instrument. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**.
+Use **V** to indicate an unknown vocal part and **i** for an unknown instrument. Indicate an unknown number with **(X)**. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Also use **V** to group together several different vocal parts, such as **V (8)**.
 
 Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
 
