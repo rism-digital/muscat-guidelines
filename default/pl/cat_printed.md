@@ -183,7 +183,7 @@ W rekordzie **egzemplarza** są podane zazwyczaj informacje o przechowywaniu okr
 - D-F Mus. pr. Q 55/349 [livre 1]
 - CH-Bu [2., 3. Buch]
 
-W przypadku podziału rekordów, numer serii RISM jest przenoszony do wszystkich nowych zapisów.
+W przypadku podziału rekordów, numer serii A/I lub B/I RISM jest przenoszony do wszystkich nowych rekrodów.
 
 
 
