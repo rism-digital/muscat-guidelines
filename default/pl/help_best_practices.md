@@ -1,6 +1,6 @@
 ### Dobre praktyki RISM
 
-Ta sekcja omawia dobre praktyki katalogowania do RISM; tj. praktyki, które nie zostały omówione w wskazówkach, ale mimo to przyczyniają się do ....
+Ta sekcja omawia dobre praktyki katalogowania do RISM; tj. praktyki, które nie zostały omówione w wskazówkach, ale mimo to przyczyniają się do dokładnego, rzetelnego i zrozumiałego opracowania rekordów.
 
 #### 1. Pola tekstowe i pola indeksowane
 
