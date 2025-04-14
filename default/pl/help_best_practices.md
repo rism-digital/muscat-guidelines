@@ -8,15 +8,15 @@ W przypadku podawania w swoim wpisie nazwiska osoby lub instytucji (np. w polu u
 
 To samo dotyczy cytowania literatury pomocniczej: w przypadku powoływania się na publikację w polu uwag, należy wpisać ją również w polu **Odniesienie bibliograficzne (691)**.
 
-Conversely, make sure that the relevance of an indexed name or institution is clear, such as through an explanation in a notes field.
+Z drugiej strony należy upewnić się, że znaczenie zaindeksowanej nazwy lub instytucji jest jasne, na przykład poprzez wyjaśnienie w polach dot. uwag.
 
-#### 2. Citing secondary literature
+#### 2. Przytaczanie literatury pomocniczej
 
-Information that is not found on the source may be included in the RISM record, but the secondary literature should be cited. For example, if the composer of a manuscript is known through a journal article, or if the publication year for a printed edition is given in a published study on the publisher, the source of the information should be made clear through a **General note (500)** and indexed in the field **Bibliographic reference (691)**.
+Informacje, których brakuje w źródle, mogą zostać dodane w rekordzie RISM, ale należy podać literaturę pomocniczą. Na przykład, jeśli kompozytor rękopisu jest znany poprzez artykuł lub jeśli rok wydania druku muzycznego podano w opracowaniu poświęconemu wydawcy, źródło informacji powinno być jasno określone w polu **Uwaga ogólna (500)** i **Odniesienie bibliograficzne (691)**.
 
-#### 3. 3. URLs and links to external resources
+#### 3. Adresy URL i linki do zasobów zewnętrznych
 
-Always use permalinks, in particular when linking to digitized music in the field **External resource (856)**.
+Zawsze należy używać permalinków przy linkowaniu do zdigitalizowanych źródeł muzycznych, w szczególności w polu **Zasoby zewnętrzne (856)**.
 
 If you want to link to a website, do not enter the URL in a notes field. Rather, enter the resource as a bibliographic reference. Then, link to it in the field **Bibliographic reference (691)** and refer to it by its short title in a notes field. This is done by entering it in the **Secondary literature** authority. This provides users with access to complete bibliographic information, and if the URL changes then an update is only needed once through the **Secondary literature** database.
 
