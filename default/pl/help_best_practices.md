@@ -1,12 +1,12 @@
-### RISM Best Practices
+### Dobre praktyki RISM
 
-This section outlines best practices when cataloging for RISM; that is, conventions that are not codified in the guidelines but nevertheless contribute to sound, reliable, and transparent records.
+Ta sekcja omawia dobre praktyki katalogowania do RISM; tj. praktyki, które nie zostały omówione w wskazówkach, ale mimo to przyczyniają się do ....
 
-#### 1. Free text fields and indexed fields
+#### 1. Pola tekstowe i pola indeksowane
 
-If you name a person or institution in your record (such as in a notes field), make sure to also enter the name in the indexed fields **Additional personal name (700)** or **Additional institution (710)**.
+W przypadku podawania w swoim wpisie nazwiska osoby lub instytucji (np. w polu uwag), należy to nazwisko wpisać również w indeksowane pola **Dodatkowa osoba (700)** lub **Dodatkowa instytucja (710)**.
 
-The same applies for citing secondary literature: if you refer to a publication in a notes field, make sure to also enter it in the field **Bibliographic reference (691)**.
+To samo dotyczy cytowania literatury pomocniczej: w przypadku powoływania się na publikację w polu uwag, należy wpisać ją również w polu **Odniesienie bibliograficzne (691)**.
 
 Conversely, make sure that the relevance of an indexed name or institution is clear, such as through an explanation in a notes field.
 
