@@ -8,7 +8,7 @@ W przypadku podawania w swoim wpisie nazwiska osoby lub instytucji (np. w polu u
 
 To samo dotyczy cytowania literatury pomocniczej: w przypadku powoływania się na publikację w polu uwag, należy wpisać ją również w polu **Odniesienie bibliograficzne (691)**.
 
-Z drugiej strony należy upewnić się, że znaczenie zaindeksowanej nazwy lub instytucji jest jasne, na przykład poprzez wyjaśnienie w polach dot. uwag.
+Z drugiej strony należy upewnić się, że znaczenie zaindeksowanej nazwy lub instytucji jest jasne, na przykład poprzez wyjaśnienie w polu uwag.
 
 #### 2. Przytaczanie literatury pomocniczej
 
@@ -18,15 +18,15 @@ Informacje, których brakuje w źródle, mogą zostać dodane w rekordzie RISM, 
 
 Zawsze należy używać permalinków przy linkowaniu do zdigitalizowanych źródeł muzycznych, w szczególności w polu **Zasoby zewnętrzne (856)**.
 
-If you want to link to a website, do not enter the URL in a notes field. Rather, enter the resource as a bibliographic reference. Then, link to it in the field **Bibliographic reference (691)** and refer to it by its short title in a notes field. This is done by entering it in the **Secondary literature** authority. This provides users with access to complete bibliographic information, and if the URL changes then an update is only needed once through the **Secondary literature** database.
+W celu wprowadzenia odniesienia do strony www, nie należy wpisywać adresu URL w polu uwag. Zasób należy wprowadzić jako odniesienie bibliograficzne. Co należy wprowadzić w hasłach wzorcowych ** Literatura pomocnicza**. Następnie dodać rekord w polu **Odniesienie bibliograficzne (691)** i podając tytuł skrócony w polu uwag. Zapewnia to użytkownikom dostęp do pełnych informacji bibliograficznych, i jeśli URL zmieni się, aktualizacja jest potrzebna tylko w bazie haseł wzorcowych **literatury pomocniczaj**.
 
-For books found on Google Books or other online repositories, always create a bibliographic record in the **Secondary literature** authority for the book itself and not the repository; that is, cite the book and not Google Books.
+Dla książek znalezionych w Google Books lub innych repozytoriach cyfrowych, zawsze stwórz rekord bibliograficzny w bazie haseł wzorcowych **Literatura pomocnicza** dla samej książki, a nie dla cyfrowego zasobu. To znaczy, cytujemy książkę, a nie Google Books.
 
-For databases cited as secondary literature, as a convenience for our users you may cite the database in the **Bibliographic reference (691)** field and then provide a direct link to the entry in the database through the **External resource (856)** field.
+Dla baz danych wymienionych jako literatura pomocnicza, jako wygoda dla naszych użytkowników, możesz przytoczyć bazę danych w polu **Odniesienie Bibliograficzne (691)**, a następnie podać bezpośredni link do wpisu w bazie danych za pośrednictwem pola **Zasób zewnętrzny (856)**.
 
-If you wish to refer to a musical source that is digitized but not in RISM, contact the RISM Editorial Center to discuss having the source added.
+Jeśli chcesz odnieść się do źródła muzycznego, które jest zdigitalizowane, ale nie znajduje się w RISM, skontaktuj się z Editorial Center RISM w celu omówienia kwestii dodania źródła.
 
-#### 4. Making identifications
+#### 4. Dokonywanie identyfikacji
 
 Frequently, important information—such as names of composers or titles of pieces—is not always named on the source itself. It is sometimes possible to make identifications based on the secondary literature, reference sources, other RISM records, or archival sources. If you draw upon such resources, always be clear in the record about what you used to make the identification: name the resource or source in RISM (with siglum, shelfmark, and RISM ID number) in a **General note (500)** and add a **Bibliographic reference (691)** if appropriate. Make sure it is clear for later RISM users how you came to your conclusions. More detailed, explanatory information not relevant for the public can be included in an **Internal note (599)** if needed.
 
