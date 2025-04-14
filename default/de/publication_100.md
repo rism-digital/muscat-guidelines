@@ -2,12 +2,12 @@
 
 Das Feld **Autor** ist für die Person, die für die Publikation verantwortlich ist.
 
-#### Name (100 $a)
+#### Personenname (100 $a)
 
 Geben Sie den Namen des Hauptautors der Publikation ein. Editors of facsimile or modern music editions are entered in this field.
 
-Editors of volumes of essays or composers of modern editions are entered in the field **Additional personal name (700)**.
+Herausgeber von Aufsatzsammlungen oder Komponistennamen moderner Editionen werden im Feld **Sonstige Person (700)** eingetragen.
 
-For publications that have more than one author, choose one to enter in this field. The other name(s) can be added in the field **Additional personal name (700)**.
+Bei Publikationen mit mehr als einem Autor, wählen Sie einen aus, den Sie in dieses Feld eintragen. Die anderen Namen können im Feld **Sonstige Person (700)** ergänzt werden.
 
-This field is linked to the **Personal Names** authority file through $0. Life dates are displayed in $d.
+Das Feld ist mit der Normdatei **Personen** über $0 verknüpft. Die Lebensdaten werden in $d angezeigt.

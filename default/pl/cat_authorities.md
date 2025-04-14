@@ -8,7 +8,7 @@ Baza danych obiektów cyfrowych gromadzi wszystkie obrazy (zazwyczaj znaki wodne
 
 ## Instytucje
 
-Plik autorytatywny nazw osobowych opisuje wszelkie osoby powiązane ze źródłem, lub innym rekordem autorytatywnym w Muscat. RISM jest współtwórcą [VIAF (Virtual International Authority File)](https://www.viaf.org/), więc nazwy wnoszone do RISM są regularnie wysyłane do VIAF. Nazwy osobowe można dodawać w polach **Nazwa kompozytora/autora (100 $a)** i **Dodatkowa osoba (700 $a)** w Źródłach, **Imię i nazwisko (700 $a)** w Instytucjach, **Powiązana osoba (500 $a)** w Nazwach osobowych, **Autor (100 $a)** i **Dodatkowa osoba (700 $a)** w Literaturze pomocniczej oraz Kompozytor (100 $a)</strong> w rekordach Dzieł.
+Plik autorytatywny nazw osobowych opisuje wszelkie osoby powiązane ze źródłem, lub innym rekordem autorytatywnym w Muscat. RISM jest współtwórcą [VIAF (Virtual International Authority File)](https://www.viaf.org/), więc nazwy wnoszone do RISM są regularnie wysyłane do VIAF. Instytucje można dodawać w polu **Dodatkowa instytucja (710 $a)** w Źródłach, **Dodatkowa instytucja (710 $a)** w Instytucjach, ** Powiązana instytucja (510 $a)** w Osobach i **Dodatkowa instytucja (710 $a)** w Literaturze pomocniczej.
 
 ## Święta liturgiczne
 

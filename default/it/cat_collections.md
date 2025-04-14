@@ -89,6 +89,8 @@ Lingua del testo originale (041 $h): La lingua della composizione originale
 
 Inserisci due incipit testuali (usa il segno + per aggiungere una nuova riga).\
 L'incipit testuale del testo attuale\
+L'incipit testuale del testo originale, se questo è noto, tra parentesi quadre.\
+L'incipit testuale del testo attuale\
 L'incipit testuale del testo originale, se questo è noto, tra parentesi quadre.
 
 - Alma redemptoris mater, quae pervia caeli
@@ -281,6 +283,11 @@ RISM includes music found in printed publications that are not primarily music d
 ##### Esempio:
 
 990026614: 3 canzoni di John Isaac Hawkins pubblicate nel _Discourse introductory to a course of lectures on the science of nature_ di Charles Willson Peale (1800).\
+**Compositore/Autore (100)**: Il compositore della musica\
+**Nome aggiuntivo di persona (700)**: L'autore del libro, con l'indicatore **Altra funzione**\
+**Titolo diplomatico (245)**: Il titolo del libro\
+**Titolo uniforme (240)**: Un titolo uniforme secondo le regole RISM, ad esempio **3 Songs**\
+**Descrizione fisica (300)**: Descrizione della musica, ad esempio **1 score: 5 p.**\
 **Compositore/Autore (100)**: Il compositore della musica\
 **Nome aggiuntivo di persona (700)**: L'autore del libro, con l'indicatore **Altra funzione**\
 **Titolo diplomatico (245)**: Il titolo del libro\

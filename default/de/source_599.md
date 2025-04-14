@@ -1,6 +1,6 @@
 ### Interne Bemerkungen (599)
 
-Im Feld **Interne Bermekungen**werden allgemeine Angaben gemacht, die nicht zur Veröffentlichung bestimmt sind. Interne Bemerkungen werden nicht in den RISM-Katalogen oder den RISM Open Data veröffentlicht.
+Im Feld **Interne Bemerkungen** werden allgemeine Angaben gemacht, die nicht zur Veröffentlichung bestimmt sind. Interne Bemerkungen werden nicht in öffentliche Kataloge exportiert oder in den LOD RISM-Daten zur Verfügung gestellt.
 
 #### Interne Bemerkungen (599 $a)
 
@@ -12,7 +12,7 @@ Geben Sie lokale Notizen für den internen Gebrauch ein, auch für die Verwendun
 - 007 Weitere
 - 090 Kombinierte Angaben
 - 791 Neue Nr.
-- 792 Card index no.
+- 792 Karten-Index Nr.
 - 942 Kompositionsdatum
 
 Es folgten in der Regel Abkürzungen, die auf den Katalogisierer hinweisen.

@@ -4,7 +4,7 @@ Das Feld **Elektronische Lokalisierung und Zugriff** wird verwendet, um auf exte
 
 #### Elektronische Lokalisierung und Zugriff (856 $u)
 
-Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**. Verwenden Sie möglichst Permalinks.
+Geben Sie die URL ein. Geben Sie nur eine URL pro Feld ein. Alle URLs müssen mit **http** oder **https** beginnen. Verwenden Sie möglichst Permalinks.
 
 #### Für das Publikum bestimmte Fussnote (856 $z)
 
