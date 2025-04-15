@@ -28,14 +28,14 @@ Jeśli chcesz odnieść się do źródła muzycznego, które jest zdigitalizowan
 
 #### 4. Dokonywanie identyfikacji
 
-Frequently, important information—such as names of composers or titles of pieces—is not always named on the source itself. It is sometimes possible to make identifications based on the secondary literature, reference sources, other RISM records, or archival sources. If you draw upon such resources, always be clear in the record about what you used to make the identification: name the resource or source in RISM (with siglum, shelfmark, and RISM ID number) in a **General note (500)** and add a **Bibliographic reference (691)** if appropriate. Make sure it is clear for later RISM users how you came to your conclusions. More detailed, explanatory information not relevant for the public can be included in an **Internal note (599)** if needed.
+Często ważne informacje takie jak kompozytor czy tytuły kompozycji nie zawsze są podane na źródle. Czasami identyfikacji można dokonać na podstawie literatury pomocniczej, źródeł referencyjnych, innych rekordów RISM, a nawet źródeł archiwalnych, do których użytkownik systemu ma dostęp. W przypadku korzystania z takich zasobów, zawsze należy jasno określić w rekordzie, czego użyto do identyfikacji: należy podać nazwę zasobu w polu **Uwaga ogólna (500)** i w razie potrzeby dodać informację w polu **Odniesienie bibliograficzne (691)**. Dla kolejnych użytkowników RISM musi być jasne, w jaki sposób osoba wprowadzająca dane do systemu doszła do swoich wniosków. W razie potrzeby bardziej szczegółowe, wyjaśnienia, które nie są istotne dla zewnętrznych użytkowników, mogą być zawarte w adnotacji **Pole uwag miejscowych (599 $a)**.
 
-#### 5. Creating records based on descriptions from printed catalogs or online library catalogs
+#### 5. Tworzenie rekordów na podstawie opisów z drukowanych katalogów lub katalogów bibliotek online
 
-Sometimes it is not possible to access the source in person and the only description available is in a printed catalog, catalog of works, or online library catalog. Such descriptions may be used as the basis of a RISM record. When doing so:
+Czasamie nie jest możliwe dotarcie do źródła osobiście i jedyny dostępny opis znajduje się w katalogach drukowanych, monograficznych katalogach dzieł lub katalogach online. Takie opisy mogą być wykorzystywane jako podstawa rekordu RISM. Czyniąc to:
 
-- Include a **General note (500)** that identifies the source of information, such as "Record based on description in YouV"
-- Link to the source of information in the field **Catalog of works (690)**, **Bibliographic reference (691)**, or **External resource** (856) as appropriate
+- Dodaj w polu ** Uwaga ogólna (500)** informację o identyfikującym źródle, takie jak „Zapis oparty na YouV”.
+- Źródło, na podstawie którego stworzono rekord dodaj w polach: **Katalog utworów**, **Odniesienie Bibliograficzne (691)** lub w **Zasób zewnętrzny (856)** stosownie do przypadku.
 - In the field **Record origin (980)**, subfield **Material examined**, select **Material not examined**
 
 #### 6. The shared cataloging environment of printed music
