@@ -36,16 +36,16 @@ Czasamie nie jest możliwe dotarcie do źródła osobiście i jedyny dostępny o
 
 - Dodaj w polu ** Uwaga ogólna (500)** informację o identyfikującym źródle, takie jak „Zapis oparty na YouV”.
 - Źródło, na podstawie którego stworzono rekord dodaj w polach: **Katalog utworów**, **Odniesienie Bibliograficzne (691)** lub w **Zasób zewnętrzny (856)** stosownie do przypadku.
-- In the field **Record origin (980)**, subfield **Material examined**, select **Material not examined**
+- W polu **Pochodzenie rekordu (980)** podpolu **Materiał zbadany**, wybrać **Materiał niezbadany**.
 
-#### 6. The shared cataloging environment of printed music
+#### 6. Współdzielone środowisko katalogowania druków muzycznych
 
-Bibliographic records for printed editions exist in a shared cataloging environment where multiple libraries have editing rights to the same record. This differs from manuscripts, which are unique to the holding library. Due to the shared environment, care must be taken so that the implications of adding or deleting information from core bibliographic records is thought through.
+Rekordy bibliograficzne dla druków muzycznych funkcjonują we wspólnym środowisku katalogowania, w którym wiele bibliotek ma prawa do edycji tego samego rekordu. Różni się to od rękopisów, które są unikalne dla biblioteki posiadajacej. W zwiazku z tym, należy szczególnie uważać podczas dodawania lub usuwania informacji z rekordu bibliograficznego.
 
-Catalogers should not remove information from the core record if it is correct. Administrative information is stored in the records that can explain decisions made by the Editorial Center and the relationship to other records. Never delete a note that indicates that a record was merged with another record. Do not delete or edit data in the fields **Initial entry in A/I (775)**, **Local number (035)**, or **RISM series (510)**.
+Katalogerzy nie powinny usuwać informacji z rekordu bibliograficznego, jeśli są poprawne. Informacje administracyjne są przechowywane w rekordach które mogą wyjaśniać decyzje podejmowane przez Editorial Center w kontekscie innych rekordów. Nie usuwaj ani nie edytuj danych w polach **Początkowy wpis (775) w serii A/I**, **Numer lokalny (035) **lub **Seria RISM (510))**. Nigdy nie usuwaj informacji, która wskazuje, że rekord został połączony z innym rekordem („merged with”).
 
-If a record has already been revised by another working group (evident by the presence of a library's siglum and shelfmark in the field **Source of description note (588)**), use cataloger's judgement as to whether further revision is necessary. If you make further changes, make it clear in the note what revisions you contributed.
+Jeśli rekord został już poddany rewizji przez inną grupę roboczą (widoczne przez obecność siglum i sygnaturę biblioteki w polu **Uwaga o źródle opisu (588)**), należy operać się na osądzie katalogera czy konieczna jest dalsza rewizja. Jeśli wprowadzisz dalsze zmiany, w notatce wyjaśnij, jakie zmiany naniosłeś.
 
-If your copy is incomplete, revisions might still be possible, but make it clear in the **Source of description note (588)** that your copy is incomplete.
+Jeżeli Twój egzemplarz jest niekompletny, rewizje są wciąż możliwe, ale podkreśl w polu **Uwaga o źródle opisu (588)**, że Twój egzemplarz jest niekompletny.
 
-If you wish to edit a record that was previously described using an incomplete copy, it must first be ensured that the accurate material information is preserved in the holdings record of the library with the incomplete copy. The Editorial Center can assist with transferring data to holdings records.
+Jeśli chcesz edytować rekord poprzednio opisany przy użyciu niekompletnego egzemplarza, w pierwszej kolejności należy dopilnować, aby odpowiednie informacje na temat przechowywanego materiału były zachowane w rekordzie egzemplarza instytucji, która jest właścicielem niekompletnego egzemplarza. Editorial Center może pomóc w przeniesieniem danych do rekordów egzemplarza.
