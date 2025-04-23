@@ -4,7 +4,7 @@ Das Feld **Untergeordnete Einträge** listet die RISM ID No. aller mit dem Daten
 
 #### Untergeordnete Einträge (774 $w)
 
-RISM ID numbers are added automatically from child records and displayed here.
+RISM ID No. werden automatisch aus untergeordneten Datensätzen hinzugefügt und hier angezeigt.
 
-_MARC export note:_  
-Upon export, $a is generated which contains normalized data from the 100 $a and 240 $a of the linked record.  
+_MARC-Export-Notiz:_  
+Beim Export wird $a erzeugt, das normierte Daten aus 100 $a und 240 $a des verknüpften Datensatzes enthält.  
