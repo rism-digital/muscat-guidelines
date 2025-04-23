@@ -1,8 +1,8 @@
-### Items in this source (774)
+### Untergeordnete Einträge (774)
 
-The field **Items in this source** lists the RISM ID numbers of all records linked to the record.
+Das Feld **Untergeordnete Einträge** listet die RISM ID No. aller mit dem Datensatz verbundenen Datensätze auf.
 
-#### Items in this source (774 $w)
+#### Untergeordnete Einträge (774 $w)
 
 RISM ID numbers are added automatically from child records and displayed here.
 
