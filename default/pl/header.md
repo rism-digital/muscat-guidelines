@@ -1,1 +1,1 @@
-Guidelines Header
+Nagłówek wytycznych

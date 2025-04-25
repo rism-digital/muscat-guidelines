@@ -1,13 +1,13 @@
-### Initial entry in A/I (775)
+### Ersteintrag in A/I (775)
 
-The field **Initial entry in A/I** links to the RISM ID number that corresponds to the edition that was listed first in the RISM publication _Einzeldrucke vor 1800/Individual prints before 1800_ (A/I).
+Das Feld **Ersteintrag in A/I** verweist auf die RISM ID No., die der Ausgabe entspricht, die in der RISM-Publikation _Einzeldrucke vor 1800/Individual prints before 1800_ (A/I) zuerst aufgeführt wurde.
 
-#### Initial entry in A/I (775 $w)
+#### Ersteintrag in A/I (775 $w)
 
-Do not edit this field.
+Bitte nicht bearbeiten.
 
-In A/I, it was frequently the case that multiple editions of a single piece could be identified. These editions were listed together within the composer's entry. Instead of listing full titles for each edition (titles which were frequently the same or similar), a space-saving shortcut was employed in which a full title was given for the edition at the start of the list, and a dash (-) was given to the subsequent editions for the rest of the list. An entry that started with a dash therefore meant that the full title should be inferred from the edition given in full at the start of the list.
+In der Kategorie A/I konnten häufig mehrere Ausgaben eines Werkes identifiziert werden. Diese Ausgaben wurden im Eintrag des Komponisten zusammen aufgeführt. Anstelle der Auflistung der vollständigen Titel für jede Ausgabe (die häufig gleich oder ähnlich waren), wurde eine platzsparende Abkürzung verwendet, bei der ein vollständiger Titel für die Ausgabe am Anfang der Liste angegeben wurde und ein Gedankenstrich (-) für die nachfolgenden Ausgaben. Ein Eintrag, der mit einem Gedankenstrich beginnt, bedeutet also, dass der vollständige Titel der am Anfang des Verzeichnisses angegebenen vollständigen Ausgabe zu entnehmen ist.
 
-In Muscat, the entry with the full title is called the "initial entry" and the entries that had dashes in A/I are called "following entries." The arrangement in A/I is recreated by linking from the following entries to the initial entry. This linking is necessary because the following entries, in many cases, still lack full title information.
+In Muscat wird der Eintrag mit dem vollständigen Titel als "Ersteintrag" bezeichnet, während die Einträge mit den Gedankenstrichen in A/I als "Folgeeinträge" bezeichnet werden. Die Anordnung in A/I wird durch Verknüpfung der folgenden Einträge mit dem Ersteintrag neu erstellt. Diese Verknüpfung ist notwendig, weil die folgenden Einträge in vielen Fällen noch keine vollständigen Titelinformationen enthalten.
 
-It should be noted that the listing in A/I, and therefore the linking in Muscat, did not and does not correspond to any hierarchy in a sense of first editions and reprints. Though chronological order was attempted when feasible, it was hardly consistent or indeed possible to determine.
+Es sei darauf hingewiesen, dass die Auflistung in A/I und damit die Verknüpfung in Muscat keiner Hierarchie im Sinne von Erstausgaben und Nachdrucken entsprach und entspricht. Es wurde zwar versucht, sofern möglich eine chronologische Reihenfolge festzulegen, doch war diese kaum einheitlich oder überhaupt feststellbar.

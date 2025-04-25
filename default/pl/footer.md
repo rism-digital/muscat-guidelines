@@ -1,1 +1,1 @@
-Guidelines footer
+Stopka wytycznych

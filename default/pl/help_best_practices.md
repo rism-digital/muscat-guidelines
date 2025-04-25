@@ -1,51 +1,51 @@
-### RISM Best Practices
+### Dobre praktyki RISM
 
-This section outlines best practices when cataloging for RISM; that is, conventions that are not codified in the guidelines but nevertheless contribute to sound, reliable, and transparent records.
+Ta sekcja omawia dobre praktyki katalogowania do RISM; tj. praktyki, które nie zostały omówione w wskazówkach, ale mimo to przyczyniają się do dokładnego, rzetelnego i zrozumiałego opracowania rekordów.
 
-#### 1. Free text fields and indexed fields
+#### 1. Pola tekstowe i pola indeksowane
 
-If you name a person or institution in your record (such as in a notes field), make sure to also enter the name in the indexed fields **Additional personal name (700)** or **Additional institution (710)**.
+W przypadku podawania w swoim wpisie nazwiska osoby lub instytucji (np. w polu uwag), należy to nazwisko wpisać również w indeksowane pola **Dodatkowa osoba (700)** lub **Dodatkowa instytucja (710)**.
 
-The same applies for citing secondary literature: if you refer to a publication in a notes field, make sure to also enter it in the field **Bibliographic reference (691)**.
+To samo dotyczy cytowania literatury pomocniczej: w przypadku powoływania się na publikację w polu uwag, należy wpisać ją również w polu **Odniesienie bibliograficzne (691)**.
 
-Conversely, make sure that the relevance of an indexed name or institution is clear, such as through an explanation in a notes field.
+Z drugiej strony należy upewnić się, że znaczenie zaindeksowanej nazwy lub instytucji jest jasne, na przykład poprzez wyjaśnienie w polu uwag.
 
-#### 2. Citing secondary literature
+#### 2. Przytaczanie literatury pomocniczej
 
-Information that is not found on the source may be included in the RISM record, but the secondary literature should be cited. For example, if the composer of a manuscript is known through a journal article, or if the publication year for a printed edition is given in a published study on the publisher, the source of the information should be made clear through a **General note (500)** and indexed in the field **Bibliographic reference (691)**.
+Informacje, których brakuje w źródle, mogą zostać dodane w rekordzie RISM, ale należy podać literaturę pomocniczą. Na przykład, jeśli kompozytor rękopisu jest znany poprzez artykuł lub jeśli rok wydania druku muzycznego podano w opracowaniu poświęconemu wydawcy, źródło informacji powinno być jasno określone w polu **Uwaga ogólna (500)** i **Odniesienie bibliograficzne (691)**.
 
-#### 3. 3. URLs and links to external resources
+#### 3. Adresy URL i linki do zasobów zewnętrznych
 
-Always use permalinks, in particular when linking to digitized music in the field **External resource (856)**.
+Zawsze należy używać permalinków przy linkowaniu do zdigitalizowanych źródeł muzycznych, w szczególności w polu **Zasoby zewnętrzne (856)**.
 
-If you want to link to a website, do not enter the URL in a notes field. Rather, enter the resource as a bibliographic reference. Then, link to it in the field **Bibliographic reference (691)** and refer to it by its short title in a notes field. This is done by entering it in the **Secondary literature** authority. This provides users with access to complete bibliographic information, and if the URL changes then an update is only needed once through the **Secondary literature** database.
+W celu wprowadzenia odniesienia do strony www, nie należy wpisywać adresu URL w polu uwag. Zasób należy wprowadzić jako odniesienie bibliograficzne. Co należy wprowadzić w hasłach wzorcowych ** Literatura pomocnicza**. Następnie dodać rekord w polu **Odniesienie bibliograficzne (691)** i podając tytuł skrócony w polu uwag. Zapewnia to użytkownikom dostęp do pełnych informacji bibliograficznych, i jeśli URL zmieni się, aktualizacja jest potrzebna tylko w bazie haseł wzorcowych **literatury pomocniczaj**.
 
-For books found on Google Books or other online repositories, always create a bibliographic record in the **Secondary literature** authority for the book itself and not the repository; that is, cite the book and not Google Books.
+Dla książek znalezionych w Google Books lub innych repozytoriach cyfrowych, zawsze stwórz rekord bibliograficzny w bazie haseł wzorcowych **Literatura pomocnicza** dla samej książki, a nie dla cyfrowego zasobu. To znaczy, cytujemy książkę, a nie Google Books.
 
-For databases cited as secondary literature, as a convenience for our users you may cite the database in the **Bibliographic reference (691)** field and then provide a direct link to the entry in the database through the **External resource (856)** field.
+Dla baz danych wymienionych jako literatura pomocnicza, jako wygoda dla naszych użytkowników, możesz przytoczyć bazę danych w polu **Odniesienie Bibliograficzne (691)**, a następnie podać bezpośredni link do wpisu w bazie danych za pośrednictwem pola **Zasób zewnętrzny (856)**.
 
-If you wish to refer to a musical source that is digitized but not in RISM, contact the RISM Editorial Center to discuss having the source added.
+Jeśli chcesz odnieść się do źródła muzycznego, które jest zdigitalizowane, ale nie znajduje się w RISM, skontaktuj się z Editorial Center RISM w celu omówienia kwestii dodania źródła.
 
-#### 4. Making identifications
+#### 4. Dokonywanie identyfikacji
 
-Frequently, important information—such as names of composers or titles of pieces—is not always named on the source itself. It is sometimes possible to make identifications based on the secondary literature, reference sources, other RISM records, or archival sources. If you draw upon such resources, always be clear in the record about what you used to make the identification: name the resource or source in RISM (with siglum, shelfmark, and RISM ID number) in a **General note (500)** and add a **Bibliographic reference (691)** if appropriate. Make sure it is clear for later RISM users how you came to your conclusions. More detailed, explanatory information not relevant for the public can be included in an **Internal note (599)** if needed.
+Często ważne informacje takie jak kompozytor czy tytuły kompozycji nie zawsze są podane na źródle. Czasami identyfikacji można dokonać na podstawie literatury pomocniczej, źródeł referencyjnych, innych rekordów RISM, a nawet źródeł archiwalnych, do których użytkownik systemu ma dostęp. W przypadku korzystania z takich zasobów, zawsze należy jasno określić w rekordzie, czego użyto do identyfikacji: należy podać nazwę zasobu w polu **Uwaga ogólna (500)** i w razie potrzeby dodać informację w polu **Odniesienie bibliograficzne (691)**. Dla kolejnych użytkowników RISM musi być jasne, w jaki sposób osoba wprowadzająca dane do systemu doszła do swoich wniosków. W razie potrzeby bardziej szczegółowe, wyjaśnienia, które nie są istotne dla zewnętrznych użytkowników, mogą być zawarte w adnotacji **Pole uwag miejscowych (599 $a)**.
 
-#### 5. Creating records based on descriptions from printed catalogs or online library catalogs
+#### 5. Tworzenie rekordów na podstawie opisów z drukowanych katalogów lub katalogów bibliotek online
 
-Sometimes it is not possible to access the source in person and the only description available is in a printed catalog, catalog of works, or online library catalog. Such descriptions may be used as the basis of a RISM record. When doing so:
+Czasamie nie jest możliwe dotarcie do źródła osobiście i jedyny dostępny opis znajduje się w katalogach drukowanych, monograficznych katalogach dzieł lub katalogach online. Takie opisy mogą być wykorzystywane jako podstawa rekordu RISM. Czyniąc to:
 
-- Include a **General note (500)** that identifies the source of information, such as "Record based on description in YouV"
-- Link to the source of information in the field **Catalog of works (690)**, **Bibliographic reference (691)**, or **External resource** (856) as appropriate
-- In the field **Record origin (980)**, subfield **Material examined**, select **Material not examined**
+- Dodaj w polu ** Uwaga ogólna (500)** informację o identyfikującym źródle, takie jak „Zapis oparty na YouV”.
+- Źródło, na podstawie którego stworzono rekord dodaj w polach: **Katalog utworów**, **Odniesienie Bibliograficzne (691)** lub w **Zasób zewnętrzny (856)** stosownie do przypadku.
+- W polu **Pochodzenie rekordu (980)** podpolu **Materiał zbadany**, wybrać **Materiał niezbadany**.
 
-#### 6. The shared cataloging environment of printed music
+#### 6. Współdzielone środowisko katalogowania druków muzycznych
 
-Bibliographic records for printed editions exist in a shared cataloging environment where multiple libraries have editing rights to the same record. This differs from manuscripts, which are unique to the holding library. Due to the shared environment, care must be taken so that the implications of adding or deleting information from core bibliographic records is thought through.
+Rekordy bibliograficzne dla druków muzycznych funkcjonują we wspólnym środowisku katalogowania, w którym wiele bibliotek ma prawa do edycji tego samego rekordu. Różni się to od rękopisów, które są unikalne dla biblioteki posiadajacej. W zwiazku z tym, należy szczególnie uważać podczas dodawania lub usuwania informacji z rekordu bibliograficznego.
 
-Catalogers should not remove information from the core record if it is correct. Administrative information is stored in the records that can explain decisions made by the Editorial Center and the relationship to other records. Never delete a note that indicates that a record was merged with another record. Do not delete or edit data in the fields **Initial entry in A/I (775)**, **Local number (035)**, or **RISM series (510)**.
+Katalogerzy nie powinny usuwać informacji z rekordu bibliograficznego, jeśli są poprawne. Informacje administracyjne są przechowywane w rekordach które mogą wyjaśniać decyzje podejmowane przez Editorial Center w kontekscie innych rekordów. Nie usuwaj ani nie edytuj danych w polach **Początkowy wpis (775) w serii A/I**, **Numer lokalny (035) **lub **Seria RISM (510))**. Nigdy nie usuwaj informacji, która wskazuje, że rekord został połączony z innym rekordem („merged with”).
 
-If a record has already been revised by another working group (evident by the presence of a library's siglum and shelfmark in the field **Source of description note (588)**), use cataloger's judgement as to whether further revision is necessary. If you make further changes, make it clear in the note what revisions you contributed.
+Jeśli rekord został już poddany rewizji przez inną grupę roboczą (widoczne przez obecność siglum i sygnaturę biblioteki w polu **Uwaga o źródle opisu (588)**), należy operać się na osądzie katalogera czy konieczna jest dalsza rewizja. Jeśli wprowadzisz dalsze zmiany, w notatce wyjaśnij, jakie zmiany naniosłeś.
 
-If your copy is incomplete, revisions might still be possible, but make it clear in the **Source of description note (588)** that your copy is incomplete.
+Jeżeli Twój egzemplarz jest niekompletny, rewizje są wciąż możliwe, ale podkreśl w polu **Uwaga o źródle opisu (588)**, że Twój egzemplarz jest niekompletny.
 
-If you wish to edit a record that was previously described using an incomplete copy, it must first be ensured that the accurate material information is preserved in the holdings record of the library with the incomplete copy. The Editorial Center can assist with transferring data to holdings records.
+Jeśli chcesz edytować rekord poprzednio opisany przy użyciu niekompletnego egzemplarza, w pierwszej kolejności należy dopilnować, aby odpowiednie informacje na temat przechowywanego materiału były zachowane w rekordzie egzemplarza instytucji, która jest właścicielem niekompletnego egzemplarza. Editorial Center może pomóc w przeniesieniem danych do rekordów egzemplarza.

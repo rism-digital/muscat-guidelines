@@ -1,15 +1,15 @@
-### Parent record (773)
+### Übergeordneter Eintrag (773)
 
-The field **Parent record** links the record to a parent record or a composite volume.
+Das Feld **Übergeordneter Eintrag** verknüpft den Datensatz mit einem übergeordneten Datensatz oder einem Konvolut-Datensatz.
 
-#### Parent record (773 $w)
+#### Übergeordneter Eintrag (773 $w)
 
-Enter the RISM ID number of the record for the parent or composite volume. The first button links to a parent record (also called "main entry" or "collection record") in cases where the record is part of a collection.
+Geben Sie die RISM ID No. des Datensatzes für den übergeordneten oder Konvolut-Datensatz ein. Die erste Schaltfläche verweist auf einen übergeordneten Datensatz (auch "Haupteintrag" oder "Sammeleintrag" genannt), wenn der Datensatz Teil einer Sammlung ist.
 
-The second button links to a record for a composite volume in cases where the record was bound together with other items.
+Die zweite Schaltfläche verweist auf einen Datensatz für einen Konvolutband, wenn der Datensatz mit anderen Einheiten zusammengebunden wurde.
 
-Always link to the next highest level.
+Verlinken Sie immer auf die nächsthöhere Ebene.
 
-Click the appropriate button and search for the RISM ID number of the parent record or composite volume. Then, click **Select** to create the link.
+Klicken Sie auf die entsprechende Schaltfläche und suchen Sie nach der RISM ID No. des übergeordneten Datensatzes oder des Konvolutbandes. Klicken Sie dann auf **Select**, um den Link zu erstellen.
 
-_MARC export note:_ Upon export, $a and $t are generated which contain normalized data from the 100 $a and 240 $a of the linked record.  
+_MARC-Export-Notiz:_ Beim Export werden $a und $t erzeugt, die normierte Daten aus 100 $a und 240 $a des verknüpften Datensatzes enthalten.  

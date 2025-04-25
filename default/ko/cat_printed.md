@@ -72,13 +72,12 @@ Printed music bears distinctive titles much more frequently than music manuscrip
 
 Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms. Frequent changes include _v_ to _u_, _i_ to _j_ , _y_ to _i_, and _uu_ to _w_. Additional variations can be entered in the field **Additional title (730)**.
 
-<figure>
-RISM A/I: RR 3030c
+##### Example
 
-- Title on source: Musicalische Grab=schrifft.
-- Standardized title: Musikalische Grabschrift
-  <figcaption>Example</figcaption>
-</figure>
+- RISM ID no. 991009151
+ - Title on source: Musicalische Grab=schrifft.
+ - Standardized title: Musikalische Grabschrift
+
 
 2. **Deriving a standardized title**
 
@@ -116,7 +115,7 @@ If your institution owns multiple copies (exemplars) of the same printed edition
 
 ### Microfilm copies
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record. Links to a description of the microfilm in your institution's local catalog may be added if available.
+Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record.
 
 #### Example
 - RISM ID no. 990052954, copy in B-Bc:  
