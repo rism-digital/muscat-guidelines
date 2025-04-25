@@ -22,6 +22,6 @@ For a chapter within a collection of essays, enter the page numbers of the chapt
 
 ##### Example
 
-- p. p. p. p. 76-109
+- p. p. p. p. p. 76-109
 
 As a general rule, make sure to include enough information so that someone else would be able to find the item themselves.
