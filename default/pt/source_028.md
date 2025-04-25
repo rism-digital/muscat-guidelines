@@ -16,7 +16,7 @@ The statement "[without plate number]" in English is allowed and serves to conve
 
 ##### Examples
 
-- B. H. 4 4 4 4
+- B. H. 4 4 4 4 4
 - 424
 - 5251.5252.
 - 732a
