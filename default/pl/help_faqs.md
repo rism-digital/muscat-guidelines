@@ -1,16 +1,16 @@
-### Frequently asked questions
+### Odpowiedzi na częste pytania
 
-This section contains information about Muscat that is not related to the cataloging guidelines.
+Ta część zawiera informacje o Muscacie, które nie są związane z wytycznymi dotyczącymi katalogowania.
 
-#### 1. Where can I find tutorials about Muscat?
+#### 1. Gdzie mogę znaleźć tutoriale na temat programu Muscat?
 
-All of the tutorials are linked on the [RISM Editorial Center's Muscat page](https://rism.info/community/muscat.html).
+Linki do wszystkich tutoriali znajdują się na stronie programu Muscat [RISM Editorial Center](https://rism.info/community/muscat.html):
 
-#### 2. How can I contact other Muscat users?
+#### 2. Jak mogę skontaktować się z innymi użytkownikami Muscat?
 
-You can contact the Muscat developers to report any errors, questions, comments, or suggestions to [muscat@rism.info](mailto:muscat@rism.info) at any time.
+Wszelkie błędy, pytania, komentarze i sugestie można zgłaszać w dowolnym momencie na adres [muscat@rism.info](mailto:muscat@rism.info).
 
-**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, a Google Group, is the official Muscat discussion list to which each Muscat user belongs. Official announcements from the Editorial Center and the Muscat developers are disseminated solely through this group. In addition, all Muscat users are encouraged to ask questions or raise topics for discussion. A Google account is not required.
+**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, grupa Google, jest oficjalną grupą dyskusyjną Muscat, do której należy każdy użytkownik Muscat. Official announcements from the Editorial Center and the Muscat developers are disseminated solely through this group. In addition, all Muscat users are encouraged to ask questions or raise topics for discussion. A Google account is not required.
 
 There is also a discussion channel for the RISM community on Slack at:   
 [https://rismcommunity.slack.com/](https://rismcommunity.slack.com/)
