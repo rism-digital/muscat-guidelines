@@ -1,7 +1,7 @@
-### Binding note (563)
+### Einband (563)
 
-The field **Binding note** is for information related to the binding of the item or how it is bound.
+Das Feld **Einband** ist für Informationen über die Bindung der Quelle oder die Art der Bindung.
 
-#### Binding note (563 $a)
+#### Einband (563 $a)
 
-Here you can briefly describe the binding. Enter using your cataloging language. If a source exists unbound in fascicles, it can also be mentioned here.
+Hier können Sie kurz die Bindung beschreiben. Verwenden Sie Ihre Katalogisierungssprache. Liegt eine Quelle ungebunden in Faszikeln vor, kann dies auch hier angegeben werden.
