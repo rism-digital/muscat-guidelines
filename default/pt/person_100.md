@@ -11,7 +11,7 @@ For names originally written using non-Latin scripts, enter the transliterated f
 ##### Examples
 
 - Telemann, Georg Philipp
-- A. A. C. A. C. A. C. A. C.
+- A. A. C. A. C. A. C. A. C. A. C.
 - Copyist C. H. Copyist C. H. Copyist C. H. Graun IX (Blechschmidt) Copyist C. H. Copyist C. H. Copyist C. H. Graun IX (Blechschmidt) Copyist C. H. Copyist C. H. Graun IX (Blechschmidt)
 - Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
 - Aylesford, Heneage Finch, 3rd Earl of

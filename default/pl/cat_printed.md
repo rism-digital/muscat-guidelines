@@ -70,7 +70,7 @@ Druki muzyczne zawierają inne tytuły znacznie częściej niż rękopisy muzycz
 
 1. **Pisownia**
 
-Tytuły ujednolicone należy wprowadzać stosując współczesną ortografię, lecz nie należy nadmiernie korygować uzusu archaicznego lub dialektu/regionalizmów. Częste zmiany to zmiana _v_ na _u_, _i_ na _j_, Dodatkowe warianty można wprowadzić w polu **Tytuł dodatkowy (730)**.
+Tytuły ujednolicone należy wprowadzać stosując współczesną ortografię, lecz nie należy nadmiernie korygować uzusu archaicznego lub dialektu/regionalizmów. Częste zmiany to zmiana _v_ na _u_, _i_ na _j_, Dodatkowe warianty można wprowadzić w polu **Tytuł dodatkowy (730)**. Dodatkowe warianty można wprowadzić w polu **Tytuł dodatkowy (730)**.
 
 ##### Przykłady:
 
@@ -95,7 +95,7 @@ Tytuły ujednolicone winny składać się tytułu druku aż do miejsca naturalne
 
 #### Tytuły generyczne
 
-Standardowe wytyczne RISM dla tytułów generycznych mają zastosowanie (patrz **Tytuł ujednolicony (240)**), ale pamiętaj, że w starszych stopkach wydawniczych są często cytowane w literaturze jak by były tytułami charakterystycznymi. Do wprowadzania takich tytułów w ujednoliconej formie służy pole **Tytuł dodatkowy (730)**. Wskazówki można znaleźć w takich opracowaniach jak Grove i MGG, oraz hasłach wzorcowych [Library of Congress](http://id.loc.gov/authorities/names.html) lub Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (stosując standardową pisownię) oraz numer arabski występujący po tytule.
+Standardowe wytyczne RISM dla tytułów generycznych mają zastosowanie (patrz **Tytuł ujednolicony (240)**), ale pamiętaj, że w starszych stopkach wydawniczych są często cytowane w literaturze jak by były tytułami charakterystycznymi. Do wprowadzania takich tytułów w ujednoliconej formie służy pole **Tytuł dodatkowy (730)**. Wskazówki można znaleźć w takich opracowaniach jak Grove i MGG, oraz hasłach wzorcowych [Library of Congress](http://id.loc.gov/authorities/names.html) lub Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (stosując standardową pisownię) oraz numer arabski występujący po tytule. Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (stosując standardową pisownię) oraz numer arabski występujący po tytule.
 
 ##### Przykłady
 
@@ -115,7 +115,7 @@ Jeżeli Państwa instytucja posiada wiele egzemplarzy tego samego drukowanego wy
 
 ### Kopie mikrofilmowe
 
-Kopie mikrofilmów druków muzycznych nie są dodawane jako oddzielne rekordy egzemplarzy, ale są opisywane wraz z informacjami o egzemplarzach, które stanowią oryginał druku, na podstawie którego stworzono mikrofilm. Powiadom Editorial Center jeżeli chcesz dodać swoją kopię mikrofilmową, ale nie możesz edytować rekordu egzemplarza. Linki opisujące mikrofilm w lokalnym katalogu instytucji mogą zostać dodane jeśli są dostępne. Jesli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856).
+Kopie mikrofilmów druków muzycznych nie są dodawane jako oddzielne rekordy egzemplarzy, ale są opisywane wraz z informacjami o egzemplarzach, które stanowią oryginał druku, na podstawie którego stworzono mikrofilm. Jesli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856). Powiadom Editorial Center jeżeli chcesz dodać swoją kopię mikrofilmową, ale nie możesz edytować rekordu egzemplarza. Linki opisujące mikrofilm w lokalnym katalogu instytucji mogą zostać dodane jeśli są dostępne.
 
 #### Przykłady
 - ID RISM nr 990052954, egzemplarz w B-Bc:  
@@ -167,7 +167,7 @@ W przypadku podziału rekordów, numer serii A/I lub B/I RISM jest przenoszony d
 
 Katalogerzy powinny być świadomi, że w bazie czasami można znaleźć duplikaty. Niektóre duplikaty swoje początki mają w drukowanych seriach RISM A/I lub B: pasticcia lub inne dzieła wydane przez kilku autorów wpisywano pod wieloma kompozytorami, podczas gdy wydanie zaklasyfikowane w serii B/I również było publikowane w serii A/I, więc było po prostu dwukrotnie dodane w ramach długiej listy. Ponadto niekiedy katalogerzy nieumyślnie tworzą duplikaty już istniejących rekordów.
 
-Zduplikowane rekordy nie są dozwolone i muszą być scalone po zidentyfikowaniu. Podczas łączenia rekordów obowiązują kryteria dotyczące tego, jaki rekord będzie ostateczny i jaki rekord zostanie połączony. Pierwszeństwo nadaje się rekordowi z serii A/I lub B/I (zazwyczaj możliwe do zidentyfikowania za pomocą numeru identyfikacyjnego RISM, który zaczyna się od 990 lub 993) oraz starszy rekord jest preferowany wobec nowszego (można zweryfikować przez datę utworzenia rekordu). Egzemplarze są przenoszone do finalnego rekordu bibliograficznego i jeśli na podstawie tego źródła stworzono rekord bibliograficzny, egzemplarz wykorzystywany jest jako egzemplarz kontrolny. Notatka taka jak „Ten rekord został scalony z ID RISM nr Notatka taka jak „Ten rekord został scalony z ID RISM nr XXX” jest zawsze uwzględniany w celu śledzenia historii starych numerów RISM.
+Zduplikowane rekordy nie są dozwolone i muszą być scalone po zidentyfikowaniu. Podczas łączenia rekordów obowiązują kryteria dotyczące tego, jaki rekord będzie ostateczny i jaki rekord zostanie połączony. Pierwszeństwo nadaje się rekordowi z serii A/I lub B/I (zazwyczaj możliwe do zidentyfikowania za pomocą numeru identyfikacyjnego RISM, który zaczyna się od 990 lub 993) oraz starszy rekord jest preferowany wobec nowszego (można zweryfikować przez datę utworzenia rekordu). Egzemplarze są przenoszone do finalnego rekordu bibliograficznego i jeśli na podstawie tego źródła stworzono rekord bibliograficzny, egzemplarz wykorzystywany jest jako egzemplarz kontrolny. Notatka taka jak „Ten rekord został scalony z ID RISM nr Notatka taka jak „Ten rekord został scalony z ID RISM nr Notatka taka jak „Ten rekord został scalony z ID RISM nr XXX” jest zawsze uwzględniany w celu śledzenia historii starych numerów RISM.
 
 
 ##### Procedura

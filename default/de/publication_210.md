@@ -37,6 +37,7 @@ Short titles for **general secondary literature** are created as follows:
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999
 - Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincónV 2009
@@ -59,6 +60,7 @@ For two or more authors or editors, only the first is used in a short title.
 ###### Example
 
 - John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
@@ -92,6 +94,7 @@ If only an approximate year of publication is known, add a **ca.** (for circa) w
 ###### Example
 
 - Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
+  → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
