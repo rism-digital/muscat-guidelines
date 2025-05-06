@@ -10,56 +10,56 @@ Linki do wszystkich tutoriali znajdują się na stronie programu Muscat [RISM Ed
 
 Wszelkie błędy, pytania, komentarze i sugestie można zgłaszać w dowolnym momencie na adres [muscat@rism.info](mailto:muscat@rism.info).
 
-**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, grupa Google, jest oficjalną grupą dyskusyjną Muscat, do której należy każdy użytkownik Muscat. Official announcements from the Editorial Center and the Muscat developers are disseminated solely through this group. In addition, all Muscat users are encouraged to ask questions or raise topics for discussion. A Google account is not required.
+**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)**, grupa Google, jest oficjalną grupą dyskusyjną Muscat, do której należy każdy użytkownik Muscat. Oficjalne komunikaty od Editorial Center i programistów Muscat rozpowszechnia się wyłącznie za pośrednictwem tej grupy. Ponadto, wszystkich użytkowników Muscat zachęca się do zadawania pytań lub podnoszenia tematów do dyskusji. Nie ma potrzeby posiadania konta Google.
 
-There is also a discussion channel for the RISM community on Slack at:   
+Istnieje również kanał dyskusyjny na Slack:    
 [https://rismcommunity.slack.com/](https://rismcommunity.slack.com/)
 
-#### 3. Is all secondary literature cited in Muscat at the Editorial Center?
+#### 3. Czy cała literatura pomocnicza w podawana w Muscat znajduje się w Biurze Editorial Center?
 
-No, only the literature labeled "HB" or "Handbibliothek" or "RISM-ZR" in an internal note (599 $a) is actually in the Editorial Center office. These materials are for the benefit of all RISM contributors, so if we have a publication that you would like to consult, let us know and we will try to get you what you need. Even if you are interested in a publication we do not have in the office, let us know and we can try to help you gain access to it.
+Nie, w naszym biurze znajduje się tylko literatura oznaczona jako „HB” lub „Handbibliothek” lub „RISM-ZR”, co w Muscat oznaczone jest w Polu uwag miejscowych (599 $a) jako pozycja dostępna na miejscu. Materiały te mają służyć wszystkim współpracownikom RISM, więc jeśli mamy publikację, która może być pomocna, daj nam znać, a my postaramy się zdobyć to, czego potrzebujesz. Nawet jeśli poszukujesz publikacji, której nie mamy w biurze, napisz do nas a my postaramy się pomóc uzyskać do stęp do niej.
 
-#### 4. What do I do if I forget my password or want to change it?
+#### 4. Co robić, gdy zapomnę hasła lub chcę je zmienić?
 
-Contact the Editorial Center if you lose your password. You can change your password by clicking on your user name (in the upper right-hand corner of Muscat).
+Skontaktuj się z nami, jeśli zapomnisz hasła. Możesz zmienić hasło klikając na swoją nazwę użytkownika (w prawym górnym rogu w Muscat).
 
-#### 5. Can I show Muscat to my colleagues? Can I demonstrate Muscat at conferences or in workshops?
+#### 5. Czy mogę pokazać system Muscat moim kolegom? Czy mogę zademonstrować system Muskat na konferencjach lub warsztatach?
 
-Yes, you are welcome to do so. A training version of Muscat is available for exactly these purposes at [https://muscat-training.rism.info](https://muscat-training.rism.info/). All Muscat users can login there with their personal credentials. There are also 99 training accounts ("training01@rism.info" to "training99@rism.info") available for individual users. Any of these training accounts can be used. Contact the RISM Editorial Center for the current password. Anything on the training version can be added or edited. It is updated with the current Muscat data on a regular basis, so practice records on the training server are be deleted after these updates. New records or changes on the training server are not transferred to the main Muscat program.
+Tak, jak najbardziej! Wersja szkoleniowa Muscat jest dostępna dokładnie w tych celach na stronie [https://muscat-training.rism.info](https://muscat-training.rism.info/). Wszyscy użytkownicy Muscat mogą się tam zalogować za pomocą swoich danych osobowych. Istnieje również 99 kont szkoleniowych („training01@rism.info” do „training99@rism.info”) dostępnych dla użytkowników indywidualnych. Można korzystać z każdego z tych kont szkoleniowych. Prosimy o kontakt z RISM Editorial Center w celu uzyskania aktualnego hasła. W wersji szkoleniowej można wszystko dodawać, edytować lub usuwać. Muscat jest regularnie aktualizowany, oznacza to, że rekordy utworzone w wersji szkoleniowej zostaną usunięte po tych aktualizacjach. Nowe rekordy lub zmiany na serwerze szkoleniowym nie są przekazywane do głównego programu Muscat.
 
-#### 6. In the modification history, what does it mean if "[system]" is listed as the author?
+#### 6. Co to znaczy, że w historii modyfikacji, „[system]” został wymieniony jako autor?
 
-This is a system edit. You might see a system edit if one of the indexed fields linked to your record was changed. The change in the authority record will register as a change in your record. Changes undertaken by maintenance scripts are also registered as system edits.
+To jest edycja systemu. Możesz zobaczyć przykład edycji systemowej, jeśli jedno z indeksowanych pól związanych z Twoim rekordem uległo zmianie. Zmiana w rekordzie hasła wzorcowego zarejestruje się również jako zmiana w Twoim rekordzie. Zmiany prowadzone przez skrypty utrzymujące program są również rejestrowane jako edycje systemowe.
 
-#### 7. Where are Muscat records published?
+#### 7. Gdzie są publikowane rekordy Muscata?
 
-Muscat records that have the publication status **published** appear in the [RISM Catalog](https://opac.rism.info/), developed by the [Bavarian State Library](https://www.bsb-muenchen.de/) (Munich, Germany), and [RISM Online](https://rism.online/), developed by the [RISM Digital Center](https://rism.info/digital-center.html) (Bern, Switzerland).
+Rekordy w Muscat, które posiadają status **opublikowany** pojawią się w [katalogu RISM](https://opac.rism.info/), rozwijanego przez [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/) (Monachium, Niemcy) i w [RISM Online](https://rism.online/), rozwijanym przez [Digital Center](https://rism.info/digital-center.html) (Berno, Szwajcaria).
 
-Outside of Muscat, published Muscat records are available through RISM's [SRU downloader](https://github.com/rism-international/sru-downloader), the RISM Catalog's "Show MARCXML" link on any record, the RISM Catalog's monthly data dump, and RISM Online's API.
+Poza Muscatem, rekordy opublikowane dostępne są przez [SRU downloader](https://github.com/rism-international/sru-downloader), w katalogu RISM przez link „Show MARCXML”, comiesięczny dump danych katalogu RISM oraz poprzez API RISM Online.
 
-#### 8. When do Muscat records appear in the public catalogs?
+#### 8. Kiedy rekordy z Muscat pojawiają się w publicznych katalogach?
 
-Muscat records are sent for publication in the [RISM Catalog](https://opac.rism.info/) once a month, at around the 19th of each month. Records are then visible a few days later. [RISM Online](https://rism.online/) is updated once a day with records from Muscat.
+Rekordy Muscat są publikowane w [katalogu RISM](https://opac.rism.info/) raz w miesiącu, około dziewiętnastego dnia miesiąca. Rekordy są widoczne kilka dni później. [RISM Online](https://rism.online/) jest aktualizowany raz dziennie danymi rekordów z Muscat.
 
-#### 9. What if a source in RISM is no longer in the hands of the holding institution indicated in the RISM record?
+#### 9. Co zrobić, jeśli źródło w RISM nie jest już w rękach instytucji przechowującej, wskazanej w rekordzie RISM?
 
-Use the siglum **XX-NN** for situations in which the current location of a source is unknown, such as if it was on deposit at an institution but the source was taken back and is now in private hands. This happens only rarely. Contact the Editorial Center if a source needs this siglum.
+Używaj siglum **XX-NN** w sytuacjach, w których obecna lokalizacja źródła jest nieznana, np. gdy źródło było zdeponowane w instytucji, ale zostało odebrane i obecnie znajduje się w rękach prywatnych. Zdarza się to rzadko. Jeśli źródło potrzebuje tego siglum, prosimy o kontakt z Editorial Center.
 
-#### 10. What are the technical requirements for Muscat?
+#### 10. Jakie są wymagania techniczne programu Muscat?
 
-- Muscat is platform independent and works on both Macs and PCs.
-- Access is through a URL and requires an Internet connection.
-- Muscat works best on screens that are at least 1366 x 768 pixels.
-- Muscat is optimized for Firefox and Chrome. Do not use Internet Explorer!
+- Muscat jest niezależny od platformy i działa zarówno na komputerach Mac, jak i PC.
+- Dostęp odbywa się poprzez adres URL. W związku z tym do korzystania z dostępu niezbędne jest połączenie z Internetem.
+- Muscat najlepiej sprawdza się na ekranach o wymiarach co najmniej 1366 x 768 pikseli.
+- Muscat jest dostosowany do wyszukiwarki Firefox i Chrome. Nie należy używać Internet Explorera!
 
-#### 11. What are some technical aspects about Muscat?
+#### 11. Jakie są niektóre techniczne aspekty programu Muscat?
 
-- Muscat is open source. The source code is available in the [GitHub](https://github.com/rism-ch/muscat) repository.
-- Muscat is a Ruby on Rails application.
-- [Verovio](https://www.verovio.org/pae-editor.html) is used to render the music incipits through MEI.
-- Solr is used as a search engine.
-- Muscat has [an SRU service](https://github.com/rism-ch/muscat/wiki/SRU) and an [SRU downloader](https://github.com/rism-international/sru-downloader) to retrieve MARCXML records.
-- Muscat supports Unicode (UTF-8).
-- Versioning allows catalogers to view changes made to records.
+- Muscat działa na otwartym kodzie źródłowym. Kod źródłowy jest dostępny pod adresem repozytorium [GitHub](https://github.com/rism-ch/muscat).
+- Muscat jest aplikacją Ruby on Rails.
+- Do renderowania incipitów muzycznych za pośrednictwem MEI wykorzystuje się [Verovio](https://www.verovio.org/pae-editor.html).
+- Jako wyszukiwarka służy Solr.
+- Muscat posiada an [SRU service](https://github.com/rism-ch/muscat/wiki/SRU) oraz [SRU downloader](https://github.com/rism-international/sru-downloader) do odzyskiwania rekordów MARCXML.
+- Muscat obsługuje Unicode (UTF-8).
+- Wersjonowanie umożliwia katalogerom przeglądanie zmian wprowadzonych do rekordów.
 
-More information about the development of Muscat can be found on [RISM Digital Center's website](https://rism.digital/tools/muscat.html).
+Więcej informacji o rozwijaniu Muscatu odnaleźc można na [stronie RISM Digital Center](https://rism.digital/tools/muscat.html).

@@ -76,7 +76,7 @@ Enter standardized titles using modern orthography, but do not overcorrect archa
 
 - RISM ID no. 991009151
  - Title on source: Musicalische Grab=schrifft.
- - Standardized title: Musikalische Grabschrift
+ - - Standardized title: Musikalische Grabschrift <figcaption>Example</figcaption>
 
 
 2. **Deriving a standardized title**

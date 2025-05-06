@@ -18,7 +18,7 @@ Informacje, których brakuje w źródle, mogą zostać dodane w rekordzie RISM, 
 
 Zawsze należy używać permalinków przy linkowaniu do zdigitalizowanych źródeł muzycznych, w szczególności w polu **Zasoby zewnętrzne (856)**.
 
-W celu wprowadzenia odniesienia do strony www, nie należy wpisywać adresu URL w polu uwag. Zasób należy wprowadzić jako odniesienie bibliograficzne. Co należy wprowadzić w hasłach wzorcowych ** Literatura pomocnicza**. Następnie dodać rekord w polu **Odniesienie bibliograficzne (691)** i podając tytuł skrócony w polu uwag. Zapewnia to użytkownikom dostęp do pełnych informacji bibliograficznych, i jeśli URL zmieni się, aktualizacja jest potrzebna tylko w bazie haseł wzorcowych **literatury pomocniczaj**.
+W celu wprowadzenia odniesienia do strony www, nie należy wpisywać adresu URL w polu uwag. Zasób należy wprowadzić jako odniesienie bibliograficzne. Następnie dodać rekord w polu **Odniesienie bibliograficzne (691)** i podając tytuł skrócony w polu uwag. Co należy wprowadzić w hasłach wzorcowych ** Literatura pomocnicza**. Zapewnia to użytkownikom dostęp do pełnych informacji bibliograficznych, i jeśli URL zmieni się, aktualizacja jest potrzebna tylko w bazie haseł wzorcowych **literatury pomocniczaj**.
 
 Dla książek znalezionych w Google Books lub innych repozytoriach cyfrowych, zawsze stwórz rekord bibliograficzny w bazie haseł wzorcowych **Literatura pomocnicza** dla samej książki, a nie dla cyfrowego zasobu. To znaczy, cytujemy książkę, a nie Google Books.
 
@@ -28,7 +28,7 @@ Jeśli chcesz odnieść się do źródła muzycznego, które jest zdigitalizowan
 
 #### 4. Dokonywanie identyfikacji
 
-Często ważne informacje takie jak kompozytor czy tytuły kompozycji nie zawsze są podane na źródle. Czasami identyfikacji można dokonać na podstawie literatury pomocniczej, źródeł referencyjnych, innych rekordów RISM, a nawet źródeł archiwalnych, do których użytkownik systemu ma dostęp. W przypadku korzystania z takich zasobów, zawsze należy jasno określić w rekordzie, czego użyto do identyfikacji: należy podać nazwę zasobu w polu **Uwaga ogólna (500)** i w razie potrzeby dodać informację w polu **Odniesienie bibliograficzne (691)**. Dla kolejnych użytkowników RISM musi być jasne, w jaki sposób osoba wprowadzająca dane do systemu doszła do swoich wniosków. W razie potrzeby bardziej szczegółowe, wyjaśnienia, które nie są istotne dla zewnętrznych użytkowników, mogą być zawarte w adnotacji **Pole uwag miejscowych (599 $a)**.
+Często ważne informacje takie jak kompozytor czy tytuły kompozycji nie zawsze są podane na źródle. Czasami identyfikacji można dokonać na podstawie literatury pomocniczej, źródeł referencyjnych, innych rekordów RISM, a nawet źródeł archiwalnych, do których użytkownik systemu ma dostęp. W przypadku korzystania z takich zasobów, zawsze należy jasno określić w rekordzie, czego użyto do identyfikacji: należy podać nazwę zasobu w polu **Uwaga ogólna (500)** i w razie potrzeby dodać informację w polu **Odniesienie bibliograficzne (691)**. Dla kolejnych użytkowników RISM musi być jasne, w jaki sposób osoba wprowadzająca dane do systemu doszła do swoich wniosków. Dla kolejnych użytkowników RISM musi być jasne, w jaki sposób osoba wprowadzająca dane do systemu doszła do swoich wniosków. W razie potrzeby bardziej szczegółowe, wyjaśnienia, które nie są istotne dla zewnętrznych użytkowników, mogą być zawarte w adnotacji **Pole uwag miejscowych (599 $a)**.
 
 #### 5. Tworzenie rekordów na podstawie opisów z drukowanych katalogów lub katalogów bibliotek online
 
