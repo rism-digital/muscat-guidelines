@@ -1,3 +1,3 @@
-### Date and time of last transaction (005; ISDIAH 5.6.6)
+### Datum und Uhrzeit der letzten Änderung (005; ISDIAH 5.6.6)
 
-The field **Date and time of latest transaction** indicates the last time a record was changed. It consists of sixteen characters that specify the date and time of the latest record transaction and serve as a version identifier for the record. The data and time are given according to Representation of Dates and Times (ISO 8601) in the pattern yyyymmdd and hhmmss.f. The field is automatically generated. The field is automatically generated.  
+Das Feld **Datum und Uhrzeit der letzten Änderung** zeigt an, wann ein Datensatz geändert wurde. Es besteht aus sechzehn Zeichen, die das Datum und die Uhrzeit der letzten Datensatzänderung angeben und als Versionskennung für den Datensatz dienen. Daten und Uhrzeit werden gemäß (ISO 8601) in den Mustern JJJJMMTT und HHMMSS.F angegeben. Das Feld wird automatisch generiert.  
