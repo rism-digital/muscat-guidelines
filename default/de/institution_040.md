@@ -6,8 +6,8 @@ Das Feld **Katalogisierungsquelle** zeigt die Organisation an, die den ursprüng
 
 Geben Sie Ihre Katalogisierungssprache an. Es steht eine Auswahlliste zur Verfügung.
 - Englisch
-- French
-- German
-- Italian
-- Portuguese
-- Spanish
+- Französisch
+- Deutsch
+- Italienisch
+- Portugiesisch
+- Spanisch
