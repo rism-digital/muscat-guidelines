@@ -1,10 +1,10 @@
-### General note (680)
+### Externe Bemerkungen (680)
 
-The field **General note** is to enter other notes on description.
+Das Feld **Externe Bemerkungen** ist für alle anderen Arten von Informationen.
 
-#### General note (680 $a)
+#### Externe Bemerkungen (680 $a)
 
-Enter additional notes that describe the institution, such as:
+Geben Sie zusätzliche Anmerkungen ein, die die Institution beschreiben, z. B:
 
 - Any changes to the RISM library siglum
 - Classification of the collection, such as "Collection in GB-Lbl"
