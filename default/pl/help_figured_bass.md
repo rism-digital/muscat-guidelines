@@ -1,50 +1,50 @@
-### Figured bass in scores and/or other parts
+### Bas cyfrowany w partyturze i / lub w innych głosach
 
-This section offers guidance on which fields should be filled out if you have a figured bass in your score or parts, depending on the instrument.
+Ta sekcja zawiera wskazówki, które pola powinny być wypełnione, jeśli masz do czynienia z basem cyfrowym w partyturach lub głosach, w zależności od instrumentu.
 
-#### Figured bass, part
+#### Bas cyfrowany, głos
 
-The following fields must be filled out as follows if you have a figured bass **part**:
+Jeśli masz bas cyfrowany zachowany jako **głos**, należy wypełnić poniższe pola w następujący sposób:
 
 ##### Instrument: b
 
-- Scoring summary (240 $m): b
-- Parts held (590): b.fig
-- Scoring (594): b
+- Podsumowanie obsady (240 $m): b
+- Głosy (590): b.fig
+- Szczegółowy opis obsady (594): b
 
 ##### Instrument: bc
 
-- Scoring summary (240 $m): bc
-- Parts held (590): bc.fig
-- Scoring (594): bc
+- Podsumowanie obsady (240 $m): bc
+- Głosy (590): bc.fig
+- Szczegółowy opis obsady (594): bc
 
 ##### Instrument: org
 
-- Scoring summary (240 $m): org
-- Parts held (590): org.fig
-- Scoring (594): org
+- Podsumowanie obsady (240 $m): org
+- Głosy (590): org.fig
+- Szczegółowy opis obsady (594): org
 
-For other keyboard instruments, follow the model as for **org**.
+W przypadku innych instrumentów klawiszowych, należy stosować wzór jak dla **org**.
 
-#### Figured bass, score
+#### Bas cyfrowany, partytura
 
-The following fields must be filled out as follows if you have a figured bass **score**:
+Jeśli masz bas cyfrowany zachowany w formie **partytury**, należy wypełnić poniższe pola w następujący sposób:
 
 ##### Instrument: b
 
-- Scoring summary (240 $m): b
-- Parts held (590): b
+- Podsumowanie obsady (240 $m): b
+- Głosy (590): b
 - Scoring (594): b = b.fig
 
 ##### Instrument: bc
 
-- Scoring summary (240 $m): bc
-- Parts held (590): bc
+- Podsumowanie obsady (240 $m): bc
+- Głosy (590): bc
 - Scoring (594): bc = bc.fig
 
 ##### Instrument: org
 
-- Scoring summary (240 $m): org
+- Podsumowanie obsady (240 $m): org
 - Parts held (590): org
 - Scoring (594): org = org.fig
 
