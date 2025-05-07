@@ -34,18 +34,18 @@ Jeśli masz bas cyfrowany zachowany w formie **partytury**, należy wypełnić p
 
 - Podsumowanie obsady (240 $m): b
 - Głosy (590): b
-- Scoring (594): b = b.fig
+- Szczegółowy opis obsady (594): b = b.fig.
 
 ##### Instrument: bc
 
 - Podsumowanie obsady (240 $m): bc
 - Głosy (590): bc
-- Scoring (594): bc = bc.fig
+- Szczegółowy opis obsady (594): bc = bc.fig.
 
 ##### Instrument: org
 
 - Podsumowanie obsady (240 $m): org
-- Parts held (590): org
-- Scoring (594): org = org.fig
+- Głosy (590): org
+- Szczegółowy opis obsady (594): org = org.fig
 
-For other keyboard instruments, follow the model as for **org**.
+W przypadku innych instrumentów klawiszowych, należy stosować wzór jak dla **org**.
