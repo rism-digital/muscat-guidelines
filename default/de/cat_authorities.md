@@ -8,38 +8,38 @@ In der Datenbank für digitale Objekte werden alle Bilder (in der Regel Wasserze
 
 ## Körperschaften
 
-Die Normdatei für Körperschaften (Firmennamen) beschreibt Nicht-Personen, die in Verbindung mit einer Quelle oder einem anderen Normdateneintrag in Muscat stehen. Diese Normdatei enthält sowohl moderne Institutionen (z. B. eine Bibliothek mit einem RISM-Bibliothekssigel) als auch historische Körperschaften (z. B. einen Verlag oder ein Orchester). Personal names can be linked in the fields **Composer/Author (100 $a)** and **Additional personal name (700 $a)** in Sources, **Person (700 $a)** in Institutions, **Related personal name (500 $a)** in Personal names, **Author (100 $a)** and **Additional personal name (700 $a)** in Secondary literature, and **Composer (100 $a)** in Work nodes.
+Die Normdatei für Körperschaften (Firmennamen) beschreibt Nicht-Personen, die in Verbindung mit einer Quelle oder einem anderen Normdateneintrag in Muscat stehen. Diese Normdatei enthält sowohl moderne Institutionen (z. B. eine Bibliothek mit einem RISM-Bibliothekssigel) als auch historische Körperschaften (z. B. einen Verlag oder ein Orchester). Köperschaften können im Feld **Nebeneintragung Köperschaften (710 $a)** in Quellen, **In Beziehung stehende Köperschaft (710 $a)** in Köperschaften, **In Beziehung stehende Köperschaft (510 $a)** in Personen und **Nebeneintragung Köperschaften (710 $a)** in Sekundärliteratur verknüpft werden.
 
-## Liturgical festivals
+## Liturgische Feste
 
-The index of liturgical festivals collects religious holidays and feast days. Liturgical festivals can be linked in the field **Liturgical festival (657 $a)** in Sources.
+Der Index der liturgischen Feste erfasst die religiösen Feiertage und Festtage. Liturgische Feste können im Bereich **Liturgische Feste (657 $a)** in Quellen verlinkt werden.
 
-## Personal names
+## Personen
 
-The authority file for institutions (corporate names) describes non-persons that appear in connection with a source or other authority record in Muscat. Institutions can be linked in the field **Additional institution (710 $a)** in Sources, **Related institution (710 $a)** in Institutions, **Associated institution (510 $a)** in Personal names, and **Additional institution (710 $a)** in Secondary literature. This authority file contains both modern institutions (such as a library with a RISM library siglum) and historical corporate bodies (such as a publisher or an orchestra).
+Die Normdatei für Personen beschreibt alle Personen, die in Verbindung mit einer Quelle oder einem anderen Normdateneintrag in Muscat stehen. Personen können in den Feldern **Komponist/Autor (100 $a)** und **Nebeneintragung Personen (700 $a)** in Quellen, **Zugehörige Personen (700 $a)** in Körperschaften, **Zugehörige Personen (500 $a)** in Personen, **Autor (100 $a)** und **Sonstige Person (700 $a)** in Sekundärliteratur, und **Verfasser (100 $a)** in Work nodes verknüpft werden. RISM trägt zur [VIAF (Virtual International Authority File)](https://www.viaf.org/) bei, so dass die in RISM verwendeten Namen regelmäßig an VIAF übermittelt werden.
 
-New names can be edited by the record owner for two months after creation. Catalogers are encouraged to fill out as much information in the authority record as they can, including links to VIAF, biographical information, and alternate spellings. After two months, control of the record goes to the Editorial Center. Additions are still welcome and can be communicated through the comment function or by sending an email to [Alexander Marxen](mailto:alexander.marxen@rism.info).
+Neue Namen können durch den Eigentümer des Eintrags für einen Zeitraum von zwei Monaten nach der Erstellung des Eintrags geändert werden. Die Katalogisierer werden gebeten, so viele Informationen wie möglich in den Normdatensatz einzugeben, einschließlich Links zu VIAF, biographische Informationen und alternative Schreibweisen. Nach zwei Monaten geht die Kontrolle über den Datensatz an die Zentralredaktion über. Ergänzungen sind weiterhin willkommen und können über die Kommentarfunktion oder per E-Mail an [Alexander Marxen](mailto:alexander.marxen@rism.info) kommuniziert werden.
 
-## Places
+## Orte
 
-The index of places collects the names of locations, including historical geographic names. The index is built from places entered in the following fields: **Location of performance (651 $a)** in Sources, **Geographic name (551 $a)** in Personal names, **Related place (651 $a)** in Secondary Literature, and **Place (551 $a)** in Institutions.
+Der Index der Orte erfasst die Namen von Orten, einschließlich historischer geographischer Namen. Der Index wird aus den in den folgenden Feldern eingegebenen Orten erstellt: **Aufführungsort (651 $a)** in Quellen, **Ort (551 $a)** in Personen, **Ort (651 $a)** in Sekundärliteratur und **Ort (551 $a)** in Körperschaften.
 
-## Secondary literature
+## Sekundärliteratur
 
-The database of Secondary literature enables catalogs of works, thematic catalogs, books, articles, encyclopedias, online resources, critical editions, modern performing editions, etc. to be cited in Muscat records. Secondary literature is linked through the **Short tile (210 $a)** in the fields **Catalog of works (690 $a)** and **Bibliographic reference (691 $a)** in Sources, **Literature (670 $a)** in Institutions, and **Source data found (670 $a)** in Personal names.
+Die Datenbank der Sekundärliteratur ermöglicht es Werkverzeichnisse, thematische Kataloge, Bücher, Artikel, Enzyklopädien, Online-Ressourcen, kritische Ausgaben, moderne Ausgaben usw. in den Muscat-Einträgen zu zitieren. Die Sekundärliteratur ist über den **Kurztitel (210 $a)** in den Feldern **Werkverzeichnis (690 $a)** und **Literaturverweis (691 $a)** in Quellen, **Literatur (670 $a)** in Körperschaften und **Literaturnachweis (670 $a)** in Personen verknüpft.
 
-## Subject headings
+## Schlagwörter
 
-All subject headings, musical forms, and genres are collected here. Some records include translations or explanations as to the scope of the subject heading. Subject headings are linked through the field **Subject heading (650 $a)** in Sources and **Subject heading (650 $a)** in Secondary literature.
+Hier sind alle Sachschlagwörter, Musikformen und Gattungen zusammengefasst. Einige Datensätze enthalten Übersetzungen oder Erklärungen zum Geltungsbereich des jeweiligen Schlagworts. Die Verknüpfung von Schlagwörtern erfolgt über das Feld **Schlagworteintragung (650 $a)** in Quellen und **Schlagworteintragung (650 $a)** in Sekundärliteratur.
 
-## Titles/Text incipits
+## Titel / Textincipits
 
-The Title/Text incipits index collects the titles entered in Sources from the fields **Standardized title (240 $a)** and **Additional title (730 $a)**, as well as the text incipits entered in the field **Text incipit (031 $t)**.
+Der Titel /Textincipit-Index sammelt die in Quellen eingegebenen Titel aus den Feldern **Einordnungstitel (240 $a)** und **Alternativer Titel (730 $a)** sowie die im Feld **Textincipit (031 $t)** eingegebenen Textincipits.
 
 ## Work nodes
 
-The **Work nodes** serve as a link between sources in Muscat and external work authorities. Within Muscat, they group sources sharing the same external work authority ID number. A link to an existing, external work authority, preferably to the GND from the German National Library (DNB), is required to create a work node.
+Die **Work nodes** dienen als Verbindung zwischen Quellen in Muscat und externen Normdateien. Innerhalb von Muscat gruppieren sie Quellen, die dieselbe externe ID-Nummer haben. Für die Erstellung von Work nodes ist eine Verknüpfung mit einer bestehenden, externen Arbeitsstelle, vorzugsweise mit der GND der Deutschen Nationalbibliothek (DNB), erforderlich.
 
-Work nodes are not exported as authority data, and work nodes do not have external ID numbers. They are linked in the source records through the field **External work reference (Work node) (930)**, and link to the external authority through that authority's work ID number.
+Work nodes werden nicht als Normdaten exportiert und haben keine externe ID-Nummern. Sie sind in den Quellendatensätzen über das Feld **Externe Werk-Referenz (Work node) (930)** verknüpft und mit der externen Normdatei über deren Werk-ID-Nummer verbunden.
 
-Contact the RISM Editorial Center if you wish to create work nodes.
+Wenden Sie sich an die Zentralredaktion, wenn Sie Work nodes hinzufügen möchten.
