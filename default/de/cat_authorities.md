@@ -1,14 +1,14 @@
-# Authorities
+# Normdaten
 
-The **Authorities** section of Muscat collects all authority files, controlled vocabulary, and indexes, and ensures that terminology is consistent throughout Muscat. Each of these is described in brief below. Full guidelines are included within each authority file.
+Die **Normdaten**-Abteilung von Muscat sammelt alle Autoritätsdateien, das kontrollierte Vokabular sowie die Indizes und stellt sicher, dass die Terminologie in Muscat einheitlich ist. Jeder dieser Bereiche wird im Folgenden kurz beschrieben. Die vollständigen Richtlinien sind in den einzelnen Normdaten enthalten.
 
-## Digital objects
+## Digitale Objekte
 
-The digital objects database collects all of the images (typically watermarks, handwriting samples, or bindings) and MEI incipits that are attached to records in Muscat. You can attach digital objects to sources, people, and institutions.
+In der Datenbank für digitale Objekte werden alle Bilder (in der Regel Wasserzeichen, Handschriftproben oder Einbände) und MEI-Incipits gesammelt, die den Datensätten in Muscat beigefügt sind. Sie können digitale Objekte bei Quellen, Personen und Institutionen anbringen.
 
-## Institutions
+## Körperschaften
 
-The authority file for personal names describes all people that are connected to a source or other authority record in Muscat. RISM is a contributor to [VIAF (Virtual International Authority File)](https://www.viaf.org/) so names contributed to RISM are sent to VIAF on a regular basis. Personal names can be linked in the fields **Composer/Author (100 $a)** and **Additional personal name (700 $a)** in Sources, **Person (700 $a)** in Institutions, **Related personal name (500 $a)** in Personal names, **Author (100 $a)** and **Additional personal name (700 $a)** in Secondary literature, and **Composer (100 $a)** in Work nodes.
+Die Normdatei für Körperschaften (Firmennamen) beschreibt Nicht-Personen, die in Verbindung mit einer Quelle oder einem anderen Normdateneintrag in Muscat stehen. Diese Normdatei enthält sowohl moderne Institutionen (z. B. eine Bibliothek mit einem RISM-Bibliothekssigel) als auch historische Körperschaften (z. B. einen Verlag oder ein Orchester). Personal names can be linked in the fields **Composer/Author (100 $a)** and **Additional personal name (700 $a)** in Sources, **Person (700 $a)** in Institutions, **Related personal name (500 $a)** in Personal names, **Author (100 $a)** and **Additional personal name (700 $a)** in Secondary literature, and **Composer (100 $a)** in Work nodes.
 
 ## Liturgical festivals
 
