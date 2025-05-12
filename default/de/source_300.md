@@ -1,35 +1,35 @@
-### Physical description (300)
+### Material (300)
 
 **Pflichtfeld**
 
-The field **Physical description** provides a clear declaration of the material preserved by stating the format (such as score or parts) and how many there are. If you have parts, this field is used in conjunction with the field **Parts held and extent (590)**, in which the specific parts are named.
+Das Feld **Material** enthält eine eindeutige Beschreibung des erhaltenen Materials unter Angabe des Formats (z. B. Partitur oder Stimmen) und der Anzahl der Stimmen. Wenn Stimmen vorhanden sind, wird dieses Feld in Verbindung mit dem Feld **Stimmenmaterial (590)** verwendet, um die spezifischen Stimmen zu bezeichnen.
 
-#### Format, extent (300 $a)
+#### Quellenart, Umfang (300 $a)
 
-For all types of formats except parts, the field **Format, extent (300 $a)** is built up of three components: **Number of items, Format, Extent.**
+Für alle Materialarten außer Stimmen besteht das Feld **Quellenart, Umfang (300 $a)** aus drei Komponenten: **Anzahl, Quellenart, Umfang.**
 
-###### Example
+###### Beispiel
 
 - 1 score: 35 p.
 
-For parts, the field **Format, extent (300 $a)** is built up of two components: **Number of items, Format.** The specific parts are listed separately in the field **Parts held (590)**.
+Bei Stimmenmaterial setzt sich das Feld **Quellenart, Umfang (300 $a)** aus zwei Komponenten zusammen: **Anzahl, Quellenart.** Die einzelnen Stimmen werden separat im Feld **Stimmenmaterial (590)** aufgeführt.
 
-###### Example
+###### Beispiel
 
 - 5 parts
 
-##### Number of items
+##### Anzahl der Stimmen
 
-State the number of items held. Use **X** to indicate an unknown number of items.
+Geben Sie die Anzahl der vorhandenen Stimmen an. Verwenden Sie **X** um eine unbekannte Anzahl anzugeben.
 
-##### Format
+##### Quellenart
 
-Use one of the following English terms, in the singular or plural as appropriate.
+Verwenden Sie einen der folgenden englischen Begriffe, im Singular oder Plural.
 
-###### General
+###### Generell
 
-- **part**: The notation of a work for an instrument or voice regardless of the number of staves per system (includes piano, organ, piano four-hands, no matter how many staves). Use also for partbooks.
-- **score**: Contains all the instruments and/or voices of a composition, as long as more than one performing force is involved. This includes works for voice and accompaniment.
+- **Stimme**: Die Notation eines Werkes für ein Instrument oder eine Vokalstimme, unabhängig von der Anzahl der Notensysteme pro System (einschließlich Klavier, Orgel, vierhändiges Klavier, unabhängig von der Anzahl der Notensysteme). Auch für Stimmbücher zu verwenden.
+- **Partitur**: Enthält alle Instrumente und/oder Stimmen einer Komposition, sofern mehr als eine ausführende Person beteiligt ist. This includes works for voice and accompaniment.
 
 ###### Kinds of scores
 
