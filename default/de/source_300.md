@@ -123,19 +123,19 @@ Beispiele hierfür sind:
 
 #### Format (300 $c)
 
-Geben Sie die Abmessungen der Quelle an: Höhe x Breite in cm. Bruchteile von Zentimetern können entweder durch ein Komma oder einen Punkt angegeben werden. Ein zweites Maß kann in Klammern angegeben werden. Bei mehr als zwei verschiedenen Maßen ist der englische Begriff **Different sizes** einzutragen; weitere Angaben können im Feld **Bemerkungen (500)** vorgenommen werden. Formats such as **octavo**, **quarto**, etc. should be indicated in the field **Book format (340 $m)**.
+Geben Sie die Abmessungen der Quelle an: Höhe x Breite in cm. Bruchteile von Zentimetern können entweder durch ein Komma oder einen Punkt angegeben werden. Ein zweites Maß kann in Klammern angegeben werden. Bei mehr als zwei verschiedenen Maßen ist der englische Begriff **Different sizes** einzutragen; weitere Angaben können im Feld **Bemerkungen (500)** vorgenommen werden. Formate wie **octavo**, **quarto**, etc. sollten im Feld **Buchformat (340 $m)** angegeben werden.
 
-##### Examples
+##### Beispiele
 
 - 25.5 x 30.5 cm
 - 36 x 25.5 cm
-- 25.5 (21.5) x 32 (28.5) cm
+- 25,5 (21,5) x 32 (28,5) cm
 - Different sizes
 
-For printed items, you may enter the dimensions of the printed area. Use English indications such as "printed area" or "plate mark." Separate this measurement from the measurement of the source with a semicolon. If dimensions vary, measure the title page and the first page of music (including, when applicable, an indication of what was measured). Full dimensions of the item then go in the holdings information.
+Bei Musikdrucken können Sie zusätzlich zu den Abmessungen der Quelle auch das Format des bedruckten Bereichs angeben. Verwenden Sie englische Hinweise wie "printed area (bedruckte Fläche)" oder "plate mark (Stichplatte)". Trennen Sie die Angaben durch ein Semikolon ab. Wenn die Maße variieren, messen Sie die Titelseite und die erste Notenseite aus (ggf. mit Angabe dessen, was gemessen wurde). Die vollständigen Abmessungen werden dann im Exemplareintrag angegeben.
 
-##### Examples
+##### Beispiele
 
 - 20 x 16 cm; plate mark 18 x 15,5 cm
 - Plate mark, title page: 20.2 x 27.7 cm; plate mark, music: 20.4 x 28.2 cm
-- Printed area, title page: 20.2 x 27.7 cm; printed area, music: 20.4 x 28.2 cm
+- Printed area, title page: 20,2 x 27,7 cm; printed area, music: 20,4 x 28,2 cm
