@@ -4,7 +4,7 @@ Das Feld **Sigel** enthält das eindeutige, unveränderliche RISM-Bibliotheksige
 
 Seit seiner Gründung im Jahr 1952 verwendet RISM die Bibliothekssigel in allen Publikationen und Katalogen. They are also used in all of the standard international music encyclopedias and in musicological publications.
 
-**Altdaten und MARC-Exportnotiz**: Früher wurde das Sigel für eine Institution im Feld 110 $g gespeichert. Dieses Feld wurde 2024 in ein eigenständiges Feld umgewandelt. Damit ist es möglich, frühere Sigel innerhalb desselben Feldes zu verfolgen. Das Sigel in 094 $a wird beim Speichern nach 110 $g kopiert.
+**Altdaten und MARC-Exportnotiz**: Früher wurde das Sigel für eine Institution im Feld 110 $g gespeichert. Dieses Feld wurde 2024 in ein eigenständiges Feld umgewandelt. Das Sigel in 094 $a wird beim Speichern nach 110 $g kopiert.
 
 #### Sigel (094 $a)
 
