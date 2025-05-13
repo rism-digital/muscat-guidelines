@@ -4,22 +4,22 @@
 
 Małe obrazy takie jak znaki wodne, próbki pisma, lub szycia mogą być dołączone do rekordu bezpośrednio z trybie edycji: kliknij na **Dołącz nowy obraz** w panelu po prawej stronie. Zobacz sekcję **Nowy Obiekt cyfrowy**, aby uzyskać więcej informacji.
 
-Images such as digitized resources should only be added as URLs that link to the holding repository. These are added in the field **External resource (856)**.
+Obrazy takie jak zdigitalizowane źródła powinny być dodawane tylko jako adresy URL, które łączą się z repozytorium przechowywania. Te są dodawane w polu **Zasoby zewnętrzne (856)**.
 
-#### 2. How can I change the order of fields in my record?
+#### 2. Jak mogę zmienić kolejność pól w moim rekordzie?
 
-It's quite simple: just click on the arrow and drag up or down. Any repeatable field (designated by a **+** sign) can be organized this way, such as items in a collection, incipits, names, instruments, notes, etc.
+To dość proste: po prostu kliknij strzałkę i przeciągnij w górę lub w dół. Każde powtarzalne pole (oznaczone przez znak **+** ) może być zorganizowane w ten sposób, np. Indywidualny wpis pozycji w kolekcji, incipity, nazwy, instrumenty, notatki, etc.
 
-#### 3. How can I add special characters?
+#### 3. Jak mogę dodawać znaki specjalne?
 
-Muscat supports Unicode (UTF-8), so make sure than any special characters are Unicode compliant. See, for example, [unicode-table.com](https://unicode-table.com/) for Unicode characters.
+Muscat obsługuje Unicode (UTF-8), więc upewnij się, że wszystkie znaki specjalne są zgodne z Unicode. Zobacz na przykład [unicode-table.com](https://unicode-table.com/) dla znaków Unicode.
 
-#### 4. How can I create and use folders?
+#### 4. Jak mogę tworzyć i wykorzystywać foldery?
 
-Folders can be created from any of the search pages for sources or authorities in Muscat. Folders can aid searching, and folders can be used to perform bulk actions through the Folder view. Folder sizes are limited to 25,000 records.
+Foldery mogą być stworzone z dowolnej strony wyszukiwania źródeł lub haseł wzorcowych w Muscacie. Foldery mogą pomagać w wyszukiwaniu i mogą być używane do wykonywania zbiorczych działań przez panel folderu. Rozmiary folderów są ograniczone do 25 000 rekordów.
 
-##### Creating and adding to folders
-There are two ways to create folders. From the search page, select records by checking the box on the left next to each record. Under **Batch actions** above the list of records on the upper left, click on **Create folder with items**. Name the folder and click **OK.** From **Batch actions** you can also add records to an existing folder. This method enables up to 100 records (the maximum number of results on a search page) to be added to a new or existing folder. The record selection is preserved only on the current page of results.
+##### Tworzenie i dodawanie do folderów
+Istnieją dwa sposoby tworzenia folderów. Z strony wyszukiwania wybierz rekordy, zaznaczając pole po lewej stronie obok każdego rekordu. Under **Batch actions** above the list of records on the upper left, click on **Create folder with items**. Name the folder and click **OK.** From **Batch actions** you can also add records to an existing folder. This method enables up to 100 records (the maximum number of results on a search page) to be added to a new or existing folder. The record selection is preserved only on the current page of results.
 
 The second way to create a folder is to perform any search and then look for the **Actions** list on the right-hand side of the page. By clicking on **Add all to a new folder**, all results from the search will be added to a new folder. Name the folder and save. By clicking on **Add all to an existing folder,** you can select the folder from the list of folders. This method enables up to 25,000 records (a folder's maximum size) to be added to a folder.
 
