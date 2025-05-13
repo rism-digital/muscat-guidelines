@@ -1,32 +1,32 @@
-### Technical problems
+### Błędy techniczne
 
-#### 1. Things aren't working!
+#### 1. Nic nie działa!
 
-Do not despair! If you are having problems, first always make sure you have the most recent version of Firefox or Chrome; you might need to update your browser. Then, try clearing the cache. There are several ways to do this, depending on your computer:
-- Hold down the Shift key and left-click the Reload button
-- Press "Ctrl + F5" or press "Ctrl + Shift + R" (Windows, Linux)
-- Press "Command + Shift + R" (Mac)
+Nie należy popadać w rozpacz! Jeśli pojawają się problemy, najpierw należy upewnić się, czy użytkownik programu Muscat ma zainstalowaną najnowszą wersję przeglądarki Firefox lub Chrome, być może zachodzi konieczność aktualizacji przeglądarki. Następnie należy spróbować wyczyścić pamięć podręczną. Istnieje kilka sposobów, aby to zrobić, w zależności od komputera:
+- Przytrzymać klawisz Shift i kliknąć lewym przyciskiem myszy przycisk Przeładuj
+- Nacisnąć „Ctrl + F5” lub nacisnąć „Ctrl + Shift + R” (Windows, Linux)
+- Wcisnąć „Command + Shift + R” (Mac)
 
-#### 2. I can't save my work.
+#### 2. Nie mogę zapisać swojej pracy.
 
-Make sure you are using either Firefox or Chrome. Internet Explorer will not let you save anything!
+Należy upewnić się, czy użytkownik programu Muscat używa Firefoxa lub Chrome. Internet Explorer nie pozwoli mu niczego zapisać!
 
-#### 3. The fields stretch all the way across a page and cut into other text.
+#### 3. Pola rozciągają się na całą stronę i wcinają w inny tekst.
 
-This might be a screen resolution issue. Muscat works best on screens that are at least 1366 x 768 pixels. Other resolutions might lead to display issues.
+Może to być problem z rozdzielczością ekranu. Muscat działa najlepiej na ekranach o rozdzielczości co najmniej 1366 x 768 pikseli. Inne rozdzielczości mogą prowadzić do problemów z wyświetlaniem.
 
-#### 4. I can't scroll down the screen.
+#### 4. Nie mogę przewijać ekranu w dół.
 
-This also might be a screen resolution issue. See \#3, above.
+To również może być problem z rozdzielczością ekranu. Patrz Pkt. 3.
 
-#### 5. My screen is gray and all I see is an hourglass.
+#### 5. Mój ekran jest szary i widzę jedynie klepsydrę.
 
-This happens when you are searching in the indexes and have switched windows or tabs. Check to see if another window is open. From that window, navigate back to the main screen.
+Dzieje się tak podczas szukania w indeksach. Należy sprawdzić, czy nie jest otwarte inne okno. Z tego okna należy wrócić do głównego ekranu.
 
-#### 6. My incipit seems to have stalled.
+#### 6. Mój incipit najwyraźniej się „zawiesił”.
 
-Try clicking the "refresh" arrows next to the music staff, or save your record and try entering the incipit again.
+Należy spróbować kliknąć strzałki „odśwież” lub zapisać zapisany rekord i spróbować ponownie wprowadzić incipit.
 
-#### 7. I get the error message: "Error saving page: this is a stale version"
+#### 7. Otrzymuję komunikat o błędzie: „Error saving page: this is a stale version”.
 
-This means that while you were editing, someone else also began editing the record and saved before you did, or perhaps you edited the record in a different tab. Try to remember your changes (take a screenshot), close the record, and open it again.
+Oznacza to, że podczas edycji, ktoś inny również rozpoczął edycję rekordu i zapisał go wcześniej, przed Tobą. Należy spróbować zapisać zmiany, zamknąć rekord i otworzyć go ponownie.
