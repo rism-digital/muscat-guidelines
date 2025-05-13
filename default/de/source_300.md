@@ -2,7 +2,7 @@
 
 **Pflichtfeld**
 
-Das Feld **Material** enthält eine eindeutige Beschreibung des erhaltenen Materials unter Angabe des Formats (z. B. Partitur oder Stimmen) und der Anzahl der Stimmen. Wenn Stimmen vorhanden sind, wird dieses Feld in Verbindung mit dem Feld **Stimmenmaterial (590)** verwendet, um die spezifischen Stimmen zu bezeichnen.
+Das Feld **Material** enthält eine eindeutige Beschreibung des erhaltenen Materials unter Angabe des Formats (z. B. Wenn Stimmen vorhanden sind, wird dieses Feld in Verbindung mit dem Feld **Stimmenmaterial (590)** verwendet, um die spezifischen Stimmen zu bezeichnen.
 
 #### Quellenart, Umfang (300 $a)
 
