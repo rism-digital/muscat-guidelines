@@ -59,6 +59,7 @@ For two or more authors or editors, only the first is used in a short title.
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893
 
 If no author is named, use 1-2 keywords from the title in its place.
@@ -89,6 +90,7 @@ If only an approximate year of publication is known, add a **ca.** (for circa) w
 - Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
+  → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850
 
@@ -106,7 +108,7 @@ A catalog that is published as a part of a larger item, such as an appendix in a
 
 ###### Examples
 
-- A. A. A. A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
+- A. A. A. A. A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
 - Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
   → KnaA

@@ -39,7 +39,7 @@ Other dates may be indicated as on the source. Use question marks to indicate un
  - 1856 Christmas Day
  - 1757-01-11
  - 1782-03-27-1784-05-07
- - ca. ca. ca. ca. ca. ca. 1760
+ - ca. ca. ca. ca. ca. ca. ca. 1760
  - before 1802
  - after 1653
  - Easter 1744

@@ -12,7 +12,7 @@ Los **filtros** de Muscat permiten hacer búsquedas simples pero poderosas.
 - Multiple words:  
   either without quotations mark: **lass noch**   
   or with quotation marks: **"lass noch"**
-- Truncation with ? Truncation with ? Truncation with ? Truncation with ? Truncation with ? Truncation with ? Truncation with ? or \*  
+- Truncation with ? Truncation with ? Truncation with ? Truncation with ? Truncation with ? Truncation with ? Truncation with ? Truncation with ? or \*  
   **?**: The question mark replaces exactly one letter. **B?cher** will find Bucher and Bacher.   
   **\***: The asterisk can be used to truncate or replace any number of letters. **B\*cher** encontrará Bucher y Bacher pero también Boucher y Bötticher.
 - AND, OR, NOT, (): Aproveche las ventajas de la búsqueda booleana. Use paréntesis para agrupar su búsqueda. _Ejemplos_:

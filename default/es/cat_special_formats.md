@@ -244,11 +244,11 @@ Appropriate subject headings for treatises include the following:
 
 - **Treatises**
 - **Writings**
-- ****************Music theory ** [Teoría musical]**************
+- ******************Music theory ** [Teoría musical]****************
 - ****Theory of harmony ** [Teoría de la armonía]**
 - En el campo **Título**
 - **uniforme (240)**:
-- ****************Contrapuntal studies (inst./voc.).**************
+- ******************Contrapuntal studies (inst./voc.).****************
 - ****Solfeggios (voc.) **[Solfeos (vocales)]**
 - ****Solfeggios (inst.) **[Solfeos (instrumentales)]**
 - ****Scales (inst./voc.) **[Escalas (instrumentales/vocales)]**
