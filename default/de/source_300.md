@@ -45,7 +45,7 @@ Verwenden Sie einen der folgenden englischen Begriffe, im Singular oder Plural.
 
 - **tablature part**: Tabulaturstimme: Die Art der Tabulatur, falls bekannt, sollte im Feld **Bemerkungen (500)** angegeben werden.
 - **sketch**: Für Skizzen verwenden, wenn die Art nicht genauer bestimmt werden kann.
-- For texted scores, use **with text**, such as **keyboard score with text**. For texted parts, see **Parts held and extent (590)**.
+- **text document**: Use for librettos, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
 - **prompt book**: A document (can be a short score or text) used by a prompter for a stage work.
 - **table book**: parts arranged on a page so that all performers can read from it while seated around a table.
 
@@ -56,7 +56,7 @@ Verwenden Sie einen der folgenden englischen Begriffe, im Singular oder Plural.
 
 For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590)**.
 
-**text document**: Use for librettos, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
+For texted scores, use **with text**, such as **keyboard score with text**. For texted parts, see **Parts held and extent (590)**.
 
 ##### Umfang
 
