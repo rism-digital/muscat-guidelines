@@ -1,25 +1,25 @@
-### RISM instrument abbreviations
+### RISM-Instrumentenabkürzungen
 
-The section **RISM instrument abbreviations** contains the standardized list of abbreviations used by RISM to designate instruments, including vocal instruments.
+Der Abschnitt **RISM Instrumentenabkürzungen** enthält die standardisierte Liste der Abkürzungen von RISM zur Bezeichnung von Instrumenten, einschließlich den Vokalstimmen.
 
-In general, names of instrument families (such as _strings_) are in English and names of individual instruments are abbreviated based on their name in Italian. Voice parts are written using capital letters and non-vocal instruments are written using lower-case letters.
+Im Allgemeinen sind die Namen von Instrumentenfamilien (z. B. _strings_ - Streicher) in englischer Sprache, während die Namen der einzelnen Instrumente auf der Grundlage ihres italienischen Namens abgekürzt werden. Vokalstimmen erhalten einen großen Anfangsbuchstaben, Instrumentalstimmen dagegen einen kleinen Anfangsbuchstaben.
 
-Names of regional instruments not on the list should be written out in full in the original language.
+Die Namen regionaler Instrumente, die nicht auf der Liste stehen, sollten vollständig in der Originalsprache angegeben werden.
 
-#### Contents
+#### Inhalt
 
-- General abbreviations and concepts
-  - Additions to any instrument to indicate a range
-  - Additions to any instrument to indicate a type
-  - Additions to any wind instrument to indicate a tuning other than standard tuning
-  - Unspecified or unknown types or numbers of instruments
-- Vocal (voice) terms
-- Strings
+- Allgemeine Abkürzungen und Begriffe
+  - Zusätze zur Angabe der Stimmlage
+  - Zusätze, die einem Instrument angehängt werden können
+  - Bezeichnungen zur Stimmung eines Blasinstrumentes
+  - Nicht spezifizierte Arten oder Anzahl von Instrumenten
+- Vokalstimmen
+- Streichinstrumente
 - Holzbläser
 - Blechbläser
 - Tasteninstrumente
-- Percussion, other
-- Keyboard instruments
+- Schlagwerk und andere
+- Tasteninstrumente
 - Basso continuo
 
 {% include common/abbr_voices_instr.html %}

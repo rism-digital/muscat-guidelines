@@ -1,22 +1,22 @@
-### Location and address (371; ISDIAH 5.2.1)
+### Standort und Adresse (371; ISDIAH 5.2.1)
 
-The field **Location and address** gives the addresses of the institution, both physical and electronic.
+Im Feld **Standort und Adresse** wird die physische und elektronische Adresse der Einrichtung angegeben.
 
-Enter information in the following fields. Adjust the format of the information appropriate to the country's postal conventions.
+Füllen Sie die folgenden Felder aus. Passen Sie das Format der Informationen an die Postkonventionen des jeweiligen Landes an.
 
-- **Street address** (371 $a): The street and number as well as additions to the address like story, room, or name of building (for example, 1st floor, Room 569, Palazzo ducale)
-- **City** (371 $b)
-- **County, province, state** (371 $c)
-- **Country** (371 $d)
-- **Postal code** (371 $e)
-- **Email** (371 $m; ISDIAH 5.2.2): Enter the email address necessary to contact the institution.
-- **URL** (371 $u): Use the official web address of the institution. If this is not possible, enter the official website of the larger institution to which it belongs. It is not recommended to enter blogs or social networking sites.
-- **Start period** (371 $s): The starting date associated with the address of the institution.
-- **End period** (371 $t): The end date associated with the address of the institution.
-- **Source of information** (371 $v): The source where the information recorded in this field was found if not through a URI.
-- **Public note** (371 $z): Enter additional contact information.
+- **Straße** (371 $a): Straße und Hausnummer sowie Adresszusätze wie Stockwerk oder Häusernamen (z.B. 1. Etage, Raum 569, Palazzo ducale)
+- **Ort** (371 $b)
+- **Landkreis, Provinz, Bundesland** (371 $c)
+- **Land** (371 $d)
+- **Postleitzahl** (371 $e)
+- **E-Mail** (371 $m; ISDIAH 5.2.2): Geben Sie die E-Mail-Adresse ein, die für die Kontaktaufnahme mit der Einrichtung benötigt wird.
+- **URL** (371 $u): Verwenden Sie die offizielle Webadresse der Institution. Wenn dies nicht möglich ist, geben Sie die Adresse der größeren Einrichtung, der sie zugehört, an. Die Seitenangabe von Blogs oder der sozialen Netzwerke ist nicht zu empfehlen.
+- **Startzeitraum** (371 $s): Das Anfangsdatum für die Adresse der Institution.
+- **Endzeitraum** (371 $t): Enddatum für die Adresse der Institution.
+- **Quelle der Information** (371 $v): Die Quelle, aus der die in diesem Feld angegebenen Informationen stammen, sofern es sich nicht um eine URI handelt.
+- **Bemerkungen** (371 $z): Geben Sie weitere Kontaktinformationen ein.
 
-In accordance with ISDIAH guidelines, the following can also be entered in 371 $z:
-- **Telephone number** (ISDIAH 5.2.2)
-- **Fax number** (ISDIAH 5.2.2)
-- **Contact person** (ISDIAH 5.2.3): It is useful to have the email of a contact person, especially for institutions that do not specialize in music, such as administrative or religious archives.
+Entsprechend den ISDIAH-Richtlinien können auch folgende Angaben in 371 $z gemacht werden:
+- **Telefonnummer** (ISDIAH 5.2.2)
+- **Faxnummer** (ISDIAH 5.2.2)
+- **Kontaktperson**  (ISDIAH 5.2.3): Vor allem für Institutionen, die nicht auf Musik spezialisiert sind - wie Verwaltungs- oder Kirchenarchive - ist es sinnvoll, eine Kontaktperson zu nennen.

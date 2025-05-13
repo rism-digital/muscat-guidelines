@@ -18,7 +18,7 @@ Informacje, których brakuje w źródle, mogą zostać dodane w rekordzie RISM, 
 
 Zawsze należy używać permalinków przy linkowaniu do zdigitalizowanych źródeł muzycznych, w szczególności w polu **Zasoby zewnętrzne (856)**.
 
-W celu wprowadzenia odniesienia do strony www, nie należy wpisywać adresu URL w polu uwag. Zasób należy wprowadzić jako odniesienie bibliograficzne. Następnie dodać rekord w polu **Odniesienie bibliograficzne (691)** i podając tytuł skrócony w polu uwag. Co należy wprowadzić w hasłach wzorcowych ** Literatura pomocnicza**. Zapewnia to użytkownikom dostęp do pełnych informacji bibliograficznych, i jeśli URL zmieni się, aktualizacja jest potrzebna tylko w bazie haseł wzorcowych **literatury pomocniczaj**.
+W celu wprowadzenia odniesienia do strony www, nie należy wpisywać adresu URL w polu uwag. Zasób należy wprowadzić jako odniesienie bibliograficzne. Co należy wprowadzić w hasłach wzorcowych ** Literatura pomocnicza**. Co należy wprowadzić w hasłach wzorcowych ** Literatura pomocnicza**. Zapewnia to użytkownikom dostęp do pełnych informacji bibliograficznych, i jeśli URL zmieni się, aktualizacja jest potrzebna tylko w bazie haseł wzorcowych **literatury pomocniczaj**.
 
 Dla książek znalezionych w Google Books lub innych repozytoriach cyfrowych, zawsze stwórz rekord bibliograficzny w bazie haseł wzorcowych **Literatura pomocnicza** dla samej książki, a nie dla cyfrowego zasobu. To znaczy, cytujemy książkę, a nie Google Books.
 

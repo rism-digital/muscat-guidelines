@@ -1,4 +1,4 @@
-# Institutions
+# Körperschaften
 
 The authority file for institutions (corporate names) describes non-persons that appear in connection with a source or other authority record in Muscat. This authority file contains both modern institutions (such as a library with a RISM library siglum) and historical corporate bodies (such as a publisher or an orchestra).
 

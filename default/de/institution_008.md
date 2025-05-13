@@ -1,3 +1,3 @@
-### Date of creation (008; ISDIAH 5.6.6)
+### Erstellungsdatum (008; ISDIAH 5.6.6)
 
-The field **Date of creation** shows the date that the record was created. This field is automatically generated.
+Das Feld **Erstellungsdatum** zeigt das Datum an, an dem der Datensatz erstellt wurde. Das Feld wird automatisch generiert.

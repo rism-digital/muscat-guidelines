@@ -1,28 +1,28 @@
-### General note (680)
+### Externe Bemerkungen (680)
 
-The field **General note** is to enter other notes on description.
+Das Feld **Externe Bemerkungen** ist für alle anderen Arten von Informationen.
 
-#### General note (680 $a)
+#### Externe Bemerkungen (680 $a)
 
-Enter additional notes that describe the institution, such as:
+Geben Sie zusätzliche Anmerkungen ein, die die Institution beschreiben, z. B.:
 
-- Any changes to the RISM library siglum
-- Classification of the collection, such as "Collection in GB-Lbl"
-- Online repository: URL of the digital repository of the institution
+- Alle Änderungen der RISM-Bibliothekssigel
+- Klassifizierung der Sammlung, z. B. „Sammlung in GB-Lbl“
+- Online-Repositorium: URL der digitalen Sammlung der Institution
 
-In accordance with ISDIAH guidelines, the following can also be entered here:
-- Records management and collecting policies (ISDIAH 5.3.5): Enter information about the collecting policies of the institution. Indicate whether the repository seeks to acquire materials by transfer, gift, purchase, and/or loan.
-- Archival and other holdings (ISDIAH 5.3.7): Enter the names of the fonds and collections. Start each name on a new line. Use the name as used by the holding institution. In the case of personal fonds, it is recommended to add in square brackets the dates of birth and death of the person in question. If there are lists or URLs with the information about the collections or fonds of a specific institution, provide the URL.
-- Opening times (ISDIAH 5.4.1): Provide information on opening times and dates of annual closures. Include this information if it is not readily available online.
-- Conditions and requirements for access and use (ISDIAH 5.4.2)
-- Reproduction services (ISDIAH 5.5.2)
+Entsprechend den ISDIAH-Richtlinien können Sie hier auch folgende Angaben machen:
+- Datenverwaltung und Sammlungspolitik (ISDIAH 5.3.5): Geben Sie Informationen zur Sammlungspolitik der Institution an. Geben Sie an, ob sich die Institution um den Erwerb von Materialien durch Transfer, Schenkung, Kauf und/oder Verleih bemüht.
+- Archiv- und sonstige Bestände (ISDIAH 5.3.7): Geben Sie die Namen der Bestände und Sammlungen ein. Jeder Name wird in einer neuen Zeile eingetragen. Bitte den von der besitzenden Institution verwendeten Namen nutzen. Bei personengebundenen Beständen wird die Angabe des Geburts- und Sterbedatums der betreffenden Person in eckigen Klammern empfohlen. Wenn es Listen oder URLs mit Informationen über die Sammlungen oder Bestände einer bestimmten Einrichtung gibt, geben Sie die URL an.
+- Öffnungszeiten (ISDIAH 5.4.1): Geben Sie Informationen über die Öffnungszeiten und die jährlichen Schließtage an. Fügen Sie diese Informationen hinzu, falls diese nicht online verfügbar sind.
+- Zugangs- und Nutzungsbedingungen (ISDIAH 5.4.2)
+- Reproduktionsdienste (ISDIAH 5.5.2)
 
 
-##### Examples
+##### Beispiele
 
 - Joachim, Joseph (1831-1907) (Royal College of Music, Library)
-- Andrée-Stenhammararkivet
+- Andrée-Stenhammararkivet
 - Telemann, Georg Michael
 - Fonds Montpensier
-- Collection Camille Saint-Saëns
+- Sammlung Camille Saint-Saëns
 - Dallapiccola, Luigi, compositore (Pisino, 1904 – Firenze, 1975)

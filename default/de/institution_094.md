@@ -1,17 +1,14 @@
-### Siglum (094)
+### Sigel (094)
 
-The field **Siglum** is for the unique, unalterable RISM library siglum. Sigla are assigned by the RISM Editorial Center in
-consultation with the RISM national working groups.
+Das Feld **Sigel** enthält das eindeutige, unveränderliche RISM-Bibliotheksigel. Die Sigel werden von der RISM-Zentralredaktion in Absprache mit den nationalen RISM-Arbeitsgruppen vergeben.
 
-RISM has been using library sigla since its foundation in 1952 in all of its publications and catalogs. They are also used in all of the standard international music encyclopedias and in musicological publications.
+Seit seiner Gründung im Jahr 1952 verwendet RISM die Bibliothekssigel in allen Publikationen und Katalogen. They are also used in all of the standard international music encyclopedias and in musicological publications.
 
-**Obsolete procedures and MARC export note**: Previously the siglum for an institution was stored in the 110 $g field. This was changed to a dedicated field in 2024 to
-allow former sigla to be tracked within the same field. The siglum in 094 $a is copied to 110 $g upon saving.
+**Altdaten und MARC-Exportnotiz**: Früher wurde das Sigel für eine Institution im Feld 110 $g gespeichert. Dieses Feld wurde 2024 in ein eigenständiges Feld umgewandelt. Damit ist es möglich, frühere Sigel innerhalb desselben Feldes zu verfolgen. Das Sigel in 094 $a wird beim Speichern nach 110 $g kopiert.
 
-#### Siglum (094 $a)
+#### Sigel (094 $a)
 
-Enter the RISM siglum. Sigla are made up of three elements: a country abbreviation, a city abbreviation, and an institution
-abbreviation. The abbreviations for the country and city are always capitalized and the abbreviation for the institution is always lowercase. The country code is separated from the other details by a hyphen. The code for the country is taken from the list of international vehicle registration
+Geben Sie das RISM-Sigel ein. Sigel bestehen aus drei Elementen: einem Länderkürzel, einem Städtekürzel und einem Institutionskürzel. The abbreviations for the country and city are always capitalized and the abbreviation for the institution is always lowercase. The country code is separated from the other details by a hyphen. The code for the country is taken from the list of international vehicle registration
 codes maintained by the United Nations. City and institution codes are assigned by the RISM Editorial Center.
 
 If an institution has changed its name it keeps the same siglum.

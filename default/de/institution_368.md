@@ -1,40 +1,40 @@
-### Type of institution (368; ISDIAH 5.1.5)
+### Typ der Körperschaft (368; ISDIAH 5.1.5)
 
-The field **Type of institution** records other attributes of the institution.
+Das Feld **Typ der Körperschaft** erfasst weitere Attribute der Institution.
 
-#### Type of institution (368 $a)
+#### Typ der Körperschaft (368 $a)
 
-Enter the type of institution. Select from the following types:
+Geben Sie den Typ der Körperschaft an. Es steht eine Auswahlliste zur Verfügung:
 
-- Archive
-- Bookseller
-- Congress
-- Copyist
-- Documentation center
-- Institution
-- Library
+- Archiv
+- Musikalienhändler
+- Kongresse
+- Schreiber
+- Dokumentationszentrum
+- Körperschaft
+- Bibliothek
 - Museum
-- Other
-- Papermaker
-- Performer
-- Printer
-- Publisher
-- Research institute
+- Sonstige
+- Papierhersteller
+- Interpret
+- Drucker
+- Verleger
+- Forschungsinstitut
 
 
-#### Type of jurisdiction (368 $b)
+#### Art der Gerichtsbarkeit (368 $b)
 
-Enter the type of jurisdiction associated with the institution.
+Geben Sie die Art der Gerichtsbarkeit an, die mit der Institution verbunden ist.
 
-##### Examples
+##### Beispiele
 
-- County
-- Village
+- Bundesland
+- Ort
 
-#### Other designation (368 $c)
+#### Andere Bezeichnung (368 $c)
 
-Enter a designation here if not found in the previous fields in this section.
+Geben Sie hier eine Bezeichnung ein, die nicht in den vorherigen Feldern dieses Abschnitts enthalten ist.
 
-#### Source of term (368 $2)
+#### Quelle des Begriffs (368 $2)
 
-Enter the source of the terms used.
+Geben Sie die Quelle der verwendeten Begriffe an.
