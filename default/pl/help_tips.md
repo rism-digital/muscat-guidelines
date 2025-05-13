@@ -19,11 +19,11 @@ Muscat obsługuje Unicode (UTF-8), więc upewnij się, że wszystkie znaki specj
 Foldery mogą być stworzone z dowolnej strony wyszukiwania źródeł lub haseł wzorcowych w Muscacie. Foldery mogą pomagać w wyszukiwaniu i mogą być używane do wykonywania zbiorczych działań przez panel folderu. Rozmiary folderów są ograniczone do 25 000 rekordów.
 
 ##### Tworzenie i dodawanie do folderów
-Istnieją dwa sposoby tworzenia folderów. Z strony wyszukiwania wybierz rekordy, zaznaczając pole po lewej stronie obok każdego rekordu. Under **Batch actions** above the list of records on the upper left, click on **Create folder with items**. Name the folder and click **OK.** From **Batch actions** you can also add records to an existing folder. This method enables up to 100 records (the maximum number of results on a search page) to be added to a new or existing folder. The record selection is preserved only on the current page of results.
+Istnieją dwa sposoby tworzenia folderów. Z strony wyszukiwania wybierz rekordy, zaznaczając pole po lewej stronie obok każdego rekordu. W **Działania wsadowe** powyżej listy rekordów po lewej stronie, kliknij **Utwórz folder z pozycjami**. Nazwij folder i kliknij przycisk **OK.** Z przycisku **Działania wsadowe** możesz również dodać rekordy do już istniejącego folderu. Ta metoda umożliwia dodanie do nowego lub istniejącego folderu maksymalnie 100 rekordów (maksymalna liczba wyników na stronie wyszukiwania). Wybór rekordów jest zachowany tylko na bieżącej stronie wyników.
 
-The second way to create a folder is to perform any search and then look for the **Actions** list on the right-hand side of the page. By clicking on **Add all to a new folder**, all results from the search will be added to a new folder. Name the folder and save. By clicking on **Add all to an existing folder,** you can select the folder from the list of folders. This method enables up to 25,000 records (a folder's maximum size) to be added to a folder.
+Drugim sposobem na stworzenie folderu jest przeprowadzenie wyszukiwania, a następnie wyszukanie listy **Działania** po prawej stronie strony. Klikając na **Dodaj wszystko do nowego folderu**, wszystkie wyniki wyszukiwania zostaną dodane do nowego folderu. Nazwij folder i zapisz. Klikając na **Dodaj wszystko do istniejącego folderu,** możesz wybrać folder z listy folderów. Ta metoda umożliwia dodawanie do folderu maksymalnie 25 000 rekordów (maksymalny rozmiar folderu).
 
-##### Searching with folders
+##### Wyszukiwanie za pośrednictwem folderów
 
 On the search page, the filters include a drop-down menu called **Is in folder.** Select your folder to limit results to records that are only in that folder.
 
