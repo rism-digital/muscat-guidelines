@@ -1,8 +1,8 @@
-### How do I ...? Tips & tricks
+### Jak zrobić...? Rady i wskazówki
 
-#### 1. How can I add images to a record?
+#### 1. Jak mogę dodać obrazy do rekordu?
 
-Small images such as watermarks, handwriting samples, or bindings can be attached to the record directly from the editing mode: click on **Attach a new image** on the menu on the right. See the section **Digital objects** for more details.
+Małe obrazy takie jak znaki wodne, próbki pisma, lub szycia mogą być dołączone do rekordu bezpośrednio z trybie edycji: kliknij na **Dołącz nowy obraz** w panelu po prawej stronie. Zobacz sekcję **Nowy Obiekt cyfrowy**, aby uzyskać więcej informacji.
 
 Images such as digitized resources should only be added as URLs that link to the holding repository. These are added in the field **External resource (856)**.
 
