@@ -45,26 +45,26 @@ Verwenden Sie einen der folgenden englischen Begriffe, im Singular oder Plural.
 
 - **tablature part**: Tabulaturstimme: Die Art der Tabulatur, falls bekannt, sollte im Feld **Bemerkungen (500)** angegeben werden.
 - **sketch**: Für Skizzen verwenden, wenn die Art nicht genauer bestimmt werden kann.
-- **text document**: Use for librettos, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
-- **prompt book**: A document (can be a short score or text) used by a prompter for a stage work.
-- **table book**: parts arranged on a page so that all performers can read from it while seated around a table.
+- **text document**: Wird verwendet für Libretti, Abhandlungen und andere Textdokumente. Eine Anmerkung in **Bemerkungen (500)** ist möglicherweise notwendig.
+- **prompt book**: Soufflierbuch: Ein Dokument (Klavierauszug oder Text), das von einem Souffleur für ein Bühnenwerk verwendet wird.
+- **table book**: Tischbuch: Stimmen, die so auf einem Blatt angeordnet sind, dass alle Interpreten an einem Tisch sitzend daraus lesen können.
 
-###### Other
+###### Sonstige
 
-- **various**: Use for collection parent records if the collection contains different kinds of formats (such as a full score and a keyboard score).
-- **other**: Use if none of the above apply. In such cases, include an explanation in the field **General note (500)**. The number of items or the extent is not required.
+- **various**: Verschiedene: Bitte für die übergeordneten Datensätze verwenden, wenn die Sammlung verschiedene Formate enthält (z. B. eine vollständige Partitur und einen Klavierauszug).
+- **other**: Sonstige: Wenn keine der oben erwähnten Kategorien angewandt werden kann. Geben Sie in solchen Fällen eine Anmerkung im Feld **Bemerkungen (500)** ein. Die Anzahl der Elemente oder der Umfang ist nicht erforderlich.
 
-For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590)**.
+Dirigierstimmen werden als **Stimme** mit der Bezeichnung **conductor part** im Feld **Vorhandene Stimmen (590)** eingetragen.
 
-For texted scores, use **with text**, such as **keyboard score with text**. For texted parts, see **Parts held and extent (590)**.
+Für Klavieruszüge mit Text, verwenden Sie den englischen Zusatz **with text**, z. B. **Tkeyboard score with text**. Für Stimmen mit Text siehe **Stimmenmaterial (590)**.
 
 ##### Umfang
 
-For all formats except parts, enter the number of pages, leaves, or gatherings. Choose among the following abbreviations: **f** for folio, **p** for page, **lvs** for leaves (sheets), and **fds** for folds (gatherings).
+Bei allen Formaten - außer Stimmen - geben Sie die Anzahl der Seiten, Bögen oder Lagen an. Wählen Sie unter den folgenden Abkürzungen: **f** für Folio, **p** für Seite **lvs** für Bögen und **fds** für Lagen.
 
-For collection parent records as well as for pieces that are not part of collections, the total extent is given, such as **35 p.** If a piece is within a collection, the extent for that piece is given, such as **p. 17-23.** 17-23. 17-23.
+Bei übergeordneten Sammlungen sowie bei Einzeltiteln wird der Gesamtumfang angegeben, z. B. **35 p.**. Befindet sich ein Stück innerhalb einer Sammlung, wird der Umfang für dieses Stück angegeben, z. B. **p. 17-23.**
 
-Use only one method of foliation or pagination within a collection. When using recto and verso enumeration, use both **r** and **v**. Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
+Verwenden Sie innerhalb einer Sammlung nur eine Methode der Foliierung oder Paginierung. Wenn Sie die Aufzählung der Vorder- und Rückseite verwenden, benutzen Sie sowohl **r** als auch **v**. Andere Einheiten (z. B. die Umrechnung von Folios in Seiten) geben Sie im Feld **Bemerkungen (500)** an.
 
 Geben Sie hier nicht den Umfang der Stimmen an. Der Umfang wird in das Feld **Umfang Stimmenmaterial (590)** eingetragen.
 
