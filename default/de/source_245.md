@@ -1,8 +1,8 @@
-### Title on source (245)
+### Diplomatischer Titel (245)
 
-The field **Title on source** is for a diplomatic transcription of the title as it is stated on the source.
+Das Feld **Diplomatischer Titel** dient der diplomatischen Transkription des in der Quelle angegebenen Titels.
 
-#### Title on source (245 $a)
+#### Diplomatischer Titel (245 $a)
 
 **Required field.**
 
