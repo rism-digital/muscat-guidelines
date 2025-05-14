@@ -1,12 +1,12 @@
-### Standardized titles – Subject headings
+### Znormalizowane tytuły – Hasła przedmiotowe
 
-This section expands on the guidelines for **Standardized title (240)** in cataloging situations where genres are used as standardized titles. In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
+Ta sekcja odnosi się do sytuacji , w których gatunki są używane jako tytuły znormalizowane w polu **Tytuł ujednolicony (240)**. W wielu przypadkach **Tytuł ujednolicony** i **Hasło przedmiotowe (650)** będą identyczne, jak np. w przypadku _Symphonies_. W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające hasło przedmiotowe.
 
-A variant subject heading is used in the following situations:
-- If the same subject heading can be used in both vocal and instrumental genres, an abbreviation in parentheses is added after the genre: **(voc.)** or **(inst.)**, respectively.
-- Specifications such as **(dances)** or **(stage)** may also be added in parentheses after the main term.
+Wariant hasła przedmiotowego wykorzystywany jest w następujących sytuacjach:
+- Jeśli ta samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa **(voc.)** lub **(inst.)**.
+- Określenia takie jak **(dances)** lub **(stage)** mogą być również dodane w nawiasie po głównym terminie.
 
-Below are lists of standardized titles and their corresponding subject headings. The lists are not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English and in the plural) and not in translation. Note the special situations at the end.
+Poniżej znajduje się lista ujednoliconych tytułów i odpowiadających im hasła przedmiotowe. Proszę zauważyć, że lista ta nie jest wyczerpująca. The standardized titles and subject headings should be entered in the form given here (usually in English and in the plural) and not in translation. Note the special situations at the end.
 
 Contents:
 - General instrumental and vocal music
