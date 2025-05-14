@@ -47,12 +47,12 @@ Podczas przeglądania jednego z twoich folderów kliknij link **Zatwierdź pozyc
 
 #### 7. Jak mogę dodać bardziej złożone incipity muzyczne w swoich rekordach?
 
-Jeśli zapisujesz incipit muzyczny za pośrednictwem zewnętrznego programu (Sibelius), przekonwertuj go na MEI, plik MEI może być przesłany do Muscat. Obecnie tylko Editorial Center może to zrobić, skontaktuj się z nami, aby uzyskać pomoc. Zostanie to wyświetlone jako obraz w katalogu internetowym. Należy tworzyć incipity muzyczne za pomocą kodu Plaine & Easie, aby incipit był przeszukiwalny.
+Jeśli zapisujesz incipit muzyczny za pośrednictwem zewnętrznego programu (takiego jak partytura w Sibelius), przekonwertuj go na MEI, plik MEI może być przesłany do Muscat. Obecnie tylko Editorial Center może to zrobić, skontaktuj się z nami, aby uzyskać pomoc. Zostanie to wyświetlone jako obraz w katalogu internetowym. Należy tworzyć incipity muzyczne za pomocą kodu Plaine & Easie, aby incipit był przeszukiwalny.
 
 #### 8. Jak mogę usunąć rekord?
 
-Tylko Editorial Center może usunąć rekord. Notify the RISM Editorial Center if you need to delete a record, including holdings information.
+Tylko Editorial Center może usunąć rekord. Powiadom RISM Editorial Center o konieczności usunięcia rekordu, w tym informacji o egzemplarzu.
 
-#### 9. What if my record is in the wrong template?
+#### 9. Co jeśli mój rekord jest skatalogowany w złym szablonie?
 
-Templates can be changed, but only the Editorial Center can do this. Notify the RISM Editorial Center if you need the template of a record to be switched.
+Szablony mogą zostać zmienione, ale tylko Editorial Center może to zrobić. Powiadom RISM Editorial Center jeśli potrzebujesz zmiany szablonu rekordu.
