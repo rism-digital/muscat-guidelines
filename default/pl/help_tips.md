@@ -19,39 +19,39 @@ Muscat obsługuje Unicode (UTF-8), więc upewnij się, że wszystkie znaki specj
 Foldery mogą być stworzone z dowolnej strony wyszukiwania źródeł lub haseł wzorcowych w Muscacie. Foldery mogą pomagać w wyszukiwaniu i mogą być używane do wykonywania zbiorczych działań przez panel folderu. Rozmiary folderów są ograniczone do 25 000 rekordów.
 
 ##### Tworzenie i dodawanie do folderów
-Istnieją dwa sposoby tworzenia folderów. Z strony wyszukiwania wybierz rekordy, zaznaczając pole po lewej stronie obok każdego rekordu. W **Działania wsadowe** powyżej listy rekordów po lewej stronie, kliknij **Utwórz folder z pozycjami**. Nazwij folder i kliknij przycisk **OK.** Z przycisku **Działania wsadowe** możesz również dodać rekordy do już istniejącego folderu. Ta metoda umożliwia dodanie do nowego lub istniejącego folderu maksymalnie 100 rekordów (maksymalna liczba wyników na stronie wyszukiwania). Wybór rekordów jest zachowany tylko na bieżącej stronie wyników.
+Istnieją dwa sposoby tworzenia folderów. Z strony wyszukiwania wybierz rekordy, zaznaczając pole po lewej stronie obok każdego rekordu. W **Działania wsadowe** powyżej listy rekordów po lewej stronie, kliknij **Utwórz folder z pozycjami**. Nazwij folder i kliknij przycisk **OK.** Z przycisku **Działania zbiorcze** możesz również dodać rekordy do już istniejącego folderu. Ta metoda umożliwia dodanie do nowego lub istniejącego folderu maksymalnie 100 rekordów (maksymalna liczba wyników na stronie wyszukiwania). Wybór rekordów jest zachowany tylko na bieżącej stronie wyników.
 
 Drugim sposobem na stworzenie folderu jest przeprowadzenie wyszukiwania, a następnie wyszukanie listy **Działania** po prawej stronie strony. Klikając na **Dodaj wszystko do nowego folderu**, wszystkie wyniki wyszukiwania zostaną dodane do nowego folderu. Nazwij folder i zapisz. Klikając na **Dodaj wszystko do istniejącego folderu,** możesz wybrać folder z listy folderów. Ta metoda umożliwia dodawanie do folderu maksymalnie 25 000 rekordów (maksymalny rozmiar folderu).
 
 ##### Wyszukiwanie za pośrednictwem folderów
 
-On the search page, the filters include a drop-down menu called **Is in folder.** Select your folder to limit results to records that are only in that folder.
+Na stronie wyszukiwania filtry zawierają menu rozwijane o nazwie **Jest w folderze** Wybierz swój folder, aby ograniczyć wyniki do rekordów, które znajdują się tylko w tym folderze.
 
-##### Performing bulk actions
+##### Wykonywanie działań zbiorczych
 
-On the main Folders page, you can click **View** to view the contents of any folder, **Edit** to change the name of your folders, and **Delete** to delete the folder. (The records in the folder will not be deleted.)
+Na głównej stronie Folderów możesz kliknąć **Sprawdź**, aby wyświetlić zawartość dowolnego folderu, **Edytuj** aby zmienić nazwę folderów i **Usuń** aby usunąć folder. (Rekordy w folderze nie zostaną usunięte)
 
-When viewing your folder, the **Publish** button will change the status of the records from unpublished to published. You can also **Export** the contents of the folder as MARCXML or a CSV file, which is sent by email. **Validate** runs the records through Muscat's standard validation and the report is sent by email.
+Podczas przeglądania swojego folderu przycisk **Opublikuj** zmieni status rekordów z nieopublikowanych na opublikowane. Możesz również kliknąć **Wyeksportuj** zawartości folderu jako MARCXML lub do pliku CSV, który jest wysyłany pocztą elektroniczną. Przycisk **Zatwierdź pozycje** poddaje rekordy standardowej walidacji Muscat, a raport jest wysyłany pocztą elektroniczną.
 
-##### Managing folders
+##### Zarządzanie folderami
 
-Muscat folders are visible to all Muscat users. Links to folders can be sent to other catalogers. Folders expire after six months, but the expiration date can be reset in the folder view.
+Foldery w Muscat są widoczne dla wszystkich użytkowników. Linki do folderów mogą być wysyłane do innych katalogów. Foldery wygasają po sześciu miesiącach, ale data wygaśnięcia może być zresetowana w widoku folderu.
 
-#### 5. How can I export records from Muscat?
+#### 5. Jak mogę wyeksportować rekordy z Muscat?
 
-There are several ways retrieve Muscat records in various formats. Single records can be viewed in XML format by appending **.xml** to any record's URL in the full record view or by clicking the **Show XML** button from the menu on the right-hand side of the page. The MARC21 format can be displayed by clicking the **Show MARC21** button from the menu. You can also create a folder of records and export them in MARCXML or CSV format (see question 4, above).
+Istnieje kilka sposobów pobierania rekordów z Muscat w różnych formatach. Pojedyncze rekordy mogą być wyświetlane w formacie XML przez dodanie **.xml** dla dowolnego rekordu w pełnym widoku rekordu lub klikając przycisk **Widok XML** z menu po prawej stronie strony. Format MARC21 można wyświetlić klikając przycisk **Widok MARC21** z menu. Możesz również utworzyć folder dla rekordów i wyeksportować je w formacie MARCXML lub CSV (patrz pytanie 4 powyżej).
 
-#### 6. How can I check for errors in older records?
+#### 6. Jak mogę sprawdzić błędy w starszych rekordach?
 
-When viewing one of your own folders, click the **Validate items** link. You will receive an email with a list of validation errors found.
+Podczas przeglądania jednego z twoich folderów kliknij link **Zatwierdź pozycje**. Otrzymasz e-mail z listą błędów weryfikacyjnych.
 
-#### 7. How can I include more complex music incipits with my records?
+#### 7. Jak mogę dodać bardziej złożone incipity muzyczne w swoich rekordach?
 
-If you create a music incipit with an external program (such as a full score in Sibelius) and convert it to MEI, the MEI file can be uploaded to Muscat. Currently, only the Editorial Center can do this; contact us for assistance. This will be displayed as an image in the online catalog. A separate Plaine & Easie incipit must be made in order for the incipit to be searchable.
+Jeśli zapisujesz incipit muzyczny za pośrednictwem zewnętrznego programu (Sibelius), przekonwertuj go na MEI, plik MEI może być przesłany do Muscat. Obecnie tylko Editorial Center może to zrobić, skontaktuj się z nami, aby uzyskać pomoc. Zostanie to wyświetlone jako obraz w katalogu internetowym. Należy tworzyć incipity muzyczne za pomocą kodu Plaine & Easie, aby incipit był przeszukiwalny.
 
-#### 8. How can I delete a record?
+#### 8. Jak mogę usunąć rekord?
 
-Only the Editorial Center can delete a record. Notify the RISM Editorial Center if you need to delete a record, including holdings information.
+Tylko Editorial Center może usunąć rekord. Notify the RISM Editorial Center if you need to delete a record, including holdings information.
 
 #### 9. What if my record is in the wrong template?
 
