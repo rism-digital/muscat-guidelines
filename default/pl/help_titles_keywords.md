@@ -6,18 +6,18 @@ Wariant hasła przedmiotowego wykorzystywany jest w następujących sytuacjach:
 - Jeśli ta samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa **(voc.)** lub **(inst.)**.
 - Określenia takie jak **(dances)** lub **(stage)** mogą być również dodane w nawiasie po głównym terminie.
 
-Poniżej znajduje się lista ujednoliconych tytułów i odpowiadających im hasła przedmiotowe. Proszę zauważyć, że lista ta nie jest wyczerpująca. The standardized titles and subject headings should be entered in the form given here (usually in English and in the plural) and not in translation. Note the special situations at the end.
+Poniżej znajduje się lista ujednoliconych tytułów i odpowiadających im hasła przedmiotowe. Proszę zauważyć, że lista ta nie jest wyczerpująca. Tytuły ujednolicone i hasła przedmiotowe powinny być wpisywane w formie (zazwyczaj w języku angielskim i w liczbie mnogiej), a nie w tłumaczeniu. Należy zwrócić uwagę na szczególne sytuacje na końcu.
 
-Contents:
-- General instrumental and vocal music
-- Sacred vocal music
-- Music for the stage, theater, etc.
-- Exercises, studies, schools, lessons
-- Dances
+Zawartość:
+- Muzyka instrumentalna i wokalna ogólna
+- Muzyka wokalna sakralna
+- Muzyka sceniczna, teatralna itd.
+- Ćwiczenia, etiudy, szkoły, lekcje
+- Tańce
 
-#### General instrumental and vocal music
+#### Muzyka instrumentalna i wokalna ogólna
 
-Standardized title — Corresponding subject heading
+Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 - Airs — Airs (dances)
 - Airs — Airs (inst.)
 - Airs — Airs (voc.)
