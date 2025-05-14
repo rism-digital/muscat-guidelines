@@ -1,10 +1,10 @@
-### Parts held and extent (590)
+### Stimmenmaterial (590)
 
-The field **Parts held and extent** indicates which parts are held and their foliation/pagination.
+Das Feld **Stimmenmaterial** listet die vorhandenen Stimmen und deren Folierung/Paginierung auf.
 
-#### Parts held (590 $a)
+#### Stimmenmaterial (590 $a)
 
-**Required if source contains parts.**
+**Pflichtfeld, wenn die Quelle Stimmenmaterial umfasst.**
 
 Enter parts held and number of parts with reference to the RISM instrument abbreviation list. If you wish, you may use the designations that appear on the source if they vary from the standardized RISM abbreviation.
 
