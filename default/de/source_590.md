@@ -6,82 +6,82 @@ Das Feld **Stimmenmaterial** listet die vorhandenen Stimmen und deren Folierung/
 
 **Pflichtfeld, wenn die Quelle Stimmenmaterial umfasst.**
 
-Enter parts held and number of parts with reference to the RISM instrument abbreviation list. If you wish, you may use the designations that appear on the source if they vary from the standardized RISM abbreviation.
+Geben Sie die vorhandenen Stimmen und deren Anzahl unter Bezugnahme auf die RISM-Instrumentenabkürzungsliste ein. Wenn Sie möchten, können Sie die Bezeichnungen verwenden, die auf der Quelle erscheinen, sofern sie von der standardisierten RISM-Abkürzung abweichen.
 
-The first letter of instrumental parts is in lowercase and vocal parts uppercase. The order for naming parts is as follows and from the highest to the lowest range:
+Instrumentalstimmen beginnen mit einem Kleinbuchstaben und Vokalstimmen mit einem Großbuchstaben. Die Reihenfolge der Nennung gestaltet sich wie folgt; die Stimmen werden jeweils von der höchsten zur tiefsten Stimmlage genannt:
 
-- Solo vocal parts. Begin the field with **Solo:**
-- Chorus vocal parts. Begin the field with **Coro:**
-- Solo instruments
-- Strings
-- Basso continuo/thoroughbass
-- Woodwinds
-- Brass
-- Other instruments
+- Solo-Vokalstimmen. Beginnen Sie das Feld mit **Solo:**
+- Chor-Vokalstimmen. Beginnen Sie das Feld mit **Coro:**
+- Soloinstrumente
+- Streichinstrumente
+- Basso continuo/Generalbass
+- Holzblasinstrumente
+- Blechblasinstrumente
+- Weitere Instrumente
 
-If no further details of the part designations are available, write the English phrase: **no further indication**
+Falls die Stimmenbezeichnungen nicht genau bekannt sind, verwenden Sie den englischen Begriff **no further indication**.
 
-Special cases:
+Spezialfälle:
 
-- Figured bass: If you have a figured bass, enter the instrument followed by **.fig**, such as **b.fig**, **bc.fig**, **org.fig**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
-- Instrument not on the RISM instrument abbreviation list: write out the instrument in full.
-- Unusual instruments, designations, or tunings (such as **cor in D\|x**) may be written out in full; however, in the field **Total scoring (594)**, try to standardize the instrument to RISM's instrument abbreviation list if possible (such as **cor in E\|b**).
-- Example: **tr 1 and 2** If a part contains the music for multiple instruments, use **and**.
-- In partbooks of the 15th and 16th centuries, it is sometimes the case that a part appears in a partbook that differs from the partbook’s label, such as a Tenor 2 part that is printed in a Quinta vox (V 5) partbook. In this field, you can indicate where each part is found by using an equals sign.  
+- Bezifferter Bass: Wenn Sie einen bezifferten Bass haben, geben Sie das Instrument gefolgt von **.fig** ein, z. B. **b.fig**, **bc.fig**, **org.fig** usw. (siehe auch die Tabellen im Abschnitt **Bezifferter Bass in Partituren und/oder Stimmen** für Hinweise zu den entsprechenden Feldern).
+- Nicht in der RISM-Abkürzungsliste genannte Stimmbezeichnungen werden ausgeschrieben.
+- Außergewöhnliche Instrumente, Bezeichnungen oder Stimmungen (z. B. **cor in D\|x**) können ausgeschrieben werden; im Feld **Besetzung (594)** sollte jedoch versucht werden, das Instrument nach Möglichkeit an die RISM-Abkürzungsliste anzugleichen (z. B. **cor in E\|b**).
+- Klavierstimme mit Text: Verwenden Sie den englischen Begriff **pf with text** (oder **org with text**, **keyb with text**, etc.). Dasselbe wird in das Incipit-Feld **Besetzung (031 $m)** eingetragen.
+- In den Stimmbüchern des 15\. und 16\. Jahrhunderts kommt es manchmal vor, dass eine Stimme in einem Stimmbuch erscheint, die sich von der Beschriftung des Stimmbuchs unterscheidet, wie z. B. eine Tenor 2-Stimme, die in einem Quinta vox (V 5)-Stimmbuch gedruckt ist. In diesem Feld können Sie mit einem Gleichheitszeichen angeben, wo jede Stimme zu finden ist.   
   Example:  
-  Partbooks are S, A, T, B, V 5. V 5 contains a T 2 part.  
+  Stimmbücher: S, A, T, B, V 5. V 5 enthält die T 2-Stimme.   
   S, A, T, B, V 5 (= T 2)  
-  See also the field **Total scoring (594)** on how to enter the total instrumentation.
+  Siehe auch das Feld **Besetzung (594)** zur Eingabe der Gesamtbesetzung.
 
 
-#### Extent (parts) (590 $b)
+#### Umfang Stimmenmaterial (590 $b)
 
-Enter the number of folios, pages, leaves, or gatherings. Use only one method of enumeration. Choose among the following abbreviations:
+Geben Sie die Anzahl der Folien, Seiten, Bögen oder Lagen ein. Verwenden Sie nur eine Aufzählungsmethode. Wählen Sie eine der folgenden Abkürzungen:
 
-- **f** for folio
-- **p** for page
-- **lvs** for leaves (sheets)
-- **fds** for folds (gatherings)
+- **f** für Folio
+- **p** für Seite
+- **lvs** für Bögen
+- **fds** für Lagen
 
-Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
+Andere Einheiten (z. B. die Umrechnung von Folios in Seiten) geben Sie im Feld **Bemerkungen (500)** an.
 
-You may also indicate single pages or folios within a manuscript collection, such as **p. 5-6** or **f. 4r-4v**. 5-6</strong> or **f. 4r-4v**. 4r-4v</strong>.
+Sie können auch einzelne Seiten oder Folien innerhalb einer handschriftlichen Sammlung angeben, z. B. **p. 5-6** or **f. 4r-4v**.
 
-##### Examples
-There are two different ways list the parts.
+##### Beispiele
+Es gibt zwei Varianten, um die Stimmen aufzuzählen.
 
-*Example 1*: One instrumental family per line with a comma separating the instruments. The field must be repeated for each family.
+*Beispiel 1*: Eine Instrumentenfamilie pro Zeile, wobei die Instrumente durch ein Komma getrennt werden. Das Feld muss für jede Instrumentenfamilie wiederholt werden.
 
-**Parts held (590 $a)**: Solo: S 1, 2 (2x), A, T, B  
-**Extent (parts) (590 $b)**: 3, 2, 2, 3, 3, 4 p.
+**Vorhandene Stimmen (590 $a)**: Solo: S 1, 2 (2x), A, T, T B  
+**Umfang Stimmenmaterial (590 $b)**: 3, 2, 2, 3, 3, 4 p.
 
-**Parts held (590 $a)**: Coro: S, A, T B  
-**Extent (parts) (590 $b)**: 4, 4, 4, 4 p.
+**Vorhandene Stimmen (590 $a)**: Coro: S, A, T B  
+**Umfang Stimmenmaterial (590 $b)**: 4, 4, 4, 4 p.
 
-**Parts held (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
-**Extent (parts) (590 $b)**: 4, 4, 3, 4, 2 p.
+**Vorhandene Stimmen (590 $a)**: vl 1, 2, vla, vlc, b (= bc)  
+**Umfang Stimmenmaterial (590 $b)**: 4, 4, 3, 4, 2 p.
 
-**Parts held (590 $a)**: ob 1, 2, cl 1, 2 in B\|b  
-**Extent (parts) (590 $b)**: 2, 2, 2, 2 p.
+**Vorhandene Stimmen (590 $a)**: ob 1, 2, cl 1, 2 in B\|b  
+**Umfang Stimmenmaterial (590 $b)**: 2, 2, 2, 2, 2 p.
 
-**Parts held (590 $a)**: tr 1 and 2 in B\|b   
-**Extent (parts) (590 $b)**: 2 p.
+**Vorhandene Stimmen (590 $a)**: tr 1 und 2 in B\|b   
+**Umfang Stimmenmaterial (590 $b)**: 2 p.
 
-**Parts held (590 $a)**: org (incpl)  
-**Extent (parts) (590 $b)**: 8 p.
+**Vorhandene Stimmen (590 $a)**: org (incpl)  
+**Umfang Stimmenmaterial (590 $b)**: 8 p.
 
-*Example 2*: Everything on one line with a comma separating the instruments and a semicolon separating the instrument families (but this can be hard to follow if many parts are present)
+*Beispiel 2*: Alles in einer Zeile mit einem Komma zwischen den Instrumenten und einem Semikolon zwischen den Instrumentenfamilien (dies kann jedoch unübersichtlich werden, wenn viele Stimmen vorhanden sind)
 
-**Parts held (590 $a)**: Solo: S (2x), A, T, Bariton, B; Coro: S; vl 1, 2, vla, vlc, cb (incpl); fl 1, 2, ob; cor 1 and 2  
-**Extent (parts) (590 $b)**: 2, 2, 2, 3, 3, 3; 3; 5, 5, 3, 2, 1; 4, 3, 4; 2 f.
+**Vorhandene Stimmen (590 $a)**: Solo: S (2x), A, T, Bariton, B; Coro: S; vl 1, 2, vla, vlc, cb (incpl); fl 1, 2, ob; cor 1 and 2  
+**Umfang Stimmenmaterial (590 $b)**: 2, 2, 2, 3, 3, 3; 3; 5, 5, 3, 2, 1; 4, 3, 4; 2 f.
 
-#### Additional information
+#### Ergänzende Angaben
 
-Additional information (brief remarks) about such things as the number or incompleteness of parts can be added in parentheses directly after the part designation. Use the following conventions:
+Zusätzliche Informationen (kurze Bemerkungen), z. B. über die Anzahl oder Unvollständigkeit von Teilen, können in Klammern direkt nach der Stimmenbezeichnung hinzugefügt werden. Verwenden Sie die folgenden Konventionen:
 
-- If you have multiple copies of the same part, write the number and then include the extent for each part. Example: **S (2x)**
-- **(= bc)**: part is a basso continuo part
-- **(incpl)**: part is incomplete
-- Use a **/** (slash) to join two elements: **bc (2x/incpl)**
-- If you have multiple copies of the same part, write the number and then include the extent for each part. Example: **S (2x)**
-- You can include the tuning: **cl 1, 2 in B\|b**  
+- Wenn mehrere Exemplare desselben Stimme vorliegen, geben Sie die Anzahl und dann den Umfang für jede Stimme an. Beispiel: **S (2x)**
+- **(= bc)**: Stimme gehört zum basso continuo
+- **(incpl)**: Stimme ist unvollständig
+- Verwenden Sie einen **/** (Schrägstrich) um zwei Elemente anzugeben: **bc (2x/incpl)**
+- Wenn eine Stimme die Musik für mehrere Instrumente enthält, verwenden Sie **and**. Beispiel: **tr 1 and 2**
+- Sie können auch die Stimmung einbeziehen: **cl 1, 2 in B\|b**  
