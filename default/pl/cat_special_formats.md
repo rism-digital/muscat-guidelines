@@ -41,17 +41,16 @@ Opisując klcek introligatorski, tworząc połączenia między rekordami, zwró�
 
 ### Contrafacta
 
-**Contrafacta** are vocal pieces in which the text is changed without significant change to the music, such as retexting a secular work with sacred text, or the other way around. The derivation is almost mechanical; there is little creativity on the part of the arranger, but there is a significant change in the musical purpose (such as from a theatrical context to a religious one).
+**Kontrafaktura** to technika, w której tekst zostaje zmieniony bez większych zmian w muzyce, jak np. przeredagowanie utworu świeckiego tekstem sakralnym lub odwrotnie. Zabieg jest niemal mechaniczny, w związku z czym rola aranżera nie ma charakteru twórczego, jednakże w wyniku zastosowania tej techniki powstaje utwór wokalny ze zmienionym celem wykorzystania muzyki (np. z kontekstu teatralnego na religijny).
 
-Note that RISM considers contrafacta to be separate from parody and parody masses, which typically involve a more significant transformation of the musical material.
+Należy pamiętać, że w RISM kontrafakturę uważa się za odrębną wobec parodii lub mszy parodystycznych, które zakładają większą zmianę w tkance materiału muzycznego.
 
-Take note of the following fields when cataloging contrafacta. RISM ID no. 300234487, a sacred contrafactum of an aria from Josef Mysliveček's opera Il Bellerofonte, will be used as an example.
+Katalogując kontrafakturę zwróć uwagę na następujące pola. Rekord 300234487 to religijna kontrafaktura z opery Il Bellerofonte Josef Myslivečeka.
 
-- **Composer (100)**  
-  Enter the composer of the original music.
+- **Kompozytor / Autor (100)**
  - Mysliveček, Josef
-- **Standardized title (240)**  
-  Use the standardized title of the original piece. **Excerpts** may be added. Do not use **Arr**.
+- **Tytuł ujednolicony (240)**  
+  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji **Excerpts** may be added. Do not use **Arr**.
  - Il Bellerofonte. Excerpts
 - **Alternative title (730)**  
   If there is a new, distinct standardized title for the piece in hand, you can enter it here. Do not enter text incipits here.
