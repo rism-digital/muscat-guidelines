@@ -77,22 +77,22 @@ Katalogując kontrafakturę zwróć uwagę na następujące pola. Rekord 3002344
 - **Inne pola**  
   Wszystkie inne pola, takie jak święta liturgiczne i te związane z instrumentacją powinny odnosić się do katalogowanego źródła, a nie oryginalnego, na podstawie którego powstała contrafacta.
 
-### Compilations
+### Kompilacje
 
-**Compilations** are new, independent works made from parts of one or more other works and can also include new material. Frequently, the resulting work is of a different genre than the component parts, such as when arias or duets from an opera become a cantata, or excerpts from an opera become an instrumental suite. This also includes pasticcios. While the boundary between a compilation and a pasticcio is not always clear, pasticcios can be generally be characterized by one of these features: (1) arias, duets, or larger parts of dramatic works that are adapted to a new libretto; (2) several independent works combined to create a new work; or (3) collaborative compositions conceived as such from the beginning.
+**Kompilacje** to nowe, niezależne utwory utworzone z części jednego lub więcej innych utworów, mogą również zawierać nowy materiał. Często powstały w ten sposób utwór należy do innego gatunku niż partie składowe, np. kiedy arie lub duety z opery stają się kantatą, lub fragmenty opery stają się suitą instrumentalną. Obejmuje to również pasticcios. Chociaż granica między kompilacją a pasticcio nie zawsze jest wyraźna, pasticcios można ogólnie scharakteryzować jedną z następujących cech: (1) arie, duety lub większe części utworów dramatycznych, które są przystosowane do nowego libretta; (2) kilka niezależnych utworów połączonych w celu stworzenia nowego utworu; lub (3) wspólne kompozycje pomyślane jako takie od początku.
 
-Compilations may be entered on a single record, or they may be entered as collections.
+Kompilacje wprowadzone mogą być jako pojedyncze rekordy lub jako kolekcje.
 
-Take note of the following fields when cataloging compilations.
+Katalogując kompilację zwróć uwagę na poniższe pola.
 
-- **Composer/Author (100)**  
-  The composer is always **Compilations**.
-- **Additional personal name (700)**  
-  The name of the compiler can be added with the function **Editor**.  
-  If you have a compilation, enter the composer(s) of the original material and select the function **Composer cross-reference**. Enter the composer(s) of the new material and select the function **Co-composer**.   
-  If you have a pasticcio, do not enter composers as a composer cross-references. Instead, enter all composers as a **Co-composer**.
-- **Standardized title (240)**  
-  Enter the standardized title of the source in hand. For pasticcios, add **Excerpts** or **Arrangement** as appropriate.
+- **Kompozytor / Autor (100)**  
+  W tym przypadku zawsze uzupełniamy kompozytora w **Kompilacjach**.
+- **Dodatkowa osoba (700)**  
+  Nazwę autora kompilacji można dodać z określeniem finkcji **Redaktor**.  
+  Jeśli opracowujesz kompilację, wprowadź nazwę kompozytora lub kompozytorów oryginalnego materiału i wybierz funkcję **Odniesienie do innego kompozytora**. Wprowadź nazwę kompozytora lub kompozytorów nowego materiału i wybierz funkcję **Współkompozytor**.   
+  Jeśli masz do czynienia z pasticcio, nie wpisuj kompozytorów jako odniesień do innego kompozytora. Zamiast tego możesz wprowadzić wszystkich kompozytorów z określeniem funkcji jako **Współkompozytor**.
+- **Tytuł ujednolicony (240)**  
+  Wprowadź tytuł ujednolicony źródła, które katalogujesz. W przypadku pasticcio, dodaj odpowiednio **Wyjątki** lub **Aranżacja**.
 - **Language code (041)**  
   For the field **Language of text**, enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
 - **Subject heading (650)**  
