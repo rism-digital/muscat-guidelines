@@ -50,32 +50,32 @@ Katalogując kontrafakturę zwróć uwagę na następujące pola. Rekord 3002344
 - **Kompozytor / Autor (100)**
  - Mysliveček, Josef
 - **Tytuł ujednolicony (240)**  
-  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji **Excerpts** may be added. Do not use **Arr**.
- - Il Bellerofonte. Excerpts
-- **Alternative title (730)**  
-  If there is a new, distinct standardized title for the piece in hand, you can enter it here. Do not enter text incipits here.
-- **Subject headings (650)**  
-  Add at least 3 subject headings (more if appropriate), in this order:  Contrafacta -- Current genre -- Original genre.
+  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji Możesz dodać informację **Wyjątki**. Nie używaj wartości **Arr**.
+ - Il Bellerofonte. Wyjątki
+- **Tytuł dodatkowy (730)**  
+  Jeśli istnieje nowy, charakterystyczny tytuł ujednolicony dla danej kompozycji, możesz wprowadzić go tutaj. Nie wprowadzaj tu incipitów tekstowych.
+- **Hasło przedmiotowe (650)**  
+  Dodaj co najmniej 3 hasła przedmiotowe (więcej jeśli jest zasadne), w tej kolejności: Contrafacta - bieżący gatunek - oryginalny gatunek.
  - Contrafacta
  - Sacred songs
  - Operas
-- **Description summary (520)**  
-  Add a short description in English that explains the situation as a benefit to other RISM users.
- - Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte.
-- **Language of text (041)**  
-  Fill out both of these fields:  
-  Language of text (041 $a): The current text of the source in hand  
-  Language of original text (041 $h): Language of the original piece
- - Language of text: Latin
- - Language of original text: Italian
-- **Text incipit (031 $t)**  
-  You will enter two text incipits (use the + to add a new line):   
-  The text incipit of the current text  
-  The text incipit of the original text, if known, in square brackets.
+- **Podsumowanie (520)**  
+  Dodaj krótki opis w języku angielskim, który wyjaśnia sytuację dla pozostałych użytkowników RISM.
+ - Religijna contrafaktura arii z opery Myslivečeka - Il Bellerofonte.
+- **Kod języka (041)**  
+  Uzupełnij obydwa podpola:   
+  Język tekstu (041 $a): Język źródła, które jest katalogowane  
+  Język tekstu oryginalnego (041 $h): Język oryginalnego źródła
+ - Język tekstu: Łaciński
+ - Język tekstu oryginalnego: Włoski
+- **Incipit tekstowy ($t)**  
+  Należy wprowadzić dwa incipity tekstowe (użyj znaku + w celu dodania nowego pola):    
+  Incipit tekstowy źródła, które jest katalogowane  
+  Incipit tekstowy oryginalnego źródła, jeżeli jest znany, należy podać w nawiasie kwadratowym.
  - Alma redemptoris mater, quae pervia caeli
  - [Giusti dei che ben vedete]
-- **Other fields**  
-  All other fields, such as liturgical feasts and instrumentation, should refer to the source in hand, that is, the contrafactum itself, and not the original work on which it was based.
+- **Inne pola**  
+  Wszystkie inne pola, takie jak święta liturgiczne i te związane z instrumentacją powinny odnosić się do katalogowanego źródła, a nie oryginalnego, na podstawie którego powstała contrafacta.
 
 ### Compilations
 
