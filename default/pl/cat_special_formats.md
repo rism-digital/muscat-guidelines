@@ -93,33 +93,33 @@ Katalogując kompilację zwróć uwagę na poniższe pola.
   Jeśli masz do czynienia z pasticcio, nie wpisuj kompozytorów jako odniesień do innego kompozytora. Zamiast tego możesz wprowadzić wszystkich kompozytorów z określeniem funkcji jako **Współkompozytor**.
 - **Tytuł ujednolicony (240)**  
   Wprowadź tytuł ujednolicony źródła, które katalogujesz. W przypadku pasticcio, dodaj odpowiednio **Wyjątki** lub **Aranżacja**.
-- **Language code (041)**  
-  For the field **Language of text**, enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
-- **Subject heading (650)**  
-  The first subject heading should be **Compilations** and/or **Pasticcios**. The second should be the genre of the source in hand. If you have excerpts, the genre of the excerpt can be added. **Collaborative compositions** is also an option.
-- **Description summary (520)**  
-  Use this field to describe in general the nature of the source.
- - Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
-- **Alternate title (730)**  
-  Enter the standardized title of the original piece(s), adding **Excerpts** or **Arrangement** as appropriate. You can also enter ossia titles.
-- **Catalog of works (690)**  
-  You can enter the catalog of works number for both the compilation and the original works.
-- **Text incipit (031)**  
-  Enter the text of the source in hand. If known, enter the original text in square brackets.
-- **General note (500)**  
-  Always use a note for clarification, especially if the works of separate composers are involved. This ensures that the composers are matched to the works used in the compilation.
-- **Note on performance (518)**  
-  Performances should be noted only as they relate to the compilation itself.
+- **Kod języka (041)**  
+  W polu **Język tekstu** wprowadź język katalogowango źródła. W stosownych przypadkach język oryginalnego dzieła można wprowadzić w polu **Język tekstu oryginalnego**.
+- **Hasło przedmiotowe (650)**  
+  Pierwsze hasło przedmiotowe powinno być **Compilations** i/lub **Pasticcios**. Drugie natomiast odnosić się do gatunku katalogowanego źródła. Jeśli masz do czynienia z wyjątkami, gatunek wyjątku może zostać dodany. Wartość **Collaborative compositions** jest również opcją.
+- **Podsumowanie (520)**  
+  Użyj tego pola, aby ogólnie opisać charakter źródła.
+ - Akt 1 autorstwa Amadei, akt 2 Bonanciniego, uwertura i akt 3 Händla.
+- **Tytuł dodatkowy (730)**  
+  Wprowadz tytuł ujednolicony oryginalnej kompozycji, dodając wartość **Wyjątki** lub **Aranżacja** stosownie do przypadku. Możesz również wprowadzić tytuły ossia.
+- **Katalog utworów (690)**  
+  Możesz wprowadzić numer z katalogu utworów zarówno dla kompilacji, jak i oryginalnych kompozycji.
+- **Incipit tekstowy (031)**  
+  Wprowadź język tekstu katalogowanego źródła. Incipit tekstowy oryginalnego źródła, jeżeli jest znany, należy podać w nawiasie kwadratowym.
+- **Uwaga ogólna (500)**  
+  W celu wyjaśnienia zawsze dodaj uwagę szczególnie jeśli chodzi o dzieła różnych kompozytorów. Zapewnia to, że kompozytorzy są dopasowani do kompozycji wykorzystywanych w kompilacji.
+- **Uwaga o wykonaniu (518)**  
+  Informacje o wykonaniu należy dodać tylko jeśli odnoszą się do samej kompilacji.
 
-#### Examples of compilations
+#### Przykłady kompilacji
 
-- 230001408: Cantata made from opera arias with newly composed recitatives
-- 702000623: Suite made from parts of an opera
-- 700007222: Several works by a single composer used to create a new cantata
-- 702000642, 702000643: Several works by several composers used to create a new suite
-- 452505748: An opera pasticcio consisting of 3 acts by 3 different composers
+- 230001408: Kantata powstała z arii operowych z nowo skomponowanymi recatatywami
+- 702000623: Suita powstała z partii operowych
+- 700007222: Wiele dzieł jednego kompozytora wykorzystanych do stworzenia nowej kantaty
+- 702000642, 702000643: Wiele dzieł różnych kompozytorów wykorzystanych do stworzenia suity
+- 452505748: Opera pasticcio, składająca się z trzech aktów, skomponowanych przez trzech twórców
 
-### Parodies
+### Parodie
 
 A **parody** is a composition based on pre-existing material that results in a new work. In the 19th century, the term gains a satirical flavor.
 
