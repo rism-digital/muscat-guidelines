@@ -1,16 +1,16 @@
-### Provenance note (561)
+### Provenienzvermerk (561)
 
-The field **Provenance note** is for information about the ownership of the item before it came into possession of the holding library.
+Das Feld **Provenienzvermerk** dient der Information über die Eigentumsverhältnisse des Objekts, bevor es in den Besitz der besitzenden Bibliothek gelangte.
 
-#### Provenance note (561 $a)
+#### Provenienzvermerk (561 $a)
 
-Use this field for general notes about the provenance of the item as well as ownership marks. Enter using your cataloging language.
+In diesem Feld werden allgemeine Hinweise zur Herkunft der Quelle sowie zu Eigentumsrechten eingetragen. Verwenden Sie Ihre Katalogisierungssprache.
 
-If ownership marks are present on the source, enter these exactly as they appear on the source, in quotation marks. Include the place on the source where the marks are found. Enter the standardized forms of the personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**. Note: Information about how the current holding institution acquired the item goes in the field **Source of acquisition (541)**.
+Sind Besitzangaben auf der Quelle vorhanden, werden sie als Zitat wiedergegeben. Geben Sie an, wo auf der Quelle diese Angaben zu finden sind. Standardisierte Angaben der Personennamen werden im Feld **Nebeneintragung Personen (700)** und für Institutionen in **Nebeneintragung Körperschaften (710)** gemacht. Hinweis: Informationen darüber, wie die besitzende Institution die vorliegende Quelle erwarb, werden im Feld **Beschaffungsquelle (541)** eingegeben.
 
-##### Examples
+##### Beispiele
 
-- Stamp on p. 2: "Stadtbibliothek Danzig"
-- Oval stamp on p. 1: "Kapiteljski \| arhiv \| ŠAK"
-- "Bayada Padrone" (name found at end)
+- Stempel auf S. 2: "Stadtbibliothek Danzig"
+- Ovaler Stempel auf S. 1: "Kapiteljski \| arhiv \| S<unk> AK"
+- "Bayada Padrone" (Name gefunden am Ende)
 - Originally owned and maintained by Nikolaos Mavropoulos, ms was sold by his heirs after his death.
