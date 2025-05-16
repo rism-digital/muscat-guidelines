@@ -1,12 +1,12 @@
-### Associated place (370)
+### Zugehöriger Ort (370)
 
-The field **Associated place** is used to record a place associated with the institution.
+Das Feld **Zugehöriger Ort** wird verwendet, um einen Ort zu erfassen, der mit der Institution verbunden ist.
 
-#### Associated country (370 $c)
+#### Assoziiertes Land (370 $c)
 
-Enter the country with which the institution is identified.
+Geben Sie das Land an, mit dem die Institution identifiziert wird.
 
-#### Place of residence/headquarters (370 $e)
+#### Wohnsitz/Hauptsitz (370 $e)
 
 Enter the town, city, province, state, locale, and/or country in which the institution has its headquarters or carries out its activities.
 
