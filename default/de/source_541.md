@@ -14,15 +14,15 @@ Standardisierte Angaben der Personennamen werden im Feld **Nebeneintragung Perso
 
 #### Beschaffungsdatum (541 $d)
 
-Enter dates in the form YYYYMMDD. Replace unknown portions of the dates with a hyphen. Single years may be entered as YYYY. General dates may be indicated as on the source. Separate multiple dates with a comma.
+Geben Sie das Datum in der Form JJJJMMTT ein. Fehlen Teile des Datums, werden die entsprechenden Stellen durch Bindestriche ersetzt. Einzelne Jahre können als JJJJ eingegeben werden. Allgemeine Datumsangaben können wie auf der Quelle angegeben werden. Mehrere Datumsangaben werden mit Komma getrennt.
 
-##### Examples
+##### Beispiele
 
 - 17980215
 - 183209--
 - 1815
-- Easter 1744
+- Ostern 1744
 
-#### Accession number (541 $e)
+#### Akzessionsnummer (541 $e)
 
-Enter the accession number here.
+Geben Sie hier die Akzessionsnummer ein.
