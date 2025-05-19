@@ -121,22 +121,22 @@ Katalogując kompilację zwróć uwagę na poniższe pola.
 
 ### Parodie
 
-A **parody** is a composition based on pre-existing material that results in a new work. In the 19th century, the term gains a satirical flavor.
+**Parodia** to kompozycja oparta na wcześniej istniejącym materiale, której efektem jest nowe dzieło. W XIX wieku termin ten nabiera satyrycznego charakteru.
 
-The record 150205470 will be used as an example.
+Rekord 150205470 stanowi przykład.
 
-- **Composer (100)**  
-  Enter the composer of the music for the source in hand.
+- **Kompozytor / Autor (100)**  
+  Wprowadź kompozytora z katalogowanego źródła.
  - Weyse, Christoph Ernst Friedrich
-- **Additional personal name (700)**  
-  Enter the composer of the pre-existing material and select the function Composer cross-reference.
+- **Dodatkowa osoba (700)**  
+  Wprowadź nazwę kompozytora wcześnioejszej kompozycji i wybierz w funkcji Odniesienie do innego kompozytora.
  - Rossini, Gioachino
-- **Standardized title (240)**  
-  Enter the standardized title of the source in hand.
+- **Tytuł ujednolicony (240)**  
+  Wprowadź tytuł ujednolicony źródła, które katalogujesz.
  - Dannemark hellige lyd
-- **Additional title (730)**  
-  Enter the title of the pre-existing material. Add Excerpts as appropriate. Do not use Arrangement or Variations.
- - Tancredi. Excerpts
+- **Tytuł dodatkowy (730)**  
+  Wprowadz tytuł ujednolicony oryginalnej kompozycji. Dodaj wartość Wyjątki w stosownych przypadkach. Nie dodawaj wartości Aranżacja lub Wariacje.
+ - Tancredi. Wyjątki
 - **Subject heading (650)**  
   Enter Parodies as the first subject heading. Enter the genre of the source in hand for the second, and the genre of the pre-existing material as the third.
  - Parodies
