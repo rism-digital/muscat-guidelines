@@ -137,23 +137,23 @@ Rekord 150205470 stanowi przykład.
 - **Tytuł dodatkowy (730)**  
   Wprowadz tytuł ujednolicony oryginalnej kompozycji. Dodaj wartość Wyjątki w stosownych przypadkach. Nie dodawaj wartości Aranżacja lub Wariacje.
  - Tancredi. Wyjątki
-- **Subject heading (650)**  
-  Enter Parodies as the first subject heading. Enter the genre of the source in hand for the second, and the genre of the pre-existing material as the third.
+- **Hasło przedmiotowe (650)**  
+  Wprowadź jako pierwsze hasło przedmiotowo Parodies. Dodaj gatunek źródła katalogowanego jako drugie i dodaj gatunek kompozycji oryginalnej jako trzecie hasło przedmiotowe.
  - Parodies
  - National anthems
  - Operas
 - **Language code (041)**  
-  Enter the language for the source in hand in the field Language of text. Enter the language of the pre-existing material in the field Language of original text.
- - Danish
- - Italian
-- **Text incipits (031)**  
-  Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
+  Wprowadź język katalogowanego źródła w polu Język tekstu. Wprowadź język oryginalnej kompozycji w polu Język tekstu oryginalnego.
+ - Duński
+ - Włoski
+- **Incipit tekstowy (031)**  
+  Wprowadź język inicpitu tekstowego katalogowanego źródła. Incipit tekstowy oryginalnego źródła, jeżeli jest znany, należy podać w nawiasie kwadratowym.
  - Dannemark hellige lyd
  - [Di tanti palpiti]
-- **Other fields**  
-  All other fields, such as performance information, should relate only to the source in hand.
+- **Inne pola**  
+  Wszystkie inne pola, takie jak informacje o wykonaniu, powinny odnosić się tylko i wyłącznie do katalogowanego źródła.
 
-### Insertion arias
+### Arie kuferkowe
 
 Operas that include **insertion arias** (also called suitcase arias or interpolated arias) should be cataloged with at least three records: a parent record (collection main record) for the opera as a whole, a record for the original movements of the opera (which will contain most of the incipits), and a record for each of the inserts.
 
