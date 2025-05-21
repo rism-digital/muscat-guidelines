@@ -19,8 +19,8 @@ Ist die Bibliothek oder Körperschaft Teil einer größeren Institution, so nenn
 
 #### Untergeordnete Körperschaft (110 $b)
 
-Enter the name of the subordinate unit of the institution.
+Geben Sie den Namen der untergeordneten Einheit der Institution an.
 
-#### Place (110 $c)
+#### Ort (110 $c)
 
-Enter the city of the institution. If the original language is in a non-Latin alphabet, write it in transliterated form.
+Geben Sie den Ort der Institution an. Sollte es sich um eine Sprache mit einem nichtlateinischen Alphabet handeln, transliterieren Sie bitte den Namen.
