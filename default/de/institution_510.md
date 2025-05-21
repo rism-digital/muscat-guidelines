@@ -1,49 +1,48 @@
-### Parallel form of name (510; ISDIAH 5.1.3)
+### Parallele Namensformen (510; ISDIAH 5.1.3)
 
-The field **Parallel form of name** gives various forms of an institution's name, including translations. Relationships to other institutions can also be recorded here.
+Das Feld **Parallele Namensformen ** enthält verschiedene Formen des Namens einer Institution, einschließlich Übersetzungen. Auch die Beziehungen zu anderen Institutionen können hier erfasst werden.
 
-#### Parallel form of name (510 $a)
+#### Parallele Namensformen (510 $a)
 
-Enter various forms in which the authorized form of name of an institution occurs as well as translations of the name in other languages, preferably in English. Original names in non-Latin scripts can also be entered here. Enter each name in a separate field.
+Anzugeben sind die verschiedenen Formen, in denen die zulässige Bezeichnung einer Körperschaft vorkommt, sowie die Übersetzungen in andere Sprachen, vorzugsweise Englisch. Hier können auch Originalnamen in nicht-lateinischen Schriften eingegeben werden. Verwenden Sie für jeden Namen eine Zeile.
 
-##### Examples
+##### Beispiele
 
 - The National Library of Wales  
   _For Llyfrgell Genedlaethol Cymru_
-- Norwegian State Academy of Music, Library  
-  _For Norges musikkhøgskole, Biblioteket_
-- ERESBIL - Archivo Vasco de la Música  
-  _For ERESBIL - Musikaren Euskal Artxiboa_
+-
+- ERESBIL - Archivo Vasco de la Música  
+  _für ERESBIL - Musikaren Euskal Artxiboa_
 - ERESBIL - Basque Archives of Music  
-  _for ERESBIL - Musikaren Euskal Artxiboa_
-- Государственный центральный музей музыкальной культуры им. М. И. Глинки
+  _für ERESBIL - Musikaren Euskal Artxiboa_
+- Государственный центральный музей музыкальной культуры им. М. И. Глинки
 
-#### Control subfield (510 $w)
+#### Steuerungsunterfeld (510 $w)
 
-Select a term from the drop-down menu that describes the kind of name.
+Wählen Sie einen Begriff aus dem Dropdown-Menü, der die Art des Namens beschreibt.
 
 Folgende Angaben sind möglich:
 
-- Acronym [d]
-- Broader term [g]
-- Earlier heading [a]
-- Immediate parent body [t]
-- Later heading [b]
-- Musical composition [f]
-- Narrower term [h]
-- Not applicable [n]
-- Reference instruction phrase in subfield $i [i]
-- Relationship designation in $i or $4 [r]
+- Akronym [d]
+- Erweiterter Begriff [g]
+- Frühere Überschrift [a]
+- Unmittelbar übergeordneter Körper [t]
+- Spätere Überschrift [b]
+- Musikalische Komposition [f]
+- Verkürzter Begriff [h]
+- Nicht zutreffend [n]
+- Referenzanweisungsphrase im Unterfeld $i [i]
+- Beziehungsbezeichnung in $i oder $4 [r]
 
-#### Relationship information (510 $i)
+#### Informationen zur Beziehung (510 $i)
 
-Enter a term to describe the relationship of the name to the main heading. Use the vocabulary as determined by the RDA Agent Properties. Commonly used terms include:
+Geben Sie einen Begriff ein, der die Beziehung des Namens zur Hauptüberschrift beschreibt. Verwenden Sie das Vokabular, das in den RDA Agent Properties festgelegt ist. Häufig verwendete Begriffe sind:
 
-- Hierarchical superior
-- Hierarchical subordinate
-- Predecessor of corporate body
-- Successor of corporate body
-- Founding family of corporate body
-- Corporate body member of corporate body
-- Corporate body member of family
-- Absorbed corporate body
+- Hierarchisch höher
+- Hierarchisch untergeordnet
+- Vorgänger der Körperschaft
+- Nachfolger der Körperschaft
+- Gründerfamilie der Körperschaft
+- Körperschaftsmitglied der Körperschaft
+- Körperschaftsmitglied der Familie
+- Aufgenommene Körperschaft
