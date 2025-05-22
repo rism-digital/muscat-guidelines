@@ -1,4 +1,4 @@
-### Related place (551)
+### Ort (551)
 
 The field **Related place** is used to record the location of the institution in 110 $c in standardized form.
 
