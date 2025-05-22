@@ -6,16 +6,16 @@ Das Feld **Literatur** listet die Quellen auf, die bei der Erstellung der Beschr
 
 Geben Sie hier den Kurztitel der Sekundärliteratur an. Das Feld ist über $0 mit der Normdatei **Sekundärliteratur** verknüpft.
 
-Entering and updating the bibliography included in the second edition of RISM Series C is recommended but not required. If no bibliography exists, naming the essential sources is sufficient.
+Die Eingabe und Aktualisierung der Bibliographie, die in der zweiten Auflage der RISM-Serie C enthalten ist, wird empfohlen, ist aber nicht obligatorisch. Wenn keine Bibliographie existiert, genügt die Nennung der wichtigsten Quellen.
 
-#### Source citation (670 $9)
+#### Quellenangabe (670 $9)
 
-Enter a citation for a published work or a description of any source or action that provided information about the heading of the institution.
+Geben Sie ein Zitat aus einem veröffentlichten Werk oder eine Beschreibung aus einer Quelle oder einer Maßnahme an, die Informationen über den Titel der Körperschaft liefert.
 
-#### Information found (670 $b)
+#### Vorhandene Informationen (670 $b)
 
-Enter the number, page number(s), or information found.
+Geben Sie die Nummer, Seitenzahl(en) oder die gefundenen Informationen ein.
 
 #### URI (670 $u)
 
-Enter the URI consulted.
+Geben Sie die konsultierte URI ein.
