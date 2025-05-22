@@ -1,10 +1,10 @@
-### Literature (670; ISDIAH 5.6.8)
+### Literatur (670; ISDIAH 5.6.8)
 
-The field **Literature** lists the sources consulted in creating the description, including those that support the form of the name in the field **Authorized form of name** (110 $a). It can also serve as a general bibliography for the institution's collections.
+Das Feld **Literatur** listet die Quellen auf, die bei der Erstellung der Beschreibung konsultiert wurden, einschließlich derer, die die Form des Namens im Feld **Körperschaft** (110 $a) unterstützen. Sie kann auch als allgemeine Bibliografie für die Sammlungen der Institution dienen.
 
-#### Literature (670 $a)
+#### Literatur (670 $a)
 
-Enter the short title of the source. This field is linked to the **Secondary literature** database through $0.
+Geben Sie hier den Kurztitel der Sekundärliteratur an. Das Feld ist über $0 mit der Normdatei **Sekundärliteratur** verknüpft.
 
 Entering and updating the bibliography included in the second edition of RISM Series C is recommended but not required. If no bibliography exists, naming the essential sources is sufficient.
 
