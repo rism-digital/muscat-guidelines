@@ -155,29 +155,29 @@ Rekord 150205470 stanowi przykład.
 
 ### Arie kuferkowe
 
-Operas that include **insertion arias** (also called suitcase arias or interpolated arias) should be cataloged with at least three records: a parent record (collection main record) for the opera as a whole, a record for the original movements of the opera (which will contain most of the incipits), and a record for each of the inserts.
+Opery obejmujące tzw. **arie kuferkowe** powinny byś skatalogowane razem z conajmniej trzema rekordami: jako rekord nadrzędny (główny rekord kolekcji) dla opery jako całości, rekord dla oryginalenj części opery (zawierajacy większość incipitów muzycznych) i rekord dla każdej wkładki.
 
-Inserts that are separated from a larger work should be cataloged separately. A link to the work into which it was inserted can be indicated in the field **Related source (787**).
+Wstawki, które są odseparowane od większych dzieł, owinny być katlogowane oddzielnie. Link do dzieła, do którego wstawka się odnosi powinien być dodane w polu **Powiązane źródło (787**).
 
-The usual rules apply when creating the parent record and the record for the main opera. Observe the following when cataloging the insert. Note that all fields (such as date of composition and scoring) pertain to the insertion only.
+Zwykłe zasady katalogowania mają zastosowanie przy tworzeniu rekordu macierzystego i rekordu głównego dla opery. Podczas katalogowania wstawki zobserwuj co następuje. Należy zauważyć, że wszystkie pola (takie jak data skomponowania i obsada) odnoszą się wyłącznie do wstawki.
 
-- **Composer (100)**: Composer of the insertion
-- **Additional name (700)**: Composer of the larger work, such as an opera
-- **Standardized title (240)**: Title of the insertion, or the name of the opera followed by Excerpts
-- **Additional title (730)**: Title of the larger work, plus the subheading **Inserts**
-- **Subject heading (650)**: Enter three: Insertions, the genre of the insertion, and the genre of the larger work
-- Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work. **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**.
-- **General note (500)**: Any additional information can be added to make the relationship of the insert within the larger work (if known) clear.
+- **Kompozytor / Autor (100)**: Kompozytor wstawki
+- **Dodatkowa osoba (700)**: Kompozytor głównego dzieła, takiego jak opera
+- **Tytuł ujednolicony (240)**: Tytuł wstawki lub tytuł opery z informacją Wyjątki
+- **Tytuł dodatkowy (730)**: Tytuł głównego dzieła oraz informacja w podpolu **Wstawki**
+- **Hasło przedmiotowe (650)**: Wprowadź trzy: Insertions, gatunku wstawki, gatunku dzieła głównego
+- **Powiązane źródło (787)** informuje do jakiego dzieła głównego, dane źródło zostało wstawione. W podpulu wybierz wartość **Wstawka w **. Dodaj krótkie informację w polu **Uwaga** w celu wyjaśnienia charakteru wstawki, typu w którym miejscu głównego dzieła występuje.
+- **Uwaga ogólna (500)**: Wszelkie dodatkowe informacje mogą być dodane, aby związek pomiędzy wkładką w ramach głównego dzieła (jeżeli jest znane) był klarowniejszy.
 
-### Mixed materials (manuscripts and printed items stored together)
+### Materiały mieszane (rękopisy i druki przechowywane razem)
 
-It is not uncommon for manuscript and printed items to be found together in the same folder or with the same shelfmark: for example, a printed score with handwritten parts, or a group of printed parts together with some handwritten ones.
+Nierzadko zdarza się, że rękopisy i druki muzyczne są razem przechowywane w tej samej tece lub mają tę samą sygnaturę: na przykład wydrukowana partytura z rękopiśmiennymi głosami lub grupa głosów drukowanych przechowywana jest z niektórymi głosami rękopiśmiennymi.
 
-Always strive to catalog the printed material in a separate record, because it is possible that other libraries have copies of the same edition. Create one record for the printed item, add your holdings, and create another record for the manuscript materials. Use the field **Related source (787)** to point from one record to the other.
+Staraj się, aby materiał drukowany był katalogowany w osobnym rekordzie, ponieważ istnieje możliwość, że inne biblioteki mają egzemplarze tego samego rekordu bibliograficznego. W takiej sytuacji, utwórz rekord dla druku muzycznego, dodaj swój egzemplarz i utwórz kolejny rekord dla rękopisu. Wykorzystaj pole **Powiązane źródło (787)** w celu powiazania obydwu rekordów.
 
-If it is not feasible to create an adequate record for the printed material, proceed as follows: Catalog your material using a manuscript template. In the material description section, describe the manuscript materials. Add an additional material group, and describe the printed materials.
+Jeśli nie jest możliwe stworzenie odpowiedniego rekordu dla materiału drukowanego, należy postępować w następujący sposób: Skataloguj swój materiał za pomocą szablonu rękopisu muzycznego. W sekcji opisu materiału opisz materiały rękopiśmienne. Dodaj dodatkową grupę opisu materiału i opisz materiały drukowane.
 
-### Music in periodicals
+### Źródła muzyczne w czasopismach
 
 There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.
 
