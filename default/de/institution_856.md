@@ -1,11 +1,11 @@
-### External resource (856; ISDIAH 5.3.8)
+### Elektronische Lokalisierung und Zugriff (856; ISDIAH 5.3.8)
 
-The field **External resource** provides relevant URLs for the institution. In accordance with ISDIAH guidelines, it can provide a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
+Das Feld **Elektronische Lokalisierung und Zugriff** bietet relevante URLs für die Körperschaft. In Übereinstimmung mit den ISDIAH-Richtlinien kann es einen allgemeinen Überblick über die veröffentlichten und/oder unveröffentlichten Findmittel und Führer der Einrichtung sowie über sonstige einschlägige Veröffentlichungen geben.
 
 #### Uniform Resource Identifier (856 $u)
 
-Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**.
+Geben Sie die URL ein. Geben Sie pro Feld nur eine URL ein. Alle URLs müssen mit **http** oder **https** beginnen.
 
-#### Note about external resource (856 $z)
+#### Für das Publikum bestimmte Fussnote (856 $z)
 
-Enter a short description of the URL.
+Geben Sie eine Kurzbeschreibung der URL ein.
