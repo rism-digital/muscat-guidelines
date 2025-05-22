@@ -1,12 +1,12 @@
 ### Ort (551)
 
-The field **Related place** is used to record the location of the institution in 110 $c in standardized form.
+Das Feld **Zugehöriger Ort** dient zur standardisierten Angabe des Ortes der Körperschaft in 110 $c.
 
-#### Place (551 $a)
+#### Ort (551 $a)
 
-Enter the city, village, town, etc. Enter the city, village, town, etc. Enter the city, village, town, etc. Enter the city, village, town, etc. Enter the city, village, town, etc. This field is linked to the **Places** index through $0. Enter the city, village, town, etc. Enter the city, village, town, etc. Enter the city, village, town, etc. Enter the city, village, town, etc. This field is linked to the **Places** index through $0.
+Geben Sie die Stadt, das Dorf, den Ort usw. ein. Dieses Feld ist über $0 mit der Normdatei **Orte** verknüpft.
 
-##### Example
+##### Beispiel
 
-- Aigen-Schlägl  
-  _For the RISM library siglum record A-SCH_
+- Aigen-Schlägl  
+  _Für den RISM-Bibliothekssigel-Datensatz A-SCH_
