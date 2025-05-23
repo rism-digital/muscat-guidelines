@@ -10,60 +10,60 @@ Wenn Sie feststellen, dass sich ein Datensatz in der falschen Vorlage befindet, 
 
 ### Verfügbare Vorlagen
 
-Ein Datensatz für eine **Sammlung** (übergeordneter Datensatz) wird verwendet, wenn das Objekt mehrere Teile enthält. Each piece in the collection is then entered as an **Item in a collection** (child record) and linked to the collection record. Manuscripts and printed editions can also exist as **Single items** that are not part of collections.
+Ein Datensatz für eine **Sammlung** (übergeordneter Datensatz) wird verwendet, wenn das Objekt mehrere Teile enthält. Jedes Stück in der Sammlung wird dann als **Teileintrag der Sammlung** (untergeordneter Datensatz) eingetragen und mit dem Datensatz der Sammlung verknüpft. Handschriften und Drucke können auch als **Individualeintrag** außerhalb von Sammlungen existieren.
 
-A **Composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. This includes volumes in which printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
+Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Dazu zählen sowohl Bände, in denen Drucke zusammengebunden sind, als auch Bände, in denen Drucke und Handschriften zusammengebunden sind.
 
-Manuscripts are unique to a library and can only be owned by one institution. Printed materials have holdings, meaning that multiple libraries can own copies (exemplars) of an edition.
+Handschriften sind Unikate und können nur im Besitz einer einzigen Institution sein. Gedrucktes Material ist in Form von Exemplaren vorhanden. Das bedeutet, dass mehrere Bibliotheken Kopien (Exemplare) einer Ausgabe besitzen können.
 
-The libretto/song text template is used for documents that contain texts that clearly represent a sung musical performance. Most commonly, these are books that contain the words of an opera or other long vocal work, but they can also be collections of text-only books such as hymnals or Christmas songs. Such publications are sometimes known as songsters, pocket books (frequently labeled as such on the source), or tunebooks.
+Die Vorlage Libretto/Songtext wird für Dokumente verwendet, die Texte enthalten, die eindeutig eine gesungene musikalische Darbietung darstellen. Meistens handelt es sich dabei um Bücher, die den Text einer Oper oder eines anderen langen Vokalwerkes enthalten, es können aber auch reine Textsammlungen wie Gesangbücher oder Weihnachtslieder sein. Solche Veröffentlichungen werden manchmal auch als Liederbücher, Taschenbücher (die häufig auf der Quelle als solche gekennzeichnet sind) oder Melodiebücher bezeichnet.
 
-The treatise template is used for documents that explore theoretical aspects of music, including points of composition or performance.
+Die Vorlage für Theoretika wird für Dokumente verwendet, die sich mit theoretischen Aspekten der Musik befassen, einschließlich Fragen der Komposition oder Aufführung.
 
-Both librettos and treatises may contain notated music, and the line between a libretto or treatise and music might not always be a clear one.
+Sowohl Libretti als auch Traktate können Noten enthalten, und die Grenze zwischen Libretto oder Traktat und Musik ist nicht immer klar zu ziehen.
 
-The following templates are used in Muscat for Sources. Templates are encoded in the MARC record's Leader, positions 6-7.
+Die folgenden Vorlagen werden in Muscat für Quellen verwendet. Vorlagen sind im MARC Record Leader kodiert, Positionen 6-7.
 
-Handwritten materials:
-- Music manuscript
- - Collection (parent record) [LDR: dc]
-   - Item in a collection (child record) [LDR: da]
- - Single music manuscript [LDR: dm]
-- Libretto/Song text
- - Collection (parent record) [LDR: dc]
-   - Item in a collection (child record) [LDR: ta]
-  - Single libretto/song text [LDR: tm]
+Für handschriftliches Material:
+- Musikhandschrift
+ - Sammlung (übergeordneter Datensatz) [LDR: dc]
+   - Teileintrag der Sammlung (untergeordeneter Eintrag) [LDR: da]
+ - Individualeintrag Musikhandschrift [LDR: dm]
+- Libretto/Liedtext
+ - Sammlung (übergeordneter Datensatz) [LDR: dc]
+   - Teileintrag der Sammlung (untergeordeneter Eintrag) [LDR: ta]
+  - Individualeintrag Libretto/Liedtext [LDR: tm]
 - Traktat
-   - Collection (parent record) [LDR: dc]
-    - Item in a collection (child record) [LDR: ta]
-   - Single treatise [LDR: tm]
+   - Sammlung (übergeordneter Datensatz) [LDR: dc]
+    - Teileintrag der Sammlung (untergeordeneter Eintrag) [LDR: ta]
+   - Individualeintrag Theoretikum [LDR: tm]
 
-Printed materials:
-- Music edition
- - Collection (parent record) [LDR: cc]
-   - Item in a collection (child record) [LDR: ca]
- - Single music edition [LDR: cm]
-- Libretto/Song text
- - Collection (parent record) [LDR: ac]
-   - Item in a collection (child record) [LDR: aa]
-  - Single libretto/song text [LDR: am]
+Für gedrucktes Material:
+- Musikdruck
+ - Sammlung (übergeordneter Datensatz) [LDR: cc]
+   - Teileintrag der Sammlung (untergeordeneter Eintrag) [LDR: ca]
+ - Individualeintrag Musikdruck [LDR: cm]
+- Libretto/Liedtext
+ - Sammlung (übergeordneter Datensatz) [LDR: ac]
+   - Teileintrag der Sammlung (untergeordeneter Eintrag) [LDR: aa]
+  - Individualeintrag Libretto/Liedtext [LDR: am]
 - Traktat
-   - Collection (parent record) [LDR: ac]
-    - Item in a collection (child record) [LDR: aa]
-   - Single treatise [LDR: am]
+   - Sammlung (übergeordneter Datensatz) [LDR: ac]
+    - Teileintrag der Sammlung (untergeordeneter Eintrag) [LDR: aa]
+   - Individualeintrag Theoretikum [LDR: am]
 
-Composite volumes:
-- Composite volume [LDR: pc]
+Für Konvolutbände:
+- Konvolut [LDR: pc]
 
 
-## Copying existing records
+## Kopieren bestehender Datensätze
 
-There are two ways to copy a record.
+Es gibt zwei Möglichkeiten, einen Datensatz zu kopieren.
 
-From the template selection screen: Simply enter the RISM ID number in the field "Create from existing source." You will then see a copy of the record in the editing mode and from there you can make any changes to the record that you need. The copied record will automatically receive a new RISM ID number upon saving.
+Auf dem Auswahlbildschirm für die Vorlage: Geben Sie einfach die RISM-Nummer in das Feld „Erstellen aus vorhandener Quelle“ ein. Sie sehen dann eine Kopie des Datensatzes im Bearbeitungsmodus und können von dort aus alle gewünschten Änderungen am Datensatz vornehmen. Der kopierte Datensatz erhält beim Speichern automatisch eine neue RISM ID.
 
-From the full record view: When viewing any record in Muscat, you can click the "Duplicate" button in the sidebar on the right and a copy of the record in the editing mode will be displayed.
+In der Ansicht des vollständigen Datensatzes: Wenn Sie einen beliebigen Datensatz in Muscat anzeigen, können Sie auf die Schaltfläche „Kopieren“ in der rechten Seitenleiste klicken, um eine Kopie des Datensatzes im Bearbeitungsmodus anzuzeigen.
 
-Catalogers may duplicate any record in Muscat, including records that were created by a different library. Editing permissions still apply, so catalogers will not be able to save a record for institutions that they do not have permissions for. Duplicating records saves time when cataloging one's own collections (especially if the content is similar throughout), but catalogers can also take advantage of records created by other libraries, especially if a record has extensive music incipits, or in the case of cataloging reprints where the contents are the same or similar. Only one record at a time can be duplicated.
+Katalogisierer können jeden Datensatz in Muscat duplizieren, auch Datensätze, die von einer anderen Bibliothek erstellt wurden. Die Bearbeitungsrechte gelten weiterhin, so dass Katalogisierer keine Datensätze für Institutionen speichern können, für die sie keine Rechte haben. Das Duplizieren von Datensätzen spart Zeit bei der Katalogisierung der eigenen Sammlungen (vor allem, wenn der Inhalt durchweg ähnlich ist), aber Katalogisierer können auch von Datensätzen profitieren, die von anderen Bibliotheken erstellt wurden, vor allem, wenn ein Datensatz umfangreiche Notenincipits enthält oder wenn Nachdrucke mit gleichem oder ähnlichem Inhalt erfasst werden. Es kann jeweils nur ein Datensatz dupliziert werden.
 
-The Plaine & Easie code for any music incipit may be copied from the full record view of any record. Above the music incipit, simply click on the link **PAE Code** and you can copy and paste the music incipit code that is shown.
+Der Plaine & Easie-Code für jedes Musikincipit kann aus der Vollansicht eines jeden Datensatzes kopiert werden. Klicken Sie einfach auf den Link **PAE Code** oberhalb des Notenincipits und Sie können den angezeigten Incipit-Code kopieren und einfügen.
