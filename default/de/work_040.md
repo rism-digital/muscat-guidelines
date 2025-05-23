@@ -1,13 +1,13 @@
-### Cataloging source (040)
+### Katalogisierungsquelle (040)
 
-This field gives information about the agency that created the record.
+Dieses Feld enthält den Code der erfassenden Institution.
 
-#### Original cataloging agency (040 $a)
-#### Transcribing agency (040 $c)
-#### Modifying agency (040 $d)
+#### Originale Katalogisierungsquelle (040 $a)
+#### Übertragende Katalogisierungsquelle (040 $c)
+#### Modifizierende Katalogisierungsquelle (040 $d)
 
-Do not change or edit these fields.
+Diese Felder dürfen nicht geändert oder bearbeitet werden.
 
-#### Cataloging language (040 $b)
+#### Katalogisierungssprache (040 $b)
 
-Indicate your cataloging language. Select from English, French, German, Italian, Portuguese, or Spanish.
+Geben Sie Ihre Katalogisierungssprache an. Wählen Sie zwischen Deutsch, Englisch, Französisch, Italienisch oder Spanisch.
