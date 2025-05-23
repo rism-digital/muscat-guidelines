@@ -179,33 +179,33 @@ Jeśli nie jest możliwe stworzenie odpowiedniego rekordu dla materiału drukowa
 
 ### Źródła muzyczne w czasopismach
 
-There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.
+Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako kolekcja lub jako samodzielno dzieło. W każdym przypadku tytuł czasopisma wraz z numerem wydania i rokiem wpisuje się w polu **Tytuł dodatkowy (730)**.
 
-#### Collections
-**Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.
+#### Kolekcje
+**Kolekcje** są stosowne kiedy periodyk składa się w całości lub w większości ze źródeł muzycznych i zachowany został jako całość. Egzemplarze zostają dodane na poziomie kolekcji natomiast dla poszczególnych kompozycji tworzy się indywidualne wpisy pozycji w kolekcji.
 
-##### Example
+##### Przykład
 
-1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. There is one record for the collection parent record, and five individual entries for each piece.
+1001097294: Styczniowy numer (dokładny rok nie jest określony) _Kleine Pianoforte-Bibliothek_ składa się z 5 kompozycji. Należy stworzyć jeden rekord kolekcji i pięć indywidualnych wpisów pozycji w kolekcji.
 
-#### Single works
-**Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context (for example, a song was torn out of the periodical).
+#### Pojedyncze dzieła
+**Pojedyncze dzieła** jest stosowne kiedy kompozycja stanowi tylko wkładkę lub dodatek do periodyku. Często takie źródła zachowane są w oderwaniu od oryginalnego kontekstu publikacji (np. pieśń została wyrwana z czasopisma).
 
-#### Examples
+#### Przykłady
 
-- 991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784
-- 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
+- 991018149: „The Pantheon” opublikowane w The Lady's Magazine, sierpień 1784
+- 990042111: „L'amour folâtrant l'autre jour” opublikowane w Nouveau Mercure galant, maj 1679
 
-### Music in non-music publications
+### Kompozycje w „nie muzycznych” publikacjach
 
-RISM includes music found in printed publications that are not primarily music documents. The focus of the RISM record is nevertheless the music.
+RISM obejmuje katalogowanie źródeł muzycznych odnalezionych w publikacjach drukowanych, które nie były pierwotnie materiałami poświęconymi muzyce. Niemniej jednak muzyka jest zawsze w centrum uwagi w rekordzie RISM.
 
-As an example we will use RISM ID no. 990026614, three songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
-- **Composer/Author (100)**: The composer of the music
-- **Additional Personal Name (700)**: The author of the book, with the function **other**
-- **Title on source (245)**: The title of the book
-- **Standardized title (240)**: A standardized title according to RISM rules, such as **3 Songs**
-- **Physical description (300)**: A description of the music, such as **1 score: 5 p.**
+Dla przykładu wykorzystamy rekord ID RISM nr 990026614 –trzy pieśni Johna Isaac Hawkinsa opublikowane w książce Charlesa Willsona - Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
+- **Kompozytor / Autor (100)**: Kompozytor muzyki
+- **Dodatkowa osoba (700)**: Autor książki z funkcją **Inne**
+- **Tytuł w źródle (245)**: Tytuł książki
+- **Tytuł ujednolicony (240)**: Tytuł ujednolicony zgodnie z zasadami RISM jak np. **3 Songs**
+- **Opis fizyczny (300)**: opis dot. rodzju i objętości zapis nutowego jak np.**1 score: 5 p.**
 
 Individual entries are then created for each piece, following normal RISM rules. A **General note (500)** is useful to give more information such as the context of the music within the book or the total pagination of the book.
 
