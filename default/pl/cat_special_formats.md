@@ -200,16 +200,16 @@ Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako k
 
 RISM obejmuje katalogowanie źródeł muzycznych odnalezionych w publikacjach drukowanych, które nie były pierwotnie materiałami poświęconymi muzyce. Niemniej jednak muzyka jest zawsze w centrum uwagi w rekordzie RISM.
 
-Dla przykładu wykorzystamy rekord ID RISM nr 990026614 –trzy pieśni Johna Isaac Hawkinsa opublikowane w książce Charlesa Willsona - Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
+Dla przykładu wykorzystamy rekord ID RISM nr 990026614 – trzy pieśni Johna Isaac Hawkinsa opublikowane w książce Charlesa Willsona - Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
 - **Kompozytor / Autor (100)**: Kompozytor muzyki
 - **Dodatkowa osoba (700)**: Autor książki z funkcją **Inne**
 - **Tytuł w źródle (245)**: Tytuł książki
 - **Tytuł ujednolicony (240)**: Tytuł ujednolicony zgodnie z zasadami RISM jak np. **3 Songs**
 - **Opis fizyczny (300)**: opis dot. rodzju i objętości zapis nutowego jak np.**1 score: 5 p.**
 
-Individual entries are then created for each piece, following normal RISM rules. A **General note (500)** is useful to give more information such as the context of the music within the book or the total pagination of the book.
+Następnie należy dodać rekrody dla Indywidualnych wpisów pozycji w kolekcji zgodnie z wytycznymi RISM. **Uwaga ogólna (500)** jest przydatna w celu podania więcej informacji takich jak kontekst muzyczny w ramach książki lub całkowita paginacja książki.
 
-### Collected works and monuments
+### Wydania zbiorcze
 
 Volumes that are part of collected works editions or monuments of music are treated like separate publications and are cataloged as one record per volume. Such volumes will usually consist of a parent record for the edition and individual entries for each piece contained therein. The name of the series is entered in the field **Additional title (730)**.
 
