@@ -1,7 +1,7 @@
 ### Incipit (031)
 
-RDA registry [rdae:P20062](http://www.rdaregistry.info/Elements/e/#P20062)
+RDA Registry [rdae:P20062](http://www.rdaregistry.info/Elements/e/#P20062)
 
 #### Incipit (031)
 
-Enter the music and/or text incipit(s) for the work following the guidelines for this field in Sources.
+Geben Sie die Noten- und/oder Textincipit(s) für das Werk gemäß den Richtlinien für dieses Feld in Quellen an.
