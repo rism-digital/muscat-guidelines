@@ -1,16 +1,16 @@
-# Records and record types
+# Datensätze und Datensatzarten
 
-A new record can be created in Muscat by either selecting the appropritate template or by copying an existing record. Links to both are on the Source page or the full record view.
+Ein neuer Datensatz kann in Muscat entweder durch Auswahl der entsprechenden Vorlage oder durch Kopieren eines bestehenden Datensatzes erstellt werden. Links zu beiden finden Sie auf der Seite Quellen oder in der vollständigen Datensatzansicht.
 
-## Templates
+## Vorlagen
 
-Muscat offers templates for different sources. A template offers only those fields that are needed for the source in hand.
+Muscat bietet Vorlagen für unterschiedliche Quellen. Die Vorlage bietet nur die Felder an, die für die jeweilige Quelle benötigt werden.
 
-If you see that a record is in the wrong template, notify the Editorial Center to have the template changed.
+Wenn Sie feststellen, dass sich ein Datensatz in der falschen Vorlage befindet, benachrichtigen Sie bitte die Zentralredaktion, damit das Template geändert wird.
 
-### Available templates
+### Verfügbare Vorlagen
 
-A record for a **Collection** (parent record) is used when the item contains multiple pieces. Each piece in the collection is then entered as an **Item in a collection** (child record) and linked to the collection record. Manuscripts and printed editions can also exist as **Single items** that are not part of collections.
+Ein Datensatz für eine **Sammlung** (übergeordneter Datensatz) wird verwendet, wenn das Objekt mehrere Teile enthält. Each piece in the collection is then entered as an **Item in a collection** (child record) and linked to the collection record. Manuscripts and printed editions can also exist as **Single items** that are not part of collections.
 
 A **Composite volume** consists of items that were created separately but later bound together, typically by an owner or institution. This includes volumes in which printed items are bound together, as well as volumes in which printed items and manuscripts are bound together.
 
