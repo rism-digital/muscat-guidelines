@@ -2,4 +2,4 @@
 
 RDA Registry [rdaw:P10002](http://www.rdaregistry.info/Elements/w/#P10002)
 
-Das Feld enthält die RISM ID Nummer für diesen Datensatz. It is automatically filled out by Muscat after saving for the first time.
+Das Feld enthält die RISM ID Nummer für diesen Datensatz. Es wird von Muscat beim ersten Speichern automatisch ausgefüllt.
