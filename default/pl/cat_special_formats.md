@@ -219,16 +219,16 @@ Zwróć uwagę na poniższe pola, gdy katalogujesz wydania zbiorcze. Wykorzystam
 - **Wariant tytułu w źródle (246)**: Ze względu na rozpowszechnienie reprintów i wariantów edycji wydań zbiorczych, najlepszą praktyką jest uwzględnienie w tym polu wszystkich innych stron tytułów lub oznaczeń tytułów. Ułatwi to identyfikację innym użytkownikom w sytuacji kiedy będą dysponowali egzemplarzem z elementami różnicującymi stronę tytułową.
 - **Tytuł dodatkowy (730)**: Wprowadź nazwę serii, zgodnie z konwencją serii, w tym numer woluminu.
 
-### Librettos
+### Libretta
 
-Observe the following when cataloging librettos.
+Zwróć uwagę na poniższe pola, gdy katalogujesz libretta.
 
-- **Composer/Author (100):** Enter the author of the libretto. Do not use this field for the composer of the music.
-- **Additional personal name (700):** A useful function is "conceptor," such as the author of a play that a libretto was based on. Only enter a composer's name as a cross-reference if named on the source.
-- **Additional institution (710):** Do not forget to index the name of the publisher (for printed librettos).
-- **Standardized title (240):** The fields "Arrangement statement" and "Key or mode" are not relevant here. If the libretto includes notated music, indicate the key in the music incipit (031) only.
-- **Additional title (730):** If the libretto was based on a book or play, the title of the original work can be entered here.
-- **Subject heading (650):** If known, enter the name of the genre for which the libretto was written, such as “Operas” or “Cantatas”. "Librettos" is not necessary.
+- **Kompozytor/Autor (100)**: Wprowadź autora libretta. Nie wykorzystuj tego pola w celu podania kompozytora muzyki.
+- **Dodatkowa osoba (700):** Użyteczną funkcją jest „Autor koncepcji”, np. autor utworu, na którym oparto libretto. Wprowadź kompozytora jako odnosienie tylko wtedy, gdy widnieje na źródle.
+- **Instytucja dodatkowa (710):** Nie zapomnij zaindeksować nazwy wydawcy (dla wydań libretta).
+- **Tytuł ujednolicony (240)**: Pola „Strefa aranżacji” oraz „Tonacja lub modus” nie są tu istotne. Jeżeli libretto zawiera zapis muzyczny, wybierz tonację tylko w Incipicie (031).
+- **Tytuł dodatkowy (730)**: Jeżeli libretto oparte jest na sztuce lub książce, tytuł oryginalnego dzieła można wprowadzić w tym polu.
+- **Hasło przedmiotowe (650):** Jeśli znany jest gatunek, wpisz nazwę gatunku, dla którego napisano libretto, np. „Operas” lub „Cantatas”. Hasło „Librettos” nie jest konieczne.
 - **Language code (041):** Use the field "Language of text" only if the libretto contains notated music with words.
 - **Source type (593):** Select the source type. For the content type, select "Libretto."
 - **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. p.
