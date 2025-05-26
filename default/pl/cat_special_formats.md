@@ -229,11 +229,11 @@ Zwróć uwagę na poniższe pola, gdy katalogujesz libretta.
 - **Tytuł ujednolicony (240)**: Pola „Strefa aranżacji” oraz „Tonacja lub modus” nie są tu istotne. Jeżeli libretto zawiera zapis muzyczny, wybierz tonację tylko w Incipicie (031).
 - **Tytuł dodatkowy (730)**: Jeżeli libretto oparte jest na sztuce lub książce, tytuł oryginalnego dzieła można wprowadzić w tym polu.
 - **Hasło przedmiotowe (650):** Jeśli znany jest gatunek, wpisz nazwę gatunku, dla którego napisano libretto, np. „Operas” lub „Cantatas”. Hasło „Librettos” nie jest konieczne.
-- **Language code (041):** Use the field "Language of text" only if the libretto contains notated music with words.
-- **Source type (593):** Select the source type. For the content type, select "Libretto."
-- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. p.
+- **Language code (041):** Wykorzystuj pole „Język tekstu” tylko jeśli libretto zawiera zapis muzyczny z tekstem.
+- **Typ źródła (593):** Wybierz typ źródła. Dla typu zawartości wybierz „Libretto”.
+- **Opis fizyczny: Rodzaj źródła, objętość (300):** Użyj wyrażenia „text document” do opisu formatu libretta. Przykład: 1 text document: viii, 27 p.
 
-### Treatises
+### Traktaty
 
 When cataloging treatises, the field **Format, extent (300 $a)** should generally include "text document" as the format.
 
