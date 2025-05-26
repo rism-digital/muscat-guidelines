@@ -211,13 +211,13 @@ Następnie należy dodać rekrody dla Indywidualnych wpisów pozycji w kolekcji 
 
 ### Wydania zbiorcze
 
-Volumes that are part of collected works editions or monuments of music are treated like separate publications and are cataloged as one record per volume. Such volumes will usually consist of a parent record for the edition and individual entries for each piece contained therein. The name of the series is entered in the field **Additional title (730)**.
+Woluminy, które stanowią wydania zbiorcze źródeł muzycznych, są traktowane jak oddzielne wydania i są katalogowane jako jeden rekord odpowiadający woluminowi. Takie woluminy składają się zazwyczaj z rekordu nadrzędnego dla wydania i indywidualnych wpisów dla każdej kompozycji zawartej w nim. Nazwę serii wprowadza się z polu **Tytuł dodatkowy (730)**.
 
-Observe the following fields in particular when cataloging volumes in collected works. We will use RISM ID no. 1001200051 as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
+Zwróć uwagę na poniższe pola, gdy katalogujesz wydania zbiorcze. Wykorzystamy przykład ID RISM NR 1001200051, tj. wolumin z serii _Wolfgang Amadeus Mozart's Werke._
 
-- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. Enter all other titles in the field **Variant title on source (246)**.
-- **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
-- **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
+- **Tytuł w źródle (245)**: Widnieje wiele stron tytułowych i śród tytułów. Wybierz jedną jako główne źródło informacji i wprowadź ją jako **Tytuł w źródle**. Wpisując, upewnij się, że na początku pola wskazano, która strona jest odpisywana, na przykład [title page] lub [p. iii]. Pozostałe tytuły wporowadź w pole **Wariant tytułu w źródle (246)**.
+- **Wariant tytułu w źródle (246)**: Ze względu na rozpowszechnienie reprintów i wariantów edycji wydań zbiorczych, najlepszą praktyką jest uwzględnienie w tym polu wszystkich innych stron tytułów lub oznaczeń tytułów. Ułatwi to identyfikację innym użytkownikom w sytuacji kiedy będą dysponowali egzemplarzem z elementami różnicującymi stronę tytułową.
+- **Tytuł dodatkowy (730)**: Wprowadź nazwę serii, zgodnie z konwencją serii, w tym numer woluminu.
 
 ### Librettos
 
