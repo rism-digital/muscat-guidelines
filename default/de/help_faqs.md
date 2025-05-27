@@ -43,23 +43,23 @@ Die Muscat-Einträge werden einmal im Monat, etwa am 19. eines jeden Monats, zur
 
 #### 9. Was geschieht, wenn sich eine Quelle in RISM nicht mehr im Besitz der im RISM-Datensatz angegebenen besitzenden Institution befindet?
 
-Use the siglum **XX-NN** for situations in which the current location of a source is unknown, such as if it was on deposit at an institution but the source was taken back and is now in private hands. This happens only rarely. Contact the Editorial Center if a source needs this siglum.
+Verwenden Sie das Sigel **XX-NN** für Situationen, in denen der aktuelle Standort einer Quelle unbekannt ist. Dies ist beispielsweise der Fall, wenn die Quelle ursprünglich bei einer Institution als Depositum hinterlegt war, dann jedoch zurückgenommen wurde und sich nun in Privatbesitz befindet. Dies geschieht nur äußerst selten. Wenden Sie sich an die Zentralredaktion, wenn eine Quelle dieses Sigel benötigt.
 
-#### 10. What are the technical requirements for Muscat?
+#### 10. Was sind die technischen Voraussetzungen für Muscat?
 
-- Muscat is platform independent and works on both Macs and PCs.
-- Access is through a URL and requires an Internet connection.
-- Muscat works best on screens that are at least 1366 x 768 pixels.
-- Muscat is optimized for Firefox and Chrome. Do not use Internet Explorer!
+- Muscat ist plattformunabhängig und läuft auf Macs und PCs.
+- Der Zugang erfolgt über eine URL und erfordert eine Internetverbindung.
+- Muscat funktioniert am besten auf Bildschirmen mit einer Auflösung von mindestens 1366 x 768 Pixeln.
+- Muscat ist optimiert für Firefox und Chrome. Bitte verwenden Sie keinen Internet Explorer!
 
-#### 11. What are some technical aspects about Muscat?
+#### 11. Welche technischen Aspekte gibt es bei Muscat?
 
-- Muscat is open source. The source code is available in the [GitHub](https://github.com/rism-ch/muscat) repository.
-- Muscat is a Ruby on Rails application.
-- [Verovio](https://www.verovio.org/pae-editor.html) is used to render the music incipits through MEI.
-- Solr is used as a search engine.
-- Muscat has [an SRU service](https://github.com/rism-ch/muscat/wiki/SRU) and an [SRU downloader](https://github.com/rism-international/sru-downloader) to retrieve MARCXML records.
-- Muscat supports Unicode (UTF-8).
-- Versioning allows catalogers to view changes made to records.
+- Muscat ist Open Source. Der Quellcode ist im [GitHub](https://github.com/rism-ch/muscat) Repository verfügbar.
+- Muscat ist eine Ruby on Rails Anwendung.
+- [Verovio](https://www.verovio.org/pae-editor.html) wird verwendet, um die Musikincipits durch MEI wiederzugeben.
+- Solr wird als Suchmaschine benutzt.
+- Muscat verfügt über [einen SRU Service](https://github.com/rism-ch/muscat/wiki/SRU) und einen [SRU-Downloader](https://github.com/rism-international/sru-downloader) zum Abrufen von MARCXML-Datensätzen.
+- Muscat unterstützt Unicode (UTF-8).
+- Die Versionskontrolle ermöglicht es Katalogisierern, Änderungen an Datensätzen einzusehen.
 
-More information about the development of Muscat can be found on [RISM Digital Center's website](https://rism.digital/tools/muscat.html).
+Weitere Informationen über die Entwicklung von Muscat finden Sie auf der Website des [RISM Digital Center](https://rism.digital/tools/muscat.html).
