@@ -1,10 +1,10 @@
-### Frequently asked questions
+### Häufig gestellte Fragen (F. A. Q.)
 
-This section contains information about Muscat that is not related to the cataloging guidelines.
+In diesem Abschnitt finden Sie Informationen über Muscat, die nicht im Zusammenhang mit den Katalogisierungsrichtlinien stehen.
 
-#### 1. Where can I find tutorials about Muscat?
+#### 1. Wo finde ich Tutorials zu Muscat?
 
-All of the tutorials are linked on the [RISM Editorial Center's Muscat page](https://rism.info/community/muscat.html).
+Alle Tutorials sind auf der Muscat-Seite des [RISM Editorial Center](https://rism.info/community/muscat.html) verlinkt.
 
 #### 2. How can I contact other Muscat users?
 
