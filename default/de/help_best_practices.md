@@ -1,6 +1,6 @@
-### RISM Best Practices
+### Bewährte RISM-Praktiken
 
-This section outlines best practices when cataloging for RISM; that is, conventions that are not codified in the guidelines but nevertheless contribute to sound, reliable, and transparent records.
+In diesem Abschnitt werden bewährte Praktiken zur Katalogisierung für RISM erläutert, also Konventionen, die nicht in den Richtlinien festgehalten sind, die jedoch zu einer soliden, zuverlässigen und transparenten Erfassung beitragen.
 
 #### 1. Free text fields and indexed fields
 
