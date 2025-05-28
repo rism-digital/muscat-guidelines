@@ -34,18 +34,18 @@ Wenn Sie einen bezifferten Bass **Partitur** haben, müssen die folgenden Felder
 
 - Besetzungshinweis (240 $m): b
 - Parts held (590): b
-- Scoring (594): b = b.fig
+- Besetzung (594): b = b.fig
 
 ##### Instrument: bc
 
-- Scoring summary (240 $m): bc
-- Parts held (590): bc
-- Scoring (594): bc = bc.fig
+- Besetzungshinweis (240 $m): bc
+- Stimmenmaterial (590): bc
+- Besetzung (594): bc = bc.fig
 
 ##### Instrument: org
 
-- Scoring summary (240 $m): org
-- Parts held (590): org
-- Scoring (594): org = org.fig
+- Besetzungshinweis (240 $m): org
+- Stimmenmaterial (590): org
+- Besetzung (594): org = org.fig
 
-For other keyboard instruments, follow the model as for **org**.
+Für andere Tasteninstrumente gilt das gleiche Modell wie für **org**.
