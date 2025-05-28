@@ -1,18 +1,18 @@
-### Standardized titles – Subject headings
+### Einordnungstitel – Schlagworte
 
-This section expands on the guidelines for **Standardized title (240)** in cataloging situations where genres are used as standardized titles. In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
+Dieser Abschnitt erweitert die Richtlinien für **Einordnungstitel (240)** in Katalogisierungssituationen, in denen Gattungen als standardisierte Titel verwendet werden. In vielen Fällen werden der **Einordnungstitel** und das **Schlagwort (650)** identisch sein, wie zum Beispiel bei _Symphonies_. In anderen Fällen wird jedoch ein entsprechendes, nicht identisches Schlagwort verwendet.
 
-A variant subject heading is used in the following situations:
-- If the same subject heading can be used in both vocal and instrumental genres, an abbreviation in parentheses is added after the genre: **(voc.)** or **(inst.)**, respectively.
-- Specifications such as **(dances)** or **(stage)** may also be added in parentheses after the main term.
+Eine abweichendes Schlagwort wird in den folgenden Situationen verwendet:
+- Wenn ein und dasselbe Schlagwort sowohl für Vokal- als auch für Instrumentalmusik verwendet werden kann, wird nach der Gattung eine Abkürzung in Klammern hinzugefügt: **(voc.)** bzw. **(inst.)**.
+- Der Hauptbegriff kann um Angaben wie **(dances)** oder **(stage)** in Klammern ergänzt werden.
 
-Below are lists of standardized titles and their corresponding subject headings. The lists are not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English and in the plural) and not in translation. Note the special situations at the end.
+Nachfolgend finden Sie Listen mit Eonirdnungstiteln und den entsprechenden Schlagwörtern. Die Listen sind nicht vollständig. Die Eibnordnungstitel und Schlagworte sind in der hier angegebenen Form (in der Regel in englischer Sprache und im Plural) und nicht in Übersetzung anzugeben. Beachten Sie die Sonderfälle am Ende.
 
-Contents:
-- General instrumental and vocal music
-- Sacred vocal music
-- Music for the stage, theater, etc.
-- Exercises, studies, schools, lessons
+Inhalt:
+- Allgemeine Instrumental- und Vokalmusik
+- Geistliche Vokalmusik
+- Musik für die Bühne, Theater, etc.
+- Übungen, Studien, Schulen, Lektionen
 - Dances
 
 #### General instrumental and vocal music
