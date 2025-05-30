@@ -250,20 +250,20 @@ Odpowiednie hasła przedmiotowe dla traktatów:
 - **Solfeggios (inst.)**
 - **Scales (inst./voc.)**
 
-Additional subject headings may be added.
+Dodatkowe hasła przedmiotowe mogą zostać dodane.
 
-The boundry between treatises and method books can sometimes be a thin one, and it is up to the cataloger to decide whether to catalog methods as treatises or music editions.
+Granica między traktatami a podręcznikami może czasami być cienka, i to do katalogera należy decyzja, czy katalogować metody jako traktaty czy wydania muzyczne.
 
-### Keyboard arrangements
+### Aranżacje fortepianowe
 
-Specify keyboard arrangements as follows.
+Aranżacje fortepianowe należy opisywać w następujący sposób.
 
-- In the field **Standardized title (240):**
-  - Select **Arrangement** next to **Arrangement statement**.
-  - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. Do not enter the scoring of the original work.
-- In the field **Total scoring (594)**, enter the total scoring of the arrangement. Do not enter the scoring of the original work.
-- In the field **Physical description (300)**, use **keyboard score** if the work has been reduced for piano. Use **vocal** score if the work has been reduced for voice and piano.
+- W polu **Tytuł ujednolicony (240):**
+  - Wybierz **Aranżacja** w ramach pola **Strefa aranżacji**.
+  - W ramach pola ** Podsumowanie obsady** wprowadź obsadę aranżacji, taką jak **pf** lub **V, pf**. Nie wprowadzaj tu obsady kompozycji oryginalnej.
+- W polu **Szczegółowy opis obsady (594)** należy wprowadzić łączną obsadę aranżacji. Nie należy wpisywać obsady kompozycji oryginalnej.
+- W polu Opis fizyczny (300), należy użyć wartości: **keyboard score**, jeśli utwór zredukowano do aranżacji fortepianowej. Wybierz **vocal** score jeżeli utwór został zredukowany do obsady na głos i fortepian.
 
-### Sources described in RISM Series B publications not yet in Muscat
+### Źródła opisane w publikacjach RISM Serii B niedostępne jeszcze w Muscat
 
-There are currently no projects underway by the Editorial Center to systematically add sources described in [RISM's Series B publications](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Nevertheles, RISM contributors are welcome to create new records for such sources. If you add items to Muscat that are described in a B volume, fill out the field **RISM Series (510)** in the Administration section and indicate what book the description was found in. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record.
+Obecnie Editorial Center nie realizuje obecnie żadnych projektów, aby systematycznie dodawać źródła opisane w [publikacjach RISM z serii B](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Niemniej jednak, współtwórcy RISM są mile widziani, aby tworzyć nowe rekordy dla takich źródeł. If you add items to Muscat that are described in a B volume, fill out the field **RISM Series (510)** in the Administration section and indicate what book the description was found in. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record.
