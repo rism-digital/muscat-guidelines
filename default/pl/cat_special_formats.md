@@ -235,16 +235,16 @@ Zwróć uwagę na poniższe pola, gdy katalogujesz libretta.
 
 ### Traktaty
 
-When cataloging treatises, the field **Format, extent (300 $a)** should generally include "text document" as the format.
+Katalogując traktaty należy w polu **Rodzaj źródła, objętość (300 $a)** wpisać „text document” jako rodzaj.
 
-Appropriate subject headings for treatises include the following:
+Odpowiednie hasła przedmiotowe dla traktatów:
 
 - **Treatises**
 - **Writings**
 - **Music theory**
 - **Theory of harmony**
-- **Tutors (inst.)**: Includes methods and schools
-- **Tutors (voc.)**: Includes methods and schools
+- **Tutors (inst.)**: Zawiera podręczniki i szkoły
+- **Tutors (voc.)**: Zawiera podręczniki i szkoły
 - **Contrapuntal studies (inst./voc.)**
 - **Solfeggios (voc.)**
 - **Solfeggios (inst.)**
