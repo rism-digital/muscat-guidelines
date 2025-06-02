@@ -8,16 +8,14 @@ Seit seiner Gründung im Jahr 1952 verwendet RISM die Bibliothekssigel in allen 
 
 #### Sigel (094 $a)
 
-Geben Sie das RISM-Sigel ein. Sigel bestehen aus drei Elementen: einem Länderkürzel, einem Städtekürzel und einem Institutionskürzel. The abbreviations for the country and city are always capitalized and the abbreviation for the institution is always lowercase. The country code is separated from the other details by a hyphen. The code for the country is taken from the list of international vehicle registration
-codes maintained by the United Nations. City and institution codes are assigned by the RISM Editorial Center.
+Geben Sie das RISM-Sigel ein. Sigel bestehen aus drei Elementen: einem Länderkürzel, einem Städtekürzel und einem Institutionskürzel. Die Abkürzungen für das Land und die Stadt werden immer groß geschrieben, die Abkürzung für die Institution wird immer klein geschrieben. Der Ländercode wird durch einen Bindestrich von den anderen Angaben getrennt. Der Code für das Land wird aus der Liste der internationalen Fahrzeugzulassungen entnommen,
+die von den Vereinten Nationen geführt wird. Die Stadt- und Institutionscodes werden von der RISM-Zentralredaktion vergeben.
 
-If an institution has changed its name it keeps the same siglum.
+Wenn eine Institution ihren Namen geändert hat, behält sie das gleiche Sigel.
 
-In general, if a library collection is moved to a new host institution the sources are not assigned a new institution, and thus the siglum of
-the now-subsumed library will remain. An entry is added to the institution record under the 580 "Now in" field pointing to the institution record
-of the new host. This is evaluated on a case-by-case basis.
+Wenn eine Bibliothekssammlung an eine neue Gastinstitution verlegt wird, werden die Quellen im Allgemeinen nicht der neuen Institution zugeordnet, sodass das Sigel der aufgehobenen Bibliothek erhalten bleibt. Dem Datensatz der Einrichtung wird unter dem Feld 580 "Heute in" ein Eintrag hinzugefügt, der auf den Datensatz der Institution des neuen Trägers verweist. Dies wird von Fall zu Fall beurteilt.
 
-In the case of private collections, the last name of the owner is added to the city code in lowercase letters. Double last names are written together, without a space.
+Bei privaten Sammlungen wird der Nachname des Eigentümers in Kleinbuchstaben an den Ortscode angehängt. Doppelnamen werden zusammen geschrieben, ohne Leerzeichen.
 
 ##### Beispiele
 
@@ -26,22 +24,21 @@ In the case of private collections, the last name of the owner is added to the c
 - CZ-Bu = Czech Republic, Brno, Moravská zemská knihovna v Brně (formerly the Universitní knihovna)
 - I-PEbattisti = Italy, Perugia, Biblioteca privata Renzo Battisti
 
-**Obsolete procedures:** In some cases, the institution abbreviation was omitted (example: D-B), especially if the institution was prominent within the city. Today, an institution abbreviation is always included in a siglum.
+**Altdaten:** In einigen Fällen wurde die Abkürzung der Einrichtung weggelassen (Beispiel: D-B), vor allem wenn die Einrichtung in der Stadt bekannt war. Heutzutage wird in einem Sigel immer ein Institutionskürzel angegeben.
 
-#### Former siglum (094 $z)
+#### Früheres Sigel (094 $z)
 
-Enter the former RISM siglum.  Occasionally, due to geopolitical events or the need for clarification, an institution will be assigned a new siglum. To facilitate cross-references
-with the former siglum, the old sigla are added to this field. Sigla are only reassigned by the RISM Editorial Center.
+Geben Sie das frühere RISM-Sigel ein.  Gelegentlich wird einer Körperscahft aufgrund von geopolitischen Ereignissen oder aus Gründen der Klarstellung ein neues Sigel zugewiesen. Um Querverweise mit dem früheren Sigel zu erleichtern, werden die alten Sigen in diesem Feld hinzugefügt. Sigel werden nur durch die RISM-Zentralredaktion neu zugewiesen.
 
 ##### Beispiele
 
-- I-RVat = The former siglum for the Biblioteca Apostolica Vaticana, now V-CVbav.
-- J-Tn = The former siglum for Nanki Ongaku Bunko, now J-WAn.
+- I-Rvat = Das frühere Sigel für die Biblioteca Apostolica Vaticana, jetzt V-CVbav.
+- J-Tn = Das frühere Sigel für Nanki Ongaku Bunko, jetzt J-WAn.
 
-#### Qualifying information (094 $q)
+#### Qualifizierende Informationen (094 $q)
 
-The term **siglum** is automatically added to this field.
+Der Begriff **siglum** wird automatisch in dieses Feld eingefügt.
 
-#### Source of number or code (094 $2)
+#### Normdatenagentur (094 $2)
 
-The term **rism** is automatically added to this field.
+Der Begriff **rism** wird automatisch in dieses Feld eingefügt.
