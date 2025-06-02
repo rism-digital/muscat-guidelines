@@ -1,6 +1,6 @@
-### How do I ...? Tips & tricks
+### Wie kann ich ...? Tipps & Tricks
 
-#### 1. How can I add images to a record?
+#### 1. Wie kann ich einem Datensatz Bilder hinzufügen?
 
 Small images such as watermarks, handwriting samples, or bindings can be attached to the record directly from the editing mode: click on **Attach a new image** on the menu on the right. See the section **Digital objects** for more details.
 
