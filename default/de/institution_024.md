@@ -1,16 +1,16 @@
-### Authority reference (024)
+### Normdatenverweise (024)
 
-The field **Authority reference** is used to record the standard number or code or URI associated with the institution.
+Das Feld **Normdatenverweise** wird verwendet, um die Standardnummer oder den Code oder die URI zu erfassen, die mit der Körperschaft verbunden sind.
 
-#### Authority reference (024 $a)
+#### Normdatenverweise (024 $a)
 
-The code is taken from the authority data of the creating agency. Enter the alphanumeric code used to identify the institution. Examples of the formatting are given below.
+Der Code wird aus den Normdaten der erstellenden Agentur übernommen. Geben Sie den alphanumerischen Code zur Identifizierung des Trägers an. Nachstehend finden Sie Beispiele für die Formatierung.
 
-#### Terms of availability (024 $c)
+#### Bedingungen der Verfügbarkeit (024 $c)
 
-Enter the terms of availability and/or qualifying information about availability.
+Geben Sie die Verfügbarkeitsbedingungen und/oder qualifizierte Informationen zur Verfügbarkeit ein.
 
-#### Additional codes following the standard number or code (024 $d)
+#### Zusätzliche Codes nach der Standardnummer oder dem Standardcode (024 $d)
 
 Enter any optional digits carried to the right of the number or code.
 
