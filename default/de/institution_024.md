@@ -12,49 +12,49 @@ Geben Sie die Verfügbarkeitsbedingungen und/oder qualifizierte Informationen zu
 
 #### Zusätzliche Codes nach der Standardnummer oder dem Standardcode (024 $d)
 
-Enter any optional digits carried to the right of the number or code.
+Geben Sie alle optionalen Ziffern ein, die rechts von der Nummer oder dem Code stehen.
 
-#### Qualifying information (024 $q)
+#### Qualifizierende Informationen (024 $q)
 
-Enter a brief statement of qualifying information concerning the item associated with a number being recorded in subfield $a or $z.
+Geben Sie eine kurze Erklärung mit qualifizierenden Informationen zu der Position ein, die mit einer in Unterfeld $a oder $z erfassten Nummer verbunden ist.
 
-#### Canceled/invalid standard number or code (024 $z)
+#### Stornierte/ungültige Standardnummer oder -code (024 $z)
 
-Enter a canceled or invalid standard number or code.
+Geben Sie eine stornierte oder ungültige Standardnummer oder einen Code ein.
 
-#### Authority record control number or standard number (024 $0)
+#### Zusätzliche Codes nach der Standardnummer oder dem Standardcode (024 $0)
 
-Enter a machine actionable and parsable URI that identifies a name or label for the institution.
+Geben Sie eine maschinell verwertbare und parsbare URI ein, die einen Namen oder eine Bezeichnung für die Körperscahft angibt.
 
-#### Real world object URI (024 $1)
+#### Real-World-Objekt-URI (024 $1)
 
-Enter the URI that identifies the institution.
+Geben Sie die URI ein, die die Institution identifiziert.
 
 #### Normdatenagentur (024 $2)
 
-Geben Sie die Agentur ein, die die ID oder den Code erstellt hat. Select from the following:
+Geben Sie die Agentur ein, die die ID oder den Code erstellt hat. Folgende Angaben sind möglich:
 
-- **ISIL**: International Standard Identifier for Libraries and Related Organisations
-- **BNE**: Biblioteca Nacional de España
+- **ISIL**: Internationaler Standard Identifikator für Bibliotheken und verwandte Organisationen
+- **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
- - Example: ark:/12148/cb12229245w
+ - Beispiel: ark:/12148/cb12229245w
 - **DNB**: Deutsche Nationalbibliothek
 - **ICCU**: Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI**: International Standard Name Identifier
 - **LC**: Library of Congress
 - **NLP**: Biblioteka Narodowa
-- **NKC**: Národní knihovna České republiky
+- **NKC**: Národní knihovna České republiky
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
 - **WKP**: Wikidata (Wikipedia)
-- **MOC**: MARC Organization Code
+- **MOC**: MARC Organisationscode
 
-#### Linkage (024 $6)
+#### Verknüpfung (024 $6)
 
-Enter data that links fields that are different script representations of each other.
+Geben Sie Daten ein, die die Felder miteinander verknüpfen, die unterschiedliche Schriftdarstellungen aufweisen.
 
-#### Field link and sequence number (024 $8)
+#### Feldverknüpfung und Sequenznummer (024 $8)
 
-Enter data that identifies linked fields.
+Geben Sie Daten ein, die verknüpfte Felder kennzeichnen.
 
-**Obsolete procedures**: In earlier versions of Muscat, the GND (DNB) code appeared in 035. This was removed in 2016 and integrated into 024.
+**Altdaten**: In früheren Versionen von Muscat erschien der GND (DNB) Code in 035. Dies wurde 2016 entfernt und in 024 integriert.
