@@ -10,22 +10,22 @@ Geben Sie den Kurztitel gemäß der folgenden Anleitung ein. Kurztitel können n
 
 Kurztitel sind nicht erforderlich für Reihen oder Sammelbände von Aufsätzen; bei diesen Arten von Veröffentlichungen wird der Kurztitel in den Datensatz für den einzelnen Band oder den Band eingetragen.
 
-A short tile only applies to the edition described in the record. Separate records must be created for different editions.
+Ein Kurztitel gilt nur für die im Datensatz beschriebene Lietratur. Für verschiedene Literaturangaben müssen getrennte Datensätze angelegt werden.
 
-The following will describe how to create short titles for **general secondary literature**, **catalogs of works**, and **special cases**.
+Im Folgenden wird beschrieben, wie man Kurztitel für **allgemeine Sekundärliteratur**, **Werkverzeichnisse** und **Sonderfälle** erstellt.
 
-##### General secondary literature
+##### Allgemeine Sekundärliteratur
 
-Short titles for **general secondary literature** are created as follows:
+Kurztitel für **allgemeine Sekundärliteratur** werden wie folgt erstellt:
 
-- **Last name** of the author or editor  
-  _Hyphenated or compound last names are written out in full._
-- **First letter** of a keyword from the title, capitalized  
-  _Usually the name of the composer, otherwise select a different important word_
-- **Space**
-- **Year** of publication
+- **Nachname** des Autors oder Herausgebers  
+  _Aus mehrere Teilen bestehende Nachnamen werden vollständig abgeschrieben._
+- **Anfangsbuchstabe** eines Schlüsselwortes aus dem Titel, groß geschrieben  
+  _In der Regel der Name des Komponisten, andernfalls wählen Sie ein anderes wichtiges Wort_
+- **Leerzeichen**
+- **Jahr** der Veröffentlichung
 
-###### Examples
+###### Beispiele
 
 - Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
   → DirksenS 2007
