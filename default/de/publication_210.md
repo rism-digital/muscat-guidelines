@@ -12,7 +12,7 @@ Kurztitel sind nicht erforderlich für Reihen oder Sammelbände von Aufsätzen; 
 
 Ein Kurztitel gilt nur für die im Datensatz beschriebene Lietratur. Für verschiedene Literaturangaben müssen getrennte Datensätze angelegt werden.
 
-Im Folgenden wird beschrieben, wie man Kurztitel für **allgemeine Sekundärliteratur**, **Werkverzeichnisse** und **Sonderfälle** erstellt.
+Im Folgenden wird beschrieben, wie man Kurztitel für **allgemeine Sekundärliteratur**, **Werkverzeichnisse** und **Spezialfälle** erstellt.
 
 ##### Allgemeine Sekundärliteratur
 
@@ -72,7 +72,7 @@ Bei mehrbändigen Werken, die über mehrere Jahre hinweg erschienen sind, wird n
 
 Wenn das Jahr der Veröffentlichung weder angegeben noch feststellbar ist, schreiben Sie **s.d.** (für kein Datum) anstelle einer Jahreszahl.
 
-###### Beispiele
+###### Beispiel
 
 - Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung_ (Innsbruck, no date).  
   → ZanglO s.d.
@@ -100,30 +100,30 @@ Ein Katalog, der als Teil eines größeren Werkes publiziert wird, beispielsweis
 
 - A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
-- Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
+- Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cuxhaven: W. Knape, 1971).  
   → KnaA
 - Margit L. McCorkle and Akio Mayeda, _Robert Schumann: Thematisch-bibliographisches Werkverzeichnis_ (Mainz: Schott, 2003).  
   → McCS
 - Bruno Scheithauer, _Verzeichniss sämtlicher gedruckten Werke Dr. Carl Loewe’s_ (Berlin, 1886).  
   → SchL
 
-Use the established abbreviations for catalogs of works if they exist (BWV, KV, Hob., etc.) or the abbreviation used within the catalog, as long as the abbreviation is not already in use in Muscat.
+Verwenden Sie die gängigen Abkürzungen für Werkverzeichnisse (BWV, KV, Hob. usw.), sofern vorhanden oder die im Katalog verwendete Abkürzung, sofern die Abkürzung nicht bereits in Muscat vergeben ist.
 
-###### Examples
+###### Beispiele
 
 - Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
   → QV
 - Klaus-Peter Koch, Samuel-Scheidt-Werke-Verzeichnis (SSWV) (Wiesbaden: Breitkopf & Härtel, 2000).  
   → SSWV
-- Armin Brinzing, Systematisches Verzeichnis der Werke von Johann Melchior Molters (MWV) (Wiesbaden: Harrassowitz Verlag, 2010).  
+- Armin Brinzing, Systemmatisches Verzeichnis der Werke von Johann Melchior Molters (MWV) (Wiesbaden: Harrassowitz Verlag, 2010).  
   → BrinzingMWV  
-  _Note: MWV was already in use for the Mendelssohn Werkverzeichnis._
+  _Hinweis: MWV wurde bereits für das Mendelssohn-Werkverzeichnis verwendet._
 
-##### Special cases
+##### Spezialfälle
 
-If it’s the former, give it a short title as for a catalog of works. Publications that contain the term "thematic catalog" in their titles are usually catalogs of a composer's works but may occasionally treat a different area or not be extensive in their scope. If it’s the latter, give it a short title as for general secondary literature. In short, anything that is not a catalog of a composer's works is assigned short title as for general secondary literature.
+Veröffentlichungen, die den Begriff „Thematischer Katalog“ im Titel tragen, sind in der Regel Werkkataloge eines Komponisten. Gelegentlich können sie jedoch auch ein anderes Thema behandeln oder weniger umfangreich sein. Im ersten Fall geben Sie ihm einen Kurztitel wie bei einem Werkverzeichnis. Wenn letzteres der Fall ist, vergeben Sie einen Kurztitel wie bei allgemeiner Sekundärliteratur. Kurz gesagt, alles, was kein Werkverzeichnis eines Komponisten ist, erhält einen Kurztitel wie bei der allgemeinen Sekundärliteratur.
 
-###### Examples
+###### Beispiele
 
 - Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
   → PasJ
@@ -131,14 +131,14 @@ If it’s the former, give it a short title as for a catalog of works. Publicati
   → DurB
 - Francesco Passadore, _Catalogo tematico delle composizioni di Giuseppe Torelli (1658-1709)_ (Padua: Edizioni de "I Solisti Veneti", 2007).  
   → PasT
-- Robert Didion and Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_ (Frankfurt: Vittorio Klostermann, 1990).  
+- Robert Didion und Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_ (Frankfurt: Vittorio Klostermann, 1990).  
   → DidionF 1990
 - Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
   → MurányiW 1997
 
-For modern music editions, use the last name of the editor plus the first letter of the last name of the composer. The year refers to the year that the modern edition was published.
+Bei modernen Musikausgaben verwenden Sie den Nachnamen des Herausgebers plus den ersten Buchstaben des Nachnamens des Komponisten. Die Jahreszahl bezieht sich auf das Jahr, in dem die moderne Ausgabe veröffentlicht wurde.
 
-###### Example
+###### Beispiel
 
 - Barbara Strozzi, _Havete torto_, edited by Candace A. Magner (Cor Donato Editions, 2019).  
   → MangerS 2019  
