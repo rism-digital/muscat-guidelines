@@ -1,14 +1,14 @@
-### Short title (210)
+### Kurztitel (210)
 
-The field **Short title** is a unique abbreviation assigned to items of secondary literature to enable easy and consistent reference throughout the RISM database.
+Das Feld **Kurztitel** ist eine eindeutige Abkürzung, die der Sekundärliteratur zugeordnet wird, um eine einfache und konsistente Referenzierung in der RISM-Datenbank zu ermöglichen.
 
-#### Short title (210 $a)
+#### Kurztitel (210 $a)
 
-**Required field for most kinds of items.**
+**Pflichtfeld für die meisten Datensätze.**
 
-Enter the short title in accordance with the guidance below. Short titles may only be used once.
+Geben Sie den Kurztitel gemäß der folgenden Anleitung ein. Kurztitel können nur einmal verwendet werden.
 
-Short titles are not needed for serials or collected volumes of essays; for these kinds of publications, the short title is entered in the record for the individual article or chapter.
+Kurztitel sind nicht erforderlich für Reihen oder Sammelbände von Aufsätzen; bei diesen Arten von Veröffentlichungen wird der Kurztitel in den Datensatz für den einzelnen Band oder den Band eingetragen.
 
 A short tile only applies to the edition described in the record. Separate records must be created for different editions.
 
