@@ -32,90 +32,71 @@ Kurztitel für **allgemeine Sekundärliteratur** werden wie folgt erstellt:
 - Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
   → WollnyS 2001
 - Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999
 - Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincónV 2009
 
-For authors or editors who publish multiple articles about the same composer or multiple works by the same composer in the same year, a letter (**a**, **b**, **c**, etc.) is added to the end of the year for subsequent publications.
+Veröffentlichen Autoren oder Herausgeber im selben Jahr mehrere Artikel über denselben Komponisten oder mehrere Werke desselben Komponisten, wird für die nachfolgenden Veröffentlichungen ein Buchstabe (**a**, **b**, **c** etc.) an die Jahreszahl angefügt.
 
-###### Examples
+###### Beispiele
 
 - Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ edited by Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherA 2005
-- Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, edited by Armin Kircher (Stuttgart: Carus, 2005).  
+- Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherE 2005a
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, edited by Armin Kircher (Stuttgart: Carus, 2005). [full score]  
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005). [Partitur]  
   → KircherE 2005b
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ edited by Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005). [Klavierauszug]  
   → KircherE 2005c
 
-For two or more authors or editors, only the first is used in a short title.
+Bei zwei oder mehr Autoren oder Herausgebern wird nur der erste in einem Kurztitel verwendet.
 
-###### Example
+###### Beispiel
 
 - John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893
 
-If no author is named, use 1-2 keywords from the title in its place.
+Wenn kein Autor genannt wird, verwenden Sie stattdessen 1-2 Schlüsselwörter aus dem Titel.
 
-###### Example
+###### Beispiel
 
 - _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
   → VerzeichnisThibaut 1842
 
-For multivolume works that were published over the course of several years, only the first year is used.
+Bei mehrbändigen Werken, die über mehrere Jahre hinweg erschienen sind, wird nur das erste Jahr verwendet.
 
-###### Example
+###### Beispiel
 
 - Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
   → SchröderW 1943
 
-If the year of publication is neither given nor ascertainable, write **s.d.** (for no date) instead of a year.
+Wenn das Jahr der Veröffentlichung weder angegeben noch feststellbar ist, schreiben Sie **s.d.** (für kein Datum) anstelle einer Jahreszahl.
 
 ###### Beispiele
 
 - Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung_ (Innsbruck, no date).  
   → ZanglO s.d.
 
-If only an approximate year of publication is known, add a **ca.** (for circa) when you enter the publisher and publication year in the record, but omit the “ca.” in the short title.
+Wenn nur das ungefähre Erscheinungsjahr bekannt ist, fügen Sie ein **ca.** (für circa) beim Erscheinungsjahr im Datensatz hinzu, lassen aber das „ca.“ im Kurztitel weg.
 
-###### Example
+###### Beispiel
 
-- Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
-  → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
-  → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
-  → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
-  → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
-  → FahrbachK 1850 230</em> (Vienna, C.A. 230</em> (Vienna, C.A. Spina, ca. 1850).  
+- Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
   → FahrbachK 1850
 
-For the short titles of well-known encyclopedias or sets, use the established abbreviations or terms (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
+Bekannte Lexika oder Reihen werden mit den allgemein gebräuchlichen Abkürzungen oder Begriffen versehen (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
-##### Catalogs of works
+##### Werkverzeichnisse
 
-Short titles for **catalogs of works** are created as follows:
-- **First three letters** of the last name of the author or editor
-- **First letter** of the composer’s last name, capitalized
+Kurztitel für **Werkverzeichnisse** werden wie folgt erstellt:
+- **Die ersten drei Buchstaben** des Nachnamens des Autors oder Herausgebers
+- **Erster Buchstabe** des Nachnamens des Komponisten, groß geschrieben
 
-No year is needed.
+Es ist keine Jahresangabe erforderlich.
 
-A catalog that is published as a part of a larger item, such as an appendix in a book, may be entered as a catalog of works.
+Ein Katalog, der als Teil eines größeren Werkes publiziert wird, beispielsweise als Anhang eines Buches, kann als Werkverzeichnis eingetragen werden.
 
-###### Examples
+###### Beispiele
 
 - A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
