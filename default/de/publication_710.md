@@ -1,19 +1,19 @@
-### Additional institution (710)
+### Nebeneintragung Körperschaft (710)
 
-The field **Additional institution** is for institutions that are connected with the item.
+Das Feld **Nebeneintrgung Körperschaft** ist für Institutionen, die mit dem Objekt verbunden sind.
 
-#### Institution (710 $a)
+#### Körperschaft (710 $a)
 
-Enter the name of the institution. Do not enter the names of publishers in this field. This field is linked to the **Institutions** authority file through $0 and the place is displayed in $c.
+Geben Sie den Namen der Institution ein. Geben Sie in diesem Feld keine Namen von Verlagen ein. Das Feld ist über $0 mit der Normdatei **Kürperschaften** verknüpft. Orte werden in $c angezeigt.
 
-##### Examples
+##### Beispiele
 
 - Sing-Akademie zu Berlin
 - Historische Sektion der Bayerischen Benediktinerakademie
 
-#### Function (710 $4)
+#### Funktionsbezeichnung (710 $4)
 
-Enter the function of the institution. Select from the following.
+Geben Sie die Funktion der Institution an. Es steht eine Auswahlliste zur Verfügung.
 
-- **Editor**: Use especially if the item has an institution as an author rather than a person.
-- **Other function**: All other functions.
+- **Herausgeber**: Besonders zu verwenden, wenn das Objekt eine Institution als Autor hat und nicht eine Person.
+- **Sonstige Funktion [oth]**: Alle anderen Funktionen.
