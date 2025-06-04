@@ -4,4 +4,4 @@ Das Feld **Zusätzlicher Titel** wird für andere Titel verwendet, die nicht auf
 
 #### Zusätzlicher Titel (730 $a)
 
-Enter other titles or translations of the title if they do not appear on the title page.
+Geben Sie hier Übersetzungen des Titels ein, wenn sie nicht auf der Titelseite stehen.
