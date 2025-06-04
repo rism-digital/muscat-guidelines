@@ -1,24 +1,24 @@
-### Additional personal name (700)
+### Sonstige Person (700)
 
-The field **Additional personal name** is for editors of the item, additional people involved in the publication, and composers or other people that the publication treats.
+Das Feld **Sonstige Person** ist für Herausgeber, zusätzliche Personen, die an der Veröffentlichung beteiligt waren, und Komponisten oder andere Personen, die in der Veröffentlichung behandelt werden.
 
-#### Name (700 $a)
+#### Personenname (700 $a)
 
-Enter the name. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d.
+Geben Sie einen Namen ein. Das Feld ist über $0 mit der Normdatei **Personen** verknüpft. Lebensdaten werden in $d angezeigt.
 
-#### Function (700 $4)
+#### Funktionsbezeichnung (700 $4)
 
-Enter the function of the person as related to the item. Select from the following. The three-letter codes refer to the MARC relator code.
+Geben Sie die Funktion der Person hinsichtlich auf das Objekt ein. Es steht eine Auswahlliste zur Verfügung. Die aus drei Buchstaben bestehenden Codes beziehen sich auf den MARC-Relator-Code.
 
-- **Additional author [aut]**: Use for additional authors if the publication has more than one author.
-- **Associated name [asn]**: Other names such as honoree, name in title, collector, text author, other, etc.
-- **Composer [cmp]**: The composer treated in the item or the composer of the work for music editions.
-- **Editor [edt]**
-- **Other function [oth]**: All other functions.
+- **Zusätzlicher Autor [aut]**: Für zusätzliche Autoren verwenden, wenn die Veröffentlichung mehr als einen Autor hat.
+- **Behandelte Person [asn]**: Andere Namen wie Gefeierte, Namen im Titel, Sammler, Textautor, Sonstige usw.
+- **Komponist [cmp]**: Der im Eintrag behandelte Komponist oder der Komponist des Werkes bei Notenausgaben.
+- **Herausgeber [edt]**
+- **Sonstige Funktion [oth]**: Alle anderen Funktionen.
 
-##### Example
+##### Beispiel
 
-For Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst_ (short title: ReulF 2001):
-- **Author (100)**: Reul, Barbara M.
-- **Additional personal name (700)**: Fasch, Johann Friedrich (composer)
-- **Additional personal name (700)**: Hedwig Friederike, Fürstin von Anhalt-Zerbst (associated name)
+Für Barbara M. Reul, _Johann Friedrich Faschs in Darmstadt überlieferte Geburtstagskantaten für Fürstin Hedwig Friederike von Anhalt-Zerbst_ (Kurztitel: ReulF 2001):
+- **Autor (100)**: Reul, Barbara M.
+- **Personenname (700)**: Fasch, Johann Friedrich (Komponist)
+- **Personenname (700)**: Hedwig Friederike, Fürstin von Anhalt-Zerbst (Behandelte Person)
