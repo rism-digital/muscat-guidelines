@@ -8,7 +8,7 @@ W RISM, _Kolekcja_ odnosi się do każdej pozycji (zarówno rekopiśmiennej jak 
 
 Kolekcje w RISM mają charatter hierarchiczny, co oznacza, że jest jeden główny rekord (rekord macierzysty), który opisuje kolekcję jako całość i indywidualne pozycje (pozycja w kolekcji lub rekord analityczny), które opisują każdą kompozycję oddzielnie.
 
-Rekordy macierzyste kolekcji nie mogą zawierać rekordów macierzystych kolekcji rękopisów. Nie ma mniejszych kolekcji w ramach kolekcji chociaż pozycja w kolekcji sama w sobie może być zorganizowana w taki sposób. Zamiast tego należy zastosować bardziej płaską hierarchię za pomocą indywidualnych rekordów i wyjaśnić strukturę, konstrukcję lub organizację danej pozycji w uwadze. Na przykład, jeśli kolekcja składa się z pojedynczego marsza, po którym następuje zbiór sześciu sonat, należy stworzyć 1 rekord macierzysty i 7 indywidualnych wpisów, jeden dla każdej kompozycji. Nawet jeśli te 6 sonat można uznać za kolekcję, należy je opisać oddzielnie. Rekord macierzysty oraz odpowiednie adnotacje w rekordach pozycji w kolekcji mogą wyjaśnić organizację kolekcji i przynależność każdej z sonat do zbioru.
+Collection parent records may not contain other collection parent records. Nie ma mniejszych kolekcji w ramach kolekcji chociaż pozycja w kolekcji sama w sobie może być zorganizowana w taki sposób. Zamiast tego należy zastosować bardziej płaską hierarchię za pomocą indywidualnych rekordów i wyjaśnić strukturę, konstrukcję lub organizację danej pozycji w uwadze. Na przykład, jeśli kolekcja składa się z pojedynczego marsza, po którym następuje zbiór sześciu sonat, należy stworzyć 1 rekord macierzysty i 7 indywidualnych wpisów, jeden dla każdej kompozycji. Nawet jeśli te 6 sonat można uznać za kolekcję, należy je opisać oddzielnie. Rekord macierzysty oraz odpowiednie adnotacje w rekordach pozycji w kolekcji mogą wyjaśnić organizację kolekcji i przynależność każdej z sonat do zbioru.
 
 Przy katalogowaniu kolekcji, należy zwrócić uwagę na następujące kwestie:
 
@@ -179,7 +179,7 @@ Jeśli nie jest możliwe stworzenie odpowiedniego rekordu dla materiału drukowa
 
 ### Źródła muzyczne w czasopismach
 
-Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako kolekcja lub jako samodzielno dzieło. W każdym przypadku tytuł czasopisma wraz z numerem wydania i rokiem wpisuje się w polu **Tytuł dodatkowy (730)**.
+Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako kolekcja lub jako samodzielno dzieło. In either case, the title of the periodical, with the issue number and year, is entered in the field **Periodical or series (490)**.
 
 #### Kolekcje
 **Kolekcje** są stosowne kiedy periodyk składa się w całości lub w większości ze źródeł muzycznych i zachowany został jako całość. Egzemplarze zostają dodane na poziomie kolekcji natomiast dla poszczególnych kompozycji tworzy się indywidualne wpisy pozycji w kolekcji.
