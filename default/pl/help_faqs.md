@@ -39,7 +39,7 @@ Poza Muscatem, rekordy opublikowane dostępne są przez [SRU downloader](https:/
 
 #### 8. Kiedy rekordy z Muscat pojawiają się w publicznych katalogach?
 
-The [RISM Catalog](https://opac.rism.info/) is updated once a month after the first of each month. Rekordy są widoczne kilka dni później. [RISM Online](https://rism.online/) is updated once a day.
+Katalog [RISM](https://opac.rism.info/) jest aktualizowany raz w miesiącu po pierwszym dniu każdego miesiąca. Rekordy są widoczne kilka dni później. [RISM Online](https://rism.online/) jest aktualizowany raz dziennie.
 
 #### 9. Co zrobić, jeśli źródło w RISM nie jest już w rękach instytucji przechowującej, wskazanej w rekordzie RISM?
 
