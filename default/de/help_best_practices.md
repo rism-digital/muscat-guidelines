@@ -14,7 +14,7 @@ Stellen Sie umgekehrt sicher, dass die Bedeutung eines indexierten Namens oder e
 
 Informationen, die nicht in der Quelle zu finden sind, können in den RISM-Datensatz aufgenommen werden, aber die Sekundärliteratur sollte zitiert werden. Ist z. B. der Komponist eines Manuskripts durch einen Zeitschriftenartikel bekannt oder wird das Erscheinungsjahr einer gedruckten Ausgabe in einer veröffentlichten Studie über den Verleger angegeben, sollte die Quelle der Information durch eine **Bemerkung (500)** deutlich gemacht und im Feld **Literaturverweis (691)** indexiert werden.
 
-#### 3. 3. URLs und Links zu externen Ressourcen
+#### 3. URLs und Links zu externen Ressourcen
 
 Verwenden Sie immer Permalinks, insbesondere wenn Sie auf Digitalisate im Feld **Elektronische Lokalisierung und Zugriff (856)** verlinken.
 
