@@ -73,28 +73,28 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 - Virelais — Virelais (forme fixe)
 - Terzets — Terzets (voc.)
 
-#### Sacred vocal music
+#### Muzyka wokalna sakralna
 
-Standardized title — Corresponding subject heading
+Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 - Completoria — Hours of the Office
 - Horae minores — Hours of the Office
 - Intonations — Intonations (voc.)
 - Laudes — Hours of the Office
 - Matutina — Hours of the Office
 
-#### Music for the stage, theater, etc.
+#### Muzyka sceniczna, teatralna itd.
 
-_For genres of individual numbers or parts, consult the section on vocal and instrumental music._  
-Standardized title — Corresponding subject heading
+_Aby ustalić gatunek poszczególnych numerów lub partii, należy korzystać z sekcji na temat muzyki wokalnej i instrumentalnej._  
+Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 - Intermezzos — Intermezzos (stage)
 - Meditationes — Meditationes (Jesuit theatre)
 - Prologues — Prologues (stage)
 
-#### Exercises, studies, schools, lessons
+#### Ćwiczenia, etiudy, szkoły, lekcje
 
-Standardized title — Corresponding subject heading
+Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 - Arpeggios — Arpeggios (inst.)
-- Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadences — Cadences (inst.) lub Cadenzas (inst.) _lub_ Cadenzas (inst.)
 - Cadenzas — Cadenzas (voc.)
 - Exercises — Exercises (inst.)
 - Exercises — Exercises (voc.)
@@ -103,22 +103,22 @@ Standardized title — Corresponding subject heading
 - Tutors — Tutors (inst.)
 - Tutors — Tutors (voc.)
 
-#### Dances
+#### Tańce
 
-Standardized title — Subject heading
+Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 - Airs — Airs (dances)
 - Rounds — Rounds (dances)
 
-#### Special situations
+#### Wyjątkowe sytuacje
 
-1. A chorale arrangement where the text incipit is known:   
-   You don't need this list! Use the text incipit as the standardized title and select **Arrangement**. Enter the subject heading **Chorale arrangements**.
+1. Aranżacja chorałowa ze znanym tekstem:    
+   Nie potrzebujesz tej listy! Wykorzystaj incipit tekstowy jako tytuł ujednolicony i wybierz **Aranżacja**. Wprowadź w haśle przedmiotowym **Chorale arrangements**.
 
-2. A chorale arrangement where the text incipit is unknown:   
-   Use **Chorale arrangements** as both the standardized title and subject heading.
+2. Aranżacja chorałowa ze nieznanym tekstem:   
+   Wybierz **Chorale arrangements** zarówno dla tytułu ujedoliconego jak i hasła przemiotowego.
 
-3. A potpourri where you know that the music comes from a single opera:  
-   You don't need this list! Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate). Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**.
+3. Jeśli kompozycją źródłową dla potpourri jest pojedyncza opera:  
+   Nie potrzebujesz tej listy! Wprowadź tytuł opery jako tytuł ujednolicony i wybierz **Wyjątki** oraz ** Aranżacja**. W ramach hasła przedmiotowego wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach).
 
 4. A potpourri where you know that the music comes from several operas:  
    Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
