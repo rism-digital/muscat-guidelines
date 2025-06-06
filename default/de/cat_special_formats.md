@@ -8,7 +8,7 @@ In RISM bezieht sich das Wort _Sammlung_ auf jeden Gegenstand (ob handschriftlic
 
 Sammlungen in RISM haben eine übergeordnete/untergeordnete Hierarchie, d. h. es gibt einen Haupteintrag (übergeordneter Datensatz), der die Sammlung als Ganzes beschreibt, und einzelne Einträge (untergeordnete oder analytische Datensätze), die jedes darin enthaltene Stück separat beschreiben.
 
-Übergeordnete Datensätze der Sammlung dürfen keine übergeordneten Einträge von Manuskripten enthalten. Es gibt keine kleineren Sammlungen innerhalb von Sammlungen, auch wenn der Gegenstand selbst auf diese Weise strukturiert sein kann. Verwenden Sie stattdessen eine flachere Hierarchie mit Hilfe von untergeordneten Datensätzen und erläutern Sie die Struktur, den Aufbau oder die Organisation des Gegenstands in einer Notiz. Besteht eine Sammlung beispielsweise aus einem einzelnen Marsch, gefolgt von einer Reihe von sechs Sonaten, so erstellen Sie einen übergeordneten Datensatz und 7 individuelle Einträge, einen für jedes Werk. Auch wenn die sechs Sonaten als eine Einheit betrachtet werden können, müssen sie einzeln beschrieben werden. Der übergeordnete Datensatz kann die Organisation der Sammlung erläutern, und die Bemerkungen in den untergeordneten Datensätzen können erklären, dass jede Sonate Teil einer Reihe ist.
+Collection parent records may not contain other collection parent records. Es gibt keine kleineren Sammlungen innerhalb von Sammlungen, auch wenn der Gegenstand selbst auf diese Weise strukturiert sein kann. Verwenden Sie stattdessen eine flachere Hierarchie mit Hilfe von untergeordneten Datensätzen und erläutern Sie die Struktur, den Aufbau oder die Organisation des Gegenstands in einer Notiz. Besteht eine Sammlung beispielsweise aus einem einzelnen Marsch, gefolgt von einer Reihe von sechs Sonaten, so erstellen Sie einen übergeordneten Datensatz und 7 individuelle Einträge, einen für jedes Werk. Auch wenn die sechs Sonaten als eine Einheit betrachtet werden können, müssen sie einzeln beschrieben werden. Der übergeordnete Datensatz kann die Organisation der Sammlung erläutern, und die Bemerkungen in den untergeordneten Datensätzen können erklären, dass jede Sonate Teil einer Reihe ist.
 
 Für die Erfassung von Sammlungen gelten folgende Regeln:
 
@@ -180,7 +180,7 @@ If it is not feasible to create an adequate record for the printed material, pro
 
 ### Music in periodicals
 
-There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Additional title (730)**.
+There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Periodical or series (490)**.
 
 #### Collections
 **Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.
