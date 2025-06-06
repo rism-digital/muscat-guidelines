@@ -79,7 +79,7 @@ There are two different ways list the parts.
 
 Additional information (brief remarks) about such things as the number or incompleteness of parts can be added in parentheses directly after the part designation. Use the following conventions:
 
-- If you have multiple copies of the same part, write the number and then include the extent for each part. Example: **S (2x)** Example: **S (2x)** Example: **S (2x)** Example: **S (2x)** Example: **S (2x)** Example: **S (2x)** Example: **S (2x)**
+- If you have multiple copies of the same part, write the number and then include the extent for each part. Example: **S (2x)** Example: **S (2x)** Example: **S (2x)** Example: **S (2x)** Example: **S (2x)** Example: **S (2x)** Example: **S (2x)** Example: **tr 1 and 2** Example: **tr 1 and 2** Example: **tr 1 and 2** If a part contains the music for multiple instruments, use **and**.
 - **(= bc)**: part is a basso continuo part
 - **(incpl)**: part is incomplete
 - Use a **/** (slash) to join two elements: **bc (2x/incpl)**
