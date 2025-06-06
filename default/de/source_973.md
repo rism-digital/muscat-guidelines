@@ -1,7 +1,7 @@
 ### Zusammengebunden mit (973)
 
-Das Feld **Zusammengebunden mit** wird verwendet, um Exemplare einer gedruckten Ausgabe mit einem Konvolut zu verknüpfen.
+The field **Bound with** is used to link holdings from a printed edition to a composite volume in order to show that materials are bound together.
 
 #### Zusammengebunden mit (973 $a)
 
-Durch die Verknüpfung zum übergeordneten Eintrag zeigen Sie an, dass das gedruckte Material mit anderen Materialien - gedruckt oder handschriftlich - zusammengebunden ist.
+Click the magnifying glass to select the record for the composite volume.

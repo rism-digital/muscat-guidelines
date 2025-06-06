@@ -44,16 +44,24 @@ Veröffentlichen Autoren oder Herausgeber im selben Jahr mehrere Artikel über d
   → KircherA 2005
 - Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherE 2005a
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005). [Partitur]  
-  → KircherE 2005b
 - Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005). [Klavierauszug]  
   → KircherE 2005c
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005). [Partitur]  
+  → KircherE 2005b
 
 Bei zwei oder mehr Autoren oder Herausgebern wird nur der erste in einem Kurztitel verwendet.
 
 ###### Beispiel
 
 - John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893
 
 Wenn kein Autor genannt wird, verwenden Sie stattdessen 1-2 Schlüsselwörter aus dem Titel.

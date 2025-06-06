@@ -10,7 +10,7 @@ Ingrese información acerca de cómo se adquirió el ítem: regalo, legado, pré
 
 Ingrese información sobre la persona o institución (donante, vendedor, etc.) por vía de la cual la institución adquirió la fuente. Regístrelo usando su idioma de catalogación.
 
-Enter standardized forms of the personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**.
+Enter standardized forms of personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**.
 
 #### Fecha de adquisición (541 $d)
 

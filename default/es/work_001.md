@@ -1,5 +1,3 @@
 ### Número de ID de RISM (001)
 
-RDA registry [rdaw:P10002](http://www.rdaregistry.info/Elements/w/#P10002)
-
-This field gives the RISM ID number for the record. It is automatically filled out by Muscat after saving for the first time.
+The field **RISM ID number** is the permanent RISM identifier for the record. Este número se genera automáticamente y no puede ser modificado.  

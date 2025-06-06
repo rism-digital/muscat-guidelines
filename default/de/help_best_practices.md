@@ -18,9 +18,9 @@ Informationen, die nicht in der Quelle zu finden sind, können in den RISM-Daten
 
 Verwenden Sie immer Permalinks, insbesondere wenn Sie auf Digitalisate im Feld **Elektronische Lokalisierung und Zugriff (856)** verlinken.
 
-Wenn Sie einen Link zu einer Website herstellen möchten, dann verwenden Sie bitte kein Bemerkungsfeld. Geben Sie die Ressource stattdessen als bibliografische Referenz ein. Verweisen Sie dann im Feld **Literaturverweis (691)** darauf und geben Sie in einem Bemerkungsfeld den Kurztitel an. Dies geschieht durch Eingabe in die Normdatei **Sekundärliteratur**. Dadurch erhalten die Nutzer Zugriff auf die vollständigen bibliografischen Informationen und bei einer Änderung der URL ist nur eine einmalige Aktualisierung über die Datenbank **Sekundärliteratur** erforderlich.
+Wenn Sie einen Link zu einer Website herstellen möchten, dann verwenden Sie bitte kein Bemerkungsfeld. Geben Sie die Ressource stattdessen als bibliografische Referenz ein. Dies geschieht durch Eingabe in die Normdatei **Sekundärliteratur**. Verweisen Sie dann im Feld **Literaturverweis (691)** darauf und geben Sie in einem Bemerkungsfeld den Kurztitel an. Dadurch erhalten die Nutzer Zugriff auf die vollständigen bibliografischen Informationen und bei einer Änderung der URL ist nur eine einmalige Aktualisierung über die Datenbank **Sekundärliteratur** erforderlich.
 
-Erstellen Sie für Bücher, die Sie bei Google Books oder anderen Online-Repositorien finden, immer einen bibliografischen Datensatz in der Normdatei **Sekundärliteratur** für das Buch selbst und nicht für das Repositorium. Das heißt, zitieren Sie das Buch und nicht Google Books.
+Erstellen Sie für Bücher, die Sie bei Google Books oder anderen Online-Repositorien finden, immer einen bibliografischen Datensatz in der Normdatei **Sekundärliteratur** für das Buch selbst und nicht für das Repositorium.
 
 Bei Datenbanken, die als Sekundärliteratur zitiert werden, können Sie zur Vereinfachung für unsere Nutzer die Datenbank im Feld **Literaturverweis (691)** zitieren und dann über das Feld **Elektronische Lokalisierung und Zugriff (856)** einen direkten Link zum Eintrag in der Datenbank bereitstellen.
 

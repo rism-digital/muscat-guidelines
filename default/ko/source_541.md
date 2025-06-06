@@ -10,7 +10,7 @@ Enter information about how the item was acquired, such as gift, bequest, loan, 
 
 Enter information about the person or institution (donor, seller, etc.) from which the institution acquired the source. Enter using your cataloging language.
 
-Enter standardized forms of the personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**.
+Enter standardized forms of personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**.
 
 #### Date of acquisition (541 $d)
 

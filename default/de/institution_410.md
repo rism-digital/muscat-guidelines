@@ -16,5 +16,5 @@ Geben Sie andere Namensformen der Körperschaft an, einschließlich populäre od
   _für Norges musikkhøgskole, Biblioteket_
 - Gosudarstvennïy Istoricheskïyi Muzei  
   _für Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossii_
-- ERESBIL - Euskal Ereslarien Bilduma [1974-2000]<0/> <1>für ERESBIL - Musikaren Euskal Artxiboa</1>
-- ERESBIL - Archivo de Compositores Vascos [1974-2000]<0/> <1>For ERESBIL - Musikaren Euskal Artxiboa</1> 
+- ERESBIL - Euskal Ereslarien Bilduma [1974-2000]
+- ERESBIL - Archivo de Compositores Vascos [1974-2000] 
