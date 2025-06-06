@@ -1,8 +1,6 @@
 ### Fuente del número o código (024 $2)
 
-RDA registry [rdau:P60052](http://www.rdaregistry.info/Elements/u/#P60052)
-
-This field is used to indicate standard identifiers from external agencies.
+The field **Other standard identifier** is for alphanumeric codes that refer to a work created by another agency.
 
 #### Otro identificador estándar (024)
 
@@ -10,7 +8,7 @@ Enter the alphanumeric code used to identify the work. El código se toma de los
 
 #### Número o código estándar (024 $a)
 
-Seleccione una de las siguientes opciones:
+Enter the agency that created the standard number or code. Seleccione una de las siguientes opciones.
 
 - **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
@@ -22,4 +20,4 @@ Seleccione una de las siguientes opciones:
 - **NKC**: Národní knihovna České republiky
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
-- **WKP**: Wikidata (Wikipedia)
+- **WKP**: Wikidata  
