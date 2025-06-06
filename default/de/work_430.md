@@ -1,5 +1,5 @@
-### Alternative work title (430)
+### Alternativer Werktitel (430)
 
-The field **Alternative work title** is for alternatives to the **Standardized title (130 $a)**
+Das Feld **Alternative Werktitel** ist für Alternativen zum **Enordnungstitel (130 $a)**
 
-(Guidelines in progress.)
+(Richtlinien in Vorbereitung.)
