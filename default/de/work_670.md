@@ -1,3 +1,3 @@
-### Source data found (670)
+### Literaturnachweis (670)
 
-(Guidelines in progress.)
+(Richtlinien in Vorbereitung.)
