@@ -6,7 +6,7 @@ The field **Title on source** is for a diplomatic transcription of the title as 
 
 **Campo requerido**
 
-Registre el título exactamente como aparece en la fuente (título diplomático). En la práctica, el Título en fuente puede incluir toda la información de la portada, como el nombre del compositor u otras indicaciones. En el caso de la música impresa, registre todo el contenido de la portada, incluida la información editorial.
+Registre el título exactamente como aparece en la fuente (título diplomático). En la práctica, el Título en fuente puede incluir toda la información de la portada, como el nombre del compositor u otras indicaciones. En el caso de la música impresa, registre todo el contenido de la portada, incluida la información editorial. Do not omit information by using ellipsis.
 
 Transcriba el título completo. No abrevie. Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o . Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o . Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o . Indicate line breaks with **\|** (the vertical pipe) with a single space before and after.
 
