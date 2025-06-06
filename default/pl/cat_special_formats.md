@@ -8,7 +8,7 @@ W RISM, _Kolekcja_ odnosi się do każdej pozycji (zarówno rekopiśmiennej jak 
 
 Kolekcje w RISM mają charatter hierarchiczny, co oznacza, że jest jeden główny rekord (rekord macierzysty), który opisuje kolekcję jako całość i indywidualne pozycje (pozycja w kolekcji lub rekord analityczny), które opisują każdą kompozycję oddzielnie.
 
-Rekordy macierzyste nie mogą zawierać innych rekordów nadrzędnych kolekcji. Nie ma mniejszych kolekcji w ramach kolekcji chociaż pozycja w kolekcji sama w sobie może być zorganizowana w taki sposób. Zamiast tego należy zastosować bardziej płaską hierarchię za pomocą indywidualnych rekordów i wyjaśnić strukturę, konstrukcję lub organizację danej pozycji w uwadze. Na przykład, jeśli kolekcja składa się z pojedynczego marsza, po którym następuje zbiór sześciu sonat, należy stworzyć 1 rekord macierzysty i 7 indywidualnych wpisów, jeden dla każdej kompozycji. Nawet jeśli te 6 sonat można uznać za kolekcję, należy je opisać oddzielnie. Rekord macierzysty oraz odpowiednie adnotacje w rekordach pozycji w kolekcji mogą wyjaśnić organizację kolekcji i przynależność każdej z sonat do zbioru.
+Rekordy macierzyste kolekcji nie mogą zawierać rekordów macierzystych kolekcji rękopisów. Nie ma mniejszych kolekcji w ramach kolekcji chociaż pozycja w kolekcji sama w sobie może być zorganizowana w taki sposób. Zamiast tego należy zastosować bardziej płaską hierarchię za pomocą indywidualnych rekordów i wyjaśnić strukturę, konstrukcję lub organizację danej pozycji w uwadze. Na przykład, jeśli kolekcja składa się z pojedynczego marsza, po którym następuje zbiór sześciu sonat, należy stworzyć 1 rekord macierzysty i 7 indywidualnych wpisów, jeden dla każdej kompozycji. Nawet jeśli te 6 sonat można uznać za kolekcję, należy je opisać oddzielnie. Rekord macierzysty oraz odpowiednie adnotacje w rekordach pozycji w kolekcji mogą wyjaśnić organizację kolekcji i przynależność każdej z sonat do zbioru.
 
 Przy katalogowaniu kolekcji, należy zwrócić uwagę na następujące kwestie:
 
@@ -50,8 +50,8 @@ Katalogując kontrafakturę zwróć uwagę na następujące pola. Rekord 3002344
 - **Kompozytor / Autor (100)**
  - Mysliveček, Josef
 - **Tytuł ujednolicony (240)**  
-  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji Możesz dodać informację **Wyjątki**. W podpulu wybierz wartość **Wstawka w **. Nie używaj wartości **Arr**.</p>
- - Il Bellerofonte. Wyjątki</li>
+  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji Możesz dodać informację **Wyjątki**. W podpulu wybierz wartość **Wstawka w **. Nie używaj wartości **Arr**.
+ - Il Bellerofonte. Wyjątki
 - **Tytuł dodatkowy (730)**  
   Jeśli istnieje nowy, charakterystyczny tytuł ujednolicony dla danej kompozycji, możesz wprowadzić go tutaj. Nie wprowadzaj tu incipitów tekstowych.
 - **Hasło przedmiotowe (650)**  
@@ -75,7 +75,7 @@ Katalogując kontrafakturę zwróć uwagę na następujące pola. Rekord 3002344
  - Alma redemptoris mater, quae pervia caeli
  - [Giusti dei che ben vedete]
 - **Inne pola**  
-  Wszystkie inne pola, takie jak święta liturgiczne i te związane z instrumentacją powinny odnosić się do katalogowanego źródła, a nie oryginalnego, na podstawie którego powstała contrafacta.  </ul>
+  Wszystkie inne pola, takie jak święta liturgiczne i te związane z instrumentacją powinny odnosić się do katalogowanego źródła, a nie oryginalnego, na podstawie którego powstała contrafacta.
 
 ### Kompilacje
 
@@ -179,7 +179,7 @@ Jeśli nie jest możliwe stworzenie odpowiedniego rekordu dla materiału drukowa
 
 ### Źródła muzyczne w czasopismach
 
-Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako kolekcja lub jako samodzielno dzieło. W każdym przypadku tytuł czasopisma wraz z numerem wydania i rokiem wpisuje się w polu **Periodyk lub seria (490)**.
+Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako kolekcja lub jako samodzielno dzieło. W każdym przypadku tytuł czasopisma wraz z numerem wydania i rokiem wpisuje się w polu **Tytuł dodatkowy (730)**.
 
 #### Kolekcje
 **Kolekcje** są stosowne kiedy periodyk składa się w całości lub w większości ze źródeł muzycznych i zachowany został jako całość. Egzemplarze zostają dodane na poziomie kolekcji natomiast dla poszczególnych kompozycji tworzy się indywidualne wpisy pozycji w kolekcji.
