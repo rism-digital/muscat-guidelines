@@ -17,7 +17,7 @@ Es gibt auch einen Diskussionskanal für die RISM-Gemeinschaft auf Slack unter:
 
 #### 3. Ist die gesamte in Muscat zitiert Sekundärltieratur in der Zentralredaktkion vorhanden?
 
-Nein, nur die Literatur, die in einem internen Vermerk (599 $a) mit „HB“, „Handbibliothek“ oder „RISM-ZR“ gekennzeichnet ist, befindet sich tatsächlich in der Zentralredaktion. Diese Materialien stehen allen RISM-Mitarbeitern zur Verfügung. Wenn Sie eine Publikation einsehen möchten, lassen Sie es uns wissen. Wir werden versuchen, sie für Sie zu besorgen. Wenn Sie sich für eine Publikation interessieren, die wir nicht im Büro haben, lassen Sie es uns wissen. Wir werden dann versuchen, Ihnen Zugang dazu zu verschaffen.
+Nein, nur die Literatur, die in einem internen Vermerk (599 $a) mit „HB“, „Handbibliothek“ oder „RISM-ZR“ gekennzeichnet ist, befindet sich tatsächlich in der Zentralredaktion. Diese Materialien stehen allen RISM-Mitarbeitern zur Verfügung. Wenn Sie eine Publikation einsehen möchten, lassen Sie es uns wissen. Wir werden versuchen, sie für Sie zu besorgen. Wenn Sie sich für eine Publikation interessieren, die wir nicht im Büro haben, lassen Sie es uns wissen. Wir werden dann versuchen, Ihnen Zugang dazu zu verschaffen. Wenn Sie sich für eine Publikation interessieren, die wir nicht im Büro haben, lassen Sie es uns wissen. Wir werden dann versuchen, Ihnen Zugang dazu zu verschaffen.
 
 #### 4. Was muss ich tun, wenn ich mein Passwort vergessen habe oder es ändern möchte?
 
