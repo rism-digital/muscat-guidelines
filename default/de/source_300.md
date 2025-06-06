@@ -45,7 +45,7 @@ Verwenden Sie einen der folgenden englischen Begriffe, im Singular oder Plural.
 
 - **tablature part**: Tabulaturstimme: Die Art der Tabulatur, falls bekannt, sollte im Feld **Bemerkungen (500)** angegeben werden.
 - **sketch**: Für Skizzen verwenden, wenn die Art nicht genauer bestimmt werden kann.
-- **Tkeyboard score with text**. For texted scores, use **with text**, such as **keyboard score with text**.
+- For texted scores, use **with text**, such as **keyboard score with text**. **Tkeyboard score with text**.
 - **prompt book**: Soufflierbuch: Ein Dokument (Klavierauszug oder Text), das von einem Souffleur für ein Bühnenwerk verwendet wird.
 - **table book**: Tischbuch: Stimmen, die so auf einem Blatt angeordnet sind, dass alle Interpreten an einem Tisch sitzend daraus lesen können.
 
