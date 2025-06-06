@@ -32,6 +32,14 @@ Kurztitel für **allgemeine Sekundärliteratur** werden wie folgt erstellt:
 - Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
   → WollnyS 2001
 - Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
+  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999
 - Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincónV 2009
@@ -44,16 +52,24 @@ Veröffentlichen Autoren oder Herausgeber im selben Jahr mehrere Artikel über d
   → KircherA 2005
 - Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherE 2005a
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005). [Partitur]  
-  → KircherE 2005b
 - Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005). [Klavierauszug]  
   → KircherE 2005c
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, herausgegeben von Armin Kircher (Stuttgart: Carus, 2005). [Partitur]  
+  → KircherE 2005b
 
 Bei zwei oder mehr Autoren oder Herausgebern wird nur der erste in einem Kurztitel verwendet.
 
 ###### Beispiel
 
 - John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893
 
 Wenn kein Autor genannt wird, verwenden Sie stattdessen 1-2 Schlüsselwörter aus dem Titel.
