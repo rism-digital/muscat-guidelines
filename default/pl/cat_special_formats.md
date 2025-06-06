@@ -50,8 +50,8 @@ Katalogując kontrafakturę zwróć uwagę na następujące pola. Rekord 3002344
 - **Kompozytor / Autor (100)**
  - Mysliveček, Josef
 - **Tytuł ujednolicony (240)**  
-  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji Możesz dodać informację **Wyjątki**. Nie używaj wartości **Arr**.
- - Il Bellerofonte. Wyjątki
+  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji Możesz dodać informację **Wyjątki**. W podpulu wybierz wartość **Wstawka w **. Nie używaj wartości **Arr**.</p>
+ - Il Bellerofonte. Wyjątki</li>
 - **Tytuł dodatkowy (730)**  
   Jeśli istnieje nowy, charakterystyczny tytuł ujednolicony dla danej kompozycji, możesz wprowadzić go tutaj. Nie wprowadzaj tu incipitów tekstowych.
 - **Hasło przedmiotowe (650)**  
@@ -75,7 +75,7 @@ Katalogując kontrafakturę zwróć uwagę na następujące pola. Rekord 3002344
  - Alma redemptoris mater, quae pervia caeli
  - [Giusti dei che ben vedete]
 - **Inne pola**  
-  Wszystkie inne pola, takie jak święta liturgiczne i te związane z instrumentacją powinny odnosić się do katalogowanego źródła, a nie oryginalnego, na podstawie którego powstała contrafacta.
+  Wszystkie inne pola, takie jak święta liturgiczne i te związane z instrumentacją powinny odnosić się do katalogowanego źródła, a nie oryginalnego, na podstawie którego powstała contrafacta.  </ul>
 
 ### Kompilacje
 
@@ -104,8 +104,8 @@ Katalogując kompilację zwróć uwagę na poniższe pola.
   Wprowadz tytuł ujednolicony oryginalnej kompozycji, dodając wartość **Wyjątki** lub **Aranżacja** stosownie do przypadku. Możesz również wprowadzić tytuły ossia.
 - **Katalog utworów (690)**  
   Możesz wprowadzić numer z katalogu utworów zarówno dla kompilacji, jak i oryginalnych kompozycji.
-- **Incipit tekstowy (031)**  
-  Wprowadź język tekstu katalogowanego źródła. Incipit tekstowy oryginalnego źródła, jeżeli jest znany, należy podać w nawiasie kwadratowym.
+- **Text incipits (031)**  
+  Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
 - **Uwaga ogólna (500)**  
   W celu wyjaśnienia zawsze dodaj uwagę szczególnie jeśli chodzi o dzieła różnych kompozytorów. Zapewnia to, że kompozytorzy są dopasowani do kompozycji wykorzystywanych w kompilacji.
 - **Uwaga o wykonaniu (518)**  
@@ -147,7 +147,7 @@ Rekord 150205470 stanowi przykład.
  - Duński
  - Włoski
 - **Incipit tekstowy (031)**  
-  Wprowadź język inicpitu tekstowego katalogowanego źródła. Incipit tekstowy oryginalnego źródła, jeżeli jest znany, należy podać w nawiasie kwadratowym.
+  Wprowadź język tekstu katalogowanego źródła. Incipit tekstowy oryginalnego źródła, jeżeli jest znany, należy podać w nawiasie kwadratowym.
  - Dannemark hellige lyd
  - [Di tanti palpiti]
 - **Inne pola**  
@@ -166,8 +166,8 @@ Zwykłe zasady katalogowania mają zastosowanie przy tworzeniu rekordu macierzys
 - **Tytuł ujednolicony (240)**: Tytuł wstawki lub tytuł opery z informacją Wyjątki
 - **Tytuł dodatkowy (730)**: Tytuł głównego dzieła oraz informacja w podpolu **Wstawki**
 - **Hasło przedmiotowe (650)**: Wprowadź trzy: Insertions, gatunku wstawki, gatunku dzieła głównego
-- **Powiązane źródło (787)** informuje do jakiego dzieła głównego, dane źródło zostało wstawione. W podpulu wybierz wartość **Wstawka w **. Dodaj krótkie informację w polu **Uwaga** w celu wyjaśnienia charakteru wstawki, typu w którym miejscu głównego dzieła występuje.
-- **Uwaga ogólna (500)**: Wszelkie dodatkowe informacje mogą być dodane, aby związek pomiędzy wkładką w ramach głównego dzieła (jeżeli jest znane) był klarowniejszy.
+- **Powiązane źródło (787)** informuje do jakiego dzieła głównego, dane źródło zostało wstawione. W podpulu wybierz wartość **Wstawka w **. In the field **Physical description (300)**, use **keyboard score** if the work has been reduced for piano.</li>
+- **Uwaga ogólna (500)**: Wszelkie dodatkowe informacje mogą być dodane, aby związek pomiędzy wkładką w ramach głównego dzieła (jeżeli jest znane) był klarowniejszy.</ul>
 
 ### Materiały mieszane (rękopisy i druki przechowywane razem)
 
@@ -231,7 +231,7 @@ Zwróć uwagę na poniższe pola, gdy katalogujesz libretta.
 - **Hasło przedmiotowe (650):** Jeśli znany jest gatunek, wpisz nazwę gatunku, dla którego napisano libretto, np. „Operas” lub „Cantatas”. Hasło „Librettos” nie jest konieczne.
 - **Language code (041):** Wykorzystuj pole „Język tekstu” tylko jeśli libretto zawiera zapis muzyczny z tekstem.
 - **Typ źródła (593):** Wybierz typ źródła. Dla typu zawartości wybierz „Libretto”.
-- **Opis fizyczny: Rodzaj źródła, objętość (300):** Użyj wyrażenia „text document” do opisu formatu libretta. Przykład: 1 text document: viii, 27 p.
+- **Opis fizyczny: Rodzaj źródła, objętość (300):** Użyj wyrażenia „text document” do opisu formatu libretta. Przykład: 1 text document: viii, 27 p. p.
 
 ### Traktaty
 
@@ -262,7 +262,8 @@ Aranżacje fortepianowe należy opisywać w następujący sposób.
   - Wybierz **Aranżacja** w ramach pola **Strefa aranżacji**.
   - W ramach pola ** Podsumowanie obsady** wprowadź obsadę aranżacji, taką jak **pf** lub **V, pf**. Nie wprowadzaj tu obsady kompozycji oryginalnej.
 - W polu **Szczegółowy opis obsady (594)** należy wprowadzić łączną obsadę aranżacji. Nie należy wpisywać obsady kompozycji oryginalnej.
-- W polu Opis fizyczny (300), należy użyć wartości: **keyboard score**, jeśli utwór zredukowano do aranżacji fortepianowej. Wybierz **vocal** score jeżeli utwór został zredukowany do obsady na głos i fortepian.
+- **Tytuł ujednolicony (240)**  
+  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji Możesz dodać informację **Wyjątki**. Nie używaj wartości **Arr**.
 
 ### Źródła opisane w publikacjach RISM Serii B niedostępne jeszcze w Muscat
 
