@@ -1,3 +1,3 @@
-### Source data not found (675)
+### Quelle ohne Ergebnis konsultiert (675)
 
-(Guidelines in progress.)
+(Richtlinien in Vorbereitung.)
