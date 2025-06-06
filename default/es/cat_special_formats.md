@@ -8,7 +8,7 @@ In RISM, the word _collection_ refers to any item (whether manuscript or printed
 
 Collections in RISM have a parent/child hierarchy, meaning there is one main entry (parent record) that describes the collection as a whole, and individual entries (child or analytical records) that describe each piece therein separately.
 
-Collection parent records may not contain other collection parent records. There are no smaller collections within collections, even though the item itself may be structured this way. Instead, use a flatter hierarchy by means of child records and explain the structure, makeup, or organization of the item in a note. For example, if a collection consists of a single march followed by a set of six sonatas, you will create 1 parent record and 7 individual entries, one for each piece. Even if the six sonatas can be considered as a unit, they must be described separately. The parent record can explain the organization of the collection and notes in the child records can explain that each sonata is part of a set.
+Los registros madre de colección no pueden albergar registros madre de colección de manuscritos. There are no smaller collections within collections, even though the item itself may be structured this way. Instead, use a flatter hierarchy by means of child records and explain the structure, makeup, or organization of the item in a note. For example, if a collection consists of a single march followed by a set of six sonatas, you will create 1 parent record and 7 individual entries, one for each piece. Even if the six sonatas can be considered as a unit, they must be described separately. The parent record can explain the organization of the collection and notes in the child records can explain that each sonata is part of a set.
 
 When cataloging collections, note that:
 
@@ -180,7 +180,7 @@ If it is not feasible to create an adequate record for the printed material, pro
 
 ### Music in periodicals
 
-Existen dos maneras de catalogar periódicos que contienen música: como colección o como obra individual. In either case, the title of the periodical, with the issue number and year, is entered in the field **Periodical or series (490)**.
+Existen dos maneras de catalogar periódicos que contienen música: como colección o como obra individual. En cada caso, el título del periódico, con el número de edición y el año, se registran en el campo **Título adicional (730).**
 
 #### Collections
 **Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Los registros de ejemplar se añaden al nivel de la colección. Individual entries are created for each piece in the issue.
@@ -244,11 +244,11 @@ Appropriate subject headings for treatises include the following:
 
 - **Treatises**
 - **Writings**
-- ********************Music theory ** [Teoría musical]******************
+- **********************Music theory ** [Teoría musical]********************
 - ****Theory of harmony ** [Teoría de la armonía]**
 - En el campo **Título**
 - **uniforme (240)**:
-- ********************Contrapuntal studies (inst./voc.).******************
+- **********************Contrapuntal studies (inst./voc.).********************
 - ****Solfeggios (voc.) **[Solfeos (vocales)]**
 - ****Solfeggios (inst.) **[Solfeos (instrumentales)]**
 - ****Scales (inst./voc.) **[Escalas (instrumentales/vocales)]**
