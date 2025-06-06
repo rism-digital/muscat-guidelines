@@ -39,7 +39,7 @@ Außerhalb von Muscat sind veröffentlichte Muscat-Datensätze über den [SRU-Do
 
 #### 8. Wann erscheinen die Muscat-Datensätze in den öffentlichen Katalogen?
 
-Die Muscat-Einträge werden einmal im Monat, etwa am 19. eines jeden Monats, zur Veröffentlichung im [RISM Catalog](https://opac.rism.info/) versandt. Die Datensätze werden dann einige Tage später angezeigt. [RISM Online](https://rism.online/) wird einmal täglich mit Daten aus Muscat aktualisiert.
+The [RISM Catalog](https://opac.rism.info/) is updated once a month after the first of each month. Die Datensätze werden dann einige Tage später angezeigt. [RISM Online](https://rism.online/) is updated once a day.
 
 #### 9. Was geschieht, wenn sich eine Quelle in RISM nicht mehr im Besitz der im RISM-Datensatz angegebenen besitzenden Institution befindet?
 
