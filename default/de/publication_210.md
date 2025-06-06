@@ -32,14 +32,6 @@ Kurztitel für **allgemeine Sekundärliteratur** werden wie folgt erstellt:
 - Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
   → WollnyS 2001
 - Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
-  → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999
 - Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincónV 2009
