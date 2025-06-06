@@ -52,7 +52,7 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 - Notturni — Notturni (voc.)
 - Pastorales — Pastorales (inst.)
 - Pastorales — Pastorales (voc.)
-- Preludes and Fugues — _enter two subject headings:_ Preludes Fugues
+- Preludes and Fugues — _wprowadź dwa hasła przedmiotowe:_ Preludes Fugues
 - Quartets — Quartets (inst.)
 - Quartets — Quartets (voc.)
 - Rhapsodies — Rhapsodies (inst.)
@@ -67,7 +67,7 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 - Rounds — Rounds (voc.)
 - Scherzi — Scherzi (voc.)
 - Scherzos — Scherzos (inst.)
-- Sonatas — _use_ Sonatas _or_ Triosonatas
+- Sonatas — _użyj_ Sonatas _lub_ Triosonatas
 - Trios — Trios (inst.)
 - Versets — Versets (inst.)
 - Virelais — Virelais (forme fixe)
