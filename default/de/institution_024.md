@@ -4,7 +4,7 @@ Das Feld **Normdatenverweise** wird verwendet, um die Standardnummer oder den Co
 
 #### Normdatenverweise (024 $a)
 
-Der Code wird aus den Normdaten der erstellenden Agentur übernommen. Geben Sie den alphanumerischen Code zur Identifizierung des Trägers an. Nachstehend finden Sie Beispiele für die Formatierung.
+Geben Sie den alphanumerischen Code zur Identifizierung des Trägers an. Der Code wird aus den Normdaten der erstellenden Agentur übernommen. Nachstehend finden Sie Beispiele für die Formatierung.
 
 #### Bedingungen der Verfügbarkeit (024 $c)
 
