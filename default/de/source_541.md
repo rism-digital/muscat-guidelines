@@ -10,7 +10,7 @@ Geben Sie Informationen zur Art der Beschaffung, wie zum Beispiel als Geschenk, 
 
 Geben Sie den Namen der Person oder Institution an, von der die Quelle (Donator, Verkäufer etc.) erworben wurde. Verwenden Sie Ihre Katalogisierungssprache.
 
-Standardisierte Angaben der Personennamen werden im Feld **Nebeneintragung Personen (700)** und für Institutionen in **Nebeneintragung Körperschaften (710)** gemacht.
+Enter standardized forms of personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**.
 
 #### Beschaffungsdatum (541 $d)
 
