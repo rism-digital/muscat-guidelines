@@ -28,7 +28,7 @@ Geben Sie die Bezeichnung in der Landessprache ein. In eckigen Klammern kann ein
 
 - Sammlung Hanns J. Eller
 
-Hinweis: Geben Sie Vermerke zur Provenienz im Feld **Provenienzvermerk (561)** ein.
+Ownership marks should be entered in the field **Provenance note (561)**.
 
 #### Erhaltenes Material (852 $q)
 
@@ -46,7 +46,7 @@ Fehlende Stimmen oder Bände sind in das Feld **Bemerkungen (500)** einzutragen.
 
 **Pflichtfeld**
 
-In dieses Feld wird die Signatur eingetragen. Die Signatur ist möglichst genau wiederzugeben (betrifft Leer- und Interpunktionszeichen). Innerhalb eines Bestandes sollen die Signaturen formal einheitlich geschrieben werden. Hochstellungen werden mit | (Gerader Strich) direkt vor dem entsprechenden Zeichen angegeben. Wenn keine Signatur angegeben ist, erfolgt die Eingabe **[without shelfmark]**. Wenn das Vorhandensein einer Signatur unbekannt ist, kann der englische Ausdruck **[no indication]** verwendet werden. Weitere Signaturen werden im Feld **Weitere Signatur (591)** eingetragen.
+Enter the shelfmark (also called call number) in this field. Die Signatur ist möglichst genau wiederzugeben (betrifft Leer- und Interpunktionszeichen). Innerhalb eines Bestandes sollen die Signaturen formal einheitlich geschrieben werden. Hochstellungen werden mit | (Gerader Strich) direkt vor dem entsprechenden Zeichen angegeben. Wenn keine Signatur angegeben ist, erfolgt die Eingabe **[without shelfmark]**. Wenn das Vorhandensein einer Signatur unbekannt ist, kann der englische Ausdruck **[no indication]** verwendet werden. Weitere Signaturen werden im Feld **Weitere Signatur (591)** eingetragen.
 
 In Datensätzen für Musikdrucke wurde die Phrase **[no indication]** automatisch von der Zentralredaktion hinzugefügt, wenn keine Signatur vorhanden war. RISM-Mitarbeiter, die ihre Bestände überarbeiten, werden gebeten, **[no indication]** in die aktuelle Signatur zu ändern.
 
@@ -61,4 +61,4 @@ In Datensätzen für Musikdrucke wurde die Phrase **[no indication]** automatisc
 
 #### Alte Signatur (olim) (852 $d)
 
-Geben Sie hier eine alte, ungültig gewordene oder nicht mehr verwendete Signatur an. Geben Sie ein altes Signatur pro Feld ein.
+Geben Sie hier eine alte, ungültig gewordene oder nicht mehr verwendete Signatur an. Enter one shelfmark per field.
