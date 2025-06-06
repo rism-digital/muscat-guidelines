@@ -1,23 +1,23 @@
-### Standardized titles – Subject headings
+### Einordnungstitel – Schlagworte
 
-This section expands on the guidelines for **Standardized title (240)** in cataloging situations where genres are used as standardized titles. In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_. In other cases, however, a corresponding, rather than identical, subject heading is used.
+Dieser Abschnitt erweitert die Richtlinien für **Einordnungstitel (240)** in Katalogisierungssituationen, in denen Gattungen als standardisierte Titel verwendet werden. In vielen Fällen werden der **Einordnungstitel** und das **Schlagwort (650)** identisch sein, wie zum Beispiel bei _Symphonies_. In anderen Fällen wird jedoch ein entsprechendes, nicht identisches Schlagwort verwendet.
 
-A variant subject heading is used in the following situations:
-- If the same subject heading can be used in both vocal and instrumental genres, an abbreviation in parentheses is added after the genre: **(voc.)** or **(inst.)**, respectively.
-- Specifications such as **(dances)** or **(stage)** may also be added in parentheses after the main term.
+Eine abweichendes Schlagwort wird in den folgenden Situationen verwendet:
+- Wenn ein und dasselbe Schlagwort sowohl für Vokal- als auch für Instrumentalmusik verwendet werden kann, wird nach der Gattung eine Abkürzung in Klammern hinzugefügt: **(voc.)** bzw. **(inst.)**.
+- Der Hauptbegriff kann um Angaben wie **(dances)** oder **(stage)** in Klammern ergänzt werden.
 
-Below are lists of standardized titles and their corresponding subject headings. The lists are not comprehensive. The standardized titles and subject headings should be entered in the form given here (usually in English and in the plural) and not in translation. Note the special situations at the end.
+Nachfolgend finden Sie Listen mit Eonirdnungstiteln und den entsprechenden Schlagwörtern. Die Listen sind nicht vollständig. Die Eibnordnungstitel und Schlagworte sind in der hier angegebenen Form (in der Regel in englischer Sprache und im Plural) und nicht in Übersetzung anzugeben. Beachten Sie die Sonderfälle am Ende.
 
-Contents:
-- General instrumental and vocal music
-- Sacred vocal music
-- Music for the stage, theater, etc.
-- Exercises, studies, schools, lessons
-- Dances
+Inhalt:
+- Allgemeine Instrumental- und Vokalmusik
+- Geistliche Vokalmusik
+- Musik für die Bühne, Theater, etc.
+- Übungen, Studien, Schulen, Lektionen
+- Tänze
 
-#### General instrumental and vocal music
+#### Allgemeine Instrumental- und Vokalmusik
 
-Standardized title — Corresponding subject heading
+Einordnungstitel — Korrespondierendes Schlagwort
 - Airs — Airs (dances)
 - Airs — Airs (inst.)
 - Airs — Airs (voc.)
@@ -52,7 +52,7 @@ Standardized title — Corresponding subject heading
 - Notturni — Notturni (voc.)
 - Pastorales — Pastorales (inst.)
 - Pastorales — Pastorales (voc.)
-- Preludes and Fugues — _enter two subject headings:_ Preludes Fugues
+- Preludes and Fugues — _geben Sie zwei Schlagworte ein:_ Preludes Fugues
 - Quartets — Quartets (inst.)
 - Quartets — Quartets (voc.)
 - Rhapsodies — Rhapsodies (inst.)
@@ -67,34 +67,34 @@ Standardized title — Corresponding subject heading
 - Rounds — Rounds (voc.)
 - Scherzi — Scherzi (voc.)
 - Scherzos — Scherzos (inst.)
-- Sonatas — _use_ Sonatas _or_ Triosonatas
+- Sonatas — _verwenden Sie_ Sonatas _oder_ Triosonatas
 - Trios — Trios (inst.)
 - Versets — Versets (inst.)
 - Virelais — Virelais (forme fixe)
 - Terzets — Terzets (voc.)
 
-#### Sacred vocal music
+#### Geistliche Vokalmusik
 
-Standardized title — Corresponding subject heading
+Einordnungstitel — Korrespondierendes Schlagwort
 - Completoria — Hours of the Office
 - Horae minores — Hours of the Office
 - Intonations — Intonations (voc.)
 - Laudes — Hours of the Office
 - Matutina — Hours of the Office
 
-#### Music for the stage, theater, etc.
+#### Musik für die Bühne, Theater, etc.
 
-_For genres of individual numbers or parts, consult the section on vocal and instrumental music._  
-Standardized title — Corresponding subject heading
+_Für die Gattungen der einzelnen Nummern oder Teile siehe den Abschnitt über Vokal- und Instrumentalmusik._  
+Einordungstitel — Korrespondierendes Schlagwort
 - Intermezzos — Intermezzos (stage)
 - Meditationes — Meditationes (Jesuit theatre)
 - Prologues — Prologues (stage)
 
-#### Exercises, studies, schools, lessons
+#### Übungen, Studien, Schulen, Lektionen
 
-Standardized title — Corresponding subject heading
+Einordnungstitel — Korrespondierendes Schlagwort
 - Arpeggios — Arpeggios (inst.)
-- Cadences — Cadences (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) _or_ Cadenzas (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
+- Cadences — Cadences (inst.) _or_ Cadenzas (inst.)
 - Cadenzas — Cadenzas (voc.)
 - Exercises — Exercises (inst.)
 - Exercises — Exercises (voc.)
@@ -103,35 +103,35 @@ Standardized title — Corresponding subject heading
 - Tutors — Tutors (inst.)
 - Tutors — Tutors (voc.)
 
-#### Dances
+#### Tänze
 
-Standardized title — Subject heading
+Einordnungstitel — Korrespondierendes Schlagwort
 - Airs — Airs (dances)
 - Rounds — Rounds (dances)
 
-#### Special situations
+#### Sonderfälle
 
-1. A chorale arrangement where the text incipit is known:   
-   You don't need this list! Use the text incipit as the standardized title and select **Arrangement**. Enter the subject heading **Chorale arrangements**.
+1. Eine Choralbearbeitung, bei der der Textanfang bekannt ist:   
+   Sie brauchen diese Liste nicht! Verwenden Sie das Texticipit als Einordnungstitel und wählen Sie **Arrangement**. Geben die das Schlagwort **Chorale arrangements** ein.
 
-2. A chorale arrangement where the text incipit is unknown:   
-   Use **Chorale arrangements** as both the standardized title and subject heading.
+2. Eine Chorbearbeitung, bei der der Text unbekannt ist:   
+   **Chorale arrangements** als Einordnungstitel und Schlagwort verwenden.
 
-3. A potpourri where you know that the music comes from a single opera:  
-   You don't need this list! Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate). Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**.
+3. Ein Potpourri, bei dem man weiß, dass die Musik aus einer einzigen Oper stammt:  
+   Sie brauchen diese Liste nicht! Verwenden Sie den Namen der Oper als Einordungstitel und wählen Sie **Ausschnitte** und **Bearbeitung**. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
 
-4. A potpourri where you know that the music comes from several operas:  
-   Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+4. Ein Potpourri von dem Sie wissen, dass die Musik aus mehreren Opern stammt:  
+   Verwenden Sie **Potpourri** als Einordnungstitel. Geben Sie die Namen der Opern im Feld **Alternativer Ttitel (730)** ein. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
 
-5. A potpourri where you do not know what operas the music is from:  
-   Use **Potpourris** as both the standardized title and subject heading.
+5. Ein Potpourri, bei dem Sie nicht wissen, aus welcher Oper die Musik stammt:  
+   Verwenden Sie **Potpourris** sowohl als Einordnungstitel als auch als Schlagwort.
 
-6. A wind arrangement of music from a stage work where the name of the stage work is known:  
-   Use the name of the stage work as the standardized title and select **Arrangement**. Enter the subject heading **Wind music**.
+6. Ein Bläserarrangement von Musik aus einem Bühnenwerk, wenn der Name des Bühnenwerks bekannt ist:  
+   Verwenden Sie den Namen des Bühnenwerkes als Einordnungstitel und wählen Sie **Bearbeitung**. Geben Sie das Schlagwort **Wind music** ein.
 
-7. A wind arrangement of music from a stage work where the name of the stage work is unknown:  
-   Use **Wind music** as both the standardized title and subject heading.
+7. Ein Bläserarrangement von Musik aus einem Bühnenwerk, bei dem der Name des Bühnenwerks unbekannt ist:  
+   Verwenden Sie **Wind music** sowohl als Einordnungstitel als auch als Schlagwort.
 
-8. For **sketches** of unknown compositions, use the distinctive title plus the subject heading **Sketches**. For sketches of known compositions, use the distinctive title of the work and **Sketches** as second subject heading.
+8. Für **Skizzen** von unbekannten Kompositionen verwenden Sie den unverwechselbaren Titel und das Schlagwort **Sketches**. Für Skizzen bekannter Kompositionen verwenden Sie den unverwechselbaren Titel des Werkes und **Sketches** als zweites Schlagwort.
 
-9. In cases of complete uncertainty, such as unknown scoring, enter **Pieces** as the standardized title and **Pieces** as the subject heading.
+9. In Fällen völliger Ungewissheit, z. B. bei unbekannter Besetzung, geben Sie **Pieces** als Einordnungstitel und **Pieces** als Schlagwort ein.

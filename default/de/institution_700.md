@@ -1,11 +1,11 @@
-### Related personal name (700)
+### Zugehörige Personen (700)
 
-The field **Related personal name** is for personal names related to the institution.
+Das Feld **Zugehörige Personen** ist für persönliche Namen, die mit der Institution in Verbindung stehen.
 
-#### Name (700 $a)
+#### Personenname (700 $a)
 
-Enter the name of the person related to the institution. For example, with private collections you may enter the name of the owner. This field is linked to the **Personal names** authority file through subfield $0. The life dates are displayed in $d.
+Geben Sie den Namen der Person ein, die mit der Körperschaft in Verbindung steht. Bei privaten Sammlungen können Sie zum Beispiel den Namen des Eigentümers eingeben. Das Feld ist über $0 mit der Normdatei **Personen** verknüpft. Die Lebensdaten werden in $d angezeigt.
 
-#### Function (700 $4)
+#### Funktionsbezeichnung (700 $4)
 
-Enter the function of the person.
+Geben Sie die Funktion der Person ein.

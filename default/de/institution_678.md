@@ -1,7 +1,7 @@
-### History of institution (678; ISDIAH 5.3.1)
+### Geschichte der Körperschaft (678; ISDIAH 5.3.1)
 
-The field **History of institution** provides a concise history of the institution.
+Das Feld **Geschichte der Körperschaft** gibt einen kurzen Überblick über die Geschichte der Institution.
 
-#### History of institution (678 $a)
+#### Geschichte der Körperschaft (678 $a)
 
-Enter a short history of the institution.
+Geben Sie kurz die Geschichte der Institution wieder.

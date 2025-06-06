@@ -1,11 +1,11 @@
-### Other shelfmark (591)
+### Weitere Signaturen (591)
 
-The field **Other shelfmark** is for all valid shelfmarks in addition to the one specified in the field **Shelfmark (852 $c)**.
+Das Feld **Weitere Signaturen** ist für alle gültigen Signaturen zusätzlich zu der im Feld **Signatur (852 $c)** angegebenen.
 
-#### Other shelfmark (591 $a)
+#### Weitere Signaturen (591 $a)
 
-Enter other shelfmarks (also called "call numbers") here. Any shelfmarks that are currently valid should be entered here. For example, some operas have separate shelfmarks for every act, or some partbooks have individual shelfmarks for each partbook. Enter shelfmarks in the manner indicated for the field **Shelfmark (852 $c)** above.
+Geben Sie hier weitere Signaturen ein. Hier sollten die derzeit gültigen Signaturen eingetragen werden. Beispielsweise haben einige Opern für jeden Akt eine eigene Signatur, oder einige Stimmbücher haben für jedes Stimmbuch eine eigene Signatur. Geben Sie die Signaturen entsprechend den Vorgaben im Feld **Signatur (852 $c)** an.
 
-If the shelfmark in the field **Shelfmark (852 $c)** indicates a range of numbers (such as MS 1-3), the single shelfmarks can be entered individually here.
+Wenn die Signatur im Feld **Signatur (852 $c)** einen Zahlenbereich angibt (z. B. MS 1-3), können die einzelnen Signaturen hier separat eingegeben werden.
 
-Shelfmarks that are no longer in use should be entered in the field **Former shelfmark (olim) (852 $d)**.
+Nicht mehr gültige Signaturen werden im Feld **Alte Signatur (olim) (852 $d)** eingetragen.

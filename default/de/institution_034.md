@@ -1,19 +1,19 @@
-### Location (034)
+### Standort (034)
 
-The field **Location** is for the latitude and longitude of an institution. On Google Maps, the coordinates are displayed when you right-click on the institution and select "What's here."
+Das Feld **Standort** dient der Angabe des Längen- und Breitengrads einer Institution. Auf Google Maps werden die Koordinaten angezeigt, wenn Sie mit der rechten Maustaste auf die Einrichtung klicken und "Was ist hier?" auswählen.
 
-#### Latitude (034 $f)
+#### Breitengrad (034 $f)
 
-Enter the latitude of the institution.
+Geben Sie den Breitengrad der Institution ein.
 
-#### Longitude (034 $d)
+#### Längengrad (034 $d)
 
-Enter the longitude of the institution.
+Geben Sie den Längengrad der Institution ein.
 
-##### Examples
+##### Beispiele
 
-- Latitude: 42.0515515
-- Longitude: -87.6735541
+- Breitengrad: 42.0515515
+- Längengrad: -87.6735541
 
-- Latitude: 50.120565
-- Longitude: 8.652714
+- Breitengrad: 50.120565
+- Längengrad: 8.652714

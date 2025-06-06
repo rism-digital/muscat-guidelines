@@ -4,7 +4,7 @@ Das Feld **Autor** ist für die Person, die für die Publikation verantwortlich 
 
 #### Personenname (100 $a)
 
-Geben Sie den Namen des Hauptautors der Publikation ein. Editors of facsimile or modern music editions are entered in this field.
+Geben Sie den Namen des Hauptautors der Publikation ein. Herausgeber von Faksimile oder modernen Musikausgaben werden als Autoren eingetragen.
 
 Herausgeber von Aufsatzsammlungen oder Komponistennamen moderner Editionen werden im Feld **Sonstige Person (700)** eingetragen.
 

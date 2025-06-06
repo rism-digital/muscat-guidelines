@@ -1,12 +1,12 @@
-### Subject heading (650)
+### Schlagworteintragung (650)
 
-The field **Subject heading** is for topics that help to describe the contents of the item.
+Das Feld **Schlagworteintragung** ist für Themen, die den Inhalt des Eintrags beschreiben.
 
-#### Subject heading (650 $a)
+#### Schlagworteintragung (650 $a)
 
-Enter a subject heading. Enter subject headings especially if the contents of the item are not obvious from the title. This field is linked to the **Subject headings** authority file through $0.
+Geben Sie ein Schlagwort ein. Geben Sie Schlagwörter ein, insbesondere wenn der Inhalt der Publikation nicht aus dem Titel ersichtlich ist. Das Feld ist über $0 mit der Normdatei **Schlagwörter** verknüpft.
 
-##### Examples
+##### Beispiele
 
 - Instruments
 - Madrigals

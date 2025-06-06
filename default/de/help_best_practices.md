@@ -1,30 +1,30 @@
-### RISM Best Practices
+### Bewährte RISM-Praktiken
 
-This section outlines best practices when cataloging for RISM; that is, conventions that are not codified in the guidelines but nevertheless contribute to sound, reliable, and transparent records.
+In diesem Abschnitt werden bewährte Praktiken zur Katalogisierung für RISM erläutert, also Konventionen, die nicht in den Richtlinien festgehalten sind, die jedoch zu einer soliden, zuverlässigen und transparenten Erfassung beitragen.
 
-#### 1. Free text fields and indexed fields
+#### 1. Freitextfelder und indexierte Felder
 
-If you name a person or institution in your record (such as in a notes field), make sure to also enter the name in the indexed fields **Additional personal name (700)** or **Additional institution (710)**.
+Wenn Sie in Ihrem Datensatz eine Person oder eine Institution nennen (z. B. in einem Bemerkungsfeld), dann tragen Sie den Namen bitte auch in die indesierten Felder **Nebeneintragung Personen (700)** oder **Nebeneintragung Körperschaften (710)** ein.
 
-The same applies for citing secondary literature: if you refer to a publication in a notes field, make sure to also enter it in the field **Bibliographic reference (691)**.
+Dasselbe gilt für das Zitieren von Sekundärliteratur: Wenn Sie in einem Bemerkungsfeld auf eine Publikation verweisen, müssen Sie diese auch in das Feld **Literaturverweis (691)** eintragen.
 
-Conversely, make sure that the relevance of an indexed name or institution is clear, such as through an explanation in a notes field.
+Stellen Sie umgekehrt sicher, dass die Bedeutung eines indexierten Namens oder einer Institution klar ist, beispielsweise durch eine Erläuterung in einem Bemerkungsfeld.
 
-#### 2. Citing secondary literature
+#### 2. Sekundärliteratur zitieren
 
-Information that is not found on the source may be included in the RISM record, but the secondary literature should be cited. For example, if the composer of a manuscript is known through a journal article, or if the publication year for a printed edition is given in a published study on the publisher, the source of the information should be made clear through a **General note (500)** and indexed in the field **Bibliographic reference (691)**.
+Informationen, die nicht in der Quelle zu finden sind, können in den RISM-Datensatz aufgenommen werden, aber die Sekundärliteratur sollte zitiert werden. Ist z. B. der Komponist eines Manuskripts durch einen Zeitschriftenartikel bekannt oder wird das Erscheinungsjahr einer gedruckten Ausgabe in einer veröffentlichten Studie über den Verleger angegeben, sollte die Quelle der Information durch eine **Bemerkung (500)** deutlich gemacht und im Feld **Literaturverweis (691)** indexiert werden.
 
-#### 3. 3. URLs and links to external resources
+#### 3. URLs und Links zu externen Ressourcen
 
-Always use permalinks, in particular when linking to digitized music in the field **External resource (856)**.
+Verwenden Sie immer Permalinks, insbesondere wenn Sie auf Digitalisate im Feld **Elektronische Lokalisierung und Zugriff (856)** verlinken.
 
-If you want to link to a website, do not enter the URL in a notes field. Rather, enter the resource as a bibliographic reference. Then, link to it in the field **Bibliographic reference (691)** and refer to it by its short title in a notes field. This is done by entering it in the **Secondary literature** authority. This provides users with access to complete bibliographic information, and if the URL changes then an update is only needed once through the **Secondary literature** database.
+Wenn Sie einen Link zu einer Website herstellen möchten, dann verwenden Sie bitte kein Bemerkungsfeld. Geben Sie die Ressource stattdessen als bibliografische Referenz ein. Verweisen Sie dann im Feld **Literaturverweis (691)** darauf und geben Sie in einem Bemerkungsfeld den Kurztitel an. Dies geschieht durch Eingabe in die Normdatei **Sekundärliteratur**. Dadurch erhalten die Nutzer Zugriff auf die vollständigen bibliografischen Informationen und bei einer Änderung der URL ist nur eine einmalige Aktualisierung über die Datenbank **Sekundärliteratur** erforderlich.
 
-For books found on Google Books or other online repositories, always create a bibliographic record in the **Secondary literature** authority for the book itself and not the repository; that is, cite the book and not Google Books.
+Erstellen Sie für Bücher, die Sie bei Google Books oder anderen Online-Repositorien finden, immer einen bibliografischen Datensatz in der Normdatei **Sekundärliteratur** für das Buch selbst und nicht für das Repositorium. Das heißt, zitieren Sie das Buch und nicht Google Books.
 
-For databases cited as secondary literature, as a convenience for our users you may cite the database in the **Bibliographic reference (691)** field and then provide a direct link to the entry in the database through the **External resource (856)** field.
+Bei Datenbanken, die als Sekundärliteratur zitiert werden, können Sie zur Vereinfachung für unsere Nutzer die Datenbank im Feld **Literaturverweis (691)** zitieren und dann über das Feld **Elektronische Lokalisierung und Zugriff (856)** einen direkten Link zum Eintrag in der Datenbank bereitstellen.
 
-If you wish to refer to a musical source that is digitized but not in RISM, contact the RISM Editorial Center to discuss having the source added.
+Wenn Sie auf eine digitalisierte Musikquelle verweisen möchten, die sich aber nicht in RISM befindet, wenden Sie sich an die RISM-Zentralredaktion, um die Aufnahme der Quelle zu besprechen.
 
 #### 4. Making identifications
 

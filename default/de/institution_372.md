@@ -1,19 +1,19 @@
-### Field of activity (372)
+### Tätigkeitsbereich (372)
 
-The field **Field of activity** is used to enter the area in which the institution is engaged, its area of competence, responsibility, etc. The field is repeated if the institution has multiple fields of activity for different time periods. The field is repeated if the institution has multiple fields of activity for different time periods.
+Das Feld **Tätigkeitsbereich** dient zur Angabe des Bereichs, in dem die Einrichtung tätig ist, ihres Zuständigkeitsbereichs, ihrer Verantwortung, usw. Das Feld wird wiederholt, wenn die Institution mehrere Tätigkeitsfelder für unterschiedliche Zeiträume hat.
 
-#### Field of activity (372 $a)
+#### Tätigkeitsbereich (372 $a)
 
-Enter the field of activity in which the institution is or was engaged.
+Geben Sie das Tätigkeitsfeld an, in dem die Institution tätig ist oder war.
 
-##### Example
+##### Beispiel
 
 - Music--Instruction and study
 
-#### Source of term (372 $2)
+#### Quelle des Begriffs (372 $2)
 
-Enter the code that identifies the source of a controlled vocabulary term for the field of activity.
+Geben Sie den Code ein, der die Quelle eines Begriffs aus dem kontrollierten Vokabular angibt, der für den Bereich der Tätigkeit verwendet wird.
 
-##### Example
+##### Beispiel
 
 - lcsh

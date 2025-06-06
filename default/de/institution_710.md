@@ -1,7 +1,7 @@
-### Related institution (710)
+### In Beziehung stehende Körperschaft (710)
 
-The field **Related institution** gives cross-references to other libraries or institutions that are related to the institution.
+Das Feld **In Beziehung stehende Körperschaft** gibt Querverweise auf andere Bibliotheken oder Institutionen, die mit der Institution zusammenhängen.
 
-#### Institution (710 $a)
+#### Körperschaft (710 $a)
 
-Enter the related institution. This field is linked to the **Institutions** authority file through $0.  
+Geben Sie die zugehörige Institution ein. Das Feld ist über $0 mit der Normdatei **Körperschaften** verknüpft.  

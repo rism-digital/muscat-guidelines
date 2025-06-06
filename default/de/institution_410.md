@@ -1,20 +1,20 @@
-### Other form of name (410; ISDIAH 5.1.4)
+### Andere Namensformen (410; ISDIAH 5.1.4)
 
-The field **Other form of name** is for any other name for the institution not given elsewhere.
+Das Feld **Andere Namensformen** ist für jede andere, nicht anderweitig angegebene Bezeichnung der Körperschaft vorgesehen.
 
-#### Other form of name (410 $a)
+#### Andere Namensformen (410 $a)
 
-Enter other forms of the name of the institution, including popular or non-official other names. This could include other forms of the same name, acronyms, names used in older publications (such as RISM volumes), or changes of name over time, including, if possible, relevant dates. Enter each name on a separate line.
+Geben Sie andere Namensformen der Körperschaft an, einschließlich populäre oder nicht amtliche Namen. Dies kann andere Formen desselben Namens, Akronyme, Namen, die in früheren Publikationen (z. B. RISM-Bänden) verwendet wurden, oder Namensänderungen im Laufe der Zeit einschließen (wenn möglich einschließlich relevanter Daten). Verwenden Sie für jeden Namen eine Zeile.
 
-##### Examples
+##### Beispiele
 
 - Parry Room Library  
-  _For Royal College of Music Library_
+  _für Royal College of Music Library_
 - Wolfson Lending Library  
-  _For Royal College of Music Library_
+  _für Royal College of Music Library_
 - Musik-Konservatoriets Bibliotek  
-  _For Norges musikkhøgskole, Biblioteket_
+  _für Norges musikkhøgskole, Biblioteket_
 - Gosudarstvennïy Istoricheskïyi Muzei  
-  _For Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossii_
-- ERESBIL - Euskal Ereslarien Bilduma [1974-2000] _For ERESBIL - Musikaren Euskal Artxiboa_
-- ERESBIL - Archivo de Compositores Vascos [1974-2000] _For ERESBIL - Musikaren Euskal Artxiboa_ 
+  _für Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossii_
+- ERESBIL - Euskal Ereslarien Bilduma [1974-2000]<0/> <1>für ERESBIL - Musikaren Euskal Artxiboa</1>
+- ERESBIL - Archivo de Compositores Vascos [1974-2000]<0/> <1>For ERESBIL - Musikaren Euskal Artxiboa</1> 

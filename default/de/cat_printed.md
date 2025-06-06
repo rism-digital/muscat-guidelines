@@ -138,7 +138,7 @@ A record must be split when there is evidence that multiple, distinct printed ed
 You can recognize the presence of distinct editions through conventions such as the following that will appear in the records.
 
 The field **Title on source (245)** will often mention multiple parts or several keys:
-- Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
+- Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
 - Divine harmony. Six select anthems … (Divine harmony. (Divine harmony. The 2\|d collection being select anthems ...)

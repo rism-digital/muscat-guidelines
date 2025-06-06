@@ -1,58 +1,58 @@
-### How do I ...? Tips & tricks
+### Wie kann ich ...? Tipps & Tricks
 
-#### 1. How can I add images to a record?
+#### 1. Wie kann ich einem Datensatz Bilder hinzufügen?
 
-Small images such as watermarks, handwriting samples, or bindings can be attached to the record directly from the editing mode: click on **Attach a new image** on the menu on the right. See the section **Digital objects** for more details.
+Kleine Bilder wie Wasserzeichen, Handschriftproben oder Einbände können direkt aus dem Bearbeitungsmodus an den Datensatz angehängt werden: Klicken Sie auf **Neues Bild hinzufügen** im Menü auf der rechten Seite. Weitere Details finden Sie im Abschnitt **Digitale Objekte**.
 
-Images such as digitized resources should only be added as URLs that link to the holding repository. These are added in the field **External resource (856)**.
+Bilder, wie z. B. digitalisierte Ressourcen, sollten nur als URLs hinzugefügt werden, die auf das jeweilige Repositorium verweisen. Diese werden im Feld **Elektronische Lokalisierung und Zugriff (856)** hinzugefügt.
 
-#### 2. How can I change the order of fields in my record?
+#### 2. Wie kann ich die Reihenfolge der Felder in meinem Datensatz ändern?
 
-It's quite simple: just click on the arrow and drag up or down. Any repeatable field (designated by a **+** sign) can be organized this way, such as items in a collection, incipits, names, instruments, notes, etc.
+Es ist ganz einfach: Klicken Sie einfach auf den Pfeil und ziehen Sie nach oben oder unten. Jedes wiederholbare Feld (gekennzeichnet durch ein **+**-Zeichen) kann auf diese Weise organisiert werden, z. B. Elemente in einer Sammlung, Incipits, Namen, Instrumente, Bemerkungen usw.
 
-#### 3. How can I add special characters?
+#### 3. Wie kann ich Sonderzeichen einfügen?
 
-Muscat supports Unicode (UTF-8), so make sure than any special characters are Unicode compliant. See, for example, [unicode-table.com](https://unicode-table.com/) for Unicode characters.
+Muscat unterstützt Unicode (UTF-8), stellen Sie daher sicher, dass alle Sonderzeichen Unicode-konform sind. Siehe z. B. [unicode-table.com](https://unicode-table.com/) für Unicode-Zeichen.
 
-#### 4. How can I create and use folders?
+#### 4. Wie kann ich Ordner erstellen und nutzen?
 
-Folders can be created from any of the search pages for sources or authorities in Muscat. Folders can aid searching, and folders can be used to perform bulk actions through the Folder view. Folder sizes are limited to 25,000 records.
+Ordner können von jeder beliebigen Suchseite für Quellen oder Normdaten in Muscat erstellt werden. Ordner können die Suche erleichtern und mit ihrer Hilfe können Sie über die Ordneransicht Massenaktionen durchführen. Die Ordnergröße ist auf 25.000 Datensätze begrenzt.
 
-##### Creating and adding to folders
-There are two ways to create folders. From the search page, select records by checking the box on the left next to each record. Under **Batch actions** above the list of records on the upper left, click on **Create folder with items**. Name the folder and click **OK.** From **Batch actions** you can also add records to an existing folder. This method enables up to 100 records (the maximum number of results on a search page) to be added to a new or existing folder. The record selection is preserved only on the current page of results.
+##### Erstellen und Hinzufügen von Ordnern
+Es gibt zwei Möglichkeiten zur Erstellung von Ordnern. Wählen Sie auf der Suchseite Datensätze aus, indem Sie das Kästchen links neben dem jeweiligen Datensatz aktivieren. Klicken Sie unter **Stapelverarbeitung** oberhalb der Liste der Datensätze links oben auf **Erstelle Ordner mit**. Benennen Sie den Ordner und klicken Sie auf **OK.** Über **Stapelverarbeitung** können Sie auch Datensätze zu einem bestehenden Ordner hinzufügen. Mit dieser Methode können bis zu 100 Datensätze (die maximale Anzahl von Ergebnissen auf einer Suchseite) zu einem neuen oder bestehenden Ordner hinzugefügt werden. Die Datensatzauswahl bleibt nur auf der aktuellen Seite der Ergebnisse erhalten.
 
-The second way to create a folder is to perform any search and then look for the **Actions** list on the right-hand side of the page. By clicking on **Add all to a new folder**, all results from the search will be added to a new folder. Name the folder and save. By clicking on **Add all to an existing folder,** you can select the folder from the list of folders. This method enables up to 25,000 records (a folder's maximum size) to be added to a folder.
+Die zweite Möglichkeit, einen Ordner zu erstellen, besteht darin, eine beliebige Suche durchzuführen und dann auf der rechten Seite nach der Liste **Aktionen** zu suchen. Wenn Sie auf **Erstelle Ordner** klicken, werden alle Ergebnisse der Suche zu einem neuen Ordner hinzugefügt. Benennen Sie den Ordner und speichern Sie ihn. Durch Klicken auf **Zu Ordner hinzufügen,** können Sie den Ordner aus der Liste der Ordner auswählen. Mit dieser Methode können bis zu 25.000 Datensätze (die maximale Größe eines Ordners) zu einem Ordner hinzugefügt werden.
 
-##### Searching with folders
+##### Suche mit Ordnern
 
-On the search page, the filters include a drop-down menu called **Is in folder.** Select your folder to limit results to records that are only in that folder.
+Auf der Suchseite enthalten die Filter ein Dropdown-Menü mit der Bezeichnung **Ist im Ordner.** Wählen Sie Ihren Ordner, um die Ergebnisse auf Datensätze zu beschränken, die sich nur in diesem Ordner befinden.
 
-##### Performing bulk actions
+##### Durchführen von Massenaktionen
 
-On the main Folders page, you can click **View** to view the contents of any folder, **Edit** to change the name of your folders, and **Delete** to delete the folder. (The records in the folder will not be deleted.)
+Auf der Hauptseite "Ordner" können Sie auf **Anzeigen** klicken, um den Inhalt eines beliebigen Ordners anzuzeigen, **Bearbeiten**, um den Namen Ihres Ordners zu ändern, und **Löschen**, um den Ordner zu löschen. (Die Datensätze im Ordner werden nicht gelöscht.)
 
-When viewing your folder, the **Publish** button will change the status of the records from unpublished to published. You can also **Export** the contents of the folder as MARCXML or a CSV file, which is sent by email. **Validate** runs the records through Muscat's standard validation and the report is sent by email.
+Wenn Sie Ihren Ordner ansehen, ändert die Schaltfläche **Veröffentlichen** den Status der Datensätze von unveröffentlicht zu veröffentlicht. Sie können den Inhalt des Ordners auch **Exportieren** als MARCXML- oder CSV-Datei, die per E-Mail verschickt wird. **Ordner validieren** lässt die Datensätze durch die Standardvalidierung von Muscat laufen und der Bericht wird per E-Mail verschickt.
 
-##### Managing folders
+##### Ordner verwalten
 
-Muscat folders are visible to all Muscat users. Links to folders can be sent to other catalogers. Folders expire after six months, but the expiration date can be reset in the folder view.
+Muscat-Ordner sind für alle Muscat-Nutzer sichtbar. Links zu Ordnern können an andere Katalogisierer gesendet werden. Ordner verfallen nach sechs Monaten, aber das Ablaufdatum kann in der Ordneransicht zurückgesetzt werden.
 
-#### 5. How can I export records from Muscat?
+#### 5. Wie kann ich Datensätze aus Muscat exportieren?
 
-There are several ways retrieve Muscat records in various formats. Single records can be viewed in XML format by appending **.xml** to any record's URL in the full record view or by clicking the **Show XML** button from the menu on the right-hand side of the page. The MARC21 format can be displayed by clicking the **Show MARC21** button from the menu. You can also create a folder of records and export them in MARCXML or CSV format (see question 4, above).
+Es gibt mehrere Möglichkeiten, Muscat-Datensätze in verschiedenen Formaten abzurufen. Einzelne Datensätze können im XML-Format angezeigt werden, indem Sie **.xml** an die URL eines Datensatzes in der vollständigen Datensatzansicht anhängen oder auf die Schaltfläche **MARCXML view** im Menü rechts auf der Seite klicken. Das MARC21-Format kann durch Anklicken des Buttons **MARC21 view** im Menü angezeigt werden. Sie können auch einen Ordner mit Datensätzen erstellen und diese im MARCXML- oder CSV-Format exportieren (siehe Frage 4 oben).
 
-#### 6. How can I check for errors in older records?
+#### 6. Wie kann ich ältere Datensätze auf Fehler überprüfen?
 
-When viewing one of your own folders, click the **Validate items** link. You will receive an email with a list of validation errors found.
+Wenn Sie einen Ihrer eigenen Ordner anzeigen, klicken Sie auf den Link **Ordner validieren**. Sie erhalten dann eine E-Mail mit einer Liste der gefundenen Validierungsfehler.
 
-#### 7. How can I include more complex music incipits with my records?
+#### 7. Wie kann ich meinen Datensätzen komplexere Musikincipits beifügen?
 
-If you create a music incipit with an external program (such as a full score in Sibelius) and convert it to MEI, the MEI file can be uploaded to Muscat. Currently, only the Editorial Center can do this; contact us for assistance. This will be displayed as an image in the online catalog. A separate Plaine & Easie incipit must be made in order for the incipit to be searchable.
+Wenn Sie ein Musik-Inzipit mit einem externen Programm erstellen (z. B. eine Gesamtpartitur in Sibelius) und es in MEI konvertieren, kann die MEI-Datei in Muscat hochgeladen werden. Derzeit kann dies nur die Zentralredaktion tun; wenden Sie sich an uns, wenn Sie Hilfe benötigen. Diese werden im Online-Katalog als Bild angezeigt. Ein separates Plaine & Easie-Incipit muss erstellt werden, damit das Incipit durchsuchbar ist.
 
-#### 8. How can I delete a record?
+#### 8. Wie kann ich einen Datensatz löschen?
 
-Only the Editorial Center can delete a record. Notify the RISM Editorial Center if you need to delete a record, including holdings information.
+Nur die Zentralredaktion kann einen Datensatz löschen. Benachrichtigen Sie die RISM-Zentralredaktion, wenn Sie einen Datensatz löschen müssen, einschließlich Bestandsinformationen.
 
-#### 9. What if my record is in the wrong template?
+#### 9. Was ist, wenn sich mein Datensatz in der falschen Vorlage befindet?
 
-Templates can be changed, but only the Editorial Center can do this. Notify the RISM Editorial Center if you need the template of a record to be switched.
+Templates können geändert werden, aber nur die Zentralredaktion kann dies tun. Benachrichtigen Sie das RISM-Zentralredaktion, wenn Sie die Vorlage eines Datensatzes ändern möchten.
