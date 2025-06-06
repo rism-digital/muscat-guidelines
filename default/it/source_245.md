@@ -6,7 +6,7 @@ The field **Title on source** is for a diplomatic transcription of the title as 
 
 **Required field.**
 
-Enter the title exactly as it appears on the source (the diplomatic title). In practice, this may include all information on the title page, such as the composer's name or other indications. For printed music, include everything on the title page including the imprint.
+Enter the title exactly as it appears on the source (the diplomatic title). In practice, this may include all information on the title page, such as the composer's name or other indications. For printed music, include everything on the title page including the imprint. Do not omit information by using ellipsis.
 
 Transcribe the title in its entirety. Do not abbreviate. Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Repeated letters indicated by a macron diacritic may be written out: m[m] Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Repeated letters indicated by a macron diacritic may be written out: m[m] Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o .
 
