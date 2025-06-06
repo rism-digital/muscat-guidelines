@@ -6,7 +6,7 @@ Das Feld **Diplomatischer Titel** dient der diplomatischen Transkription des in 
 
 **Pflichtfeld.**
 
-Geben Sie den Titel genau so an, wie er auf der Quelle erscheint (der diplomatische Titel). Praktisch kann dies alle Informationen auf der Titelseite umfassen, wie Komponistennamen oder andere Angaben. Bei Musikdrucken werden alle Angaben der Titelseite (incl. Impressum) erfasst.
+Geben Sie den Titel genau so an, wie er auf der Quelle erscheint (der diplomatische Titel). Praktisch kann dies alle Informationen auf der Titelseite umfassen, wie Komponistennamen oder andere Angaben. Bei Musikdrucken werden alle Angaben der Titelseite (incl. Impressum) erfasst. Do not omit information by using ellipsis.
 
 Bitte kürzen Sie den Titel nicht ab. Bitte kürzen Sie den Titel nicht ab. Zeilenumbrüche werden durch **\|** (gerader Strich) mit einem Leerzeichen davor und danach kenntlich gemacht. Für Hochstellungen wird dasselbe Zeichen **\|** verwendet, allerdings ohne Leerzeichen. Jedem Zeichen, das hochgestellt werden soll, muss ein \| vorangestellt werden, wie bei: 1\|m\|o. Buchstabenwiederholungen, die durch ein diakritisches Makron gekennzeichnet sind, können ausgeschrieben werden: m[m]. Buchstabenwiederholungen, die durch ein diakritisches Makron gekennzeichnet sind, können ausgeschrieben werden: m[m].
 
