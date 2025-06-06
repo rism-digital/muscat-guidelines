@@ -118,7 +118,7 @@ Einordnungstitel — Korrespondierendes Schlagwort
    **Chorale arrangements** als Einordnungstitel und Schlagwort verwenden.
 
 3. Ein Potpourri, bei dem man weiß, dass die Musik aus einer einzigen Oper stammt:  
-   Sie brauchen diese Liste nicht! Verwenden Sie den Namen der Oper als Einordungstitel und wählen Sie **Ausschnitte** und **Bearbeitung**. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
+   Sie brauchen diese Liste nicht! Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein. Verwenden Sie den Namen der Oper als Einordungstitel und wählen Sie **Ausschnitte** und **Bearbeitung**.
 
 4. Ein Potpourri von dem Sie wissen, dass die Musik aus mehreren Opern stammt:  
    Verwenden Sie **Potpourri** als Einordnungstitel. Geben Sie die Namen der Opern im Feld **Alternativer Ttitel (730)** ein. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
