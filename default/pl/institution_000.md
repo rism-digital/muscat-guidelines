@@ -1,5 +1,5 @@
-### Leader (000)
+### Lider (000)
 
-**Do not change.**
+**Nie zmieniaj.**
 
-The field **Leader** consists of data elements that contain numbers or coded values that define the parameters for the processing of the record. It is automatically generated.  
+Pole **Lider** składa się z elementów danych, które zawierają liczby lub wartości zakodowane, które definiują parametry przetwarzania rekordu. Pole generowane jest automatycznie.  
