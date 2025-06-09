@@ -118,13 +118,13 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
    Wybierz **Chorale arrangements** zarówno dla tytułu ujedoliconego jak i hasła przemiotowego.
 
 3. Jeśli kompozycją źródłową dla potpourri jest pojedyncza opera:  
-   Nie potrzebujesz tej listy! W ramach hasła przedmiotowego wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach). Wprowadź tytuł opery jako tytuł ujednolicony i wybierz **Wyjątki** oraz ** Aranżacja**.
+   Nie potrzebujesz tej listy! W tytule ujednoliconym wprowadź tytuł opery i wyberz **Wyjątki** oraz **Aranżacja**. W ramach hasła przedmiotowego wprowadź **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach).
 
-4. A potpourri where you know that the music comes from several operas:  
-   Use **Potpourri** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+4. W przypadku potpourri do którego muzyka pochodzi z wielu oper:  
+   Wybierz w ramach pola tytuł ujednolicony **Potpourri**. Wprowadź tytuły oper w polu **Tytuł dodatkowy (730)**. Dla pola hasło przedmiotowe wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach).
 
-5. A potpourri where you do not know what operas the music is from:  
-   Use **Potpourris** as both the standardized title and subject heading.
+5. W sytaucji kiedy nie znasz źródła muzyki dla potpourri:  
+   Wybierz **Potpourris** zarówno w polach tytuł ujednolicony jak i hasło przedmiotowe.
 
 6. A wind arrangement of music from a stage work where the name of the stage work is known:  
    Use the name of the stage work as the standardized title and select **Arrangement**. Enter the subject heading **Wind music**.
