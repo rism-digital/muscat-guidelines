@@ -1,7 +1,7 @@
-### Country code (043)
+### Kod kraju (043)
 
-The field **Country code** is used for the country in which the institution is located.
+Pole **Kod kraju** jest używany dla kraju, w którym znajduje się instytucja.
 
-#### Country code (043 $c)
+#### Kod kraju (043 $c)
 
-Select the country from the list. 
+Wybierz kraj z listy. 
