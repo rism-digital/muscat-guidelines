@@ -1,19 +1,19 @@
-### Location (034)
+### Lokalizacja (034)
 
-The field **Location** is for the latitude and longitude of an institution. On Google Maps, the coordinates are displayed when you right-click on the institution and select "What's here."
+Pole **Lokalizacja** służy oznaczeniu szerokości i długości geograficznej instytucji. A Mapach Google współrzędne wyświetlają się po kliknięciu prawym przyciskiem myszy na instytucję i wybraniu opcji „Co tu jest”.
 
-#### Latitude (034 $f)
+#### Szerokość (034 $f)
 
-Enter the latitude of the institution.
+Wprowadź szerokość geograficzną instytucji.
 
-#### Longitude (034 $d)
+#### Długość (034 $d)
 
-Enter the longitude of the institution.
+Wprowadź długość geograficzną instytucji.
 
-##### Examples
+##### Przykłady:
 
-- Latitude: 42.0515515
-- Longitude: -87.6735541
+- Szerokość geograficzna: 42.0515515
+- Długość geograficzna: -87.6735541
 
-- Latitude: 50.120565
-- Longitude: 8.652714
+- Szerokość geograficzna: 50.120565
+- Długość geograficzna: 8.652714
