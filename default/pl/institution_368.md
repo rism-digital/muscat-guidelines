@@ -1,10 +1,10 @@
-### Type of institution (368; ISDIAH 5.1.5)
+### Typ instytucji (MARC 368 $a; ISDIAH 5.1.5)
 
-The field **Type of institution** records other attributes of the institution.
+Pole **Typ instytucji** służy do wskazania innych atrybutów instytucji.
 
-#### Type of institution (368 $a)
+#### Typ instytucji (368 $a)
 
-Enter the type of institution. Select from the following types:
+Wybierz typ instytucji. Należy wybrać spośród następujących:
 
 - Archive
 - Bookseller
