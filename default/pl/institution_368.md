@@ -6,35 +6,35 @@ Pole **Typ instytucji** służy do wskazania innych atrybutów instytucji.
 
 Wybierz typ instytucji. Należy wybrać spośród następujących:
 
-- Archive
-- Bookseller
-- Congress
-- Copyist
-- Documentation center
-- Institution
-- Library
-- Museum
-- Other
-- Papermaker
-- Performer
-- Printer
-- Publisher
-- Research institute
+- Archiwum
+- Księgarnia
+- Kongres
+- Kopista
+- Centrum dokumentacji
+- Nazwa instytucji
+- Biblioteka
+- Muzeum
+- Inne
+- Wytwórca papieru
+- Wykonawca
+- Drukarnia
+- Wydawca
+- Instytut naukowy
 
 
-#### Type of jurisdiction (368 $b)
+#### Typ jednostki geograficznej (368 $b)
 
-Enter the type of jurisdiction associated with the institution.
+Wprowadź typ jednostki geograficznej związanej z instytucją.
 
-##### Examples
+##### Przykłady:
 
-- County
-- Village
+- hrabstwo
+- wieś
 
-#### Other designation (368 $c)
+#### Inne oznaczenie związane z hasłem (368 $c)
 
-Enter a designation here if not found in the previous fields in this section.
+Podaj określenie, jeśli nie pojawiło się we wcześniejszych polach tej sekcji.
 
-#### Source of term (368 $2)
+#### Źródło dla zastosowanego terminu (368 $2)
 
-Enter the source of the terms used.
+Wprowadź źródło zastosowanych terminów.
