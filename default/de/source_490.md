@@ -1,10 +1,10 @@
-### Periodical or series (490)
+### Zeitschrift oder Reihe (490)
 
-The field **Periodical or series** is for the name of the periodical or series title of which the source is a part. It is linked to the **Titles/Text incipits** index through $0.
+Das Feld **Zeitschrift oder Reihe** dient zur Angabe des Titels der Zeitschrift oder Reihe, zu der die Quelle gehört. Es ist über $0 mit dem Index **Titel / Textincipits** verknüpft.
 
-#### Periodical or series title (490 $a)
+#### Zeitschrift oder Reihentitel (490 $a)
 
-Enter the name of the periodical or series title.
+Geben Sie den Titel der Zeitschrift oder Reihe ein.
 
 ##### Beispiele
 
@@ -12,12 +12,12 @@ Enter the name of the periodical or series title.
 - Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten
 - Nouveau Mercure galant
 - The Lady's Magazine
-- Répertoire des Clavecinistes
+- Répertoire des Clavecinistes
 - Journal d'ariettes italiennes
 
-#### Number/volume (490 $v)
+#### Nummer/Band (490 $v)
 
-Enter the number, volume, or other sequential designation used in the title of the series. Use the numbering or volume designations as they appear on the source.
+Geben Sie die Nummer, den Band oder eine andere fortlaufende Bezeichnung an, die im Titel der Reihe verwendet wird. Verwenden Sie die Nummerierung oder die Bandbezeichnungen so, wie sie auf der Quelle erscheinen.
 
 ##### Beispiele
 
