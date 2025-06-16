@@ -6,7 +6,7 @@ Das Feld **Provenienzvermerk** dient der Information über die Eigentumsverhält
 
 In diesem Feld werden allgemeine Hinweise zur Herkunft der Quelle sowie zu Eigentumsrechten eingetragen. Verwenden Sie Ihre Katalogisierungssprache.
 
-If ownership marks are present on the source, enter them exactly as they appear on the source, in quotation marks. Geben Sie an, wo auf der Quelle diese Angaben zu finden sind. Standardisierte Angaben der Personennamen werden im Feld **Nebeneintragung Personen (700)** und für Institutionen in **Nebeneintragung Körperschaften (710)** gemacht. Hinweis: Informationen darüber, wie die besitzende Institution die vorliegende Quelle erwarb, werden im Feld **Beschaffungsquelle (541)** eingegeben.
+Sind Besitzangaben auf der Quelle vorhanden, werden sie als Zitat wiedergegeben. Geben Sie an, wo auf der Quelle diese Angaben zu finden sind. Standardisierte Angaben der Personennamen werden im Feld **Nebeneintragung Personen (700)** und für Institutionen in **Nebeneintragung Körperschaften (710)** gemacht. Hinweis: Informationen darüber, wie die besitzende Institution die vorliegende Quelle erwarb, werden im Feld **Beschaffungsquelle (541)** eingegeben.
 
 ##### Beispiele
 
