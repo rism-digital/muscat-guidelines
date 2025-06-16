@@ -4,7 +4,7 @@ Pole **Inny identyfikator znormalizowany ** jest używane do zapisywania standar
 
 #### Numer lub kod (024 $a)
 
-Wprowadzić alfanumeryczny kod stosowany do identyfikacji instytucji. Kod ma być kodem autorytatywnym pobranym od uprawnionej agencji. Przykłady formatowania podano poniżej.
+Kod ma być kodem autorytatywnym pobranym od uprawnionej agencji. Wprowadzić alfanumeryczny kod stosowany do identyfikacji instytucji. Przykłady formatowania podano poniżej.
 
 #### Warunki dostępności (024 $c)
 
