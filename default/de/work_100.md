@@ -1,7 +1,7 @@
-### Heading (100)
-The field **Heading** is for the identification of the main person involved as the author, in its broadest sense, of the work.
+### Ansetzungsform (100)
+Das Feld **Ansetzungsform** dient der Identifizierung der Hauptperson, die im weitesten Sinne der Autor des Werkes ist.
 
-#### Composer (100 $a)
+#### Komponist (100 $a)
 
 Enter the name of the person responsible for the work.
 
