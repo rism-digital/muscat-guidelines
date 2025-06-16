@@ -1,3 +1,3 @@
-### Date of creation (046)
+### Datum der Erstellung (046)
 
-(Guidelines in progress.)
+(Richtlinien in Vorbereitung.)

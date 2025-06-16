@@ -1,3 +1,3 @@
-### Related work (530)
+### Zugehörige Werke (530)
 
-(Guidelines in progress.)
+(Richtlinien in Vorbereitung.)

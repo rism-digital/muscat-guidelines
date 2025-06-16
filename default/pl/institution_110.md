@@ -1,14 +1,14 @@
-### Institution (110; ISDIAH 5.1.2)
+### Instytucja (MARC 110 $a; ISDIAH 5.1.2)
 
-The field **Institution** is for an authorized access point that uniquely identifies the institution.
+Pole **Instytucja** stanowi autoryzowany punkt dostępu, który jednoznacznie identyfikuje instytucję ze zbiorami.
 
-#### Institution (110 $a)
+#### Instytucja (110 $a)
 
-Enter the current name of the institution in the local language. If the local language is in a non-Latin alphabet, write it in transliterated form.
+Wpisać bieżącą nazwę instytucji w języku lokalnym. Jeśli język oryginalny posiada alfabet inny niż łaciński, należy wpisać jej transliterację.
 
-When libraries, archives or documentation centers belong to a larger institution, enter the name of the larger institution first and add the subordinate unit separated by a comma.
+Jeżeli biblioteki, archiwa lub centra dokumentacji należą do większej instytucji, należy najpierw wpisać nazwę większej instytucji i następnie dodać podległą jej jednostkę, oddzieloną przecinkiem.
 
-##### Examples
+##### Przykłady:
 
 - Privatsammlung Cees Verheijen
 - Private collection Christopher Hogwood
@@ -17,10 +17,10 @@ When libraries, archives or documentation centers belong to a larger institution
 - ERESBIL - Musikaren Euskal Artxiboa
 - Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossi
 
-#### Subordinate unit (110 $b)
+#### Nazwa jednostki podrzędnej (110 $b)
 
-Enter the name of the subordinate unit of the institution.
+Należy podać nazwę jednostki podrzędnej instytucji.
 
-#### Place (110 $c)
+#### Miejsce (110 $c)
 
-Enter the city of the institution. If the original language is in a non-Latin alphabet, write it in transliterated form.
+Wprowadzić nazwę miasta, w którym znajduje się instytucja. Jeśli język oryginalny posiada alfabet inny niż łaciński, należy wpisać jej transliterację.

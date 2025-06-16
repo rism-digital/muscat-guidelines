@@ -1,13 +1,13 @@
-### Cataloging agency (040)
+### Źrodło katalogowania (040)
 
-The field **Cataloging source** indicates the organization that created the original record.
+Pole **Źrodło katalogowania** wskazuje na instytucje, która stworzyła rekord.
 
-#### Cataloging language (040 $b)
+#### Język katalogowania (040 $b)
 
-Indicate your cataloging language. Select from the following.
-- English
-- French
-- German
-- Italian
-- Portuguese
-- Spanish
+Wybierz swój język katalogowania. Wybierz z dostępnych poniżej.
+- Angielski
+- Francuski
+- Niemiecki
+- Włoski
+- Portugalski
+- Hiszpański

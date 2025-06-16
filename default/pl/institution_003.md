@@ -1,3 +1,3 @@
-### Control number identifier (003)
+### Identyfikator numeru kontrolnego (003)
 
-The field **Control number identifier** gives the code for the agency whose system control number is contained in the field **RISM ID number (001)**. For new records, this is always RISM, so the ISIL code for RISM is automatically generated: DE-633
+Pole **Identyfikator numeru kontrolnego (003)** służy do podania kodu instytucji, której systemowy numer kontrolny znajduje się w polu **Numeru identyfikacyjnego RISM (001)**. W przypadku nowych rekordów jest to zawsze RISM, więc kod ISIL dla RISM jest automatycznie generowany: DE-633.

@@ -1,3 +1,3 @@
-### Liturgical festival (547)
+### Liturgische Feste (547)
 
-(Guidelines in progress.)
+(Richtlinien in Vorbereitung.)

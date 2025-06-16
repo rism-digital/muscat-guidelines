@@ -1,23 +1,23 @@
-### Other standard identifier (024)
+### Normdatenverweise (024)
 
-The field **Other standard identifier** is for alphanumeric codes that refer to a work created by another agency.
+Das Feld **Normdatenverweise** ist für alphanumerische Codes, die auf ein Werk einer anderen Agentur verweisen.
 
-#### Standard number or code (024 $a)
+#### Normdatenverweise Nummer (024 $a)
 
-Enter the alphanumeric code used to identify the work. The code is taken from the authority data of the creating agency.
+Geben Sie den alphanumerischen Code zur Identifizierung des Werkes an. Der Code wird aus den Normdaten der erstellenden Agentur übernommen.
 
-#### Source of number or code (024 $2)
+#### Normdatenagentur (024 $2)
 
 Geben Sie die Agentur ein, die die ID oder den Code erstellt hat. Es steht eine Auswahlliste zur Verfügung. Folgende Angaben sind möglich:
 
-- **BNE**: Biblioteca Nacional de España
+- **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
 - **DNB**: Deutsche Nationalbibliothek
 - **ICCU**: Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI**: International Standard Name Identifier
 - **LC**: Library of Congress
 - **NLP**: Biblioteka Narodowa
-- **NKC**: Národní knihovna České republiky
+- **NKC**: Národní knihovna České republiky
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
 - **WKP**: Wikidata  

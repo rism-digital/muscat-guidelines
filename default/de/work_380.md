@@ -1,7 +1,7 @@
-### Subject heading (380)
+### Schlagworteintragung (380)
 
-The field **Subject heading** is for the genre of the work.
+Das Feld **Schlagworteintragung** ist für das Gattung des Werks.
 
-#### Subject heading (380 $a)
+#### Schlagworteintragung (380 $a)
 
-(Guidelines in progress.)
+(Richtlinien in Vorbereitung.)

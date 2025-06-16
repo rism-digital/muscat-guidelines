@@ -1,4 +1,4 @@
-### Häufig gestellte Fragen (F. A. Q.)
+### Häufig gestellte Fragen (F.A.Q.)
 
 In diesem Abschnitt finden Sie Informationen über Muscat, die nicht im Zusammenhang mit den Katalogisierungsrichtlinien stehen.
 
@@ -10,14 +10,14 @@ Alle Tutorials sind auf der Muscat-Seite des [RISM Editorial Center](https://ris
 
 Sie können sich jederzeit mit Fehlern, Fragen, Kommentaren oder Vorschlägen an die Muscat-Entwickler unter [muscat@rism.info](mailto:muscat@rism.info) wenden.
 
-**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)** ist eine Google-Gruppe und die offizielle Muscat-Diskussionsliste, der alle Muscat-Nutzer angehören. Offizielle Ankündigungen des Zentralredaktion sowie der Muscat-Entwickler werden ausschließlich über diese Gruppe veröffentlicht. Darüber hinaus werden alle Muscat-Nutzer ermutigt, Fragen zu stellen oder Themen zur Diskussion zu stellen. Ein Google-Konto ist nicht erforderlich.
+**[RISM Muscat](https://groups.google.com/forum/#!forum/rism-muscat)** ist eine Google-Gruppe und die offizielle Muscat-Diskussionsliste, der alle Muscat-Nutzer angehören. Offizielle Ankündigungen der Zentralredaktion sowie der Muscat-Entwickler werden ausschließlich über diese Gruppe veröffentlicht. Darüber hinaus werden alle Muscat-Nutzer ermutigt, Fragen oder Themen zur Diskussion zu stellen. Ein Google-Konto ist nicht erforderlich.
 
 Es gibt auch einen Diskussionskanal für die RISM-Gemeinschaft auf Slack unter:   
 [https://rismcommunity.slack.com/](https://rismcommunity.slack.com/)
 
 #### 3. Ist die gesamte in Muscat zitiert Sekundärltieratur in der Zentralredaktkion vorhanden?
 
-Nein, nur die Literatur, die in einem internen Vermerk (599 $a) mit „HB“, „Handbibliothek“ oder „RISM-ZR“ gekennzeichnet ist, befindet sich tatsächlich in der Zentralredaktion. Diese Materialien stehen allen RISM-Mitarbeitern zur Verfügung. Wenn Sie eine Publikation einsehen möchten, lassen Sie es uns wissen. Wir werden versuchen, sie für Sie zu besorgen. Wenn Sie sich für eine Publikation interessieren, die wir nicht im Büro haben, lassen Sie es uns wissen. Wir werden dann versuchen, Ihnen Zugang dazu zu verschaffen. Wenn Sie sich für eine Publikation interessieren, die wir nicht im Büro haben, lassen Sie es uns wissen. Wir werden dann versuchen, Ihnen Zugang dazu zu verschaffen.
+Nein, nur die Literatur, die in einem internen Vermerk (599 $a) mit „HB“, „Handbibliothek“ oder „RISM-ZR“ gekennzeichnet ist, befindet sich tatsächlich in der Zentralredaktion. Diese Materialien stehen allen RISM-Mitarbeitern zur Verfügung. Wenn Sie eine Publikation einsehen möchten, lassen Sie es uns wissen. Wir werden versuchen, sie für Sie zu besorgen. Wenn Sie sich für eine Publikation interessieren, die wir nicht im Büro haben, lassen Sie es uns wissen. Wir werden dann versuchen, Ihnen Zugang dazu zu verschaffen.
 
 #### 4. Was muss ich tun, wenn ich mein Passwort vergessen habe oder es ändern möchte?
 
@@ -29,7 +29,7 @@ Ja, das können Sie gerne tun. Ein Trainingsserver von Muscat ist für genau die
 
 #### 6. Was bedeutet es, wenn in der Änderungsgeschcihte „[system]“ als Autor aufgeführt ist?
 
-Dies ist eine Änderung durchdas System. Sie sehen eine Systembearbeitung, wenn eines der mit Ihrem Datensatz verknüpften indizierten Felder geändert wurde. Eine Änderung im Normdatensatz wird als Änderung in Ihrem Datensatz registriert. Auch Änderungen, die durch Wartungsskripte vorgenommen werden, werden als Systemänderungen registriert.
+Dies ist eine Änderung durch das System. Sie sehen eine Systembearbeitung, wenn eines der mit Ihrem Datensatz verknüpften indizierten Felder geändert wurde. Eine Änderung im Normdatensatz wird als Änderung in Ihrem Datensatz registriert. Auch Änderungen, die durch Wartungsskripte vorgenommen werden, werden als Systemänderungen registriert.
 
 #### 7. Wo werden die Muscat-Datensätze veröffentlicht?
 
@@ -39,7 +39,7 @@ Außerhalb von Muscat sind veröffentlichte Muscat-Datensätze über den [SRU-Do
 
 #### 8. Wann erscheinen die Muscat-Datensätze in den öffentlichen Katalogen?
 
-The [RISM Catalog](https://opac.rism.info/) is updated once a month after the first of each month. Die Datensätze werden dann einige Tage später angezeigt. [RISM Online](https://rism.online/) is updated once a day.
+Der [RISM Catalog](https://opac.rism.info/) wird einmal im Monat nach dem Ersten eines jeden Monats aktualisiert. Die Datensätze werden dann einige Tage später angezeigt. [RISM Online](https://rism.online/) wird einmal pro Tag aktualisiert.
 
 #### 9. Was geschieht, wenn sich eine Quelle in RISM nicht mehr im Besitz der im RISM-Datensatz angegebenen besitzenden Institution befindet?
 

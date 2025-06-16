@@ -1,3 +1,3 @@
-### General note (680)
+### Bemerkungen (680)
 
-Any information on a work which could not be entered in other fields can be given here. Enter using your cataloging language.  
+Alle Informationen zu einem Werk, die nicht in anderen Feldern eingegeben werden konnten, können hier eingetragen werden. Verwenden Sie Ihre Katalogisierungssprache.  

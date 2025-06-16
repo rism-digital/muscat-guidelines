@@ -1,43 +1,43 @@
-### Authority reference (024)
+### Inny identyfikator znormalizowany (024)
 
-The field **Authority reference** is used to record the standard number or code or URI associated with the institution.
+Pole **Inny identyfikator znormalizowany ** jest używane do zapisywania standardowego numeru lub kodu lub URI powiązanych z instytucją.
 
-#### Authority reference (024 $a)
+#### Numer lub kod (024 $a)
 
-The code is taken from the authority data of the creating agency. Enter the alphanumeric code used to identify the institution. Examples of the formatting are given below.
+Wprowadzić alfanumeryczny kod stosowany do identyfikacji instytucji. Kod ma być kodem autorytatywnym pobranym od uprawnionej agencji. Przykłady formatowania podano poniżej.
 
-#### Terms of availability (024 $c)
+#### Warunki dostępności (024 $c)
 
-Enter the terms of availability and/or qualifying information about availability.
+Wprowadź warunki dostępności i/lub informacje kwalifikujące dostępność.
 
-#### Additional codes following the standard number or code (024 $d)
+#### Dodatkowe kody następujące po znormalizowanym numerze lub kodzie (024 $d)
 
-Enter any optional digits carried to the right of the number or code.
+Wprowadź opcjonalnie cyfry znajdujące się po prawej stronie numeru lub kodu.
 
-#### Qualifying information (024 $q)
+#### Informacje kwalifikacyjne (024 $q)
 
-Enter a brief statement of qualifying information concerning the item associated with a number being recorded in subfield $a or $z.
+Wprowadzić krótką informację kwalifikacyjną dotyczącą pozycji związanej z liczbą zapisywaną w podpolu $a lub $z.
 
-#### Canceled/invalid standard number or code (024 $z)
+#### Unieważniony numer lub kod (024 $z)
 
-Enter a canceled or invalid standard number or code.
+Wprowadzić unieważniony lub nieprawidłowy znormalizowany identyfikator.
 
-#### Authority record control number or standard number (024 $0)
+#### Numer kontrolny hasła wzorcowego lub znormalizowany numer (024 $0)
 
-Enter a machine actionable and parsable URI that identifies a name or label for the institution.
+Wprowadzić działający i analizowalny identyfikator URI, który określa nazwę lub etykietę instytucji.
 
-#### Real world object URI (024 $1)
+#### Identyfikator URI dla obiektów świata rzeczywistego (024 $1)
 
-Enter the URI that identifies the institution.
+Wprowadzić identyfikator URI, który identyfikuje Instytucję.
 
-#### Source of number or code (024 $2)
+#### Źródło kodu lub numeru podanego w podpolu (024 $2)
 
-Enter the agency that created the standard number or code. Select from the following:
+Wprowadź agencję, która utworzyła standardowy numer lub kod. Wybrać spośród następujących:
 
 - **ISIL**: International Standard Identifier for Libraries and Related Organisations
-- **BNE**: Biblioteca Nacional de España
+- **BNE**: Biblioteca Nacional de España
 - **BNF**: Bibliothèque nationale de France
- - Example: ark:/12148/cb12229245w
+ - Przykład: ark:/12148/cb12229245w
 - **DNB**: Deutsche Nationalbibliothek
 - **ICCU**: Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI**: International Standard Name Identifier
@@ -49,12 +49,12 @@ Enter the agency that created the standard number or code. Select from the follo
 - **WKP**: Wikidata (Wikipedia)
 - **MOC**: MARC Organization Code
 
-#### Linkage (024 $6)
+#### Powiązanie (024 $6)
 
-Enter data that links fields that are different script representations of each other.
+Wprowadź dane, które łączą pola, które są różnymi reprezentacjami skryptów.
 
-#### Field link and sequence number (024 $8)
+#### Powiązanie pola i numer sekwencji (024 $8)
 
-Enter data that identifies linked fields.
+Wprowadź dane, które identyfikują powiązane pola.
 
-**Obsolete procedures**: In earlier versions of Muscat, the GND (DNB) code appeared in 035. This was removed in 2016 and integrated into 024.
+**Przestarzałe procedury**: We wcześniejszych wersjach Muscat kod GND (DNB) wstępował w polu 035. Został usunięty w 2016 r. i włączony do pola 024.

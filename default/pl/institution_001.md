@@ -1,3 +1,3 @@
-### RISM ID number (001)
+### Numer identyfikacyjny RISM (001)
 
-The field **RISM ID number** is the permanent RISM identifier for the record. This number is automatically generated and cannot be changed.
+Pole **Numer identyfikacyjny RISM ** jest trwałym identyfikatorem RISM dla rekordu. System generuje numer automatyczne i nie można go zmienić.
