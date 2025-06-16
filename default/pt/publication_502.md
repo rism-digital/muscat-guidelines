@@ -8,5 +8,5 @@ Enter a statement that includes the type of degree, institution, and year.
 
 ##### Examples
 
-- Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. diss., University College, London 1998
+- Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. Ph.D. diss., University College, London 1998
 - Diss., Freie Universität, Berlin 2002
