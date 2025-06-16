@@ -118,7 +118,7 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
    Wybierz **Chorale arrangements** zarówno dla tytułu ujedoliconego jak i hasła przemiotowego.
 
 3. Jeśli kompozycją źródłową dla potpourri jest pojedyncza opera:  
-   Nie potrzebujesz tej listy! W tytule ujednoliconym wprowadź tytuł opery i wyberz **Wyjątki** oraz **Aranżacja**. W ramach hasła przedmiotowego wprowadź **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach).
+   Nie potrzebujesz tej listy! W ramach hasła przedmiotowego wprowadź **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach). W tytule ujednoliconym wprowadź tytuł opery i wyberz **Wyjątki** oraz **Aranżacja**.
 
 4. W przypadku potpourri do którego muzyka pochodzi z wielu oper:  
    Wybierz w ramach pola tytuł ujednolicony **Potpourris**. Wprowadź tytuły oper w polu **Tytuł dodatkowy (730)**. Dla pola hasło przedmiotowe wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach).
