@@ -15,11 +15,11 @@ Wenn sich der Eintrag auf eine Institution bezieht, z. B. auf Kataloge von Samml
 - p. 95-97: "Appendix 4. Selected works"
 - S. 250-263: Werksverzeichnis (ohne Incipits)
 
-This field is also used to define the method for citing a thematic catalog or catalog of works. This ensures that the catalog cited in a uniform way throughout the database. When determining the citation form, keep in mind the style and outline of the catalog. Give examples that reflect the variety of kinds of works in the catalog. Only use page numbers as a last resort.
+Dieses Feld wird auch verwendet, um die Zitierweise eines thematischen Katalogs oder Werkverzeichnisses zu definieren. Dadurch wird eine einheitliche Zitierweise des Katalogs in der gesamten Datenbank sichergestellt. Berücksichtigen Sie beim Festlegen der Zitierweise die Gliederung des Katalogs oder Verzeichnisses. Nennen Sie bitte Beispiele, die die Vielfalt der Werke im Katalog widerspiegeln. Seitenzahlen sollten nur im absoluten Notfall verwendet werden.
 
 ##### Beispiele
-_For J. Bradford Young, "A Thematic Catalog of the Works of Robert Valentine" (YouV)_
-- Short title. Nummer
-- YouV. 3 (12 sonatas for recorder with continuo)
-- YouV. 3, no. 1 (1st sonata from the 12 sonatas for recorder with continuo)
-- YouV. 3, no.1/2 (2nd movement only of the first sonata from the 12 sonatas for recorder with continuo)
+_Für J. Bradford Young, "A Thematic Catalog of the Works of Robert Valentine" (YouV)_
+- Kurztitel. Nummer
+- YouV. 3 (12 Sonaten für Blockflöte mit Continuo)
+- YouV. 3, no. 1 (1. Sonate aus 12 Sonaten für Blockflöte mit Continuo)
+- YouV. 3, no.1/2 (Nur 2. Satz aus der 1. Sonate aus 12 Sonaten für Blockflöte mit Continuo)
