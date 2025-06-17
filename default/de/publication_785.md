@@ -1,14 +1,14 @@
-### Succeeding entry (785)
+### Folgeeintrag (785)
 
-The field **Succeeding entry** is used to name and link a later name of an item, such as a journal title that has changed names.
+Das Feld **Folgeeintrag** wird verwendet, um spätere Namen anzuzeigen (beispielsweise wechselnde Titel einer Zeitschrift).
 
-#### Succeeding entry (785 $t)
+#### Späterer Titel (785 $t)
 
-Enter here the name that the item was successively known as. This field is linked to the **Secondary literature** database through $w.
+Tragen Sie hier den späteren Zeitschriften- / Reihentitel der vorliegenden Literatur ein. Das Feld ist über $w mit der Normdatei **Sekundärliteratur** verknüpft.
 
-##### Example
+##### Beispiel
 
-The journal _Chelys. The Journal of the Viola da Gamba Society_ existed from 1969 to 2004, when it was succeeded by _The Viola da Gamba Society Journal_. In the record for _Chelys_, enter the following:
+Die Zeitschrift _Chelys. The Journal of the Viola da Gamba Society_ existierte von 1969 bis 2004, als es vom _The Viola da Gamba Society Journal_ abgelöst wurde. Im Datensatz für _Chelys_ geben Sie folgendes ein:
 
-**Succeeding entry (785 $t)**
+**Späterer Titel (785 $t)**
 - The Viola da Gamba Society Journal
