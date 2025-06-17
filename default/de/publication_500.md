@@ -1,15 +1,15 @@
-### General note (500)
+### Bemerkungen (500)
 
-The field **General note** is for any other kind of information.
+Das Feld **Bemerkungen** ist für sonstige Informationen vorgesehen.
 
-#### General note (500 $a)
+#### Bemerkungen (500 $a)
 
-Enter any notes about the item, especially notes that relate to how the item is relevant to musical sources (if not obvious from the title).
+Geben Sie bitte alle Anmerkungen zu dem Titel ein, insbesondere solche, die sich darauf beziehen, inwiefern er für Musikquellen relevant ist (sofern dies nicht bereits aus dem Titel ersichtlich ist).
 
-Enter RISM library sigla here if the item concerns an institution, such as catalogs of collections.
+Wenn sich der Eintrag auf eine Institution bezieht, z. B. auf Kataloge von Sammlungen, geben Sie hier das RISM-Bibliothekssigel ein.
 
 
-##### Examples
+##### Beispiele
 
 - D-Bsa
 - p. 95-97: "Appendix 4. Selected works"
