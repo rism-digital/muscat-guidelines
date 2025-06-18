@@ -1,4 +1,4 @@
-### Associated place (370)
+### Powiązane miejsce (370)
 
 The field **Associated place** is used to record a place associated with the institution.
 
