@@ -1,19 +1,19 @@
 ### Powiązane miejsce (370)
 
-The field **Associated place** is used to record a place associated with the institution.
+Pole **Powiązane miejsce** jest używane do zapisywania miejsca powiązanego z instytucją.
 
-#### Associated country (370 $c)
+#### Powiązane państwo (370 $c)
 
-Enter the country with which the institution is identified.
+Wpisać kraj, z którym instytucja jest zidentyfikowana.
 
-#### Place of residence/headquarters (370 $e)
+#### Miejsce zamieszkania/siedziba (370 $e)
 
-Enter the town, city, province, state, locale, and/or country in which the institution has its headquarters or carries out its activities.
+Wpisać miasteczko, miasto, prowincje, miejscowość i/lub kraj, w którym instytucja ma swoją siedzibę lub prowadzi swoją działalność.
 
-#### Other associated place (370 $f)
+#### Inne powiązane miejsce (370 $f)
 
-Enter other or additional town, city, province, state, and/or country associated with the institution.
+Wpisać inne lub dodatkowe miasteczko, miasto, prowincję, województwo i/lub kraj powiązany z instytucją.
 
-#### Source of term (370 $2)
+#### Źródło terminu (370 $2)
 
-Enter the source of the terms used.
+Wprowadź źródło zastosowanych terminów.
