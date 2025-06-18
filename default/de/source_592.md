@@ -1,16 +1,16 @@
-### Watermark description (592)
+### Wasserzeichen (592)
 
-The field **Watermark description** is for both transcriptions and descriptions of watermarks.
+Das Feld **Wasserzeichen** ist sowohl für Transkriptionen als auch für Beschreibungen von Wasserzeichen vorgesehen.
 
-#### Watermark description (592 $a)
+#### Wasserzeichen (592 $a)
 
-Transcribe or describe the watermark uniformly and in English. Descriptions should be entered in square brackets while transcriptions, such as letters, should be entered directly.
+Umschreiben oder beschreiben Sie das Wasserzeichen einheitlich und in englischer Sprache. Zur Abgrenzung von den zitierten Wasserzeichen steht die Beschreibung in eckigen Klammern.
 
-Small capitals, ciphers/initials, and years must be transcribed exactly. Indicate line breaks with **\|** (the vertical pipe).
+Ziffern, Initialen und Jahreszahlen werden diplomatisch getreu wiedergegeben. Zeilenumbrüche mit **\|** (gerader Strich) dargestellt.
 
-See the list **Standard Watermarks** for the names of common watermarks. Standardize your information with the help of watermark catalogs or databases, adding a reference in the field **Bibliographic reference (691)** when appropriate.
+Verwenden Sie die **Liste der standardisierten Wasserzeichen** für häufig vorkommende Wasserzeichen. Bitte standardisieren Sie ihre Informationen unter Zuhilfenahme von Wasserzeichenkatalogen oder Datenbanken (verweisen sie möglichst im Feld **Literaturverweis (691)** darauf).
 
-##### Examples
+##### Beispiele
 
 - C & G HONIG
 - GFA \| VB [GFA above VB]
