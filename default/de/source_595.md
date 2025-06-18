@@ -1,4 +1,4 @@
-### Named dramatic role (595)
+### Rollennamen (595)
 
 The field **Named dramatic role** is to list the roles for dramatic music such as operas or oratorios. This field must be filled out if a name is entered in the incipit field **Role (031 $e)**.
 
