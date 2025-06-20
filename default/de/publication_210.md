@@ -64,6 +64,7 @@ Bei zwei oder mehr Autoren oder Herausgebern wird nur der erste in einem Kurztit
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893
 
 Wenn kein Autor genannt wird, verwenden Sie stattdessen 1-2 Schlüsselwörter aus dem Titel.
