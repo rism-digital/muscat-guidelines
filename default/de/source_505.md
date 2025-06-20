@@ -1,15 +1,15 @@
-### Contents note (505)
+### Bemerkungen zu Inhaltsangaben (505)
 
-The field **Contents note** is for information related to the contents of the source.
+Das Feld **Bemerkungen zu Inhaltsangaben** ist für Informationen, die sich auf den Inhalt der Quelle beziehen.
 
-#### Contents note (505 $a)
+#### Bemerkungen zu Inhaltsangaben (505 $a)
 
-The names of all the pieces within a collection or all the movements with a piece can be entered here. In addition, further information about the contents of the source which does not fit into any other category can be included here, such as:
+In diesem Feld können die Namen aller Stücke einer Sammlung oder die Sätze eines Stücks eingegeben werden. Darüber hinaus können hier weitere Informationen zum Inhalt der Quelle aufgeführt werden, die in keine andere Kategorie passen, wie beispielsweise:
 
-- Information on different versions of the work
-- Information on the structure of collections
-- The number of verses in strophic songs
-- General structural information about the source
-- Information on the full scoring, if the material is incomplete
+- Angaben zu verschiedenen Werkfassungen
+- Informationen zur Struktur der Sammlung
+- Die Anzahl der Verse bei Strophenliedern
+- Allgemeine strukturelle Informationen zur Quelle
+- Angaben zur Gesamtbesetzung sofern das Material unvollständig ist
 
-Enter using your cataloging language.
+Verwenden Sie Ihre Katalogisierungssprache.

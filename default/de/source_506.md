@@ -1,12 +1,12 @@
-### Access restrictions (506)
+### Zugangsbeschränkungen (506)
 
-The field **Access restrictions** is for the terms and conditions of the holding institution.
+Das Feld **Zugangsbeschränkungen** ist für die Nutzungsbedingungen der besitzenden Institution bestimmt.
 
-#### Access restrictions (506 $a)
+#### Zugangsbeschränkungen (506 $a)
 
-Enter any access restrictions as determined by the holding institution. Enter using your cataloging language.
+Geben Sie etwaige von der besitzenden Institution festgelegte Zugangsbeschränkungen an. Verwenden Sie Ihre Katalogisierungssprache.
 
-##### Examples
+##### Beispiele
 
-- Consultation in the reading room.
-- Reproductions upon request (charges may apply).
+- Benutzung nur im Lesesaal.
+- Reproduktionen auf Anfrage (Kosten können anfallen).

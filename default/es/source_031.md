@@ -252,7 +252,7 @@ Do not forget the rhythmic value within the bracket!
 
 ###### 11.1. Repeated figures
 
-! ! ! ! ! ! ! ! ! ! Figuras repetidas</strong>  
+! ! ! ! ! ! ! ! ! ! ! Figuras repetidas</strong>  
 ! = inicio y fin de un pasaje  
 f = repetir la indicación  
 El pasaje será repetido cada vez que aparezca  **f**  después del segundo **!**. This is only possible within a bar.

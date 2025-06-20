@@ -3,6 +3,6 @@ Das Feld **Ansetzungsform** dient der Identifizierung der Hauptperson, die im we
 
 #### Komponist (100 $a)
 
-Enter the name of the person responsible for the work.
+Geben Sie den Namen der Person an, die für das Werk verantwortlich ist.
 
-This field is linked to the **Personal names** authority file through $0 and the life dates are displayed $d.  
+Das Feld ist über $0 mit der Normdatei **Personen** verknüpft. Lebensdaten werden in $d angezeigt.  

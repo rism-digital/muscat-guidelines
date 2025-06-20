@@ -1,14 +1,14 @@
-### Preceding entry (780)
+### Früherer Eintrag (780)
 
-The field **Preceding entry** is used to name and link an earlier name of an item, such as a journal title that has changed names.
+Das Feld **Früherer Eintrag** wird verwendet, um frühere Namen anzuzeigen (beispielsweise wechselnde Titel einer Zeitschrift).
 
-#### Preceding entry (780 $t)
+#### Früherer Titel (780 $t)
 
-Enter the former name of the item. This field is linked to the **Secondary literature** database through $w.
+Geben Sie den früheren Titel ein. Das Feld ist über $w mit der Normdatei **Sekundärliteratur** verknüpft.
 
-##### Example
+##### Beispiel
 
-_Chelys. The Journal of the Viola da Gamba Society_ was published from 1969 to 2004. In 2007, the journal _The Viola da Gamba Society Journal_ began as a continuation of _Chelys_. In the record for _The Viola da Gamba Society Journal_, enter the following:
+_Chelys. The Journal of the Viola da Gamba Society_ wurde von 1969 bis 2004 veröffentlicht. Im Jahr 2007 wurde die Zeitschrift _The Viola da Gamba Society Journal_ als Fortsetzung von _Chelys_ gegründet. Geben Sie in den Datensatz für _The Viola da Gamba Society Journal_ Folgendes ein:
 
-**Preceding entry (780 $t)**
+**Früherer Titel (780 $t)**
 - Chelys. The Journal of the Viola da Gamba Society

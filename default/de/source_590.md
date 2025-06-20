@@ -45,7 +45,7 @@ Geben Sie die Anzahl der Folien, Seiten, Bögen oder Lagen ein. Verwenden Sie nu
 
 Andere Einheiten (z. B. die Umrechnung von Folios in Seiten) geben Sie im Feld **Bemerkungen (500)** an.
 
-Sie können auch einzelne Seiten oder Folien innerhalb einer handschriftlichen Sammlung angeben, z. B. **p. **p. **p. 5-6** or **f. 4r-4v**. 4r-4v**.</p>
+Sie können auch einzelne Seiten oder Folien innerhalb einer handschriftlichen Sammlung angeben, z. B. **p. **p. **p. **p. 5-6** or **f. 4r-4v**. 4r-4v**.</p>
 
 ##### Beispiele
 Es gibt zwei Varianten, um die Stimmen aufzuzählen.
@@ -83,5 +83,5 @@ Zusätzliche Informationen (kurze Bemerkungen), z. B. über die Anzahl oder Unvo
 - **(= bc)**: Stimme gehört zum basso continuo
 - **(incpl)**: Stimme ist unvollständig
 - Verwenden Sie einen **/** (Schrägstrich) um zwei Elemente anzugeben: **bc (2x/incpl)**
-- Bezifferter Bass: Wenn Sie einen bezifferten Bass haben, geben Sie das Instrument gefolgt von **.fig** ein, z. B. **b.fig**, **bc.fig**, **org.fig** usw. (siehe auch die Tabellen im Abschnitt **Bezifferter Bass in Partituren und/oder Stimmen** für Hinweise zu den entsprechenden Feldern).
+- Wenn mehrere Exemplare desselben Stimme vorliegen, geben Sie die Anzahl und dann den Umfang für jede Stimme an. Beispiel: **S (2x)**
 - Sie können auch die Stimmung einbeziehen: **cl 1, 2 in B\|b**  

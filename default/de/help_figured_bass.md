@@ -33,7 +33,7 @@ Wenn Sie einen bezifferten Bass **Partitur** haben, müssen die folgenden Felder
 ##### Instrument: b
 
 - Besetzungshinweis (240 $m): b
-- Parts held (590): b
+- Stimmenmaterial (590): b
 - Besetzung (594): b = b.fig
 
 ##### Instrument: bc

@@ -101,8 +101,8 @@ Pages change from Roman to Arabic numerals
 
 Blank pages or foliation irregularities can be mentioned in the field **General note (500)**.
 
-- f. f. f. f. f. f. f. f. f. [2] blank
-- p. p. p. p. p. p. p. p. p. 272 occurs twice
+- f. f. f. f. f. f. f. f. f. f. [2] blank
+- p. p. p. p. p. p. p. p. p. p. 272 occurs twice
 
 #### Other physical details (300 $b)
 

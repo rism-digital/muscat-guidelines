@@ -1,29 +1,29 @@
-### Bibliographic reference (691)
+### Literaturverweis (691)
 
-The field **Bibliographic reference** gives bibliographic references related to the work or the source. Cite secondary literature when it was used during the cataloging process itself or if it refers directly to the source in question. You can also enter references to modern editions connected with the source and references to watermark literature.
+Im Feld **Literaturverweis** werden bibliografische Referenzen zum Werk oder der Quelle angegeben. Eine Literaturangabe erfolgt nur für Literatur, welche für die Katalogisierung selbst herangezogen wurde, bzw. solche Literatur, die sich konkret auf die vorliegende Quelle bezieht. Sie können auch Verweise auf moderne Ausgaben, die mit der Quelle in Verbindung stehen, sowie Verweise auf Wasserzeichenliteratur eingeben.
 
-Note that information citing a catalog of works number is entered in the field **Catalog of works (690)**.
+Angaben zum Werkverzeichnis werden im Feld **Werkverzeichnis (690)** gemacht.
 
-Use this field if you wish to indicate that a printed edition is not mentioned in a volume from RISM series A/I or a B volume (deest).
+Verwenden Sie dieses Feld, um anzugeben, dass eine gedruckte Ausgabe nicht in einem Band der RISM-Serien A/I oder B (deest) erwähnt wird.
 
-#### Bibliographic reference (691 $a)
+#### Literaturverweis (691 $a)
 
-Enter the short title of the reference. This field is linked to the **Secondary literature** database. If the reference you wish to cite is not yet in the database, it must be added first before you can link to it.
+Geben Sie hier den Kurztitel der Sekundärliteratur an. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft. Ist die gewünschte Literatur noch nicht vorhanden, muss erst ein neuer Datensatz dafür angelegt werden.
 
-#### Number/page (691 $n)
+#### Fundstelle (691 $n)
 
-**Required field if a bibliographic reference (691 $a) is filled in.**
+**Pflichtfeld, wenn Literaturverweis (691 $a) ausgefüllt ist.**
 
-Enter the location within the item, frequently a number or page. Consult the full record for the item in the **Secondary literature** database for the preferred citation format. Use the following English abbreviations:
-- **vol.**: volume
-- **fasc.**: fascicle
-- **suppl.**: supplement
-- **pt.**: part
-- **p.**: page or pages
-- **no.**: number
-- **clm.**: column
+Hier wird die genaue Fundstelle des betreffenden Zitats (Nummer, Seite) wiedergegeben. Das bevorzugte Zitierformat ist im vollständigen Eintrag in der Normdatei **Sekundärliteratur** enthalten. Verwenden Sie die folgenden englischen Abkürzungen:
+- **vol.**: Band
+- **fasc.**: Faszikel
+- **suppl.**: Supplement
+- **pt.**: Teil
+- **p.**: Seite oder Seiten
+- **no.**: Nummer
+- **clm.**: Spalte
 
-##### Examples
+##### Beispiele
 
 - vol. 2, pt. 2, p. 430
 - vol. 5, p. 93; vol. 6, p. 12

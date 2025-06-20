@@ -1,45 +1,45 @@
 ### Incipit (031)
 
-The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the highest voice and the first violin or the highest instrumental part.
+Das Feld **Incipit** wird für musikalische Informationen über die ersten Takte des Stücks verwendet und umfasst sowohl Noten- als auch Textincipits. Incipits helfen Werke zu identifizieren und Quellen zu vergleichen. Bei Instrumentalwerken bietet es sich an, Incipits für eine Ober- und eine Unterstimme anzugeben (beispielsweise vl 1 und b). Für Vokalmusik geben Sie ein Musikincipit für die höchste Vokal- als auch Instrumentalstimme an.
 
-If the notation you need is not available using the Plaine & Easie code, transcribe the music the best you can and include an explanatory note. You can attach an image of the incipit from the source for further clarification.
+Ist die benötigte Notation mit dem Plain & Easy-Code nicht verfügbar, transkribieren Sie die Musik so gut wie möglich und fügen Sie eine Bemerkung hinzu. Sie können zur weiteren Verdeutlichung ein Bild des Incipits aus der Quelle anhängen.
 
-Keep in mind that incipit transcription is primarily used for searching and identification, not for replicating the visual appearance of the score. The Plaine & Easie Code is an intentional simplification of Western notation and not all details can (or should) be encoded.
+Beachten Sie, dass die Incipittranskription in erster Linie zur Suche und Identifizierung dient und nicht dazu, das visuelle Erscheinungsbild der Partitur zu reproduzieren. Der Plaine & Easie-Code ist eine bewusste Vereinfachung der westlichen Notenschrift, und nicht alle Details können (oder sollten) kodiert werden.
 
-For assistance with transcribing mensural notation, see "Basic Mensural Notation Reference" by Ted Dumitrescu ([http://www.cmme.org/misc/refsheet.pdf](http://www.cmme.org/misc/refsheet.pdf))).
+Hilfe bei der Transkription von Mensuralnotation finden Sie in „Basic Mensural Notation Reference“ von Ted Dumitrescu ([http://www.cmme.org/misc/refsheet.pdf](http://www.cmme.org/misc/refsheet.pdf))).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
-_MARC export note:_  
-Records that contain an incipit (anything in field 031) receive $2pe upon saving, indicating that the incipit was created using the Plaine & Easie code.
+_MARC-Exportnotiz:_  
+Datensätze, die ein Incipit enthalten (alles in Feld 031), erhalten beim Speichern den Wert „$2pe“, was darauf hinweist, dass das Incipit mit dem Plaine & Easie-Code erstellt wurde.
 
-#### Work number, movement number, incipit number (031 $a, b, c)
+#### Werknummer, Satznummer, Incipitnummer (031 $a, b, c)
 
-**Required field if any field in this section is used.**
+**Pflichtfeld, wenn in diesem Teil irgendein Feld ausgefüllt ist.**
 
-The incipit number consists of three digits, which stand for work, movement, and incipit.
+Die Incipitnummer besteht aus drei Ziffern, welche für das Werk, den Satz und das Incipit stehen.
 
-The first digit is always a 1. The work number refers to the position of the incipit in the record in question, not its position in the source as a whole. Works in RISM are cataloged in separate records using a parent/child hierarchy, so the each record only has one work.
+Die erste Zahl ist immer eine 1. Die Werknummer bezieht sich auf die Position des Incipits im betreffenden Datensatz und nicht auf die Position in der Quelle insgesamt. In RISM werden Werke in separaten Datensätzen unter Verwendung einer übergeordneten/untergeordneten Hierarchie katalogisiert, sodass jeder Datensatz nur ein Werk enthält.
 
-Movements refer to both the work as a whole but also significant sections of a work, whether they are technically movements (such as a symphony) or different sections (such as a recitative and aria). Movement numbers can be identical if multiple incipits are entered for the movement.
+Sätze beziehen sich auf eindeutige Abteilungen im Werk (wie in einer Sinfonie oder einer Arie und Rezitativ innerhalb einer Oper). Die Nummern der Sätze können identisch sein, wenn mehrere Incipits für ein und denselben Satz eingegeben werden.
 
-The incipit number is embedded within the hierarchy of the movement or work. Identical movement numbers but different incipit numbers mean that the incipits sound simultaneously, such as a vl 1 and bass.
+Die Incipitnummer ist in die Satz- oder Werkhierarchie eingebettet. Incipits mit unterschiedlichen Ziffern am Schluss, aber identischen Zahlen an zweiter Stelle, zeigen ein gleichzeitiges Erklingen an, wie beispielsweise eine vl 1 und ein Bass.
 
-##### Examples
+##### Beispiele
 
-- 1.1.1 = 1st work, 1st movement, 1st incipit
-- 1.1.2 = 1st work, 1st movement, 2nd incipit (sounds at the same time as 1.1.1)
-- 1.2.1 = 1st work, 2nd movement, 1st incipit
-- 1.3.1 = 1st work, 3rd movement, 1st incipit
+- 1.1.1 = 1. Werk, 1. Satz, 1. Incipit
+- 1.1.2 = 2. Incipit zum 1. Satz (erklingt gleichzeitig mit 1.1.1)
+- 1.2.1 = 1. Werk, 2. Satz, 1. Incipit
+- 1.3.1 = 1. Werk, 3. Satz, 1. Incipit
 
-Periods between the numbers are automatically added by Muscat.
+Die Punkte zwischen den Zahlen werden von Muscat automatisch eingefügt.
 
-The three-figure incipit number must be unique within a record. Number incipits consecutively and with respect to the record in question. The incipit number may not imply any comment on the position of the item in a source. Numbering within the source should be reflected in the title description, and any particularities can be explained in a note. This means that the incipit for the fourth song in a song collection will be 1.1.1, as with all songs in the collection.
+Die dreistellige Incipitnummer muss innerhalb eines Datensatzes eindeutig sein. Nummerieren Sie die Incipits fortlaufend und unter Berücksichtigung des betreffenden Datensatzes. Die Incipitnummer sagt nichts darüber aus, wo sich das Incipit in einer Quelle befindet. Die Nummerierung innerhalb der Quelle sollte sich in der Titelbeschreibung widerspiegeln, und etwaige Besonderheiten können in einer Bemerkung erläutert werden. Das bedeutet, dass das Incipit des vierten Lieds innerhalb einer Liedersammlung 1.1.1 wie bei allen anderen Liedern in der Sammlung lautet.
 
- Consecutive numbering must be followed even if content is missing from the source. For example, if one song is missing from a collection of six songs, the work number of each incipit will still start with a 1. If the source is a three-movement symphony but the middle movement is missing, the incipits will be numbered 1.1.1 and 1.2.1 (not 1.3.1).
+ Die fortlaufende Nummerierung muss auch dann eingehalten werden, wenn Inhalte in der Quelle fehlen. Wenn beispielsweise ein Lied aus einer Sammlung von sechs Liedern fehlt, beginnt die Werknummer jedes Incipits weiterhin mit einer 1. Wenn es sich bei der Quelle um eine dreisätzige Symphonie handelt, aber der Mittelsatz fehlt, werden die Incipits mit 1.1.1 und 1.2.1 (nicht 1.3.1) nummeriert.
 
 
-#### Title of movement, tempo (031 $d)
+#### Satztitel, Tempo (031 $d)
 
 Enter the title of the movement and tempo or similar indications, if specified, as it appears on the source. Use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Use square brackets to indicate supplements to the original; any such additions should be spelled consistently. Multiple titles or additional tempo markings can be added in separate fields. If you are entering multiple incipits for which the title or tempo indication is the same, enter it only for the first music incipit.
 
