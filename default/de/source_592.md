@@ -8,7 +8,7 @@ Umschreiben oder beschreiben Sie das Wasserzeichen einheitlich und in englischer
 
 Ziffern, Initialen und Jahreszahlen werden diplomatisch getreu wiedergegeben. Zeilenumbrüche mit **\|** (gerader Strich) dargestellt.
 
-Verwenden Sie die **Liste der standardisierten Wasserzeichen** für häufig vorkommende Wasserzeichen. Bitte standardisieren Sie ihre Informationen unter Zuhilfenahme von Wasserzeichenkatalogen oder Datenbanken (verweisen sie möglichst im Feld **Literaturverweis (691)** darauf).
+Bitte standardisieren Sie ihre Informationen unter Zuhilfenahme von Wasserzeichenkatalogen oder Datenbanken (verweisen sie möglichst im Feld **Literaturverweis (691)** darauf). Verwenden Sie die **Liste der standardisierten Wasserzeichen** für häufig vorkommende Wasserzeichen.
 
 ##### Beispiele
 
