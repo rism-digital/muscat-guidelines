@@ -30,7 +30,7 @@ Die Incipitnummer ist in die Satz- oder Werkhierarchie eingebettet. Incipits mit
 - 1.1.1 = 1. Werk, 1. Satz, 1. Incipit
 - 1.1.2 = 2. Incipit zum 1. Satz (erklingt gleichzeitig mit 1.1.1)
 - 1.2.1 = 1. Werk, 2. Satz, 1. Incipit
-- 1.3.1 = 1. Werk, 3. Satz, 1. Incipit
+- 1.3.1 = 1. Werk, 3.
 
 Die Punkte zwischen den Zahlen werden von Muscat automatisch eingefügt.
 
