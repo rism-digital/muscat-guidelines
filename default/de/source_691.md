@@ -1,6 +1,6 @@
-### Bibliographic reference (691)
+### Literaturverweis (691)
 
-The field **Bibliographic reference** gives bibliographic references related to the work or the source. Cite secondary literature when it was used during the cataloging process itself or if it refers directly to the source in question. You can also enter references to modern editions connected with the source and references to watermark literature.
+Im Feld **Literaturverweis** werden bibliografische Referenzen zum Werk oder der Quelle angegeben. Eine Literaturangabe erfolgt nur für Literatur, welche für die Katalogisierung selbst herangezogen wurde, bzw. solche Literatur, die sich konkret auf die vorliegende Quelle bezieht. You can also enter references to modern editions connected with the source and references to watermark literature.
 
 Note that information citing a catalog of works number is entered in the field **Catalog of works (690)**.
 
