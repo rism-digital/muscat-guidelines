@@ -109,192 +109,192 @@ Sind keine Globalvorzeichen vorhanden, bleibt das Feld leer.
 
 #### Metrum (031 $o)
 
-Enter time signatures as fractions. The following are also allowed:
+Hier wird das zum Incipit gehörende Taktmaß als Bruch angegeben. Folgendes ist auch erlaubt:
 
-- **c** = common time or tempus imperfectum cum prolatione imperfecta
-- **c/** = cut time, alla breve
-- **3** = proportio tripla; also **1**, **2**, etc.
+- **c** = tempus imperfectum cum prolatione imperfecta
+- **c/** = alla breve
+- **3** = proportio tripla; auch **1**, **2**, etc.
 - **c3** = proportio tripla
 - **c3/2**
 - **c.** = tempus imperfectum cum prolatione perfecta
 - **o** = tempus perfectum cum prolatione imperfecta
 - **o/** = tempus perfectum cum prolatione minore diminutum
-- **o.**  = perfect time, tempus perfectum cum prolatione perfecta
+- **o.**  = tempus perfectum cum prolatione perfecta
 
-If the meter changes constantly, you can write the first time signature followed by the second, separated by a space.
+Ändert sich der Takt ständig, können Sie die erste Taktart gefolgt von der zweiten Taktart getrennt durch ein Leerzeichen angeben.
 
-If the incipit is without a time signature, add one and also add an explanation in the field **General note (031 $q)** such as "Time signature added." Do not put the inferred time signature in square brackets.
+Wenn das Incipit keine Taktart enthält, fügen Sie eine hinzu und geben Sie auch eine Erklärung im Feld **Kommentar zum Incipit (031 $q)**, z. B. "Time signature added". Setzen Sie die ergänzte Taktart nicht in eckige Klammern.
 
-**Obsolete procedures**: Older guidelines allowed a blank field here if the source lacked a time signature.
+**Altdaten**: Ältere Richtlinien erlaubten hier ein leeres Feld, wenn die Quelle keine Taktart enthielt.
 
-##### Examples
+##### Beispiele
 
 - 4/4
 - 6/8
 - 3/4 4/4
 
-If the time signature in the source is obviously wrong, correct it to match the incipit given. Include an explanatory note in the field **General note**.
+Falls die Taktangabe in der Quelle offensichtlich falsch ist, muss das Taktmaß so angegeben werden, dass es mit dem tatsächlichen Incipit übereinstimmt. Dies kann unter **Kommentar zum Musikincipit ** näher ausgeführt werden.
 
-#### Clef (031 $g)
+#### Schlüssel (031 $g)
 
-Select a clef from the list. The letter indicates the kind of clef. A hyphen means modern notation. A plus sign means mensural notation. The number refers to position on the staff line.
+Wählen Sie einen Schlüssel aus der Auswahlliste aus. Die erste Stelle bezeichnet die Art des Schlüssels. Ein Bindestrich bedeutet moderne Notation. Ein Plus bedeutet Mensuralnotation. Die Zahl bezieht sich auf die entsprechende Notenlinie.
 
-If no clef is on the source, select one from the list and include an explanatory note in the field **General note (031 $q)**.
+Wenn kein Notenschlüssel in der Quelle vorhanden ist, wählen Sie einen aus der Liste aus und geben eine erläuternde Notiz in **Kommentar zum Incipit (031 $q)**.
 
-#### Validity (031 $s)
+#### Gültigkeit (031 $s)
 
-Do not enter anything into this field! (It is only used for old data.)
+Dieses Feld nicht verwenden! (Es ist nur für Altdaten notwendig.)
 
-#### Music incipit (031 $p)
+#### Musicincipit (031 $p)
 
-Enter the music incipit in encoded form using the Plaine & Easie code (see also [https://www.iaml.info/plaine-easie-code](https://www.iaml.info/plaine-easie-code)). The incipit should be at least two bars (measures) or six notes long.
+Das Musikincipit wird in kodierter Form nach dem Plaine & Easie code (siehe auch [https://www.iaml.info/plaine-easie-code](https://www.iaml.info/plaine-easie-code)) eingegeben. Das Incipit sollte mindestens zwei Takte oder sechs Noten lang sein.
 
-##### 1. Octaves
-' = in the 1st octave above middle C  
-'' = in the 2nd octave above middle C  
-''' = in the 3rd octave above middle C  
-, = in the 1st octave below middle C  
-,, = in the 2nd octave below middle C  
-,,, = in the 3rd octave below middle C
+##### 1. Oktavregister
+' = in der 1. Oktave hoch  
+'' = in der 2. Oktave hoch  
+''' = in der 3. Oktave hoch  
+, = in der 1. Oktave tief  
+,, = in der 2. Oktave tief  
+,,, = in der 3. Oktave tief
 
-##### 2. Rhythmic values
+##### 2. Rhythmische Werte
 
-0 = longa  
-9 = breve  
-1 = whole note / semibreve  
-2 = half note / minim  
-4 = quarter note / crotchet / semiminim  
-8 = eighth note / quaver / fusa  
-6 = 16th note / semiquaver / semi fusa   
-3 = 32nd note / demisemiquaver  
-5 = 64th note / hemidemisemiquaver  
-7 = 128th note / semihemidemisemiquaver  
-7\. = neumatic notation
+0 = Longa  
+9 = Brevis  
+1 = Ganze Note / Semibrevis  
+2 = Halbe Note / Minima  
+4 = Viertelnote / crotchet / Semiminima  
+8 = Achtelnote / quaver / Fusa  
+6 = Sechzehntelnote / semiquaver / Semifusa   
+3 = Zweiunddreissigstelnote / Demisemiquaver  
+5 = Vierundsechzigstelnote / Hemidemisemiquaver  
+7 = Einhundertachtundzwanzigstelnote / Semihemidemisemiquaver  
+7\. = Choralnote
 
-Periods are used for dotted notes. Multiple periods can be added to a note.
+Punkte werden für punktierte Noten verwendet. Einer Note können mehrere Punkte hinzugefügt werden.
 
-4\. = dotted quarter note / dotted crotchet   
-8.. = double dotted eighth note / double dotted quaver
+4\. = punktierte Viertelnote / dotted crotchet   
+8.. = doppelt punktierte Achtelnote / double dotted quaver
 
-##### 3. Accidentals
+##### 3. Akzidentien
 
-x = sharp  
-xx = double sharp  
-b = flat  
-bb = double flat  
-n = natural
+x = Kreuz  
+xx = Doppelkreuz  
+b = b  
+bb = Doppel-B  
+n = Auflösungszeichen
 
-##### 4. Note names
+##### 4. Tonbuchstaben
 
-C, D, E, F, G, A, B
+C, D, E, F, G, A, B [!]
 
-##### 5. Grace notes and ornaments
+##### 5. Vorschläge
 
-g = acciaccatura (without rhythmic value, precedes the note name)  
-q = appoggiatura (with rhythmic value, precedes the note name)  
-qq...r = several appoggiaturas or ornaments which belong together (with rhythmic value)
+g = kleiner Vorschlag (ohne rhythmischen Wert, vor dem Tonbuchstaben stehend)  
+q = Vorschlag (mit rhythmischem Wert, vor dem Tonbuchstaben stehend)  
+qq...r = mehrere zusammengehörige Vorschläge (mit rhythmischem Wert)
 
-##### 6. Rests
+##### 6. Pausen
 
-The '-' (minus sign) is for a single-note rest. Use '=' (equal sign) for a measure rest. For multiple measures of rest, follow the = with the number of measures and a bar line.
-- Eighth-note rest
+Das '-' (Minuszeichen) steht für eine einzelne Pause. Verwenden Sie '=' (Gleichheitszeichen) für eine Taktpause. Bei mehrtaktigen Pausen folgt dem = die Anzahl der Takte und ein Taktstrich.
+- Achtelpause
  - 8-/
-- One measure of rest
+- ein Takt Pause
  - -/
  - =1/
-- Multiple measures of rest
+- mehrere Takte Pause
  - =35/
 
-##### 7. Bar lines
+##### 7. Taktstrich
 
-/ = bar line  
-// = double bar line  
-//: = double bar line with repeat  
-:// = double bar line with repeat  
-://: = double bar line with repeat
+/ = Taktstrich  
+// = doppelter Taktstrich  
+//: = doppelter Taktstrich mit Wiederholung  
+:// = doppelter Taktstrich mit Wiederholung  
+://: = doppelter Taktstrich mit Wiederholung
 
-##### 8. Other symbols
+##### 8. Weitere Symbole
 
-t = trill (immediately follows the note)
+t = Triller (steht unmittelbar hinter dem Tonbuchstaben)
 
-+ = tie (immediately follows the note; not to be confused with a slur)  
-  () = fermata/hold/pause (only a single note letter name or a single rest can be bracketed; accidentals, pitch indications, etc. must be outside the parentheses; see also **10. Special rhythms**, below)
++ = Haltebogen (folgt unmittelbar auf die Note; nicht zu verwechseln mit einem Bindebogen)  
+  () = Fermate (nur ein einzelner Tonbuchstabe oder eine einzelne Pause kann eingeklammert werden; Vorzeichen, Oktave etc. müssen außerhalb der Klammer stehen. Siehe auch **10. Sonderrhythmen**)
 
-Do not enter slurs.
+Geben Sie keine Bindebögen ein.
 
-##### 9. Beaming
+##### 9. Balkung
 
-{ = beginning of beaming  
-} = end of beaming
+{ = Balkungsbeginn  
+} = Balkungsende
 
-###### Example
+###### Beispiel
 
 {qq6'CDEDr}
 
-##### 10. Special rhythms
+##### 10. Sonderrhythmen
 
-( = beginning of special rhythm  
-) = end of special rhythm
+( = Beginn Sonderrhythmus  
+) = Ende Sonderrhythmus
 
-The total duration value of the group must be written before the **(**. The rhythmic value of the first note must be given after **(**, even if it is identical with that of the note immediately before the section of special rhythm. The number of notes in the group must be indicated before **)**. It is separated from the last note by **;**.
+Vor **(** muss der Gesamtwert des Sonderrhythmus stehen. Nach **(** muss der rhythmische Wert der ersten Note stehen, auch dann, wenn er mit dem der Note vor dem Sonderrhythmus identisch ist. Vor **)** muss noch der Zählwert des Sonderrhythmus angegeben werden. Er wird mit **;** von der letzten Note getrennt.
 
-###### Examples
+###### Beispiele
 
-- 8(3ABCDE;5)   = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note.
-- 8({3ABCDE};5) = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note, beamed
+- 8(3ABCDE;5) = Quintole, fünf Zweiunddreissigstel, Gesamtwert Achtel.
+- 8({3ABCDE};5) = Quintole, fünf Zweiunddreissigstel, Gesamtwert Achtel, mit Balkung
 
-The triplet is a special case. Strictly speaking, it should be encoded as:  
-8(6ABC;3) or 8({6ABC};3).  
-Instead though, the following shortcut is permitted:  
+Die Triole ist ein Sonderfall. Sie müsste eigentlich so kodiert werden:   
+8(6ABC;3) oder 8({6ABC};3).  
+Stattdessen ist folgende Abkürzung erlaubt:  
 (6ABC)  
 ({6ABC})
 
-Do not forget the rhythmic value within the bracket!
+Bitte nicht den rhythmischen Wert innerhalb der Klammer vergessen!
 
-##### 11. Shortcuts
+##### 11. Verkürzte Schreibweisen
 
-###### 11.1. Repeated figures
+###### 11.1. Figurwiederholung
 
-! = beginning and end of passage  
-f = repeat indication   
-The figure will be repeated as often as **f** is repeated after the second **!**. This is only possible within a bar.
+! = Anfang und Ende der Passage  
+f = Wiederholungsaufruf   
+Die Figur wird so oft wiederholt wie **f** hinter dem zweiten **!** stehen. Diese Funktion ist nur innerhalb eines Taktes möglich.
 
-###### Example
+###### Beispiel
 
-- !{'8ABAG}!ff = this figure will be repeated twice
+- !{'8ABAG}!ff = diese Figur wird zweimal wiederholt
 
-###### 11.2. Repeated bars
+###### 11.2. Taktwiederholung
 
-i = repeat last bar  
-'i' always goes between two bar lines.
+i = Taktwiederholungsaufruf  
+'i' muss immer zwischen zwei Taktstrichen stehen.
 
-###### Example
+###### Beispiel
 
-- '4ABAG/i/i/ = the bar will be repeated twice
+- '4ABAG/i/i/ = der Takt wird zweimal wiederholt
 
-###### 11.3. Rhythmic patterns
+###### 11.3. Rhythmisches Muster
 
-When a certain rhythmic sequence is repeated several times, the rhythmic pattern can be given before the respective note letter names.
+Wenn sich eine rhythmische Abfolge mehrmals wiederholt, kann sie den betroffenen Tonbuchstaben als rhythmisches Muster vorangestellt werden.
 
-The rhythmic sequence ends as soon a different rhythmic value occurs. Make sure that all notes as indicated by the pattern are present at least once.
+Das rhythmische Muster endet, sobald ein anderer rhythmischer Wert folgt. Vergewissern Sie sich, dass alle Noten, die im Muster angegeben sind, mindestens einmal vorkommen.
 
-###### Example
+###### Beispiel
 
-- Instead of **8.A6B8C8.D6E8F** the code can be **8.68ABCDEF**
+- Anstelle von **8.A6B8C8.D6E8F** kann der Code **8.68ABCDEF** stehen
 
 
-##### 12. Change of clef
+##### 12. Schlüsselwechsel
 
-If the clef changes within the music incipit, use **%** to change the clef. Follow this with the new clef and a space.
+Verwenden Sie **%** für den Schlüsselwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen.
 
-###### Examples
+###### Beispiele
 
 - %C-1 '2A
 - %C-1 $xFC '8B
 
-##### 13. Change of key
+##### 13. Vorzeichenwechsel
 
-If the key changes within the music incipit, use **$** to change the key. Follow this with the new key signature and a space. A key signature can only be changed once per measure. You can cancel the previous key signature with $n or move directly to the new key signature.
+Verwenden Sie **$** für den Vorzeichenwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen. Eine Tonart kann nur einmal pro Takt geändert werden. You can cancel the previous key signature with $n or move directly to the new key signature.
 
 ###### Examples
 
