@@ -294,54 +294,54 @@ Verwenden Sie **%** für den Schlüsselwechsel. Der veränderten Globalangabe mu
 
 ##### 13. Vorzeichenwechsel
 
-Verwenden Sie **$** für den Vorzeichenwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen. Eine Tonart kann nur einmal pro Takt geändert werden. You can cancel the previous key signature with $n or move directly to the new key signature.
+Verwenden Sie **$** für den Vorzeichenwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen. Eine Tonart kann nur einmal pro Takt geändert werden. Sie können die vorherige Tonart mit $n aufheben oder direkt zur neuen Tonart wechseln.
 
-###### Examples
+###### Beispiele
 
 - $nBE $xFC
 - $xFC
 
-##### 14. Change of time signature
+##### 14. Taktwechsel
 
-If the time signature changes within the music incipit, use **@** to change the time signature. Follow this with the new time signature and a space.
+Verwenden Sie **@** für den Taktwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen.
 
-###### Examples
+###### Beispiele
 
 - @3/2 '1C
 
-##### 15. Abbreviations
+##### 15. Abbreviaturen
 
-Abbreviated forms of notation found within the music, such as tremolos or simile signs for repeats, must be written out in full using the actual notation.
+Verkürzte Schreibweisen in den Noten, wie Tremolo auf Halbe D oder Faulenzer, müssen ihrer tatsächlichen Notierung gemäß aufgelöst werden.
 
-###### Examples
+###### Beispiele
 
-- {'8DDDD} = minim/ half tremolo on D
+- {'8DDDD} = Tremolo Halbe auf D
 
-##### 16. Chords
+##### 16. Akkorde
 
-Enter chords from the highest to the lowest note, separated by a **^**.
+Geben Sie Akkorde von der höchsten bis zur niedrigsten Note ein, getrennt durch ein **^**.
 
-###### Example
+###### Beispiel
 
-- 4’’C^’G^E^C
+- 4’C^’G^E^C
 
-**Obsolete procedures**: In older cataloging programs, the field for encoded notation began with the control character $ followed by the key signature ($xFC for $bBE), and then a character that was entered as a ³ (superscript 3) but displayed as an _ (underscore). Incipits with no key signature started directly with an _.
+**Altdaten**: In älteren Katalogisierungsprogrammen begann das Feld für die kodierte Notation mit dem Steuerzeichen $, gefolgt von der Vorzeichen ($xFC für $bBE) und dann einem Zeichen, das als ³ (hochgestellte 3) eingegeben, aber als _ (Unterstrich) angezeigt wurde. Incipits ohne Vorzeichen begannen direkt mit einem _.
 
-#### General note (031 $q)
+#### Kommentar zum Musikincipit (031 $q)
 
-Add any other comments, such as the pitch of transposing instruments, mistakes in the incipit, the text incipit with the original spelling and/or punctuation, or any adjustments you had to make. Enter using your cataloging language.
+Fügen Sie weitere Anmerkungen hinzu, z. B. die Tonhöhe transponierender Instrumente, Fehler im Incipit, den Text des Incipits mit der ursprünglichen Schreibweise und/oder Zeichensetzung oder etwaige Anpassungen, die Sie vornehmen mussten. Verwenden Sie Ihre Katalogisierungssprache.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed the symbols **?**, **+**, and **t** to represent standardized remarks. This practice was discontinued with the introduction of Muscat, and instead explanatory notes in natural language are put into the field **General note (031 $q)**. The symbols were the following:
-- **?** = Error in the incipit could not be corrected.
-- **+** = Error in the incipit has been corrected.
-- **t** = The incipit has been transcribed into modern notation.
+**Altdaten**: Ältere RISM-Katalogrichtlinien erlaubten die Symbole **?**, **+**und **t** um standardisierte Anmerkungen zu repräsentieren. Diese Praxis wurde mit der Einführung von Muscat aufgegeben. Stattdessen werden Erläuterungen im Feld **Kommentar zum Musikincipit (031 $q)** gemacht. Die Symbole waren folgende:
+- **?** = Fehler im Incipit konnte nicht korrigiert werden.
+- **+** = Fehler im Incipit wurde korrigiert.
+- **t** = Das Incipit wurde in die moderne Notation übertragen.
 
 
-#### Scoring in movement (031 $z)
+#### Besetzung Satz ($z)
 
-In this field, you can indicate the specific scoring for the particular movement in question (such as a movement within a complex vocal piece). List the scoring on one line using RISM instrument abbreviations and in the standard order (described in **Scoring summary [240 $m]**). Use a semicolon to separate instrument families.
+In diesem Feld können besondere Angaben zur Besetzung des Satzes (beispielsweise innerhalb von umfangreichen Vokalwerken) eingetragen werden. Aufgeführt werden die Stimmbezeichnungen entsprechend der Standardreihenfolge (beschrieben in **Besetzungshinweis [240 $m]**). Die jeweiligen Stimmgruppen werden durch Semikolon getrennt.
 
-##### Examples
+##### Beispiele
 
 - S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]
 - S 2 solo; Coro; ob obl; strings, bc
