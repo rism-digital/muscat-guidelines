@@ -84,30 +84,30 @@ Zusätzlich ermittelte Texte, die nicht in der Quelle stehen, können hier angeg
 
 **Nicht-lateinische Schriften:** Wenn Ihre Quelle ein Textincipit enthält, das nicht-lateinische Buchstaben oder Zeichen verwendet (kyrillisches/griechisches/hebräisches/koreanisches Alphabet, chinesische Schriftzeichen usw.), geben Sie das **Textincipit** in der Originalschrift ein. Übersetzungen oder Transliterierungen sind fakultativ und können als zusätzliches Textincipit eingetragen werden. Fügen Sie Übersetzungen, die nicht in der Quelle enthalten sind, in eckigen Klammern hinzu. Sie können in jede der RISM-Sprachen übersetzen.
 
-**Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file **Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. If the text incipit is used as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have been determined by research.
+**Gesonderte Regeln für lateinische Texte:** Geben Sie sowohl geistliche als auch weltliche lateinische Texte ein. Das Feld ist mit der Normdatei **Titel/Textincipit** verknüpft. Innerhalb des Indexes **Titel / Textincipit** können Sie sich durch den Indikator **t** über den genauen liturgischen Kontext, Varianten und anderes in formieren. Wird für das Textincipit als Einordnungstitel benutzt, so wird muss auf genaue Übereinstimmung der Schreibweise geachtet werden. Der lateinische Text wird im Einordnungstitel allerdings nur bis zu dem Trennungszeichen, einem Komma, angegeben. Lateinische Texte, die nicht in der Quelle genannt sind, sondern recherchiert wurden, werden in eckigen Klammern eingetragen.
 
-Standard Latin texts usually match the texts in the _Liber usualis_. In RISM, these texts usually contain a comma. For example, when you search for the text "Et in terra pax", you will see about a dozen options, but only 1 has a comma and this source is used 4,800 times in the database. Therefore it is the one we want – presuming this matches your source. If your text incipit is only "Et in terra pax" then this means your source (1) contains only these words or (2) continues in a way that is different from the _Liber usualis_. This is of course possible, but in most cases you want the version with the comma.
+Lateinische Standardtexte entsprechen in der Regel den Texten im _Liber usualis_. In RISM enthalten diese Texte normalerweise ein Komma. Wenn Sie z. B. nach dem Text "Et in terra pax" suchen, erhalten Sie etwa ein Dutzend Optionen, aber nur eine davon hat ein Komma, und diese Quelle wird in der Datenbank 4.800 Mal verwendet. Deshalb ist es genau das, was wir wollen - vorausgesetzt, es stimmt mit Ihrer Quelle überein. Wenn Ihr Textinicpit nur "Et in terra pax" lautet, dann bedeutet dies, dass Ihre Quelle (1) nur diese Worte enthält oder (2) in einer Weise fortgesetzt wird, die sich vom _Liber usualis_ unterscheidet. Das ist natürlich möglich, aber in den meisten Fällen ist die Version mit dem Komma vorzuziehen.
 
 
-#### Key or mode (031 $r)
+#### Tonart, Modus (031 $r)
 
-Select the key or mode of the incipit from the list.
+Wählen Sie einen Tonart aus der Auswahlliste aus.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed multiple key signatures to be entered in this field, separated by a semicolon. This practice was discontinued with the introduction of Muscat.
+**Altdaten**: Ältere RISM-Katalogisierungsrichtlinien erlaubten die Eingabe mehrerer Tonarten in diesem Feld, getrennt durch ein Semikolon. Diese Praxis wurde mit der Einführung von Muscat eingestellt.
 
-#### Key signature (031 $n)
+#### Globalvorzeichen (031 $n)
 
-Enter **x** for sharp keys or **b** for flat keys, followed by capital letters of the pitches to be raised or lowered. If a piece is clearly in a certain key but a sharp or flat is not in the key signature, the missing sharps or flats may be added in square brackets.
+Kreuztonarten werden mit **x**, B-Tonarten mit **b** gekennzeichnet, gefolgt von den Großbuchstaben der Tonhöhen, die erhöht oder erniedrigt werden sollen. Steht ein Stück eindeutig in einer bestimmten Tonart, aber ist ein Kreuz oder ein b nicht in der Tonartvorzeichnung enthalten, können die fehlenden Kreuze oder b in eckigen Klammern hinzugefügt werden.
 
-If there is no key signature, leave the field blank.
+Sind keine Globalvorzeichen vorhanden, bleibt das Feld leer.
 
-##### Examples
+##### Beispiele
 
-- xF = F is sharp = G major or E minor
-- bBE = B and E are flat = B-flat major or G minor
-- xFC[G] = F and C are sharp in the source but the piece is clearly in A major, so the last sharp is added in square brackets
+- xF = Ton F wird erhöht => G-Dur oder e-Moll
+- bBE = Töne B und E werden erniedrigt = B-Dur oder g-Moll
+- xFC[G] = Töne F und C werden erhöht. Das Stück steht jedoch eindeutig in A-Dur. Also ist die letzte Erhöhung zu ergänzen
 
-#### Time signature (031 $o)
+#### Metrum (031 $o)
 
 Enter time signatures as fractions. The following are also allowed:
 
