@@ -41,48 +41,48 @@ Die dreistellige Incipitnummer muss innerhalb eines Datensatzes eindeutig sein. 
 
 #### Satztitel, Tempo (031 $d)
 
-Der Satztitel, das Tempo oder ähnliche Angaben werdn in originaler Schreibweise wiedergegeben. Zeilenumbrüche werden durch den geraden Strich **\|** mit einem Leerzeichen davor und danach gekennzeichnet. Use square brackets to indicate supplements to the original; any such additions should be spelled consistently. Multiple titles or additional tempo markings can be added in separate fields. If you are entering multiple incipits for which the title or tempo indication is the same, enter it only for the first music incipit.
+Der Satztitel, das Tempo oder ähnliche Angaben werdn in originaler Schreibweise wiedergegeben. Zeilenumbrüche werden durch den geraden Strich **\|** mit einem Leerzeichen davor und danach gekennzeichnet. Ergänzungen zum originalen Zitat stehen immer in eckigen Klammern; diese sollten einheitlich geschrieben werden. Mehrere Titel oder zusätzliche Tempoangaben können in separaten Feldern hinzugefügt werden. Bleibt die Angabe innerhalb eines Satzes gleich, wird der Titel bzw. das Tempo nur im ersten Incipit angegeben.
 
-**Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
+**Altdaten**: Ältere RISM-Richtlinien erlaubten die Formulierung "Without tempo", um anzuzeigen, dass ein Satz mehrere Tempoangaben hat, von denen eine oder mehrere nicht bekannt sind. Mehrere Tempobezeichnungen wurden nacheinander, durch Semikolon getrennt, eingegeben.
 
 
-#### Voice/instrument (031 $m)
+#### Besetzung (031 $m)
 
-Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Indicate the tuning of an instrument in the **General note** field. If the instrument is a transposing instrument, you may enter it at notated pitch or at sounding pitch. In the field **General note (031 $q)**, indicate which option you used.
+Geben Sie die Vokalstimme oder das Instrument mit Hilfe der Liste **RISM-Instrumentenabkürzungen** ein. Verwenden Sie **V** für eine unbekannte Vokalstimme. Verwednen Sie **i** für ein unbekanntes Instrument. Die Stimmung des Instruments wird im Feld **Bemerkungen** genannt. Wenn es sich um ein transponierendes Instrument handelt, können Sie es in der notierten oder der klingenden Tonhöhe eingeben. Geben Sie im Feld **Kommentar zum Incipit (031 $q)** an, welche Option Sie verwendet haben.
 
-##### Examples
+##### Beispiele
 
 - pf
 - Coro T
 - org with text
 
-**Obsolete procedures**: Older RISM guidelines required music incipits for transposing instruments to be entered at sounding pitch.
+**Altdaten**: Ältere RISM-Richtlinien verlangten, dass Notenincipits für transponierende Instrumente in klingender Tonhöhe eingegeben werden müssen.
 
-#### Role (031 $e)
+#### Rolle (031 $e)
 
-Enter the standardized dramatic role name here. If you fill out this field, make sure to also fill out the field **Dramatic role named (595)**. Indicate any editorial additions with square brackets. Indicate any questionable information with a question mark.
+Angabe der zum Incipit gehörenden Rolle in standardisierter Form. Wenn Sie dieses Feld ausfüllen, müssen Sie auch das Feld **Rollennamen (595)** ausfüllen. Mit eckigen Klammern wird eine Ergänzung gekennzeichnet. Mit Fragezeichen wird eine unsichere Rollenangabe gekennzeichnet.
 
-#### Text incipit (031 $t)
+#### Textincipit (031 $t)
 
-A text incipit consists of the first few words of the piece or section and can be the first line, first phrase, or other group of words that make linguistic sense. Text incipits serve to identify the text used and do not necessarily need to match the length of music given in the music incipit. Text incipits can be included regardless of whether a music incipit is entered. Note that separate rules apply to texts in Latin (see below).
+Ein Textincipit besteht aus den ersten Wörtern eines Textes oder Abschnitts. Es kann sich dabei um die erste Zeile, den ersten Satz oder eine andere Gruppe von Wörtern handeln, die sprachlich Sinn ergeben. Textincipits dienen dazu, den verwendeten Text zu identifizieren, und müssen nicht unbedingt mit der Länge der Notenincipits übereinstimmen. Texincipits können unabhängig von der Eingabe eines Musikincipits aufgenommen werden. Beachten Sie, dass für Texte in lateinischer Sprache gesonderte Regeln gelten (siehe unten).
 
-Text incipits are given in standardized form. Enter the text incipit using modern spelling. Refer to the index **Title/text incipits** to help standardize your entry. Enter new incipits if they are not in the index.
+Textincipits werden in standardisierter Form angegeben. Geben Sie das Textincipit in moderner Rechtschreibung ein. Normieren Sie die Eingabe mit Hilfe des Index **Titel/Textincipit**. Geben Sie neue Texte ein, sofern diese noch nicht im Index vorhanden sind.
 
-Do not put portions of the text in square brackets or supply missing words. Omit punctuation marks and repetitions in the text.
+Teilklammerungen des Textes sind nicht erlaubt. Emphatische Akzente, Satzzeichen und Wiederholungen im Text entfallen.
 
-Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at the beginnings of texts as words. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter.
+Akzente werden nur so verwendet, wie sie im Wörterbuch stehen und grammatikalisch richtig sind. Ziffern zu Beginn des Textes werden in Worte umgeschrieben. Die Groß-/Kleinschreibung richtet sich nach den Regeln der jeweiligen Sprache; jedoch werden Bezeichnungen für Gott (Herr, Dio, Dieu, Signore, Lord, etc.) stets groß geschrieben. Wird für den Einordnungstitel (240) das Textincipit verwendet, muss auf genaue Übereinstimmung in Länge und Schreibweise geachtet werden.
 
-Omit the text entirely if you cannot read it and add a note saying "Text illegible" or similar.
+Wenn Sie den Text nicht lesen können, lassen Sie ihn vollständig weg und fügen Sie einen Vermerk wie „Text unleserlich“ oder ähnliches hinzu.
 
-In Romance languages, continue the text directly after an apostrophe and without a space. An exception to this rule is when the first letter of a word is replaced by an apostrophe (for example: Fra l'amante e 'l genitor).
+Nach Apostroph wird in den romanischen Sprachen immer ohne Leerzeichen weiter geschrieben. Ausnahme von der Regel: wenn der Anfangsbuchstabe eines Wortes durch Apostroph ersetzt ist (z. B. Fra l'amante e 'l genitor).
 
-Ascertained or derived texts that do not appear on the source can be given here. In such cases, put the entire text in square brackets. Among these texts are:
+Zusätzlich ermittelte Texte, die nicht in der Quelle stehen, können hier angegeben werden. In solchen Fällen steht der gesamte Text in eckigen Klammern. Dazu gehören:
 
-- Texts if a vocal part is missing
-- Text incipits in the original language of the work when the source contains a translated version
-- Texts of vocal compositions which became the theme of a variation or the basis of an instrumental arrangement
+- Ergänzte Texte, wenn Vokalstimmen fehlen
+- Textincipits in der Originalsprache des Werks, wenn die Quelle eine übersetzte Fassung bietet
+- Texte von Vokalkompositionen, die Thema einer Variation oder Vorlage einer instrumentalen Bearbeitung wurden
 
-**Non-Latin scripts:** If your source has a text incipit that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Text incipit** using the original script. Translations or transliterations are optional and may be added in additional text incipit fields. Add translations not on the source in square brackets. You may translate into any of the RISM languages.
+**Nicht-lateinische Schriften:** Wenn Ihre Quelle ein Textincipit enthält, das nicht-lateinische Buchstaben oder Zeichen verwendet (kyrillisches/griechisches/hebräisches/koreanisches Alphabet, chinesische Schriftzeichen usw.), geben Sie das **Textincipit** in der Originalschrift ein. Übersetzungen oder Transliterierungen sind fakultativ und können als zusätzliches Textincipit eingetragen werden. Fügen Sie Übersetzungen, die nicht in der Quelle enthalten sind, in eckigen Klammern hinzu. Sie können in jede der RISM-Sprachen übersetzen.
 
 **Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file **Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. If the text incipit is used as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have been determined by research.
 
