@@ -25,4 +25,4 @@ Wenn Sie den Komponisten als **Anonymus** eingeben, geben Sie keinen Zuschreibun
 - **Mutmaßlich** Die Zuschreibung basiert auf Sekundärliteratur, ist aber fraglich.
 - **Fälschlich** Hierbei handelt es sich um eine Fehlzuschreibung. Wenn die Quelle anonym ist, bleibt das Feld leer.
 
-**Altdaten**: Ältere RISM-Katalogisierungsrichtlinien erlaubten die Zuordnung **Gesichert.** Die Zuordnung wurde verwendet, wenn der Name des Komponisten in derselben Form wie die RISM-Ansertzung auf der Quelle erscheint. Diese Praxis wurde mit der Einführung von Muscat eingestellt. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in 2024.
+**Altdaten**: Ältere RISM-Katalogisierungsrichtlinien erlaubten die Zuordnung **Gesichert.** Die Zuordnung wurde verwendet, wenn der Name des Komponisten in derselben Form wie die RISM-Ansertzung auf der Quelle erscheint. Diese Praxis wurde mit der Einführung von Muscat eingestellt. **Zweifelhaft** hat angedeutet, dass die Autorschaft in Frage stand. Dies wurde entfernt und die restlichen Begriffe wurden 2024 geklärt.
