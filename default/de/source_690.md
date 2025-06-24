@@ -1,19 +1,19 @@
-### Catalog of works (690)
+### Werkverzeichnis (690)
 
-The field **Catalog of works** is used to refer to the number used in a thematic catalog or catalog of works to identify a work.
+Das Feld **Werkverzeichnis** wird genutzt, um auf die Nummer zu verweisen, die in einem thematischen Katalog oder Werkverzeichnis zur Identifizierung eines Werks verwendet wird.
 
-If you wish to cite information found in a catalog of works other than the catalog number, use the field **Bibliographic reference (691).**
+Wenn Sie Informationen aus einem Werkverzeichnis zitieren möchten, die nicht die Katalognummer betreffen, verwenden Sie bitte das Feld **Literaturverweis (691).**
 
-#### Catalog of works (690 $a)
+#### Werkverzeichnis (690 $a)
 
-Enter the short title for the thematic catalog or catalog of works (for example, **BWV**). This field is linked to the **Secondary literature** database.
+Geben Sie den Kurztitel des thematischen Katalogs oder Werkverzeichnisses ein (z. B. **BWV**). Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft.
 
 
-#### Number/page (690 $n)
+#### Nummer/Seitenzahl (690 $n)
 
-**Required field if "Catalog of works" is filled out.**
+**Pflichtfeld, wenn "Werkverzeichnis" ausgefüllt ist.**
 
-Enter the catalog number from a works or thematic catalog, or the page number of the piece in that catalog. The RISM Editorial Center determines the appropriate citation style, in keeping with the style of the catalog. The citation style is explained in the corresponding entry in the **Secondary literature** database through $0. If the source contains only one movement of a work, indicate the number of the movement after a slash. Write **deest** if a particular composition is not listed in the composer’s catalog of works.
+In diesem Feld wird die Verzeichnisnummer bzw. die Fundstelle im Werkverzeichnis oder thematischen Katalog angegeben. Die RISM-Zentralredaktion gibt eine Zitierweise vor, die sich am Werkverzeichnis orientiert. Die Zitierweise ist im entsprechenden Datensatz in der Normdatei **Sekundärliteratur** durch $0 erklärt. Enthält die Quelle nur einen Satz eines Werks, wird die Satznummer nach einem Schrägstrich angegeben. Ist eine Komposition nicht im Werkverzeichnis enthalten, wird dies mit der Bezeichnung **deest** kenntlich gemacht.
 
 ##### Beispiele
 - A 14
