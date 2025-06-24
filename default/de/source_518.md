@@ -1,18 +1,18 @@
-### Note on performance (518)
+### Bemerkungen zu den Aufführungen (518)
 
-The field **Note on performance** is for information related to how the source in hand was used in a specific performance. Remarks about performances of the work in general (rather than the source specifically), if relevant, should be entered in the field **General note (500)**.
+Das Feld **Bemerkungen zu den Aufführungen** enthält Informationen darüber, wie die betreffende Quelle bei einer bestimmten Aufführung verwendet wurde. Anmerkungen zu Aufführungen des Werks im Allgemeinen (und nicht speziell zur Quelle) sollten, sofern relevant, in das Feld **Bemerkungen (500)** eingegeben werden.
 
-#### Note on performance (518 $a)
+#### Bemerkungen zu den Aufführungen (518 $a)
 
-Enter information about performances noted on or related to the source here. Enter using your cataloging language. For assistance with the names of performance venues, refer to the list **Opera houses and concert halls**.
+Geben Sie hier Informationen zu Aufführungen ein, die in der Quelle erwähnt werden oder mit ihr in Zusammenhang stehen. Verwenden Sie Ihre Katalogisierungssprache. Für die Bezeichnungen der Opern- und Konzerthäuser dient die Liste **Opernhäuser und Konzertsäle**.
 
-Enter the city in standardized form in the field **Location of performance (651)**. Enter the name of the venue in standardized form in the field **Additional institution (710)**. Dates may be added using normal language in accordance with your cataloging language.
+Die Angabe des Städtenamens erfolgt in normierter Form im Feld **Aufführungsort (651)**. Der Name der Institution wird in standardisierter Form im Feld **Nebeneintragung Körperschaften (710)** angegeben. Daten können entsprechend Ihrer Katalogisierungssprache ergänzt werden.
 
-For printed music, this field should be filled out in the core bibliographic record only in the case of occasional prints (that is, music written for a specific occasion). Performances specific to a certain copy of a printed edition should be entered in the holdings information.
+Bei Musikdrucken werden hier nur Angaben gemacht, wenn es sich um einen Gelegenheitsdruck (d. h. für einen bestimmten Anlass geschriebene Musik) handelt. Angaben zu Aufführungen, die sich auf ein bestimmtes Exemplar des Drucks beziehen, werden im Exemplareintrag gemacht.
 
-##### Examples
+##### Beispiele
 
 - First performance date: 6 September 1791, Prague, National theatre
 - [at foot of title page:] "Performance in Baden Baden on 17 March 1832"
 
-**Obsolete procedures**: Older RISM cataloging programs contained two fields for the date of performances, one in the format DD.MM.YYYY and one with other dates that do not fit that format. 
+**Altdaten**: Ältere RISM-Katalogisierungsprogramme enthielten zwei Felder für das Aufführungsdatum, eines im Format TT.MM.JJJJ und eines für andere Daten, die nicht in dieses Format passten. 
