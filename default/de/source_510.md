@@ -1,16 +1,16 @@
-### RISM series (510)
+### RISM Serien (510)
 
-The field **RISM series (510)** is an administrative field that indicates that the source in hand was originally described in one of the publications belonging to RISM's series A/I or B series.
+Das Feld **RISM Serien (510)** ist ein Verwaltungsfeld, das angibt, dass die vorliegende Quelle ursprünglich in einer der Publikationen der RISM-Serie A/I oder B beschrieben wurde.
 
-This field was automatically filled out when entries from RISM's book publications were imported. Automated imports were carried out for A/I and B/I.
+Dieses Feld wird automatisch bei der Datenübernahme aus gedruckten RISM-Publikationen ausgefüllt. Für A/I und B/I wurden automatisierte Importe durchgeführt.
 
-This field is also used if records are entered by hand for sources described in RISM's series, particularly Series B, but also Series A/I in cases where the original A/I record is split into multiple records. In cases of record splits, the RISM series number is carried over to all new records.
+Dieses Feld wird auch verwendet, um Datensätze für in den RISM-Serien beschriebene Quellen manuell einzugeben, insbesondere für die Reihe B, aber auch für die Reihe A/I, wenn der ursprüngliche A/I-Datensatz in mehrere Datensätze aufgeteilt wurde. Bei einer Splittung von Datensätzen wird die RISM-Seriennummer auf alle neu erstellten Datensätze übertragen.
 
-This field may not be used as a cross-reference to other sources or to indicate that a source is absent from a RISM publication. For the former, see **RISM series A/I and B reference (596)** and for the latter see **Bibliographic reference (691)**.
+Dieses Feld darf weder als Querverweis auf andere Quellen noch als Hinweis darauf verwendet werden, dass eine Quelle in einer RISM-Publikation fehlt. Für Ersteres siehe **Querverweise zu RISM A/I und RISM B (596)** und für Letzteres siehe **Literaturverweis (691)**.
 
-#### Series (510 $a)
+#### Serie (510 $a)
 
-Select the RISM series that contains the description of the source. The following series are available:
+Wählen Sie die RISM-Serie aus, die die Beschreibung der Quelle enthält. Folgende Serien sind verfügbar:
 - A/I
 - B/I
 - B/II
@@ -19,8 +19,8 @@ Select the RISM series that contains the description of the source. The followin
 - B/VII
 - B/VIII
 
-Contact the Editorial Center if you wish to add sources from a series not on the list.
+Kontaktieren Sie die Zentralredaktion, wenn Sie Quellen aus einer Serie hinzufügen möchten, die nicht in der Liste steht.
 
-#### Number/page (510 $c)
+#### Nummer/Seitenzahl (510 $c)
 
-Enter the reference to the piece in the RISM series. Note that each volume has a different way of referring to sources; some have individual numbers while others require page numbers. Note that each volume has a different way of referring to sources; some have individual numbers while others require page numbers.  
+Geben Sie den Verweis auf das Werk in der RISM Serie ein. Beachten Sie, dass jeder Band eine andere Art der Quellenangabe verwendet; einige verwenden individuelle Nummern, während andere Seitenangaben erfordern. Für die Zitierweise siehe den entsprechenden Datensatz für jeden Band in der Normdatei **Sekundärliteratur**.  
