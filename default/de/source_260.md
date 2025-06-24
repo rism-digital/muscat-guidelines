@@ -16,7 +16,7 @@ In diesem Feld ist bei Drucken der Name des Verlags, Verlegers oder des Vertrieb
 
 Bei Manuskripten geben Sie den Namen des Schreibers, wie er auf der Quelle erscheint, an.
 
-Standardisierte Angaben der Personennamen werden im Feld **Nebeneintragung Personen (700)** oder **Nebeneintragung Körperschaften (710)** gemacht. Geben Sie den Namen des Druckers oder der Druckerei ein, wie er auf der Quelle angegeben ist.
+Standardisierte Angaben der Namen werden im Feld **Nebeneintragung Personen (700)** oder **Nebeneintragung Körperschaften (710)** gemacht. Geben Sie den Namen des Druckers oder der Druckerei ein, wie er auf der Quelle angegeben ist.
 
 Fehlt auf einem Druck die Nennung des Verlages, ist dies mit **[s.n.]** kenntlich zu machen. (Indizieren Sie [s.n.] nicht als zusätzliche Institution). Bei Manuskripten entfällt eine Angabe.
 
@@ -79,13 +79,13 @@ Für ungefähre Zeiträume geben Sie einen Bereich von Jahren ein, der auf den f
 - 18.sc (18. Jahrhundert)
 - 18/19 (18. oder 19. Jahrhundert)
 
-Furthermore, previous cataloging programs had two fields for dating. One was for numbers only and the second was a text field where numbers plus abbreviations such as _+, ca., ante, post,_ and _18.sc_ or text such as _Easter 1805_ or _?1745?_ could be entered. Some legacy records, therefore, display two date indications, such as _1806 (1806 ca.)_. Dates written in the format XX.XX.XXXX are interpreted as DD.MM.YYYY.
+Darüber hinaus hatten frühere Katalogisierungsprogramme zwei Felder für die Datierung. Das erste Feld war nur für Zahlen vorgesehen, das zweite war ein Textfeld, in das Zahlen und Abkürzungen wie _+, ca., ante, post,_ und _18.sc_ oder Texte wie _Ostern 1805_ oder _?1745?_ eingegeben werden konnten. Einige ältere Datensätze enthalten daher zwei Datumsangaben, beispielsweise _1806 (ca. 1806)_. Daten im Format XX.XX.XXXX werden als TT.MM.JJJJ interpretiert.
 
 
-#### Location of printer (260 $e)
+#### Druckort (260 $e)
 
-Enter the location of the institution associated with printing, duplicating, etc. as given on the source.
+Hier wird der Standort der Druckerei angegeben, sofern dies auf der Quelle vermerkt ist.
 
-#### Name of printer (260 $f)
+#### Drucker, Druckerei (260 $f)
 
-Enter the name of the printer or press as given on the source. Always enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional institution (710)**.
+Geben Sie den Namen des Druckers oder der Druckerei, wie auf der Quelle angegeben, ein. Standardisierte Angaben der Namen werden im Feld **Nebeneintragung Personen (700)** oder **Nebeneintragung Körperschaften (710)** gemacht.
