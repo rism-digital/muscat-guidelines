@@ -1,14 +1,14 @@
-### Description summary (520)
+### Zusammenfassende Beschreibung (520)
 
-The field **Description summary** gives a concise statement about the content of the source.
+Das Feld **Zusammenfassende Beschreibung** gibt eine kurze Erklärung zum Inhalt der Quelle.
 
-#### Description summary (520 $a)
+#### Zusammenfassende Beschreibung (520 $a)
 
-Here you may enter brief, general information about the work or sections of it. Enter in English.
+Hier werden pauschale Angeben zum Werk bzw. zu Werkteilen gemacht. Die Angaben sind in Englisch zu machen.
 
-More detailed information about the contents of the item can be given in the field **Contents note (505)**.
+Eine ausführliche Inhaltsbeschreibung erfolgt in **Bemerkungen zur Inhaltsangaben (505)**.
 
-##### Examples
+##### Beispiele
 
 - 5 sonatas, 2 fantasies
 - 5 motets, 2 masses, 1 Magnificat
