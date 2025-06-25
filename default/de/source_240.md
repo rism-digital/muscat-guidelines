@@ -1,17 +1,17 @@
 ### Einordnungstitel (240)
 
-The field **Standardized title** is for the title in a standardized form. The standardized title brings compositions together under the same title which, despite having a variety of names, are the same or similar. Auch Einordnungstitel oder Einheitssachtitel genannt.
+Das Feld **Einordnungstitel** ist für den Titel in standardisierter Form vorgesehen. Der standardisierte Titel fasst unterschiedlich benannte, aber gleiche oder ähnliche Kompositionen unter einem einheitlichen Titel zusammen. Auch Einordnungstitel oder Einheitssachtitel genannt.
 
-_MARC export note:_  
-The field **Standardized title** is exported as MARC 130, with the same subfields as 240, when the record does not include a name in the field **Composer/Author (100)**.
+_MARC-Exporthinweis:_  
+Das Feld **Standardisierter Titel** wird als MARC 130 exportiert, mit denselben Unterfeldern wie 240, wenn der Datensatz keinen Namen im Feld **Komponist/Autor (100)** enthält.
 
-#### Besetzungshinweis (240 $m)
+#### Einordnungstitel (240 $a)
 
 **Pflichtfeld**
 
-Enter the title in a standardized form. The field is linked to the **Title/Text incipit** index through $0. Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Alternative Titel werden bei **Alternativer Einordnungstitel (730)** eingetragen.
+Geben Sie den Titel in standardisierter Form ein. Das Feld ist über $0 mit dem Index **Titel / Textincipits** verknüpft. Fragliche Titelansetzungen werden am Ende mit einem Fragezeichen gekennzeichnet (beispielsweise **Die Zauberflöte?**). Eckige und runde Klammern sind nicht zulässig. Alternative Titel werden bei **Alternativer Einordnungstitel (730)** eingetragen.
 
-A standardized title can be generated from the following, in order of preference:
+Als Einordnungstitel kommen in Frage:
 
 1. Individualtitel
 2. Textincipits
@@ -20,22 +20,22 @@ A standardized title can be generated from the following, in order of preference
 
 ##### 1. Individualtitel
 
-Distinctive titles include all kinds of stage works, oratorios, cantatas, and songs, and also certain kinds of instrumental music (such as character pieces from the 18th century with a distinctive, individual title).
+Mit einem Individualtitel werden in der Regel alle Arten von Bühnenwerken, Oratorien, Kantaten und Lieder oder auch Instrumentalwerke (z. B. Charakterstücke des 18. Jahrhunderts mit eindeutigem Individualtitel) eingeordnet.
 
-Enter the distinctive title in standard spelling as in (1) New Grove, (2) MGG, (3) catalogs of works, and/or (4) other reference books. Lassen Sie den Artikel zu Beginn nicht weg (the, a, an, der, die, le, l', etc.).
+Geben Sie den Titel entsprechend der Schreibweise in (1) New Grove, (2) MGG, (3) Werkverzeichnisse, (4) weitere Nachschlagewerke ein. Lassen Sie den Artikel zu Beginn nicht weg (the, a, an, der, die, le, l', etc.).
 
-Titel von Drucken und populäre Namen (wie „Eroica“ oder „Nelson-Messe“ etc.) gelten nicht als Einordnungstitel. Such names are entered in the field **Additional titles (730 $a)**.
+Titel von Drucken und populäre Namen (wie „Eroica“ oder „Nelson-Messe“ etc.) gelten nicht als Einordnungstitel. Solche Namen werden in **Alternativer Einordnungstitel (730 $a)** eingegeben.
 
-In English, sentence case is preferred. In French, the simplified French rules ([Règles simplifiées](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#Titres_d%E2%80%99%C5%93uvres_ou_de_p%C3%A9riodiques)) are preferred.
+Im Englischen wird die Großschreibung von Satzanfängen bevorzugt. Im Französischen werden die vereinfachten französischen Regeln ([Règles simplifiées](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#Titres_d%E2%80%99%C5%93uvres_ou_de_p%C3%A9riodiques)) bevorzugt.
 
-###### Examples
+###### Beispiele
 
 - Die Forelle
 - Die Zauberflöte
 - The beggar's opera
 - L'italiana in Algeri
 
-##### 2. Text incipit
+##### 2. Textincipit
 
 Enter the text incipit as the standardized title for vocal pieces if there is no distinctive title.
 
