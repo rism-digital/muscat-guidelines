@@ -21,7 +21,7 @@ Wählen Sie einen Indikator, um die Gewissheit der Zuschreibung anzuzeigen. Wenn
 Wenn Sie den Komponisten als **Anonymus** eingeben, geben Sie keinen Zuschreibungsvermerk ein.
 
 - **Angeblich** Der Name erscheint auf der Quelle, aber die Zuschreibung ist fraglich oder zweifelhaft.
-- **Ermittelt** Der Name ist teilweise oder gar nicht auf der Quelle genannt, aber die Zuschreibung ist (angemessen) sicher und basiert auf Vergleichen mit konkordanten Quellen, Sekundärliteratur oder anderen wissenschaftlichen Ressourcen. This happens in most cases.
+- **Ermittelt** Der Name ist teilweise oder gar nicht auf der Quelle genannt, aber die Zuschreibung ist (angemessen) sicher und basiert auf Vergleichen mit konkordanten Quellen, Sekundärliteratur oder anderen wissenschaftlichen Ressourcen. Dies ist In den meisten Fällen der Fall.
 - **Mutmaßlich** Die Zuschreibung basiert auf Sekundärliteratur, ist aber fraglich.
 - **Fälschlich** Hierbei handelt es sich um eine Fehlzuschreibung. Wenn die Quelle anonym ist, bleibt das Feld leer.
 
