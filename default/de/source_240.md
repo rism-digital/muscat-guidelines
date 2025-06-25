@@ -3,7 +3,7 @@
 Das Feld **Einordnungstitel** ist für den Titel in standardisierter Form vorgesehen. Der standardisierte Titel fasst unterschiedlich benannte, aber gleiche oder ähnliche Kompositionen unter einem einheitlichen Titel zusammen. Auch Einordnungstitel oder Einheitssachtitel genannt.
 
 _MARC-Exporthinweis:_  
-Das Feld **Standardisierter Titel** wird als MARC 130 exportiert, mit denselben Unterfeldern wie 240, wenn der Datensatz keinen Namen im Feld **Komponist/Autor (100)** enthält.
+Das Feld **Einordnungstitel** wird als MARC 130 exportiert, mit denselben Unterfeldern wie 240, wenn der Datensatz keinen Namen im Feld **Komponist/Autor (100)** enthält.
 
 #### Einordnungstitel (240 $a)
 
@@ -31,7 +31,7 @@ Im Englischen wird die Großschreibung von Satzanfängen bevorzugt. Im Französi
 ###### Beispiele
 
 - Die Forelle
-- Die Zauberflöte
+- Die Zauberflöte
 - The beggar's opera
 - L'italiana in Algeri
 
@@ -51,8 +51,8 @@ Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreib
 
 ###### Beispiele
 
-- **Ausschnitte** : Auszüge eines Werkes
-- **Fragmente** : Fragmente
+- Der Mond ist aufgegangen
+- Gloria [mit Textincipit: Gloria, in excelsis Deo et in terra pax]
 
 ##### 3. Gattungsbezeichnungen
 
@@ -181,79 +181,64 @@ Folgende byzantinische Kirchenmodi stehen zur Verfügung:
 
 Bei Skizzen oder Sammlungen werden nur Angaben fällig, sofern sie sinnvoll erscheinen.
 
-Der Besetzungshinweis dient als kurze Zusammenfassung der Gesamtbesetzung (Instrumentierung). Trennen Sie die einzelnen Elemente der Besetzungsangaben durch Kommas. Geben Sie maximal vier Elemente ein. Die ausführliche Auflistung der Besetzung erfolgt im Feld **Besetzung (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
+Der Besetzungshinweis dient als kurze Zusammenfassung der Gesamtbesetzung (Instrumentierung). Trennen Sie die einzelnen Elemente der Besetzungsangaben durch Kommas. Geben Sie maximal vier Elemente ein. Die ausführliche Auflistung der Besetzung erfolgt im Feld **Besetzung (594)**. Der Besetzungshinweis wird in einer Zeile angegeben; wiederholen Sie das Feld nur, um alternative Instrumentierungen anzugeben (siehe unten).
 
-Es gelten die Bezeichnungen gemäß **Abkürzungsliste**. Write out any terms that are not contained in this list in full and in English.
+Es gelten die Bezeichnungen gemäß **Abkürzungsliste**. Darin nicht enthaltene Begriffe werden auf Englisch und ausgeschrieben angegeben.
 
-Modale Tonarten werden nicht in moderne Tonartenbezeichnungen übertragen.
+Ordnen und gruppieren Sie die Besetzung anhand folgender Begriffe:
 
 - Soloinstrumente
-- Chorus
+- Chor
 - Zupfinstrumente
-- Strings
+- Streicher
 - Holzbläser
 - Blechbläser
 - Tasteninstrumente
 - Schlagwerk
-- Keyboard instruments
+- Tasteninstrumente
 - Basso continuo
 
-Eine unbekannte Singstimme wird mit **V,** eine unbekannte Instrumentalstimme mit **i** wiedergegeben. Eine unbekannte Anzahl Stimmen wird mit nachgestelltem **(X)** ausgedrückt. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Also use **V** to group together several different vocal parts, such as **V (8)**.
+Bei mehreren gleichen Gesangsstimmen oder Instrumenten wird die Anzahl in runden Klammern angegeben, z. B. **B (2)**. Eine unbekannte Anzahl Stimmen wird mit nachgestelltem **(X)** ausgedrückt. Verwenden Sie **V** auch um unterschiedliche Stimmlagen zu gruppieren, z. B. **V (8)**. Eine unbekannte Anzahl Stimmen wird mit nachgestelltem **(X)** ausgedrückt.
 
-Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
+Als Soloinstrumente werden nur solche bezeichnet, die gegenüber einem Orchester eine durchgehende Solofunktion haben (vor allem im Solokonzert). Bitte keine Stimmen angeben, die aus dem Tutti heraus einzelne Solopassagen übernehmen (z. B. ein Oboensolo innerhalb eines Kantatensatzes).
 
-In the case of arrangements, the scoring summary refers to the personnel required in the present source, not in the work on which an arrangement is based. If the instrumentation of the original work is known, specify it in the field **General note (500)**. In the case of a **Collection**, only use the field if the particular scoring is applicable to all the works contained in the collection.
+Bei einer Bearbeitung wird die Besetzung der vorliegende Quelle angegeben. Ist die Besetzung des Originalwerks bekannt, wird diese im Feld **Bemerkungen (500)** angegeben. Bei einer **Collection** wird die Besetzung nur angegeben, wenn sie auf alle in der Sammlung enthaltenen Werke zutrifft.
 
-This field may be repeated in cases where alternative instrumentation is suggested, such as a song that is for either soprano or tenor. In such cases, enter each possible instrumentation in a separate field: for example, **S, pf** on one line and **T, pf** on the next.
+Das Feld kann wiederholt werden, um Alternativbesetzungen anzugeben, z. B. ein Lied sowohl für Sopran als auch für Tenor. In solchen Fällen geben Sie jede mögliche Instrumentierung in ein separates Feld ein: zum Beispiel **S, pf** in einer Zeile und **T, pf** in der nächsten.
 
-If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
+Wenn Sie einen bezifferten Bass haben, geben Sie das Instrument wie gewohnt ein, z. B. **b**, **bc**, **org** usw. (siehe auch die Tabellen im Abschnitt **Bezifferter Bass in Partituren und/oder Stimmen** als Orientierungshilfe für verwandte Felder).
 
-Omit the scoring summary if the performing forces are unknown or uncertain.
+Machen Sie keine Angaben, wenn die Besetzung unbekannt oder unsicher ist.
 
-##### Examples
+##### Beispiele
 - A, Coro, orch
 - Bariton, pf
 - V (3), strings, bc
-- V (4), Coro, orch, org   _for a mass_
-- cl, orch _for a clarinet concerto_
+- V (4), Coro, orch, org   _für eine Messe_
+- cl, orch _für ein Klarinettenkonzert_
 
-Use the following standard instrumentation when applicable.
+Verwenden Sie gegebenenfalls die folgenden Standardbesetzungen.
 
-Machen Sie keine Angaben, wenn die Besetzung unbekannt oder unsicher ist.
+Streichquartett
 - vl (2), vla, vlc
 
-_Beispiele_:  
-A, Coro, orch  
-Bariton, pf  
-V (3), strings, bc  
-V (4), Coro, orch, org (= Messe)  
-cl, orch (= Klarinettenkonzert)  
-S, pf  
-T, pf
+Streichquintett (2 Violen)
 - vl (2), vla (2), vlc
 
-Bitte verwenden Sie folgende Standardbesetzung (wenn möglich):  
-Streichquartett: vl (2), vla, vlc  
-Streichquintett (2 Violen): vl (2), vla (2), vlc  
-Streichquintett (2 Celli): vl (2), vla, vlc (2)  
-Streichquintett (mit 2 Bässen): vl (2), vla, vlc, cb  
-Klaviertrio: vl, vlc, pf  
-Bläserquintett: fl, ob, cl, cor, fag  
-Flötenquartett (nur Flöten): fl (4)  
-Flötenquartett (Flöte mit Streicher): fl, vl, vla, vlc
+Streichquintett (2 Celli)
 - vl (2), vla, vlc (2)
 
-String quintet (with double bass)
+Streichquintett (mit Kontrabass)
 - vl (2), vla, vlc, cb
 
-Piano trio
+Klaviertrio
 - vl, vlc, pf
 
-Wind quintet
+Bläserquintett
 - fl, ob, cl, cor, fag
 
-Flute quartet (all flutes)
+Flötenquartett (nur Flöten)
 - fl (4)
 
-Flute quartet (flute with strings)
+Flötenquartett (Flöte mit Streicher)
 - fl, vl, vla, vlc
