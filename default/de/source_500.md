@@ -4,34 +4,34 @@ Das Feld **Bemerkungen** dient zur Angabe von Informationen zu einer Quelle, die
 
 #### Bemerkungen (500 $a)
 
-Geben Sie hier alle weiteren Anmerkungen ein. Verwenden Sie Ihre Katalogisierungssprache. When quoting something on the source, use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Additions to the original quotation should always be in square brackets.
+Geben Sie hier alle weiteren Anmerkungen ein. Verwenden Sie Ihre Katalogisierungssprache. Wenn Sie etwas im Quelltext zitieren, verwenden Sie **\|** (den geraden Strich) mit einem Leerzeichen vor und nach dem Zeichen, um einen Zeilenumbruch anzuzeigen. Ergänzungen zum originalen Zitat stehen immer in eckigen Klammern.
 
-When cataloging the holdings of a single library, try to keep the expressions used as uniform as possible.
+Bitte achten Sie bei der Bearbeitung eines Bibliotheksbestands auf möglichst einheitliche Formulierungen.
 
-What follows are examples of types of information that can be included as a note. This list is not exhaustive.
+Im Folgenden finden Sie Beispiele von möglichen Informationen, die als Hinweis aufgenommen werden können. Diese Liste ist nicht vollständig.
 
-- **Instrumentation**  
-  If you have a figured bass in a score, indicate it here in the following manner: b = b.fig, bc = bc.fig, org = org.fig, etc. (see also the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
- - Scoring of second Agnus Dei: S, A, T, T, B
+- **Instrumentierung**  
+  Wenn Sie einen bezifferten Bass in einer Partitur haben, geben Sie ihn hier in der folgenden Weise an: b = b.fig, bc = bc.fig, org = org.fig usw. (siehe auch die Tabellen im Abschnitt **Bezifferte Bässe in Partituren und/oder Stimmen** als Anleitung für die entsprechenden Felder).
+ - Besetzung des zweiten Agnus Dei: S, A, T, T, B
  - org = org.fig
-- **Missing parts**
+- **Fehlende Stimmen**
  - Other parts missing
-- **Observations**
- - Evidence present of another copyist.
- - The material consists of arias with paraphrased text from Jommelli’s opera.
+- **Beschreibungen**
+ - Es gibt Hinweise auf einen weiteren Kopisten.
+ - Das Material besteht aus Arien mit paraphrasiertem Text aus Jommellis Oper.
  - Original pagination: 1-12.
- - fl 1 with autograph dynamics
-- **Origin of information ascertained from external sources, such as composer or dating**
- - According to FlotzingerL 1965, composer is Mozart.
-- **Printed music**
- - **Designation marks**
-   - Designation mark: “Allgem. Choralbuch.”
- - **Signature marks**
-   - Signature mark: “F 2”
-- **Quotations from the source**
+ - fl 1 mit autographen Eintragungen zur Dynamik
+- **Herkunft von Informationen aus externen Quellen, z. B. Komponist oder Datierung**
+ - Laut FlotzingerL 1965 ist der Komponist Mozart.
+- **Notendrucke**
+ - **Bezeichnungen**
+   - Bezeichnung: „Allgem. Choralbuch.”
+ - **Signaturen**
+   - Signatur: F 2
+- **Zitate aus der Quelle**
  - At foot of title page: "Performance in Baden Baden on 17 March 1832"
  - Note on cello part, f. 8: “Wir streiken für neue Bögen”
-- **References to other RISM records**  
-  Include the complete RISM siglum, the shelfmark, and the RISM ID number.
- - Composer identified based on incipits in D-KPk 282 (RISM ID no. 450035504).
- - Concordant tune at US-Wc M1.A1A (RISM ID no. 000118313) has title "Jove in his chair".
+- **Verweise auf andere RISM-Datensätzen**  
+  Fügen Sie das vollstädnige RISM-Bibliothekssigel, die Signatur und die RISM-ID Nummer ein.
+ - Komponist identifiziert anhand von Incipits in D-KPk 282 (RISM ID No. 450035504).
+ - Die konzordante Melodie in US-Wc M1.A1A (RISM ID Nr. 000118313) trägt den Titel "Jove in his chair".
