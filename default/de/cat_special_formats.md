@@ -86,18 +86,18 @@ Compilations may be entered on a single record, or they may be entered as collec
 
 Take note of the following fields when cataloging compilations.
 
-- **Composer/Author (100)**  
-  The composer is always **Compilations**.
+- **Komponist/Autor (100)**  
+  Der Komponist ist immer **Compilations**.
 - **Additional personal name (700)**  
   The name of the compiler can be added with the function **Editor**.  
   If you have a compilation, enter the composer(s) of the original material and select the function **Composer cross-reference**. Enter the composer(s) of the new material and select the function **Co-composer**.   
   If you have a pasticcio, do not enter composers as a composer cross-references. Instead, enter all composers as a **Co-composer**.
-- **Standardized title (240)**  
-  Enter the standardized title of the source in hand. For pasticcios, add **Excerpts** or **Arrangement** as appropriate.
-- **Language code (041)**  
-  For the field **Language of text**, enter the language of the source in hand. If appropriate, the language of the original work can be entered in **Language of original text**.
-- **Subject heading (650)**  
-  The first subject heading should be **Compilations** and/or **Pasticcios**. The second should be the genre of the source in hand. If you have excerpts, the genre of the excerpt can be added. **Collaborative compositions** is also an option.
+- **Einordnungstitel (240)**  
+  Verwenden Sie den Einordnungstitel der voliegenden Quelle. Bei Pasticcios fügen Sie **Auszüge** oder **Bearbeitung** hinzu.
+- **Sprachcode (041)**  
+  In das Feld **Sprachcode** geben Sie die Sprache der vorliegenden Quelle ein. Die Sprache des Originalwerks kann gegebenenfalls in **Sprachcode des Originaltextes** eingegeben werden.
+- **Schlagwort (650)**  
+  Das erste Schlagwort sollte **Compilations** und/oder **Pasticcios** sein. Das zweite sollte die Gattung der vorliegenden Quelle betreffen. Falls Sie Auszüge haben, kann die Gattung des Ausschnitts hinzugefügt werden. **Collaborative compositions** ist ebenfalls eine Option.
 - **Description summary (520)**  
   Use this field to describe in general the nature of the source.
  - Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
