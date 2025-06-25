@@ -98,29 +98,29 @@ Take note of the following fields when cataloging compilations.
   In das Feld **Sprachcode** geben Sie die Sprache der vorliegenden Quelle ein. Die Sprache des Originalwerks kann gegebenenfalls in **Sprachcode des Originaltextes** eingegeben werden.
 - **Schlagwort (650)**  
   Das erste Schlagwort sollte **Compilations** und/oder **Pasticcios** sein. Das zweite sollte die Gattung der vorliegenden Quelle betreffen. Falls Sie Auszüge haben, kann die Gattung des Ausschnitts hinzugefügt werden. **Collaborative compositions** ist ebenfalls eine Option.
-- **Description summary (520)**  
-  Use this field to describe in general the nature of the source.
+- **Zusammenfassende Beschreibung (520)**  
+  Verwenden Sie dieses Feld, um die Art der Quelle allgemein zu beschreiben.
  - Act 1 by Amadei, act 2 by Bononcini, overture and act 3 by Händel
-- **Alternate title (730)**  
-  Enter the standardized title of the original piece(s), adding **Excerpts** or **Arrangement** as appropriate. You can also enter ossia titles.
-- **Catalog of works (690)**  
-  You can enter the catalog of works number for both the compilation and the original works.
-- **Text incipit (031)**  
-  Enter the text of the source in hand. If known, enter the original text in square brackets.
-- **General note (500)**  
-  Always use a note for clarification, especially if the works of separate composers are involved. This ensures that the composers are matched to the works used in the compilation.
-- **Note on performance (518)**  
-  Performances should be noted only as they relate to the compilation itself.
+- **Alternativer Titel (730)**  
+  Geben Sie den Einordnungstitel des Originalstücks ein und fügen Sie **Ausschnitte** oder **Bearbeitung** hinzu. Sie können auch Ossia-Titel eingeben.
+- **Werkverzeichnis (690)**  
+  Sie können Werkverzeichnisangaben sowohl für die Kompilation als auch für die Originalwerke eingeben.
+- **Textincipit (031)**  
+  Geben Sie den Text der vorliegenden Quelle ein. Falls bekannt, ergänzen Sie den Originaltext in eckige Klammern.
+- **Bemerkungen (500)**  
+  Verwenden Sie immer einen Vermerk zur Erläuterung, insbesondere wenn es sich um Werke verschiedener Komponisten handelt. Dadurch wird sichergestellt, dass die Komponisten mit den in der Kompilation verwendeten Werken übereinstimmen.
+- **Bemerkungen zu den Aufführungen (518)**  
+  Aufführungen sollten nur erwähnt werden, wenn sie sich auf die Kompiliation beziehen.
 
-#### Examples of compilations
+#### Beispiele für Compilations
 
-- 230001408: Cantata made from opera arias with newly composed recitatives
-- 702000623: Suite made from parts of an opera
-- 700007222: Several works by a single composer used to create a new cantata
-- 702000642, 702000643: Several works by several composers used to create a new suite
-- 452505748: An opera pasticcio consisting of 3 acts by 3 different composers
+- 230001408: Kantate aus Opernarien mit neu komponierten Rezitativen
+- 702000623: Suite aus Teilen einer Oper
+- 700007222: Mehrere Werke eines einzelnen Komponisten wurden verwendet, um eine neue Kantate zu erstellen
+- 702000642, 702000643: Mehrere Werke mehrerer Komponisten, die zur Erstellung einer neuen Suite verwendet wurden
+- 452505748: Eine Operpasticcio bestehend aus 3 Akten von 3 verschiedenen Komponisten
 
-### Parodies
+### Parodien
 
 A **parody** is a composition based on pre-existing material that results in a new work. In the 19th century, the term gains a satirical flavor.
 
