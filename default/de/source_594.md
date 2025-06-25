@@ -1,22 +1,22 @@
-### Total scoring (594)
+### Besetzung (594)
 
-The field **Total scoring** is used to indicate all of the voices or instruments that are needed to perform the piece. "Scoring" is also known as performing forces, medium of performance, or instrumentation (which here includes vocal parts).
+Das Feld **Besetzung** wird verwendet, um alle Stimmen oder Instrumente anzugeben, die benötigt werden, um das Stück auszuführen. Als „Besetzung“ werden auch „Ausführungsanweisungen“, „Ausführungsmedium“ oder „Instrumentierung“ (zu der auch die Vokalstimmen zählen) bezeichnet.
 
-While the field **Scoring summary** (240 $m) givies the scoring of a work in brief, the **Total scoring** gives the scoring of a work in full. While the field **Scoring summary** (240 $m) gives the scoring of a work in brief, the **Total scoring** gives the scoring of a work in full.
+Während das Feld **Besetzungshinweis (240 $m)** die Besetzung eines Werks in Kurzform angibt, gibt das Feld **Besetzung** die vollständige Besetzung eines Werks an. Aus diesem Grund muss der **Besetzungshinweis** immer mit den Angaben in Besetzung korrelieren.
 
-The total scoring should be as complete as possible, regardless of whether the source in hand is complete.
+Die Besetzung sollte so vollständig wie möglich sein, unabhängig davon, ob die vorliegende Quelle vollständig ist.
 
-#### Voice/instrument (594 $b)
+#### Besetzung (594 $b)
 
 **Pflichtfeld**
 
-Enter the voices or instruments using RISM abbreviations. Use the autocomplete in this field to help you. An alphabetical list of abbreviations can be found in the RISM instrument abbreviations list. General instrumental designations (such as strings) are always in English and individual instruments are in Italian whenever possible. Other specific, regional instruments should be written in the original language.
+Geben Sie die Stimmen oder Instrumente mittels RISM-Abkürzungen ein. Bei der Eingabe können Sie das Autocomplete zu Hilfe nehmen. Eine alphabetische Liste der Instrumentenbezeichnungen finden Sie in der RISM Abkürzungsliste. Allgemeine Instrumentenbezeichnungen (z. B. strings - Streicher) stehen immer in englischer Sprache, die einzelnen Instrumente werden nach Möglichkeit in italienischer Sprache angegeben. Andere spezifische, regionale Instrumente sollten in der Originalsprache geschrieben werden.
 
-Use upper case for vocal parts and lower case for other instrumental parts. Solo instruments begin with **iSol:**.
+Instrumentalstimmen beginnen mit einem Kleinbuchstaben und Vokalstimmen mit einen großen Anfangsbuchstaben. Soloinstrumente werden mit **iSol:** eingeleitet.
 
-If the full scoring requirements are not given, or if your source is incomplete, the total scoring should be ascertained from the title, the material itself, or other reference works. If the scoring is not known, write **no indication**. Any uncertainty can be mentioned in more detail in the field **General note (500)**.
+Wenn die vollständige Besetzung nicht angegeben ist oder Ihre Quelle unvollständig ist, sollten Sie die Besetzung aus dem Titel, dem Material selbst oder anderen Referenzwerken ermitteln. Ist die Besetzung unbekannt, schreiben Sie **no indication**. Jede Unsicherheit kann im Feld **Bemerkungen (500)** näher erläutert werden.
 
-If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
+Wenn Sie einen bezifferten Bass haben, geben Sie das Instrument wie gewohnt ein, z. B. **b**, **bc**, **org** usw. (siehe auch die Tabellen im Abschnitt **Bezifferter Bass in Partituren und/oder Stimmen** als Orientierungshilfe für verwandte Felder).
 
 For non-C instruments, standard tunings are listed in the abbreviation list. If the tuning in your source deviates from the standard tuning, list the tuning in the source (see: **in A**). For instruments that are normally in C, "in C" does not need to be listed. If in doubt, list the tuning. Instrument tunings should be given in English. See **Appendix: Keys**.
 
