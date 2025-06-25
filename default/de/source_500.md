@@ -1,10 +1,10 @@
-### General note (500)
+### Bemerkungen (500)
 
-The field **General note** is for any information on a source which could not be entered in other fields, to supplement the information given in encoded form elsewhere in the record, or to offer any other explanations that would help the reader.
+Das Feld **Bemerkungen** dient zur Angabe von Informationen zu einer Quelle, die nicht in andere Felder eingegeben werden konnten, zur Ergänzung der an anderer Stelle im Datensatz in kodierter Form angegebenen Informationen oder zur Bereitstellung weiterer Erläuterungen, die für den Leser hilfreich sein könnten.
 
-#### General note (500 $a)
+#### Bemerkungen (500 $a)
 
-Enter all other notes here. Enter using your cataloging language. When quoting something on the source, use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Additions to the original quotation should always be in square brackets.
+Geben Sie hier alle weiteren Anmerkungen ein. Verwenden Sie Ihre Katalogisierungssprache. When quoting something on the source, use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Additions to the original quotation should always be in square brackets.
 
 When cataloging the holdings of a single library, try to keep the expressions used as uniform as possible.
 
