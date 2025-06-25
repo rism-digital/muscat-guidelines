@@ -37,151 +37,151 @@ Im Englischen wird die Großschreibung von Satzanfängen bevorzugt. Im Französi
 
 ##### 2. Textincipit
 
-Enter the text incipit as the standardized title for vocal pieces if there is no distinctive title.
+Hat ein Vokalwerk keinen Individualtitel, tritt das Textincipit an seine Stelle.
 
-Entsprechendes gilt für Rezitativ und Cavatine, Scena und Rondo oder ähnliche Kombinationen. If a source consists of a recitative and aria or a scena and aria, the text incipit of the aria is always used as the standardized title. If you have a single opera aria from an opera whose title is unknown, enter the text incipit of the aria.
+Entsprechendes gilt für Rezitativ und Cavatine, Scena und Rondo oder ähnliche Kombinationen. Besteht eine Handschrift aus Rezitativ und Arie oder Scena und Aria wird grundsätzlich das Textincipit der Arie zum Einordnungstitel. Wenn eine einzeln überlieferte Arie vorliegt, deren Operntitel unbekannt ist, geben Sie das Textincipit der Arie ein.
 
-With cantatas, on the other hand, the text of the first vocal piece functions as the standardized title, regardless of whether it is a recitative, aria, or chorus.
+Bei Kantaten dagegen wird der Text des ersten Vokalstücks zum Einordnungstitel, unabhängig davon, ob es ein Rezitativ, eine Arie oder ein Chor ist.
 
-Messen, Requiems, Exsequien, Litaneien und Offiziumskompositionen werden hingegen immer mit der Gattungsbezeichnung eingeordnet. The same is true for complete operas and oratorios whose titles are unknown.
+Messen, Requiems, Exsequien, Litaneien und Offiziumskompositionen werden hingegen immer mit der Gattungsbezeichnung eingeordnet. Dasselbe gilt für vollständige Opern und Oratorien mit unbekanntem Individualtitel.
 
-Capitalize the names of the deity (God, Herr, Dio, Dieu, Signore, Lord, etc.). When entering text incipits, use the orthographic rules of each respective language to dictate use of upper or lower case letters. Omit punctuation marks and repetitions within the incipit. If the item is clearly a translation, enter the standardized title in the original language.
+Bezeichnungen für „Gott“ (Herr, Dieu, Dio, Deus, Lord etc.) werden stets groß geschrieben. Die Groß- und Kleinschreibung richten sich nach den Regeln der jeweiligen Sprache. Interpunktionszeichen und Wiederholungen entfallen beim Einordnungstitel. Bei eindeutigen Übersetzungen wird nach Möglichkeit das Textincipit in der Originalsprache eingetragen.
 
-Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use the text incipit in its entirety for the text incipit.
+Das Textinicipit muss mit demjenigen im Feld **Textincipit (031 $t)** in Schreibweise und Länge übereinstimmen. Bei lateinischen Texten verwenden Sie den Text vor dem Komma (siehe auch Liste im Anhang) als standardisierten Titel. Verwenden Sie jedoch den gesamten Text als Textincipit.
 
-###### Examples
+###### Beispiele
 
 - **Ausschnitte** : Auszüge eines Werkes
 - **Fragmente** : Fragmente
 
-##### 3. Genre
+##### 3. Gattungsbezeichnungen
 
-Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
+Kommen weder Individualtitel noch Textincipit als Einordnungstitel in Frage, wird hier die entsprechende Gattung eingetragen. Der Gattungsbegriff als Einordnungstitel wird in der Regel englischsprachig und im Plural angesetzt (beispielsweise **Operas**). Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem **Schlagwort (650)**. Weitere Informationen finden Sie Anhang **Einordnungstitel - Schlagworte** der **Richtlinien**.
 
-###### Examples
+###### Beispiele
 
-- Vokalsolisten
-- Chor
+- Symphonies
+- Allemandes
 
-##### 4. Tempo indications
+##### 4. Tempobezeichnungen
 
-Enter the tempo indication if the genre cannot be determined. If none of these options are available, use the following terms:
+Lässt sich keine Gattung ermitteln, so kann auch eine Tempobezeichnung eingesetzt werden. Erst wenn auch diese nicht zur Verfügung steht, kann auf folgende Termini zurückgegriffen werden:
 
-- Songs (vocal pieces)
-- Pieces (a generic piece)
-- Movements (a single movement of an instrumental piece without a tempo indication and of indeterminate character)
+- Songs (Gesangsstück)
+- Pieces (nicht näher definierbares musikalisches Stück)
+- Movements (Einzelsatz eines unbestimmten Instrumentalstücks ohne Tempobezeichnung)
 
-###### Examples
+###### Beispiele
 
 - Presto
-- Streicher
+- Lento
 
-#### Special rules
+#### Besondere Regelungen
 
-##### Collections
+##### Collections - Sammlungen
 
-In these cases, a number plus the genre is entered. Enter an Arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.
+In diesen Fällen wird eine Nummer plus das Genre eingegeben. Geben Sie eine arabische Ziffer ein, die angibt, wie viele Werke zur Sammlung gehören, gefolgt von einer möglichst umfassenden Gattungsbezeichnung.
 
-###### Examples
+###### Beispiele
 
 - 25 Arias
 - 3 Instrumental pieces
 
-##### Composite volumes
+##### Composite volumes - Konvolutbände
 
-Enter a number corresponding to the number of items involved plus the English word "Items."
+Geben Sie eine Zahl entsprechend der Nummer der Einheiten mit dem englischen Begriff "Items" an.
 
-###### Example
+###### Beispiel
 
 - 11 Items
 
-##### Variations
+##### Variations - Variationen
 
-Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
+Geben Sie hier **Variations** als Einordnungstitel ein. Geben Sie im Feld **Alternativer Titel (730)** das Werk ein, auf dem die Variation basiert, und wählen Sie **Variationen** unter **Bearbeitung** aus.
 
-##### Insertions
+##### Insertions - Einlagen
 
-Enter the text incipit of the inserted piece as the standardized title here. In the field **Additional title (730)**, enter the name of the opera or larger work and select **Inserts** next to **Subheading.**
+Tragen Sie hier das Textincipit des eingefügten Stückes als Einordnungstitel ein. Geben Sie im Feld **Alternativer Titel (730)** den Namen der Oper oder eines größeren Werks ein und wählen Sie **Insertions** als zusätzliches **Schlagwort.**
 
-##### Non-Latin scripts
+##### Nicht-lateinische Schriften
 
-If your source has a standardized title that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Standardized title** using the original script. Translations or transliterations are optional and may be added in the field **Additional title (730)**.
-
-#### Einordnungstitel (240 $a)
-
-**Skizzen** : Skizzen zu einem Werk
-
-Transpositionen und Umtextierungen gelten nicht als Bearbeitungen. In such cases, enter the name of the responsible person, if known, under **Additional personal name (700)**. Although the works are not considered arrangements, the person is referred to there as "Arranger".
-
-Arrangements should also be distinguished from independent works (free elaborations), such as variations, paraphrases, parodies, and fantasies on themes from the original work.
+Wenn Ihre Quelle einen Titel in nicht-lateinischen Buchstaben oder Zeichen aufweist (griechisches / hebräisches / koreanische / kyrillisches etc. Alphabet, chinesische Zeichen etc.) wird dieser in der ursprünglichen Schrift im **Einordnungstitel** eingetragen. Übersetzungen oder Transliterierungen sind fakultativ und werden im Feld **Alternativer Titel (730)** gemacht.
 
 #### Bearbeitung (240 $o)
 
-Hier wird ein Vermerk zu besonderen Ausgabeformen gemacht. Folgende Angaben sind möglich:
+Handelt es sich bei vorliegendem Werk um eine Bearbeitung eines anderen Werks, wird das in diesem Feld mit **Arrangement** gekennzeichnet.
 
-- **Excerpts**: if only one or several sections of the complete work are present
-- **Fragments**: if only fragments of the work are present
-- **Sketches:** if only sketches of the work are present
+Transpositionen und Umtextierungen gelten nicht als Bearbeitungen. In solchen Fällen wird der entsprechende Name des Bearbeiters, sofern bekannt, unter **Nebeneintragung Personen (700)** angegeben. Obwohl es sich dabei nicht um Bearbeitungen handelt, werden die entsprechenden Personen dort als „Bearbeiter“ bezeichnet.
+
+Bearbeitungen sind ebenfalls zu unterscheiden von eigenständigen Werken (freie Bearbeitungen) wie Variationen, Paraphrasen, Parodien und Phantasien über ein Thema der Vorlage.
 
 #### Unterteilung nach der Form (240 $k)
+
+Hier wird ein Vermerk zu besonderen Ausgabeformen gemacht. Folgende Angaben sind möglich:
+
+- **Auszüge**: wenn nur ein oder mehrere Abschnitte des Gesamtwerks vorhanden sind
+- **Fragmente**: wenn nur Fragmente des Werkes vorhanden sind
+- **Skizzen:** wenn nur Skizzen zu einem Werk vorliegen
+
+#### Tonart (240 $r)
 
 **Besondere Regelungen:**
 
 Handelt es sich bei vorliegendem Werk um eine Bearbeitung eines anderen Werks, wird das in diesem Feld mit **Arr** gekennzeichnet.
 
-In the case of arrangements, enter the key of the original work. If the original key cannot be determined, enter the key of the source in hand; in this case, though, enter a corresponding note in the field **General note (500)**.
+Bei Bearbeitungen wird die Tonart des Originalwerks eingegeben. Ist die Tonart des Vorlagewerks nicht zu ermitteln, bezieht sich die Tonart auf die vorliegende Quelle. In diesem Fall ist eine entsprechende Bemerkung im Feld **Bemerkungen (500)** notwendig.
 
-Bearbeitungen sind ebenfalls zu unterscheiden von eigenständigen Werken (freie Bearbeitungen) wie Variationen, Paraphrasen, Parodien und Phantasien über ein Thema der Vorlage.
+Ist auf der Quelle keine Tonart vorhanden, darf sie nur ergänzt werden, wenn sie eindeutig zu bestimmen ist.
 
-Do not enter a key for: operas, oratorios, and cantatas; recitatives without an ensuing aria; and works for which a key cannot be clearly established.
+Die Angabe entfällt bei: Opern, Oratorien und Kantaten; Recitativen ohne anschließende Arie und wenn sie nicht eindeutig zu bestimmen ist.
 
-Do not translate modes into modern key names.
+Modale Tonarten werden nicht in moderne Tonartenbezeichnungen übertragen.
 
-The following Western church modes are available:
-- 1st tone (Dorian)
-- 1st tone (Dorian), transposed
-- 2nd tone (Hypodorian)
-- 2nd tone (Hypodorian), transposed
-- 3rd tone (Phrygian)
-- 3rd tone (Phrygian), transposed
-- 4th tone (Hypophrygian)
-- 4th tone (Hypophrygian), transposed
-- 5th tone (Lydian)
-- 5th tone (Lydian), transposed
-- 6th tone (Hypolydian)
-- 6th tone (Hypolydian), transposed
-- 7th tone (Mixolydian)
-- 7th tone (Mixolydian), transposed
-- 8th tone (Hypomixolydian)
-- 8th tone (Hypomixolydian), transposed
-- 9th tone (Aeolian)
-- 9th tone (Aeolian), transposed
-- 10th tone (Hypoaeolian)
-- 10th tone (Hypoaeolian), transposed
-- 11th tone (Ionian)
-- 11th tone (Ionian), transposed
-- 2th tone (Hypoionian)
-- 12th tone (Hypoionian), transposed
+Folgende westliche Kirchentonarten stehen zur Verfügung:
+- 1. Ton (Dorisch)
+- 1. Ton (Dorisch), transponiert
+- 2. Ton (Hypodorisch)
+- 2. Ton (Hypodorisch), transponiert
+- 3. Ton (Phrygisch)
+- 3. Ton (Phrygisch), transponiert
+- 4. Ton (Hypophrygisch)
+- 4. Ton (Hypohrygisch), transponiert
+- 5. Ton (Lydisch)
+- 5. Ton (Lydisch), transponiert
+- 6. Ton (Hypolydisch)
+- 6. Ton (Hypolydisch), transponiert
+- 7. Ton (Mixolydisch)
+- 7. Ton (Mixolydisch), transponiert
+- 8. Ton (Hypomixolydisch)
+- 8. Ton (Hypomixolydisch), transponiert
+- 9. Ton (Aeolisch)
+- 9. Ton (Aeolisch), transponiert
+- 10. Ton (Hypoaeolisch)
+- 10. Ton (Hypoaeolisch), transponiert
+- 11. Ton (Ionisch)
+- 11. Ton (Ionisch), transponiert
+- 12. Ton (Hypoionisch)
+- 12. Ton (Hypoionisch), transponiert
 
-The following Byzantine church modes are available:
-- Ēchos prōtos (First mode of Byzantine music)
-- Ēchos deuteros (Second mode of Byzantine music)
-- Ēchos tritos (Third mode of Byzantine music)
-- Ēchos tetartos (Fourth mode of Byzantine music)
-- Ēchos plagios prōtos (First plagal mode of Byzantine music)
-- Ēchos plagios deuteros (Second plagal mode of Byzantine music)
-- Ēchos barys (Third plagal mode of Byzantine music)
-- Ēchos plagios tetartos (Fourth plagal mode of Byzantine music)
+Folgende byzantinische Kirchenmodi stehen zur Verfügung:
+- Ēchos prōtos (Erster Modus der byzantinischen Musik)
+- Ēchos deuteros (Zweiter Modus der byzantinischen Musik)
+- Ēchos tritos (Dritter Modus der byzantinischen Musik)
+- Ēchos tetartos (Vierter Modus der byzantinischen Musik)
+- Ēchos plagios prōtos (Erster plager Modus der byzantinischen Musik)
+- Ēchos plagios deuteros (Zweiter plagaler Modus der byzantinischen Musik)
+- Ēchos barys (Dritter plager Modus der byzantinischen Musik)
+- Ēchos plagios tetartos (Vierter plagaler Modus der byzantinischen Musik)
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed multiple key signatures to be entered in this field, separated by a semicolon. This practice was discontinued with the introduction of Muscat.
+**Altdaten**: Ältere RISM-Katalogisierungsrichtlinien erlaubten die Eingabe mehrerer Tonarten in diesem Feld, getrennt durch ein Semikolon. Diese Praxis wurde mit der Einführung von Muscat eingestellt.
 
-#### Unterteilung nach der Form (240 $k)
+#### Besetzungshinweis (240 $m)
 
-**Required field except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch**
+**Pflichtfeld außer bei: Opern und Oratorien mit der Standardbesetzung V (X), Coro, orch**
 
-If you have sketches or collections, enter a scoring summary if it makes sense to do so.
+Bei Skizzen oder Sammlungen werden nur Angaben fällig, sofern sie sinnvoll erscheinen.
 
-Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Enter a maximum of four elements. Separate each element of the scoring summary with commas. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
+Der Besetzungshinweis dient als kurze Zusammenfassung der Gesamtbesetzung (Instrumentierung). Trennen Sie die einzelnen Elemente der Besetzungsangaben durch Kommas. Geben Sie maximal vier Elemente ein. Die ausführliche Auflistung der Besetzung erfolgt im Feld **Besetzung (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
 
 Es gelten die Bezeichnungen gemäß **Abkürzungsliste**. Write out any terms that are not contained in this list in full and in English.
 
