@@ -1,14 +1,14 @@
-### Additional institution (710)
+### Nebeneintragung Körperschaft (710)
 
-The field **Additional institution** is to index any institution, organization, or other corporate body involved with the source, apart from the holding institution named in the field **Library siglum (852)**.
+Das Feld **Nebeneintragung Körperschaft** dient dazu, jede Institution, Organisation oder andere Körperschaft zu indizieren, die mit der Quelle zu tun hat, abgesehen von der im Feld **Bibliothekssigel (852)** genannten besitzenden Institution.
 
-Publishers named after people but acting out the function of publisher (Pleyel, André, etc.) are entered here. In the case of self-published music, enter the name of the person in its natural form, such as Bernhard Christoph Breitkopf.
+Verlage, die nach Personen benannt sind, aber die Funktion eines Verlags ausüben (Pleyel, André usw.), werden hier eingetragen. Bei im Selbstverlag veröffentlichter Musik geben Sie den Namen der Person in seiner natürlichen Form ein, z. B. Bernhard Christoph Breitkopf.
 
-#### Institution (710 $a)
+#### Institutionsname (710 $a)
 
-Enter the names of all institutions that appear on or are associated with the source. Names not yet in the authority file may be added. This field is linked to the **Institutions** authority file through $0 and the city (Place) through $c. Names not yet in the authority file may be added.
+Geben Sie die Namen aller Institutionen ein, die auf der Quelle erscheinen oder mit der Quelle verknüpft sind. Das Feld ist über $0 mit der Normdatei **Körperschaften** verknüpft. Orte werden in $c angezeigt. Namen, die noch nicht in der Normdatei enthalten sind, können hinzugefügt werden.
 
-#### Department (710 $b)
+#### Untergeordnete Institution (710 $b)
 
 Enter, if necessary, the name of the unit of an institution, such as a department. Enter in the local language.
 
