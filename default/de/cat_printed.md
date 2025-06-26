@@ -72,10 +72,10 @@ Printed music bears distinctive titles much more frequently than music manuscrip
 
 Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms. Frequent changes include _v_ to _u_, _i_ to _j_ , _y_ to _i_, and _uu_ to _w_. Additional variations can be entered in the field **Additional title (730)**.
 
-##### Example
+##### Beispiel
 
 - RISM ID no. 991009151
- - Title on source: Musicalische Grab=schrifft.
+ - Titel auf der Quelle: Musicalische Grab=schrifft.
  - Standardized title: Musikalische Grabschrift <figcaption>Example</figcaption>
 
 
