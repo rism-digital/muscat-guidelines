@@ -10,43 +10,43 @@ Geben Sie die Namen aller Institutionen ein, die auf der Quelle erscheinen oder 
 
 #### Untergeordnete Institution (710 $b)
 
-Enter, if necessary, the name of the unit of an institution, such as a department. Enter in the local language.
+Falls nötig können hier untergeordnete Abteilungen einer oben eingetragenen Institution angegeben werden. Geben Sie die Bezeichnung in der Landessprache ein.
 
-#### Attribution qualifier (710 $g)
+#### Zuschreibungsvermerk (710 $g)
 
-Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
+Wählen Sie einen Indikator, um die Gewissheit der Zuschreibung anzuzeigen. Wenn nicht, lassen Sie das Feld leer.
 
-- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
-- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is (reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
-- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
-- **Misattributed** means the name is on the source but is incorrect.
+- **Angeblich** Der Name erscheint auf der Quelle, aber die Zuschreibung ist fraglich oder zweifelhaft.
+- **Ermittelt** Der Name ist teilweise oder gar nicht auf der Quelle genannt, aber die Zuschreibung ist (angemessen) sicher und basiert auf Vergleichen mit konkordanten Quellen, Sekundärliteratur oder anderen wissenschaftlichen Ressourcen. Dies ist in den meisten Fällen der Fall.
+- **Mutmaßlich** Die Zuschreibung basiert auf Sekundärliteratur, ist aber fraglich.
+- **Fälschlich** Hierbei handelt es sich um eine Fehlzuschreibung.
 
-**Obsolete procedures** See the corresponding attribution field in the field **Composer/Author (100)**.
+**Altdaten** Siehe den entsprechenden Zuschreibungsvermerk im Feld **Komponist/Autor (100)**.
 
-#### Function (710 $4)
+#### Funktionsbezeichnung (710 $4)
 
-**Required field if "Institution" is filled out.**
+**Pflichtfeld, wenn "Institutionsname" ausgefüllt ist.**
 
-Assign each institution an exact function. An institution can be entered multiple times with different functions. A reduced list of functions is offered in the holdings information for printed items. The three-letter codes refer to the MARC relator code.
+Weisen Sie jeder Institution eine exakte Funktion zu. Eine Institution kann mehrfach mit verschiedenen Funktionen genannt werden. In den Exemplareinträgen wird eine reduzierte Liste angeboten. Der dreibuchstabige Code bezieht sich auf die MARC-Relatoren.
 
-- **Assignee [asg]**: The institution to whom a license for printing or publishing has been transferred.
-- **Associated name [asn]**: An institution that has some connection with the source, but the exact function is unclear.
-- **Bookseller [bsl]**: A person or organization who makes books and other bibliographic materials available for purchase. Do not use "former owner" for this function.
-- **Copyist [scr]**: A copyist workshop or a scribal school.
-- **Copyright holder [cph]**
-- **Dedicatee [dte]**
-- **Depositor [dpt]**: The collection within the library to which the item belongs, such as "James Fuld Music Collection" or "Nachlass Armin Knab."
-- **Distributor [dst]**
-- **Editor [edt]**: The organization contributing to a source by revising or elucidating the content, such as adding an introduction, notes, or other critical matter. An editor may also prepare a resource for production, publication, or distribution.
-- **Event place [evp]**: The name of the concert house, opera house, theater, etc.
-- **Former owner [fmo]**
-- **Licensee [lse]**: An institution that is an original recipient of the right to print or publish.
-- **Other [oth]**: All other functions. Use if the exact function is not on the list or is unknown, unclear, or unspecific.
-- **Papermaker [ppm]**
-- **Patron [pat]**: An institution responsible for commissioning a work.
-- **Performer [prf]**: The institution or ensemble that performed the work, such as an orchestra.
-- **Printer [prt]**
-- **Publisher [pbl]**
-- **Type designer [tyd]**: The organization that designed the typeface.
+- **Assignee - Lizenznehmer [asg]:** Die Körperschaft, an die eine Lizenz zum Drucken oder Veröffentlichen übertragen wurde.
+- **Associated name - Zugehöriger Name [asn]**: Eine Person, die in irgendeiner Weise mit der Quelle in Verbindung steht, deren genaue Funktion jedoch unklar ist.
+- **Bookseller - Musikalienhändler [bsl]**: Eine Person oder Organisation, die Bücher und andere bibliografische Materialien zum Kauf anbietet. Benutzen Sie für diese Funktion nicht "Vorbesitzer".
+- **Copyist - Schreiber [scr]**: Eine Kopistenwerkstatt oder eine Schreiberschule.
+- **Copyright holder - Rechteinhaber [cph]**
+- **Dedicatee - Widmungsträger [dte]**
+- **Depositor - Depositor [dpt]**: Gegenwärtiger Besitzer einer Sammlung, der seine Quellen in die Aufsicht anderer gibt, beispielsweise "James Fuld Music Collection" oder "Nachlass Armin Knab".
+- **Distributor - Distributor [dst]**
+- **Editor - Herausgeber [edt]**: Organisation, die zur Überarbeitung der Quelle beiträgt (z. B. Inhaltserläuterung, Einführung, Notizen). Ein Herausgeber kann auch die Produktion, Veröffentlichung und Verbreitung der Quelle vorbereiten.
+- **Event place - Veranstaltungsort [evp]**: Der Name des Konzerthauses, Opernhaus, Theater, etc.
+- **Former owner - Vorbesitzer [fmo]**
+- **Licensee - Lizenzinhaber [lse]**: Eine Körperschaft, die das Recht zum Druck oder zur Veröffentlichung ursprünglich erhalten hat.
+- **Other - Sonstige Funktion [oth]**: Alle anderen Funktionen. Zu verwenden, wenn die genaue Funktion nicht auf der Liste steht oder unbekannt, unklar oder unspezifisch ist.
+- **Papermaker - Papierhersteller [ppm]**
+- **Patron - Auftraggeber [pat]**: Eine Institution, die für die Beauftragung eines Werks verantwortlich ist.
+- **Performer - Interpret [prf]**: Die Institution oder das Ensemble, das das Werk aufgeführt hat, wie z. B. ein Orchester.
+- **Printer - Drucker [prt]**
+- **Publisher - Verleger [pbl]**
+- **Type designer - Schriftentwerfer [tyd]**: Die Organisation, die das Schriftbild entworfen hat.
 
-If you are unsure whether the institution is a publisher or a printer, select **Publisher**.
+Wenn Sie nicht sicher sind, ob die Institution ein Herausgeber oder Drucker ist, wählen Sie **Verleger**.
