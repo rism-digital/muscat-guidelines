@@ -31,7 +31,7 @@ Beachten Sie, dass in einigen Fällen, wenn Personen in Quellen genannt werden, 
 
 - **Arranger - Bearbeiter [arr]**
 - **Assignee - Lizenznehmer [asg]:** Die Person, an die eine Lizenz zum Drucken oder Veröffentlichen übertragen wurde.
-- **Associated name - Zugehäriger Name [asn]**: Eine Person, die in irgendeiner Weise mit der Quelle in Verbindung steht, deren genaue Funktion jedoch unklar ist.
+- **Associated name - Zugehöriger Name [asn]**: Eine Person, die in irgendeiner Weise mit der Quelle in Verbindung steht, deren genaue Funktion jedoch unklar ist.
 - **Autor - Autor [aut]**: Person, die in erster Linie für die inhaltlichen Texte - wie in einem Buch - verantwortlich ist.
 - **Censor - Zensor [cns]**
 - **Choreographer - Choreograph**
