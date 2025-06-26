@@ -1,8 +1,8 @@
-### Additional personal name (700)
+### Nebeneintragung Personen (700)
 
-The field **Additional personal name** is to index all additional people involved with the source, apart from the name indexed in the field **Composer/Author (100)**.
+Das Feld **Nebenentragung Personen** dient zur Indizierung aller weiteren Personen, die mit der Quelle in Verbindung stehen, mit Ausnahme des im Feld **Komponist/Autor (100)** indizierten Namens.
 
-#### Name (700 $a)
+#### Personenname (700 $a)
 
 Names not yet in the authority file may be added. Do not use **Anonymus** in this field. Names not yet in the authority file may be added. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d. Names not yet in the authority file may be added.
 
