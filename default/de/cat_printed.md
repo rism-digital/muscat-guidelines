@@ -105,7 +105,7 @@ Standard RISM rules for generic titles apply (see **Standardized title (240)**),
     - Alternativer Titel: 6 Masses
 
   - RISM ID no. 993000147
-    - Titel auf der Quelle: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. Stimmen. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
+    - Titel auf der Quelle: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. Titel auf der Quelle: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
     - Einordnungstitel: Preussische Festlieder, Teil 2
 
 
@@ -138,7 +138,7 @@ Ein Datensatz muss aufgesplittet werden, wenn es Hinweise dafür gibt, dass mehr
 Sie können das Vorhandensein verschiedener Editionen an Konventionen wie den folgenden in den Datensätzen erkennen.
 
 Im Feld **Diplomatischer Titel (245)** werden oft mehrere Teile oder mehrere Tonarten genannt:
-- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3)
+- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3) N\|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
 - Divine harmony. Six select anthems … (Divine harmony. The 2\|d collection being select anthems ...)
