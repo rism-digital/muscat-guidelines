@@ -1,28 +1,28 @@
-### Composer/Author (100)
+### Komponist/Autor (100)
 
-The field **Composer/Author** is for the identification of the main person involved as the author, in its broadest sense, of the source.
+Das Feld **Komponist/Autor** dient der Identifizierung der Hauptperson, die im weitesten Sinne als Autor mit der Quelle in Verbindung steht.
 
-#### Name (100 $a)
+#### Komponist/Autor (100 $a)
 
-**Required field.**
+**Pflichtfeld.**
 
-Enter the name of the person responsible for the work. This may be the composer (for music manuscripts and printed music), librettist (for librettos), or author of a work of music theory (for treatises).
+Geben Sie den Namen der Person an, die für das Werk verantwortlich ist. Dies kann der Komponist (für Musikhandschriften und -drucke), der Librettist (für Libretti) oder der Autor eines musiktheoretischen Werks (für Abhandlungen) sein.
 
-This field is linked to the **Personal names** authority file through $0 and the life dates are displayed $d. Names not yet in the authority file may be added. In such cases, check the box "Confirm the insertion of a new value" and add the person's life dates, if known, in the field **Life dates (100 $d)**. The new name, including life dates, will be confirmed and edited by the Editorial Center.
+Das Feld ist über $0 mit der Normdatei **Personen** verknüpft. Lebensdaten werden in $d angezeigt. Namen, die noch nicht in der Normdatei enthalten sind, können hinzugefügt werden. In solchen Fällen aktivieren Sie das Kontrollkästchen „Confirm the insertion of a new value“ und geben Sie, sofern bekannt, die Lebensdaten der Person in das Feld **Geburts- und Todesdaten (100 $d)** ein. Der neue Eintrag wird dann von der Zentralredaktion bestätigt und bearbeitet.
 
-If the source has multiple composers, select one to be entered in this field and the rest can be added in **Additional personal name (700)** using the function **Co-composer.**
+Wenn die Quelle mehrere Komponisten hat, wählen Sie einen aus, der in dieses Feld eingegeben werden soll, und die übrigen können unter Verwendung der Funktion **Mitkomponist** in **Nebeneintragung Personen (700)** ergänzt werden.
 
-If the source is anonymous but you can determine the composer, enter the composer's name and select the appropriate attribution qualifier. If you cannot determine the composer, enter the name **Anonymus** but omit an attribution qualifier. The name **Compilations** is entered for pasticcios or compilations.
+Wenn die Quelle anonym ist, Sie aber den Komponisten ermitteln können, geben Sie den Namen des Komponisten ein und wählen Sie den entsprechenden Zuschreibungsindikator aus. Wenn Sie den Komponisten nicht bestimmen können, geben Sie den Namen **Anonymus** ein, lassen jedoch die Zuschreibungsangabe weg. Der Name **Compilations** wird für Pasticcios oder Zusammenstellungen eingegeben.
 
-#### Attribution qualifier (100 $j)
+#### Zuschreibungsvermerk (100 $j)
 
-Select an indicator to describe the level of certainty of the attribution if any of these situations apply. If not, leave blank.
+Wählen Sie einen Indikator, um die Gewissheit der Zuschreibung anzuzeigen. Wenn nicht, lassen Sie das Feld leer.
 
-If you enter the composer as **Anonymus,** do not enter an attribution qualifier.
+Wenn Sie den Komponisten als **Anonymus** eingeben, geben Sie keinen Zuschreibungsvermerk ein.
 
-- **Alleged** means the name is present on the source, but the attribution is questionable or doubtful.
-- **Ascertained** means the name is partially present or entirely absent from the source, but attribution is (reasonably) certain and based on comparison with concordant sources, secondary literature, or other scholarly resources. This happens in most cases.
-- **Conjectural** is a guess based on secondary evidence, such as secondary literature.
-- **Misattributed** means the name is on the source but is incorrect. If the source is anonymous, leave this field blank.
+- **Angeblich** Der Name erscheint auf der Quelle, aber die Zuschreibung ist fraglich oder zweifelhaft.
+- **Ermittelt** Der Name ist teilweise oder gar nicht auf der Quelle genannt, aber die Zuschreibung ist (angemessen) sicher und basiert auf Vergleichen mit konkordanten Quellen, Sekundärliteratur oder anderen wissenschaftlichen Ressourcen. Dies ist In den meisten Fällen der Fall.
+- **Mutmaßlich** Die Zuschreibung basiert auf Sekundärliteratur, ist aber fraglich.
+- **Fälschlich** Hierbei handelt es sich um eine Fehlzuschreibung. Wenn die Quelle anonym ist, bleibt das Feld leer.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **Verified.** The attribution was used if the composer's name appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in 2024.
+**Altdaten**: Ältere RISM-Katalogisierungsrichtlinien erlaubten die Zuordnung **Gesichert.** Die Zuordnung wurde verwendet, wenn der Name des Komponisten in derselben Form wie die RISM-Ansertzung auf der Quelle erscheint. Diese Praxis wurde mit der Einführung von Muscat eingestellt. **Zweifelhaft** hat angedeutet, dass die Autorschaft in Frage stand. Dies wurde entfernt und die restlichen Begriffe wurden 2024 geklärt.

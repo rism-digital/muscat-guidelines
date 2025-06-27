@@ -1,71 +1,71 @@
-### Additional title (730)
+### Alternativer Titel (730)
 
-It is linked to the **Titles/Text incipits** index through $0. The field **Additional title** is for alternatives to the **Standardized title (240 $a)**, also in a standardized form.
+Das Feld **Alternativer Titel** ist für Alternativen zum **Einordnungstitel (240 $a)**, ebenfalls in einer standardisierten Form. Das Feld ist über $0 mit dem Index **Titel / Textincipits** verknüpft.
 
-#### Additional title (730 $a)
+#### Alternativer Titel (730 $a)
 
-Enter markedly different titles rather than titles with alternative spellings. Multiple variants can be entered by repeating the field.
+Geben Sie deutlich unterschiedliche Titel ein, jedoch keine Titel mit alternativen Schreibweisen. Bei mehreren Varianten kann die Kategorie wiederholt werden.
 
-Types of possible alternatives are:
+Mögliche Alternativen sind:
 
-- Other titles of an opera (_ossia_ titles)
-- Translations of a title
-- Alternate genres if there is uncertainty about the classification
-- Titles of parody masses and titles of the Proper. Standardize names of saints according to the _Liber usualis._
-- Popular names of a composition (such as Nelson Mass, Jupiter Symphony)
-- Works with no clear individual title (Festival Cantata, Fürstenlied)
-- Titles, especially ones under which the item is widely known (particularly for printed editions)
+- Weitere Titel einer Oper (_ossia_ Titel)
+- Übersetzungen eines Titels
+- Alternative Gattungen bei Unsicherheit der Einordnung
+- Titel von Parodie- und Propriumsmessen. Die Namen der Heiligen werden nach dem _Liber usualis_ normiert.
+- Zeitgenössische oder individuelle Namen einer Komposition (z. B. Nelson-Messe, Jupiter-Symphonie)
+- Werke, die im Einordnungstitel mit keinem eindeutigen Individualtitel belegt werden konnten (z. B. Festkantate, Fürstenlied)
+- Titel, insbesondere solche, unter denen der Gegenstand weithin bekannt ist (insbesondere bei gedruckten Ausgaben)
 
-##### Examples
+##### Beispiele
 
-- Standardized title: Don Giovanni
- - Additional title: Der steinerne Gast
-- Standardized title: Masses
- - Additional title: Missa S Ursulae
-- Standardized title: Masses
- - Additional title: Deutsche Messe [= translation of the Latin text of the mass]
-- Standardized title: Masses
- - Additional title: Deutsches Hochamt [=paraphrased German church service]
+- Einordnungstitel: Don Giovanni
+ - Alternativer Titel: Der steinerne Gast
+- Einordnungstitel: Masses
+ - Alternativer Titel: Missa S Ursulae
+- Einordnungstitel: Masses
+ - Alternativer Titel: Deutsche Messe [= Übersetzung des lateinischen Messtextes]
+- Einordnungstitel: Masses
+ - Alternativer Titel: Deutsches Hochamt [= nachgedichteter deutscher Text]
 
-In the case of variation sets, enter the name of theme in this field and select **Variations** in the field **Arrangement statement (730 $o)**.
+Bei Variationen geben Sie in diesem Feld den Namen des Themas ein und wählen im Feld **Bearbeitung (730 $o)** **Variationen**.
 
-For inserts, also note the guidelines under for the field **Insertions (787)**. In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading (730 $k)**.
+Bei Einlagen geben Sie den Titel der größeren Oper oder des Werkes ein, in die das Stück eingelegt ist, und wählen im Feld **Unterteilung nach der Form (730 $k)** die Option **Einlagen**. Für Einlagen beachten Sie bitte auch die Richtlinien zum Feld **Verwandte Quelle (787)**.
 
-##### Examples
+##### Beispiele
 
-- Standardized title: Variations
-- Additional title: Ein Mädchen oder Weibchen [plus **Variations** in the field **Arrangement statement (730 $o)**.]
+- Einordnungstitel: Variations
+- Alternativer Titel: Ein Mädchen oder Weibchen [mit **Variations** im Feld **Bearbeitung (730 $o)**.]
 
-- Standardized title: Consola amato bene
-- Additional title: Una cosa rara [plus **Inserts** in **Subheading (730 $k)**]
+- Einordnungstitel: Consola amato bene
+- Alternativer Titel: Una cosa rara [mit **Einlagen** in **Unterteilung nach der Form (730 $k)**]
 
 
-#### Arrangement statement (730 $o)
+#### Bearbeitung (730 $o)
 
-**Skizzen** : Skizzen zu einem Werk **Skizzen** : Skizzen zu einem Werk **Skizzen** : Skizzen zu einem Werk **Skizzen** : Skizzen zu einem Werk Make sure that this field corresponds with the field **Arrangement statement (240 $o)** above. If the work is a variation set, select **Variations**.
+Handelt es sich bei vorliegendem Werk um eine Bearbeitung eines anderen Werks, wird das in diesem Feld mit **Arrangement** gekennzeichnet. Stellen Sie sicher, dass dieses Feld mit dem Feld **Bearbeitung (240 $o)** übereinstimmt. Handelt es sich um eine Variation muss hier **Variationen** verwendet werden.
 
-#### Rule type (730 $g)
+#### Regelwerk (730 $g)
 
-Indicate what cataloging rules or standards are used to formulate the additional title.
+Geben Sie an, nach welchem Regelwerk oder Katalogisierungsstandard der Alternative Titel gemacht wurde.
 
-- **RISM** (default)
+- **RISM** (Voreinstellung)
 - **RDA**: Resource Description and Access
-- **RAK**: Regeln für die alphabetische Katalogisierung (cataloging rules used in German-speaking countries)
-- **ICCU**: Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (cataloging rules used in Italy)
+- **RAK**: Regeln für die alphabetische Katalogisierung (Regeln zur Katalogisierung in deutschsprachigen Ländern)
+- **ICCU**: Istituto centrale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche (Regeln zur Katalogisierung in Italien)
 
-#### Subheading (730 $k)
+#### Unterteilung nach der Form (730 $k)
 
-This field is for special forms aspects as applicable. Folgende Angaben sind möglich:
+Hier wird ein Vermerk zu besonderen Ausgabeformen gemacht. Folgende Angaben sind möglich:
 
-- Excerpts
-- Fragments
-- Inserts
-- Sketches
+- Ausschnitte
+- Fragmente
+- Einlagen
+- Skizzen
 
-Make sure that if you select **Excerpts**, **Fragments**, or **Sketches** in the field **Subheading (240 $k)** above, you also select **Excerpts**, **Fragments**, or **Sketches** here. For inserts, select **Inserts**. Further information can be entered into the field **Contents note (505)**.
+Stellen Sie sicher, dass Sie, wenn Sie **Auszüge**, **Fragmente** oder **Skizzen** im Feld **Unterteilung nach der Form (240 $k)** oben auswählen, auch **Auszüge**, **Fragmente** oder **Skizzen** hier auswählen. Für Einlagen wählen Sie **Einlagen** aus. Weiterführende Angaben können im Feld **Bemerkungen zum Inhalt (505)** gemacht werden.
 
-#### Key or mode (730 $r)
-#### Catalog number/Opus number (730 $n)
-#### Scoring summary (730 $m)
+#### Tonart (730 $r)
+#### Werkverzeichnis/Opus (730 $n)
+#### Besetzungshinweis (730 $m)
 
-If you have an arrangement or compilation, use these fields to enter information about the original composition. These fields do not need to be filled out again if they are identical with the main work in question.
+Diese Felder können bei freien Bearbeitungen und Kompilationen für die entsprechenden Angaben der Originalvorlage verwendet werden. Diese Felder müssen nicht erneut ausgefüllt werden, wenn sie mit dem betreffenden Hauptwerk identisch sind.

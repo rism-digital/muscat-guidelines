@@ -1,7 +1,7 @@
-### Supplementary material (525)
+### Beiliegendes Material (525)
 
-The field **Supplementary material** is for material that accompanies the source being described.
+Das Feld **Beiliegendes Material** ist für Material vorgesehen, das die beschriebene Quelle begleitet.
 
-#### Supplementary material (525 $a)
+#### Beiliegendes Material (525 $a)
 
-Mention material that accompanies the source, such as program notes, reviews, etc. Enter using your cataloging language. Enter using your cataloging language.  
+Erwähnen Sie Begleitmaterial zur Quelle, wie Programmhefte, Rezensionen usw. Verwenden Sie Ihre Katalogisierungssprache.  

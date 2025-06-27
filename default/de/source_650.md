@@ -1,15 +1,15 @@
-### Subject heading (650)
+### Schlagworteintragung (650)
 
-The field **Subject heading** is for the genre of the piece or other relevant keywords.
+Das Feld **Schlagwort** ist für die Gattungsbezeichnung des Stücks oder anderer relevanter Schlüsselwörter.
 
-#### Subject heading (650 $a)
+#### Schlagworteintragung (650 $a)
 
-**Required field.**
+**Pflichtfeld.**
 
-Enter subject keywords or genre terms here. This field is linked to the index **Subject headings** through $0.
+Geben Sie hier Schlagwörter oder Gattungen ein. Das Feld ist über $0 mit der Normdatei **Schlagwörter** verknüpft.
 
-The keyword should apply to the entire work or the original work on which a piece is based, even in the case of arrangements, excerpts, or single movements. In the case of sections of larger vocal works, enter the genre of the excerpt in question (such as Arias, Marches) as well as that of the entire work.
+Das Schlagwort bezieht sich auf das Gesamtwerk bzw. Vorlagewerk, auch bei Bearbeitungen, Ausschnitten oder Einzelsätzen. Bei Teilen aus größeren Vokalwerken kann neben der Gattung des Gesamtwerks auch die Gattung des vorliegendes Ausschnitts (z. B. Arias, Marches) erfasst werden.
 
-Each record should be given a subject heading that relates to the standardized title. This field is particularly important for works whose genre is not named in the standardized title. Multiple subject headings may be entered; it is up to the cataloger to determine the appropriate order. Some kinds of pieces are best served with more than one subject heading, such as "Contrafacta" or "Inserts."
+Prinzipiell sollte jeder Datensatz ein Schlagwort enthalten, das auf den Einordnungstitel Bezug nimmt. Besonders wichtig ist das Schlagwort bei Werken, deren Werkgruppe nicht aus dem Einordnungstitel hervorgeht. Es können mehrere Schlagwörter vergeben werden; es obliegt dem Katalogisierer, eine sinnvolle Reihenfolge festzulegen. Für manche Stücke eignen sich mehrere Schlagwörter besonders, z. B. "Contrafacta" oder "Inserts".
 
-Note that for certain types of genres used as standardized titles, a corresponding subject heading (650) is used. Consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
+Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem Schlagwort (650). Weitere Informationen finden Sie Anhang **Einordnungstitel - Schlagworte** der **Richtlinien**.

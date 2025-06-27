@@ -26,15 +26,15 @@ Bei Datenbanken, die als Sekundärliteratur zitiert werden, können Sie zur Vere
 
 Wenn Sie auf eine digitalisierte Musikquelle verweisen möchten, die sich aber nicht in RISM befindet, wenden Sie sich an die RISM-Zentralredaktion, um die Aufnahme der Quelle zu besprechen.
 
-#### 4. Making identifications
+#### 4. Identifizierungen vornehmen
 
-Frequently, important information—such as names of composers or titles of pieces—is not always named on the source itself. It is sometimes possible to make identifications based on the secondary literature, reference sources, other RISM records, or archival sources. If you draw upon such resources, always be clear in the record about what you used to make the identification: name the resource or source in RISM (with siglum, shelfmark, and RISM ID number) in a **General note (500)** and add a **Bibliographic reference (691)** if appropriate. Make sure it is clear for later RISM users how you came to your conclusions. More detailed, explanatory information not relevant for the public can be included in an **Internal note (599)** if needed.
+Häufig werden wichtige Informationen – wie die Namen von Komponisten oder Werken – nicht immer auf der Quelle selbst genannt. Manchmal ist es möglich, Identifizierungen anhand von Sekundärliteratur, Referenzquellen, anderen RISM-Datensätzen oder Archivquellen vorzunehmen. Wenn Sie auf solche Quellen zurückgreifen, sollten Sie in den Datensätzen immer deutlich machen, was Sie zur Identifizierung verwendet haben: Nennen Sie die Quelle in RISM (mit Sigel, Signatur und RISM-ID Nummer) in den **Bemerkungen (500)** und fügen gegebenenfalls einen **Literaturverweis (691)** hinzu. Stellen Sie sicher, dass für spätere RISM-Nutzer klar ist, wie Sie zu Ihren Schlussfolgerungen gekommen sind. Ausführlichere, erläuternde Informationen, die nicht für die Öffentlichkeit relevant sind, können bei Bedarf in **Interne Bemerkungen (599)** aufgenommen werden.
 
-#### 5. Creating records based on descriptions from printed catalogs or online library catalogs
+#### 5. Erstellen von Datensätzen auf Grundlage von Beschreibungen aus gedruckten Katalogen oder Online-Bibliothekskatalogen
 
-Sometimes it is not possible to access the source in person and the only description available is in a printed catalog, catalog of works, or online library catalog. Such descriptions may be used as the basis of a RISM record. When doing so:
+Manchmal ist es nicht möglich, die Quelle persönlich einzusehen, und die einzig verfügbare Beschreibung findet sich in einem gedruckten Katalog, einem Werkkatalog oder einem Online-Bibliothekskatalog. Solche Beschreibungen können als Grundlage für einen RISM-Datensatz verwendet werden. Dabei ist Folgendes zu beachten:
 
-- Include a **General note (500)** that identifies the source of information, such as "Record based on description in YouV"
+- Ergänzen Sie eine **Bemerkung (500)**, die die Informationsquelle identifiziert, wie "Datensatz basierend auf Beschreibung in YouV"
 - Link to the source of information in the field **Catalog of works (690)**, **Bibliographic reference (691)**, or **External resource** (856) as appropriate
 - In the field **Record origin (980)**, subfield **Material examined**, select **Material not examined**
 

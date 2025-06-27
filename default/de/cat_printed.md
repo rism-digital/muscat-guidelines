@@ -72,96 +72,96 @@ Printed music bears distinctive titles much more frequently than music manuscrip
 
 Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms. Frequent changes include _v_ to _u_, _i_ to _j_ , _y_ to _i_, and _uu_ to _w_. Additional variations can be entered in the field **Additional title (730)**.
 
-##### Example
+##### Beispiel
 
 - RISM ID no. 991009151
- - Title on source: Musicalische Grab=schrifft.
- - Standardized title: Musikalische Grabschrift <figcaption>Example</figcaption>
+ - Titel auf der Quelle: Musicalische Grab=schrifft.
+ - Einordnungstitel: Musikalische Grabschrift
 
 
 2. **Deriving a standardized title**
 
 Standardized titles should consist of the title of the print up to a natural break, frequently a comma, period, or a statement of the author, instrumentation, number, or imprint. Sometimes a distinctive title appears on a page other than the title page.
 
-##### Examples
+##### Beispiele
 
 - RISM ID no. 990003743
-   - Title on source: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza
-   - Standardized title: Vezzo di perle musicali
+   - Titel auf der Quelle: Vezzo di perle musicali modernamente conteste alla regia sposa effigiata nella sacra cantica; opera ventesima terza
+   - Einordnungstitel: Vezzo di perle musicali
 
 - RISM ID no. 990006458
-   - Title on source: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima
-   - Standardized title: Novo giardino de concerti
+   - Titel auf der Quelle: Novo giardino de concerti a quattro voci, per cantare a due chori con due voci, e due tromboni, o altri stromenti, o voci, secondo la comodità de cantori ... nel quale li contengono alquante antifone del cantico della Beata Virgine, di alcune solennità principali del anno, & altri motetti, con il basso principale per l'organo, opera undecima
+   - Einordnungstitel: Novo giardino de concerti
 
-#### Generic titles
+#### Allgemeine Titel
 
 Standard RISM rules for generic titles apply (see **Standardized title (240)**), but bear in mind that even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive titles. Use the field **Additional title (730)** to enter such titles in a standardized form. For guidance, refer to standard reference works such as Grove and MGG, and authority files from the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the component in the original language (but standardized spelling) and the Arabic numeral following the title.
 
-##### Examples
+##### Beispiele
 
   - RISM ID no. 990048285
-    - Title on source: CANTVS \| IOANNIS PETRALOYSII \| PRAENESTINI \| Missarum cum quatuor, quinque, & sex vocibus. \| LIBER DVODECIMVS. \| Nunc primum in lucem editus. \| VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI
-    - Standardized title: Missarum, liber 12
-    - Additional title: 6 Masses
+    - Titel auf der Quelle: CANTVS \| IOANNIS PETRALOYSII \| PRAENESTINI \| Missarum cum quatuor, quinque, & sex vocibus. \| LIBER DVODECIMVS. \| Nunc primum in lucem editus. \| VENETIIS, Apud Haeredem Hieronymi Scoti. MDCI
+    - Einordnungstitel: Missarum, liber 12
+    - Alternativer Titel: 6 Masses
 
   - RISM ID no. 993000147
-    - Stimmen. Title on source: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
-    - Standardized title: Preussische Festlieder, Teil 2
+    - Titel auf der Quelle: Ander Theil \| Der Preussischen \| Fest-Lieder/ \| Von Ostern an biß Advent \| Mit 5/ 6/ 7/ 8. Stimmen. \| JOHANNIS ECCARDI MULHUSINI THURINGI, \| vnd \| JOHANNIS STOBAEI GRUDENTINI BORUSSI. \| Beyder Chur: vnd Fürstlicher Brandeb. Capell= \| meistern in Preussen. \| DISCANTVS. \| Gedruckt zu Königsberg durch Johann Reusnern An: 1644.
+    - Einordnungstitel: Preussische Festlieder, Teil 2
 
 
-### Multiple copies in one institution
+### Mehrere Exemplare in einer Institution
 
 If your institution owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.
 
-### Microfilm copies
+### Mikrofilmkopien
 
 Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record.
 
 #### Beispiel
-- RISM ID no. 990052954, copy in B-Bc:  
+- RISM ID no. 990052954, Exemplar in B-Bc:  
   Mikrofilm im Deutschen Musikgeschichtlichen Archiv (D-Kdma) vorhanden
-- RISM ID no. 1000000576, copy in D-B:  
+- RISM ID no. 1000000576, Exemplar in D-B:  
   Digital copy of microfilm available from DiZbi.HAZU | Digitalna zbirka i katalog Hrvatske akademije znanosti i umjetnosti
 
 
 ### Record splits and mergers
 
-#### Background
-RISM's first cataloging projects from the 1950s to 1970s focused on printed music. Many shortcuts were taken related to the challenges of collating catalog cards from the worldwide network of RISM contributors, and the space limitations of printed books. The volumes published in RISM's series A/I, B/I, and B/II frequently necessarily summarized multiple editions into a single entry and alluded to potential points of differentiation without further elaboration. At the same time, having multiple contributors at times resulted in the same edition unwittingly being described multiple times but from different access points.
+#### Hintergrund
+Die ersten Katalogprojekte von RISM in den 1950er bis 1970er Jahren konzentrierten sich auf die Musikdrucke. Es wurden viele Abkürzungen vorgenommen, um den Herausforderungen der Zusammenstellung von Katalogkarten aus dem weltweiten Netzwerk der RISM-Mitwirkenden und den Platzbeschränkungen gedruckter Bücher gerecht zu werden. Die in den Serien A/I, B/I und B/II des RISM veröffentlichten Bände fassten häufig mehrere Ausgaben in einem einzigen Eintrag zusammen und verwiesen ohne weitere Ausführungen auf mögliche Unterscheidungsmerkmale. Gleichzeitig führte die Beteiligung mehrerer Mitwirkender manchmal dazu, dass dieselbe Ausgabe unbeabsichtigt mehrfach beschrieben wurde, jedoch aus unterschiedlichen Blickwinkeln.
 
-Today, the online environment allows the flexibility to have one record describe one edition. This means that records that describe multiple editions should ideally be split, and multiple records that describe the same edition should be merged.
+Heute ermöglicht die Online-Umgebung die Flexibilität, dass ein Datensatz eine Ausgabe beschreibt. Das bedeutet, dass Datensätze, die mehrere Ausgaben beschreiben, idealerweise aufgeteilt werden sollten. Umgekehrt sollten mehrere Datensätze, die dieselbe Ausgabe beschreiben, zusammengeführt werden.
 
-##### Record splits
+##### Splittung von Datensätzen
 
-A record must be split when there is evidence that multiple, distinct printed editions are described in one record. The implication of a distinct edition is that it was conceived as a unit by the publisher and was available on its own on the market. The result is that consumers (and later, libraries) were able to acquire the edition on its own, with or without the other editions in the series or set.
+Ein Datensatz muss aufgesplittet werden, wenn es Hinweise dafür gibt, dass mehrere verschiedene gedruckte Ausgaben in einem Datensatz beschrieben wurden. Die Bedeutung einer eigenständigen Ausgabe besteht darin, dass sie vom Verlag als Einheit konzipiert wurde und separat auf dem Markt erhältlich war. Das Ergebnis war, dass Verbraucher (und später auch Bibliotheken) die Ausgabe separat erwerben konnten, mit oder ohne die anderen Ausgaben der Reihe oder des Sets.
 
-You can recognize the presence of distinct editions through conventions such as the following that will appear in the records.
+Sie können das Vorhandensein verschiedener Editionen an Konventionen wie den folgenden in den Datensätzen erkennen.
 
-The field **Title on source (245)** will often mention multiple parts or several keys:
-- Concerto [A (B, Es)] à flûte principale ... N|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
-- Sinfonie [C, F, A] à grand orchestre
-- Concert pour la flûte traversière ... libro I(-VI)
-- Divine harmony. Six select anthems … (Divine harmony. (Divine harmony. The 2\|d collection being select anthems ...)
+Im Feld **Diplomatischer Titel (245)** werden oft mehrere Teile oder mehrere Tonarten genannt:
+- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3)
+- Sinfonie [C, F, A] à grand orchestre
+- Concert pour la flûte traversière ... libro I(-VI)
+- Divine harmony. Six select anthems … (Divine harmony. The 2\|d collection being select anthems ...)
 
-The field **Plate number (028)** will list multiple plates, with successive plate numbers in parentheses:
+Das Feld **Plattennummer (028)** listet mehrere Platten mit aufeinanderfolgenden Nummern in Klammern auf:
 - 1192
 - (1198)
 - (1199)
 - (1217)
 - (1218)
 
-The field **General note (500)** or the **holdings information** will mention multiple editions, usually in German or English:
+Im Feld **Bemerkungen (500)** oder in den **Exemplarinformationen** werden mehrere Ausgaben, meist in deutscher oder englischer Sprache, genannt:
 
-- Multiple editions
+- Mehrere Ausgaben
 - GB-Lbl (2 verschiedene Ausgaben)
 
-In the **holdings information** there are usually indications that only a certain part or book is held, and the language of the indication will generally follow the language of the edition's title:
+In den **Exemplarinformationen** gibt es in der Regel Hinweise darauf, dass nur ein bestimmter Teil oder ein bestimmtes Buch vorhanden ist, und die Sprache der Angabe folgt in der Regel der Sprache des Titels der Ausgabe:
 
 - F-Pc K-733 [libro II]
 - D-F Mus. pr. Q 55/349 [livre 1]
 - CH-Bu [2., 3. Buch]
 
-In cases of record splits, the RISM series number is carried over to all new records.
+Bei einer Splittung von Datensätzen wird die RISM-Seriennummer auf alle neu erstellten Datensätze übertragen.
 
 ##### Record mergers
 
@@ -170,10 +170,10 @@ Catalogers should be aware that duplicates in the database can sometimes be foun
 Duplicate records are not allowed and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.
 
 
-##### Procedure
+##### Vorgehensweise
 
-Record splits and mergers can only be carried out by the Editorial Center and are done on an ad-hoc basis. If you notice a case when records should be split or merged, contact the Editorial Center.
+Die Aufteilung und Zusammenführung von Datensätzen kann nur von der Zentralredaktion durchgeführt werden und erfolgt ad hoc. Wenn Sie einen Fall bemerken, in dem Datensätze geteilt oder zusammengeführt werden sollten, wenden Sie sich bitte an die Zentralredaktion.
 
-#### Printed editions from Series B
+#### Gedruckte Ausgaben der Serie B
 
-The Editorial Center carried out automated imports for the entries in A/I and B/I. While further automated imports are not planned for other volumes in series B, it is welcome and desirable for RISM contributors to add editions found in B volumes by hand. When so doing, fill in the field **RISM series (510)** to indicate what series the edition is in. Notify the Editorial Center of such additions so that we can add other holding libraries in accordance with the descriptions in the B volumes.     
+Die Zentralredaktion führte automatisierte Importe für die Einträge aus A/I und B/I durch. Für andere Bände der Serie B sind keine weiteren automatisierten Importe geplant. Es ist jedoch willkommen und wünschenswert, dass RISM-Mitwirkende die in den B-Bänden genannten Ausgaben manuell hinzufügen. Füllen Sie dabei das Feld **RISM-Serien (510)** aus, um anzugeben, zu welcher Serie die Ausgabe gehört. Bitte teilen Sie der Zentralredaktion solche Ergänzungen mit, damit wir weitere Bibliotheken, die diese Ausgabe besitzen, gemäß den Beschreibungen in den B-Bänden hinzufügen können.     
