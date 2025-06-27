@@ -105,7 +105,7 @@ Sind keine Globalvorzeichen vorhanden, bleibt das Feld leer.
 
 - xF = Ton F wird erhöht => G-Dur oder e-Moll
 - bBE = Töne B und E werden erniedrigt = B-Dur oder g-Moll
-- xFC[G] = Töne F und C werden erhöht. Das Stück steht jedoch eindeutig in A-Dur. Also ist die letzte Erhöhung zu ergänzen
+- xFC[G] = Töne F und C werden erhöht. Das Stück steht jedoch eindeutig in A-Dur.
 
 #### Metrum (031 $o)
 
@@ -123,7 +123,7 @@ Hier wird das zum Incipit gehörende Taktmaß als Bruch angegeben. Folgendes ist
 
 Ändert sich der Takt ständig, können Sie die erste Taktart gefolgt von der zweiten Taktart getrennt durch ein Leerzeichen angeben.
 
-Wenn das Incipit keine Taktart enthält, fügen Sie eine hinzu und geben Sie auch eine Erklärung im Feld **Kommentar zum Incipit (031 $q)**, z. B. "Time signature added". Setzen Sie die ergänzte Taktart nicht in eckige Klammern.
+If the time signature changes within the music incipit, use **@** to change the time signature. Follow this with the new time signature and a space.
 
 **Altdaten**: Ältere Richtlinien erlaubten hier ein leeres Feld, wenn die Quelle keine Taktart enthielt.
 
@@ -149,7 +149,7 @@ Dieses Feld nicht verwenden! (Es ist nur für Altdaten notwendig.)
 
 Das Musikincipit wird in kodierter Form nach dem Plaine & Easie code (siehe auch [https://www.iaml.info/plaine-easie-code](https://www.iaml.info/plaine-easie-code)) eingegeben. Das Incipit sollte mindestens zwei Takte oder sechs Noten lang sein.
 
-##### 1. Oktavregister
+##### 3. Akzidentien
 ' = in der 1. Oktave hoch  
 '' = in der 2. Oktave hoch  
 ''' = in der 3. Oktave hoch  
@@ -176,7 +176,7 @@ Punkte werden für punktierte Noten verwendet. Einer Note können mehrere Punkte
 4\. = punktierte Viertelnote / dotted crotchet   
 8.. = doppelt punktierte Achtelnote / double dotted quaver
 
-##### 3. Akzidentien
+##### 5. Vorschläge
 
 x = Kreuz  
 xx = Doppelkreuz  
@@ -188,7 +188,7 @@ n = Auflösungszeichen
 
 C, D, E, F, G, A, B [!]
 
-##### 5. Vorschläge
+##### 7. Taktstrich
 
 g = kleiner Vorschlag (ohne rhythmischen Wert, vor dem Tonbuchstaben stehend)  
 q = Vorschlag (mit rhythmischem Wert, vor dem Tonbuchstaben stehend)  
@@ -205,7 +205,7 @@ Das '-' (Minuszeichen) steht für eine einzelne Pause. Verwenden Sie '=' (Gleich
 - mehrere Takte Pause
  - =35/
 
-##### 7. Taktstrich
+##### 9. Balkung
 
 / = Taktstrich  
 // = doppelter Taktstrich  
@@ -222,7 +222,7 @@ t = Triller (steht unmittelbar hinter dem Tonbuchstaben)
 
 Geben Sie keine Bindebögen ein.
 
-##### 9. Balkung
+##### 10. Sonderrhythmen
 
 { = Balkungsbeginn  
 } = Balkungsende
@@ -231,7 +231,7 @@ Geben Sie keine Bindebögen ein.
 
 {qq6'CDEDr}
 
-##### 10. Sonderrhythmen
+##### 11.3. Rhythmisches Muster
 
 ( = Beginn Sonderrhythmus  
 ) = Ende Sonderrhythmus
@@ -303,7 +303,7 @@ Verwenden Sie **$** für den Vorzeichenwechsel. Der veränderten Globalangabe mu
 
 ##### 14. Taktwechsel
 
-Verwenden Sie **@** für den Taktwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen.
+Verwenden Sie **$** für den Vorzeichenwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen.
 
 ###### Beispiele
 

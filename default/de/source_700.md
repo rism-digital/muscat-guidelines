@@ -55,6 +55,6 @@ Beachten Sie, dass in einigen Fällen, wenn Personen in Quellen genannt werden, 
 - **Performer - Interpret [prf]**: Jeder Interpret (Instrumentalist, Sänger, Musiker, Dirigent, Tänzer) oder auch jene deren Funktion unklar ist.
 - **Printer - Drucker [prt]**
 - **Publisher - Verleger [pbl]**: Geben Sie den Verleger nur dann als Person an, wenn der tatsächliche Mensch gemeint ist, z. B. ein Beethoven-Manuskript, in dem Carl Friedrich Peters namentlich erwähnt wird. (Die Firma Peters, die die gedruckten Noten herausgibt, wird dagegen als Institution eingetragen.)
-- **Text author - Textdichter [lyr]**: Ein Autor des Textes eines nicht-dramatischen Musikwerks (z. B. eines Liedtextes), außer bei Oratorien.
+- Dedicatee - Widmungsträger [dte]
 - **Translator - Übersetzer [trl]**
 - **Type designer - Schriftentwerfer [tyd]**: Die Person, die das Schriftbild entworfen hat.

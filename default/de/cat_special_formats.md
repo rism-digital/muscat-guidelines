@@ -78,13 +78,13 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kontrafacta. Als B
 - **Weitere Felder**  
   In allen anderen Feldern, wie z. B. bei den liturgischen Festen und der Instrumentation, sollte auf die vorliegende Quelle verwiesen werden, d. h. auf das Kontrafaktum selbst und nicht auf das ursprüngliche Werk, auf dem es beruht.
 
-### Compilations
+### Compilations - Zusammenstellungen
 
-**Compilations** are new, independent works made from parts of one or more other works and can also include new material. Frequently, the resulting work is of a different genre than the component parts, such as when arias or duets from an opera become a cantata, or excerpts from an opera become an instrumental suite. This also includes pasticcios. While the boundary between a compilation and a pasticcio is not always clear, pasticcios can be generally be characterized by one of these features: (1) arias, duets, or larger parts of dramatic works that are adapted to a new libretto; (2) several independent works combined to create a new work; or (3) collaborative compositions conceived as such from the beginning.
+**Compilations** sind neue, eigenständige Werke, die aus Teilen eines oder mehrerer anderer Werke erstellt wurden und auch neues Material enthalten können. Häufig gehört das daraus resultierende Werk einer anderen Gattung an als seine Bestandteile, beispielsweise wenn Arien oder Duette aus einer Oper zu einer Kantate werden oder Auszüge aus einer Oper zu einer Instrumentalsuite. Dazu zählen auch Pasticcios. Die Grenze zwischen einer Kompilation und einem Pasticcio ist zwar nicht immer eindeutig, doch lassen sich Pasticcios im Allgemeinen durch eines der folgenden Merkmale charakterisieren: (1) Arien, Duette oder größere Teile dramatischer Werke, die an ein neues Libretto angepasst wurden; (2) mehrere unabhängige Werke, die zu einem neuen Werk kombiniert wurden; oder (3) Gemeinschaftskompositionen, die von Anfang an als solche konzipiert waren.
 
-Compilations may be entered on a single record, or they may be entered as collections.
+Zusammenstellungen können in einem einzigen Datensatz oder als Sammlung erfasst werden.
 
-Take note of the following fields when cataloging compilations.
+Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
 
 - **Komponist/Autor (100)**  
   Der Komponist ist immer **Compilations**.
@@ -105,8 +105,8 @@ Take note of the following fields when cataloging compilations.
   Geben Sie den Einordnungstitel des Originalstücks ein und fügen Sie **Ausschnitte** oder **Bearbeitung** hinzu. Sie können auch Ossia-Titel eingeben.
 - **Werkverzeichnis (690)**  
   Sie können Werkverzeichnisangaben sowohl für die Kompilation als auch für die Originalwerke eingeben.
-- **Textincipit (031)**  
-  Geben Sie den Text der vorliegenden Quelle ein. Falls bekannt, ergänzen Sie den Originaltext in eckige Klammern.
+- **Text incipits (031)**  
+  Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
 - **Bemerkungen (500)**  
   Verwenden Sie immer einen Vermerk zur Erläuterung, insbesondere wenn es sich um Werke verschiedener Komponisten handelt. Dadurch wird sichergestellt, dass die Komponisten mit den in der Kompilation verwendeten Werken übereinstimmen.
 - **Bemerkungen zu den Aufführungen (518)**  
@@ -122,39 +122,40 @@ Take note of the following fields when cataloging compilations.
 
 ### Parodien
 
-A **parody** is a composition based on pre-existing material that results in a new work. In the 19th century, the term gains a satirical flavor.
+Eine **Parodie** ist eine neue Komposition, die auf bereits existierendem Material basiert. Im 19. Jahrhundert erhält der Begriff eine satirische Note.
 
-The record 150205470 will be used as an example.
+Der Datensatz 150205470 dient als Beispiel.
 
-- **Composer (100)**  
-  Enter the composer of the music for the source in hand.
+- **Komponist (100)**  
+  Geben Sie den Komponisten der vorliegenden Quelle an.
  - Weyse, Christoph Ernst Friedrich
-- **Additional personal name (700)**  
-  Enter the composer of the pre-existing material and select the function Composer cross-reference.
+- **Nebeneintragung Personen (700)**  
+  Geben Sie den Komponisten des bereits vorhandenen Materials ein und wählen Sie die Funktion Komponistenquerverweis aus.
  - Rossini, Gioachino
-- **Standardized title (240)**  
-  Enter the standardized title of the source in hand.
+- **Einordnungstitel (240)**  
+  Verwenden Sie den Einordnungstitel der voliegenden Quelle.
  - Dannemark hellige lyd
-- **Additional title (730)**  
-  Enter the title of the pre-existing material. Add Excerpts as appropriate. Do not use Arrangement or Variations.
- - Tancredi. Excerpts
-- **Subject heading (650)**  
-  Enter Parodies as the first subject heading. Enter the genre of the source in hand for the second, and the genre of the pre-existing material as the third.
+- **Alternativer Titel (730)**  
+  Geben Sie den Titel des bereits vorhandenen Materials ein. Ergänzen Sie gegebenenfalls Ausschnitte. Verwenden Sie nicht Bearbeitung oder Variationen.
+ - Tancredi. Ausschnitte
+- **Schlagwort (650)**  
+  Geben Sie Parodies als erstes Schlagwort ein. Geben Sie als zweites die Gattung der vorliegenden Quelle und als drittes die Gattung des bereits vorhandenen Materials ein.
  - Parodies
  - National anthems
  - Operas
-- **Language code (041)**  
-  Enter the language for the source in hand in the field Language of text. Enter the language of the pre-existing material in the field Language of original text.
- - Danish
- - Italian
-- **Text incipits (031)**  
-  Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
+- **Sprachcode (041)**  
+  Geben Sie die Sprache für die vorliegende Quelle in das Feld Sprachcode ein. Geben Sie die Sprache des bereits vorhandenen Materials in das Feld Sprachcodee des Originaltextes ein.
+ - Dänisch
+ - Italienisch
+- **Textincipit (031)**  
+  Geben Sie den Text der vorliegenden Quelle ein. Falls bekannt, ergänzen Sie den Originaltext in eckige Klammern.
  - Dannemark hellige lyd
  - [Di tanti palpiti]
-- **Other fields**  
-  All other fields, such as performance information, should relate only to the source in hand.
+- **Andere Felder**  
+    
+  Alle anderen Felder, wie beispielsweise Aüffuhrungsangaben, sollten sich ausschließlich auf die vorliegende Quelle beziehen.
 
-### Insertion arias
+### Einlagearien
 
 Operas that include **insertion arias** (also called suitcase arias or interpolated arias) should be cataloged with at least three records: a parent record (collection main record) for the opera as a whole, a record for the original movements of the opera (which will contain most of the incipits), and a record for each of the inserts.
 
@@ -185,14 +186,14 @@ There are two ways to catalog periodicals that contain music: as a collection or
 #### Collections
 **Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.
 
-##### Example
+##### Beispiel
 
 1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. There is one record for the collection parent record, and five individual entries for each piece.
 
 #### Single works
 **Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context (for example, a song was torn out of the periodical).
 
-#### Examples
+#### Beispiele
 
 - 991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784
 - 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
@@ -220,51 +221,51 @@ Observe the following fields in particular when cataloging volumes in collected 
 - **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
 - **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
 
-### Librettos
+### Libretti
 
-Observe the following when cataloging librettos.
+Beachten Sie die folgende Felder bei der Katalogisierung von Libretti.
 
-- **Composer/Author (100):** Enter the author of the libretto. Do not use this field for the composer of the music.
-- **Additional personal name (700):** A useful function is "conceptor," such as the author of a play that a libretto was based on. Only enter a composer's name as a cross-reference if named on the source.
-- **Additional institution (710):** Do not forget to index the name of the publisher (for printed librettos).
-- **Standardized title (240):** The fields "Arrangement statement" and "Key or mode" are not relevant here. If the libretto includes notated music, indicate the key in the music incipit (031) only.
-- **Additional title (730):** If the libretto was based on a book or play, the title of the original work can be entered here.
-- **Subject heading (650):** If known, enter the name of the genre for which the libretto was written, such as “Operas” or “Cantatas”. "Librettos" is not necessary.
-- **Language code (041):** Use the field "Language of text" only if the libretto contains notated music with words.
-- **Source type (593):** Select the source type. For the content type, select "Libretto."
-- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. p. p.
+- **Komponist/Autor (100):** Geben Sie den Autor des Librettos ein. Verwenden Sie dieses Feld nicht für den Komponisten.
+- **Nebeneintragung Personen (700):** Eine nützliche Funktion ist „Konzeptor“, beispielsweise der Autor eines Theaterstücks, auf dem ein Libretto basiert. Geben Sie den Namen eines Komponisten nur als Querverweis ein, wenn er auf der Quelle genannt wird.
+- **Nebeneintragung Körperschaft (710):** Vergessen Sie nicht, den Namen des Verlegers zu indizieren (bei gedruckten Libretti).
+- **Einordnungstitel (240):** Die Felder "Bearbeitung" und "Tonart, Modus" sind hier nicht relevant. Wenn das Libretto Noten enthält, geben Sie die Tonart nur im Musikincipit (031) an.
+- **Alternativer Titel (730):** Wenn dem Libretto ein Buch oder Theaterstück zugrunde liegt, kann hier der Titel des Originalwerks eingetragen werden.
+- **Schlagwort (650):** Wenn bekannt, geben Sie die Gattung ein, für das das Libretto geschrieben wurde, wie „Operas“ oder „Cantatas“. "Librettos" ist nicht erforderlich.
+- **Sprachcode (041):** Verwenden Sie das Feld "Sprachcode" nur, wenn das Libretto Noten und Text enthält.
+- **Quellentyp (593):** Quellentyp auswählen. Wählen Sie für den Inhaltstyp "Libretto".
+- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. Ein Beispiel: 1 text document: viii, 27. p.
 
-### Treatises
+### Traktate
 
-When cataloging treatises, the field **Format, extent (300 $a)** should generally include "text document" as the format.
+Bei der Katalogisierung sollte das Feld **Quellenart, Umfang (300 $a)** in der Regel "text document" als Angabe enthalten.
 
-Appropriate subject headings for treatises include the following:
+Geeignete Schlagwörter für Abhandlungen sind u. a.:
 
 - **Treatises**
 - **Writings**
 - **Music theory**
 - **Theory of harmony**
-- **Tutors (inst.)**: Includes methods and schools
-- **Tutors (voc.)**: Includes methods and schools
+- **Tutors (inst.)**: Enthält Methoden und Schulen
+- **Tutors (voc.)**: Enthält Methoden und Schulen
 - **Contrapuntal studies (inst./voc.)**
 - **Solfeggios (voc.)**
 - **Solfeggios (inst.)**
 - **Scales (inst./voc.)**
 
-Additional subject headings may be added.
+Weitere Schlagwörter können ergänzt werden.
 
-The boundry between treatises and method books can sometimes be a thin one, and it is up to the cataloger to decide whether to catalog methods as treatises or music editions.
+Die Grenze zwischen Traktaten und Methodenbüchern kann manchmal fließend sein, und es liegt im Ermessen des Katalogisierers, ob er Methoden als Abhandlungen oder als Musikdrucke katalogisiert.
 
-### Keyboard arrangements
+### Klavierbearbeitungen
 
-Specify keyboard arrangements as follows.
+Geben Sie Klavierbearbeitungen wie folgt an.
 
-- In the field **Standardized title (240):**
+- Im Feld **Einordnungstitel (240):**
   - Select **Arrangement** next to **Arrangement statement**.
-  - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. Do not enter the scoring of the original work.
-- In the field **Total scoring (594)**, enter the total scoring of the arrangement. Do not enter the scoring of the original work.
-- In the field **Physical description (300)**, use **keyboard score** if the work has been reduced for piano. Use **vocal** score if the work has been reduced for voice and piano.
+  - Geben Sie unter **Besetzungshinweis** die Besetzung des Arrangements ein, beispielsweise **pf** oder **V, pf**. Geben Sie nicht die Besetzung des Originalwerks ein.
+- Im Feld **Besetzung (594)**geben Sie die Gesamtbesetzung der Bearbeitung ein. Geben Sie nicht die Besetzung des Originalwerks ein.
+- Im Feld **Materialbeschreibung (300)**verwenden Sie **keyboard score**, wenn das Werk für Klavier reduziert wurde. Verwenden Sie **vocal score** wenn das Werk für Vokalstimme und Klavier reduziert wurde.
 
-### Sources described in RISM Series B publications not yet in Muscat
+### In den Veröffentlichungen der RISM-Serie B beschriebene Quellen, die noch nicht in Muscat vorhanden sind
 
-There are currently no projects underway by the Editorial Center to systematically add sources described in [RISM's Series B publications](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Nevertheles, RISM contributors are welcome to create new records for such sources. If you add items to Muscat that are described in a B volume, fill out the field **RISM Series (510)** in the Administration section and indicate what book the description was found in. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record.
+Von seiten der Zentralredaktion gibt es derzeit keine weiteren Pläne zur systematischen Ergänzung von Quellen, die in den [Veröffentlichungen der RISM-Serie B](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic) beschrieben sind. Dennoch sind RISM-Mitarbeiter herzlich eingeladen, neue Datensätze für solche Quellen zu erstellen. Wenn Sie in Muscat Datensätze hinzufügen, die in einem B-Band beschrieben sind, füllen Sie das Feld **RISM Serien (510)** im Abschnitt Verwaltung aus und geben an, in welchem Band die Beschreibung enthalten ist. Die Zentralredaktion sieht den neuen Datensatz und stellt sicher, dass alle Informationen des Buches (einschließlich anderer Bestandsbibliotheken) im neuen Datensatz enthalten sind.

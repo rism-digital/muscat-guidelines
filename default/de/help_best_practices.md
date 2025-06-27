@@ -35,17 +35,17 @@ Häufig werden wichtige Informationen – wie die Namen von Komponisten oder Wer
 Manchmal ist es nicht möglich, die Quelle persönlich einzusehen, und die einzig verfügbare Beschreibung findet sich in einem gedruckten Katalog, einem Werkkatalog oder einem Online-Bibliothekskatalog. Solche Beschreibungen können als Grundlage für einen RISM-Datensatz verwendet werden. Dabei ist Folgendes zu beachten:
 
 - Ergänzen Sie eine **Bemerkung (500)**, die die Informationsquelle identifiziert, wie "Datensatz basierend auf Beschreibung in YouV"
-- Link to the source of information in the field **Catalog of works (690)**, **Bibliographic reference (691)**, or **External resource** (856) as appropriate
-- In the field **Record origin (980)**, subfield **Material examined**, select **Material not examined**
+- Link zur Informationsquelle im Feld **Werkverzeichnis (690)**, **Literaturverweis (691)** oder **Elektronische Lokalisierung und Zugriff (856)**, je nach Bedarf
+- Im Feld **Herkunft (980)**, Unterfeld **Autopsie** wählen Sie **keine Autopsie**
 
-#### 6. The shared cataloging environment of printed music
+#### 6. Die gemeinsame Katalogisierungsumgebung für Musikdrucke
 
-Bibliographic records for printed editions exist in a shared cataloging environment where multiple libraries have editing rights to the same record. This differs from manuscripts, which are unique to the holding library. Due to the shared environment, care must be taken so that the implications of adding or deleting information from core bibliographic records is thought through.
+Bibliografische Datensätze für Musikdrucke existieren in einer gemeinsamen Katalogisierungsumgebung, in der mehrere Bibliotheken Bearbeitungsrechte für denselben Datensatz haben. Dies unterscheidet sich von Manuskripten, die nur in der jeweiligen Bibliothek vorhanden sind. Aufgrund der gemeinsamen Umgebung, müssen die Auswirkungen des Hinzufügens oder Löschens von Informationen aus bibliografischen Kerndatensätzen sorgfältig bedacht werden.
 
-Catalogers should not remove information from the core record if it is correct. Administrative information is stored in the records that can explain decisions made by the Editorial Center and the relationship to other records. Never delete a note that indicates that a record was merged with another record. Do not delete or edit data in the fields **Initial entry in A/I (775)**, **Local number (035)**, or **RISM series (510)**.
+Katalogisierer sollten keine Informationen aus dem Kerndatensatz entfernen, wenn diese korrekt sind. Verwaltungsinformationen werden in den Datensätzen gespeichert, die die Entscheidungen der Zentralredaktion und die Beziehung zu anderen Datensätzen erläutern können. Löschen oder bearbeiten Sie keine Daten in den Feldern **Ersteintrag in A/I (775)**, **Lokale Nummer (035)** oder **RISM-Serien (510)**. Löschen Sie niemals den Hinweis, dass ein Datensatz mit einem anderen Datensatz zusammengeführt wurde.
 
-If a record has already been revised by another working group (evident by the presence of a library's siglum and shelfmark in the field **Source of description note (588)**), use cataloger's judgement as to whether further revision is necessary. If you make further changes, make it clear in the note what revisions you contributed.
+Wenn ein Datensatz bereits von einer anderen Arbeitsgruppe überarbeitet wurde (erkennbar an der Angabe des Sigels und der Signatur einer Bibliothek im Feld **Vorlageexemplar (588)**), entscheidet der Katalogisierer nach eigenem Ermessen, ob eine weitere Überarbeitung erforderlich ist. Falls Sie weitere Änderungen vornehmen, geben Sie in dem Vermerk bitte deutlich an, welche Überarbeitungen Sie durchgeführt haben.
 
-If your copy is incomplete, revisions might still be possible, but make it clear in the **Source of description note (588)** that your copy is incomplete.
+Falls Ihr Exemplar unvollständig ist, sind möglicherweise auch Überarbeitungen möglich, aber weisen Sie im **Vorlageexemplar (588)** deutlich darauf hin, dass Ihr Exemplar unvollständig ist.
 
-If you wish to edit a record that was previously described using an incomplete copy, it must first be ensured that the accurate material information is preserved in the holdings record of the library with the incomplete copy. The Editorial Center can assist with transferring data to holdings records.
+Wenn Sie einen Datensatz bearbeiten möchten, der anhand einem unvollständigen Exemplar beschrieben wurde, müssen zunächst die korrekten Materialinformationen im Exemplardatensatz der Bibliothek mit der unvollständigen Exemplar abgeglichen werden. Die Zentralredaktion kann bei der Übertragung von Daten in die Exemplardatensätze behilflich sein.
