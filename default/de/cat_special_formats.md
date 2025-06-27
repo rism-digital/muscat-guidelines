@@ -151,9 +151,7 @@ Der Datensatz 150205470 dient als Beispiel.
   Geben Sie den Text der vorliegenden Quelle ein. Falls bekannt, ergänzen Sie den Originaltext in eckige Klammern.
  - Dannemark hellige lyd
  - [Di tanti palpiti]
-- **Andere Felder**  
-    
-  Alle anderen Felder, wie beispielsweise Aüffuhrungsangaben, sollten sich ausschließlich auf die vorliegende Quelle beziehen.
+- Alle anderen Felder, wie beispielsweise Aüffuhrungsangaben, sollten sich ausschließlich auf die vorliegende Quelle beziehen.
 
 ### Einlagearien
 
@@ -233,7 +231,7 @@ Beachten Sie die folgende Felder bei der Katalogisierung von Libretti.
 - **Schlagwort (650):** Wenn bekannt, geben Sie die Gattung ein, für das das Libretto geschrieben wurde, wie „Operas“ oder „Cantatas“. "Librettos" ist nicht erforderlich.
 - **Sprachcode (041):** Verwenden Sie das Feld "Sprachcode" nur, wenn das Libretto Noten und Text enthält.
 - **Quellentyp (593):** Quellentyp auswählen. Wählen Sie für den Inhaltstyp "Libretto".
-- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. Ein Beispiel: 1 text document: viii, 27. p.
+- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. Ein Beispiel: 1 text document: viii, 27. p. p.
 
 ### Traktate
 
