@@ -233,39 +233,39 @@ Beachten Sie die folgende Felder bei der Katalogisierung von Libretti.
 - **Schlagwort (650):** Wenn bekannt, geben Sie die Gattung ein, für das das Libretto geschrieben wurde, wie „Operas“ oder „Cantatas“. "Librettos" ist nicht erforderlich.
 - **Sprachcode (041):** Verwenden Sie das Feld "Sprachcode" nur, wenn das Libretto Noten und Text enthält.
 - **Quellentyp (593):** Quellentyp auswählen. Wählen Sie für den Inhaltstyp "Libretto".
-- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. p. p.
+- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. Ein Beispiel: 1 text document: viii, 27. p.
 
-### Treatises
+### Traktate
 
-When cataloging treatises, the field **Format, extent (300 $a)** should generally include "text document" as the format.
+Bei der Katalogisierung sollte das Feld **Quellenart, Umfang (300 $a)** in der Regel "text document" als Angabe enthalten.
 
-Appropriate subject headings for treatises include the following:
+Geeignete Schlagwörter für Abhandlungen sind u. a.:
 
 - **Treatises**
 - **Writings**
 - **Music theory**
 - **Theory of harmony**
-- **Tutors (inst.)**: Includes methods and schools
-- **Tutors (voc.)**: Includes methods and schools
+- **Tutors (inst.)**: Enthält Methoden und Schulen
+- **Tutors (voc.)**: Enthält Methoden und Schulen
 - **Contrapuntal studies (inst./voc.)**
 - **Solfeggios (voc.)**
 - **Solfeggios (inst.)**
 - **Scales (inst./voc.)**
 
-Additional subject headings may be added.
+Weitere Schlagwörter können ergänzt werden.
 
-The boundry between treatises and method books can sometimes be a thin one, and it is up to the cataloger to decide whether to catalog methods as treatises or music editions.
+Die Grenze zwischen Traktaten und Methodenbüchern kann manchmal fließend sein, und es liegt im Ermessen des Katalogisierers, ob er Methoden als Abhandlungen oder als Musikdrucke katalogisiert.
 
-### Keyboard arrangements
+### Klavierbearbeitungen
 
-Specify keyboard arrangements as follows.
+Geben Sie Klavierbearbeitungen wie folgt an.
 
-- In the field **Standardized title (240):**
+- Im Feld **Einordnungstitel (240):**
   - Select **Arrangement** next to **Arrangement statement**.
-  - Under **Scoring summary**, enter the scoring of the arrangement, such as **pf** or **V, pf**. Do not enter the scoring of the original work.
-- In the field **Total scoring (594)**, enter the total scoring of the arrangement. Do not enter the scoring of the original work.
-- In the field **Physical description (300)**, use **keyboard score** if the work has been reduced for piano. Use **vocal** score if the work has been reduced for voice and piano.
+  - Geben Sie unter **Besetzungshinweis** die Besetzung des Arrangements ein, beispielsweise **pf** oder **V, pf**. Geben Sie nicht die Besetzung des Originalwerks ein.
+- Im Feld **Besetzung (594)**geben Sie die Gesamtbesetzung der Bearbeitung ein. Geben Sie nicht die Besetzung des Originalwerks ein.
+- Im Feld **Materialbeschreibung (300)**verwenden Sie **keyboard score**, wenn das Werk für Klavier reduziert wurde. Verwenden Sie **vocal score** wenn das Werk für Vokalstimme und Klavier reduziert wurde.
 
-### Sources described in RISM Series B publications not yet in Muscat
+### In den Veröffentlichungen der RISM-Serie B beschriebene Quellen, die noch nicht in Muscat vorhanden sind
 
-There are currently no projects underway by the Editorial Center to systematically add sources described in [RISM's Series B publications](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Nevertheles, RISM contributors are welcome to create new records for such sources. If you add items to Muscat that are described in a B volume, fill out the field **RISM Series (510)** in the Administration section and indicate what book the description was found in. The Editorial Center will see the new record and ensure all information from the book (including other holding libraries) is in the new record.
+Von seiten der Zentralredaktion gibt es derzeit keine weiteren Pläne zur systematischen Ergänzung von Quellen, die in den [Veröffentlichungen der RISM-Serie B](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic) beschrieben sind. Dennoch sind RISM-Mitarbeiter herzlich eingeladen, neue Datensätze für solche Quellen zu erstellen. Wenn Sie in Muscat Datensätze hinzufügen, die in einem B-Band beschrieben sind, füllen Sie das Feld **RISM Serien (510)** im Abschnitt Verwaltung aus und geben an, in welchem Band die Beschreibung enthalten ist. Die Zentralredaktion sieht den neuen Datensatz und stellt sicher, dass alle Informationen des Buches (einschließlich anderer Bestandsbibliotheken) im neuen Datensatz enthalten sind.
