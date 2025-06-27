@@ -88,12 +88,12 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
 
 - **Komponist/Autor (100)**  
   Der Komponist ist immer **Compilations**.
-- **Additional personal name (700)**  
-  The name of the compiler can be added with the function **Editor**.  
-  If you have a compilation, enter the composer(s) of the original material and select the function **Composer cross-reference**. Enter the composer(s) of the new material and select the function **Co-composer**.   
-  If you have a pasticcio, do not enter composers as a composer cross-references. Instead, enter all composers as a **Co-composer**.
+- **Nebeneintragung Personen (700)**  
+  Der Name des Compilers kann mit der Funktion **Herausgeber** hinzugefügt werden.  
+  Wenn Sie eine Kompilation haben, geben Sie den/die Komponisten des Originalmaterials ein und wählen Sie die Funktion **Komponistenquerverweis**. Geben Sie die Komponist(en) des neuen Materials ein und wählen Sie die Funktion **Mitkomponist** aus.   
+  Wenn Sie ein Pasticcio haben, geben Sie keine Komponisten als Komponistenquerverweise ein. Geben Sie stattdessen alle Komponisten als **Mitkomponist** ein.
 - **Einordnungstitel (240)**  
-  Verwenden Sie den Einordnungstitel der voliegenden Quelle. Bei Pasticcios fügen Sie **Auszüge** oder **Bearbeitung** hinzu.
+  Verwenden Sie den Einordnungstitel der voliegenden Quelle. Bei Pasticcios fügen Sie **Ausschnitte** oder **Bearbeitung** hinzu.
 - **Sprachcode (041)**  
   In das Feld **Sprachcode** geben Sie die Sprache der vorliegenden Quelle ein. Die Sprache des Originalwerks kann gegebenenfalls in **Sprachcode des Originaltextes** eingegeben werden.
 - **Schlagwort (650)**  
@@ -118,7 +118,7 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
 - 702000623: Suite aus Teilen einer Oper
 - 700007222: Mehrere Werke eines einzelnen Komponisten wurden verwendet, um eine neue Kantate zu erstellen
 - 702000642, 702000643: Mehrere Werke mehrerer Komponisten, die zur Erstellung einer neuen Suite verwendet wurden
-- 452505748: Eine Operpasticcio bestehend aus 3 Akten von 3 verschiedenen Komponisten
+- 452505748: Ein Operpasticcio bestehend aus 3 Akten von 3 verschiedenen Komponisten
 
 ### Parodien
 
@@ -188,7 +188,7 @@ Es gibt zwei Möglichkeiten, Zeitschriften mit Notenmaterial zu katalogisieren: 
 
 1001097294: Januar Ausgabe (genaues Jahr unbekannt) von _Kleine Pianoforte-Bibliothek_ mit 5 Werken. Es gibt einen übergeordneten Datensatz für die Sammlung und fünf individuelle Einträge für jedes Stück.
 
-#### Einzelne Werke
+#### Einzelnes Werk
 **Einzelne Werke** können dann angemessen sein, wenn die Werke als Beilagen oder Ergänzungen in Zeitschriften aufgenommen wurden, die keinen Notenschwerpunkt haben. Häufig werden diese Gegenstände außerhalb ihres ursprünglichen Veröffentlichungskontextes aufbewahrt (zum Beispiel wurde ein Lied aus der Zeitschrift herausgerissen).
 
 #### Beispiele
@@ -198,26 +198,26 @@ Es gibt zwei Möglichkeiten, Zeitschriften mit Notenmaterial zu katalogisieren: 
 
 ### Noten in nicht-musikalischen Publikationen
 
-RISM umfasst Noten in gedruckten Publikationen, die nicht in erster Linie Musikdokumente sind. The focus of the RISM record is nevertheless the music.
+RISM umfasst Noten in gedruckten Publikationen, die nicht in erster Linie Musikdokumente sind. Der Schwerpunkt des RISM-Eintrags liegt dennoch auf den Noten.
 
-As an example we will use RISM ID no. 990026614, three songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
-- **Composer/Author (100)**: The composer of the music
-- **Additional Personal Name (700)**: The author of the book, with the function **other**
-- **Title on source (245)**: The title of the book
-- **Standardized title (240)**: A standardized title according to RISM rules, such as **3 Songs**
-- **Physical description (300)**: A description of the music, such as **1 score: 5 p.**
+Als Beispiel dient die RISM ID No. 990026614 mit drei Liedern von John Isaac Hawkins erschienen in Charles Willson Peales _Discourse introductory to a course of lectures on the science of nature_ (1800).
+- **Komponist/Autor (100)**: Komponist
+- **Nebeneintragung Personen (700)**: Autor des Buches mit der Funktion **Sonstige**
+- **Diplomatischer Titel (245)**: Der Titel des Buches
+- **Einordnungstitel (240)**: Ein standardisierter Titel nach RISM-Regeln, wie **3 Songs**
+- **Materialbeschreibung (300)**: Eine Beschreibung der Noten, wie z. B. **1 score: 5 p.**
 
-Individual entries are then created for each piece, following normal RISM rules. A **General note (500)** is useful to give more information such as the context of the music within the book or the total pagination of the book.
+Teileinträge werden dann für jedes Werk gemäß den üblichen RISM-Regeln erstellt. Eine **Bemerkung (500)** ist nützlich, um weitere Informationen wie den Kontext der Noten innerhalb des Buches oder die Gesamtseitenzahl anzugeben.
 
-### Collected works and monuments
+### Gesamt- und Denkmälerausgaben
 
-Volumes that are part of collected works editions or monuments of music are treated like separate publications and are cataloged as one record per volume. Such volumes will usually consist of a parent record for the edition and individual entries for each piece contained therein. The name of the series is entered in the field **Additional title (730)**.
+Bände, die Teil von Gesamtausgaben oder Musikdenkmälern sind, werden wie Einzelpublikationen behandelt und als ein Datensatz pro Band katalogisiert. Solche Bände bestehen in der Regel aus einem übergeordneten Datensatz für die Ausgabe und Teileinträgen für jedes darin enthaltene Werk. Der Name der Serie wird im Feld **Alternativer Titel (730)** eingetragen.
 
-Observe the following fields in particular when cataloging volumes in collected works. We will use RISM ID no. 1001200051 as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
+Beachten Sie bei der Katalogisierung von Bänden einer Gesamtausgabe insbesondere folgende Felder. Als Beispiel dient die RISM ID Nr. 1001200051, ein Messenband der Reihe _Wolfgang Amadeus Mozart's Werke._
 
-- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. iii]. Enter all other titles in the field **Variant title on source (246)**.
-- **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
-- **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
+- **Diplomatischer Titel (245)**: Häufig sind mehrere Titelseiten und Schmutztitel vorhanden. Wählen Sie eine Hauptinformationsquelle aus und geben Sie sie als **Diplomatischer Titel** ein. Geben Sie am Anfang des Feldes an, welche Seite transkribiert wird, z. B. [title page] oder [p. iii]. Geben Sie alle anderen Titel im Feld **Weiterer diplomatischer Titel (246)** ein.
+- **Weiterer diplomatischer Titel(246)**: Aufgrund der großen Zahl von Nachdrucken und Variantenausgaben gesammelter Werke empfiehlt es sich, alle anderen Titelseiten oder Titelangaben in dieses Feld aufzunehmen. Dies erleichtert anderen Benutzern die Identifizierung, wenn sie ein Exemplar mit abweichendem Vorspann vorliegen haben.
+- **Alternativer Titel (730)**: Geben Sie den Namen der Reihe gemäß den Konventionen der Reihe einschließlich der Bandnummer ein.
 
 ### Libretti
 
@@ -231,7 +231,7 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Libretti.
 - **Schlagwort (650):** Wenn bekannt, geben Sie die Gattung ein, für das das Libretto geschrieben wurde, wie „Operas“ oder „Cantatas“. "Librettos" ist nicht erforderlich.
 - **Sprachcode (041):** Verwenden Sie das Feld "Sprachcode" nur, wenn das Libretto Noten und Text enthält.
 - **Quellentyp (593):** Quellentyp auswählen. Wählen Sie für den Inhaltstyp "Libretto".
-- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. Ein Beispiel: 1 text document: viii, 27. p. p.
+- **Materialbeschreibung: Quellenart, Umfang (300):** Verwenden Sie die Phrase "text document", um das Libretto zu beschreiben. Ein Beispiel: 1 text document: viii, 27. p. p.
 
 ### Traktate
 
@@ -259,7 +259,7 @@ Die Grenze zwischen Traktaten und Methodenbüchern kann manchmal fließend sein,
 Geben Sie Klavierbearbeitungen wie folgt an.
 
 - Im Feld **Einordnungstitel (240):**
-  - Select **Arrangement** next to **Arrangement statement**.
+  - Wählen Sie **Bearbeitung** aus.
   - Geben Sie unter **Besetzungshinweis** die Besetzung des Arrangements ein, beispielsweise **pf** oder **V, pf**. Geben Sie nicht die Besetzung des Originalwerks ein.
 - Im Feld **Besetzung (594)**geben Sie die Gesamtbesetzung der Bearbeitung ein. Geben Sie nicht die Besetzung des Originalwerks ein.
 - Im Feld **Materialbeschreibung (300)**verwenden Sie **keyboard score**, wenn das Werk für Klavier reduziert wurde. Verwenden Sie **vocal score** wenn das Werk für Vokalstimme und Klavier reduziert wurde.
