@@ -155,11 +155,11 @@ Der Datensatz 150205470 dient als Beispiel.
 
 ### Einlagearien
 
-Operas that include **insertion arias** (also called suitcase arias or interpolated arias) should be cataloged with at least three records: a parent record (collection main record) for the opera as a whole, a record for the original movements of the opera (which will contain most of the incipits), and a record for each of the inserts.
+Opern, die **Einlagearien** (auch Koffer-Arien oder interpolierte Arien genannt) enthalten, sollten mit mindestens drei Datensätzen katalogisiert werden: ein übergeordneter Datensatz (Haupteintrag Sammlung) für die Oper als Ganzes, ein Datensatz für die ursprünglichen Sätze der Oper (der die meisten Incipits enthalten wird) und ein Datensatz für jede Einlage.
 
-Inserts that are separated from a larger work should be cataloged separately. A link to the work into which it was inserted can be indicated in the field **Related source (787**).
+Einlagen, die aus einem größeren Werk herausgelöst sind, sollten separat katalogisiert werden. Ein Link zu dem Werk, in das die Einlage eingefügt wurde, kann im Feld **Verwandte Quelle (787)** angegeben werden.
 
-The usual rules apply when creating the parent record and the record for the main opera. Observe the following when cataloging the insert. Note that all fields (such as date of composition and scoring) pertain to the insertion only.
+Für die Erstellung des übergeordneten Datensatzes und des Datensatzes für die Hauptoper gelten die üblichen Regeln. Observe the following when cataloging the insert. Note that all fields (such as date of composition and scoring) pertain to the insertion only.
 
 - **Composer (100)**: Composer of the insertion
 - **Additional name (700)**: Composer of the larger work, such as an opera
