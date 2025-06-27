@@ -55,14 +55,14 @@ Beispiel 1: RISM ID No. 1001031016: Beethoven, "Adelaide", op. 46, kein Datum, B
 
 Beispiel 2: RISM ID No. 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
 
-1. Exemplar 1: Gleicher Titel, aber ein Etikett verdeckt die Veröffentlichungsinformationen: Köln, P.J. Simrock. Sie sehen, dass das Etikett die Bonn/Köln Informationen überdeckt. **Neuer Datensatz erforderlich** (unterschiedlicher Publikationsstatus/Etikett zeigt einen anderen Verleger). Ergebnis: 1001141767
+1. Exemplar 1: Gleicher Titel, aber ein Etikett verdeckt die Veröffentlichungsinformationen: Köln, P.J. Simrock. Simrock. Sie sehen, dass das Etikett die Bonn/Köln Informationen überdeckt. **Neuer Datensatz erforderlich** (unterschiedlicher Publikationsstatus/Etikett zeigt einen anderen Verleger). Ergebnis: 1001141767
 
 Beispiel 3: RISM ID no. 990024126: Gyrowetz, Symphonies, op. 9. Der RISM-Eintrag stellt eine Reihe von verschiedenen Symphonien dar. Jede Sinfonie ist als separate Publikation mit separaten Plattennummern erhältlich, die als _Livres_ 1, 2 und 3 ausgegeben werden.
 
-1. Option 1, the quick solution: If your library only has one of the items in the set, **add your holdings** and in the field "Material held" note which symphony (livre) you have.
-2. Option 2, a better solution, but takes more time: **Notify the Editorial Center** about this record and we will split the record into 3, one record for each symphony. Then, add your holdings to the record for the symphony you have.
+1. Option 1, die schnelle Lösung: Wenn Ihre Bibliothek nur ein Elemente aus dem Set hat **ergänzen Sie Ihr Exemplar** und notieren im Feld "Erhaltenes Material", welche Symphonie (livre) vorhanden ist.
+2. Option 2, eine bessere Lösung, die etwas mehr Zeit beansprucht: **Benachrichtigen Sie die Zentralredaktion** und wir teilen den Datensatz in 3 separate Datensätze, einen für jede Symphonie. Fügen Sie dann Ihre Bestände dem Datensatz der entsprechenden Symphonie hinzu.
 
-### Standardized titles for printed music
+### Einordnungstitel für Musikdrucke
 
 #### Individualtitel
 
@@ -138,7 +138,7 @@ Ein Datensatz muss aufgesplittet werden, wenn es Hinweise dafür gibt, dass mehr
 Sie können das Vorhandensein verschiedener Editionen an Konventionen wie den folgenden in den Datensätzen erkennen.
 
 Im Feld **Diplomatischer Titel (245)** werden oft mehrere Teile oder mehrere Tonarten genannt:
-- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3) N\|o 1 (2, 3)
+- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
 - Divine harmony. Six select anthems … (Divine harmony. The 2\|d collection being select anthems ...)
