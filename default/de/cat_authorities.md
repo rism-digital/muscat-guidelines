@@ -4,11 +4,11 @@ Die **Normdaten**-Abteilung von Muscat sammelt alle Autoritätsdateien, das kont
 
 ## Digitale Objekte
 
-In der Datenbank für digitale Objekte werden alle Bilder (in der Regel Wasserzeichen, Handschriftproben oder Einbände) und MEI-Incipits gesammelt, die den Datensätten in Muscat beigefügt sind. Sie können digitale Objekte bei Quellen, Personen und Institutionen anbringen.
+In der Datenbank für digitale Objekte werden alle Bilder (in der Regel Wasserzeichen, Handschriftproben oder Einbände) und MEI-Incipits gesammelt, die den Datensätzen in Muscat beigefügt sind. Sie können digitale Objekte bei Quellen, Personen und Institutionen anbringen.
 
 ## Körperschaften
 
-Die Normdatei für Körperschaften (Firmennamen) beschreibt Nicht-Personen, die in Verbindung mit einer Quelle oder einem anderen Normdateneintrag in Muscat stehen. RISM trägt zur [VIAF (Virtual International Authority File)](https://www.viaf.org/) bei, so dass die in RISM verwendeten Namen regelmäßig an VIAF übermittelt werden. Personen können in den Feldern **Komponist/Autor (100 $a)** und **Nebeneintragung Personen (700 $a)** in Quellen, **Zugehörige Personen (700 $a)** in Körperschaften, **Zugehörige Personen (500 $a)** in Personen, **Autor (100 $a)** und **Sonstige Person (700 $a)** in Sekundärliteratur, und **Verfasser (100 $a)** in Work nodes verknüpft werden.
+Die Normdatei für Körperschaften (Firmennamen) beschreibt Nicht-Personen, die in Verbindung mit einer Quelle oder einem anderen Normdateneintrag in Muscat stehen. Diese Normdatei enthält sowohl moderne Institutionen (z. B. eine Bibliothek mit einem RISM-Bibliothekssigel) als auch historische Körperschaften (z. B. einen Verlag oder ein Orchester). Köperschaften können im Feld **Nebeneintragung Köperschaften (710 $a)** in Quellen, **In Beziehung stehende Köperschaft (710 $a)** in Köperschaften, **In Beziehung stehende Köperschaft (510 $a)** in Personen und **Nebeneintragung Köperschaften (710 $a)** in Sekundärliteratur verknüpft werden.
 
 ## Liturgische Feste
 
@@ -16,7 +16,7 @@ Der Index der liturgischen Feste erfasst die religiösen Feiertage und Festtage.
 
 ## Personen
 
-Die Normdatei für Körperschaften (Firmennamen) beschreibt Nicht-Personen, die in Verbindung mit einer Quelle oder einem anderen Normdateneintrag in Muscat stehen. Personen können in den Feldern **Komponist/Autor (100 $a)** und **Nebeneintragung Personen (700 $a)** in Quellen, **Zugehörige Personen (700 $a)** in Körperschaften, **Zugehörige Personen (500 $a)** in Personen, **Autor (100 $a)** und **Sonstige Person (700 $a)** in Sekundärliteratur, und **Verfasser (100 $a)** in Work nodes verknüpft werden. RISM trägt zur [VIAF (Virtual International Authority File)](https://www.viaf.org/) bei, so dass die in RISM verwendeten Namen regelmäßig an VIAF übermittelt werden.
+Die Normdatei für Personen beschreibt alle Personen, die in Verbindung mit einer Quelle oder einem anderen Normdateneintrag in Muscat stehen. Personen können in den Feldern **Komponist/Autor (100 $a)** und **Nebeneintragung Personen (700 $a)** in Quellen, **Zugehörige Personen (700 $a)** in Körperschaften, **Zugehörige Personen (500 $a)** in Personen, **Autor (100 $a)** und **Sonstige Person (700 $a)** in Sekundärliteratur, und **Verfasser (100 $a)** in Work nodes verknüpft werden. RISM trägt zur [VIAF (Virtual International Authority File)](https://www.viaf.org/) bei, so dass die in RISM verwendeten Namen regelmäßig an VIAF übermittelt werden.
 
 Neue Namen können durch den Eigentümer des Eintrags für einen Zeitraum von zwei Monaten nach der Erstellung des Eintrags geändert werden. Die Katalogisierer werden gebeten, so viele Informationen wie möglich in den Normdatensatz einzugeben, einschließlich Links zu VIAF, biographische Informationen und alternative Schreibweisen. Nach zwei Monaten geht die Kontrolle über den Datensatz an die Zentralredaktion über. Ergänzungen sind weiterhin willkommen und können über die Kommentarfunktion oder per E-Mail an [Alexander Marxen](mailto:alexander.marxen@rism.info) kommuniziert werden.
 
