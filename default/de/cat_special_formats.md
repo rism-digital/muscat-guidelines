@@ -228,11 +228,11 @@ Beachten Sie die folgende Felder bei der Katalogisierung von Libretti.
 - **Komponist/Autor (100):** Geben Sie den Autor des Librettos ein. Verwenden Sie dieses Feld nicht für den Komponisten.
 - **Nebeneintragung Personen (700):** Eine nützliche Funktion ist „Konzeptor“, beispielsweise der Autor eines Theaterstücks, auf dem ein Libretto basiert. Geben Sie den Namen eines Komponisten nur als Querverweis ein, wenn er auf der Quelle genannt wird.
 - **Nebeneintragung Körperschaft (710):** Vergessen Sie nicht, den Namen des Verlegers zu indizieren (bei gedruckten Libretti).
-- **Standardized title (240):** The fields "Arrangement statement" and "Key or mode" are not relevant here. If the libretto includes notated music, indicate the key in the music incipit (031) only.
-- **Additional title (730):** If the libretto was based on a book or play, the title of the original work can be entered here.
-- **Subject heading (650):** If known, enter the name of the genre for which the libretto was written, such as “Operas” or “Cantatas”. "Librettos" is not necessary.
-- **Language code (041):** Use the field "Language of text" only if the libretto contains notated music with words.
-- **Source type (593):** Select the source type. For the content type, select "Libretto."
+- **Einordnungstitel (240):** Die Felder "Bearbeitung" und "Tonart, Modus" sind hier nicht relevant. Wenn das Libretto Noten enthält, geben Sie die Tonart nur im Musikincipit (031) an.
+- **Alternativer Titel (730):** Wenn dem Libretto ein Buch oder Theaterstück zugrunde liegt, kann hier der Titel des Originalwerks eingetragen werden.
+- **Schlagwort (650):** Wenn bekannt, geben Sie die Gattung ein, für das das Libretto geschrieben wurde, wie „Operas“ oder „Cantatas“. "Librettos" ist nicht erforderlich.
+- **Sprachcode (041):** Verwenden Sie das Feld "Sprachcode" nur, wenn das Libretto Noten und Text enthält.
+- **Quellentyp (593):** Quellentyp auswählen. Wählen Sie für den Inhaltstyp "Libretto".
 - **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. An example would be: 1 text document: viii, 27. p. p. p.
 
 ### Treatises
