@@ -1,31 +1,31 @@
-## Printed editions in RISM
+## Musikdrucke in RISM
 
-The section **Printed editions in RISM** outlines some considerations that are particular to printed music, including the scope of printed editions in RISM, core records vs. copy-specific information, when to input a new record, standardized titles, multiple copies, record splits and mergers, and printed editions from Series B.
+Der Abschnitt **Musikdrucke in RISM** enthält einige Überlegungen, die speziell für gedruckte Ausgaben gelten, darunter der Umfang von Musikdrucken in RISM, Kerndatensätze im Vergleich zu exemplarspezifischen Informationen, wann ein neuer Datensatz eingegeben werden sollte, Einordnungstitel, mehrere Kopien, Aufteilungen und Zusammenführungen von Datensätzen sowie Musikdrucke aus der Serie B.
 
 ### Bereich der Notendrucke in RISM
 
-RISM seeks to document printed music from the beginnings of music printing through around 1945.
+RISM hat sich zum Ziel gesetzt, Musikdrucke von den Anfängen des Notendrucks bis etwa 1945 zu dokumentieren.
 
-In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and distribution. The amount of music considered "rare" or undocumented through other resources is much less when compared to previous centuries. Music published by modern commercial publishers, printed in large quantities, widely available, and meant for active use by library patrons would be better documented in cooperative library catalogs such as [WorldCat](http://www.worldcat.org/).
+Seit dem 20. Jahrhundert und bis heute ist ein starker Anstieg kommerzieller Musikveröffentlichungen und ihres Vertriebs zu beobachten. Die Menge an Musik, die als „selten“ oder durch andere Quellen nicht dokumentiert gilt, ist im Vergleich zu früheren Jahrhunderten viel geringer. Noten, die von modernen kommerziellen Verlagen veröffentlicht, in großen Mengen gedruckt und weit verbreitet werden sowie für die aktive Nutzung durch Bibliotheksbenutzer bestimmt sind, sollten besser in kooperativen Bibliothekskatalogen wie [WorldCat](http://www.worldcat.org/) dokumentiert werden.
 
-RISM will consider printed music that falls outside of its scope on a case-by-case basis. Relevant cases could include defunct publishers or smaller, regional publishers of historical significance, or modern editions that are part of a collection with historical value, such as the private library of an individual.
+In Einzelfällen wird RISM Notendrucke, die außerhalb seines Zuständigkeitsbereichs liegen, prüfen. Zu den relevanten Fällen könnten beispielsweise nicht mehr existierende Verlage oder kleinere, regional bedeutende Verlage von historischer Bedeutung gehören. Ebenso könnten moderne Ausgaben Teil einer Sammlung mit historischem Wert sein, wie etwa die Privatbibliothek einer Person.
 
 ### Kerndatensätze vs. exemplarspezifische Informationen
 
-Muscat has a two-tiered structure for printed editions: a core bibliographic level and the holdings level. Information that is true for the edition as a whole is entered on a core bibliographic level, and information specific to a library's copy is entered on the holdings level.
+In Muscat sind Musikdrucke in zwei Stufen organisiert: die bibliografische Kernebene und die Bestandsebene. Informationen, die für die gesamte Ausgabe gelten, werden auf einer zentralen bibliografischen Ebene eingegeben, während Informationen, die sich speziell auf das Exemplar einer Bibliothek beziehen, auf der Bestandsebene eingegeben werden.
 
 Informationen für den Kerndatensatz umfassen Komponist, Verleger, Titel, Besetzung, Plattennummer und Format. Informationen zum Exemplar der besitzenden Bibliothek, Signatur, fehlende Teile, handgeschriebene Ergänzungen, frühere Eigentümer, Bindungen und Besitzerstempel. Die MARC-Felder des Exemplardatensatzes sind über $3 verknüpft.
 
 ### Wann muss ein neuer Datensatz eingegeben werden
 
-RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences.
+RISM behandelt jedes Manuskript als einzigartiges Objekt, daher hat jedes Manuskript seinen eigenen RISM-Eintrag. Bei gedruckten Materialien ist es jedoch möglich, dass mehrere Exemplare derselben Ausgabe mit demselben Datensatz beschrieben werden. In diesem Fall fügen Bibliotheken einfach ihre Bestandsinformationen hinzu und vermerken etwaige exemplarspezifische Unterschiede. Obwohl Muscat über mehr als 125.000 Musikdrucke verfügt und die Wahrscheinlichkeit hoch ist, dass bereits Datensätze für vor 1800 veröffentlichte Musik vorhanden sind, können Katalogisierer erhebliche Abweichungen feststellen, die die Erstellung eines neuen Datensatzes erforderlich machen.
 
-The following offers guidelines as to which variations justify a new record and which do not. (This section draws heavily from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
+Die folgenden Hinweise klären, welche Abweichungen einen neuen Datensatz rechtfertigen und welche nicht. (Dieser Abschnitt stützt sich weitgehend auf [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
-**A new record is required** if your item shows one or more of these differences when compared to the RISM record:
+**Ein neuer Datensatz ist erforderlich**, wenn Ihr Objekt im Vergleich zum RISM-Datensatz eine oder mehrere der folgenden Abweichungen aufweist:
 
-- **Different content**: Differences in the title or authors/contributors. Edition statement that indicates corrections, revisions, expansions, abridgments, or the inclusion of supplementary materials.
-- **Different publisher.**
+- **Unterschiedliche Inhalte**: Unterschiede im Titel oder bei den Autoren/Beitragenden. Ein Ausgabevermerk gibt an, ob Korrekturen, Überarbeitungen, Erweiterungen, Kürzungen oder die Aufnahme von ergänzendem Material vorgenommen wurden.
+- **Anderer Verleger.**
 - **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by the comparison of multiple copies).
 - **Different publication status**: An original title page has been canceled and replaced. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page. Series title page is new. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher.
 - **Different plate and/or publisher numbers**.
