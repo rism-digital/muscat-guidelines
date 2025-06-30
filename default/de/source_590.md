@@ -45,7 +45,7 @@ Geben Sie die Anzahl der Folien, Seiten, Bögen oder Lagen ein. Verwenden Sie nu
 
 Andere Einheiten (z. B. die Umrechnung von Folios in Seiten) geben Sie im Feld **Bemerkungen (500)** an.
 
-Sie können auch einzelne Seiten oder Folien innerhalb einer handschriftlichen Sammlung angeben, z. B. **p. **p. **p. **p. **p. **p. **p. 5-6** or **f. 4r-4v**. 4r-4v**.</p>
+Sie können auch einzelne Seiten oder Folien innerhalb einer handschriftlichen Sammlung angeben, z. B. **p. **p. **p. **p. **p. **p. **p. **p. 5-6** or **f. 4r-4v**. 4r-4v**.</p>
 
 ##### Beispiele
 Es gibt zwei Varianten, um die Stimmen aufzuzählen.
