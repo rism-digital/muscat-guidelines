@@ -27,7 +27,7 @@ Die folgenden Hinweise klären, welche Abweichungen einen neuen Datensatz rechtf
 - **Unterschiedliche Inhalte**: Unterschiede im Titel oder bei den Autoren/Beitragenden. Ein Ausgabevermerk gibt an, ob Korrekturen, Überarbeitungen, Erweiterungen, Kürzungen oder die Aufnahme von ergänzendem Material vorgenommen wurden.
 - **Anderer Verleger.**
 - **Unterschiedliche Druckeinstellungen**: Unterschiedliche Platten (ausgenommen Ersatzplatten). Änderungen im Umfang. Änderung des bibliografischen oder musikalischen Formats. Unterschiede in den Endungen der Musikzeilen und Kustoden (sichtbar durch den Vergleich mehrerer Kopien).
-- **Anderer Veröffentlichungsstatus**: Eine Original-Titelseite wurde gestrichen und ersetzt. Ein neues Etikett überdeckt die ursprüngliche Angabe zu Veröffentlichung, Vertrieb, Produktion usw. und weist auf einen neuen Herausgeber hin. Die Originalblätter wurden in einem neuen Verlagsumschlag herausgegeben, der aktuellere Informationen enthält als die auf der Titelseite angegebenen. Die Titelseite der Serie ist neu.
+- **Anderer Veröffentlichungsstatus**: Eine Original-Titelseite wurde gestrichen und ersetzt. Die Titelseite der Serie ist neu. Ein neues Etikett überdeckt die ursprüngliche Angabe zu Veröffentlichung, Vertrieb, Produktion usw. und weist auf einen neuen Herausgeber hin. Die Originalblätter wurden in einem neuen Verlagsumschlag herausgegeben, der aktuellere Informationen enthält als die auf der Titelseite angegebenen.
 - **Verschiedene Platten und/oder Verlagsnummern**.
 
 **Erstellen Sie keinen neuen Datensatz**, wenn Ihr Objekt einen dieser Unterschiede aufweist. Wenn Ihr Objekt _mehr als einen_ dieser Unterschiede aufweist, müssen Sie entscheiden, ob ein neuer Datensatz erforderlich ist.
@@ -138,7 +138,7 @@ Ein Datensatz muss aufgesplittet werden, wenn es Hinweise dafür gibt, dass mehr
 Sie können das Vorhandensein verschiedener Editionen an Konventionen wie den folgenden in den Datensätzen erkennen.
 
 Im Feld **Diplomatischer Titel (245)** werden oft mehrere Teile oder mehrere Tonarten genannt:
-- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
+- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
 - Divine harmony. Six select anthems … (Divine harmony. The 2\|d collection being select anthems ...)
@@ -161,18 +161,18 @@ In den **Exemplarinformationen** gibt es in der Regel Hinweise darauf, dass nur 
 - D-F Mus. pr. Q 55/349 [livre 1]
 - CH-Bu [2., 3. Buch]
 
-Beim Splitten von Datensätzen wird die RISM-Seriennummer auf alle neu erstellten Datensätze übertragen.
+Bei einer Splittung von Datensätzen wird die RISM-Seriennummer auf alle neu erstellten Datensätze übertragen.
 
 ##### Datensätze zusammenführen
 
 Katalogisierer sollten wissen, dass sich in der Datenbank manchmal Duplikate befinden. Einige Dubletten stammen aus den gedruckten RISM-Serien A/I oder B: Pasticcios oder andere Gemeinschaftswerke wurden unter mehreren Komponisten eingetragen, eine in der Reihe B/I klassifizierte Ausgabe wurde auch in A/I veröffentlicht, oder eine Ausgabe wurde einfach zweimal in einer langen Liste eingetragen. Darüber hinaus erstellen Katalogisierer manchmal versehentlich doppelte Datensätze.
 
-Doppelte Einträge sind nicht erlaubt und müssen zusammengeführt werden, wenn sie erkannt werden. Beim Zusammenführen von Datensätzen gelten bestimmte Kriterien, welcher Datensatz der endgültige Datensatz wird und welcher Datensatz zusammengeführt wird. Bevorzugt werden A/I- oder B/I-Datensätze (in der Regel erkennbar an einer RISM-ID Nummer, die mit 990 oder 993 beginnt). Ältere Datensätze sind neueren vorzuziehen (erkennbar am Erstellungsdatum). Die Exemplardatensätze werden in den endgültigen Datensatz übertragen und gegebenenfalls wird die Ausgabe als Vorlageexemplar verwendet. Ein Vermerk wie "Dieser Datensatz wurde mit der RISM ID no. XXX zusammengeführt." ist immer notwendig, um die alten RISM-Nummern im Auge zu behalten.
+Doppelte Einträge sind nicht erlaubt und müssen zusammengeführt werden, wenn sie erkannt werden. Beim Zusammenführen von Datensätzen gelten bestimmte Kriterien, welcher Datensatz der endgültige Datensatz wird und welcher Datensatz zusammengeführt wird. Bevorzugt werden A/I- oder B/I-Datensätze (in der Regel erkennbar an einer RISM-ID Nummer, die mit 990 oder 993 beginnt). Die Exemplardatensätze werden in den endgültigen Datensatz übertragen und gegebenenfalls wird die Ausgabe als Vorlageexemplar verwendet. Ein Vermerk wie "Dieser Datensatz wurde mit der RISM ID no. XXX zusammengeführt." Ein Vermerk wie "Dieser Datensatz wurde mit der RISM ID no. XXX zusammengeführt." ist immer notwendig, um die alten RISM-Nummern im Auge zu behalten.
 
 
 ##### Vorgehensweise
 
-Das Splitten und Zusammenführen von Datensätzen kann nur von der Zentralredaktion durchgeführt werden und erfolgt ad hoc. Wenn Sie einen Fall bemerken, in dem Datensätze geteilt oder zusammengeführt werden sollten, wenden Sie sich bitte an die Zentralredaktion.
+Die Aufteilung und Zusammenführung von Datensätzen kann nur von der Zentralredaktion durchgeführt werden und erfolgt ad hoc. Wenn Sie einen Fall bemerken, in dem Datensätze geteilt oder zusammengeführt werden sollten, wenden Sie sich bitte an die Zentralredaktion.
 
 #### Gedruckte Ausgaben der Serie B
 
