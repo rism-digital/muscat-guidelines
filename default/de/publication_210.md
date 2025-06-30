@@ -8,7 +8,7 @@ Das Feld **Kurztitel** ist eine eindeutige Abkürzung, die der Sekundärliteratu
 
 Geben Sie den Kurztitel gemäß der folgenden Anleitung ein. Kurztitel können nur einmal verwendet werden.
 
-Kurztitel sind nicht erforderlich für Reihen oder Sammelbände von Aufsätzen; bei diesen Arten von Veröffentlichungen wird der Kurztitel in den Datensatz für den einzelnen Band oder den Band eingetragen.
+Kurztitel sind nicht erforderlich für Reihen oder Sammelbände von Aufsätzen; bei diesen Arten von Veröffentlichungen wird der Kurztitel in den Datensatz für den einzelnen Band oder den Aufsatz eingetragen.
 
 Ein Kurztitel gilt nur für die im Datensatz beschriebene Lietratur. Für verschiedene Literaturangaben müssen getrennte Datensätze angelegt werden.
 
@@ -54,18 +54,6 @@ Bei zwei oder mehr Autoren oder Herausgebern wird nur der erste in einem Kurztit
 ###### Beispiel
 
 - John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
-  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893
 
 Wenn kein Autor genannt wird, verwenden Sie stattdessen 1-2 Schlüsselwörter aus dem Titel.
@@ -79,8 +67,8 @@ Bei mehrbändigen Werken, die über mehrere Jahre hinweg erschienen sind, wird n
 
 ###### Beispiel
 
-- Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
-  → SchröderW 1943
+- Otto Schröder, _J. (Kassel: Bärenreiter, 1943-73).  
+  → SchröderW 1943</li> </ul>
 
 Wenn das Jahr der Veröffentlichung weder angegeben noch feststellbar ist, schreiben Sie **s.d.** (für kein Datum) anstelle einer Jahreszahl.
 

@@ -15,9 +15,9 @@ Die Namen regionaler Instrumente, die nicht auf der Liste stehen, sollten vollst
   - Nicht spezifizierte Arten oder Anzahl von Instrumenten
 - Vokalstimmen
 - Streichinstrumente
-- Holzbläser
-- Blechbläser
-- Tasteninstrumente
+- Holzblasinstrumente
+- Blechblasinstrumente
+- Zupfinstrumente
 - Schlagwerk und andere
 - Tasteninstrumente
 - Basso continuo

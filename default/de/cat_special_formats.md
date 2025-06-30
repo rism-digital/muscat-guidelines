@@ -88,12 +88,12 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
 
 - **Komponist/Autor (100)**  
   Der Komponist ist immer **Compilations**.
-- **Additional personal name (700)**  
-  The name of the compiler can be added with the function **Editor**.  
-  If you have a compilation, enter the composer(s) of the original material and select the function **Composer cross-reference**. Enter the composer(s) of the new material and select the function **Co-composer**.   
-  If you have a pasticcio, do not enter composers as a composer cross-references. Instead, enter all composers as a **Co-composer**.
+- **Nebeneintragung Personen (700)**  
+  Der Name des Compilers kann mit der Funktion **Herausgeber** hinzugefügt werden.  
+  Wenn Sie eine Kompilation haben, geben Sie den/die Komponisten des Originalmaterials ein und wählen Sie die Funktion **Komponistenquerverweis**. Geben Sie die Komponist(en) des neuen Materials ein und wählen Sie die Funktion **Mitkomponist** aus.   
+  Wenn Sie ein Pasticcio haben, geben Sie keine Komponisten als Komponistenquerverweise ein. Geben Sie stattdessen alle Komponisten als **Mitkomponist** ein.
 - **Einordnungstitel (240)**  
-  Verwenden Sie den Einordnungstitel der voliegenden Quelle. Bei Pasticcios fügen Sie **Auszüge** oder **Bearbeitung** hinzu.
+  Verwenden Sie den Einordnungstitel der voliegenden Quelle. Bei Pasticcios fügen Sie **Ausschnitte** oder **Bearbeitung** hinzu.
 - **Sprachcode (041)**  
   In das Feld **Sprachcode** geben Sie die Sprache der vorliegenden Quelle ein. Die Sprache des Originalwerks kann gegebenenfalls in **Sprachcode des Originaltextes** eingegeben werden.
 - **Schlagwort (650)**  
@@ -118,7 +118,7 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
 - 702000623: Suite aus Teilen einer Oper
 - 700007222: Mehrere Werke eines einzelnen Komponisten wurden verwendet, um eine neue Kantate zu erstellen
 - 702000642, 702000643: Mehrere Werke mehrerer Komponisten, die zur Erstellung einer neuen Suite verwendet wurden
-- 452505748: Eine Operpasticcio bestehend aus 3 Akten von 3 verschiedenen Komponisten
+- 452505748: Ein Operpasticcio bestehend aus 3 Akten von 3 verschiedenen Komponisten
 
 ### Parodien
 
@@ -151,79 +151,77 @@ Der Datensatz 150205470 dient als Beispiel.
   Geben Sie den Text der vorliegenden Quelle ein. Falls bekannt, ergänzen Sie den Originaltext in eckige Klammern.
  - Dannemark hellige lyd
  - [Di tanti palpiti]
-- **Andere Felder**  
-    
-  Alle anderen Felder, wie beispielsweise Aüffuhrungsangaben, sollten sich ausschließlich auf die vorliegende Quelle beziehen.
+- Alle anderen Felder, wie beispielsweise Aüffuhrungsangaben, sollten sich ausschließlich auf die vorliegende Quelle beziehen.
 
 ### Einlagearien
 
-Operas that include **insertion arias** (also called suitcase arias or interpolated arias) should be cataloged with at least three records: a parent record (collection main record) for the opera as a whole, a record for the original movements of the opera (which will contain most of the incipits), and a record for each of the inserts.
+Opern, die **Einlagearien** (auch Koffer-Arien oder interpolierte Arien genannt) enthalten, sollten mit mindestens drei Datensätzen katalogisiert werden: ein übergeordneter Datensatz (Haupteintrag Sammlung) für die Oper als Ganzes, ein Datensatz für die ursprünglichen Sätze der Oper (der die meisten Incipits enthalten wird) und ein Datensatz für jede Einlage.
 
-Inserts that are separated from a larger work should be cataloged separately. A link to the work into which it was inserted can be indicated in the field **Related source (787**).
+Einlagen, die aus einem größeren Werk herausgelöst sind, sollten separat katalogisiert werden. Ein Link zu dem Werk, in das die Einlage eingefügt wurde, kann im Feld **Verwandte Quelle (787)** angegeben werden.
 
-The usual rules apply when creating the parent record and the record for the main opera. Observe the following when cataloging the insert. Note that all fields (such as date of composition and scoring) pertain to the insertion only.
+Für die Erstellung des übergeordneten Datensatzes und des Datensatzes für die Hauptoper gelten die üblichen Regeln. Beachten Sie die folgenden Felder bei der Katalogisierung von Einlagen. Beachten Sie, dass alle Felder (wie Datum der Komposition und Besetzung) nur die Einlage betreffen.
 
-- **Composer (100)**: Composer of the insertion
-- **Additional name (700)**: Composer of the larger work, such as an opera
-- **Standardized title (240)**: Title of the insertion, or the name of the opera followed by Excerpts
-- **Additional title (730)**: Title of the larger work, plus the subheading **Inserts**
-- **Subject heading (650)**: Enter three: Insertions, the genre of the insertion, and the genre of the larger work
-- Add a brief remark in the field **Note** to explain the nature of the insert, such as where it is located within the larger work. **Related source (787)**: Indicate the larger work into which this piece was inserted and select the relationship type **Insert in**.
-- **General note (500)**: Any additional information can be added to make the relationship of the insert within the larger work (if known) clear.
+- **Komponist (100)**: Komponist der Einlage
+- **Nebeneintragung Personen (700)**: Komponist des größeren Werks, wie einer Oper
+- **Einordnungstitel (240)**: Titel der Einlage oder der Name der Oper, gefolgt von Ausschnitte
+- **Alternativer Titel (730)**: Titel des größeren Werkes, plus den Zusatz **Einlagen**
+- **Schlagwort (650)**: Geben Sie drei ein: Insertions, die Gattung der Einlage und die Gattung des größeren Werks
+- **Verwandte Quelle (787)**: Zeigt das größere Werk an, in das diese Einlage eingefügt wurde, wählen Sie den Beziehungstyp **Einfügen in**. Geben Sie im Feld **Hinweis** eine kurze Bemerkung ein, um die Art der Einlage zu erläutern, beispielsweise wo sie sich innerhalb des größeren Werks befindet.
+- **Bemerkungen (500)**: Es können beliebige Zusatzinformationen ergänzt werden, um den Zusammenhang der Einlage innerhalb des Gesamtwerks (sofern bekannt) deutlich zu machen.
 
-### Mixed materials (manuscripts and printed items stored together)
+### Gemischte Materialien (gemeinsam aufbewahrte Handschriften und Drucke)
 
-It is not uncommon for manuscript and printed items to be found together in the same folder or with the same shelfmark: for example, a printed score with handwritten parts, or a group of printed parts together with some handwritten ones.
+Es kommt öfter vor, dass Handschriften und Drucke gemeinsam in einem Ordner oder unter derselben Signatur zu finden sind: beispielsweise eine gedruckte Partitur mit handschriftlichen Stimmen oder eine Gruppe gedruckter Stimmen zusammen mit einigen handschriftlichen.
 
-Always strive to catalog the printed material in a separate record, because it is possible that other libraries have copies of the same edition. Create one record for the printed item, add your holdings, and create another record for the manuscript materials. Use the field **Related source (787)** to point from one record to the other.
+Versuchen Sie immer, das gedruckte Material in einem separaten Datensatz zu katalogisieren, weil es möglich ist, dass andere Bibliotheken Kopien derselben Ausgabe haben. Erstellen Sie einen Datensatz für die gedruckten Materialien, fügen Sie Ihr Exemplar hinzu und erstellen Sie einen weiteren Datensatz für die handschriftlichen Materialien. Verwenden Sie das Feld **Verwandte Quelle (787)** um von einem Datensatz auf den anderen zu verweisen.
 
-If it is not feasible to create an adequate record for the printed material, proceed as follows: Catalog your material using a manuscript template. In the material description section, describe the manuscript materials. Add an additional material group, and describe the printed materials.
+Wenn es nicht möglich ist, einen angemessenen Datensatz für das gedruckte Material zu erstellen, gehen Sie wie folgt vor: Katalogisieren Sie Ihr Material mit Hilfe einer Manuskriptvorlage. Beschreiben Sie im Abschnitt Materialbeschreibung die Handschrift. Fügen Sie eine zusätzliche Materialgruppe hinzu und beschreiben Sie die gedruckten Materialien.
 
-### Music in periodicals
+### Noten in Zeitschriften
 
-There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Periodical or series (490)**.
+Es gibt zwei Möglichkeiten, Zeitschriften mit Notenmaterial zu katalogisieren: als Sammlung oder als einzelnes Werk. In beiden Fällen wird der Titel der Zeitschrift mit Heftnummer und Jahr in das Feld **Zeitschrift oder Reihe (490)** eingetragen.
 
-#### Collections
-**Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.
+#### Sammlungen
+**Sammlungen** können passend sein, wenn die Zeitschrift ausschließlich oder größtenteils aus Noten besteht und der Gegenstand als Ganzes gesammelt und aufbewahrt wurde. Die Exemplareinträge sind der Sammlungsebene zugeordnet. Für jeden Teil der Ausgabe werden Teileinträge erstellt.
 
 ##### Beispiel
 
-1001097294: January issue (precise year unknown) of the _Kleine Pianoforte-Bibliothek_, containing 5 pieces. There is one record for the collection parent record, and five individual entries for each piece.
+1001097294: Januar Ausgabe (genaues Jahr unbekannt) von _Kleine Pianoforte-Bibliothek_ mit 5 Werken. Es gibt einen übergeordneten Datensatz für die Sammlung und fünf individuelle Einträge für jedes Stück.
 
-#### Single works
-**Single works** can be appropriate when works were included as insertions or additions to periodicals without a notated music focus. Frequently, such items are preserved outside of their original publication context (for example, a song was torn out of the periodical).
+#### Einzelnes Werk
+**Einzelne Werke** können dann angemessen sein, wenn die Werke als Beilagen oder Ergänzungen in Zeitschriften aufgenommen wurden, die keinen Notenschwerpunkt haben. Häufig werden diese Gegenstände außerhalb ihres ursprünglichen Veröffentlichungskontextes aufbewahrt (zum Beispiel wurde ein Lied aus der Zeitschrift herausgerissen).
 
 #### Beispiele
 
-- 991018149: "The Pantheon" published in _The Lady's Magazine_, August 1784
-- 990042111: "L'amour folâtrant l'autre jour" published in _Nouveau Mercure galant_, May 1679
+- 991018149: "The Pantheon" veröffentlicht in _The Lady's Magazine_, August 1784
+- 990042111: "L'amour folâtrant l'autre jour" veröffentlicht in _Nouveau Mercure galant_, Mai 1679
 
-### Music in non-music publications
+### Noten in nicht-musikalischen Publikationen
 
-RISM includes music found in printed publications that are not primarily music documents. The focus of the RISM record is nevertheless the music.
+RISM umfasst Noten in gedruckten Publikationen, die nicht in erster Linie Musikdokumente sind. Der Schwerpunkt des RISM-Eintrags liegt dennoch auf den Noten.
 
-As an example we will use RISM ID no. 990026614, three songs by John Isaac Hawkins that were published in Charles Willson Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
-- **Composer/Author (100)**: The composer of the music
-- **Additional Personal Name (700)**: The author of the book, with the function **other**
-- **Title on source (245)**: The title of the book
-- **Standardized title (240)**: A standardized title according to RISM rules, such as **3 Songs**
-- **Physical description (300)**: A description of the music, such as **1 score: 5 p.**
+Als Beispiel dient die RISM ID No. 990026614 mit drei Liedern von John Isaac Hawkins erschienen in Charles Willson Peales _Discourse introductory to a course of lectures on the science of nature_ (1800).
+- **Komponist/Autor (100)**: Komponist
+- **Nebeneintragung Personen (700)**: Autor des Buches mit der Funktion **Sonstige**
+- **Diplomatischer Titel (245)**: Der Titel des Buches
+- **Einordnungstitel (240)**: Ein standardisierter Titel nach RISM-Regeln, wie **3 Songs**
+- **Materialbeschreibung (300)**: Eine Beschreibung der Noten, wie z. B. **1 score: 5 p.**
 
-Individual entries are then created for each piece, following normal RISM rules. A **General note (500)** is useful to give more information such as the context of the music within the book or the total pagination of the book.
+Teileinträge werden dann für jedes Werk gemäß den üblichen RISM-Regeln erstellt. Eine **Bemerkung (500)** ist nützlich, um weitere Informationen wie den Kontext der Noten innerhalb des Buches oder die Gesamtseitenzahl anzugeben.
 
-### Collected works and monuments
+### Gesamt- und Denkmälerausgaben
 
-Volumes that are part of collected works editions or monuments of music are treated like separate publications and are cataloged as one record per volume. Such volumes will usually consist of a parent record for the edition and individual entries for each piece contained therein. The name of the series is entered in the field **Additional title (730)**.
+Bände, die Teil von Gesamtausgaben oder Musikdenkmälern sind, werden wie Einzelpublikationen behandelt und als ein Datensatz pro Band katalogisiert. Solche Bände bestehen in der Regel aus einem übergeordneten Datensatz für die Ausgabe und Teileinträgen für jedes darin enthaltene Werk. Der Name der Serie wird im Feld **Alternativer Titel (730)** eingetragen.
 
-Observe the following fields in particular when cataloging volumes in collected works. We will use RISM ID no. 1001200051 as an example, a volume of masses in the series _Wolfgang Amadeus Mozart's Werke._
+Beachten Sie bei der Katalogisierung von Bänden einer Gesamtausgabe insbesondere folgende Felder. Als Beispiel dient die RISM ID Nr. 1001200051, ein Messenband der Reihe _Wolfgang Amadeus Mozart's Werke._
 
-- **Title on source (245)**: Multiple title pages and half titles are frequently present. Choose one as the chief source of information and enter it as the **Title on source.** Make sure to indicate at the beginning of the field what page is being transcribed, for example [title page] or [p. iii]. iii]. Enter all other titles in the field **Variant title on source (246)**.
-- **Variant title on source (246)**: Due to the prevelance of reprints and variant editions of collected works, it is best practice to include all other title pages or title indications in this field. This will ease identification by other users if they have in hand a copy with varying front matter.
-- **Additional title (730)**: Enter the name of the series, following the conventions of the series, including the volume number.
+- **Diplomatischer Titel (245)**: Häufig sind mehrere Titelseiten und Schmutztitel vorhanden. Wählen Sie eine Hauptinformationsquelle aus und geben Sie sie als **Diplomatischer Titel** ein. Geben Sie am Anfang des Feldes an, welche Seite transkribiert wird, z. B. [title page] oder [p. iii]. Geben Sie alle anderen Titel im Feld **Weiterer diplomatischer Titel (246)** ein.
+- **Weiterer diplomatischer Titel(246)**: Aufgrund der großen Zahl von Nachdrucken und Variantenausgaben gesammelter Werke empfiehlt es sich, alle anderen Titelseiten oder Titelangaben in dieses Feld aufzunehmen. Dies erleichtert anderen Benutzern die Identifizierung, wenn sie ein Exemplar mit abweichendem Vorspann vorliegen haben.
+- **Alternativer Titel (730)**: Geben Sie den Namen der Reihe gemäß den Konventionen der Reihe einschließlich der Bandnummer ein.
 
 ### Libretti
 
-Beachten Sie die folgende Felder bei der Katalogisierung von Libretti.
+Beachten Sie die folgenden Felder bei der Katalogisierung von Libretti.
 
 - **Komponist/Autor (100):** Geben Sie den Autor des Librettos ein. Verwenden Sie dieses Feld nicht für den Komponisten.
 - **Nebeneintragung Personen (700):** Eine nützliche Funktion ist „Konzeptor“, beispielsweise der Autor eines Theaterstücks, auf dem ein Libretto basiert. Geben Sie den Namen eines Komponisten nur als Querverweis ein, wenn er auf der Quelle genannt wird.
@@ -233,7 +231,7 @@ Beachten Sie die folgende Felder bei der Katalogisierung von Libretti.
 - **Schlagwort (650):** Wenn bekannt, geben Sie die Gattung ein, für das das Libretto geschrieben wurde, wie „Operas“ oder „Cantatas“. "Librettos" ist nicht erforderlich.
 - **Sprachcode (041):** Verwenden Sie das Feld "Sprachcode" nur, wenn das Libretto Noten und Text enthält.
 - **Quellentyp (593):** Quellentyp auswählen. Wählen Sie für den Inhaltstyp "Libretto".
-- **Physical description: Format, extent (300):** Use the phrase "text document" to describe the format of the libretto. Ein Beispiel: 1 text document: viii, 27. p.
+- **Materialbeschreibung: Quellenart, Umfang (300):** Verwenden Sie die Phrase "text document", um das Libretto zu beschreiben. Ein Beispiel: 1 text document: viii, 27. p. p.
 
 ### Traktate
 
@@ -261,7 +259,7 @@ Die Grenze zwischen Traktaten und Methodenbüchern kann manchmal fließend sein,
 Geben Sie Klavierbearbeitungen wie folgt an.
 
 - Im Feld **Einordnungstitel (240):**
-  - Select **Arrangement** next to **Arrangement statement**.
+  - Wählen Sie **Bearbeitung** aus.
   - Geben Sie unter **Besetzungshinweis** die Besetzung des Arrangements ein, beispielsweise **pf** oder **V, pf**. Geben Sie nicht die Besetzung des Originalwerks ein.
 - Im Feld **Besetzung (594)**geben Sie die Gesamtbesetzung der Bearbeitung ein. Geben Sie nicht die Besetzung des Originalwerks ein.
 - Im Feld **Materialbeschreibung (300)**verwenden Sie **keyboard score**, wenn das Werk für Klavier reduziert wurde. Verwenden Sie **vocal score** wenn das Werk für Vokalstimme und Klavier reduziert wurde.

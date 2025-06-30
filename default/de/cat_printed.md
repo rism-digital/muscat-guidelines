@@ -1,47 +1,47 @@
-## Printed editions in RISM
+## Musikdrucke in RISM
 
-The section **Printed editions in RISM** outlines some considerations that are particular to printed music, including the scope of printed editions in RISM, core records vs. copy-specific information, when to input a new record, standardized titles, multiple copies, record splits and mergers, and printed editions from Series B.
+Der Abschnitt **Musikdrucke in RISM** enthält einige Überlegungen, die speziell für gedruckte Ausgaben gelten, darunter der Umfang von Musikdrucken in RISM, Kerndatensätze im Vergleich zu exemplarspezifischen Informationen, wann ein neuer Datensatz eingegeben werden sollte, Einordnungstitel, mehrere Kopien, Aufteilungen und Zusammenführungen von Datensätzen sowie Musikdrucke aus der Serie B.
 
 ### Bereich der Notendrucke in RISM
 
-RISM seeks to document printed music from the beginnings of music printing through around 1945.
+RISM hat sich zum Ziel gesetzt, Musikdrucke von den Anfängen des Notendrucks bis etwa 1945 zu dokumentieren.
 
-In the course of the 20th century and up to today, we see a sharp increase in commercial music publishing and distribution. The amount of music considered "rare" or undocumented through other resources is much less when compared to previous centuries. Music published by modern commercial publishers, printed in large quantities, widely available, and meant for active use by library patrons would be better documented in cooperative library catalogs such as [WorldCat](http://www.worldcat.org/).
+Seit dem 20. Jahrhundert und bis heute ist ein starker Anstieg kommerzieller Musikveröffentlichungen und ihres Vertriebs zu beobachten. Die Menge an Musik, die als „selten“ oder durch andere Quellen nicht dokumentiert gilt, ist im Vergleich zu früheren Jahrhunderten viel geringer. Noten, die von modernen kommerziellen Verlagen veröffentlicht, in großen Mengen gedruckt und weit verbreitet werden sowie für die aktive Nutzung durch Bibliotheksbenutzer bestimmt sind, sollten besser in kooperativen Bibliothekskatalogen wie [WorldCat](http://www.worldcat.org/) dokumentiert werden.
 
-RISM will consider printed music that falls outside of its scope on a case-by-case basis. Relevant cases could include defunct publishers or smaller, regional publishers of historical significance, or modern editions that are part of a collection with historical value, such as the private library of an individual.
+In Einzelfällen wird RISM Notendrucke, die außerhalb seines Zuständigkeitsbereichs liegen, prüfen. Zu den relevanten Fällen könnten beispielsweise nicht mehr existierende Verlage oder kleinere, regional bedeutende Verlage von historischer Bedeutung gehören. Ebenso könnten moderne Ausgaben Teil einer Sammlung mit historischem Wert sein, wie etwa die Privatbibliothek einer Person.
 
 ### Kerndatensätze vs. exemplarspezifische Informationen
 
-Muscat has a two-tiered structure for printed editions: a core bibliographic level and the holdings level. Information that is true for the edition as a whole is entered on a core bibliographic level, and information specific to a library's copy is entered on the holdings level.
+In Muscat sind Musikdrucke in zwei Stufen organisiert: die bibliografische Kernebene und die Bestandsebene. Informationen, die für die gesamte Ausgabe gelten, werden auf einer zentralen bibliografischen Ebene eingegeben, während Informationen, die sich speziell auf das Exemplar einer Bibliothek beziehen, auf der Bestandsebene eingegeben werden.
 
 Informationen für den Kerndatensatz umfassen Komponist, Verleger, Titel, Besetzung, Plattennummer und Format. Informationen zum Exemplar der besitzenden Bibliothek, Signatur, fehlende Teile, handgeschriebene Ergänzungen, frühere Eigentümer, Bindungen und Besitzerstempel. Die MARC-Felder des Exemplardatensatzes sind über $3 verknüpft.
 
 ### Wann muss ein neuer Datensatz eingegeben werden
 
-RISM treats each manuscript as a unique item and therefore each manuscript has its own RISM record. Even though Muscat has records for over 125,000 printed editions and chances are high that records already exist for music published before 1800, catalogers might notice significant variations that mean a new record must be created. Printed materials are different, however, in that multiple copies of the same edition can be described using the same record; here, libraries simply add their holdings information and note any copy-specific differences.
+RISM behandelt jedes Manuskript als einzigartiges Objekt, daher hat jedes Manuskript seinen eigenen RISM-Eintrag. Bei gedruckten Materialien ist es jedoch möglich, dass mehrere Exemplare derselben Ausgabe mit demselben Datensatz beschrieben werden. In diesem Fall fügen Bibliotheken einfach ihre Bestandsinformationen hinzu und vermerken etwaige exemplarspezifische Unterschiede. Obwohl Muscat über mehr als 125.000 Musikdrucke verfügt und die Wahrscheinlichkeit hoch ist, dass bereits Datensätze für vor 1800 veröffentlichte Musik vorhanden sind, können Katalogisierer erhebliche Abweichungen feststellen, die die Erstellung eines neuen Datensatzes erforderlich machen.
 
-The following offers guidelines as to which variations justify a new record and which do not. (This section draws heavily from [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
+Die folgenden Hinweise klären, welche Abweichungen einen neuen Datensatz rechtfertigen und welche nicht. (Dieser Abschnitt stützt sich weitgehend auf [Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/)).
 
-**A new record is required** if your item shows one or more of these differences when compared to the RISM record:
+**Ein neuer Datensatz ist erforderlich**, wenn Ihr Objekt im Vergleich zum RISM-Datensatz eine oder mehrere der folgenden Abweichungen aufweist:
 
-- **Different content**: Differences in the title or authors/contributors. Edition statement that indicates corrections, revisions, expansions, abridgments, or the inclusion of supplementary materials.
-- **Different publisher.**
-- **Different setting of the printing type**: Different plates (excluding replacement plates). Changes in the statement of extent. Change in bibliographical or musical format. Differences in music line-endings and catchwords (revealed by the comparison of multiple copies).
-- **Different publication status**: An original title page has been canceled and replaced. Original sheets have been issued in a new publisher’s cover bearing more recent information than that provided on the title page. Series title page is new. A new label is covering the original publication, distribution, production, etc., statement and indicates a new publisher.
-- **Different plate and/or publisher numbers**.
+- **Unterschiedliche Inhalte**: Unterschiede im Titel oder bei den Autoren/Beitragenden. Ein Ausgabevermerk gibt an, ob Korrekturen, Überarbeitungen, Erweiterungen, Kürzungen oder die Aufnahme von ergänzendem Material vorgenommen wurden.
+- **Anderer Verleger.**
+- **Unterschiedliche Druckeinstellungen**: Unterschiedliche Platten (ausgenommen Ersatzplatten). Änderungen im Umfang. Änderung des bibliografischen oder musikalischen Formats. Unterschiede in den Endungen der Musikzeilen und Kustoden (sichtbar durch den Vergleich mehrerer Kopien).
+- **Anderer Veröffentlichungsstatus**: Eine Original-Titelseite wurde gestrichen und ersetzt. Ein neues Etikett überdeckt die ursprüngliche Angabe zu Veröffentlichung, Vertrieb, Produktion usw. und weist auf einen neuen Herausgeber hin. Die Originalblätter wurden in einem neuen Verlagsumschlag herausgegeben, der aktuellere Informationen enthält als die auf der Titelseite angegebenen. Die Titelseite der Serie ist neu.
+- **Verschiedene Platten und/oder Verlagsnummern**.
 
-**Do not create a new record** if your item has one of these differences. If your item has _more than one_ of these differences, you must decide if a new record is necessary.
+**Erstellen Sie keinen neuen Datensatz**, wenn Ihr Objekt einen dieser Unterschiede aufweist. Wenn Ihr Objekt _mehr als einen_ dieser Unterschiede aufweist, müssen Sie entscheiden, ob ein neuer Datensatz erforderlich ist.
 
-- Different statement of printing: For example, "Fifth printing"
-- Different printer or other manufacturer but same publisher
-- Different printing date but same publication date
-- Different publisher’s cover that does not provide evidence of a discrete publishing unit (for example, a change of color in publisher’s cloth)
-- Different kind of binding from the publisher
-- Different publisher’s advertisements or catalogs (unless they are integral to the publication)
-- Corrections made in the course of a single press run (stop-press corrections)
-- Presence or absence of an errata slip
+- Unterschiedliche Angaben zum Druck: Zum Beispiel: "Fifth printing"
+- Anderer Drucker oder anderer Hersteller, aber gleicher Verlag
+- Unterschiedliches Druckdatum, aber das gleiche Veröffentlichungsdatum
+- Unterschiedliche Verlagsumschläge, die nicht auf eine eigenständige Verlagseinheit hinweisen (z. B. ein Farbwechsel des Verlagsumschlags)
+- Andere Art der Bindung durch den Verlag
+- Anzeigen oder Kataloge anderer Verlage (sofern sie nicht Bestandteil der Veröffentlichung sind)
+- Korrekturen, die während eines einzigen Druckvorgangs vorgenommen werden (Stop-Press-Korrekturen)
+- Vorhandensein oder Nichtvorhandensein eines Errata-Eintrags
 
-These guidelines mean that a single record can be used to represent multiple impressions, states, and binding variants relating to a single edition or issue. In your holdings information, you can enter details about variants and information specific to your copy.
+Diese Richtlinien bedeuten, dass ein einziger Datensatz verwendet werden kann, um mehrere Drucke, Abzüge und Einbandvarianten zu einer einzigen Ausgabe oder einem einzigen Heft darzustellen. In Ihren Bestandsinformationen können Sie Angaben zu Varianten und spezifische Informationen zu Ihrem Exemplar eingeben.
 
 #### Beispiele
 
@@ -55,22 +55,22 @@ Beispiel 1: RISM ID No. 1001031016: Beethoven, "Adelaide", op. 46, kein Datum, B
 
 Beispiel 2: RISM ID No. 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
 
-1. Exemplar 1: Gleicher Titel, aber ein Etikett verdeckt die Veröffentlichungsinformationen: Köln, P.J. Simrock. Sie sehen, dass das Etikett die Bonn/Köln Informationen überdeckt. **Neuer Datensatz erforderlich** (unterschiedlicher Publikationsstatus/Etikett zeigt einen anderen Verleger). Ergebnis: 1001141767
+1. Exemplar 1: Gleicher Titel, aber ein Etikett verdeckt die Veröffentlichungsinformationen: Köln, P.J. Simrock. Simrock. Sie sehen, dass das Etikett die Bonn/Köln Informationen überdeckt. **Neuer Datensatz erforderlich** (unterschiedlicher Publikationsstatus/Etikett zeigt einen anderen Verleger). Ergebnis: 1001141767
 
 Beispiel 3: RISM ID no. 990024126: Gyrowetz, Symphonies, op. 9. Der RISM-Eintrag stellt eine Reihe von verschiedenen Symphonien dar. Jede Sinfonie ist als separate Publikation mit separaten Plattennummern erhältlich, die als _Livres_ 1, 2 und 3 ausgegeben werden.
 
-1. Option 1, the quick solution: If your library only has one of the items in the set, **add your holdings** and in the field "Material held" note which symphony (livre) you have.
-2. Option 2, a better solution, but takes more time: **Notify the Editorial Center** about this record and we will split the record into 3, one record for each symphony. Then, add your holdings to the record for the symphony you have.
+1. Option 1, die schnelle Lösung: Wenn Ihre Bibliothek nur ein Elemente aus dem Set hat **ergänzen Sie Ihr Exemplar** und notieren im Feld "Erhaltenes Material", welche Symphonie (livre) vorhanden ist.
+2. Option 2, eine bessere Lösung, die etwas mehr Zeit beansprucht: **Benachrichtigen Sie die Zentralredaktion** und wir teilen den Datensatz in 3 separate Datensätze, einen für jede Symphonie. Fügen Sie dann Ihre Bestände dem Datensatz der entsprechenden Symphonie hinzu.
 
-### Standardized titles for printed music
+### Einordnungstitel für Musikdrucke
 
 #### Individualtitel
 
-Printed music bears distinctive titles much more frequently than music manuscripts do. Observe the following for the field **Standardized title (240)** when cataloging printed music.
+Musikdrucke tragen viel häufiger als Musikhandschriften unverwechselbare Titel. Für das Feld **Einrodnungstitel (240)** ist beim Katalogisieren von gedruckten Noten folgendes zu beachten.
 
-1. **Spelling**
+1. **Rechtschreibung**
 
-Enter standardized titles using modern orthography, but do not overcorrect archaic usage or dialect/regionalisms. Frequent changes include _v_ to _u_, _i_ to _j_ , _y_ to _i_, and _uu_ to _w_. Additional variations can be entered in the field **Additional title (730)**.
+Geben Sie Einordnungstitel in moderner Rechtschreibung ein, aber korrigieren Sie nicht zu sehr den archaischen Gebrauch oder Dialekt/Regionalismen. Häufige Änderungen betreffen _v_ zu _u_, _i_ zu _j_ , _y_ zu _i_ und _uu_ zu _w_. Zusätzliche Varianten werden im Feld **Alternativer Titel (730)** eingetragen.
 
 ##### Beispiel
 
@@ -79,9 +79,9 @@ Enter standardized titles using modern orthography, but do not overcorrect archa
  - Einordnungstitel: Musikalische Grabschrift
 
 
-2. **Deriving a standardized title**
+2. **Ableitung eines Einordnungstitels**
 
-Standardized titles should consist of the title of the print up to a natural break, frequently a comma, period, or a statement of the author, instrumentation, number, or imprint. Sometimes a distinctive title appears on a page other than the title page.
+Einordnungstitel sollten aus dem Titel des Drucks bis zu einem natürlichen Bruch bestehen, häufig ein Komma, ein Punkt oder eine Angabe des Autors, der Besetzung, der Nummer oder des Impressums. Manchmal steht ein unverwechselbarer Titel auf einer anderen Seite als der Titelseite.
 
 ##### Beispiele
 
@@ -95,7 +95,7 @@ Standardized titles should consist of the title of the print up to a natural bre
 
 #### Allgemeine Titel
 
-Standard RISM rules for generic titles apply (see **Standardized title (240)**), but bear in mind that even generic titles, especially in older imprints, are frequently cited in the literature as if they were distinctive titles. Use the field **Additional title (730)** to enter such titles in a standardized form. For guidance, refer to standard reference works such as Grove and MGG, and authority files from the [Library of Congress](http://id.loc.gov/authorities/names.html) or [VIAF](http://www.viaf.org/). If the title indicates that the item has an affiliation with another item, such as libro/Buch/livre or Teil/part/tomus, enter the component in the original language (but standardized spelling) and the Arabic numeral following the title.
+Es gelten die RISM-Standardregeln für Gattungsbezeichnungen (siehe **Einordnungstitel (240)**), doch ist zu bedenken, dass selbst Gattungsbezeichnungen, insbesondere in älteren Ausgaben, in der Literatur häufig so zitiert werden, als handele es sich um unverwechselbare Titel. Verwenden Sie das Feld **Alternativer Titel (730)**, um solche Titel in einer standardisierten Form einzugeben. Als Orientierungshilfe dienen Standard-Nachschlagewerke wie Grove und MGG sowie Normdaten der [Library of Congress](http://id.loc.gov/authorities/names.html) oder [VIAF](http://www.viaf.org/). Wenn der Titel darauf hinweist, dass er mit einem anderen Titel in Verbindung steht, beispielsweise libro/Buch/livre oder Teil/part/tomus, geben Sie den Bestandteil in der Originalsprache (aber in standardisierter Schreibweise) sowie die arabische Ziffer nach dem Titel ein.
 
 ##### Beispiele
 
@@ -111,11 +111,11 @@ Standard RISM rules for generic titles apply (see **Standardized title (240)**),
 
 ### Mehrere Exemplare in einer Institution
 
-If your institution owns multiple copies (exemplars) of the same printed edition, create separate holdings records for each copy.
+Wenn Ihre Einrichtung mehrere Exemplare derselben gedruckten Ausgabe besitzt, erstellen Sie für jedes Exemplar einen separaten Bestandsdatensatz.
 
 ### Mikrofilmkopien
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record.
+Mikrofilmkopien von Musikdrucken werden nicht als separate Exemplare hinzugefügt, sondern mit den Bestandsangaben der Originalkopie beschrieben, auf der der Mikrofilm basiert. Benachrichtigen Sie die Zentralredaktion, wenn Sie Ihre Mikrofilmkopie erwähnen möchten, aber den Bestandsdatensatz nicht bearbeiten können. Sofern verfügbar, können Links zu einer Beschreibung des Mikrofilms im lokalen Katalog Ihrer Einrichtung hinzugefügt werden. Wenn der Mikrofilm digital verfügbar ist, kann er als Link zu einer externen Ressource hinzugefügt werden (856).
 
 #### Beispiel
 - RISM ID no. 990052954, Exemplar in B-Bc:  
@@ -124,7 +124,7 @@ Microfilm copies of printed editions are not added as separate copies but are de
   Digital copy of microfilm available from DiZbi.HAZU | Digitalna zbirka i katalog Hrvatske akademije znanosti i umjetnosti
 
 
-### Record splits and mergers
+### Splitten und Zusammenführen von Datensätzen
 
 #### Hintergrund
 Die ersten Katalogprojekte von RISM in den 1950er bis 1970er Jahren konzentrierten sich auf die Musikdrucke. Es wurden viele Abkürzungen vorgenommen, um den Herausforderungen der Zusammenstellung von Katalogkarten aus dem weltweiten Netzwerk der RISM-Mitwirkenden und den Platzbeschränkungen gedruckter Bücher gerecht zu werden. Die in den Serien A/I, B/I und B/II des RISM veröffentlichten Bände fassten häufig mehrere Ausgaben in einem einzigen Eintrag zusammen und verwiesen ohne weitere Ausführungen auf mögliche Unterscheidungsmerkmale. Gleichzeitig führte die Beteiligung mehrerer Mitwirkender manchmal dazu, dass dieselbe Ausgabe unbeabsichtigt mehrfach beschrieben wurde, jedoch aus unterschiedlichen Blickwinkeln.
@@ -138,7 +138,7 @@ Ein Datensatz muss aufgesplittet werden, wenn es Hinweise dafür gibt, dass mehr
 Sie können das Vorhandensein verschiedener Editionen an Konventionen wie den folgenden in den Datensätzen erkennen.
 
 Im Feld **Diplomatischer Titel (245)** werden oft mehrere Teile oder mehrere Tonarten genannt:
-- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3) N\|o 1 (2, 3)
+- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
 - Divine harmony. Six select anthems … (Divine harmony. The 2\|d collection being select anthems ...)
@@ -161,18 +161,18 @@ In den **Exemplarinformationen** gibt es in der Regel Hinweise darauf, dass nur 
 - D-F Mus. pr. Q 55/349 [livre 1]
 - CH-Bu [2., 3. Buch]
 
-Bei einer Splittung von Datensätzen wird die RISM-Seriennummer auf alle neu erstellten Datensätze übertragen.
+Beim Splitten von Datensätzen wird die RISM-Seriennummer auf alle neu erstellten Datensätze übertragen.
 
-##### Record mergers
+##### Datensätze zusammenführen
 
-Catalogers should be aware that duplicates in the database can sometimes be found. Some duplicates originated in the printed RISM A/I or B series: pasticcios or other collaborative works were entered under multiple composers, an edition classified in the B/I series was also published in A/I, or an edition was simply entered twice within a long list. In addition, sometimes catalogers inadvertently create duplicate records.
+Katalogisierer sollten wissen, dass sich in der Datenbank manchmal Duplikate befinden. Einige Dubletten stammen aus den gedruckten RISM-Serien A/I oder B: Pasticcios oder andere Gemeinschaftswerke wurden unter mehreren Komponisten eingetragen, eine in der Reihe B/I klassifizierte Ausgabe wurde auch in A/I veröffentlicht, oder eine Ausgabe wurde einfach zweimal in einer langen Liste eingetragen. Darüber hinaus erstellen Katalogisierer manchmal versehentlich doppelte Datensätze.
 
-Duplicate records are not allowed and must be merged when identified. When merging records, criteria are in place regarding what record will be the final record and what record will be merged. Preference is given to the A/I or B/I record (generally identifiable through a RISM ID number that begins with 990 or 993), and an older record is preferable to a newer record (identifiable through the record's creation date). Holdings are transferred to the final record and when appropriate the edition is used as the examination copy. A note such as "This record was merged with RISM ID no. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers. A note such as "This record was merged with RISM ID no. XXX" is always included to keep track of the old RISM numbers.
+Doppelte Einträge sind nicht erlaubt und müssen zusammengeführt werden, wenn sie erkannt werden. Beim Zusammenführen von Datensätzen gelten bestimmte Kriterien, welcher Datensatz der endgültige Datensatz wird und welcher Datensatz zusammengeführt wird. Bevorzugt werden A/I- oder B/I-Datensätze (in der Regel erkennbar an einer RISM-ID Nummer, die mit 990 oder 993 beginnt). Ältere Datensätze sind neueren vorzuziehen (erkennbar am Erstellungsdatum). Die Exemplardatensätze werden in den endgültigen Datensatz übertragen und gegebenenfalls wird die Ausgabe als Vorlageexemplar verwendet. Ein Vermerk wie "Dieser Datensatz wurde mit der RISM ID no. XXX zusammengeführt." ist immer notwendig, um die alten RISM-Nummern im Auge zu behalten.
 
 
 ##### Vorgehensweise
 
-Die Aufteilung und Zusammenführung von Datensätzen kann nur von der Zentralredaktion durchgeführt werden und erfolgt ad hoc. Wenn Sie einen Fall bemerken, in dem Datensätze geteilt oder zusammengeführt werden sollten, wenden Sie sich bitte an die Zentralredaktion.
+Das Splitten und Zusammenführen von Datensätzen kann nur von der Zentralredaktion durchgeführt werden und erfolgt ad hoc. Wenn Sie einen Fall bemerken, in dem Datensätze geteilt oder zusammengeführt werden sollten, wenden Sie sich bitte an die Zentralredaktion.
 
 #### Gedruckte Ausgaben der Serie B
 

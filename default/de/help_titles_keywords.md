@@ -6,7 +6,7 @@ Eine abweichendes Schlagwort wird in den folgenden Situationen verwendet:
 - Wenn ein und dasselbe Schlagwort sowohl für Vokal- als auch für Instrumentalmusik verwendet werden kann, wird nach der Gattung eine Abkürzung in Klammern hinzugefügt: **(voc.)** bzw. **(inst.)**.
 - Der Hauptbegriff kann um Angaben wie **(dances)** oder **(stage)** in Klammern ergänzt werden.
 
-Nachfolgend finden Sie Listen mit Eonirdnungstiteln und den entsprechenden Schlagwörtern. Die Listen sind nicht vollständig. Die Eibnordnungstitel und Schlagworte sind in der hier angegebenen Form (in der Regel in englischer Sprache und im Plural) und nicht in Übersetzung anzugeben. Beachten Sie die Sonderfälle am Ende.
+Nachfolgend finden Sie Listen mit Eonirdnungstiteln und den entsprechenden Schlagwörtern. Die Listen sind nicht vollständig. Die Einordnungstitel und Schlagworte sind in der hier angegebenen Form (in der Regel in englischer Sprache und im Plural) und nicht in Übersetzung anzugeben. Beachten Sie die Sonderfälle am Ende.
 
 Inhalt:
 - Allgemeine Instrumental- und Vokalmusik
@@ -112,16 +112,16 @@ Einordnungstitel — Korrespondierendes Schlagwort
 #### Sonderfälle
 
 1. Eine Choralbearbeitung, bei der der Textanfang bekannt ist:   
-   Sie brauchen diese Liste nicht! Verwenden Sie das Texticipit als Einordnungstitel und wählen Sie **Arrangement**. Geben die das Schlagwort **Chorale arrangements** ein.
+   Sie brauchen diese Liste nicht! Verwenden Sie das Texticipit als Einordnungstitel und wählen Sie **Bearbeitung**. Geben die das Schlagwort **Chorale arrangements** ein.
 
 2. Eine Chorbearbeitung, bei der der Text unbekannt ist:   
    **Chorale arrangements** als Einordnungstitel und Schlagwort verwenden.
 
 3. Ein Potpourri, bei dem man weiß, dass die Musik aus einer einzigen Oper stammt:  
-   Sie brauchen diese Liste nicht! Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein. Verwenden Sie den Namen der Oper als Einordungstitel und wählen Sie **Ausschnitte** und **Bearbeitung**.
+   Sie brauchen diese Liste nicht! Verwenden Sie den Namen der Oper als Einordungstitel und wählen Sie **Ausschnitte** und **Bearbeitung**. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
 
 4. Ein Potpourri von dem Sie wissen, dass die Musik aus mehreren Opern stammt:  
-   Verwenden Sie **Potpourri** als Einordnungstitel. Geben Sie die Namen der Opern im Feld **Alternativer Ttitel (730)** ein. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
+   Verwenden Sie **Potpourris** als Einordnungstitel. Geben Sie die Namen der Opern im Feld **Alternativer Ttitel (730)** ein. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
 
 5. Ein Potpourri, bei dem Sie nicht wissen, aus welcher Oper die Musik stammt:  
    Verwenden Sie **Potpourris** sowohl als Einordnungstitel als auch als Schlagwort.

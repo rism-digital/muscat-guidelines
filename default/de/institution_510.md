@@ -9,8 +9,9 @@ Anzugeben sind die verschiedenen Formen, in denen die zulässige Bezeichnung ein
 ##### Beispiele
 
 - The National Library of Wales  
-  _For Llyfrgell Genedlaethol Cymru_
--
+  _für Llyfrgell Genedlaethol Cymru_
+- Norwegische Staatliche Akademie für Musik, Bibliothek  
+  _für Norges musikkhøgskole, Biblioteket_
 - ERESBIL - Archivo Vasco de la Música  
   _für ERESBIL - Musikaren Euskal Artxiboa_
 - ERESBIL - Basque Archives of Music  
