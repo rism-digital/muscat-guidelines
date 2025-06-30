@@ -13,7 +13,7 @@ Enter RISM library sigla here if the item concerns an institution, such as catal
 
 - D-Bsa
 - p. 95-97: "Appendix 4. Selected works"
-- S. S. S. S. S. S. S. S. S. S. S. S. S. 250-263: Werksverzeichnis (ohne Incipits)
+- S. S. S. S. S. S. S. S. S. S. S. S. S. S. 250-263: Werksverzeichnis (ohne Incipits)
 
 This field is also used to define the method for citing a thematic catalog or catalog of works. This ensures that the catalog cited in a uniform way throughout the database. When determining the citation form, keep in mind the style and outline of the catalog. Give examples that reflect the variety of kinds of works in the catalog. Only use page numbers as a last resort.
 
