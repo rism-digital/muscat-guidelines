@@ -39,7 +39,7 @@ Allgemeine Datumsangaben können wie auf der Quelle angegeben werden. Mit Fragez
  - 1856 Weihnachtstag
  - 1757-01-11
  - 1782-03-27-1784-05-07
- - ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. 1760
+ - ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. 1760
  - vor 1802
  - nach 1653
  - Easter 1744
