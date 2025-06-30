@@ -2,14 +2,13 @@
 
 Das Feld **Sigel** enthält das eindeutige, unveränderliche RISM-Bibliotheksigel. Die Sigel werden von der RISM-Zentralredaktion in Absprache mit den nationalen RISM-Arbeitsgruppen vergeben.
 
-Seit seiner Gründung im Jahr 1952 verwendet RISM die Bibliothekssigel in allen Publikationen und Katalogen. They are also used in all of the standard international music encyclopedias and in musicological publications.
+Seit seiner Gründung im Jahr 1952 verwendet RISM die Bibliothekssigel in allen Publikationen und Katalogen. Sie werden auch in allen internationalen Musikenzyklopädien und in musikwissenschaftlichen Publikationen verwendet.
 
 **Altdaten und MARC-Exportnotiz**: Früher wurde das Sigel für eine Institution im Feld 110 $g gespeichert. Dieses Feld wurde 2024 in ein eigenständiges Feld umgewandelt. Das Sigel in 094 $a wird beim Speichern nach 110 $g kopiert.
 
 #### Sigel (094 $a)
 
-Geben Sie das RISM-Sigel ein. Sigel bestehen aus drei Elementen: einem Länderkürzel, einem Städtekürzel und einem Institutionskürzel. Die Abkürzungen für das Land und die Stadt werden immer groß geschrieben, die Abkürzung für die Institution wird immer klein geschrieben. Der Ländercode wird durch einen Bindestrich von den anderen Angaben getrennt. Der Code für das Land wird aus der Liste der internationalen Fahrzeugzulassungen entnommen,
-die von den Vereinten Nationen geführt wird. Die Stadt- und Institutionscodes werden von der RISM-Zentralredaktion vergeben.
+Geben Sie das RISM-Sigel ein. Sigel bestehen aus drei Elementen: einem Länderkürzel, einem Städtekürzel und einem Kürzel für die Institution. Die Abkürzungen für das Land und die Stadt werden immer groß geschrieben, die Abkürzung für die Institution wird immer klein geschrieben. Der Ländercode wird durch einen Bindestrich von den anderen Angaben getrennt. Der Code für das Land wird aus der Liste der internationalen Fahrzeugzulassungen entnommen, die von den Vereinten Nationen geführt wird. Die Städte- und Institutionscodes werden von der RISM-Zentralredaktion vergeben.
 
 Wenn eine Institution ihren Namen geändert hat, behält sie das gleiche Sigel.
 
@@ -28,7 +27,7 @@ Bei privaten Sammlungen wird der Nachname des Eigentümers in Kleinbuchstaben an
 
 #### Früheres Sigel (094 $z)
 
-Geben Sie das frühere RISM-Sigel ein.  Gelegentlich wird einer Körperscahft aufgrund von geopolitischen Ereignissen oder aus Gründen der Klarstellung ein neues Sigel zugewiesen. Um Querverweise mit dem früheren Sigel zu erleichtern, werden die alten Sigen in diesem Feld hinzugefügt. Sigel werden nur durch die RISM-Zentralredaktion neu zugewiesen.
+Geben Sie das frühere RISM-Sigel ein.  Gelegentlich wird einer Körperschaft aufgrund von geopolitischen Ereignissen oder aus Gründen der Klarstellung ein neues Sigel zugewiesen. Um Querverweise mit dem früheren Sigel zu erleichtern, werden die alten Sigel in diesem Feld hinzugefügt. Sigel werden nur durch die RISM-Zentralredaktion neu zugewiesen.
 
 ##### Beispiele
 
