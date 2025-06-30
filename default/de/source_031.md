@@ -188,7 +188,7 @@ n = Auflösungszeichen
 
 C, D, E, F, G, A, B [!]
 
-##### 7. Taktstrich
+##### 5. Taktstrich
 
 g = kleiner Vorschlag (ohne rhythmischen Wert, vor dem Tonbuchstaben stehend)  
 q = Vorschlag (mit rhythmischem Wert, vor dem Tonbuchstaben stehend)  
@@ -205,7 +205,7 @@ Das '-' (Minuszeichen) steht für eine einzelne Pause. Verwenden Sie '=' (Gleich
 - mehrere Takte Pause
  - =35/
 
-##### 9. Balkung
+##### 7. Taktstrich
 
 / = Taktstrich  
 // = doppelter Taktstrich  
@@ -217,12 +217,12 @@ Das '-' (Minuszeichen) steht für eine einzelne Pause. Verwenden Sie '=' (Gleich
 
 t = Triller (steht unmittelbar hinter dem Tonbuchstaben)
 
-+ = Haltebogen (folgt unmittelbar auf die Note; nicht zu verwechseln mit einem Bindebogen)  
++ + Haltebogen (folgt unmittelbar auf die Note; nicht zu verwechseln mit einem Bindebogen)  
   () = Fermate (nur ein einzelner Tonbuchstabe oder eine einzelne Pause kann eingeklammert werden; Vorzeichen, Oktave etc. müssen außerhalb der Klammer stehen. Siehe auch **10. Sonderrhythmen**)
 
 Geben Sie keine Bindebögen ein.
 
-##### 10. Sonderrhythmen
+##### 9. Balkung
 
 { = Balkungsbeginn  
 } = Balkungsende
@@ -231,7 +231,7 @@ Geben Sie keine Bindebögen ein.
 
 {qq6'CDEDr}
 
-##### 11.3. Rhythmisches Muster
+##### 10. Sonderrhythmen
 
 ( = Beginn Sonderrhythmus  
 ) = Ende Sonderrhythmus
@@ -303,7 +303,7 @@ Verwenden Sie **$** für den Vorzeichenwechsel. Der veränderten Globalangabe mu
 
 ##### 14. Taktwechsel
 
-Verwenden Sie **$** für den Vorzeichenwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen.
+Verwenden Sie **@** für den Taktwechsel. Der veränderten Globalangabe muss ein Leerzeichen folgen.
 
 ###### Beispiele
 
