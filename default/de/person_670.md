@@ -22,7 +22,7 @@ Geben Sie den in der Sekundärliteratur angegebenen Kurztitel ein. Fügen Sie ge
 
 ##### Beispiele
 
-- Bach, Johann Christian II. (Giovanni) [bapt.   07.09.1735-1782]
+- Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]
 - vide 6, 834
 - 0
 
