@@ -2,7 +2,7 @@
 
 Das Feld **Abschrift oder Impressum** enthält alle Informationen zu Verlagen, Druckern, Vertrieb, Ausgaben, Auflagen und Herstellung aller Quellentypen. In allen Feldern werden mit eckigen Klammern Ergänzungen gegenüber der Quelle gekennzeichnet. Mit Fragezeichen wird die Fragwürdigkeit einer Angabe angezeigt.
 
-Wenn die originalen Verlagsangaben noch zu erkennen oder anderweitig verfügbar sind, können Sie diese hier durch Verdopplung des Feldes angeben. Bei Musikdrucken: Wenn die originalen Verlagsangaben durch ein Etikett verdeckt sind oder durchgestrichen wurden (incl. Stempel) und neue Information an dieser Stelle stehen, werden diese hier eingetragen. Ein Vermerk im Feld **Bemerkungen (500)** ist hilfreich, um das Vorhandensein eines Etiketts oder mehrerer Impressen zu erklären. Wenn sich ein Etikett oder Stempel an einer anderen Stelle auf der Seite befindet, vermerken Sie dies im Exemplareintrag.
+Bei Musikdrucken: Wenn die originalen Verlagsangaben durch ein Etikett verdeckt sind oder durchgestrichen wurden (incl. Stempel) und neue Information an dieser Stelle stehen, werden diese hier eingetragen. Wenn die originalen Verlagsangaben noch zu erkennen oder anderweitig verfügbar sind, können Sie diese hier durch Verdopplung des Feldes angeben. Ein Vermerk im Feld **Bemerkungen (500)** ist hilfreich, um das Vorhandensein eines Etiketts oder mehrerer Impressen zu erklären. Wenn sich ein Etikett oder Stempel an einer anderen Stelle auf der Seite befindet, vermerken Sie dies im Exemplareintrag.
 
 #### Ort (260 $a)
 
@@ -16,7 +16,7 @@ In diesem Feld ist bei Drucken der Name des Verlags, Verlegers oder des Vertrieb
 
 Bei Manuskripten geben Sie den Namen des Schreibers, wie er auf der Quelle erscheint, an.
 
-Standardisierte Angaben der Personennamen werden im Feld **Nebeneintragung Personen (700)** oder **Nebeneintragung Körperschaften (710)** gemacht. Geben Sie den Namen des Druckers oder der Druckerei, wie auf der Quelle angegeben, ein.
+Standardisierte Angaben der Personennamen werden im Feld **Nebeneintragung Personen (700)** oder **Nebeneintragung Körperschaften (710)** gemacht. Geben Sie den Namen des Druckers oder der Druckerei ein, wie er auf der Quelle angegeben ist.
 
 Fehlt auf einem Druck die Nennung des Verlages, ist dies mit **[s.n.]** kenntlich zu machen. (Indizieren Sie [s.n.] nicht als zusätzliche Institution). Bei Manuskripten entfällt eine Angabe.
 
