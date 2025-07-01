@@ -39,7 +39,7 @@ Allgemeine Datumsangaben können wie auf der Quelle angegeben werden. Mit Fragez
  - 1856 Weihnachtstag
  - 1757-01-11
  - 1782-03-27-1784-05-07
- - ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. ca. 1760
+ - ca. 1760
  - vor 1802
  - nach 1653
  - Easter 1744
@@ -57,7 +57,7 @@ Für ungefähre Zeiträume geben Sie einen Bereich von Jahren ein, der auf den f
 | Ende des 18. Jahrhunderts   | 1790-1799                     |
 | 18. Jahrhundert, 1. Drittel | 1700-1732                     |
 | 18. Jahrhundert, 2. Drittel | 1733-1765                     |
-| 18. Jahrhundert, 3. Quartal | 1766-1799                     |
+| 18. Jahrhundert, 3. Drittel | 1766-1799                     |
 | 18. Jahrhundert, 1. Quartal | 1700-1724                     |
 | 18. Jahrhundert, 2. Quartal | 1725-1749                     |
 | 18. Jahrhundert, 3. Quartal | 1750-1774                     |
@@ -88,4 +88,4 @@ Hier wird der Standort der Druckerei angegeben, sofern dies auf der Quelle verme
 
 #### Drucker, Druckerei (260 $f)
 
-Geben Sie den Namen des Druckers oder der Druckerei ein, wie er auf der Quelle angegeben ist. Standardisierte Angaben der Personennamen werden im Feld **Nebeneintragung Personen (700)** oder **Nebeneintragung Körperschaften (710)** gemacht.
+Geben Sie den Namen des Druckers oder der Druckerei, wie auf der Quelle angegeben, ein. Standardisierte Angaben der Namen werden im Feld **Nebeneintragung Personen (700)** oder **Nebeneintragung Körperschaften (710)** gemacht.
