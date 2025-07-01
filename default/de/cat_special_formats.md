@@ -20,7 +20,7 @@ Wenn die Werke einer Sammlung unterschiedliche Komponisten, Besetzungen, Quellen
 
 ### Konvolutbände
 
-Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind. Im Englischen gibt es viele weitere Bezeichnungen für solche Bände: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume.
+Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind.
 
 Es gibt zwei Möglichkeiten, einen Konvolutband zu kennzeichnen. Die erste und einfachste Möglichkeit ist, die Einheiten mit der gleichen Signatur zu versehen; ein Vermerk ist ebenfalls hilfreich. Die zweite Möglichkeit ist die Verwendung der Vorlage für Konvolute.
 
