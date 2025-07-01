@@ -26,7 +26,7 @@ Geben Sie die Anzahl der vorhandenen Stimmen an. Verwenden Sie **X** um eine unb
 
 Verwenden Sie einen der folgenden englischen Begriffe, im Singular oder Plural.
 
-###### Generell
+###### Allgemeines
 
 - **Stimme**: Die Notation eines Werkes für ein Instrument oder eine Vokalstimme, unabhängig von der Anzahl der Notensysteme pro System (einschließlich Klavier, Orgel, vierhändiges Klavier, unabhängig von der Anzahl der Notensysteme). Auch für Stimmbücher zu verwenden.
 - **Partitur**: Enthält alle Instrumente und/oder Stimmen einer Komposition, sofern mehr als eine ausführende Person beteiligt ist. Dies schließt Werke für Vokalstimme und Begleitung ein.
@@ -45,7 +45,7 @@ Verwenden Sie einen der folgenden englischen Begriffe, im Singular oder Plural.
 
 - **tablature part**: Tabulaturstimme: Die Art der Tabulatur, falls bekannt, sollte im Feld **Bemerkungen (500)** angegeben werden.
 - **sketch**: Für Skizzen verwenden, wenn die Art nicht genauer bestimmt werden kann.
-- For texted scores, use **with text**, such as **keyboard score with text**. **Tkeyboard score with text**.
+- **text document**: Wird verwendet für Libretti, Abhandlungen und andere Textdokumente. Eine Anmerkung in **Bemerkungen (500)** ist möglicherweise notwendig.
 - **prompt book**: Soufflierbuch: Ein Dokument (Klavierauszug oder Text), das von einem Souffleur für ein Bühnenwerk verwendet wird.
 - **table book**: Tischbuch: Stimmen, die so auf einem Blatt angeordnet sind, dass alle Interpreten an einem Tisch sitzend daraus lesen können.
 
@@ -56,11 +56,11 @@ Verwenden Sie einen der folgenden englischen Begriffe, im Singular oder Plural.
 
 Dirigierstimmen werden als **Stimme** mit der Bezeichnung **conductor part** im Feld **Vorhandene Stimmen (590)** eingetragen.
 
-**text document**: Wird verwendet für Libretti, Abhandlungen und andere Textdokumente. Eine Anmerkung in **Bemerkungen (500)** ist möglicherweise notwendig.
+Für Klavieruszüge mit Text, verwenden Sie den englischen Zusatz **with text**, z. B. **Tkeyboard score with text**. Für Stimmen mit Text siehe **Stimmenmaterial (590)**.
 
 ##### Umfang
 
-Bei allen Formaten - außer Stimmen - geben Sie die Anzahl der Seiten, Bögen oder Lagen an. Wählen Sie unter den folgenden Abkürzungen: **f** für Folio, **p** für Seite **lvs** für Bögen und **fds** für Lagen.
+Bei allen Formaten - außer Stimmen - geben Sie die Anzahl der Seiten, Bögen oder Lagen an. Wählen Sie unter den folgenden Abkürzungen: **f** für Folio, **p** für Seite, **lvs** für Bögen und **fds** für Lagen.
 
 Bei übergeordneten Sammlungen sowie bei Einzeltiteln wird der Gesamtumfang angegeben, z. B. **35 p.**. Befindet sich ein Stück innerhalb einer Sammlung, wird der Umfang für dieses Stück angegeben, z. B. **p. 17-23.**
 
