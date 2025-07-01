@@ -1,6 +1,6 @@
 ### Querverweise zu RISM A/I und RISM B (596)
 
-Das Feld **Querverweise zu RISM A/I und RISM B** dient für Querverweise zu gedruckten Ausgaben in RISM, sei es in der RISM-Datenbank oder in den gedruckten Bänden A/I und B. Dieses Feld wird am häufigsten verwendet, wenn die Quelle eindeutig dasselbe Werk darstellt, wie beispielsweise eine Abschrift eines Musikdrucks. Dieses Feld wird am häufigsten verwendet, wenn die Quelle eindeutig dasselbe Werk darstellt, wie beispielsweise eine Abschrift eines Musikdrucks. In diesem Feld können auch Querverweise auf andere gedruckte Ausgaben hinterlegt werden, beispielsweise auf andere Ausgaben oder auf Fälle, in denen es zu Verwechslungen mit einer anderen Ausgabe kommen könnte.
+Das Feld **Querverweise zu RISM A/I und RISM B** dient für Querverweise zu gedruckten Ausgaben in RISM, sei es in der RISM-Datenbank oder in den gedruckten Bänden A/I und B. Dieses Feld wird am häufigsten verwendet, wenn die Quelle eindeutig dasselbe Werk darstellt, wie beispielsweise eine Abschrift eines Musikdrucks. In diesem Feld können auch Querverweise auf andere gedruckte Ausgaben hinterlegt werden, beispielsweise auf andere Ausgaben oder auf Fälle, in denen es zu Verwechslungen mit einer anderen Ausgabe kommen könnte.
 
 Fügen Sie eine **Bemerkung (500)** hinzu, um den Zusammenhang zwischen der vorliegenden Quelle und der in 596 zitierten Quelle zu erläutern.
 

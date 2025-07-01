@@ -1,6 +1,6 @@
 ## Musikdrucke in RISM
 
-Der Abschnitt **Musikdrucke in RISM** enthält einige Überlegungen, die speziell für gedruckte Ausgaben gelten, darunter der Umfang von Musikdrucken in RISM, Kerndatensätze im Vergleich zu exemplarspezifischen Informationen, wann ein neuer Datensatz eingegeben werden sollte, Einordnungstitel, mehrere Kopien, Aufteilungen und Zusammenführungen von Datensätzen sowie Musikdrucke aus der Serie B.
+Der Abschnitt **Musikdrucke in RISM** enthält einige Überlegungen, die speziell für gedruckte Ausgaben gelten, darunter der Umfang von Musikdrucken in RISM, Kerndatensätze im Vergleich zu exemplarspezifischen Informationen, wann ein neuer Datensatz eingegeben werden sollte, Einordnungstitel, mehrere Kopien, Aufteilen und Zusammenführen von Datensätzen sowie Musikdrucke aus der Serie B.
 
 ### Bereich der Notendrucke in RISM
 
@@ -55,7 +55,7 @@ Beispiel 1: RISM ID No. 1001031016: Beethoven, "Adelaide", op. 46, kein Datum, B
 
 Beispiel 2: RISM ID No. 990044663: Mozart, Quartets, Bonn, Köln, N. Simrock.
 
-1. Exemplar 1: Gleicher Titel, aber ein Etikett verdeckt die Veröffentlichungsinformationen: Köln, P.J. Simrock. Simrock. Sie sehen, dass das Etikett die Bonn/Köln Informationen überdeckt. **Neuer Datensatz erforderlich** (unterschiedlicher Publikationsstatus/Etikett zeigt einen anderen Verleger). Ergebnis: 1001141767
+1. Exemplar 1: Gleicher Titel, aber ein Etikett verdeckt die Veröffentlichungsinformationen: Köln, P.J. Simrock. Sie sehen, dass das Etikett die Bonn/Köln Informationen überdeckt. **Neuer Datensatz erforderlich** (unterschiedlicher Publikationsstatus/Etikett zeigt einen anderen Verleger). Ergebnis: 1001141767
 
 Beispiel 3: RISM ID no. 990024126: Gyrowetz, Symphonies, op. 9. Der RISM-Eintrag stellt eine Reihe von verschiedenen Symphonien dar. Jede Sinfonie ist als separate Publikation mit separaten Plattennummern erhältlich, die als _Livres_ 1, 2 und 3 ausgegeben werden.
 
@@ -127,18 +127,18 @@ Mikrofilmkopien von Musikdrucken werden nicht als separate Exemplare hinzugefüg
 ### Splitten und Zusammenführen von Datensätzen
 
 #### Hintergrund
-Die ersten Katalogprojekte von RISM in den 1950er bis 1970er Jahren konzentrierten sich auf die Musikdrucke. Es wurden viele Abkürzungen vorgenommen, um den Herausforderungen der Zusammenstellung von Katalogkarten aus dem weltweiten Netzwerk der RISM-Mitwirkenden und den Platzbeschränkungen gedruckter Bücher gerecht zu werden. Die in den Serien A/I, B/I und B/II des RISM veröffentlichten Bände fassten häufig mehrere Ausgaben in einem einzigen Eintrag zusammen und verwiesen ohne weitere Ausführungen auf mögliche Unterscheidungsmerkmale. Gleichzeitig führte die Beteiligung mehrerer Mitwirkender manchmal dazu, dass dieselbe Ausgabe unbeabsichtigt mehrfach beschrieben wurde, jedoch aus unterschiedlichen Blickwinkeln.
+Die ersten Katalogprojekte von RISM in den 1950er bis 1970er Jahren konzentrierten sich auf die Musikdrucke. Es wurden viele Kürzungen vorgenommen, um den Herausforderungen der Zusammenstellung von Katalogkarten aus dem weltweiten Netzwerk der RISM-Mitwirkenden und den Platzbeschränkungen gedruckter Bücher gerecht zu werden. Die in den Serien A/I, B/I und B/II des RISM veröffentlichten Bände fassten häufig mehrere Ausgaben in einem einzigen Eintrag zusammen und verwiesen ohne weitere Ausführungen auf mögliche Unterscheidungsmerkmale. Gleichzeitig führte die Beteiligung mehrerer Mitwirkender manchmal dazu, dass dieselbe Ausgabe unbeabsichtigt mehrfach beschrieben wurde, jedoch aus unterschiedlichen Blickwinkeln.
 
 Heute ermöglicht die Online-Umgebung die Flexibilität, dass ein Datensatz eine Ausgabe beschreibt. Das bedeutet, dass Datensätze, die mehrere Ausgaben beschreiben, idealerweise aufgeteilt werden sollten. Umgekehrt sollten mehrere Datensätze, die dieselbe Ausgabe beschreiben, zusammengeführt werden.
 
-##### Splittung von Datensätzen
+##### Splitten von Datensätzen
 
 Ein Datensatz muss aufgesplittet werden, wenn es Hinweise dafür gibt, dass mehrere verschiedene gedruckte Ausgaben in einem Datensatz beschrieben wurden. Die Bedeutung einer eigenständigen Ausgabe besteht darin, dass sie vom Verlag als Einheit konzipiert wurde und separat auf dem Markt erhältlich war. Das Ergebnis war, dass Verbraucher (und später auch Bibliotheken) die Ausgabe separat erwerben konnten, mit oder ohne die anderen Ausgaben der Reihe oder des Sets.
 
 Sie können das Vorhandensein verschiedener Editionen an Konventionen wie den folgenden in den Datensätzen erkennen.
 
 Im Feld **Diplomatischer Titel (245)** werden oft mehrere Teile oder mehrere Tonarten genannt:
-- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3) N\|o 1 (2, 3) N\|o 1 (2, 3)
+- Concerto [A (B, Es)] à flûte principale ... N\|o 1 (2, 3)
 - Sinfonie [C, F, A] à grand orchestre
 - Concert pour la flûte traversière ... libro I(-VI)
 - Divine harmony. Six select anthems … (Divine harmony. The 2\|d collection being select anthems ...)

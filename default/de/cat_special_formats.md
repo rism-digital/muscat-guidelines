@@ -20,7 +20,7 @@ Wenn die Werke einer Sammlung unterschiedliche Komponisten, Besetzungen, Quellen
 
 ### Konvolutbände
 
-Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind. Im Englischen gibt es viele weitere Bezeichnungen für solche Bände: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume.
+Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind.
 
 Es gibt zwei Möglichkeiten, einen Konvolutband zu kennzeichnen. Die erste und einfachste Möglichkeit ist, die Einheiten mit der gleichen Signatur zu versehen; ein Vermerk ist ebenfalls hilfreich. Die zweite Möglichkeit ist die Verwendung der Vorlage für Konvolute.
 
@@ -105,8 +105,8 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
   Geben Sie den Einordnungstitel des Originalstücks ein und fügen Sie **Ausschnitte** oder **Bearbeitung** hinzu. Sie können auch Ossia-Titel eingeben.
 - **Werkverzeichnis (690)**  
   Sie können Werkverzeichnisangaben sowohl für die Kompilation als auch für die Originalwerke eingeben.
-- **Text incipits (031)**  
-  Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
+- **Textincipit (031)**  
+  Geben Sie den Text der vorliegenden Quelle ein. Falls bekannt, ergänzen Sie den Originaltext in eckige Klammern.
 - **Bemerkungen (500)**  
   Verwenden Sie immer einen Vermerk zur Erläuterung, insbesondere wenn es sich um Werke verschiedener Komponisten handelt. Dadurch wird sichergestellt, dass die Komponisten mit den in der Kompilation verwendeten Werken übereinstimmen.
 - **Bemerkungen zu den Aufführungen (518)**  
@@ -118,7 +118,7 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
 - 702000623: Suite aus Teilen einer Oper
 - 700007222: Mehrere Werke eines einzelnen Komponisten wurden verwendet, um eine neue Kantate zu erstellen
 - 702000642, 702000643: Mehrere Werke mehrerer Komponisten, die zur Erstellung einer neuen Suite verwendet wurden
-- 452505748: Ein Operpasticcio bestehend aus 3 Akten von 3 verschiedenen Komponisten
+- 452505748: Eine Opernpasticcio bestehend aus 3 Akten von 3 verschiedenen Komponisten
 
 ### Parodien
 
@@ -151,7 +151,8 @@ Der Datensatz 150205470 dient als Beispiel.
   Geben Sie den Text der vorliegenden Quelle ein. Falls bekannt, ergänzen Sie den Originaltext in eckige Klammern.
  - Dannemark hellige lyd
  - [Di tanti palpiti]
-- Alle anderen Felder, wie beispielsweise Aüffuhrungsangaben, sollten sich ausschließlich auf die vorliegende Quelle beziehen.
+- **Andere Felder**  
+  Alle anderen Felder, wie beispielsweise Aüffuhrungsangaben, sollten sich ausschließlich auf die vorliegende Quelle beziehen.
 
 ### Einlagearien
 
@@ -231,7 +232,7 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Libretti.
 - **Schlagwort (650):** Wenn bekannt, geben Sie die Gattung ein, für das das Libretto geschrieben wurde, wie „Operas“ oder „Cantatas“. "Librettos" ist nicht erforderlich.
 - **Sprachcode (041):** Verwenden Sie das Feld "Sprachcode" nur, wenn das Libretto Noten und Text enthält.
 - **Quellentyp (593):** Quellentyp auswählen. Wählen Sie für den Inhaltstyp "Libretto".
-- **Materialbeschreibung: Quellenart, Umfang (300):** Verwenden Sie die Phrase "text document", um das Libretto zu beschreiben. Ein Beispiel: 1 text document: viii, 27. p. p.
+- **Materialbeschreibung: Quellenart, Umfang (300):** Verwenden Sie die Phrase "text document", um das Libretto zu beschreiben. Ein Beispiel: 1 text document: viii, 27. p.
 
 ### Traktate
 

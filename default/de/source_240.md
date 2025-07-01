@@ -127,7 +127,7 @@ Hier wird ein Vermerk zu besonderen Ausgabeformen gemacht. Folgende Angaben sind
 
 **Besondere Regelungen:**
 
-Handelt es sich bei vorliegendem Werk um eine Bearbeitung eines anderen Werks, wird das in diesem Feld mit **Arr** gekennzeichnet.
+Handelt Wählen Sie die Tonart des gesamten Werks (auch für Ausschnitte).
 
 Bei Bearbeitungen wird die Tonart des Originalwerks eingegeben. In diesem Fall ist eine entsprechende Bemerkung im Feld **Bemerkungen (500)** notwendig.
 
@@ -175,25 +175,25 @@ Folgende byzantinische Kirchenmodi stehen zur Verfügung:
 
 **Altdaten**: Ältere RISM-Katalogisierungsrichtlinien erlaubten die Eingabe mehrerer Tonarten in diesem Feld, getrennt durch ein Semikolon. Diese Praxis wurde mit der Einführung von Muscat eingestellt.
 
-#### Unterteilung nach der Form (240 $k)
+#### Besetzungshinweis (240 $m)
 
 **Pflichtfeld außer bei: Opern und Oratorien mit der Standardbesetzung V (X), Coro, orch**
 
 Bei Skizzen oder Sammlungen werden nur Angaben fällig, sofern sie sinnvoll erscheinen.
 
-Der Besetzungshinweis dient als kurze Zusammenfassung der Gesamtbesetzung (Instrumentierung). Geben Sie maximal vier Elemente ein. Trennen Sie die einzelnen Elemente der Besetzungsangaben durch Kommas. Die ausführliche Auflistung der Besetzung erfolgt im Feld **Besetzung (594)**. Der Besetzungshinweis wird in einer Zeile angegeben; wiederholen Sie das Feld nur, um alternative Instrumentierungen anzugeben (siehe unten).
+Der Besetzungshinweis dient als kurze Zusammenfassung der Gesamtbesetzung (Instrumentierung). Trennen Sie die einzelnen Elemente der Besetzungsangaben durch Kommas. Geben Sie maximal vier Elemente ein. Die ausführliche Auflistung der Besetzung erfolgt im Feld **Besetzung (594)**. Der Besetzungshinweis wird in einer Zeile angegeben; wiederholen Sie das Feld nur, um alternative Instrumentierungen anzugeben (siehe unten).
 
 Es gelten die Bezeichnungen gemäß **Abkürzungsliste**. Darin nicht enthaltene Begriffe werden auf Englisch und ausgeschrieben angegeben.
 
 Ordnen und gruppieren Sie die Besetzung anhand folgender Begriffe:
 
-- Soloinstrumente
+- Solostimmen
 - Chor
-- Zupfinstrumente
+- Soloinstrumente
 - Streicher
 - Holzbläser
 - Blechbläser
-- Tasteninstrumente
+- Zupfinstrumente
 - Schlagwerk
 - Tasteninstrumente
 - Basso continuo

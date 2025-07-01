@@ -10,7 +10,7 @@ Die Besetzung sollte so vollständig wie möglich sein, unabhängig davon, ob di
 
 **Pflichtfeld**
 
-Geben Sie die Stimmen oder Instrumente mittels RISM-Abkürzungen ein. Bei der Eingabe können Sie das Autocomplete zu Hilfe nehmen. Eine alphabetische Liste der Instrumentenbezeichnungen finden Sie in der RISM Abkürzungsliste. strings - Streicher) stehen immer in englischer Sprache, die einzelnen Instrumente werden nach Möglichkeit in italienischer Sprache angegeben. Andere spezifische, regionale Instrumente sollten in der Originalsprache geschrieben werden.
+Geben Sie die Stimmen oder Instrumente mittels RISM-Abkürzungen ein. Bei der Eingabe können Sie das Autocomplete zu Hilfe nehmen. Eine alphabetische Liste der Instrumentenbezeichnungen finden Sie in der RISM Abkürzungsliste. Allgemeine Instrumentenbezeichnungen (z. B. strings - Streicher) stehen immer in englischer Sprache, die einzelnen Instrumente werden nach Möglichkeit in italienischer Sprache angegeben. Andere spezifische, regionale Instrumente sollten in der Originalsprache geschrieben werden.
 
 Instrumentalstimmen beginnen mit einem Kleinbuchstaben und Vokalstimmen mit einen großen Anfangsbuchstaben. Soloinstrumente werden mit **iSol:** eingeleitet.
 

@@ -47,7 +47,7 @@ Wenn Sie einen Ihrer eigenen Ordner anzeigen, klicken Sie auf den Link **Ordner 
 
 #### 7. Wie kann ich meinen Datensätzen komplexere Musikincipits beifügen?
 
-Wenn Sie ein Musik-Inzipit mit einem externen Programm erstellen (z. B. eine Gesamtpartitur in Sibelius) und es in MEI konvertieren, kann die MEI-Datei in Muscat hochgeladen werden. Derzeit kann dies nur die Zentralredaktion tun; wenden Sie sich an uns, wenn Sie Hilfe benötigen. Diese werden im Online-Katalog als Bild angezeigt. Ein separates Plaine & Easie-Incipit muss erstellt werden, damit das Incipit durchsuchbar ist.
+Wenn Sie ein Musikincipit mit einem externen Programm erstellen (z. B. eine Gesamtpartitur in Sibelius) und es in MEI konvertieren, kann die MEI-Datei in Muscat hochgeladen werden. Derzeit kann dies nur die Zentralredaktion tun; wenden Sie sich an uns, wenn Sie Hilfe benötigen. Diese werden im Online-Katalog als Bild angezeigt. Ein separates Plaine & Easie-Incipit muss erstellt werden, damit das Incipit durchsuchbar ist.
 
 #### 8. Wie kann ich einen Datensatz löschen?
 
