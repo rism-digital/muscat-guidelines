@@ -93,7 +93,7 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
   Wenn Sie eine Kompilation haben, geben Sie den/die Komponisten des Originalmaterials ein und wählen Sie die Funktion **Komponistenquerverweis**. Geben Sie die Komponist(en) des neuen Materials ein und wählen Sie die Funktion **Mitkomponist** aus.   
   Wenn Sie ein Pasticcio haben, geben Sie keine Komponisten als Komponistenquerverweise ein. Geben Sie stattdessen alle Komponisten als **Mitkomponist** ein.
 - **Einordnungstitel (240)**  
-  Verwenden Sie den Einordnungstitel der voliegenden Quelle. Bei Pasticcios fügen Sie **Auszüge** oder **Bearbeitung** hinzu.
+  Verwenden Sie den Einordnungstitel der voliegenden Quelle. Bei Pasticcios fügen Sie **Ausschnitte** oder **Bearbeitung** hinzu.
 - **Sprachcode (041)**  
   In das Feld **Sprachcode** geben Sie die Sprache der vorliegenden Quelle ein. Die Sprache des Originalwerks kann gegebenenfalls in **Sprachcode des Originaltextes** eingegeben werden.
 - **Schlagwort (650)**  
@@ -105,8 +105,8 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
   Geben Sie den Einordnungstitel des Originalstücks ein und fügen Sie **Ausschnitte** oder **Bearbeitung** hinzu. Sie können auch Ossia-Titel eingeben.
 - **Werkverzeichnis (690)**  
   Sie können Werkverzeichnisangaben sowohl für die Kompilation als auch für die Originalwerke eingeben.
-- **Text incipits (031)**  
-  Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
+- **Textincipit (031)**  
+  Geben Sie den Text der vorliegenden Quelle ein. Falls bekannt, ergänzen Sie den Originaltext in eckige Klammern.
 - **Bemerkungen (500)**  
   Verwenden Sie immer einen Vermerk zur Erläuterung, insbesondere wenn es sich um Werke verschiedener Komponisten handelt. Dadurch wird sichergestellt, dass die Komponisten mit den in der Kompilation verwendeten Werken übereinstimmen.
 - **Bemerkungen zu den Aufführungen (518)**  
@@ -118,7 +118,7 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kompilationen.
 - 702000623: Suite aus Teilen einer Oper
 - 700007222: Mehrere Werke eines einzelnen Komponisten wurden verwendet, um eine neue Kantate zu erstellen
 - 702000642, 702000643: Mehrere Werke mehrerer Komponisten, die zur Erstellung einer neuen Suite verwendet wurden
-- 452505748: Eine Operpasticcio bestehend aus 3 Akten von 3 verschiedenen Komponisten
+- 452505748: Eine Opernpasticcio bestehend aus 3 Akten von 3 verschiedenen Komponisten
 
 ### Parodien
 
@@ -151,7 +151,8 @@ Der Datensatz 150205470 dient als Beispiel.
   Geben Sie den Text der vorliegenden Quelle ein. Falls bekannt, ergänzen Sie den Originaltext in eckige Klammern.
  - Dannemark hellige lyd
  - [Di tanti palpiti]
-- Alle anderen Felder, wie beispielsweise Aüffuhrungsangaben, sollten sich ausschließlich auf die vorliegende Quelle beziehen.
+- **Andere Felder**  
+  Alle anderen Felder, wie beispielsweise Aüffuhrungsangaben, sollten sich ausschließlich auf die vorliegende Quelle beziehen.
 
 ### Einlagearien
 
@@ -166,7 +167,7 @@ Für die Erstellung des übergeordneten Datensatzes und des Datensatzes für die
 - **Einordnungstitel (240)**: Titel der Einlage oder der Name der Oper, gefolgt von Ausschnitte
 - **Alternativer Titel (730)**: Titel des größeren Werkes, plus den Zusatz **Einlagen**
 - **Schlagwort (650)**: Geben Sie drei ein: Insertions, die Gattung der Einlage und die Gattung des größeren Werks
-- Geben Sie im Feld **Hinweis** eine kurze Bemerkung ein, um die Art der Einlage zu erläutern, beispielsweise wo sie sich innerhalb des größeren Werks befindet. **Verwandte Quelle (787)**: Zeigt das größere Werk an, in das diese Einlage eingefügt wurde, wählen Sie den Beziehungstyp **Einfügen in**.
+- **Verwandte Quelle (787)**: Zeigt das größere Werk an, in das diese Einlage eingefügt wurde, wählen Sie den Beziehungstyp **Einfügen in**. Geben Sie im Feld **Hinweis** eine kurze Bemerkung ein, um die Art der Einlage zu erläutern, beispielsweise wo sie sich innerhalb des größeren Werks befindet.
 - **Bemerkungen (500)**: Es können beliebige Zusatzinformationen ergänzt werden, um den Zusammenhang der Einlage innerhalb des Gesamtwerks (sofern bekannt) deutlich zu machen.
 
 ### Gemischte Materialien (gemeinsam aufbewahrte Handschriften und Drucke)
@@ -215,13 +216,13 @@ Bände, die Teil von Gesamtausgaben oder Musikdenkmälern sind, werden wie Einze
 
 Beachten Sie bei der Katalogisierung von Bänden einer Gesamtausgabe insbesondere folgende Felder. Als Beispiel dient die RISM ID Nr. 1001200051, ein Messenband der Reihe _Wolfgang Amadeus Mozart's Werke._
 
-- **Diplomatischer Titel (245)**: Häufig sind mehrere Titelseiten und Schmutztitel vorhanden. Wählen Sie eine Hauptinformationsquelle aus und geben Sie sie als **Diplomatischer Titel** ein. Geben Sie am Anfang des Feldes an, welche Seite transkribiert wird, z. B. [title page] oder [p. iii]. iii]. Geben Sie alle anderen Titel im Feld **Weiterer diplomatischer Titel (246)** ein.
+- **Diplomatischer Titel (245)**: Häufig sind mehrere Titelseiten und Schmutztitel vorhanden. Wählen Sie eine Hauptinformationsquelle aus und geben Sie sie als **Diplomatischer Titel** ein. Geben Sie am Anfang des Feldes an, welche Seite transkribiert wird, z. B. [title page] oder [p. iii]. Geben Sie alle anderen Titel im Feld **Weiterer diplomatischer Titel (246)** ein.
 - **Weiterer diplomatischer Titel(246)**: Aufgrund der großen Zahl von Nachdrucken und Variantenausgaben gesammelter Werke empfiehlt es sich, alle anderen Titelseiten oder Titelangaben in dieses Feld aufzunehmen. Dies erleichtert anderen Benutzern die Identifizierung, wenn sie ein Exemplar mit abweichendem Vorspann vorliegen haben.
 - **Alternativer Titel (730)**: Geben Sie den Namen der Reihe gemäß den Konventionen der Reihe einschließlich der Bandnummer ein.
 
 ### Libretti
 
-Beachten Sie die folgende Felder bei der Katalogisierung von Libretti.
+Beachten Sie die folgenden Felder bei der Katalogisierung von Libretti.
 
 - **Komponist/Autor (100):** Geben Sie den Autor des Librettos ein. Verwenden Sie dieses Feld nicht für den Komponisten.
 - **Nebeneintragung Personen (700):** Eine nützliche Funktion ist „Konzeptor“, beispielsweise der Autor eines Theaterstücks, auf dem ein Libretto basiert. Geben Sie den Namen eines Komponisten nur als Querverweis ein, wenn er auf der Quelle genannt wird.
@@ -231,7 +232,7 @@ Beachten Sie die folgende Felder bei der Katalogisierung von Libretti.
 - **Schlagwort (650):** Wenn bekannt, geben Sie die Gattung ein, für das das Libretto geschrieben wurde, wie „Operas“ oder „Cantatas“. "Librettos" ist nicht erforderlich.
 - **Sprachcode (041):** Verwenden Sie das Feld "Sprachcode" nur, wenn das Libretto Noten und Text enthält.
 - **Quellentyp (593):** Quellentyp auswählen. Wählen Sie für den Inhaltstyp "Libretto".
-- **Materialbeschreibung: Quellenart, Umfang (300):** Verwenden Sie die Phrase "text document", um das Libretto zu beschreiben. Ein Beispiel: 1 text document: viii, 27. p. p. p.
+- **Materialbeschreibung: Quellenart, Umfang (300):** Verwenden Sie die Phrase "text document", um das Libretto zu beschreiben. Ein Beispiel: 1 text document: viii, 27. p.
 
 ### Traktate
 
