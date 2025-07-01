@@ -44,7 +44,7 @@ Weisen Sie jeder Institution eine exakte Funktion zu. Eine Institution kann mehr
 - **Other - Sonstige Funktion [oth]**: Alle anderen Funktionen. Zu verwenden, wenn die genaue Funktion nicht auf der Liste steht oder unbekannt, unklar oder unspezifisch ist.
 - **Papermaker - Papierhersteller [ppm]**
 - **Patron - Auftraggeber [pat]**: Eine Institution, die für die Beauftragung eines Werks verantwortlich ist.
-- Dedicatee - Widmungsträger [dte]
+- **Performer - Interpret [prf]**: Die Institution oder das Ensemble, das das Werk aufgeführt hat, wie z. B. ein Orchester.
 - **Printer - Drucker [prt]**
 - **Publisher - Verleger [pbl]**
 - **Type designer - Schriftentwerfer [tyd]**: Die Organisation, die das Schriftbild entworfen hat.
