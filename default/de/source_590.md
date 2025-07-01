@@ -23,10 +23,10 @@ Falls die Stimmenbezeichnungen nicht genau bekannt sind, verwenden Sie den engli
 
 Spezialfälle:
 
-- Beispiel: **tr 1 and 2** Wenn eine Stimme die Musik für mehrere Instrumente enthält, verwenden Sie **and**.
+- Bezifferter Bass: Wenn Sie einen bezifferten Bass haben, geben Sie das Instrument gefolgt von **.fig** ein, z. B. **b.fig**, **bc.fig**, **org.fig** usw. (siehe auch die Tabellen im Abschnitt **Bezifferter Bass in Partituren und/oder Stimmen** für Hinweise zu den entsprechenden Feldern).
 - Nicht in der RISM-Abkürzungsliste genannte Stimmbezeichnungen werden ausgeschrieben.
 - Außergewöhnliche Instrumente, Bezeichnungen oder Stimmungen (z. B. **cor in D\|x**) können ausgeschrieben werden; im Feld **Besetzung (594)** sollte jedoch versucht werden, das Instrument nach Möglichkeit an die RISM-Abkürzungsliste anzugleichen (z. B. **cor in E\|b**).
-- **b.fig**, **bc.fig**, **org.fig** usw. (siehe auch die Tabellen im Abschnitt **Bezifferter Bass in Partituren und/oder Stimmen** für Hinweise zu den entsprechenden Feldern). Bezifferter Bass: Wenn Sie einen bezifferten Bass haben, geben Sie das Instrument gefolgt von **.fig** ein, z. B.
+- Klavierstimme mit Text: Verwenden Sie den englischen Begriff **pf with text** (oder **org with text**, **keyb with text**, etc.). Dasselbe wird in das Incipit-Feld **Besetzung (031 $m)** eingetragen.
 - In den Stimmbüchern des 15\. und 16\. Jahrhunderts kommt es manchmal vor, dass eine Stimme in einem Stimmbuch erscheint, die sich von der Beschriftung des Stimmbuchs unterscheidet, wie z. B. eine Tenor 2-Stimme, die in einem Quinta vox (V 5)-Stimmbuch gedruckt ist. In diesem Feld können Sie mit einem Gleichheitszeichen angeben, wo jede Stimme zu finden ist.   
   Example:  
   Stimmbücher: S, A, T, B, V 5. V 5 enthält die T 2-Stimme.   
@@ -45,7 +45,7 @@ Geben Sie die Anzahl der Folien, Seiten, Bögen oder Lagen ein. Verwenden Sie nu
 
 Andere Einheiten (z. B. die Umrechnung von Folios in Seiten) geben Sie im Feld **Bemerkungen (500)** an.
 
-Sie können auch einzelne Seiten oder Folien innerhalb einer handschriftlichen Sammlung angeben, z. B. **p. **p. **p. **p. **p. **p. **p. **p. 5-6** or **f. 4r-4v**. 4r-4v**.</p>
+Sie können auch einzelne Seiten oder Folien innerhalb einer handschriftlichen Sammlung angeben, z. B. **p. 5-6** or **f. 4r-4v**.
 
 ##### Beispiele
 Es gibt zwei Varianten, um die Stimmen aufzuzählen.
@@ -83,5 +83,5 @@ Zusätzliche Informationen (kurze Bemerkungen), z. B. über die Anzahl oder Unvo
 - **(= bc)**: Stimme gehört zum basso continuo
 - **(incpl)**: Stimme ist unvollständig
 - Verwenden Sie einen **/** (Schrägstrich) um zwei Elemente anzugeben: **bc (2x/incpl)**
-- Wenn mehrere Exemplare desselben Stimme vorliegen, geben Sie die Anzahl und dann den Umfang für jede Stimme an. Beispiel: **S (2x)**
+- Wenn eine Stimme die Musik für mehrere Instrumente enthält, verwenden Sie **and**. Beispiel: **tr 1 and 2**
 - Sie können auch die Stimmung einbeziehen: **cl 1, 2 in B\|b**  
