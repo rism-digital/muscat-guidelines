@@ -1,7 +1,7 @@
-### Subject heading (380)
+### Form of work (380)
 
-The field **Subject heading** is for the genre of the work.   
+The field **Form of work** is for the genre of the work.   
 
-#### Subject heading (380 $a)  
+#### Form of work (380 $a)  
 
 (Guidelines in progress.)
