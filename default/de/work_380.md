@@ -1,7 +1,7 @@
-### Schlagworteintragung (380)
+### Form of work (380)
 
-Das Feld **Schlagworteintragung** ist für das Gattung des Werks.
+The field **Form of work** is for the genre of the work.
 
-#### Schlagworteintragung (380 $a)
+#### Form of work (380 $a)
 
 (Richtlinien in Vorbereitung.)
