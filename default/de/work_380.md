@@ -1,7 +1,7 @@
-### Form of work (380)
+### Werkgattung (380)
 
-The field **Form of work** is for the genre of the work.
+Das Feld **Werkgattung** ist für das Gattung des Werks.
 
-#### Form of work (380 $a)
+#### Werkgattung (380 $a)
 
 (Richtlinien in Vorbereitung.)
