@@ -1,12 +1,12 @@
-### Parallel form of name (510; ISDIAH 5.1.3)
+### Równoległa forma nazwy (MARC 510 $a; ISDIAH 5.1.3)
 
-The field **Parallel form of name** gives various forms of an institution's name, including translations. Relationships to other institutions can also be recorded here.
+Pole **Równoległa forma nazwy** umożliwia podanie licznych form nazw instytucji, włączajac tłumacznia. Można w tym polu wykazać również powiązania z innymi instytucjami.
 
-#### Parallel form of name (510 $a)
+#### Równoległa forma nazwy (510 $a)
 
-Enter various forms in which the authorized form of name of an institution occurs as well as translations of the name in other languages, preferably in English. Original names in non-Latin scripts can also be entered here. Enter each name in a separate field.
+Pole to zawiera różne formy, w których występuje autoryzowana forma nazwy instytucji, jak również tłumaczenia nazwy na inne języki, najlepiej na język angielski. W tym miejscu można również wpisać oryginalne nazwy w alfabecie innym niż łaciński. Każdą nazwę należy wpisać w osobnym wierszu.
 
-##### Examples
+##### Przykłady:
 
 - The National Library of Wales  
   _For Llyfrgell Genedlaethol Cymru_
@@ -18,28 +18,28 @@ Enter various forms in which the authorized form of name of an institution occur
   _for ERESBIL - Musikaren Euskal Artxiboa_
 - Государственный центральный музей музыкальной культуры им. М. И. Глинки
 
-#### Control subfield (510 $w)
+#### Podpole kontrolne (510 $w)
 
-Select a term from the drop-down menu that describes the kind of name.
+Wybierz termin z menu rozwijanego, który opisuje rodzaj nazwy.
 
-Select from the following:
+Wybierz z dostępnych poniżej:
 
-- Acronym [d]
-- Broader term [g]
-- Earlier heading [a]
-- Immediate parent body [t]
-- Later heading [b]
-- Musical composition [f]
-- Narrower term [h]
-- Not applicable [n]
-- Reference instruction phrase in subfield $i [i]
-- Relationship designation in $i or $4 [r]
+- Akronim [d]
+- Szerszy termin [g]
+- Wcześniejszy nagłówek [a]
+- Najbliższy podmiot macierzysty [t]
+- Późniejszy nagłówek [b]
+- Kompozycja muzyczna [f]
+- Węższy termin [h]
+- Nie dotyczy [n]
+- Fraza instrukcji odniesienia w subpolu $i [i]
+- Oznaczenie relacji w $i lub $4 [r]
 
-#### Relationship information (510 $i)
+#### Informacje o relacjach (510 $i)
 
-Enter a term to describe the relationship of the name to the main heading. Use the vocabulary as determined by the RDA Agent Properties. Commonly used terms include:
+Wprowadź termin, opisujący relację nazwy z głównym nagłówkiem instytucji. Wykorzystuj słowniki określony przez Rejestr RDA. Zwykle używane terminy obejmują:
 
-- Hierarchical superior
+- Hierarchiczny zwierzchnik
 - Hierarchical subordinate
 - Predecessor of corporate body
 - Successor of corporate body
