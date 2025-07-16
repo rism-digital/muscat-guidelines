@@ -1,12 +1,12 @@
-### Related place (551)
+### Powiązane miejsce (551)
 
-The field **Related place** is used to record the location of the institution in 110 $c in standardized form.
+Pole **Powiązane miejsce** służy do wprowadzania lokalizacji instytucji w 110 $c w ujednoliconej formie.
 
-#### Place (551 $a)
+#### Nazwa geograficzna (551 $a)
 
-Enter the city, village, town, etc. This field is linked to the **Places** index through $0.
+Wprowadź miasto, wieś, miasteczko, itd. Pole jest połączone z indeksem **Miejsca** poprzez $0.
 
-##### Example
+##### Przykład:
 
 - Aigen-Schlägl  
-  _For the RISM library siglum record A-SCH_
+  _dla rekordu siglum biblioteki A-SCH_
