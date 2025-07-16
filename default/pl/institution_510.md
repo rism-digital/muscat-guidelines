@@ -40,10 +40,10 @@ Wybierz z dostępnych poniżej:
 Wprowadź termin, opisujący relację nazwy z głównym nagłówkiem instytucji. Wykorzystuj słowniki określony przez Rejestr RDA. Zwykle używane terminy obejmują:
 
 - Hierarchiczny zwierzchnik
-- Hierarchical subordinate
-- Predecessor of corporate body
-- Successor of corporate body
-- Founding family of corporate body
-- Corporate body member of corporate body
-- Corporate body member of family
-- Absorbed corporate body
+- Hierarchiczny podległy
+- Poprzednik organu korporatywnego
+- Następca organu korporatywnego
+- Rodzina założycieli organu korporatywnego
+- Członek organu korporatywnego
+- Członek rodziny będący członkiem organu korporatywnego
+- Wchłonięty organ korporatywny
