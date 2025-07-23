@@ -4,10 +4,10 @@ Pole **Obecnie w** jest wykorzystywane w sytuacji kiedy egzemplarze danej instyt
 
 #### Obecnie w (580 $x)
 
-Wprowadź tu nazwę instytucji, która jest obecnym właścicielem. This field is linked to the **Institutions** authority file through $0.
+Wprowadź tu nazwę instytucji, która jest obecnym właścicielem. To pole połączone jest z kartoteką haseł wzorcowych **Instytucje** pooprzez $0.
 
-##### Example
+##### Przykład
 
 - D-WÜd
 
-**Obsolete procedures** This field duplicated the field "Holdings now in" (373$a), which was removed with Muscat version 6.1.
+**Przestarzałe procedury** To pole duplikuje pole "Egzemplarz obecnie w" (373$a), które zostało usunięte w ramach wersji Muscat 6.1.
