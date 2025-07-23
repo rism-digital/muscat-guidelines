@@ -1,10 +1,10 @@
-### Now in (580)
+### Obecnie w (580)
 
-The field **Now in** is used if the holdings of an institution have been transferred to another institution.
+Pole **Obecnie w** jest wykorzystywane w sytuacji kiedy egzemplarze danej instytucji zostały przeniesione do innej.
 
-#### Now in (580 $x)
+#### Obecnie w (580 $x)
 
-Enter the name of the current holding institution here. This field is linked to the **Institutions** authority file through $0.
+Wprowadź tu nazwę instytucji, która jest obecnym właścicielem. This field is linked to the **Institutions** authority file through $0.
 
 ##### Example
 
