@@ -1,7 +1,7 @@
-### Schlagworteintragung (380)
+### Werkgattung (380)
 
-Das Feld **Schlagworteintragung** ist für das Gattung des Werks.
+Das Feld **Werkgattung** ist für das Gattung des Werks.
 
-#### Schlagworteintragung (380 $a)
+#### Werkgattung (380 $a)
 
 (Richtlinien in Vorbereitung.)

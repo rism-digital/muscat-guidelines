@@ -1,20 +1,20 @@
-### Other form of name (410; ISDIAH 5.1.4)
+### Wariant nazwy instytucji (410 $a; ISDIAH 5.1.4)
 
-The field **Other form of name** is for any other name for the institution not given elsewhere.
+Pole **Wariant nazwy instytucji** dotyczy każdej innej nazwy (nazw) instytucji, której nie podano gdzie indziej.
 
-#### Other form of name (410 $a)
+#### Wariant nazwy instytucji (410 $a)
 
-Enter other forms of the name of the institution, including popular or non-official other names. This could include other forms of the same name, acronyms, names used in older publications (such as RISM volumes), or changes of name over time, including, if possible, relevant dates. Enter each name on a separate line.
+Wpisać inne formy nazwy instytucji, jak również jej inne popularne lub nieoficjalne nazwy. Może to obejmować inne formy tej samej nazwy, akronimy, nazwy używane w starszych publikacjach (takich jak tomy RISM) lub zmiany nazwy wprowadzane z biegiem czasu, w tym, w miarę możliwości, odpowiednie daty. Każdą nazwę należy wpisać w osobnym wierszu.
 
-##### Examples
+##### Przykłady:
 
 - Parry Room Library  
-  _For Royal College of Music Library_
+  _dla Royal College of Music Library_
 - Wolfson Lending Library  
-  _For Royal College of Music Library_
+  _dla Royal College of Music Library_
 - Musik-Konservatoriets Bibliotek  
-  _For Norges musikkhøgskole, Biblioteket_
+  _dla Norges musikkhøgskole, Biblioteket_
 - Gosudarstvennïy Istoricheskïyi Muzei  
-  _For Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossii_
-- ERESBIL - Euskal Ereslarien Bilduma [1974-2000] _For ERESBIL - Musikaren Euskal Artxiboa_
-- ERESBIL - Archivo de Compositores Vascos [1974-2000] _For ERESBIL - Musikaren Euskal Artxiboa_ 
+  _dla Gosudarstvennaja publičnaja istoričeskaja biblioteka Rossii_
+- ERESBIL - Euskal Ereslarien Bilduma [1974-2000] _dla ERESBIL - Musikaren Euskal Artxiboa_
+- ERESBIL - Archivo de Compositores Vascos [1974-2000] _dla ERESBIL - Musikaren Euskal Artxiboa_ 

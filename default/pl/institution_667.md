@@ -1,12 +1,12 @@
-### Internal note (667; ISDIAH 5.6.9)
+### Uwagi wewnętrzne (667; ISDIAH 5.6.9)
 
-The field **Internal note** is used for information not intended for public display. Internal notes are not published in the public RISM catalogs or available in the RISM open data.
+Pole **Uwagi wewnętrzne** jest używane do informacji nieprzeznaczonych do publicznego wyświetlania. Uwagi wewnętrzne nie są publikowane w katalogu RISM ani nie są dostępne w otwartych danych RISM.
 
 
-#### Internal note (667 $a)
+#### Uwagi wewnętrzne (667 $a)
 
-Enter local notes for internal use, including for use within your own working group. Any language may be entered here. Internal notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.
+Wprowadź uwagi lokalne do użytku wewnętrznego, w tym do użytku w ramach własnej grupy roboczej. W tym miejscu można korzystać z dowolnego języka. Uwagi wewnętrzne mogą być wykorzystywane do wszelkiego rodzaju uwag, takich jak pytania, komentarze lub badania, które należy przeprowadzić. Wykasuj uwagi po wypełnieniu swoich zadań. Najlepszą praktyką jest podpisywanie swojej uwagi przy użyciu inicjałów i daty.
 
-For example, the names of persons responsible for creating and/or revising the description may be entered here. For example, the names of people responsible for creating and/or revising the description may be entered here. Furthermore, this field documents additional information relating to the creation of and changes to the description.
+Zgodnie z ISDIAH 5.6.9 można tu podać uwagi odnoszące się do utworzenia i zachowania opisu. Na przykład można wprowadzić tutaj imiona i nazwiska osób odpowiedzialnych za stworzenie i/lub rewizę opisu rekordu. Ponadto, pole to zawiera dodatkowe informacje związane z tworzeniem opisu i jego zmianami.
 
-**MARC export note**: The number of Sources that are linked to an institution in Muscat are exported to the field 667 $a, for example: Published sources: 6
+**Uwaga dot. eksportu MARC**: Liczba źródeł, które są powiązane z instytucją w Muscat jest eksportowana do pola 667 $a, na przykład: Opublikowane źródła: 6
