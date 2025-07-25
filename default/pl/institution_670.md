@@ -1,21 +1,21 @@
 ### Literatura (670; ISDIAH 5.6.8)
 
-The field **Literature** lists the sources consulted in creating the description, including those that support the form of the name in the field **Authorized form of name** (110 $a). It can also serve as a general bibliography for the institution's collections.
+Pole **Literatura** zawiera listę źródeł, które wykorzystano przy tworzeniu opisu instytucji, w tym pozycje wpływajace na formułę zapisu nazwy w polu **Instytucja (110 $a)**. Może również służyć jako ogólna bibliografia zbiorów instytucji.
 
-#### Literature (670 $a)
+#### Literatura (670 $a)
 
-Enter the short title of the source. This field is linked to the **Secondary literature** database through $0.
+Wprowadzić tytuł skrócony źródła. Pole połączono linkiem z bazą danych **Literatury pomocniczej** poprzez $0.
 
-Entering and updating the bibliography included in the second edition of RISM Series C is recommended but not required. If no bibliography exists, naming the essential sources is sufficient.
+Zaleca się wprowadzenie i aktualizację bibliografii zawartej w drugim wydaniu RISM Serii C, ale nie ma takiego obowiązku. Jeśli nie ma bibliografii, wystarczy podać nazwy podstawowych źródeł.
 
-#### Source citation (670 $9)
+#### Nazwa źródła informacji (670 $9)
 
 Enter a citation for a published work or a description of any source or action that provided information about the heading of the institution.
 
-#### Information found (670 $b)
+#### Odnaleziona informacja (670 $b)
 
-Enter the number, page number(s), or information found.
+Wprowadź pozycje, numer(-y) strony lub znalezione informacje.
 
 #### URI (670 $u)
 
-Enter the URI consulted.
+Wprowadź adres URI, do którego się odniesiono.
