@@ -1,6 +1,6 @@
 ### Dodatkowa osoba (700)
 
-The field **Related personal name** is for personal names related to the institution.
+Pole **Dodatkowa osoba** służy podania osób powiązanych z instytucją.
 
 #### Name (700 $a)
 
