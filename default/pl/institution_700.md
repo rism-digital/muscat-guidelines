@@ -1,4 +1,4 @@
-### Related personal name (700)
+### Dodatkowa osoba (700)
 
 The field **Related personal name** is for personal names related to the institution.
 
