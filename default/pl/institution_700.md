@@ -2,10 +2,10 @@
 
 Pole **Dodatkowa osoba** służy podania osób powiązanych z instytucją.
 
-#### Name (700 $a)
+#### Imię i nazwisko (700 $a)
 
-Enter the name of the person related to the institution. For example, with private collections you may enter the name of the owner. This field is linked to the **Personal names** authority file through subfield $0. The life dates are displayed in $d.
+Wprowadź imię i nazwisko osoby powiązanej z instytucją. W przypadku prywatnych kolekcji możesz tu np. wpisać imię i nazwisko właściciela. Pole połączone jest z kartoteką haseł wzorcowych **Osoby** poprzez podpole $0. Lata życia wyświetlane są w podpolu $d.
 
-#### Function (700 $4)
+#### Funkcja (700 $4)
 
-Enter the function of the person.
+Wprowadź funkcję osoby.
