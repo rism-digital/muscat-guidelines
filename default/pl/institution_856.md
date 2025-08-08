@@ -1,11 +1,11 @@
-### External resource (856; ISDIAH 5.3.8)
+### Zasób zewnętrzny (856; ISDIAH 5.3.8)
 
-The field **External resource** provides relevant URLs for the institution. In accordance with ISDIAH guidelines, it can provide a general overview of the published and/or unpublished finding aids and guides prepared by the institution and any other relevant publications.
+Pole **Zasób zewnętrzny** umożliwia podanie linku do zewnętrznego zasobu, który dotyczy instytucji. Zgodnie z wytycznymi ISDIAH, pole może zapewnić ogólny przegląd opublikowanych i nieopublikowanych pomocy naukowych i wskazówek przygotowanych przez instytucję oraz wszelkich innych istotnych publikacji.
 
-#### External resource URL (856 $u)
+#### Adres URL zasobu zewnętrznego (856 $u)
 
-Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**.
+Wprowadzić adres URL zasobu zewnętrznego. Zawsze stosować permalinki. Każdy adres URL musi zaczynać się od **http** lub **https**.
 
-#### Note about external resource (856 $z)
+#### Uwaga o zasobie zewnętrznym (856 $z)
 
-Enter a short description of the URL.
+Wprowadzić krótki opis, który wyjaśnia wykorzystanie URL.
