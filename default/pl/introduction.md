@@ -1,9 +1,9 @@
 
-Na tej stronie przedstawiono międzynarodowe wytyczne opracowane przez RISM w celu udokumentowania i opisania źródeł muzycznych stosowanych w Muscacie, czyli programie służycym do katalogowania. Muscat jest wykorzystywany przez grupy robocze i współpracowników RISM dostępny nieodpłatnie dla każdego, kto jest zainteresowany. This website presents the international guidelines developed by RISM to document and describe musical sources as applied to the cataloging program Muscat. If you are interested in becoming a contributor, contact the [RISM Editorial Center (Zentralredaktion)](https://rism.info/editorial-center.html){:blank}.
+Na tej stronie przedstawiono międzynarodowe wytyczne opracowane przez RISM w celu udokumentowania i opisania źródeł muzycznych stosowanych w Muscacie, czyli programie służycym do katalogowania. Muscat jest wykorzystywany przez grupy robocze i współpracowników RISM dostępny nieodpłatnie dla każdego, kto jest zainteresowany. Umożliwia ona bezpośredni dostęp do bazy danych RISM przechowywanej przez Staatsbibliothek zu Berlin, Preußischer Kulturbesitz. Jeśli jesteś zainteresowany zostaniem współtwórcą, skontaktuj się z [RISM Editorial Center (Zentralredaktion)](https://rism.info/editorial-center.html).
 
-Muscat is developed jointly by the two RISM Centers, the RISM Editorial Center and the [RISM Digital Center](https://rism.digital/){:blank}. It is based on a program that was jointly developed by RISM Switzerland and RISM UK.
+Muscat jest opracowywany wspólnie przez dwa centra RISM Editorial Center i [RISM Digital Center](https://rism.digital/). Opiera się on na programie, który został opracowany wspólnie przez RISM Szwajcaria i RISM UK.
 
-Muscat data is structured around the [MARC21 library standard](https://www.loc.gov/marc/). The numbers and letters next to field names, such as 245 $a, refer to the MARC21 field.
+Dane w Muscacie oparte są na [standardzie bibliotecznym MARC21](https://www.loc.gov/marc/). Numery i litery obok nazw pól, takich jak 245 $a, odnoszą się do pól MARC21.
 
 Refer to the contents on the right for an overview of this document. The sections **2-Using Muscat** and **3-General cataloging principles** explain how to use the program: general functions, templates, how to catalog certain formats.
 
