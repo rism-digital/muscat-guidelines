@@ -1,19 +1,19 @@
-### Field of activity (372)
+### Obszar działalności (372)
 
-The field **Field of activity** is used to enter the area in which the institution is engaged, its area of competence, responsibility, etc. The field is repeated if the institution has multiple fields of activity for different time periods.
+Pole **Obszar działalności** jest wykorzystywane w celu podania obszaru w jaki instytucja jest zaangażowana, zakres jej kompetencji, odpowiedzialnosci itd. Pole to można multiplifikować, jeśli instytucja działa na wielu obszarach w różnych czasie działalności.
 
-#### Field of activity (372 $a)
+#### Obszar działalności (372 $a)
 
-Enter the field of activity in which the institution is or was engaged.
+Wprowadź obszar działalnosci w jaki instutucja była zaangażowana.
 
-##### Example
+##### Przykład
 
 - Music--Instruction and study
 
-#### Source of term (372 $2)
+#### Źródło terminu (372 $2)
 
-Enter the code that identifies the source of a controlled vocabulary term for the field of activity.
+Wpisać kod, który identyfikuje źródło z kontrolowanego słownictwa dla pola obszar aktywności.
 
-##### Example
+##### Przykład
 
 - lcsh

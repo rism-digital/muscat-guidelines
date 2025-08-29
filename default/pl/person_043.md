@@ -1,7 +1,7 @@
-### Nationality (043)
+### Narodowość (043)
 
-The field **Nationality** is for the nationality of the person described in the record.
+Pole **Narodowość** odpowiada narodowości osoby opisanej w rekordzie.
 
-#### Nationality (043 $c)
+#### Narodowość (043 $c)
 
-Select the modern-day nationality of the person. Multiple countries may be selected if the person was a citizen of multiple countries. Additional countries may be added in consultation with the RISM Editorial Center. For historical regions (Prussia, Bohemia), enter the closest modern equivalent.
+Wybierz współczesną narodowość danej osoby. Można wybrać wiele krajów jeżeli dana osoba posiada obywatelstwa wielu krajów. Dodatkowe państwa mogą zostać dodane w porozumieniu z RISM Editorial Center. Dla historycznych regionów (Prusy, Bohemia) wprowadź najbliższy współczesny ekwiwalent.

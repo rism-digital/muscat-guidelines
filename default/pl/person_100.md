@@ -1,18 +1,18 @@
-### Heading - Personal name (100)
+### Nagłówek - osoba (100)
 
-The field **Heading - Personal name** is for the name of the person in its authorized form. The heading is made up of the name in 100 $a, the years in 100 $d, and words in 100 $c.
+W polu **Nagłówek - osoba** podaje się nazwę osobową w formie autorytatywnej. Nagłówek składa się z nazwy w podpolu 100 $a, lat z podpola 100 $d i słów z podpola 100 $c.
 
-#### Heading - Personal name (100 $a)
+#### Nagłówek - osoba (100 $a)
 
-Names are entered in inverted order in the form Surname Forename, with a comma separating the elements for names. If you only have initials or an artificially constructed name (such as a designation identifying a copyist), enter in uninverted order. Names of members of the nobility are entered in the local usual form.
+Nazwy wpisuje się w formacie: Nazwisko Imię, z przecinkiem rozdzielającym elementy dla nazw osobowych podawanych w kolejności odwróconej. W razie posiadania wyłącznie inicjałów lub sztucznie stworzonej nazwy (takiej jak nazwa identyfikująca kopistę), należy wpisać je w kolejności nieodwróconej. Nazwy osób z pochodzeniem szlacheckim są wpisywane w zwczajnej formie.
 
-For names originally written using non-Latin scripts, enter the transliterated form using the Latin alphabet in this field. The original form in non-Latin script, as well as alternate transliterations, can be entered in the field **Name variant (400)**.
+W przypadku nazw zapisanych pierwotnie przy użyciu alfabetów innych niż łaciński, w tym polu należy wpisać nazwę w transliteracji łacińskiej. Oryginalną formę nazwy w alfabecie innym niż łaciński, jak również alternatywne transliteracje, można wprowadzić w polu **Alternatywna nazwa osoby (400)**.
 
-##### Examples
+##### Przykłady
 
 - Telemann, Georg Philipp
 - A. C.
-- Copyist C. H. Graun IX (Blechschmidt)
+- Kopista C. H. Graun IX (Blechschmidt)
 - Anna Amalia, Herzogin von Sachsen-Weimar-Eisenach
 - Aylesford, Heneage Finch, 3rd Earl of
 

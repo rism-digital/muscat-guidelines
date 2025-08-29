@@ -1,11 +1,11 @@
-### Authentication code (042)
+### Kod uwierzytelniający (042)
 
-The field **Authentication code** indicates whether or not the name has been connected to a single individual.
+Pole **Kod uwierzytelniający** określa, czy wpis został już powiązany z konkretną osobą.
 
-#### Authentication code (042 $a)
+#### Kod uwierzytelniający (042 $a)
 
-Enter whether the name is differentiated or undifferentiated. Differentiated entries refer to a concrete person. Undifferentiated entries cannot (yet) be connected to a single individual and may represent multiple people.
+Podaj czy nazwa jest zróżnicowana czy niezróżnicowana. Zróżnicowane wpisy odnoszą się do konkretnej osoby. Niezróżnicowane wpisy nie są jeszcze połączone z konkretną osobą i mogą reprezentować wiele osób.
 
-Select from:
-- differentiated
-- undifferentiated
+Wybierz z poniższych:
+- zróżnicowane
+- niezróżnicowany
