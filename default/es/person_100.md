@@ -45,7 +45,7 @@ If the person's exact years of birth and/or death are unknown, use the following
   **1816c** = around 1816
 - **\***: born  
   **1816\*** = born in 1816, but year of death unknown
-- **+****+****+****+****+****+****+****+****+****+****+****+****+****+****+****+****+****+:** murió  
+- **+****+****+****+****+****+****+****+****+****+****+****+****+****+****+****+****+****+****+:** murió  
   **1756+** = murió en 1756, año de nacimiento desconocido
 - **/**: or  
   **17/18** = lived in the 17th or 18th centuries
