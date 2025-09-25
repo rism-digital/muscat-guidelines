@@ -1,12 +1,12 @@
-### Name variant (400)
+### Alternatywna nazwa osoby (400)
 
-The field **Name variant** is for forms of the name that differ from the authorized form, including birth names, pseudonyms, religious names, names spelled differently on different sources, and alternate transliterations.
+Pole **Alternatywna nazwa osoby** przeznaczone jest dla form nazwy, które różnią się od formy autorytatywnej, takich jak nazwiska rodowe, pseuodnimy, nazwy religijne, nazwy których pisownia w innych źródłach jest inna, odmiennych transliteracji, itd.
 
-#### Name variant (400 $a)
+#### Alternatywna nazwa osoby (400 $a)
 
-Enter the name variant. For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
+Wprowadź alternatywną nazwę. W przypadku nazw pisanych pierwotnie przy użyciu alfabetu innych niż łaciński, nazwę należy wpisać w transliteracji łacińskiej. Tu można również wprowadzić transliteracje przy użyciu innych tabel tłumaczeń.
 
-#### Life dates (400 $d)
+#### Rok urodzenia i śmierci (400 $d)
 
 Do not enter anything in this field.  This field may be filled out automatically if names are imported from VIAF. Any variants in life dates should be entered in the field **Source data found (670)**.
 
