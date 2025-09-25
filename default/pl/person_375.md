@@ -1,10 +1,10 @@
-### Gender (375)
+### Płeć (375)
 
-The field **Gender** is for the gender of the person described in the record.
+Pole **Płeć** odpowiada płci osoby opisanej w rekordzie.
 
-#### Gender (375 $a)
+#### Płeć (375 $a)
 
-Select the gender of the person:
-- Female
-- Male
-- Unknown
+Wybierz płeć osoby:
+- Kobieta
+- Mężczyzna
+- Nieznana
