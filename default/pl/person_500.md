@@ -1,23 +1,23 @@
 ### Powiązana osoba (500)
 
-The field **Related personal name** describes familial relationships.
+Pole **Powiązana osoba** opisuje relacje rodzinne.
 
-#### Related personal name (500 $a)
+#### Powiązana osoba (500 $a)
 
-Enter the personal name that stands in relation to the person in question. This field is linked to the **Personal names** authority file through $0 and life dates are displayed in $d.
+Należy wpisać nazwę osobową powiązaną z daną osobą. Pole połączone jest z kartoteką haseł wzorcowych **Osoby** poprzez $0 i daty urodzenia i śmierci wyświetlane w $d.
 
-#### Type of relationship (500 $i)
+#### Typ związku (500 $i)
 
-Indicate the type of relationship the person in question has to the related person. For example, the authority record for Clara Schumann will have the following in this section: Schumann, Felix - mother of.
+Wskazać rodzaj związku między daną osobą a osobą powiązaną. Na przykład zapis autorytatywny dla Clary Schumann będzie zawierał następujące zapisy: Schumann, Felix - matka.
 
-Select from the following:
+Wybierz z dostępnych poniżej:
 
-- **Brother of**
-- **Child of**
-- **Confused with**
-- **Father of**
-- **Married to**
-- **Mother of**
-- **Other**: Select if the relationship is not familial.
-- **Related to**: Use for a different familial relationship not on this list, such as an aunt, uncle, cousin, etc.
-- **Sister of**
+- **brat (czyj)**
+- **dziecko (czyje)**
+- **mylony z **
+- **ojciec (czyj)**
+- **żonaty z/zamężna z**
+- **matka (czyja)**
+- **inne**: wybierz jeśli relacja nie wynika z pokrewieństwa
+- **spokrewniony z**: wybierz dla innych członków rodziny niewymienionych na tej liście takich jak ciotka, wuj, kuzyn, itd.
+- **siostra (czyja)**
