@@ -1,4 +1,4 @@
-### Related personal name (500)
+### Powiązana osoba (500)
 
 The field **Related personal name** describes familial relationships.
 
