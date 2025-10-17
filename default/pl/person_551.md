@@ -1,6 +1,6 @@
-### Related place (551)
+### Powiązane miejsce (551)
 
-The field **Related place** is for geographic names associated with the person in question.
+Pole **Powiązane miejsce** służy do wprowadzania nazw geograficznych powiązanych z daną osobą.
 
 #### Related place (551 $a)
 
