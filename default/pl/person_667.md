@@ -1,7 +1,7 @@
 ### Uwagi wewnętrzne (667)
 
-The field **Internal note** is used for information not intended for public display. Internal notes are not published in the RISM catalogs or available in the RISM open data.
+Pole **Uwaga wewnętrzna** jest wykorzystywane do podania informacji nieprzeznaczonych do publicznego wyświetlania. Uwagi wewnętrzne nie są publikowane w katalogu RISM ani nie są dostępne w otwartych danych RISM.
 
-#### Internal note (667 $a)
+#### Uwaga wewnętrzna (667 $a)
 
-Enter local notes for internal use, including for use within your own working group. Any language may be entered here. Internal notes can be used for remarks of all kinds, such as questions, comments, or research to be done. Delete notes after they have served their purpose. It is best practice to sign your note using your initials and the date.  
+Wprowadź uwagi lokalne do użytku wewnętrznego, w tym do użytku w ramach własnej grupy roboczej. W tym miejscu można korzystać z dowolnego języka. Uwagi wewnętrzne mogą być wykorzystywane do wszelkiego rodzaju uwag, takich jak pytania, komentarze lub badania, które należy przeprowadzić. Wykasuj uwagi po spełnieniu swojej roli. Najlepszą praktyką jest podpisywanie swojej uwagi przy użyciu inicjałów i daty.  
