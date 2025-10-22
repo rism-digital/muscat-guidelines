@@ -1,5 +1,5 @@
-### Additional biographical information (678)
+### Dodatkowe informacje biograficzne (678)
 
-**Obsolete field. Use 680 instead.**
+**Pole przestarzałe. Użyj 680 zamiast tego.**
 
-The field **Additional biographical information** was for biographical information found on a musical source.
+Pole **Dodatkowe informacje biograficzne** wykorzystywane było jako źródło informacji biograficznej odnalezione w źródle.
