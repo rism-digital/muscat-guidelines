@@ -1,6 +1,6 @@
 ### Odnalezione źródło danych (670)
 
-The field **Source data found** keeps track of the secondary literature that was consulted while creating the heading and gives the form of the name and dates found therein. Secondary literature that was consulted but yielded no information is also entered here. Forms of the name that differ from the form given in **Heading - Personal name (100 $a)** must be entered in the field **Name variant (400 $a)**.
+Pole **Odnalezione źródło danych** służy jako źródło informacji dla wykorzystanej literatury pomocniczej podczas tworzenia nazw, dostarczając form nazw i dat znalezionych w nim. Podaje się także literaturę pomocniczą, która służyła jako literatura referencyjna, lecz nie znaleziono w niej żadnej informacji. Formy nazwy różniącę się od formy podanej w polu **Nagłówek - osoba (100 $a)** należy wpisać w polu **Wariant nazwy (400 $a)**.
 
 #### Source data found (670 $a)
 
