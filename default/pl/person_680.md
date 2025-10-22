@@ -1,7 +1,7 @@
-### General note (680)
+### Uwaga ogólna (680)
 
-The field **General note** is for any other kind of information.
+Pole **Ogólna uwaga** umożliwia dodanie wszelkich uwag dotyczących opisu.
 
-#### General note (680 $a)
+#### Uwaga ogólna (680 $a)
 
-Enter any other notes about the person.  
+Wprowadź wszystkie uwagi na temat danej osoby.  
