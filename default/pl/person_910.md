@@ -1,11 +1,11 @@
-### Contributing project (910)
+### Projekt współfinansowany (910)
 
-The field **Contributing project** is used to show that a specific project contributed the personal name. This increases the visibility of cataloging projects and allows funding bodies to be named. This field can only be added in consultation with the Editorial Center.
+Pole **Projekt współfinansowany** wykorzystywany jest do połączenia danego projektu z powiązaną nazwą. Zwiększa to widoczność projektów, w których katalogowanie finansowane jest przez konkretny podmiot. Pole może być dodane tylko w porozumieniu z Editorial Center.
 
-#### Institution (910 $a)
+#### Instytucja (910 $a)
 
-The field **Institution** is for the name of the institution or cataloging project that contributed the cataloging data. Names of projects are taken from the **Institutions** authority file.
+W polu **Instytucja** wpisuje się w nazwę instytucji lub nazwę projektu, które przyczyniły się do katalogowania. Nazwy projektów należy wybrać z kartoteki haseł wzorcowych **Instytucje**.
 
-#### Project URL (910 $u)
+#### URL Projektu (910 $u)
 
 Enter the full URL for the website of the contributing project.
