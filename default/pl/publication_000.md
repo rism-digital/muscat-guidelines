@@ -1,5 +1,5 @@
-### Leader (000)
+### Lider (000)
 
-**Do not change.**
+**Nie zmieniać.**
 
 The field **Leader** consists of data elements that contain numbers or coded values that define the parameters for the processing of the record. It is automatically generated.  
