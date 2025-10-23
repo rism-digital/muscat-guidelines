@@ -8,4 +8,4 @@ W polu **Instytucja** wpisuje się w nazwę instytucji lub nazwę projektu, któ
 
 #### URL Projektu (910 $u)
 
-Enter the full URL for the website of the contributing project.
+Wprowadź pełen adres URL strony internetowej projektu współfinansowanego.
