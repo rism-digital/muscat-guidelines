@@ -1,13 +1,13 @@
-### Author (100)
+### Autor (100)
 
-The field **Author** is for the person responsible for the item.
+W polu **Autor** należy podać głównego autora publikacji.
 
-#### Name (100 $a)
+#### Imię i nazwisko (100 $a)
 
-Enter the name of the main author of the publication. Editors of facsimile or modern music editions are entered in this field.
+Wprowadź imię i nazwisko głównego autora publikacji. W tym polu wprowadza się redaktorów facisimile lub współczesnych edycji muzycznych.
 
-Editors of volumes of essays or composers of modern editions are entered in the field **Additional personal name (700)**.
+Redaktorzy tomów esejów lub kompozytorzy współczesnych edycji są wpisywani w polu **Dodatkowa osoba (700)**.
 
-For publications that have more than one author, choose one to enter in this field. The other name(s) can be added in the field **Additional personal name (700)**.
+Dla publikacji, które mają więcej niż jednego autora, wybrać jednego do wpisania w tym polu. Pozostałe imiona i nazwiska mogą być dodane w polu **Dodatkowa osoba (700)**.
 
-This field is linked to the **Personal Names** authority file through $0. Life dates are displayed in $d.
+Pole połączone jest z kartoteką haseł wzorcowych **Osoby** poprzez $0. Daty urodzenia i śmierci wyświetlane są w podpolu $d.
