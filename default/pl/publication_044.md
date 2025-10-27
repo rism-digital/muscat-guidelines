@@ -1,7 +1,7 @@
-### Country of publication (044)
+### Kraj publikacji (044)
 
-The field **Country of publication** is for the country in which the item was published.
+Pole **Kraj publikacji** służy do podania kraju, w którym monografia została opublikowana.
 
-#### Country of publication (044 $a)
+#### Kraj publikacji (044 $a)
 
-Enter the country of publication. Select from the drop-down list. Use this field only for printed monographs. 
+Podać nazwę kraju wydania. Wybierz z listy rozwijanej. Użyj tego pola tylko dla wydrukowanych monografii. 
