@@ -1,8 +1,8 @@
-### Language code (041)
+### Kod języka (041)
 
-The field **Language code** is for the language of the item.
+Pole **Kod języka** dotyczy języka używanego w źródle.
 
-#### Language code (041 $a)
+#### Język tekstu (041 $a)
 
 Enter the language(s) of the item.
 
