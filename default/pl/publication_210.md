@@ -10,26 +10,26 @@ Należy wpisać skrócony tytuł zgodnie z poniższymi wskazówkami. Skrócone t
 
 Skróconych tytułów nie trzeba tworzyć dla serii i zebranych tomów esejów. Dla tego rodzaju publikacji, skrócony tytuł wprowadza się dla indywidualnych rekordów poświęconych artykułom lub rozdziałom.
 
-A short tile only applies to the edition described in the record. Separate records must be created for different editions.
+Skrócony tytuł odnosi się tylko do opisywanego w rekordzie wydania. Dla różnych wydań należy tworzyć oddzielne rekordy.
 
-The following will describe how to create short titles for **general secondary literature**, **catalogs of works**, and **special cases**.
+Poniżej opisano jak tworzyć skrócone tytuły w ** ogólnej literaturze pomocniczej**, **katalogach dzieł** i **szczególnych przypadkach**.
 
-##### General secondary literature
+##### Ogólna literatura pomocnicza
 
-Short titles for **general secondary literature** are created as follows:
+Skrócone tytuły dla **ogólnej literatury pomocniczej** są tworzone w następujący sposób:
 
-- **Last name** of the author or editor  
-  _Hyphenated or compound last names are written out in full._
-- **First letter** of a keyword from the title, capitalized  
-  _Usually the name of the composer, otherwise select a different important word_
-- **Space**
-- **Year** of publication
+- **Nazwisko** autora lub redaktora  
+  _Nazwiska dwuczłonowe lub złożone należy podawać w pełnym brzmieniu._
+- **Pierwszą litera** słowa kluczowego z tytułu, pisaną wielką literą  
+  _Zazwyczaj imię kompozytora lub nazwa miejsca, w przeciwnym razie należy wybrać inne ważne słowo_
+- **Spacja**
+- **Rok** wydania
 
-###### Examples
+###### Przykłady
 
 - Pieter Dirksen, _Heinrich Scheidemann’s Keyboard Music: Transmission, Style and Chronology_ (Aldershot: Ashgate, 2007).  
   → DirksenS 2007
-- Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
+- Peter Wollny, “Zur stilistischen Entwicklung des geistlichen Konzerts in der Nachfolge von Heinrich Schütz,” _Schütz-Jahrbuch_ 23 (2001): 7-32.  
   → WollnyS 2001
 - Rita Fischer-Wildhagen, _Adalbert Gyrowetz (1763-1850), Kapellmeister der k.k. Hoftheater in Wien_ (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
@@ -51,70 +51,70 @@ Short titles for **general secondary literature** are created as follows:
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999
-- Soterraña Aguirre Rincón, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
-  → Aguirre RincónV 2009
+- Soterran<unk> a Aguirre Rincoţn, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
+  → Aguirre RincoţnV 2009
 
-For authors or editors who publish multiple articles about the same composer or multiple works by the same composer in the same year, a letter (**a**, **b**, **c**, etc.) is added to the end of the year for subsequent publications.
+W przypadku autorów lub redaktorów, którzy opublikowali wiele artykułów na temat tego samego kompozytora lub wielu utworów tego samego kompozytora, po roku należy dodać literę (**a**, **b**, **c**, itd.)
 
-###### Examples
+###### Przykłady
 
-- Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento in B-Dur (WV 3.53),_ edited by Armin Kircher (Stuttgart: Carus, 2005).  
+- Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento w B- Dur (WV 3.53),_ edited by Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherA 2005
 - Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, edited by Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherE 2005a
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, edited by Armin Kircher (Stuttgart: Carus, 2005). Armin Kircher (Stuttgart: Carus, 2005). [full score]  
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, edited by Armin Kircher (Stuttgart: Carus, 2005). [full score]  
   → KircherE 2005b
 - Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ edited by Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
   → KircherE 2005c
 
-For two or more authors or editors, only the first is used in a short title.
+W przypadku gdy autorów lub redaktorów jest dwóch lub więcej, w tytule skróconym podaje się wyłącznie pierwszego z nich.
 
-###### Example
+###### Przykład
 
 - John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
   → Fuller-MaitlandF 1893
 
-If no author is named, use 1-2 keywords from the title in its place.
+W przypadku gdy nie podano autora, należy użyć jedno lub dwa słowa kluczowe.
 
-###### Example
+###### Przykład
 
-- _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
+- _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
   → VerzeichnisThibaut 1842
 
-For multivolume works that were published over the course of several years, only the first year is used.
+Dla dzieł wielotomowych wydawanych na przestrzeni wielu lat, należy podać tylko pierwszy rok.
 
-###### Example
+###### Przykład
 
-- Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
-  → SchröderW 1943
+- Otto Schröder, _J. Walter: Sämtliche Werke,_ 6 vols. (Kassel: Bärenreiter, 1943-73).  
+  → SchröderW 1943
 
-If the year of publication is neither given nor ascertainable, write **s.d.** (for no date) instead of a year.
+Jeżeli nie podano roku wydania i nie można go ustalić, zamiast roku należy wpisać **s.d.** (tzn. brak daty).
 
-###### Example
+###### Przykład
 
-- Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung_ (Innsbruck, no date).  
+- Josef Gregor Zangl, _Der katholische Orgelfreund aus Tyrol: Sammlung von 26 Orgelstücken verschiedener Gattung_ (Innsbruck, no date).  
   → ZanglO s.d.
 
-If only an approximate year of publication is known, add a **ca.** (for circa) when you enter the publisher and publication year in the record, but omit the “ca.” in the short title.
+Jeżeli rok wydania znany jest jedynie w przybliżeniu, należy dodać **ca.** (tzn. circa) przy wprowadzaniu do rekordu wydawcy i roku wydania, lecz należy pominąć „ca.” w tytule skróconym.
 
-###### Example
+###### Przykład
 
-- Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Vienna, C.A. Spina, ca. 1850).  
+- Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Wiedeń, C.A. Spina, ca. 1850).  
   → FahrbachK 1850
 
-For the short titles of well-known encyclopedias or sets, use the established abbreviations or terms (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
+W przypadku powszechnie znanych encyklopedii lub zbiorów zamiast tytułów skróconych należy stosować ich powszechnie używane skróty lub nazwy (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
-##### Catalogs of works
+##### Katalogi dzieł
 
-Short titles for **catalogs of works** are created as follows:
-- **First three letters** of the last name of the author or editor
-- **First letter** of the composer’s last name, capitalized
+Skrócone tytuły dla **katalogów dzieł** są tworzone w następujący sposób:
+- **Pierwsze trzy litery** nazwiska autora lub redaktora
+- **Pierwsza litera** nazwisko kompozytora pisane wielką literą
 
-No year is needed.
+Nie ma potrzeby podawania roku wydania.
 
-A catalog that is published as a part of a larger item, such as an appendix in a book, may be entered as a catalog of works.
+Katalog opublikowany jako część większej serii, na przykład dodatek do książki może być wpisany jako katalog dzieł.
 
-###### Examples
+###### Przykłady
 
 - A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
@@ -122,41 +122,41 @@ A catalog that is published as a part of a larger item, such as an appendix in a
   → KnaA
 - Margit L. McCorkle and Akio Mayeda, _Robert Schumann: Thematisch-bibliographisches Werkverzeichnis_ (Mainz: Schott, 2003).  
   → McCS
-- Bruno Scheithauer, _Verzeichniss sämtlicher gedruckten Werke Dr. Carl Loewe’s_ (Berlin, 1886).  
+- Bruno Scheithauer, _Verzeichniss sämtlicher gedruckten Werke Dr. Carl Loewe’s_ (Berlin, 1886).  
   → SchL
 
-Use the established abbreviations for catalogs of works if they exist (BWV, KV, Hob., etc.) or the abbreviation used within the catalog, as long as the abbreviation is not already in use in Muscat.
+Należy wykorzystywać powszechnie używane skróty dla katalogów dzieł jeżeli istnieją (BWV, KV, Hob., itd.) lub skróty funkcjonujące w ramach samego katalogu, pod warunkiem, że skrót już nie istenieje w Muscat.
 
-###### Examples
+###### Przykłady
 
 - Horst Augsbach, Quantz-Werkverzeichnis (Stuttgart: Carus, 1997).  
   → QV
-- Klaus-Peter Koch, Samuel-Scheidt-Werke-Verzeichnis (SSWV) (Wiesbaden: Breitkopf & Härtel, 2000).  
+- Klaus-Peter Koch, Samuel-Scheidt-Werke-Verzeichnis (SSWV) (Wiesbaden: Breitkopf & Härtel, 2000).  
   → SSWV
 - Armin Brinzing, Systematisches Verzeichnis der Werke von Johann Melchior Molters (MWV) (Wiesbaden: Harrassowitz Verlag, 2010).  
   → BrinzingMWV  
-  _Note: MWV was already in use for the Mendelssohn Werkverzeichnis._
+  _Uwaga: MWV był już używany dla Mendelssohn Werkverzeichnis._
 
-##### Special cases
+##### Przypadki specjalne
 
-If it’s the former, give it a short title as for a catalog of works. Publications that contain the term "thematic catalog" in their titles are usually catalogs of a composer's works but may occasionally treat a different area or not be extensive in their scope. If it’s the latter, give it a short title as for general secondary literature. In short, anything that is not a catalog of a composer's works is assigned short title as for general secondary literature.
+Publikacje zawierające w swych tytułach termin „katalog tematyczny” zazwyczaj są katalogami dzieł kompoztora, mogą niekeidy dotyczyć też innej tematyki lub mieć niezbyt rozległy zakres. W pierwszym przypadku należy nadać tytuł skrócony jak w przypadku katalogu dzieł. W drugim przypadku, tytuł skrócony należy podać jak w ogólnej literaturze pomocniczej. W skrócie mówiąc: Wszystkiemu, co nie jest katalogiem dzieł, przypisuje się tytuł skrócony stosowany w przypadku literatury pomocniczej.
 
-###### Examples
+###### Przykłady
 
-- Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
+- Walter Pass, _Thematischer Katalog sämtlicher Werke Jacob Regnarts (ca. 1540-1599)_ (Vienna: Böhlau, 1969).  
   → PasJ
-- Jean Duron, _L’oeuvre de Sébastien de Brossard (1655-1730). Catalogue thématique_ (Versailles: Klincksieck, 1995).  
+- Jean Duron, _L’oeuvre de Sébastien de Brossard (1655-1730). Catalogue thématique_ (Versailles: Klincksieck, 1995).  
   → DurB
 - Francesco Passadore, _Catalogo tematico delle composizioni di Giuseppe Torelli (1658-1709)_ (Padua: Edizioni de "I Solisti Veneti", 2007).  
   → PasT
 - Robert Didion and Joachim Schlichte, _Thematischer Katalog der Opernsammlung in der Stadt- und Universitätsbibliothek Frankfurt am Main_ (Frankfurt: Vittorio Klostermann, 1990).  
   → DidionF 1990
-- Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
-  → MurányiW 1997
+- Róbert Árpád Murányi, “Thematischer Katalog der Werke G. J. Werners in Budapest,” _Acta musicologica_ 38/1-2 (1997): 151-228.  
+  → MurányiW 1997
 
-For modern music editions, use the last name of the editor plus the first letter of the last name of the composer. The year refers to the year that the modern edition was published.
+W przypadku współczesnych edycji muzycznych użyj nazwiska edytora plus pierwszej litery nazwiska kompozytora. Rok odnosi się do roku, w którym opublikowano współczesne wydanie.
 
-###### Example
+###### Przykład
 
 - Barbara Strozzi, _Havete torto_, edited by Candace A. Magner (Cor Donato Editions, 2019).  
   → MangerS 2019  
