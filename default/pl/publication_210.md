@@ -1,14 +1,14 @@
 ### Skrócony tytuł (210)
 
-The field **Short title** is a unique abbreviation assigned to items of secondary literature to enable easy and consistent reference throughout the RISM database.
+Pole **Skrócony tytuł** jest unikalnym skrótem przypisanym do rekordu w ramach literatury pomocniczej w celu umożliwienia łatwego i spójnego odniesienia do całej bazy danych RISM.
 
-#### Short title (210 $a)
+#### Skrócony tytuł (210 $a)
 
-**Required field for most kinds of items.**
+**Pole wymagane dla większości rekordów.**
 
-Enter the short title in accordance with the guidance below. Short titles may only be used once.
+Należy wpisać skrócony tytuł zgodnie z poniższymi wskazówkami. Skrócone tytuły mogą być wykorzystane tylko raz.
 
-Short titles are not needed for serials or collected volumes of essays; for these kinds of publications, the short title is entered in the record for the individual article or chapter.
+Skróconych tytułów nie trzeba tworzyć dla serii i zebranych tomów esejów. Dla tego rodzaju publikacji, skrócony tytuł wprowadza się dla indywidualnych rekordów poświęconych artykułom lub rozdziałom.
 
 A short tile only applies to the edition described in the record. Separate records must be created for different editions.
 
