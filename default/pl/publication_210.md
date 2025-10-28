@@ -1,4 +1,4 @@
-### Short title (210)
+### Skrócony tytuł (210)
 
 The field **Short title** is a unique abbreviation assigned to items of secondary literature to enable easy and consistent reference throughout the RISM database.
 
