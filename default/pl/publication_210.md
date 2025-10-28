@@ -58,14 +58,14 @@ W przypadku autorów lub redaktorów, którzy opublikowali wiele artykułów na 
 
 ###### Przykłady
 
-- Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento w B- Dur (WV 3.53),_ edited by Armin Kircher (Stuttgart: Carus, 2005).  
+- Anton Cajetan Adlgasser, _Litaniae de venerabili altaris sacramento w B-Dur (WV 3.53),_ edited by Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherA 2005
 - Johann Ernst Eberlin, _Vagit infans: Offertorium für Weihnachten_, edited by Armin Kircher (Stuttgart: Carus, 2005).  
   → KircherE 2005a
 - Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, edited by Armin Kircher (Stuttgart: Carus, 2005). [full score]  
   → KircherE 2005b
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag,_ edited by Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
-  → KircherE 2005c
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, edited by Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
+  → KircherE 2005b
 
 W przypadku gdy autorów lub redaktorów jest dwóch lub więcej, w tytule skróconym podaje się wyłącznie pierwszego z nich.
 
