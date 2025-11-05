@@ -1,6 +1,6 @@
-### Title (240)
+### Tytuł ujednolicony (240)
 
-**Required field.**
+**Pole wymagane.**
 
 The field **Title** is for the title as given on the item.
 
