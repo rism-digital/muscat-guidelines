@@ -1,13 +1,13 @@
-### Physical description (300)
+### Opis fizyczny (300)
 
-The field **Physical description** is for the extent of the item.
+Pole **Opis fizyczny** odnosi sie do formatu i objętości źródła.
 
-#### Extent (300 $a)
+#### Objętość: (300 $a)
 
-Enter the extent of the item in number of pages or volumes.
+Wprowadź objętość źródła za pomocą liczby stron lub woluminów.
 
-##### Examples
+##### Przykłady
 
 - 270 p.
 - xxi, 528 p.
-- 2 vol.: XI, 518p.; 480p.
+- 2 vol.: XI, 518 p.; 480 p.
