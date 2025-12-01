@@ -1,14 +1,14 @@
-### Dates of publication (520)
+### Daty publikacji (520)
 
-Recte: **Dates of publication (362)**
+Prawidłowo: **Daty publikacji (362)**
 
-The field **Dates of publication** is used to state the beginning and/or ending date(s) of an item, especially for periodicals.
+Pole **Daty publikacji** używane jest do podania początku lub zakończenia publikacji wydania, zwłaszcza dla czasopism.
 
-#### Dates of publication (520 $a)
+#### Daty publikacji (520 $a)
 
-Enter the beginning date and (if applicable) the ending date of an item. If the item continues to be published, leave the date open.
+Wpisać datę rozpoczęcia oraz (w stosownych przypadkach) datę zakończenia poblikacji obiektu. Jeżeli tytuł jest nadal publikowany, należy pozostawić datę otwartą.
 
-##### Examples
+##### Przykłady
 
 - Vol. 1, no. 1 (Apr. 1981)-
 - 1969-2004
