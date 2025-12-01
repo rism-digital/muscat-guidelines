@@ -1,8 +1,8 @@
-### Imprint (260)
+### Informacja o wydaniu, druku i produkcji (260)
 
-The field **Imprint** is for the publication information of an item. This field is used for all types of publications except for articles/chapters.
+W tym polu wprowadza się informacje dotyczące wydania, druku, dystrybucji, edycji, publikacji źródła. To pole jest używane dla wszystkich rodzajów publikacji z wyjątkiem artykułów/rozdziałów.
 
-#### Place of publication (260 $a)
+#### Miejsce wydania (260 $a)
 
 Enter the place of publication as given on the item.
 
