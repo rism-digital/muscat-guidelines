@@ -1,11 +1,11 @@
-### Work catalog note (590)
+### Uwaga do katalogu dzieł (590)
 
-The field **Work catalog note** is used to record decisions about how the work catalog is treated in Muscat.
+Pole **Uwaga do katalogu dzieł** jest używane do utrwalania decyzji o sposobie organizacji katalogu w Muscacie.
 
-#### Work catalog note (590 $a)
+#### Uwaga do katalogu dzieł (590 $a)
 
-Enter decisions about how the work catalog is treated.
+Wprowadź decyzje o sposobie organizacji katalogu.
 
-##### Examples
+##### Przykłady
 
-- _Forthcoming_
+- _Nadchodzący_
