@@ -1,4 +1,4 @@
-### Internal note (599)
+### Uwaga wewnętrzna (599)
 
 The field **Internal note** is used for information not intended for public display. Internal notes are not exported to the public catalogs or available in the RISM open data.
 
