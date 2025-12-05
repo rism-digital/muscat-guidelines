@@ -6,4 +6,4 @@ Pole **Uwaga wewnętrzna** wykorzystywane jest do podania informacji, które nie
 
 W tym polu można wprowadzać miejscowe uwagi do użytku wewnętrznego. Pole uwag wewnętrznych można wykorzystywać do zamieszczania wszelkiego rodzaju komentarzy, takich jak pytania, komentarze lub kwestie do ustalenia. Gdy powyższe uwagi już spełnią swoją rolę, należy je usunąć. Zaleca się podpisywanie uwag inicjałami i ich datowanie.
 
-If an item is held by the Editorial Center in Frankfurt, add the note **RISM-HB** for items in the reference library or **RISM-HB (PDF)** for items on the shared drive. In this spirit, any RISM contributor who sees this note for an item needed for their work can contact the Editorial Center staff and arrange for copies to be made.
+Jeśli właścicielem publikacji jest Editorial Center we Frankfurcie, dodaj uwagę **RISM-HB** dla pozycji jako biblioteki referencyjnej lub **RISM-HB (PDF)** dla pozycji do wykorzystania online. W tej sytuacji, każdy użytkownik RISM, który widzi tę notatkę dla publiakcji potrzebnej do ich pracy, może skontaktować się z personelem Editorial Center i zorganizować kopię.
