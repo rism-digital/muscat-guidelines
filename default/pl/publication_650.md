@@ -1,12 +1,12 @@
-### Subject heading (650)
+### Hasło przedmiotowe (650)
 
-The field **Subject heading** is for topics that help to describe the contents of the item.
+Pole **Hasło przedmiotowe** służy podania terminów opisujących zawartość źródła.
 
-#### Subject heading (650 $a)
+#### Hasło przedmiotowe (650 $a)
 
-Enter a subject heading. Enter subject headings especially if the contents of the item are not obvious from the title. This field is linked to the **Subject headings** authority file through $0.
+Wprowadź hasło przedmiotowe , szczególnie w sytuacji kiedy nie wynika ono wprost z tytułu źródła. Pole powiązane jest z kartoteką haseł wzorcowych **Hasła przedmiotowe** poprzez podpole $0.
 
-##### Examples
+##### Przykłady
 
 - Instruments
 - Madrigals
