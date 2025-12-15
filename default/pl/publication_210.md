@@ -51,7 +51,7 @@ Skrócone tytuły dla **ogólnej literatury pomocniczej** są tworzone w następ
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999 Hoftheater in Wien</em> (Egelsbach; Hänsel-Hohenhausen, 1999).  
   → Fischer-WildhagenG 1999
-- Soterran<unk> a Aguirre Rincoţn, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
+- a Aguirre Rincoţn, "The Formation of an Exceptional Library: Early Printed Music Books at Valladolid Cathedral," _Early Music_ 37, no. 3 (August 2009): 379–400.  
   → Aguirre RincoţnV 2009
 
 W przypadku autorów lub redaktorów, którzy opublikowali wiele artykułów na temat tego samego kompozytora lub wielu utworów tego samego kompozytora, po roku należy dodać literę (**a**, **b**, **c**, itd.)
@@ -64,7 +64,8 @@ W przypadku autorów lub redaktorów, którzy opublikowali wiele artykułów na 
   → KircherE 2005a
 - Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, edited by Armin Kircher (Stuttgart: Carus, 2005). [full score]  
   → KircherE 2005b
-- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, edited by Armin Kircher (Stuttgart: Carus, 2005). [piano score]  
+- Johann Ernst Eberlin, _Veni, creator spiritus: Offertorium zum Pfingstsonntag_, edited by Armin Kircher (Stuttgart: Carus, 2005). [full score]  
+  → KircherE 2005b [piano score]  
   → KircherE 2005b
 
 W przypadku gdy autorów lub redaktorów jest dwóch lub więcej, w tytule skróconym podaje się wyłącznie pierwszego z nich.
@@ -116,7 +117,7 @@ Katalog opublikowany jako część większej serii, na przykład dodatek do ksi�
 
 ###### Przykłady
 
-- A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
+- A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
 - Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
   → KnaA
@@ -139,7 +140,7 @@ Należy wykorzystywać powszechnie używane skróty dla katalogów dzieł jeżel
 
 ##### Przypadki specjalne
 
-Publikacje zawierające w swych tytułach termin „katalog tematyczny” zazwyczaj są katalogami dzieł kompoztora, mogą niekeidy dotyczyć też innej tematyki lub mieć niezbyt rozległy zakres. W pierwszym przypadku należy nadać tytuł skrócony jak w przypadku katalogu dzieł. W drugim przypadku, tytuł skrócony należy podać jak w ogólnej literaturze pomocniczej. W skrócie mówiąc: Wszystkiemu, co nie jest katalogiem dzieł, przypisuje się tytuł skrócony stosowany w przypadku literatury pomocniczej.
+W pierwszym przypadku należy nadać tytuł skrócony jak w przypadku katalogu dzieł. Publikacje zawierające w swych tytułach termin „katalog tematyczny” zazwyczaj są katalogami dzieł kompoztora, mogą niekeidy dotyczyć też innej tematyki lub mieć niezbyt rozległy zakres. W drugim przypadku, tytuł skrócony należy podać jak w ogólnej literaturze pomocniczej. W skrócie mówiąc: Wszystkiemu, co nie jest katalogiem dzieł, przypisuje się tytuł skrócony stosowany w przypadku literatury pomocniczej.
 
 ###### Przykłady
 
