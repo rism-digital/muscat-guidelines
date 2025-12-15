@@ -69,6 +69,22 @@ For two or more authors or editors, only the first is used in a short title.
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 John Alexander Fuller-Maitland and Arthur Henry Mann, Catalogue of the Music in the Fitzwilliam Museum (London: C.J. Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
+  → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893 Clay, 1893).  
   → Fuller-MaitlandF 1893
 
@@ -119,7 +135,7 @@ A catalog that is published as a part of a larger item, such as an appendix in a
 
 ###### Examples
 
-- A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
+- A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
 - Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
   → KnaA
