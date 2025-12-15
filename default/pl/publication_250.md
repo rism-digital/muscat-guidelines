@@ -1,12 +1,12 @@
-### Edition statement (250)
+### Strefa wydania (250)
 
-The field **Edition statement** is for a statement that refers to a distinct edition of an item.
+W pole **Strefa wydania** podać należy informacje odnoszące się do wydania konkretnej publikacji.
 
-#### Edition statement (250 $a)
+#### Strefa wydania (250 $a)
 
-Enter the edition statement as given on the title page or elsewhere on the item.
+Wprowadź informacje wydawnicze zgodnie z danymi ze strony tytułowej lub gdziekolwiek w pulikacji.
 
-##### Examples
+##### Przykłady
 
 - New ed., rev. and enl.
 - Bilingual edition English/Español

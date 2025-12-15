@@ -1,9 +1,9 @@
-### Related institution (510)
+### Powiązana instytucja (510)
 
-The field **Related institution** is used to document institutions associated with the person.
+Pole **Powiązana instytucja** wykorzystywane jest w celu dokumentowania powiązania instytucji z osobą.
 
-#### Institution (510 $a)
+#### Instytucja (510 $a)
 
-Enter the institution associated with the person. This field is linked to the **Institutions** authority file through $0.
+Wprowadź instytucję powiązaną z osobą. Pole powiązane jest z kartoteką haseł wzorcowych </strong>Instytucje</0> poprzez $0.
 
-**Obsolete procedures**: In Kallisto, this field was used in conjunction with the field **Additional biographical information** and recorded biographical information found on a musical source. The biographical information was entered in 678 and the siglum of the institution which housed the source was entered in 510. All other biographical information was entered as a general note (today 680). Since the introduction of Muscat, the distinction is no longer made whether the biographical information comes from a musical source or not.
+**Nieaktualne procedury**: W Kallisto, to pole było używane w powiązaniu z polem **Dodatkowe informacje osobowe** i dokumentowało informacje osobowe odnalezione w źródle muzycznym. Informacje biograficzne zostały wprowadzone do pola 678, a siglum instytucji, która była właścicielem źródla do pola 510. Wszystkie pozostałe informacje biograficzne zostały wpisane jako uwaga ogólna (dziś pole 680). Od czasu wprowadzenia Muscatu nie dokonuje się już rozróżnienia, czy informacje biograficzne pochodzą ze źródła muzycznego czy spoza.

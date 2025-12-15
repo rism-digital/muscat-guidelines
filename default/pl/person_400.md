@@ -1,28 +1,28 @@
-### Name variant (400)
+### Alternatywna nazwa osoby (400)
 
-The field **Name variant** is for forms of the name that differ from the authorized form, including birth names, pseudonyms, religious names, names spelled differently on different sources, and alternate transliterations.
+Pole **Alternatywna nazwa osoby** przeznaczone jest dla form nazwy, które różnią się od formy autorytatywnej, takich jak nazwiska rodowe, pseuodnimy, nazwy religijne, nazwy których pisownia w innych źródłach jest inna, odmiennych transliteracji, itd.
 
-#### Name variant (400 $a)
+#### Alternatywna nazwa osoby (400 $a)
 
-Enter the name variant. For names originally written using non-Latin scripts, enter the form in the non-Latin script in this field. Transliterations using other translation tables can also be entered here.
+Wprowadź alternatywną nazwę. W przypadku nazw pisanych pierwotnie przy użyciu alfabetu innych niż łaciński, nazwę należy wpisać w transliteracji łacińskiej. Tu można również wprowadzić transliteracje przy użyciu innych tabel tłumaczeń.
 
-#### Life dates (400 $d)
+#### Rok urodzenia i śmierci (400 $d)
 
-Do not enter anything in this field.  This field may be filled out automatically if names are imported from VIAF. Any variants in life dates should be entered in the field **Source data found (670)**.
+To pole należy pozostawić puste.  Pole to może być wypełnione automatycznie, jeśli nazwy są importowane z VIAF. Wszelkie warianty dotyczące lat życia powiny być podane w polu **Odnalezione źródło danych (670)**.
 
-#### Type of name variant (400 $j)
+#### Typ alternatywnej nazwy osoby (400 $j)
 
-Select the type of name variant from the following list. The codes in square brackets refer to internal RISM codes.
+Wybierz typ wariantu nazwy z poniższej listy. Kody w nawiasach kwadratowych odnoszą się do wewnętrznego kodowania w RISM.
 
-- **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets.
-- **Baptismal name** [tn]
-- **Birth name** [gg]
-- **Initials** [in]
-- **Married name** [ee]
-- **Nickname** [bn]
-- **Pseudonym** [da]
-- **Religious name** [do]
-- **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_
-- **Uncategorized** [xx]
+- **Alternatywna pisownia** [z]: Dotyczy alternatywnych pisowni, transliteracji lub nazw używajacych niełacińskiego alfabetu.
+- **Imię chrzcielne** [tn]
+- **Nazwisko rodowe** [gg]
+- **Inicjały** [in]
+- **Nazwisko po ślubie** [ee]
+- **Przezwisko** [bn]
+- **Pseudonim** [da]
+- **Imię religijne** [do]
+- **Tłumaczenie** [ub]: Na przykład, _Ackermann, Alexander_ jest przetłumaczonym wariantem _Agricola, Alexander_
+- **Nieskategoryzowany** [xx]
 
-The default value **xx** (uncategorized) appears in older records.
+Domyślna wartość **xx** (niekategoryzowany) pojawia się w starszych rekordach.

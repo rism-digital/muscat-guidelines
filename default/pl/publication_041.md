@@ -1,9 +1,9 @@
-### Language code (041)
+### Kod języka (041)
 
-The field **Language code** is for the language of the item.
+Pole **Kod języka** dotyczy języka używanego w źródle.
 
-#### Language code (041 $a)
+#### Język tekstu (041 $a)
 
-Enter the language(s) of the item.
+Wprowadź język lub języki użyte w źródle.
 
-The codes used are the three-letter ISO 639-2 abbreviations found on the [Library of Congress website](http://www.loc.gov/standards/iso639-2/php/code_list.php).
+Stosowane kody to trzyliterowe skróty na podstawie ISO 639-2 znajdujące się w na stronie [Biblioteki Kongresu](http://www.loc.gov/standards/iso639-2/php/code_list.php).

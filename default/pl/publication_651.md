@@ -1,7 +1,7 @@
-### Related place (651)
+### Powiązane miejsce (651)
 
-The field **Related place** is used for geographic names associated with the subject matter of the item.
+Pole **Powiązane miejsce** wykorzystywane jest do nazw geograficznych powiązanych z danym obiektem.
 
-#### Place (651 $a)
+#### Miejsce (651 $a)
 
-Enter the city, region, state, or country. This field is linked with the **Places** authority file through $0. Do not enter the place of publication here.
+Wprowadź nazwę miasta, regionu, stanu lub kraju. Pole powiązane jest z kartoteką haseł wzorcowych **Miejsca** poprzez podpole $0. Nie wpisuj tutaj miejsca publikacji.

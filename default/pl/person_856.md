@@ -1,16 +1,16 @@
-### External resource (856)
+### Zasób zewnętrzny (856)
 
-The field **External resource** is used to link to external resources, such as writing samples.
+Pole **Zasób zewnętrzny** służy do podawania linków do źródeł zewnętrznych, takich jak próbki pisma ręcznego.
 
-#### External resource URL (856 $u)
+#### URL źródła zewnętrznego (856 $u)
 
-Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**. Always use permalinks.
+Wprowadź URL źródła zewnętrznego. Wprowadź tylko jeden adres URL na pole. Każdy adres URL musi zaczynać się od **http** lub **https**. Zawsze używaj permalinków.
 
-#### Note about external resource (856 $z)
+#### Uwaga o zasobie zewnętrznym (856 $z)
 
-Briefly describe what the URL points to in your cataloging language.
+Krótko opisz, do czego odnosi się adres URL w języku katalogowania.
 
-##### Example
+##### Przykład
 
-- **External resource URL (856 $u)**: [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)
-- **Note about external resource (856 $z)** Schriftprobe [D-B Am.B 65 / p. 1, 26]
+- **URL zasobu zewnętrznego (856 $u)**: [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)
+- **Uwaga o zasobie zewnętrznym (856 $z)** Schriftprobe [D-B Am.B 65 / str. 1, 26]

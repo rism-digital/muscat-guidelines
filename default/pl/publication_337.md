@@ -1,19 +1,19 @@
-### Media type (337)
+### Rodzaj nośnika (337)
 
-**Required field.**
+**Pole wymagane.**
 
-The field **Media type** is for the kind of medium represented by the item.
+Pole **Rodzaj nośnika** służy do określenia typu medium reprezentowanego przez źródło.
 
-#### Media type (337 $a)
+#### Rodzaj nośnika (337 $a)
 
-Select the type of media from the following list:
+Wybrać z poniższej listy rodzaj nośnika:
 
 - **CD-ROM**
 - **E-book**
-- **Electronic resource**: Such as a database, website, or online catalog of works.
-- **Manuscript**: A handwritten document.
-- **Media combination**
-- **Microfiche**
-- **Microfilm**
-- **Printed medium**
-- **Printed music**  
+- **Zasób elektroniczny**: np. baza danych, strona internetowa lub internetowy katalog utworów
+- **Rękopis**: dokument rękopiśmienny
+- **Kombinacja nośników**
+- **Mikrofisza**
+- **Mikrofilm**
+- **Nośnik drukowany**
+- **Druk muzyczny**  
