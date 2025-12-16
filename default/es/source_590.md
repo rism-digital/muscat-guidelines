@@ -1,10 +1,10 @@
 ### Particellas conservadas y extensión de las mismas (590)
 
+**Requerido si la fuente contiene particellas.**
+
 The field **Parts held and extent** indicates which parts are held and their foliation/pagination.
 
 #### Particellas conservadas (590 $a)
-
-**Requerido si la fuente contiene particellas.**
 
 Registre las particellas conservadas siguiendo la lista de abreviaturas de instrumentos de RISM y su cantidad. If you wish, you may use the designations that appear on the source if they vary from the standardized RISM abbreviation.
 
