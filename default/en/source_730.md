@@ -30,7 +30,7 @@ Types of possible alternatives are:
 
 In the case of variation sets, enter the name of theme in this field and select **Variations** in the field **Arrangement statement (730 $o)**.
 
-In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading (730 $k)**. For inserts, also note the guidelines under for the field **Insertions (787)**.
+In the case of inserts, enter the title of the larger opera or work and select **Inserts** in the field **Subheading (730 $k)**. For inserts, also note the guidelines under for the field **Related source (787)**.
 
 ##### Examples
 

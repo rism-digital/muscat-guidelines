@@ -7,7 +7,7 @@ case of self-published music, enter the name of the person in its natural form, 
 
 #### Institution (710 $a)
 
-Enter the names of all institutions that appear on or are associated with the source. This field is linked to the **Institutions** authority file through $0 and the city (Place) through $c. Names not yet in the authority file may be added.
+Enter the names of all institutions that appear on or are associated with the source. This field is linked to the **Institutions** authority file through $0 and the city (Place) through $c. 
 
 #### Department (710 $b)
 

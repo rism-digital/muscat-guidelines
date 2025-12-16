@@ -52,6 +52,10 @@ supplements to the original; any such additions should be spelled consistently. 
 markings can be added in separate fields. If you are entering multiple incipits for which the title or tempo indication
 is the same, enter it only for the first music incipit.
 
+##### Examples  
+- All|o  
+- [vol. 1 p. 17:] N. 1: Recit. et Aria
+
 **Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
 
 
@@ -106,8 +110,7 @@ square brackets. Among these texts are:
 script. Translations or transliterations are optional and may be added in additional text incipit fields. Add
 translations not on the source in square brackets. You may translate into any of the RISM languages.
 
-**Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file **Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you
-can get information about the exact liturgical context, variant versions, and other matters. If the text incipit is used
+**Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. If the text incipit is used
 as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles
 is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have
 been determined by research.
