@@ -2,10 +2,10 @@
 
 The field **Alternate geographic name** gives various forms of an places's name, including translations.
 
-## Geographic name (451 $a)  
+#### Geographic name (451 $a)  
 Enter alternate forms for the name of the place.   
 
-## Language of name (451 $g)  
+#### Language of name (451 $g)  
 Enter the language in which the place name in 451 $a is expressed.  
 
 _Examples_  
