@@ -8,7 +8,7 @@ The field **Composer/Author** is for the identification of the main person invol
 
 Registre el nombre de la persona responsable de la obra. Puede identificarse con el/la compositor(a) (en el caso de los manuscritos musicales y la música impresa), el/la libretista (en el caso de los libretos), o el/la autor(a) de una obra de teoría musical (en el caso de los tratados).
 
-This field is linked to the **Personal names** authority file through $0 and the life dates are displayed $d. Pueden añadirse nombres que aún no estén en el registro de autoridad. In such cases, check the box "Confirm the insertion of a new value" and add the person's life dates, if known, in the field **Life dates (100 $d)**. The new name, including life dates, will be confirmed and edited by the Editorial Center.
+This field is linked to the **Personal names** authority file through $0 and the life dates are displayed in $d.
 
 If the source has multiple composers, select one to be entered in this field and the rest can be added in **Additional personal name (700)** using the function **Co-composer.**
 
