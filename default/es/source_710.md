@@ -6,7 +6,7 @@ Publishers named after people but acting out the function of publisher (Pleyel, 
 
 #### Institution (710 $a)
 
-Enter the names of all institutions that appear on or are associated with the source. This field is linked to the **Institutions** authority file through $0 and the city (Place) through $c. Pueden añadirse nombres que aún no estén registrados en el archivo de autoridad.
+Enter the names of all institutions that appear on or are associated with the source. This field is linked to the **Institutions** authority file through $0 and the city (Place) through $c.
 
 #### Department (710 $b)
 
