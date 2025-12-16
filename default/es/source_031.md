@@ -43,6 +43,10 @@ The three-figure incipit number must be unique within a record. Number incipits 
 
 Registre el título del movimiento y el tempo –o indicaciones similares–, si aparecen especificados, tal como figuran en la fuente. Use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Use corchetes para indicar agregados al original; los agregados deben tener una ortografía consistente. Pueden añadirse múltiples títulos o marcas de tempo adicionales en campos separados. Si registra varios íncipits para los cuales el título y la indicación de tempo coinciden, ingrese el dato solo en el primer íncipit.
 
+##### Examples
+- All|o
+- [vol. 1 p. 17:] N. 1: Recit. et Aria
+
 **Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
 
 
@@ -84,7 +88,7 @@ En este campo también pueden registrarse textos relacionados que no aparezcan e
 
 **Non-Latin scripts:** If your source has a text incipit that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Text incipit** using the original script. Las traducciones o transliteraciones son opcionales y pueden añadirse en campos de íncipit literario adicionales. Add translations not on the source in square brackets. Se puede traducir a cualquiera de los idiomas RISM.
 
-**Reglas especiales para textos en latín** : ingrese los textos en latín, tanto sacros como seculares. The field is linked to the file **Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. Si el íncipit literario se usa además como Título Uniforme, asegúrese de que la ortografía sea idéntica; no obstante, recuerde que en los títulos uniformes el texto en latín se ingresa sólo hasta la coma. Use corchetes para registrar textos en latín que no aparecen en la fuente pero han sido determinados por vía de la investigación.
+**Reglas especiales para textos en latín** : ingrese los textos en latín, tanto sacros como seculares. Si el íncipit literario se usa además como Título Uniforme, asegúrese de que la ortografía sea idéntica; no obstante, recuerde que en los títulos uniformes el texto en latín se ingresa sólo hasta la coma. Use corchetes para registrar textos en latín que no aparecen en la fuente pero han sido determinados por vía de la investigación.
 
 Los textos normalizados en latín suelen corresponderse con las versiones del _Liber usualis_. En RISM, estos textos incluyen generalmente una coma. Por ejemplo, si busca el texto “Et in terra pax”, encontrará alrededor de una docena de resultados, pero sólo uno incluye una coma, y verá que esta fuente ha sido usada 4800 veces en la base de datos. Se trata del registro que deseamos usar como íncipit –asumiendo que el mismo se corresponda con su fuente–. If your text incipit is only "Et in terra pax" then this means your source (1) contains only these words or (2) continues in a way that is different from the _Liber usualis_. Por supuesto, cabe la posibilidad de que esto suceda. Sin embargo, en la mayoría de los casos se optará por la versión con la coma.
 
