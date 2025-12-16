@@ -34,7 +34,7 @@ Beachten Sie, dass in einigen Fällen, wenn Personen in Quellen genannt werden, 
 - **Associated name - Zugehöriger Name [asn]**: Eine Person, die in irgendeiner Weise mit der Quelle in Verbindung steht, deren genaue Funktion jedoch unklar ist.
 - **Autor - Autor [aut]**: Person, die in erster Linie für die inhaltlichen Texte - wie in einem Buch - verantwortlich ist.
 - **Censor - Zensor [cns]**
-- **Choreographer - Choreograph**
+- **Choreographer [chr]**
 - **Co-composer - Mitkomponist [ctb]**: Komponisten, die ebenfalls musikalisch zu dem Stück beigetragen haben.
 - **Composer cross-reference - Komponistenquerverweis [att]**: Verwenden Sie diesen Begriff, um einen Komponisten zu benennen, der in irgendeiner Weise mit dem Stück in Verbindung steht oder stand. Beispiele hierfür sind Komponisten, denen das Stück fälschlicherweise zugeschrieben wird oder wurde, oder Komponisten, deren Melodie für Variationen verwendet wird.
 - **Conceptor - Konzeptor [ccp]**: Die Person, die für die ursprüngliche Idee, auf der ein Werk basiert, verantwortlich ist, z. B. der Autor eines Buches oder Theaterstücks, auf dem eine Oper basiert.
