@@ -4,7 +4,7 @@ Das Feld **Aufführungsort** wird verwendet, wenn die betreffende Quelle einer b
 
 #### Aufführungsort (651 $a)
 
-Geben Sie in diesem Feld den Aufführungsort in standardisierter Form ein. Dieses Feld ist über $0 mit der Normdatei **Orte** verknüpft. Bei Neueintragungen von Orten in den Normdaten ist zu berücksichtigen, dass der Ortsname nach Möglichkeit in der jeweiligen Landessprache erfolgt.
+Geben Sie in diesem Feld den Aufführungsort in standardisierter Form ein. Dieses Feld ist über $0 mit der Normdatei **Orte** verknüpft.
 
 Bei Musikdrucken werden hier nur Angaben gemacht, wenn es sich um einen Gelegenheitsdruck (d. h. für einen bestimmten Anlass geschriebene Musik) handelt. Angaben zu Aufführungen, die sich auf ein bestimmtes Exemplar des Drucks beziehen, werden im Exemplareintrag gemacht.
 
@@ -13,4 +13,4 @@ Bei Musikdrucken werden hier nur Angaben gemacht, wenn es sich um einen Gelegenh
 - Praha
 - Milano
 
-**Altdaten**: Ältere RISM-Katalogisierungsprogramme hatten zwei Felder für den Ort einer Aufführung, ein standardisiertes und eins für wie auf der Quelle angegeben. 
+**Altdaten**: Ältere RISM-Katalogisierungsprogramme hatten zwei Felder für den Ort einer Aufführung, ein standardisiertes und eins für wie auf der Quelle angegeben.
