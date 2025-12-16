@@ -4,7 +4,7 @@ The field **Location of performance** is used if the source in hand can be assoc
 
 #### Lugar de interpretación (651 $a)
 
-Enter the location of performance(s) in this field in a standardized form. It is linked to the **Places** index through $0. When entering new geographical names that are not yet in the index, enter them in the local language.
+Enter the location of performance(s) in this field in a standardized form. It is linked to the **Places** index through $0.
 
 For printed music, this field should be filled out in the core bibliographic record only in the case of occasional prints (that is, music written for a specific occasion). Locations specific to a certain copy of a printed edition should be entered in the holdings information.
 
@@ -13,4 +13,4 @@ For printed music, this field should be filled out in the core bibliographic rec
 - Praha
 - Milano
 
-**Obsolete procedures**: Older RISM cataloging programs had two fields for the location of a performance, one standardized and one as given on the item. 
+**Obsolete procedures**: Older RISM cataloging programs had two fields for the location of a performance, one standardized and one as given on the item.
