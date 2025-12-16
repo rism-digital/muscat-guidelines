@@ -1,6 +1,6 @@
 ### Item part of (760)
 
-The field **Item part of** is used to link the item to a larger unit, such as linking an article to a periodical, or a chapter to a yearbook, or a book to a series. The larger unit must be in Muscat before it can be linked.
+The field **Item part of** is used to link the item to a larger unit, such as linking an article to a periodical, or a chapter to a yearbook, or a book to a series.
 
 #### Título del periódico, libro o serie (760 $t)
 
@@ -8,7 +8,7 @@ Escriba el título del periódico, libro o serie. This field is linked to the **
 
 #### Título del periódico, libro o serie (760 $t)
 
-Introduzca, según corresponda, los números de volumen, número, año y/o página del artículo. Regístrelo de un modo que resulte apropiado al estilo de la revista.
+Introduzca, según corresponda, los números de volumen, número, año y/o página del artículo. Enter in a form appropriate to the style of the journal but use abbreviations in English or German.
 
 ##### Examples
 
