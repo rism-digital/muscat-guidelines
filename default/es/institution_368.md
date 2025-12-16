@@ -18,6 +18,7 @@ Enter the type of institution. Seleccione uno de los siguientes tipos:
 - Fabricante de papel
 - Librero
 - Museo
+- Private collection
 - Editorial
 - Instituto de investigación
 
