@@ -1,10 +1,10 @@
 ### Descripción física (300)
 
-**Campo requerido**
-
 The field **Physical description** provides a clear declaration of the material preserved by stating the format (such as score or parts) and how many there are. If you have parts, this field is used in conjunction with the field **Parts held and extent (590)**, in which the specific parts are named.
 
 #### Formato, extensión (300 $a)
+
+**Campo requerido**
 
 For all types of formats except parts, the field **Format, extent (300 $a)** is built up of three components: **Number of items, Format, Extent.**
 
@@ -54,7 +54,7 @@ Use one of the following English terms, in the singular or plural as appropriate
 - **various**: Use for collection parent records if the collection contains different kinds of formats (such as a full score and a keyboard score).
 - **other**: Use if none of the above apply. In such cases, include an explanation in the field **General note (500)**. No se requiere ni la cantidad de ítems ni extensión.
 
-For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590)**.
+For conductor part(s) (sometimes known as "directorium"), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590)**.
 
 **text document**: Use for librettos, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
 
