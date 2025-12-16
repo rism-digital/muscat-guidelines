@@ -770,7 +770,7 @@ fl
 - PL:
 - PT:
 
-.picc
+fl.picc
 
 - Link: [Link to MIMO](http://www.mimo-international.com/MIMO/doc/IFD/OAI_RMAH_123239_NL)     [Link to Wikipedia](https://en.wikipedia.org/wiki/Piccolo)
 - EN: piccolo, ottavino
@@ -1672,7 +1672,13 @@ trombino
 - FR: cithare
 - IT: zither
 
-### Percussion, other
+### Percussion and other  
+
+#### accordion   
+- EN: accordion  
+- DE: Akkordeon, Ziehharmonika  
+- FR: accordéon  
+- IT: fisarmonica   
 
 #### batt
 
@@ -2024,9 +2030,9 @@ trombino
 - FR: xylophone
 - IT: xilofono
 
-# Keyboard instruments
+# Keyboard instruments  
 
-celesta
+#### celesta
 
 - Link: [https://mimo-international.com/MIMO/doc/IFD/OAI\_MDMB\_309605](https://mimo-international.com/MIMO/doc/IFD/OAI_MDMB_309605)
 - Link: [https://en.wikipedia.org/wiki/Celesta](https://en.wikipedia.org/wiki/Celesta)

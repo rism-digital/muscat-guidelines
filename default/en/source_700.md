@@ -41,7 +41,7 @@ publishers, or papermakers. In such cases, enter them as institutions.
 - **Associated name [asn]**: A person who has some connection with the source, but the exact function is unclear.
 - **Author [aut]**: The person responsible for creating a work that is primarily textual in content, such as a book.
 - **Censor [cns]**
-- **Choreographer**
+- **Choreographer [chr]**  
 - **Co-composer [ctb]**: Use for composers who also contributed musically to the piece.
 - **Composer cross-reference [att]**: Use to name a composer who is or was associated with the piece in some way. Examples include a composer to whom the piece is or was incorrectly attributed, or a composer whose melody is used in a set of variations.
 - **Conceptor [ccp]**: The person responsible for the original idea on which a work is based, such as the author of a book or play that an opera was based on.

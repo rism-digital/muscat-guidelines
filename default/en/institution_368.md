@@ -18,6 +18,7 @@ Enter the type of institution. Select from the following types:
 - Papermaker
 - Performer
 - Printer
+- Private collection
 - Publisher
 - Research institute
 

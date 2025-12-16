@@ -11,4 +11,4 @@ Always link to the next highest level.
 Click the appropriate button and search for the RISM ID number of the parent record or composite volume.  
 
 _MARC export note:_
-Upon export, $a is generated which contains normalized data from the 100 $a and 240 $a of the linked record.  
+Upon export, $a is generated which contains normalized data from the 100 $a of the linked record, and $t is generated which contains normalized data from the 240 $a and $m of the linked record.  

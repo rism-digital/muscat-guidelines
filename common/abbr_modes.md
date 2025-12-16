@@ -92,7 +92,7 @@
 
 12t
 
-- EN: 2th tone (Hypoionian)
+- EN: 12th tone (Hypoionian)
 
 12tt
 

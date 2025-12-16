@@ -17,4 +17,4 @@ important for works whose genre is not named in the standardized title. Multiple
 up to the cataloger to determine the appropriate order. Some kinds of pieces are best served with more than one subject
 heading, such as "Contrafacta" or "Inserts."
 
-Note that for certain types of genres used as standardized titles, a corresponding subject heading (650) is used. Consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
+Note that for certain types of genres used as standardized titles, a corresponding subject heading (650) is used. Consult the appendix **Standardized title – Subject heading** for assistance.

@@ -104,7 +104,7 @@ works.
 
 - A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
  → BelH  
-- Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
+- Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cuxhaven: W. Knape, 1971).  
  → KnaA  
 - Margit L. McCorkle and Akio Mayeda, _Robert Schumann: Thematisch-bibliographisches Werkverzeichnis_ (Mainz: Schott, 2003).  
  → McCS  
