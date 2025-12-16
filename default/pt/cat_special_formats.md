@@ -4,7 +4,7 @@ This section describes how to catalog special types of sources: collections, com
 
 ### Collections
 
-In RISM, the word _collection_ refers to any item (whether manuscript or printed) that contains two or more pieces. This includes both intentional collections or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
+In RISM, the word _collection_ refers to any item (whether manuscript or printed) that contains two or more pieces. This includes both collective manuscripts or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
 
 Collections in RISM have a parent/child hierarchy, meaning there is one main entry (parent record) that describes the collection as a whole, and individual entries (child or analytical records) that describe each piece therein separately.
 
@@ -65,7 +65,7 @@ Take note of the following fields when cataloging contrafacta. RISM ID no. 30023
  - Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte.
 - **Language of text (041)**  
   Fill out both of these fields:  
-  Language of text (041 $a): The current text of the source in hand  
+  Language of text (041 $a): The text of the source in hand  
   Language of original text (041 $h): Language of the original piece
  - Language of text: Latin
  - Language of original text: Italian
@@ -180,7 +180,7 @@ If it is not feasible to create an adequate record for the printed material, pro
 
 ### Music in periodicals
 
-There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Periodical or series (490)**.
+Catalog each issue of the periodical separately. There are two ways to catalog periodicals that contain music: as a collection or as a single work. In either case, the title of the periodical, with the issue number and year, is entered in the field **Periodical or series (490)**.
 
 #### Collections
 **Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Holdings are attached to the collection level. Individual entries are created for each piece in the issue.
