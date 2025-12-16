@@ -82,4 +82,6 @@ For incomplete sources or if the number is unknown, an **X** can be entered inst
 - Only 1 clarinet part:  
   cl  
   1
-- French horns present but it is not known how many: cor X  
+- French horns present but it is not known how many:  
+  cor  
+  X   
