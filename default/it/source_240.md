@@ -234,9 +234,6 @@ String quintet (with double bass)
 Piano trio
 - vl, vlc, pf
 
-Wind quintet
-- fl, ob, cl, cor, fag
-
 Flute quartet (all flutes)
 - fl (4)
 
