@@ -13,17 +13,17 @@ The middle sections (5-9) contain the guidelines for RISM's authority files. The
 
 Visit [RISM's Muscat page](https://rism.info/community/muscat.html) for more information about Muscat.
 
-The guidelines are maintained by the RISM Editorial Center in Frankfurt, Germany.
+The guidelines are maintained by the RISM Editorial Center in Frankfurt, Germany. English is the main language of the guidelines and other languages are considered translations.
  - English: [Jennifer Ward](mailto:jennifer.ward@rism.info)
  - German: [Martina Falletta](mailto:martina.falletta@rism.info)
 
-Should anything be unclear, do not hesitate to contact us. Currently only the English guidelines are available on this website and futher translations will follow in due time.
+Should anything be unclear, do not hesitate to contact us. Currently only the English and German guidelines are available on this website and futher translations will follow in due time.
 
 We would also like to extend our gratitude to our translators, past and present, whose efforts make Muscat more easily accessible to our colleagues worldwide.
- - Catalan: Ferran Jorba
+ - Catalan: Ferran Jorba, Gerard Puch
  - Italian: Claudio Bacciagaluppi, Rodolfo Zitellini
  - French: Claudio Bacciagaluppi, Rodolfo Zitellini, Laurent Pugin
  - Korean: JeongYoun Chang
  - Polish: Marcelina Chojecka, Katarzyna Diehl
- - Portuguese: André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, Silvia Sequeira, Marcos Virmond
+ - Portuguese: Mary Ângela Biason, André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, Silvia Sequeira, Marcos Virmond
  - Spanish: Rodrigo Balaguer, Antonio Ezquerro, John Lazos, Lucas Reccitelli, Oliver Schöner, Luciana Giron Sheridan  
