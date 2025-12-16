@@ -20,7 +20,7 @@ Geben Sie genauere Informationen zum Standort an, insbesondere bei großen Bibli
 
 #### Bestandsname (852 $z)
 
-Dieses Feld kann verwendet werden, um den Namen einer bestimmten Sammlung anzugeben, z. B. einer Sammlung, eines Bestands, einer Schenkung, eines Nachlasses, eines Archivs usw., zu der die Quelle gehört.
+This field is used to indicate the name of a special collection, such as a collection, bequest, gift, papers, archive, _Nachlass_, or similar, that the source belongs to.
 
 Geben Sie die Bezeichnung in der Landessprache ein. In eckigen Klammern kann eine Übersetzung in einer der Katalogisierungssprachen gegeben werden.
 
@@ -46,9 +46,9 @@ Fehlende Stimmen oder Bände sind in das Feld **Bemerkungen (500)** einzutragen.
 
 **Pflichtfeld**
 
-In dieses Feld wird die Signatur eingetragen. Die Signatur ist möglichst genau wiederzugeben (betrifft Leer- und Interpunktionszeichen). Innerhalb eines Bestandes sollen die Signaturen formal einheitlich geschrieben werden. Hochstellungen werden mit \| (Gerader Strich) direkt vor dem entsprechenden Zeichen angegeben. Wenn keine Signatur angegeben ist, erfolgt die Eingabe **[without shelfmark]**. Wenn das Vorhandensein einer Signatur unbekannt ist, kann der englische Ausdruck **[no indication]** verwendet werden. Weitere Signaturen werden im Feld **Weitere Signatur (591)** eingetragen.
+In dieses Feld wird die Signatur eingetragen. Die Signatur ist möglichst genau wiederzugeben (betrifft Leer- und Interpunktionszeichen). Innerhalb eines Bestandes sollen die Signaturen formal einheitlich geschrieben werden. Hochstellungen werden mit \| (Gerader Strich) direkt vor dem entsprechenden Zeichen angegeben. If no shelfmark is present, enter the English phrase **[without shelfmark]** in square brackets. Wenn das Vorhandensein einer Signatur unbekannt ist, kann der englische Ausdruck **[no indication]** verwendet werden. Weitere Signaturen werden im Feld **Weitere Signatur (591)** eingetragen.
 
-In Datensätzen für Musikdrucke wurde die Phrase **[no indication]** automatisch von der Zentralredaktion hinzugefügt, wenn keine Signatur vorhanden war. RISM-Mitarbeiter, die ihre Bestände überarbeiten, werden gebeten, **[no indication]** in die aktuelle Signatur zu ändern.
+In records for printed music, the phrase **[no indication]** has been automatically added by the Editorial Center in cases where a shelfmark is not available. RISM-Mitarbeiter, die ihre Bestände überarbeiten, werden gebeten, **[no indication]** in die aktuelle Signatur zu ändern.
 
 ##### Beispiele
 
