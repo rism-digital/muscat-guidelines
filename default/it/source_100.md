@@ -8,11 +8,11 @@ The field **Composer/Author** is for the identification of the main person invol
 
 Enter the name of the person responsible for the work. This may be the composer (for music manuscripts and printed music), librettist (for librettos), or author of a work of music theory (for treatises).
 
-This field is linked to the **Personal names** authority file through $0 and the life dates are displayed in $d.
-
 If the source has multiple composers, select one to be entered in this field and the rest can be added in **Additional personal name (700)** using the function **Co-composer.**
 
 If the source is anonymous but you can determine the composer, enter the composer's name and select the appropriate attribution qualifier. If you cannot determine the composer, enter the name **Anonymus** but omit an attribution qualifier. The name **Compilations** is entered for pasticcios or compilations.
+
+This field is linked to the **Personal names** authority file through $0 and the life dates are displayed in $d.
 
 #### Attribution qualifier (100 $j)
 
