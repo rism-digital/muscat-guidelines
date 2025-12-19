@@ -2,8 +2,8 @@
 
 (Guidelines in progress.)
 
-## Authority agency (370 $4)
+#### Authority agency (370 $4)
 
-## Powiązane państwo (370 $c)
+#### Powiązane państwo (370 $c)
 
-## Inne powiązane miejsce (370 $f)
+#### Inne powiązane miejsce (370 $f)
