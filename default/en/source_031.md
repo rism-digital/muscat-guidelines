@@ -9,8 +9,8 @@ include an explanatory note. You can attach an image of the incipit from the sou
 
 Keep in mind that incipit transcription is primarily used for searching and identification, not for replicating the visual appearance of the score. The Plaine & Easie Code is an intentional simplification of Western notation and not all details can (or should) be encoded.
 
-For assistance with transcribing mensural notation, see "Basic Mensural Notation Reference" by Ted
-Dumitrescu ([http://www.cmme.org/misc/refsheet.pdf](http://www.cmme.org/misc/refsheet.pdf))).
+For assistance with transcribing mensural notation, see []"Basic Mensural Notation Reference" by Ted
+Dumitrescu](http://www.cmme.org/misc/refsheet.pdf).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
@@ -54,7 +54,7 @@ is the same, enter it only for the first music incipit.
 
 ##### Examples  
 - All|o  
-- [vol. 1 p. 17:] N. 1: Recit. et Aria
+- [vol. 1 p. 17:] N. 1: Recit. et Aria  
 
 **Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
 
