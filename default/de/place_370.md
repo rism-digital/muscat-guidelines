@@ -2,8 +2,8 @@
 
 (Richtlinien in Vorbereitung.)
 
-## Authority agency (370 $4)
+#### Authority agency (370 $4)
 
-## Assoziiertes Land (370 $c)
+#### Assoziiertes Land (370 $c)
 
-## Anderer zugehöriger Ort (370 $f)
+#### Anderer zugehöriger Ort (370 $f)
