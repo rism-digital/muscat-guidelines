@@ -1,10 +1,10 @@
 ### Einordnungstitel – Schlagworte
 
-As is stated in the guidelines for **Standardized title (240)**,  the order of preference is when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  This section expands on the guidelines for the third type of standardized title, genres, and explains its relationship to subject headings.
+As is stated in the guidelines for **Standardized title (240)**,  the order of preference when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  This section expands on the guidelines for the third type of standardized title, genres, and explains its relationship to subject headings.
 
 Genres are used as standardized titles predominantly in instrumental music and in titles for collections. In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_ or _Sonatas_.
 
-In anderen Fällen wird jedoch ein entsprechendes, nicht identisches Schlagwort verwendet. A variant subject heading is used especially in the following situations:
+In anderen Fällen wird jedoch ein entsprechendes, nicht identisches Schlagwort verwendet. A corresponding subject heading is used especially in the following situations:
 
 - Wenn ein und dasselbe Schlagwort sowohl für Vokal- als auch für Instrumentalmusik verwendet werden kann, wird nach der Gattung eine Abkürzung in Klammern hinzugefügt: **(voc.)** bzw. **(inst.)**.
 - Der Hauptbegriff kann um Angaben wie **(dances)** oder **(stage)** in Klammern ergänzt werden.
