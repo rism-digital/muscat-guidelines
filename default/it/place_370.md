@@ -2,8 +2,8 @@
 
 (Guidelines in progress.)
 
-## Authority agency (370 $4)
+#### Authority agency (370 $4)
 
-## Associated country (370 $c)
+#### Associated country (370 $c)
 
-## Other associated place (370 $f)
+#### Other associated place (370 $f)
