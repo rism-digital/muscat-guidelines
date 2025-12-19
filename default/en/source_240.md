@@ -221,23 +221,23 @@ Omit the scoring summary if the performing forces are unknown or uncertain.
 
 Use the following standard instrumentation when applicable.
 
-String quartet
+String quartet  
 - vl (2), vla, vlc
 
-String quintet (2 violas)
+String quintet (2 violas)  
 - vl (2), vla (2), vlc
 
-String quintet (2 cellos)
+String quintet (2 cellos)  
 - vl (2), vla, vlc (2)
 
-String quintet (with double bass)
+String quintet (with double bass)  
 - vl (2), vla, vlc, cb
 
-Piano trio
+Piano trio  
 - vl, vlc, pf
 
-Flute quartet (all flutes)
+Flute quartet (all flutes)  
 - fl (4)
 
-Flute quartet (flute with strings)
+Flute quartet (flute with strings)  
 - fl, vl, vla, vlc

@@ -12,6 +12,6 @@ For printed music, this field should be filled out in the core bibliographic rec
 ##### Examples
 
 - Praha
-- Milano
+- Milano  
 
 **Obsolete procedures**: Older RISM cataloging programs had two fields for the location of a performance, one standardized and one as given on the item.
