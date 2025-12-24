@@ -8,11 +8,11 @@ Das Feld **Komponist/Autor** dient der Identifizierung der Hauptperson, die im w
 
 Geben Sie den Namen der Person an, die für das Werk verantwortlich ist. Dies kann der Komponist (für Musikhandschriften und -drucke), der Librettist (für Libretti) oder der Autor eines musiktheoretischen Werks (für Abhandlungen) sein.
 
-Das Feld ist über $0 mit der Normdatei **Personen** verknüpft. Lebensdaten werden in $d angezeigt. Namen, die noch nicht in der Normdatei enthalten sind, können hinzugefügt werden. In solchen Fällen aktivieren Sie das Kontrollkästchen „Confirm the insertion of a new value“ und geben Sie, sofern bekannt, die Lebensdaten der Person in das Feld **Geburts- und Todesdaten (100 $d)** ein. Der neue Eintrag wird dann von der Zentralredaktion bestätigt und bearbeitet.
-
 Wenn die Quelle mehrere Komponisten hat, wählen Sie einen aus, der in dieses Feld eingegeben werden soll, und die übrigen können unter Verwendung der Funktion **Mitkomponist** in **Nebeneintragung Personen (700)** ergänzt werden.
 
 Wenn die Quelle anonym ist, Sie aber den Komponisten ermitteln können, geben Sie den Namen des Komponisten ein und wählen Sie den entsprechenden Zuschreibungsindikator aus. Wenn Sie den Komponisten nicht bestimmen können, geben Sie den Namen **Anonymus** ein, lassen jedoch die Zuschreibungsangabe weg. Der Name **Compilations** wird für Pasticcios oder Zusammenstellungen eingegeben.
+
+This field is linked to the **Personal names** authority file through $0 and the life dates are displayed in $d.
 
 #### Zuschreibungsvermerk (100 $j)
 

@@ -115,7 +115,9 @@ Wenn Ihre Einrichtung mehrere Exemplare derselben gedruckten Ausgabe besitzt, er
 
 ### Mikrofilmkopien
 
-Mikrofilmkopien von Musikdrucken werden nicht als separate Exemplare hinzugefügt, sondern mit den Bestandsangaben der Originalkopie beschrieben, auf der der Mikrofilm basiert. Benachrichtigen Sie die Zentralredaktion, wenn Sie Ihre Mikrofilmkopie erwähnen möchten, aber den Bestandsdatensatz nicht bearbeiten können. Sofern verfügbar, können Links zu einer Beschreibung des Mikrofilms im lokalen Katalog Ihrer Einrichtung hinzugefügt werden. Wenn der Mikrofilm digital verfügbar ist, kann er als Link zu einer externen Ressource hinzugefügt werden (856).
+If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. Instead, it is described along with the holdings information of the original copy on which the microfilm is based. Benachrichtigen Sie die Zentralredaktion, wenn Sie Ihre Mikrofilmkopie erwähnen möchten, aber den Bestandsdatensatz nicht bearbeiten können. Sofern verfügbar, können Links zu einer Beschreibung des Mikrofilms im lokalen Katalog Ihrer Einrichtung hinzugefügt werden. If the microfilm is available digitally, it can be added as a link to an external resource (field 856).
+
+If your institution owns a microfilm of a printed edition that is otherwise no longer extant in its original physical form, catalog it as a printed edition and list your institution as the holding institution. Indicate in the holdings information that your copy is a microfilm.
 
 #### Beispiel
 - RISM ID no. 990052954, Exemplar in B-Bc:  
@@ -161,7 +163,7 @@ In den **Exemplarinformationen** gibt es in der Regel Hinweise darauf, dass nur 
 - D-F Mus. pr. Q 55/349 [livre 1]
 - CH-Bu [2., 3. Buch]
 
-Beim Splitten von Datensätzen wird die RISM-Seriennummer auf alle neu erstellten Datensätze übertragen.
+In cases of record splits, the RISM series number is carried over to all new records in the field 510.
 
 ##### Datensätze zusammenführen
 

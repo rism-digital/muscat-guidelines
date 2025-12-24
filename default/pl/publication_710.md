@@ -11,6 +11,10 @@ Enter the name of the institution. Do not enter the names of publishers in this 
 - Sing-Akademie zu Berlin
 - Historische Sektion der Bayerischen Benediktinerakademie
 
+#### Department (710 $b)
+
+Enter, if necessary, the name of the unit of an institution, such as a department. Enter in the local language.
+
 #### Function (710 $4)
 
 Enter the function of the institution. Select from the following.

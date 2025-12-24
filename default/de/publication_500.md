@@ -4,7 +4,7 @@ Das Feld **Bemerkungen** ist für sonstige Informationen vorgesehen.
 
 #### Bemerkungen (500 $a)
 
-Geben Sie bitte alle Anmerkungen zu dem Titel ein, insbesondere solche, die sich darauf beziehen, inwiefern er für Musikquellen relevant ist (sofern dies nicht bereits aus dem Titel ersichtlich ist).
+Geben Sie bitte alle Anmerkungen zu dem Titel ein, insbesondere solche, die sich darauf beziehen, inwiefern er für Musikquellen relevant ist (sofern dies nicht bereits aus dem Titel ersichtlich ist). Enter notes using your cataloging language.
 
 Wenn sich der Eintrag auf eine Institution bezieht, z. B. auf Kataloge von Sammlungen, geben Sie hier das RISM-Bibliothekssigel ein.
 

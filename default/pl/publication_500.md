@@ -4,7 +4,7 @@ Pole **Uwaga ogólna** umożliwia wprowadzanie wszelkiego rodzaju informacji o d
 
 #### Uwaga ogólna (500 $a)
 
-Wprowadzać wszystkie uwagi na temat danej publikacji, szczególnie uwagi informujące o jej znaczeniu dla źródła muzycznego (jeśli nie wynika to z tytułu).
+Wprowadzać wszystkie uwagi na temat danej publikacji, szczególnie uwagi informujące o jej znaczeniu dla źródła muzycznego (jeśli nie wynika to z tytułu). Enter notes using your cataloging language.
 
 Podać sigla, jeżeli dana pozycja dotyczy instytucji, np. katalogi kolekcji.
 

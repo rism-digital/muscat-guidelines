@@ -1,10 +1,10 @@
 ### Material (300)
 
-**Pflichtfeld**
-
 Das Feld **Material** enthält eine eindeutige Beschreibung des erhaltenen Materials unter Angabe des Formats (z. B. Wenn Stimmen vorhanden sind, wird dieses Feld in Verbindung mit dem Feld **Stimmenmaterial (590)** verwendet, um die spezifischen Stimmen zu bezeichnen.
 
 #### Quellenart, Umfang (300 $a)
+
+**Pflichtfeld**
 
 Für alle Materialarten außer Stimmen besteht das Feld **Quellenart, Umfang (300 $a)** aus drei Komponenten: **Anzahl, Quellenart, Umfang.**
 
@@ -54,7 +54,7 @@ Verwenden Sie einen der folgenden englischen Begriffe, im Singular oder Plural.
 - **various**: Verschiedene: Bitte für die übergeordneten Datensätze verwenden, wenn die Sammlung verschiedene Formate enthält (z. B. eine vollständige Partitur und einen Klavierauszug).
 - **other**: Sonstige: Wenn keine der oben erwähnten Kategorien angewandt werden kann. Geben Sie in solchen Fällen eine Anmerkung im Feld **Bemerkungen (500)** ein. Die Anzahl der Elemente oder der Umfang ist nicht erforderlich.
 
-Dirigierstimmen werden als **Stimme** mit der Bezeichnung **conductor part** im Feld **Vorhandene Stimmen (590)** eingetragen.
+For conductor part(s) (sometimes known as "directorium"), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590)**.
 
 Für Klavieruszüge mit Text, verwenden Sie den englischen Zusatz **with text**, z. B. **Tkeyboard score with text**. Für Stimmen mit Text siehe **Stimmenmaterial (590)**.
 

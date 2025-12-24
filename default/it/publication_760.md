@@ -1,6 +1,6 @@
 ### Item part of (760)
 
-The field **Item part of** is used to link the item to a larger unit, such as linking an article to a periodical, or a chapter to a yearbook, or a book to a series. The larger unit must be in Muscat before it can be linked.
+The field **Item part of** is used to link the item to a larger unit, such as linking an article to a periodical, or a chapter to a yearbook, or a book to a series.
 
 #### Title of periodical, book, or series (760 $t)
 
@@ -8,7 +8,7 @@ Enter the title of the periodical, book, or series. This field is linked to the 
 
 #### Volume, year, page (760 $g)
 
-Enter as appropriate the volume, issue, year, and/or page numbers for the item. Enter in a form appropriate to the style of the journal.
+Enter as appropriate the volume, issue, year, and/or page numbers for the item. Enter in a form appropriate to the style of the journal but use abbreviations in English or German.
 
 ##### Examples
 

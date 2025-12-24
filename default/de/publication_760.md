@@ -1,6 +1,6 @@
 ### In (760)
 
-Das Feld **In** wird verwendet, um den Eintrag mit einer übergeorndeten Einheit zu verbinden, z. B. einen Artikel mit einer Zeitschrift, ein Kapitel mit einem Jahrbuch oder ein Buch mit einer Reihe. Die übergeordnete Einheit muss in Muscat vorhanden sein, bevor sie verknüpft werden kann.
+Das Feld **In** wird verwendet, um den Eintrag mit einer übergeorndeten Einheit zu verbinden, z. B. einen Artikel mit einer Zeitschrift, ein Kapitel mit einem Jahrbuch oder ein Buch mit einer Reihe.
 
 #### Titel der Zeitschrift, des Buches oder der Serie (760 $t)
 
@@ -8,7 +8,7 @@ Geben Sie den Titel der Zeitschrift, des Buches oder der Serie ein. Das Feld ist
 
 #### Band, Jahr, Seite (760 $g)
 
-Geben Sie ggf. den Band, das Heft, das Jahr und/oder die Seitenzahl des Artikels an. Geben Sie die Daten in einem Format ein, das dem Stil der Zeitschrift entspricht.
+Geben Sie ggf. den Band, das Heft, das Jahr und/oder die Seitenzahl des Artikels an. Enter in a form appropriate to the style of the journal but use abbreviations in English or German.
 
 ##### Beispiele
 

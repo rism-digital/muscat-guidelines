@@ -5,4 +5,4 @@ The field **Heading** is for the identification of the main person involved as t
 
 Registre el nombre de la persona responsable de la obra.
 
-This field is linked to the **Personal names** authority file through $0 and the life dates are displayed $d.  
+This field is linked to the **Personal names** authority file through $0 and the life dates are displayed in $d.  

@@ -2,7 +2,7 @@
 
 The **Record status** indicates whether the records in Sources are published or unpublished. Only published records are available in the public RISM catalogs and open data. The status can be changed manually. The record status is applied to each record individually, regardless of the publication status of other records it may be linked to (such as in a collection).
 
-The record status only applies to records created for musical sources, not for other areas of Muscat (such as authority files).
+The record status only applies to records created for musical sources. In other areas of Muscat (such as authority files), records are published by default, regardless of record status.
 
 #### Published
 

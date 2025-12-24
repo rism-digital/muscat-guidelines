@@ -10,6 +10,6 @@ Wprowadź w języku angielskim zawód lub funkcję danej osoby. Zawody mogą odn
 - kompozytor
 - ksiądz
 - polityk
-- adresat dedykacji
+- ksiądz
 
 **Przestarzałe procedury**: Niektóre starsze rekordy RISM zawierają „zawód” w polu 550$i , co wskazywało na rodzaj terminu.

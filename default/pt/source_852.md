@@ -20,7 +20,7 @@ Enter more specific location information, in particular for large libraries, if 
 
 #### Provenance (852 $z)
 
-This field can be used to indicate the name of a special collection, such as a collection, bequest, gift, papers, archive, _Nachlass_, or similar, that the source belongs to.
+This field is used to indicate the name of a special collection, such as a collection, bequest, gift, papers, archive, _Nachlass_, or similar, that the source belongs to.
 
 Enter in the local language. You may include a translation in square brackets in your cataloging language.
 
@@ -46,9 +46,9 @@ Missing parts should be entered in the field **General note (500)**.
 
 **Required field.**
 
-Enter the shelfmark (also called call number) in this field. Transcribe as precisely as possible, including spacing and punctuation, but enter shelfmarks as a single line of text without line breaks. Enter shelfmarks consistently within any given library collection. Indicate superscript characters with \| (the vertical pipe). If no shelfmark is present, enter the English phase **[without shelfmark]** in square brackets. The English phrase **[no indication]** can be used if the presence of a shelfmark is unknown. Enter additional shelfmarks in the field **Other shelfmarks (591)**.
+Enter the shelfmark (also called call number) in this field. Transcribe as precisely as possible, including spacing and punctuation, but enter shelfmarks as a single line of text without line breaks. Enter shelfmarks consistently within any given library collection. Indicate superscript characters with \| (the vertical pipe). If no shelfmark is present, enter the English phrase **[without shelfmark]** in square brackets. The English phrase **[no indication]** can be used if the presence of a shelfmark is unknown. Enter additional shelfmarks in the field **Other shelfmarks (591)**.
 
-In records for printed music, the phase **[no indication]** has been automatically added by the Editorial Center in cases where a shelfmark is not available. RISM contributors revising their holdings should change **[no indication]** to the current shelfmark.
+In records for printed music, the phrase **[no indication]** has been automatically added by the Editorial Center in cases where a shelfmark is not available. RISM contributors revising their holdings should change **[no indication]** to the current shelfmark.
 
 ##### Examples
 

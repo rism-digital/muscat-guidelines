@@ -6,7 +6,7 @@ Ist die benötigte Notation mit dem Plain & Easy-Code nicht verfügbar, transkri
 
 Beachten Sie, dass die Incipittranskription in erster Linie zur Suche und Identifizierung dient und nicht dazu, das visuelle Erscheinungsbild der Partitur zu reproduzieren. Der Plaine & Easie-Code ist eine bewusste Vereinfachung der westlichen Notenschrift, und nicht alle Details können (oder sollten) kodiert werden.
 
-Hilfe bei der Transkription von Mensuralnotation finden Sie in „Basic Mensural Notation Reference“ von Ted Dumitrescu ([http://www.cmme.org/misc/refsheet.pdf](http://www.cmme.org/misc/refsheet.pdf))).
+For assistance with transcribing mensural notation, see ["Basic Mensural Notation Reference" by Ted Dumitrescu](http://www.cmme.org/misc/refsheet.pdf).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
@@ -42,6 +42,10 @@ Die dreistellige Incipitnummer muss innerhalb eines Datensatzes eindeutig sein. 
 #### Satztitel, Tempo (031 $d)
 
 Der Satztitel, das Tempo oder ähnliche Angaben werdn in originaler Schreibweise wiedergegeben. Zeilenumbrüche werden durch den geraden Strich **\|** mit einem Leerzeichen davor und danach gekennzeichnet. Ergänzungen zum originalen Zitat stehen immer in eckigen Klammern; diese sollten einheitlich geschrieben werden. Mehrere Titel oder zusätzliche Tempoangaben können in separaten Feldern hinzugefügt werden. Bleibt die Angabe innerhalb eines Satzes gleich, wird der Titel bzw. das Tempo nur im ersten Incipit angegeben.
+
+##### Beispiele
+- All|o
+- [vol. 1 p. 17:] N. 1: Recit. et Aria
 
 **Altdaten**: Ältere RISM-Richtlinien erlaubten die Formulierung "Without tempo", um anzuzeigen, dass ein Satz mehrere Tempoangaben hat, von denen eine oder mehrere nicht bekannt sind. Mehrere Tempobezeichnungen wurden nacheinander, durch Semikolon getrennt, eingegeben.
 
@@ -84,7 +88,7 @@ Zusätzlich ermittelte Texte, die nicht in der Quelle stehen, können hier angeg
 
 **Nicht-lateinische Schriften:** Wenn Ihre Quelle ein Textincipit enthält, das nicht-lateinische Buchstaben oder Zeichen verwendet (kyrillisches/griechisches/hebräisches/koreanisches Alphabet, chinesische Schriftzeichen usw.), geben Sie das **Textincipit** in der Originalschrift ein. Übersetzungen oder Transliterierungen sind fakultativ und können als zusätzliches Textincipit eingetragen werden. Fügen Sie Übersetzungen, die nicht in der Quelle enthalten sind, in eckigen Klammern hinzu. Sie können in jede der RISM-Sprachen übersetzen.
 
-**Gesonderte Regeln für lateinische Texte:** Geben Sie sowohl geistliche als auch weltliche lateinische Texte ein. Das Feld ist mit der Normdatei **Titel/Textincipit** verknüpft. Innerhalb des Indexes **Titel / Textincipit** können Sie sich durch den Indikator **t** über den genauen liturgischen Kontext, Varianten und anderes in formieren. Wird für das Textincipit als Einordnungstitel benutzt, so wird muss auf genaue Übereinstimmung der Schreibweise geachtet werden. Der lateinische Text wird im Einordnungstitel allerdings nur bis zu dem Trennungszeichen, einem Komma, angegeben. Lateinische Texte, die nicht in der Quelle genannt sind, sondern recherchiert wurden, werden in eckigen Klammern eingetragen.
+**Gesonderte Regeln für lateinische Texte:** Geben Sie sowohl geistliche als auch weltliche lateinische Texte ein. Wird für das Textincipit als Einordnungstitel benutzt, so wird muss auf genaue Übereinstimmung der Schreibweise geachtet werden. Der lateinische Text wird im Einordnungstitel allerdings nur bis zu dem Trennungszeichen, einem Komma, angegeben. Lateinische Texte, die nicht in der Quelle genannt sind, sondern recherchiert wurden, werden in eckigen Klammern eingetragen.
 
 Lateinische Standardtexte entsprechen in der Regel den Texten im _Liber usualis_. In RISM enthalten diese Texte normalerweise ein Komma. Wenn Sie z. B. nach dem Text "Et in terra pax" suchen, erhalten Sie etwa ein Dutzend Optionen, aber nur eine davon hat ein Komma, und diese Quelle wird in der Datenbank 4.800 Mal verwendet. Deshalb ist es genau das, was wir wollen - vorausgesetzt, es stimmt mit Ihrer Quelle überein. Wenn Ihr Textinicpit nur "Et in terra pax" lautet, dann bedeutet dies, dass Ihre Quelle (1) nur diese Worte enthält oder (2) in einer Weise fortgesetzt wird, die sich vom _Liber usualis_ unterscheidet. Das ist natürlich möglich, aber in den meisten Fällen ist die Version mit dem Komma vorzuziehen.
 

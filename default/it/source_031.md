@@ -6,7 +6,7 @@ If the notation you need is not available using the Plaine & Easie code, transcr
 
 Keep in mind that incipit transcription is primarily used for searching and identification, not for replicating the visual appearance of the score. The Plaine & Easie Code is an intentional simplification of Western notation and not all details can (or should) be encoded.
 
-For assistance with transcribing mensural notation, see "Basic Mensural Notation Reference" by Ted Dumitrescu ([http://www.cmme.org/misc/refsheet.pdf](http://www.cmme.org/misc/refsheet.pdf))).
+For assistance with transcribing mensural notation, see ["Basic Mensural Notation Reference" by Ted Dumitrescu](http://www.cmme.org/misc/refsheet.pdf).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
@@ -42,6 +42,10 @@ The three-figure incipit number must be unique within a record. Number incipits 
 #### Title of movement, tempo (031 $d)
 
 Enter the title of the movement and tempo or similar indications, if specified, as it appears on the source. Use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Use square brackets to indicate supplements to the original; any such additions should be spelled consistently. Multiple titles or additional tempo markings can be added in separate fields. If you are entering multiple incipits for which the title or tempo indication is the same, enter it only for the first music incipit.
+
+##### Examples
+- All|o
+- [vol. 1 p. 17:] N. 1: Recit. et Aria
 
 **Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
 
@@ -84,7 +88,7 @@ Ascertained or derived texts that do not appear on the source can be given here.
 
 **Non-Latin scripts:** If your source has a text incipit that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Text incipit** using the original script. Translations or transliterations are optional and may be added in additional text incipit fields. Add translations not on the source in square brackets. You may translate into any of the RISM languages.
 
-**Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. The field is linked to the file **Title/text incipits**. Within the file **Title/text incipits**, a term preceded by the indicator **t** means that you can get information about the exact liturgical context, variant versions, and other matters. If the text incipit is used as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have been determined by research.
+**Special rules for texts in Latin:** Enter Latin texts, both sacred and secular. If the text incipit is used as the standardized title, make sure that the spelling is identical, but remember that Latin text in standardized titles is only entered up to the comma. Use square brackets to enter Latin texts which are not named on the source but have been determined by research.
 
 Standard Latin texts usually match the texts in the _Liber usualis_. In RISM, these texts usually contain a comma. For example, when you search for the text "Et in terra pax", you will see about a dozen options, but only 1 has a comma and this source is used 4,800 times in the database. Therefore it is the one we want – presuming this matches your source. If your text incipit is only "Et in terra pax" then this means your source (1) contains only these words or (2) continues in a way that is different from the _Liber usualis_. This is of course possible, but in most cases you want the version with the comma.
 
@@ -341,7 +345,7 @@ Add any other comments, such as the pitch of transposing instruments, mistakes i
 
 In this field, you can indicate the specific scoring for the particular movement in question (such as a movement within a complex vocal piece). List the scoring on one line using RISM instrument abbreviations and in the standard order (described in **Scoring summary [240 $m]**). Use a semicolon to separate instrument families.
 
-##### Examples
+##### Esempi:
 
 - S (Enrico), T (Vanoldo); vl 1, 2, b; [winds]
 - S 2 solo; Coro; ob obl; strings, bc

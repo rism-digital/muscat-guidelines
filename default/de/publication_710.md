@@ -11,6 +11,10 @@ Geben Sie den Namen der Institution ein. Geben Sie in diesem Feld keine Namen vo
 - Sing-Akademie zu Berlin
 - Historische Sektion der Bayerischen Benediktinerakademie
 
+#### Untergeordnete Institution (710 $b)
+
+Falls nötig können hier untergeordnete Abteilungen einer oben eingetragenen Institution angegeben werden. Geben Sie die Bezeichnung in der Landessprache ein.
+
 #### Funktionsbezeichnung (710 $4)
 
 Geben Sie die Funktion der Institution an. Es steht eine Auswahlliste zur Verfügung.

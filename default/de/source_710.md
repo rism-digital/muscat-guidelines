@@ -6,7 +6,7 @@ Verlage, die nach Personen benannt sind, aber die Funktion eines Verlags ausübe
 
 #### Institutionsname (710 $a)
 
-Geben Sie die Namen aller Institutionen ein, die auf der Quelle erscheinen oder mit der Quelle verknüpft sind. Das Feld ist über $0 mit der Normdatei **Körperschaften** verknüpft. Orte werden in $c angezeigt. Namen, die noch nicht in der Normdatei enthalten sind, können hinzugefügt werden.
+Geben Sie die Namen aller Institutionen ein, die auf der Quelle erscheinen oder mit der Quelle verknüpft sind. Das Feld ist über $0 mit der Normdatei **Körperschaften** verknüpft. Orte werden in $c angezeigt.
 
 #### Untergeordnete Institution (710 $b)
 

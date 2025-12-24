@@ -12,7 +12,7 @@ Podaj numer strony, na której znajduje się nazwa. Dla publikacji online, wprow
 
 ##### Przykłady
 - p. 42
-- MONIKA SCHWARZ – DANUSER, art. Mendelssohn, Fanny (Caecilie), in: MGG Online, hrsg. von Laurenz Lütteken, Kassel, Stuttgart, New York: 2016ff., zuerst veröffentlicht 2004, online veröffentlicht 2016
+- MONIKA SCHWARZ – DANUSER, art. MONIKA SCHWARZ – DANUSER, art. Mendelssohn, Fanny (Caecilie), in: MGG Online, hrsg. von Laurenz Lütteken, Kassel, Stuttgart, New York: 2016ff., zuerst veröffentlicht 2004, online veröffentlicht 2016
 
 #### Odnaleziona informacja (670 $b)
 

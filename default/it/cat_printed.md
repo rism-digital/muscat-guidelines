@@ -115,7 +115,9 @@ If your institution owns multiple copies (exemplars) of the same printed edition
 
 ### Microfilm copies
 
-Microfilm copies of printed editions are not added as separate copies but are described with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). Notify the Editorial Center if you wish to mention your microfilm copy but cannot edit the holdings record.
+If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. Instead, it is described along with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). If the microfilm is available digitally, it can be added as a link to an external resource (field 856).
+
+If your institution owns a microfilm of a printed edition that is otherwise no longer extant in its original physical form, catalog it as a printed edition and list your institution as the holding institution. Indicate in the holdings information that your copy is a microfilm.
 
 #### Esempio
 - RISM ID no. 990052954, copy in B-Bc:  
@@ -161,7 +163,7 @@ In the **holdings information** there are usually indications that only a certai
 - D-F Mus. pr. Q 55/349 [livre 1]
 - CH-Bu [2., 3. Buch]
 
-In cases of record splits, the RISM series number is carried over to all new records.
+In cases of record splits, the RISM series number is carried over to all new records in the field 510.
 
 ##### Record mergers
 

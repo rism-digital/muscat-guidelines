@@ -115,7 +115,9 @@ Jeżeli Państwa instytucja posiada wiele egzemplarzy tego samego drukowanego wy
 
 ### Kopie mikrofilmowe
 
-Kopie mikrofilmów druków muzycznych nie są dodawane jako oddzielne rekordy egzemplarzy, ale są opisywane wraz z informacjami o egzemplarzach, które stanowią oryginał druku, na podstawie którego stworzono mikrofilm. Jesli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856). Powiadom Editorial Center jeżeli chcesz dodać swoją kopię mikrofilmową, ale nie możesz edytować rekordu egzemplarza. Linki opisujące mikrofilm w lokalnym katalogu instytucji mogą zostać dodane jeśli są dostępne.
+If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. Instead, it is described along with the holdings information of the original copy on which the microfilm is based. Jesli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856). Powiadom Editorial Center jeżeli chcesz dodać swoją kopię mikrofilmową, ale nie możesz edytować rekordu egzemplarza. If the microfilm is available digitally, it can be added as a link to an external resource (field 856).
+
+If your institution owns a microfilm of a printed edition that is otherwise no longer extant in its original physical form, catalog it as a printed edition and list your institution as the holding institution. Indicate in the holdings information that your copy is a microfilm.
 
 #### Przykłady
 - ID RISM nr 990052954, egzemplarz w B-Bc:  
@@ -161,7 +163,7 @@ W rekordzie **egzemplarza** są podane zazwyczaj informacje o przechowywaniu okr
 - D-F Mus. pr. Q 55/349 [livre 1]
 - CH-Bu [2., 3. Buch]
 
-W przypadku podziału rekordów, numer serii A/I lub B/I RISM jest przenoszony do wszystkich nowych rekrodów.
+In cases of record splits, the RISM series number is carried over to all new records in the field 510.
 
 ##### Łączenie rekordów
 

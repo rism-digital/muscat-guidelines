@@ -1,10 +1,10 @@
 ### Parts held and extent (590)
 
+**Required if source contains parts.**
+
 The field **Parts held and extent** indicates which parts are held and their foliation/pagination.
 
 #### Parts held (590 $a)
-
-**Required if source contains parts.**
 
 Enter parts held and number of parts with reference to the RISM instrument abbreviation list. If you wish, you may use the designations that appear on the source if they vary from the standardized RISM abbreviation.
 

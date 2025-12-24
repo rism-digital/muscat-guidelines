@@ -4,7 +4,7 @@ The field **General note** is for any other kind of information.
 
 #### Nota general (500 $a)
 
-Enter any notes about the item, especially notes that relate to how the item is relevant to musical sources (if not obvious from the title).
+Enter any notes about the item, especially notes that relate to how the item is relevant to musical sources (if not obvious from the title). Enter notes using your cataloging language.
 
 Enter RISM library sigla here if the item concerns an institution, such as catalogs of collections.
 

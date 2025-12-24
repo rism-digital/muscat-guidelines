@@ -4,11 +4,9 @@ Das Feld **Schlagworteintragung** ist für Themen, die den Inhalt des Eintrags b
 
 #### Schlagworteintragung (650 $a)
 
-Geben Sie ein Schlagwort ein. Geben Sie Schlagwörter ein, insbesondere wenn der Inhalt der Publikation nicht aus dem Titel ersichtlich ist. Das Feld ist über $0 mit der Normdatei **Schlagwörter** verknüpft.
+Enter a subject heading, generally in English and in the plural. Geben Sie Schlagwörter ein, insbesondere wenn der Inhalt der Publikation nicht aus dem Titel ersichtlich ist. Das Feld ist über $0 mit der Normdatei **Schlagwörter** verknüpft.
 
 ##### Beispiele
 
 - Instruments
 - Madrigals
-- Schriftsteller
-- Benediktiner
