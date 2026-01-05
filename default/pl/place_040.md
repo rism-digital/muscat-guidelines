@@ -1,6 +1,6 @@
 ### Źrodło katalogowania (040)
 
-The field **Cataloging source** indicates the organization that created the original record.
+Pole Źrodło katalogowania (040) podaje nazwę organizacji, która stworzyła oryginalny rekord.
 
 #### Język katalogowania (040 $b)
 
