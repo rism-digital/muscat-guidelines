@@ -1,6 +1,6 @@
 ### Uwagi wewnętrzne (667)
 
-The field **Internal note** is used for information not intended for public display. Uwagi wewnętrzne nie są publikowane w katalogu RISM ani nie są dostępne w otwartych danych RISM.
+Pole Uwaga wewnętrzna wykorzystywane jest do podania informacji, które nie są publiczne. Uwagi wewnętrzne nie są publikowane w katalogu RISM ani nie są dostępne w otwartych danych RISM.
 
 #### Uwaga wewnętrzna (667 $a)
 
