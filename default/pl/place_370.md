@@ -1,6 +1,6 @@
 ### Powiązane miejsce (370)
 
-(Guidelines in progress.)
+(Wytyczne w toku.)
 
 #### Authority agency (370 $4)
 
