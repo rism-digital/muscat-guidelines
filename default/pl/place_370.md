@@ -2,7 +2,7 @@
 
 (Wytyczne w toku.)
 
-#### Authority agency (370 $4)
+#### Agencja autoryzacyjna (370 $4)
 
 #### Powiązane państwo (370 $c)
 
