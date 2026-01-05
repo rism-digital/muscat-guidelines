@@ -1,6 +1,6 @@
 ### Lokalizacja (034)
 
-The field **Location** is for the latitude and longitude of a place.
+Pole **Lokalizacja** służy podania współrzędnych miejsca (szerokość i długość geograficzną).
 
 #### Westernmost longitude (034 $d)
 
