@@ -1,6 +1,6 @@
 ### Inny standardowy identyfikator (024)
 
-The field **Other standard identifier** is for alphanumeric codes that refer to a name created by another agency.
+Pole **Inny identyfikator standardu** jest kodem alfanumeryczny, który odnosi się do nazwy utworzonej przez inną agencję.
 
 #### Standardowy numer lub kod (024 $a)
 
