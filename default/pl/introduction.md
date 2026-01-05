@@ -13,11 +13,11 @@ Rozdziały (5-9) zawieraja wytyczne dotyczące plików autorytatywnych RISM. Ost
 
 Więcej informacji na temat progamu Muscat można znaleźć na stronie internetowej [RISM's Muscat](https://rism.info/community/muscat.html).
 
-Za wytyczne odpowiada RISM Editorial Center we Frankfurcie nad Menem (Niemcy). English is the main language of the guidelines and other languages are considered translations.
+Za wytyczne odpowiada RISM Editorial Center we Frankfurcie nad Menem (Niemcy). Głównym językiem wytycznych jest język angielski, a inne języki są uważane za tłumaczenia.
  - Za angielską wersję odowiada [Jennifer Ward](mailto:jennifer.ward@rism.info)
  - Za niemiecką wersję odowiada [Martina Falletta](mailto:martina.falletta@rism.info)
 
-W przypadku jakichkolwiek niejasności, prosimy o kontakt. Currently only the English and German guidelines are available on this website and futher translations will follow in due time.
+W przypadku jakichkolwiek niejasności, prosimy o kontakt. Obecnie tylko wytyczne w języku angielskim i niemieckim są dostępne na tej stronie internetowej, a kolejne tłumaczenia będą widoczne w odpowiednim czasie.
 
 Chcielibyśmy również wyrazić wdzięczność naszym tłumaczom, przeszłym i obecnym, których wysiłki ułatwiają naszym kolegom na całym świecie dostęp do Muscatu.
  - Catalan: Ferran Jorba, Gerard Puch
