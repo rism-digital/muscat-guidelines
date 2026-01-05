@@ -12,7 +12,7 @@ Wprowadź funkcję osoby w odniesieniu do źródła. Wybierz z poniższych. Trzy
 
 - **Dodatkowy autor [aut]**: Użyj dla dodatkowych autorów, jeśli publikacja ma więcej niż jednego autora.
 - **Nazwa powiązana [asn]**: Inne nazwy, takie jak wyróżniony, nazwa w tytule, kolekcjoner, autor tekstu, inny, itp.
-- **Kompozytor [cmp]**: Kompozytor odpowiedzialny są kompozycję lub kompozytor dzieła edycji muzycznych.
+- **Kompozytor [cmp]**: Kompozytor odpowiedzialny są kompozycję lub kompozytor dzieła w kontekście edycji muzycznych.
 - **Edytor [edt]**
 - **Inne funkcje [oth]**: wszystkie inne funkcje.
 
