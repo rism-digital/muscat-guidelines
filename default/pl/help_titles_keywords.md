@@ -1,24 +1,24 @@
 ### Znormalizowane tytuły – Hasła przedmiotowe
 
-As is stated in the guidelines for **Standardized title (240)**,  the order of preference when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  This section expands on the guidelines for the third type of standardized title, genres, and explains its relationship to subject headings.
+Zgodnie z wytycznymi dla pola **Ujednolicony tytuł (240)**, obowiązuje preferencja kolejności przy wprowadzaniu ujednoliconego tytułu: 1) tytuł charakterystyczny, 2) incipit tekstowy, 3) gatunek, 4) oznaczanie tempa.  Niniejsza sekcja rozbudowuje wytyczne dotyczące trzeciego typu ujednoliconego tytułu dla gatunków i wyjaśnia związek z hasłami przemiotowymi.
 
-Genres are used as standardized titles predominantly in instrumental music and in titles for collections. In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_ or _Sonatas_.
+W wielu przypadkach, gatunki wykorzystywane są również jako ujednolicone tytuły głównie w przypadku muzyki instrumentalnej i w tytułach kolekcji. **Ujednolicony tytuł** i **Hasło przedmiotowe (650)** będą identyczne w przypadku _Symphonies_ lub _Sonatas_.
 
-W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające hasło przedmiotowe. A corresponding subject heading is used especially in the following situations:
+W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające hasło przedmiotowe. Odpowiednik hasła przedmiotowego wykorzystywany jest w następujących sytuacjach:
 
 - Jeśli ta samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa **(voc.)** lub **(inst.)**.
 - Określenia takie jak **(dances)** lub **(stage)** mogą być również dodane w nawiasie po głównym terminie.
 
-In other words, a standardized title will be the genre only, and the subject heading will have a parenthetical addition that indicates if it is a vocal or instrumental genre. Parentheses (as well as other punctuation) are never part of standardized titles.  
-Examples:
-1. An organ canon  
-   Standardized title: Canons  
-   Subject heading: Canons (inst.)
-2. A collection containing 12 arias for voice and orchestra  
-   Standardized title: 12 Arias  
-   Subject heading: Arias (voc.)
+Innymi słowy, ujednolicony tytuł będzie tylko gatunkiem, a hasło przedmiotowe będzie zawierało doprecywanie w nawiasie, który dookreśla czy jest gatunkiem głosowym czy instrumentalnym. Hasła z nawisami (podobnie jak inna interpunkcja) nigdy nie występują w ujednoliconych tytułach.  
+Przykłady:
+1. Kanon organowy  
+   Ujednolicony tytuł: Canon  
+   Hasło przedmiotowe: Canont (inst.)
+2. Kolekcja zawierająca 12 arii na głos i orkiestrę  
+   Ujednolicony tytuł: 12 Arias  
+   Hasło przedmiotowe: Arias (voc.)
 
-Poniżej znajduje się lista ujednoliconych tytułów i odpowiadające im hasła przedmiotowe. The lists are not comprehensive, since new subject headings are added to Muscat continuously. Tytuły ujednolicone i hasła przedmiotowe powinny być wpisywane w formie (zazwyczaj w języku angielskim i w liczbie mnogiej), a nie w tłumaczeniu. Należy zwrócić uwagę na szczególne sytuacje na końcu.
+Poniżej znajduje się lista ujednoliconych tytułów i odpowiadające im hasła przedmiotowe. Lista nie jest wyczerpująca, jako że nowe hasła przedmiotowe są dodawane w Muscat na bieżąco. Tytuły ujednolicone i hasła przedmiotowe powinny być wpisywane w formie (zazwyczaj w języku angielskim i w liczbie mnogiej), a nie w tłumaczeniu. Należy zwrócić uwagę na szczególne sytuacje na końcu.
 
 Zawartość:
 - Muzyka instrumentalna i wokalna ogólna
@@ -129,8 +129,8 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 3. Jeśli kompozycją źródłową dla potpourri jest pojedyncza opera:  
    Nie potrzebujesz tej listy! W ramach hasła przedmiotowego wprowadź **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach). W tytule ujednoliconym wprowadź tytuł opery i wyberz **Wyjątki** oraz **Aranżacja**.
 
-4. A potpourri where you know that the music comes from several operas:  
-   Use **Potpourris** as the standardized title. Wprowadź tytuły oper w polu **Tytuł dodatkowy (730)**. Dla pola hasło przedmiotowe wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach).
+4. W przypadku potpourri do którego muzyka pochodzi z wielu oper:  
+   Wybierz **Potpourris** jako znormalizowany tytuł. Wprowadź tytuły oper w polu **Tytuł dodatkowy (730)**. Dla pola hasło przedmiotowe wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach).
 
 5. W sytaucji kiedy nie znasz źródła muzyki dla potpourri:  
    Wybierz **Potpourris** zarówno w polach tytuł ujednolicony jak i hasło przedmiotowe.
@@ -141,6 +141,6 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 7. W sytuacji kiedy nie znamy źródła kompozycji scenicznej na podstawie której skomponowano aranżację na instrumenty dęte:  
    Wybieramy **Wind music** zarówno w tytule ujednoliconym jak i haśle przedmiotowym.
 
-8. For **sketches** of unknown compositions, use the word **Sketches** as a standardized title plus the subject heading **Sketches**. For sketches of known compositions, use the distinctive title or genre of the work as the standardized title, the appropriate genre as the first subject heading, and **Sketches** as the second subject heading.
+8. Dla **szkicy** nieznanych kompozycji, wybierz **Sketches** jako tytuł ujednolicony, a dla hasła przedmiotowego **Sketches**. Dla szkicy rozpoznanych kompozycji, wybierz tytuł charakterystyczny lub gatunek w tytule ujednoliconym, w haśle przedmiotowym jako pierwszy wybierz odpowiadajacy gatunek, a jako drugi **Sketches**.
 
 9. W sytuacji całkowitej braku pewności, takich jak niepewna obsada, wprowadź **Pieces** jako tytuł ujednolicony i **Pieces** w haśle przedmiotowym.
