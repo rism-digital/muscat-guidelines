@@ -1,7 +1,7 @@
-### Additional title (730)
+### Tytuł dodatkowy (730)
 
-The field **Additional title** is used for other titles not found on the title page.
+W polu **Tytuł dodatkowy** należy wprowadzić inne tytuły, których nie ma na stronie tytułowej.
 
-#### Additional title (730 $a)
+#### Tytuł dodatkowy (730 $a)
 
-Enter other titles or translations of the title if they do not appear on the title page.
+Tu należy wprowadzić tłumaczenia tytułu, jeśli nie ma ich na stronie tytułowej.
