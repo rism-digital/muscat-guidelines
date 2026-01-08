@@ -1,4 +1,4 @@
-### Preceding entry (780)
+### Poprzedzający wpis (780)
 
 The field **Preceding entry** is used to name and link an earlier name of an item, such as a journal title that has changed names.
 
