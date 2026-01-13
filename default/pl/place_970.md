@@ -1,11 +1,11 @@
-### Country and district (970)
+### Kraj i region (970)
 
-The field **Country and district** is for the country and district of the place.
+Pole **Kraj i region** jest przeznaczone dla kraju i regionu miejsca.
 
-#### Country (970 $a)
+#### Kraj (970 $a)
 
-Enter the country in which the place is located.
+Wprowadź kraj, w którym znajduje się miejsce.
 
-#### District (970 $b)
+#### Region (970 $b)
 
 Enter the administrative district(s) appropriate to the place in question, such as county, region, state, provence, prefecture, etc.
