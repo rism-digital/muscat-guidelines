@@ -1,20 +1,20 @@
-### External resource URL (856)
+### URL źródła zewnętrznego (856)
 
-The field **External resource URL** is used to link to external resources, such as an electronic version of the item, the publisher's website with more information, or a database.
+Pole **URL źródła zewnętrznego** jest wykorzystywane do linkowania źródła zewnętrznego, takiego jak elektorniczna wersja publikacji, strony wydawcy z dodatkowymi informacjami lub do bazy danych.
 
-#### External resource URL (856 $u)
+#### URL źródła zewnętrznego (856 $u)
 
-Enter the URL. Only enter one URL per field. All URLs must begin with **http** or **https**. Use permalinks whenever possible.
+Wprowadzić URL źródła zewnętrznego. Wprowadź tylko jeden adres URL na pole. Każdy adres URL musi zaczynać się od **http** lub **https**. W miarę możliwości należy używać permalinków.
 
-#### Note about external resource (856 $z)
+#### Uwaga o źródle zewnętrznym (856 $z)
 
-Enter a brief note that describes the link.
+Wprowadzić krótką uwagę opisującą link.
 
-##### Examples
+##### Przykłady
 
-- Electronic resource
+- Zasób elektroniczny
 - Elektronische Ressource
 - Link to PDF
 - Link zum Inhaltsverzeichnis
-- Some issues are available as a PDF
-- Link to database
+- Niektóre wydania są dostępne w formacie PDF
+- Link do bazy danych
