@@ -18,5 +18,4 @@ _If the item is in Italian only:_
 **Language of text (041 $a)**: Italian
 
 _If the item is in Italian but the Italian text is a translation from Latin:_  
-**Language of text (041 $a)**: Italian  
-**Language of original text (041 $h)**: Latin
+**Language of text (041 $a)**: Italian **Language of original text (041 $h)**: Latin
