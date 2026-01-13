@@ -1,15 +1,15 @@
-### Geographic area code (043)
+### Kod kraju (043)
 
-The field **Geographic area code** is used for the country in which the place is located.
+Pole **Kod kraju** jest używane dla kraju, w którym znajduje się miejsce.
 
-#### Authority agency (043 $2)
+#### Agencja autoryzacyjna (043 $2)
 
-The field **Authority agency** is set by default to **rismg**, the RISM Guidelines.
+Pole **Agencja autoryzacyjna** jest ustawione domyślnie na **rismg**, wytyczne RISM.
 
-#### Local RISM code for country / city / town (043 $b)
+#### Lokalny kod RISM dla kraju/miasta (043 $b)
 
-(Guidelines in progress.)
+(Wytyczne w toku.)
 
-#### Geographic area code (043 $c)
+#### Kod kraju (043 $c)
 
-Select the country from the drop-down menu.
+Wybierz kraj z listy.
