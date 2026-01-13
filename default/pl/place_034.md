@@ -2,15 +2,15 @@
 
 Pole **Lokalizacja** służy podania współrzędnych miejsca (szerokość i długość geograficzną).
 
-#### Westernmost longitude (034 $d)
+#### Długość geograficzną najbardziej wysuniętą na zachód (034 $d)
 
-Enter the westernmost longitude of the place.
+Wprowadź długość geograficzną miejsca najbardziej wysuniętą na zachód.
 
-#### Easternmost longitude (034 $e)
+#### Długość geograficzną najbardziej wysuniętą na wschód (034 $e)
 
-Enter the easternmost longitude of the place.
+Wprowadź długość geograficzną miejsca najbardziej wysuniętą na wschód.
 
-#### Northernmost latitude (034 $f)
+#### Szerokość geograficzną najbardziej wysuniętą na północ (034 $f)
 
 Enter the northernmost latitude of the place.
 
