@@ -234,9 +234,6 @@ Streichquintett (mit Kontrabass)
 Klaviertrio
 - vl, vlc, pf
 
-Bläserquintett
-- fl, ob, cl, cor, fag
-
 Flötenquartett (nur Flöten)
 - fl (4)
 

@@ -29,7 +29,7 @@ Mögliche Alternativen sind:
 
 Bei Variationen geben Sie in diesem Feld den Namen des Themas ein und wählen im Feld **Bearbeitung (730 $o)** **Variationen**.
 
-Bei Einlagen geben Sie den Titel der größeren Oper oder des Werkes ein, in die das Stück eingelegt ist, und wählen im Feld **Unterteilung nach der Form (730 $k)** die Option **Einlagen**. Für Einlagen beachten Sie bitte auch die Richtlinien zum Feld **Verwandte Quelle (787)**.
+Bei Einlagen geben Sie den Titel der größeren Oper oder des Werkes ein, in die das Stück eingelegt ist, und wählen im Feld **Unterteilung nach der Form (730 $k)** die Option **Einlagen**. For inserts, also note the guidelines under for the field **Related source (787)**.
 
 ##### Beispiele
 

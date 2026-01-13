@@ -18,6 +18,7 @@ Geben Sie den Typ der Körperschaft an. Es steht eine Auswahlliste zur Verfügun
 - Papierhersteller
 - Interpret
 - Drucker
+- Private collection
 - Verleger
 - Forschungsinstitut
 

@@ -10,4 +10,4 @@ Verlinken Sie immer auf die nächsthöhere Ebene.
 
 Klicken Sie auf die entsprechende Schaltfläche und suchen Sie nach der RISM ID No. des übergeordneten Datensatzes oder des Konvolutbandes.
 
-_MARC-Exporthinweis:_ Beim Export wird $a erzeugt, das normalisierte Daten aus 100 $a und 240 $a des verknüpften Datensatzes enthält.  
+_MARC export note:_ Upon export, $a is generated which contains normalized data from the 100 $a of the linked record, and $t is generated which contains normalized data from the 240 $a and $m of the linked record.  

@@ -12,3 +12,11 @@ Select the language(s) of the text in the source. For music, this refers to the 
 #### Language of original text (041 $h)
 
 If the text in the source is a translation, select the original language here.
+
+##### Przykłady
+_If the item is in Italian only:_  
+**Language of text (041 $a)**: Italian
+
+_If the item is in Italian but the Italian text is a translation from Latin:_  
+**Language of text (041 $a)**: Italian  
+**Language of original text (041 $h)**: Latin

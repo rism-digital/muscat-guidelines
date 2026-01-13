@@ -4,7 +4,7 @@ In diesem Abschnitt wird beschrieben, wie spezielle Arten von Quellen zu katalog
 
 ### Sammlungen
 
-In RISM bezieht sich das Wort _Sammlung_ auf jeden Gegenstand (ob handschriftlich oder gedruckt), der zwei oder mehr Stücke enthält. Dazu gehören sowohl beabsichtigte Sammlungen oder Anthologien als auch Werke, die von ihren Schöpfern nicht unbedingt als Sammlungen gedacht waren (z. B. eine Klaviersonate mit einem kurzen Marsch auf der letzten Seite).
+In RISM bezieht sich das Wort _Sammlung_ auf jeden Gegenstand (ob handschriftlich oder gedruckt), der zwei oder mehr Stücke enthält. This includes both collective manuscripts or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
 
 Sammlungen in RISM haben eine übergeordnete/untergeordnete Hierarchie, d. h. es gibt einen Haupteintrag (übergeordneter Datensatz), der die Sammlung als Ganzes beschreibt, und einzelne Einträge (untergeordnete oder analytische Datensätze), die jedes darin enthaltene Stück separat beschreiben.
 
@@ -63,10 +63,10 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kontrafacta. Als B
 - **Zusammenfassende Beschreibung (520)**  
   Fügen Sie eine kurze Beschreibung in englischer Sprache hinzu, um anderen RISM-Nutzern die Situation zu erklären.
  - Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte.
-- **Sprachcode (041)**  
-  Füllen Sie beide Felder aus:  
-  Sprachcode (041 $a): Der aktuelle Text der vorliegenden Quelle  
-  Sprachcodee des Originaltextes (041 $h): Sprache des Originals
+- **Language of text (041)**  
+  Fill out both of these fields:  
+  Language of text (041 $a): The text of the source in hand  
+  Language of original text (041 $h): Language of the original piece
  - Sprachcode: Lateinisch
  - Sprachcode des Originaltextes: Italienisch
 - **Textincipit (031 $t)**  
@@ -180,7 +180,7 @@ Wenn es nicht möglich ist, einen angemessenen Datensatz für das gedruckte Mate
 
 ### Noten in Zeitschriften
 
-Es gibt zwei Möglichkeiten, Zeitschriften mit Notenmaterial zu katalogisieren: als Sammlung oder als einzelnes Werk. In beiden Fällen wird der Titel der Zeitschrift mit Heftnummer und Jahr in das Feld **Zeitschrift oder Reihe (490)** eingetragen.
+Catalog each issue of the periodical separately. Es gibt zwei Möglichkeiten, Zeitschriften mit Notenmaterial zu katalogisieren: als Sammlung oder als einzelnes Werk. In beiden Fällen wird der Titel der Zeitschrift mit Heftnummer und Jahr in das Feld **Zeitschrift oder Reihe (490)** eingetragen.
 
 #### Sammlungen
 **Sammlungen** können passend sein, wenn die Zeitschrift ausschließlich oder größtenteils aus Noten besteht und der Gegenstand als Ganzes gesammelt und aufbewahrt wurde. Die Exemplareinträge sind der Sammlungsebene zugeordnet. Für jeden Teil der Ausgabe werden Teileinträge erstellt.

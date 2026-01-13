@@ -1,10 +1,10 @@
 ### Physical description (300)
 
-**Required field.**
-
 The field **Physical description** provides a clear declaration of the material preserved by stating the format (such as score or parts) and how many there are. If you have parts, this field is used in conjunction with the field **Parts held and extent (590)**, in which the specific parts are named.
 
 #### Format, extent (300 $a)
+
+**Required field.**
 
 For all types of formats except parts, the field **Format, extent (300 $a)** is built up of three components: **Number of items, Format, Extent.**
 
@@ -54,7 +54,7 @@ Use one of the following English terms, in the singular or plural as appropriate
 - **various**: Use for collection parent records if the collection contains different kinds of formats (such as a full score and a keyboard score).
 - **other**: Use if none of the above apply. In such cases, include an explanation in the field **General note (500)**. The number of items or the extent is not required.
 
-For conductor part(s), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590)**.
+For conductor part(s) (sometimes known as "directorium"), use **part** or **parts** here and enter **conductor part** in the field **Parts held (590)**.
 
 **text document**: Use for librettos, treatises, and other kinds of text documents. A note in **General note (500)** may be necessary.
 
@@ -102,7 +102,7 @@ Pages change from Roman to Arabic numerals
 Blank pages or foliation irregularities can be mentioned in the field **General note (500)**.
 
 - f. f. f. f. f. f. f. f. f. f. [2] blank
-- p. p. p. p. p. p. p. p. p. p. p. p. p. p. p. p. p. 272 occurs twice
+- p. p. p. p. p. p. p. p. p. p. p. p. p. p. p. p. p. p. 272 occurs twice
 
 #### Other physical details (300 $b)
 

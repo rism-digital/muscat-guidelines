@@ -1,12 +1,24 @@
 ### Einordnungstitel – Schlagworte
 
-Dieser Abschnitt erweitert die Richtlinien für **Einordnungstitel (240)** in Katalogisierungssituationen, in denen Gattungen als standardisierte Titel verwendet werden. In vielen Fällen werden der **Einordnungstitel** und das **Schlagwort (650)** identisch sein, wie zum Beispiel bei _Symphonies_. In anderen Fällen wird jedoch ein entsprechendes, nicht identisches Schlagwort verwendet.
+As is stated in the guidelines for **Standardized title (240)**,  the order of preference when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  This section expands on the guidelines for the third type of standardized title, genres, and explains its relationship to subject headings.
 
-Eine abweichendes Schlagwort wird in den folgenden Situationen verwendet:
+Genres are used as standardized titles predominantly in instrumental music and in titles for collections. In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_ or _Sonatas_.
+
+In anderen Fällen wird jedoch ein entsprechendes, nicht identisches Schlagwort verwendet. A corresponding subject heading is used especially in the following situations:
+
 - Wenn ein und dasselbe Schlagwort sowohl für Vokal- als auch für Instrumentalmusik verwendet werden kann, wird nach der Gattung eine Abkürzung in Klammern hinzugefügt: **(voc.)** bzw. **(inst.)**.
 - Der Hauptbegriff kann um Angaben wie **(dances)** oder **(stage)** in Klammern ergänzt werden.
 
-Nachfolgend finden Sie Listen mit Eonirdnungstiteln und den entsprechenden Schlagwörtern. Die Listen sind nicht vollständig. Die Einordnungstitel und Schlagworte sind in der hier angegebenen Form (in der Regel in englischer Sprache und im Plural) und nicht in Übersetzung anzugeben. Beachten Sie die Sonderfälle am Ende.
+In other words, a standardized title will be the genre only, and the subject heading will have a parenthetical addition that indicates if it is a vocal or instrumental genre. Parentheses (as well as other punctuation) are never part of standardized titles.  
+Examples:
+1. An organ canon  
+   Standardized title: Canons  
+   Subject heading: Canons (inst.)
+2. A collection containing 12 arias for voice and orchestra  
+   Standardized title: 12 Arias  
+   Subject heading: Arias (voc.)
+
+Nachfolgend finden Sie Listen mit Eonirdnungstiteln und den entsprechenden Schlagwörtern. The lists are not comprehensive, since new subject headings are added to Muscat continuously. Die Einordnungstitel und Schlagworte sind in der hier angegebenen Form (in der Regel in englischer Sprache und im Plural) und nicht in Übersetzung anzugeben. Beachten Sie die Sonderfälle am Ende.
 
 Inhalt:
 - Allgemeine Instrumental- und Vokalmusik
@@ -31,7 +43,6 @@ Einordnungstitel — Korrespondierendes Schlagwort
 - Battle music — Battle music (inst.)
 - Battle music — Battle music (voc.)
 - Bergerettes — Bergerettes (voc.)
-- Brass music — Brass music
 - Canons — Canons (inst.)
 - Canons — Canons (voc.)
 - Canzonas — Canzonas (inst.)
@@ -44,8 +55,6 @@ Einordnungstitel — Korrespondierendes Schlagwort
 - Fugues — Fugues (inst.)
 - Fugues — Fugues (voc.)
 - In Nomine — In Nomine (inst.)
-- Instrumental pieces — Instrumental pieces
-- Interludes — Interludes
 - Intermezzos — Intermezzos (inst.)
 - Intonazione — Intonazione (inst.)
 - Nocturnes — Nocturnes (inst.)
@@ -120,8 +129,8 @@ Einordnungstitel — Korrespondierendes Schlagwort
 3. Ein Potpourri, bei dem man weiß, dass die Musik aus einer einzigen Oper stammt:  
    Sie brauchen diese Liste nicht! Verwenden Sie den Namen der Oper als Einordungstitel und wählen Sie **Ausschnitte** und **Bearbeitung**. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
 
-4. Ein Potpourri von dem Sie wissen, dass die Musik aus mehreren Opern stammt:  
-   Verwenden Sie **Potpourris** als Einordnungstitel. Geben Sie die Namen der Opern im Feld **Alternativer Ttitel (730)** ein. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
+4. A potpourri where you know that the music comes from several operas:  
+   Use **Potpourris** as the standardized title. Geben Sie die Namen der Opern im Feld **Alternativer Ttitel (730)** ein. Geben Sie die Schlagworte **Potpourris** und **Operas** (oder **Operettas**, etc.) ein.
 
 5. Ein Potpourri, bei dem Sie nicht wissen, aus welcher Oper die Musik stammt:  
    Verwenden Sie **Potpourris** sowohl als Einordnungstitel als auch als Schlagwort.
@@ -132,6 +141,6 @@ Einordnungstitel — Korrespondierendes Schlagwort
 7. Ein Bläserarrangement von Musik aus einem Bühnenwerk, bei dem der Name des Bühnenwerks unbekannt ist:  
    Verwenden Sie **Wind music** sowohl als Einordnungstitel als auch als Schlagwort.
 
-8. Für **Skizzen** von unbekannten Kompositionen verwenden Sie den unverwechselbaren Titel und das Schlagwort **Sketches**. Für Skizzen bekannter Kompositionen verwenden Sie den unverwechselbaren Titel des Werkes und **Sketches** als zweites Schlagwort.
+8. For **sketches** of unknown compositions, use the word **Sketches** as a standardized title plus the subject heading **Sketches**. For sketches of known compositions, use the distinctive title or genre of the work as the standardized title, the appropriate genre as the first subject heading, and **Sketches** as the second subject heading.
 
 9. In Fällen völliger Ungewissheit, z. B. bei unbekannter Besetzung, geben Sie **Pieces** als Einordnungstitel und **Pieces** als Schlagwort ein.

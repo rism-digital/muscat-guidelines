@@ -1,19 +1,23 @@
-### Additional institution (710)
+### Instytucja powiązana (710)
 
-The field **Additional institution** is for institutions that are connected with the item.
+Pole **Instytucja powiązana** służy podania instytucji powiązanych ze źródłem.
 
-#### Institution (710 $a)
+#### Instytucja (710 $a)
 
-Enter the name of the institution. Do not enter the names of publishers in this field. This field is linked to the **Institutions** authority file through $0 and the place is displayed in $c.
+Wprowadź nazwę instytucji. Nie wprowadzaj nazw wydawców w tym polu. To pole powiązane jest z kartoteką haseł wzorcowych **Instytucje** poprzez podpole $0, dzięki czemu miejsce wyświetlane jest w podpolu $c.
 
-##### Examples
+##### Przykłady
 
 - Sing-Akademie zu Berlin
 - Historische Sektion der Bayerischen Benediktinerakademie
 
-#### Function (710 $4)
+#### Departament (710 $b)
 
-Enter the function of the institution. Select from the following.
+Wpisać w razie konieczności nazwę jednostki instytucji, takiej jak departament. Wprowadź w języku lokalnym.
 
-- **Editor**: Use especially if the item has an institution as an author rather than a person.
-- **Other function**: All other functions.
+#### Funkcja (710 $4)
+
+Wprowadź funkcję instytucji. Wybierz z poniższych.
+
+- **Edytor**: Używaj w sytuacji kiedy autorem wydania jest instytucja a nie osoba.
+- **Inne funkcje [oth]**: Wszystkie inne funkcje.

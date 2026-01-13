@@ -6,7 +6,7 @@ W polu **Autor** należy podać głównego autora publikacji.
 
 Wprowadź imię i nazwisko głównego autora publikacji. W tym polu wprowadza się redaktorów facisimile lub współczesnych edycji muzycznych.
 
-Redaktorzy tomów esejów lub kompozytorzy współczesnych edycji są wpisywani w polu **Dodatkowa osoba (700)**.
+Jeśli osoba jest edytorem serii esejów, lub jest kompozytorem muzyki współczesnego wydania, należy ją dodać w polu **Dodatkowa osoba (700)**.
 
 Dla publikacji, które mają więcej niż jednego autora, wybrać jednego do wpisania w tym polu. Pozostałe imiona i nazwiska mogą być dodane w polu **Dodatkowa osoba (700)**.
 

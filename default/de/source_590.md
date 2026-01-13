@@ -1,10 +1,10 @@
 ### Stimmenmaterial (590)
 
+**Pflichtfeld, wenn die Quelle Stimmenmaterial umfasst.**
+
 Das Feld **Stimmenmaterial** listet die vorhandenen Stimmen und deren Folierung/Paginierung auf.
 
 #### Stimmenmaterial (590 $a)
-
-**Pflichtfeld, wenn die Quelle Stimmenmaterial umfasst.**
 
 Geben Sie die vorhandenen Stimmen und deren Anzahl unter Bezugnahme auf die RISM-Instrumentenabkürzungsliste ein. Wenn Sie möchten, können Sie die Bezeichnungen verwenden, die auf der Quelle erscheinen, sofern sie von der standardisierten RISM-Abkürzung abweichen.
 

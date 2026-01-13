@@ -18,6 +18,7 @@ Wybierz typ instytucji. Należy wybrać spośród następujących:
 - Wytwórca papieru
 - Wykonawca
 - Drukarnia
+- Prywatna kolekcja
 - Wydawca
 - Instytut naukowy
 

@@ -1,27 +1,27 @@
-### Item part of (760)
+### Jest częścią… (760)
 
-The field **Item part of** is used to link the item to a larger unit, such as linking an article to a periodical, or a chapter to a yearbook, or a book to a series. The larger unit must be in Muscat before it can be linked.
+W polu **Jest cześcią...** należy wprowadzić link łączący opisywaną pozycję z rocznikiem, czasopismem, książką lub serią, której jest częścią.
 
-#### Title of periodical, book, or series (760 $t)
+#### Tytuł czasopisma, książki lub serii (760 $t)
 
-Enter the title of the periodical, book, or series. This field is linked to the **Secondary literature** database through $0.
+Wprowadź tytuł czasopisma, książki lub serii. Pole powiązane jest z kartoteką haseł wzorcowych **Literatury pomocniczej** poprzed podpole $0.
 
-#### Volume, year, page (760 $g)
+#### Tom, rok, strona (760 $g)
 
-Enter as appropriate the volume, issue, year, and/or page numbers for the item. Enter in a form appropriate to the style of the journal.
+Wprowadzić dla danej pozycji odpowiednio tom, wydanie, rok i/lub numery stron. Wprowadzić w formie odpowiadającej stylowi czasopisma, ale używając skrótów w języku angielskim lub niemieckim.
 
-##### Examples
+##### Przykłady
 
 - 23 (1986), p. 5-10
 - 2, 35 (2014), 7-16
-- 71 (1997), Heft 5, p.275-292
+- 71 (1997), Heft 5, p. 275-292
 - vol. 3/1-2; 11/1-2
 - 56
 
-For a chapter within a collection of essays, enter the page numbers of the chapter.
+W przypadku rozdziału będącego częścią zbioru esejów, wprowadzić jego numery stron.
 
-##### Example
+##### Przykład
 
 - p. 76-109
 
-As a general rule, make sure to include enough information so that someone else would be able to find the item themselves.
+Co do zasady, należy umieścić wystarczającą ilość informacji, aby inni użytkownicy mogli bez problemu znaleźć daną pozycję.

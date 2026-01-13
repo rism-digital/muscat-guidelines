@@ -1,14 +1,14 @@
-### Succeeding entry (785)
+### Kolejny wpis (785)
 
-The field **Succeeding entry** is used to name and link a later name of an item, such as a journal title that has changed names.
+Pole **Kolejny wpis** służy do nazwania i połączenia późniejszej nazwy obiektu, takiej jak tytuł czasopisma, który zmienił nazwę.
 
-#### Succeeding entry (785 $t)
+#### Kolejny wpis (785 $t)
 
-Enter here the name that the item was successively known as. This field is linked to the **Secondary literature** database through $w.
+Wprowadź w tym miejscu kolejną nazwę, pod którą obiekt był znany. To pole powiązane jest z kartoteką haseł wzorcowych **Literatury pomocniczej** w ramach podpola $w.
 
-##### Example
+##### Przykład
 
-The journal _Chelys. The Journal of the Viola da Gamba Society_ existed from 1969 to 2004, when it was succeeded by _The Viola da Gamba Society Journal_. In the record for _Chelys_, enter the following:
+Czasopismo _Chelys. The Journal of the Viola da Gamba Society_ było wydawane między 1969-2004, następnie zostało zastąpione _The Viola da Gamba Society Journal_. W rekordzie dla _Chelys_wpisz następujące dane:
 
-**Succeeding entry (785 $t)**
+**Kolejny wpis (785 $t)**
 - The Viola da Gamba Society Journal

@@ -4,7 +4,7 @@ W tej sekcji opisano sposób katalogowania szczególnych rodzajów źródeł: ko
 
 ### Kolekcje
 
-W RISM, _Kolekcja_ odnosi się do każdej pozycji (zarówno rekopiśmiennej jak i drukowanej), zawierającej dwie lub więcej kompozycji. Jest zarówno intencjonalnie powstałą kolekcją lub antologią wielu dzieł, jak również pozycją, która nie była docelowo zamierzona jako kolekcja przez jego twórcę (na przykład sonata fortepianowa z krótkim marszem na ostatniej stronie).
+W RISM, _Kolekcja_ odnosi się do każdej pozycji (zarówno rekopiśmiennej jak i drukowanej), zawierającej dwie lub więcej kompozycji. To obejmuje zarówno kolekcje rękopisów lub antologie jak i samodzielne pozycje, które nie były w zamyśle przemyślane jako kolekcje przez swoich twórców (jak np. sonata na foertapina z krótkim marszem na ostatniej stronie).
 
 Kolekcje w RISM mają charatter hierarchiczny, co oznacza, że jest jeden główny rekord (rekord macierzysty), który opisuje kolekcję jako całość i indywidualne pozycje (pozycja w kolekcji lub rekord analityczny), które opisują każdą kompozycję oddzielnie.
 
@@ -63,7 +63,7 @@ Katalogując kontrafakturę zwróć uwagę na następujące pola. Rekord 3002344
   Dodaj krótki opis w języku angielskim, który wyjaśnia sytuację dla pozostałych użytkowników RISM.
  - Religijna contrafaktura arii z opery Myslivečeka - Il Bellerofonte.
 - **Kod języka (041)**  
-  Uzupełnij obydwa podpola:   
+  Uzupełnij obydwa podpola:  
   Język tekstu (041 $a): Język źródła, które jest katalogowane  
   Język tekstu oryginalnego (041 $h): Język oryginalnego źródła
  - Język tekstu: Łaciński
@@ -179,7 +179,7 @@ Jeśli nie jest możliwe stworzenie odpowiedniego rekordu dla materiału drukowa
 
 ### Źródła muzyczne w czasopismach
 
-Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako kolekcja lub jako samodzielno dzieło. W każdym przypadku tytuł czasopisma wraz z numerem wydania i rokiem wpisuje się w polu **Tytuł dodatkowy (730)**.
+Kataloguj każdy numer czasopisma oddzielnie. Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako kolekcja lub jako samodzielno dzieło. W każdym przypadku tytuł czasopisma wraz z numerem wydania i rokiem wpisuje się w polu **Tytuł dodatkowy (730)**.
 
 #### Kolekcje
 **Kolekcje** są stosowne kiedy periodyk składa się w całości lub w większości ze źródeł muzycznych i zachowany został jako całość. Egzemplarze zostają dodane na poziomie kolekcji natomiast dla poszczególnych kompozycji tworzy się indywidualne wpisy pozycji w kolekcji.

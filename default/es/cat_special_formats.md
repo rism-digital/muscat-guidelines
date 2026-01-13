@@ -4,7 +4,7 @@ This section describes how to catalog special types of sources: collections, com
 
 ### Collections
 
-In RISM, the word _collection_ refers to any item (whether manuscript or printed) that contains two or more pieces. This includes both intentional collections or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
+In RISM, the word _collection_ refers to any item (whether manuscript or printed) that contains two or more pieces. This includes both collective manuscripts or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
 
 Collections in RISM have a parent/child hierarchy, meaning there is one main entry (parent record) that describes the collection as a whole, and individual entries (child or analytical records) that describe each piece therein separately.
 
@@ -64,10 +64,10 @@ Take note of the following fields when cataloging contrafacta. RISM ID no. 30023
   Añada una descripción breve en inglés que explique la situación, como un servicio a otros usuarios de RISM.
  - _Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte._  
    [Contrafactum sacro de un aria de la ópera Il Bellerofont, de Mysliveček]
-- **Idioma del texto (041)**  
-  Complete cada uno de estos dos campos:  
-  Idioma del texto (041 $a): correspondiente al texto actual del _contrafactum_.  
-  Idioma del texto original (041 $h): correspondiente a la pieza original.
+- **Language of text (041)**  
+  Fill out both of these fields:  
+  Language of text (041 $a): The text of the source in hand  
+  Language of original text (041 $h): Language of the original piece
  - Idioma del texto: Latín
  - Idioma del texto original: Italiano
 - **Text incipit (031 $t)**  
@@ -180,7 +180,7 @@ If it is not feasible to create an adequate record for the printed material, pro
 
 ### Music in periodicals
 
-Existen dos maneras de catalogar periódicos que contienen música: como colección o como obra individual. En cada caso, el título del periódico, con el número de edición y el año, se registran en el campo **Título adicional (730).**
+Catalog each issue of the periodical separately. Existen dos maneras de catalogar periódicos que contienen música: como colección o como obra individual. En cada caso, el título del periódico, con el número de edición y el año, se registran en el campo **Título adicional (730).**
 
 #### Collections
 **Collections** can be appropriate when the periodical consists of all or mostly music and the item was collected and preserved as a whole. Los registros de ejemplar se añaden al nivel de la colección. Individual entries are created for each piece in the issue.
@@ -244,11 +244,11 @@ Appropriate subject headings for treatises include the following:
 
 - **Treatises**
 - **Writings**
-- **************************************Music theory ** [Teoría musical]************************************
+- ****************************************Music theory ** [Teoría musical]**************************************
 - ****Theory of harmony ** [Teoría de la armonía]**
 - En el campo **Título**
 - **uniforme (240)**:
-- **************************************Contrapuntal studies (inst./voc.).************************************
+- ****************************************Contrapuntal studies (inst./voc.).**************************************
 - ****Solfeggios (voc.) **[Solfeos (vocales)]**
 - ****Solfeggios (inst.) **[Solfeos (instrumentales)]**
 - ****Scales (inst./voc.) **[Escalas (instrumentales/vocales)]**
