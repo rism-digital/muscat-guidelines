@@ -1,7 +1,7 @@
-### Type of entity (075)
+### Typ miejsca (075)
 
 (Guidelines in progress.)
 
-#### Type of entity term (075 $a)
+#### Typ miejsca (075 $a)
 
-#### Type of entity code (075 $b)
+#### Kod typu miejsca (075 $b)
