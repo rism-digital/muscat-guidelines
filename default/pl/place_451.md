@@ -14,5 +14,5 @@ _Przykłady_
 **Nazwa geograficzna (151 $a)**: Londres
 **Język nazwy (151 $g)**: hiszpański
 
-**Nazwa geograficzna (151 $a)**: Rome
-**Język nazwy (151 $g)**: angielski
+**Geographic name (151 $a)**: Rome  
+**Language of name (151 $g)**: English
