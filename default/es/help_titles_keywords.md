@@ -1,10 +1,10 @@
 ### Standardized titles – Subject headings
 
-As is stated in the guidelines for **Standardized title (240)**,  the order of preference when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  This section expands on the guidelines for the third type of standardized title, genres, and explains its relationship to subject headings.
+As is stated in the guidelines for **Standardized title (240)**,  the order of preference is when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  This section expands on the guidelines for the third type of standardized title, genres, and explains its relationship to subject headings.
 
 Genres are used as standardized titles predominantly in instrumental music and in titles for collections. In many cases, the **Standardized title** and the **Subject heading (650)** will be identical, such as with _Symphonies_ or _Sonatas_.
 
-In other cases, however, a corresponding, rather than identical, subject heading is used. A corresponding subject heading is used especially in the following situations:
+In other cases, however, a corresponding, rather than identical, subject heading is used. A variant subject heading is used especially in the following situations:
 
 - If the same subject heading can be used in both vocal and instrumental genres, an abbreviation in parentheses is added after the genre: **(voc.)** or **(inst.)**, respectively.
 - Specifications such as **(dances)** or **(stage)** may also be added in parentheses after the main term.
@@ -141,8 +141,8 @@ Standardized title — Subject heading
 3. Un popurrí cuya música proviene de una sola ópera:  
    ¡No necesita esta lista! Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**. Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas** , etc. según corresponda).
 
-4. A potpourri where you know that the music comes from several operas:  
-   Use **Potpourris** as the standardized title. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate).
+4. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate). A potpourri where you know that the music comes from several operas:  
+   Use **Potpourris** as the standardized title. Enter the names of the operas in the field **Additional title (730)**.
 
 5. Un popurrí respecto del cual se desconoce la procedencia de la música:  
    Use  **Potpourris ** como título y como descriptor.

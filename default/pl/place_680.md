@@ -1,7 +1,7 @@
 ### Uwaga ogólna (680)
 
-The field **General note** is for any other kind of information.
+Pole **Uwaga ogólna** umożliwia wprowadzanie wszelkiego rodzaju informacji o miejscu.
 
 #### Uwaga ogólna (680 $a)
 
-Enter any other notes about the place.
+Wprowadź wszystkie inne uwagi na temat miejsca.

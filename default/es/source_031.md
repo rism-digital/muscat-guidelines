@@ -44,7 +44,7 @@ The three-figure incipit number must be unique within a record. Number incipits 
 Registre el título del movimiento y el tempo –o indicaciones similares–, si aparecen especificados, tal como figuran en la fuente. Use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Use corchetes para indicar agregados al original; los agregados deben tener una ortografía consistente. Pueden añadirse múltiples títulos o marcas de tempo adicionales en campos separados. Si registra varios íncipits para los cuales el título y la indicación de tempo coinciden, ingrese el dato solo en el primer íncipit.
 
 ##### Examples
-- All|o
+- |
 - [vol. 1 p. 17:] N. 1: Recit. et Aria
 
 **Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
@@ -256,7 +256,7 @@ Do not forget the rhythmic value within the bracket!
 
 ###### 11.1. Repeated figures
 
-! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! Figuras repetidas</strong>  
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! Figuras repetidas</strong>  
 ! = inicio y fin de un pasaje  
 f = repetir la indicación  
 El pasaje será repetido cada vez que aparezca  **f**  después del segundo **!**. This is only possible within a bar.
