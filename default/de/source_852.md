@@ -48,7 +48,7 @@ Fehlende Stimmen oder Bände sind in das Feld **Bemerkungen (500)** einzutragen.
 
 In dieses Feld wird die Signatur eingetragen. Die Signatur ist möglichst genau wiederzugeben (betrifft Leer- und Interpunktionszeichen). Innerhalb eines Bestandes sollen die Signaturen formal einheitlich geschrieben werden. Hochstellungen werden mit \| (Gerader Strich) direkt vor dem entsprechenden Zeichen angegeben. If no shelfmark is present, enter the English phrase **[without shelfmark]** in square brackets. Wenn das Vorhandensein einer Signatur unbekannt ist, kann der englische Ausdruck **[no indication]** verwendet werden. Weitere Signaturen werden im Feld **Weitere Signatur (591)** eingetragen.
 
-In records for printed music, the phrase **[no indication]** has been automatically added by the Editorial Center in cases where a shelfmark is not available. RISM-Mitarbeiter, die ihre Bestände überarbeiten, werden gebeten, **[no indication]** in die aktuelle Signatur zu ändern.
+RISM-Mitarbeiter, die ihre Bestände überarbeiten, werden gebeten, **[no indication]** in die aktuelle Signatur zu ändern. RISM-Mitarbeiter, die ihre Bestände überarbeiten, werden gebeten, **[no indication]** in die aktuelle Signatur zu ändern.
 
 ##### Beispiele
 
