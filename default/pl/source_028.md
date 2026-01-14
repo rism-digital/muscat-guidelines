@@ -1,16 +1,16 @@
-### Plate or publisher number (028)
+### Numer wydawcy lub wydawniczy (028)
 
-The field **Plate or publisher number** is for the plate numbers and publisher numbers that appear on the item. They typically appear on printed items but can also be found on manuscripts that were copied from a printed music edition.
+Pole <Numer wydawcy lub wydawniczy</strong> służy do podania numeru wydawcy lub numeru wydawniczego, który odnaleźć można na źródle. Numery te widnieją zazwyczaj na źródłach drukowanych, można je jednak również w rękopisach skopiowanych z druków.
 
-#### Publisher or plate number (028, indicators 20 for plate number; 028, indicators 30 for publisher number)
+#### Numer wydawcy lub wydawniczy (028, wskaźnik 20 dla numeru wydawniczego; 028, wskaźnik 30 dla numeru wydawcy)
 
-Select the kind of number from the drop-down menu. A publisher number is usually found only on the title page. A plate number is usually found at the bottom of each page; include such numbers even if the music was not printed from plates.
+Wybierz rodzaj numeru z menu rozwijanego. Numer wydawcy zwykle znajduje się tylko na stronie tytułowej. Numer wydawniczy znajduje się zazwyczaj na dole każdej strony; jest niezmienny mimo iż zapis muzyczny nie pochodzi matrycy.
 
-#### Number (028 $a)
+#### Numer (028 $a)
 
-Enter the publisher number or plate number exactly as it appears on the source.
+Wprowadź numer wydawcy lub numer wydawniczy zgodnie z tym jak widnieje na źródle.
 
-Enter only one publisher number or plate number per field, but repeat the field if both kinds or multiple numbers are present. If the publisher number is identical with the plate number, the publisher number does not need to be entered separately. Enter all plate numbers found on the source, checking all pages in case multiple plate numbers are present. If a number range is given, enter the range as given on the source and also add each full number separately.
+Wprowadź tylko jeden numer wydawcy lub numer wydawniczy w polu, ale w sytuacji gdy występują oba typy lub na źródle widnieje wiele numerów powtórz pole. Jeżeli numer wydawcy jest identyczny z numerem wydawniczym, numer wydawcy nie musi być wprowadzony dodatkowo. Wprowadź wszystkie numery wydawnicze znalezione w źródle, weryfikując wszystkie strony w przypadku obecności wielu numerów wydawniczych. Jeśli podany jest zakres liczbowy, wpisz zakres podany tak jak jest podany na źródle i dodaj każdy samodzielny numer oddzielnie.
 
 The statement "[without plate number]" in English is allowed and serves to convey to other readers that you checked the source for plate numbers but they are lacking.
 
