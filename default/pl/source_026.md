@@ -1,4 +1,4 @@
-### Fingerprint identifier (026)
+### Identyfikator odcisku palca (026)
 
 The field **Fingerprint identifier** is used to assist in the identification of antiquarian books by creating groups of characters taken from specified positions on specified pages of the book.
 
