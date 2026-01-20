@@ -115,7 +115,7 @@ Wenn Ihre Einrichtung mehrere Exemplare derselben gedruckten Ausgabe besitzt, er
 
 ### Mikrofilmkopien
 
-If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. Instead, it is described along with the holdings information of the original copy on which the microfilm is based. Benachrichtigen Sie die Zentralredaktion, wenn Sie Ihre Mikrofilmkopie erwähnen möchten, aber den Bestandsdatensatz nicht bearbeiten können. Sofern verfügbar, können Links zu einer Beschreibung des Mikrofilms im lokalen Katalog Ihrer Einrichtung hinzugefügt werden. If the microfilm is available digitally, it can be added as a link to an external resource (field 856).
+Benachrichtigen Sie die Zentralredaktion, wenn Sie Ihre Mikrofilmkopie erwähnen möchten, aber den Bestandsdatensatz nicht bearbeiten können. Sofern verfügbar, können Links zu einer Beschreibung des Mikrofilms im lokalen Katalog Ihrer Einrichtung hinzugefügt werden. Benachrichtigen Sie die Zentralredaktion, wenn Sie Ihre Mikrofilmkopie erwähnen möchten, aber den Bestandsdatensatz nicht bearbeiten können. Sofern verfügbar, können Links zu einer Beschreibung des Mikrofilms im lokalen Katalog Ihrer Einrichtung hinzugefügt werden. If the microfilm is available digitally, it can be added as a link to an external resource (field 856).
 
 If your institution owns a microfilm of a printed edition that is otherwise no longer extant in its original physical form, catalog it as a printed edition and list your institution as the holding institution. Indicate in the holdings information that your copy is a microfilm.
 

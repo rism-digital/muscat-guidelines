@@ -1,4 +1,4 @@
-### Jest częścią… (760)
+### (760)
 
 W polu **Jest cześcią...** należy wprowadzić link łączący opisywaną pozycję z rocznikiem, czasopismem, książką lub serią, której jest częścią.
 

@@ -1,11 +1,11 @@
-### Duplicated from (981)
+### Zduplikowane z (981)
 
-The field **Duplicated from** is an automated administrative field that is used when a record is duplicated from an already existing record in Muscat. When a record is duplicated from a record that itself was created from the duplication process, the field documents a maximum of five duplication occurrences: the original record and the most recent four.
+Pole **Zduplikowane z** jest zautomatyzowanym polem administracyjnym, które jest używane, gdy rekord jest duplikowany z już istniejącego rekordu w Muscacie. Kiedy rekord jest zduplikowany z rekordu, który sam został utworzony z duplikatu, pole dokumentuje nie więcej niż pięć duplikatów: oryginał i cztery ostatnie.
 
-#### Original record (981 $0)
+#### Oryginalny rekord (981 $0)
 
-When a cataloger duplicates a record in Secondary Literature, the RISM ID of the original record is automatically entered into this field.
+Gdy kataloger duplikuje rekord w ramach Literatury pomocniczej, w tym polu automatycznie wprowadza się ID RISM oryginalnego rekordu.
 
-#### Date (981 $d)
+#### Data (981 $d)
 
-When a cataloger duplicates a record in Secondary Literature, the date and time of when the duplication took place is automatically entered into this field. The format is YYYY-MM-DD HH:MM:SS.
+Gdy kataloger duplikuje rekord w ramach Literatury pomocniczej, data procesu duplikacji uzupełnia się automatycznie w tym polu. Format daty jest następujący: YYYY-MM-DD HH:MM:SS
