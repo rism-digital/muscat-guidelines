@@ -4,7 +4,7 @@ In diesem Abschnitt wird beschrieben, wie spezielle Arten von Quellen zu katalog
 
 ### Sammlungen
 
-In RISM bezieht sich das Wort _Sammlung_ auf jeden Gegenstand (ob handschriftlich oder gedruckt), der zwei oder mehr Stücke enthält. This includes both collective manuscripts or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
+In RISM bezieht sich das Wort _Sammlung_ auf jeden Gegenstand (ob handschriftlich oder gedruckt), der zwei oder mehr Stücke enthält. Dazu gehören sowohl Sammlungen oder Anthologien als auch Werke, die von ihren Schöpfern nicht unbedingt als Sammlungen gedacht waren (z. B. eine Klaviersonate mit einem kurzen Marsch auf der letzten Seite).
 
 Sammlungen in RISM haben eine übergeordnete/untergeordnete Hierarchie, d. h. es gibt einen Haupteintrag (übergeordneter Datensatz), der die Sammlung als Ganzes beschreibt, und einzelne Einträge (untergeordnete oder analytische Datensätze), die jedes darin enthaltene Stück separat beschreiben.
 
@@ -63,10 +63,10 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kontrafacta. Als B
 - **Zusammenfassende Beschreibung (520)**  
   Fügen Sie eine kurze Beschreibung in englischer Sprache hinzu, um anderen RISM-Nutzern die Situation zu erklären.
  - Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte.
-- **Language of text (041)**  
-  Fill out both of these fields:  
-  Language of text (041 $a): The text of the source in hand  
-  Language of original text (041 $h): Language of the original piece
+- **Sprachcode (041)**  
+  Füllen Sie beide Felder aus:  
+  Sprachcode (041 $a): Der Text der vorliegenden Quelle  
+  Sprachcode des Originaltextes (041 $h): Sprache des Originals
  - Sprachcode: Lateinisch
  - Sprachcode des Originaltextes: Italienisch
 - **Textincipit (031 $t)**  
@@ -262,8 +262,8 @@ Geben Sie Klavierbearbeitungen wie folgt an.
 - Im Feld **Einordnungstitel (240):**
   - Wählen Sie **Bearbeitung** aus.
   - Geben Sie unter **Besetzungshinweis** die Besetzung des Arrangements ein, beispielsweise **pf** oder **V, pf**. Geben Sie nicht die Besetzung des Originalwerks ein.
-- Im Feld **Besetzung (594)**geben Sie die Gesamtbesetzung der Bearbeitung ein. Geben Sie nicht die Besetzung des Originalwerks ein.
-- Im Feld **Materialbeschreibung (300)**verwenden Sie **keyboard score**, wenn das Werk für Klavier reduziert wurde. Verwenden Sie **vocal score** wenn das Werk für Vokalstimme und Klavier reduziert wurde.
+- Im Feld **Besetzung (594)** geben Sie die Gesamtbesetzung der Bearbeitung ein. Geben Sie nicht die Besetzung des Originalwerks ein.
+- Im Feld **Materialbeschreibung (300)** verwenden Sie **keyboard score**, wenn das Werk für Klavier reduziert wurde. Verwenden Sie **vocal score** wenn das Werk für Vokalstimme und Klavier reduziert wurde.
 
 ### In den Veröffentlichungen der RISM-Serie B beschriebene Quellen, die noch nicht in Muscat vorhanden sind
 
