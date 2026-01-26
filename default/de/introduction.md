@@ -13,17 +13,17 @@ Die mittleren Abschnitte (5-9) enthalten die Richtlinien für die RISM-Normdaten
 
 Besuchen Sie die [RISM Muscat-Seite](https://rism.info/community/muscat.html) für weitere Informationen über Muscat.
 
-Die Richtlinien werden von der RISM-Zentralredaktion in Frankfurt am Main, Deutschland, gepflegt. English is the main language of the guidelines and other languages are considered translations.
+Die Richtlinien werden von der RISM-Zentralredaktion in Frankfurt am Main, Deutschland, gepflegt. Englisch ist die Hauptsprache der Richtlinien und andere Sprachen gelten als Übersetzungen.
  - Englisch: [Jennifer Ward](mailto:jennifer.ward@rism.info)
  - Deutsch: [Martina Falletta](mailto:martina.falletta@rism.info)
 
-Falls etwas unklar ist, zögern Sie nicht uns zu kontaktieren. Currently only the English and German guidelines are available on this website and futher translations will follow in due time.
+Falls etwas unklar ist, zögern Sie nicht uns zu kontaktieren. Derzeit sind nur die englischen und deutschen Richtlinien auf dieser Website verfügbar, weitere Übersetzungen werden zu gegebener Zeit folgen.
 
 Wir möchten uns auch bei unseren Übersetzern bedanken, die in der Vergangenheit und in der Gegenwart tätig waren, um Muscat unseren Kollegen weltweit leichter zugänglich zu machen.
- - Catalan: Ferran Jorba, Gerard Puch
+ - Katalanisch: Ferran Jorba, Gerard Puch
  - Italienisch: Claudio Bacciagaluppi, Rodolfo Zitellini
  - Französisch: Claudio Bacciagaluppi, Rodolfo Zitellini, Laurent Pugin
  - Koreanisch: JeongYoun Chang
  - Polnisch: Marcelina Chojecka, Katarzyna Diehl
- - Portuguese: Mary Ângela Biason, André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, Silvia Sequeira, Marcos Virmond
+ - Portugiesisch: Mary Ângela Biason, André Guerra Cotta (†), Diósnio Machado Neto, Beatriz Magalhães Castro, Silvia Sequeira, Marcos Virmond
  - Spanisch: Rodrigo Balaguer, Antonio Ezquerro, John Lazos, Lucas Reccitelli, Oliver Schöner, Luciana Giron Sheridan  
