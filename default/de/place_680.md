@@ -1,7 +1,7 @@
 ### Bemerkungen (680)
 
-The field **General note** is for any other kind of information.
+Das Feld **Bemerkungen** ist für sonstige Informationen vorgesehen.
 
 #### Externe Bemerkungen (680 $a)
 
-Enter any other notes about the place.
+Hier werden allgemeine Angaben zum Ort gemacht, die zur Veröffentlichung bestimmt sind.
