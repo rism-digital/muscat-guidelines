@@ -20,7 +20,7 @@ Geben Sie genauere Informationen zum Standort an, insbesondere bei großen Bibli
 
 #### Bestandsname (852 $z)
 
-This field is used to indicate the name of a special collection, such as a collection, bequest, gift, papers, archive, _Nachlass_, or similar, that the source belongs to.
+Dieses Feld wird verwendet, um den Namen einer bestimmten Sammlung anzugeben, z. B. einer Sammlung, eines Bestands, einer Schenkung, eines Nachlasses, eines Archivs usw., zu der die Quelle gehört.
 
 Geben Sie die Bezeichnung in der Landessprache ein. In eckigen Klammern kann eine Übersetzung in einer der Katalogisierungssprachen gegeben werden.
 
