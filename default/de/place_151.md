@@ -1,20 +1,20 @@
-## Geographic name (151)
+## Geografischer Name (151)
 
-The field **Geographic name** is for the name of the place in its authorized form.
+Das Feld **Geografischer Name** ist für den Namen des Ortes in seiner autorisierten Form.
 
-### Geographic name (151 $a)
+### Geografischer Name (151 $a)
 
-Enter the name of the place.
+Geben Sie den Namen des Ortes ein.
 
-### Language of name (151 $g)
+### Sprache des Namens (151 $g)
 
-Enter the language in which the place name in 151 $a is expressed.
+Geben Sie die Sprache ein, in der der Ortsname in 151 $a angegeben ist.
 
-Place names with equivalents or forms in other languages can be indicated in the field **Alternate geographic name (451)**.
+Ortsnamen mit Entsprechungen oder Formen in anderen Sprachen können im Feld **Alternativer geografischer Name (451)** angegeben werden.
 
-_Examples_  
-**Geographic name (151 $a)**: London  
-**Language of name (151 $g)**: English
+_Beispiele_  
+**Geografischer Name (151 $a)**: London  
+**Sprache des Namens (151 $g)**: Englisch
 
-**Geographic name (151 $a)**: Roma  
-**Language of name (151 $g)**: Italian
+**Geografischer Name (151 $a)**: Roma  
+**Sprache des Namens (151 $g)**: Italienisch
