@@ -20,7 +20,7 @@ Wenn die Werke einer Sammlung unterschiedliche Komponisten, Besetzungen, Quellen
 
 ### Konvolutbände
 
-Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind.
+Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Im Englischen gibt es viele weitere Bezeichnungen für solche Bände: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind.
 
 Es gibt zwei Möglichkeiten, einen Konvolutband zu kennzeichnen. Die erste und einfachste Möglichkeit ist, die Einheiten mit der gleichen Signatur zu versehen; ein Vermerk ist ebenfalls hilfreich. Die zweite Möglichkeit ist die Verwendung der Vorlage für Konvolute.
 
@@ -180,7 +180,7 @@ Wenn es nicht möglich ist, einen angemessenen Datensatz für das gedruckte Mate
 
 ### Noten in Zeitschriften
 
-Catalog each issue of the periodical separately. Es gibt zwei Möglichkeiten, Zeitschriften mit Notenmaterial zu katalogisieren: als Sammlung oder als einzelnes Werk. In beiden Fällen wird der Titel der Zeitschrift mit Heftnummer und Jahr in das Feld **Zeitschrift oder Reihe (490)** eingetragen.
+Katalogisieren Sie jede Ausgabe der Zeitschrift separat. Es gibt zwei Möglichkeiten, Zeitschriften mit Notenmaterial zu katalogisieren: als Sammlung oder als einzelnes Werk. In beiden Fällen wird der Titel der Zeitschrift mit Heftnummer und Jahr in das Feld **Zeitschrift oder Reihe (490)** eingetragen.
 
 #### Sammlungen
 **Sammlungen** können passend sein, wenn die Zeitschrift ausschließlich oder größtenteils aus Noten besteht und der Gegenstand als Ganzes gesammelt und aufbewahrt wurde. Die Exemplareinträge sind der Sammlungsebene zugeordnet. Für jeden Teil der Ausgabe werden Teileinträge erstellt.
@@ -217,7 +217,7 @@ Bände, die Teil von Gesamtausgaben oder Musikdenkmälern sind, werden wie Einze
 Beachten Sie bei der Katalogisierung von Bänden einer Gesamtausgabe insbesondere folgende Felder. Als Beispiel dient die RISM ID Nr. 1001200051, ein Messenband der Reihe _Wolfgang Amadeus Mozart's Werke._
 
 - **Diplomatischer Titel (245)**: Häufig sind mehrere Titelseiten und Schmutztitel vorhanden. Wählen Sie eine Hauptinformationsquelle aus und geben Sie sie als **Diplomatischer Titel** ein. Geben Sie am Anfang des Feldes an, welche Seite transkribiert wird, z. B. [title page] oder [p. iii]. Geben Sie alle anderen Titel im Feld **Weiterer diplomatischer Titel (246)** ein.
-- **Weiterer diplomatischer Titel(246)**: Aufgrund der großen Zahl von Nachdrucken und Variantenausgaben gesammelter Werke empfiehlt es sich, alle anderen Titelseiten oder Titelangaben in dieses Feld aufzunehmen. Dies erleichtert anderen Benutzern die Identifizierung, wenn sie ein Exemplar mit abweichendem Vorspann vorliegen haben.
+- **Weiterer diplomatischer Titel (246)**: Aufgrund der großen Zahl von Nachdrucken und Variantenausgaben gesammelter Werke empfiehlt es sich, alle anderen Titelseiten oder Titelangaben in dieses Feld aufzunehmen. Dies erleichtert anderen Benutzern die Identifizierung, wenn sie ein Exemplar mit abweichendem Vorspann vorliegen haben.
 - **Alternativer Titel (730)**: Geben Sie den Namen der Reihe gemäß den Konventionen der Reihe einschließlich der Bandnummer ein.
 
 ### Libretti
