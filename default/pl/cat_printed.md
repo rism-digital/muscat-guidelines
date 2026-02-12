@@ -115,7 +115,7 @@ Jeżeli Państwa instytucja posiada wiele egzemplarzy tego samego drukowanego wy
 
 ### Kopie mikrofilmowe
 
-Jeżeli instytucja posiada mikrofilm wydania muzycznego, który jest w posiadaniu innej biblioteki, nie należy dodawać tego mikrofilmu jako oddzielny egzemplarz. Zamiast tego opisuje się go wraz z informacjami odnoszącymi się do oryginalnego źródła, którego jest kopią. Jesli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856). Linki opisujące mikrofilm w lokalnych katalogach bibliotek mogą zostać dodane jeśli są dostępne. Jeśli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856).
+Jesli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856). Powiadom Editorial Center jeżeli chcesz dodać swoją kopię mikrofilmową, ale nie możesz edytować rekordu egzemplarza. Instead, it is described along with the holdings information of the original copy on which the microfilm is based. If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. Jeśli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856).
 
 Jeżeli twoja instytucja posiada mikrofilm wydania muzycznego, który nie jest już dostępny w oryginalnej formie, skataloguj go jako wydanie i dodaj siglum swojej instytucji w rekordzie egzemplarza. Wskaż w rekordzie egzemplarza, że egzemplarz jest zachowany w formie mikrofilmu.
 

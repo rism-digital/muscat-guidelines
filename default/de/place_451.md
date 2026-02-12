@@ -1,18 +1,18 @@
-### Alternate geographic name (451)
+### Alternativer geografischer Name (451)
 
-The field **Alternate geographic name** gives various forms of an places's name, including translations.
+Das Feld **Alternativer geografischer Name** enthält verschiedene Formen des Namens eines Ortes, einschließlich der Übersetzungen.
 
-#### Geographic name (451 $a)
+#### Geografischer Name (451 $a)
 
-Enter alternate forms for the name of the place.
+Geben Sie alternative Formen für den Namen des Ortes ein.
 
-#### Language of name (451 $g)
+#### Sprache des Namens (451 $g)
 
-Enter the language in which the place name in 451 $a is expressed.
+Geben Sie die Sprache ein, in der der Ortsname in 451 $a angegeben ist.
 
-_Examples_  
-**Geographic name (151 $a)**: Londres  
-**Language of name (151 $g)**: Spanish
+_Beispiele_  
+**Geografischer Name (151 $a)**: Londres  
+**Sprache des Namens (151 $g)**: Spanisch
 
-**Geographic name (151 $a)**: Rome  
-**Language of name (151 $g)**: English
+**Geografischer Name (151 $a)**: Rome  
+**Sprache des Namens (151 $g)**: Englisch

@@ -82,6 +82,6 @@ Bei unvollständigen Quellen oder wenn die Zahl unbekannt ist, kann anstelle ein
 - Nur 1 Klarinettenstimme:  
   cl  
   1
-- French horns present but it is not known how many:  
+- Waldhörner sind vorhanden, aber es ist nicht bekannt, wie viele:   
   cor  
   X   

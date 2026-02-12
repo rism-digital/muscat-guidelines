@@ -1,6 +1,6 @@
 ### Katalogisierungsquelle (040)
 
-The field **Cataloging source** indicates the organization that created the original record.
+Das Feld **Katalogisierungsquelle** zeigt die Organisation an, die den ursprünglichen Datensatz erstellt hat.
 
 #### Katalogisierungssprache (040 $b)
 

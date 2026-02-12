@@ -12,4 +12,4 @@ Das Schlagwort bezieht sich auf das Gesamtwerk bzw. Vorlagewerk, auch bei Bearbe
 
 Prinzipiell sollte jeder Datensatz ein Schlagwort enthalten, das auf den Einordnungstitel Bezug nimmt. Besonders wichtig ist das Schlagwort bei Werken, deren Werkgruppe nicht aus dem Einordnungstitel hervorgeht. Es können mehrere Schlagwörter vergeben werden; es obliegt dem Katalogisierer, eine sinnvolle Reihenfolge festzulegen. Für manche Stücke eignen sich mehrere Schlagwörter besonders, z. B. "Contrafacta" oder "Inserts".
 
-Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem Schlagwort (650). Consult the appendix **Standardized title – Subject heading** for assistance.
+Bei einem Gattungsbegriff als Einordnungstitel korrespondiert dieser zumeist mit dem Schlagwort (650). Weitere Informationen finden Sie Anhang **Einordnungstitel - Schlagworte**.

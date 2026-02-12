@@ -48,7 +48,7 @@ Missing parts should be entered in the field **General note (500)**.
 
 Enter the shelfmark (also called call number) in this field. Transcribe as precisely as possible, including spacing and punctuation, but enter shelfmarks as a single line of text without line breaks. Enter shelfmarks consistently within any given library collection. Indicate superscript characters with \| (the vertical pipe). If no shelfmark is present, enter the English phrase **[without shelfmark]** in square brackets. The English phrase **[no indication]** can be used if the presence of a shelfmark is unknown. Enter additional shelfmarks in the field **Other shelfmarks (591)**.
 
-In records for printed music, the phrase **[no indication]** has been automatically added by the Editorial Center in cases where a shelfmark is not available. RISM contributors revising their holdings should change **[no indication]** to the current shelfmark.
+RISM contributors revising their holdings should change **[no indication]** to the current shelfmark. In records for printed music, the phrase **[no indication]** has been automatically added by the Editorial Center in cases where a shelfmark is not available.
 
 ##### Examples
 

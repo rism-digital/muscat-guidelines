@@ -1,10 +1,10 @@
 ### Znormalizowane tytuły – Hasła przedmiotowe
 
-Zgodnie z wytycznymi dla pola **Ujednolicony tytuł (240)**, obowiązuje preferencja kolejności przy wprowadzaniu ujednoliconego tytułu: 1) tytuł charakterystyczny, 2) incipit tekstowy, 3) gatunek, 4) oznaczanie tempa.  Niniejsza sekcja rozbudowuje wytyczne dotyczące trzeciego typu ujednoliconego tytułu dla gatunków i wyjaśnia związek z hasłami przemiotowymi.
+As is stated in the guidelines for **Standardized title (240)**,  the order of preference is when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  Niniejsza sekcja rozbudowuje wytyczne dotyczące trzeciego typu ujednoliconego tytułu dla gatunków i wyjaśnia związek z hasłami przemiotowymi.
 
 W wielu przypadkach, gatunki wykorzystywane są również jako ujednolicone tytuły głównie w przypadku muzyki instrumentalnej i w tytułach kolekcji. **Ujednolicony tytuł** i **Hasło przedmiotowe (650)** będą identyczne w przypadku _Symphonies_ lub _Sonatas_.
 
-W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające hasło przedmiotowe. Odpowiednik hasła przedmiotowego wykorzystywany jest w następujących sytuacjach:
+W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające hasło przedmiotowe. A variant subject heading is used especially in the following situations:
 
 - Jeśli ta samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa **(voc.)** lub **(inst.)**.
 - Określenia takie jak **(dances)** lub **(stage)** mogą być również dodane w nawiasie po głównym terminie.
@@ -129,8 +129,8 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 3. Jeśli kompozycją źródłową dla potpourri jest pojedyncza opera:  
    Nie potrzebujesz tej listy! W ramach hasła przedmiotowego wprowadź **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach). W tytule ujednoliconym wprowadź tytuł opery i wyberz **Wyjątki** oraz **Aranżacja**.
 
-4. W przypadku potpourri do którego muzyka pochodzi z wielu oper:  
-   Wybierz **Potpourris** jako znormalizowany tytuł. Wprowadź tytuły oper w polu **Tytuł dodatkowy (730)**. Dla pola hasło przedmiotowe wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach).
+4. Dla pola hasło przedmiotowe wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach). W przypadku potpourri do którego muzyka pochodzi z wielu oper:  
+   Wybierz **Potpourris** jako znormalizowany tytuł. Wprowadź tytuły oper w polu **Tytuł dodatkowy (730)**.
 
 5. W sytaucji kiedy nie znasz źródła muzyki dla potpourri:  
    Wybierz **Potpourris** zarówno w polach tytuł ujednolicony jak i hasło przedmiotowe.
@@ -141,6 +141,6 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 7. W sytuacji kiedy nie znamy źródła kompozycji scenicznej na podstawie której skomponowano aranżację na instrumenty dęte:  
    Wybieramy **Wind music** zarówno w tytule ujednoliconym jak i haśle przedmiotowym.
 
-8. Dla **szkicy** nieznanych kompozycji, wybierz **Sketches** jako tytuł ujednolicony, a dla hasła przedmiotowego **Sketches**. Dla szkicy rozpoznanych kompozycji, wybierz tytuł charakterystyczny lub gatunek w tytule ujednoliconym, w haśle przedmiotowym jako pierwszy wybierz odpowiadajacy gatunek, a jako drugi **Sketches**.
+8. Dla **szkicy** nieznanych kompozycji, wybierz **Sketches** jako tytuł ujednolicony, a dla hasła przedmiotowego **Sketches**. For sketches of known compositions, use the distinctive title or genre of the work as the standardized title, the appropriate genre as the first subject heading, and **Sketches** as the second subject heading.
 
 9. W sytuacji całkowitej braku pewności, takich jak niepewna obsada, wprowadź **Pieces** jako tytuł ujednolicony i **Pieces** w haśle przedmiotowym.

@@ -1,6 +1,6 @@
 ### Typ miejsca (075)
 
-(Guidelines in progress.)
+(Wytyczne w toku.)
 
 #### Typ miejsca (075 $a)
 

@@ -115,7 +115,7 @@ If your institution owns multiple copies (exemplars) of the same printed edition
 
 ### Microfilm copies
 
-If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. Instead, it is described along with the holdings information of the original copy on which the microfilm is based. Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). If the microfilm is available digitally, it can be added as a link to an external resource (field 856).
+Links to a description of the microfilm in your institution's local catalog may be added if available. If the microfilm is available digitally, it can be added as a link to an external resource (856). Instead, it is described along with the holdings information of the original copy on which the microfilm is based. If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. If the microfilm is available digitally, it can be added as a link to an external resource (field 856).
 
 If your institution owns a microfilm of a printed edition that is otherwise no longer extant in its original physical form, catalog it as a printed edition and list your institution as the holding institution. Indicate in the holdings information that your copy is a microfilm.
 
