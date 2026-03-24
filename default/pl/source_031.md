@@ -47,20 +47,20 @@ Należy wpisać tytuł części i tempo lub podobne wskaźniki, jeśli takowe zo
 - All|o
 - [vol. 1 p. 17:] N. 1: Recit. et Aria
 
-**Przestarzałe procedury**: Starsze wytyczne RISM umożliwiały korzystanie ze sformułowania "Without tempo" na wskazanie, że część ma kilka oznaczeń tempa, z czego jeden lub kilka nie jest znanych. Wielokrotne oznaczenia tempa były wprowadzone po sobie, oddzielone średnikami.
+**Przestarzałe procedury**: Starsze wytyczne RISM umożliwiały korzystanie ze sformułowania „Without tempo” na wskazanie, że część ma kilka oznaczeń tempa, z czego jeden lub kilka nie jest znanych. Wielokrotne oznaczenia tempa były wprowadzone po sobie, oddzielone średnikami.
 
 
-#### Voice/instrument (031 $m)
+#### Głos/instrument (031 $m)
 
-Enter the voice part or instrument using the list of **RISM instrument abbreviations**. Enter **V** for an unknown vocal part. Enter **i** for an unknown instrumental part. Indicate the tuning of an instrument in the **General note** field. If the instrument is a transposing instrument, you may enter it at notated pitch or at sounding pitch. In the field **General note (031 $q)**, indicate which option you used.
+Partię wokalną lub instrumentalną należy wpisać korzystając z listy **skrótów instrumentów RISM**. W przypadku nieustalonego głosu należy wpisać **V**. W przypadku nieustalonej partii instrumentalnej należy wpisać **i**. Strój instrumentu należy podać w polu **Uwaga ogólna**. Jeżeli instrument transponuje, jego incipit należy zapisać tak jak jhest zanotowany lub jak brzmi. W polu **Uwaga ogólna (031 $q)**, wskaż jaka metoda została zastosowana.
 
-##### Examples
+##### Przykłady
 
 - pf
 - Coro T
 - org with text
 
-**Obsolete procedures**: Older RISM guidelines required music incipits for transposing instruments to be entered at sounding pitch.
+**Przestarzałe procedury**: Starsze wytyczne RISM wymagały zapisywania incipitów muzycznych dla transponujących instrumentów, w sposób jaki brzmią.
 
 #### Role (031 $e)
 
