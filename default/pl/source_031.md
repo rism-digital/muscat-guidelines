@@ -1,6 +1,6 @@
 ### Incipit (031)
 
-The field **Incipit** is used for musical information about the opening few measures of the piece and includes music incipits as well as text incipits. Incipits help identify works and facilitate the comparison of sources. Best practice for instrumental music is to include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the highest voice and the first violin or the highest instrumental part.
+Pole **Incipt** służy dostarczenia informacji muzycznej za pośrednictwem kilku otwierajacych taktów kompozycji zarówno dla warstwy muzycznej jak i tekstowej. Incipity pomagają w identyfikacji kompozycji i ułatwiają porównywanie źródeł. Best practice for instrumental music is to include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the highest voice and the first violin or the highest instrumental part.
 
 If the notation you need is not available using the Plaine & Easie code, transcribe the music the best you can and include an explanatory note. You can attach an image of the incipit from the source for further clarification.
 
