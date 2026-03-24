@@ -1,11 +1,11 @@
-### Country and district (970)
+### Land und Bezirk (970)
 
-The field **Country and district** is for the country and district of the place.
+Das Feld **Land und Bezirk** ist für das Land und den Bezirk des Ortes bestimmt.
 
-#### Country (970 $a)
+#### Land (970 $a)
 
-Enter the country in which the place is located.
+Geben Sie das Land an, in dem sich der Ort befindet.
 
-#### District (970 $b)
+#### Bezirk (970 $b)
 
-Enter the administrative district(s) appropriate to the place in question, such as county, region, state, provence, prefecture, etc.
+Geben Sie den/die für den betreffenden Ort zuständigen Verwaltungsbezirk(e) ein, z. B. Landkreis, Region, Bundesland, Provinz, Präfektur usw.

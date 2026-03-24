@@ -8,7 +8,7 @@ Geben Sie den Titel der Zeitschrift, des Buches oder der Serie ein. Das Feld ist
 
 #### Band, Jahr, Seite (760 $g)
 
-Geben Sie ggf. den Band, das Heft, das Jahr und/oder die Seitenzahl des Artikels an. Enter in a form appropriate to the style of the journal but use abbreviations in English or German.
+Geben Sie ggf. den Band, das Heft, das Jahr und/oder die Seitenzahl des Artikels an. Geben Sie die Angaben in einer dem Stil der Zeitschrift entsprechenden Form ein, verwenden Sie jedoch Abkürzungen in Englisch oder Deutsch.
 
 ##### Beispiele
 

@@ -1,19 +1,19 @@
 ### Standort (034)
 
-The field **Location** is for the latitude and longitude of a place.
+Das Feld **Ort** dient der Angabe des Längen- und Breitengrads einer Institution.
 
-#### Westernmost longitude (034 $d)
+#### Westlicher Längengrad (034 $d)
 
-Enter the westernmost longitude of the place.
+Geben Sie den westlichen Längengrad des Ortes ein.
 
-#### Easternmost longitude (034 $e)
+#### Östlicher Längengrad ($e)
 
-Enter the easternmost longitude of the place.
+Geben Sie den östlichen Längengrad des Ortes ein.
 
-#### Northernmost latitude (034 $f)
+#### Nördlicher Breitengrad (034 $f)
 
-Enter the northernmost latitude of the place.
+Geben Sie den nördlichen Breitengrad des Ortes ein.
 
-#### Southernmost latitude (034 $g)
+#### Südlicher Breitengrad (034 $g)
 
-Enter the southernmost latitude of the place.
+Geben Sie den südlichen Breitengrad des Ortes ein.

@@ -6,7 +6,7 @@ Ist die benötigte Notation mit dem Plain & Easy-Code nicht verfügbar, transkri
 
 Beachten Sie, dass die Incipittranskription in erster Linie zur Suche und Identifizierung dient und nicht dazu, das visuelle Erscheinungsbild der Partitur zu reproduzieren. Der Plaine & Easie-Code ist eine bewusste Vereinfachung der westlichen Notenschrift, und nicht alle Details können (oder sollten) kodiert werden.
 
-For assistance with transcribing mensural notation, see ["Basic Mensural Notation Reference" by Ted Dumitrescu](http://www.cmme.org/misc/refsheet.pdf).
+Hilfe bei der Transkription von Mensuralnotation finden Sie in [„Basic Mensural Notation Reference“ von Ted Dumitrescu](http://www.cmme.org/misc/refsheet.pdf).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 

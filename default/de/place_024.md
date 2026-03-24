@@ -1,6 +1,6 @@
 ### Normdatenverweise (024)
 
-The field **Other standard identifier** is for alphanumeric codes that refer to a name created by another agency.
+Das Feld **Normdatenverweise** ist für alphanumerische Codes, die auf einen Namen einer anderen Agentur verweisen.
 
 #### Normdatenverweise Nummer (024 $a)
 
@@ -15,4 +15,4 @@ Geben Sie den alphanumerischen Code zur Identifizierung des Namens ein. Der Code
 
 Geben Sie die Agentur ein, die die ID oder den Code erstellt hat. Folgende Angaben sind möglich:
 
-- **TGN**: Getty Thesaurus of Geographic Names
+- **TGN**: Getty Thesaurus geografischer Namen

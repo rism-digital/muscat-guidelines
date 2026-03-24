@@ -5,4 +5,4 @@ Das Feld **Ansetzungsform** dient der Identifizierung der Hauptperson, die im we
 
 Geben Sie den Namen der Person an, die für das Werk verantwortlich ist.
 
-This field is linked to the **Personal names** authority file through $0 and the life dates are displayed in $d.  
+Das Feld ist über $0 mit der Normdatei **Personen** verknüpft. Lebensdaten werden in $d angezeigt.  

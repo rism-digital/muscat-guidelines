@@ -4,7 +4,7 @@ In diesem Abschnitt wird beschrieben, wie spezielle Arten von Quellen zu katalog
 
 ### Sammlungen
 
-In RISM bezieht sich das Wort _Sammlung_ auf jeden Gegenstand (ob handschriftlich oder gedruckt), der zwei oder mehr Stücke enthält. This includes both collective manuscripts or anthologies, as well as items that were not necessarily intended as collections by their creators (such as a piano sonata with a short march on the last page).
+In RISM bezieht sich das Wort _Sammlung_ auf jeden Gegenstand (ob handschriftlich oder gedruckt), der zwei oder mehr Stücke enthält. Dazu gehören sowohl Sammlungen oder Anthologien als auch Werke, die von ihren Schöpfern nicht unbedingt als Sammlungen gedacht waren (z. B. eine Klaviersonate mit einem kurzen Marsch auf der letzten Seite).
 
 Sammlungen in RISM haben eine übergeordnete/untergeordnete Hierarchie, d. h. es gibt einen Haupteintrag (übergeordneter Datensatz), der die Sammlung als Ganzes beschreibt, und einzelne Einträge (untergeordnete oder analytische Datensätze), die jedes darin enthaltene Stück separat beschreiben.
 
@@ -20,7 +20,7 @@ Wenn die Werke einer Sammlung unterschiedliche Komponisten, Besetzungen, Quellen
 
 ### Konvolutbände
 
-Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind.
+Ein **Konvolut** besteht aus Elementen, die separat erstellt, aber später zusammengebunden wurden, typischerweise von einem Eigentümer oder einer Institution. Im Englischen gibt es viele weitere Bezeichnungen für solche Bände: binders' collection, binders' volume, bound sheet music, bound-with, collectors' volume, factitious volume, nonce volume, recueils factices, Sammelband, tract volume. Zu den Konvoluten gehören sowohl Bände, in denen einzelne Drucke, als auch Drucke und Manuskripte zusammengebunden sind.
 
 Es gibt zwei Möglichkeiten, einen Konvolutband zu kennzeichnen. Die erste und einfachste Möglichkeit ist, die Einheiten mit der gleichen Signatur zu versehen; ein Vermerk ist ebenfalls hilfreich. Die zweite Möglichkeit ist die Verwendung der Vorlage für Konvolute.
 
@@ -63,10 +63,10 @@ Beachten Sie die folgenden Felder bei der Katalogisierung von Kontrafacta. Als B
 - **Zusammenfassende Beschreibung (520)**  
   Fügen Sie eine kurze Beschreibung in englischer Sprache hinzu, um anderen RISM-Nutzern die Situation zu erklären.
  - Sacred contrafactum of an aria from Mysliveček's opera Il Bellerofonte.
-- **Language of text (041)**  
-  Fill out both of these fields:  
-  Language of text (041 $a): The text of the source in hand  
-  Language of original text (041 $h): Language of the original piece
+- **Sprachcode (041)**  
+  Füllen Sie beide Felder aus:  
+  Sprachcode (041 $a): Der Text der vorliegenden Quelle  
+  Sprachcode des Originaltextes (041 $h): Sprache des Originals
  - Sprachcode: Lateinisch
  - Sprachcode des Originaltextes: Italienisch
 - **Textincipit (031 $t)**  
@@ -180,7 +180,7 @@ Wenn es nicht möglich ist, einen angemessenen Datensatz für das gedruckte Mate
 
 ### Noten in Zeitschriften
 
-Catalog each issue of the periodical separately. Es gibt zwei Möglichkeiten, Zeitschriften mit Notenmaterial zu katalogisieren: als Sammlung oder als einzelnes Werk. In beiden Fällen wird der Titel der Zeitschrift mit Heftnummer und Jahr in das Feld **Zeitschrift oder Reihe (490)** eingetragen.
+Katalogisieren Sie jede Ausgabe der Zeitschrift separat. Es gibt zwei Möglichkeiten, Zeitschriften mit Notenmaterial zu katalogisieren: als Sammlung oder als einzelnes Werk. In beiden Fällen wird der Titel der Zeitschrift mit Heftnummer und Jahr in das Feld **Zeitschrift oder Reihe (490)** eingetragen.
 
 #### Sammlungen
 **Sammlungen** können passend sein, wenn die Zeitschrift ausschließlich oder größtenteils aus Noten besteht und der Gegenstand als Ganzes gesammelt und aufbewahrt wurde. Die Exemplareinträge sind der Sammlungsebene zugeordnet. Für jeden Teil der Ausgabe werden Teileinträge erstellt.
@@ -217,7 +217,7 @@ Bände, die Teil von Gesamtausgaben oder Musikdenkmälern sind, werden wie Einze
 Beachten Sie bei der Katalogisierung von Bänden einer Gesamtausgabe insbesondere folgende Felder. Als Beispiel dient die RISM ID Nr. 1001200051, ein Messenband der Reihe _Wolfgang Amadeus Mozart's Werke._
 
 - **Diplomatischer Titel (245)**: Häufig sind mehrere Titelseiten und Schmutztitel vorhanden. Wählen Sie eine Hauptinformationsquelle aus und geben Sie sie als **Diplomatischer Titel** ein. Geben Sie am Anfang des Feldes an, welche Seite transkribiert wird, z. B. [title page] oder [p. iii]. Geben Sie alle anderen Titel im Feld **Weiterer diplomatischer Titel (246)** ein.
-- **Weiterer diplomatischer Titel(246)**: Aufgrund der großen Zahl von Nachdrucken und Variantenausgaben gesammelter Werke empfiehlt es sich, alle anderen Titelseiten oder Titelangaben in dieses Feld aufzunehmen. Dies erleichtert anderen Benutzern die Identifizierung, wenn sie ein Exemplar mit abweichendem Vorspann vorliegen haben.
+- **Weiterer diplomatischer Titel (246)**: Aufgrund der großen Zahl von Nachdrucken und Variantenausgaben gesammelter Werke empfiehlt es sich, alle anderen Titelseiten oder Titelangaben in dieses Feld aufzunehmen. Dies erleichtert anderen Benutzern die Identifizierung, wenn sie ein Exemplar mit abweichendem Vorspann vorliegen haben.
 - **Alternativer Titel (730)**: Geben Sie den Namen der Reihe gemäß den Konventionen der Reihe einschließlich der Bandnummer ein.
 
 ### Libretti
@@ -262,8 +262,8 @@ Geben Sie Klavierbearbeitungen wie folgt an.
 - Im Feld **Einordnungstitel (240):**
   - Wählen Sie **Bearbeitung** aus.
   - Geben Sie unter **Besetzungshinweis** die Besetzung des Arrangements ein, beispielsweise **pf** oder **V, pf**. Geben Sie nicht die Besetzung des Originalwerks ein.
-- Im Feld **Besetzung (594)**geben Sie die Gesamtbesetzung der Bearbeitung ein. Geben Sie nicht die Besetzung des Originalwerks ein.
-- Im Feld **Materialbeschreibung (300)**verwenden Sie **keyboard score**, wenn das Werk für Klavier reduziert wurde. Verwenden Sie **vocal score** wenn das Werk für Vokalstimme und Klavier reduziert wurde.
+- Im Feld **Besetzung (594)** geben Sie die Gesamtbesetzung der Bearbeitung ein. Geben Sie nicht die Besetzung des Originalwerks ein.
+- Im Feld **Materialbeschreibung (300)** verwenden Sie **keyboard score**, wenn das Werk für Klavier reduziert wurde. Verwenden Sie **vocal score** wenn das Werk für Vokalstimme und Klavier reduziert wurde.
 
 ### In den Veröffentlichungen der RISM-Serie B beschriebene Quellen, die noch nicht in Muscat vorhanden sind
 

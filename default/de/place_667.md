@@ -1,6 +1,6 @@
 ### Interne Bemerkungen (667)
 
-The field **Internal note** is used for information not intended for public display. Interne Bemerkungen werden nicht in öffentliche Kataloge exportiert oder in den LOD RISM-Daten zur Verfügung gestellt.
+Im Feld **Interne Bemerkungen** werden allgemeine Angaben gemacht, die nicht zur Veröffentlichung bestimmt sind. Interne Bemerkungen werden nicht in öffentliche Kataloge exportiert oder in den LOD RISM-Daten zur Verfügung gestellt.
 
 #### Interne Bemerkungen (667 $a)
 

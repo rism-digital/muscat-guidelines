@@ -2,7 +2,7 @@
 
 (Richtlinien in Vorbereitung.)
 
-#### Authority agency (370 $4)
+#### Normdatenagentur (370 $4)
 
 #### Assoziiertes Land (370 $c)
 

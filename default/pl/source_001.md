@@ -1,7 +1,7 @@
-### RISM ID number (001)
+### Numer RISM ID (001)
 
-The field **RISM ID number** is the permanent RISM identifier for the record. This number is automatically generated and cannot be changed.
+Pole **Numer identyfikacyjny RISM** jest trwałym identyfikatorem RISM dla rekordu. Zawartość pola generuje się automatycznie i nie można jej zmienić.
 
-In record imports, nine-digit RISM ID numbers are assigned. The first three digits of a nine-digit number indicate the contributing national group.
+W przypadku importu rekordów przypisuje się im dziewięciocyfrowe numery identyfikacyjne RISM. Pierwsze trzy cyfry dziewięciocyfrowego numeru wskazują grupę krajową, która jest odpowiedzialna za ich stworzenie.
 
-**Obsolete procedures**: In former RISM cataloging programs, the RISM ID number was entered by hand. The RISM ID number was nine digits in length and the first three digits indicated the national group. Some IDs started with three zeros, which may be ignored. This practice was discontinued with the introduction of Muscat.  
+**Nieaktualne procedury**: W poprzednich programach numer ID RISM był wprowadzany ręcznie. Numer ID RISM miał długość dziewięciu cyfr, a pierwsze trzy cyfry wskazywały grupę krajową. Niektóre identyfikatory zaczynają się od trzech zer, które mogą być ignorowane. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat.  

@@ -2,7 +2,7 @@
 
 Der **Datensatzstatus** gibt an, ob die Datensätze in Quellen veröffentlicht oder unveröffentlicht sind. Nur veröffentlichte Datensätze sind in den frei zugänglichen RISM-Katalogen und Open Data verfügbar. Der Status kann manuell geändert werden. Der Datensatzstatus wird auf jeden Datensatz einzeln angewendet, unabhängig vom Publikationsstatus anderer Datensätze, mit denen er verbunden sein kann (wie in einer Sammlung).
 
-The record status only applies to records created for musical sources. In other areas of Muscat (such as authority files), records are published by default, regardless of record status.
+Der Datensatzstatus gilt nur für Datensätze, die für musikalische Quellen erstellt wurden. In anderen Bereichen von Muscat (z. B. Normdaten) werden Datensätze standardmäßig veröffentlicht, unabhängig vom Status des Datensatzes.
 
 #### Veröffentlicht
 

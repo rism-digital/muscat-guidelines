@@ -14,9 +14,9 @@ Wählen Sie die Sprache(n) des Textes in der Quelle aus. Bei Musik bezieht sich 
 Wenn der Text in der Quelle eine Übersetzung ist, wählen Sie hier die Originalsprache aus.
 
 ##### Beispiele
-_If the item is in Italian only:_  
-**Language of text (041 $a)**: Italian
+_Wenn der Text nur auf Italienisch ist:_  
+**Textsprache (041 $a)**: Italienisch
 
-_If the item is in Italian but the Italian text is a translation from Latin:_  
-**Language of text (041 $a)**: Italian  
-**Language of original text (041 $h)**: Latin
+_Wenn der Text auf Italienisch ist, dieser jedoch eine Übersetzung aus dem Lateinischen ist:_  
+**Textsprache (041 $a)**: Italienisch  
+**Sprache des Originaltextes (041 $h)**: Lateinisch
