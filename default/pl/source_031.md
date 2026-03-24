@@ -1,53 +1,53 @@
 ### Incipit (031)
 
-Pole **Incipt** służy dostarczenia informacji muzycznej za pośrednictwem kilku otwierajacych taktów kompozycji zarówno dla warstwy muzycznej jak i tekstowej. Incipity pomagają w identyfikacji kompozycji i ułatwiają porównywanie źródeł. Best practice for instrumental music is to include incipits from a high part and a low part, such as vl 1 and bass. For vocal music, include incipits from the highest voice and the first violin or the highest instrumental part.
+Pole **Incipt** służy dostarczenia informacji muzycznej za pośrednictwem kilku otwierajacych taktów kompozycji zarówno dla warstwy muzycznej jak i tekstowej. Incipity pomagają w identyfikacji kompozycji i ułatwiają porównywanie źródeł. Najlepszą praktyką dla muzyki instrumentalnej jest włączanie incipitów z partii wysokiej i niskiej, takich jak vl 1 i bas. W przypadku muzyki wokalnej należy uwzględnić incipity z najwyższego głosu i pierwszych skrzypiec lub najwyższej partii instrumentalnej.
 
-If the notation you need is not available using the Plaine & Easie code, transcribe the music the best you can and include an explanatory note. You can attach an image of the incipit from the source for further clarification.
+Jeśli potrzebna notacja nie jest dostępna przy użyciu kodu Plaine & Easie, należy możliwie jak najlepiej przetranskrybować muzykę i dołączyć notatkę objaśniającą. W celu dalszego wyjaśnienia można załączyć obraz incipitu ze źródła.
 
-Keep in mind that incipit transcription is primarily used for searching and identification, not for replicating the visual appearance of the score. The Plaine & Easie Code is an intentional simplification of Western notation and not all details can (or should) be encoded.
+Pamiętaj, że transkrypcja incipitów jest wykorzystywana przede wszystkim do wyszukiwania i identyfikacji, a nie do wizualnego odworowania partytury. Kod Plaine & Easie jest celowym uproszczeniem notacji zachodniej i w zwiazku z tym nie wszystkie szczegóły mogą (lub powinny) być kodowane.
 
-For assistance with transcribing mensural notation, see ["Basic Mensural Notation Reference" by Ted Dumitrescu](http://www.cmme.org/misc/refsheet.pdf).
+Aby uzyskać pomoc w transkrypcji notacji menzuralnej, zobacz [„Podstawowy notacji menzuralnej” autorstwa Teda Dumitrescu](http://www.cmme.org/misc/refsheet.pdf).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
-_MARC export note:_  
-Records that contain an incipit (anything in field 031) receive $2pe upon saving, indicating that the incipit was created using the Plaine & Easie code.
+_Notatka eksport MARC:_  
+Rekordy, które zawierają inicpit (cokolwiek w polu 031) otrzymają przy zapisywaniu adnotację marc $2pe, wskazując, że incipit został utworzony przy użyciu kodu Plaine & Easie.
 
-#### Work number, movement number, incipit number (031 $a, b, c)
+#### Numer utworu, numer części, numer incipitu (031 $a, b, c)
 
-**Required field if any field in this section is used.**
+**Pole wymagane w przypadku korzystania z dowolnego pola w tej sekcji.**
 
-The incipit number consists of three digits, which stand for work, movement, and incipit.
+Numer incipitu składa się z trzech cyfr, które oznaczają utwór, część i incipit.
 
-The first digit is always a 1. The work number refers to the position of the incipit in the record in question, not its position in the source as a whole. Works in RISM are cataloged in separate records using a parent/child hierarchy, so the each record only has one work.
+Pierwszą cyfrą jest zawsze 1. Numer utworu odnosi się do pozycji incipitu w danym rekordzie, a nie do pozycji w całym źródle. Utwory w RISM katalogowane są jako osobne rekordy przy użyciu hierarchii rodziców/dzieci, w związku z czym kaązdy rekord ma jeden utwór.
 
-Movements refer to both the work as a whole but also significant sections of a work, whether they are technically movements (such as a symphony) or different sections (such as a recitative and aria). Movement numbers can be identical if multiple incipits are entered for the movement.
+Części odnoszą się zarówno do utworów jak i do istotnych części utworu, niezależnie od tego, czy są to części w sensie technicznym (np. symfonii), czy też różne sekcje utworu (np. aria). Numery części mogą być identyczne, jeżeli istnieje wiele incipitów dla części.
 
-The incipit number is embedded within the hierarchy of the movement or work. Identical movement numbers but different incipit numbers mean that the incipits sound simultaneously, such as a vl 1 and bass.
+Numer incipitu jest osadzony w hierarchii części uwtoru. Takie same numery części, ale różne numery incipitów oznaczają, że incipity brzmią jednocześnie np. vl 1 i bas.
 
-##### Examples
+##### Przykłady
 
-- 1.1.1 = 1st work, 1st movement, 1st incipit
-- 1.1.2 = 1st work, 1st movement, 2nd incipit (sounds at the same time as 1.1.1)
-- 1.2.1 = 1st work, 2nd movement, 1st incipit
-- 1.3.1 = 1st work, 3rd movement, 1st incipit
+- 1.1.1 = 1. utwór, 1. część, 1. incipit
+- 1.1.2 = 1. utwór, 1. część, 2. incipit (brzmi jednocześnie tak jak 1.1.1)
+- 1.2.1 = 1. utwór, 2. część, 1. incipit
+- 1.2.1 = 1. utwór, 3. część, 1. incipit
 
-Periods between the numbers are automatically added by Muscat.
+Kropki pomiędzy numerami są automatycznie dodawane przez Muscat.
 
-The three-figure incipit number must be unique within a record. Number incipits consecutively and with respect to the record in question. The incipit number may not imply any comment on the position of the item in a source. Numbering within the source should be reflected in the title description, and any particularities can be explained in a note. This means that the incipit for the fourth song in a song collection will be 1.1.1, as with all songs in the collection.
+Trzycyfrowy numer incipitu musi być unikalny w ramach rekordu. Numeracja incipitów powinna odzwierciedlać porządek w rekordzie. Incipit nie może sugerować swojej pozycji w kolekcji w źródle. Numeracja w ramach źródła powinna być ujęta opisie tytułu, a wszelkie cechy szczególne powinny zostać wyrażone w uwadze. Oznacza to, że numeracja incipitu czwartej pieśni w kolekcji będzie oznaczona jako 1.1.1 jak każda z pieśni kolekcji.
 
- Consecutive numbering must be followed even if content is missing from the source. For example, if one song is missing from a collection of six songs, the work number of each incipit will still start with a 1. If the source is a three-movement symphony but the middle movement is missing, the incipits will be numbered 1.1.1 and 1.2.1 (not 1.3.1).
+ Incipity należy numerować kolejno, nawet jeśli w źródło jest wybrakowane. Na przykład, jeśli brakuje jednej pieśni w kolekcji 6 pieśni, numer utworu każdego incipitu zawsze będzie się zaczynał od wartości 1. Jeżeli źródłem jest symfonia trzyczęściowa, ale brakuje części środkowej, incipity będą ponumerowane 1.1.1 i 1.2.1 (nie 1.3.1).
 
 
-#### Title of movement, tempo (031 $d)
+#### Tytuł części, tempo (031 $d)
 
-Enter the title of the movement and tempo or similar indications, if specified, as it appears on the source. Use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Use square brackets to indicate supplements to the original; any such additions should be spelled consistently. Multiple titles or additional tempo markings can be added in separate fields. If you are entering multiple incipits for which the title or tempo indication is the same, enter it only for the first music incipit.
+Należy wpisać tytuł części i tempo lub podobne wskaźniki, jeśli takowe zostały określone, w sposób, w jaki pojawiają się one w źródle. Należy użyć **|** (pionowa kreska) z pojedynczą spacją przed i po znaku, aby pokazać koniec linii. Należy użyć nawiasów kwadratowych, aby wskazać dodatki do oryginału; pisownia wszelkich takich dodatków powinna być spójna. Wiele tytułów lub dodatkowe oznaczenia tempa można dodać w osobnych polach. Przy wpisywaniu wielu incipitów, dla których tytuł lub oznaczenie tempa jest takie samo, należy je wpisać tylko dla pierwszego incipitu muzycznego.
 
-##### Examples
+##### Przykłady
 - All|o
 - [vol. 1 p. 17:] N. 1: Recit. et Aria
 
-**Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
+**Przestarzałe procedury**: Starsze wytyczne RISM umożliwiały korzystanie ze sformułowania "Without tempo" na wskazanie, że część ma kilka oznaczeń tempa, z czego jeden lub kilka nie jest znanych. Wielokrotne oznaczenia tempa były wprowadzone po sobie, oddzielone średnikami.
 
 
 #### Voice/instrument (031 $m)
