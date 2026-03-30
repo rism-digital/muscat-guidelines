@@ -129,8 +129,8 @@ Standardized title — Subject heading
 3. A potpourri where you know that the music comes from a single opera:  
    You don't need this list! Enter the subject headings **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate). Use the name of the opera as the standardized title and select **Excerpts** and **Arrangement**.
 
-4. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate). A potpourri where you know that the music comes from several operas:  
-   Use **Potpourris** as the standardized title. Enter the names of the operas in the field **Additional title (730)**.
+4. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate). A potpourri where you know that the music comes from several operas:  
+   Use **Potpourris** as the standardized title.
 
 5. A potpourri where you do not know what operas the music is from:  
    Use **Potpourris** as both the standardized title and subject heading.
