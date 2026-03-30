@@ -62,19 +62,19 @@ Partię wokalną lub instrumentalną należy wpisać korzystając z listy **skr�
 
 **Przestarzałe procedury**: Starsze wytyczne RISM wymagały zapisywania incipitów muzycznych dla transponujących instrumentów, w sposób jaki brzmią.
 
-#### Role (031 $e)
+#### Rola (031 $e)
 
-Enter the standardized dramatic role name here. If you fill out this field, make sure to also fill out the field **Dramatic role named (595)**. Indicate any editorial additions with square brackets. Indicate any questionable information with a question mark.
+Tutaj należy wprowadzić ujednoliconą nazwę roli dramatycznej. Jeśli wypełnisz to pole, upewnij się, że wypełnisz również pole **Postaci (595)**. Wskazać uzupełnienia za pomocą nawiasów kwadratowych. Wszelkie wątpliwe informacje należy odnotować znakiem zapytania.
 
-#### Text incipit (031 $t)
+#### Incipit tekstowy (031 $t)
 
-A text incipit consists of the first few words of the piece or section and can be the first line, first phrase, or other group of words that make linguistic sense. Text incipits serve to identify the text used and do not necessarily need to match the length of music given in the music incipit. Text incipits can be included regardless of whether a music incipit is entered. Note that separate rules apply to texts in Latin (see below).
+Incipit tekstowy składa się z kilku pierwszych słów utworu lub części i może być pierwszą linijką, pierwszą frazą lub inną grupą słów, które mają sens językowy. Incipity tekstowe służą do identyfikacji użytego tekstu i niekoniecznie muszą pasować do długości muzyki podanej w incipicie muzycznym. Incipit tekstowy można uwzględnić niezależnie od tego, czy jest podany na źródle. Należy pamiętać, że do tekstów sporządzonych w języku łacińskim mają zastosowanie odrębne zasady (patrz poniżej).
 
-Text incipits are given in standardized form. Enter the text incipit using modern spelling. Refer to the index **Title/text incipits** to help standardize your entry. Enter new incipits if they are not in the index.
+Incipity tekstowe podaje się w formie ujednoliconej. Incipity tekstowe należy wprowadzać przy użyciu współczesnej pisowni. W celu znormalizowania wpisu należy odwołać się do kartoteki haseł wzorcowych **Tytuły/incipity tekstowe**. Jeśli nie ma ich w kartotece, należy wpisać dodać nowe incipity.
 
-Do not put portions of the text in square brackets or supply missing words. Omit punctuation marks and repetitions in the text.
+Nie należy umieszczać fragmentów tekstu w nawiasach lub podawać brakujących słów. W tekście nie należy umieszczać znaków interpunkcyjnych i powtórzeń.
 
-Accents should be used only as they appear in the dictionary or if they are grammatically correct. Write out numbers at the beginnings of texts as words. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter.
+Akcentów należy używać tylko w takiej formie, w jakiej pojawiają się w słowniku lub jeśli są poprawne gramatycznie. Write out numbers at the beginnings of texts as words. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter. Upper- and lower-case letters follow the rules of the respective language, except that designations for God (Herr, Dio, Dieu, Signore, Lord, etc.) always start with a capital letter.
 
 Omit the text entirely if you cannot read it and add a note saying "Text illegible" or similar.
 
