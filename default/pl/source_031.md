@@ -202,136 +202,136 @@ qq...r = kilka appoggiatur lub ozdobników, które stanowią jedną całość (p
 - Przykłady dla wielu taktów pustych
  - =35/
 
-##### 7. Bar lines
+##### 7. Kreski taktowe
 
-/ = bar line  
-// = double bar line  
-//: = double bar line with repeat  
-:// = double bar line with repeat  
-://: = double bar line with repeat
+/ = kreska taktowa  
+// = podwójna kreska taktowa  
+//: = podwójna kreska taktowa z powtórzeniem  
+:// = podwójna kreska taktowa z powtórzeniem  
+://: = podwójna kreska taktowa z powtórzeniem
 
-##### 8. Other symbols
+##### 8. Inne symbole
 
-t = trill (immediately follows the note)
+t = tryl (znajduje się natychmiast po nucie)
 
-+ = tie (immediately follows the note; not to be confused with a slur)  
-  () = fermata/hold/pause (only a single note letter name or a single rest can be bracketed; accidentals, pitch indications, etc. must be outside the parentheses; see also **10. Special rhythms**, below)
++ + = łuk (znajduje się natychmiast po nucie; nie mylić z legato)  
+  () = fermata/trzymanie/pauza (w nawiasy można ująć jedynie nazwę literową jednej nuty lub jedną pauzę; znaki chromatyczne, oznaczenia wysokości dźwięku itp. muszą być po za nawiasami; patrz także ** 10. Rytmy specjalne**, poniżej)
 
-Do not enter slurs.
+Nie wpisywać łuków.
 
-##### 9. Beaming
+##### 9. Belkowanie
 
-{ = beginning of beaming  
-} = end of beaming
+{ = początek belkowania  
+} = koniec belkowania
 
-###### Example
+###### Przykład
 
 {qq6'CDEDr}
 
-##### 10. Special rhythms
+##### 10. Rytmy specjalne
 
-( = beginning of special rhythm  
-) = end of special rhythm
+( = początek rytmu specjalnego  
+) = koniec rytmu specjalnego
 
-The total duration value of the group must be written before the **(**. The rhythmic value of the first note must be given after **(**, even if it is identical with that of the note immediately before the section of special rhythm. The number of notes in the group must be indicated before **)**. It is separated from the last note by **;**.
+Ogólną wartość trwania grupy należy podać przed **(**. Wartość rytmiczna pierwszej nuty należy podać po **(**, nawet jeśli jest identyczna jak wartość nuty znajdującej tuż przed sekcją specjalnego rytmu. Liczbę nut w grupie należy wskazać przed **)**. Należy ją oddzielić od ostatniej nuty za pomocą **;**.
 
-###### Examples
+###### Przykłady
 
-- 8(3ABCDE;5)   = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note.
-- 8({3ABCDE};5) = quintuplet, five demisemiquavers/32nd notes, in the space of a quaver/eighth note, beamed
+- 8(3ABCDE;5)  = grupa pięciu trzydziestodwójek w miejsce jednej ósemki.
+- 8({3ABCDE};5) = grupa pięciu trzydziestodwójek w miejsce jednej ósemki, belkowana.
 
-The triplet is a special case. Strictly speaking, it should be encoded as:  
-8(6ABC;3) or 8({6ABC};3).  
-Instead though, the following shortcut is permitted:  
+Triola stanowi przypadek szczególny. Zasadniczo, należy ją kodować w sposób następujący:  
+8(6ABC;3) lub 8({6ABC};3).  
+Zamiast tego, dozwolony jest następujący skrót:  
 (6ABC)  
 ({6ABC})
 
-Do not forget the rhythmic value within the bracket!
+Nie należy zapominać o wartości rytmicznej w obrębie nawiasu kwadratowego!
 
-##### 11. Shortcuts
+##### 11. Skróty
 
-###### 11.1. Repeated figures
+###### 11.1. Figury powtarzane
 
-! = beginning and end of passage  
-f = repeat indication   
-The figure will be repeated as often as **f** is repeated after the second **!**. This is only possible within a bar.
+! ! = początek i koniec pasażu  
+f = oznaczenie powtórzenia   
+Powtórzeń tej figury jest tyle, ile jest powtórzeń **f** po drugim **!**. Jest to możliwe jedynie w obrębie taktu.
 
-###### Example
+###### Przykład
 
-- !{'8ABAG}!ff = this figure will be repeated twice
+- !{'8ABAG}!ff = ta figura powtarza się dwukrotnie.
 
-###### 11.2. Repeated bars
+###### 11.2. Powtarzane takty
 
-i = repeat last bar  
-'i' always goes between two bar lines.
+i = powtórzenie ostatniego taktu  
+'i' umieszcza się zawsze między dwoma kreskami taktowymi.
 
-###### Example
+###### Przykład
 
-- '4ABAG/i/i/ = the bar will be repeated twice
+- '4ABAG/i/i/ = takt zostanie powtórzony dwukrotnie.
 
-###### 11.3. Rhythmic patterns
+###### 11.3. Wzory rytmiczne
 
-When a certain rhythmic sequence is repeated several times, the rhythmic pattern can be given before the respective note letter names.
+Gdy dana sekwencja rytmiczna powtarza się kilka razy, wzór rytmiczny można podać przed nazwami literowymi odpowiednich nut.
 
-The rhythmic sequence ends as soon a different rhythmic value occurs. Make sure that all notes as indicated by the pattern are present at least once.
+Sekwencja rytmu kończy się z chwilą pojawienia się innej wartości rytmicznej. Upewnij się, że wszystkie nuty oznaczone jako wzór są widoczne co najmniej raz.
 
-###### Example
+###### Przykład
 
-- Instead of **8.A6B8C8.D6E8F** the code can be **8.68ABCDEF**
+- Zamiast zapisu **8.A6B8C8.D6E8F** korzystając z kodowania można zapisać **8.68ABCDEF**
 
 
-##### 12. Change of clef
+##### 12. Zmiana klucza
 
-If the clef changes within the music incipit, use **%** to change the clef. Follow this with the new clef and a space.
+Jeżeli klucz zmienia się w obrębie incipitu, użyj znaku **%** w celu zmiany klucza. Następnie podaj nowy klucz i spację.
 
-###### Examples
+###### Przykłady
 
 - %C-1 '2A
 - %C-1 $xFC '8B
 
-##### 13. Change of key
+##### 13. Zmiana tonacji
 
-If the key changes within the music incipit, use **$** to change the key. Follow this with the new key signature and a space. A key signature can only be changed once per measure. You can cancel the previous key signature with $n or move directly to the new key signature.
+Jeżeli tonacja, zmienia się w obrębnie incipitu, użyj znaku **$** w celu zmiany tonacji. Następnie podaj nową toncję za pomocą oznaczeń znaków przykluczowych i spację. Zmiana tonacji może być wprowadzona tylko raz w ramach taktu. Możesz anulować poprzednią zmianą tonacji używając znaku $n lub wprowadzić nową nową tonację poprzez oznaczenia znaków przykluczowych.
 
-###### Examples
+###### Przykłady
 
 - $nBE $xFC
 - $xFC
 
-##### 14. Change of time signature
+##### 14. Zmiana metrum
 
-If the time signature changes within the music incipit, use **@** to change the time signature. Follow this with the new time signature and a space.
+Jeżeli metrum zmienia się w obrębie incipitu, użyj znaku **@** w celu zmiany metrum. Następnie podaj nowe oznaczenie metrum i spację.
 
-###### Examples
+###### Przykład
 
 - @3/2 '1C
 
-##### 15. Abbreviations
+##### 15. Skróty
 
-Abbreviated forms of notation found within the music, such as tremolos or simile signs for repeats, must be written out in full using the actual notation.
+Skrócone formy notacji występujące w nutach, takie jak tremola lub znaki simile, należy wpisać w całości stosując występującą w źródle notację.
 
-###### Examples
+###### Przykład
 
-- {'8DDDD} = minim/ half tremolo on D
+- {'8DDDD} = półnuta/minima/półtremolo na D
 
-##### 16. Chords
+##### 16. Akordy
 
-Enter chords from the highest to the lowest note, separated by a **^**.
+Wprowadzić akordy od najwyższej do najniższej nuty, oddzielone znakiem **^**.
 
-###### Example
+###### Przykład
 
 - 4’’C^’G^E^C
 
-**Obsolete procedures**: In older cataloging programs, the field for encoded notation began with the control character $ followed by the key signature ($xFC for $bBE), and then a character that was entered as a ³ (superscript 3) but displayed as an _ (underscore). Incipits with no key signature started directly with an _.
+**Przestarzałe procedury**: We wcześniejszych programach do katalogowania, pole do zakodowanych zapisów rozpoczynało się od znaku $, następnie występowały znaki przykluczowe ($xFC DLA $bBE), a następnie znak a ³ (3 w indeksie górnym), ale wyświetlane jako an _ (podkreślenie). Incipity bez oznaczenia tonacji, zaczynały się od znaku an _.
 
-#### General note (031 $q)
+#### Uwaga ogólna (031 $q)
 
-Add any other comments, such as the pitch of transposing instruments, mistakes in the incipit, the text incipit with the original spelling and/or punctuation, or any adjustments you had to make. Enter using your cataloging language.
+Tu należy wprowadzić wszelkie inne uwagi, takie jak wysokość dźwięku transponowanych instrumentów, błędy w incipicie, incipit tekstowy w oryginalnej pisowni i/lub z oryginalną interpunkcją, lub wszelkie inne dokonane adiustacje. Wprowadzać stosując używany przez Państwa język katalogowania.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed the symbols **?**, **+**, and **t** to represent standardized remarks. This practice was discontinued with the introduction of Muscat, and instead explanatory notes in natural language are put into the field **General note (031 $q)**. The symbols were the following:
-- **?** = Error in the incipit could not be corrected.
-- **+** = Error in the incipit has been corrected.
-- **t** = The incipit has been transcribed into modern notation.
+**Przestarzałe procedury**: Starsze wytyczne katalogowania RISM pozwolalały na użycie symboli **?**, **+**i **t** odzwierciedlając znormalizowane uwagi. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat i zamiast tego informacje wyjaśniające w są umieszczane w polu **Uwaga ogólna (031 $q)**. Były następujące symbole:
+- **?** = Błąd w incipicie nie mógł zostać skorygowany.
+- **+** = Błąd w incipicie został poprawiony
+- **t** = Incipity został przetranskrybowany do współczesnej notacji
 
 
 #### Scoring in movement (031 $z)
