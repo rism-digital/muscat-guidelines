@@ -153,60 +153,53 @@ W tym polu nie należy niczego wpisywać! (Stosuje się je tylko dla starych dan
 
 Incipit muzyczny należy wpisywać w formie zakodowanej korzystając z kodu Plaine & Easie (patrz także [https://www.iaml.info/plaine-easie-code](https://www.iaml.info/plaine-easie-code)). Incipit powinien być długości co najmniej dwóch taktów (miar) lub sześciu nut.
 
-##### 1. Octaves
-' = in the 1st octave above middle C  
-'' = in the 2nd octave above middle C  
-''' = in the 3rd octave above middle C  
-, = in the 1st octave below middle C  
-,, = in the 2nd octave below middle C  
-,,, = in the 3rd octave below middle C
+##### 1. Oktawy
+' = w pierwszej oktawie powyżej środkowego C '' = w drugiej oktawie powyżej środkowego C ''' = w trzeciej oktawie powyżej środkowego C , = w pierwszej oktawie poniżej środkowego C ,, = w drugiej oktawie poniżej środkowego C ,,,,, = w trzeciej oktawie poniżej środkowego C
 
-##### 2. Rhythmic values
+##### 2. Wartości rytmiczne
 
 0 = longa  
-9 = breve  
-1 = whole note / semibreve  
-2 = half note / minim  
-4 = quarter note / crotchet / semiminim  
-8 = eighth note / quaver / fusa  
-6 = 16th note / semiquaver / semi fusa   
-3 = 32nd note / demisemiquaver  
-5 = 64th note / hemidemisemiquaver  
-7 = 128th note / semihemidemisemiquaver  
-7\. = neumatic notation
+9 = brevis  
+1 = cała nuta / semibrevis  
+2 = półnuta / minima  
+4 = ćwierćnuta / semiminima  
+8 = ósemka / fusa  
+6 = szesnastka / semi fusa   
+3 = trzydziestodwójka 5 = sześćdziesięcioczwórka  
+7 = stodwudziestoósemka   
+7\. = notacja neumatyczna
 
-Periods are used for dotted notes. Multiple periods can be added to a note.
+Kropki stosuje się do oznaczenia nut z kropką. Do nuty można dodać wiele kropek.
 
-4\. = dotted quarter note / dotted crotchet   
-8.. = double dotted eighth note / double dotted quaver
+4\. = ćwierćnuta z kropką</0> 8.. = ósemka z podwójną kropką
 
-##### 3. Accidentals
+##### 3. Znaki chromatyczne
 
-x = sharp  
-xx = double sharp  
-b = flat  
-bb = double flat  
-n = natural
+x = krzyżyk  
+xx = podwójny krzyżyk  
+b = bemol  
+bb = podwójny bemol  
+n = kasownik
 
-##### 4. Note names
+##### 4. Nazwy nut
 
-C, D, E, F, G, A, B
+C, D, E, F, G, A, H
 
-##### 5. Grace notes and ornaments
+##### 5. Ozdobniki
 
-g = acciaccatura (without rhythmic value, precedes the note name)  
-q = appoggiatura (with rhythmic value, precedes the note name)  
-qq...r = several appoggiaturas or ornaments which belong together (with rhythmic value)
+g = acciaccatura (bez wartości rytmicznej, poprzedza nazwę nuty)  
+q = appoggiatura/przednutka długa (posiada wartość rytmiczną, poprzedza nazwę nuty)  
+qq...r = kilka appoggiatur lub ozdobników, które stanowią jedną całość (posiadają wartość rytmiczną)
 
-##### 6. Rests
+##### 6. Pauzy
 
-The '-' (minus sign) is for a single-note rest. Use '=' (equal sign) for a measure rest. For multiple measures of rest, follow the = with the number of measures and a bar line.
-- Eighth-note rest
+'-' czyli (znak minus) oznacza pauzę jednonutową. Dla oznaczenia taktu pustego należy stosować „=” (znak równości). Dla wielu pustych taktów, po znaku równości, należy podać ilość i oznaczenie kreski taktowej.
+- Przykład dla pauzy ósemkowej
  - 8-/
-- One measure of rest
+- Przykłady dla jednego taktu pustego
  - -/
  - =1/
-- Multiple measures of rest
+- Przykłady dla wielu taktów pustych
  - =35/
 
 ##### 7. Bar lines
