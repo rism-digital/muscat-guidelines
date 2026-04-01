@@ -334,9 +334,9 @@ Tu należy wprowadzić wszelkie inne uwagi, takie jak wysokość dźwięku trans
 - **t** = Incipity został przetranskrybowany do współczesnej notacji
 
 
-#### Scoring in movement (031 $z)
+#### Obsada w części (031 $z)
 
-In this field, you can indicate the specific scoring for the particular movement in question (such as a movement within a complex vocal piece). List the scoring on one line using RISM instrument abbreviations and in the standard order (described in **Scoring summary [240 $m]**). Use a semicolon to separate instrument families.
+W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie rozbudowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w polu **Podsumowanie obsady [240 $m]**). Do oddzielenia grup instrumentów należy należy stosować znak średnika.
 
 ##### Przykłady
 
