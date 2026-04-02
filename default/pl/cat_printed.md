@@ -75,7 +75,7 @@ Tytuły ujednolicone należy wprowadzać stosując współczesną ortografię, l
 ##### Przykłady:
 
 - na
- - : Tytul widniejący na źródle: Musicalische Grab=schrifft. Tytuł ujednolicony: Musikalische Grabschrift
+ - Tytuł widniejący na źródle: Musicalische Grab=schrifft. Tytuł ujednolicony: Musikalische Grabschrift
  - Rekord bibliograficzny wobec danych dla rekordu egzemplarza
 
 
