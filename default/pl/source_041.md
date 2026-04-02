@@ -14,9 +14,9 @@ Należy wybrać język (języki) tekstu w źródle. W przypadku źródeł muzycz
 Jeśli tekst w źródle jest tłumaczeniem, należy w tym polu wybrać język oryginalny.
 
 ##### Przykłady
-_Jeśli indywidualny wpis pozycji w kolekcji jest tylko w języku włoskim:_  
+_Jeśli objekt jest tylko w języku włoskim:_  
 ** Język tekstu (041 $a)**: Włoski
 
-_Jeśli indywidualny wpis pozycji w kolekcji jest po włosku, ale ten włoski jest tłumaczeniem z łaciny:_  
+_Jeśli obiekt jest po włosku, ale ten włoski jest tłumaczeniem z łaciny:_  
 **Język tekstu (041 $a)**: Włoski  
 **Język tekstu oryginalnego (041 $h)**: Łaciński
