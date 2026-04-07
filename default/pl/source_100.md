@@ -25,4 +25,4 @@ Jeśli wpiszesz kompozytora jako **Anonymus,** nie wprowadzaj kwalifikatora atry
 - **Domyślny** jest domysłem opartym na drugorzędnych dowodach (takich jak literatura pomocnicza).
 - **Błędnie przypisany** oznacza, że nazwa w źródle jest obecna, lecz jest nieprawidłowa. Jeżeli źródło jest anonimowe, pozostał to pole puste.
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed the attribution **Verified.** The attribution was used if the composer's name appears on the source in the same form as the RISM name heading. This practice was discontinued with the introduction of Muscat. **Doubtful** used to indicate that the authorship was in question; this was removed and the remaining terms were clarified in 2024.
+**Przestarzałe procedury**: Starsze wytyczne katalogowania RISM umożliwiły przypisanie **Zweryfikowane.** Atrybucja była wykorzystywana w sytuacji kiedy nazwa na źródle była taka sama jak w RISM. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat. **Wątpliwy** oznacza, że autorstwo jest niepewne; zostało to usunięte, a pozostałe atrybucje doprecyzowane w 2024 r.
