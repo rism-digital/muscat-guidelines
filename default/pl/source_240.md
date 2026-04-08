@@ -47,65 +47,65 @@ Jednakże, w przypadku mszy, requiem, kompozycji na uroczystości pogrzebowe, li
 
 Przy wprowadzaniu incipitów tekstowych, należy stosować zasady ortografii każdego z języków w zakresie użycia wielkich lub małych liter. Należy kapitalizować nazwy bóstwa (God, Herr, Dio, Dieu, Signore, Lord, etc.). Należy pomijać znaki interpunkcyjne i powtórzenia w obrębie incipitu. Dla tytułów, które są tłumaczeniami należy użyć incipitu tekstowego w języku oryginału.
 
-Upewnij się, że incipit tekstowy użyty w tym polu jest tak sam jak w polu **Incipit tekstowy (031 $t)**. With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use the text incipit in its entirety for the text incipit.
+Upewnij się, że incipit tekstowy użyty w tym polu jest tak sam jak w polu **Incipit tekstowy (031 $t)**. W przypadku tekstów łacińskich należy wybrać tekst poprzedzany przez przecinek (z listy w aneksie) jako tytuł ujednolicony w całej swojej postaci.
 
-###### Examples
+###### Przykłady
 
 - Der Mond ist aufgegangen
-- Gloria [with text incipit: Gloria, in excelsis Deo et in terra pax]
+- Gloria [z incipitem tekstowym: Gloria, in excelsis Deo et in terra pax]
 
-##### 3. Genre
+##### 3. Gatunek
 
-Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
+Wykorzystaj gatunek utworu jako tytuł ujednolicony, gdy brak tytułu charakterystycznego lub incipitu tekstowego. W większości przypadków należy wpisać gatunek w języku angielskim i w liczbie mnogiej (np. **Operas**). Należy przy tym pamiętać, że w przypadku niektórych gatunków wykorzystuje się odpowiadajace określenie pochodzące z kartoteki haseł wzorcowych dla pola **Hasło przedmiotowe (650)**. Zapoznaj się z listą **Tytuł ujednolicony — Hasło przedmiotwe** w **Wytycznych** aby uzyskać pomoc.
 
-###### Examples
+###### Przykłady
 
 - Symphonies
 - Allemandes
 
-##### 4. Tempo indications
+##### 4. Oznaczenia tempa
 
-Enter the tempo indication if the genre cannot be determined. If none of these options are available, use the following terms:
+Należy wprowadzić oznaczenie tempa jeżeli nie można ustalić gatunku. Jeżeli żadna z tych opcji nie jest dostępna, należy użyć następujących terminów:
 
 - Songs (vocal pieces)
-- Pieces (a generic piece)
-- Movements (a single movement of an instrumental piece without a tempo indication and of indeterminate character)
+- Pieces (utwór ogólny)
+- Części (pojedyncza część utworu instrumentalnego bez oznaczenia tempa i o nieustalonym charakterze)
 
-###### Examples
+###### Przykłady
 
 - Presto
 - Lento
 
-#### Special rules
+#### Zasady specjalne
 
-##### Collections
+##### Kolekcje
 
-In these cases, a number plus the genre is entered. Enter an Arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.
+W takich przypadkach wprowadza się liczbę plus wprowadzony gatunek. Podać cyfrę arabską oznaczającą ile utworów przynależy do danej kolekcji, a następnie podać możliwie najszerszy odpowiadajacy gatunek.
 
-###### Examples
+###### Przykłady
 
 - 25 Arias
 - 3 Instrumental pieces
 
-##### Composite volumes
+##### Klocki introligatorskie
 
-Enter a number corresponding to the number of items involved plus the English word "Items."
+W takich przypadkach wprowadza się liczbę odpowiadającą ilości obiektów w adligacie plus angielskie słowo „Items”.
 
-###### Example
+###### Przykład
 
 - 11 Items
 
-##### Variations
+##### Wariacje
 
-Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
+Wprowadzić **Variations** jako tytuł ujednolicony. W polu **Tytuł dodatkowy (730)**wpisz dzieło na bazie którego powstały wariacje, jeśli jest znane, i wybierz **Wariacje** obok **Strefy Aranżacji**.
 
-##### Insertions
+##### Wstawki
 
-Enter the text incipit of the inserted piece as the standardized title here. In the field **Additional title (730)**, enter the name of the opera or larger work and select **Inserts** next to **Subheading.**
+Należy wprowadzić incipit tekstowy wstawionego utworu jako tytuł ujednolicony. W polu **Tytuł dodatkowy (730)** należy wpisać nazwę opery lub większego utworu i wybrać **Wyjątki** w ramach podpola **Pod-nagłówek**.
 
-##### Non-Latin scripts
+##### Alfabety niełacińskie
 
-If your source has a standardized title that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Standardized title** using the original script. Translations or transliterations are optional and may be added in the field **Additional title (730)**.
+Jeśli źródło ma tytuł, który używa liter lub znaków innych niż łacińskie (cyrylica/alfabet grecki/hebrajski/koreański itp. znaki chińskie itp.), należy wprowadzić **Tytuł ujednolicony** stosując oryginalny alfabet. Tłumaczenia lub transliteracje nie są obowiązkowe, można je dodać w polu **Tytuł dodatkowy (730)**.
 
 #### Arrangement statement (240 $o)
 
