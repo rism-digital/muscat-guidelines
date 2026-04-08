@@ -1,6 +1,6 @@
-### Standardized title (240)
+### Tytuł ujednolicony (240)
 
-The field **Standardized title** is for the title in a standardized form. The standardized title brings compositions together under the same title which, despite having a variety of names, are the same or similar. Also called the "filing title" or "uniform title."
+W polu **Tytuł ujednolicony** należy wpisać tytuł w ustandaryzowanej formie. Tytuł ujednolicony łączy razem pod tym samym tytułem kompozycje, które mimo posiadania różnych nazw, są kompozycją tą samą lub podobną. Also called the "filing title" or "uniform title."
 
 _MARC export note:_  
 The field **Standardized title** is exported as MARC 130, with the same subfields as 240, when the record does not include a name in the field **Composer/Author (100)**.
