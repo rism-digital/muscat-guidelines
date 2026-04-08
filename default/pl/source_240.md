@@ -101,7 +101,7 @@ Wprowadzić **Variations** jako tytuł ujednolicony. W polu **Tytuł dodatkowy (
 
 ##### Wstawki
 
-Należy wprowadzić incipit tekstowy wstawionego utworu jako tytuł ujednolicony. W polu **Tytuł dodatkowy (730)** należy wpisać nazwę opery lub większego utworu i wybrać **Wyjątki** w ramach podpola **Pod-nagłówek**.
+Należy wprowadzić incipit tekstowy wstawionego utworu jako tytuł ujednolicony. W polu **Tytuł dodatkowy (730)** należy wpisać nazwę opery lub większego utworu i wybrać **Wstawienia** w ramach podpola **Pod-nagłówek**.
 
 ##### Alfabety niełacińskie
 
