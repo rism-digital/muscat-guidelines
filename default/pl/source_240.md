@@ -39,7 +39,7 @@ W języku angielskim preferowany jest przypadek zdania. W języku francuskim pre
 
 Wprowadź incipit tekstowy jako tytuł ujednolicony dla utworów wokalnych, jeśli nie mają odrębnego tytułu.
 
-Jeśli źródło składa się z recytatywu i arii lub sceny i arii, jako tytułu ujednoliconego zawsze używa się incipitu tekstowego arii. Te same zasady stosuje się do recytatywu i cavatiny, sceny i ronda lub podobnych kombinacji. W przypadku pojedynczej arii z opery, której tytuł nie jest znany, należy wpisać incipit tekstowy arii.
+Te same zasady stosuje się do recytatywu i cavatiny, sceny i ronda lub podobnych kombinacji. Jeśli źródło składa się z recytatywu i arii lub sceny i arii, jako tytułu ujednoliconego zawsze używa się incipitu tekstowego arii. W przypadku pojedynczej arii z opery, której tytuł nie jest znany, należy wpisać incipit tekstowy arii.
 
 Natomiast w przypadku kantat, tekst pierwszego utworu wokalnego funkcjonuje jako tytuł ujednolicony, niezależnie od tego, czy jest to recytatyw, aria czy chór.
 
