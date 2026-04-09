@@ -363,6 +363,9 @@ chapters:
         - title: "670"
           helpfile: "person_670"
           index: true
+        - title: "675"
+          helpfile: "person_675"
+          index: true
         - title: "678"
           helpfile: "person_678"
           index: true
