@@ -1,21 +1,22 @@
-### Language code (041)
+### Kod języka (041)
 
-The field **Language code** is for the language used in the source. Explanatory notes can be given in the field **Language note (546)**. Contact the RISM Editorial Center if you need a language that is not on the list. Languages are listed in accordance with the [MARC Code List for Languages](https://www.loc.gov/marc/languages/language_code.html).
+Pole **Kod języka** dotyczy języka używanego w źródle. Wyjaśnienia można zawrzeć w polu **Uwaga o języku (546)**. Jeśli brak jezyka na liście, należy skontaktować się z RISM Editorial Center. Języki są wymienione zgodnie z [Listą kodów MARC dla języków](https://www.loc.gov/marc/languages/language_code.html).
 
-#### Language of text (041 $a)
+#### Język tekstu (041 $a)
 
-**Required field if Text Incipit (031 $t) is filled out**
+**Pole wymagane, jeśli wypełniono pole Incipit tekstowy (031 $t).**
 
-Select the language(s) of the text in the source. For music, this refers to the language of the sung or spoken text, even if it is printed separately, and not other text such as prefaces or dedications. For treatises and librettos, this refers to the language of the text.
+Należy wybrać język (języki) tekstu w źródle. W przypadku źródeł muzycznych to pole odnosi się to do języka tekstu śpiewanego lub mówionego, nawet jeśli tekst został wydrukowany oddzielnie, jednakże nie do innych tekstów, takich jak przedmowy lub dedykacje. W przypadku librett, to pole odnosi się do języka tekstu.
 
 
-#### Language of original text (041 $h)
+#### Język tekstu oryginalnego (041 $h)
 
-If the text in the source is a translation, select the original language here.
+Jeśli tekst w źródle jest tłumaczeniem, należy w tym polu wybrać język oryginalny.
 
 ##### Przykłady
-_If the item is in Italian only:_  
-**Language of text (041 $a)**: Italian
+_Jeśli objekt jest tylko w języku włoskim:_  
+** Język tekstu (041 $a)**: Włoski
 
-_If the item is in Italian but the Italian text is a translation from Latin:_  
-**Language of text (041 $a)**: Italian **Language of original text (041 $h)**: Latin
+_Jeśli obiekt jest po włosku, ale ten włoski jest tłumaczeniem z łaciny:_  
+**Język tekstu (041 $a)**: Włoski  
+**Język tekstu oryginalnego (041 $h)**: Łaciński

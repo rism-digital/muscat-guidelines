@@ -1,13 +1,13 @@
-### Cataloging agency (040)
+### Jednostka katalogująca rekord (040)
 
-The field **Cataloging agency** indicates the organization that created the original record.
+Pole **Jednostka katalogująca rekord** wskazuje organizację odpowiedzilaną za wytworzenie rekordu.
 
-### Cataloging language (040 $b)
+### Język katalogowania (040 $b)
 
-Indicate your cataloging language. Select from the following:
-- English
-- French
-- German
-- Italian
-- Portuguese
-- Spanish   
+Należy podać język katalogowania. Wybierz z dostępnych poniżej:
+- Angielski
+- Francuski
+- Niemiecki
+- Włoski
+- Portugalski
+- Hiszpański   

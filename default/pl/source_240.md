@@ -1,111 +1,111 @@
-### Standardized title (240)
+### Tytuł ujednolicony (240)
 
-The field **Standardized title** is for the title in a standardized form. The standardized title brings compositions together under the same title which, despite having a variety of names, are the same or similar. Also called the "filing title" or "uniform title."
+W polu **Tytuł ujednolicony** należy wpisać tytuł w ustandaryzowanej formie. Tytuł ujednolicony łączy razem pod tym samym tytułem kompozycje, które mimo posiadania różnych nazw, są kompozycją tą samą lub podobną. Zwany również „tytułem grupującym” lub „tytułem jednolitym”.
 
-_MARC export note:_  
-The field **Standardized title** is exported as MARC 130, with the same subfields as 240, when the record does not include a name in the field **Composer/Author (100)**.
+_Notatka eksportu MARC:_  
+Wartość pola **Tytuł ujednolicony** eksportowana jest jako MARC 130, z tymi samymi podpolami co 240, gdy rekord nie zawiera nazwy w polu **Kompozytor/Autor (100)**.
 
-#### Standardized title (240 $a)
+#### Tytuł ujednolicony (240 $a)
 
-**Required field.**
+**Pole wymagane.**
 
-Enter the title in a standardized form. The field is linked to the **Title/Text incipit** index through $0. Indicate questionable information with a question mark at the end (for example, **Die Zauberflöte?**). Do not use square brackets or parentheses. Put alternative versions of the title in the field **Additional title (730)**.
+Wprowadź tytuł w znormalizowanej formie. Pole jest powiązane z kartoteką haseł wzorcowych **Tytuły/incipity tekstowe** poprzez podpole $0. Zaznaczyć wątpliwe informacje znakiem zapytania na końcu (np. **Die Zauberflöte?**). Nie używać nawiasów kwadratowych ani okrągłych. Alternatywne wersje tytuły należy dodać w polu **Tytuł dodatkowy (730)**.
 
-A standardized title can be generated from the following, in order of preference:
+Tytuł ujednolicony można wygenerować zgodnie z poniższą preferencją kolejności:
 
-1. Distinctive titles
-2. Text incipits
-3. Genres
-4. Tempo markings
+1. Tytuły charakterystyczne
+2. Incipity tekstowe
+3. Gatunki
+4. Oznaczenia tempa
 
-##### 1. Distinctive titles
+##### 1. Tytuły charakterystyczne
 
-Distinctive titles include all kinds of stage works, oratorios, cantatas, and songs, and also certain kinds of instrumental music (such as character pieces from the 18th century with a distinctive, individual title).
+Tytuły charakterystyczne obejmują wszelkiego rodzaju dzieła sceniczne, oratoria, kantaty i pieśni, a także niektóre rodzaje muzyki instrumentalnej (takie jak charakterystyczne dzieła z XVIII wieku o specjalnym tytule indywidualnym).
 
-Enter the distinctive title in standard spelling as in (1) New Grove, (2) MGG, (3) catalogs of works, and/or (4) other reference books. Do not omit initial articles (the, a, an, der, die, le, l', etc.).
+Wprowadź tytuł charakterystyczny stosując standardową pisownię wedle (1) New Grove, (2) MGG, (3) katalogów utworów i/lub (4) innych książek referencyjnych. Nie należy pomijać początkowych przedimków (the, a, an, der, die, le, l' itp.).
 
-Popular names or nicknames (such as "Eroica" or "Nelson Mass") do not count as standardized titles. Such names are entered in the field **Additional titles (730 $a)**.
+Popularne nazwy lub pseudonimy (takie jak „Eroica” czy „Msza Nelsońska”) nie są uznawane jako tytuły ujednolicone. Takie nazwy wpisuje się w polu **Tytuł dodatkowy (730 $a)**.
 
-In English, sentence case is preferred. In French, the simplified French rules ([Règles simplifiées](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#Titres_d%E2%80%99%C5%93uvres_ou_de_p%C3%A9riodiques)) are preferred.
+W języku angielskim preferowany jest przypadek zdania. W języku francuskim preferowane są ([Règles simplifiées](https://fr.wikipedia.org/wiki/Usage_des_majuscules_en_fran%C3%A7ais#Titres_d%E2%80%99%C5%93uvres_ou_de_p%C3%A9riodiques)).
 
-###### Examples
+###### Przykłady
 
 - Die Forelle
-- Die Zauberflöte
+- Die Zauberflöte
 - The beggar's opera
 - L'italiana in Algeri
 
-##### 2. Text incipit
+##### 2. Incipit tekstowy
 
-Enter the text incipit as the standardized title for vocal pieces if there is no distinctive title.
+Wprowadź incipit tekstowy jako tytuł ujednolicony dla utworów wokalnych, jeśli nie mają odrębnego tytułu.
 
-Apply the same principles to a recitative and cavatina, scena and rondo, or similar combinations. If a source consists of a recitative and aria or a scena and aria, the text incipit of the aria is always used as the standardized title. If you have a single opera aria from an opera whose title is unknown, enter the text incipit of the aria.
+Jeśli źródło składa się z recytatywu i arii lub sceny i arii, jako tytułu ujednoliconego zawsze używa się incipitu tekstowego arii. Te same zasady stosuje się do recytatywu i cavatiny, sceny i ronda lub podobnych kombinacji. W przypadku pojedynczej arii z opery, której tytuł nie jest znany, należy wpisać incipit tekstowy arii.
 
-With cantatas, on the other hand, the text of the first vocal piece functions as the standardized title, regardless of whether it is a recitative, aria, or chorus.
+Natomiast w przypadku kantat, tekst pierwszego utworu wokalnego funkcjonuje jako tytuł ujednolicony, niezależnie od tego, czy jest to recytatyw, aria czy chór.
 
-However, use the genre for masses, requiems, obsequies, litanies, and compositions for the divine office. The same is true for complete operas and oratorios whose titles are unknown.
+Jednakże, w przypadku mszy, requiem, kompozycji na uroczystości pogrzebowe, litanii i kompozycji liturgicznych, należy wprowadzić gatunek. To samo dotyczy kompletnych oper i oratoriów, których tytuły są nieznane.
 
-Capitalize the names of the deity (God, Herr, Dio, Dieu, Signore, Lord, etc.). When entering text incipits, use the orthographic rules of each respective language to dictate use of upper or lower case letters. Omit punctuation marks and repetitions within the incipit. If the item is clearly a translation, enter the standardized title in the original language.
+Przy wprowadzaniu incipitów tekstowych, należy stosować zasady ortografii każdego z języków w zakresie użycia wielkich lub małych liter. Należy kapitalizować nazwy bóstwa (God, Herr, Dio, Dieu, Signore, Lord, etc.). Należy pomijać znaki interpunkcyjne i powtórzenia w obrębie incipitu. Dla tytułów, które są tłumaczeniami należy użyć incipitu tekstowego w języku oryginału.
 
-Make sure that the text incipit in this field is identical with the text incipit in the field **Text incipit (031 $t)**. With Latin texts, use the text that precedes the comma (from the list in the appendix) as a standardized title but use the text incipit in its entirety for the text incipit.
+Upewnij się, że incipit tekstowy użyty w tym polu jest tak sam jak w polu **Incipit tekstowy (031 $t)**. W przypadku tekstów łacińskich należy wybrać tekst poprzedzany przez przecinek (z listy w aneksie) jako tytuł ujednolicony w całej swojej postaci.
 
-###### Examples
+###### Przykłady
 
 - Der Mond ist aufgegangen
-- Gloria [with text incipit: Gloria, in excelsis Deo et in terra pax]
+- Gloria [z incipitem tekstowym: Gloria, in excelsis Deo et in terra pax]
 
-##### 3. Genre
+##### 3. Gatunek
 
-Use the genre of the piece as the standardized title if you have neither a distinctive title nor a text incipit. In most cases, enter the genre in English and in the plural (such as **Operas**). Note that for some genres, a corresponding **Subject heading (650)** is used. Consult the appendix **Standardized title – Subject heading** in the **Guidelines** for assistance.
+Wykorzystaj gatunek utworu jako tytuł ujednolicony, gdy brak tytułu charakterystycznego lub incipitu tekstowego. W większości przypadków należy wpisać gatunek w języku angielskim i w liczbie mnogiej (np. **Operas**). Należy przy tym pamiętać, że w przypadku niektórych gatunków wykorzystuje się odpowiadajace określenie pochodzące z kartoteki haseł wzorcowych dla pola **Hasło przedmiotowe (650)**. Zapoznaj się z listą **Tytuł ujednolicony — Hasło przedmiotwe** w **Wytycznych** aby uzyskać pomoc.
 
-###### Examples
+###### Przykłady
 
 - Symphonies
 - Allemandes
 
-##### 4. Tempo indications
+##### 4. Oznaczenia tempa
 
-Enter the tempo indication if the genre cannot be determined. If none of these options are available, use the following terms:
+Należy wprowadzić oznaczenie tempa jeżeli nie można ustalić gatunku. Jeżeli żadna z tych opcji nie jest dostępna, należy użyć następujących terminów:
 
 - Songs (vocal pieces)
-- Pieces (a generic piece)
-- Movements (a single movement of an instrumental piece without a tempo indication and of indeterminate character)
+- Pieces (utwór ogólny)
+- Części (pojedyncza część utworu instrumentalnego bez oznaczenia tempa i o nieustalonym charakterze)
 
-###### Examples
+###### Przykłady
 
 - Presto
 - Lento
 
-#### Special rules
+#### Zasady specjalne
 
-##### Collections
+##### Kolekcje
 
-In these cases, a number plus the genre is entered. Enter an Arabic numeral indicating how many works belong to the collection, followed by a genre that is as comprehensive as possible.
+W takich przypadkach wprowadza się liczbę plus wprowadzony gatunek. Podać cyfrę arabską oznaczającą ile utworów przynależy do danej kolekcji, a następnie podać możliwie najszerszy odpowiadajacy gatunek.
 
-###### Examples
+###### Przykłady
 
 - 25 Arias
 - 3 Instrumental pieces
 
-##### Composite volumes
+##### Klocki introligatorskie
 
-Enter a number corresponding to the number of items involved plus the English word "Items."
+W takich przypadkach wprowadza się liczbę odpowiadającą ilości obiektów w adligacie plus angielskie słowo „Items”.
 
-###### Example
+###### Przykład
 
 - 11 Items
 
-##### Variations
+##### Wariacje
 
-Enter **Variations** as the standardized title here. In the field **Additional title (730)**, enter the piece the work is based on, when known, and select **Variations** next to **Arrangement statement**.
+Wprowadzić **Variations** jako tytuł ujednolicony. W polu **Tytuł dodatkowy (730)**wpisz dzieło na bazie którego powstały wariacje, jeśli jest znane, i wybierz **Wariacje** obok **Strefy Aranżacji**.
 
-##### Insertions
+##### Wstawki
 
-Enter the text incipit of the inserted piece as the standardized title here. In the field **Additional title (730)**, enter the name of the opera or larger work and select **Inserts** next to **Subheading.**
+Należy wprowadzić incipit tekstowy wstawionego utworu jako tytuł ujednolicony. W polu **Tytuł dodatkowy (730)** należy wpisać nazwę opery lub większego utworu i wybrać **Wstawienia** w ramach podpola **Pod-nagłówek**.
 
-##### Non-Latin scripts
+##### Alfabety niełacińskie
 
-If your source has a standardized title that uses non-Latin letters or characters (Cyrillic/Greek/Hebrew/Korean etc. alphabet, Chinese characters, etc.) enter the **Standardized title** using the original script. Translations or transliterations are optional and may be added in the field **Additional title (730)**.
+Jeśli źródło ma tytuł, który używa liter lub znaków innych niż łacińskie (cyrylica/alfabet grecki/hebrajski/koreański itp. znaki chińskie itp.), należy wprowadzić **Tytuł ujednolicony** stosując oryginalny alfabet. Tłumaczenia lub transliteracje nie są obowiązkowe, można je dodać w polu **Tytuł dodatkowy (730)**.
 
 #### Arrangement statement (240 $o)
 

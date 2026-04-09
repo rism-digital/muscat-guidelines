@@ -141,8 +141,8 @@ Standardized title — Subject heading
 3. Un popurrí cuya música proviene de una sola ópera:  
    ¡No necesita esta lista! Use el nombre de la ópera como título uniforme y seleccione  **Extractos ** y  **Arreglos**. Use los descriptores  **_Potpourris_** y  **_Operas _** (u **Operettas** , etc. según corresponda).
 
-4. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate). A potpourri where you know that the music comes from several operas:  
-   Use **Potpourris** as the standardized title. Enter the names of the operas in the field **Additional title (730)**.
+4. Enter the names of the operas in the field **Additional title (730)**. For the subject heading, enter **Potpourris** and **Operas** (or **Operettas**, etc. as appropriate). A potpourri where you know that the music comes from several operas:  
+   Use **Potpourris** as the standardized title.
 
 5. Un popurrí respecto del cual se desconoce la procedencia de la música:  
    Use  **Potpourris ** como título y como descriptor.
