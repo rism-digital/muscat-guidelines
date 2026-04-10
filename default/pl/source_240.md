@@ -97,7 +97,7 @@ W takich przypadkach wprowadza się liczbę odpowiadającą ilości obiektów w 
 
 ##### Wariacje
 
-Wprowadzić **Variations** jako tytuł ujednolicony. W polu **Tytuł dodatkowy (730)**wpisz dzieło na bazie którego powstały wariacje, jeśli jest znane, i wybierz **Wariacje** obok **Strefy Aranżacji**.
+Wprowadzić **Variations** jako tytuł ujednolicony. W polu **Tytuł dodatkowy (730)** wpisz dzieło na bazie którego powstały wariacje, jeśli jest znane, i wybierz **Wariacje** w ramach podpola **Uwaga do aranżacji**.
 
 ##### Wstawki
 
@@ -107,15 +107,15 @@ Należy wprowadzić incipit tekstowy wstawionego utworu jako tytuł ujednolicony
 
 Jeśli źródło ma tytuł, który używa liter lub znaków innych niż łacińskie (cyrylica/alfabet grecki/hebrajski/koreański itp. znaki chińskie itp.), należy wprowadzić **Tytuł ujednolicony** stosując oryginalny alfabet. Tłumaczenia lub transliteracje nie są obowiązkowe, można je dodać w polu **Tytuł dodatkowy (730)**.
 
-#### Arrangement statement (240 $o)
+#### Strefa aranżacji (240 $o)
 
-Select **Arrangement** if the work is an arrangement of another work.
+Wybrać **Aranżacja**, jeśli utwór jest aranżacją innego utworu.
 
-Note that retextings and transpositions are not considered arrangements. In such cases, enter the name of the responsible person, if known, under **Additional personal name (700)**. Although the works are not considered arrangements, the person is referred to there as "Arranger".
+Należy pamiętać, że przetekstowań i transpozycji nie traktuje się jako aranżacji. W takich przypadkach należy w polu **Dodatkowa osoba (700)** wpisać imię i nazwisko osoby odpowiedzialnej (jeśli jest znane). Mimio iż w przypadku tych utworów, nie mamy do czynienia z aranżacjami, wybieramy w funkcji dla tych osób „Aranżera”.
 
-Arrangements should also be distinguished from independent works (free elaborations), such as variations, paraphrases, parodies, and fantasies on themes from the original work.
+Należy również odróżnić aranżacje od utworów niezależnych (swobodnych opracowań), takich jak wariacje, parafrazy, parodie i fantazje na tematy z utworu oryginalnego.
 
-#### Subheading (240 $k)
+#### Podhasło (240 $k)
 
 This field is for special form aspects as applicable. Select from the following:
 
