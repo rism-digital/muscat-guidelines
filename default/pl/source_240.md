@@ -117,7 +117,7 @@ Należy również odróżnić aranżacje od utworów niezależnych (swobodnych o
 
 #### Podhasło (240 $k)
 
-Pole to dotyczy szczególnych aspektów formularza, w stosownych przypadkach. Wybrać spośród poniższych:
+To pole jest przeznaczone dla określonej formy utworu i należy go używać, jeśli jest to istotne. Wybrać spośród poniższych:
 
 - **Wyjątki**: dostępna jest tylko jedna lub kilka sekcji całego utworu
 - **Fragmenty**: dostępne są tylko fragmenty utworu
