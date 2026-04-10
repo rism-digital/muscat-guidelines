@@ -117,125 +117,125 @@ Należy również odróżnić aranżacje od utworów niezależnych (swobodnych o
 
 #### Podhasło (240 $k)
 
-This field is for special form aspects as applicable. Select from the following:
+Pole to dotyczy szczególnych aspektów formularza, w stosownych przypadkach. Wybrać spośród poniższych:
 
-- **Excerpts**: if only one or several sections of the complete work are present
-- **Fragments**: if only fragments of the work are present
-- **Sketches:** if only sketches of the work are present
+- **Wyjątki**: dostępna jest tylko jedna lub kilka sekcji całego utworu
+- **Fragmenty**: dostępne są tylko fragmenty utworu
+- **Szkice**: dostępne są tylko szkice utworu
 
-#### Key or mode (240 $r)
+#### Tonacja lub modus (240 $r)
 
-**Required if the key can be determined with certainty.**
+**Wymagane, jeśli tonację można ustalić z pewnością.**
 
-Select the key of the entire work (even for excerpts).
+Wybrać tonację całego utworu (nawet w przypadku wyjątków).
 
-In the case of arrangements, enter the key of the original work. If the original key cannot be determined, enter the key of the source in hand; in this case, though, enter a corresponding note in the field **General note (500)**.
+W przypadku aranżacji, wpisać tonację oryginalnego utworu. Jeśli nie można ustalić oryginalnej tonacji, należy wprowadzić tonację posiadanego źródła. W tym przypadku należy jednak wprowadzić odpowiednią uwagę w polu **Uwaga ogólna (500)**.
 
-If no key is indicated on the source, select a key only if it can be determined with certainty.
+Jeśli w źródle nie jest wskazano żadnej tonacji, należy wybrać tonację tylko wtedy, gdy można ją ustalić z pewnością.
 
-Do not enter a key for: operas, oratorios, and cantatas; recitatives without an ensuing aria; and works for which a key cannot be clearly established.
+Nie należy wprowadzać tonacji w przypadku oper, oratoriów i kantat, recytatywów bez następujących po nich arii oraz utworów, w przypadku których tonacji nie da się jednoznacznie ustalić.
 
-Do not translate modes into modern key names.
+Nie tłumaczyć modusów na współczesne nazwy tonacji.
 
-The following Western church modes are available:
-- 1st tone (Dorian)
-- 1st tone (Dorian), transposed
-- 2nd tone (Hypodorian)
-- 2nd tone (Hypodorian), transposed
-- 3rd tone (Phrygian)
-- 3rd tone (Phrygian), transposed
-- 4th tone (Hypophrygian)
-- 4th tone (Hypophrygian), transposed
-- 5th tone (Lydian)
-- 5th tone (Lydian), transposed
-- 6th tone (Hypolydian)
-- 6th tone (Hypolydian), transposed
-- 7th tone (Mixolydian)
-- 7th tone (Mixolydian), transposed
-- 8th tone (Hypomixolydian)
-- 8th tone (Hypomixolydian), transposed
-- 9th tone (Aeolian)
-- 9th tone (Aeolian), transposed
-- 10th tone (Hypoaeolian)
-- 10th tone (Hypoaeolian), transposed
-- 11th tone (Ionian)
-- 11th tone (Ionian), transposed
-- 2th tone (Hypoionian)
-- 12th tone (Hypoionian), transposed
+Dostępne są poniższe skale kościelne:
+- 1. ton (dorycki)
+- 1. ton (dorycki), transponowany
+- 2. ton (hypodorycki)
+- 2. ton (hypodorycki), transponowany
+- 3. ton (frygijski)
+- 3. ton (frygijski), transponowany
+- 4. ton (hypofrygijski)
+- 4. ton (hypofrygijski), transponowany
+- 5. ton (lidyjski)
+- 5. ton (lidyjski), transponowany
+- 6. ton (hypolidyjski)
+- 6. ton (hypolidyjski), transponowany
+- 7. ton (miksolidyjski)
+- 7. ton (miksolidyjski), transponowany
+- 8. ton (hypomiksolidyjski)
+- 8. ton (hypomiksolidyjski), transponowany
+- 9. ton (eolski)
+- 9. ton (eolski), transponowany
+- 10. ton (hypoeolski)
+- 10. ton (hypoeolski), transponowany
+- 11. ton (joński)
+- 11. ton (joński), transponowany
+- 12. ton (hypojoński)
+- 12. ton (hypojoński), transponowany
 
-The following Byzantine church modes are available:
-- Ēchos prōtos (First mode of Byzantine music)
-- Ēchos deuteros (Second mode of Byzantine music)
-- Ēchos tritos (Third mode of Byzantine music)
-- Ēchos tetartos (Fourth mode of Byzantine music)
-- Ēchos plagios prōtos (First plagal mode of Byzantine music)
-- Ēchos plagios deuteros (Second plagal mode of Byzantine music)
-- Ēchos barys (Third plagal mode of Byzantine music)
-- Ēchos plagios tetartos (Fourth plagal mode of Byzantine music)
+Dostępne poniżej modusy bizantyjskie:
+- Ēchos prōtos (pierwszy modus muzyki bizantyskiej)
+- Ēchos deuteros (drugi modus muzyki bizantyskiej)
+- Ēchos deuteros (trzeci modus muzyki bizantyskiej)
+- Ēchos tetartos (czwarty modus muzyki bizantyskiej)
+- Ēchos plagios prōtos (pierwszy plagalny modus muzyki bizantyskiej)
+- Ēchos plagios deuteros (drugi plagalny modus muzyki bizantyskiej)
+- Ēchos barys (trzeci plagalny modus muzyki bizantyskiej)
+- Ēchos plagios tetartos (czwarty plagalny modus muzyki bizantyskiej)
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed multiple key signatures to be entered in this field, separated by a semicolon. This practice was discontinued with the introduction of Muscat.
+**Przestarzałe procedury**: Starsze wytyczne katalogowania RISM pozwolalały na wprowadzenie wielu tonacji w tym polu, oddzielonych średnikiem. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat.
 
-#### Scoring summary (240 $m)
+#### Podsumowanie obsady (240 $m)
 
-**Required field except for the following: operas and oratorios with the standard instrumentation V (X), Coro, orch**
+**Pole wymagane, z wyjątkiem: oper i oratoriów ze standardową instrumentacją V (X), Coro, orch.**
 
-If you have sketches or collections, enter a scoring summary if it makes sense to do so.
+W przypadku szkiców lub kolekcji, jeśli ma to sens, należy wprowadzić podsumowanie obsady.
 
-Enter a brief scoring (instrumentation) summary of the overall medium of performance for the work here. Enter a maximum of four elements. Separate each element of the scoring summary with commas. A detailed description of the instrumentation is entered in the field **Total scoring (594)**. The entire scoring summary goes in one line; repeat the field only to indicate alternative instrumentations (see below).
+Wprowadzić tutaj krótkie podsumowanie całkowitej obsady (instrumentacji) jako narzędzia wykonawczego. Każdy element streszczenia obsady należy oddzielić przecinkami. Wprowadzić maksymalnie cztery elementy. Dokładny opis obsady wprowadza się w polu **Szczegółowy opis obsady (594)**. Całe podsumowanie obsady znajduje się w jednej linii; pole należy powtórzyć tylko w celu podania alternatywnych instrumentacji (patrz poniżej).
 
-Use terms from the **Abbreviations** list. Write out any terms that are not contained in this list in full and in English.
+Używać wyrażeń z listy **Skróty**. Jeżli jakiejś nazwy brakuje na liście, należy ją podać w pełnym brzmieniu i w języku angielskim.
 
-Enter groups of instruments in the following order:
+Grupy instrumentów wprowadzić w następującej kolejności:
 
-- Solo voices
-- Chorus
-- Solo instruments
-- Strings
-- Woodwinds
-- Brass
-- Plucked instruments
-- Percussion
-- Keyboard instruments
+- Głosy solowe
+- Chóry
+- Instrumenty solowe
+- Smyczki
+- Dęte drewniane
+- Blaszane
+- Szarpane
+- Perkusja
+- Klawiszowe
 - Basso continuo
 
-Use **V** to indicate an unknown vocal part and **i** for an unknown instrument. Indicate an unknown number with **(X)**. When more than one of the same voice or instrument is indicated, place the number in parentheses after the part designation, such as **B (2)**. Also use **V** to group together several different vocal parts, such as **V (8)**.
+W przypadku podania więcej niż jednego tego samego głosu lub instrumentu należy umieścić ich liczbę w nawiasach po desygnacji partii, np. **B(2)**. Wprowadzić **V**, aby oznaczyć nieznaną partię głosową oraz **i**, aby oznaczyć nieznany instrument. Należy podać **V** także do zgrupowania kilku różnych partii wokalnych, takich jak **V (8)**. W przypadku nieznanej liczby, należy podać **(X)**.
 
-Specify solo instruments only if they have a continuous solo function in relation to an orchestra, especially in a solo concerto. Do not list a part here if it only has occasional solo passages, such as an oboe solo in a section of a cantata.
+Instrumenty solowe należy podawać tylko wtedy, gdy pełnią one ciągłą funkcję solową w stosunku do orkiestry, zwłaszcza w koncercie solowym. Nie wymieniać tutaj partii, jeśli ma ona jedynie okazjonalne pasaże solowe, takie jak obój solo w sekcji kantaty.
 
-In the case of arrangements, the scoring summary refers to the personnel required in the present source, not in the work on which an arrangement is based. If the instrumentation of the original work is known, specify it in the field **General note (500)**. In the case of a **Collection**, only use the field if the particular scoring is applicable to all the works contained in the collection.
+W przypadku aranżacji, podsumowanie obsady odnosi opisywanego źródła, a nie do źródła oryginalnego na podstawie, którego aranżacja się opiera. Jeżeli znana jest instrumentacja utworu oryginalnego, należy ją podać w polu **Uwaga ogólna (500)**. W przypadku **Kolekcji** należy korzystać z pola tylko wtedy, gdy dana obsada ma zastosowanie do wszystkich utworów zawartych w kolekcji.
 
-This field may be repeated in cases where alternative instrumentation is suggested, such as a song that is for either soprano or tenor. In such cases, enter each possible instrumentation in a separate field: for example, **S, pf** on one line and **T, pf** on the next.
+Pole to można powtórzyć w przypadkach, gdy w źródle sugeruje się alternatywną instrumentację, np. pieśń na sopran lub na tenor. W takich przypadkach należy wpisać każdą możliwą instrumentację w osobnym polu: na przykład: **S, pf** w jednej linii i **T, pf** w następnej.
 
-If you have a figured bass, enter the instrument as usual, such as **b**, **bc**, **org**, etc. (but see the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
+W przypadku basso continuo, należy wpisać instrument jak zwykle, np. **b**, **bc**, **org**, itp. (ale zobacz tabele w sekcji **Basso continuo w partyturach i/lub partiach** w celu uzyskania wskazówek dotyczących powiązanych pól).
 
-Omit the scoring summary if the performing forces are unknown or uncertain.
+Ominąć podsumowanie obsady, jeżeli instrumentacja nie jest znana lub wiedza na jej temat jest niepewna.
 
-##### Examples
+##### Przykłady
 - A, Coro, orch
 - Bariton, pf
 - V (3), strings, bc
-- V (4), Coro, orch, org   _for a mass_
-- cl, orch _for a clarinet concerto_
+- V (4), Coro, orch, org   _na mszę_
+- cl, orch _na koncert klarnetowy_
 
-Use the following standard instrumentation when applicable.
+Wykorzystuj następującej standardowej instrumentacji, jeśli ma zastosowanie.
 
-String quartet
+Kwartet smyczkowy
 - vl (2), vla, vlc
 
-String quintet (2 violas)
+Kwartet smyczkowy (2 altówki)
 - vl (2), vla (2), vlc
 
-String quintet (2 cellos)
+Kwartet smyczkowy (2 wiolonczele)
 - vl (2), vla, vlc (2)
 
-String quintet (with double bass)
+Kwartet smyczkowy (z kontrabasem)
 - vl (2), vla, vlc, cb
 
-Piano trio
+Trio pianistyczne
 - vl, vlc, pf
 
-Flute quartet (all flutes)
+Kwartet fletowy (same flety)
 - fl (4)
 
-Flute quartet (flute with strings)
+Kwartet fletowy (flety ze smyczkami)
 - fl, vl, vla, vlc
