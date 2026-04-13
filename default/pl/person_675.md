@@ -1,11 +1,11 @@
-### Source data not found (675)
+### Nie znaleziono danych źródłowych (675)
 
-The field **Source data not found** keeps track of the secondary literature that was consulted while creating the heading, but which yielded no information.
+W polu **Nie znaleziono danych źródłowych** wykazuje się jaka literatura pomocnicza była weryfikowana podczas tworzenia tytułu, a która nie dostarczyła informacji.
 
-#### Source citation (675 $a)
+#### Cytowane źródło (675 $a)
 
-Wprowadź skrócony tytuł, z którego korzystano. This field is connected to the **Secondary literature** database. Enter one short title per field.
+Wprowadź skrócony tytuł, z którego korzystano. Pole jest powiązane z kartoteką haseł wzorcowych **Literatura pomocnicza**. Wprowadź jeden skrócony tytuł w polu.
 
-_MARC export note:_ If this field is repeated, upon export the values are joined in a single instance of 675$a, separated by a semicolon.
+_Notatka eksportu MARC:_ Jeśli to pole jest powtarzane, przy eksporcie wartości są podane jako jeden przypadek w ramach 675$a i są oddzielone średnikiem.
 
 
