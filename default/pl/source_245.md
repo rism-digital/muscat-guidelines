@@ -1,4 +1,4 @@
-### Title on source (245)
+### Tytuł w źródle (245)
 
 The field **Title on source** is for a diplomatic transcription of the title as it is stated on the source.
 
