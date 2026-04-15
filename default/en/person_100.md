@@ -29,7 +29,7 @@ In rare cases of people with identical headings, enter qualifying information to
 
 #### Life dates (100 $d)
 
-Enter the person’s years of birth and death, or when unknown, approximate relevant century or centuries. For sorting purposes, this field must begin with a number.
+Enter the person’s years of birth and death, or when unknown, approximate relevant century or centuries. For sorting purposes, this field must begin with a number. The abbreviation **a.C.** is used for BCE (Before Common Era) dates.   
 
 If the person's exact years of birth and/or death are unknown, use the following abbreviations to signal that the years are not exact.
 
