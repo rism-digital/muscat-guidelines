@@ -19,7 +19,7 @@ Select the type of name variant from the following list. The codes in square bra
 - **Birth name** [gg]  
 - **Initials** [in]  
 - **Married name** [ee]  
-- **Nickname** [bn]  
+- **Nickname** [bn]: Nickname, sobriquet, or epithet, such as _Il Sassone_ or _Karl der Kühne_
 - **Pseudonym** [da]  
 - **Religious name** [do]  
 - **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_   
