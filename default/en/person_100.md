@@ -47,16 +47,16 @@ If the person's exact years of birth and/or death are unknown, use the following
 
 ##### Examples
 
-- 1879-1967
-- 18.sc
-- 1811a-1855p
-- 1816c\*
-- 1756+
-- 1760c-1808
-- 1760c-1810c
-- 17/18
-
-
+- 1879-1967  
+- 516c-451c a.C.  
+- 4/3 a.C.  
+- 18.sc  
+- 1811a-1855p  
+- 1816c\*  
+- 1756+  
+- 1760c-1808  
+- 1760c-1810c  
+- 17/18  
 
 **Obsolete procedures**:  
 - The field **Other life dates (100 $y)** was migrated to 678 in 2026.  
