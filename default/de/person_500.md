@@ -1,6 +1,6 @@
 ### Zugehörige Personen (500)
 
-Das Feld **Zugehörige Personen** beschreibt familiäre Beziehungen.
+The field **Related personal name** describes relationships between people, primarily familial.
 
 #### Zugehörige Personen (500 $a)
 
