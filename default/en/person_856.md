@@ -14,3 +14,9 @@ Briefly describe what the URL points to in your cataloging language.
 
 - **External resource URL (856 $u)**: [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)
 - **Note about external resource (856 $z)** Schriftprobe [D-B Am.B 65 / p. 1, 26]
+
+#### Link type (856 $x)  
+
+Indicate the kind of link. Choose between:
+- IIIF manifest  
+- Online resource  

@@ -1,10 +1,10 @@
 ### Authentication code (042)
 
-The field **Authentication code** indicates whether or not the name has been connected to a single individual.  
+The field **Authentication code** indicates whether or not the name has been connected to a single individual. 
 
 #### Authentication code (042 $a)  
 
-Enter whether the name is differentiated or undifferentiated. Differentiated entries refer to a concrete person. Undifferentiated entries cannot (yet) be connected to a single individual and may represent multiple people.
+Enter whether the name is differentiated or undifferentiated. New names are differntiated by default. Differentiated entries refer to a concrete person. Undifferentiated entries cannot yet be connected to a single individual and may represent multiple people.
 
 Select from:  
 - differentiated

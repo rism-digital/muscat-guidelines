@@ -14,15 +14,15 @@ Do not enter anything in this field.  This field may be filled out automatically
 
 Select the type of name variant from the following list. The codes in square brackets refer to internal RISM codes.  
 
-- **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets.
-- **Baptismal name** [tn]
-- **Birth name** [gg]
-- **Initials** [in]
-- **Married name** [ee]
-- **Nickname** [bn]
-- **Pseudonym** [da]
-- **Religious name** [do]
-- **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_  
-- **Uncategorized** [xx]
+- **Alternate spelling** [z]: This is for alternate spellings, transliterations, or names using non-Latin alphabets.  
+- **Baptismal name** [tn]  
+- **Birth name** [gg]  
+- **Initials** [in]  
+- **Married name** [ee]  
+- **Nickname** [bn]: Nickname, sobriquet, or epithet, such as _Il Sassone_ or _Karl der Kühne_
+- **Pseudonym** [da]  
+- **Religious name** [do]  
+- **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_   
+- **Uncategorized** [xx]    
 
-The default value **xx** (uncategorized) appears in older records.
+**Obsolete procedure:** In previous cataloging programs, some name variants either had no type assigned or used other categories that are no longer relevant. Such variants were assigned the neutral value **xx** (uncategorized). Catalogers may assigned these to a more specific type when appropriate.  
