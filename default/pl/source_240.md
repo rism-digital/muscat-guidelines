@@ -160,7 +160,7 @@ Dostępne są poniższe skale kościelne:
 - 10. ton (hypoeolski), transponowany
 - 11. ton (joński)
 - 11. ton (joński), transponowany
-- 12. ton (hypojoński)
+- 12th tone (Hypoionian)
 - 12. ton (hypojoński), transponowany
 
 Dostępne poniżej modusy bizantyjskie:
