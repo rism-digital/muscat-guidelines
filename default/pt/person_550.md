@@ -12,4 +12,4 @@ Enter, in English, the profession or function of the person. Professions can ref
 - Politician
 - Dedicatee
 
-**Obsolete procedures**: Some older RISM records contain "profession" in 550$i which indicated that the type of term.
+**Obsolete procedures**: Some older RISM records contain "profession" in 550$i which indicated the type of term.
