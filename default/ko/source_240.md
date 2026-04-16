@@ -160,7 +160,7 @@ The following Western church modes are available:
 - 10th tone (Hypoaeolian), transposed
 - 11th tone (Ionian)
 - 11th tone (Ionian), transposed
-- 2th tone (Hypoionian)
+- 12th tone (Hypoionian)
 - 12th tone (Hypoionian), transposed
 
 The following Byzantine church modes are available:
