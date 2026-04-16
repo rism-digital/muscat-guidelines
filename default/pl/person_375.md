@@ -7,4 +7,4 @@ Pole **Płeć** odpowiada płci osoby opisanej w rekordzie.
 Wybierz płeć osoby:
 - Kobieta
 - Mężczyzna
-- Nieznana
+- Nieznana  
