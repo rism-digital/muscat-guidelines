@@ -16,7 +16,7 @@ Enter the alphanumeric code used to identify the name. El código se toma de los
 Enter the agency that created the standard number or code. Seleccione una opción entre las siguientes:
 
 - **BNE**: Biblioteca Nacional de España
-- **BNF**: Bibliothèque nationale de France
+- **BNF**: Bibliothèque nationale de France: Enter the entire ark, starting with **ark:/**
 - **DNB**: Deutsche Nationalbibliothek
 - **ICCU**: Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI**: International Standard Name Identifier
@@ -27,4 +27,6 @@ Enter the agency that created the standard number or code. Seleccione una opció
 - **ORCID**: Open Researcher and Contributor ID
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
-- **WKP**: Wikidata (Wikipedia)  
+- **WKP**: Wikidata (Wikipedia): Identifiers must begin with **Q**
+- **CMO**: Corpus Musicae Ottomanicae
+- **CORAGO**: Corago  
