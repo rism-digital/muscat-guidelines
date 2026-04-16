@@ -1,6 +1,6 @@
 ### Related personal name (500)
 
-The field **Related personal name** describes familial relationships.
+The field **Related personal name** describes relationships between people, primarily familial.
 
 #### Tipo de relación (500 $i)
 
