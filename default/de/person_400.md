@@ -19,10 +19,10 @@ Wählen Sie den Typ der Namensvariante aus der folgenden Liste. Die Codes in eck
 - **Geburtsname** [gg]
 - **Initialen** [in]
 - **Ehename** [ee]
-- **Beiname** [bn]
+- **Nickname** [bn]: Nickname, sobriquet, or epithet, such as _Il Sassone_ or _Karl der Kühne_
 - **Pseudonym** [da]
 - **Ordensname** [do]
 - **Übersetzung** [ub]: Zum Beispiel, _Ackermann, Alexander_ ist eine übersetzte Variante von _Agricola, Alexander_
 - **Nicht kategorisiert** [xx]
 
-Der Standardwert **xx** (Nicht kategorisiert) erscheint in älteren Datensätzen.
+**Obsolete procedure:** In previous cataloging programs, some name variants either had no type assigned or used other categories that are no longer relevant. Such variants were assigned the neutral value **xx** (uncategorized). Catalogers may assigned these to a more specific type when appropriate.  
