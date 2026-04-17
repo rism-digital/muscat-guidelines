@@ -20,7 +20,7 @@ For names originally written using non-Latin scripts, enter the transliterated f
 
 Enter additions to names such as Jr., III, Sir, Meister, etc., as well as the person's religious order or title. Abbreviations for religious orders are taken from the Wikipedia page "[Liste der Ordenskürzel (römisch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))".  
 
-In rare cases of people with identical headings, enter qualifying information to differenciate one of the people, such as **Composer** or **Poet**. 
+In rare cases of people with identical headings, enter qualifying information to differentiate one of the people, such as **Composer** or **Poet**. 
 
 ##### Examples  
 
