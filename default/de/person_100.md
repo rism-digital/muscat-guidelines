@@ -20,7 +20,7 @@ Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in translite
 
 Geben Sie Namenszusätze wie junior, III, Sir, Meister usw. sowie den Orden oder Titel der Person ein. Die Abkürzungen für religiöse Orden werden von der Wikipedia-Seite "[Liste der Ordenskürzel (römisch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))" übernommen.
 
-In rare cases of people with identical headings, enter qualifying information to differentiate one of the people, such as **Composer** or **Poet**.
+In ganz seltenen Fällen, in denen Personen identische Ansetzungen haben, geben Sie zusätzliche Informationen ein, um die Personen voneinander zu unterscheiden, z. B. **Composer** oder **Poet**.
 
 ##### Beispiele
 
