@@ -1,6 +1,6 @@
 #### Other life dates (678 $a)
 
-Hier können Sie die vollständigen Lebensdaten, einschließlich Monat und Tag, eintragen. Geben Sie konkrete Daten in der Form TT.MM.JJJJ ein. Elemente eines Datums, die nicht verfügbar sind, können weggelassen werden. Nachgewiesene Wirkungszeiten werden mit vorangestelltem **fl.** angegeben. Floruit dates may also refer to known, attested years.
+Hier können Sie die vollständigen Lebensdaten, einschließlich Monat und Tag, eintragen. Geben Sie konkrete Daten in der Form TT.MM.JJJJ ein. Elemente eines Datums, die nicht verfügbar sind, können weggelassen werden. Years active or flourishing must be preceded by **fl.** Floruit dates may also refer to known, attested years.
 
 ##### Beispiele
 
