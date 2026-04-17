@@ -17,6 +17,6 @@ Beschreiben Sie kurz, worauf die URL verweist.
 
 #### Linktyp (856 $x)
 
-Indicate the kind of link. Choose between:
-- IIIF manifest
-- Online resource  
+Geben Sie die Art des Links an. Wählen Sie zwischen:
+- IIIF-Manifest
+- Online-Ressource  
