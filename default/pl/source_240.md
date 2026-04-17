@@ -160,7 +160,7 @@ Dostępne są poniższe skale kościelne:
 - 10. ton (hypoeolski), transponowany
 - 11. ton (joński)
 - 11. ton (joński), transponowany
-- 12th tone (Hypoionian)
+- 12. ton (hypojoński)
 - 12. ton (hypojoński), transponowany
 
 Dostępne poniżej modusy bizantyjskie:
@@ -181,7 +181,7 @@ Dostępne poniżej modusy bizantyjskie:
 
 W przypadku szkiców lub kolekcji, jeśli ma to sens, należy wprowadzić podsumowanie obsady.
 
-Wprowadzić tutaj krótkie podsumowanie całkowitej obsady (instrumentacji) jako narzędzia wykonawczego. Każdy element streszczenia obsady należy oddzielić przecinkami. Wprowadzić maksymalnie cztery elementy. Dokładny opis obsady wprowadza się w polu **Szczegółowy opis obsady (594)**. Całe podsumowanie obsady znajduje się w jednej linii; pole należy powtórzyć tylko w celu podania alternatywnych instrumentacji (patrz poniżej).
+Wprowadzić tutaj krótkie podsumowanie całkowitej obsady (instrumentacji) jako narzędzia wykonawczego. Wprowadzić maksymalnie cztery elementy. Każdy element streszczenia obsady należy oddzielić przecinkami. Dokładny opis obsady wprowadza się w polu **Szczegółowy opis obsady (594)**. Całe podsumowanie obsady znajduje się w jednej linii; pole należy powtórzyć tylko w celu podania alternatywnych instrumentacji (patrz poniżej).
 
 Używać wyrażeń z listy **Skróty**. Jeżli jakiejś nazwy brakuje na liście, należy ją podać w pełnym brzmieniu i w języku angielskim.
 
@@ -190,7 +190,7 @@ Grupy instrumentów wprowadzić w następującej kolejności:
 - Głosy solowe
 - Chóry
 - Instrumenty solowe
-- Smyczki
+- Wstawki
 - Dęte drewniane
 - Blaszane
 - Szarpane
@@ -198,7 +198,7 @@ Grupy instrumentów wprowadzić w następującej kolejności:
 - Klawiszowe
 - Basso continuo
 
-W przypadku podania więcej niż jednego tego samego głosu lub instrumentu należy umieścić ich liczbę w nawiasach po desygnacji partii, np. **B(2)**. Wprowadzić **V**, aby oznaczyć nieznaną partię głosową oraz **i**, aby oznaczyć nieznany instrument. Należy podać **V** także do zgrupowania kilku różnych partii wokalnych, takich jak **V (8)**. W przypadku nieznanej liczby, należy podać **(X)**.
+Należy podać **V** także do zgrupowania kilku różnych partii wokalnych, takich jak **V (8)**. W przypadku podania więcej niż jednego tego samego głosu lub instrumentu należy umieścić ich liczbę w nawiasach po desygnacji partii, np. **B(2)**. W przypadku nieznanej liczby, należy podać **(X)**. Wprowadzić **V**, aby oznaczyć nieznaną partię głosową oraz **i**, aby oznaczyć nieznany instrument.
 
 Instrumenty solowe należy podawać tylko wtedy, gdy pełnią one ciągłą funkcję solową w stosunku do orkiestry, zwłaszcza w koncercie solowym. Nie wymieniać tutaj partii, jeśli ma ona jedynie okazjonalne pasaże solowe, takie jak obój solo w sekcji kantaty.
 
