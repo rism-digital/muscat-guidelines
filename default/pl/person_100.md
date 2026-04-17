@@ -20,7 +20,7 @@ W przypadku nazw zapisanych pierwotnie przy użyciu alfabetów innych niż łaci
 
 Enter additions to names such as Jr., III, Sir, Meister, etc., as well as the person's religious order or title. Skróty przynależności zakonnej pochodzą z Wikipedii „[Liste der Ordensku<unk> rzel (ro<unk> misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))”.
 
-In rare cases of people with identical headings, enter qualifying information to differenciate one of the people, such as **Composer** or **Poet**.
+In rare cases of people with identical headings, enter qualifying information to differentiate one of the people, such as **Composer** or **Poet**.
 
 ##### Przykłady
 
