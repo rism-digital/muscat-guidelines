@@ -19,7 +19,7 @@ Wählen Sie den Typ der Namensvariante aus der folgenden Liste. Die Codes in eck
 - **Geburtsname** [gg]
 - **Initialen** [in]
 - **Ehename** [ee]
-- **Nickname** [bn]: Nickname, sobriquet, or epithet, such as _Il Sassone_ or _Karl der Kühne_
+- **Beiname** [bn]: Beiname, wie beispielsweise _Il Sassone_ oder _Karl der Kühne_
 - **Pseudonym** [da]
 - **Ordensname** [do]
 - **Übersetzung** [ub]: Zum Beispiel, _Ackermann, Alexander_ ist eine übersetzte Variante von _Agricola, Alexander_
