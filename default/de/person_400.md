@@ -25,4 +25,4 @@ Wählen Sie den Typ der Namensvariante aus der folgenden Liste. Die Codes in eck
 - **Übersetzung** [ub]: Zum Beispiel, _Ackermann, Alexander_ ist eine übersetzte Variante von _Agricola, Alexander_
 - **Nicht kategorisiert** [xx]
 
-**Obsolete procedure:** In previous cataloging programs, some name variants either had no type assigned or used other categories that are no longer relevant. Such variants were assigned the neutral value **xx** (uncategorized). Catalogers may assigned these to a more specific type when appropriate.  
+**Altdaten:** In früheren Katalogisierungsprogrammen war einigen Namensvarianten entweder kein Typ zugewiesen, oder es wurden andere Kategorien verwendet, die heute nicht mehr relevant sind. Diesen Varianten wurde der neutrale Wert **xx** (nicht kategorisiert) zugewiesen. Katalogisierer können diese gegebenenfalls einer spezifischeren Art zuweisen.  
