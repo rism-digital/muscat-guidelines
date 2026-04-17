@@ -14,4 +14,4 @@ Hier können Sie die vollständigen Lebensdaten, einschließlich Monat und Tag, 
 - fl. 1732-1735  
   _Nur aktive Jahre bekannt_
 
-**Obsolete procedures:** The field 678 was previously called **Additional biographical information (100 $y)** and was used for biographical information found on a musical source. In previous cataloging programs, it was linked to a related institution. The relationship between the biographical information and the source and institution was discontinued with the introduction of Muscat, and the scope of the field was redefined in 2026.
+**Altdaten:** Das Feld 678 wurde zuvor **Weitere biographische Angaben (100 $y)** genannt und wurde für biographische Informationen verwendet, die auf einer Musikquelle entnommen wurden. In früheren Katalogisierungsprogrammen war es mit einer zugehörigen Institution verknüpft. Mit der Einführung von Muscat wurde die Verknüpfung zwischen den biographischen Angaben und der Quelle bzw. der Institution aufgehoben, und der Anwendungsbereich des Feldes wurde im Jahr 2026 neu definiert.
