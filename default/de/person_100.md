@@ -4,7 +4,7 @@ Das Feld **Ansetzungsform** ist der Name der Person in ihrer normierten Form. Di
 
 #### Ansetzungsform (100 $a)
 
-Names are entered in inverted order in the form **Surname, Forename**, with a comma separating the elements for names. Wenn Sie nur Initialen oder einen künstlich konstruierten Namen haben (z. B. eine Bezeichnung, die einen Kopisten identifiziert), geben Sie diese in unveränderter Reihenfolge ein. Die Namen von Adelsmitgliedern werden in der lokal üblichen Form eingegeben.
+Namen werden in umgekehrter Reihenfolge in der Form **Nachname, Vorname** eingegeben, wobei ein Komma die Namensteile trennt. Wenn Sie nur Initialen oder einen künstlich konstruierten Namen haben (z. B. eine Bezeichnung, die einen Kopisten identifiziert), geben Sie diese in unveränderter Reihenfolge ein. Die Namen von Adelsmitgliedern werden in der lokal üblichen Form eingegeben.
 
 Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in transliterierter Form eingeben. Die Originalform in nicht-lateinischer Schrift sowie alternative Transliterationen können im Feld **Namensvarianten (400)** eingegeben werden.
 
@@ -18,9 +18,9 @@ Namen, die in nicht-lateinischen Schriften angegeben wurden, werden in translite
 
 #### Titel und Wörter, die mit einem Namen verknüpft sind (100 $c)
 
-Enter additions to names such as Jr., III, Sir, Meister, etc., as well as the person's religious order or title. Die Abkürzungen für religiöse Orden werden von der Wikipedia-Seite "[Liste der Ordenskürzel (römisch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch)) " übernommen.
+Geben Sie Namenszusätze wie junior, III, Sir, Meister usw. sowie den Orden oder Titel der Person ein. Die Abkürzungen für religiöse Orden werden von der Wikipedia-Seite "[Liste der Ordenskürzel (römisch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))" übernommen.
 
-In rare cases of people with identical headings, enter qualifying information to differenciate one of the people, such as **Composer** or **Poet**.
+In rare cases of people with identical headings, enter qualifying information to differentiate one of the people, such as **Composer** or **Poet**.
 
 ##### Beispiele
 
@@ -29,20 +29,20 @@ In rare cases of people with identical headings, enter qualifying information to
 
 #### Lebensdaten (100 $d)
 
-Enter the person’s years of birth and death, or when unknown, approximate relevant century or centuries. For sorting purposes, this field must begin with a number. The abbreviation **a.C.** is used for BCE (Before Common Era) dates.
+Geben Sie das Geburts- und Todesjahr der Person ein oder, falls diese nicht bekannt sind, das ungefähre Jahrhundert bzw. die ungefähren Jahrhunderte. Dieses Feld muss für Sortierzwecke mit einer Zahl beginnen. Die Abkürzung **a.C.** wird für ante Christum (vor Christi Geburt) verwendet.
 
 Wenn die genauen Geburts- und/oder Todesjahre unbekannt sind, verwenden Sie die folgenden Abkürzungen.
 
 
-| For the meaning                               | Use this abbreviation after the number | Example to input in 100$d |
-| --------------------------------------------- | -------------------------------------- |:-------------------------:|
-| century: 18th century                         | .sc                                    |           18.sc           |
-| before: before 1811                           | A                                      |           1811a           |
-| after: after 1811                             | p                                      |           1811p           |
-| circa: circa 1816                             | C                                      |           1816c           |
-| born: born in 1816, but year of death unknown | \*                                   |         1816\*          |
-| died: died in 1756, but year of birth unknown | +                                      |           1756+           |
-| or: lived in the 17th or 18th centuries       | /                                      |           17/18           |
+| Zur Bedeutung                                         | Verwenden Sie diese Abkürzung hinter der Zahl | Beispiel zur Eingabe in 100$d |
+| ----------------------------------------------------- | --------------------------------------------- |:-----------------------------:|
+| Jahrhundert: 18. Jahrhundert                          | .sc                                           |             18.sc             |
+| vor: vor 1811                                         | A                                             |             1811a             |
+| nach: nach 1811                                       | p                                             |             1811p             |
+| circa: ca. 1816                                       | C                                             |             1816c             |
+| geboren: 1816 geboren, aber unbekanntes Todesjahr     | \*                                          |           1816\*            |
+| gestorben: 1756 gestorben, aber Geburtsjahr unbekannt | +                                             |             1756+             |
+| oder: lebte im 17. oder 18. Jahrhundert               | /                                             |             17/18             |
 
 
 ##### Beispiele
@@ -59,7 +59,7 @@ Wenn die genauen Geburts- und/oder Todesjahre unbekannt sind, verwenden Sie die 
 - 17/18
 
 **Altdaten**:
-- The field **Other life dates (100 $y)** was migrated to 678 in 2026.
+- Das Feld **Andere Lebensdaten (100 $y)** wurde 2026 nach 678 migriert.
 - Das Feld 100 $c wurde früher als "Orden/Titel" bezeichnet, aber die Definition wurde erweitert und 2025 umbenannt.
 - Das Feld **Status (100 $w)** wurde als Indikator aus der Deutschen Nationalbibliothek verwendet und 2024 entfernt.
 
