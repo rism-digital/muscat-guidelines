@@ -1,11 +1,11 @@
 ### Quelle ohne Ergebnis konsultiert (675)
 
-The field **Source data not found** keeps track of the secondary literature that was consulted while creating the heading, but which yielded no information.
+Das Feld **Quelle ohne Ergebnis konsultiert** dient zur Erfassung der Sekundärliteratur, die bei der Erstellung der Ansetzung konsultiert wurde, aber keine Informationen lieferte.
 
-#### Source citation (675 $a)
+#### Quellenangabe (675 $a)
 
-Geben Sie hier den Kurztitel der Sekundärliteratur an. This field is connected to the **Secondary literature** database. Enter one short title per field.
+Geben Sie hier den Kurztitel der Sekundärliteratur an. Das Feld ist mit der Normdatei **Sekundärliteratur** verknüpft. Geben Sie pro Feld einen Kurztitel ein.
 
-_MARC export note:_ If this field is repeated, upon export the values are joined in a single instance of 675$a, separated by a semicolon.
+_MARC-Export-Notiz:_ Wenn dieses Feld mehrfach vorkommt, werden die Werte beim Export in einer einzigen Instanz von 675$a zusammengefasst und durch ein Semikolon getrennt.
 
 
