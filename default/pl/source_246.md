@@ -1,7 +1,7 @@
-### Variant title on source (246)
+### Alternatywny tytuł w źródle (246)
 
-The field **Variant title on source** is for other forms of the title that appear in places other than the information in **Title on source (245 $a)**.
+Pole **Alternatywny tytuł w źródle** służy podaniu innych wariantów tytułu, które pojawiają się w innych miejscach niż **Tytuł w źródle (245 $a)**.
 
-#### Variant title on source (246 $a)
+#### Alternatywny tytuł w źródle (246 $a)
 
-If the source bears several titles which supplement each other and/or differ in the amount of information they contain, all the varying forms of the title can be entered here. Headings, caption titles, and titles on parts are examples of places that may have variant titles. Follow the guidelines as for the field **Title on source (245 $a)**.
+Jeżeli źródło zawiera kilka tytułów, które się nawzajem uzupełniają i/lub różnią w ilości zawartej informacji, w tym polu należy wprowadzić wszelkie wariantowe formy tytułu. Nagłówki, tytuły nagłówkowe i tytuły na głosach to przykłady miejsc, w których mogą występować warianty tytułów. Należy stosować wytyczne dla pola **Tytuł w źródle (245 $a)**.

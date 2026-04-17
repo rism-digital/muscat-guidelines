@@ -19,10 +19,10 @@ Select the type of name variant from the following list. The codes in square bra
 - **Nombre de bautismo**  [tn]
 - **Nombre de casada**  [ee]
 - **Nombre de nacimiento**  [gg]
-- **Nombre religioso**  [do]
+- **Nickname** [bn]: Nickname, sobriquet, or epithet, such as _Il Sassone_ or _Karl der Kühne_
 - **Ortografía alternativa [z]: **destinado a ortografías alternativas, transliteraciones o nombres que utilizan alfabetos no latinos
 - **Seudónimo ** [da]
 - **Translation** [ub]: For example, _Ackermann, Alexander_ is a translated variant of _Agricola, Alexander_
 - **Uncategorized** [xx]
 
-The default value **xx** (uncategorized) appears in older records.
+**Obsolete procedure:** In previous cataloging programs, some name variants either had no type assigned or used other categories that are no longer relevant. Such variants were assigned the neutral value **xx** (uncategorized). Catalogers may assigned these to a more specific type when appropriate.  

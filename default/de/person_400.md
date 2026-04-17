@@ -19,10 +19,10 @@ Wählen Sie den Typ der Namensvariante aus der folgenden Liste. Die Codes in eck
 - **Geburtsname** [gg]
 - **Initialen** [in]
 - **Ehename** [ee]
-- **Beiname** [bn]
+- **Beiname** [bn]: Beiname, wie beispielsweise _Il Sassone_ oder _Karl der Kühne_
 - **Pseudonym** [da]
 - **Ordensname** [do]
 - **Übersetzung** [ub]: Zum Beispiel, _Ackermann, Alexander_ ist eine übersetzte Variante von _Agricola, Alexander_
 - **Nicht kategorisiert** [xx]
 
-Der Standardwert **xx** (Nicht kategorisiert) erscheint in älteren Datensätzen.
+**Altdaten:** In früheren Katalogisierungsprogrammen war einigen Namensvarianten entweder kein Typ zugewiesen, oder es wurden andere Kategorien verwendet, die heute nicht mehr relevant sind. Diesen Varianten wurde der neutrale Wert **xx** (nicht kategorisiert) zugewiesen. Katalogisierer können diese gegebenenfalls einer spezifischeren Art zuweisen.  

@@ -16,7 +16,7 @@ Geben Sie den alphanumerischen Code zur Identifizierung des Namens ein. Die Numm
 Geben Sie die Agentur ein, die die ID oder den Code erstellt hat. Es steht eine Auswahlliste zur Verfügung. Folgende Angaben sind möglich:
 
 - **BNE**: Biblioteca Nacional de España
-- **BNF**: Bibliothèque nationale de France
+- **BNF**: Bibliothèque nationale de France: Geben Sie den gesamten Pfad ein, beginnend mit **ark:/**
 - **DNB**: Deutsche Nationalbibliothek
 - **ICCU**: Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI**: International Standard Name Identifier
@@ -27,4 +27,6 @@ Geben Sie die Agentur ein, die die ID oder den Code erstellt hat. Es steht eine 
 - **ORCID**: Open Researcher and Contributor ID
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
-- **WKP**: Wikidata (Wikipedia)  
+- **WKP**: Wikidata (Wikipedia): Identifikatoren müssen mit **Q** beginnen
+- **CMO**: Corpus Musicae Ottomanicae
+- **CORAGO**: Corago  

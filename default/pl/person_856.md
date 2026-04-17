@@ -14,3 +14,9 @@ Krótko opisz, do czego odnosi się adres URL w języku katalogowania.
 
 - **URL zasobu zewnętrznego (856 $u)**: [http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000](http://resolver.staatsbibliothek-berlin.de/SBB0000B43D00000000)
 - **Uwaga o zasobie zewnętrznym (856 $z)** Schriftprobe [D-B Am.B 65 / str. 1, 26]
+
+#### Link type (856 $x)
+
+Indicate the kind of link. Choose between:
+- IIIF manifest
+- Online resource  

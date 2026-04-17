@@ -1,6 +1,6 @@
 ### Literaturnachweis (670)
 
-Das Feld **Literaturnachweis** zitiert die für die Recherche herangezogene Sekundärliteratur und nennt die dort gefundene Ansetzungsform und Lebensdaten. Sekundärliteratur, die konsultiert wurde, aber keine Informationen lieferte, wird ebenfalls hier eingetragen. Namensformen, die von der unter **Ansetzungsform (100 $a)** angegebenen Form abweichen, sind im Feld **Namensvarianten (400 $a)** einzutragen.
+Das Feld **Literaturnachweis** zitiert die für die Recherche herangezogene Sekundärliteratur und nennt die dort gefundene Ansetzungsform und Lebensdaten. Namensformen, die von der unter **Ansetzungsform (100 $a)** angegebenen Form abweichen, sind im Feld **Namensvarianten (400 $a)** einzutragen.
 
 #### Literaturnachweis (670 $a)
 
@@ -18,13 +18,12 @@ Geben Sie die Seitenzahl ein, auf der der Name gefunden wurde. Für Online-Publi
 
 **Benötigt, wenn 670 $a ausgefüllt ist.**
 
-Geben Sie den in der Sekundärliteratur angegebenen Kurztitel ein. Fügen Sie gegebenenfalls eine Seitenzahl oder andere Zitationen (wie **vide** für Enzyklopädien) hinzu. Geben Sie eine **0** ein, wenn keine Informationen gefunden wurden (zum Beispiel haben Sie Grove-7 konsultiert, aber es gab keinen Eintrag für die Person).
+Geben Sie den in der Sekundärliteratur angegebenen Kurztitel ein. Fügen Sie gegebenenfalls eine Seitenzahl oder andere Zitationen (wie **vide** für Enzyklopädien) hinzu.
 
 ##### Beispiele
 
 - Bach, Johann Christian II. (Giovanni) [bapt. 07.09.1735-1782]
 - vide 6, 834
-- 0
 
 #### URI (670 $u)
 

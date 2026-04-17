@@ -1,24 +1,24 @@
-### Publishing, printing, and production information (260)
+### Informacja o wydaniu, druku i produkcji (260)
 
-The field **Publishing, printing, and production information** is for information relating to the publication, printing, distribution, issue, release, or production for all types of sources. In all subfields here, indicate editorial additions and completions with square brackets. Place a question mark after an uncertain piece of information.
+W polu **Informacja o wydaniu, druku i produkcji** wprowadza się informacje dotyczące wydania, druku, dystrybucji, edycji, publikacji lub produkcji dla wszystkich typów źródeł. We wszystkich podpolach adnotacje i uzupełnienia edytorskie należy podać w nawiasie kwadratowym. W przypadku informacji niepewnych należy po nich umieszczać znak zapytania.
 
-For printed music: If the original publishing information is covered by a label showing later information or otherwise crossed out or altered (including stamps), and new information is provided in its place, enter the new information in this field. If you can read the original publishing information or if the original publishing information is otherwise available, you may also enter it by repeating the field. An explanatory note in the field **General note (500)** may be necessary to clarify the presence of a label or multiple imprints. If a label or stamp is somewhere else on the page, record it in the holdings information.
+W przypadku druków muzycznych: Jeżeli informacje dotyczące wydania są ukryte np. przez nalepkę, czy są przekreślone lub zmienione (w tym pieczątki), a w ich miejsce umieszczono nowe informacje, to należy prowadzić nowe informacje. Jednakże, jeśli możliwym jest odczytanie oryginalnych informacji dotyczących publikacji, można je wprowadzić poprzez zduplikowanie sekcji. Niezbędna może okazać się uwaga wyjaśniająca, którą należy umieścić w polu **Uwaga ogólna (500)**. Jeżeli nalepka lub pieczęć znajdują się gdzieś w innym miejscu na stronie, należy odnotowac ją w rekordzie egzemplarza.
 
-#### Place (260 $a)
+#### Miejsce (260 $a)
 
-For printed material, enter the place of publication as given on the source. Multiple places of publication can be entered by clicking on the plus sign (+) to the left of the text field. For manuscripts, enter the place where a manuscript was produced if it is indicated on the source.
+Dla druków muzycznych należy wprowadzić nazwe miejsca wydania tak jak widnieje na źródle. Kilka miejsc wydania można wprowadzić klikając na znak plus (+) znajdujący się po lewej stronie pola tekstowego. W przypadku rękopisów należy wprowadzić miejsce powstania danego rękopisu, jeśli podano je w źródle.
 
-If the place is not identified on a print, enter **[s.l.]**. For manuscripts, leave blank.
+Jeżeli miejsca wydania na druku nie można zidentyfikować, należy wprowadzić **[s.l.]**. W przypadku rękopisów należy pozostawić puste miejsce.
 
-#### Publisher, copyist (260 $b)
+#### Wydawca, kopista (260 $b)
 
-For printed material, enter the name of the publisher, publishing company, importer, or distributor as given on the source.
+W przypadku druków, należy podać nazwę wydawcy, firmy wydawniczej, importera lub dystrybutora tak jak podano w źródle.
 
-For manuscripts, enter the name of the copyist as it appears on the source.
+W przypadku rękopisów, należy podać nazwę kopisty, jaka widnieje w źródle.
 
-Enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional institution (710)**. Enter the name of the printer or press as given on the source.
+W polach **Dodatkowa osoba (700)** lub D**odatkowa instytucja (710)** zawsze należy wprowadzać nazwy ustandaryzowane. Wydawcy których nazwa pochodzi od osób, a którzy działają jako wydawcy (Pleyel, André, etc.) należy wprowadzać jako instytucje.
 
-If the name of the publisher or distributor is not identified on a print, enter **[s.n.]**. (Do not index [s.n.] as an additional institution). For manuscripts, leave blank.
+Jeżeli nazwy wydawcy lub dystrybutora nie można zidentyfikować na druku, należy wprowadzić **[s.n.]**. (Nie należy indeksować [s.n.] jako dodatkowej instytucji). W przypadku rękopisów należy pozostawić puste miejsce.
 
 #### Date (260 $c)
 

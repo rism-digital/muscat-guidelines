@@ -74,7 +74,7 @@ Incipity tekstowe podaje się w formie ujednoliconej. Incipity tekstowe należy 
 
 Nie należy umieszczać fragmentów tekstu w nawiasach lub podawać brakujących słów. W tekście nie należy umieszczać znaków interpunkcyjnych i powtórzeń.
 
-Akcentów należy używać tylko w takiej formie, w jakiej pojawiają się w słowniku lub jeśli są poprawne gramatycznie. Numery należy wypisać na początku tekstu jako słowa. Wielkie i małe litery mają być zgodne z zasadami obowiązującymi w danym języku, z tym, że oznaczenia dla Boga (Herr, Dio, Dieu, Signore, Lord, etc.) należy zawsze pisać wielką literą. W przypadku stosowania incipitu tekstowego jako tytułu ujednoliconego (240), należy upewnić się, że długość i pisownia dokładnie się zgadzają.
+Akcentów należy używać tylko w takiej formie, w jakiej pojawiają się w słowniku lub jeśli są poprawne gramatycznie. Numery należy wypisać na początku tekstu jako słowa. W przypadku stosowania incipitu tekstowego jako tytułu ujednoliconego (240), należy upewnić się, że długość i pisownia dokładnie się zgadzają. Wielkie i małe litery mają być zgodne z zasadami obowiązującymi w danym języku, z tym, że oznaczenia dla Boga (Herr, Dio, Dieu, Signore, Lord, etc.) należy zawsze pisać wielką literą.
 
 Należy całkowicie pominąć tekst, jeśli nie można go przeczytać i należy dodać adnotację „Tekst nieczytelny” lub podobną.
 
@@ -173,7 +173,7 @@ Kropki stosuje się do oznaczenia nut z kropką. Do nuty można dodać wiele kro
 
 4\. = ćwierćnuta z kropką</0> 8.. = ósemka z podwójną kropką
 
-##### 3. Znaki chromatyczne
+##### 6. Pauzy
 
 x = krzyżyk  
 xx = podwójny krzyżyk  
@@ -191,7 +191,7 @@ g = acciaccatura (bez wartości rytmicznej, poprzedza nazwę nuty)
 q = appoggiatura/przednutka długa (posiada wartość rytmiczną, poprzedza nazwę nuty)  
 qq...r = kilka appoggiatur lub ozdobników, które stanowią jedną całość (posiadają wartość rytmiczną)
 
-##### 6. Pauzy
+##### 9. Belkowanie
 
 '-' czyli (znak minus) oznacza pauzę jednonutową. Dla oznaczenia taktu pustego należy stosować „=” (znak równości). Dla wielu pustych taktów, po znaku równości, należy podać ilość i oznaczenie kreski taktowej.
 - Przykład dla pauzy ósemkowej
@@ -219,7 +219,7 @@ t = tryl (znajduje się natychmiast po nucie)
 
 Nie wpisywać łuków.
 
-##### 9. Belkowanie
+##### 11. Skróty
 
 { = początek belkowania  
 } = koniec belkowania
@@ -248,11 +248,11 @@ Zamiast tego, dozwolony jest następujący skrót:
 
 Nie należy zapominać o wartości rytmicznej w obrębie nawiasu kwadratowego!
 
-##### 11. Skróty
+##### 15. Abbreviations
 
 ###### 11.1. Figury powtarzane
 
-! ! = początek i koniec pasażu  
+! ! ! = początek i koniec pasażu  
 f = oznaczenie powtórzenia   
 Powtórzeń tej figury jest tyle, ile jest powtórzeń **f** po drugim **!**. Jest to możliwe jedynie w obrębie taktu.
 
@@ -306,7 +306,7 @@ Jeżeli metrum zmienia się w obrębie incipitu, użyj znaku **@** w celu zmiany
 
 - @3/2 '1C
 
-##### 15. Skróty
+##### 16. Akordy
 
 Skrócone formy notacji występujące w nutach, takie jak tremola lub znaki simile, należy wpisać w całości stosując występującą w źródle notację.
 

@@ -1,27 +1,27 @@
-### Title on source (245)
+### Tytuł w źródle (245)
 
-The field **Title on source** is for a diplomatic transcription of the title as it is stated on the source.
+Pole **Tytuł w źródle** służy dyplomatycznej transkrypcji tytułu tak jak widnieje na źródle.
 
-#### Title on source (245 $a)
+#### Tytuł w źródle (245 $a)
 
-**Required field.**
+**Pole wymagane.**
 
-Enter the title exactly as it appears on the source (the diplomatic title). In practice, this may include all information on the title page, such as the composer's name or other indications. For printed music, include everything on the title page including the imprint. Do not omit information by using ellipsis.
+Należy podać tytuł dokładnie taki, jaki widnieje w źródle (tytuł dyplomatyczny). W praktyce może to obejmować wszystkie informacje na stronie tytułowej, takie jak nazwisko kompozytora lub inne oznaczenia. W przypadku druków muzycznych, należy zamieścić wszystko na stronie tytułowej, łącznie ze stopką wydawniczą. Nie wolno pomijać informacji stosując wielokropek.
 
-Transcribe the title in its entirety. Do not abbreviate. Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Repeated letters indicated by a macron diacritic may be written out: m[m] Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Repeated letters indicated by a macron diacritic may be written out: m[m] Indicate line breaks with **\|** (the vertical pipe) with a single space before and after. Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o .
+Należy spisywać tytuł w całości. Nie należy używać skrótów. Należy wskazać koniec linii za pomocą **\|** (kreska pionowa) z pojedynczą spacją przed i po. Należy wskazać znaki zapisane w indeksie górnym używając **\|** bez spacji przed każdym znakiem zapisanym w indeksie górnym. Każdy znak zapisany w indeksie górnym należy poprzedzić znakiem \|, tak jak w: 1\|m\|o. Each character that is written in superscript must be preceded by a \|, as in: 1\|m\|o .
 
-Include information about where the title appears in square brackets at the beginning of the field. Always use terminology in English, followed by a colon. Enclose supplementary data in square brackets. Use an exclamation point in square brackets **[!]** or **[sic]** to indicate an unusual or incorrect spelling.
+Należy dołączyć informacje o tym, gdzie pojawia się tytuł w nawiasach kwadratowych na początku pola. Zawsze należy używać terminologii angielskiej, a następnie dwukropka. Dane uzupełniające należy załączać w nawiasach kwadratowych. Należy użyć wykrzyknika w nawiasie **[!]** lub **[sic]**, aby wskazać nietypową lub nieprawidłową pisownię.
 
-For printed music, you can indicate decorative elements in square brackets in English, such as:
+W przypadku druków muzycznych, w nawiasach można wskazać w języku angielskim elementy dekoracyjne, np.:
 - [in red ink:]
 - [printer's mark]
 - [vignette]
 
-If no title is available, enter, in English: **[without title]**
+Jeśli tytuł nie jest dostępny na źródle, należy wpisać w języku angielskim: **[without title]**
 
-See also the list of **Standard terms**.
+Patrz również: **lista Terminów standardowych**.
 
-##### Examples
+##### Przykłady
 
 - [title page:] Vesperae \| chorales unà cum \| organo cantandae \| pro \| Choro Ingolstadiensi,
 - [without title]

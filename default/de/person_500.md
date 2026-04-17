@@ -1,6 +1,6 @@
 ### Zugehörige Personen (500)
 
-Das Feld **Zugehörige Personen** beschreibt familiäre Beziehungen.
+Das Feld **Zugehörige Personen** beschreibt Beziehungen zwischen Personen, vor allem familiäre.
 
 #### Zugehörige Personen (500 $a)
 
