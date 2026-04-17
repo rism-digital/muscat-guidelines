@@ -160,7 +160,7 @@ Folgende westliche Kirchentonarten stehen zur Verfügung:
 - 10. Ton (Hypoaeolisch), transponiert
 - 11. Ton (Ionisch)
 - 11. Ton (Ionisch), transponiert
-- 12th tone (Hypoionian)
+- 12. Ton (Hypoionisch)
 - 12. Ton (Hypoionisch), transponiert
 
 Folgende byzantinische Kirchenmodi stehen zur Verfügung:
