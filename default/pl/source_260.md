@@ -2,7 +2,7 @@
 
 W polu **Informacja o wydaniu, druku i produkcji** wprowadza się informacje dotyczące wydania, druku, dystrybucji, edycji, publikacji lub produkcji dla wszystkich typów źródeł. We wszystkich podpolach adnotacje i uzupełnienia edytorskie należy podać w nawiasie kwadratowym. W przypadku informacji niepewnych należy po nich umieszczać znak zapytania.
 
-W przypadku druków muzycznych: Jeżeli informacje dotyczące wydania są ukryte np. przez nalepkę, czy są przekreślone lub zmienione (w tym pieczątki), a w ich miejsce umieszczono nowe informacje, to należy prowadzić nowe informacje. Jednakże, jeśli możliwym jest odczytanie oryginalnych informacji dotyczących publikacji, można je wprowadzić poprzez zduplikowanie sekcji. Niezbędna może okazać się uwaga wyjaśniająca, którą należy umieścić w polu **Uwaga ogólna (500)**. Jeżeli nalepka lub pieczęć znajdują się gdzieś w innym miejscu na stronie, należy odnotowac ją w rekordzie egzemplarza.
+Jednakże, jeśli możliwym jest odczytanie oryginalnych informacji dotyczących publikacji, można je wprowadzić poprzez zduplikowanie sekcji. W przypadku druków muzycznych: Jeżeli informacje dotyczące wydania są ukryte np. przez nalepkę, czy są przekreślone lub zmienione (w tym pieczątki), a w ich miejsce umieszczono nowe informacje, to należy prowadzić nowe informacje. Niezbędna może okazać się uwaga wyjaśniająca, którą należy umieścić w polu **Uwaga ogólna (500)**. Jeżeli nalepka lub pieczęć znajdują się gdzieś w innym miejscu na stronie, należy odnotowac ją w rekordzie egzemplarza.
 
 #### Miejsce (260 $a)
 
@@ -88,4 +88,4 @@ Enter the location of the institution associated with printing, duplicating, etc
 
 #### Name of printer (260 $f)
 
-Enter the name of the printer or press as given on the source. Always enter the standardized forms of the names in the fields **Additional personal name (700)** or **Additional institution (710)**.
+Enter the name of the printer or press as given on the source. W polach **Dodatkowa osoba (700)** lub D**odatkowa instytucja (710)** zawsze należy wprowadzać nazwy ustandaryzowane.
