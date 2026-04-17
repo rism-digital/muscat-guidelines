@@ -1,6 +1,6 @@
 ### Fuente de los datos encontrados (670)
 
-The field **Source data found** keeps track of the secondary literature that was consulted while creating the heading and gives the form of the name and dates found therein. Forms of the name that differ from the form given in **Heading - Personal name (100 $a)** must be entered in the field **Name variant (400 $a)**.
+Forms of the name that differ from the form given in **Heading - Personal name (100 $a)** must be entered in the field **Name variant (400 $a)**. The field **Source data found** keeps track of the secondary literature that was consulted while creating the heading and gives the form of the name and dates found therein.
 
 #### Fuente de los datos encontrados  (670 $a)
 
