@@ -1,6 +1,6 @@
 ### Odnalezione źródło danych (670)
 
-Pole **Odnalezione źródło danych** służy jako źródło informacji dla wykorzystanej literatury pomocniczej podczas tworzenia nazw, dostarczając form nazw i dat znalezionych w nim. Formy nazwy różniącę się od formy podanej w polu **Nagłówek - osoba (100 $a)** należy wpisać w polu **Alternatywna nazwa osoby (400 $a)**.
+Formy nazwy różniącę się od formy podanej w polu **Nagłówek - osoba (100 $a)** należy wpisać w polu **Alternatywna nazwa osoby (400 $a)**. Pole **Odnalezione źródło danych** służy jako źródło informacji dla wykorzystanej literatury pomocniczej podczas tworzenia nazw, dostarczając form nazw i dat znalezionych w nim.
 
 #### Odnalezione źródło danych (670 $a)
 
