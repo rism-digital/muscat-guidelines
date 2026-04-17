@@ -1,6 +1,6 @@
 #### Other life dates (678 $a)
 
-Pełne daty życia, składajace się z dnia, meisiąca i roku mogą być wprowadone tu. Sposób zapisu daty: DD.MM.RRRR. Niedostępne elementy daty należy pominąć. Years active or flourishing must be preceded by **fl.** Floruit dates may also refer to known, attested years.
+Pełne daty życia, składajace się z dnia, meisiąca i roku mogą być wprowadone tu. Sposób zapisu daty: DD.MM.RRRR. Niedostępne elementy daty należy pominąć. Lata aktywności należy poprzedzić symbolem **fl.**. Floruit dates may also refer to known, attested years.
 
 ##### Przykłady
 
