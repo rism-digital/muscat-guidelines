@@ -29,20 +29,20 @@ W rzadkich przypadkach, gdy nazwy mają identyczne nagłówki, w celu ich odró�
 
 #### Daty urodzenia i śmierci (100 $d)
 
-Wpisać daty urodzenia i śmierci danej osoby lub, gdy jest to nieznane, przybliżone wiek lub wieki. Dla celów wyszukiwania, pole musi zaczynać się od cyfry. The abbreviation **a.C.** is used for BCE (Before Common Era) dates.
+Wpisać daty urodzenia i śmierci danej osoby lub, gdy jest to nieznane, przybliżone wiek lub wieki. Dla celów wyszukiwania, pole musi zaczynać się od cyfry. Skrót **a.C.** jest używany dla określenia daty p.n.e. (przed naszą erą).
 
-Jeżeli dokładny rok urodzenia i/lub zgonu danej osoby nie jest znany, należy użyć następujących skrótów, aby zasygnalizować, że wprowadzone dane nie są precyzyjne.
+Jeżeli dokładny rok urodzenia i/lub śmierci danej osoby nie jest znany, należy użyć następujących skrótów, aby zasygnalizować, że wprowadzone dane nie są precyzyjne.
 
 
-| For the meaning                               | Use this abbreviation after the number | Example to input in 100$d |
-| --------------------------------------------- | -------------------------------------- |:-------------------------:|
-| century: 18th century                         | .sc                                    |           18.sc           |
-| before: before 1811                           | a                                      |           1811a           |
-| after: after 1811                             | p                                      |           1811p           |
-| circa: circa 1816                             | c                                      |           1816c           |
-| born: born in 1816, but year of death unknown | \*                                   |         1816\*          |
-| died: died in 1756, but year of birth unknown | +                                      |           1756+           |
-| or: lived in the 17th or 18th centuries       | /                                      |           17/18           |
+| W rozumieniu                                          | Użyj tego skrótu po numerze | Przykład do wprowadzenia w polu 100$d |
+| ----------------------------------------------------- | --------------------------- |:-------------------------------------:|
+| wiek: XVIII wiek                                      | .sc                         |                 18.sc                 |
+| przed: przed 1811                                     | a                           |                 1811a                 |
+| po: po 1811                                           | p                           |                 1811p                 |
+| około: circa 1816                                     | c                           |                 1816c                 |
+| urodzony w 1816 r., ale nieznany rok śmierci          | \*                        |               1816\*                |
+| zmarły: zmarł w 1756 roku, ale nieznany rok urodzenia | +                           |                 1756+                 |
+| lub: żył w XVII lub XVIII wieku                       | /                           |                 17/18                 |
 
 
 ##### Przykłady
@@ -59,7 +59,7 @@ Jeżeli dokładny rok urodzenia i/lub zgonu danej osoby nie jest znany, należy 
 - 17/18
 
 **Przestarzałe procedury**:
-- The field **Other life dates (100 $y)** was migrated to 678 in 2026.
+- Pole **Pozostałe daty urodzenia i śmierci (100 $y)** zostało przeniesione do pola 678 w 2026 r.
 - Pole 100 $c wcześniej nazywało się „Zakon religijny/Tytuł”, ale jego zakres został rozszerzony, a pole zmieniło nazwę w 2025 r.
 - Pole Status **(100 $w)</0 było wykorzystywane jako identyfikator zaimportowany z Deutsche Nationalbibliothek, który został usunięty 2024 r.</li> </ul>
 
