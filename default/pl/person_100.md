@@ -4,7 +4,7 @@ W polu **Nagłówek - osoba** podaje nazwę osobową w formie autorytatywnej. Na
 
 #### Nagłówek - osoba (100 $a)
 
-Names are entered in inverted order in the form **Surname, Forename**, with a comma separating the elements for names. W razie posiadania wyłącznie inicjałów lub sztucznie stworzonej nazwy (takiej jak nazwa identyfikująca kopistę), należy wpisać je w kolejności nieodwróconej. Nazwy osób z pochodzeniem szlacheckim są wpisywane w zwyczajnej formie.
+Nazwę wpisuje się w odwróconym szyku **Nazwisko, Imię**, z przecinkiem oddzielającym elementy nazwy. W razie posiadania wyłącznie inicjałów lub sztucznie stworzonej nazwy (takiej jak nazwa identyfikująca kopistę), należy wpisać je w kolejności nieodwróconej. Nazwy osób z pochodzeniem szlacheckim są wpisywane w zwyczajnej formie.
 
 W przypadku nazw zapisanych pierwotnie przy użyciu alfabetów innych niż łaciński, nazwę należy wpisać w transliteracji łacińskiej. Oryginalną formę nazwy w alfabecie innym niż łaciński, jak również alternatywne transliteracje, można wprowadzić w polu **Alternatywna nazwa osoby (400)**.
 
@@ -18,9 +18,9 @@ W przypadku nazw zapisanych pierwotnie przy użyciu alfabetów innych niż łaci
 
 #### Tytuły i słowa powiązane z nazwą (100 $c)
 
-Enter additions to names such as Jr., III, Sir, Meister, etc., as well as the person's religious order or title. Skróty przynależności zakonnej pochodzą z Wikipedii „[Liste der Ordensku<unk> rzel (ro<unk> misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))”.
+Wprowadź dodatkowe określenia takie jak Jr., III, Sir, Meister, itp., jak również przynależność do zakonu religijnego lub tytuł danej osoby. Skróty przynależności zakonnej pochodzą z Wikipedii „[Liste der Ordensku<unk> rzel (ro<unk> misch-katholisch)](https://de.wikipedia.org/wiki/Liste_der_Ordensk%C3%BCrzel_(r%C3%B6misch-katholisch))”.
 
-In rare cases of people with identical headings, enter qualifying information to differentiate one of the people, such as **Composer** or **Poet**.
+W rzadkich przypadkach, gdy nazwy mają identyczne nagłówki, w celu ich odróżnienia, należy podać odpowiednie informacje takie jak **Composer** lub **Poet**.
 
 ##### Przykłady
 
@@ -29,7 +29,7 @@ In rare cases of people with identical headings, enter qualifying information to
 
 #### Daty urodzenia i śmierci (100 $d)
 
-Enter the person’s years of birth and death, or when unknown, approximate relevant century or centuries. For sorting purposes, this field must begin with a number. The abbreviation **a.C.** is used for BCE (Before Common Era) dates.
+Wpisać daty urodzenia i śmierci danej osoby lub, gdy jest to nieznane, przybliżone wiek lub wieki. Dla celów wyszukiwania, pole musi zaczynać się od cyfry. The abbreviation **a.C.** is used for BCE (Before Common Era) dates.
 
 Jeżeli dokładny rok urodzenia i/lub zgonu danej osoby nie jest znany, należy użyć następujących skrótów, aby zasygnalizować, że wprowadzone dane nie są precyzyjne.
 
