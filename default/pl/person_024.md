@@ -16,7 +16,7 @@ Podać kod alfanumeryczny stosowany do identyfikacji nazw. Należy go pobrać z 
 Wprowadź instytucję, która wytwarzyła standardowy numer lub kod. Należy wybrać spośród następujących instytucji:
 
 - **BNE**: Biblioteca Nacional de España
-- **BNF**: Bibliothèque nationale de France: Enter the entire ark, starting with **ark:/**
+- **BNF**: Bibliothèque nationale de France: Wprowadź cały ark, rozpoczynając od **ark:/**
 - **DNB**: Deutsche Nationalbibliothek
 - **ICCU**: Istituto centrale per il Catalogo unico delle biblioteche italiane e per le informazioni bibliografiche
 - **ISNI**: International Standard Name Identifier
@@ -27,6 +27,6 @@ Wprowadź instytucję, która wytwarzyła standardowy numer lub kod. Należy wyb
 - **ORCID**: Open Researcher and Contributor ID
 - **SWNL**: Schweizerische Nationalbibliothek/Bibliothèque nationale suisse/Biblioteca nazionale svizzera
 - **VIAF**: Virtual International Authority File
-- **WKP**: Wikidata (Wikipedia): Identifiers must begin with **Q**
+- **WKP**: Wikidata (Wikipedia): Identyfikatory muszą się zaczynać **Q**
 - **CMO**: Corpus Musicae Ottomanicae
 - **CORAGO**: Corago  
