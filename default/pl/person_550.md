@@ -12,4 +12,4 @@ Wprowadź w języku angielskim zawód lub funkcję danej osoby. Zawody mogą odn
 - polityk
 - ksiądz
 
-**Obsolete procedures**: Some older RISM records contain "profession" in 550$i which indicated the type of term.
+**Przestarzałe procedury**: Niektóre starsze rekordy RISM zawierają „zawód” w polu 550$i , co wskazywało na rodzaj terminu.
