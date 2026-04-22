@@ -1,17 +1,17 @@
-#### Other life dates (678 $a)
+#### Pozostałe daty życia (678 $a)
 
-Pełne daty życia, składajace się z dnia, meisiąca i roku mogą być wprowadone tu. Sposób zapisu daty: DD.MM.RRRR. Niedostępne elementy daty należy pominąć. Lata aktywności należy poprzedzić symbolem **fl.**. Floruit dates may also refer to known, attested years.
+Pełne daty życia, składajace się z dnia, meisiąca i roku mogą być wprowadone tu. Sposób zapisu daty: DD.MM.RRRR. Niedostępne elementy daty należy pominąć. Lata aktywności należy poprzedzić symbolem **fl.**. Datowanie na podstawie floruit może również odnosić się do znanych potwierdzonych lat.
 
 ##### Przykłady
 
 - 22.11.1879-31.12.1967
 - 11.12.1864-  
-  _Only date of birth known_
+  _Tylko data urodzenia znana_
 - 06.1715-1780  
-  _Day of birth unknown, but month was June_
+  _Dzień urodzenia nieznany, ale miesiąc czerwiec_
 - -12.12.1803  
   _Tylko data śmierci znana_
 - fl. 1732-1735  
-  _Only years active known_
+  _Znane tylko lata aktywności_
 
-**Obsolete procedures:** The field 678 was previously called **Additional biographical information (100 $y)** and was used for biographical information found on a musical source. In previous cataloging programs, it was linked to a related institution. The relationship between the biographical information and the source and institution was discontinued with the introduction of Muscat, and the scope of the field was redefined in 2026.
+**Przestarzałe procedury:** Pole 678 było wcześniej nazwane ** Pozostałe daty urodzenia i śmierci (100 $y)** i było wykorzystywane jako informacja biograficzna znaleziona w źródle. We wcześniejszych programach do katalogowania było to powiązane z instytucją. Wykazywanie tego związku między informacją biograficzną, źródłem i instytucją zaprzestano wraz z wprowadzeniem Muscatu, kiedy zakres pola został ponownie zdefiniowany w 2026 r.
