@@ -88,4 +88,4 @@ Należy wprowadzić miejsce instytucji związanej z drukiem, zwielokrotnianiem i
 
 #### Nazwa drukarni (260 $f)
 
-Należy wprowadzić nazwę drukarza lub drukarni podaną w źródle. W polach **Dodatkowa osoba (700)** lub D**odatkowa instytucja (710)** zawsze należy wprowadzać nazwy ustandaryzowane.
+Należy wprowadzić nazwę sztycharza lub drukarni podaną w źródle. W polach **Dodatkowa osoba (700)** lub **Dodatkowa instytucja (710)** zawsze należy wprowadzać nazwy ustandaryzowane.
