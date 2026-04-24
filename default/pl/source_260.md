@@ -20,11 +20,11 @@ W polach **Dodatkowa osoba (700)** lub D**odatkowa instytucja (710)** zawsze nal
 
 Jeżeli nazwy wydawcy lub dystrybutora nie można zidentyfikować na druku, należy wprowadzić **[s.n.]**. (Nie należy indeksować [s.n.] jako dodatkowej instytucji). W przypadku rękopisów należy pozostawić puste miejsce.
 
-#### Date (260 $c)
+#### Data (260 $c)
 
-Enter the date of the source. Use Arabic numerals (such as 1624 instead of MDCXXIV). Keep in mind that this field is for the date of the material source itself, not for the work notated in the source. If the source contains an obvious error (such as a typographical error), enter the correct date in this field.
+W tym miejscu należy wprowadzić datę źródła. Należy używać cyfr arabskich (np. 1624 zamiast MDCXXIV). Należy mieć na uwadze, że pole dedykowane jest podaniu daty źródła, a nie kompozycji. Jeśli źródło zawiera oczywisty błąd (taki ja typowy typograficzny), w polu należy podać datę właściwą.
 
-For manuscripts: Always try to give a date, even if it is approximate. If you have a month, day, and year, write it in this form: YYYY-MM-DD.
+Dla rękopisów: Zawsze należy starać się podać datę, nawet jeśli jest przybliżona. Jeżeli znany jest miesiąc, dzień i rok, datę należy podać w formacie: RRRR-MM-DD.
 
 You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before**, and **after**. Try to indicate the date as exactly as possible. If you are uncertain, use a date range that corresponds to a non-specific period, such as the eighteenth century or the end of the seventeenth century. See the table below.
 
