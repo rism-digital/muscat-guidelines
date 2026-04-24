@@ -26,20 +26,20 @@ W tym miejscu należy wprowadzić datę źródła. Należy używać cyfr arabski
 
 Dla rękopisów: Zawsze należy starać się podać datę, nawet jeśli jest przybliżona. Jeżeli znany jest miesiąc, dzień i rok, datę należy podać w formacie: RRRR-MM-DD.
 
-You may indicate approximate dates in your cataloging language by using the following: **ca.** for circa, **before**, and **after**. Try to indicate the date as exactly as possible. If you are uncertain, use a date range that corresponds to a non-specific period, such as the eighteenth century or the end of the seventeenth century. See the table below.
+Można podać przybliżone daty w stosowanym języku katalogowania poprzez użycie następujących określeń: **ca.** jako skrót circa, **before** i **after**. Należy starać się podać możliwie jak najdokładniejszą datę. Jeżeli nie ma pewności co do daty, należy użyć zakresu dat odpowiadającego ogólnie ujętemu okresowi, np. wiek XVIII lub koniec wieku XVII. Patrz tabela poniżej.
 
-For printed items: If you have a print but it is undated, either enter an approximate date in square brackets or enter **[s.d.]**. Make an effort to supply a reasonable date range for an undated print, such as by using the life dates of the composer or arranger as a _terminus post quem_, or the active years of a publisher.
+Dla druków: W przypadku druku niedatowanego, należy wprowadzić albo przybliżoną datę w nawiasach kwadratowych albo **[s.d.]**. Należy postarać się, aby podać rozsądny zakres dat dla niedatowych druków, odnosząc się do lat życia kompozytora lub aranżera _terminus post quem_, lub lat działalności wydawcy.
 
-Note that for manuscripts, dates are given without square brackets because manuscripts are rarely dated. Printed materials, by contrast, are more likely to include a date so any editorial guess should be in square brackets.
+Należy zwrócić uwagę na fakt, że w przypadku rękopisów daty podaje się bez nawiasów, ponieważ rękopisy są rzadko datowane. Z kolei, materiały drukowane na ogół zawierają datę, więc wszelkie domysły redakcyjne należy ująć w nawiasy.
 
-Other dates may be indicated as on the source. Use question marks to indicate uncertain information.
+Inne daty można wprowadzać takie, jakie podano w źródle. Informacje niepewne należy oznaczyć znakami zapytania.
 
-##### Examples
+##### Przykłady
  - 1875
  - 1856 Christmas Day
  - 1757-01-11
  - 1782-03-27-1784-05-07
- - ca. 1760
+ - c. 1760
  - before 1802
  - after 1653
  - Easter 1744
@@ -47,26 +47,26 @@ Other dates may be indicated as on the source. Use question marks to indicate un
  - ?1745?
  - [1771]
 
-For approximate periods of time, enter a range of years based on the following standardized date ranges:
+W przypadku przybliżonych okresów należy podać przedział lat w oparciu o następujące znormalizowane przedziały dat:
 
 
-| **For the period**            | **Enter this range of dates** |
-| ----------------------------- | ----------------------------- |
-| beginning of the 18th century | 1700-1710                     |
-| middle of the 18th century    | 1740-1760                     |
-| end of the 18th century       | 1790-1799                     |
-| 18th century, 1st third       | 1700-1732                     |
-| 18th century, 2nd third       | 1733-1765                     |
-| 18th century, 3rd third       | 1766-1799                     |
-| 18th century, 1st quarter     | 1700-1724                     |
-| 18th century, 2nd quarter     | 1725-1749                     |
-| 18th century, 3rd quarter     | 1750-1774                     |
-| 18th century, 4th quarter     | 1775-1799                     |
-| 18th century, 1st half        | 1700-1749                     |
-| 18th century, 2nd half        | 1750-1799                     |
-| 18th century                  | 1700-1799                     |
+| **Dla okresu**         | **Należy wprowadzić poniższy zakres dat** |
+| ---------------------- | ----------------------------------------- |
+| początek XVIII wieku   | 1700-1710                                 |
+| połowa XVIII wieku     | 1740-1760                                 |
+| koniec XVIII wieku     | 1790-1799                                 |
+| XVIII wiek, 1. tercja  | 1700-1732                                 |
+| XVIII wiek, 2. tercja  | 1733-1765                                 |
+| XVIII wiek, 3. tercja  | 1766-1799                                 |
+| XVIII wiek, 1. kwartał | 1700-1724                                 |
+| XVIII wiek, 2. kwartał | 1725-1749                                 |
+| XVIII wiek, 3. kwartał | 1750-1774                                 |
+| XVIII wiek, 4. kwartał | 1775-1799                                 |
+| XVIII wiek, 1.połowa   | 1700-1749                                 |
+| XVIII wiek, 2. połowa  | 1750-1799                                 |
+| XVIII wiek             | 1700-1799                                 |
 
-**Obsolete procedures**: Older RISM cataloging guidelines allowed certain coded date formats. This practice was discontinued with the introduction of Muscat. The obsolete date formats are the following, with their meaning in parentheses:
+**Przestarzałe procedury**: Starsze wytyczne dotyczące katalogowania RISM dopuszczono pewne kodowane formaty dat. Praktyka ta została zaprzestana wraz z wprowadzeniem programu Muscat. Nieaktualne formaty dat są następujące w nawiasach:
 - 1782a (before 1782)
 - 1782c (ca. 1782)
 - 1782p (after 1782)
@@ -79,13 +79,13 @@ For approximate periods of time, enter a range of years based on the following s
 - 18.sc (18th century)
 - 18/19 (18th or 19th century)
 
-Furthermore, previous cataloging programs had two fields for dating. One was for numbers only and the second was a text field where numbers plus abbreviations such as _+, ca., ante, post,_ and _18.sc_ or text such as _Easter 1805_ or _?1745?_ could be entered. Some legacy records, therefore, display two date indications, such as _1806 (1806 ca.)_. Dates written in the format XX.XX.XXXX are interpreted as DD.MM.YYYY.
+Ponadto, poprzednie programy do katalogowania miały dwa pola przeznaczone do datowania. Jeden dotyczył tylko liczb, a drugi był polem tekstowym, w którym liczby plus skróty takie jak _+, ok. ante, post,_ i _18. c_ lub tekst taki jak _Easter 1805_ lub _?1745?_ mógł być wprowadzony. Niektóre dotychczasowe rekordy wyświetlają zatem dwa wskazania daty, takie jak _1806 (1806 ca.)_. Daty napisane w formacie XX.XX.XXXX są interpretowane jako DD.MM.RRRR.
 
 
-#### Location of printer (260 $e)
+#### Miejsce druku (260 $e)
 
-Enter the location of the institution associated with printing, duplicating, etc. as given on the source.
+Należy wprowadzić miejsce instytucji związanej z drukiem, zwielokrotnianiem itd. jakie podano w źródle.
 
-#### Name of printer (260 $f)
+#### Nazwa drukarni (260 $f)
 
-Enter the name of the printer or press as given on the source. W polach **Dodatkowa osoba (700)** lub D**odatkowa instytucja (710)** zawsze należy wprowadzać nazwy ustandaryzowane.
+Należy wprowadzić nazwę drukarza lub drukarni podaną w źródle. W polach **Dodatkowa osoba (700)** lub D**odatkowa instytucja (710)** zawsze należy wprowadzać nazwy ustandaryzowane.
