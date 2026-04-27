@@ -16,7 +16,7 @@ W przypadku druków, należy podać nazwę wydawcy, firmy wydawniczej, importera
 
 W przypadku rękopisów, należy podać nazwę kopisty, jaka widnieje w źródle.
 
-W polach **Dodatkowa osoba (700)** lub D**odatkowa instytucja (710)** zawsze należy wprowadzać nazwy ustandaryzowane. Wydawcy których nazwa pochodzi od osób, a którzy działają jako wydawcy (Pleyel, André, etc.) należy wprowadzać jako instytucje.
+W polach **Dodatkowa osoba (700)** lub **Dodatkowa instytucja (710)** zawsze należy wprowadzać nazwy ustandaryzowane. Należy wprowadzić nazwę sztycharza lub drukarni podaną w źródle.
 
 Jeżeli nazwy wydawcy lub dystrybutora nie można zidentyfikować na druku, należy wprowadzić **[s.n.]**. (Nie należy indeksować [s.n.] jako dodatkowej instytucji). W przypadku rękopisów należy pozostawić puste miejsce.
 
