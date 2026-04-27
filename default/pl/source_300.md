@@ -1,42 +1,42 @@
 ### Opis fizyczny (300)
 
-The field **Physical description** provides a clear declaration of the material preserved by stating the format (such as score or parts) and how many there are. If you have parts, this field is used in conjunction with the field **Parts held and extent (590)**, in which the specific parts are named.
+W polu **Opis fizyczny** podaje się klarowny opis zachowanego materiału, odnosząc się do formatu (takiego jak partytura czy głosy) i ilości. Jeśli posiadasz samodzielne głosy, pole wykorzystywane jest w połączeniu z polem **Głosy, objętość (590)**, w którym rozpisuje się konkretne głosy.
 
-#### Format, extent (300 $a)
+#### Rodzaj źródła, objętość (300$a)
 
-**Required field.**
+**Pole wymagane.**
 
-For all types of formats except parts, the field **Format, extent (300 $a)** is built up of three components: **Number of items, Format, Extent.**
+Dla wszystkich typów formatów z wyjątkiem samodzielnych głosów, format pola **Rodzaj źródła, objętość (300$a)** składa się z trzech komponentów: **Liczba, Rodzaj źródła, Objętość**
 
-###### Example
+###### Przykład
 
 - 1 score: 35 p.
 
-For parts, the field **Format, extent (300 $a)** is built up of two components: **Number of items, Format.** The specific parts are listed separately in the field **Parts held (590)**.
+Dla głosów w polu **Rodzaj źródła, objętość (300 $a)** podaje się dwie wartości: **Liczba, Rodzaj źródła**. Poszczególne głosy rozpisuje się oddzielnie w polu **Głosy, objętość (590)**.
 
-###### Example
+###### Przykład
 
 - 5 parts
 
-##### Number of items
+##### Liczba źródeł
 
-State the number of items held. Use **X** to indicate an unknown number of items.
+Podajemy liczbę oddzielnych źródeł. Gdy nie jest znana liczba źródeł, podajemy **X**.
 
-##### Format
+##### Rodzaj źródła
 
-Use one of the following English terms, in the singular or plural as appropriate.
+Należy użyć jednego z następujących określeń w języku angielskim, odpowiednio w liczbie pojedynczej lub mnogiej.
 
-###### General
+###### Ogólne określenia
 
-- **part**: The notation of a work for an instrument or voice regardless of the number of staves per system (includes piano, organ, piano four-hands, no matter how many staves). Use also for partbooks.
-- **score**: Contains all the instruments and/or voices of a composition, as long as more than one performing force is involved. This includes works for voice and accompaniment.
+- **głos**: zapis utworu dla instrumentu lub głosu niezależnie od liczby systemów (w tym partie na fortepian, organy, fortepian na cztery ręce niezależnie od ilości systemów). Wykorzystywane także na księgi głosowe.
+- **partytura**: zawiera wszystkie głosy i/lub instrumenty kompozycji, występuje tylko gdy jest więcej niż jeden. Obejmuje kompozycje na głos z akompaniamentem.
 
-###### Kinds of scores
+###### Rodzaje partytur
 
-- **vocal score**: A work with voices and instruments where the vocal part(s) are present with the accompaniment arranged for a keyboard instrument.
-- **keyboard score**: A work for instruments where the instruments are arranged for a keyboard instrument (no vocal parts). Indicate the extent immediately following regardless of the number of staves per system.
-- **chorus score**: A work for solo voices, chorus, and instruments where only the music for the chorus is present in score format, omitting any solo vocal parts; an accompaniment reduced for a keyboard instrument may or may not be present.
-- **particella**: A sketch or draft of a composition in a short score format.
+- **partytura wokalna**: Kompozycja na głosy i instrumenty, gdzie partii/om wokalnej/ym towarzyszy zaaranżowany akompaniament instrumentu klawiszowego.
+- **partytura klawiszowa**: Kompozycja na instrumenty, w której instrumenty zostały zaaranżowane na instrument klawiszowy (bez partii wokalnych). Indicate the extent immediately following regardless of the number of staves per system.
+- **partytura chóralna**: Kompozycja na głosy solo, chór i instrumenty, gdzie tylko partia chóralna jest obecna w formie partytury z pominięciem partii solowych, a akompaniament jest zredukowany do instrumentu klawiszowych i może być lub nie obecny.
+- **particella**: Szkic lub zarys kompozycji w formacie skróconej partytury.
 - **short score**: All other kinds of reduced, condensed, or short scores, or when the kind of reduced score cannot be determined.
 - **tablature score**
 - **choirbook**: A book in which all voices of a work are written separately so that the choir can read the music from one book. Choirbooks are input as with scores.
