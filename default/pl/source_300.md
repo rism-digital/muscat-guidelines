@@ -1,4 +1,4 @@
-### Physical description (300)
+### Opis fizyczny (300)
 
 The field **Physical description** provides a clear declaration of the material preserved by stating the format (such as score or parts) and how many there are. If you have parts, this field is used in conjunction with the field **Parts held and extent (590)**, in which the specific parts are named.
 
