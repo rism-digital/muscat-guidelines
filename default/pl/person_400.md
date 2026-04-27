@@ -19,10 +19,10 @@ Wybierz typ wariantu nazwy z poniższej listy. Kody w nawiasach kwadratowych odn
 - **Nazwisko rodowe** [gg]
 - **Inicjały** [in]
 - **Nazwisko po ślubie** [ee]
-- **Nickname** [bn]: Nickname, sobriquet, or epithet, such as _Il Sassone_ or _Karl der Kühne_
+- **Przydomek** [bn]: Pseudonim, przydomek lub epitet, takie jak _Il Sassone_ lub _Karl der Kühne_
 - **Pseudonim** [da]
 - **Imię religijne** [do]
 - **Tłumaczenie** [ub]: Na przykład, _Ackermann, Alexander_ jest przetłumaczonym wariantem _Agricola, Alexander_
 - **Nieskategoryzowany** [xx]
 
-**Obsolete procedure:** In previous cataloging programs, some name variants either had no type assigned or used other categories that are no longer relevant. Such variants were assigned the neutral value **xx** (uncategorized). Catalogers may assigned these to a more specific type when appropriate.  
+**Przestarzałe procedury:** W poprzednich programach do katalogowania, niektóre warianty imion albo nie miały przypisanego typu albo wykorzystywały inne kategorie, które nie mają już zastosowania. Takim wariantom przypisano neutralną wartość **xx** (nieskategoryzowane). Katalogerzy mogą przypisywać je do bardziej konkretnego typu w stosownych przypadkach.  

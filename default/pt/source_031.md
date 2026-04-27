@@ -45,7 +45,7 @@ Enter the title of the movement and tempo or similar indications, if specified, 
 
 ##### Examples
 - All|o
-- [vol. [vol. [vol. [vol. 1 p. 17:] N. 1: Recit. et Aria
+- [vol. [vol. [vol. [vol. [vol. 1 p. 17:] N. 1: Recit. et Aria
 
 **Obsolete procedures**: Older RISM guidelines allowed the phrase "Without tempo" to indicate that a movement has several tempo indications, of which one or several are not known. Multiple tempo indications were entered after each other, separated by semicolons.
 

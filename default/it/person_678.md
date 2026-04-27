@@ -1,6 +1,6 @@
 #### Other life dates (678 $a)
 
-The full life dates, including month and day, may be entered here. Enter concrete dates in the form DD.MM.YYYY. Elements of a date that are not available may be omitted. Years active or flourishing must be preceded by **fl.** Floruit dates may also refer to known, attested years.
+The full life dates, including month and day, may be entered here. Enter concrete dates in the form DD.MM.YYYY. Elements of a date that are not available may be omitted. Years active or flourishing must be preceded by **fl.**. Floruit dates may also refer to known, attested years.
 
 ##### Esempi
 

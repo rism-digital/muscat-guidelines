@@ -1,6 +1,6 @@
 ### Powiązana osoba (500)
 
-The field **Related personal name** describes relationships between people, primarily familial.
+Pole **Powiązana osoba** opisuje relacje między ludźmi, głównie rodzinnymi.
 
 #### Powiązana osoba (500 $a)
 
