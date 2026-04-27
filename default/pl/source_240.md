@@ -198,7 +198,7 @@ Grupy instrumentów wprowadzić w następującej kolejności:
 - Klawiszowe
 - Basso continuo
 
-Należy podać **V** także do zgrupowania kilku różnych partii wokalnych, takich jak **V (8)**. W przypadku podania więcej niż jednego tego samego głosu lub instrumentu należy umieścić ich liczbę w nawiasach po desygnacji partii, np. **B(2)**. W przypadku nieznanej liczby, należy podać **(X)**. Wprowadzić **V**, aby oznaczyć nieznaną partię głosową oraz **i**, aby oznaczyć nieznany instrument.
+W przypadku nieznanej liczby, należy podać **(X)**. Należy podać **V** także do zgrupowania kilku różnych partii wokalnych, takich jak **V (8)**. Wprowadzić **V**, aby oznaczyć nieznaną partię głosową oraz **i**, aby oznaczyć nieznany instrument. W przypadku podania więcej niż jednego tego samego głosu lub instrumentu należy umieścić ich liczbę w nawiasach po desygnacji partii, np. **B(2)**.
 
 Instrumenty solowe należy podawać tylko wtedy, gdy pełnią one ciągłą funkcję solową w stosunku do orkiestry, zwłaszcza w koncercie solowym. Nie wymieniać tutaj partii, jeśli ma ona jedynie okazjonalne pasaże solowe, takie jak obój solo w sekcji kantaty.
 
