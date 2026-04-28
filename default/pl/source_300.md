@@ -58,9 +58,9 @@ W przypadku partii dyrygenckiej (zwanej również „directorium”), należy tu
 
 W przypadku dokumentów tekstowych: Używać określenia **with text** np.**keyboard score with text**. Dla partii tekstowych, patrz w polu **Głosy, objętość (590)**.
 
-##### Extent
+##### Objętość
 
-For all formats except parts, enter the number of pages, leaves, or gatherings. Choose among the following abbreviations: **f** for folio, **p** for page, **lvs** for leaves (sheets), and **fds** for folds (gatherings).
+Dla wszelkich formatów z wyjątkiem głosów, należy wprowadzić liczbę stron, kart lub składek. Choose among the following abbreviations: **f** for folio, **p** for page, **lvs** for leaves (sheets), and **fds** for folds (gatherings).
 
 For collection parent records as well as for pieces that are not part of collections, the total extent is given, such as **35 p.** If a piece is within a collection, the extent for that piece is given, such as **p. 17-23.**
 
