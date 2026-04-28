@@ -60,82 +60,82 @@ W przypadku dokumentów tekstowych: Używać określenia **with text** np.**keyb
 
 ##### Objętość
 
-Dla wszelkich formatów z wyjątkiem głosów, należy wprowadzić liczbę stron, kart lub składek. Choose among the following abbreviations: **f** for folio, **p** for page, **lvs** for leaves (sheets), and **fds** for folds (gatherings).
+Dla wszelkich formatów z wyjątkiem głosów, należy wprowadzić liczbę stron, kart lub składek. Wybierz jeden z następujących skrótów: **f** dla folio, **p** dla strony, **lvs** dla kart (arkuszy) i **fds** dla składek.
 
-For collection parent records as well as for pieces that are not part of collections, the total extent is given, such as **35 p.** If a piece is within a collection, the extent for that piece is given, such as **p. 17-23.**
+W przypaku rekordów kolekcji jak i dla elementów niebędących jej cześcią, nalezy podać całokowitą ilość stron w następujący sposób: **36 p.** Natomiast, jeśli podajemy wartość dla elementu kolekcji, należy podać **p. 17-23.**
 
-Use only one method of foliation or pagination within a collection. When using recto and verso enumeration, use both **r** and **v**. Indicate other units (such as the conversion from folios to pages) in the field **General note (500)**.
+Należy używać tylko jednej metody opisując rekord kolekcji: paginacji lub foliacji. Używając numeracji recto i verso, użyj skrótów: **r** i **v**. Inne jednostki (takie jak zamiany z foliacji na paginację) wyjaśnić w polu **Uwaga ogólna (500)**.
 
-Do not indicate the extent for parts here. Extent is entered in the field **Parts held (590)**.
+Nie należy tutaj podawać objętości głosów. Objętość głosów wprowadza się w polu **Głosy, objętość (590)**.
 
-###### Examples
+###### Przykłady
 
-- 1 score: 35 p.
+- 1 score: 36 p.
 - 1 score (2x): 2, 2 f.
 - 1 short score: 8 f.
 - 1 tablature score: p. 5-8
 - 1 keyboard score: f. 2r-4v
 - 1 choirbook: p. 45
-- various: 101 p.
+- various: 102 p.
 - 5 parts
 - 1 part
 - other: 10 p.
 
 
-###### Examples of other foliations
-Foreword is numbered I-VIII, followed by 25 pages of music
+###### Inne przykłady opisu objętości
+Wstęp jest ponumerowany I-VIII, następnie zapis muzyczny na 25 stronach.
 
 - VIII, 25 p.
 
-1 folio is numbered, foreword is numbered I-VIII, followed by 25 pages of music
+Jest numeracja 1 folio, następnie numeracja I-VIII, po której następuje 25 stron zapisu muzycznego.
 
 - 1 f., VIII, 25 p.
 
-1 folio is unnumbered, foreword is numbered I-VIII, followed by 25 pages of music
+Pierwsze folio nie jest numerowane, następnie numeracja I-VIII, po której następuje 25 stron zapisu muzycznego.
 
 - [1] f., VIII, 25 p.
 
-Pages change from Roman to Arabic numerals
+Numeracja stron zmienia się z rzymskiej na arabską.
 
 - XII p., p. 13-36
 
-Blank pages or foliation irregularities can be mentioned in the field **General note (500)**.
+Strony puste lub nieregulaność numeracji należy opisać w polu **Uwaga ogólna (500)**.
 
 - f. [2] blank
-- p. 272 occurs twice
+- p. 272 pojawia się dwukrotnie.
 
-#### Other physical details (300 $b)
+#### Inne szczegóły fizyczne (300 $b)
 
-The presence of illustrations and other supplemental elements can be mentioned here. Enter using your cataloging language.
+W tym polu można wprowadzić wystąpienie ilustracji i innych elementów uzupełniających. Wprowadzić używając własnego języka katalogowania..
 
-Examples include:
+Przykłady:
 
-- advertisements
-- engraved title page
-- frontispiece
-- illustrations
-- list of subscribers
-- list of subscribers through praenumeration (common in Germany)
-- portraits
-- printer's device
-- printer's mark
-- vignette
+- reklamy
+- sztychowana strona tytułowa
+- frontispis
+- ilustracje
+- lista prenumeratorów
+- lista prenumeratorów za pośrednictwem prenumeraty (powszechne w Niemczech)
+- portrety
+- sygnet drukarski
+- znak drukarski
+- winieta
 
-#### Dimensions (300 $c)
+#### Wymiary (300 $c)
 
-Enter the dimensions of the source: height x width in cm. Fractions of centimeters may be indicated by either a comma or period. A second set of dimensions can be given in parentheses. If there are more than two different sets of dimensions, enter the English phrase **Different sizes**; further elaboration can be made in the field **General note (500)**. Formats such as **octavo**, **quarto**, etc. should be indicated in the field **Book format (340 $m)**.
+Podać wymiary źródła: wysokość x szerokość w cm. Ułamki centymetrów można zaznaczyć przecinkiem lub kropką. Drugi zestaw wymiarów można podać w nawiasach. Jeśli istnieją więcej niż dwa różne zestawy wymiarów, należy wpisać angielskie wyrażenie **Different sizes**, a dalsze rozwinięcia można dokonać w polu **Uwaga ogólna (500)**. Formaty takie jak **octavo**, **quarto** itp. należy wskazać w polu **Format książki (340 $m)**.
 
-##### Examples
+##### Przykłady
 
-- 25.5 x 30.5 cm
-- 36 x 25.5 cm
-- 25.5 (21.5) x 32 (28.5) cm
+- 25,5 x 30,5 cm
+- 36 x 25,5 cm
+- 25,5 (21,5) x 32 (28,5) cm
 - Different sizes
 
-For printed items, you may enter the dimensions of the printed area. Use English indications such as "printed area" or "plate mark." Separate this measurement from the measurement of the source with a semicolon. If dimensions vary, measure the title page and the first page of music (including, when applicable, an indication of what was measured). Full dimensions of the item then go in the holdings information.
+W przypadku druków, można wprowadzić wymiary zadrukowanej powierzchni. W takiej sytuacji należy użyć angeislkiego określenia „printed area” lub „plate mark”. Pomiar ten należy oddzielić od pomiaru źródła za pomocą średnika. Jeśli wymiary są różne, należy zmierzyć stronę tytułową i pierwszą stronę z zapisem muzycznym (w tym podając, w razie potrzeby, podając co zmierzono). Pełne wymiary obiektu należy wprowadzić do rekordu egzemplarza.
 
-##### Examples
+##### Przykłady
 
 - 20 x 16 cm; plate mark 18 x 15,5 cm
-- Plate mark, title page: 20.2 x 27.7 cm; plate mark, music: 20.4 x 28.2 cm
-- Printed area, title page: 20.2 x 27.7 cm; printed area, music: 20.4 x 28.2 cm
+- Plate mark, title page: 20,2 x 27,7 cm; plate mark, music: 20,4 x 28,2 cm
+- Printed area, title page: 20,2 x 27,7 cm; printed area, music: 20,4 x 28,2 cm
