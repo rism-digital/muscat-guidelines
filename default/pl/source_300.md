@@ -28,16 +28,16 @@ Należy użyć jednego z następujących określeń w języku angielskim, odpowi
 
 ###### Ogólne określenia
 
-- **głos**: zapis utworu dla instrumentu lub głosu niezależnie od liczby systemów (w tym partie na fortepian, organy, fortepian na cztery ręce niezależnie od ilości systemów). Wykorzystywane także na księgi głosowe.
-- **partytura**: zawiera wszystkie głosy i/lub instrumenty kompozycji, występuje tylko gdy jest więcej niż jeden. Obejmuje kompozycje na głos z akompaniamentem.
+- **part**: zapis utworu dla głosu, czyli instrumentu lub głosu wokaalnego niezależnie od liczby systemów (w tym partie na fortepian, organy, fortepian na cztery ręce niezależnie od ilości systemów). Wykorzystywane także na księgi głosowe.
+- **score**: partytura zawiera wszystkie głosy i/lub instrumenty kompozycji, występuje tylko gdy jest więcej niż jeden. Obejmuje kompozycje na głos z akompaniamentem.
 
 ###### Rodzaje partytur
 
 - **partytura wokalna**: Kompozycja na głosy i instrumenty, gdzie partii/om wokalnej/ym towarzyszy zaaranżowany akompaniament instrumentu klawiszowego.
-- **partytura klawiszowa**: Kompozycja na instrumenty, w której instrumenty zostały zaaranżowane na instrument klawiszowy (bez partii wokalnych). Indicate the extent immediately following regardless of the number of staves per system.
-- **partytura chóralna**: Kompozycja na głosy solo, chór i instrumenty, gdzie tylko partia chóralna jest obecna w formie partytury z pominięciem partii solowych, a akompaniament jest zredukowany do instrumentu klawiszowych i może być lub nie obecny.
+- **keyboard score**: Kompozycja na instrumenty, w której instrumenty zostały zaaranżowane na instrument klawiszowy (bez partii wokalnych). Indicate the extent immediately following regardless of the number of staves per system.
+- **chorus score**: Kompozycja na głosy solo, chór i instrumenty, gdzie tylko partytura chóralna jest obecna w formie partytury z pominięciem partii solowych, a akompaniament jest zredukowany do instrumentu klawiszowych i może być lub nie obecny.
 - **particella**: Szkic lub zarys kompozycji w formacie skróconej partytury.
-- **wyciąg**: Wszelkiego rodzaju redukcje, streszczone, wyciągi partytur lub sytuacje kiedy nie można określić rodzaju zredukowanej partytury.
+- **short score**: Wszelkiego rodzaju redukcje, streszczone, wyciągi partytur lub sytuacje kiedy nie można określić rodzaju zredukowanej partytury.
 - **tablature score: tabulatura**
 - **choirbook**: Księga chóralna, w której wszystkie głosy kompozycji zapisane są oddzielnie, także chór może odczytywać zapis muzyczny z księgi. Księgi chóralne traktowane są jak partytury.
 
