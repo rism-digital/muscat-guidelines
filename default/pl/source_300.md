@@ -38,21 +38,21 @@ Należy użyć jednego z następujących określeń w języku angielskim, odpowi
 - **partytura chóralna**: Kompozycja na głosy solo, chór i instrumenty, gdzie tylko partia chóralna jest obecna w formie partytury z pominięciem partii solowych, a akompaniament jest zredukowany do instrumentu klawiszowych i może być lub nie obecny.
 - **particella**: Szkic lub zarys kompozycji w formacie skróconej partytury.
 - **wyciąg**: Wszelkiego rodzaju redukcje, streszczone, wyciągi partytur lub sytuacje kiedy nie można określić rodzaju zredukowanej partytury.
-- **tabulatura**
-- **księga chóralna**: Księga, w której wszystkie głosy kompozycji zapisane są oddzielnie, także chór może odczytywać zapis muzyczny z księgi. Księgi chóralne traktowane są jak partytury.
+- **tablature score: tabulatura**
+- **choirbook**: Księga chóralna, w której wszystkie głosy kompozycji zapisane są oddzielnie, także chór może odczytywać zapis muzyczny z księgi. Księgi chóralne traktowane są jak partytury.
 
 ###### Formaty specjalne
 
-- **partia tabulaturowa**: Typ tabulatury, o ile jest znany, należy podać w polu **Uwaga ogólna (500)**.
-- **szkic**: Użyć do szkiców, jeśli nie można dokładniej określić typu formatu.
-- **dokument tekstowy**: Używać do librett, traktatów i innych rodzajów dokumentów tekstowych. Może być konieczne naniesienie uwagi w polu **Uwaga ogólna (500)**.
-- **egzemplarz suflerski**: Materiał (może to być skrócona partytura lub tekst) używany przez suflera.
+- **tablature part**: Typ tabulatury, o ile jest znany, należy podać w polu **Uwaga ogólna (500)**.
+- **sketch**: Użyć do szkiców, jeśli nie można dokładniej określić typu formatu.
+- **text document**: Używać do librett, traktatów i innych rodzajów dokumentów tekstowych. Może być konieczne naniesienie uwagi w polu **Uwaga ogólna (500)**.
+- **prompt book**: Egzemplarz suflerski (może to być skrócona partytura lub tekst) używany przez suflera.
 - **table book**: Partie ułożone na stronie tak, aby wszyscy wykonawcy mogli z niej czytać, siedząc wokół stołu.
 
 ###### Inne
 
-- **różne**: Używać w przypadku rekordów kolekcji, jeśli kolekcja zawiera różne formaty (takie jak partytura w normlanmy znaczeniu czy partytura klawiszowa).
-- **inne**: Stosować, jeżeli żadne z powyższych nie dotyczy. W takich przypadkach należy dodać uwagę wyjaśniającą w polu **Uwaga ogólna (500)**. Nie wymaga się podania liczby źródeł lub objętości.
+- **various**: Używać w przypadku rekordów kolekcji, jeśli kolekcja zawiera różne formaty (takie jak partytura w normlanmy znaczeniu czy partytura klawiszowa).
+- **other**: Stosować, jeżeli żadne z powyższych nie dotyczy. W takich przypadkach należy dodać uwagę wyjaśniającą w polu **Uwaga ogólna (500)**. Nie wymaga się podania liczby źródeł lub objętości.
 
 W przypadku partii dyrygenckiej (zwanej również „directorium”), należy tutaj użyć **part** lub **parts** i wprowadzić **conductor part** w polu **Głosy, objętość (590)**.
 
@@ -132,7 +132,7 @@ Podać wymiary źródła: wysokość x szerokość w cm. Ułamki centymetrów mo
 - 25,5 (21,5) x 32 (28,5) cm
 - Different sizes
 
-W przypadku druków, można wprowadzić wymiary zadrukowanej powierzchni. W takiej sytuacji należy użyć angeislkiego określenia „printed area” lub „plate mark”. Pomiar ten należy oddzielić od pomiaru źródła za pomocą średnika. Jeśli wymiary są różne, należy zmierzyć stronę tytułową i pierwszą stronę z zapisem muzycznym (w tym podając, w razie potrzeby, podając co zmierzono). Pełne wymiary obiektu należy wprowadzić do rekordu egzemplarza.
+W przypadku druków, można wprowadzić wymiary zadrukowanej powierzchni. W takiej sytuacji należy użyć angeislkiego określenia „printed area” lub „plate mark”. Pomiar ten należy oddzielić od pomiaru źródła za pomocą średnika. Jeśli wymiary są różne, należy zmierzyć stronę tytułową i pierwszą stronę z zapisem muzycznym (w tym podając, w razie potrzeby, podając co zmierzono). Szczegółowe wymiary obiektu można wprowadzić do rekordu egzemplarza.
 
 ##### Przykłady
 
