@@ -1,10 +1,10 @@
-### Special production technique (340)
+### Specjalna technika wytworzenia (340)
 
-The field **Special production technique** is for the physical description information for an item that required technical equipment for its production, and for the description of the page format.
+Pole **Specjalna technika wytworzenia** służy do fizycznego opisu katalogowanej pozycji, do której produkcji niezbędne było wyposażenie techniczne, oraz do opisu formatu strony.
 
-#### Printing technique (340 $d)
+#### Technika drukarska (340 $d)
 
-Indicate the technique used in the production of the source here. If you need any term not on the list, contact the Editorial Center.
+Można tu wskazać zastosowaną technikę przy wytworzeniu źródła. If you need any term not on the list, contact the Editorial Center.
 
 - **Autography**: Transfer printing (not to be confused with autograph manuscripts).
 - **Computer printout**
