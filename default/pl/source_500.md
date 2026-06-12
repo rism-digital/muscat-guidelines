@@ -1,37 +1,37 @@
-### General note (500)
+### Uwaga ogólna (500)
 
-The field **General note** is for any information on a source which could not be entered in other fields, to supplement the information given in encoded form elsewhere in the record, or to offer any other explanations that would help the reader.
+W polu **Uwaga ogólna** należy podać wszelkie informacje ze źródła, których nie można wprowadzić w innych polach w celu uzupełnienia informacji podanych w skrócie w innych miejscach w rekordzie lub w celu przedstawienia wszelkich innych wyjaśnień, które pomogłyby czytelnikowi w interpretacji źródła.
 
-#### General note (500 $a)
+#### Uwaga ogólna (500 $a)
 
-Enter all other notes here. Enter using your cataloging language. When quoting something on the source, use **\|** (the vertical pipe) with a single space before and after the sign to show a line break. Additions to the original quotation should always be in square brackets.
+Wprowadź wszystkie inne notatki tutaj. Należy je wprowadzić we własnym języku katalogowania. Cytując dane ze źródła, należy użyć znaku **\|** (pionowa kreska) z jedną spacją przed i po znaku, aby zaznaczyć koniec linii. Dodatki do oryginalnego cytatu należy zawsze ujmować w nawiasy kwadratowe.
 
-When cataloging the holdings of a single library, try to keep the expressions used as uniform as possible.
+Przy katalogowaniu rekordów egzemplarzy, należy w miarę możliwości starać się zachować jednolitość określeń.
 
-What follows are examples of types of information that can be included as a note. This list is not exhaustive.
+Poniżej przedstawiono przykłady rodzajów informacji, które można zamieścić jako uwaga. Lista ta nie jest wyczerpująca.
 
-- **Instrumentation**  
-  If you have a figured bass in a score, indicate it here in the following manner: b = b.fig, bc = bc.fig, org = org.fig, etc. (see also the tables in the section **Figured bass in scores and/or parts** for guidance with related fields).
- - Scoring of second Agnus Dei: S, A, T, T, B
+- **Instrumentacja**  
+  Jeżeli w partyturze występuje basso continuo, należy je wpisać w sposób następujący: b = b.fig, bc = bc.fig, org = org.fig, itd. (patrz także tabele w sekcji **Basso continuo w partyturach i/lub partiach**, gdzie można znaleźć wskazówki odnośnie pól pokrewnych).
+ - Obsada drugiego Agnus Dei: S, A, T, T, B
  - org = org.fig
-- **Missing parts**
- - Other parts missing
-- **Observations**
- - Evidence present of another copyist.
- - The material consists of arias with paraphrased text from Jommelli’s opera.
- - Original pagination: 1-12.
- - fl 1 with autograph dynamics
-- **Origin of information ascertained from external sources, such as composer or dating**
- - According to FlotzingerL 1965, composer is Mozart.
-- **Printed music**
- - **Designation marks**
-   - Designation mark: “Allgem. Choralbuch.”
- - **Signature marks**
-   - Signature mark: “F 2”
-- **Quotations from the source**
- - At foot of title page: "Performance in Baden Baden on 17 March 1832"
- - Note on cello part, f. 8: “Wir streiken für neue Bögen”
-- **References to other RISM records**  
-  Include the complete RISM siglum, the shelfmark, and the RISM ID number.
- - Composer identified based on incipits in D-KPk 282 (RISM ID no. 450035504).
- - Concordant tune at US-Wc M1.A1A (RISM ID no. 000118313) has title "Jove in his chair".
+- **Części brakujące**
+ - Brak pozostałych części
+- **Obserwacje**
+ - Dowody na obecność innego kopisty.
+ - Materiał składa się z arii ze sparafrazowanym tekstem z opery Jommelliego.
+ - Oryginalna paginacja: 1-12.
+ - fl 1 zawiera dynamikę zapisaną przez kompozytora.
+- **Pochodzenie informacji sprawdzonej w zewnętrznych zasobach, dot. kompozytora czy datowania**
+ - Wg FlotzingerL 1965, kompozytorem jest Mozart.
+- **Materiały drukowane**
+ - **Znaki desygnacji**
+   - Znak desygnacji: „Allgem. Choralbuch.”
+ - **Oznaczenia podpisu**
+   - Oznaczenie podpisu: „F 2”
+- **Cytaty ze źródła**
+ - Na dole strony tytułowej: „Wykonanie w Baden Baden w dniu 17 Marca 1832 roku”
+ - Uwaga na partii wiolonczeli na f. 8: „Wir streiken für neue Bögen”
+- **Odniesienia do innych rekordów RISM**  
+  Podać pełne siglum RISM, sygnaturę i numer ID RISM.
+ - Kompozytor zidentyfikowany na podstawie incipitów zawartych w D-KPk 282 (RISM ID nr 450035504).
+ - Konkordancja w US-Wc M1.A1A (Nr RISM: 000118313) posiada tytuł „Jove in his chair”
