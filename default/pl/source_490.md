@@ -1,12 +1,12 @@
-### Periodical or series (490)
+### Periodyk lub seria (490)
 
-The field **Periodical or series** is for the name of the periodical or series title of which the source is a part. It is linked to the **Titles/Text incipits** index through $0.
+W polu **Periodyk lub seria** podaje się tytuł periodyku lub serii, którego źródło jest częścią. To pole jest powiązane z kartoteką haseł wzorcowych **Tytuły/Incipity tekstowe** poprzez podpole $0.
 
-#### Periodical or series title (490 $a)
+#### Tytuł periodyku lub serii (490 $a)
 
-Enter the name of the periodical or series title.
+Wprowadź nazwę tytułu periodyku lub serii.
 
-##### Examples
+##### Przykłady
 
 - Oeuvres Complets de Piano
 - Molenaar's Muziekuitgaven voor Harmonie- en Fanfare-orkesten
@@ -15,11 +15,11 @@ Enter the name of the periodical or series title.
 - Répertoire des Clavecinistes
 - Journal d'ariettes italiennes
 
-#### Number/volume (490 $v)
+#### Numer/Wolumin (490 $v)
 
-Enter the number, volume, or other sequential designation used in the title of the series. Use the numbering or volume designations as they appear on the source.
+Wprowadź numer, wolumin lub oznaczenie sekwencyjne wykorzystane w tytule serii. Należy stosować numerację lub oznaczenia woluminów w taki sposób, jaki pojawiają się na źródle.
 
-##### Examples
+##### Przykłady
 
 - mai 1679
 - Aug., 1784
