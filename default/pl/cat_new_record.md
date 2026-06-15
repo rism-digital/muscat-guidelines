@@ -20,7 +20,7 @@ Takie publikacje są czasami nazywane zbiorami tekstów pieśni, książkami kie
 
 Szablon dedykowany traktatom jest wykorzystywany do źródeł, które podejmują teoretyczne aspekty muzyki, w tym aspekty kompozycji czy wykonawstwa.
 
-Zarówno szablony dedykowane librettom jak i traktatom mogą zawierać zapis nutowy, a proporcje między zawartością nut do tekstu nie zawsze jest wyraźny.
+Zarówno szablony dedykowane librettom jak i traktatom mogą zawierać zapis nutowy, a proporcja między zawartością nut do tekstu nie zawsze jest wyraźna.
 
 Następujące szablony są używane w Muscat dla Źródeł. Szablony są kodowane w pozycji 6-7 Lider rekordu MARC.
 
