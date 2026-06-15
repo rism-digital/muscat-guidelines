@@ -1,6 +1,6 @@
 # Hasła wzorcowe
 
-Sekcja **Hasła wzorcowe** w programie Muscat gromadzi wszystkie pliki autorytatywne, kontrolowane słownictwo i indeksy, w celu zachowania spójności stosowanej terminologii w Muscat. Każde z nich opisano w skrócie poniżej. Pełne wytyczne dla wskazanych rodzajów haseł wzorcowych zawarte są w dokuemntacji każdego hasła.
+Sekcja **Hasła wzorcowe** w programie Muscat gromadzi wszystkie pliki autorytatywne, kontrolowane słownictwo i indeksy, w celu zachowania spójności stosowanej terminologii w Muscat. Każde z nich opisano w skrócie poniżej. Pełne wytyczne dla wskazanych rodzajów haseł wzorcowych zawarte są w dokumentacji każdego hasła.
 
 ## Obiekty cyfrowe
 
