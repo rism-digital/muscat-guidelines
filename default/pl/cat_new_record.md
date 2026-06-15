@@ -6,7 +6,7 @@ Nowy rekord można utworzyć w Muscat poprzez wybranie odpowiedniego szablonu lu
 
 Muscat oferuje możliwość wyboru szablonu, w zależności od rodzaju katalogowanego źródła. Szablon zawiera tylko te pola, które są potrzebne do skatalogowania danego źródła.
 
-Jeżeli zauważysz, że rekord skatalgoowany jest w nieodpowiednim szablonie, poinformuj RISM Editorial Center w celu zmiany szablonu.
+Jeżeli zauważysz, że rekord skatalogowany jest w nieodpowiednim szablonie, poinformuj RISM Editorial Center w celu zmiany szablonu.
 
 ### Dostępne szablony
 
