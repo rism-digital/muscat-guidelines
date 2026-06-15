@@ -38,8 +38,8 @@ Indeks Tytuły / incipity tekstowe gromadzi tytuły wprowadzane w Źródłach z 
 
 ## Dzieło
 
-Rekord **Dzieła** służy jako link między źródłami w Muscat a zewnętrznymi rekordami autorytatywnymi dzieł. W obrębie Muscat Dzieła grupują źródła, dzieląc to samo ID z rekordem autorytatywnym zewnętrzenym. Aby utworzyć rekord Dzieła, potrzebny jest link do już istniejącego zewnętrznego rekordu autorytatywnego, najlepiej odnoszący się do GND z Niemieckiej Biblioteki Narodowej (DNB).
+Rekord **Dzieła** służy jako link między źródłami w Muscat a zewnętrznymi rekordami autorytatywnymi dzieł. W obrębie Muscat Dzieła grupują źródła, dzieląc to samo ID z zewnętrznym rekordem autorytatywnym. Aby utworzyć rekord Dzieła, potrzebny jest link do już istniejącego zewnętrznego rekordu autorytatywnego, najlepiej odnoszący się do GND z Niemieckiej Biblioteki Narodowej (DNB).
 
-Rekordy Dzieł nie są eksportowane jako dane autorytatywne i nie posiadają zewnętrzbych numerów ID. Są połączone z rekordami źródeł poprzez pole **Odniesienie do dzieła zewnętrznego (Dzieło) (930)** i łączą się z zewnętrznym rekordem autorytatywnym dzieła poprzez numer ID identyfikujacy ten rekrod autorytatywny.
+Rekordy Dzieł nie są eksportowane jako dane autorytatywne i nie posiadają zewnętrznych numerów ID. Są połączone z rekordami źródeł poprzez pole **Odniesienie do dzieła zewnętrznego (Dzieło) (930)** i łączą się z zewnętrznym rekordem autorytatywnym dzieła poprzez numer ID identyfikujacy ten rekrod autorytatywny.
 
 Jeśli chcesz utworzyć rekord Dzieła, skontaktuj się z RISM Editorial Center.
