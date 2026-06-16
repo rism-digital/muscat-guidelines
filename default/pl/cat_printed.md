@@ -1,6 +1,6 @@
 ## Druki muzyczne w RISM
 
-Sekcja **Druki muzyczne w RISM** przedstawia pewne przemyślenia odnośnie druków muzycznych, w szczegónosci zakresu edycji muzycznych, rekordów bibliograficznych wobec informacji dla egzemplarza, kiedy tworzyć nowy rekord, wprowadzać tytuły standaryzowane, rekrody dla wielu nakładów, koniecznoś podziału rekordów i ich łączenia, a także wydań druków muzycznych z Serii B.
+Sekcja **Druki muzyczne w RISM** przedstawia pewne przemyślenia odnośnie druków muzycznych, w tym z zakresu edycji muzycznych, rekordów bibliograficznych wobec informacji dot. egzemplarza, kiedy tworzyć nowy rekord, wprowadzać tytuły standaryzowane, rekordy dla wielu nakładów, konieczność podziału rekordów i ich łączenia, a także wydań druków muzycznych z Serii B.
 
 ### Zakres druków muzycznych w RISM
 
