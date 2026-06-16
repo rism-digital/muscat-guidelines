@@ -12,7 +12,7 @@ Jeżeli zauważysz, że rekord skatalogowany jest w nieodpowiednim szablonie, po
 
 Rekord dla **Kolekcji** (rekord macierzysty) jest stosowany, gdy źródło składa się z wielu pozycji. Każda pozycja kolekcji jest dodawana jako **Pozycja w tym źródle** (rekord dziecko) i połączona z rekordem kolekcji. Rękopisy i druki muzyczne mogą również funkcjonować jako **Samodzielne pozycje** i nie być częscią kolekcji.
 
-**Klocek introligatorski** składa się z pozycji powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków jak ja woluminy połączonych druków z rękopisami.
+**Klocek introligatorski** składa się z pozycji powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków jak i woluminy połączonych druków z rękopisami.
 
 Manuscripts are unique to a library and can only be owned by one institution. Druki muzyczne posiadają egzemplarze, co oznacza że wiele bibliotek jest właścicielem kopii (egzemplarzy) danego wydania.
 
