@@ -1,6 +1,6 @@
 ## Grupy opisu materiału
 
-Sekcja **Grupy opisu materiału** wyjaśnia możliwe poziomy szczegółowości w sekcji **Grupy opisu materiału** w Muscat.
+Sekcja **Grupy opisu materiału** wyjaśnia możliwe poziomy szczegółowości w sekcji **Opisu materiału** w Muscat.
 
 Różne pola i podpola można duplikować w całym Muscacie, ale cała sekcja **Opis materiału** sama w sobie jest powtarzalna i nazywana jest **Grupą opisu materiału**. Domyślnie, każdy rekord źródłowy w Muscat posiada jedną grupę opisu materiału, a każde pole należące do grupy opisu materiału jest wskazane w kodowaniu MARC przez $8, zaczynając od $801 dla pierwszej grupy opisu materiału. Po dodaniu kolejnych grup numeracja grupy w kodowaniu MARC jest kontynuowana.
 
