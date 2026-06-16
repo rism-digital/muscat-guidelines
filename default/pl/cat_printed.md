@@ -95,7 +95,7 @@ Tytuły ujednolicone powinny składać się tytułu druku aż do miejsca natural
 
 #### Tytuły generyczne
 
-Standardowe wytyczne RISM dla tytułów generycznych mają zastosowanie (patrz **Tytuł ujednolicony (240)**), ale pamiętaj, że w starszych stopkach wydawniczych są często cytowane w literaturze jak by były tytułami charakterystycznymi. Do wprowadzania takich tytułów w ujednoliconej formie służy pole **Tytuł dodatkowy (730)**. Wskazówki można znaleźć w takich opracowaniach jak Grove i MGG, oraz hasłach wzorcowych [Library of Congress](http://id.loc.gov/authorities/names.html) lub Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (stosując standardową pisownię) oraz numer arabski występujący po tytule. Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (stosując standardową pisownię) oraz numer arabski występujący po tytule.
+Standardowe wytyczne RISM dla tytułów generycznych mają zastosowanie (patrz **Tytuł ujednolicony (240)**), ale pamiętaj, że nawet takie tytuły, szczególnie w starszych stopkach wydawniczych, są często cytowane w literaturze jakby były tytułami charakterystycznymi. Do wprowadzania takich tytułów w ujednoliconej formie służy pole **Tytuł dodatkowy (730)**. Wskazówki można znaleźć w takich opracowaniach jak Grove i MGG, oraz hasłach wzorcowych [Library of Congress](http://id.loc.gov/authorities/names.html). Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (stosując standardową pisownię) oraz numer arabski występujący po tytule.
 
 ##### Przykłady
 
@@ -117,7 +117,7 @@ Jeżeli Państwa instytucja posiada wiele egzemplarzy tego samego drukowanego wy
 
 Instead, it is described along with the holdings information of the original copy on which the microfilm is based. If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. Instead, it is described along with the holdings information of the original copy on which the microfilm is based. Jeśli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856).
 
-Jeżeli twoja instytucja posiada mikrofilm wydania muzycznego, który nie jest już dostępny w oryginalnej formie, skataloguj go jako wydanie i dodaj siglum swojej instytucji w rekordzie egzemplarza. Wskaż w rekordzie egzemplarza, że egzemplarz jest zachowany w formie mikrofilmu.
+Jeżeli twoja instytucja posiada mikrofilm wydania muzycznego, które nie jest już dostępne w oryginalnej formie, skataloguj go jako wydanie i dodaj siglum swojej instytucji w rekordzie egzemplarza. Wskaż w rekordzie egzemplarza, że egzemplarz jest zachowany w formie mikrofilmu.
 
 #### Przykłady
 - ID RISM nr 990052954, egzemplarz w B-Bc:  
@@ -129,7 +129,7 @@ Jeżeli twoja instytucja posiada mikrofilm wydania muzycznego, który nie jest j
 ### Podział i łączenie rekordów
 
 #### Kontekst
-Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Podjęto wiele uproszczeń związanych z wyzwaniem zestawienia danych z kart katalogowych z międzynarodowej sieci instytucji współpracujących z RISM i ograniczeniami przestrzeni w drukowanych katalogach RISM. Woluminy publikowane w ramach serii RISM A/I, B/I, and B/II ujmowały w jednym rekordzie często wiele wydań, wskazując właściwości różnicujące, ale bez ich dalszego opracowania. Jednocześnie zdarzało się, że współpraca z wieloma katalogerami generowała nieświadomie wiele opisów tego samego wydania, znajdującyego się w różnych lokalizacjach.
+Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Podjęto wiele uproszczeń związanych z wyzwaniem zestawienia danych z kart katalogowych z międzynarodowej sieci instytucji współpracujących z RISM i ograniczeniami przestrzeni w drukowanych katalogach RISM. Woluminy publikowane w ramach serii RISM A/I, B/I, and B/II ujmowały w jednym rekordzie często wiele wydań, wskazując właściwości różnicujące, ale bez ich dalszego opracowania. Jednocześnie zdarzało się, że współpraca z wieloma katalogerami skutkowała nieświadomym wytwarzaniem wielu opisów tego samego wydania, znajdującego się w różnych lokalizacjach.
 
 Dzisiejsze środowisko online daje elastyczność opisu jednego wydania za pomocą jednego rekordu. Oznacza to, że wspólne rekordy opisujące wiele edycji powinny zostać rozdzielone, a wielokrotne opisy tego samego wydania połączone.
 
