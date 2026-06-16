@@ -6,6 +6,6 @@ Muscat oferuje możliwość wyboru szablonu, w zależności od rodzaju katalogow
 
 Oprócz wyboru różnych szablonów, można skopiować istniejący rekord. Można to zrobić na dwa sposoby.
 
-Na ekranie szablonu wystarczy wpisać numer RISM w polu „Utwórz z istniejącego źródła”. Wówczas na ekranie ukaże się kopia rekordu w trybie edycji, gdzie można dokonać dowolnych zmian. Przy zapamiętywaniu skopiowany rekord automatycznie otrzyma nowy numer identyfikacyjny RISM.
+Na ekranie szablonu wystarczy wpisać numer RISM w polu „Utwórz z istniejącego źródła”. Wówczas na ekranie ukaże się kopia rekordu w trybie edycji, gdzie można dokonać dowolnych zmian. Przy zapisywaniu skopiowany rekord automatycznie otrzyma nowy numer identyfikacyjny RISM.
 
 Alternatywnie, można skopiować rekord w trybie przeglądania, klikając przycisk „Duplikuj” na pasku bocznym po prawej stronie.
