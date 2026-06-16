@@ -4,11 +4,11 @@ W tej sekcji opisano sposób katalogowania szczególnych rodzajów źródeł: ko
 
 ### Kolekcje
 
-W RISM, _Kolekcja_ odnosi się do każdej pozycji (zarówno rekopiśmiennej jak i drukowanej), zawierającej dwie lub więcej kompozycji. To obejmuje zarówno kolekcje rękopisów lub antologie jak i samodzielne pozycje, które nie były w zamyśle przemyślane jako kolekcje przez swoich twórców (jak np. sonata na foertapina z krótkim marszem na ostatniej stronie).
+W RISM _Kolekcja_ odnosi się do każdej pozycji (zarówno rękopiśmiennej, jak i drukowanej), zawierającej dwie lub więcej kompozycji. To obejmuje zarówno kolekcje rękopisów lub antologie, jak i samodzielne pozycje, które nie były przemyślane jako kolekcje przez swoich twórców (jak np. sonata na fortepian z krótkim marszem na ostatniej stronie).
 
-Kolekcje w RISM mają charatter hierarchiczny, co oznacza, że jest jeden główny rekord (rekord macierzysty), który opisuje kolekcję jako całość i indywidualne pozycje (pozycja w kolekcji lub rekord analityczny), które opisują każdą kompozycję oddzielnie.
+Kolekcje w RISM mają charakter hierarchiczny, co oznacza, że jest jeden główny rekord (rekord macierzysty), który opisuje kolekcję jako całość i indywidualne pozycje (pozycja w kolekcji lub rekord analityczny), które opisują każdą kompozycję oddzielnie.
 
-Rekordy macierzyste kolekcji nie mogą zawierać rekordów macierzystych kolekcji rękopisów. Nie ma mniejszych kolekcji w ramach kolekcji chociaż pozycja w kolekcji sama w sobie może być zorganizowana w taki sposób. Zamiast tego należy zastosować bardziej płaską hierarchię za pomocą indywidualnych rekordów i wyjaśnić strukturę, konstrukcję lub organizację danej pozycji w uwadze. Na przykład, jeśli kolekcja składa się z pojedynczego marsza, po którym następuje zbiór sześciu sonat, należy stworzyć 1 rekord macierzysty i 7 indywidualnych wpisów, jeden dla każdej kompozycji. Nawet jeśli te 6 sonat można uznać za kolekcję, należy je opisać oddzielnie. Rekord macierzysty oraz odpowiednie adnotacje w rekordach pozycji w kolekcji mogą wyjaśnić organizację kolekcji i przynależność każdej z sonat do zbioru.
+Rekordy macierzyste kolekcji nie mogą zawierać rekordów macierzystych kolekcji rękopisów. Nie ma mniejszych kolekcji w ramach kolekcji, chociaż pozycja w kolekcji sama w sobie może być zorganizowana w taki sposób. Zamiast tego należy zastosować bardziej płaską hierarchię za pomocą indywidualnych rekordów i wyjaśnić strukturę, konstrukcję lub organizację danej pozycji w uwadze. Na przykład, jeśli kolekcja składa się z pojedynczego marsza, po którym następuje zbiór sześciu sonat, należy stworzyć 1 rekord macierzysty i 7 indywidualnych wpisów, po jednym dla każdej kompozycji. Nawet jeśli te 6 sonat można uznać za kolekcję, należy je opisać oddzielnie. Rekord macierzysty oraz odpowiednie adnotacje w rekordach pozycji w kolekcji mogą wyjaśnić organizację kolekcji i przynależność każdej z sonat do zbioru.
 
 Przy katalogowaniu kolekcji, należy zwrócić uwagę na następujące kwestie:
 
@@ -20,9 +20,9 @@ Jeżeli utwory w kolekcji mają różnych kompozytorów, obsadę, rodzaje źród
 
 ### Klocki introligatorskie
 
-**Klocek introligatorski** składa się z obiektów powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Istnieją różne określenia na tego typu obiekt: sammelband, adligat, źródło współoprawne. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków jak i woluminy połączonych druków z rękopisami.
+**Klocek introligatorski** składa się z obiektów powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Istnieją różne określenia na tego typu obiekt: sammelband, adligat, źródło współoprawne. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków, jak i woluminy połączonych druków z rękopisami.
 
-Istnieją dwa sposoby na wskazanie istnienia klocka introligatorskiego. Pierwsza, ta prostsza zakłada nadanie jednej sygnatury wszystkim zawartym obiektom z informacją „współoprawne z”. Drugi sposób zakłada wybór szablonu dla klocka introligatorskiego.
+Istnieją dwa sposoby na wskazanie istnienia klocka introligatorskiego. Pierwsza, ta prostsza, zakłada nadanie jednej sygnatury wszystkim zawartym obiektom z informacją „współoprawne z”. Drugi sposób zakłada wybór szablonu dla klocka introligatorskiego.
 
 Katalogowanie klocka introligatorskiego ma na celu połączenie wszystkich obiektów współoprawnych w jeden rekord, dostarczając tym samym użytkownikowi praktyczny zarys zawartości źródła.
 
@@ -50,12 +50,12 @@ Katalogując kontrafakturę zwróć uwagę na następujące pola. Rekord 3002344
 - **Kompozytor / Autor (100)**
  - Mysliveček, Josef
 - **Tytuł ujednolicony (240)**  
-  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji Możesz dodać informację **Wyjątki**. W podpulu wybierz wartość **Wstawka w **. Nie używaj wartości **Arr**.
+  Wykorzystaj tytuł ujednolicony oryginalnej kompozycji Możesz dodać informację **Wyjątki**. W podpolu wybierz wartość **Wstawka w **. Nie używaj wartości **Arr**.
  - Il Bellerofonte. Wyjątki
 - **Tytuł dodatkowy (730)**  
   Jeśli istnieje nowy, charakterystyczny tytuł ujednolicony dla danej kompozycji, możesz wprowadzić go tutaj. Nie wprowadzaj tu incipitów tekstowych.
 - **Hasło przedmiotowe (650)**  
-  Dodaj co najmniej 3 hasła przedmiotowe (więcej jeśli jest zasadne), w tej kolejności: Contrafacta - bieżący gatunek - oryginalny gatunek.
+  Dodaj co najmniej 3 hasła przedmiotowe (więcej, jeśli jest to zasadne) w tej kolejności: Contrafacta - bieżący gatunek - oryginalny gatunek.
  - Contrafacta
  - Sacred songs
  - Operas
