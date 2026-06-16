@@ -88,15 +88,15 @@ Katalogując kompilację zwróć uwagę na poniższe pola.
 - **Kompozytor / Autor (100)**  
   W tym przypadku zawsze uzupełniamy kompozytora w **Kompilacjach**.
 - **Dodatkowa osoba (700)**  
-  Nazwę autora kompilacji można dodać z określeniem finkcji **Redaktor**.  
+  Nazwę autora kompilacji można dodać z określeniem funkcji **Redaktor**.  
   Jeśli opracowujesz kompilację, wprowadź nazwę kompozytora lub kompozytorów oryginalnego materiału i wybierz funkcję **Odniesienie do innego kompozytora**. Wprowadź nazwę kompozytora lub kompozytorów nowego materiału i wybierz funkcję **Współkompozytor**.   
   Jeśli masz do czynienia z pasticcio, nie wpisuj kompozytorów jako odniesień do innego kompozytora. Zamiast tego możesz wprowadzić wszystkich kompozytorów z określeniem funkcji jako **Współkompozytor**.
 - **Tytuł ujednolicony (240)**  
   Wprowadź tytuł ujednolicony źródła, które katalogujesz. W przypadku pasticcio, dodaj odpowiednio **Wyjątki** lub **Aranżacja**.
 - **Kod języka (041)**  
-  W polu **Język tekstu** wprowadź język katalogowango źródła. W stosownych przypadkach język oryginalnego dzieła można wprowadzić w polu **Język tekstu oryginalnego**.
+  W polu **Język tekstu** wprowadź język katalogowanego źródła. W stosownych przypadkach język oryginalnego dzieła można wprowadzić w polu **Język tekstu oryginalnego**.
 - **Hasło przedmiotowe (650)**  
-  Pierwsze hasło przedmiotowe powinno być **Compilations** i/lub **Pasticcios**. Drugie natomiast odnosić się do gatunku katalogowanego źródła. Jeśli masz do czynienia z wyjątkami, gatunek wyjątku może zostać dodany. Wartość **Collaborative compositions** jest również opcją.
+  Pierwsze hasło przedmiotowe powinno być **Compilations** i/lub **Pasticcios**. Drugie natomiast powinno odnosić się do gatunku katalogowanego źródła. Jeśli masz do czynienia z wyjątkami, gatunek wyjątku może zostać dodany. Wartość **Collaborative compositions** jest również opcją.
 - **Podsumowanie (520)**  
   Użyj tego pola, aby ogólnie opisać charakter źródła.
  - Akt 1 autorstwa Amadei, akt 2 Bonanciniego, uwertura i akt 3 Händla.
@@ -104,12 +104,12 @@ Katalogując kompilację zwróć uwagę na poniższe pola.
   Wprowadz tytuł ujednolicony oryginalnej kompozycji, dodając wartość **Wyjątki** lub **Aranżacja** stosownie do przypadku. Możesz również wprowadzić tytuły ossia.
 - **Katalog utworów (690)**  
   Możesz wprowadzić numer z katalogu utworów zarówno dla kompilacji, jak i oryginalnych kompozycji.
-- **Text incipits (031)**  
-  Enter the text incipit of the source in hand. If the original text is known, enter it in square brackets.
+- **Incipity tekstowe (031)**  
+  Wprowadź incipit tekstowy katalogowanego źródła. Jeśli oryginalny tekst jest znany, należy go wpisać w nawiasie kwadratowym.
 - **Uwaga ogólna (500)**  
-  W celu wyjaśnienia zawsze dodaj uwagę szczególnie jeśli chodzi o dzieła różnych kompozytorów. Zapewnia to, że kompozytorzy są dopasowani do kompozycji wykorzystywanych w kompilacji.
+  W celu wyjaśnienia zawsze dodaj uwagę, szczególnie jeśli chodzi o dzieła różnych kompozytorów. Zapewnia to, że kompozytorzy są dopasowani do kompozycji wykorzystywanych w kompilacji.
 - **Uwaga o wykonaniu (518)**  
-  Informacje o wykonaniu należy dodać tylko jeśli odnoszą się do samej kompilacji.
+  Informacje o wykonaniu należy dodać tylko, jeśli odnoszą się do samej kompilacji.
 
 #### Przykłady kompilacji
 
@@ -129,20 +129,20 @@ Rekord 150205470 stanowi przykład.
   Wprowadź kompozytora z katalogowanego źródła.
  - Weyse, Christoph Ernst Friedrich
 - **Dodatkowa osoba (700)**  
-  Wprowadź nazwę kompozytora wcześnioejszej kompozycji i wybierz w funkcji Odniesienie do innego kompozytora.
+  Wprowadź nazwę kompozytora wcześniejszej kompozycji i wybierz w funkcji Odniesienie do innego kompozytora.
  - Rossini, Gioachino
 - **Tytuł ujednolicony (240)**  
   Wprowadź tytuł ujednolicony źródła, które katalogujesz.
  - Dannemark hellige lyd
 - **Tytuł dodatkowy (730)**  
-  Wprowadz tytuł ujednolicony oryginalnej kompozycji. Dodaj wartość Wyjątki w stosownych przypadkach. Nie dodawaj wartości Aranżacja lub Wariacje.
+  Wprowadź tytuł ujednolicony oryginalnej kompozycji. Dodaj wartość Wyjątki w stosownych przypadkach. Nie dodawaj wartości Aranżacja lub Wariacje.
  - Tancredi. Wyjątki
 - **Hasło przedmiotowe (650)**  
   Wprowadź jako pierwsze hasło przedmiotowo Parodies. Dodaj gatunek źródła katalogowanego jako drugie i dodaj gatunek kompozycji oryginalnej jako trzecie hasło przedmiotowe.
  - Parodies
  - National anthems
  - Operas
-- **Language code (041)**  
+- **Kod języka (041)**  
   Wprowadź język katalogowanego źródła w polu Język tekstu. Wprowadź język oryginalnej kompozycji w polu Język tekstu oryginalnego.
  - Duński
  - Włoski
@@ -155,11 +155,11 @@ Rekord 150205470 stanowi przykład.
 
 ### Arie kuferkowe
 
-Opery obejmujące tzw. **arie kuferkowe** powinny byś skatalogowane razem z conajmniej trzema rekordami: jako rekord nadrzędny (główny rekord kolekcji) dla opery jako całości, rekord dla oryginalenj części opery (zawierajacy większość incipitów muzycznych) i rekord dla każdej wkładki.
+Opery obejmujące tzw. **arie kuferkowe** powinny byś skatalogowane razem z co najmniej trzema rekordami: jako rekord nadrzędny (główny rekord kolekcji) dla opery jako całości, rekord dla oryginalnej części opery (zawierający większość incipitów muzycznych) i rekord dla każdej wkładki.
 
-Wstawki, które są odseparowane od większych dzieł, owinny być katlogowane oddzielnie. Link do dzieła, do którego wstawka się odnosi powinien być dodane w polu **Powiązane źródło (787**).
+Wstawki, które są odseparowane od większych dzieł, powinny być katalogowane oddzielnie. Link do dzieła, do którego wstawka się odnosi, powinien być dodany w polu **Powiązane źródło (787**).
 
-Zwykłe zasady katalogowania mają zastosowanie przy tworzeniu rekordu macierzystego i rekordu głównego dla opery. Podczas katalogowania wstawki zobserwuj co następuje. Należy zauważyć, że wszystkie pola (takie jak data skomponowania i obsada) odnoszą się wyłącznie do wstawki.
+Zwykłe zasady katalogowania mają zastosowanie przy tworzeniu rekordu macierzystego i rekordu głównego dla opery. Podczas katalogowania wstawki zaobserwuj, co następuje. Należy zauważyć, że wszystkie pola (takie jak data skomponowania i obsada) odnoszą się wyłącznie do wstawki.
 
 - **Kompozytor / Autor (100)**: Kompozytor wstawki
 - **Dodatkowa osoba (700)**: Kompozytor głównego dzieła, takiego jak opera
@@ -173,13 +173,13 @@ Zwykłe zasady katalogowania mają zastosowanie przy tworzeniu rekordu macierzys
 
 Nierzadko zdarza się, że rękopisy i druki muzyczne są razem przechowywane w tej samej tece lub mają tę samą sygnaturę: na przykład wydrukowana partytura z rękopiśmiennymi głosami lub grupa głosów drukowanych przechowywana jest z niektórymi głosami rękopiśmiennymi.
 
-Staraj się, aby materiał drukowany był katalogowany w osobnym rekordzie, ponieważ istnieje możliwość, że inne biblioteki mają egzemplarze tego samego rekordu bibliograficznego. W takiej sytuacji, utwórz rekord dla druku muzycznego, dodaj swój egzemplarz i utwórz kolejny rekord dla rękopisu. Wykorzystaj pole **Powiązane źródło (787)** w celu powiazania obydwu rekordów.
+Staraj się, aby materiał drukowany był katalogowany w osobnym rekordzie, ponieważ istnieje możliwość, że inne biblioteki mają egzemplarze tego samego rekordu bibliograficznego. W takiej sytuacji utwórz rekord dla druku muzycznego, dodaj swój egzemplarz i utwórz kolejny rekord dla rękopisu. Wykorzystaj pole **Powiązane źródło (787)** w celu powiazania obydwu rekordów.
 
 Jeśli nie jest możliwe stworzenie odpowiedniego rekordu dla materiału drukowanego, należy postępować w następujący sposób: Skataloguj swój materiał za pomocą szablonu rękopisu muzycznego. W sekcji opisu materiału opisz materiały rękopiśmienne. Dodaj dodatkową grupę opisu materiału i opisz materiały drukowane.
 
 ### Źródła muzyczne w czasopismach
 
-Kataloguj każdy numer czasopisma oddzielnie. Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako kolekcja lub jako samodzielno dzieło. W każdym przypadku tytuł czasopisma wraz z numerem wydania i rokiem wpisuje się w polu **Tytuł dodatkowy (730)**.
+Kataloguj każdy numer czasopisma oddzielnie. Istnieją dwa sposoby katalogowania czasopism, które zawierają muzykę: jako kolekcja lub jako samodzielne dzieło. W każdym przypadku tytuł czasopisma wraz z numerem wydania i rokiem wpisuje się w polu **Tytuł dodatkowy (730)**.
 
 #### Kolekcje
 **Kolekcje** są stosowne kiedy periodyk składa się w całości lub w większości ze źródeł muzycznych i zachowany został jako całość. Egzemplarze zostają dodane na poziomie kolekcji natomiast dla poszczególnych kompozycji tworzy się indywidualne wpisy pozycji w kolekcji.
