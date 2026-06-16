@@ -189,25 +189,25 @@ Kataloguj każdy numer czasopisma oddzielnie. Istnieją dwa sposoby katalogowani
 1001097294: Styczniowy numer (dokładny rok nie jest określony) _Kleine Pianoforte-Bibliothek_ składa się z 5 kompozycji. Należy stworzyć jeden rekord kolekcji i pięć indywidualnych wpisów pozycji w kolekcji.
 
 #### Pojedyncze dzieła
-**Pojedyncze dzieła** jest stosowne kiedy kompozycja stanowi tylko wkładkę lub dodatek do periodyku. Często takie źródła zachowane są w oderwaniu od oryginalnego kontekstu publikacji (np. pieśń została wyrwana z czasopisma).
+**Pojedyncze dzieła** stosuje się, kiedy kompozycja stanowi tylko wkładkę lub dodatek do periodyku. Często takie źródła zachowane są w oderwaniu od oryginalnego kontekstu publikacji (np. pieśń została wyrwana z czasopisma).
 
 #### Przykłady
 
 - 991018149: „The Pantheon” opublikowane w The Lady's Magazine, sierpień 1784
 - 990042111: „L'amour folâtrant l'autre jour” opublikowane w Nouveau Mercure galant, maj 1679
 
-### Kompozycje w „nie muzycznych” publikacjach
+### Kompozycje w „niemuzycznych” publikacjach
 
 RISM obejmuje katalogowanie źródeł muzycznych odnalezionych w publikacjach drukowanych, które nie były pierwotnie materiałami poświęconymi muzyce. Niemniej jednak muzyka jest zawsze w centrum uwagi w rekordzie RISM.
 
-Dla przykładu wykorzystamy rekord ID RISM nr 990026614 – trzy pieśni Johna Isaac Hawkinsa opublikowane w książce Charlesa Willsona - Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
-- **Kompozytor / Autor (100)**: Kompozytor muzyki
+Dla przykładu wykorzystamy rekord ID RISM nr 990026614 – trzy pieśni Johna Isaaca Hawkinsa opublikowane w książce Charlesa Willsona - Peale's _Discourse introductory to a course of lectures on the science of nature_ (1800).
+- **Kompozytor / Autor (100)**: Twórca muzyki
 - **Dodatkowa osoba (700)**: Autor książki z funkcją **Inne**
 - **Tytuł w źródle (245)**: Tytuł książki
 - **Tytuł ujednolicony (240)**: Tytuł ujednolicony zgodnie z zasadami RISM jak np. **3 Songs**
 - **Opis fizyczny (300)**: opis dot. rodzju i objętości zapis nutowego jak np.**1 score: 5 p.**
 
-Następnie należy dodać rekrody dla Indywidualnych wpisów pozycji w kolekcji zgodnie z wytycznymi RISM. **Uwaga ogólna (500)** jest przydatna w celu podania więcej informacji takich jak kontekst muzyczny w ramach książki lub całkowita paginacja książki.
+Następnie należy dodać rekordy dla Indywidualnych wpisów pozycji w kolekcji zgodnie z wytycznymi RISM. **Uwaga ogólna (500)** jest przydatna w celu podania więcej informacji takich jak kontekst muzyczny w ramach książki lub całkowita paginacja książki.
 
 ### Wydania zbiorcze
 
@@ -215,8 +215,8 @@ Woluminy, które stanowią wydania zbiorcze źródeł muzycznych, są traktowane
 
 Zwróć uwagę na poniższe pola, gdy katalogujesz wydania zbiorcze. Wykorzystamy przykład ID RISM NR 1001200051, tj. wolumin z serii _Wolfgang Amadeus Mozart's Werke._
 
-- **Tytuł w źródle (245)**: Widnieje wiele stron tytułowych i śród tytułów. Wybierz jedną jako główne źródło informacji i wprowadź ją jako **Tytuł w źródle**. Wpisując, upewnij się, że na początku pola wskazano, która strona jest odpisywana, na przykład [title page] lub [p. iii]. Pozostałe tytuły wporowadź w pole **Wariant tytułu w źródle (246)**.
-- **Wariant tytułu w źródle (246)**: Ze względu na rozpowszechnienie reprintów i wariantów edycji wydań zbiorczych, najlepszą praktyką jest uwzględnienie w tym polu wszystkich innych stron tytułów lub oznaczeń tytułów. Ułatwi to identyfikację innym użytkownikom w sytuacji kiedy będą dysponowali egzemplarzem z elementami różnicującymi stronę tytułową.
+- **Tytuł w źródle (245)**: Widnieje wiele stron tytułowych i śród tytułów. Wybierz jedną jako główne źródło informacji i wprowadź ją jako **Tytuł w źródle**. Wpisując, upewnij się, że na początku pola wskazano, która strona jest odpisywana, na przykład [title page] lub [p. iii]. Pozostałe tytuły wprowadź w pole **Wariant tytułu w źródle (246)**.
+- **Wariant tytułu w źródle (246)**: Ze względu na rozpowszechnienie reprintów i wariantów edycji wydań zbiorczych, najlepszą praktyką jest uwzględnienie w tym polu wszystkich innych stron tytułów lub oznaczeń tytułów. Ułatwi to identyfikację innym użytkownikom w sytuacji, kiedy będą dysponowali egzemplarzem z elementami różnicującymi stronę tytułową.
 - **Tytuł dodatkowy (730)**: Wprowadź nazwę serii, zgodnie z konwencją serii, w tym numer woluminu.
 
 ### Libretta
@@ -224,7 +224,7 @@ Zwróć uwagę na poniższe pola, gdy katalogujesz wydania zbiorcze. Wykorzystam
 Zwróć uwagę na poniższe pola, gdy katalogujesz libretta.
 
 - **Kompozytor/Autor (100)**: Wprowadź autora libretta. Nie wykorzystuj tego pola w celu podania kompozytora muzyki.
-- **Dodatkowa osoba (700):** Użyteczną funkcją jest „Autor koncepcji”, np. autor utworu, na którym oparto libretto. Wprowadź kompozytora jako odnosienie tylko wtedy, gdy widnieje na źródle.
+- **Dodatkowa osoba (700):** Użyteczną funkcją jest „Autor koncepcji”, np. autor utworu, na którym oparto libretto. Wprowadź kompozytora jako odniesienie tylko wtedy, gdy widnieje na źródle.
 - **Instytucja dodatkowa (710):** Nie zapomnij zaindeksować nazwy wydawcy (dla wydań libretta).
 - **Tytuł ujednolicony (240)**: Pola „Strefa aranżacji” oraz „Tonacja lub modus” nie są tu istotne. Jeżeli libretto zawiera zapis muzyczny, wybierz tonację tylko w Incipicie (031).
 - **Tytuł dodatkowy (730)**: Jeżeli libretto oparte jest na sztuce lub książce, tytuł oryginalnego dzieła można wprowadzić w tym polu.
@@ -267,4 +267,4 @@ Aranżacje fortepianowe należy opisywać w następujący sposób.
 
 ### Źródła opisane w publikacjach RISM Serii B niedostępne jeszcze w Muscat
 
-Obecnie Editorial Center nie realizuje obecnie żadnych projektów, aby systematycznie dodawać źródła opisane w [publikacjach RISM z serii B](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Niemniej jednak, współtwórcy RISM są mile widziani, aby tworzyć nowe rekordy dla takich źródeł. Jeżeli dodajesz obiekty do Muscatu, które opisane są w serii B, wypełnij pole **RISM Seria RISM (510)** w sekcji Administracja, zaznaczając w którym woluminie znaleziono opis do katalogowanego źródła. Editorial Center zobaczy nowy rekord i zweryfikuje dodanie wszystkich informacji z woluminu (w tym informacje o innych egzemplarzach bibliotek).
+Obecnie Editorial Center nie realizuje żadnych projektów, aby systematycznie dodawać źródła opisane w [publikacjach RISM z serii B](https://rism.info/publications.html#series-b-bibliographies-organized-by-topic). Niemniej jednak, współtwórcy RISM są mile widziani, aby tworzyć nowe rekordy dla takich źródeł. Jeżeli dodajesz obiekty do Muscatu, które opisane są w serii B, wypełnij pole **RISM Seria RISM (510)** w sekcji Administracja, zaznaczając w którym woluminie znaleziono opis do katalogowanego źródła. Editorial Center zobaczy nowy rekord i zweryfikuje dodanie wszystkich informacji z woluminu (w tym informacje o innych egzemplarzach bibliotek).
