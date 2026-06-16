@@ -12,13 +12,13 @@ RISM bierze pod lupę każdy druk muzyczny, która wymyka się swoim ramom jako 
 
 ### Rekord bibliograficzny wobec danych dla rekordu egzemplarza
 
-Muscat posiada dwustopniową strukturę dla wydań druków muzycznych: poziom danych bibliograficznych i poziom danych egzemplarzy. Informacje prawdziwe dla całego wydania wprowadza się do rekordu bibliograficznego, natomiast dane specyficzne dla egzemplarza, znajdującego się w kolekcji biblioteki wprowadza się do rekordu egzemplarza.
+Muscat posiada dwustopniową strukturę dla wydań druków muzycznych: poziom danych bibliograficznych i poziom danych egzemplarzy. Informacje prawdziwe dla całego wydania wprowadza się do rekordu bibliograficznego, natomiast dane specyficzne dla egzemplarza, znajdującego się w kolekcji biblioteki, wprowadza się do rekordu egzemplarza.
 
-Informacje odnoszące się do poziomu bibliograficznego zawierają: kompozytora, tytuł wydawcy, obsadę, numer wydawniczy oraz format. Informacje typowe dla poziomu egzemplarza zawierają: siglum właściciela, syganturę lub numer inwentarzowy, naniesienia rękopiśmienne, informacje dotyczące poprzednich właścicieli, opraw i pieczęci własnościowych lub proweniencyjnych. Pola MARC w rekordzie egzemplarzy są połączone przez $3.
+Informacje odnoszące się do poziomu bibliograficznego zawierają: kompozytora, tytuł wydawcy, obsadę, numer wydawniczy oraz format. Informacje typowe dla poziomu egzemplarza zawierają: siglum właściciela, sygnaturę lub numer inwentarzowy, naniesienia rękopiśmienne, informacje dotyczące poprzednich właścicieli, opraw i pieczęci własnościowych lub proweniencyjnych. Pola MARC w rekordzie egzemplarzy są połączone przez $3.
 
 ### Kiedy wprowadzić nowy rekord (dla druków muzycznych)
 
-RISM traktuje każdy rękopis jako pozycję unikalną i dlatego też każdy rękopis posiada swój własny rekord RISM. Należy zwrócić uwagę na to, że w Muscat jest ponad 125 000 rekordów druków muzycznych, zatem istnieje duża szana, że rekord dla źródła wydanego przez 1800 rokiem już istnieje, dzięki czemu katalogerzy mogą zauważyć znaczące różnice między katalogowanym źródłem a istniejącym rekordem, co przekłada się na konieczność stworzenia nowego rekordu. Natomiast materiały drukowane różnią się od rękopisów tym, że wiele egzemplarzy tego samego wydania można opisać za pomocą jednego rekordu (poprzez dodanie rekordu egzemplarza i informacji typowych rozróżniajacych dla danego egzemplarza).
+RISM traktuje każdy rękopis jako pozycję unikalną i dlatego też każdy rękopis posiada swój własny rekord RISM. Należy zwrócić uwagę na to, że w Muscat jest ponad 125 000 rekordów druków muzycznych. Istnieje zatem duża szana, że rekord dla źródła wydanego przez 1800 rokiem już istnieje, dzięki czemu katalogerzy mogą zauważyć znaczące różnice między katalogowanym źródłem a istniejącym rekordem, co przekłada się na konieczność stworzenia nowego rekordu. Materiały drukowane natomiast różnią się od rękopisów tym, że wiele egzemplarzy tego samego wydania można opisać za pomocą jednego rekordu (poprzez dodanie rekordu egzemplarza i informacji typowych rozróżniających dla danego egzemplarza).
 
 Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uzasadniają tworzenie nowego rekordu. (W tej części korzystano obszernie z dokumentu [Katalogowanie opisowe zbiorów specjalnych (zbiory muzyczne)](http://rbms.info/dcrm/))
 
@@ -26,13 +26,13 @@ Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uz
 
 - **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje korekty, rewizje, rozszerzenia, uproszczenia, lub włączenie materiałów uzupełniających.
 - **Inny wydawca.**
-- **Inny układ druku**: Zmiany w numerach wydawniczych (z wyjątkiem numerów zastępczych). Zmiany w objętości. Zmiana w zakresie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
-- **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej. Strona tytułowa serii jest nowa. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy.
+- **Inny układ druku**: Zmiany w numerach wydawniczych (z wyjątkiem numerów zastępczych). Zmiany w objętości. Zmiany w zakresie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
+- **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji, niż podano na stronie tytułowej. Strona tytułowa serii jest nowa. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy.
 - **Inny numer wydawniczy lub numer wydawcy**.
 
 **Nie należy tworzyć nowego rekordu**, jeżeli opisywana pozycja wykazuje jedną z poniższych różnic. Jeżeli opisywana pozycja posiada _więcej niż jedną_ z poniższych różnic, należy zdecydować, czy nowy rekord jest konieczny.
 
-- Inna strefa oznaczenie druku: na przykład, „Piąty wydruk”
+- Inne oznaczenie druku, na przykład: „Piąty wydruk”
 - Inna drukarnia lub wytwórca, lecz ten sam wydawca
 - Inna data druku, lecz ta sama data wydania
 - Inna obwoluta wydawcy, która nie zawiera dowodów istnienia odrębnej jednostki wydawniczej (np. zmiana koloru materiału)
@@ -41,7 +41,7 @@ Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uz
 - Poprawki dokonane w trakcie druku nakładu (poprawki dokonane w trakcie druku)
 - Obecność lub brak erraty
 
-Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakładów, korekt, wariantów opraw odnosząc się do jednego wydania lub nakładu. W danych dla egzemplarza, można wprowadzić szczegóły na temat wariantów i informacji identyfikujących dany egzemplarz.
+Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakładów, korekt, wariantów opraw odnosząc się do jednego wydania lub nakładu. W danych dla egzemplarza można wprowadzić szczegóły na temat wariantów i informacji identyfikujących dany egzemplarz.
 
 #### Przykłady
 
@@ -66,7 +66,7 @@ Druk o numerze RISM 990024126: Gyrowetz, Symphonies, op. 9. Rekord RISM prezentu
 
 #### Tytuły charakterystyczne
 
-Druki muzyczne zawierają inne tytuły znacznie częściej niż rękopisy muzyczne. Przy katalogowaniu druków muzycznych w polu **Tytuł ujednolicony (240)** należy przestrzegać następujących zasad:
+Druki muzyczne zawierają charakterystyczne tytuły znacznie częściej niż rękopisy muzyczne. Przy katalogowaniu druków muzycznych w polu **Tytuł ujednolicony (240)** należy przestrzegać następujących zasad:
 
 1. **Pisownia**
 
@@ -81,7 +81,7 @@ Tytuły ujednolicone należy wprowadzać stosując współczesną ortografię, l
 
 2. **Uzyskiwanie tytułu ujednoliconego z tytuły charakterystycznego**
 
-Tytuły ujednolicone winny składać się tytułu druku aż do miejsca naturalnej przerwy, często przecinka, kropki lub oznaczenia autora, instrumentacji, numeru lub stopki wydawniczej. Czasami charakterystyczny tytuł znajduje się na innej stronie niż strona tytułowa.
+Tytuły ujednolicone powinny składać się tytułu druku aż do miejsca naturalnej przerwy, często przecinka, kropki lub oznaczenia autora, instrumentacji, numeru lub stopki wydawniczej. Czasami charakterystyczny tytuł znajduje się na innej stronie niż strona tytułowa.
 
 ##### Przykłady
 
