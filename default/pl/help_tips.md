@@ -2,7 +2,7 @@
 
 #### 1. Jak mogę dodać obrazy do rekordu?
 
-Małe obrazy takie jak znaki wodne, próbki pisma, lub szycia mogą być dołączone do rekordu bezpośrednio z trybie edycji: kliknij na **Dołącz nowy obraz** w panelu po prawej stronie. Zobacz sekcję **Nowy Obiekt cyfrowy**, aby uzyskać więcej informacji.
+Małe obrazy takie jak znaki wodne, próbki pisma, lub szycia mogą być dołączone do rekordu bezpośrednio w trybie edycji: kliknij na **Dołącz nowy obraz** w panelu po prawej stronie. Zobacz sekcję **Nowy Obiekt cyfrowy**, aby uzyskać więcej informacji.
 
 Obrazy takie jak zdigitalizowane źródła powinny być dodawane tylko jako adresy URL, które łączą się z repozytorium przechowywania. Te są dodawane w polu **Zasoby zewnętrzne (856)**.
 
