@@ -2,23 +2,23 @@
 
 As is stated in the guidelines for **Standardized title (240)**,  the order of preference is when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  Niniejsza sekcja rozbudowuje wytyczne dotyczące trzeciego typu ujednoliconego tytułu dla gatunków i wyjaśnia związek z hasłami przemiotowymi.
 
-W wielu przypadkach, gatunki wykorzystywane są również jako ujednolicone tytuły głównie w przypadku muzyki instrumentalnej i w tytułach kolekcji. **Ujednolicony tytuł** i **Hasło przedmiotowe (650)** będą identyczne w przypadku _Symphonies_ lub _Sonatas_.
+W wielu przypadkach gatunki wykorzystywane są również jako ujednolicone tytuły głównie w przypadku muzyki instrumentalnej i w tytułach kolekcji. **Ujednolicony tytuł** i **Hasło przedmiotowe (650)** będą identyczne w przypadku _Symphonies_ lub _Sonatas_.
 
 W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające hasło przedmiotowe. A variant subject heading is used especially in the following situations:
 
-- Jeśli ta samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa **(voc.)** lub **(inst.)**.
+- Jeśli to samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa **(voc.)** lub **(inst.)**.
 - Określenia takie jak **(dances)** lub **(stage)** mogą być również dodane w nawiasie po głównym terminie.
 
-Innymi słowy, ujednolicony tytuł będzie tylko gatunkiem, a hasło przedmiotowe będzie zawierało doprecywanie w nawiasie, który dookreśla czy jest gatunkiem głosowym czy instrumentalnym. Hasła z nawisami (podobnie jak inna interpunkcja) nigdy nie występują w ujednoliconych tytułach.  
+Innymi słowy, ujednolicony tytuł będzie tylko gatunkiem, a hasło przedmiotowe będzie zawierało doprecyzowanie w nawiasie, który dookreśla czy jest gatunkiem głosowym czy instrumentalnym. Hasła z nawisami (podobnie jak inna interpunkcja) nigdy nie występują w ujednoliconych tytułach.  
 Przykłady:
 1. Kanon organowy  
    Ujednolicony tytuł: Canon  
-   Hasło przedmiotowe: Canont (inst.)
+   Hasło przedmiotowe: Canons (inst.)
 2. Kolekcja zawierająca 12 arii na głos i orkiestrę  
    Ujednolicony tytuł: 12 Arias  
    Hasło przedmiotowe: Arias (voc.)
 
-Poniżej znajduje się lista ujednoliconych tytułów i odpowiadające im hasła przedmiotowe. Lista nie jest wyczerpująca, jako że nowe hasła przedmiotowe są dodawane w Muscat na bieżąco. Tytuły ujednolicone i hasła przedmiotowe powinny być wpisywane w formie (zazwyczaj w języku angielskim i w liczbie mnogiej), a nie w tłumaczeniu. Należy zwrócić uwagę na szczególne sytuacje na końcu.
+Poniżej znajduje się lista ujednoliconych tytułów i odpowiadające im hasła przedmiotowe. Lista nie jest wyczerpująca, jako że nowe hasła przedmiotowe są dodawane w Muscat na bieżąco. Tytuły ujednolicone i hasła przedmiotowe powinny być wpisywane w podanej formie (zazwyczaj w języku angielskim i w liczbie mnogiej), a nie w tłumaczeniu. Należy zwrócić uwagę na szczególne sytuacje na końcu.
 
 Zawartość:
 - Muzyka instrumentalna i wokalna ogólna
