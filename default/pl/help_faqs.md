@@ -23,7 +23,7 @@ Nie, w naszym biurze znajduje się tylko literatura oznaczona jako „HB” lub 
 
 Skontaktuj się z nami, jeśli zapomnisz hasła. Możesz zmienić hasło klikając na swoją nazwę użytkownika (w prawym górnym rogu w Muscat).
 
-#### 5. Czy mogę pokazać system Muscat moim kolegom? Czy mogę zademonstrować system Muskat na konferencjach lub warsztatach?
+#### 5. Czy mogę pokazać system Muscat moim kolegom? Czy mogę zademonstrować system Muscat na konferencjach lub warsztatach?
 
 Tak, jak najbardziej! Wersja szkoleniowa Muscat jest dostępna dokładnie w tych celach na stronie [https://muscat-training.rism.info](https://muscat-training.rism.info/). Wszyscy użytkownicy Muscat mogą się tam zalogować za pomocą swoich danych osobowych. Istnieje również 99 kont szkoleniowych („training01@rism.info” do „training99@rism.info”) dostępnych dla użytkowników indywidualnych. Można korzystać z każdego z tych kont szkoleniowych. Prosimy o kontakt z RISM Editorial Center w celu uzyskania aktualnego hasła. W wersji szkoleniowej można wszystko dodawać, edytować lub usuwać. Muscat jest regularnie aktualizowany, oznacza to, że rekordy utworzone w wersji szkoleniowej zostaną usunięte po tych aktualizacjach. Nowe rekordy lub zmiany na serwerze szkoleniowym nie są przekazywane do głównego programu Muscat.
 
@@ -33,7 +33,7 @@ To jest edycja systemu. Możesz zobaczyć przykład edycji systemowej, jeśli je
 
 #### 7. Gdzie są publikowane rekordy Muscata?
 
-Rekordy w Muscat, które posiadają status **opublikowany** pojawią się w [katalogu RISM](https://opac.rism.info/), rozwijanego przez [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/) (Monachium, Niemcy) i w [RISM Online](https://rism.online/), rozwijanym przez [Digital Center](https://rism.info/digital-center.html) (Berno, Szwajcaria).
+Rekordy w Muscat, które mają status **opublikowany** pojawią się w [katalogu RISM](https://opac.rism.info/), rozwijanym przez [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/) (Monachium, Niemcy) i w [RISM Online](https://rism.online/), rozwijanym przez [Digital Center](https://rism.info/digital-center.html) (Berno, Szwajcaria).
 
 Poza Muscatem, rekordy opublikowane dostępne są przez [SRU downloader](https://github.com/rism-international/sru-downloader), w katalogu RISM przez link „Show MARCXML”, comiesięczny dump danych katalogu RISM oraz poprzez API RISM Online.
 
@@ -48,7 +48,7 @@ Używaj siglum **XX-NN** w sytuacjach, w których obecna lokalizacja źródła j
 #### 10. Jakie są wymagania techniczne programu Muscat?
 
 - Muscat jest niezależny od platformy i działa zarówno na komputerach Mac, jak i PC.
-- Dostęp odbywa się poprzez adres URL. W związku z tym do korzystania z dostępu niezbędne jest połączenie z Internetem.
+- Dostęp odbywa się poprzez adres URL. W związku z tym do korzystania z dostępu niezbędne jest połączenie z internetem.
 - Muscat najlepiej sprawdza się na ekranach o wymiarach co najmniej 1366 x 768 pikseli.
 - Muscat jest dostosowany do wyszukiwarki Firefox i Chrome. Nie należy używać Internet Explorera!
 
