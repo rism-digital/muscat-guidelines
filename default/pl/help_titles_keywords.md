@@ -129,18 +129,18 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 3. Jeśli kompozycją źródłową dla potpourri jest pojedyncza opera:  
    Nie potrzebujesz tej listy! W ramach hasła przedmiotowego wprowadź **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach). W tytule ujednoliconym wprowadź tytuł opery i wyberz **Wyjątki** oraz **Aranżacja**.
 
-4. Wprowadź tytuły oper w polu **Tytuł dodatkowy (730)**. Dla pola hasło przedmiotowe wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach). W przypadku potpourri do którego muzyka pochodzi z wielu oper:  
+4. Wprowadź tytuły oper w polu **Tytuł dodatkowy (730)**. Dla pola hasło przedmiotowe wybierz **Potpourris** i **Operas** (lub **Operettas**, etc. w stosownych przypadkach). W przypadku potpourri, do którego muzyka pochodzi z wielu oper:  
    Wybierz **Potpourris** jako znormalizowany tytuł.
 
 5. W sytaucji kiedy nie znasz źródła muzyki dla potpourri:  
    Wybierz **Potpourris** zarówno w polach tytuł ujednolicony jak i hasło przedmiotowe.
 
-6. Gdy znamy kompozycję sceniczną na podstawie której, skomponowano aranżację na instrumenty dęte:  
-   Wprowadzamy tytuł kompozycji scenicznej w tytule ujednoliconym i wybieramy **Aranżacja**. W polu hasło przedmiotowe wybierz **Wind music**.
+6. Gdy znamy kompozycję sceniczną, na podstawie której skomponowano aranżację na instrumenty dęte:  
+   wprowadzamy tytuł kompozycji scenicznej w tytule ujednoliconym i wybieramy **Aranżacja**. W polu hasło przedmiotowe wybierz **Wind music**.
 
-7. W sytuacji kiedy nie znamy źródła kompozycji scenicznej na podstawie której skomponowano aranżację na instrumenty dęte:  
+7. W sytuacji, kiedy nie znamy źródła kompozycji scenicznej na podstawie której skomponowano aranżację na instrumenty dęte:  
    Wybieramy **Wind music** zarówno w tytule ujednoliconym jak i haśle przedmiotowym.
 
 8. Dla **szkicy** nieznanych kompozycji, wybierz **Sketches** jako tytuł ujednolicony, a dla hasła przedmiotowego **Sketches**. For sketches of known compositions, use the distinctive title or genre of the work as the standardized title, the appropriate genre as the first subject heading, and **Sketches** as the second subject heading.
 
-9. W sytuacji całkowitej braku pewności, takich jak niepewna obsada, wprowadź **Pieces** jako tytuł ujednolicony i **Pieces** w haśle przedmiotowym.
+9. W sytuacjach całkowitego braku pewności, takich jak niepewna obsada, wprowadź **Pieces** jako tytuł ujednolicony i **Pieces** w haśle przedmiotowym.
