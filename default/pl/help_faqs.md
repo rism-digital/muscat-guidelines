@@ -62,4 +62,4 @@ Używaj siglum **XX-NN** w sytuacjach, w których obecna lokalizacja źródła j
 - Muscat obsługuje Unicode (UTF-8).
 - Wersjonowanie umożliwia katalogerom przeglądanie zmian wprowadzonych do rekordów.
 
-Więcej informacji o rozwijaniu Muscatu odnaleźc można na [stronie RISM Digital Center](https://rism.digital/tools/muscat.html).
+Więcej informacji o rozwijaniu Muscatu odnaleźć można na [stronie RISM Digital Center](https://rism.digital/tools/muscat.html).
