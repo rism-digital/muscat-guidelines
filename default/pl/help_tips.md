@@ -53,6 +53,6 @@ Jeśli zapisujesz incipit muzyczny za pośrednictwem zewnętrznego programu (tak
 
 Tylko Editorial Center może usunąć rekord. Powiadom RISM Editorial Center o konieczności usunięcia rekordu, w tym informacji o egzemplarzu.
 
-#### 9. Co jeśli mój rekord jest skatalogowany w złym szablonie?
+#### 9. Co, jeśli mój rekord jest skatalogowany w złym szablonie?
 
-Szablony mogą zostać zmienione, ale tylko Editorial Center może to zrobić. Powiadom RISM Editorial Center jeśli potrzebujesz zmiany szablonu rekordu.
+Szablony mogą zostać zmienione, ale tylko Editorial Center może to zrobić. Powiadom RISM Editorial Center, jeśli potrzebujesz zmiany szablonu rekordu.
