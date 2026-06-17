@@ -24,7 +24,7 @@ Jeśli masz bas cyfrowany zachowany jako **głos**, należy wypełnić poniższe
 - Głosy (590): org.fig
 - Szczegółowy opis obsady (594): org
 
-W przypadku innych instrumentów klawiszowych, należy stosować wzór jak dla **org**.
+W przypadku innych instrumentów klawiszowych należy stosować wzór jak dla **org**.
 
 #### Bas cyfrowany, partytura
 
