@@ -21,7 +21,7 @@ Foldery mogą być stworzone z dowolnej strony wyszukiwania źródeł lub haseł
 ##### Tworzenie i dodawanie do folderów
 Istnieją dwa sposoby tworzenia folderów. Ze strony wyszukiwania wybierz rekordy, zaznaczając pole po lewej stronie obok każdego rekordu. W **Działania wsadowe** powyżej listy rekordów po lewej stronie, kliknij **Utwórz folder z pozycjami**. Nazwij folder i kliknij przycisk **OK.** Z przycisku **Działania zbiorcze** możesz również dodać rekordy do już istniejącego folderu. Wybór rekordów jest zachowany tylko na bieżącej stronie wyników. Ta metoda umożliwia dodanie do nowego lub istniejącego folderu maksymalnie 1000 rekordów (maksymalna liczba wyników na stronie wyszukiwania).
 
-Drugim sposobem na stworzenie folderu jest przeprowadzenie wyszukiwania, a następnie wyszukanie listy **Działania** po prawej stronie strony. Klikając na **Dodaj wszystko do nowego folderu**, wszystkie wyniki wyszukiwania zostaną dodane do nowego folderu. Nazwij folder i zapisz. Klikając na **Dodaj wszystko do istniejącego folderu,** możesz wybrać folder z listy folderów. Ta metoda umożliwia dodawanie do folderu maksymalnie 25 000 rekordów (maksymalny rozmiar folderu).
+Drugim sposobem na stworzenie folderu jest przeprowadzenie wyszukiwania, a następnie wyszukanie listy **Działania** po prawej stronie strony. Klikając na **Dodaj wszystko do nowego folderu**, wszystkie wyniki wyszukiwania zostaną dodane do nowego folderu. Nazwij folder i zapisz. Klikając na **Dodaj wszystko do istniejącego folderu, ** możesz wybrać folder z listy folderów. Ta metoda umożliwia dodawanie do folderu maksymalnie 25 000 rekordów (maksymalny rozmiar folderu).
 
 ##### Wyszukiwanie za pośrednictwem folderów
 
