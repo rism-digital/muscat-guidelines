@@ -1,6 +1,6 @@
 ### Równoległa forma nazwy (MARC 510 $a; ISDIAH 5.1.3)
 
-Pole **Równoległa forma nazwy** umożliwia podanie licznych form nazw instytucji, włączajac tłumacznia. Można w tym polu wykazać również powiązania z innymi instytucjami.
+Pole **Równoległa forma nazwy** umożliwia podanie licznych form nazw instytucji, włączając tłumaczenia. Można w tym polu wykazać również powiązania z innymi instytucjami.
 
 #### Równoległa forma nazwy (510 $a)
 
@@ -32,12 +32,12 @@ Wybierz z dostępnych poniżej:
 - Kompozycja muzyczna [f]
 - Węższy termin [h]
 - Nie dotyczy [n]
-- Fraza instrukcji odniesienia w subpolu $i [i]
+- Fraza instrukcji odniesienia w podpolu $i [i]
 - Oznaczenie relacji w $i lub $4 [r]
 
 #### Informacje o relacjach (510 $i)
 
-Wprowadź termin, opisujący relację nazwy z głównym nagłówkiem instytucji. Wykorzystuj słowniki określony przez Rejestr RDA. Zwykle używane terminy obejmują:
+Wprowadź termin, opisujący relację nazwy z głównym nagłówkiem instytucji. Wykorzystuj słownictwo określone przez Rejestr RDA. Zwykle używane terminy obejmują:
 
 - Hierarchiczny zwierzchnik
 - Hierarchiczny podległy
