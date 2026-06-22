@@ -1,6 +1,6 @@
 ### Źrodło katalogowania (040)
 
-Pole **Źrodło katalogowania** wskazuje na instytucje, która stworzyła rekord.
+Pole **Źródło katalogowania** wskazuje na instytucję, która stworzyła rekord.
 
 #### Język katalogowania (040 $b)
 
