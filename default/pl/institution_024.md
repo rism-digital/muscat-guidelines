@@ -1,6 +1,6 @@
 ### Inny identyfikator znormalizowany (024)
 
-Pole **Inny identyfikator znormalizowany ** jest używane do zapisywania standardowego numeru lub kodu lub URI powiązanych z instytucją.
+Pole **Inny identyfikator znormalizowany** jest używane do zapisywania standardowego numeru, kodu lub URI powiązanych z instytucją.
 
 #### Numer lub kod (024 $a)
 
