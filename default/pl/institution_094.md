@@ -12,10 +12,9 @@ Wprowadź siglum RISM. Sigla składają się z trzech elementów: skrótu państ
 
 W przypadku, gdy instytucja zmieniła nazwę, nadal zachowuje to samo siglum.
 
-Ogólnie rzecz biorąc, jeśli kolekcja jest przenoszona do nowej instytucji, źródłom nie przypisuje się siglum nowej instytucji, a zatem obecnie wchłonięte siglum pozostanie jako aktualna biblioteka dla przeniesionych źródeł do nowej instytucji. Wpis jest dodany do rekordu instytucji w polu 580 „Obecnie w” wskazującym na rekord instytucji
-nowego właściciela. Jest to rozstrzygane indywidualnie dla każdego przypadku.
+Ogólnie rzecz biorąc, jeśli kolekcja jest przenoszona do nowej instytucji, źródłom nie przypisuje się siglum nowej instytucji, a zatem obecnie wchłonięte siglum pozostanie jako aktualna biblioteka dla przeniesionych źródeł do nowej instytucji. Wpis jest dodany do rekordu instytucji w polu 580 „Obecnie w” wskazującym na rekord instytucji nowego właściciela. Jest to rozstrzygane indywidualnie dla każdego przypadku.
 
-W przypadku prywatnych kolekcji do kodu miasta małymi literami dodaje się nazwisko właściciela. Dwu-członowe nazwiska są zapisane razem, bez spacji.
+W przypadku prywatnych kolekcji do kodu miasta małymi literami dodaje się nazwisko właściciela. Dwuczłonowe nazwiska są zapisane razem, bez spacji.
 
 ##### Przykłady:
 
