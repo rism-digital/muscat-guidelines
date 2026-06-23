@@ -1,6 +1,6 @@
 ### Opus numer (383)
 
-W polu **Opus numer** podajemy numer opus taka jak widnieje na źródle.
+W polu **Opus numer** podajemy numer opus, jaki widnieje na źródle.
 
 #### Opus numer (383 $b)
 
