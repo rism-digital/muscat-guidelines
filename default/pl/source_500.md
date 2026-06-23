@@ -11,7 +11,7 @@ Przy katalogowaniu rekordów egzemplarzy, należy w miarę możliwości starać 
 Poniżej przedstawiono przykłady rodzajów informacji, które można zamieścić jako uwaga. Lista ta nie jest wyczerpująca.
 
 - **Instrumentacja**  
-  Jeżeli w partyturze występuje basso continuo, należy je wpisać w sposób następujący: b = b.fig, bc = bc.fig, org = org.fig, itd. (patrz także tabele w sekcji **Basso continuo w partyturach i/lub partiach**, gdzie można znaleźć wskazówki odnośnie pól pokrewnych).
+  Jeżeli w partyturze występuje basso continuo, należy je wpisać w sposób następujący: b = b.fig, bc = bc.fig, org = org.fig, itd. (zobacz także tabele w sekcji **Basso continuo w partyturach i/lub partiach**, gdzie można znaleźć wskazówki odnośnie pól pokrewnych).
  - Obsada drugiego Agnus Dei: S, A, T, T, B
  - org = org.fig
 - **Części brakujące**
