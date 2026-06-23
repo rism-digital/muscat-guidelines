@@ -1,6 +1,6 @@
 ### Uwaga ogólna (500)
 
-W polu **Uwaga ogólna** należy podać wszelkie informacje ze źródła, których nie można wprowadzić w innych polach w celu uzupełnienia informacji podanych w skrócie w innych miejscach w rekordzie lub w celu przedstawienia wszelkich innych wyjaśnień, które pomogłyby czytelnikowi w interpretacji źródła.
+W polu **Uwaga ogólna** należy podać wszelkie informacje ze źródła, których nie można wprowadzić w innych polach, w celu uzupełnienia informacji podanych w skrócie w innych miejscach w rekordzie lub w celu przedstawienia wszelkich innych wyjaśnień, które pomogłyby czytelnikowi w interpretacji źródła.
 
 #### Uwaga ogólna (500 $a)
 
