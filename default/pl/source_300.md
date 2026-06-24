@@ -132,7 +132,7 @@ Podać wymiary źródła: wysokość x szerokość w cm. Ułamki centymetrów mo
 - 25,5 (21,5) x 32 (28,5) cm
 - Different sizes
 
-W przypadku druków, można wprowadzić wymiary zadrukowanej powierzchni. W takiej sytuacji należy użyć angeislkiego określenia „printed area” lub „plate mark”. Pomiar ten należy oddzielić od pomiaru źródła za pomocą średnika. Jeśli wymiary są różne, należy zmierzyć stronę tytułową i pierwszą stronę z zapisem muzycznym (w tym podając, w razie potrzeby, podając co zmierzono). Szczegółowe wymiary obiektu można wprowadzić do rekordu egzemplarza.
+W przypadku druków można wprowadzić wymiary zadrukowanej powierzchni. W takiej sytuacji należy użyć angielskiego określenia „printed area” lub „plate mark”. Pomiar ten należy oddzielić od pomiaru źródła za pomocą średnika. Jeśli wymiary są różne, należy zmierzyć stronę tytułową i pierwszą stronę z zapisem muzycznym (w tym podając, w razie potrzeby, co zmierzono). Szczegółowe wymiary obiektu można wprowadzić do rekordu egzemplarza.
 
 ##### Przykłady
 
