@@ -2,19 +2,19 @@
 
 W polu **Informacja o wydaniu, druku i produkcji** wprowadza się informacje dotyczące wydania, druku, dystrybucji, edycji, publikacji lub produkcji dla wszystkich typów źródeł. We wszystkich podpolach adnotacje i uzupełnienia edytorskie należy podać w nawiasie kwadratowym. W przypadku informacji niepewnych należy po nich umieszczać znak zapytania.
 
-Jednakże, jeśli możliwym jest odczytanie oryginalnych informacji dotyczących publikacji, można je wprowadzić poprzez zduplikowanie sekcji. W przypadku druków muzycznych: Jeżeli informacje dotyczące wydania są ukryte np. przez nalepkę, czy są przekreślone lub zmienione (w tym pieczątki), a w ich miejsce umieszczono nowe informacje, to należy prowadzić nowe informacje. Niezbędna może okazać się uwaga wyjaśniająca, którą należy umieścić w polu **Uwaga ogólna (500)**. Jeżeli nalepka lub pieczęć znajdują się gdzieś w innym miejscu na stronie, należy odnotowac ją w rekordzie egzemplarza.
+W przypadku druków muzycznych: jeżeli informacje dotyczące wydania są ukryte np. przez nalepkę, lub są przekreślone czy zmienione (w tym pieczątki), a w ich miejsce umieszczono nowe informacje, to należy wprowadzić nowe informacje. Jednakże, jeśli możliwe jest odczytanie oryginalnych informacji dotyczących publikacji, można je wprowadzić poprzez zduplikowanie sekcji. Niezbędna może okazać się uwaga wyjaśniająca, którą należy umieścić w polu **Uwaga ogólna (500)**. Jeżeli nalepka lub pieczęć znajdują się gdzieś w innym miejscu na stronie, należy odnotować ją w rekordzie egzemplarza.
 
 #### Miejsce (260 $a)
 
-Dla druków muzycznych należy wprowadzić nazwe miejsca wydania tak jak widnieje na źródle. Kilka miejsc wydania można wprowadzić klikając na znak plus (+) znajdujący się po lewej stronie pola tekstowego. W przypadku rękopisów należy wprowadzić miejsce powstania danego rękopisu, jeśli podano je w źródle.
+Dla druków muzycznych należy wprowadzić nazwę miejsca wydania tak, jak widnieje na źródle. Kilka miejsc wydania można wprowadzić klikając na znak plus (+) znajdujący się po lewej stronie pola tekstowego. W przypadku rękopisów należy wprowadzić miejsce powstania danego rękopisu, jeśli podano je w źródle.
 
 Jeżeli miejsca wydania na druku nie można zidentyfikować, należy wprowadzić **[s.l.]**. W przypadku rękopisów należy pozostawić puste miejsce.
 
 #### Wydawca, kopista (260 $b)
 
-W przypadku druków, należy podać nazwę wydawcy, firmy wydawniczej, importera lub dystrybutora tak jak podano w źródle.
+W przypadku druków należy podać nazwę wydawcy, firmy wydawniczej, importera lub dystrybutora tak jak podano w źródle.
 
-W przypadku rękopisów, należy podać nazwę kopisty, jaka widnieje w źródle.
+W przypadku rękopisów należy podać nazwę kopisty, jaka widnieje w źródle.
 
 W polach **Dodatkowa osoba (700)** lub **Dodatkowa instytucja (710)** zawsze należy wprowadzać nazwy ustandaryzowane. Należy wprowadzić nazwę sztycharza lub drukarni podaną w źródle.
 
@@ -22,7 +22,7 @@ Jeżeli nazwy wydawcy lub dystrybutora nie można zidentyfikować na druku, nale
 
 #### Data (260 $c)
 
-W tym miejscu należy wprowadzić datę źródła. Należy używać cyfr arabskich (np. 1624 zamiast MDCXXIV). Należy mieć na uwadze, że pole dedykowane jest podaniu daty źródła, a nie kompozycji. Jeśli źródło zawiera oczywisty błąd (taki ja typowy typograficzny), w polu należy podać datę właściwą.
+W tym miejscu należy wprowadzić datę źródła. Należy używać cyfr arabskich (np. 1624 zamiast MDCXXIV). Należy mieć na uwadze, że pole dedykowane jest podaniu daty źródła, a nie kompozycji. Jeśli źródło zawiera oczywisty błąd (na przykład typograficzny), w polu należy podać datę właściwą.
 
 Dla rękopisów: Zawsze należy starać się podać datę, nawet jeśli jest przybliżona. Jeżeli znany jest miesiąc, dzień i rok, datę należy podać w formacie: RRRR-MM-DD.
 
