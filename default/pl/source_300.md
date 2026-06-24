@@ -28,16 +28,16 @@ Należy użyć jednego z następujących określeń w języku angielskim, odpowi
 
 ###### Ogólne określenia
 
-- **part**: zapis utworu dla głosu, czyli instrumentu lub głosu wokaalnego niezależnie od liczby systemów (w tym partie na fortepian, organy, fortepian na cztery ręce niezależnie od ilości systemów). Wykorzystywane także na księgi głosowe.
-- **score**: partytura zawiera wszystkie głosy i/lub instrumenty kompozycji, występuje tylko gdy jest więcej niż jeden. Obejmuje kompozycje na głos z akompaniamentem.
+- **part**: zapis utworu dla głosu, czyli instrumentu lub głosu wokalnego, niezależnie od liczby systemów (w tym partie na fortepian, organy, fortepian na cztery ręce niezależnie od ilości systemów). Wykorzystywane także na księgi głosowe.
+- **score**: partytura zawiera wszystkie głosy i/lub instrumenty kompozycji, występuje tylko, gdy jest więcej niż jeden. Obejmuje kompozycje na głos z akompaniamentem.
 
 ###### Rodzaje partytur
 
 - **partytura wokalna**: Kompozycja na głosy i instrumenty, gdzie partii/om wokalnej/ym towarzyszy zaaranżowany akompaniament instrumentu klawiszowego.
 - **keyboard score**: Kompozycja na instrumenty, w której instrumenty zostały zaaranżowane na instrument klawiszowy (bez partii wokalnych). Indicate the extent immediately following regardless of the number of staves per system.
-- **chorus score**: Kompozycja na głosy solo, chór i instrumenty, gdzie tylko partytura chóralna jest obecna w formie partytury z pominięciem partii solowych, a akompaniament jest zredukowany do instrumentu klawiszowych i może być lub nie obecny.
+- **chorus score**: Kompozycja na głosy solo, chór i instrumenty, gdzie tylko partytura chóralna jest obecna w formie partytury z pominięciem partii solowych, a akompaniament jest zredukowany do instrumentu klawiszowych i może być obecny lub nie.
 - **particella**: Szkic lub zarys kompozycji w formacie skróconej partytury.
-- **short score**: Wszelkiego rodzaju redukcje, streszczone, wyciągi partytur lub sytuacje kiedy nie można określić rodzaju zredukowanej partytury.
+- **short score**: Wszelkiego rodzaju redukcje, streszczone, wyciągi partytur lub sytuacje, kiedy nie można określić rodzaju zredukowanej partytury.
 - **tablature score: tabulatura**
 - **choirbook**: Księga chóralna, w której wszystkie głosy kompozycji zapisane są oddzielnie, także chór może odczytywać zapis muzyczny z księgi. Księgi chóralne traktowane są jak partytury.
 
@@ -51,7 +51,7 @@ Należy użyć jednego z następujących określeń w języku angielskim, odpowi
 
 ###### Inne
 
-- **various**: Używać w przypadku rekordów kolekcji, jeśli kolekcja zawiera różne formaty (takie jak partytura w normlanmy znaczeniu czy partytura klawiszowa).
+- **various**: Używać w przypadku rekordów kolekcji, jeśli kolekcja zawiera różne formaty (takie jak partytura w normalnym znaczeniu czy partytura klawiszowa).
 - **other**: Stosować, jeżeli żadne z powyższych nie dotyczy. W takich przypadkach należy dodać uwagę wyjaśniającą w polu **Uwaga ogólna (500)**. Nie wymaga się podania liczby źródeł lub objętości.
 
 W przypadku partii dyrygenckiej (zwanej również „directorium”), należy tutaj użyć **part** lub **parts** i wprowadzić **conductor part** w polu **Głosy, objętość (590)**.
@@ -62,7 +62,7 @@ W przypadku dokumentów tekstowych: Używać określenia **with text** np.**keyb
 
 Dla wszelkich formatów z wyjątkiem głosów, należy wprowadzić liczbę stron, kart lub składek. Wybierz jeden z następujących skrótów: **f** dla folio, **p** dla strony, **lvs** dla kart (arkuszy) i **fds** dla składek.
 
-W przypaku rekordów kolekcji jak i dla elementów niebędących jej cześcią, nalezy podać całokowitą ilość stron w następujący sposób: **36 p.** Natomiast, jeśli podajemy wartość dla elementu kolekcji, należy podać **p. 17-23.**
+W przypadku rekordów kolekcji, jak i dla elementów niebędących jej częścią, należy podać całkowitą ilość stron w następujący sposób: **36 p.** Natomiast, jeśli podajemy wartość dla elementu kolekcji, należy podać **p. 17-23.**
 
 Należy używać tylko jednej metody opisując rekord kolekcji: paginacji lub foliacji. Używając numeracji recto i verso, użyj skrótów: **r** i **v**. Inne jednostki (takie jak zamiany z foliacji na paginację) wyjaśnić w polu **Uwaga ogólna (500)**.
 
