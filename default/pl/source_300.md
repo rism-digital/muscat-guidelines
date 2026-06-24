@@ -6,7 +6,7 @@ W polu **Opis fizyczny** podaje się klarowny opis zachowanego materiału, odnos
 
 **Pole wymagane.**
 
-Dla wszystkich typów formatów z wyjątkiem samodzielnych głosów, format pola **Rodzaj źródła, objętość (300$a)** składa się z trzech komponentów: **Liczba, Rodzaj źródła, Objętość**
+Dla wszystkich typów formatów, z wyjątkiem samodzielnych głosów, format pola **Rodzaj źródła, objętość (300$a)** składa się z trzech komponentów: **Liczba, Rodzaj źródła, Objętość**
 
 ###### Przykład
 
