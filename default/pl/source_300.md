@@ -64,7 +64,7 @@ Dla wszelkich formatów z wyjątkiem głosów, należy wprowadzić liczbę stron
 
 W przypadku rekordów kolekcji, jak i dla elementów niebędących jej częścią, należy podać całkowitą ilość stron w następujący sposób: **36 p.** Natomiast, jeśli podajemy wartość dla elementu kolekcji, należy podać **p. 17-23.**
 
-Należy używać tylko jednej metody opisując rekord kolekcji: paginacji lub foliacji. Używając numeracji recto i verso, użyj skrótów: **r** i **v**. Inne jednostki (takie jak zamiany z foliacji na paginację) wyjaśnić w polu **Uwaga ogólna (500)**.
+Należy używać tylko jednej metody, opisując rekord kolekcji: paginacji lub foliacji. Używając numeracji recto i verso, użyj skrótów: **r** i **v**. Inne jednostki (takie jak zamiany z foliacji na paginację) wyjaśnić w polu **Uwaga ogólna (500)**.
 
 Nie należy tutaj podawać objętości głosów. Objętość głosów wprowadza się w polu **Głosy, objętość (590)**.
 
@@ -99,14 +99,14 @@ Numeracja stron zmienia się z rzymskiej na arabską.
 
 - XII p., p. 13-36
 
-Strony puste lub nieregulaność numeracji należy opisać w polu **Uwaga ogólna (500)**.
+Strony puste lub nieregularność numeracji należy opisać w polu **Uwaga ogólna (500)**.
 
 - f. [2] blank
 - p. 272 pojawia się dwukrotnie.
 
 #### Inne szczegóły fizyczne (300 $b)
 
-W tym polu można wprowadzić wystąpienie ilustracji i innych elementów uzupełniających. Wprowadzić używając własnego języka katalogowania..
+W tym polu można wprowadzić wystąpienie ilustracji i innych elementów uzupełniających. Wprowadzić używając własnego języka katalogowania.
 
 Przykłady:
 
