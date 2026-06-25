@@ -10,7 +10,7 @@ Wpisać nazwę osoby odpowiedzialnej za kompozycję. Może to być kompozytor (w
 
 Jeżeli źródło posiada wielu kompozytorów, wybierz jednego i wprowadź w tym polu, natomiast pozostałych dodaj w polu **Dodatkowa osoba (700)** wybierając dla nich funkcję **Współkompozytor**.
 
-Jeśli źródło jest anonimowe, ale możliwym jest określenie kompozytora, wprowadź nazwę kompozytora i wybierz odpowiedni kwalifikator atrybucji. Jeśli nie możesz określić kompozytora, wprowadź nazwę **Anonymus**, ale pomiń kwalifikator atrybucji. Nazwa **Compilations** wykorzystywana jest dla pasticcios lub kompilacji.
+Jeśli źródło jest anonimowe, ale możliwe jest określenie kompozytora, wprowadź nazwę kompozytora i wybierz odpowiedni kwalifikator atrybucji. Jeśli nie możesz określić kompozytora, wprowadź nazwę **Anonymus**, ale pomiń kwalifikator atrybucji. Nazwa **Compilations** wykorzystywana jest dla pasticcios lub kompilacji.
 
 Pole to jest powiązane z kartoteką haseł wzorcowych **Osoby** poprzez podpole $0, dzięki czemu daty życia wyświetlane są poprzez podpole $d.
 
