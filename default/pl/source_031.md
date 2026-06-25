@@ -70,7 +70,7 @@ Tutaj należy wprowadzić ujednoliconą nazwę roli dramatycznej. Jeśli wypełn
 
 Incipit tekstowy składa się z kilku pierwszych słów utworu lub części i może być pierwszą linijką, pierwszą frazą lub inną grupą słów, które mają sens językowy. Incipity tekstowe służą do identyfikacji użytego tekstu i niekoniecznie muszą pasować do długości muzyki podanej w incipicie muzycznym. Incipit tekstowy można uwzględnić niezależnie od tego, czy jest podany na źródle. Należy pamiętać, że do tekstów sporządzonych w języku łacińskim mają zastosowanie odrębne zasady (patrz poniżej).
 
-Incipity tekstowe podaje się w formie ujednoliconej. Incipity tekstowe należy wprowadzać przy użyciu współczesnej pisowni. W celu znormalizowania wpisu należy odwołać się do kartoteki haseł wzorcowych **Tytuły/incipity tekstowe**. Jeśli nie ma ich w kartotece, należy wpisać dodać nowe incipity.
+Incipity tekstowe podaje się w formie ujednoliconej. Incipity tekstowe należy wprowadzać przy użyciu współczesnej pisowni. W celu znormalizowania wpisu należy odwołać się do kartoteki haseł wzorcowych **Tytuły/incipity tekstowe**. Jeśli nie ma ich w kartotece, należy dodać nowe incipity.
 
 Nie należy umieszczać fragmentów tekstu w nawiasach lub podawać brakujących słów. W tekście nie należy umieszczać znaków interpunkcyjnych i powtórzeń.
 
@@ -78,7 +78,7 @@ Akcentów należy używać tylko w takiej formie, w jakiej pojawiają się w sł
 
 Należy całkowicie pominąć tekst, jeśli nie można go przeczytać i należy dodać adnotację „Tekst nieczytelny” lub podobną.
 
-W językach romańskich, kontynuuj wpisywanie tekstu bezpośrednio po apostrofie i bez spacji. Wyjątkiem od tej reguły jest sytuacja, gdy pierwszą literę słowa zastępuje apostrof (na przykład: Fra l'amante e 'l genitor).
+W językach romańskich kontynuuj wpisywanie tekstu bezpośrednio po apostrofie i bez spacji. Wyjątkiem od tej reguły jest sytuacja, gdy pierwszą literę słowa zastępuje apostrof (na przykład: Fra l'amante e 'l genitor).
 
 Można tu podać sprawdzone lub pochodne teksty, które nie pojawiają się w źródle. W takich przypadkach należy umieścić cały tekst w nawiasach kwadratowych. Są to między innymi:
 
