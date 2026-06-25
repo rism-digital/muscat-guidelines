@@ -1,6 +1,6 @@
 ### Jednostka katalogująca rekord (040)
 
-Pole **Jednostka katalogująca rekord** wskazuje organizację odpowiedzilaną za wytworzenie rekordu.
+Pole **Jednostka katalogująca rekord** wskazuje organizację odpowiedzialną za wytworzenie rekordu.
 
 ### Język katalogowania (040 $b)
 
