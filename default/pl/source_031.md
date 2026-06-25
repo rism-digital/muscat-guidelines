@@ -21,9 +21,9 @@ Numer incipitu składa się z trzech cyfr, które oznaczają utwór, część i 
 
 Pierwszą cyfrą jest zawsze 1. Numer utworu odnosi się do pozycji incipitu w danym rekordzie, a nie do pozycji w całym źródle. Utwory w RISM katalogowane są jako osobne rekordy przy użyciu hierarchii rodziców/dzieci, w związku z czym każdy rekord ma jeden utwór.
 
-Części odnoszą się zarówno do utworów jak i do istotnych części utworu, niezależnie od tego, czy są to części w sensie technicznym (np. symfonii), czy też różne sekcje utworu (np. aria). Numery części mogą być identyczne, jeżeli istnieje wiele incipitów dla części.
+Części odnoszą się zarówno do utworów, jak i do istotnych części utworu, niezależnie od tego, czy są to części w sensie technicznym (np. symfonii), czy też różne sekcje utworu (np. aria). Numery części mogą być identyczne, jeżeli istnieje wiele incipitów dla części.
 
-Numer incipitu jest osadzony w hierarchii części uwtoru. Takie same numery części, ale różne numery incipitów oznaczają, że incipity brzmią jednocześnie np. vl 1 i bas.
+Numer incipitu jest osadzony w hierarchii części utworu. Takie same numery części, ale różne numery incipitów oznaczają, że incipity brzmią jednocześnie np. vl 1 i bas.
 
 ##### Przykłady
 
