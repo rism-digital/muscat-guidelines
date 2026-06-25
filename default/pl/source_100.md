@@ -23,6 +23,6 @@ Jeśli wpiszesz kompozytora jako **Anonymus,** nie wprowadzaj kwalifikatora atry
 - **Rzekomy** oznacza nazwę występującą w źródle, lecz jej atrybucja jest podważalna lub wątpliwa.
 - **Ustalony** oznacza nazwę, która jest częściowo obecna lub całkowicie nieobecna w źródle, lecz jej atrybucja jest (w miarę) pewna i opiera się na konkordancjach, literaturze pomocniczej lub innych źródeł naukowych. Jest to przypadek najczęstszy.
 - **Domyślny** jest domysłem opartym na drugorzędnych dowodach (takich jak literatura pomocnicza).
-- **Błędnie przypisany** oznacza, że nazwa w źródle jest obecna, lecz jest nieprawidłowa. Jeżeli źródło jest anonimowe, pozostał to pole puste.
+- **Błędnie przypisany** oznacza, że nazwa w źródle jest obecna, lecz jest nieprawidłowa. Jeżeli źródło jest anonimowe, pozostaw to pole puste.
 
 **Przestarzałe procedury**: Starsze wytyczne katalogowania RISM umożliwiły przypisanie **Zweryfikowane.** Atrybucja była wykorzystywana w sytuacji kiedy nazwa na źródle była taka sama jak w RISM. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat. **Wątpliwy** oznacza, że autorstwo jest niepewne; zostało to usunięte, a pozostałe atrybucje doprecyzowane w 2024 r.
