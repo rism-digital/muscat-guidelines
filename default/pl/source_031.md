@@ -47,12 +47,12 @@ Należy wpisać tytuł części i tempo lub podobne wskaźniki, jeśli takowe zo
 - All|o
 - [vol. 1 p. 17:] N. 1: Recit. et Aria
 
-**Przestarzałe procedury**: Starsze wytyczne RISM umożliwiały korzystanie ze sformułowania „Without tempo” na wskazanie, że część ma kilka oznaczeń tempa, z czego jeden lub kilka nie jest znanych. Wielokrotne oznaczenia tempa były wprowadzone po sobie, oddzielone średnikami.
+**Przestarzałe procedury**: Starsze wytyczne RISM umożliwiały korzystanie ze sformułowania „Without tempo” na wskazanie, że część ma kilka oznaczeń tempa, z czego jedno lub kilka nie jest znanych. Wielokrotne oznaczenia tempa były wprowadzone po sobie, oddzielone średnikami.
 
 
 #### Głos/instrument (031 $m)
 
-Partię wokalną lub instrumentalną należy wpisać korzystając z listy **skrótów instrumentów RISM**. W przypadku nieustalonego głosu należy wpisać **V**. W przypadku nieustalonej partii instrumentalnej należy wpisać **i**. Strój instrumentu należy podać w polu **Uwaga ogólna**. Jeżeli instrument transponuje, jego incipit należy zapisać tak jak jhest zanotowany lub jak brzmi. W polu **Uwaga ogólna (031 $q)**, wskaż jaka metoda została zastosowana.
+Partię wokalną lub instrumentalną należy wpisać, korzystając z listy **skrótów instrumentów RISM**. W przypadku nieustalonego głosu należy wpisać **V**. W przypadku nieustalonej partii instrumentalnej należy wpisać **i**. Strój instrumentu należy podać w polu **Uwaga ogólna**. Jeżeli instrument transponuje, jego incipit należy zapisać tak jak jhest zanotowany lub jak brzmi. W polu **Uwaga ogólna (031 $q)**, wskaż jaka metoda została zastosowana.
 
 ##### Przykłady
 
@@ -60,7 +60,7 @@ Partię wokalną lub instrumentalną należy wpisać korzystając z listy **skr�
 - Coro T
 - org with text
 
-**Przestarzałe procedury**: Starsze wytyczne RISM wymagały zapisywania incipitów muzycznych dla transponujących instrumentów, w sposób jaki brzmią.
+**Przestarzałe procedury**: Starsze wytyczne RISM wymagały zapisywania incipitów muzycznych dla transponujących instrumentów w sposób, w jaki brzmią.
 
 #### Rola (031 $e)
 
