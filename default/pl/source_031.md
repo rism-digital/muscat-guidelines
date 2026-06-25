@@ -4,14 +4,14 @@ Pole **Incipt** służy do dostarczania informacji muzycznej za pośrednictwem k
 
 Jeśli potrzebna notacja nie jest dostępna przy użyciu kodu Plaine & Easie, należy możliwie jak najlepiej przetranskrybować muzykę i dołączyć notatkę objaśniającą. W celu dalszego wyjaśnienia można załączyć obraz incipitu ze źródła.
 
-Pamiętaj, że transkrypcja incipitów jest wykorzystywana przede wszystkim do wyszukiwania i identyfikacji, a nie do wizualnego odworowania partytury. Kod Plaine & Easie jest celowym uproszczeniem notacji zachodniej i w zwiazku z tym nie wszystkie szczegóły mogą (lub powinny) być kodowane.
+Pamiętaj, że transkrypcja incipitów jest wykorzystywana przede wszystkim do wyszukiwania i identyfikacji, a nie do wizualnego odwzorowania partytury. Kod Plaine & Easie jest celowym uproszczeniem notacji zachodniej i w związku z tym nie wszystkie szczegóły mogą (lub powinny) być kodowane.
 
 Aby uzyskać pomoc w transkrypcji notacji menzuralnej, zobacz [„Podstawowy notacji menzuralnej” autorstwa Teda Dumitrescu](http://www.cmme.org/misc/refsheet.pdf).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
 _Notatka eksport MARC:_  
-Rekordy, które zawierają inicpit (cokolwiek w polu 031) otrzymają przy zapisywaniu adnotację marc $2pe, wskazując, że incipit został utworzony przy użyciu kodu Plaine & Easie.
+Rekordy, które zawierają incipit (cokolwiek w polu 031) otrzymają przy zapisywaniu adnotację marc $2pe, wskazując, że incipit został utworzony przy użyciu kodu Plaine & Easie.
 
 #### Numer utworu, numer części, numer incipitu (031 $a, b, c)
 
@@ -19,7 +19,7 @@ Rekordy, które zawierają inicpit (cokolwiek w polu 031) otrzymają przy zapisy
 
 Numer incipitu składa się z trzech cyfr, które oznaczają utwór, część i incipit.
 
-Pierwszą cyfrą jest zawsze 1. Numer utworu odnosi się do pozycji incipitu w danym rekordzie, a nie do pozycji w całym źródle. Utwory w RISM katalogowane są jako osobne rekordy przy użyciu hierarchii rodziców/dzieci, w związku z czym kaązdy rekord ma jeden utwór.
+Pierwszą cyfrą jest zawsze 1. Numer utworu odnosi się do pozycji incipitu w danym rekordzie, a nie do pozycji w całym źródle. Utwory w RISM katalogowane są jako osobne rekordy przy użyciu hierarchii rodziców/dzieci, w związku z czym każdy rekord ma jeden utwór.
 
 Części odnoszą się zarówno do utworów jak i do istotnych części utworu, niezależnie od tego, czy są to części w sensie technicznym (np. symfonii), czy też różne sekcje utworu (np. aria). Numery części mogą być identyczne, jeżeli istnieje wiele incipitów dla części.
 
