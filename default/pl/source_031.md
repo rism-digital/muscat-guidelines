@@ -34,7 +34,7 @@ Numer incipitu jest osadzony w hierarchii części utworu. Takie same numery cz�
 
 Kropki pomiędzy numerami są automatycznie dodawane przez Muscat.
 
-Trzycyfrowy numer incipitu musi być unikalny w ramach rekordu. Numeracja incipitów powinna odzwierciedlać porządek w rekordzie. Incipit nie może sugerować swojej pozycji w kolekcji w źródle. Numeracja w ramach źródła powinna być ujęta opisie tytułu, a wszelkie cechy szczególne powinny zostać wyrażone w uwadze. Oznacza to, że numeracja incipitu czwartej pieśni w kolekcji będzie oznaczona jako 1.1.1 jak każda z pieśni kolekcji.
+Trzycyfrowy numer incipitu musi być unikalny w ramach rekordu. Numeracja incipitów powinna odzwierciedlać porządek w rekordzie. Incipit nie może sugerować swojej pozycji w kolekcji w źródle. Numeracja w ramach źródła powinna być ujęta w opisie tytułu, a wszelkie cechy szczególne powinny zostać wyrażone w uwadze. Oznacza to, że numeracja incipitu czwartej pieśni w kolekcji będzie oznaczona jako 1.1.1 jak każda z pieśni kolekcji.
 
  Incipity należy numerować kolejno, nawet jeśli w źródło jest wybrakowane. Na przykład, jeśli brakuje jednej pieśni w kolekcji 6 pieśni, numer utworu każdego incipitu zawsze będzie się zaczynał od wartości 1. Jeżeli źródłem jest symfonia trzyczęściowa, ale brakuje części środkowej, incipity będą ponumerowane 1.1.1 i 1.2.1 (nie 1.3.1).
 
