@@ -1,6 +1,6 @@
 ### Poprzedzający wpis (780)
 
-Pole **Poprzedzajacy wpis** służy do nazwania i połączenia poprzedniej nazwy obiektu, takiej jak tytuł czasopisma, który zmienił nazwę.
+Pole **Poprzedzający wpis** służy do nazwania i połączenia poprzedniej nazwy obiektu, takiej jak tytuł czasopisma, który zmienił nazwę.
 
 #### Poprzedzający wpis (780 $t)
 
