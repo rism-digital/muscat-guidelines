@@ -336,7 +336,7 @@ Tu należy wprowadzić wszelkie inne uwagi, takie jak wysokość dźwięku trans
 
 #### Obsada w części (031 $z)
 
-W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie rozbudowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w polu **Podsumowanie obsady [240 $m]**). Do oddzielenia grup instrumentów należy należy stosować znak średnika.
+W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie rozbudowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w polu **Podsumowanie obsady [240 $m]**). Do oddzielenia grup instrumentów należy stosować znak średnika.
 
 ##### Przykłady
 
