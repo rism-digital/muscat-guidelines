@@ -17,7 +17,7 @@ Istnieje również kanał dyskusyjny na Slack:
 
 #### 3. Czy cała literatura pomocnicza podawana w Muscat znajduje się w Biurze Editorial Center?
 
-Nie, w naszym biurze znajduje się tylko literatura oznaczona jako „HB” lub „Handbibliothek” lub „RISM-ZR”, co w Muscat oznaczone jest w Polu uwag miejscowych (599 $a) jako pozycja dostępna na miejscu. Materiały te mają służyć wszystkim współpracownikom RISM, więc jeśli mamy publikację, która może być pomocna, daj nam znać, a my postaramy się dostarczyć to, czego potrzebujesz. Nawet jeśli poszukujesz publikacji, której nie mamy w biurze, napisz do nas a my postaramy się pomóc uzyskać dostęp do niej.
+Nie, w naszym biurze znajduje się tylko literatura oznaczona jako „HB” lub „Handbibliothek” lub „RISM-ZR”, co w Muscat oznaczone jest w Polu uwag miejscowych (599 $a) jako pozycja dostępna na miejscu. Materiały te mają służyć wszystkim współpracownikom RISM, więc jeśli mamy publikację, która może być pomocna, daj nam znać, a my postaramy się dostarczyć to, czego potrzebujesz. Nawet jeśli poszukujesz publikacji, której nie mamy w biurze, napisz do nas, a my postaramy się pomóc uzyskać dostęp do niej.
 
 #### 4. Co robić, gdy zapomnę hasła lub chcę je zmienić?
 
