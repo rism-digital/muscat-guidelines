@@ -1,6 +1,6 @@
 ### Incipit (031)
 
-Pole **Incipt** służy do dostarczania informacji muzycznej za pośrednictwem kilku otwierających taktów kompozycji, zarówno dla warstwy muzycznej, jak i tekstowej. Incipity pomagają w identyfikacji kompozycji i ułatwiają porównywanie źródeł. Najlepszą praktyką dla muzyki instrumentalnej jest włączanie incipitów z partii wysokiej i niskiej, takich jak vl 1 i bas. W przypadku muzyki wokalnej należy uwzględnić incipity z najwyższego głosu i pierwszych skrzypiec lub najwyższej partii instrumentalnej.
+Pole **Incipit** służy do dostarczania informacji muzycznej za pośrednictwem kilku otwierających taktów kompozycji, zarówno dla warstwy muzycznej, jak i tekstowej. Incipity pomagają w identyfikacji kompozycji i ułatwiają porównywanie źródeł. Najlepszą praktyką dla muzyki instrumentalnej jest włączanie incipitów z partii wysokiej i niskiej, takich jak vl 1 i bas. W przypadku muzyki wokalnej należy uwzględnić incipity z najwyższego głosu i pierwszych skrzypiec lub najwyższej partii instrumentalnej.
 
 Jeśli potrzebna notacja nie jest dostępna przy użyciu kodu Plaine & Easie, należy możliwie jak najlepiej przetranskrybować muzykę i dołączyć notatkę objaśniającą. W celu dalszego wyjaśnienia można załączyć obraz incipitu ze źródła.
 
