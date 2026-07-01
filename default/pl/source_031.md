@@ -1,6 +1,6 @@
 ### Incipit (031)
 
-Pole **Incipit** służy do dostarczania informacji muzycznej za pośrednictwem kilku otwierających taktów kompozycji, zarówno dla warstwy muzycznej, jak i tekstowej. Incipity pomagają w identyfikacji kompozycji i ułatwiają porównywanie źródeł. Najlepszą praktyką dla muzyki instrumentalnej jest włączanie incipitów z partii wysokiej i niskiej, takich jak vl 1 i bas. W przypadku muzyki wokalnej należy uwzględnić incipity z najwyższego głosu i pierwszych skrzypiec lub najwyższej partii instrumentalnej.
+Pole **Incipit** służy do dostarczania informacji muzycznej za pośrednictwem kilku początkowych taktów kompozycji, zarówno dla warstwy muzycznej, jak i tekstowej. Incipity pomagają w identyfikacji kompozycji i ułatwiają porównywanie źródeł. Najlepszą praktyką dla muzyki instrumentalnej jest włączanie incipitów z partii wysokiej i niskiej, takich jak vl 1 i bas. W przypadku muzyki wokalnej należy uwzględnić incipity z najwyższego głosu i pierwszych skrzypiec lub najwyższej partii instrumentalnej.
 
 Jeśli potrzebna notacja nie jest dostępna przy użyciu kodu Plaine & Easie, należy możliwie jak najlepiej przetranskrybować muzykę i dołączyć notatkę objaśniającą. W celu dalszego wyjaśnienia można załączyć obraz incipitu ze źródła.
 
@@ -291,7 +291,7 @@ Jeżeli klucz zmienia się w obrębie incipitu, użyj znaku **%** w celu zmiany 
 
 ##### 13. Zmiana tonacji
 
-Jeżeli tonacja, zmienia się w obrębnie incipitu, użyj znaku **$** w celu zmiany tonacji. Następnie podaj nową toncję za pomocą oznaczeń znaków przykluczowych i spację. Zmiana tonacji może być wprowadzona tylko raz w ramach taktu. Możesz anulować poprzednią zmianą tonacji używając znaku $n lub wprowadzić nową nową tonację poprzez oznaczenia znaków przykluczowych.
+Jeżeli tonacja zmienia się w obrębie incipitu, użyj znaku **$** w celu zmiany tonacji. Następnie podaj nową tonację za pomocą oznaczeń znaków przykluczowych i spację. Zmiana tonacji może być wprowadzona tylko raz w ramach taktu. Możesz anulować poprzednie oznaczenie tonacji używając znaku $n, lub wprowadzić nową tonację poprzez oznaczenia znaków przykluczowych.
 
 ###### Przykłady
 
@@ -308,7 +308,7 @@ Jeżeli metrum zmienia się w obrębie incipitu, użyj znaku **@** w celu zmiany
 
 ##### 16. Akordy
 
-Skrócone formy notacji występujące w nutach, takie jak tremola lub znaki simile, należy wpisać w całości stosując występującą w źródle notację.
+Skrócone formy notacji występujące w nutach, takie jak tremola lub oznaczenia simile, należy wpisywać w całości, stosując występującą w źródle notację.
 
 ###### Przykład
 
@@ -328,10 +328,10 @@ Wprowadzić akordy od najwyższej do najniższej nuty, oddzielone znakiem **^**.
 
 Tu należy wprowadzić wszelkie inne uwagi, takie jak wysokość dźwięku transponowanych instrumentów, błędy w incipicie, incipit tekstowy w oryginalnej pisowni i/lub z oryginalną interpunkcją, lub wszelkie inne dokonane adiustacje. Wprowadzać stosując używany przez Państwa język katalogowania.
 
-**Przestarzałe procedury**: Starsze wytyczne katalogowania RISM pozwolalały na użycie symboli **?**, **+**i **t** odzwierciedlając znormalizowane uwagi. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat i zamiast tego informacje wyjaśniające w są umieszczane w polu **Uwaga ogólna (031 $q)**. Były następujące symbole:
+**Przestarzałe procedury**: Starsze wytyczne katalogowania RISM pozwolalały na użycie symboli **?**, **+**i **t** odzwierciedlając znormalizowane uwagi. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat i zamiast tego informacje wyjaśniające w są umieszczane w polu **Uwaga ogólna (031 $q)**. Symbole były następujące:
 - **?** = Błąd w incipicie nie mógł zostać skorygowany.
-- **+** = Błąd w incipicie został poprawiony
-- **t** = Incipity został przetranskrybowany do współczesnej notacji
+- **+** = Błąd w incipicie został poprawiony.
+- **t** = Incipit został przetranskrybowany do współczesnej notacji.
 
 
 #### Obsada w części (031 $z)
