@@ -29,7 +29,7 @@ Tak, jak najbardziej! Wersja szkoleniowa Muscat jest dostępna dokładnie w tych
 
 #### 6. Co to znaczy, że w historii modyfikacji, „[system]” został wymieniony jako autor?
 
-To jest edycja systemu. Możesz zobaczyć przykład edycji systemowej, jeśli jedno z indeksowanych pól związanych z Twoim rekordem uległo zmianie. Zmiana w rekordzie hasła wzorcowego zarejestruje się również jako zmiana w Twoim rekordzie. Zmiany prowadzone przez skrypty utrzymujące program są również rejestrowane jako edycje systemowe.
+To jest edycja systemowa. Możesz zobaczyć przykład edycji systemowej, jeśli jedno z indeksowanych pól związanych z Twoim rekordem uległo zmianie. Zmiana w rekordzie hasła wzorcowego zarejestruje się również jako zmiana w Twoim rekordzie. Zmiany prowadzone przez skrypty utrzymujące program są również rejestrowane jako edycje systemowe.
 
 #### 7. Gdzie są publikowane rekordy Muscata?
 
