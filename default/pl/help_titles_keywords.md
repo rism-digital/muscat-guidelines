@@ -1,6 +1,6 @@
 ### Znormalizowane tytuły – Hasła przedmiotowe
 
-As is stated in the guidelines for **Standardized title (240)**,  the order of preference is when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  Niniejsza sekcja rozbudowuje wytyczne dotyczące trzeciego typu ujednoliconego tytułu dla gatunków i wyjaśnia związek z hasłami przemiotowymi.
+As is stated in the guidelines for **Standardized title (240)**,  the order of preference is when entering a standardized title is: 1) distinctive title, 2) text incipit, 3) genre, 4) tempo marking.  Niniejsza sekcja rozbudowuje wytyczne dotyczące trzeciego typu ujednoliconego tytułu dla gatunków i wyjaśnia związek z hasłami przedmiotowymi.
 
 W wielu przypadkach gatunki wykorzystywane są również jako ujednolicone tytuły głównie w przypadku muzyki instrumentalnej i w tytułach kolekcji. **Ujednolicony tytuł** i **Hasło przedmiotowe (650)** będą identyczne w przypadku _Symphonies_ lub _Sonatas_.
 
@@ -9,7 +9,7 @@ W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające
 - Jeśli to samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa **(voc.)** lub **(inst.)**.
 - Określenia takie jak **(dances)** lub **(stage)** mogą być również dodane w nawiasie po głównym terminie.
 
-Innymi słowy, ujednolicony tytuł będzie tylko gatunkiem, a hasło przedmiotowe będzie zawierało doprecyzowanie w nawiasie, który dookreśla czy jest gatunkiem głosowym czy instrumentalnym. Hasła z nawisami (podobnie jak inna interpunkcja) nigdy nie występują w ujednoliconych tytułach.  
+Innymi słowy, ujednolicony tytuł będzie tylko gatunkiem, a hasło przedmiotowe będzie zawierało doprecyzowanie w nawiasie, dookreślające czy chodzi o gatunek wokalny czy instrumentalny. Hasła z nawisami (podobnie jak inna interpunkcja) nigdy nie występują w ujednoliconych tytułach.  
 Przykłady:
 1. Kanon organowy  
    Ujednolicony tytuł: Canon  
