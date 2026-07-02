@@ -82,7 +82,7 @@ W przypadku gdy nie podano autora, należy użyć jedno lub dwa słowa kluczowe.
 - _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
   → VerzeichnisThibaut 1842
 
-Dla dzieł wielotomowych wydawanych na przestrzeni wielu lat, należy podać tylko pierwszy rok.
+Dla dzieł wielotomowych wydawanych na przestrzeni wielu lat należy podać tylko pierwszy rok.
 
 ###### Przykład
 
@@ -103,7 +103,7 @@ Jeżeli rok wydania znany jest jedynie w przybliżeniu, należy dodać **ca.** (
 - Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Wiedeń, C.A. Spina, ca. 1850).  
   → FahrbachK 1850
 
-W przypadku powszechnie znanych encyklopedii lub zbiorów zamiast tytułów skróconych należy stosować ich powszechnie używane skróty lub nazwy (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
+W przypadku powszechnie znanych encyklopedii lub zbiorów, zamiast tytułów skróconych należy stosować ich powszechnie używane skróty lub nazwy (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
 ##### Katalogi dzieł
 
@@ -113,7 +113,7 @@ Skrócone tytuły dla **katalogów dzieł** są tworzone w następujący sposób
 
 Nie ma potrzeby podawania roku wydania.
 
-Katalog opublikowany jako część większej serii, na przykład dodatek do książki może być wpisany jako katalog dzieł.
+Katalog opublikowany jako część większej serii, na przykład dodatek do książki, może być wpisany jako katalog dzieł.
 
 ###### Przykłady
 
@@ -126,7 +126,7 @@ Katalog opublikowany jako część większej serii, na przykład dodatek do ksi�
 - Bruno Scheithauer, _Verzeichniss sämtlicher gedruckten Werke Dr. Carl Loewe’s_ (Berlin, 1886).  
   → SchL
 
-Należy wykorzystywać powszechnie używane skróty dla katalogów dzieł jeżeli istnieją (BWV, KV, Hob., itd.) lub skróty funkcjonujące w ramach samego katalogu, pod warunkiem, że skrót już nie istenieje w Muscat.
+Należy wykorzystywać powszechnie używane skróty dla katalogów dzieł, jeżeli istnieją (BWV, KV, Hob., itd.) lub skróty funkcjonujące w ramach samego katalogu, pod warunkiem, że skrót już nie istnieje w Muscat.
 
 ###### Przykłady
 
