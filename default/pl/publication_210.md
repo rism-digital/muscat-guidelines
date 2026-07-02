@@ -140,7 +140,7 @@ Należy wykorzystywać powszechnie używane skróty dla katalogów dzieł, jeże
 
 ##### Przypadki specjalne
 
-W pierwszym przypadku należy nadać tytuł skrócony jak w przypadku katalogu dzieł. Publikacje zawierające w swych tytułach termin „katalog tematyczny” zazwyczaj są katalogami dzieł kompoztora, mogą niekeidy dotyczyć też innej tematyki lub mieć niezbyt rozległy zakres. W drugim przypadku, tytuł skrócony należy podać jak w ogólnej literaturze pomocniczej. W skrócie mówiąc: Wszystkiemu, co nie jest katalogiem dzieł, przypisuje się tytuł skrócony stosowany w przypadku literatury pomocniczej.
+W pierwszym przypadku należy nadać tytuł skrócony jak w przypadku katalogu dzieł. Publikacje zawierające w swych tytułach termin „katalog tematyczny” zazwyczaj są katalogami dzieł kompozytora, mogą niekiedy dotyczyć też innej tematyki lub mieć niezbyt rozległy zakres. W drugim przypadku tytuł skrócony należy podać jak w ogólnej literaturze pomocniczej. Krótko mówiąc, wszystkiemu, co nie jest katalogiem dzieł, przypisuje się tytuł skrócony stosowany w przypadku literatury pomocniczej.
 
 ###### Przykłady
 
