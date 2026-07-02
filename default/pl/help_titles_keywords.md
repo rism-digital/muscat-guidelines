@@ -9,7 +9,7 @@ W innych przypadkach, zamiast identycznego tytułu, używane jest odpowiadające
 - Jeśli to samo hasło przedmiotowe dotyczy gatunków wokalnych i instrumentalnych, po terminie w nawiasie pojawią się słowa **(voc.)** lub **(inst.)**.
 - Określenia takie jak **(dances)** lub **(stage)** mogą być również dodane w nawiasie po głównym terminie.
 
-Innymi słowy, ujednolicony tytuł będzie tylko gatunkiem, a hasło przedmiotowe będzie zawierało doprecyzowanie w nawiasie, dookreślające czy chodzi o gatunek wokalny czy instrumentalny. Hasła z nawisami (podobnie jak inna interpunkcja) nigdy nie występują w ujednoliconych tytułach.  
+Innymi słowy, ujednolicony tytuł będzie tylko gatunkiem, a hasło przedmiotowe będzie zawierało doprecyzowanie w nawiasie, dookreślające czy chodzi o gatunek wokalny czy instrumentalny. Hasła z nawiasami (podobnie jak inna interpunkcja) nigdy nie występują w ujednoliconych tytułach.  
 Przykłady:
 1. Kanon organowy  
    Ujednolicony tytuł: Canon  
@@ -84,7 +84,7 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 
 #### Muzyka wokalna sakralna
 
-Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
+Tytuł ujednolicony — odpowiadające Hasło przedmiotowe
 - Completoria — Hours of the Office
 - Horae minores — Hours of the Office
 - Intonations — Intonations (voc.)
@@ -94,7 +94,7 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 #### Muzyka sceniczna, teatralna itd.
 
 _Aby ustalić gatunek poszczególnych numerów lub partii, należy korzystać z sekcji na temat muzyki wokalnej i instrumentalnej._  
-Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
+Tytuł ujednolicony — odpowiadające Hasło przedmiotowe
 - Intermezzos — Intermezzos (stage)
 - Meditationes — Meditationes (Jesuit theatre)
 - Prologues — Prologues (stage)
@@ -114,7 +114,7 @@ Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
 
 #### Tańce
 
-Tytuł ujednolicony — odpowiadajace Hasło przedmiotowe
+Tytuł ujednolicony — odpowiadające Hasło przedmiotowe
 - Airs — Airs (dances)
 - Rounds — Rounds (dances)
 
