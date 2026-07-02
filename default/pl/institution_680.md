@@ -4,7 +4,7 @@ Pole **Ogólna uwaga** umożliwia dodanie innych uwag dotyczących opisu.
 
 #### Inne uwagi na temat opisu (680 $a)
 
-Wprowadzić dodatkowe uwagi opisujące daną instytucję, takie jak:
+Wprowadź dodatkowe uwagi opisujące daną instytucję, takie jak:
 
 - Wszelkie zmiany w siglum biblioteki RISM
 - Klasyfikacja kolekcji, np. „Kolekcja w GB-Lbl”
