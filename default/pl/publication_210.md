@@ -8,11 +8,11 @@ Pole **Skrócony tytuł** jest unikalnym skrótem przypisanym do rekordu w ramac
 
 Należy wpisać skrócony tytuł zgodnie z poniższymi wskazówkami. Skrócone tytuły mogą być wykorzystane tylko raz.
 
-Skróconych tytułów nie trzeba tworzyć dla serii i zebranych tomów esejów. Dla tego rodzaju publikacji, skrócony tytuł wprowadza się dla indywidualnych rekordów poświęconych artykułom lub rozdziałom.
+Skróconych tytułów nie trzeba tworzyć dla serii i zebranych tomów esejów. Dla tego rodzaju publikacji skrócony tytuł wprowadza się dla indywidualnych rekordów poświęconych artykułom lub rozdziałom.
 
 Skrócony tytuł odnosi się tylko do opisywanego w rekordzie wydania. Dla różnych wydań należy tworzyć oddzielne rekordy.
 
-Poniżej opisano jak tworzyć skrócone tytuły w ** ogólnej literaturze pomocniczej**, **katalogach dzieł** i **szczególnych przypadkach**.
+Poniżej opisano jak tworzyć skrócone tytuły w **ogólnej literaturze pomocniczej**, **katalogach dzieł** i **szczególnych przypadkach**.
 
 ##### Ogólna literatura pomocnicza
 
@@ -20,7 +20,7 @@ Skrócone tytuły dla **ogólnej literatury pomocniczej** są tworzone w następ
 
 - **Nazwisko** autora lub redaktora  
   _Nazwiska dwuczłonowe lub złożone należy podawać w pełnym brzmieniu._
-- **Pierwszą litera** słowa kluczowego z tytułu, pisaną wielką literą  
+- **Pierwsza litera** słowa kluczowego z tytułu, pisana wielką literą  
   _Zazwyczaj imię kompozytora lub nazwa miejsca, w przeciwnym razie należy wybrać inne ważne słowo_
 - **Spacja**
 - **Rok** wydania
