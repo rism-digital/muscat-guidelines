@@ -4,7 +4,7 @@ Pole **Poprzedzający wpis** służy do nazwania i połączenia poprzedniej nazw
 
 #### Poprzedzający wpis (780 $t)
 
-Wprowadź poprzednią nazwę obiektu. Pole połączone jest linkiem z kartoteką haseł wzrcowych **Literatury pomocniczej** poprzez podpole $w.
+Wprowadź poprzednią nazwę obiektu. Pole połączone jest linkiem z kartoteką haseł wzorcowych **Literatury pomocniczej** poprzez podpole $w.
 
 ##### Przykład
 
