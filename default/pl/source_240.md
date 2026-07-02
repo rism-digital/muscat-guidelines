@@ -206,7 +206,7 @@ W przypadku aranżacji, podsumowanie obsady odnosi opisywanego źródła, a nie 
 
 Pole to można powtórzyć w przypadkach, gdy w źródle sugeruje się alternatywną instrumentację, np. pieśń na sopran lub na tenor. W takich przypadkach należy wpisać każdą możliwą instrumentację w osobnym polu: na przykład: **S, pf** w jednej linii i **T, pf** w następnej.
 
-W przypadku basso continuo, należy wpisać instrument jak zwykle, np. **b**, **bc**, **org**, itp. (ale zobacz tabele w sekcji **Basso continuo w partyturach i/lub partiach** w celu uzyskania wskazówek dotyczących powiązanych pól).
+W przypadku basso continuo należy wpisać instrument jak zwykle, np. **b**, **bc**, **org**, itp. (ale zobacz tabele w sekcji **Basso continuo w partyturach i/lub partiach** w celu uzyskania wskazówek dotyczących powiązanych pól).
 
 Ominąć podsumowanie obsady, jeżeli instrumentacja nie jest znana lub wiedza na jej temat jest niepewna.
 
@@ -217,7 +217,7 @@ Ominąć podsumowanie obsady, jeżeli instrumentacja nie jest znana lub wiedza n
 - V (4), Coro, orch, org   _na mszę_
 - cl, orch _na koncert klarnetowy_
 
-Wykorzystuj następującej standardowej instrumentacji, jeśli ma zastosowanie.
+Wykorzystuj następującą standardową instrumentację, jeśli ma zastosowanie.
 
 Kwartet smyczkowy
 - vl (2), vla, vlc
