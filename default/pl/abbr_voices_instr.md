@@ -1,4 +1,4 @@
-### Określenia głosów i instrumentów
+### Skróty głosów i instrumentów
 
 Sekcja **Skrótów głosów i instrumentów** zawiera listę skrótów wykorzystywanych w RISM w celu opisania instrumentów, w tym głosów wokalnych.
 
