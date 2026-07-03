@@ -8,7 +8,7 @@ Baza danych obiektów cyfrowych gromadzi wszystkie obrazy (zazwyczaj znaki wodne
 
 ## Instytucje
 
-Plik autorytatywny nazw osobowych opisuje wszelkie osoby powiązane ze źródłem, lub innym rekordem autorytatywnym w Muscat. RISM jest współtwórcą [VIAF (Virtual International Authority File)](https://www.viaf.org/), więc nazwy wnoszone do RISM są regularnie wysyłane do VIAF. Instytucje można dodawać w polu **Dodatkowa instytucja (710 $a)** w Źródłach, **Dodatkowa instytucja (710 $a)** w Instytucjach, ** Powiązana instytucja (510 $a)** w Osobach i **Dodatkowa instytucja (710 $a)** w Literaturze pomocniczej.
+Pliki autorytatywne dla Instytucji (nazwy korporatywne) opisują ciała zbiorowe niebędących osobami, które pojawiają się w związku ze źródłem lub innym rekordem autorytatywnym w Muscat.  RISM jest współtwórcą [VIAF (Virtual International Authority File)](https://www.viaf.org/), więc nazwy wnoszone do RISM są regularnie wysyłane do VIAF.  Ten autorytatywny plik zawiera zarówno współczesną nazwę instytucji (biblioteka z siglum biblioteki RISM) i historyczne oddziały instytucji (takie jak wydawca lub orkiestra). Instytucje można dodawać w polu **Dodatkowa instytucja (710 $a)** w Źródłach, **Dodatkowa instytucja (710 $a)** w Instytucjach, ** Powiązana instytucja (510 $a)** w Osobach i **Dodatkowa instytucja (710 $a)** w Literaturze pomocniczej.
 
 ## Święta liturgiczne
 
@@ -16,7 +16,7 @@ W indeksie świąt liturgicznych gromadzi się święta religijne i dni świąte
 
 ## Osoby
 
-Pliki autorytatywne dla Instytucji (nazwy korporatywne) opisują ciała zbiorowe niebędących osobami, które pojawiają się w związku ze źródłem lub innym rekordem autorytatywnym w Muscat. Instytucje można dodawać w polu **Dodatkowa instytucja (710 $a)** w Źródłach, **Dodatkowa instytucja (710 $a)** w Instytucjach, ** Powiązana instytucja (510 $a)** w Osobach i **Dodatkowa instytucja (710 $a)** w Literaturze pomocniczej. Ten autorytatywny plik zawiera zarówno współczesną nazwę instytucji (biblioteka z siglum biblioteki RISM) i historyczne oddziały instytucji (takie jak wydawca lub orkiestra).
+Pliki autorytatywne dla nazw osobowych opisują wszystkie osoby związane ze źródłem lub innym rekordem autorytatywnym w Muscat. Instytucje można dodawać w polu **Dodatkowa instytucja (710 $a)** w Źródłach, **Dodatkowa instytucja (710 $a)** w Instytucjach, ** Powiązana instytucja (510 $a)** w Osobach i **Dodatkowa instytucja (710 $a)** w Literaturze pomocniczej. Ten autorytatywny plik zawiera zarówno współczesną nazwę instytucji (biblioteka z siglum biblioteki RISM) i historyczne oddziały instytucji (takie jak wydawca lub orkiestra).
 
 Nowe rekordy nazw osobowych mogą być edytowane przez właściciela rekordu przez dwa miesiące po utworzeniu. Zachęca się, aby katalogerzy wypełniali w rekordzie autorytatywnym możliwie jak najwięcej informacji, w tym odwołania do VIAF, informacje biograficzne i inne pisownie. Po dwóch miesiącach tryb edycji rekordu przechodzi w ręce RISM Editorial Center. Dodatkowe informacje, uzupełniające rekord są mile widziane i mogą zostać zgłoszone poprzed dodanie komentarza w rekordzie lub wysłanie e-maila do [Alexandra Marxena](mailto:alexander.marxen@rism.info).
 
