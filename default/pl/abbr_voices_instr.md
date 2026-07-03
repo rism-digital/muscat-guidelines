@@ -2,7 +2,7 @@
 
 Sekcja **Skrótów głosów i instrumentów** zawiera listę skrótów wykorzystywanych w RISM w celu opisania instrumentów, w tym głosów wokalnych.
 
-Zasadniczo nazwy rodzin instrumentów (takich jak _strunowe_) występują w języku angielskim, a nazwy poszczególnych instrumentów są skrócone w oparciu o ich nazwę w języku włoskim. Części wokalne pisane są wielkimi literami, a instrumentalne pisane są małymi literami.
+Zasadniczo nazwy rodzin instrumentów (takich jak _strunowe_) występują w języku angielskim, a nazwy poszczególnych instrumentów są skrócone w oparciu o ich nazwę w języku włoskim. Partie wokalne pisane są wielkimi literami, a instrumentalne małymi literami.
 
 Nazwy instrumentów regionalnych, które nie znajdują się na liście, należy wpisać w całości w języku oryginalnym.
 
@@ -11,7 +11,7 @@ Nazwy instrumentów regionalnych, które nie znajdują się na liście, należy 
 - Skróty i pojęcia ogólne
   - Dodatki do dowolnego instrumentu wskazujące zakres
   - Dodatki do dowolnego instrumentu wskazujące typ
-  - Dodatki do dowolnego instrumentu wskazujące strój odmienny od standardowego
+  - Dodatki do dowolnego instrumentu dętego wskazujące strój odmienny od standardowego
   - Nieokreślone lub nieznane typy lub liczby instrumentów
 - Terminy wokalne (głos)
 - Strunowe
