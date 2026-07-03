@@ -1,15 +1,15 @@
-### Contents note (505)
+### Uwaga o zawartości (505)
 
-The field **Contents note** is for information related to the contents of the source.
+W polu **Uwaga o zawartości** wprowadza się dodatkowe informacje o zawartości źródła.
 
-#### Contents note (505 $a)
+#### Uwaga o zawartości (505 $a)
 
-The names of all the pieces within a collection or all the movements with a piece can be entered here. In addition, further information about the contents of the source which does not fit into any other category can be included here, such as:
+Tutaj można wpisać tytuły wszystkich elementów kolekcji lub wszystkie części kompozycji. Ponadto można podać dodatkowe informacje na temat zawartości źródła, kktóre nie mieszczą się w żadnej innej kategorii takie jak:
 
-- Information on different versions of the work
-- Information on the structure of collections
-- The number of verses in strophic songs
-- General structural information about the source
-- Information on the full scoring, if the material is incomplete
+- Informacja na temat różnych wersji utworu
+- Informacja na temat struktury kolekcji
+- Liczba wersów w pieśniach stroficznych
+- Ogólna, strukturalna informacja o źródle
+- Informacja o pełnej obsadzie, jeśli materiał jest niekompletny
 
-Enter using your cataloging language.
+Wprowadzić używając własnego języka katalogowania.
