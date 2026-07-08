@@ -1,6 +1,6 @@
 ### Uwaga ogólna (680)
 
-Pole **Ogólna uwaga** umożliwia dodanie innych uwag dotyczących opisu.
+Pole **Uwaga ogólna** umożliwia dodanie innych uwag dotyczących opisu.
 
 #### Inne uwagi na temat opisu (680 $a)
 
