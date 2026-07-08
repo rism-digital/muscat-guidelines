@@ -1,4 +1,4 @@
-### Note on performance (518)
+### Uwaga o wykonaniach (518)
 
 The field **Note on performance** is for information related to how the source in hand was used in a specific performance. Remarks about performances of the work in general (rather than the source specifically), if relevant, should be entered in the field **General note (500)**.
 
