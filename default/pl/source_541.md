@@ -1,20 +1,20 @@
-### Source of acquisition note (541)
+### Uwaga o źródle nabycia (541)
 
-The field **Source of acquisition note** is for information about how the holding institution acquired the source.
+W polu **Uwaga o źródle nabycia** należy podać informacje o sposobie nabycia źródła przez instytucję.
 
-#### Method of acquisition (541 $c)
+#### Sposób nabycia (541 $c)
 
-Enter information about how the item was acquired, such as gift, bequest, loan, purchase, or deposit. Enter using your cataloging language.
+Należy podać informacje o sposobie nabycia źródła, takie jak dar, spuścizna, wypożyczenie, zakup lub depozyt. Dane te należy wprowadzić używając własnego języka katalogowania.
 
-#### Source of acquisition note (541 $a)
+#### Uwaga o źródle nabycia (541 $a)
 
-Enter information about the person or institution (donor, seller, etc.) from which the institution acquired the source. Enter using your cataloging language.
+Należy wpisać informacje o osobie lub instytucji (darczyńcy, sprzedawcy itp.), od której instytucja pozyskała źródło. Dane te należy wprowadzić używając własnego języka katalogowania.
 
-Enter standardized forms of personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**.
+Należy wpisać ujednolicone formy nazw osobowych w polu **Dodatkowa osoba (700)** oraz instytucje w polu **Dodatkowa instytucja (710)**.
 
-#### Date of acquisition (541 $d)
+#### Data nabycia (541 $d)
 
-Enter dates in the form YYYYMMDD. Replace unknown portions of the dates with a hyphen. Single years may be entered as YYYY. General dates may be indicated as on the source. Separate multiple dates with a comma.
+Daty należy wprowadzić w formacie RRRRRMMDD. Nieznane części dat zastąpić myślnikiem. Pojedyncze lata można wpisać jako RRRR. Ogólne daty można podać tak jak widnieją na źródle. Kilka dat należy oddzielać przecinkiem.
 
 ##### Examples
 
