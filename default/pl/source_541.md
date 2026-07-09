@@ -16,13 +16,13 @@ Należy wpisać ujednolicone formy nazw osobowych w polu **Dodatkowa osoba (700)
 
 Daty należy wprowadzić w formacie RRRRRMMDD. Nieznane części dat zastąpić myślnikiem. Pojedyncze lata można wpisać jako RRRR. Ogólne daty można podać tak jak widnieją na źródle. Kilka dat należy oddzielać przecinkiem.
 
-##### Examples
+##### Przykłady
 
 - 17980215
 - 183209--
 - 1815
 - Easter 1744
 
-#### Accession number (541 $e)
+#### Numer akcesji (541$e)
 
-Enter the accession number here.
+W tym miejscu należy wpisać numer akcesyjny.
