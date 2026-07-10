@@ -1,13 +1,13 @@
-### Language note (546)
+### Uwaga o języku (546)
 
-The field **Language note** is for explanatory information to supplement information entered in the field **Language code (041)**.
+W polu **Uwaga o języku** można podać informację wyjaśniającą, jeśli uzupełniono pole **Kod języka (041)**.
 
-#### Language note (546 $a)
+#### Uwaga o języku (546 $a)
 
-Enter a note on the language(s) used in the source. If this field is filled out, an entry is also required in the field **Language code (041)**. Enter using your cataloging language.
+Wprowadzić uwagę o języku (językach) wykorzystanym w źródle. W przypadku wypełnienia tego pola, konieczne jest uzupełnienie pola **Kod języka (041)**. Należy używać własnego języka katalogowania.
 
-##### Examples
+##### Przykłady
 
-- Probably Italian
-- Berner Dialekt
-- Dedication in Latin. Preface in German.
+- Prawdopodobnie włoski
+- Dialekt berneński
+- Dedykacja po łacinie. Wstęp po niemiecku.

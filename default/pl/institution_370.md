@@ -4,7 +4,7 @@ Pole **Powiązane miejsce** jest używane do zapisywania miejsca powiązanego z 
 
 #### Powiązane państwo (370 $c)
 
-Wpisać kraj, z którym instytucja jest zidentyfikowana.
+Wpisać kraj, z którym instytucja jest identyfikowana.
 
 #### Miejsce zamieszkania/siedziba (370 $e)
 

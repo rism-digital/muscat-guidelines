@@ -1,10 +1,10 @@
 ### Obszar działalności (372)
 
-Pole **Obszar działalności** jest wykorzystywane w celu podania obszaru w jaki instytucja jest zaangażowana, zakres jej kompetencji, odpowiedzialnosci itd. Pole to można multiplifikować, jeśli instytucja działa na wielu obszarach w różnych czasie działalności.
+Pole **Obszar działalności** jest wykorzystywane w celu podania obszaru, w jaki instytucja jest zaangażowana, zakres jej kompetencji, odpowiedzialności itd. Pole to można multiplifikować, jeśli instytucja działa na wielu obszarach w różnych czasie działalności.
 
 #### Obszar działalności (372 $a)
 
-Wprowadź obszar działalnosci w jaki instutucja była zaangażowana.
+Wprowadź obszar działalności w jaki instytucja była zaangażowana.
 
 ##### Przykład
 

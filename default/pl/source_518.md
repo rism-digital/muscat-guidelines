@@ -1,18 +1,18 @@
-### Note on performance (518)
+### Uwaga o wykonaniach (518)
 
-The field **Note on performance** is for information related to how the source in hand was used in a specific performance. Remarks about performances of the work in general (rather than the source specifically), if relevant, should be entered in the field **General note (500)**.
+W polu **Uwaga o wykonaniach** wprowadza się informacje o tym jak źródło było wykorzystywane w kontekście konkretnego wykonania. Uwagi na temat wykonania dzieła w ujęciu ogólnym (zamiast samego źródła), jeżeli stosowne należy podać w polu **Uwaga ogólna (500)**.
 
-#### Note on performance (518 $a)
+#### Uwaga o wykonaniach (518 $a)
 
-Enter information about performances noted on or related to the source here. Enter using your cataloging language. For assistance with the names of performance venues, refer to the list **Opera houses and concert halls**.
+Tutaj należy wprowadzić informacje o wykonaniach naniesionych lub powiązanych ze źródłem. Wprowadzić używając własnego języka katalogowania. W celu sprawdzenia nazw oper i sal koncertowych, należy korzystać z listy **Opery i sale koncertowe**.
 
-Enter the city in standardized form in the field **Location of performance (651)**. Enter the name of the venue in standardized form in the field **Additional institution (710)**. Dates may be added using normal language in accordance with your cataloging language.
+Wprowadzić nazwę miasta w formie ujednoliconej w polu **Miejsce wykonania (651)**. Wprowadzić nazwę instytucji w formie ujednoliconej formie w polu **Instytucja dodatkowa (710)**. Daty mogą być dodawane w normalnym języku zgodnie z Twoim językiem katalogowym.
 
-For printed music, this field should be filled out in the core bibliographic record only in the case of occasional prints (that is, music written for a specific occasion). Performances specific to a certain copy of a printed edition should be entered in the holdings information.
+W przypadku druków muzycznych pole to powinno być wypełnione w rekordzie bibliograficznym tylko w przypadku wydruków okazjonalnych (tzn. muzyka napisana na konkretną okazję). Informacje o wykonaniach powiązanych z konkretnym egzemplarzem powinny zostać zawarte w rekordzie egzemplarza.
 
-##### Examples
+##### Przykłady
 
 - First performance date: 6 September 1791, Prague, National theatre
-- [at foot of title page:] "Performance in Baden Baden on 17 March 1832"
+- [at foot of title page:] „Performance in Baden Baden on 17 March 1832”
 
-**Obsolete procedures**: Older RISM cataloging programs contained two fields for the date of performances, one in the format DD.MM.YYYY and one with other dates that do not fit that format. 
+**Przestarzałe procedury**: Starsze programy katalogowe RISM zawierały dwa pola dotyczące daty wykonania, jedno w formacie DD. M.YYYY i jedno z innymi datami, które nie spełniają tego formatu. 

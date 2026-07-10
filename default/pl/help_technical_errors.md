@@ -2,7 +2,7 @@
 
 #### 1. Nic nie działa!
 
-Nie należy popadać w rozpacz! Jeśli pojawają się problemy, najpierw należy upewnić się, czy użytkownik programu Muscat ma zainstalowaną najnowszą wersję przeglądarki Firefox lub Chrome, być może zachodzi konieczność aktualizacji przeglądarki. Następnie należy spróbować wyczyścić pamięć podręczną. Istnieje kilka sposobów, aby to zrobić, w zależności od komputera:
+Nie należy popadać w rozpacz! Jeśli pojawiają się problemy, najpierw należy upewnić się, czy użytkownik programu Muscat ma zainstalowaną najnowszą wersję przeglądarki Firefox lub Chrome, być może zachodzi konieczność aktualizacji przeglądarki. Następnie należy spróbować wyczyścić pamięć podręczną. Istnieje kilka sposobów, aby to zrobić, w zależności od komputera:
 - Przytrzymać klawisz Shift i kliknąć lewym przyciskiem myszy przycisk Przeładuj
 - Nacisnąć „Ctrl + F5” lub nacisnąć „Ctrl + Shift + R” (Windows, Linux)
 - Wcisnąć „Command + Shift + R” (Mac)
@@ -25,7 +25,7 @@ Dzieje się tak podczas szukania w indeksach. Należy sprawdzić, czy nie jest o
 
 #### 6. Mój incipit najwyraźniej się „zawiesił”.
 
-Należy spróbować kliknąć strzałki „odśwież” lub zapisać zapisany rekord i spróbować ponownie wprowadzić incipit.
+Należy spróbować kliknąć strzałki „odśwież” lub zapisać rekord i spróbować ponownie wprowadzić incipit.
 
 #### 7. Otrzymuję komunikat o błędzie: „Error saving page: this is a stale version”.
 

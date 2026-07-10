@@ -1,6 +1,6 @@
 ## Druki muzyczne w RISM
 
-Sekcja **Druki muzyczne w RISM** przedstawia pewne przemyślenia odnośnie druków muzycznych, w szczegónosci zakresu edycji muzycznych, rekordów bibliograficznych wobec informacji dla egzemplarza, kiedy tworzyć nowy rekord, wprowadzać tytuły standaryzowane, rekrody dla wielu nakładów, koniecznoś podziału rekordów i ich łączenia, a także wydań druków muzycznych z Serii B.
+Sekcja **Druki muzyczne w RISM** przedstawia pewne przemyślenia odnośnie druków muzycznych, w tym z zakresu edycji muzycznych, rekordów bibliograficznych wobec informacji dot. egzemplarza, kiedy tworzyć nowy rekord, wprowadzać tytuły standaryzowane, rekordy dla wielu nakładów, konieczność podziału rekordów i ich łączenia, a także wydań druków muzycznych z Serii B.
 
 ### Zakres druków muzycznych w RISM
 
@@ -12,13 +12,13 @@ RISM bierze pod lupę każdy druk muzyczny, która wymyka się swoim ramom jako 
 
 ### Rekord bibliograficzny wobec danych dla rekordu egzemplarza
 
-Muscat posiada dwustopniową strukturę dla wydań druków muzycznych: poziom danych bibliograficznych i poziom danych egzemplarzy. Informacje prawdziwe dla całego wydania wprowadza się do rekordu bibliograficznego, natomiast dane specyficzne dla egzemplarza, znajdującego się w kolekcji biblioteki wprowadza się do rekordu egzemplarza.
+Muscat posiada dwustopniową strukturę dla wydań druków muzycznych: poziom danych bibliograficznych i poziom danych egzemplarzy. Informacje prawdziwe dla całego wydania wprowadza się do rekordu bibliograficznego, natomiast dane specyficzne dla egzemplarza, znajdującego się w kolekcji biblioteki, wprowadza się do rekordu egzemplarza.
 
-Informacje odnoszące się do poziomu bibliograficznego zawierają: kompozytora, tytuł wydawcy, obsadę, numer wydawniczy oraz format. Informacje typowe dla poziomu egzemplarza zawierają: siglum właściciela, syganturę lub numer inwentarzowy, naniesienia rękopiśmienne, informacje dotyczące poprzednich właścicieli, opraw i pieczęci własnościowych lub proweniencyjnych. Pola MARC w rekordzie egzemplarzy są połączone przez $3.
+Informacje odnoszące się do poziomu bibliograficznego zawierają: kompozytora, tytuł wydawcy, obsadę, numer wydawniczy oraz format. Informacje typowe dla poziomu egzemplarza zawierają: siglum właściciela, sygnaturę lub numer inwentarzowy, naniesienia rękopiśmienne, informacje dotyczące poprzednich właścicieli, opraw i pieczęci własnościowych lub proweniencyjnych. Pola MARC w rekordzie egzemplarzy są połączone przez $3.
 
 ### Kiedy wprowadzić nowy rekord (dla druków muzycznych)
 
-RISM traktuje każdy rękopis jako pozycję unikalną i dlatego też każdy rękopis posiada swój własny rekord RISM. Należy zwrócić uwagę na to, że w Muscat jest ponad 125 000 rekordów druków muzycznych, zatem istnieje duża szana, że rekord dla źródła wydanego przez 1800 rokiem już istnieje, dzięki czemu katalogerzy mogą zauważyć znaczące różnice między katalogowanym źródłem a istniejącym rekordem, co przekłada się na konieczność stworzenia nowego rekordu. Natomiast materiały drukowane różnią się od rękopisów tym, że wiele egzemplarzy tego samego wydania można opisać za pomocą jednego rekordu (poprzez dodanie rekordu egzemplarza i informacji typowych rozróżniajacych dla danego egzemplarza).
+RISM traktuje każdy rękopis jako pozycję unikalną i dlatego też każdy rękopis posiada swój własny rekord RISM. Należy zwrócić uwagę na to, że w Muscat jest ponad 125 000 rekordów druków muzycznych. Istnieje zatem duża szana, że rekord dla źródła wydanego przez 1800 rokiem już istnieje, dzięki czemu katalogerzy mogą zauważyć znaczące różnice między katalogowanym źródłem a istniejącym rekordem, co przekłada się na konieczność stworzenia nowego rekordu. Materiały drukowane natomiast różnią się od rękopisów tym, że wiele egzemplarzy tego samego wydania można opisać za pomocą jednego rekordu (poprzez dodanie rekordu egzemplarza i informacji typowych rozróżniających dla danego egzemplarza).
 
 Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uzasadniają tworzenie nowego rekordu. (W tej części korzystano obszernie z dokumentu [Katalogowanie opisowe zbiorów specjalnych (zbiory muzyczne)](http://rbms.info/dcrm/))
 
@@ -26,13 +26,13 @@ Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uz
 
 - **Inna treść**: Różnice w tytule lub autorach/współautorach. Strefa wydania, która wykazuje korekty, rewizje, rozszerzenia, uproszczenia, lub włączenie materiałów uzupełniających.
 - **Inny wydawca.**
-- **Inny układ druku**: Zmiany w numerach wydawniczych (z wyjątkiem numerów zastępczych). Zmiany w objętości. Zmiana w zakresie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
-- **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji niż podano na stronie tytułowej. Strona tytułowa serii jest nowa. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy.
+- **Inny układ druku**: Zmiany w numerach wydawniczych (z wyjątkiem numerów zastępczych). Zmiany w objętości. Zmiany w zakresie bibliograficznym lub muzycznym. Różnice w zakończeniach pięciolinii i w kustoszach (wykazane w wyniku porównania wielu egzemplarzy).
+- **Inny status wydania**: Usunięto lub wymieniono oryginalną stronę tytułową. Oryginalne wydanie nut wydano w okładce nowego wydawcy zawierającej więcej informacji, niż podano na stronie tytułowej. Strona tytułowa serii jest nowa. Na oryginalnej strefie wydania, dystrybucji, produkcji itd. znajduje się informacja o nowym wydawcy.
 - **Inny numer wydawniczy lub numer wydawcy**.
 
 **Nie należy tworzyć nowego rekordu**, jeżeli opisywana pozycja wykazuje jedną z poniższych różnic. Jeżeli opisywana pozycja posiada _więcej niż jedną_ z poniższych różnic, należy zdecydować, czy nowy rekord jest konieczny.
 
-- Inna strefa oznaczenie druku: na przykład, „Piąty wydruk”
+- Inne oznaczenie druku, na przykład: „Piąty wydruk”
 - Inna drukarnia lub wytwórca, lecz ten sam wydawca
 - Inna data druku, lecz ta sama data wydania
 - Inna obwoluta wydawcy, która nie zawiera dowodów istnienia odrębnej jednostki wydawniczej (np. zmiana koloru materiału)
@@ -41,7 +41,7 @@ Poniżej zamieszczono wskazówki, które pomogą w ustaleniu, które warianty uz
 - Poprawki dokonane w trakcie druku nakładu (poprawki dokonane w trakcie druku)
 - Obecność lub brak erraty
 
-Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakładów, korekt, wariantów opraw odnosząc się do jednego wydania lub nakładu. W danych dla egzemplarza, można wprowadzić szczegóły na temat wariantów i informacji identyfikujących dany egzemplarz.
+Powyższe wytyczne oznaczają, że pojedynczy rekord może opisywać wiele nakładów, korekt, wariantów opraw odnosząc się do jednego wydania lub nakładu. W danych dla egzemplarza można wprowadzić szczegóły na temat wariantów i informacji identyfikujących dany egzemplarz.
 
 #### Przykłady
 
@@ -66,7 +66,7 @@ Druk o numerze RISM 990024126: Gyrowetz, Symphonies, op. 9. Rekord RISM prezentu
 
 #### Tytuły charakterystyczne
 
-Druki muzyczne zawierają inne tytuły znacznie częściej niż rękopisy muzyczne. Przy katalogowaniu druków muzycznych w polu **Tytuł ujednolicony (240)** należy przestrzegać następujących zasad:
+Druki muzyczne zawierają charakterystyczne tytuły znacznie częściej niż rękopisy muzyczne. Przy katalogowaniu druków muzycznych w polu **Tytuł ujednolicony (240)** należy przestrzegać następujących zasad:
 
 1. **Pisownia**
 
@@ -81,7 +81,7 @@ Tytuły ujednolicone należy wprowadzać stosując współczesną ortografię, l
 
 2. **Uzyskiwanie tytułu ujednoliconego z tytuły charakterystycznego**
 
-Tytuły ujednolicone winny składać się tytułu druku aż do miejsca naturalnej przerwy, często przecinka, kropki lub oznaczenia autora, instrumentacji, numeru lub stopki wydawniczej. Czasami charakterystyczny tytuł znajduje się na innej stronie niż strona tytułowa.
+Tytuły ujednolicone powinny składać się tytułu druku aż do miejsca naturalnej przerwy, często przecinka, kropki lub oznaczenia autora, instrumentacji, numeru lub stopki wydawniczej. Czasami charakterystyczny tytuł znajduje się na innej stronie niż strona tytułowa.
 
 ##### Przykłady
 
@@ -95,7 +95,7 @@ Tytuły ujednolicone winny składać się tytułu druku aż do miejsca naturalne
 
 #### Tytuły generyczne
 
-Standardowe wytyczne RISM dla tytułów generycznych mają zastosowanie (patrz **Tytuł ujednolicony (240)**), ale pamiętaj, że w starszych stopkach wydawniczych są często cytowane w literaturze jak by były tytułami charakterystycznymi. Do wprowadzania takich tytułów w ujednoliconej formie służy pole **Tytuł dodatkowy (730)**. Wskazówki można znaleźć w takich opracowaniach jak Grove i MGG, oraz hasłach wzorcowych [Library of Congress](http://id.loc.gov/authorities/names.html) lub Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (stosując standardową pisownię) oraz numer arabski występujący po tytule. Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (stosując standardową pisownię) oraz numer arabski występujący po tytule.
+Standardowe wytyczne RISM dla tytułów generycznych mają zastosowanie (patrz **Tytuł ujednolicony (240)**), ale pamiętaj, że nawet takie tytuły, szczególnie w starszych stopkach wydawniczych, są często cytowane w literaturze jakby były tytułami charakterystycznymi. Do wprowadzania takich tytułów w ujednoliconej formie służy pole **Tytuł dodatkowy (730)**. Wskazówki można znaleźć w takich opracowaniach jak Grove i MGG, oraz hasłach wzorcowych [Library of Congress](http://id.loc.gov/authorities/names.html). Jeżeli tytuł wskazuje, że opisywana pozycja posiada afiliację z inną, poprzez oznaczenie takie, jak libro/Buch/livre lub Teil/part/tomus, należy wprowadzić komponent w języku oryginalnym (stosując standardową pisownię) oraz numer arabski występujący po tytule.
 
 ##### Przykłady
 
@@ -117,7 +117,7 @@ Jeżeli Państwa instytucja posiada wiele egzemplarzy tego samego drukowanego wy
 
 Instead, it is described along with the holdings information of the original copy on which the microfilm is based. If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. If an institution owns a microfilm of a printed edition held by another library, the microfilm is not added as a separate copy. Instead, it is described along with the holdings information of the original copy on which the microfilm is based. Jeśli mikrofilm jest dostępny cyfrowo, link można dodać do pola Zasób zewnętrzny (856).
 
-Jeżeli twoja instytucja posiada mikrofilm wydania muzycznego, który nie jest już dostępny w oryginalnej formie, skataloguj go jako wydanie i dodaj siglum swojej instytucji w rekordzie egzemplarza. Wskaż w rekordzie egzemplarza, że egzemplarz jest zachowany w formie mikrofilmu.
+Jeżeli twoja instytucja posiada mikrofilm wydania muzycznego, które nie jest już dostępne w oryginalnej formie, skataloguj go jako wydanie i dodaj siglum swojej instytucji w rekordzie egzemplarza. Wskaż w rekordzie egzemplarza, że egzemplarz jest zachowany w formie mikrofilmu.
 
 #### Przykłady
 - ID RISM nr 990052954, egzemplarz w B-Bc:  
@@ -129,7 +129,7 @@ Jeżeli twoja instytucja posiada mikrofilm wydania muzycznego, który nie jest j
 ### Podział i łączenie rekordów
 
 #### Kontekst
-Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Podjęto wiele uproszczeń związanych z wyzwaniem zestawienia danych z kart katalogowych z międzynarodowej sieci instytucji współpracujących z RISM i ograniczeniami przestrzeni w drukowanych katalogach RISM. Woluminy publikowane w ramach serii RISM A/I, B/I, and B/II ujmowały w jednym rekordzie często wiele wydań, wskazując właściwości różnicujące, ale bez ich dalszego opracowania. Jednocześnie zdarzało się, że współpraca z wieloma katalogerami generowała nieświadomie wiele opisów tego samego wydania, znajdującyego się w różnych lokalizacjach.
+Pierwsze projekty RISM w latach 1950-1970 dotyczyły druków muzycznych. Podjęto wiele uproszczeń związanych z wyzwaniem zestawienia danych z kart katalogowych z międzynarodowej sieci instytucji współpracujących z RISM i ograniczeniami przestrzeni w drukowanych katalogach RISM. Woluminy publikowane w ramach serii RISM A/I, B/I, and B/II ujmowały w jednym rekordzie często wiele wydań, wskazując właściwości różnicujące, ale bez ich dalszego opracowania. Jednocześnie zdarzało się, że współpraca z wieloma katalogerami skutkowała nieświadomym wytwarzaniem wielu opisów tego samego wydania, znajdującego się w różnych lokalizacjach.
 
 Dzisiejsze środowisko online daje elastyczność opisu jednego wydania za pomocą jednego rekordu. Oznacza to, że wspólne rekordy opisujące wiele edycji powinny zostać rozdzielone, a wielokrotne opisy tego samego wydania połączone.
 
@@ -169,7 +169,7 @@ W przypadku podziału rekordów, numer serii A/I lub B/I RISM jest przenoszony d
 
 Katalogerzy powinny być świadomi, że w bazie czasami można znaleźć duplikaty. Niektóre duplikaty swoje początki mają w drukowanych seriach RISM A/I lub B: pasticcia lub inne dzieła wydane przez kilku autorów wpisywano pod wieloma kompozytorami, podczas gdy wydanie zaklasyfikowane w serii B/I również było publikowane w serii A/I, więc było po prostu dwukrotnie dodane w ramach długiej listy. Ponadto niekiedy katalogerzy nieumyślnie tworzą duplikaty już istniejących rekordów.
 
-Zduplikowane rekordy nie są dozwolone i muszą być scalone po zidentyfikowaniu. Podczas łączenia rekordów obowiązują kryteria dotyczące tego, jaki rekord będzie ostateczny i jaki rekord zostanie połączony. Pierwszeństwo nadaje się rekordowi z serii A/I lub B/I (zazwyczaj możliwe do zidentyfikowania za pomocą numeru identyfikacyjnego RISM, który zaczyna się od 990 lub 993) oraz starszy rekord jest preferowany wobec nowszego (można zweryfikować przez datę utworzenia rekordu). Egzemplarze są przenoszone do finalnego rekordu bibliograficznego i jeśli na podstawie tego źródła stworzono rekord bibliograficzny, egzemplarz wykorzystywany jest jako egzemplarz kontrolny. Notatka taka jak „Ten rekord został scalony z ID RISM nr Notatka taka jak „Ten rekord został scalony z ID RISM nr Notatka taka jak „Ten rekord został scalony z ID RISM nr Notatka taka jak „Ten rekord został scalony z ID RISM nr XXX” jest zawsze uwzględniany w celu śledzenia historii starych numerów RISM. Notatka taka jak „Ten rekord został scalony z ID RISM nr Notatka taka jak „Ten rekord został scalony z ID RISM nr Notatka taka jak „Ten rekord został scalony z ID RISM nr XXX” jest zawsze uwzględniany w celu śledzenia historii starych numerów RISM.
+Zduplikowane rekordy nie są dozwolone i muszą być scalone po zidentyfikowaniu. Podczas łączenia rekordów obowiązują kryteria dotyczące tego, jaki rekord będzie ostateczny i jaki rekord zostanie połączony. Pierwszeństwo nadaje się rekordowi z serii A/I lub B/I (zazwyczaj możliwe do zidentyfikowania za pomocą numeru identyfikacyjnego RISM, który zaczyna się od 990 lub 993) oraz starszy rekord jest preferowany wobec nowszego (można zweryfikować przez datę utworzenia rekordu). Egzemplarze są przenoszone do finalnego rekordu bibliograficznego i jeśli na podstawie tego źródła stworzono rekord bibliograficzny, egzemplarz wykorzystywany jest jako egzemplarz kontrolny. Notatka taka jak „Ten rekord został scalony z ID RISM nr XXX” jest zawsze uwzględniana w celu śledzenia historii starych numerów RISM .
 
 
 ##### Procedura
@@ -178,4 +178,4 @@ Podziały i łączenie rekordów może być przeprowadzane wyłącznie przez Edi
 
 #### Wydania z serii B
 
-Editorial Center zaimportowało automatycznie rekordy z serii A/I i B/I. Podczas gdy dalszy autmatyczny import jest planowany dla innych woluminów z serii B, jest mile widziane i pożądane, aby współpracujący z RISM dodawali ręcznie wydania z serii B. Podczas gdy dalszy autmatyczny import jest planowany dla innych woluminów z serii B, jest mile widziane i pożądane, aby współpracujący z RISM dodawali ręcznie wydania z serii B. Robiąc to, uzupełnij pole **Seria RISM (510)** w celu wskazania, w której serii znajduje się dane wydanie. Powiadom Editorial Center o takich uzupełnieniach, abyśmy mogli dodać inne egzemplarze instytucji zgodnie z opisami w woluminach serii B.     
+Editorial Center zaimportowało automatycznie rekordy z serii A/I i B/I. Podczas gdy dalszy automatyczny import jest planowany dla innych woluminów z serii B, jest mile widziane i pożądane, aby współpracujący z RISM dodawali ręcznie wydania z serii B. Robiąc to, uzupełnij pole **Seria RISM (510) ** w celu wskazania, w której serii znajduje się dane wydanie. Powiadom Editorial Center o takich uzupełnieniach, abyśmy mogli dodać inne egzemplarze instytucji zgodnie z opisami w woluminach serii B.     

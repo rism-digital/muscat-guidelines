@@ -1,10 +1,10 @@
 ### Odnalezione źródło danych (670)
 
-Formy nazwy różniącę się od formy podanej w polu **Nagłówek - osoba (100 $a)** należy wpisać w polu **Alternatywna nazwa osoby (400 $a)**. Pole **Odnalezione źródło danych** służy jako źródło informacji dla wykorzystanej literatury pomocniczej podczas tworzenia nazw, dostarczając form nazw i dat znalezionych w nim.
+Pole **Odnalezione źródło danych** służy jako źródło informacji dla wykorzystanej literatury pomocniczej podczas tworzenia nazw, dostarczając form nazw i dat znalezionych w nim.   Formy nazwy różniące się od formy podanej w polu **Nagłówek - osoba (100 $a)** należy wpisać w polu **Alternatywna nazwa osoby (400 $a)**.
 
 #### Odnalezione źródło danych (670 $a)
 
-Wprowadź skrócony tytuł, z którego korzystano. To pole jest połączone z kartoteką haseł wzorcowych **Literatura pomocnicza** porzez $w.
+Wprowadź skrócony tytuł, z którego korzystano. To pole jest połączone z kartoteką haseł wzorcowych **Literatura pomocnicza** poprzez $w.
 
 #### Cytowane źródło (670 $9)
 

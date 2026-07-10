@@ -1,7 +1,7 @@
-### Supplementary material (525)
+### Materiał uzupełniający (525)
 
-The field **Supplementary material** is for material that accompanies the source being described.
+W polu **Materiał uzupełniający** należy wymienić materiały towarzyszące opisywanemy źródłu.
 
-#### Supplementary material (525 $a)
+#### Materiał uzupełniający (525 $a)
 
-Mention material that accompanies the source, such as program notes, reviews, etc. Enter using your cataloging language.  
+Należy wymienić materiały towarzyszące źródłu, takie jak uwagi programowe, recenzje itd. Należy stosować własny język katalgowania.  

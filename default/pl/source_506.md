@@ -1,12 +1,12 @@
-### Access restrictions (506)
+### Ograniczenia w dostępie (506)
 
-The field **Access restrictions** is for the terms and conditions of the holding institution.
+W polu **Ograniczenia w dostępie** podaje się warunki udostępniania, jakie obowiązują w instytucji przechowującej.
 
-#### Access restrictions (506 $a)
+#### Ograniczenia w dostępie (506 $a)
 
-Enter any access restrictions as determined by the holding institution. Enter using your cataloging language.
+Wprowadź wszelkie informacje dotyczące ograniczenia dostępu do źródła określone przez instytucję przechowującą. Dane należy wprowadzić używając własnego języka katalogowania.
 
-##### Examples
+##### Przykłady
 
-- Consultation in the reading room.
-- Reproductions upon request (charges may apply).
+- Udostępnianie na miejscu, w czytelni.
+- Możliwość wykonania reprodukcji na życzenie (mogą obowiązywać opłaty).

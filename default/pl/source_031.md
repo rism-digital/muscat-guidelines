@@ -1,17 +1,17 @@
 ### Incipit (031)
 
-Pole **Incipt** służy dostarczenia informacji muzycznej za pośrednictwem kilku otwierajacych taktów kompozycji zarówno dla warstwy muzycznej jak i tekstowej. Incipity pomagają w identyfikacji kompozycji i ułatwiają porównywanie źródeł. Najlepszą praktyką dla muzyki instrumentalnej jest włączanie incipitów z partii wysokiej i niskiej, takich jak vl 1 i bas. W przypadku muzyki wokalnej należy uwzględnić incipity z najwyższego głosu i pierwszych skrzypiec lub najwyższej partii instrumentalnej.
+Pole **Incipit** służy do dostarczania informacji muzycznej za pośrednictwem kilku początkowych taktów kompozycji, zarówno dla warstwy muzycznej, jak i tekstowej. Incipity pomagają w identyfikacji kompozycji i ułatwiają porównywanie źródeł. Najlepszą praktyką dla muzyki instrumentalnej jest włączanie incipitów z partii wysokiej i niskiej, takich jak vl 1 i bas. W przypadku muzyki wokalnej należy uwzględnić incipity z najwyższego głosu i pierwszych skrzypiec lub najwyższej partii instrumentalnej.
 
 Jeśli potrzebna notacja nie jest dostępna przy użyciu kodu Plaine & Easie, należy możliwie jak najlepiej przetranskrybować muzykę i dołączyć notatkę objaśniającą. W celu dalszego wyjaśnienia można załączyć obraz incipitu ze źródła.
 
-Pamiętaj, że transkrypcja incipitów jest wykorzystywana przede wszystkim do wyszukiwania i identyfikacji, a nie do wizualnego odworowania partytury. Kod Plaine & Easie jest celowym uproszczeniem notacji zachodniej i w zwiazku z tym nie wszystkie szczegóły mogą (lub powinny) być kodowane.
+Pamiętaj, że transkrypcja incipitów jest wykorzystywana przede wszystkim do wyszukiwania i identyfikacji, a nie do wizualnego odwzorowania partytury. Kod Plaine & Easie jest celowym uproszczeniem notacji zachodniej i w związku z tym nie wszystkie szczegóły mogą (lub powinny) być kodowane.
 
 Aby uzyskać pomoc w transkrypcji notacji menzuralnej, zobacz [„Podstawowy notacji menzuralnej” autorstwa Teda Dumitrescu](http://www.cmme.org/misc/refsheet.pdf).
 
 <!-- Note to translators: If you know of a standard reference document or website for transcribing mensural notation in your language, please use that instead. If not, feel free to link to this English document. -->  
 
 _Notatka eksport MARC:_  
-Rekordy, które zawierają inicpit (cokolwiek w polu 031) otrzymają przy zapisywaniu adnotację marc $2pe, wskazując, że incipit został utworzony przy użyciu kodu Plaine & Easie.
+Rekordy, które zawierają incipit (cokolwiek w polu 031) otrzymają przy zapisywaniu adnotację marc $2pe, wskazując, że incipit został utworzony przy użyciu kodu Plaine & Easie.
 
 #### Numer utworu, numer części, numer incipitu (031 $a, b, c)
 
@@ -19,11 +19,11 @@ Rekordy, które zawierają inicpit (cokolwiek w polu 031) otrzymają przy zapisy
 
 Numer incipitu składa się z trzech cyfr, które oznaczają utwór, część i incipit.
 
-Pierwszą cyfrą jest zawsze 1. Numer utworu odnosi się do pozycji incipitu w danym rekordzie, a nie do pozycji w całym źródle. Utwory w RISM katalogowane są jako osobne rekordy przy użyciu hierarchii rodziców/dzieci, w związku z czym kaązdy rekord ma jeden utwór.
+Pierwszą cyfrą jest zawsze 1. Numer utworu odnosi się do pozycji incipitu w danym rekordzie, a nie do pozycji w całym źródle. Utwory w RISM katalogowane są jako osobne rekordy przy użyciu hierarchii rodziców/dzieci, w związku z czym każdy rekord ma jeden utwór.
 
-Części odnoszą się zarówno do utworów jak i do istotnych części utworu, niezależnie od tego, czy są to części w sensie technicznym (np. symfonii), czy też różne sekcje utworu (np. aria). Numery części mogą być identyczne, jeżeli istnieje wiele incipitów dla części.
+Części odnoszą się zarówno do utworów, jak i do istotnych części utworu, niezależnie od tego, czy są to części w sensie technicznym (np. symfonii), czy też różne sekcje utworu (np. aria). Numery części mogą być identyczne, jeżeli istnieje wiele incipitów dla części.
 
-Numer incipitu jest osadzony w hierarchii części uwtoru. Takie same numery części, ale różne numery incipitów oznaczają, że incipity brzmią jednocześnie np. vl 1 i bas.
+Numer incipitu jest osadzony w hierarchii części utworu. Takie same numery części, ale różne numery incipitów oznaczają, że incipity brzmią jednocześnie np. vl 1 i bas.
 
 ##### Przykłady
 
@@ -34,7 +34,7 @@ Numer incipitu jest osadzony w hierarchii części uwtoru. Takie same numery cz�
 
 Kropki pomiędzy numerami są automatycznie dodawane przez Muscat.
 
-Trzycyfrowy numer incipitu musi być unikalny w ramach rekordu. Numeracja incipitów powinna odzwierciedlać porządek w rekordzie. Incipit nie może sugerować swojej pozycji w kolekcji w źródle. Numeracja w ramach źródła powinna być ujęta opisie tytułu, a wszelkie cechy szczególne powinny zostać wyrażone w uwadze. Oznacza to, że numeracja incipitu czwartej pieśni w kolekcji będzie oznaczona jako 1.1.1 jak każda z pieśni kolekcji.
+Trzycyfrowy numer incipitu musi być unikalny w ramach rekordu. Numeracja incipitów powinna odzwierciedlać porządek w rekordzie. Incipit nie może sugerować swojej pozycji w kolekcji w źródle. Numeracja w ramach źródła powinna być ujęta w opisie tytułu, a wszelkie cechy szczególne powinny zostać wyrażone w uwadze. Oznacza to, że numeracja incipitu czwartej pieśni w kolekcji będzie oznaczona jako 1.1.1 jak każda z pieśni kolekcji.
 
  Incipity należy numerować kolejno, nawet jeśli w źródło jest wybrakowane. Na przykład, jeśli brakuje jednej pieśni w kolekcji 6 pieśni, numer utworu każdego incipitu zawsze będzie się zaczynał od wartości 1. Jeżeli źródłem jest symfonia trzyczęściowa, ale brakuje części środkowej, incipity będą ponumerowane 1.1.1 i 1.2.1 (nie 1.3.1).
 
@@ -47,12 +47,12 @@ Należy wpisać tytuł części i tempo lub podobne wskaźniki, jeśli takowe zo
 - All|o
 - [vol. 1 p. 17:] N. 1: Recit. et Aria
 
-**Przestarzałe procedury**: Starsze wytyczne RISM umożliwiały korzystanie ze sformułowania „Without tempo” na wskazanie, że część ma kilka oznaczeń tempa, z czego jeden lub kilka nie jest znanych. Wielokrotne oznaczenia tempa były wprowadzone po sobie, oddzielone średnikami.
+**Przestarzałe procedury**: Starsze wytyczne RISM umożliwiały korzystanie ze sformułowania „Without tempo” na wskazanie, że część ma kilka oznaczeń tempa, z czego jedno lub kilka nie jest znanych. Wielokrotne oznaczenia tempa były wprowadzone po sobie, oddzielone średnikami.
 
 
 #### Głos/instrument (031 $m)
 
-Partię wokalną lub instrumentalną należy wpisać korzystając z listy **skrótów instrumentów RISM**. W przypadku nieustalonego głosu należy wpisać **V**. W przypadku nieustalonej partii instrumentalnej należy wpisać **i**. Strój instrumentu należy podać w polu **Uwaga ogólna**. Jeżeli instrument transponuje, jego incipit należy zapisać tak jak jhest zanotowany lub jak brzmi. W polu **Uwaga ogólna (031 $q)**, wskaż jaka metoda została zastosowana.
+Partię wokalną lub instrumentalną należy wpisać, korzystając z listy **skrótów instrumentów RISM**. W przypadku nieustalonego głosu należy wpisać **V**. W przypadku nieustalonej partii instrumentalnej należy wpisać **i**. Strój instrumentu należy podać w polu **Uwaga ogólna**. Jeżeli instrument transponuje, jego incipit należy zapisać tak jak jhest zanotowany lub jak brzmi. W polu **Uwaga ogólna (031 $q)**, wskaż jaka metoda została zastosowana.
 
 ##### Przykłady
 
@@ -60,7 +60,7 @@ Partię wokalną lub instrumentalną należy wpisać korzystając z listy **skr�
 - Coro T
 - org with text
 
-**Przestarzałe procedury**: Starsze wytyczne RISM wymagały zapisywania incipitów muzycznych dla transponujących instrumentów, w sposób jaki brzmią.
+**Przestarzałe procedury**: Starsze wytyczne RISM wymagały zapisywania incipitów muzycznych dla transponujących instrumentów w sposób, w jaki brzmią.
 
 #### Rola (031 $e)
 
@@ -70,7 +70,7 @@ Tutaj należy wprowadzić ujednoliconą nazwę roli dramatycznej. Jeśli wypełn
 
 Incipit tekstowy składa się z kilku pierwszych słów utworu lub części i może być pierwszą linijką, pierwszą frazą lub inną grupą słów, które mają sens językowy. Incipity tekstowe służą do identyfikacji użytego tekstu i niekoniecznie muszą pasować do długości muzyki podanej w incipicie muzycznym. Incipit tekstowy można uwzględnić niezależnie od tego, czy jest podany na źródle. Należy pamiętać, że do tekstów sporządzonych w języku łacińskim mają zastosowanie odrębne zasady (patrz poniżej).
 
-Incipity tekstowe podaje się w formie ujednoliconej. Incipity tekstowe należy wprowadzać przy użyciu współczesnej pisowni. W celu znormalizowania wpisu należy odwołać się do kartoteki haseł wzorcowych **Tytuły/incipity tekstowe**. Jeśli nie ma ich w kartotece, należy wpisać dodać nowe incipity.
+Incipity tekstowe podaje się w formie ujednoliconej. Incipity tekstowe należy wprowadzać przy użyciu współczesnej pisowni. W celu znormalizowania wpisu należy odwołać się do kartoteki haseł wzorcowych **Tytuły/incipity tekstowe**. Jeśli nie ma ich w kartotece, należy dodać nowe incipity.
 
 Nie należy umieszczać fragmentów tekstu w nawiasach lub podawać brakujących słów. W tekście nie należy umieszczać znaków interpunkcyjnych i powtórzeń.
 
@@ -78,7 +78,7 @@ Akcentów należy używać tylko w takiej formie, w jakiej pojawiają się w sł
 
 Należy całkowicie pominąć tekst, jeśli nie można go przeczytać i należy dodać adnotację „Tekst nieczytelny” lub podobną.
 
-W językach romańskich, kontynuuj wpisywanie tekstu bezpośrednio po apostrofie i bez spacji. Wyjątkiem od tej reguły jest sytuacja, gdy pierwszą literę słowa zastępuje apostrof (na przykład: Fra l'amante e 'l genitor).
+W językach romańskich kontynuuj wpisywanie tekstu bezpośrednio po apostrofie i bez spacji. Wyjątkiem od tej reguły jest sytuacja, gdy pierwszą literę słowa zastępuje apostrof (na przykład: Fra l'amante e 'l genitor).
 
 Można tu podać sprawdzone lub pochodne teksty, które nie pojawiają się w źródle. W takich przypadkach należy umieścić cały tekst w nawiasach kwadratowych. Są to między innymi:
 
@@ -86,11 +86,11 @@ Można tu podać sprawdzone lub pochodne teksty, które nie pojawiają się w ź
 - Incipity tekstowe w oryginalnym języku utworu, gdy źródło zawiera przetłumaczoną wersję
 - Teksty kompozycji wokalnych, które stały się tematem wariacji lub podstawą aranżacji instrumentalnej
 
-**Alfabety niełacińskie::** Jeśli w źródle znajduje się incipit tekstowy, który zawiera litery lub znaki niełacińskie (cyrylica/alfabet grecki, hebrajski/koreański itd., znaki chińskie itp.), tenże **Incipit tekstowy** należy wprowadzić przy użyciu oryginalnego alfabetu. Tłumaczenia lub transliteracje są opcjonalne i można je dodawać w dodatkowych polach incipitu tekstowego. Tłumaczenia nie znajdujące się w źródle należy dodawać w nawiasach. Można tłumaczyć na dowolny język RISM.
+**Alfabety niełacińskie::** Jeśli w źródle znajduje się incipit tekstowy, który zawiera litery lub znaki niełacińskie (cyrylica/alfabet grecki, hebrajski/koreański itd., znaki chińskie itp.), tenże **Incipit tekstowy** należy wprowadzić przy użyciu oryginalnego alfabetu. Tłumaczenia lub transliteracje są opcjonalne i można je dodawać w dodatkowych polach incipitu tekstowego. Tłumaczenia nieznajdujące się w źródle należy dodawać w nawiasach. Można tłumaczyć na dowolny język RISM.
 
-**Specjalne zasady dla tekstów w języku łacińskim:** Należy wprowadzić teksty łacińskie, zarówno sakralne, jak i świeckie. Jeżeli insipit tekstowy jest wykorzystwyany jako tytuł ujednolicony, dopilnuj aby pisownia była identyczna, ale pamiętaj że teksty łacińskie w tytułach ujetnoliconych wprowadza się tylko do pojawienia sę przecinka. Należy użyć nawiasów kwadratowych, aby wprowadzić teksty łacińskie, których nie podano w źródle, ale które ustalono w wyniku badań.
+**Specjalne zasady dla tekstów w języku łacińskim:** Należy wprowadzić teksty łacińskie, zarówno sakralne, jak i świeckie. Jeżeli incipit tekstowy jest wykorzystywany jako tytuł ujednolicony, dopilnuj, aby pisownia była identyczna, ale pamiętaj, że teksty łacińskie w tytułach ujednoliconych wprowadza się tylko do pojawienia się przecinka. Należy użyć nawiasów kwadratowych, aby wprowadzić teksty łacińskie, których nie podano w źródle, ale które ustalono w wyniku badań.
 
-Standardowe teksty łacińskie zazwyczaj pasują do tekstów wystąpującyh w _Liber usualis_. W RISM teksty te zazwyczaj zawierają przecinek. Na przykład, w przypadku szukania tekstu „Et in terra pax”, wyświetla się około tuzina opcji, ale tylko jedna ma przecinek i tego źródła używa się w bazie danych 4 800 razy. Dlatego jest to ten poszukiwany tekst – zakładając, że pasuje on do danego źródła. Jeśli incipit tekstowy zawiera tylko „Et in terra pax”, oznacza to, że źródło (1) zawiera tylko te słowa lub (2) jego ciąg dalszy jest inny niż w _Liber usualis_. Jest to oczywiście możliwe, ale w większości przypadków pożądana jest wersja z przecinkiem.
+Standardowe teksty łacińskie zazwyczaj pasują do tekstów występujących w _Liber usualis_. W RISM teksty te zazwyczaj zawierają przecinek. Na przykład, w przypadku szukania tekstu „Et in terra pax”, wyświetla się około tuzina opcji, ale tylko jedna ma przecinek i tego źródła używa się w bazie danych 4 800 razy. Dlatego jest to ten poszukiwany tekst – zakładając, że pasuje on do danego źródła. Jeśli incipit tekstowy zawiera tylko „Et in terra pax”, oznacza to, że źródło (1) zawiera tylko te słowa lub (2) jego ciąg dalszy jest inny niż w _Liber usualis_. Jest to oczywiście możliwe, ale w większości przypadków pożądana jest wersja z przecinkiem.
 
 
 #### Tonacja lub modus (031 $r)
@@ -291,7 +291,7 @@ Jeżeli klucz zmienia się w obrębie incipitu, użyj znaku **%** w celu zmiany 
 
 ##### 13. Zmiana tonacji
 
-Jeżeli tonacja, zmienia się w obrębnie incipitu, użyj znaku **$** w celu zmiany tonacji. Następnie podaj nową toncję za pomocą oznaczeń znaków przykluczowych i spację. Zmiana tonacji może być wprowadzona tylko raz w ramach taktu. Możesz anulować poprzednią zmianą tonacji używając znaku $n lub wprowadzić nową nową tonację poprzez oznaczenia znaków przykluczowych.
+Jeżeli tonacja zmienia się w obrębie incipitu, użyj znaku **$** w celu zmiany tonacji. Następnie podaj nową tonację za pomocą oznaczeń znaków przykluczowych i spację. Zmiana tonacji może być wprowadzona tylko raz w ramach taktu. Możesz anulować poprzednie oznaczenie tonacji używając znaku $n, lub wprowadzić nową tonację poprzez oznaczenia znaków przykluczowych.
 
 ###### Przykłady
 
@@ -308,7 +308,7 @@ Jeżeli metrum zmienia się w obrębie incipitu, użyj znaku **@** w celu zmiany
 
 ##### 16. Akordy
 
-Skrócone formy notacji występujące w nutach, takie jak tremola lub znaki simile, należy wpisać w całości stosując występującą w źródle notację.
+Skrócone formy notacji występujące w nutach, takie jak tremola lub oznaczenia simile, należy wpisywać w całości, stosując występującą w źródle notację.
 
 ###### Przykład
 
@@ -328,15 +328,15 @@ Wprowadzić akordy od najwyższej do najniższej nuty, oddzielone znakiem **^**.
 
 Tu należy wprowadzić wszelkie inne uwagi, takie jak wysokość dźwięku transponowanych instrumentów, błędy w incipicie, incipit tekstowy w oryginalnej pisowni i/lub z oryginalną interpunkcją, lub wszelkie inne dokonane adiustacje. Wprowadzać stosując używany przez Państwa język katalogowania.
 
-**Przestarzałe procedury**: Starsze wytyczne katalogowania RISM pozwolalały na użycie symboli **?**, **+**i **t** odzwierciedlając znormalizowane uwagi. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat i zamiast tego informacje wyjaśniające w są umieszczane w polu **Uwaga ogólna (031 $q)**. Były następujące symbole:
+**Przestarzałe procedury**: Starsze wytyczne katalogowania RISM pozwolalały na użycie symboli **?**, **+**i **t** odzwierciedlając znormalizowane uwagi. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat i zamiast tego informacje wyjaśniające w są umieszczane w polu **Uwaga ogólna (031 $q)**. Symbole były następujące:
 - **?** = Błąd w incipicie nie mógł zostać skorygowany.
-- **+** = Błąd w incipicie został poprawiony
-- **t** = Incipity został przetranskrybowany do współczesnej notacji
+- **+** = Błąd w incipicie został poprawiony.
+- **t** = Incipit został przetranskrybowany do współczesnej notacji.
 
 
 #### Obsada w części (031 $z)
 
-W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie rozbudowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w polu **Podsumowanie obsady [240 $m]**). Do oddzielenia grup instrumentów należy należy stosować znak średnika.
+W tym polu należy podać konkretną obsadę danej części (takiej, jak np. część w obrębie rozbudowanego utworu wokalnego). Obsadę należy podać w jednej linii stosując skróty instrumentów RISM i standardową kolejność (opisaną w polu **Podsumowanie obsady [240 $m]**). Do oddzielenia grup instrumentów należy stosować znak średnika.
 
 ##### Przykłady
 

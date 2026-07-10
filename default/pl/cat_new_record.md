@@ -6,13 +6,13 @@ Nowy rekord można utworzyć w Muscat poprzez wybranie odpowiedniego szablonu lu
 
 Muscat oferuje możliwość wyboru szablonu, w zależności od rodzaju katalogowanego źródła. Szablon zawiera tylko te pola, które są potrzebne do skatalogowania danego źródła.
 
-Jeżeli zauważysz, że rekord skatalgoowany jest w nieodpowiednim szablonie, poinformuj RISM Editorial Center w celu zmiany szablonu.
+Jeżeli zauważysz, że rekord skatalogowany jest w nieodpowiednim szablonie, poinformuj RISM Editorial Center w celu zmiany szablonu.
 
 ### Dostępne szablony
 
 Rekord dla **Kolekcji** (rekord macierzysty) jest stosowany, gdy źródło składa się z wielu pozycji. Każda pozycja kolekcji jest dodawana jako **Pozycja w tym źródle** (rekord dziecko) i połączona z rekordem kolekcji. Rękopisy i druki muzyczne mogą również funkcjonować jako **Samodzielne pozycje** i nie być częscią kolekcji.
 
-**Klocek introligatorski** składa się z pozycji powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków jak ja woluminy połączonych druków z rękopisami.
+**Klocek introligatorski** składa się z pozycji powstałych niezależnie, które wtórnie zostały ze sobą połączone zazwyczaj przez właściciela czy instytucję. Klocek introligatorski może zawierać zarówno woluminy złączonych pojedynczych druków jak i woluminy połączonych druków z rękopisami.
 
 Manuscripts are unique to a library and can only be owned by one institution. Druki muzyczne posiadają egzemplarze, co oznacza że wiele bibliotek jest właścicielem kopii (egzemplarzy) danego wydania.
 
@@ -20,7 +20,7 @@ Takie publikacje są czasami nazywane zbiorami tekstów pieśni, książkami kie
 
 Szablon dedykowany traktatom jest wykorzystywany do źródeł, które podejmują teoretyczne aspekty muzyki, w tym aspekty kompozycji czy wykonawstwa.
 
-Zarówno szablony dedykowane librettom jak i traktatom mogą zawierać zapis nutowy, a proporcje między zawartością nut do tekstu nie zawsze jest wyraźny.
+Zarówno szablony dedykowane librettom jak i traktatom mogą zawierać zapis nutowy, a proporcja między zawartością nut do tekstu nie zawsze jest wyraźna.
 
 Następujące szablony są używane w Muscat dla Źródeł. Szablony są kodowane w pozycji 6-7 Lider rekordu MARC.
 
@@ -64,6 +64,6 @@ Można to zrobić na ekranie szablonu: wystarczy wpisać numer RISM w polu „Ut
 
 Alternatywnie, można skopiować rekord w trybie przeglądania z widoku pełnego rekordu, klikając przycisk „Duplikuj” na pasku bocznym po prawej stronie. Wówczas na ekranie ukaże się kopia rekordu w trybie edycji.
 
-Katalogorze mogą duplikować każdy rekord w Muscat, w tym rekordy, które zostały utworzone przez inną bibliotekę. Jednocześnie, obowiazują zasady uprawnień do trybu edycji rekordów, tzn. jeśli kataloger nie posiada uprawnień do siglum danej instytucji, to nie może zapisać rekordu z danym siglum. Duplikowanie rekordów oszczędza czas podczas katalogowania własnych kolekcji (szczególnie jeśli zawartość jest podobna), ale katalogerzy mogą również korzystać z rekordów utworzonych przez inne biblioteki, w szczególności jeżeli rekordy posiadają liczne incipity muzyczne lub w przypadku katalogowania reprintów, których zawartość jest taka sama lub podobna. Tylko jeden rekord na raz może być powielony.
+Katalogorzy mogą duplikować każdy rekord w Muscat, w tym rekordy, które zostały utworzone przez inną bibliotekę. Jednocześnie, obowiazują zasady uprawnień do trybu edycji rekordów, tzn. jeśli kataloger nie posiada uprawnień do siglum danej instytucji, to nie może zapisać rekordu z danym siglum. Duplikowanie rekordów oszczędza czas podczas katalogowania własnych kolekcji (szczególnie jeśli zawartość jest podobna), ale katalogerzy mogą również korzystać z rekordów utworzonych przez inne biblioteki, w szczególności jeżeli rekordy posiadają liczne incipity muzyczne lub w przypadku katalogowania reprintów, których zawartość jest taka sama lub podobna. Tylko jeden rekord na raz może być powielony.
 
 Kod Plaine & Easie może zostać skopiowany z widoku pełnego rekordu dla każdego rekordu. Powyżej incipitu muzycznego należy kliknąć w link **Kod PAE**, skopiować i wkleić kodowanie incipitu muzycznego, który jest wyświetlany.

@@ -1,10 +1,10 @@
 ### Obecnie w (580)
 
-Pole **Obecnie w** jest wykorzystywane w sytuacji kiedy egzemplarze danej instytucji zostały przeniesione do innej.
+Pole **Obecnie w** jest wykorzystywane w sytuacji, kiedy egzemplarze danej instytucji zostały przeniesione do innej.
 
 #### Obecnie w (580 $x)
 
-Wprowadź tu nazwę instytucji, która jest obecnym właścicielem. To pole połączone jest z kartoteką haseł wzorcowych **Instytucje** pooprzez $0.
+Wprowadź tu nazwę instytucji, która jest obecnym właścicielem. To pole połączone jest z kartoteką haseł wzorcowych **Instytucje** poprzez $0.
 
 ##### Przykład
 

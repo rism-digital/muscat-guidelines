@@ -1,6 +1,6 @@
 # Obiekty cyfrowe
 
-Baza danych **Obiektów cyfrowych**zawiera wszystkie obrazy, które zostały przesłane do Muscat. Baza danych jest przeznaczona do przechowywania i wyświetlania pojedynczych obrazów, które służą do zilustrowania danego punktu w rekordzie, takiego jak znak wodny, oprawa lub próbka pisma ręcznego. Jest również miejscem przechowywania inicpitów w formacie MEI. Obrazy można łączyć z rekordami źródłowymi, jak również z rekordami wzorcowymi. Pełne cyfrowe wersje źródeł nie powinny być umieszczane tutaj, ale raczej linkowane w polu **Zasoby zewnętrzne (856)**.
+Baza danych **Obiektów cyfrowych**zawiera wszystkie obrazy, które zostały przesłane do Muscat. Baza danych jest przeznaczona do przechowywania i wyświetlania pojedynczych obrazów, które służą do zilustrowania danego punktu w rekordzie, takiego jak znak wodny, oprawa lub próbka pisma ręcznego. Jest również miejscem przechowywania incipitów w formacie MEI. Obrazy można łączyć z rekordami źródłowymi, jak również z rekordami wzorcowymi. Pełne cyfrowe wersje źródeł nie powinny być umieszczane tutaj, ale raczej linkowane w polu **Zasoby zewnętrzne (856)**.
 
 Można dodać zdjęcie w formatach (.jpg, .png) klikając na **Załącz nowe zdjęcie** podczas edycji źródła. Zawsze należy dodawać krótki opis, np. opis znaku wodnego, lokalizacji w źródle lub siglum. Pomoże to znaleźć je później. Obrazy są wyświetlane w kolejności, w jakiej są powiązane z rekordem.
 

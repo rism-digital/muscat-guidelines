@@ -10,7 +10,7 @@ Wpisać nazwę osoby odpowiedzialnej za kompozycję. Może to być kompozytor (w
 
 Jeżeli źródło posiada wielu kompozytorów, wybierz jednego i wprowadź w tym polu, natomiast pozostałych dodaj w polu **Dodatkowa osoba (700)** wybierając dla nich funkcję **Współkompozytor**.
 
-Jeśli źródło jest anonimowe, ale możliwym jest określenie kompozytora, wprowadź nazwę kompozytora i wybierz odpowiedni kwalifikator atrybucji. Jeśli nie możesz określić kompozytora, wprowadź nazwę **Anonymus**, ale pomiń kwalifikator atrybucji. Nazwa **Compilations** wykorzystywana jest dla pasticcios lub kompilacji.
+Jeśli źródło jest anonimowe, ale możliwe jest określenie kompozytora, wprowadź nazwę kompozytora i wybierz odpowiedni kwalifikator atrybucji. Jeśli nie możesz określić kompozytora, wprowadź nazwę **Anonymus**, ale pomiń kwalifikator atrybucji. Nazwa **Compilations** wykorzystywana jest dla pasticcios lub kompilacji.
 
 Pole to jest powiązane z kartoteką haseł wzorcowych **Osoby** poprzez podpole $0, dzięki czemu daty życia wyświetlane są poprzez podpole $d.
 
@@ -23,6 +23,6 @@ Jeśli wpiszesz kompozytora jako **Anonymus,** nie wprowadzaj kwalifikatora atry
 - **Rzekomy** oznacza nazwę występującą w źródle, lecz jej atrybucja jest podważalna lub wątpliwa.
 - **Ustalony** oznacza nazwę, która jest częściowo obecna lub całkowicie nieobecna w źródle, lecz jej atrybucja jest (w miarę) pewna i opiera się na konkordancjach, literaturze pomocniczej lub innych źródeł naukowych. Jest to przypadek najczęstszy.
 - **Domyślny** jest domysłem opartym na drugorzędnych dowodach (takich jak literatura pomocnicza).
-- **Błędnie przypisany** oznacza, że nazwa w źródle jest obecna, lecz jest nieprawidłowa. Jeżeli źródło jest anonimowe, pozostał to pole puste.
+- **Błędnie przypisany** oznacza, że nazwa w źródle jest obecna, lecz jest nieprawidłowa. Jeżeli źródło jest anonimowe, pozostaw to pole puste.
 
 **Przestarzałe procedury**: Starsze wytyczne katalogowania RISM umożliwiły przypisanie **Zweryfikowane.** Atrybucja była wykorzystywana w sytuacji kiedy nazwa na źródle była taka sama jak w RISM. Praktyka ta została przerwana wraz z wprowadzeniem programu Muscat. **Wątpliwy** oznacza, że autorstwo jest niepewne; zostało to usunięte, a pozostałe atrybucje doprecyzowane w 2024 r.

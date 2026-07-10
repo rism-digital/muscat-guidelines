@@ -1,14 +1,14 @@
-### Opus number (383)
+### Opus numer (383)
 
-The field **Opus number** is for the opus number as it appears on the source.
+W polu **Opus numer** podajemy numer opus, jaki widnieje na źródle.
 
-#### Opus number (383 $b)
+#### Opus numer (383 $b)
 
-Enter the opus number here if it appears on the source, preceded by **op.**. Separate individual movements with a slash.
+Podać numer opus, jeśli znajduje się w źródle, poprzedzając go skrótem **op.** Oddzielić poszczególne pozycje w opus ukośnikiem.
 
-If you determine the opus number from the secondary literature, enter it in square brackets. Make sure the literature is then cited as either a **Catalog of works (690)** or **Bibliographic reference (691)**.
+W razie ustalenia numeru opus na podstawie literatury pomocniczej, należy go zamieścić w nawiasie kwadratowym. Literaturę pomocniczą należy podać w polach **Katalog utworów (690)** lub **Odniesienie Bibliograficzne (691)**.
 
-##### Examples
+##### Przykłady
 
 - op. 31
 - op. 54/1

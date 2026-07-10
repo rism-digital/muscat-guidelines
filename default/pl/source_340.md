@@ -1,38 +1,38 @@
-### Special production technique (340)
+### Specjalna technika wytworzenia (340)
 
-The field **Special production technique** is for the physical description information for an item that required technical equipment for its production, and for the description of the page format.
+Pole **Specjalna technika wytworzenia** służy do fizycznego opisu katalogowanej pozycji, do której produkcji niezbędne było wyposażenie techniczne, oraz do opisu formatu strony.
 
-#### Printing technique (340 $d)
+#### Technika drukarska (340 $d)
 
-Indicate the technique used in the production of the source here. If you need any term not on the list, contact the Editorial Center.
+Można tu wskazać zastosowaną technikę przy wytworzeniu źródła. Jeśli potrzebny jest termin, którego nie ma na liście, należy skontaktować się z Editorial Center.
 
-- **Autography**: Transfer printing (not to be confused with autograph manuscripts).
-- **Computer printout**
-- **Engraving**
-- **Lithography**
-- **Offset printing**
-- **Photoreproductive process (blueprint)**: Includes Cyanotype, diazo print, blueprint.
-- **Reproduction**: Many types of mechanical reproductions are included here, such as photocopy, xerocopy, heliography.
-- **Transparency**
-- **Typescript**
-- **Typography**: Includes music printed using movable type.
-- **Woodcut**
+- **Autografia**: druk transferowy (nie mylić z rękopisami autografami).
+- **Wydruk komputerowy**
+- **Sztych**
+- **Litografia**
+- **Druk offsetowy**
+- **Proces optyczny (światłokopia)**: obejmuje Cyanotyp, diazo print, blueprint.
+- **Reprodukcja**: wiele typów reprodukcji mechanicznych, takich jak fotokopia, kserokopia, heliografia.
+- **Przezrocze**
+- **Maszynopis**
+- **Typografia**: obejmuje nuty drukowane przy użyciu ruchomej czcionki.
+- **Drzeworyt**
 
-Any additions or comments about the printing technique may be explained in the field **General note (500 $a)**.
+Wszelkie uzupełnienia lub komentarze dotyczące techniki druku można zawrzeć w polu **Uwaga ogólna (500 $a)**.
 
-If a source includes multiple printing techniques, you may repeat the field to indicate each technique. Include a note in the field **General note (500 $a)** to explain.
+Jeśli w źródle zastosowano wiele technik druku, można powtórzyć pole, aby podać każdą z nich z osobna. W polu **Uwaga ogólna (500 $a)** należy zawrzeć wyjaśnienie.
 
-##### Example
+##### Przykład
 
-Engraved music that has a lithographed title page:
+Sztychowane nuty z litografowaną stroną tytułową:
 
-- **Special production technique (340 $d)**: Engraving
-- **Special production technique (340 $d)**: Lithography
-- **General note (500 $a)**: Music engraved. Title page lithographed.
+- **Specjalna technika wytworzenia (340 $d)**: Sztych
+- **Specjalna technika wytworzenia (340 $d)**: Litografia
+- **Uwaga ogólna (500 $a)**: Nuty sztychowane. Strona tytułowa litografowana.
 
-#### Book format (340 $m)
+#### Format książki (340 $m)
 
-Select the format of the book. The book format results from folding a sheet to form a gathering of leaves. For example, a sheet folded once formats a folio, twice is a quarto, three times is an octavo. Select from the following:
+Wybierz format książki. Format książki wynika ze złożenia arkusza. Przykładowo, arkusz złożony raz, tworzy folio, dwa razy, tworzy kwarto, trzy razy, tworzy oktavo. Wybrać jedną z poniższych opcji:
 
 - **2°**: folio, fo
 - **4°**: quarto, 4to
@@ -42,7 +42,7 @@ Select the format of the book. The book format results from folding a sheet to f
 - **18°**: octodecimo, eighteenmo, 18mo
 - **20°**: vigesimo, twentymo, 20mo
 - **24°**: vigesimo-quarto, twenty-fourmo, 24mo
-- **obl. 2°**: oblong folio
-- **obl. 4°**: oblong quarto
-- **obl. 8°**: oblong octavo
-- **obl. 12°**: oblong duodecimo  
+- **obl. 2°**: podłużne folio
+- **obl. 4°**: podłużne quarto
+- **obl. 8°**: podłużne octavo
+- **obl. 12°**: podłużne duodecimo  

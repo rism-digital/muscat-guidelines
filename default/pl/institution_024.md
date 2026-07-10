@@ -1,10 +1,10 @@
 ### Inny identyfikator znormalizowany (024)
 
-Pole **Inny identyfikator znormalizowany ** jest używane do zapisywania standardowego numeru lub kodu lub URI powiązanych z instytucją.
+Pole **Inny identyfikator znormalizowany** jest używane do zapisywania standardowego numeru, kodu lub URI powiązanych z instytucją.
 
 #### Numer lub kod (024 $a)
 
-Kod ma być kodem autorytatywnym pobranym od uprawnionej agencji. Wprowadzić alfanumeryczny kod stosowany do identyfikacji instytucji. Przykłady formatowania podano poniżej.
+Kod ma być kodem autorytatywnym pobranym od uprawnionej agencji. Należy wprowadzić alfanumeryczny kod stosowany do identyfikacji instytucji. Przykłady formatowania podano poniżej.
 
 #### Warunki dostępności (024 $c)
 
@@ -16,7 +16,7 @@ Wprowadź opcjonalnie cyfry znajdujące się po prawej stronie numeru lub kodu.
 
 #### Informacje kwalifikacyjne (024 $q)
 
-Wprowadzić krótką informację kwalifikacyjną dotyczącą pozycji związanej z liczbą zapisywaną w podpolu $a lub $z.
+Wprowadź krótką informację kwalifikacyjną, dotyczącą pozycji związanej z liczbą zapisywaną w podpolu $a lub $z.
 
 #### Unieważniony numer lub kod (024 $z)
 

@@ -8,11 +8,11 @@ Pole **Skrócony tytuł** jest unikalnym skrótem przypisanym do rekordu w ramac
 
 Należy wpisać skrócony tytuł zgodnie z poniższymi wskazówkami. Skrócone tytuły mogą być wykorzystane tylko raz.
 
-Skróconych tytułów nie trzeba tworzyć dla serii i zebranych tomów esejów. Dla tego rodzaju publikacji, skrócony tytuł wprowadza się dla indywidualnych rekordów poświęconych artykułom lub rozdziałom.
+Skróconych tytułów nie trzeba tworzyć dla serii i zebranych tomów esejów. Dla tego rodzaju publikacji skrócony tytuł wprowadza się dla indywidualnych rekordów poświęconych artykułom lub rozdziałom.
 
 Skrócony tytuł odnosi się tylko do opisywanego w rekordzie wydania. Dla różnych wydań należy tworzyć oddzielne rekordy.
 
-Poniżej opisano jak tworzyć skrócone tytuły w ** ogólnej literaturze pomocniczej**, **katalogach dzieł** i **szczególnych przypadkach**.
+Poniżej opisano jak tworzyć skrócone tytuły w **ogólnej literaturze pomocniczej**, **katalogach dzieł** i **szczególnych przypadkach**.
 
 ##### Ogólna literatura pomocnicza
 
@@ -20,7 +20,7 @@ Skrócone tytuły dla **ogólnej literatury pomocniczej** są tworzone w następ
 
 - **Nazwisko** autora lub redaktora  
   _Nazwiska dwuczłonowe lub złożone należy podawać w pełnym brzmieniu._
-- **Pierwszą litera** słowa kluczowego z tytułu, pisaną wielką literą  
+- **Pierwsza litera** słowa kluczowego z tytułu, pisana wielką literą  
   _Zazwyczaj imię kompozytora lub nazwa miejsca, w przeciwnym razie należy wybrać inne ważne słowo_
 - **Spacja**
 - **Rok** wydania
@@ -82,7 +82,7 @@ W przypadku gdy nie podano autora, należy użyć jedno lub dwa słowa kluczowe.
 - _Verzeichnis der von dem verstorbenen Grossh. Badischen Prof. der Rechte und Geheimrathe Dr. Anton Friedrich Justus Thibaut zu Heidelberg hinterlassenen Musikaliensammlung welche als ein Ganzes ungetrennt veräussert werden soll_ (Heidelberg, 1842).  
   → VerzeichnisThibaut 1842
 
-Dla dzieł wielotomowych wydawanych na przestrzeni wielu lat, należy podać tylko pierwszy rok.
+Dla dzieł wielotomowych wydawanych na przestrzeni wielu lat należy podać tylko pierwszy rok.
 
 ###### Przykład
 
@@ -103,7 +103,7 @@ Jeżeli rok wydania znany jest jedynie w przybliżeniu, należy dodać **ca.** (
 - Philipp Fahrbach (der Ältere), _Kärnthner-Lieder Walzer für das Piano-Forte [...] op. 230_ (Wiedeń, C.A. Spina, ca. 1850).  
   → FahrbachK 1850
 
-W przypadku powszechnie znanych encyklopedii lub zbiorów zamiast tytułów skróconych należy stosować ich powszechnie używane skróty lub nazwy (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
+W przypadku powszechnie znanych encyklopedii lub zbiorów, zamiast tytułów skróconych należy stosować ich powszechnie używane skróty lub nazwy (MGG, Thieme-Becker, DTÖ, FTA, Stuttgarter Schütz-Ausgabe).
 
 ##### Katalogi dzieł
 
@@ -113,11 +113,11 @@ Skrócone tytuły dla **katalogów dzieł** są tworzone w następujący sposób
 
 Nie ma potrzeby podawania roku wydania.
 
-Katalog opublikowany jako część większej serii, na przykład dodatek do książki może być wpisany jako katalog dzieł.
+Katalog opublikowany jako część większej serii, na przykład dodatek do książki, może być wpisany jako katalog dzieł.
 
 ###### Przykłady
 
-- A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
+- A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. A. Craig Bell, _Handel: Chronological Thematic Catalogue_ (Darley: Grain-Aig Press, 1972).  
   → BelH
 - Walter Knape, _Bibliographisch-thematisches Verzeichnis der Kompositionen von Karl Friedrich Abel (1723-1787)_ (Cruxhaven: W. Knape, 1971).  
   → KnaA
@@ -126,7 +126,7 @@ Katalog opublikowany jako część większej serii, na przykład dodatek do ksi�
 - Bruno Scheithauer, _Verzeichniss sämtlicher gedruckten Werke Dr. Carl Loewe’s_ (Berlin, 1886).  
   → SchL
 
-Należy wykorzystywać powszechnie używane skróty dla katalogów dzieł jeżeli istnieją (BWV, KV, Hob., itd.) lub skróty funkcjonujące w ramach samego katalogu, pod warunkiem, że skrót już nie istenieje w Muscat.
+Należy wykorzystywać powszechnie używane skróty dla katalogów dzieł, jeżeli istnieją (BWV, KV, Hob., itd.) lub skróty funkcjonujące w ramach samego katalogu, pod warunkiem, że skrót już nie istnieje w Muscat.
 
 ###### Przykłady
 
@@ -140,7 +140,7 @@ Należy wykorzystywać powszechnie używane skróty dla katalogów dzieł jeżel
 
 ##### Przypadki specjalne
 
-W pierwszym przypadku należy nadać tytuł skrócony jak w przypadku katalogu dzieł. Publikacje zawierające w swych tytułach termin „katalog tematyczny” zazwyczaj są katalogami dzieł kompoztora, mogą niekeidy dotyczyć też innej tematyki lub mieć niezbyt rozległy zakres. W drugim przypadku, tytuł skrócony należy podać jak w ogólnej literaturze pomocniczej. W skrócie mówiąc: Wszystkiemu, co nie jest katalogiem dzieł, przypisuje się tytuł skrócony stosowany w przypadku literatury pomocniczej.
+W pierwszym przypadku należy nadać tytuł skrócony jak w przypadku katalogu dzieł. Publikacje zawierające w swych tytułach termin „katalog tematyczny” zazwyczaj są katalogami dzieł kompozytora, mogą niekiedy dotyczyć też innej tematyki lub mieć niezbyt rozległy zakres. W drugim przypadku tytuł skrócony należy podać jak w ogólnej literaturze pomocniczej. Krótko mówiąc, wszystkiemu, co nie jest katalogiem dzieł, przypisuje się tytuł skrócony stosowany w przypadku literatury pomocniczej.
 
 ###### Przykłady
 

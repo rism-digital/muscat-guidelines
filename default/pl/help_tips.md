@@ -2,7 +2,7 @@
 
 #### 1. Jak mogę dodać obrazy do rekordu?
 
-Małe obrazy takie jak znaki wodne, próbki pisma, lub szycia mogą być dołączone do rekordu bezpośrednio z trybie edycji: kliknij na **Dołącz nowy obraz** w panelu po prawej stronie. Zobacz sekcję **Nowy Obiekt cyfrowy**, aby uzyskać więcej informacji.
+Małe obrazy takie jak znaki wodne, próbki pisma, lub szycia mogą być dołączone do rekordu bezpośrednio w trybie edycji: kliknij na **Dołącz nowy obraz** w panelu po prawej stronie. Zobacz sekcję **Nowy Obiekt cyfrowy**, aby uzyskać więcej informacji.
 
 Obrazy takie jak zdigitalizowane źródła powinny być dodawane tylko jako adresy URL, które łączą się z repozytorium przechowywania. Te są dodawane w polu **Zasoby zewnętrzne (856)**.
 
@@ -19,9 +19,9 @@ Muscat obsługuje Unicode (UTF-8), więc upewnij się, że wszystkie znaki specj
 Foldery mogą być stworzone z dowolnej strony wyszukiwania źródeł lub haseł wzorcowych w Muscacie. Foldery mogą pomagać w wyszukiwaniu i mogą być używane do wykonywania zbiorczych działań przez panel folderu. Rozmiary folderów są ograniczone do 25 000 rekordów.
 
 ##### Tworzenie i dodawanie do folderów
-Istnieją dwa sposoby tworzenia folderów. Z strony wyszukiwania wybierz rekordy, zaznaczając pole po lewej stronie obok każdego rekordu. W **Działania wsadowe** powyżej listy rekordów po lewej stronie, kliknij **Utwórz folder z pozycjami**. Nazwij folder i kliknij przycisk **OK.** Z przycisku **Działania zbiorcze** możesz również dodać rekordy do już istniejącego folderu. Wybór rekordów jest zachowany tylko na bieżącej stronie wyników. Ta metoda umożliwia dodanie do nowego lub istniejącego folderu maksymalnie 1000 rekordów (maksymalna liczba wyników na stronie wyszukiwania).
+Istnieją dwa sposoby tworzenia folderów. Ze strony wyszukiwania wybierz rekordy, zaznaczając pole po lewej stronie obok każdego rekordu. W **Działania wsadowe** powyżej listy rekordów po lewej stronie, kliknij **Utwórz folder z pozycjami**. Nazwij folder i kliknij przycisk **OK.** Z przycisku **Działania zbiorcze** możesz również dodać rekordy do już istniejącego folderu. Wybór rekordów jest zachowany tylko na bieżącej stronie wyników. Ta metoda umożliwia dodanie do nowego lub istniejącego folderu maksymalnie 1000 rekordów (maksymalna liczba wyników na stronie wyszukiwania).
 
-Drugim sposobem na stworzenie folderu jest przeprowadzenie wyszukiwania, a następnie wyszukanie listy **Działania** po prawej stronie strony. Klikając na **Dodaj wszystko do nowego folderu**, wszystkie wyniki wyszukiwania zostaną dodane do nowego folderu. Nazwij folder i zapisz. Klikając na **Dodaj wszystko do istniejącego folderu,** możesz wybrać folder z listy folderów. Ta metoda umożliwia dodawanie do folderu maksymalnie 25 000 rekordów (maksymalny rozmiar folderu).
+Drugim sposobem na stworzenie folderu jest przeprowadzenie wyszukiwania, a następnie wyszukanie listy **Działania** po prawej stronie strony. Klikając na **Dodaj wszystko do nowego folderu**, wszystkie wyniki wyszukiwania zostaną dodane do nowego folderu. Nazwij folder i zapisz. Klikając na **Dodaj wszystko do istniejącego folderu, ** możesz wybrać folder z listy folderów. Ta metoda umożliwia dodawanie do folderu maksymalnie 25 000 rekordów (maksymalny rozmiar folderu).
 
 ##### Wyszukiwanie za pośrednictwem folderów
 
@@ -53,6 +53,6 @@ Jeśli zapisujesz incipit muzyczny za pośrednictwem zewnętrznego programu (tak
 
 Tylko Editorial Center może usunąć rekord. Powiadom RISM Editorial Center o konieczności usunięcia rekordu, w tym informacji o egzemplarzu.
 
-#### 9. Co jeśli mój rekord jest skatalogowany w złym szablonie?
+#### 9. Co, jeśli mój rekord jest skatalogowany w złym szablonie?
 
-Szablony mogą zostać zmienione, ale tylko Editorial Center może to zrobić. Powiadom RISM Editorial Center jeśli potrzebujesz zmiany szablonu rekordu.
+Szablony mogą zostać zmienione, ale tylko Editorial Center może to zrobić. Powiadom RISM Editorial Center, jeśli potrzebujesz zmiany szablonu rekordu.
