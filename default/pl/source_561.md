@@ -1,10 +1,10 @@
-### Provenance note (561)
+### Uwaga o proweniencji (561)
 
-The field **Provenance note** is for information about the ownership of the item before it came into possession of the holding library.
+W polu **Uwaga o proweniencji** należy wpisywać uwagi dotyczące proweniencji danej pozycji zanim weszła w posiadanie instytucji.
 
-#### Provenance note (561 $a)
+#### Uwaga o proweniencji (561 $a)
 
-Use this field for general notes about the provenance of the item as well as ownership marks. Enter using your cataloging language.
+W polu tym należy wpisywać uwagi ogólne na temat proweniencji danej pozycji, jak również znaków własności. Należy stosować własny język katalogowania.
 
 If ownership marks are present on the source, enter them exactly as they appear on the source, in quotation marks. Include the place on the source where the marks are found. Enter the standardized forms of the personal names in the field **Additional personal name (700)** and institutions in **Additional institution (710)**. Note: Information about how the current holding institution acquired the item goes in the field **Source of acquisition (541)**.
 
